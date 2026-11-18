@@ -223,18 +223,26 @@ label();build();
  let canStore=true;try{localStorage.setItem('__t','1');localStorage.removeItem('__t')}catch(e){canStore=false}
  if(!canStore){const w=document.createElement('div');w.style.cssText='background:#fdecea;color:#b42318;padding:10px 12px;font-size:14px;text-align:center';
   w.textContent='This view cannot save progress. Open this page in Chrome or Safari (not the WhatsApp preview).';document.body.prepend(w)}
- function code(){const o={};KEYS.forEach(k=>{try{const v=localStorage.getItem(k);if(v!==null)o[k]=v}catch(e){}});
-  return 'MCQ1:'+btoa(unescape(encodeURIComponent(JSON.stringify(o))))}
+ function code(){const o={};try{const r=JSON.parse(localStorage.getItem("__KEY___res_v1")||'{}');
+  o.r=Object.keys(r).map(k=>k+'|'+r[k].r+(r[k].p||'')).join(',');
+  const sl=localStorage.getItem("__KEY___sel_v1");if(sl!==null)o.s=sl}catch(e){}
+  return 'MCQ2:'+btoa(unescape(encodeURIComponent(JSON.stringify(o))))+'~'}
  $b('bkOpen').onclick=()=>{$b('bkOut').value=code();$b('bkMsg').textContent='';$b('bkSheet').hidden=false};
  $b('bkClose').onclick=()=>{$b('bkSheet').hidden=true};
  $b('bkSheet').addEventListener('click',e=>{if(e.target.id==='bkSheet')$b('bkSheet').hidden=true});
  $b('bkCopy').onclick=async()=>{const t=$b('bkOut');try{await navigator.clipboard.writeText(t.value);$b('bkMsg').textContent='Copied. Paste it somewhere safe.'}
   catch(e){t.focus();t.select();$b('bkMsg').textContent='Select the code above and copy it manually.'}};
- $b('bkRestore').onclick=()=>{let s=$b('bkIn').value.trim();try{if(!s.startsWith('MCQ1:'))throw 0;
-  const o=JSON.parse(decodeURIComponent(escape(atob(s.slice(6)))));let n=0;
-  Object.keys(o).forEach(k=>{if(KEYS.includes(k)){localStorage.setItem(k,o[k]);n++}});
-  if(!n)throw 0;$b('bkMsg').textContent='Restored. Reloading...';setTimeout(()=>location.reload(),600)}
-  catch(e){$b('bkMsg').textContent='That code is not valid. Check you pasted the whole code.'}};
+ $b('bkRestore').onclick=()=>{const raw=$b('bkIn').value;const msg=$b('bkMsg');
+  try{const m=raw.match(/MCQ([12]):([\s\S]*)/i);if(!m)throw 'It must start with MCQ1: or MCQ2:';
+   let b=m[2].split('~')[0].replace(/[^A-Za-z0-9+\/=_-]/g,'').replace(/-/g,'+').replace(/_/g,'/').replace(/=+$/,'');
+   while(b.length%4)b+='=';
+   let o;try{o=JSON.parse(decodeURIComponent(escape(atob(b))))}catch(e){throw 'The code looks cut off or changed ('+b.length+' characters read). Copy the whole code again.'}
+   let res;
+   if(m[1]==='2'){res={};String(o.r||'').split(',').forEach(t=>{const p=t.split('|');if(p.length===2&&p[1].length>=1)res[p[0]]={r:p[1][0],p:p[1].slice(1)}});
+    localStorage.setItem("__KEY___res_v1",JSON.stringify(res));if(o.s!==undefined)localStorage.setItem("__KEY___sel_v1",o.s)}
+   else{let n=0;Object.keys(o).forEach(k=>{if(KEYS.includes(k)){localStorage.setItem(k,o[k]);n++}});if(!n)throw 'Nothing found in that code';res=JSON.parse(localStorage.getItem("__KEY___res_v1")||'{}')}
+   msg.textContent='Restored '+Object.keys(res).length+' answers. Reloading...';setTimeout(()=>location.reload(),800)}
+  catch(e){msg.textContent=typeof e==='string'?e:'That code is not valid. Copy the whole code and paste it again.'}};
 })();
 </script>
 
