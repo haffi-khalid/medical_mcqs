@@ -1,0 +1,407 @@
+[
+ {
+  "cids": [
+   "C0198"
+  ],
+  "stem": "A 36-year-old woman presents with weight gain, moon face, purple striae and hypertension. Serum cortisol and ACTH are both elevated. What is the most likely diagnosis?",
+  "options": {
+   "A": "Adrenal adenoma",
+   "B": "Ectopic ACTH secretion",
+   "C": "Cushing's disease",
+   "D": "Exogenous steroid use",
+   "E": "Adrenal carcinoma"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "ACTH-dependent Cushing's in a young woman is most often a pituitary adenoma (Cushing's disease, about 70% of endogenous cases). Adrenal tumours and exogenous steroids suppress ACTH; ectopic ACTH is usually in older smokers with marked hypokalaemia.",
+  "key_note": "",
+  "figure": "",
+  "qid": "29-1"
+ },
+ {
+  "cids": [
+   "C0199"
+  ],
+  "stem": "A 55-year-old man presents with resistant hypertension and muscle weakness. Tests show hypernatraemia, hypokalaemia and metabolic alkalosis, with low renin and elevated aldosterone. What is the most likely diagnosis?",
+  "options": {
+   "A": "Secondary hyperaldosteronism",
+   "B": "Liddle's syndrome",
+   "C": "Cushing's syndrome",
+   "D": "Adrenal insufficiency",
+   "E": "Conn's syndrome"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Primary hyperaldosteronism (Conn's) gives high aldosterone with suppressed renin. Secondary hyperaldosteronism has high renin, and Liddle's syndrome has both renin and aldosterone low.",
+  "key_note": "",
+  "figure": "",
+  "qid": "29-2"
+ },
+ {
+  "cids": [
+   "C0802"
+  ],
+  "stem": "The most likely diagnosis in a patient with hypertension, hypokalaemia and a 7 cm suprarenal mass is:",
+  "options": {
+   "A": "Hypernephroma",
+   "B": "Cushing's disease",
+   "C": "Adrenocortical carcinoma",
+   "D": "Phaeochromocytoma"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Adrenal masses over 6 cm are highly suspicious for adrenocortical carcinoma, which is often functional (cortisol and/or aldosterone excess causing hypertension and hypokalaemia). Conn's adenomas are typically small (under 2 cm).",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "29-3"
+ },
+ {
+  "cids": [
+   "C0195"
+  ],
+  "stem": "A 38-year-old woman presents with progressive fatigue, weight loss and hyperpigmentation of the skin and oral mucosa. She has hyponatraemia, hypoglycaemia and hyperkalaemia, with a low cortisol and raised ACTH. What is the most likely diagnosis?",
+  "options": {
+   "A": "Secondary adrenal insufficiency",
+   "B": "Addison's disease",
+   "C": "Cushing's syndrome",
+   "D": "Conn's syndrome",
+   "E": "Adrenal medullary tumour"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Primary adrenal failure (Addison's) gives low cortisol with high ACTH; the ACTH/POMC excess causes pigmentation, and aldosterone loss causes hyperkalaemia. Secondary insufficiency has low ACTH and no pigmentation.",
+  "key_note": "",
+  "figure": "",
+  "qid": "29-4"
+ },
+ {
+  "cids": [
+   "C0196"
+  ],
+  "stem": "A 45-year-old man on long-term oral prednisone for rheumatoid arthritis abruptly stops it. He presents with fatigue, hypotension and nausea, with low cortisol and ACTH and no hyperpigmentation. What is the most likely cause?",
+  "options": {
+   "A": "Adrenal haemorrhage",
+   "B": "Autoimmune destruction of adrenal cortex",
+   "C": "Pituitary suppression",
+   "D": "Congenital enzyme defect",
+   "E": "Adrenal tuberculosis"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Long-term exogenous steroids suppress the hypothalamic-pituitary axis, so abrupt withdrawal produces secondary adrenal insufficiency with low ACTH and no pigmentation. The other options are primary adrenal causes with high ACTH.",
+  "key_note": "",
+  "figure": "",
+  "qid": "29-5"
+ },
+ {
+  "cids": [
+   "C0712"
+  ],
+  "stem": "A 45-year-old woman with rheumatoid arthritis on chronic steroids has been unable to refill her medications, including atenolol, methotrexate and prednisone. She presents to the emergency department with fever, hypotension, nausea and dizziness. The next best step is:",
+  "options": {
+   "A": "IV antibiotics",
+   "B": "IV hydrocortisone",
+   "C": "IV fluids",
+   "D": "Oral methotrexate",
+   "E": "Complete blood count, basic metabolic panel and cortisol level"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Suspected adrenal crisis from steroid withdrawal is treated immediately with IV hydrocortisone (100 mg) alongside fluid resuscitation; treatment must not wait for a cortisol result.",
+  "key_note": "",
+  "figure": "",
+  "qid": "29-6"
+ },
+ {
+  "cids": [
+   "C0185"
+  ],
+  "stem": "A patient undergoes resection of a large retroperitoneal mass. Postoperatively they develop severe hypotension and tachycardia unresponsive to fluids, with hyponatraemia and hyperkalaemia. Which complication is most likely?",
+  "options": {
+   "A": "Intra-abdominal abscess",
+   "B": "Haematoma with bleeding",
+   "C": "Acute adrenal insufficiency",
+   "D": "Pancreatic leak",
+   "E": "Bowel ischaemia"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Fluid-refractory hypotension with hyponatraemia and hyperkalaemia after retroperitoneal surgery suggests acute adrenal insufficiency (adrenal removal or injury, or unrecognised suppression); treat with IV hydrocortisone. Haemorrhage would not cause hyperkalaemia with hyponatraemia.",
+  "key_note": "",
+  "figure": "",
+  "qid": "29-7"
+ },
+ {
+  "cids": [
+   "C0201"
+  ],
+  "stem": "A 10-year-old boy with meningococcal sepsis suddenly develops hypotension, DIC and shock. Cortisol is low and autopsy reveals bilateral adrenal haemorrhage. What is the most likely diagnosis?",
+  "options": {
+   "A": "Addison's disease",
+   "B": "Congenital adrenal hyperplasia",
+   "C": "Secondary adrenal insufficiency",
+   "D": "Waterhouse-Friderichsen syndrome",
+   "E": "Phaeochromocytoma"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Waterhouse-Friderichsen syndrome is acute bilateral adrenal haemorrhagic infarction in fulminant sepsis, classically meningococcal, causing acute adrenal failure.",
+  "key_note": "",
+  "figure": "",
+  "qid": "29-8"
+ },
+ {
+  "cids": [
+   "C0200"
+  ],
+  "stem": "A 2-week-old girl presents with vomiting, dehydration and ambiguous genitalia. She has hyponatraemia, hyperkalaemia and a low cortisol. Which enzyme deficiency is most likely?",
+  "options": {
+   "A": "17-alpha-hydroxylase",
+   "B": "21-hydroxylase",
+   "C": "11-beta-hydroxylase",
+   "D": "3-beta-hydroxysteroid dehydrogenase",
+   "E": "Aromatase"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "21-hydroxylase deficiency (over 90% of congenital adrenal hyperplasia) blocks cortisol and aldosterone, shunting precursors to androgens: virilised girls and salt-wasting crisis. 11-beta-hydroxylase deficiency causes hypertension instead.",
+  "key_note": "",
+  "figure": "",
+  "qid": "29-9"
+ },
+ {
+  "cids": [
+   "C0574"
+  ],
+  "stem": "A 38-year-old woman presents with headache and flushing. She is tachycardic and anxious. A relative died of a thyroid tumour. What is the most appropriate initial investigation?",
+  "options": {
+   "A": "Chest X-ray",
+   "B": "Measurement of 5-HIAA",
+   "C": "Measurement of catecholamines",
+   "D": "Thyroid function tests",
+   "E": "FNAC of thyroid"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Paroxysmal symptoms with a family history of thyroid (medullary) cancer suggest MEN 2 with phaeochromocytoma, so catecholamines/metanephrines are measured first; a phaeochromocytoma must be excluded before any thyroid surgery. 5-HIAA is for carcinoid.",
+  "key_note": "",
+  "figure": "",
+  "qid": "29-10"
+ },
+ {
+  "cids": [
+   "C0197",
+   "C1393"
+  ],
+  "stem": "A 42-year-old woman has episodic headaches, palpitations and sweating, with BP 190/110 mmHg during an episode. Plasma metanephrines are elevated. Which is the most appropriate next step before surgery?",
+  "options": {
+   "A": "Beta-blocker therapy",
+   "B": "Alpha-blockade",
+   "C": "CT-guided adrenal biopsy",
+   "D": "ACE inhibitor therapy",
+   "E": "Loop diuretics"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Phaeochromocytoma is prepared with alpha-blockade (phenoxybenzamine or doxazosin) for 2-3 weeks with volume expansion; beta-blockers are added only after alpha-blockade to avoid unopposed alpha vasoconstriction. Biopsy can precipitate a crisis and is contraindicated.",
+  "key_note": "",
+  "figure": "",
+  "qid": "29-11"
+ },
+ {
+  "cids": [
+   "C0202"
+  ],
+  "stem": "A 63-year-old man is found incidentally to have a 3 cm adrenal mass on CT done for back pain. He is otherwise asymptomatic. Which is the next best step in management?",
+  "options": {
+   "A": "Immediate surgical removal without testing",
+   "B": "Measure plasma metanephrines",
+   "C": "Start glucocorticoid therapy",
+   "D": "Fine-needle aspiration biopsy",
+   "E": "Begin alpha-blockade"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Every adrenal incidentaloma needs functional work-up: metanephrines (to exclude phaeochromocytoma), overnight dexamethasone suppression test, and aldosterone/renin if hypertensive. FNA is avoided as it can provoke a phaeochromocytoma crisis.",
+  "key_note": "",
+  "figure": "",
+  "qid": "29-12"
+ },
+ {
+  "ncids": [
+   "K0328"
+  ],
+  "stem": "A 20-year-old man has headache, palpitations and sweating for one month. His serum catecholamine level is raised. Which is the best test to localise the phaeochromocytoma?",
+  "options": {
+   "A": "CT scan abdomen",
+   "B": "MIBG scan",
+   "C": "MRI abdomen",
+   "D": "Ultrasound abdomen",
+   "E": "X-ray abdomen"
+  },
+  "answer": "C",
+  "explanation": "Once biochemistry is positive, cross-sectional imaging localises the tumour; MRI is highly sensitive (bright on T2) and avoids contrast and radiation. MIBG or DOTATATE functional imaging is used for extra-adrenal, multiple or metastatic disease or when CT/MRI is negative.",
+  "key_note": "",
+  "_new": true,
+  "qid": "29-N1"
+ },
+ {
+  "ncids": [
+   "K0572"
+  ],
+  "stem": "A 16-year-old boy presents with right upper abdominal pain, headache, sweating and BP 170/100 mmHg. A right adrenal mass is suspected to be a phaeochromocytoma. Which imaging investigation confirms the functional nature of the tumour?",
+  "options": {
+   "A": "CT scan abdomen",
+   "B": "MRI scan abdomen",
+   "C": "Positron emission tomography scan",
+   "D": "MIBG scintigraphy",
+   "E": "Sestamibi scintigraphy"
+  },
+  "answer": "D",
+  "explanation": "123I-MIBG is taken up specifically by chromaffin tissue, so it confirms that a mass is a catecholamine-secreting phaeochromocytoma and detects extra-adrenal or metastatic disease. Sestamibi is for parathyroid localisation; biochemistry (metanephrines) is the first diagnostic test.",
+  "key_note": "",
+  "_new": true,
+  "qid": "29-N2"
+ },
+ {
+  "ncids": [
+   "K1100"
+  ],
+  "stem": "Which is the most appropriate management plan for a phaeochromocytoma?",
+  "options": {
+   "A": "Surgical resection, followed by beta-blockade, followed by alpha-blockade",
+   "B": "Lifelong beta- and alpha-blockade",
+   "C": "Surgical resection alone",
+   "D": "Beta-blockade, followed by alpha-blockade, followed by surgical resection",
+   "E": "Alpha-blockade, followed by beta-blockade, followed by surgical resection"
+  },
+  "answer": "E",
+  "explanation": "Alpha-blockade (phenoxybenzamine) with volume expansion must come first; a beta-blocker is added afterwards to control tachycardia, then the tumour is resected. Beta-blockade before alpha-blockade leaves unopposed alpha vasoconstriction and can precipitate a hypertensive crisis.",
+  "key_note": "",
+  "_new": true,
+  "qid": "29-N3"
+ },
+ {
+  "ncids": [
+   "K1112"
+  ],
+  "stem": "What is the commonest site of origin of neuroblastoma?",
+  "options": {
+   "A": "Adrenal cortex",
+   "B": "Adrenal medulla",
+   "C": "Bladder",
+   "D": "Spinal cord",
+   "E": "Sympathetic chain"
+  },
+  "answer": "B",
+  "explanation": "Neuroblastoma arises from neural crest cells of the sympathetic system, most commonly in the adrenal medulla (about half of cases), followed by the paravertebral sympathetic chain.",
+  "key_note": "",
+  "_new": true,
+  "qid": "29-N4"
+ },
+ {
+  "ncids": [
+   "K1329"
+  ],
+  "stem": "Regarding primary hyperaldosteronism, which of the following statements is WRONG?",
+  "options": {
+   "A": "It is more common in women than in men",
+   "B": "Most cases are due to an aldosterone-secreting adenoma of one adrenal",
+   "C": "There is increased potassium excretion in the urine",
+   "D": "Spironolactone is the first-line medical treatment"
+  },
+  "answer": "B",
+  "explanation": "Bilateral adrenal (zona glomerulosa) hyperplasia accounts for about 60% of primary hyperaldosteronism and an aldosterone-producing adenoma (Conn's) for about 35%. Aldosterone excess causes renal potassium wasting, and mineralocorticoid antagonists are the medical treatment.",
+  "key_note": "Bank keyed B, worded as 'most cases are due to hyperplasia of the zona glomerulosa', which is actually true on current data. Option B has been reworded to the adenoma statement so that it is genuinely the wrong one.",
+  "_new": true,
+  "qid": "29-N5"
+ },
+ {
+  "ncids": [
+   "K1330"
+  ],
+  "stem": "What is the most common site for extra-adrenal catecholamine-secreting paragangliomas?",
+  "options": {
+   "A": "Pelvis",
+   "B": "Abdominal para-aortic region",
+   "C": "Thoracic para-aortic region",
+   "D": "Urinary bladder"
+  },
+  "answer": "B",
+  "explanation": "Most extra-adrenal paragangliomas arise along the abdominal para-aortic sympathetic chain, particularly the organ of Zuckerkandl near the aortic bifurcation. The bladder is a recognised but less common site.",
+  "key_note": "Bank keyed D but highlighted B; correct is B because the abdominal para-aortic region (organ of Zuckerkandl) is the commonest extra-adrenal site.",
+  "_new": true,
+  "qid": "29-N6"
+ },
+ {
+  "ncids": [
+   "K1393"
+  ],
+  "stem": "Regarding Waterhouse-Friderichsen syndrome, which of the following statements is WRONG?",
+  "options": {
+   "A": "Massive bilateral adrenal haemorrhage occurs due to fulminating meningococcal septicaemia",
+   "B": "Most cases occur in infants and young children",
+   "C": "The onset is catastrophic with rigors, hyperpyrexia, cyanosis and vomiting",
+   "D": "Death occurs within 48 hours of onset unless correct treatment is given without delay",
+   "E": "Pituitary apoplexy is an associated finding"
+  },
+  "answer": "E",
+  "explanation": "Waterhouse-Friderichsen syndrome is acute adrenal failure from bilateral adrenal haemorrhage in fulminant meningococcal sepsis, mostly in young children, and is rapidly fatal without steroids and antibiotics. Pituitary apoplexy is a separate condition.",
+  "key_note": "",
+  "_new": true,
+  "qid": "29-N7"
+ },
+ {
+  "ncids": [
+   "K1394"
+  ],
+  "stem": "All of the following are true of neuroblastoma EXCEPT:",
+  "options": {
+   "A": "Over 50% occur in children below 2 years",
+   "B": "About 50% arise from the adrenal gland",
+   "C": "50% are malignant",
+   "D": "Many show stippled calcification on imaging"
+  },
+  "answer": "C",
+  "explanation": "Neuroblastoma is by definition a malignant embryonal tumour, although some in infancy regress spontaneously. It mostly affects young children, about half arise in the adrenal, and stippled calcification is characteristic.",
+  "key_note": "",
+  "_new": true,
+  "qid": "29-N8"
+ },
+ {
+  "ncids": [
+   "K1488"
+  ],
+  "stem": "A 30-year-old primigravida, 18 weeks pregnant, complains of headache, restlessness, sweating and tachycardia. Her blood pressure is 200/120 mmHg and phaeochromocytoma is suspected. Which imaging is appropriate in her work-up?",
+  "options": {
+   "A": "Exploratory laparotomy",
+   "B": "Mesenteric angiography",
+   "C": "Head CT scan",
+   "D": "Abdominal CT scan",
+   "E": "Abdominal ultrasound"
+  },
+  "answer": "E",
+  "explanation": "In pregnancy, after biochemical confirmation, imaging should avoid ionising radiation: ultrasound or non-contrast MRI is used to localise the adrenal mass. CT and angiography expose the fetus to radiation.",
+  "key_note": "",
+  "_new": true,
+  "qid": "29-N9"
+ },
+ {
+  "ncids": [
+   "K1530"
+  ],
+  "stem": "After bilateral adrenalectomy without replacement, death within a few days is due to the absence of:",
+  "options": {
+   "A": "Aldosterone",
+   "B": "Cortisol",
+   "C": "Bicarbonate",
+   "D": "Potassium",
+   "E": "Parathormone"
+  },
+  "answer": "A",
+  "explanation": "Loss of aldosterone causes rapid renal sodium and water loss with hyperkalaemia, leading to circulatory collapse within days, which is why mineralocorticoid (or salt) replacement is life-saving. Cortisol deficiency kills more slowly unless the patient is stressed.",
+  "key_note": "",
+  "_new": true,
+  "qid": "29-N10"
+ }
+]

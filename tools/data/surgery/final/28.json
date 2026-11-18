@@ -1,0 +1,334 @@
+[
+ {
+  "cids": [
+   "C0029"
+  ],
+  "stem": "Which one of the following is a cause of hypercalcaemia?",
+  "options": {
+   "A": "Hypothyroidism",
+   "B": "Hyperparathyroidism",
+   "C": "Hypoparathyroidism",
+   "D": "Intestinal tumours",
+   "E": "Gastric tumours"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Primary hyperparathyroidism is the commonest cause of hypercalcaemia in outpatients, and malignancy the commonest in inpatients. Hypoparathyroidism causes hypocalcaemia.",
+  "key_note": "",
+  "figure": "",
+  "qid": "28-1"
+ },
+ {
+  "cids": [
+   "C1150",
+   "C0948"
+  ],
+  "stem": "A 50-year-old woman presents with kidney stones, bone pain and abdominal pain. Serum calcium and PTH are both elevated. What is the most likely diagnosis?",
+  "options": {
+   "A": "Hypoparathyroidism",
+   "B": "Parathyroid carcinoma",
+   "C": "Primary hyperparathyroidism",
+   "D": "Pseudohypoparathyroidism",
+   "E": "Secondary hyperparathyroidism"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "High calcium with high PTH is primary hyperparathyroidism, about 85% due to a single adenoma. Carcinoma is rare (under 1%) and suggested by very high calcium and a palpable, invasive mass.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "28-2"
+ },
+ {
+  "cids": [
+   "C0193"
+  ],
+  "stem": "A 40-year-old man presents with peptic ulcer disease, recurrent renal stones and symptoms of hypoglycaemia. Serum calcium and PTH are elevated. Which genetic syndrome best explains these findings?",
+  "options": {
+   "A": "MEN type 1",
+   "B": "MEN type 2A",
+   "C": "MEN type 2B",
+   "D": "McCune-Albright syndrome",
+   "E": "Carney complex"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "MEN 1 (Wermer, menin gene) comprises the 3 Ps: parathyroid hyperplasia, pancreatic neuroendocrine tumours (gastrinoma, insulinoma) and pituitary adenoma. MEN 2A has medullary carcinoma, phaeochromocytoma and hyperparathyroidism, but no pancreatic tumours.",
+  "key_note": "",
+  "figure": "",
+  "qid": "28-3"
+ },
+ {
+  "cids": [
+   "C0194"
+  ],
+  "stem": "A 65-year-old man has hypercalcaemia and a markedly raised PTH. Imaging reveals a neck mass adherent to surrounding tissues. Which feature most strongly suggests parathyroid carcinoma?",
+  "options": {
+   "A": "Elevated serum calcium",
+   "B": "Single gland involvement",
+   "C": "Invasion of surrounding tissues",
+   "D": "Female predominance",
+   "E": "Hypophosphataemia"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Only local invasion or metastasis reliably defines parathyroid carcinoma; very high calcium and PTH raise suspicion but also occur with adenomas. Unlike adenoma, carcinoma has no female predominance.",
+  "key_note": "",
+  "figure": "",
+  "qid": "28-4"
+ },
+ {
+  "cids": [
+   "C0371",
+   "C0713",
+   "C0471"
+  ],
+  "stem": "A patient presents with fatigue and bone pain. Serum calcium is 11.1 mg/dL and PTH is elevated. Which of the following imaging studies is best for localisation of a parathyroid adenoma?",
+  "options": {
+   "A": "Ultrasound neck",
+   "B": "CT scan head and neck with contrast",
+   "C": "Technetium-99m sestamibi scan",
+   "D": "MRI",
+   "E": "PET scan"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Tc-99m sestamibi is retained by mitochondria-rich adenoma cells and is the standard localising study, usually combined with ultrasound to allow focused (minimally invasive) parathyroidectomy. Localisation is not needed to make the diagnosis, which is biochemical.",
+  "key_note": "Merged two versions (one direct, one with clinical vignette and 'operative exploration' option instead of PET); all keys agreed on sestamibi.",
+  "figure": "",
+  "qid": "28-5"
+ },
+ {
+  "cids": [
+   "C1375"
+  ],
+  "stem": "Which one of the following is NOT part of the management of a patient with hyperparathyroidism?",
+  "options": {
+   "A": "Hydration with intravenous normal saline",
+   "B": "Steroids",
+   "C": "Exploration of the neck for parathyroidectomy",
+   "D": "Parathyroid scan",
+   "E": "Vitamin D"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Vitamin D increases intestinal calcium absorption and worsens hypercalcaemia, so it is not given (except cautious repletion of documented deficiency). Saline rehydration, localisation scanning and parathyroidectomy are standard, and steroids are listed among measures for hypercalcaemic crisis.",
+  "key_note": "Both papers marked E; the compiled key gave B (steroids). E is the intended answer.",
+  "figure": "",
+  "qid": "28-6"
+ },
+ {
+  "cids": [
+   "C0031"
+  ],
+  "stem": "Regarding Trousseau's sign of hypoparathyroidism:",
+  "options": {
+   "A": "It is due to hypercalcaemia",
+   "B": "It also occurs in thyrotoxicosis",
+   "C": "It is also known as carpopedal spasm",
+   "D": "It is induced by tapping the facial nerve",
+   "E": "It is caused by increased levels of magnesium"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Trousseau's sign is carpal (carpopedal) spasm provoked by inflating a BP cuff above systolic pressure for up to 3 minutes in hypocalcaemia. Tapping the facial nerve is Chvostek's sign.",
+  "key_note": "",
+  "figure": "",
+  "qid": "28-7"
+ },
+ {
+  "cids": [
+   "C0742"
+  ],
+  "stem": "A 34-year-old woman has just undergone parathyroidectomy for primary hyperparathyroidism. The operation was difficult and all 4 glands were explored. The wound was dry and a suction drain was inserted. On the ward she becomes irritable and develops stridor. Her neck is soft and the drain is empty. Which treatment should be tried initially?",
+  "options": {
+   "A": "IV calcium gluconate",
+   "B": "IV lorazepam",
+   "C": "Removal of the skin closure on the ward",
+   "D": "Direct laryngoscopy",
+   "E": "Oral Calcichew D3"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "A soft neck and empty drain make haematoma unlikely; after a four-gland exploration, irritability with stridor is hypocalcaemic laryngospasm and needs IV calcium gluconate. If stridor persists despite normal calcium, bilateral recurrent laryngeal nerve injury is assessed by laryngoscopy.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "28-8"
+ },
+ {
+  "ncids": [
+   "K0105"
+  ],
+  "stem": "Which artery is an important landmark for identifying the superior parathyroid glands?",
+  "options": {
+   "A": "External carotid artery",
+   "B": "Common carotid artery",
+   "C": "Inferior thyroid artery",
+   "D": "Superior thyroid artery",
+   "E": "Subclavian artery"
+  },
+  "answer": "C",
+  "explanation": "The superior parathyroid lies on the posterior aspect of the thyroid lobe just above the inferior thyroid artery, near where it crosses the recurrent laryngeal nerve. The inferior thyroid artery also supplies both parathyroids, so tracing its branches leads to the glands.",
+  "key_note": "",
+  "_new": true,
+  "qid": "28-N1"
+ },
+ {
+  "ncids": [
+   "K0133"
+  ],
+  "stem": "The parathyroid glands derive their main blood supply from the:",
+  "options": {
+   "A": "Common carotid arteries",
+   "B": "Inferior thyroid arteries",
+   "C": "Parathyroid arteries",
+   "D": "Superior thyroid arteries",
+   "E": "Tracheal arteries"
+  },
+  "answer": "B",
+  "explanation": "Both superior and inferior parathyroids are supplied mainly by branches of the inferior thyroid artery, so these branches should be ligated close to the thyroid capsule to preserve parathyroid viability.",
+  "key_note": "",
+  "_new": true,
+  "qid": "28-N2"
+ },
+ {
+  "ncids": [
+   "K0473"
+  ],
+  "stem": "A patient with secondary hyperparathyroidism is started on cinacalcet and improves. What is the purpose of this drug?",
+  "options": {
+   "A": "Lowering calcium",
+   "B": "Increasing calcium",
+   "C": "Regulating (suppressing) secretion of PTH",
+   "D": "Regulating vitamin D secretion",
+   "E": "Increasing serum PTH level"
+  },
+  "answer": "C",
+  "explanation": "Cinacalcet is a calcimimetic that sensitises the calcium-sensing receptor on parathyroid cells, suppressing PTH secretion; the fall in calcium is a secondary effect. In secondary hyperparathyroidism calcium is often normal or low, so the target is PTH.",
+  "key_note": "Bank marked A; correct is C because cinacalcet acts on the calcium-sensing receptor to suppress PTH secretion, and lowering calcium is only a consequence.",
+  "_new": true,
+  "qid": "28-N3"
+ },
+ {
+  "ncids": [
+   "K0482"
+  ],
+  "stem": "Which of the following is associated with hyperparathyroidism?",
+  "options": {
+   "A": "Paravertebral ossification",
+   "B": "Peptic ulcer",
+   "C": "Retinal haemorrhages",
+   "D": "Aortic stenosis",
+   "E": "Hoarse voice"
+  },
+  "answer": "B",
+  "explanation": "Hypercalcaemia stimulates gastrin and acid secretion, so peptic ulcer ('groans') is a recognised feature of hyperparathyroidism, along with stones, bones and psychic moans; MEN 1 links it further with gastrinoma.",
+  "key_note": "",
+  "_new": true,
+  "qid": "28-N4"
+ },
+ {
+  "ncids": [
+   "K0568"
+  ],
+  "stem": "A 40-year-old woman presents with abdominal pain and altered behaviour for a few months. She had a renal transplant 1 year ago. Serum calcium and PTH are raised and serum phosphate is decreased. What is the most likely diagnosis?",
+  "options": {
+   "A": "Primary hyperparathyroidism",
+   "B": "Secondary hyperparathyroidism",
+   "C": "Tertiary hyperparathyroidism",
+   "D": "Parathyroid carcinoma",
+   "E": "Parathyroid adenoma"
+  },
+  "answer": "C",
+  "explanation": "Long-standing secondary hyperparathyroidism of renal failure can become autonomous, so after transplantation PTH and calcium stay high: tertiary hyperparathyroidism. Secondary hyperparathyroidism has low or normal calcium.",
+  "key_note": "",
+  "_new": true,
+  "qid": "28-N5"
+ },
+ {
+  "ncids": [
+   "K0714"
+  ],
+  "stem": "Considering hyperparathyroidism, which of the following patients should undergo parathyroidectomy?",
+  "options": {
+   "A": "A 62-year-old asymptomatic woman",
+   "B": "A 40-year-old asymptomatic man",
+   "C": "A 42-year-old woman with kidney stones",
+   "D": "A 60-year-old woman with mildly decreased bone mineral density"
+  },
+  "answer": "C",
+  "explanation": "Symptomatic primary hyperparathyroidism, including nephrolithiasis, is an indication for parathyroidectomy. Asymptomatic patients only qualify if they meet criteria such as age under 50, marked hypercalcaemia or osteoporosis (T-score below -2.5).",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "28-N6"
+ },
+ {
+  "ncids": [
+   "K0838"
+  ],
+  "stem": "Which of the following is an important feature of hyperparathyroidism?",
+  "options": {
+   "A": "Headache",
+   "B": "Renal stones",
+   "C": "Fever",
+   "D": "Loss of weight"
+  },
+  "answer": "B",
+  "explanation": "Hypercalciuria makes renal stones and nephrocalcinosis one of the commonest presenting features of primary hyperparathyroidism ('stones, bones, groans and moans').",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "28-N7"
+ },
+ {
+  "ncids": [
+   "K1392"
+  ],
+  "stem": "Regarding parathyroid tetany, which of the following statements is WRONG?",
+  "options": {
+   "A": "Tetany due to hypocalcaemia is a common complication of total thyroidectomy",
+   "B": "It may also occur after surgery on the parathyroids",
+   "C": "Symptoms usually appear on the 2nd or 3rd post-operative day",
+   "D": "Tetany in the newborn may occur in the first few days of life if the mother has undiagnosed hypoparathyroidism",
+   "E": "Permanent hypoparathyroidism is uncommon following radical thyroidectomy for cancer"
+  },
+  "answer": "D",
+  "explanation": "Neonatal tetany follows undiagnosed maternal HYPERparathyroidism: maternal hypercalcaemia suppresses the fetal parathyroids. Transient hypocalcaemia after total thyroidectomy is common, typically on day 2-3, and it also follows parathyroid surgery.",
+  "key_note": "Bank keyed A; correct is D because neonatal tetany follows maternal hyperparathyroidism, not hypoparathyroidism, while transient hypocalcaemia after total thyroidectomy is in fact common.",
+  "_new": true,
+  "qid": "28-N8"
+ },
+ {
+  "ncids": [
+   "K1521"
+  ],
+  "stem": "Which of the following statements is true about the superior parathyroid gland?",
+  "options": {
+   "A": "It lies on the posterior surface of the thyroid lobe, around its middle, at the level of the first tracheal ring",
+   "B": "It is highly variable in position",
+   "C": "It lies in front of the pretracheal fascia",
+   "D": "It is supplied mainly by the superior thyroid artery"
+  },
+  "answer": "A",
+  "explanation": "The superior parathyroid (from the 4th pouch) has a short descent and a fairly constant position on the posterior surface of the thyroid lobe near the cricothyroid junction, above the inferior thyroid artery. The inferior gland (3rd pouch) is the variable one, and both are supplied mainly by the inferior thyroid artery.",
+  "key_note": "",
+  "_new": true,
+  "qid": "28-N9"
+ },
+ {
+  "ncids": [
+   "K1391"
+  ],
+  "stem": "Which of the following statements regarding parathormone (PTH) is untrue?",
+  "options": {
+   "A": "It stimulates osteoclastic activity",
+   "B": "It is a 90-amino acid peptide",
+   "C": "It increases the reabsorption of calcium by the renal tubule",
+   "D": "It augments the absorption of calcium from the gut (via activation of vitamin D)",
+   "E": "It reduces renal tubular reabsorption of phosphate, thus promoting phosphaturia"
+  },
+  "answer": "B",
+  "explanation": "PTH is an 84-amino acid polypeptide. It raises serum calcium by bone resorption, renal calcium reabsorption and 1-alpha hydroxylation of vitamin D, and causes phosphaturia.",
+  "key_note": "",
+  "_new": true,
+  "qid": "28-N10"
+ }
+]

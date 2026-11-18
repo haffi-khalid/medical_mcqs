@@ -1,0 +1,1304 @@
+[
+ {
+  "cids": [
+   "C1170"
+  ],
+  "stem": "Which of the following is true regarding Calot's triangle",
+  "options": {
+   "A": "Common bile duct forms its medial boundary",
+   "B": "Common hepatic duct forms its medial boundary",
+   "C": "Cystic artery forms its medial boundary",
+   "D": "Portal vein forms its medial boundary",
+   "E": "Right Hepatic artery forms its medial boundary"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Calot's (hepatobiliary) triangle is bounded medially by the common hepatic duct, inferiorly (laterally) by the cystic duct and superiorly by the inferior surface of the liver. It contains the cystic artery, often the right hepatic artery and Lund's lymph node.",
+  "key_note": "",
+  "figure": "",
+  "qid": "14-1"
+ },
+ {
+  "cids": [
+   "C0770"
+  ],
+  "stem": "Calot's triangle:",
+  "options": {
+   "A": "Is bounded medially by right hepatic duct",
+   "B": "Is bounded laterally by cystic duct",
+   "C": "Contains the left hepatic duct",
+   "D": "Contains hepatic artery"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "The cystic duct forms the lateral (inferior) boundary of Calot's triangle; the common hepatic duct, not the right hepatic duct, is the medial boundary. It contains the cystic artery and often the right hepatic artery, not the left hepatic duct.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "14-2"
+ },
+ {
+  "cids": [
+   "C0765"
+  ],
+  "stem": "The most common incision used for open cholecystectomy is:",
+  "options": {
+   "A": "Right upper paramedian",
+   "B": "Kocher’s incision",
+   "C": "Gridiron incision",
+   "D": "Midline incision"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Open cholecystectomy is classically done through a right subcostal (Kocher's) incision, parallel to the costal margin. Gridiron is for appendicectomy.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "14-3"
+ },
+ {
+  "cids": [
+   "C0925"
+  ],
+  "stem": "Which of the following is true for gall stones?",
+  "options": {
+   "A": "Pigment variety is most common",
+   "B": "Gall stones are best treated by cholesterol lowering drugs",
+   "C": "Pigment stones usually form after bile stasis or infection",
+   "D": "Pigment stones are green in color",
+   "E": "Cholesterol stones form due to presence of foreign body in bile ducts"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Pigment stones form with bile stasis and infection (brown stones, often in the ducts) or haemolysis (black stones). Cholesterol and mixed stones, not pigment stones, are the commonest variety in the West, and surgery, not drugs, is the treatment of symptomatic stones.",
+  "key_note": "One paper (Batch C) marked B (cholesterol-lowering drugs); correct is C.",
+  "figure": "",
+  "qid": "14-4"
+ },
+ {
+  "cids": [
+   "C0347"
+  ],
+  "stem": "A young pregnant woman attends the surgical OPD with an ultrasound report showing gallstones found incidentally on a routine pregnancy scan. She has never had any symptoms of gallstone disease. Which statement is correct?",
+  "options": {
+   "A": "CT scan should be performed to confirm diagnosis",
+   "B": "Laparoscopic cholecystectomy must be performed immediately",
+   "C": "Medical treatment should be started to dissolve the gallstones",
+   "D": "Open cholecystectomy must be performed immediately",
+   "E": "80-90% of gallstones are asymptomatic, so she should be kept on follow-up"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Most gallstones (around 80%) remain asymptomatic, so incidentally found, asymptomatic stones, including in pregnancy, are simply observed. Prophylactic cholecystectomy is not indicated.",
+  "key_note": "",
+  "figure": "",
+  "qid": "14-5"
+ },
+ {
+  "cids": [
+   "C0426"
+  ],
+  "stem": "A woman with gallstones is having biliary colic. Her pain would radiate towards the:",
+  "options": {
+   "A": "Umbilicus",
+   "B": "Right shoulder",
+   "C": "Hypogastrium",
+   "D": "Right iliac fossa",
+   "E": "Left iliac fossa"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Biliary pain is felt in the epigastrium and right hypochondrium and classically radiates to the right shoulder tip or the inferior angle of the right scapula.",
+  "key_note": "",
+  "figure": "",
+  "qid": "14-6"
+ },
+ {
+  "cids": [
+   "C0959",
+   "C0926"
+  ],
+  "stem": "In a patient presenting with clinical features of biliary colic, the first appropriate radiological investigation is:",
+  "options": {
+   "A": "ERCP (endoscopic retrograde cholangiopancreatography)",
+   "B": "Ultrasound",
+   "C": "MRCP (magnetic resonance cholangiopancreatography)",
+   "D": "T-tube cholangiography",
+   "E": "Upper GI endoscopy"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Ultrasound is the first investigation for suspected biliary colic. ERCP is invasive and therapeutic, MRCP is used when duct stones are suspected.",
+  "key_note": "One compiled key gave C (ERCP/MRCP); correct is B, ultrasound.",
+  "figure": "",
+  "qid": "14-7"
+ },
+ {
+  "cids": [
+   "C0723"
+  ],
+  "stem": "A 50-year-old obese woman presents to the surgical OPD with a 3-month history of severe episodic pain in the right hypochondrium radiating to the back. She also complains of dyspepsia. What is the best initial investigation to diagnose her condition?",
+  "options": {
+   "A": "CT scan of abdomen",
+   "B": "Upper GI endoscopy",
+   "C": "Endoscopic ultrasound",
+   "D": "Abdominal ultrasound",
+   "E": "MRI of abdomen"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Episodic right hypochondrial pain radiating to the back in an obese middle-aged woman with dyspepsia suggests symptomatic gallstones; abdominal ultrasound is the initial and best investigation.",
+  "key_note": "",
+  "figure": "",
+  "qid": "14-8"
+ },
+ {
+  "cids": [
+   "C0122"
+  ],
+  "stem": "A patient with a history of gallstones presents with right upper quadrant pain. Which is the best imaging modality to confirm the diagnosis of acute cholecystitis?",
+  "options": {
+   "A": "Abdominal Ultrasound (USG)",
+   "B": "Computed Tomography (CT) scan",
+   "C": "Magnetic Resonance Imaging (MRI)",
+   "D": "Endoscopic Retrograde Cholangiopancreatography (ERCP)",
+   "E": "Diagnostic laparoscopy"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Ultrasound is the investigation of choice for acute cholecystitis: stones, thickened wall (over 3 mm), pericholecystic fluid and a sonographic Murphy's sign. HIDA scan is more specific but rarely needed.",
+  "key_note": "",
+  "figure": "",
+  "qid": "14-9"
+ },
+ {
+  "cids": [
+   "C0332"
+  ],
+  "stem": "Which of the following investigations of the biliary tree is therapeutic as well as diagnostic?",
+  "options": {
+   "A": "Endoscopic retrograde cholangio pancreatogram (ERCP)",
+   "B": "Endoscopic ultrasound",
+   "C": "HIDA Scan",
+   "D": "Magnetic Resonant cholangio pancreatography (MRCP)",
+   "E": "Percutaneous cholangiogram"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "ERCP visualises the ducts and allows therapy in the same session (sphincterotomy, stone extraction, stenting). MRCP, EUS and HIDA are diagnostic only.",
+  "key_note": "",
+  "figure": "",
+  "qid": "14-10"
+ },
+ {
+  "cids": [
+   "C0677"
+  ],
+  "stem": "Which of the following is the investigation of choice to determine pathology in the biliary ductal system?",
+  "options": {
+   "A": "MRCP (Magnetic resonant cholangiopancreatography)",
+   "B": "CT-Abdomen",
+   "C": "Ultrasound abdomen",
+   "D": "X-ray abdomen",
+   "E": "Complete Blood count"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "MRCP is the non-invasive investigation of choice for imaging the biliary and pancreatic ductal system, showing stones, strictures and dilatation without radiation or contrast injection into the ducts.",
+  "key_note": "",
+  "figure": "",
+  "qid": "14-11"
+ },
+ {
+  "cids": [
+   "C1316"
+  ],
+  "stem": "A woman with known gallstones presents with jaundice (yellow discoloration of the skin and sclera). Which would be the investigation of choice to help with the diagnosis?",
+  "options": {
+   "A": "Ultrasound of the abdomen",
+   "B": "Chest X-ray",
+   "C": "MRCP",
+   "D": "ERCP",
+   "E": "Diagnostic laparoscopy"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "In a jaundiced patient ultrasound is the first investigation: it confirms gallstones, shows whether the ducts are dilated (obstructive jaundice) and may show a CBD stone. MRCP then confirms choledocholithiasis if ultrasound is equivocal.",
+  "key_note": "Paper marked A; the compiled key gave C (MRCP). A is the standard first investigation in jaundice; MRCP is the next test to confirm duct stones.",
+  "figure": "",
+  "qid": "14-12"
+ },
+ {
+  "cids": [
+   "C0975",
+   "C0025",
+   "C0323"
+  ],
+  "stem": "A middle-aged woman presents with severe colicky upper abdominal pain of 6 hours' duration radiating to the right shoulder, with vomiting. On examination her abdomen is soft but tender in the right hypochondrium. Her white cell count is raised. What is the likely diagnosis?",
+  "options": {
+   "A": "Acute appendicitis",
+   "B": "Acute cholecystitis",
+   "C": "Perforated peptic ulcer",
+   "D": "Biliary colic",
+   "E": "Acute pancreatitis"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Pain lasting over 6 hours with right hypochondrial tenderness and a raised white count indicates inflammation, i.e. acute cholecystitis. Biliary colic is pain without fever, leucocytosis or persistent tenderness.",
+  "key_note": "A twin question (one copy highlighted B, chronic cholecystitis, printed key A) is merged here; a current attack with tachycardia and RUQ tenderness is acute cholecystitis.",
+  "figure": "",
+  "qid": "14-13"
+ },
+ {
+  "cids": [
+   "C0312"
+  ],
+  "stem": "A 45-year-old woman with a long history of dyspepsia and right hypochondrial pain presents to the emergency department with right hypochondrial pain for 2 days. She is febrile (102 F), tender, and has a mass in the right hypochondrium. The most probable diagnosis is:",
+  "options": {
+   "A": "Acute pancreatitis",
+   "B": "Cholangitis",
+   "C": "Chronic cholecystitis",
+   "D": "Empyema of the gallbladder",
+   "E": "Mucocele of the gallbladder"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A known gallstone patient with fever, a tender right hypochondrial mass and toxicity has empyema of the gallbladder (pus-filled, obstructed gallbladder). Mucocele is a non-tender, non-infected distended gallbladder.",
+  "key_note": "",
+  "figure": "",
+  "qid": "14-14"
+ },
+ {
+  "cids": [
+   "C0855"
+  ],
+  "stem": "A 60-year-old diabetic man is admitted to the hospital with a diagnosis of acute cholecystitis. The WBC count is 28,000, and a plain film of the abdomen and CT scan show evidence of intramural gas in the gallbladder. What is the most likely diagnosis?",
+  "options": {
+   "A": "Emphysematous cholecystitis",
+   "B": "Acalculous cholecystitis",
+   "C": "Cholangiohepatitis",
+   "D": "Sclerosing cholangitis",
+   "E": "Gallstone ileus"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Gas in the gallbladder wall in a diabetic, elderly man is emphysematous cholecystitis due to gas-forming organisms (Clostridium, E. coli); it carries a high risk of gangrene and perforation and needs urgent cholecystectomy.",
+  "key_note": "",
+  "figure": "",
+  "qid": "14-15"
+ },
+ {
+  "cids": [
+   "C1438"
+  ],
+  "stem": "A 71-year-old man with hypertension, hyperlipidaemia, congestive heart failure (ejection fraction 20%) and COPD presents with right upper quadrant pain, fever (101 F) and nausea. Investigations confirm calculous cholecystitis with a thickened gallbladder wall and pericholecystic fluid. What is the most appropriate management?",
+  "options": {
+   "A": "IV antibiotics and supportive treatment",
+   "B": "Immediate ERCP",
+   "C": "Laparoscopic cholecystectomy",
+   "D": "Open cholecystectomy",
+   "E": "Percutaneous cholecystostomy tube"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "In acute cholecystitis in a patient too unfit for surgery (EF 20%, COPD), percutaneous cholecystostomy decompresses the gallbladder and controls sepsis under local anaesthesia (Tokyo guidelines); interval cholecystectomy can be considered later if fitness improves.",
+  "key_note": "Paper marked C (laparoscopic cholecystectomy); correct is E, because this patient is too high-risk for general anaesthesia.",
+  "figure": "",
+  "qid": "14-16"
+ },
+ {
+  "cids": [
+   "C1128",
+   "C0702"
+  ],
+  "stem": "A 42-year obese woman presents with intermittent right upper quadrant pain after meals, nausea, and occasional vomiting. Ultrasound reveals multiple gallstones without gallbladder wall thickening or pericholecystic fluid. What is the most appropriate next step in management?",
+  "options": {
+   "A": "Admit for intravenous antibiotics and fluids",
+   "B": "Initiate oral ursodeoxycholic acid therapy",
+   "C": "Perform ERCP with stone extraction",
+   "D": "Recommend a low-fat diet and observe",
+   "E": "Schedule laparoscopic cholecystectomy"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Symptomatic uncomplicated gallstones (biliary colic) are treated by elective laparoscopic cholecystectomy, the gold standard, since symptoms recur and complications develop. Ursodeoxycholic acid rarely works and stones recur.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "14-17"
+ },
+ {
+  "cids": [
+   "C1437",
+   "C0260"
+  ],
+  "stem": "A 60-year-old obese diabetic woman presents to the surgical emergency with right hypochondrial pain for 5 days, fever with rigors, and yellow discoloration of the skin and sclera. She is tender in the right hypochondrium and ultrasound shows multiple small gallstones. Serum bilirubin and alkaline phosphatase are raised but ALT is normal. What is the most likely diagnosis?",
+  "options": {
+   "A": "Acute cholecystitis",
+   "B": "Mucocele of gallbladder",
+   "C": "Acute cholangitis",
+   "D": "Acute viral hepatitis",
+   "E": "Pyogenic liver abscess"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "RUQ pain, fever with rigors and jaundice (Charcot's triad) with a cholestatic picture (raised bilirubin and ALP, normal ALT) in a gallstone patient indicates acute cholangitis from a CBD stone.",
+  "key_note": "",
+  "figure": "",
+  "qid": "14-18"
+ },
+ {
+  "cids": [
+   "C0967"
+  ],
+  "stem": "A 50 years old female with known gall stone disease presents with right upper quadrant pain, fever with rigors and chills, and jaundice. Cholangitis is suspected. Which statement concerning cholangitis is correct?",
+  "options": {
+   "A": "The commonest infecting organism is Staphylococcus aureus",
+   "B": "The diagnosis is suggested by Charcot's triad",
+   "C": "The disease occurs primarily in young, immunocompromised patients",
+   "D": "Cholecystectomy is the procedure of choice in affected patients",
+   "E": "Surgery is indicated once the diagnosis of cholangitis is made"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Charcot's triad (pain, fever with rigors, jaundice) suggests cholangitis. It is caused mainly by Gram-negative enteric organisms (E. coli, Klebsiella), affects mostly older patients, and is treated with antibiotics plus biliary decompression by ERCP, not immediate surgery or cholecystectomy.",
+  "key_note": "",
+  "figure": "",
+  "qid": "14-19"
+ },
+ {
+  "cids": [
+   "C0162",
+   "C1127"
+  ],
+  "stem": "A 45-year man presents with right upper quadrant pain, fever, and jaundice. His labs show elevated bilirubin. The Alanine Aminotransferase (ALT) is normal but alkaline phosphatase (ALP) is markedly raised. Ultrasound shows a dilated common bile duct and gallstones. What is the next best step in management?",
+  "options": {
+   "A": "Laparoscopic cholecystectomy",
+   "B": "Hida Scan",
+   "C": "ERCP",
+   "D": "IV antibiotics only",
+   "E": "Percutaneous cholecystostomy"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Cholangitis (pain, fever, jaundice) with a dilated CBD and gallstones needs antibiotics plus biliary drainage, best done by ERCP with sphincterotomy and stone extraction. Cholecystectomy follows later.",
+  "key_note": "",
+  "figure": "",
+  "qid": "14-20"
+ },
+ {
+  "cids": [
+   "C0857"
+  ],
+  "stem": "A 40-year-old man underwent laparoscopic cholecystectomy 2 years ago. He was asymptomatic until 1 week before admission when he developed RUQ pain and jaundice. He develops fever and has several rigors on the day of admission. Ultrasound confirms stones in the distal CBD. He is started on antibiotics. What is the next step in therapy?",
+  "options": {
+   "A": "Discharge home under observation",
+   "B": "Observe in hospital",
+   "C": "Surgical exploration of the CBD",
+   "D": "ERCP with sphincterotomy and stone removal",
+   "E": "Anticoagulants"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A retained or recurrent CBD stone after cholecystectomy causing cholangitis is treated by antibiotics followed by ERCP, sphincterotomy and stone extraction; surgical exploration of the CBD is reserved for ERCP failure.",
+  "key_note": "Batch B 2024 copy was unmarked; Ward Test copy marked D.",
+  "figure": "",
+  "qid": "14-21"
+ },
+ {
+  "cids": [
+   "C0470",
+   "C1317"
+  ],
+  "stem": "A 38-year-old woman who has a history of intermittent right upper quadrant pain associated with eating, attends the emergency department with a 3-day history of severe, unremitting abdominal pain and jaundice. Ultrasound scan shows an 8mm stone in her common bile duct. Which of the following would be most suitable management?",
+  "options": {
+   "A": "Cholecystectomy",
+   "B": "ERCP",
+   "C": "Fragmentation of the stone",
+   "D": "Laparotomy",
+   "E": "MRCP"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Choledocholithiasis with jaundice (CBD stone on ultrasound, or a markedly raised ALP indicating duct obstruction) is treated by ERCP with sphincterotomy and stone extraction, followed by cholecystectomy. MRCP is diagnostic only.",
+  "key_note": "",
+  "figure": "",
+  "qid": "14-22"
+ },
+ {
+  "cids": [
+   "C0072"
+  ],
+  "stem": "A patient undergoes an endoscopic retrograde cholangiopancreatography (ERCP) for suspected choledocholithiasis. During the procedure, a 6 mm stone is detected in the common bile duct. What is the most appropriate next step?",
+  "options": {
+   "A": "Perform a sphincterotomy",
+   "B": "Insert a stent",
+   "C": "Perform a balloon dilation",
+   "D": "Administer antibiotics",
+   "E": "Recommend surgery"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "A CBD stone found at ERCP is removed by endoscopic sphincterotomy followed by balloon or basket extraction. Stenting is used only when stones cannot be cleared.",
+  "key_note": "",
+  "figure": "",
+  "qid": "14-23"
+ },
+ {
+  "cids": [
+   "C1439"
+  ],
+  "stem": "A young patient has obstructive jaundice secondary to a stone impacted in the common bile duct, together with gallbladder stones. What is the most appropriate management?",
+  "options": {
+   "A": "Laparoscopic cholecystectomy and cholangiography",
+   "B": "Open cholecystectomy and ERCP",
+   "C": "ERCP stone retrieval and cholecystectomy later",
+   "D": "Percutaneous cholecystostomy",
+   "E": "Conservative management till jaundice settles"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Standard treatment of obstructive jaundice from a CBD stone with gallbladder stones is ERCP clearance of the duct followed by (laparoscopic) cholecystectomy, ideally in the same admission. Laparoscopic CBD exploration is an alternative in expert centres.",
+  "key_note": "",
+  "figure": "",
+  "qid": "14-24"
+ },
+ {
+  "cids": [
+   "C0596#U1049"
+  ],
+  "stem": "A 60-year-old man presents with jaundice, clay-coloured stools, dark urine and pruritus. On examination he is jaundiced and the gallbladder is NOT palpable. What is the likely diagnosis?",
+  "options": {
+   "A": "Carcinoma head of pancreas",
+   "B": "Choledocholithiasis",
+   "C": "Acute cholecystitis",
+   "D": "Acute pancreatitis",
+   "E": "Acute cholangitis"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Jaundice with a non-palpable gallbladder suggests a stone in the duct: the gallbladder is usually fibrosed by chronic gallstone disease and cannot distend (corollary of Courvoisier's law).",
+  "key_note": "",
+  "figure": "",
+  "qid": "14-25"
+ },
+ {
+  "cids": [
+   "C0856"
+  ],
+  "stem": "A 67-year-old woman is evaluated for obstructive jaundice. The cholangiographic findings indicate that she has a cancer of the lower end of the CBD. Clinical examination would most likely reveal which of the following?",
+  "options": {
+   "A": "Enlarged gallbladder",
+   "B": "Shrunken gallbladder",
+   "C": "Enlarged pancreas",
+   "D": "Shrunken pancreas",
+   "E": "Palpable tumor"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Malignant obstruction of the lower CBD causes gradual obstruction, distending a previously normal gallbladder, so a palpable, enlarged gallbladder is expected (Courvoisier's law).",
+  "key_note": "",
+  "figure": "",
+  "qid": "14-26"
+ },
+ {
+  "cids": [
+   "C0163"
+  ],
+  "stem": "A patient had uneventful laparoscopic cholecystectomy. A drain was left in-situ. He develops persistent minimal bile leak although the patient is clinically fit and well. What is the most likely cause?",
+  "options": {
+   "A": "Accessory duct of Luschka",
+   "B": "Hepatic duct injury",
+   "C": "Common hepatic duct stricture",
+   "D": "Cystic duct injury",
+   "E": "Duodenal injury"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "A small persistent bile leak in a well patient after laparoscopic cholecystectomy comes from a minor source, classically an accessory duct of Luschka in the gallbladder bed (or a cystic duct stump leak); most settle with drainage or ERCP stenting. Major duct injury gives a large leak or jaundice and an unwell patient.",
+  "key_note": "Paper marked A; note that cystic duct stump leak is actually the commonest source overall, but A is the intended answer for a minimal leak in a well patient.",
+  "figure": "",
+  "qid": "14-27"
+ },
+ {
+  "cids": [
+   "C0170"
+  ],
+  "stem": "A 30-year woman presents with recurrent right upper quadrant pain few months after a cholecystectomy. Ultrasound shows a dilated Common bile duct (CBD). What is the most likely cause?",
+  "options": {
+   "A": "Retained bile duct stone",
+   "B": "Bile duct carcinoma",
+   "C": "Sphincter of Oddi dysfunction",
+   "D": "Bile duct injury",
+   "E": "Aberrant biliary ducts"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Recurrent biliary pain with a dilated CBD months after cholecystectomy is most often due to a retained (or recurrent) CBD stone; confirm by MRCP and clear by ERCP. Sphincter of Oddi dysfunction is a diagnosis of exclusion.",
+  "key_note": "",
+  "figure": "",
+  "qid": "14-28"
+ },
+ {
+  "cids": [
+   "C0166"
+  ],
+  "stem": "During laparoscopic cholecystectomy, the surgeon accidentally clips and cuts the common bile duct. What is the most appropriate management?",
+  "options": {
+   "A": "Remove the clip and proceed",
+   "B": "Insert a T-tube and close",
+   "C": "Immediate reconstruction",
+   "D": "ERCP on operation table",
+   "E": "Leave a drain and abandon"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A complete transection (clipped and cut CBD) recognised at operation should be repaired immediately by an experienced hepatobiliary surgeon, usually Roux-en-Y hepaticojejunostomy. If expertise is not available, drain and transfer to a specialist centre.",
+  "key_note": "",
+  "figure": "",
+  "qid": "14-29"
+ },
+ {
+  "cids": [
+   "C0715"
+  ],
+  "stem": "During a laparoscopic cholecystectomy for symptomatic cholelithiasis, the surgical resident inadvertently transects the CBD. The best choice for operative repair is:",
+  "options": {
+   "A": "End-to-end CBD anastomosis",
+   "B": "Choledochoduodenostomy",
+   "C": "Choledochojejunostomy",
+   "D": "Hepaticoduodenostomy",
+   "E": "Hepaticojejunostomy"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Transection of the CBD is best repaired with a tension-free Roux-en-Y hepaticojejunostomy to healthy proximal duct; end-to-end duct repair has a high stricture rate because of ischaemia and tension.",
+  "key_note": "",
+  "figure": "",
+  "qid": "14-30"
+ },
+ {
+  "cids": [
+   "C0167"
+  ],
+  "stem": "A 35-year woman presents with pruritus and jaundice. Labs show elevated alkaline phosphatase (ALP). The anti-mitochondrial antibodies were positive. What is the most likely diagnosis?",
+  "options": {
+   "A": "Primary sclerosing cholangitis",
+   "B": "Autoimmune hepatitis",
+   "C": "Primary biliary cholangitis",
+   "D": "Alcoholic liver disease",
+   "E": "Cholangiocarcinoma"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Pruritus, cholestatic LFTs and anti-mitochondrial antibodies in a middle-aged woman is primary biliary cholangitis (AMA positive in about 95%).",
+  "key_note": "",
+  "figure": "",
+  "qid": "14-31"
+ },
+ {
+  "cids": [
+   "C0169"
+  ],
+  "stem": "A 50-year man with ulcerative colitis presents with fatigue and cholestatic Liver function Tests (LFTs). Imaging shows beading of intrahepatic and extrahepatic ducts. What is most likely diagnosis?",
+  "options": {
+   "A": "Primary biliary cholangitis",
+   "B": "Caroli's disease",
+   "C": "Choledochal cyst",
+   "D": "Primary sclerosing cholangitis",
+   "E": "Pancreatic cancer"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Primary sclerosing cholangitis is strongly associated with ulcerative colitis and gives multifocal strictures with a 'beaded' appearance of intrahepatic and extrahepatic ducts on MRCP. It predisposes to cholangiocarcinoma.",
+  "key_note": "",
+  "figure": "",
+  "qid": "14-32"
+ },
+ {
+  "cids": [
+   "C0584"
+  ],
+  "stem": "A 15-year-old female presents with RUQ abdominal pain. Workup reveals a choledochal cyst. Which of the following statements is TRUE?",
+  "options": {
+   "A": "Choledochal cysts are more common in men.",
+   "B": "Laparoscopic cholecystectomy is the recommended treatment.",
+   "C": "Patients with a choledochal cyst have an increased risk of cholangiocarcinoma.",
+   "D": "All patients with a choledochal cyst have abdominal pain, a RUQ mass, and jaundice",
+   "E": "The etiology is infectious"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Choledochal cysts are commoner in females (about 4:1) and in Asians, arise from an anomalous pancreaticobiliary junction (not infection), and carry a raised risk of cholangiocarcinoma; treatment is complete cyst excision with Roux-en-Y hepaticojejunostomy. The classic triad is present in only a minority.",
+  "key_note": "",
+  "figure": "",
+  "qid": "14-33"
+ },
+ {
+  "cids": [
+   "C0693"
+  ],
+  "stem": "A 6-year-old girl presents with a right hypochondrial swelling. She is slightly jaundiced and pale, and the swelling is non-tender and immobile. A choledochal cyst is suspected. What is the first investigation for diagnosis?",
+  "options": {
+   "A": "CT scan abdomen",
+   "B": "MRI",
+   "C": "Cholangiogram",
+   "D": "Ultrasound",
+   "E": "MRCP"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Ultrasound is the first investigation for a suspected choledochal cyst in a child; MRCP then defines the anatomy and pancreaticobiliary junction before surgery.",
+  "key_note": "",
+  "figure": "",
+  "qid": "14-34"
+ },
+ {
+  "cids": [
+   "C1124"
+  ],
+  "stem": "A 42-year woman presents with jaundice and right upper quadrant pain. Lab tests show elevated conjugated bilirubin, alkaline phosphatase, and mildly elevated AST/ALT. Ultrasound shows a dilated common bile duct but no gallstones. MRCP reveals a stricture in the distal common bile duct. What is the most likely diagnosis?",
+  "options": {
+   "A": "Acute viral hepatitis",
+   "B": "Choledocholithiasis",
+   "C": "Cholangiocarcinoma",
+   "D": "Primary biliary cholangitis",
+   "E": "Primary sclerosing cholangitis"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Obstructive jaundice with a dilated CBD, no stones, and a distal CBD stricture is malignant (cholangiocarcinoma, or pancreatic head cancer) until proven otherwise. PSC gives multifocal beaded strictures, usually with IBD.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "14-35"
+ },
+ {
+  "cids": [
+   "C0168",
+   "C0177"
+  ],
+  "stem": "A 70-year-old man presents with painless jaundice. CA 19-9 is elevated. Imaging shows an intrahepatic biliary mass. What is the most likely diagnosis?",
+  "options": {
+   "A": "Gallbladder carcinoma",
+   "B": "Intrahepatic cholangiocarcinoma",
+   "C": "Hepatocellular carcinoma",
+   "D": "Pancreatic tail tumor",
+   "E": "Liver metastasis"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Painless jaundice with raised CA 19-9 and a mass arising from the intrahepatic bile ducts is intrahepatic cholangiocarcinoma. HCC is associated with raised AFP and cirrhosis.",
+  "key_note": "A tumour at the confluence of the hepatic ducts is perihilar (Klatskin) cholangiocarcinoma, classified by Bismuth-Corlette.",
+  "figure": "",
+  "qid": "14-36"
+ },
+ {
+  "cids": [
+   "C0700"
+  ],
+  "stem": "A 55-year-old man presents with painless jaundice and weight loss. Imaging studies reveal a tumor at the confluence of the right and left hepatic ducts. This anatomical location of the tumor is best described as:",
+  "options": {
+   "A": "Bismuth type I",
+   "B": "Bismuth type II",
+   "C": "Bismuth type III",
+   "D": "Bismuth type IV",
+   "E": "Bismuth type V"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Bismuth-Corlette classification of hilar cholangiocarcinoma: type I below the confluence, type II involves the confluence, type IIIa/IIIb extends into the right/left hepatic duct, type IV involves both secondary ducts.",
+  "key_note": "",
+  "figure": "",
+  "qid": "14-37"
+ },
+ {
+  "cids": [
+   "C0125"
+  ],
+  "stem": "A patient with a history of gallstones presents with jaundice and cholangitis. What is the best imaging modality to diagnose the cause?",
+  "options": {
+   "A": "Ultrasound (USG)",
+   "B": "Magnetic resonance cholangiopancreatography (MRCP)",
+   "C": "Endoscopic retrograde cholangiopancreatography (ERCP)",
+   "D": "Computed tomography (CT) scan",
+   "E": "Percutaneous transhepatic cholangiography (PTC)"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Ultrasound is the first test, but MRCP is the best non-invasive diagnostic test for CBD stones. ERCP is reserved for therapy (stone extraction, drainage) because of its risk of pancreatitis, although in severe cholangitis urgent ERCP is the treatment.",
+  "key_note": "",
+  "figure": "",
+  "qid": "14-38"
+ },
+ {
+  "ncids": [
+   "K0102"
+  ],
+  "stem": "You are assisting a laparoscopic cholecystectomy and your consultant asks you about the most dangerous anomaly in the arterial supply of the gallbladder. Which is it?",
+  "options": {
+   "A": "Cystic artery arising from the gastroduodenal artery",
+   "B": "Accessory cystic artery",
+   "C": "Tortuous right hepatic artery lying anterior to the cystic duct",
+   "D": "Short cystic artery",
+   "E": "Cystic artery lying anterior to the cystic duct"
+  },
+  "answer": "C",
+  "explanation": "A tortuous right hepatic artery looping in front of the cystic duct (caterpillar or Moynihan's hump) is easily mistaken for the cystic artery and clipped, causing major bleeding or hepatic ischaemia. The cystic artery itself is then short, which is the consequence rather than the main danger.",
+  "key_note": "",
+  "_new": true,
+  "qid": "14-N1"
+ },
+ {
+  "ncids": [
+   "K0329",
+   "K1469"
+  ],
+  "stem": "Which of the following is a premalignant condition for carcinoma of the gallbladder?",
+  "options": {
+   "A": "Ascariasis",
+   "B": "H. pylori infection",
+   "C": "Cholecystitis glandularis proliferans",
+   "D": "Porcelain gallbladder",
+   "E": "Typhoid infection of the gallbladder"
+  },
+  "answer": "D",
+  "explanation": "Porcelain gallbladder (calcification of the gallbladder wall) is associated with gallbladder carcinoma and is an indication for cholecystectomy. Chronic typhoid carriage is a weaker association; ascariasis and cholecystitis glandularis proliferans (adenomyomatosis) are not regarded as premalignant.",
+  "key_note": "In one copy ('Porcelain gallbladder is:') the bank starred 'calcium oxalate stones'; correct is 'premalignant condition of gallbladder', because porcelain gallbladder is wall calcification carrying a cancer risk. The other copy highlighted porcelain gallbladder correctly.",
+  "_new": true,
+  "qid": "14-N2"
+ },
+ {
+  "ncids": [
+   "K0330",
+   "K1634"
+  ],
+  "stem": "A 40-year-old obese multiparous woman presents with recurrent attacks of right upper abdominal pain of short duration after fatty meals, with flatulent dyspepsia. Clinical examination between attacks is unremarkable. What is the most likely diagnosis?",
+  "options": {
+   "A": "Acute cholecystitis",
+   "B": "Subacute hepatitis",
+   "C": "Chronic gastritis",
+   "D": "Chronic pancreatitis",
+   "E": "Biliary colic"
+  },
+  "answer": "E",
+  "explanation": "Recurrent short-lived RUQ pain after fatty food with a normal examination is biliary colic from symptomatic gallstones. Acute cholecystitis causes persistent pain with fever and local tenderness (Murphy's sign).",
+  "key_note": "",
+  "_new": true,
+  "qid": "14-N3"
+ },
+ {
+  "ncids": [
+   "K0332"
+  ],
+  "stem": "A 45-year-old woman underwent routine cholecystectomy 3 days ago. She returns to the ER with increasing abdominal pain and constipation. She looks unwell, is jaundiced, has a tender abdomen and green discharge from the wound. Her vitals are stable. What is the most probable diagnosis?",
+  "options": {
+   "A": "Biliary leakage",
+   "B": "Acute cholangitis",
+   "C": "Bowel perforation",
+   "D": "Portal vein injury",
+   "E": "Wound dehiscence"
+  },
+  "answer": "A",
+  "explanation": "Bile-stained (green) wound discharge with pain, ileus and jaundice after cholecystectomy indicates a bile leak, from the cystic duct stump, a duct of Luschka or a bile duct injury.",
+  "key_note": "",
+  "_new": true,
+  "qid": "14-N4"
+ },
+ {
+  "ncids": [
+   "K0336"
+  ],
+  "stem": "Murphy's sign is present in:",
+  "options": {
+   "A": "Pyelonephritis",
+   "B": "Peritonitis",
+   "C": "Acute cholecystitis",
+   "D": "Appendicitis",
+   "E": "Gastritis"
+  },
+  "answer": "C",
+  "explanation": "Murphy's sign is arrest of inspiration on palpation under the right costal margin as the inflamed gallbladder descends onto the examining hand; it is the classic sign of acute cholecystitis.",
+  "key_note": "",
+  "_new": true,
+  "qid": "14-N5"
+ },
+ {
+  "ncids": [
+   "K0352"
+  ],
+  "stem": "A 45-year-old woman presents with a 12-hour history of worsening right upper abdominal pain and vomiting. Murphy's sign is positive and her temperature is 38.1 C. What is the initial treatment?",
+  "options": {
+   "A": "Cholecystectomy",
+   "B": "Intravenous antibiotics",
+   "C": "Intravenous steroids",
+   "D": "Intravenous proton pump inhibitor",
+   "E": "Percutaneous drainage of the gallbladder"
+  },
+  "answer": "B",
+  "explanation": "Acute cholecystitis is first treated with IV fluids, analgesia and IV antibiotics; early laparoscopic cholecystectomy follows on the same admission once she is resuscitated. Percutaneous cholecystostomy is reserved for patients too unfit for surgery.",
+  "key_note": "Bank marked A (cholecystectomy); correct is B because the question asks for the initial treatment, which is antibiotics and resuscitation, with cholecystectomy as the definitive step after.",
+  "_new": true,
+  "qid": "14-N6"
+ },
+ {
+  "ncids": [
+   "K0378"
+  ],
+  "stem": "A junior doctor clinically diagnoses a 50-year-old patient as a case of obstructive jaundice. Which laboratory finding is expected?",
+  "options": {
+   "A": "Decreased serum conjugated bilirubin",
+   "B": "Increased serum unconjugated bilirubin",
+   "C": "Raised serum urobilinogen",
+   "D": "Increased serum alkaline phosphatase",
+   "E": "Low serum gamma GT"
+  },
+  "answer": "D",
+  "explanation": "Obstructive (cholestatic) jaundice raises conjugated bilirubin, ALP and GGT, while urinary urobilinogen falls because bile does not reach the gut.",
+  "key_note": "",
+  "_new": true,
+  "qid": "14-N7"
+ },
+ {
+  "ncids": [
+   "K0381"
+  ],
+  "stem": "A 50-year-old woman has severe abdominal pain and jaundice. She is apyrexial and stable, and abdominal examination is unremarkable. CBC is normal. LFTs show raised ALP with normal transaminases. What is the most appropriate next step?",
+  "options": {
+   "A": "Treat conservatively",
+   "B": "CT scan abdomen",
+   "C": "ERCP",
+   "D": "MRCP",
+   "E": "Upper GI endoscopy"
+  },
+  "answer": "D",
+  "explanation": "In a stable, afebrile patient with an obstructive picture, the cause should be defined non-invasively first (ultrasound, then MRCP for suspected duct stones). ERCP carries a risk of pancreatitis and is reserved for therapy once a stone is confirmed or for cholangitis.",
+  "key_note": "Bank marked C (ERCP); correct is D because ERCP is therapeutic and invasive, and in a stable afebrile patient MRCP is used first to confirm duct stones.",
+  "_new": true,
+  "qid": "14-N8"
+ },
+ {
+  "ncids": [
+   "K0387"
+  ],
+  "stem": "A 50-year-old man with known gallstone disease presents with pain in the right hypochondrium. He is pyrexial and tender in the RUQ, and ultrasound shows features of acute cholecystitis. What is the best treatment option?",
+  "options": {
+   "A": "Cholecystectomy",
+   "B": "Radical cholecystectomy",
+   "C": "Cholecystostomy",
+   "D": "Cholecystectomy with CBD exploration",
+   "E": "Treat conservatively"
+  },
+  "answer": "A",
+  "explanation": "Early laparoscopic cholecystectomy (ideally within the same admission) is the definitive treatment of acute calculous cholecystitis. Cholecystostomy is for patients unfit for surgery, and CBD exploration is only needed if duct stones are present.",
+  "key_note": "",
+  "_new": true,
+  "qid": "14-N9"
+ },
+ {
+  "ncids": [
+   "K0388"
+  ],
+  "stem": "What is the preferred treatment for carcinoma of the gallbladder staged T1N0M0 (T1a, confined to the lamina propria)?",
+  "options": {
+   "A": "None of the above",
+   "B": "Chemotherapy",
+   "C": "Radical resection including the gallbladder in continuity with liver segments IVb/V and regional lymph node dissection",
+   "D": "Simple cholecystectomy"
+  },
+  "answer": "D",
+  "explanation": "T1a gallbladder cancer (invading lamina propria only), often found incidentally, is cured by simple cholecystectomy with clear margins. From T1b (muscle invasion) upwards, extended cholecystectomy with liver bed resection and lymphadenectomy is advised.",
+  "key_note": "",
+  "_new": true,
+  "qid": "14-N10"
+ },
+ {
+  "ncids": [
+   "K0395"
+  ],
+  "stem": "Which statement about the management of patients with acute cholecystitis is true?",
+  "options": {
+   "A": "Antibiotic therapy should be started as soon as the diagnosis is made",
+   "B": "Dissection of the gallbladder is easy in every case",
+   "C": "A peroperative cholangiogram should be done in every patient",
+   "D": "Operation should be performed in all patients as soon as the diagnosis is made"
+  },
+  "answer": "A",
+  "explanation": "Antibiotics are started at diagnosis. Dissection is often difficult because of inflammation, routine cholangiography is not mandatory, and unfit patients may be managed non-operatively or by cholecystostomy.",
+  "key_note": "",
+  "_new": true,
+  "qid": "14-N11"
+ },
+ {
+  "ncids": [
+   "K0413",
+   "K0988"
+  ],
+  "stem": "During a cholecystectomy the cystic artery must be located and ligated. This artery most commonly arises from the:",
+  "options": {
+   "A": "Gastroduodenal artery",
+   "B": "Hepatic artery proper",
+   "C": "Right hepatic artery",
+   "D": "Left hepatic artery",
+   "E": "Superior pancreaticoduodenal artery"
+  },
+  "answer": "C",
+  "explanation": "The cystic artery usually arises from the right hepatic artery within Calot's triangle; less often it comes from the left hepatic, common hepatic or gastroduodenal artery.",
+  "key_note": "",
+  "_new": true,
+  "qid": "14-N12"
+ },
+ {
+  "ncids": [
+   "K0579"
+  ],
+  "stem": "Calot's triangle is important in identifying the:",
+  "options": {
+   "A": "Right hepatic duct",
+   "B": "Cystic duct",
+   "C": "Cystic artery",
+   "D": "Cystic lymph node of Lund",
+   "E": "Right hepatic artery"
+  },
+  "answer": "C",
+  "explanation": "Calot's triangle (cystic duct, common hepatic duct and inferior surface of the liver) is dissected to identify and safely divide the cystic artery, which runs within it. The cystic duct forms a boundary of the triangle rather than its content.",
+  "key_note": "",
+  "_new": true,
+  "qid": "14-N13"
+ },
+ {
+  "ncids": [
+   "K0582"
+  ],
+  "stem": "Which of the following is NOT a complication of gallstones?",
+  "options": {
+   "A": "Obstructive jaundice",
+   "B": "Acute pancreatitis",
+   "C": "Empyema of the gallbladder",
+   "D": "Pancreatic pseudocyst",
+   "E": "Mucocele of the gallbladder"
+  },
+  "answer": "D",
+  "explanation": "Obstructive jaundice, gallstone pancreatitis, empyema and mucocele are direct complications of gallstones. A pseudocyst is a complication of pancreatitis, not of the stones themselves.",
+  "key_note": "",
+  "_new": true,
+  "qid": "14-N14"
+ },
+ {
+  "ncids": [
+   "K0583"
+  ],
+  "stem": "An 8-week-old infant presents with obstructive jaundice. What is the best investigation for biliary atresia in infants?",
+  "options": {
+   "A": "Ultrasound",
+   "B": "CT scan",
+   "C": "Oral cholecystogram",
+   "D": "DISIDA (HIDA) scan",
+   "E": "MRCP"
+  },
+  "answer": "D",
+  "explanation": "A hepatobiliary iminodiacetic acid scan (DISIDA) showing normal uptake but no excretion into the bowel strongly suggests biliary atresia; diagnosis is confirmed by liver biopsy and operative cholangiography. Ultrasound is the first screening test (absent gallbladder, triangular cord sign) but is less definitive.",
+  "key_note": "",
+  "_new": true,
+  "qid": "14-N15"
+ },
+ {
+  "ncids": [
+   "K0593"
+  ],
+  "stem": "Which of the following is a content of the hepatoduodenal ligament?",
+  "options": {
+   "A": "Common bile duct",
+   "B": "Superior mesenteric artery",
+   "C": "Right gastroepiploic artery",
+   "D": "Gastroduodenal artery",
+   "E": "Cystic artery"
+  },
+  "answer": "A",
+  "explanation": "The free edge of the hepatoduodenal ligament (lesser omentum) contains the portal triad: common bile duct (anterolateral), hepatic artery proper (anteromedial) and portal vein (posterior); it is compressed in the Pringle manoeuvre.",
+  "key_note": "",
+  "_new": true,
+  "qid": "14-N16"
+ },
+ {
+  "ncids": [
+   "K0596"
+  ],
+  "stem": "All of the following procedures can be performed for common bile duct stones EXCEPT:",
+  "options": {
+   "A": "Dormia basket extraction through ERCP",
+   "B": "ERCP and sphincterotomy",
+   "C": "Lithotripsy of the stone through ERCP",
+   "D": "Open choledocholithotomy",
+   "E": "Hepaticojejunostomy"
+  },
+  "answer": "E",
+  "explanation": "CBD stones are cleared by ERCP sphincterotomy with basket or balloon extraction, lithotripsy for large stones, or surgical choledochotomy. Hepaticojejunostomy is a reconstruction for bile duct injury, stricture or malignancy, not a stone clearance procedure.",
+  "key_note": "",
+  "_new": true,
+  "qid": "14-N17"
+ },
+ {
+  "ncids": [
+   "K0597"
+  ],
+  "stem": "A 35-year-old woman underwent laparoscopic cholecystectomy 5 days ago and was discharged on the first postoperative day. She now presents with right hypochondrial pain, anorexia and low-grade fever. Ultrasound shows 500 mL of fluid in Morison's pouch and the pelvis. She is haemodynamically stable. After IV access and supportive treatment, what is the next step?",
+  "options": {
+   "A": "Exploratory laparotomy",
+   "B": "Conservative treatment with antibiotics and analgesia",
+   "C": "Urgent diagnostic laparoscopy",
+   "D": "Percutaneous drainage under ultrasound guidance and observation",
+   "E": "Placement of a biliary stent through ERCP"
+  },
+  "answer": "D",
+  "explanation": "A stable patient with a post-cholecystectomy collection (biloma) is first managed by percutaneous image-guided drainage; ERCP with stenting follows if a persistent leak is shown. Laparotomy or laparoscopy is for generalised biliary peritonitis or instability.",
+  "key_note": "",
+  "_new": true,
+  "qid": "14-N18"
+ },
+ {
+  "ncids": [
+   "K0837"
+  ],
+  "stem": "A middle-aged woman presents to the surgical emergency with severe right upper abdominal pain for one hour radiating to the right shoulder. There is mild tenderness in the right hypochondrium and the WBC count is normal. What is the most likely diagnosis?",
+  "options": {
+   "A": "Acute appendicitis",
+   "B": "Acute pancreatitis",
+   "C": "Biliary colic",
+   "D": "Acute cholecystitis",
+   "E": "Perforated peptic ulcer"
+  },
+  "answer": "C",
+  "explanation": "Short-duration RUQ pain radiating to the shoulder with only mild tenderness and a normal WBC is biliary colic. Acute cholecystitis gives longer pain, fever, leukocytosis and Murphy's sign.",
+  "key_note": "",
+  "_new": true,
+  "qid": "14-N19"
+ },
+ {
+  "ncids": [
+   "K0843"
+  ],
+  "stem": "A 35-year-old woman presents with severe biliary colic and gallstones are confirmed on ultrasound. What is the most appropriate management plan?",
+  "options": {
+   "A": "Emergency cholecystectomy",
+   "B": "Advise surgery only when complications occur",
+   "C": "Treat conservatively, prepare for surgery and operate on the next available list",
+   "D": "Treat conservatively and operate after 4 weeks"
+  },
+  "answer": "C",
+  "explanation": "Symptomatic gallstones should be treated by cholecystectomy; after settling the colic with analgesia, early (index admission or next available list) laparoscopic cholecystectomy prevents recurrent attacks and complications. Waiting for complications is wrong once stones are symptomatic.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "14-N20"
+ },
+ {
+  "ncids": [
+   "K0874",
+   "K1632"
+  ],
+  "stem": "Which of the following types of gallstones is most common?",
+  "options": {
+   "A": "Calcium oxalate stones",
+   "B": "Phosphate stones",
+   "C": "Cholesterol stones",
+   "D": "Pigment stones",
+   "E": "Mixed stones"
+  },
+  "answer": "C",
+  "explanation": "Cholesterol stones (including mixed stones, which are mostly cholesterol) account for about 80% of gallstones in Western and South Asian populations; pigment stones are commoner in East Asia. Older texts list mixed stones separately as the most common type, but modern classification groups them with cholesterol stones.",
+  "key_note": "One copy starred C; the other copy was not marked. Answer C confirmed by reviewer.",
+  "_new": true,
+  "qid": "14-N21"
+ },
+ {
+  "ncids": [
+   "K0875"
+  ],
+  "stem": "Obstructive jaundice may be associated with all of the following clinical findings EXCEPT:",
+  "options": {
+   "A": "Generalised pruritus",
+   "B": "Enlarged liver",
+   "C": "Anaemia",
+   "D": "Clay-coloured stools and dark urine",
+   "E": "Deranged clotting profile"
+  },
+  "answer": "C",
+  "explanation": "Obstructive jaundice causes pruritus (bile salts), pale stools and dark urine, hepatomegaly, and coagulopathy from vitamin K malabsorption. Anaemia is not a feature of obstruction itself.",
+  "key_note": "",
+  "_new": true,
+  "qid": "14-N22"
+ },
+ {
+  "ncids": [
+   "K0876"
+  ],
+  "stem": "A 50-year-old man has painless, progressive obstructive jaundice and a smooth globular mass in the right hypochondrium. Which statement about his jaundice is INCORRECT?",
+  "options": {
+   "A": "It is due to obstruction somewhere in the biliary tract",
+   "B": "Liver enzymes (ALT, AST) are expected to be markedly raised",
+   "C": "It is associated with clay-coloured stools",
+   "D": "Treatment of choice is surgery to relieve the obstruction",
+   "E": "The most probable cause is carcinoma of the head of the pancreas"
+  },
+  "answer": "B",
+  "explanation": "In obstructive jaundice ALP and GGT rise markedly while transaminases are normal or only mildly raised; marked ALT/AST rises suggest hepatocellular disease. A palpable gallbladder with painless jaundice points to periampullary or pancreatic head cancer (Courvoisier).",
+  "key_note": "",
+  "_new": true,
+  "qid": "14-N23"
+ },
+ {
+  "ncids": [
+   "K0956"
+  ],
+  "stem": "ERCP is the investigation of choice in a patient with:",
+  "options": {
+   "A": "Pre-hepatic jaundice",
+   "B": "Hepatic jaundice",
+   "C": "Post-hepatic jaundice",
+   "D": "Haemolytic jaundice",
+   "E": "Septicaemic jaundice"
+  },
+  "answer": "C",
+  "explanation": "ERCP images and treats the bile and pancreatic ducts, so it is used in post-hepatic (obstructive) jaundice, for example stone extraction or stenting. It has no role in haemolytic or hepatocellular jaundice.",
+  "key_note": "",
+  "_new": true,
+  "qid": "14-N24"
+ },
+ {
+  "ncids": [
+   "K1410"
+  ],
+  "stem": "Intrahepatic biliary lakes with stones characterise:",
+  "options": {
+   "A": "Hepatic polycystic disease",
+   "B": "Primary biliary cirrhosis",
+   "C": "Caroli's disease",
+   "D": "Cholangitis"
+  },
+  "answer": "C",
+  "explanation": "Caroli's disease (type V choledochal cyst) is congenital segmental saccular dilatation of the intrahepatic ducts, leading to stasis, intrahepatic stones and recurrent cholangitis.",
+  "key_note": "",
+  "_new": true,
+  "qid": "14-N25"
+ },
+ {
+  "ncids": [
+   "K1416"
+  ],
+  "stem": "If symptoms persist after cholecystectomy, which of the following is a possible cause?",
+  "options": {
+   "A": "Stone in the CBD",
+   "B": "Long cystic duct remnant",
+   "C": "CBD stricture from operative damage",
+   "D": "All of the above"
+  },
+  "answer": "D",
+  "explanation": "Post-cholecystectomy syndrome can be due to retained or recurrent CBD stones, a long cystic duct stump (which can hold stones), bile duct stricture from injury, or sphincter of Oddi dysfunction.",
+  "key_note": "",
+  "_new": true,
+  "qid": "14-N26"
+ },
+ {
+  "ncids": [
+   "K1417"
+  ],
+  "stem": "Gallbladder pain persisting for more than 12 hours is most likely due to:",
+  "options": {
+   "A": "Stone colic",
+   "B": "Cholecystitis",
+   "C": "Perforation of the gallbladder",
+   "D": "Torsion of the gallbladder"
+  },
+  "answer": "B",
+  "explanation": "Biliary colic usually settles within a few hours; pain lasting beyond about 6 to 12 hours, especially with fever and tenderness, indicates acute cholecystitis.",
+  "key_note": "",
+  "_new": true,
+  "qid": "14-N27"
+ },
+ {
+  "ncids": [
+   "K1441"
+  ],
+  "stem": "Which statement is TRUE regarding bile duct injuries?",
+  "options": {
+   "A": "Bile duct injury is more common in open than in laparoscopic cholecystectomy",
+   "B": "Endoscopic internal stenting is currently the procedure of choice for treating bile duct leaks",
+   "C": "About 75% of injuries are recognised intra-operatively",
+   "D": "Ultrasound is the investigation of choice for biliary tract injury",
+   "E": "A wait-and-see policy is usually successful"
+  },
+  "answer": "B",
+  "explanation": "Most minor leaks (cystic stump, duct of Luschka) are treated by ERCP with sphincterotomy and stent to lower duct pressure. Injury is commoner after laparoscopic surgery, only about a third of injuries are recognised at operation, and MRCP or ERCP rather than ultrasound defines the injury.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "14-N28"
+ },
+ {
+  "ncids": [
+   "K1442"
+  ],
+  "stem": "The commonest cause of biliary tract injury is:",
+  "options": {
+   "A": "Blunt abdominal trauma",
+   "B": "Penetrating abdominal trauma",
+   "C": "Iatrogenic injury",
+   "D": "Spontaneous rupture",
+   "E": "Upper GI endoscopy"
+  },
+  "answer": "C",
+  "explanation": "Most bile duct injuries are iatrogenic, chiefly during cholecystectomy (especially laparoscopic, about 0.3 to 0.5%). Traumatic injuries are rare.",
+  "key_note": "",
+  "_new": true,
+  "qid": "14-N29"
+ },
+ {
+  "ncids": [
+   "K1635"
+  ],
+  "stem": "Charcot's triad refers to:",
+  "options": {
+   "A": "Fever, deranged LFTs, anaemia",
+   "B": "Fever, right hypochondrial pain, jaundice",
+   "C": "Anaemia, hepatomegaly, jaundice",
+   "D": "Anaemia, right hypochondrial pain, jaundice",
+   "E": "Anaemia, fever, jaundice"
+  },
+  "answer": "B",
+  "explanation": "Charcot's triad of ascending cholangitis is RUQ pain, fever with rigors and jaundice. Adding hypotension and confusion gives Reynolds' pentad (suppurative cholangitis).",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "14-N30"
+ },
+ {
+  "ncids": [
+   "K1664"
+  ],
+  "stem": "Laparoscopic cholecystectomy is the gold standard for symptomatic gallstones. All of the following are its advantages EXCEPT:",
+  "options": {
+   "A": "Rapid recovery and early return to work",
+   "B": "Low cost of the procedure",
+   "C": "Minimal postoperative analgesic requirement",
+   "D": "Good cosmetic outcome",
+   "E": "Opportunity to inspect the abdominal cavity at the same time"
+  },
+  "answer": "B",
+  "explanation": "The equipment and disposables make laparoscopic cholecystectomy more expensive per procedure than open surgery; its advantages are less pain, shorter stay, quicker return to work and better cosmesis.",
+  "key_note": "",
+  "_new": true,
+  "qid": "14-N31"
+ },
+ {
+  "ncids": [
+   "K1665"
+  ],
+  "stem": "Gallstones may be associated with all of the following conditions EXCEPT:",
+  "options": {
+   "A": "Cholangitis",
+   "B": "Diverticulitis",
+   "C": "Intestinal obstruction",
+   "D": "Pancreatitis",
+   "E": "Cholecystitis"
+  },
+  "answer": "B",
+  "explanation": "Gallstones cause cholecystitis, cholangitis, pancreatitis and gallstone ileus (intestinal obstruction). Diverticulitis is unrelated; the gallstone, diverticulosis and hiatus hernia association is Saint's triad, not a complication.",
+  "key_note": "",
+  "_new": true,
+  "qid": "14-N32"
+ }
+]

@@ -1,0 +1,295 @@
+[
+ {
+  "cids": [
+   "C0279"
+  ],
+  "stem": "What is the lymphatic drainage of the middle and posterior thirds of the tongue?",
+  "options": {
+   "A": "Internal jugular (deep cervical) nodes",
+   "B": "Jugular nodes",
+   "C": "Posterior cervical nodes",
+   "D": "Submandibular nodes",
+   "E": "Submental nodes"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "The tip drains to the submental nodes and the lateral anterior two-thirds to the submandibular nodes, while the central and posterior tongue drain directly, often bilaterally, to the deep cervical chain along the internal jugular vein (jugulodigastric and jugulo-omohyoid nodes).",
+  "key_note": "Not marked in the source paper; the compiled answer book gave C (Posterior cervical nodes), which is incorrect. Options A and B overlap; A is the more precise answer.",
+  "figure": "",
+  "qid": "39-1"
+ },
+ {
+  "cids": [
+   "C0994"
+  ],
+  "stem": "Which of the following is the most common risk factor for carcinoma of the tongue?",
+  "options": {
+   "A": "Alcohol and dairy products",
+   "B": "Use of dentures",
+   "C": "Tobacco use",
+   "D": "Increased consumption of vitamin C"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Tobacco (smoked and chewed, including naswar and gutka with betel/areca nut in South Asia) is the main risk factor for oral cancer, and alcohol acts synergistically. Vitamin C intake is protective, not causative.",
+  "key_note": "Not marked in the source paper; answer by reviewer, which agrees with the compiled answer book. Options were garbled in the source and have been lightly reworded.",
+  "figure": "",
+  "qid": "39-2"
+ },
+ {
+  "cids": [
+   "C0952"
+  ],
+  "stem": "An elderly man presents to the surgical OPD with a white patch on the lateral border of the tongue. The lesion is most likely:",
+  "options": {
+   "A": "Carcinoma tongue",
+   "B": "Erythroplakia",
+   "C": "Leukoplakia",
+   "D": "Candidiasis",
+   "E": "Submucous fibrosis"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Leukoplakia is a white patch that cannot be rubbed off and cannot be characterised as any other disease; it is premalignant and must be biopsied. Erythroplakia is red, and candidal plaques wipe off.",
+  "key_note": "",
+  "figure": "",
+  "qid": "39-3"
+ },
+ {
+  "cids": [
+   "C0887"
+  ],
+  "stem": "A 50-year-old smoker develops whitish plaques in several parts of the oral mucosa. The most useful step in diagnosis is:",
+  "options": {
+   "A": "Cytology of oral washings",
+   "B": "Punch (incisional) biopsy of the lesion",
+   "C": "FNAC of submandibular nodes",
+   "D": "FNAC of submental lymph nodes"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Histology is required to grade dysplasia or exclude carcinoma in leukoplakia, so a biopsy of the most suspicious area (red, nodular or ulcerated) is the key step. Exfoliative cytology is only a screening adjunct.",
+  "key_note": "",
+  "figure": "",
+  "qid": "39-4"
+ },
+ {
+  "cids": [
+   "C0984"
+  ],
+  "stem": "A 60-year-old man is concerned about a white patch in his oral mucosa, and you diagnose leukoplakia. Proper management of this lesion includes:",
+  "options": {
+   "A": "Application of topical antibiotics",
+   "B": "Low-dose radiation therapy",
+   "C": "Avoidance of alcohol and tobacco, and strict oral hygiene",
+   "D": "Chemotherapy"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Leukoplakia is managed by removing irritants (tobacco, alcohol, sharp teeth), good oral hygiene, biopsy, and excision or laser ablation if dysplastic, with long-term follow-up. Radiotherapy and chemotherapy have no role.",
+  "key_note": "One paper's version added 'Excisional biopsy' as an option and two options were bolded; biopsy is also part of proper management, but this four-option version has a single best answer (C), which agrees with the compiled answer book.",
+  "figure": "",
+  "qid": "39-5"
+ },
+ {
+  "cids": [
+   "C1319"
+  ],
+  "stem": "A 58-year-old patient has an ulcer on the right buccal mucosa. Which of the following statements about oral cavity cancer is correct?",
+  "options": {
+   "A": "Squamous cell carcinoma is the most common cancer of the oral cavity",
+   "B": "High-risk premalignant conditions include leukoplakia",
+   "C": "Field change is not a concept in oropharyngeal cancer",
+   "D": "The potential for malignant transformation decreases with age",
+   "E": "Oral submucous fibrosis is related to chronic cigarette use"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Over 90% of oral cavity cancers are squamous cell carcinomas. Field cancerisation is a key concept (hence second primaries), malignant risk rises with age, and submucous fibrosis is caused by areca (betel) nut chewing, not cigarettes.",
+  "key_note": "Imperfect question: B is partly true (leukoplakia is premalignant, though erythroplakia is the high-risk lesion); A is the clearly correct statement and was the keyed answer.",
+  "figure": "",
+  "qid": "39-6"
+ },
+ {
+  "cids": [
+   "C0391"
+  ],
+  "stem": "A 65-year-old smoker presents with an ulcerating mass on his tongue, and biopsy confirms cancer. Which is the most common site for cancer of the tongue?",
+  "options": {
+   "A": "Lateral border and ventral surface of the anterior two-thirds",
+   "B": "Posterior third of tongue",
+   "C": "Tip of tongue",
+   "D": "Dorsum of tongue",
+   "E": "Ventral surface of tongue alone"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Tongue cancer most often arises on the lateral border (middle third) and ventral surface of the oral tongue, where carcinogens pool. The dorsum and tip are uncommon sites.",
+  "key_note": "",
+  "figure": "",
+  "qid": "39-7"
+ },
+ {
+  "cids": [
+   "C1196"
+  ],
+  "stem": "A 65-year-old has a large, hard, exophytic growth on the lateral border of the tongue with palpable bilateral cervical lymph nodes. Biopsy shows squamous cell carcinoma. What is the best treatment option?",
+  "options": {
+   "A": "Chemotherapy",
+   "B": "Chemoradiotherapy",
+   "C": "Surgery with suprahyoid neck dissection",
+   "D": "Surgery and radiotherapy for cervical nodes",
+   "E": "Radiotherapy alone, which is equally effective as surgery"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Advanced oral tongue cancer with nodal disease is treated by primary surgery (glossectomy with bilateral comprehensive neck dissection) followed by adjuvant radiotherapy (chemoradiotherapy for adverse features). A suprahyoid dissection is inadequate for palpable nodes.",
+  "key_note": "Not marked in the source paper; answer by reviewer, which agrees with the compiled answer book.",
+  "figure": "",
+  "qid": "39-8"
+ },
+ {
+  "cids": [
+   "C1320"
+  ],
+  "stem": "A patient has stage I oropharyngeal carcinoma. Which treatment option is best?",
+  "options": {
+   "A": "Radiotherapy",
+   "B": "Chemotherapy",
+   "C": "Combination chemoradiotherapy",
+   "D": "Surgical resection of the tumour with neck dissection",
+   "E": "Palliation"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Early (stage I) oropharyngeal cancer is treated with a single modality: either transoral surgical resection with neck dissection or primary radiotherapy, with similar cure rates. Chemoradiotherapy is for advanced disease.",
+  "key_note": "The paper key marked D, while the compiled answer book gave A (Radiotherapy); both are accepted single-modality treatments for stage I disease, so either may be expected depending on the examiner.",
+  "figure": "",
+  "qid": "39-9"
+ },
+ {
+  "ncids": [
+   "K0545"
+  ],
+  "stem": "A patient presents with a mouth ulcer and the doctor advises biopsy. Which of the following lesions carries the greatest risk of becoming oral cancer?",
+  "options": {
+   "A": "Ranula and plunging ranula",
+   "B": "Sialadenitis and sialolithiasis",
+   "C": "Aphthous ulcer",
+   "D": "Proliferative verrucous leukoplakia",
+   "E": "Acute oral candidiasis"
+  },
+  "answer": "D",
+  "explanation": "Proliferative verrucous leukoplakia is a multifocal, progressive form of leukoplakia with a very high rate of malignant transformation to squamous cell carcinoma. The other options are not premalignant.",
+  "key_note": "",
+  "_new": true,
+  "qid": "39-N1"
+ },
+ {
+  "ncids": [
+   "K0739"
+  ],
+  "stem": "A lateral palatal swelling can be due to:",
+  "options": {
+   "A": "Malignancy of the maxillary sinus",
+   "B": "Palatal minor salivary gland tumour",
+   "C": "Neurofibroma of the greater palatine nerve",
+   "D": "Squamous carcinoma of the palate",
+   "E": "Any of the above"
+  },
+  "answer": "E",
+  "explanation": "A swelling of the lateral hard palate may arise from the palate itself (minor salivary gland tumour, squamous carcinoma, nerve sheath tumour) or from below the maxillary sinus floor eroding through, so all are possible.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "39-N2"
+ },
+ {
+  "ncids": [
+   "K1102"
+  ],
+  "stem": "Aphthous ulcers are found in the:",
+  "options": {
+   "A": "Bladder",
+   "B": "Colon",
+   "C": "Eye",
+   "D": "Mouth",
+   "E": "Stomach"
+  },
+  "answer": "D",
+  "explanation": "Aphthous ulcers are small, painful, recurrent shallow ulcers of the oral mucosa with a yellow base and red halo. They also occur in Crohn's disease and Behcet's disease, but the classic site is the mouth.",
+  "key_note": "",
+  "_new": true,
+  "qid": "39-N3"
+ },
+ {
+  "ncids": [
+   "K1211"
+  ],
+  "stem": "Which of the following statements regarding fine needle aspiration cytology (FNAC) in head and neck (oropharyngeal) cancer is true?",
+  "options": {
+   "A": "It commonly causes seeding of disease to the skin",
+   "B": "It gives reliable results independent of the operator",
+   "C": "It is the standard method for diagnosing the primary tumour",
+   "D": "It is used in the assessment of enlarged cervical lymph nodes",
+   "E": "It requires tissue fixation for interpretation"
+  },
+  "answer": "D",
+  "explanation": "FNAC (often ultrasound-guided) is the standard way to assess an enlarged cervical lymph node for metastatic squamous carcinoma. It is operator dependent, needle-track seeding is negligible, and the primary is diagnosed by incisional biopsy.",
+  "key_note": "Bank marked A with *; correct is D because FNAC is used to assess cervical nodes and seeding is not a recognised practical problem.",
+  "_new": true,
+  "qid": "39-N4"
+ },
+ {
+  "ncids": [
+   "K1511"
+  ],
+  "stem": "A 60-year-old farmer has a growth on his lip, and biopsy confirms squamous cell carcinoma. Squamous cell carcinoma of the lip:",
+  "options": {
+   "A": "Arises in areas of persistent hyperkeratosis",
+   "B": "Accounts for more than 90% of cases occurring in the upper lip",
+   "C": "Constitutes 30% of all oral cavity cancers",
+   "D": "Is resistant to radiotherapy",
+   "E": "Initially metastasises to the ipsilateral posterior cervical lymph nodes"
+  },
+  "answer": "A",
+  "explanation": "Lip cancer typically arises on the sun-exposed lower lip in areas of chronic actinic hyperkeratosis (actinic cheilitis). Over 90% occur on the lower lip, it is radiosensitive and it spreads first to submental and submandibular nodes.",
+  "key_note": "",
+  "_new": true,
+  "qid": "39-N5"
+ },
+ {
+  "ncids": [
+   "K0845"
+  ],
+  "stem": "The commonest malignant tumour of the oral cavity is:",
+  "options": {
+   "A": "Adenocarcinoma",
+   "B": "Squamous cell carcinoma",
+   "C": "Melanoma",
+   "D": "Stromal tumour"
+  },
+  "answer": "B",
+  "explanation": "Over 90% of oral cavity cancers are squamous cell carcinomas arising from the mucosal lining, linked to tobacco, betel nut and alcohol.",
+  "key_note": "",
+  "_new": true,
+  "qid": "39-N6"
+ },
+ {
+  "ncids": [
+   "K1193"
+  ],
+  "stem": "What is the most common malignancy encountered in the oropharynx?",
+  "options": {
+   "A": "Adenocarcinoma",
+   "B": "Squamous cell carcinoma",
+   "C": "Adenoid cystic carcinoma",
+   "D": "Non-Hodgkin's lymphoma",
+   "E": "Salivary gland tumours"
+  },
+  "answer": "B",
+  "explanation": "Squamous cell carcinoma (increasingly HPV-related) is the commonest oropharyngeal malignancy. Lymphoma of the tonsil and Waldeyer's ring is the second commonest.",
+  "key_note": "",
+  "_new": true,
+  "qid": "39-N7"
+ }
+]

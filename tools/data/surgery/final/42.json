@@ -1,0 +1,73 @@
+[
+ {
+  "cids": [
+   "C0535"
+  ],
+  "stem": "Regarding Le Fort facial fractures, which is the only one that involves the inferior orbital rim?",
+  "options": {
+   "A": "Le Fort-I fracture",
+   "B": "Le Fort-II fracture",
+   "C": "Le Fort III fracture",
+   "D": "Compound Mandibular fracture",
+   "E": "Condylar fracture"
+  },
+  "answer": "B",
+  "explanation": "The Le Fort II (pyramidal) fracture runs from the nasal bridge through the medial orbital wall, orbital floor and across the inferior orbital rim near the infraorbital foramen, then down the zygomaticomaxillary buttress. Le Fort III passes through the lateral orbital wall and zygomatic arch, above the inferior rim, and Le Fort I is a low horizontal maxillary fracture.",
+  "key_note": "One paper had option C (Le Fort III) circled in pen; correct is B, as printed keys agree.",
+  "answer_text": "",
+  "figure": "",
+  "qid": "42-1"
+ },
+ {
+  "ncids": [
+   "K0318"
+  ],
+  "stem": "What is the most common site of fracture of the mandible?",
+  "options": {
+   "A": "The neck of the condyle",
+   "B": "The angle of the mandible",
+   "C": "The region of the canine tooth",
+   "D": "Midline (symphysis) of the mandible",
+   "E": "At the level of the incisors"
+  },
+  "answer": "A",
+  "explanation": "The condylar neck is the commonest site, often fractured indirectly by a blow to the chin, followed by the angle and the parasymphyseal (canine) region.",
+  "key_note": "",
+  "_new": true,
+  "qid": "42-N1"
+ },
+ {
+  "ncids": [
+   "K1322"
+  ],
+  "stem": "Which of the following findings is the LEAST likely to indicate that an injured patient has a fracture of the upper or lower jaw?",
+  "options": {
+   "A": "There is bruising over the mastoid process",
+   "B": "The mouth is persistently held open",
+   "C": "The upper and lower teeth do not fit properly",
+   "D": "There is a haematoma in the floor of the mouth"
+  },
+  "answer": "A",
+  "explanation": "Bruising over the mastoid (Battle's sign) indicates a fracture of the middle cranial fossa base, not the jaw. Malocclusion, inability to close the mouth and a sublingual haematoma are classic signs of jaw fracture.",
+  "key_note": "",
+  "_new": true,
+  "qid": "42-N2"
+ },
+ {
+  "ncids": [
+   "K1323"
+  ],
+  "stem": "An injured patient has a fracture of the mandible in which the bone ends are pulled apart by muscle action (unfavourable fracture). This is best treated by:",
+  "options": {
+   "A": "A jaw plaster",
+   "B": "Intermaxillary fixation",
+   "C": "Fixation with plates",
+   "D": "Bone graft"
+  },
+  "answer": "C",
+  "explanation": "Displaced, unfavourable mandibular fractures need open reduction and internal fixation with miniplates, which resists the distracting muscle pull and allows early function. Intermaxillary fixation alone suits undisplaced or favourable fractures.",
+  "key_note": "",
+  "_new": true,
+  "qid": "42-N3"
+ }
+]

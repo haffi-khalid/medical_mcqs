@@ -1,0 +1,57 @@
+[
+ {
+  "cids": [
+   "C0424"
+  ],
+  "stem": "Following is NOT a part of Tetralogy of Fallot:",
+  "options": {
+   "A": "VSD",
+   "B": "ASD",
+   "C": "Overriding aorta",
+   "D": "Pulmonary stenosis",
+   "E": "Right ventricular hypertrophy"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Tetralogy of Fallot comprises VSD, overriding aorta, right ventricular outflow (pulmonary) stenosis and right ventricular hypertrophy; ASD is not part of it (adding an ASD makes the pentalogy of Fallot).",
+  "key_note": "",
+  "figure": "",
+  "qid": "35-1"
+ },
+ {
+  "ncids": [
+   "K0512"
+  ],
+  "stem": "A 14-year-old boy is seen by a paediatric cardiologist because of increasing shortness of breath. Studies reveal increased pulmonary vascular resistance, left axis deviation on ECG, and a mitral regurgitation murmur. What is the most likely diagnosis?",
+  "options": {
+   "A": "Ostium primum defect",
+   "B": "Tetralogy of Fallot",
+   "C": "Right aortic arch",
+   "D": "Ostium secundum defect",
+   "E": "Complete atrioventricular canal"
+  },
+  "answer": "A",
+  "explanation": "An ostium primum ASD (partial AV septal defect) has a cleft anterior mitral leaflet causing mitral regurgitation and characteristically left axis deviation, and often presents later in childhood. Secundum defects cause right axis deviation, and a complete AV canal usually presents with heart failure in infancy.",
+  "key_note": "Bank marked E; correct is A because survival to 14 with left axis deviation and mitral regurgitation fits an ostium primum (partial AV canal) defect; complete AV canal presents in infancy.",
+  "_new": true,
+  "qid": "35-N1"
+ },
+ {
+  "ncids": [
+   "K0615"
+  ],
+  "stem": "Which of the following is a cause of Eisenmenger syndrome?",
+  "options": {
+   "A": "Ventricular septal defect",
+   "B": "Ischaemic heart disease",
+   "C": "Rheumatic heart disease",
+   "D": "Mitral stenosis",
+   "E": "Paravalvular leak"
+  },
+  "answer": "A",
+  "explanation": "Eisenmenger syndrome is reversal of a left to right shunt (VSD, ASD, PDA) once pulmonary vascular resistance exceeds systemic, causing cyanosis. VSD is the commonest cause.",
+  "key_note": "",
+  "_new": true,
+  "qid": "35-N2"
+ }
+]

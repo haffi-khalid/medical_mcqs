@@ -1,0 +1,1015 @@
+[
+ {
+  "cids": [
+   "C0836"
+  ],
+  "stem": "The palm of a patient is approximately equivalent to how much of the body surface area (BSA)?",
+  "options": {
+   "A": "1 percent",
+   "B": "2 percent",
+   "C": "3 percent",
+   "D": "4 percent",
+   "E": "5 percent"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "The patient's palm including the fingers is about 1% TBSA, which makes it useful for estimating small or patchy burns.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G2-1"
+ },
+ {
+  "cids": [
+   "C0666"
+  ],
+  "stem": "A 21-year-old woman presents with a scald from boiling water over both her lower limbs. What percentage of TBSA is burned?",
+  "options": {
+   "A": "9%",
+   "B": "18%",
+   "C": "27%",
+   "D": "36%",
+   "E": "45%"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Rule of nines: each lower limb is 18% in an adult, so both lower limbs = 2 x 18 = 36%.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G2-2"
+ },
+ {
+  "cids": [
+   "C0435"
+  ],
+  "stem": "A 60-year-old woman sustained burns to both arms and the front of the chest and abdomen. What is the burned surface area in this patient?",
+  "options": {
+   "A": "36%",
+   "B": "40%",
+   "C": "50%",
+   "D": "55%",
+   "E": "60%"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Rule of nines: each upper limb is 9% (2 x 9 = 18%) and the anterior trunk (chest plus abdomen) is 18%, total 18 + 18 = 36%.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G2-3"
+ },
+ {
+  "cids": [
+   "C1505",
+   "C1065"
+  ],
+  "stem": "A 40-year-old man sustained burns over both arms and the head and neck. What is the total burned area in this patient?",
+  "options": {
+   "A": "20%",
+   "B": "27%",
+   "C": "30%",
+   "D": "40%",
+   "E": "50%"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Rule of nines: head and neck 9% plus each upper limb 9% (2 x 9 = 18%), total 9 + 18 = 27%.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G2-4"
+ },
+ {
+  "cids": [
+   "C1200"
+  ],
+  "stem": "A six-month-old boy is brought to the emergency room after a scald with hot liquid. His head, face, right upper limb and right lower limb are burnt. Which method gives the most accurate calculation of the burnt area?",
+  "options": {
+   "A": "Rule of three",
+   "B": "Rule of seven",
+   "C": "Rule of eleven",
+   "D": "The Lund and Browder chart",
+   "E": "The Parkland formula"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Infants have a proportionally larger head and smaller legs, so the rule of nines is inaccurate; the Lund and Browder chart adjusts for age. Parkland calculates fluid, not burn area.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "G2-5"
+ },
+ {
+  "cids": [
+   "C1072"
+  ],
+  "stem": "A third-degree burn involves:",
+  "options": {
+   "A": "Only the epidermis",
+   "B": "Epidermis and superficial dermis",
+   "C": "Epidermis and the whole dermis",
+   "D": "Epidermis, dermis and subcutaneous tissue",
+   "E": "Underlying muscle"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A third-degree (full-thickness) burn destroys the epidermis and the entire dermis, so it is painless, leathery and cannot heal from adnexal remnants. Extension into subcutaneous fat, muscle or bone is classed as fourth degree.",
+  "key_note": "The paper key marked D (epidermis + dermis + subcutaneous tissue); correct is C: full thickness means the entire dermis, and deeper tissue involvement defines a fourth-degree burn, although a few older texts let third degree extend into fat.",
+  "figure": "",
+  "qid": "G2-6"
+ },
+ {
+  "cids": [
+   "C1202"
+  ],
+  "stem": "A 5-year-old child spills hot tea over himself while playing. What immediate first aid should be given at the site of the accident?",
+  "options": {
+   "A": "Butter",
+   "B": "Ice",
+   "C": "Honey",
+   "D": "Tap water",
+   "E": "Toothpaste"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Cool running tap water for about 20 minutes (useful up to 3 hours after injury) limits tissue damage and pain. Ice causes vasoconstriction and deepens the burn; butter and toothpaste add contamination.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "G2-7"
+ },
+ {
+  "cids": [
+   "C1064"
+  ],
+  "stem": "A patient sustained burns in a closed space. In the pre-hospital setting, what should the rescuer check in this patient?",
+  "options": {
+   "A": "Pour water on the patient to stop burning",
+   "B": "Do not remove the patient's clothes",
+   "C": "Do not open the patient's mouth",
+   "D": "Check for other associated injuries",
+   "E": "Cover the patient with a plastic sheet"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Closed-space fires often involve explosions, falls or escape injuries, so a full primary survey for associated trauma is needed. Burnt clothing should be removed, and cling film (not a plastic sheet over the whole patient) is used only as a dressing.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G2-8"
+ },
+ {
+  "cids": [
+   "C1074"
+  ],
+  "stem": "A patient was burnt in a closed space. Which other injury is most expected along with the burns?",
+  "options": {
+   "A": "Limb fractures",
+   "B": "Inhalational injury",
+   "C": "Abdominal trauma",
+   "D": "Vascular injury",
+   "E": "Perineal injury"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Fires in enclosed spaces expose the patient to hot gases, smoke and carbon monoxide, so inhalational injury must be assumed until excluded.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G2-9"
+ },
+ {
+  "cids": [
+   "C0001"
+  ],
+  "stem": "In a burned patient, associated pulmonary (inhalational) injury:",
+  "options": {
+   "A": "Should be suspected in head and neck burns",
+   "B": "Does not appear clinically in the first 24 hours",
+   "C": "May be avoided by prophylactic antibiotics",
+   "D": "Is relatively more common in burns of >20%",
+   "E": "May result in cerebral oedema"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Facial and neck burns, singed nasal hair, soot in the mouth, hoarseness and a closed-space history are the classic markers of inhalational injury. Upper airway oedema can appear within hours, and prophylactic antibiotics do not prevent it.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "G2-10"
+ },
+ {
+  "cids": [
+   "N024"
+  ],
+  "stem": "In a burn patient with difficulty in breathing, which system is the immediate concern?",
+  "options": {},
+  "answer": null,
+  "answer_text": "Respiratory system (airway: inhalational injury)",
+  "explanation": "Airway compromise from inhalational injury and upper airway oedema can kill within hours, so the airway is assessed and secured first in line with ABC.",
+  "key_note": "Options not available in the source; recall question.",
+  "figure": "",
+  "qid": "G2-11"
+ },
+ {
+  "cids": [
+   "C1506"
+  ],
+  "stem": "A 20-year-old man presents after a burn in a closed room. He has difficulty breathing, and on examination has burns of the face, both lips and the oral cavity. What is the first step in management?",
+  "options": {
+   "A": "Analgesics",
+   "B": "Antiseptic dressing",
+   "C": "Endotracheal intubation",
+   "D": "IV antibiotics",
+   "E": "Ringer's lactate infusion"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Stridor or breathing difficulty with intraoral burns signals impending airway obstruction from oedema, so early endotracheal intubation comes first (A before C). Delay makes later intubation very difficult.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G2-12"
+ },
+ {
+  "cids": [
+   "C0884"
+  ],
+  "stem": "Following a 2-hour firefighting episode, a 36-year-old fireman complains of a throbbing headache, nausea, dizziness and visual disturbances. In the ER his carboxyhaemoglobin level is 31%. What is the most appropriate next step in his treatment?",
+  "options": {
+   "A": "Begin an immediate exchange transfusion",
+   "B": "Transfer the patient to a hyperbaric oxygen chamber",
+   "C": "Begin bicarbonate infusion and give acetazolamide intravenously",
+   "D": "Administer 100% oxygen by mask",
+   "E": "Perform flexible bronchoscopy with further therapy determined by findings"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "100% oxygen via a non-rebreather mask cuts the half-life of carboxyhaemoglobin from about 4 hours to about 40-60 minutes and is the immediate treatment. Hyperbaric oxygen is a later option of debated benefit and should never delay normobaric oxygen.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G2-13"
+ },
+ {
+  "cids": [
+   "C1055"
+  ],
+  "stem": "Shock can occur in burn patients if the burnt area exceeds what percentage of body surface area (BSA)?",
+  "options": {
+   "A": "15 percent",
+   "B": "25 percent",
+   "C": "35 percent",
+   "D": "45 percent",
+   "E": "10 percent"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Bailey & Love: adults with burns over 15% TBSA (10% in children) are likely to develop hypovolaemic burn shock and need formal IV resuscitation. About 25% TBSA is the level at which the inflammatory response becomes systemic.",
+  "key_note": "Two paper keys and the compiled key marked B (25%) and one paper marked A (15%); correct is A, since 15% is the standard adult threshold for burn shock and IV fluids.",
+  "figure": "",
+  "qid": "G2-14"
+ },
+ {
+  "cids": [
+   "C1237"
+  ],
+  "stem": "Which of the following formulae is used to calculate fluid requirement in a burned patient?",
+  "options": {
+   "A": "5 x % of TBSA burned x BMI",
+   "B": "10 x % of TBSA burned x height x weight",
+   "C": "4 x % of TBSA burned x weight",
+   "D": "7 x % of TBSA burned x height",
+   "E": "2 x % of TBSA burned x BMI x time since burn in minutes"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Parkland formula: 4 ml x weight (kg) x %TBSA of crystalloid (Hartmann's) in the first 24 hours from the time of burn. Half is given in the first 8 hours and half over the next 16 hours.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G2-15"
+ },
+ {
+  "cids": [
+   "C0667"
+  ],
+  "stem": "How much IV fluid should be given in the first 24 hours to an 80 kg patient with burns of 20% TBSA?",
+  "options": {
+   "A": "2700 ml",
+   "B": "3200 ml",
+   "C": "4200 ml",
+   "D": "5000 ml",
+   "E": "6400 ml"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Parkland: 4 x 80 x 20 = 6400 ml in 24 hours (3200 ml in the first 8 hours, then 3200 ml over 16 hours).",
+  "key_note": "",
+  "figure": "",
+  "qid": "G2-16"
+ },
+ {
+  "cids": [
+   "C0004"
+  ],
+  "stem": "A 43-year-old man is brought to the emergency department after a house fire. You estimate 20% burns and he weighs about 80 kg. How much fluid should the patient receive over the next 6 hours?",
+  "options": {
+   "A": "2400 ml",
+   "B": "3200 ml",
+   "C": "4500 ml",
+   "D": "5600 ml",
+   "E": "6400 ml"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Parkland: 4 x 80 x 20 = 6400 ml per 24 hours; half (3200 ml) is given in the first 8 hours, i.e. 400 ml/hour, so the next 6 hours need 400 x 6 = 2400 ml. 3200 ml is the full first-8-hour volume.",
+  "key_note": "Paper key B (3200 ml), which is the first-8-hour volume; the stem asks for 6 hours and gives no delay since the burn, so by arithmetic the answer is 2400 ml (A). If the exam version says 'first 8 hours', the answer is 3200 ml.",
+  "figure": "",
+  "qid": "G2-17"
+ },
+ {
+  "cids": [
+   "C0717"
+  ],
+  "stem": "A 70 kg man presents with a 30% burn. According to the Parkland formula, what volume of fluid is to be replaced in the first 24 hours?",
+  "options": {
+   "A": "7000 ml",
+   "B": "7400 ml",
+   "C": "8000 ml",
+   "D": "8400 ml",
+   "E": "9000 ml"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Parkland: 4 x 70 x 30 = 8400 ml in 24 hours, 4200 ml in the first 8 hours and 4200 ml over the next 16 hours.",
+  "key_note": "Not marked in the source paper; the compiled key gave C (8000 ml), which is wrong: 4 x 70 x 30 = 8400 ml (D).",
+  "figure": "",
+  "qid": "G2-18"
+ },
+ {
+  "cids": [
+   "C1066"
+  ],
+  "stem": "A 45-year-old woman weighing 55 kg has burns of 25% of her body. Resuscitation with crystalloids is started. What fluid volume should be given over the first 24 hours?",
+  "options": {
+   "A": "1500 ml",
+   "B": "5500 ml",
+   "C": "3500 ml",
+   "D": "2000 ml",
+   "E": "500 ml"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Parkland: 4 x 55 x 25 = 5500 ml in 24 hours, 2750 ml in the first 8 hours.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G2-19"
+ },
+ {
+  "cids": [
+   "C1175"
+  ],
+  "stem": "A 21-year-old woman presents 1 hour after flame burns. She has full-thickness burns of the whole trunk (thorax and abdomen, front and back). She weighs 70 kg. Calculate the IV fluid requirement for the first 8 hours (ml).",
+  "options": {
+   "A": "6080",
+   "B": "8080",
+   "C": "10080",
+   "D": "11080",
+   "E": "12080"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Anterior trunk 18% + posterior trunk 18% = 36% TBSA. Parkland: 4 x 70 x 36 = 10080 ml in 24 hours, so the first 8 hours should get half, 5040 ml.",
+  "key_note": "Not marked in the source paper; the question is flawed: the correct first-8-hour volume (5040 ml) is not offered, and C (10080 ml) is the 24-hour total, which is presumably the intended answer.",
+  "figure": "",
+  "qid": "G2-20"
+ },
+ {
+  "cids": [
+   "C0748"
+  ],
+  "stem": "A 32-year-old man weighing 90 kg has circumferential burns to the whole left lower limb and the perineum. Using ATLS guidelines, what is the most appropriate volume of crystalloid for resuscitation over the first 24 hours?",
+  "options": {
+   "A": "2-3 L",
+   "B": "3-5 L",
+   "C": "7-9 L",
+   "D": "10-13 L",
+   "E": "14-16 L"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "TBSA = whole lower limb 18% + perineum 1% = 19%. ATLS 10th edition uses 2 ml x kg x %TBSA for adult burns: 2 x 90 x 19 = 3420 ml, i.e. within 3-5 L (the older Parkland 4 ml would give 6840 ml, which is not in 7-9 L either).",
+  "key_note": "Not marked in the source paper; the compiled key gave C (7-9 L), which is wrong: the ATLS 2 ml formula gives 3.42 L (B), and even Parkland's 6.84 L falls below 7 L.",
+  "figure": "",
+  "qid": "G2-21"
+ },
+ {
+  "cids": [
+   "C0892",
+   "C0434"
+  ],
+  "stem": "Which of the following is the best guide to fluid replacement in a burns patient?",
+  "options": {
+   "A": "Haemoglobin",
+   "B": "Urine output",
+   "C": "Urine osmolality",
+   "D": "Plasma volume",
+   "E": "Specific gravity"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Hourly urine output via a catheter is the best guide to burn resuscitation: target 0.5-1 ml/kg/h in adults and about 1 ml/kg/h in children. The formula only gives a starting rate that is titrated to urine output.",
+  "key_note": "One paper key marked C (urine osmolality); correct is B: urine output is the standard end point for titrating burn fluids.",
+  "figure": "",
+  "qid": "G2-22"
+ },
+ {
+  "cids": [
+   "C1067"
+  ],
+  "stem": "A 30-year-old man accidentally burnt himself in a factory, with superficial and deep burns on the limbs and abdomen. Deep burns are definitively managed by which measure?",
+  "options": {
+   "A": "Escharotomy",
+   "B": "Full-thickness flaps",
+   "C": "Tangential excision (shaving) and split-thickness skin grafting",
+   "D": "Dressings only",
+   "E": "None"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Deep dermal and full-thickness burns will not heal well on their own, so early tangential excision and split-thickness skin grafting is the definitive treatment. Escharotomy only relieves constriction from circumferential eschar.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G2-23"
+ },
+ {
+  "cids": [
+   "C1073"
+  ],
+  "stem": "All of the following burn injuries require management in a specialised burns centre EXCEPT:",
+  "options": {
+   "A": "Chemical burns",
+   "B": "Burns with inhalation injury",
+   "C": "Electrical burns",
+   "D": "Partial-thickness burns of 10% total body surface area",
+   "E": "Burns involving the face, hands or feet"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Referral criteria include partial-thickness burns over 10% TBSA (adult), burns of the face, hands, feet, genitalia or major joints, and chemical, electrical and inhalation injuries. A 10% partial-thickness burn is below that threshold.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G2-24"
+ },
+ {
+  "cids": [
+   "C0846"
+  ],
+  "stem": "A homeless elderly man is brought to the emergency department with frostbite of both feet. What is the most appropriate immediate management?",
+  "options": {
+   "A": "Slow rewarming at room temperature",
+   "B": "Amputation of the gangrenous toes",
+   "C": "Rapid rewarming with warm water",
+   "D": "Rapid rewarming with hot water or dry heat",
+   "E": "Thorough debridement of blisters and devitalised tissue"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Frostbite is treated by rapid rewarming in circulating warm water at 40-42 C until the part is flushed. Dry or hot heat causes burns, and amputation is delayed for weeks until demarcation is clear.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G2-25"
+ },
+ {
+  "ncids": [
+   "K0024"
+  ],
+  "stem": "A 60-year-old woman weighing 70 kg sustains 25% burns. What is her fluid requirement for the first 24 hours according to the Parkland formula?",
+  "options": {
+   "A": "4000 ml",
+   "B": "5000 ml",
+   "C": "6000 ml",
+   "D": "7000 ml",
+   "E": "8000 ml"
+  },
+  "answer": "D",
+  "explanation": "Parkland: 4 ml x 70 kg x 25% = 7000 ml in 24 hours, half (3500 ml) in the first 8 hours from the time of burn. Note ATLS 10th ed starts adults at 2 ml/kg/%TBSA, which would give 3500 ml, but that option is not offered.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G2-N1"
+ },
+ {
+  "ncids": [
+   "K0050"
+  ],
+  "stem": "A 25-year-old woman is evacuated from a burning building after being trapped for 30 minutes. She has singed nasal hair. The rest of the examination is unremarkable: no stridor, hoarseness, facial burns or respiratory distress. What is the next step in management?",
+  "options": {
+   "A": "Discharge the patient",
+   "B": "Early elective intubation",
+   "C": "Admit for observation",
+   "D": "Chest X-ray",
+   "E": "Bronchoscopy"
+  },
+  "answer": "C",
+  "explanation": "Singed nasal hair alone is a marker of possible inhalation injury, not an indication for intubation; she must be admitted and observed (with airway assessment, e.g. fibreoptic laryngoscopy, and COHb) for evolving airway oedema. Intubation is indicated when there are signs of airway compromise such as hoarseness, stridor, deep facial or intraoral burns.",
+  "key_note": "Bank marked B (early elective intubation); correct is C because with an otherwise normal examination ATLS indications for intubation are absent and the patient needs admission and observation, not prophylactic intubation.",
+  "_new": true,
+  "qid": "G2-N2"
+ },
+ {
+  "ncids": [
+   "K0051"
+  ],
+  "stem": "In a 70 kg male patient with 40% burns, what is the total intravenous fluid requirement in the first 24 hours (Parkland formula)?",
+  "options": {
+   "A": "3200 ml",
+   "B": "5200 ml",
+   "C": "7200 ml",
+   "D": "9200 ml",
+   "E": "11200 ml"
+  },
+  "answer": "E",
+  "explanation": "Parkland: 4 ml x 70 kg x 40% = 11200 ml in 24 hours, half (5600 ml) in the first 8 hours.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G2-N3"
+ },
+ {
+  "ncids": [
+   "K0052"
+  ],
+  "stem": "Which of the following is true of electrical burns?",
+  "options": {
+   "A": "Airway intubation is mandatory",
+   "B": "Copious lavage helps in most cases",
+   "C": "Limb amputation should be done early",
+   "D": "The myocardium is not damaged",
+   "E": "Disruption of cardiac pacing (conduction) can cause cardiac arrest"
+  },
+  "answer": "E",
+  "explanation": "Current passing through the heart disrupts its conduction system, causing arrhythmias and arrest, so ECG monitoring is needed; the myocardium itself can also be damaged. Lavage is for chemical burns, and amputation is not done early.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G2-N4"
+ },
+ {
+  "ncids": [
+   "K0053"
+  ],
+  "stem": "A 27-year-old soldier is referred from Gilgit 10 days after sustaining frostbite at Siachen. All the toes of both feet are black, with a line of demarcation at the metatarsophalangeal joints. Which of the following is true in this patient?",
+  "options": {
+   "A": "Amputation can be considered",
+   "B": "Prophylaxis against cardiac arrhythmias should be given",
+   "C": "Prophylaxis against clotting disorders should be given",
+   "D": "Rewarming the foot will re-establish blood supply",
+   "E": "Warm fluids and ibuprofen will be beneficial"
+  },
+  "answer": "A",
+  "explanation": "A clear line of demarcation means the gangrene is established and the necrotic tissue is non-viable, so amputation at the demarcation level can now be planned. Rewarming helps only in the acute phase and cannot revascularise dead tissue.",
+  "key_note": "Bank starred A and D and highlighted all five options; correct is A because rewarming (D) is only useful acutely and cannot restore blood supply to demarcated gangrene.",
+  "_new": true,
+  "qid": "G2-N5"
+ },
+ {
+  "ncids": [
+   "K0143"
+  ],
+  "stem": "An 8-year-old boy accidentally touches a hot iron with his forearm. The burned area has weeping blisters and is very tender to touch. What is the burn depth?",
+  "options": {
+   "A": "First degree",
+   "B": "Second degree (partial thickness)",
+   "C": "Third degree",
+   "D": "Fourth degree",
+   "E": "Fifth degree"
+  },
+  "answer": "B",
+  "explanation": "Erythema with blisters (bullae), weeping and severe pain indicate a second-degree (partial-thickness) burn. First-degree burns are red without blisters; third-degree burns are white or leathery and painless.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G2-N6"
+ },
+ {
+  "ncids": [
+   "K0157"
+  ],
+  "stem": "What is the percentage burn in a patient with circumferential burns of the right lower limb and right upper limb and burns of the anterior trunk?",
+  "options": {
+   "A": "18%",
+   "B": "36%",
+   "C": "45%",
+   "D": "50%",
+   "E": "70%"
+  },
+  "answer": "C",
+  "explanation": "Rule of nines: right lower limb 18% + right upper limb 9% + anterior trunk 18% = 45%.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G2-N7"
+ },
+ {
+  "ncids": [
+   "K0234",
+   "K0958",
+   "K1174",
+   "K1212",
+   "K1234"
+  ],
+  "stem": "A 15-year-old girl sustains 30% scalds from boiling water. In the emergency department IV access is established. What fluid should the doctor start for resuscitation?",
+  "options": {
+   "A": "Blood transfusion",
+   "B": "Warmed Ringer's lactate solution",
+   "C": "10% dextrose solution",
+   "D": "5% dextrose saline solution",
+   "E": "Normal saline cooled before infusion"
+  },
+  "answer": "B",
+  "explanation": "Ringer's lactate (Hartmann's) is the crystalloid of choice for burn resuscitation and should be warmed to prevent hypothermia. Dextrose solutions are not resuscitation fluids and blood is not needed in early burns.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G2-N8"
+ },
+ {
+  "ncids": [
+   "K0417"
+  ],
+  "stem": "Which of the following is the characteristic gastrointestinal consequence of major burns?",
+  "options": {
+   "A": "Splanchnic vasodilatation",
+   "B": "Acute gastric dilatation",
+   "C": "Curling's ulcers",
+   "D": "Terminal ileal hyperplasia",
+   "E": "Mechanical bowel obstruction"
+  },
+  "answer": "C",
+  "explanation": "Curling's ulcers are acute stress ulcers of the stomach and duodenum seen after major burns. Burns cause splanchnic vasoconstriction (not dilatation); paralytic ileus and gastric distension may occur but the classic named consequence is Curling's ulcer (Cushing's ulcer follows head injury).",
+  "key_note": "",
+  "_new": true,
+  "qid": "G2-N9"
+ },
+ {
+  "ncids": [
+   "K0513"
+  ],
+  "stem": "A 10-year-old boy is brought with second-degree burns of the face and perineum, with swelling of the scrotum. Where should this patient be managed?",
+  "options": {
+   "A": "Plastic surgery unit",
+   "B": "General surgery ward",
+   "C": "Burns unit",
+   "D": "At home",
+   "E": "Specialised intensive care"
+  },
+  "answer": "C",
+  "explanation": "Burns of the face, hands, feet, genitalia and perineum, even if small, are referral criteria for a specialised burns unit because of functional and cosmetic consequences.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G2-N10"
+ },
+ {
+  "ncids": [
+   "K0668"
+  ],
+  "stem": "In estimation of the area of a burn, all of the following statements are correct EXCEPT:",
+  "options": {
+   "A": "When extensive, the estimation is best undertaken once the patient has been resuscitated",
+   "B": "It provides important prognostic information",
+   "C": "It is an important factor in estimating fluid requirements",
+   "D": "It is based on the 'Rule of nines'"
+  },
+  "answer": "A",
+  "explanation": "The burn area must be estimated at initial assessment because it determines the fluid resuscitation volume and prognosis; it should not be postponed until after resuscitation.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G2-N11"
+ },
+ {
+  "ncids": [
+   "K0681",
+   "K0698"
+  ],
+  "stem": "Which of the following statements is INCORRECT about second-degree burns?",
+  "options": {
+   "A": "They are very painful",
+   "B": "They are due to partial loss of skin layers",
+   "C": "They are pale in appearance",
+   "D": "They are associated with significant fluid loss"
+  },
+  "answer": "C",
+  "explanation": "Second-degree (partial-thickness) burns are red or pink, blistered, moist and very painful, and heal from surviving epidermal elements. A pale, white or leathery painless burn suggests full thickness.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G2-N12"
+ },
+ {
+  "ncids": [
+   "K0747"
+  ],
+  "stem": "A 56-year-old man is burned while sleeping at home and has extensive second-degree burns of the right upper and lower limbs and the upper anterior chest. A second-degree burn is characterised by which of the following?",
+  "options": {
+   "A": "Coagulative necrosis extending to subcutaneous fat",
+   "B": "Pearly white appearance",
+   "C": "Anaesthetic skin",
+   "D": "Erythema and bullae formation",
+   "E": "Requires immediate skin grafting"
+  },
+  "answer": "D",
+  "explanation": "Partial-thickness burns show erythema and blisters (bullae) and are painful. Coagulative necrosis to fat, a white appearance and loss of sensation are features of full-thickness burns.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G2-N13"
+ },
+ {
+  "ncids": [
+   "K0755"
+  ],
+  "stem": "A 30-year-old factory worker is rescued from a burning factory. He is tachycardic and has burns of the back, chest, neck and face. While resuscitating him with IV fluids you notice that his nasal hair and moustache are singed. What is the most appropriate course in management?",
+  "options": {
+   "A": "Continue IV fluids",
+   "B": "Start IV antibiotics",
+   "C": "Prepare for escharotomy",
+   "D": "Early elective intubation",
+   "E": "Perform a chest X-ray"
+  },
+  "answer": "D",
+  "explanation": "Facial and neck burns with singed facial hair after a closed-space fire indicate likely inhalation injury; with massive fluid resuscitation the airway will swell, so early elective intubation is safer than waiting for obstruction.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G2-N14"
+ },
+ {
+  "ncids": [
+   "K0802"
+  ],
+  "stem": "A 70 kg man has third-degree burns of the whole right arm and second-degree burns of the anterior trunk. Which statement is most correct?",
+  "options": {
+   "A": "He has burns of 27% of his body surface area",
+   "B": "He requires 2 to 4 ml of Hartmann's solution per kg per percent burn in the first 8 hours after admission",
+   "C": "A normal blood gas and chest X-ray on admission exclude inhalational injury",
+   "D": "Prophylactic antibiotics and steroids are of proven benefit if he has inhalational injury",
+   "E": "Alkalinising the urine prevents renal damage if the burns were electrical"
+  },
+  "answer": "A",
+  "explanation": "Right arm 9% + anterior trunk 18% = 27%. The 2 to 4 ml/kg/% is the 24-hour volume (timed from injury, not admission); a normal admission CXR and gas do not exclude inhalation injury; steroids and prophylactic antibiotics are not beneficial.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G2-N15"
+ },
+ {
+  "ncids": [
+   "K0810"
+  ],
+  "stem": "A 24-year-old woman has burns of the right upper limb, head and neck and front of the chest. What is the total percentage of burn?",
+  "options": {
+   "A": "50%",
+   "B": "45%",
+   "C": "27%",
+   "D": "30%",
+   "E": "67%"
+  },
+  "answer": "C",
+  "explanation": "Rule of nines: right upper limb 9% + head and neck 9% + front of chest 9% (half of the 18% anterior trunk) = 27%.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G2-N16"
+ },
+ {
+  "ncids": [
+   "K0814"
+  ],
+  "stem": "Which one of the following is true of scarring associated with burns?",
+  "options": {
+   "A": "Partial-thickness burns do not scar",
+   "B": "Excision and grafting of a deep burn minimises scarring",
+   "C": "Scarring is greatest in burns that heal quickly",
+   "D": "Scarring is less in burns that heal slowly",
+   "E": "Antibiotics have no role in the scarring process"
+  },
+  "answer": "B",
+  "explanation": "Burns that take more than about 3 weeks to heal scar badly, so early excision and grafting of deep burns minimises hypertrophic scarring. Deep partial-thickness burns do scar, and infection (which antibiotics help prevent) worsens scarring.",
+  "key_note": "Bank marked E with *; correct is B because early excision and grafting reduces scarring, whereas infection increases scarring so antibiotics do influence it.",
+  "_new": true,
+  "qid": "G2-N17"
+ },
+ {
+  "ncids": [
+   "K0951"
+  ],
+  "stem": "In burn patients, which one of the following features is indicative of inhalational injury?",
+  "options": {
+   "A": "Carbonaceous sputum",
+   "B": "Perineal burns",
+   "C": "History of burning in an outdoor environment",
+   "D": "Explosion injury with burns of the lower limbs",
+   "E": "Electrical burns of the back"
+  },
+  "answer": "A",
+  "explanation": "Carbonaceous (sooty) sputum, burns in an enclosed space, facial burns, singed facial hair, hoarseness and stridor suggest inhalation injury.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G2-N18"
+ },
+ {
+  "ncids": [
+   "K0983"
+  ],
+  "stem": "A 21-year-old woman presents 1 hour after flame burns of 50% total body surface area. She weighs 70 kg. Using the Parkland formula, how much IV fluid (ml) is required in the first 8 hours?",
+  "options": {
+   "A": "3000",
+   "B": "5000",
+   "C": "7000",
+   "D": "9000",
+   "E": "14000"
+  },
+  "answer": "C",
+  "explanation": "4 ml x 70 kg x 50% = 14000 ml in 24 hours; half (7000 ml) is given in the first 8 hours from the time of injury.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G2-N19"
+ },
+ {
+  "ncids": [
+   "K1007"
+  ],
+  "stem": "A 23-year-old woman weighing 60 kg sustains 50% burns while cooking. Using the Parkland formula, what is her fluid requirement for the first 8 hours?",
+  "options": {
+   "A": "2.5 litres",
+   "B": "3 litres",
+   "C": "3.5 litres",
+   "D": "1 litre",
+   "E": "6 litres"
+  },
+  "answer": "E",
+  "explanation": "4 ml x 60 kg x 50% = 12000 ml in 24 hours; half (6000 ml, i.e. 750 ml per hour) is given in the first 8 hours. The original stem said 'hourly', which does not fit the options.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G2-N20"
+ },
+ {
+  "ncids": [
+   "K1160"
+  ],
+  "stem": "A 35-year-old housewife sustains full-thickness burns involving both lower limbs and half of the back. What is the percentage of burnt area by Wallace's rule of nines?",
+  "options": {
+   "A": "25%",
+   "B": "35%",
+   "C": "45%",
+   "D": "55%",
+   "E": "65%"
+  },
+  "answer": "C",
+  "explanation": "Both lower limbs 18% + 18% = 36%, plus half of the back (9% of the 18% posterior trunk) = 45%.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G2-N21"
+ },
+ {
+  "ncids": [
+   "K1272"
+  ],
+  "stem": "A technician working on electrical equipment touches a live wire. After recovering from the initial shock he notices redness and pain on the palm of his right hand. The next day the surgeon notes a brown, band-like discoloured area on the palmar aspect of the hand. What is the best course of action?",
+  "options": {
+   "A": "Plan serial wound excision",
+   "B": "Review the patient after 48 hours",
+   "C": "Do a superficial wound excision",
+   "D": "Do a wound excision and apply an immediate skin graft",
+   "E": "Do partial wound excision under GA and tourniquet"
+  },
+  "answer": "A",
+  "explanation": "In electrical burns the deep tissue damage is far greater than the skin wound suggests and declares itself over days, so serial (staged) debridement is planned before definitive cover.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G2-N22"
+ },
+ {
+  "ncids": [
+   "K1282"
+  ],
+  "stem": "A 30-year-old woman sustains burns to nearly 40% of the lower half of her body and reaches hospital 4 hours later. She is very restless and in pain, pulse 100/min, BP 100/70 mmHg, and her clothes are soaked with straw-coloured fluid. Hb is 17.8 g/dl and PCV 54%. The laboratory abnormalities are best explained by:",
+  "options": {
+   "A": "Full-thickness (deep) burns",
+   "B": "Pre-existing polycythaemia",
+   "C": "Predominantly superficial burns",
+   "D": "Laboratory error",
+   "E": "Exaggerated inflammatory response"
+  },
+  "answer": "C",
+  "explanation": "Painful burns that weep large volumes of plasma-like fluid are superficial (partial-thickness) burns; the plasma loss causes haemoconcentration, hence the high Hb and PCV. Full-thickness burns are painless and dry.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G2-N23"
+ },
+ {
+  "ncids": [
+   "K1315"
+  ],
+  "stem": "A patient reaches casualty 6 hours after a burn of the forearm. The burn is deep with a circumferential eschar; total extent is 5%. What is the most important next step?",
+  "options": {
+   "A": "IV fluid therapy according to the Parkland formula",
+   "B": "Occlusive dressing with silver sulfadiazine",
+   "C": "Non-occlusive dressing with silver sulfadiazine",
+   "D": "Escharotomy"
+  },
+  "answer": "D",
+  "explanation": "A circumferential full-thickness eschar acts as a tourniquet as oedema develops and threatens distal circulation, so escharotomy is the priority. A 5% burn does not need formal IV resuscitation.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G2-N24"
+ },
+ {
+  "ncids": [
+   "K1357"
+  ],
+  "stem": "In a child with burn injury, IV fluid resuscitation is required when the burned area exceeds:",
+  "options": {
+   "A": "5 percent",
+   "B": "10 percent",
+   "C": "15 percent",
+   "D": "20 percent",
+   "E": "25 percent"
+  },
+  "answer": "B",
+  "explanation": "Formal IV resuscitation is needed for burns over 10% TBSA in children and over 15% in adults.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G2-N25"
+ },
+ {
+  "ncids": [
+   "K1471"
+  ],
+  "stem": "A 25-year-old man is brought to the emergency department with burns of the face, left upper limb and chest and full-thickness burns of the right upper limb. He is agitated, hypotensive and tachycardic. Which statement is correct?",
+  "options": {
+   "A": "High-dose penicillin should be given prophylactically",
+   "B": "Tetanus prophylaxis is not required in burn wounds",
+   "C": "The estimated burn area is 60% of total body surface area",
+   "D": "Heart rate is the most sensitive indicator of adequacy of fluid resuscitation",
+   "E": "The patient should undergo immediate intubation for airway protection and oxygen administration"
+  },
+  "answer": "E",
+  "explanation": "Facial burns with agitation (possible hypoxia or CO poisoning) mean the airway is at risk, so it is secured first. Prophylactic antibiotics are not given, burns are tetanus-prone wounds, the area is about 36% (face/head 9 + each arm 9 + chest 9), and urine output is the best guide to resuscitation. (Option B reworded from 'not necessary if immunised in last 3 years', which is actually guideline-compliant.)",
+  "key_note": "",
+  "_new": true,
+  "qid": "G2-N26"
+ },
+ {
+  "ncids": [
+   "K1516"
+  ],
+  "stem": "A 40-year-old man is burned in a confined space. He is in respiratory distress, is intubated, and soot is suctioned from the endotracheal tube. Which statement is correct?",
+  "options": {
+   "A": "Smoke poisoning is a thermal rather than a chemical injury",
+   "B": "Carbon monoxide levels are unlikely to be elevated unless there are skin or oropharyngeal burns",
+   "C": "Chest X-ray in the early post-inhalation period shows a characteristic ground-glass appearance",
+   "D": "Damage to the upper respiratory tract is common and usually seen on laryngoscopy",
+   "E": "Patients with elevated carboxyhaemoglobin levels should be hospitalised for a minimum of 24 hours"
+  },
+  "answer": "E",
+  "explanation": "Raised COHb indicates significant smoke exposure, and these patients are admitted for oxygen and observation for delayed lung injury. Smoke injury below the cords is chemical, CO can be raised without any burns, and the early CXR is usually normal.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G2-N27"
+ },
+ {
+  "ncids": [
+   "K1517"
+  ],
+  "stem": "A 25-year-old man has burns of the face, left upper limb and chest, with full-thickness burns of the right upper limb. He is agitated, hypotensive and tachycardic. Which statement is correct concerning initial wound management?",
+  "options": {
+   "A": "Topical antibiotics should not be used as they encourage resistant organisms",
+   "B": "Early excision of facial and hand burns is especially important",
+   "C": "Escharotomy should only be performed if neurological impairment is imminent",
+   "D": "Excision of full-thickness burn areas should be done 3 to 7 days after injury",
+   "E": "Split-thickness skin grafting should be done immediately for full-thickness burns"
+  },
+  "answer": "D",
+  "explanation": "Full-thickness burns are excised early (within the first days, once the patient is resuscitated) and grafted, which reduces infection and scarring. Topical antimicrobials are standard, face and hands are not excised early, and escharotomy is done before vascular compromise, not when neurological loss is imminent.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G2-N28"
+ },
+ {
+  "ncids": [
+   "K1687"
+  ],
+  "stem": "Regarding a full-thickness burn wound:",
+  "options": {
+   "A": "It looks reddish in colour",
+   "B": "Skin grafting is likely to succeed if performed within the first week after injury",
+   "C": "Skin grafting should be delayed until scar tissue has developed",
+   "D": "Skin grafts will minimise scarring",
+   "E": "Skin grafting is rarely necessary"
+  },
+  "answer": "D",
+  "explanation": "Full-thickness burns cannot heal from residual epidermis, so excision and grafting is needed and minimises contracture and scarring. They look white or leathery, and grafting is not delayed until scarring forms.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G2-N29"
+ },
+ {
+  "ncids": [
+   "K1688"
+  ],
+  "stem": "Which statement about patients with major burns is CORRECT?",
+  "options": {
+   "A": "They have normal caloric requirements",
+   "B": "They are in negative nitrogen balance",
+   "C": "They do not generally become anaemic",
+   "D": "They usually do not develop gastrointestinal complications",
+   "E": "They are less prone to septicaemia"
+  },
+  "answer": "B",
+  "explanation": "Major burns produce a hypermetabolic, catabolic state with negative nitrogen balance. Caloric needs rise markedly, anaemia, Curling's ulcers and sepsis are all common.",
+  "key_note": "Original stem asked for the INCORRECT statement and the bank marked A, but A, C, D and E are all incorrect; the stem has been reversed to 'CORRECT' and the answer is B.",
+  "_new": true,
+  "qid": "G2-N30"
+ }
+]

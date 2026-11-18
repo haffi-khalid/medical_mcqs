@@ -1,0 +1,1508 @@
+[
+ {
+  "cids": [
+   "C0731"
+  ],
+  "stem": "Which of the following is not a branch of the abdominal aorta?",
+  "options": {
+   "A": "Superior mesenteric artery",
+   "B": "Superior phrenic artery",
+   "C": "Inferior phrenic artery",
+   "D": "Renal artery",
+   "E": "Inferior mesenteric artery"
+  },
+  "answer": "B",
+  "explanation": "The superior phrenic arteries arise from the thoracic aorta just above the diaphragm. The inferior phrenic arteries are the first branches of the abdominal aorta.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "G8-1"
+ },
+ {
+  "cids": [
+   "C0737"
+  ],
+  "stem": "A 67-year-old man is undergoing an angiogram for gastrointestinal bleeding. The radiologist advances the catheter into the coeliac axis. At what vertebral level does this vessel typically arise from the aorta?",
+  "options": {
+   "A": "T10",
+   "B": "L3",
+   "C": "L4",
+   "D": "T12",
+   "E": "None of the above"
+  },
+  "answer": "D",
+  "explanation": "The coeliac trunk arises from the anterior aorta at T12, just below the aortic hiatus. The SMA arises at L1, the renal arteries at L1-L2, the IMA at L3 and the bifurcation is at L4.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "G8-2"
+ },
+ {
+  "cids": [
+   "C0738"
+  ],
+  "stem": "A 22-year-old soldier is shot in the abdomen and has a major disruption of the abdominal aorta with torrential haemorrhage. The surgeons control the aorta by placing a vascular clamp immediately inferior to the diaphragm. Which of the following vessels may be injured in this manoeuvre?",
+  "options": {
+   "A": "Inferior phrenic arteries",
+   "B": "Superior phrenic arteries",
+   "C": "Splenic artery",
+   "D": "Renal arteries",
+   "E": "Superior mesenteric artery"
+  },
+  "answer": "A",
+  "explanation": "The inferior phrenic arteries are the first branches of the abdominal aorta, arising just below the aortic hiatus, so a clamp placed immediately under the diaphragm can injure them. The superior phrenic arteries are thoracic.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "G8-3"
+ },
+ {
+  "cids": [
+   "C1290",
+   "C1219"
+  ],
+  "stem": "A 60-year-old male smoker presents with severe leg pain during walking, relieved by rest. His ankle-brachial index (ABI) is 0.6. What is the most likely diagnosis?",
+  "options": {
+   "A": "Atherosclerotic peripheral artery disease",
+   "B": "Deep vein thrombosis",
+   "C": "Popliteal artery aneurysm",
+   "D": "Femoral artery embolism",
+   "E": "Takayasu arteritis"
+  },
+  "answer": "A",
+  "explanation": "Claudication with an ABPI below 0.9 in an elderly smoker is atherosclerotic peripheral arterial disease. An ABPI of 0.5-0.9 is typical of claudication.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G8-4"
+ },
+ {
+  "cids": [
+   "C1164"
+  ],
+  "stem": "A 65-year-old man presents with intermittent claudication and is unable to walk for more than 10 minutes. He is being evaluated for severity of disease. The normal ankle brachial pressure index (ABPI) is:",
+  "options": {
+   "A": "0.1-0.2",
+   "B": "0.3-0.5",
+   "C": "0.5-0.7",
+   "D": "0.9-1.3",
+   "E": "1.4-1.6"
+  },
+  "answer": "D",
+  "explanation": "A normal ABPI is about 0.9-1.3. Below 0.9 indicates arterial disease, below 0.5 suggests critical ischaemia, and above 1.3 suggests incompressible calcified vessels, as in diabetics.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "G8-5"
+ },
+ {
+  "cids": [
+   "C1495"
+  ],
+  "stem": "In a patient with limb ischaemia, which of the following ankle brachial pressure index (ABPI) values is suggestive of critical limb ischaemia?",
+  "options": {
+   "A": "More than 1.4",
+   "B": "Between 0.9-1.0",
+   "C": "Less than 0.5",
+   "D": "Between 0.5-0.8",
+   "E": "Between 0.8-0.9"
+  },
+  "answer": "C",
+  "explanation": "Critical limb ischaemia (rest pain or tissue loss) is usually associated with an ABPI below 0.5 or an ankle pressure below 50 mmHg. Values of 0.5-0.9 correspond to claudication.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G8-6"
+ },
+ {
+  "cids": [
+   "C0921",
+   "C1223"
+  ],
+  "stem": "A 50-year-old heavy smoker has had intermittent claudication in the right lower limb for the past three weeks and has now developed severe rest pain. What is a typical feature of rest pain?",
+  "options": {
+   "A": "It improves on lying down",
+   "B": "It improves on elevating the legs",
+   "C": "It improves by hanging the foot outside the bed",
+   "D": "It is worst in the day time",
+   "E": "It is least at night"
+  },
+  "answer": "C",
+  "explanation": "Ischaemic rest pain is worst at night when the leg is horizontal and is relieved by hanging the foot over the side of the bed, as gravity improves perfusion pressure. Elevation makes it worse.",
+  "key_note": "One paper key marked B (improves on elevating the legs); correct is C: elevation worsens ischaemic rest pain and dependency relieves it.",
+  "figure": "",
+  "qid": "G8-7"
+ },
+ {
+  "cids": [
+   "C0465"
+  ],
+  "stem": "A 55-year-old man who smokes 40 cigarettes per day presents with pain in his left calf after walking 100 metres. The pain subsides with rest. He has no symptoms in his thigh or buttock. He has a good volume femoral pulse but no popliteal or pedal pulses are palpable. Neurological examination is normal. He undergoes duplex Doppler ultrasound. Which is the single most likely finding?",
+  "options": {
+   "A": "Left common iliac artery occlusion",
+   "B": "Left internal iliac artery stenosis",
+   "C": "Left posterior tibial artery occlusion",
+   "D": "Left profunda femoris artery stenosis",
+   "E": "Left superficial femoral artery occlusion"
+  },
+  "answer": "E",
+  "explanation": "Calf claudication with a normal femoral pulse but absent popliteal pulse localises the disease to the superficial femoral artery, the commonest site of occlusion (adductor canal). Iliac disease would weaken the femoral pulse and cause buttock or thigh pain.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G8-8"
+ },
+ {
+  "cids": [
+   "C0407"
+  ],
+  "stem": "Methods used to investigate arterial disease include the following EXCEPT:",
+  "options": {
+   "A": "Angiography",
+   "B": "Angioplasty",
+   "C": "Auscultation",
+   "D": "CT angiography",
+   "E": "Duplex scan"
+  },
+  "answer": "B",
+  "explanation": "Angioplasty is a therapeutic endovascular procedure, not an investigation. Auscultation for bruits, duplex, CT angiography and angiography are all diagnostic.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G8-9"
+ },
+ {
+  "cids": [
+   "C1468"
+  ],
+  "stem": "A patient presents to OPD complaining of cramp-like debilitating pain on walking which is usually relieved by rest within 5 minutes. Which of the following drugs is traditionally considered contraindicated in his condition?",
+  "options": {
+   "A": "Beta-blockers",
+   "B": "HMG-CoA reductase inhibitors",
+   "C": "Vasodilators",
+   "D": "NSAIDs",
+   "E": "Anti-platelet drugs"
+  },
+  "answer": "A",
+  "explanation": "This is intermittent claudication. Non-selective beta-blockers were classically avoided because they may reduce peripheral blood flow, whereas statins and antiplatelet agents are mandatory secondary prevention.",
+  "key_note": "Classic exam answer; current evidence shows cardioselective beta-blockers are safe in PAD, but A remains the intended answer.",
+  "figure": "",
+  "qid": "G8-10"
+ },
+ {
+  "cids": [
+   "C0698"
+  ],
+  "stem": "For femoro-popliteal arterial bypass, the most favoured graft material is:",
+  "options": {
+   "A": "Ulnar artery",
+   "B": "Autologous saphenous vein",
+   "C": "Silicone prosthesis",
+   "D": "Umbilical vein",
+   "E": "Dacron prosthesis"
+  },
+  "answer": "B",
+  "explanation": "Autologous great saphenous vein has the best long-term patency for infrainguinal bypass, especially below the knee. Prosthetic grafts (Dacron, PTFE) are used for large-calibre aorto-iliac reconstruction.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G8-11"
+ },
+ {
+  "cids": [
+   "C0938"
+  ],
+  "stem": "A 56-year-old male has leg pain at rest. He also has severe coronary artery disease and cannot walk two flights of steps without getting short of breath. Evaluation shows complete aortoiliac occlusive disease and he needs surgery. Which one of the following options is acceptable?",
+  "options": {
+   "A": "Aortobiiliac bypass",
+   "B": "Aortobifemoral bypass",
+   "C": "Aortoiliac angioplasty and stent placement",
+   "D": "Axillobifemoral bypass",
+   "E": "Axilloiliac bypass"
+  },
+  "answer": "D",
+  "explanation": "In a high-risk cardiac patient who cannot tolerate laparotomy and aortic cross-clamping, an extra-anatomic axillobifemoral bypass is the acceptable option. Aortobifemoral bypass is the gold standard only in fit patients.",
+  "key_note": "One paper key marked B (aortobifemoral bypass); correct is D: severe coronary disease makes aortic clamping too risky, so an extra-anatomic bypass is preferred.",
+  "figure": "",
+  "qid": "G8-12"
+ },
+ {
+  "cids": [
+   "C1005"
+  ],
+  "stem": "An elderly patient with ischaemic rest pain is found to have combined aortoiliac and femoropopliteal occlusive disease. What is the treatment of choice?",
+  "options": {
+   "A": "Aortofemoral bypass",
+   "B": "Femoropopliteal bypass",
+   "C": "Aortofemoral and femoropopliteal bypass",
+   "D": "Lumbar sympathectomy",
+   "E": "Vasodilator therapy"
+  },
+  "answer": "A",
+  "explanation": "With multilevel disease the inflow (aortoiliac) lesion is corrected first; aortofemoral bypass, with profunda flow, relieves rest pain in most patients. A distal bypass is added only if ischaemia persists.",
+  "key_note": "The compiled answer book gave C (combined bypass); the paper key A is correct: inflow is restored first and a simultaneous distal bypass is rarely needed.",
+  "figure": "",
+  "qid": "G8-13"
+ },
+ {
+  "cids": [
+   "C1294"
+  ],
+  "stem": "A 50-year-old diabetic male presents with a non-healing foot ulcer, toe gangrene and decreased pedal pulses. Angiography shows significant stenosis of the tibial arteries. What would be the most appropriate management?",
+  "options": {
+   "A": "Amputation",
+   "B": "Angioplasty and stenting",
+   "C": "Surgical bypass",
+   "D": "Medical management with antibiotics",
+   "E": "Wound care and dressings"
+  },
+  "answer": "B",
+  "explanation": "This is critical limb ischaemia with tissue loss, so revascularisation is needed before the wound can heal. Focal tibial stenoses are well suited to endovascular angioplasty, which is less invasive than distal bypass.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G8-14"
+ },
+ {
+  "cids": [
+   "C0924"
+  ],
+  "stem": "Which of the following statements is true about arterial occlusion?",
+  "options": {
+   "A": "Acute arterial occlusion is most commonly caused by atherosclerosis",
+   "B": "In occlusion caused by thrombus, there is no time for collaterals to develop",
+   "C": "Vascular occlusion in different parts of the body produces similar symptoms",
+   "D": "Pain, pallor, paraesthesia and pulselessness are the hallmark of acute ischaemia",
+   "E": "Intermittent claudication is a symptom of an acute ischaemic episode"
+  },
+  "answer": "D",
+  "explanation": "The 6 Ps (pain, pallor, pulselessness, paraesthesia, paralysis, perishing cold) are the hallmark of acute limb ischaemia. Thrombosis usually occurs on a chronic stenosis where collaterals have already formed, and claudication is a chronic symptom.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G8-15"
+ },
+ {
+  "cids": [
+   "C0021"
+  ],
+  "stem": "Regarding acute limb ischaemia:",
+  "options": {
+   "A": "Arterial occlusion has less dramatic effects in those with underlying occlusive disease",
+   "B": "It occurs more often in patients in sinus rhythm",
+   "C": "Objective sensory loss does not require urgent treatment",
+   "D": "Fixed skin staining is an early sign",
+   "E": "Intra-arterial thrombolysis is invariably successful with no morbidity"
+  },
+  "answer": "A",
+  "explanation": "Patients with pre-existing occlusive disease have developed collaterals, so acute thrombosis is less dramatic than embolism into a normal arterial tree. Embolism is linked to atrial fibrillation, sensory loss demands urgent revascularisation, and fixed staining is a late sign of irreversibility.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G8-16"
+ },
+ {
+  "cids": [
+   "C1165"
+  ],
+  "stem": "A 65-year-old woman with ischaemic heart disease presents with severe pain in her left leg for the last 2 hours. Her doctor suspects an embolus blocking her left femoral artery. The golden window in which the limb can be saved in acute limb ischaemia is:",
+  "options": {
+   "A": "Less than 6 hours",
+   "B": "Less than 8 hours",
+   "C": "Less than 10 hours",
+   "D": "Less than 12 hours",
+   "E": "Less than 14 hours"
+  },
+  "answer": "A",
+  "explanation": "Skeletal muscle and nerve tolerate complete ischaemia for about 4-6 hours, after which irreversible necrosis develops. Revascularisation should therefore be achieved within 6 hours.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "G8-17"
+ },
+ {
+  "cids": [
+   "C1004"
+  ],
+  "stem": "A 63-year-old man has had a cyanotic painful left fourth toe for 2 days. The dorsalis pedis and posterior tibial arteries are palpable on both sides. There is no history of cardiac or vascular disease. What is the most likely diagnosis?",
+  "options": {
+   "A": "Cardiac embolus",
+   "B": "Atheroembolism",
+   "C": "Lupus vasculitis",
+   "D": "Digital atherosclerosis",
+   "E": "Raynaud's syndrome"
+  },
+  "answer": "B",
+  "explanation": "Blue toe syndrome with palpable foot pulses is due to cholesterol microemboli from a proximal ulcerated plaque or aneurysm. A cardiac embolus would usually lodge proximally and abolish the pulses.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G8-18"
+ },
+ {
+  "cids": [
+   "C1168",
+   "C0722"
+  ],
+  "stem": "A 60-year-old woman presents with sudden severe pain and paraesthesia of the left leg for the last 1 hour. She has ischaemic heart disease with a recent myocardial infarction. Her left leg is pale, cold and pulseless. Which of the following would be the best emergency surgical management?",
+  "options": {
+   "A": "Above knee amputation",
+   "B": "Below knee amputation",
+   "C": "Emergency embolectomy",
+   "D": "Intravenous heparin infusion",
+   "E": "Oral warfarin"
+  },
+  "answer": "C",
+  "explanation": "Sudden onset in a patient with a recent MI (mural thrombus) indicates an embolus, and a limb seen within an hour is salvageable by Fogarty embolectomy. Heparin is started immediately but is not the surgical treatment.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "G8-19"
+ },
+ {
+  "cids": [
+   "C1007"
+  ],
+  "stem": "A young patient sustains blunt trauma to his right knee that results in acute thrombosis of his popliteal artery. Which tissue is most sensitive to ischaemia?",
+  "options": {
+   "A": "Muscle",
+   "B": "Nerve",
+   "C": "Skin",
+   "D": "Fat",
+   "E": "Bone"
+  },
+  "answer": "B",
+  "explanation": "Peripheral nerve is the most ischaemia-sensitive tissue, so paraesthesia and sensory loss appear first; muscle follows within about 4-6 hours, while skin and bone tolerate ischaemia much longer.",
+  "key_note": "One paper key marked A (muscle); correct is B: nerves show the earliest ischaemic dysfunction.",
+  "figure": "",
+  "qid": "G8-20"
+ },
+ {
+  "cids": [
+   "C0745"
+  ],
+  "stem": "A 27-year-old man sustains a single gunshot wound to the left thigh. In the ER he has a large haematoma of the medial thigh and complains of paraesthesia in the foot. Weak pulses are palpable distal to the injury and he is unable to move his foot. The appropriate initial management of this patient is:",
+  "options": {
+   "A": "Angiography",
+   "B": "Immediate exploration and repair",
+   "C": "Fasciotomy of the anterior compartment",
+   "D": "Observation for resolution of spasm",
+   "E": "Local wound exploration"
+  },
+  "answer": "B",
+  "explanation": "A large haematoma with distal neurological deficit indicates a hard sign of arterial injury with limb-threatening ischaemia, which mandates immediate operative exploration and repair. A palpable but weak pulse does not exclude arterial injury and spasm should never be assumed.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "G8-21"
+ },
+ {
+  "cids": [
+   "C1006"
+  ],
+  "stem": "A 23-year-old man is received in the emergency department after a road accident with trauma to the left thigh. There is obvious deformity of the thigh and distal pulses are not palpable. How will you manage the case?",
+  "options": {
+   "A": "Intravenous fluids",
+   "B": "Exploration of vessel in the emergency department",
+   "C": "CT angiography of the vessel",
+   "D": "Arteriography",
+   "E": "Correction of the deformity by application of traction"
+  },
+  "answer": "E",
+  "explanation": "In a long bone fracture with absent pulses, the first step after the primary survey is to realign the limb with traction and reassess pulses, since kinking or compression of the artery often recovers. If pulses remain absent, proceed urgently to imaging or exploration in theatre, never in the ED.",
+  "key_note": "The paper key marked B (exploration in the ED); correct is E per ATLS: realign the fracture and reassess pulses first, and any vascular exploration is done in theatre.",
+  "figure": "",
+  "qid": "G8-22"
+ },
+ {
+  "cids": [
+   "C1292"
+  ],
+  "stem": "A 25-year-old male presents with recurrent episodes of digital ischaemia, Raynaud's phenomenon and positive antinuclear antibodies. Angiography shows multiple arterial occlusions. What is the most likely diagnosis?",
+  "options": {
+   "A": "Buerger's disease",
+   "B": "Takayasu arteritis",
+   "C": "Giant cell arteritis",
+   "D": "Systemic lupus erythematosus",
+   "E": "Primary Raynaud's disease"
+  },
+  "answer": "D",
+  "explanation": "A positive ANA with secondary Raynaud's and digital arterial occlusions points to a connective tissue disease such as SLE. Buerger's disease is a diagnosis of exclusion that requires negative autoimmune serology, and occurs in heavy smokers.",
+  "key_note": "One paper key marked A (Buerger's disease); correct is D: positive ANA indicates an autoimmune vasculitis and excludes Buerger's disease.",
+  "figure": "",
+  "qid": "G8-23"
+ },
+ {
+  "cids": [
+   "C0389"
+  ],
+  "stem": "A young female presents with a hard swelling in the neck, with numbness, pain and wasting of the small muscles of the hand. What is she most probably suffering from?",
+  "options": {
+   "A": "Raynaud's disease",
+   "B": "Thromboangiitis obliterans",
+   "C": "Acrocyanosis",
+   "D": "Sagging of the shoulder girdle",
+   "E": "Cervical rib"
+  },
+  "answer": "E",
+  "explanation": "A cervical rib forms a bony hard supraclavicular swelling and compresses the lower trunk of the brachial plexus (T1), causing pain, numbness and wasting of the intrinsic hand muscles (thoracic outlet syndrome).",
+  "key_note": "",
+  "figure": "",
+  "qid": "G8-24"
+ },
+ {
+  "cids": [
+   "C0015"
+  ],
+  "stem": "Which of the following is not a cause of gangrene?",
+  "options": {
+   "A": "Buerger's disease",
+   "B": "Infection",
+   "C": "Intra-arterial drug injection",
+   "D": "Frostbite",
+   "E": "Deep vein thrombosis"
+  },
+  "answer": "E",
+  "explanation": "Buerger's disease, infection (gas gangrene, Fournier's), frostbite and accidental intra-arterial injection (for example thiopentone) are all recognised causes of gangrene. Ordinary DVT does not cause gangrene; venous gangrene occurs only in the rare extreme of phlegmasia caerulea dolens.",
+  "key_note": "The paper key marked C (intra-arterial drug injection); correct is E: intra-arterial injection is a classic cause of digital gangrene, whereas DVT rarely causes it. Option E was garbled in the source ('Deep vein thrombosis insufficiency').",
+  "figure": "",
+  "qid": "G8-25"
+ },
+ {
+  "cids": [
+   "C1516"
+  ],
+  "stem": "A 60-year-old diabetic male presents to the OPD with a foul-smelling non-healing ulcer with slough. Which of the following pathophysiological changes can be attributed to this condition?",
+  "options": {
+   "A": "Micro-angiopathy",
+   "B": "Neuropathy",
+   "C": "Raised blood uric acid levels",
+   "D": "Raised sorbitol levels in the body",
+   "E": "Reduced sensitivity of insulin receptors to insulin"
+  },
+  "answer": "A",
+  "explanation": "Poor healing of diabetic foot ulcers is classically attributed to microangiopathy (thickened capillary basement membrane and impaired microcirculation) along with neuropathy, macrovascular disease and infection.",
+  "key_note": "Flawed question: neuropathy (B) is also correct and is the main initiator of diabetic foot ulceration; A is the paper key and the usual answer for 'non-healing'.",
+  "figure": "",
+  "qid": "G8-26"
+ },
+ {
+  "cids": [
+   "C1494"
+  ],
+  "stem": "A 65-year-old lady with diabetes on oral hypoglycaemics is admitted with a non-healing wound on the dorsum of her right foot. The wound is foul smelling with purulent discharge, and X-rays show a sequestrum in the bone. What is the grade of her wound according to Wagner's classification?",
+  "options": {
+   "A": "Grade 1",
+   "B": "Grade 2",
+   "C": "Grade 3",
+   "D": "Grade 4",
+   "E": "Grade 5"
+  },
+  "answer": "C",
+  "explanation": "Wagner grade 3 is a deep ulcer with abscess or osteomyelitis; a sequestrum means osteomyelitis. Grade 4 is localised (forefoot) gangrene and grade 5 is gangrene of the whole foot.",
+  "key_note": "The compiled answer book gave D (grade 4); the paper key C is correct: grade 4 requires gangrene, which is absent here.",
+  "figure": "",
+  "qid": "G8-27"
+ },
+ {
+  "cids": [
+   "C0132",
+   "C1275"
+  ],
+  "stem": "A 45-year-old diabetic male presents to the emergency department with black toes of the left foot for 3 weeks. There is dry gangrene of the left 4th and 5th toes, the dorsum of the foot is cold with no sensation below the knee, and the distal pulses (dorsalis pedis) are not palpable. What is the next investigation to be done?",
+  "options": {
+   "A": "CT angiogram of left foot",
+   "B": "Arterial Doppler left leg",
+   "C": "Venography left foot",
+   "D": "X-ray left foot AP view",
+   "E": "MRI left foot plain"
+  },
+  "answer": "B",
+  "explanation": "Absent pulses with gangrene mean critical ischaemia, and arterial duplex Doppler is the first-line non-invasive test to assess the level and severity of arterial disease and the ABPI. CT angiography follows if revascularisation is being planned.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G8-28"
+ },
+ {
+  "cids": [
+   "C1276"
+  ],
+  "stem": "A 45-year-old diabetic male has dry gangrene of the left 4th and 5th toes for 3 weeks, with a cold dorsum of the foot, no sensation below the knee and absent distal pulses. Arterial Doppler has been done. What is the most appropriate definitive management?",
+  "options": {
+   "A": "Amputation of both toes",
+   "B": "Amputation of left foot",
+   "C": "Popliteal artery bypass",
+   "D": "Wait for at least 1 week",
+   "E": "Debridement of toes"
+  },
+  "answer": "A",
+  "explanation": "Dry gangrene confined to the toes is treated by amputation of the dead toes once demarcated, preserving as much of the foot as possible. In practice, revascularisation should be performed first if the Doppler shows a reconstructable lesion, otherwise the amputation wound will not heal.",
+  "key_note": "Paper key A accepted; note that toe amputation alone heals only if perfusion is adequate, so revascularisation is assessed first.",
+  "figure": "",
+  "qid": "G8-29"
+ },
+ {
+  "cids": [
+   "C1277"
+  ],
+  "stem": "A 55-year-old diabetic patient presents to OPD with wet gangrene of the whole right foot, with black discoloration of the skin and yellowish discharge from the plantar aspect of the right big toe. The posterior tibial pulse is normal, with impalpable dorsalis pedis due to oedema of the foot. Blood sugar random is 417 mg/dl. What is the best management option?",
+  "options": {
+   "A": "Amputation of the right big toe",
+   "B": "Conservative management on antibiotics",
+   "C": "Control diabetes and prepare for below knee amputation",
+   "D": "Debridement of dead skin and pus removal",
+   "E": "Dressing of the wound and sugar control"
+  },
+  "answer": "C",
+  "explanation": "Wet gangrene of the whole foot (Wagner grade 5) is a source of spreading sepsis and the foot is not salvageable, so the diabetes is controlled and a below-knee amputation is performed; the normal posterior tibial pulse indicates the BKA level will heal. Debridement alone cannot deal with a gangrenous foot.",
+  "key_note": "The compiled answer book gave D (debridement); the paper key C is correct for whole-foot wet gangrene. BSR value partly illegible in the source (read as 417 mg/dl).",
+  "figure": "",
+  "qid": "G8-30"
+ },
+ {
+  "cids": [
+   "C1279"
+  ],
+  "stem": "A 25-year-old man is brought in shock to the emergency department after his right leg was completely crushed under a cutter machine and is hanging freely below the knee. There is massive vascular, bone and soft tissue injury. What would be the most appropriate management after resuscitation and haemostasis?",
+  "options": {
+   "A": "Above knee amputation",
+   "B": "Limb salvage procedure",
+   "C": "Fix crushed bone, flap skin",
+   "D": "Vascular and muscle flap",
+   "E": "Conservative management"
+  },
+  "answer": "A",
+  "explanation": "A mangled, near-completely amputated limb with combined vascular, bone and soft tissue destruction in a shocked patient (high MESS score) is not salvageable; life before limb dictates amputation. Of the options, amputation is the only appropriate choice, at the lowest viable level.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G8-31"
+ },
+ {
+  "cids": [
+   "C0097"
+  ],
+  "stem": "A patient had a train accident with traumatic amputation of his left leg and was brought to the emergency department. How would you manage the stump after the bleeding has been secured?",
+  "options": {
+   "A": "Close the wound primarily",
+   "B": "Leave the wound open",
+   "C": "Apply a skin graft to the residual limb",
+   "D": "Use a local flap to cover the residual limb",
+   "E": "Use a free flap to cover the residual limb"
+  },
+  "answer": "B",
+  "explanation": "Traumatic amputation wounds are contaminated, so the bone ends are tidied, skin and muscle trimmed to the lowest viable level and the wound left open for delayed closure (Bailey & Love). Primary closure risks gas gangrene and sepsis.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G8-32"
+ },
+ {
+  "cids": [
+   "C0388"
+  ],
+  "stem": "A 60-year-old man is found to have 40% stenosis of the internal carotid artery. What is the appropriate management of choice?",
+  "options": {
+   "A": "Carotid endarterectomy",
+   "B": "Anti-platelet agents",
+   "C": "Watch and wait",
+   "D": "Oral anticoagulants",
+   "E": "IV anticoagulants"
+  },
+  "answer": "B",
+  "explanation": "Stenosis below 50% is managed with best medical therapy: antiplatelet agent, statin and risk factor control. Endarterectomy benefits symptomatic patients with 50-99% (especially over 70%) stenosis.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G8-33"
+ },
+ {
+  "cids": [
+   "C1295"
+  ],
+  "stem": "A 65-year-old man presents with sudden-onset arm weakness, numbness and dysphasia. Carotid Doppler shows 90% stenosis of the left internal carotid artery. What would be the most appropriate management?",
+  "options": {
+   "A": "Carotid endarterectomy",
+   "B": "Angioplasty and stenting",
+   "C": "Medical management with antiplatelets",
+   "D": "Thrombolysis",
+   "E": "Observation"
+  },
+  "answer": "A",
+  "explanation": "A symptomatic carotid stenosis of 70-99% is the clearest indication for carotid endarterectomy, ideally within 2 weeks of symptoms, with best medical therapy. Stenting is reserved for patients unfit for surgery.",
+  "key_note": "The source stem says 'left arm weakness'; a left ICA lesion with dysphasia would cause right-sided weakness, so the side has been omitted. The answer is unaffected.",
+  "figure": "",
+  "qid": "G8-34"
+ },
+ {
+  "cids": [
+   "C1008"
+  ],
+  "stem": "A 65-year-old man with hypertension (blood pressure 190/105 mmHg) has unilateral renal artery stenosis. What is the treatment of the lesion?",
+  "options": {
+   "A": "Aortorenal bypass",
+   "B": "Vein graft",
+   "C": "Balloon dilatation",
+   "D": "Excision of the narrow part",
+   "E": "Thrombolytic therapy"
+  },
+  "answer": "C",
+  "explanation": "Where intervention is indicated for renal artery stenosis, percutaneous balloon angioplasty (with stenting for ostial atherosclerotic lesions) is the first choice; open aortorenal bypass is reserved for failures or complex anatomy.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G8-35"
+ },
+ {
+  "cids": [
+   "C0548",
+   "C1003"
+  ],
+  "stem": "A 65-year-old hypertensive man attending OPD for a routine check-up is found to have an expansile pulsatile mass at the level of the umbilicus. What is the best initial investigation to establish the diagnosis?",
+  "options": {
+   "A": "Aortography",
+   "B": "Ultrasound",
+   "C": "Computed tomography (CT)",
+   "D": "Magnetic resonance imaging (MRI)",
+   "E": "Plain films of the abdomen"
+  },
+  "answer": "B",
+  "explanation": "Ultrasound is the first-line test for suspected abdominal aortic aneurysm: cheap, non-invasive and accurate for diameter, and it is the screening and surveillance tool. CT angiography is used to plan repair; angiography is unreliable because mural thrombus hides the true diameter.",
+  "key_note": "One paper key (for the version 'most appropriate imaging test for suspected AAA') marked angiography; correct is ultrasound.",
+  "figure": "",
+  "qid": "G8-36"
+ },
+ {
+  "cids": [
+   "C1496"
+  ],
+  "stem": "A 75-year-old hypertensive man presents to the ER with severe epigastric pain for 3 days. He is haemodynamically stable with GCS 15/15. There is a mildly tender pulsatile mass in the epigastrium. The rest of the examination is unremarkable. What is the most probable diagnosis?",
+  "options": {
+   "A": "Abdominal aortic aneurysm",
+   "B": "Acute cholecystitis",
+   "C": "Acute mesenteric ischaemia",
+   "D": "Acute pancreatitis",
+   "E": "Hiatus hernia"
+  },
+  "answer": "A",
+  "explanation": "A tender pulsatile epigastric mass in an elderly hypertensive man is an abdominal aortic aneurysm; tenderness with pain in a stable patient suggests a symptomatic aneurysm needing urgent CT and repair.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G8-37"
+ },
+ {
+  "cids": [
+   "C1470"
+  ],
+  "stem": "A 66-year-old woman has a 5.5 cm infrarenal abdominal aortic aneurysm. What is the most common manifestation of such an aneurysm?",
+  "options": {
+   "A": "Abdominal or back pain",
+   "B": "Acute leak or rupture",
+   "C": "Incidental finding on abdominal examination",
+   "D": "Atheroembolism",
+   "E": "Spontaneous thrombosis"
+  },
+  "answer": "C",
+  "explanation": "Most abdominal aortic aneurysms are asymptomatic and are found incidentally on examination or imaging done for another reason, or on screening. Pain usually signals expansion or impending rupture.",
+  "key_note": "Two paper keys and the compiled book marked A (pain); correct is C: the majority of AAAs are asymptomatic until rupture.",
+  "figure": "",
+  "qid": "G8-38"
+ },
+ {
+  "cids": [
+   "C1469",
+   "C0521"
+  ],
+  "stem": "A 70-year-old man is brought as an emergency with sudden onset of severe left-sided abdominal pain radiating to the back. His systolic blood pressure is 90 mmHg, pulse 120/min, he is cold and clammy, and has a tender distended abdomen with a pulsatile mass. What is the most likely diagnosis?",
+  "options": {
+   "A": "Abdominal aortic aneurysm",
+   "B": "Abdominal compartment syndrome",
+   "C": "Intermittent claudication",
+   "D": "Ruptured abdominal aortic aneurysm",
+   "E": "Arterio-venous fistula"
+  },
+  "answer": "D",
+  "explanation": "The triad of abdominal or back pain, shock and a pulsatile mass is ruptured AAA until proven otherwise; the unstable patient goes straight to theatre (or EVAR) without delay.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G8-39"
+ },
+ {
+  "cids": [
+   "C0016"
+  ],
+  "stem": "Regarding ruptured abdominal aortic aneurysm, which statement is true?",
+  "options": {
+   "A": "Most patients die following ruptured AAA",
+   "B": "Most ruptures occur anteriorly into the peritoneal cavity",
+   "C": "Patients with a rupture should be immediately and aggressively resuscitated prior to surgery",
+   "D": "CT scan is always needed preoperatively to confirm the diagnosis",
+   "E": "Ruptures are commonly seen in aneurysms of less than 5 cm"
+  },
+  "answer": "A",
+  "explanation": "Overall mortality of ruptured AAA is about 80%, as many die before reaching hospital. Most ruptures are posterior into the retroperitoneum, where tamponade allows survival to hospital; resuscitation is hypotensive (permissive), unstable patients go to theatre without CT, and rupture risk is low below 5.5 cm.",
+  "key_note": "The paper key marked B (anterior intraperitoneal rupture); correct is A: most ruptures are retroperitoneal, and most patients with rupture die.",
+  "figure": "",
+  "qid": "G8-40"
+ },
+ {
+  "cids": [
+   "C0736"
+  ],
+  "stem": "A 72-year-old man is undergoing repair of an abdominal aortic aneurysm. The proximal clamp is applied immediately inferior to the renal arteries and both common iliac arteries are clamped distally. After a longitudinal aortotomy and evacuation of the sac contents, significant ongoing bleeding is encountered. This is most likely to originate from:",
+  "options": {
+   "A": "The coeliac axis",
+   "B": "Testicular artery",
+   "C": "Splenic artery",
+   "D": "Superior mesenteric artery",
+   "E": "Lumbar arteries"
+  },
+  "answer": "E",
+  "explanation": "Back-bleeding into the opened sac comes from the lumbar arteries (and the inferior mesenteric artery), which arise from the clamped segment and are oversewn from inside the sac. The coeliac, splenic and SMA lie above the proximal clamp.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "G8-41"
+ },
+ {
+  "cids": [
+   "C1293"
+  ],
+  "stem": "A 70-year-old male with a history of smoking and hypertension develops acute-onset abdominal pain, back pain and decreased pulses in the lower limbs. CT angiography shows aortic dissection. What is the most likely initial management?",
+  "options": {
+   "A": "Surgical repair",
+   "B": "Endovascular aneurysm repair",
+   "C": "Medical management with beta blockers",
+   "D": "Thrombolysis",
+   "E": "Embolization"
+  },
+  "answer": "C",
+  "explanation": "The first step in every acute aortic dissection is anti-impulse therapy with intravenous beta-blockers to bring heart rate and systolic pressure down and limit propagation. Type A then needs urgent surgery, while complicated type B (malperfusion, as suggested by reduced pulses) needs endovascular repair (TEVAR); thrombolysis is contraindicated.",
+  "key_note": "The paper key marked A (surgical repair); correct initial management is C, with definitive repair decided after beta-blockade by Stanford type and complications.",
+  "figure": "",
+  "qid": "G8-42"
+ },
+ {
+  "cids": [
+   "C0126"
+  ],
+  "stem": "A patient with a suspected abdominal aortic aneurysm undergoes imaging. Which modality is most accurate to measure the aneurysm size?",
+  "options": {
+   "A": "Non-contrast CT scan abdomen",
+   "B": "CT scan with contrast",
+   "C": "MRI",
+   "D": "Angiography",
+   "E": "Plain abdominal X-ray"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Contrast-enhanced CT (CT angiography) accurately measures the outer wall diameter and defines the neck and iliac anatomy for repair. Angiography shows only the lumen and underestimates size because of mural thrombus; ultrasound is used for screening and surveillance.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G8-43"
+ },
+ {
+  "ncids": [
+   "K1003",
+   "K0010"
+  ],
+  "stem": "A 65-year-old man presents with pain in his right lower limb. His blood pressure is 140/90 mmHg, the right lower limb is pale, and the posterior tibial and dorsalis pedis pulses are not palpable. ECG shows atrial fibrillation. What is the most probable diagnosis?",
+  "options": {
+   "A": "Cellulitis",
+   "B": "Lymphoedema",
+   "C": "Deep vein thrombosis",
+   "D": "Acute limb ischaemia",
+   "E": "Compartment syndrome"
+  },
+  "answer": "D",
+  "explanation": "A pale, painful, pulseless limb in a patient with an embolic source (atrial fibrillation or recent MI) is acute limb ischaemia until proven otherwise. DVT causes a swollen, warm limb with intact pulses.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G8-N1"
+ },
+ {
+  "ncids": [
+   "K0031"
+  ],
+  "stem": "A 70-year-old woman develops a cold, painful right leg. No pulses are palpable throughout the right leg. She has several risk factors for atherosclerotic disease. A medical student asks how best to differentiate between acute ischaemia and acute-on-chronic ischaemia. Which is the single most appropriate advice?",
+  "options": {
+   "A": "History of 40 pack-years of smoking",
+   "B": "History of intermittent claudication",
+   "C": "History of thrombotic stroke",
+   "D": "Presence of a femoro-popliteal bypass scar in the left leg",
+   "E": "Presence of foot pulses in the left leg"
+  },
+  "answer": "B",
+  "explanation": "A preceding history of claudication in the affected leg indicates pre-existing chronic disease, so the acute event is likely thrombosis on an atheromatous plaque. Normal contralateral pulses support embolism but do not establish chronic disease in the affected limb.",
+  "key_note": "Bank marks conflict: one copy starred B, the other starred E but highlighted B; correct is B because claudication in the same leg directly proves chronic ischaemia.",
+  "_new": true,
+  "qid": "G8-N2"
+ },
+ {
+  "ncids": [
+   "K0033"
+  ],
+  "stem": "A 72-year-old man who underwent endovascular repair of an abdominal aortic aneurysm 1 year ago collapses and complains of back and abdominal pain. His blood pressure is 90/40 mmHg. He denies a history of peptic ulcer or alcohol abuse. What is the most likely diagnosis?",
+  "options": {
+   "A": "Aortoenteric fistula",
+   "B": "Bleeding duodenal ulcer",
+   "C": "Ruptured abdominal aortic aneurysm",
+   "D": "Acute pancreatitis",
+   "E": "Diverticulitis"
+  },
+  "answer": "C",
+  "explanation": "Late rupture after EVAR (from endoleak and sac expansion) presents with back or abdominal pain and hypotension, which is why lifelong surveillance is needed. Aortoenteric fistula typically follows open graft repair and presents with a herald GI bleed.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G8-N3"
+ },
+ {
+  "ncids": [
+   "K0058"
+  ],
+  "stem": "A 60-year-old smoker comes to the emergency department with sudden onset of severe pain in his right leg. On examination no pulses are palpable and the leg is pale and cold. The left leg is normal. What is the next step in management?",
+  "options": {
+   "A": "Angiography",
+   "B": "Echocardiography",
+   "C": "Ask the patient to stop smoking and reassess after 2 months",
+   "D": "Give heparin and shift to the operating room",
+   "E": "Thrombolytic therapy"
+  },
+  "answer": "D",
+  "explanation": "In acute limb ischaemia, immediate systemic heparin limits clot propagation, and a threatened limb needs urgent revascularisation (embolectomy) without delay for imaging. Thrombolysis is reserved for viable limbs with time to spare.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G8-N4"
+ },
+ {
+  "ncids": [
+   "K0059"
+  ],
+  "stem": "Which of the following is the most common site of atherosclerotic occlusion in the lower limb?",
+  "options": {
+   "A": "Common iliac artery",
+   "B": "Dorsalis pedis artery",
+   "C": "Popliteal artery",
+   "D": "Posterior tibial artery",
+   "E": "Superficial femoral artery"
+  },
+  "answer": "E",
+  "explanation": "The superficial femoral artery in the adductor (Hunter's) canal is the commonest site of lower limb atherosclerotic occlusion, typically producing calf claudication.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G8-N5"
+ },
+ {
+  "ncids": [
+   "K0066"
+  ],
+  "stem": "A 47-year-old man with a long history of heavy cigarette smoking comes to the emergency department with gangrene of the left foot. What is the most probable diagnosis?",
+  "options": {
+   "A": "Takayasu arteritis",
+   "B": "Giant cell arteritis",
+   "C": "Hypersensitivity angiitis",
+   "D": "Thromboangiitis obliterans",
+   "E": "Deep venous thrombosis"
+  },
+  "answer": "D",
+  "explanation": "Thromboangiitis obliterans (Buerger's disease) is a segmental inflammatory occlusive disease of small and medium arteries in young or middle-aged male heavy smokers, leading to distal ischaemia and gangrene. Takayasu affects the aorta and its branches in young women.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G8-N6"
+ },
+ {
+  "ncids": [
+   "K0116"
+  ],
+  "stem": "ABI stands for:",
+  "options": {
+   "A": "Ankle brachial index",
+   "B": "Arm body index",
+   "C": "Airway breathing investigation",
+   "D": "Ankle body index",
+   "E": "Airway blood interface"
+  },
+  "answer": "A",
+  "explanation": "ABI (ankle brachial index) is the ratio of ankle systolic pressure to brachial systolic pressure, measured with a hand-held Doppler; normal is about 1.0.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G8-N7"
+ },
+ {
+  "ncids": [
+   "K0130"
+  ],
+  "stem": "The commonest presentation of peripheral arterial disease is:",
+  "options": {
+   "A": "Acute limb ischaemia",
+   "B": "Critical limb ischaemia",
+   "C": "Gangrene",
+   "D": "Intermittent claudication",
+   "E": "Venous thrombosis"
+  },
+  "answer": "D",
+  "explanation": "Intermittent claudication is the most common symptomatic presentation of chronic lower limb arterial disease; only a minority progress to critical ischaemia or gangrene.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G8-N8"
+ },
+ {
+  "ncids": [
+   "K0142"
+  ],
+  "stem": "The gold standard imaging modality for identifying lower extremity arterial occlusive disease is:",
+  "options": {
+   "A": "MR angiography",
+   "B": "CT angiography",
+   "C": "Doppler ultrasound",
+   "D": "Contrast (digital subtraction) angiography",
+   "E": "Radionuclide scan"
+  },
+  "answer": "D",
+  "explanation": "Contrast (digital subtraction) angiography remains the gold standard for defining arterial anatomy and allows intervention at the same sitting. Duplex ultrasound is the first-line non-invasive test, but is not the reference standard.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G8-N9"
+ },
+ {
+  "ncids": [
+   "K0203"
+  ],
+  "stem": "A 61-year-old man is admitted with sudden onset of a painful, cold, white right leg. His radial pulse is 86/min and irregularly irregular. Abdominal examination is normal. No pulses are palpable in the right leg and ankle Doppler signals are absent. ECG confirms the arrhythmia but shows no acute ischaemia. Which is the single most likely underlying cause?",
+  "options": {
+   "A": "Abdominal aortic aneurysm",
+   "B": "Aorto-iliac dissection",
+   "C": "Atrial fibrillation",
+   "D": "Deep vein thrombosis",
+   "E": "Myocardial infarction"
+  },
+  "answer": "C",
+  "explanation": "Atrial fibrillation is the commonest source of emboli causing acute limb ischaemia, from thrombus in the left atrial appendage. The normal abdomen and ECG make AAA and MI unlikely sources.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G8-N10"
+ },
+ {
+  "ncids": [
+   "K1166",
+   "K0204"
+  ],
+  "stem": "A 60-year-old man is diagnosed with intermittent claudication of the lower limbs. He is a smoker and has hyperlipidaemia for which he takes a statin. Which is the best treatment option for this patient?",
+  "options": {
+   "A": "Angioplasty",
+   "B": "Amputation",
+   "C": "Thrombectomy",
+   "D": "Supervised exercise and stopping smoking",
+   "E": "Continue the statin alone and review in 3 months"
+  },
+  "answer": "D",
+  "explanation": "First-line management of claudication is risk factor modification (stopping smoking, statin, antiplatelet) plus supervised exercise, which improves walking distance. Intervention is reserved for disabling symptoms despite this, or critical ischaemia.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G8-N11"
+ },
+ {
+  "ncids": [
+   "K0205"
+  ],
+  "stem": "An abdominal aortic aneurysm is detected incidentally on ultrasound in a 68-year-old man. Which single statement about abdominal aortic aneurysms is correct?",
+  "options": {
+   "A": "They are associated with tobacco smoking, hypertension, family history and diabetes mellitus",
+   "B": "They are considered for surgical or endovascular repair when they reach 5.5 cm in a patient fit for intervention",
+   "C": "They most commonly involve the aorta at and above the level of the renal arteries",
+   "D": "They occur in 10% of the population aged over 65",
+   "E": "UK aortic aneurysm screening is undertaken by abdominal CT scanning"
+  },
+  "answer": "B",
+  "explanation": "Elective repair is offered at a diameter of 5.5 cm (or rapid growth over 1 cm/year, or symptoms) in fit patients. Diabetes is actually negatively associated with AAA, most AAAs are infrarenal, prevalence is about 1 to 5%, and UK screening uses ultrasound.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G8-N12"
+ },
+ {
+  "ncids": [
+   "K0208"
+  ],
+  "stem": "Fasciotomy should be performed in patients with which of the following?",
+  "options": {
+   "A": "Tense fullness of the compartment in an otherwise asymptomatic patient",
+   "B": "Extremity ischaemia for longer than 4 hours",
+   "C": "Progressively worsening neurological signs after revascularisation",
+   "D": "Any traumatic injury to the popliteal artery",
+   "E": "Compartment pressure higher than 15 mmHg with unreliable physical findings"
+  },
+  "answer": "C",
+  "explanation": "Progressive neurological deficit (pain on passive stretch, paraesthesia, weakness) after revascularisation indicates reperfusion compartment syndrome and needs fasciotomy. A pressure of 15 mmHg is below the usual threshold (30 mmHg, or delta pressure under 30).",
+  "key_note": "",
+  "_new": true,
+  "qid": "G8-N13"
+ },
+ {
+  "ncids": [
+   "K0209",
+   "K0773"
+  ],
+  "stem": "A 20-year-old woman working on a butcher's cold counter complains that her fingers become white, then blue and cold at work. When she warms her hands under the hot tap they become painful and deep red. Which is the single most appropriate management?",
+  "options": {
+   "A": "Oral prednisolone",
+   "B": "Request transfer from her current job to a different role",
+   "C": "Lumbar sympathectomy",
+   "D": "Oral prostacyclin",
+   "E": "Nifedipine 5 mg three times daily increasing to 20 mg three times daily"
+  },
+  "answer": "B",
+  "explanation": "This is Raynaud's phenomenon triggered by cold exposure; the first and most important measure is avoiding cold, here by moving away from the cold counter. Calcium channel blockers are added only if avoidance and warm gloves fail; lumbar sympathectomy is irrelevant to the hands.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G8-N14"
+ },
+ {
+  "ncids": [
+   "K0211"
+  ],
+  "stem": "Which of the following is the greatest risk factor for developing an abdominal aortic aneurysm?",
+  "options": {
+   "A": "Age",
+   "B": "History of smoking",
+   "C": "History of urolithiasis",
+   "D": "Metabolic syndrome",
+   "E": "Male sex"
+  },
+  "answer": "B",
+  "explanation": "Smoking is the strongest modifiable and overall risk factor for AAA, increasing risk several-fold and accelerating expansion. Age and male sex are also risk factors but carry a smaller relative risk.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G8-N15"
+ },
+ {
+  "ncids": [
+   "K0342"
+  ],
+  "stem": "A 73-year-old man presents to the emergency department with sudden pain in the right loin radiating to the abdomen. He has hypertension and known gallstones. He is afebrile, haemodynamically stable and tender in the abdomen. Blood tests show leukocytosis. Which investigation would you perform?",
+  "options": {
+   "A": "CT abdomen",
+   "B": "Intravenous urogram",
+   "C": "Laparotomy",
+   "D": "MRI spine",
+   "E": "Ultrasound abdomen"
+  },
+  "answer": "A",
+  "explanation": "In an elderly hypertensive patient with loin pain, a leaking abdominal aortic aneurysm must be excluded before diagnosing renal colic, and a stable patient should have CT, which also shows stones and biliary or other causes. Laparotomy is not indicated in a stable patient without a diagnosis.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "G8-N16"
+ },
+ {
+  "ncids": [
+   "K0367"
+  ],
+  "stem": "A 65-year-old woman is found on routine examination to have a pulsatile abdominal mass. She has hypertension and her father died of a ruptured abdominal aortic aneurysm. Which of the following is an accepted indication for elective repair of an infrarenal abdominal aortic aneurysm?",
+  "options": {
+   "A": "Presence of an aneurysm of any size",
+   "B": "Aneurysm with intramural thrombus",
+   "C": "Asymptomatic aneurysm of 5.5 cm",
+   "D": "Associated 2 cm iliac aneurysm",
+   "E": "Associated 1.5 cm splenic artery aneurysm"
+  },
+  "answer": "C",
+  "explanation": "Asymptomatic AAAs are repaired at 5.5 cm (some advise 5.0 cm in women) because rupture risk then exceeds operative risk. Mural thrombus is almost universal and is not an indication; iliac aneurysms are repaired at about 3 cm or more.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G8-N17"
+ },
+ {
+  "ncids": [
+   "K0410",
+   "K1604"
+  ],
+  "stem": "The commonest site of an arterial aneurysm is:",
+  "options": {
+   "A": "Ascending aorta",
+   "B": "Descending aorta",
+   "C": "Abdominal aorta",
+   "D": "Common carotid artery",
+   "E": "Renal artery"
+  },
+  "answer": "C",
+  "explanation": "The infrarenal abdominal aorta is the commonest site of true (degenerative) aneurysm, followed by the iliac and popliteal arteries.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G8-N18"
+ },
+ {
+  "ncids": [
+   "K0745"
+  ],
+  "stem": "A 72-year-old woman falls at home after an episode of dizziness. She had low back pain for 3 days before the fall. In the emergency department she is hypotensive with cold, clammy extremities, and a pulsating mass is palpable in the abdomen. Following resuscitation, the next step in management should be:",
+  "options": {
+   "A": "Peritoneal lavage",
+   "B": "Immediate abdominal exploration",
+   "C": "CT scan of the abdomen",
+   "D": "Abdominal aortogram",
+   "E": "Abdominal ultrasound"
+  },
+  "answer": "B",
+  "explanation": "A haemodynamically unstable patient with a known or palpable AAA and pain has a ruptured aneurysm and needs immediate transfer to theatre for control of the aorta; imaging wastes time. CT is used only in stable patients with suspected rupture.",
+  "key_note": "Bank marks conflict: starred B but highlighted E; correct is B because an unstable patient with a pulsatile mass should not be delayed by imaging.",
+  "_new": true,
+  "qid": "G8-N19"
+ },
+ {
+  "ncids": [
+   "K0749"
+  ],
+  "stem": "A middle-aged man undergoes a left below-knee amputation for foot gangrene secondary to arterial occlusive disease. Which of the following statements about below-knee amputation is true?",
+  "options": {
+   "A": "Function is less efficient than after a through-knee amputation",
+   "B": "Stump healing can be predicted by transcutaneous oxygen monitoring",
+   "C": "Failure of Doppler to record a pulse at that level means a poor prognosis is inevitable",
+   "D": "The fibula and tibia are cut to equal length",
+   "E": "The level of transection is 5 cm above the medial malleolus"
+  },
+  "answer": "B",
+  "explanation": "Transcutaneous oxygen tension (above about 40 mmHg) at the proposed level predicts stump healing. Below-knee amputation preserves the knee and gives better function than through-knee, and the fibula is cut 1 to 2 cm shorter than the tibia, about 12 to 15 cm below the knee joint.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G8-N20"
+ },
+ {
+  "ncids": [
+   "K0751"
+  ],
+  "stem": "A 70-year-old man with long-standing diabetes develops gangrene of the right second toe. Which statement about his diabetic foot is true?",
+  "options": {
+   "A": "The dorsalis pedis and posterior tibial pulses are always absent",
+   "B": "Gangrene of the toe always requires urgent below-knee amputation",
+   "C": "Arterial reconstruction is invariably required",
+   "D": "His right femoral artery is most probably occluded or stenosed",
+   "E": "Neuropathic (trophic) ulcers are sharply demarcated"
+  },
+  "answer": "E",
+  "explanation": "Neuropathic (trophic) ulcers are punched out with sharply demarcated, callused edges, typically over pressure points. Diabetic gangrene often occurs with palpable pulses (microangiopathy, infection), and diabetic arterial disease favours the tibial vessels rather than the femoral artery.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G8-N21"
+ },
+ {
+  "ncids": [
+   "K0772"
+  ],
+  "stem": "A middle-aged man complains of pain in his legs after walking a few steps. On examination there is superficial thrombophlebitis of the left leg. Which is the most important question to ask next?",
+  "options": {
+   "A": "Family history of peripheral vascular disease",
+   "B": "History of smoking",
+   "C": "Insect bite",
+   "D": "Recent trauma",
+   "E": "Allergic contact dermatitis"
+  },
+  "answer": "B",
+  "explanation": "Claudication with migratory superficial thrombophlebitis suggests thromboangiitis obliterans (Buerger's disease), which is strongly linked to smoking; stopping smoking is the key treatment.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G8-N22"
+ },
+ {
+  "ncids": [
+   "K1005",
+   "K0924"
+  ],
+  "stem": "A 70-year-old patient with atrial fibrillation presents to A&E with severe pain in the right lower limb. On examination the distal pulses are absent. What is the initial investigation of choice?",
+  "options": {
+   "A": "Angiography",
+   "B": "CT scan",
+   "C": "Doppler ultrasound",
+   "D": "ECG",
+   "E": "MRI"
+  },
+  "answer": "C",
+  "explanation": "Bedside hand-held or duplex Doppler confirms absent arterial flow quickly and non-invasively and grades the ischaemia; angiography is reserved for planning when time permits. ECG has already shown the cause.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G8-N23"
+ },
+ {
+  "ncids": [
+   "K0962"
+  ],
+  "stem": "The commonest cause of peripheral vascular disease is:",
+  "options": {
+   "A": "Atherosclerosis",
+   "B": "Arteritis",
+   "C": "Congenital anomalies",
+   "D": "Embolism",
+   "E": "Trauma"
+  },
+  "answer": "A",
+  "explanation": "Atherosclerosis accounts for the vast majority of chronic peripheral arterial disease; embolism is the main cause of acute occlusion.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G8-N24"
+ },
+ {
+  "ncids": [
+   "K1286",
+   "K1620"
+  ],
+  "stem": "A 35-year-old man with known heart disease falls down in the washroom. Shortly afterwards he can move his left lower limb only with great difficulty. Examination shows a pale left leg with no sensation and no palpable pulses below the inguinal ligament. What is the most likely diagnosis?",
+  "options": {
+   "A": "Acute arterial thrombosis",
+   "B": "Acute venous obstruction",
+   "C": "Acute arterial embolism",
+   "D": "Acute slipped intervertebral disc",
+   "E": "Fractured neck of femur"
+  },
+  "answer": "C",
+  "explanation": "Sudden pale, pulseless, insensate limb in a patient with a cardiac source (heart disease, AF, recent MI) indicates embolism, commonly lodging at the femoral bifurcation. Thrombosis usually occurs on pre-existing atheroma with prior claudication.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G8-N25"
+ },
+ {
+  "ncids": [
+   "K1029"
+  ],
+  "stem": "A 70-year-old smoker presents with pain in the lower limbs. Which of the following statements regarding intermittent claudication is true?",
+  "options": {
+   "A": "The claudication distance varies widely from day to day",
+   "B": "It is commonly felt in the calf",
+   "C": "It is due to compression of nerves in the leg",
+   "D": "It may be present at rest",
+   "E": "It is relieved by getting out of bed"
+  },
+  "answer": "B",
+  "explanation": "Claudication is most often felt in the calf (superficial femoral disease), is reproducible at a fairly constant distance and is relieved by rest. Pain at rest relieved by hanging the leg out of bed is rest pain, a feature of critical ischaemia.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G8-N26"
+ },
+ {
+  "ncids": [
+   "K1032"
+  ],
+  "stem": "A 75-year-old woman presents with sudden acute pain in her right leg. She has an irregular tachycardia of 120/min and a white, paraesthetic right lower leg. There are no palpable pulses below the groin on the right, but pulses in the left limb are normal. What is the diagnosis?",
+  "options": {
+   "A": "Air embolism",
+   "B": "Acute aortic thrombosis",
+   "C": "Cholesterol embolism",
+   "D": "Fat embolism",
+   "E": "Popliteal artery embolism"
+  },
+  "answer": "E",
+  "explanation": "AF with a sudden white, paraesthetic unilateral leg indicates a cardiac embolus lodging in a limb artery. Cholesterol (atheroembolism) causes blue toes with palpable pulses, and aortic thrombosis affects both legs.",
+  "key_note": "Bank marked C; correct is E because cholesterol embolism causes patchy digital ischaemia with preserved pulses, not a pulseless white leg in AF.",
+  "_new": true,
+  "qid": "G8-N27"
+ },
+ {
+  "ncids": [
+   "K1038"
+  ],
+  "stem": "A 65-year-old man presents with pain in his right leg after walking. He has been hypertensive for 20 years. Which is the best clinical indicator of the severity of his arterial disease?",
+  "options": {
+   "A": "Ankle brachial pressure index",
+   "B": "Capillary refill time",
+   "C": "Perthes test",
+   "D": "Sensory loss",
+   "E": "Temperature of the affected limb"
+  },
+  "answer": "A",
+  "explanation": "ABPI objectively quantifies arterial insufficiency: under 0.9 indicates disease, under 0.5 severe, and around 0.3 or less critical ischaemia. Perthes test assesses deep venous patency.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G8-N28"
+ },
+ {
+  "ncids": [
+   "K1184"
+  ],
+  "stem": "Leriche's syndrome is:",
+  "options": {
+   "A": "Seen in venous disorders",
+   "B": "Caused by aortoiliac occlusion",
+   "C": "A disorder of the peripheral nerves",
+   "D": "A manifestation of spinal disease",
+   "E": "Due to femoropopliteal occlusion"
+  },
+  "answer": "B",
+  "explanation": "Leriche's syndrome is aortoiliac occlusive disease causing the triad of buttock and thigh claudication, absent femoral pulses and erectile dysfunction.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G8-N29"
+ },
+ {
+  "ncids": [
+   "K1284"
+  ],
+  "stem": "A 35-year-old banker has hypertension that is difficult to control. Investigation shows stenosis at the ostium of the left renal artery. What is the most appropriate treatment?",
+  "options": {
+   "A": "Balloon dilatation and insertion of a stent",
+   "B": "Balloon dilatation of the stenosed segment alone",
+   "C": "Removal of the left kidney",
+   "D": "Open operation and endarterectomy",
+   "E": "Open operation and insertion of a prosthetic graft"
+  },
+  "answer": "A",
+  "explanation": "Ostial renal artery lesions are usually atherosclerotic aortic plaque spilling into the renal artery, which recoils after balloon dilatation alone, so angioplasty with stenting is used. Balloon angioplasty alone suits fibromuscular dysplasia of the mid renal artery.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "G8-N30"
+ },
+ {
+  "ncids": [
+   "K1358"
+  ],
+  "stem": "Lumbar sympathectomy is of value in the management of which of the following?",
+  "options": {
+   "A": "Intermittent claudication",
+   "B": "Arteriovenous fistula",
+   "C": "Diabetic neuropathy",
+   "D": "Backache",
+   "E": "Distal ischaemia affecting the skin of the toes"
+  },
+  "answer": "E",
+  "explanation": "Sympathectomy increases skin blood flow, so it can help skin-level ischaemia such as rest pain or small ulcers of the toes. It does not improve muscle blood flow, so it is of no value in claudication.",
+  "key_note": "Bank highlighted B in an 'except' version; that stem has four wrong options, so it was reworded. Correct is E because sympathectomy only benefits cutaneous ischaemia.",
+  "_new": true,
+  "qid": "G8-N31"
+ },
+ {
+  "ncids": [
+   "K1359"
+  ],
+  "stem": "Which of the following is NOT a cause of diabetic gangrene?",
+  "options": {
+   "A": "Excess sugar in the tissues",
+   "B": "Peripheral neuritis",
+   "C": "Atheromatous changes in the arteries",
+   "D": "Reduced peripheral sensation",
+   "E": "Clostridium welchii infection"
+  },
+  "answer": "E",
+  "explanation": "Diabetic gangrene results from neuropathy, atherosclerosis and microangiopathy, and high tissue glucose that favours infection. Clostridium welchii causes gas gangrene, which is a distinct entity.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G8-N32"
+ },
+ {
+  "ncids": [
+   "K1475"
+  ],
+  "stem": "A 40-year-old man sustains a gunshot wound to his right upper thigh just distal to the inguinal crease. Pulses are palpable in the foot, but the foot is pale, cool and hypoaesthetic. Surgical exploration is decided because the presence of palpable distal pulses does not reliably exclude:",
+  "options": {
+   "A": "Significant arterial injury",
+   "B": "Significant injury to adjacent motor nerve trunks",
+   "C": "Significant injury to adjacent long bones",
+   "D": "Significant injury to adjacent veins",
+   "E": "Later compartment syndrome needing fasciotomy"
+  },
+  "answer": "A",
+  "explanation": "Distal pulses may be transmitted past an intimal flap, partial laceration or thrombus, so a palpable pulse does not exclude major arterial injury; a pale, cool, numb foot is a hard sign needing exploration.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G8-N33"
+ },
+ {
+  "ncids": [
+   "K1476"
+  ],
+  "stem": "A 25-year-old man sustains a gunshot injury to his left thigh. At exploration a 5 cm segment of the superficial femoral artery is destroyed. Appropriate management is:",
+  "options": {
+   "A": "Debridement and end-to-end anastomosis",
+   "B": "Debridement and repair with an interposition arterial graft",
+   "C": "Debridement and repair with an interposition prosthetic graft",
+   "D": "Debridement and repair with an interposition vein graft",
+   "E": "Ligation and observation"
+  },
+  "answer": "D",
+  "explanation": "A 5 cm defect cannot be closed end-to-end without tension, so reversed autologous saphenous vein from the contralateral leg is the conduit of choice in a contaminated wound. Prosthetic grafts carry a higher infection risk.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G8-N34"
+ },
+ {
+  "ncids": [
+   "K1477"
+  ],
+  "stem": "A patient has calf pain on walking 1 km, absent distal pulses and an ankle brachial index of 0.5. In which of the following presentations of peripheral vascular disease is conservative management recommended?",
+  "options": {
+   "A": "Ischaemic ulceration",
+   "B": "Ischaemic neuropathy",
+   "C": "Claudication",
+   "D": "Nocturnal (rest) foot pain",
+   "E": "Toe gangrene"
+  },
+  "answer": "C",
+  "explanation": "Claudication is managed conservatively (exercise, stopping smoking, statin, antiplatelet) because few patients progress to limb loss. Rest pain, ulceration and gangrene indicate critical ischaemia requiring revascularisation.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G8-N35"
+ },
+ {
+  "ncids": [
+   "K1478"
+  ],
+  "stem": "A 50-year-old man has an industrial injury with a severely injured, pale and pulseless right lower limb. Angiography shows popliteal artery obstruction and at operation the popliteal vein is also transected. He also has fractures of the femur and pelvis, a tender abdomen and a blood pressure of 85/60 mmHg. The surgeon plans ligation of the popliteal vein after arterial repair because:",
+  "options": {
+   "A": "Venous ligation reduces amputation rates after successful arterial repair",
+   "B": "Venous ligation reduces the incidence of chronic venous insufficiency",
+   "C": "Venous ligation shortens operative time in a patient with multiple injuries",
+   "D": "Venous return is already too impaired by soft tissue injury for repair to be worthwhile",
+   "E": "Ligated veins usually recanalise"
+  },
+  "answer": "C",
+  "explanation": "Venous repair is preferred when the patient is stable, but in an unstable patient with multiple injuries, damage control favours ligation to shorten operating time. Ligation actually increases the risk of venous hypertension and compartment syndrome.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G8-N36"
+ },
+ {
+  "ncids": [
+   "K1595"
+  ],
+  "stem": "A patient who had a limb amputation develops a tender nodule at the amputation site, made of a haphazard bundle of nerve fibres. The nodule is most likely:",
+  "options": {
+   "A": "Neuroma",
+   "B": "Ganglion",
+   "C": "Ganglioneuroma",
+   "D": "Hamartoma"
+  },
+  "answer": "A",
+  "explanation": "A traumatic (amputation) neuroma is a disorganised proliferation of axons and Schwann cells at the cut end of a nerve and is often painful.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G8-N37"
+ },
+ {
+  "ncids": [
+   "K0206"
+  ],
+  "stem": "Which of the following is NOT an independent risk factor for the development of coronary and peripheral atherosclerosis?",
+  "options": {
+   "A": "Smoking",
+   "B": "Hypercholesterolaemia",
+   "C": "Diabetes mellitus",
+   "D": "Hypertension",
+   "E": "Hypercoagulable conditions"
+  },
+  "answer": "E",
+  "explanation": "Smoking, hypercholesterolaemia, diabetes and hypertension are the classic independent risk factors for atherosclerosis. Hypercoagulable states predispose to thrombosis but are not independent risk factors for atheroma formation.",
+  "key_note": "Bank starred C but highlighted E; correct is E because diabetes is a major independent risk factor for atherosclerosis.",
+  "_new": true,
+  "qid": "G8-N38"
+ },
+ {
+  "ncids": [
+   "K1030"
+  ],
+  "stem": "Which of the following statements is true regarding critical ischaemia of the lower limb?",
+  "options": {
+   "A": "Absent foot pulses mean critical ischaemia",
+   "B": "Paralysis of the leg is a typical feature of chronic critical ischaemia",
+   "C": "Rest pain is commonly felt in the calf",
+   "D": "Rest pain is relieved by absolute rest with the leg elevated",
+   "E": "Hyperaesthesia is a feature of pregangrene"
+  },
+  "answer": "E",
+  "explanation": "Pregangrene (critical ischaemia) shows rest pain, colour change, oedema and hyperaesthesia of the foot. Rest pain is felt in the toes and forefoot, worse on elevation and relieved by dependency; paralysis indicates acute ischaemia.",
+  "key_note": "Bank marked C (star and highlight); correct is E because ischaemic rest pain is felt in the foot and toes, not the calf. Option B reworded from 'paralysis may suggest acute ischaemia' (a true statement) so the item has one answer.",
+  "_new": true,
+  "qid": "G8-N39"
+ },
+ {
+  "ncids": [
+   "K1039"
+  ],
+  "stem": "Which of the following statements is true regarding amputations?",
+  "options": {
+   "A": "Above-knee amputation is a better choice than below-knee",
+   "B": "Below-knee amputation is an end-bearing amputation",
+   "C": "Gritti-Stokes amputation is performed at the ankle",
+   "D": "Toe amputation usually heals well in diabetics",
+   "E": "Transmetatarsal amputation can relieve rest pain"
+  },
+  "answer": "E",
+  "explanation": "Removing the ischaemic forefoot by transmetatarsal amputation can relieve rest pain when perfusion permits healing. Gritti-Stokes is a supracondylar (knee-level) amputation, the Syme amputation is at the ankle, and below-knee is preferred over above-knee for rehabilitation.",
+  "key_note": "Bank starred C but highlighted E; correct is E because Gritti-Stokes is a supracondylar femoral amputation, not an ankle amputation.",
+  "_new": true,
+  "qid": "G8-N40"
+ }
+]

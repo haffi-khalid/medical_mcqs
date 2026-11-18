@@ -1,0 +1,339 @@
+[
+ {
+  "cids": [
+   "C1335"
+  ],
+  "stem": "A 67 years old male is brought to the surgical OPD with history of shortness of breath, hemoptysis and weight loss. After reviewing the investigations, you suspect a case of CA lung. Which of the following is an attributable risk factor?",
+  "options": {
+   "A": "Smoking",
+   "B": "H Pylori Infection",
+   "C": "Oral contraceptives",
+   "D": "History of lung surgery",
+   "E": "Exposure to saw dust"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Cigarette smoking causes about 85-90% of lung cancers, with risk related to pack-years; other risk factors include asbestos, radon and occupational carcinogens.",
+  "key_note": "",
+  "figure": "",
+  "qid": "32-1"
+ },
+ {
+  "cids": [
+   "C1334"
+  ],
+  "stem": "What is the most common type of lung cancer?",
+  "options": {
+   "A": "Adenocarcinoma",
+   "B": "Squamous cell carcinoma",
+   "C": "Small cell carcinoma",
+   "D": "Large cell carcinoma",
+   "E": "Non-small cell carcinoma"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Adenocarcinoma is now the most common histological type of lung cancer, including in non-smokers and women; squamous cell carcinoma was formerly the commonest. Non-small cell carcinoma is a group, not a single type.",
+  "key_note": "The compiled key listed B (Squamous cell carcinoma) and E (Non-small cell carcinoma); the correct single type is A: adenocarcinoma.",
+  "figure": "",
+  "qid": "32-2"
+ },
+ {
+  "cids": [
+   "C0108"
+  ],
+  "stem": "A 65 years smoker male presents in OPD with complaints of cough, fever and gross weight loss from last 3 months. He also noticed blood in sputum 10 days back. What is the most likely diagnosis?",
+  "options": {
+   "A": "Lung carcinoma",
+   "B": "Lobar Pneumonia",
+   "C": "Fungal infection",
+   "D": "Pulmonary Tuberculosis",
+   "E": "Pulmonary embolism"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "An elderly smoker with cough, haemoptysis and marked weight loss over 3 months has lung carcinoma until proven otherwise; TB is the main differential in Pakistan and must be excluded, but the risk profile points to cancer.",
+  "key_note": "",
+  "figure": "",
+  "qid": "32-3"
+ },
+ {
+  "cids": [
+   "C0524"
+  ],
+  "stem": "A 40-year-old male smoker presents with hoarseness. Diagnostic workup indicates bronchogenic carcinoma. Extension to which of the following structures explains his hoarseness?",
+  "options": {
+   "A": "Trachea",
+   "B": "Recurrent laryngeal nerve",
+   "C": "Superior laryngeal nerve",
+   "D": "Vagus nerve",
+   "E": "Phrenic nerve"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Hoarseness in lung cancer is due to involvement of the left recurrent laryngeal nerve (hooking under the aortic arch) by tumour or mediastinal nodes, causing vocal cord palsy; this usually indicates inoperability.",
+  "key_note": "",
+  "figure": "",
+  "qid": "32-4"
+ },
+ {
+  "cids": [
+   "C0120"
+  ],
+  "stem": "A patient with small cell lung cancer presents with symptoms of confusion, weakness, and muscle wasting. What would be the most likely cause in this patient?",
+  "options": {
+   "A": "Brain metastases",
+   "B": "Para neoplastic syndrome",
+   "C": "Hypercalcemia",
+   "D": "Superior vena cava syndrome",
+   "E": "Spinal cord compression"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Small cell lung cancer is the classic source of paraneoplastic syndromes: SIADH (hyponatraemia, confusion), ectopic ACTH (weakness, muscle wasting) and Lambert-Eaton myasthenic syndrome. Hypercalcaemia from PTHrP is typical of squamous cell carcinoma.",
+  "key_note": "",
+  "figure": "",
+  "qid": "32-5"
+ },
+ {
+  "cids": [
+   "C0793"
+  ],
+  "stem": "60 years old known smoker is brought to OPD with contrast enhanced CT scan chest which shows large mass involving right main bronchus. What is the gold standard investigation for diagnosis?",
+  "options": {
+   "A": "Ultrasound chest",
+   "B": "Indirect laryngoscopy",
+   "C": "CT Scan chest",
+   "D": "Chest x ray PA view",
+   "E": "Bronchoscopy with biopsy of mass"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Bronchoscopy with biopsy gives the tissue diagnosis for a central tumour involving a main bronchus; CT stages but does not give histology.",
+  "key_note": "Not marked in the source paper; answer by reviewer. Compiled key agrees.",
+  "figure": "",
+  "qid": "32-6"
+ },
+ {
+  "cids": [
+   "C0118"
+  ],
+  "stem": "A patient with a lung tumor undergoes a PET scan, which shows high FDG uptake in the primary tumor and mediastinal lymph nodes. What does this finding suggest?",
+  "options": {
+   "A": "Benign disease",
+   "B": "Locally advanced disease",
+   "C": "Metastatic disease",
+   "D": "Inflammatory process",
+   "E": "Early-stage disease"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "FDG uptake in the primary and mediastinal (N2) nodes means locally advanced (stage III) disease; distant metastasis would need uptake outside the thorax. PET findings in nodes are confirmed by EBUS or mediastinoscopy because of false positives.",
+  "key_note": "",
+  "figure": "",
+  "qid": "32-7"
+ },
+ {
+  "cids": [
+   "C1035"
+  ],
+  "stem": "A 66-year-old female with a clinically staged T1N0 squamous cell lung carcinoma undergoes a thoracocentesis for a moderate pleural effusion. Pleural fluid analysis reveals an exudative effusion, and cytology is positive for malignant cells. What is the correct stage of this patient?",
+  "options": {
+   "A": "Stage I",
+   "B": "Stage II",
+   "C": "Stage IIIa",
+   "D": "Stage IIIb",
+   "E": "Stage IV"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "A malignant pleural effusion is classified as M1a in the TNM system, making the disease stage IV regardless of the T and N status; it is not treated by resection.",
+  "key_note": "",
+  "figure": "",
+  "qid": "32-8"
+ },
+ {
+  "cids": [
+   "C0398"
+  ],
+  "stem": "56 years old smoker diagnosed as a case of Ca lung by pulmonologist. Anesthetist declare that patient is fit for lobectomy if he has FEV1 of more than",
+  "options": {
+   "A": "100 cc",
+   "B": "200 cc",
+   "C": "500 cc",
+   "D": "1000 cc",
+   "E": "1500 cc"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "BTS guidance: a patient is fit for lobectomy if the post-bronchodilator FEV1 is over 1.5 L, and for pneumonectomy if over 2 L, without further testing.",
+  "key_note": "",
+  "figure": "",
+  "qid": "32-9"
+ },
+ {
+  "cids": [
+   "C0699"
+  ],
+  "stem": "A 60-year-old male smoker presents with a 2-month history of cough and hemoptysis. Chest X-ray and CT scan reveal a 3 cm mass in the right upper lobe of the lung. Bronchoscopy with biopsy confirms non-small cell lung cancer (NSCLC). The patient has a good performance status, and there is no evidence of distant metastasis or mediastinal lymph node involvement on imaging. What is the most appropriate treatment plan for this patient?",
+  "options": {
+   "A": "Lobectomy with mediastinal lymph node dissection",
+   "B": "Stereotactic body radiation therapy (SBRT)",
+   "C": "Chemotherapy alone",
+   "D": "Pneumonectomy",
+   "E": "Neoadjuvant chemotherapy followed by surgery"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "For stage I NSCLC (3 cm, node negative, no metastases) in a fit patient, the standard is anatomical lobectomy with systematic mediastinal lymph node dissection; SBRT is for patients unfit for surgery, and pneumonectomy is unnecessary.",
+  "key_note": "",
+  "figure": "",
+  "qid": "32-10"
+ },
+ {
+  "cids": [
+   "C0119"
+  ],
+  "stem": "A patient with non-small cell lung cancer (NSCLC) undergoes surgical resection. What would be the most important prognostic factor for survival in this patient?",
+  "options": {
+   "A": "Tumor size",
+   "B": "Lymph node status",
+   "C": "Histological grade",
+   "D": "Patient's age",
+   "E": "Performance status"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "After resection of NSCLC, lymph node (N) status is the most important prognostic factor for survival.",
+  "key_note": "",
+  "figure": "",
+  "qid": "32-11"
+ },
+ {
+  "cids": [
+   "C0121"
+  ],
+  "stem": "A patient with lung cancer undergoes molecular testing, which reveals an EGFR mutation. What would be the most appropriate treatment option in this patient?",
+  "options": {
+   "A": "Chemotherapy",
+   "B": "Targeted therapy",
+   "C": "Radiation therapy",
+   "D": "Surgery",
+   "E": "Immunotherapy"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "An activating EGFR mutation (commonest in adenocarcinoma, non-smokers and Asian women) predicts response to EGFR tyrosine kinase inhibitors such as osimertinib or gefitinib, which are first-line targeted therapy in advanced disease.",
+  "key_note": "",
+  "figure": "",
+  "qid": "32-12"
+ },
+ {
+  "cids": [
+   "C1338"
+  ],
+  "stem": "What is the management of a patient with a solitary pulmonary nodule?",
+  "options": {
+   "A": "Biopsy",
+   "B": "Surgery",
+   "C": "Radiation therapy",
+   "D": "Watchful waiting",
+   "E": "Re assurance"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "A solitary pulmonary nodule is managed by risk: small low-risk nodules are followed with serial CT, while suspicious nodules in fit patients are excised, which is both diagnostic and therapeutic. Classical surgical teaching treats a solitary nodule in an adult as malignant until proven otherwise, which favours excision.",
+  "key_note": "One paper marked B (Surgery) and the compiled key marked D (Watchful waiting); the question is ambiguous as management depends on nodule size and risk. B follows the classical teaching to excise a suspicious nodule.",
+  "figure": "",
+  "qid": "32-13"
+ },
+ {
+  "ncids": [
+   "K0474"
+  ],
+  "stem": "At the age of 46, an accountant has developed hoarseness due to an inoperable cancer of the left upper lung lobe. He has smoked heavily since the age of 14. Which of the following features of his lung cancer is due to direct local spread of the tumour rather than a paraneoplastic (non-metastatic) effect?",
+  "options": {
+   "A": "Hypercalcaemia",
+   "B": "Cushing-like syndrome",
+   "C": "Gynaecomastia",
+   "D": "Syndrome of inappropriate secretion of antidiuretic hormone (SIADH)",
+   "E": "Brachial plexus lesion (Pancoast's syndrome)"
+  },
+  "answer": "E",
+  "explanation": "Pancoast's syndrome results from direct invasion of the lower brachial plexus and sympathetic chain by an apical tumour. Hypercalcaemia (PTHrP), Cushing-like syndrome (ectopic ACTH), gynaecomastia and SIADH are paraneoplastic endocrine effects, not evidence of spread.",
+  "key_note": "Stem repaired: the source asked which feature 'indicates distant spread', which none of the options does; Pancoast's syndrome (bank answer E) is local invasion, so the stem was reworded to fit the keyed answer.",
+  "_new": true,
+  "qid": "32-N1"
+ },
+ {
+  "ncids": [
+   "K0819"
+  ],
+  "stem": "A 61-year-old man with a long history of heavy smoking has a CT scan showing a tumour of the upper lobe of the right lung and enlarged paratracheal lymph nodes. Bronchoscopic biopsy confirms malignancy. What should be your next step?",
+  "options": {
+   "A": "Oesophagoscopy to rule out invasion of the oesophagus",
+   "B": "Proceed with lobectomy and paratracheal node dissection",
+   "C": "Begin radiotherapy to the tumour and paratracheal area",
+   "D": "Perform mediastinoscopy for staging",
+   "E": "Wait 3 months and repeat the CT scan to evaluate disease progression"
+  },
+  "answer": "D",
+  "explanation": "Enlarged mediastinal nodes on CT must be sampled (mediastinoscopy or EBUS) before deciding on resection, because N2 disease changes management and CT enlargement may be reactive. Oesophagoscopy is not part of standard staging.",
+  "key_note": "Bank marked A; correct is D because enlarged paratracheal nodes need tissue staging by mediastinoscopy before any treatment decision.",
+  "_new": true,
+  "qid": "32-N2"
+ },
+ {
+  "ncids": [
+   "K1294"
+  ],
+  "stem": "A 65-year-old smoker presents with facial swelling and cyanosis, especially on bending over. There are large dilated subcutaneous veins on his upper chest, and his jugular veins remain prominent even when he is upright. Which of the following is the most likely cause?",
+  "options": {
+   "A": "Histoplasmosis (sclerosing mediastinitis)",
+   "B": "Bronchogenic carcinoma",
+   "C": "Substernal goitre",
+   "D": "Thoracic aortic aneurysm",
+   "E": "Constrictive pericarditis"
+  },
+  "answer": "B",
+  "explanation": "This is superior vena cava obstruction, and in a smoker the commonest cause by far is bronchogenic carcinoma (especially small cell) or its mediastinal nodes. Benign causes such as fibrosing mediastinitis or goitre are much rarer.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "32-N3"
+ },
+ {
+  "ncids": [
+   "K1295"
+  ],
+  "stem": "A 70-year-old smoker is diagnosed with small cell (oat cell) carcinoma of the left main bronchus. Which statement best describes his treatment?",
+  "options": {
+   "A": "Surgery is the mainstay",
+   "B": "Radiotherapy alone is the preferred option",
+   "C": "Chemotherapy is the treatment of choice with a favourable initial response",
+   "D": "Surgery followed by chemotherapy",
+   "E": "Surgery followed by radiotherapy"
+  },
+  "answer": "C",
+  "explanation": "Small cell lung cancer is usually disseminated at diagnosis and is treated primarily with combination chemotherapy (with radiotherapy for limited disease), to which it is highly responsive initially. A central main bronchus tumour is not a candidate for surgery.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "32-N4"
+ },
+ {
+  "ncids": [
+   "K1710"
+  ],
+  "stem": "Which of the following tumours has the strongest association with chronic smoking?",
+  "options": {
+   "A": "Carcinoma oesophagus",
+   "B": "Carcinoma of breast",
+   "C": "Carcinoma of colon",
+   "D": "Bronchogenic carcinoma",
+   "E": "Carcinoma stomach"
+  },
+  "answer": "D",
+  "explanation": "Smoking accounts for about 85 to 90% of lung cancers, making bronchogenic carcinoma the tumour most strongly associated with it. Smoking raises the risk of oesophageal and gastric cancer too, but far less strongly.",
+  "key_note": "",
+  "_new": true,
+  "qid": "32-N5"
+ }
+]

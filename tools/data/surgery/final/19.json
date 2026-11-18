@@ -1,0 +1,666 @@
+[
+ {
+  "cids": [
+   "C0636"
+  ],
+  "stem": "The appendicular artery is a branch of which of the following?",
+  "options": {
+   "A": "Ileocolic artery",
+   "B": "Left colic artery",
+   "C": "Right colic artery",
+   "D": "Inferior mesenteric artery",
+   "E": "Coeliac trunk"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "The appendicular artery arises from the (inferior division of the) ileocolic artery, a branch of the SMA, and runs in the mesoappendix. It is an end artery, which is why an obstructed, inflamed appendix becomes gangrenous early.",
+  "key_note": "",
+  "figure": "",
+  "qid": "19-1"
+ },
+ {
+  "cids": [
+   "C0634"
+  ],
+  "stem": "A 16-year-old boy presents with lower abdominal pain and you suspect acute appendicitis. Where is McBurney's point located?",
+  "options": {
+   "A": "Junction of medial 1/3 and lateral 2/3 of a line joining the anterior superior iliac spine and pubic tubercle",
+   "B": "Junction of medial 1/3 and lateral 2/3 of a line joining the anterior superior iliac spine and umbilicus",
+   "C": "Junction of medial 1/3 and lateral 2/3 of a line joining the umbilicus and pubic tubercle",
+   "D": "Junction of lateral 1/3 and medial 2/3 of a line joining the anterior superior iliac spine and umbilicus",
+   "E": "Junction of lateral 1/3 and medial 2/3 of a line joining the anterior superior iliac spine and pubic tubercle"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "McBurney's point lies one-third of the way from the ASIS to the umbilicus, i.e. at the junction of the lateral third and medial two-thirds of the spino-umbilical line. It marks the base of the appendix and is the point of maximal tenderness in appendicitis.",
+  "key_note": "",
+  "figure": "",
+  "qid": "19-2"
+ },
+ {
+  "cids": [
+   "C0326"
+  ],
+  "stem": "A 35-year-old woman is booked for open appendicectomy through a gridiron incision. What is true about McBurney's point?",
+  "options": {
+   "A": "Gallbladder fundus is found at this point",
+   "B": "It indicates the position of the tip of the appendix",
+   "C": "It lies at the junction of the medial one-third and lateral two-thirds of a line joining the umbilicus and anterior superior iliac spine",
+   "D": "Lanz skin incision is given over this point",
+   "E": "Base of appendix is present at this point"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "McBurney's point is the surface marking of the base of the appendix, which is constant, unlike the tip. It lies at the junction of the lateral third and medial two-thirds of the umbilicus-ASIS line, so option C reverses the thirds; the gridiron (not Lanz) incision is centred on it.",
+  "key_note": "One copy's highlight marked C; the printed key E is correct, because C places the point at the wrong third of the line.",
+  "figure": "",
+  "qid": "19-3"
+ },
+ {
+  "cids": [
+   "N002"
+  ],
+  "stem": "Which nerve is at risk of injury during appendicectomy?",
+  "options": {},
+  "answer": null,
+  "answer_text": "Iliohypogastric nerve (ilioinguinal nerve also at risk).",
+  "explanation": "The iliohypogastric nerve (and the ilioinguinal nerve) runs between the internal oblique and transversus abdominis in the right iliac fossa and can be cut or caught in sutures during a gridiron or Lanz incision. Injury weakens the inguinal canal musculature and predisposes to right inguinal hernia.",
+  "key_note": "Options not available in the source; recall question.",
+  "figure": "",
+  "qid": "19-4"
+ },
+ {
+  "cids": [
+   "C0488"
+  ],
+  "stem": "Regarding the pathophysiology of acute appendicitis, which of the following statements is true?",
+  "options": {
+   "A": "Faecoliths are responsible in about 30% of adult patients",
+   "B": "Lymphoid hyperplasia is a rare cause in adults",
+   "C": "Clostridium difficile is usually the pathogen",
+   "D": "Carcinoids account for almost 5% of cases",
+   "E": "The majority of adults have developed gangrene by the time it is diagnosed"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Luminal obstruction is the key event: in adults faecoliths are found in roughly a third of cases (more often in gangrenous or perforated appendicitis), whereas lymphoid hyperplasia is the usual cause in children. The organisms are mixed gut flora (E. coli, Bacteroides), and carcinoids cause well under 1% of cases.",
+  "key_note": "One student pen mark circled D; keyed answer A is correct (carcinoid is under 1%).",
+  "figure": "",
+  "qid": "19-5"
+ },
+ {
+  "cids": [
+   "C0607"
+  ],
+  "stem": "A young man presents with pain in the right lower quadrant which initially started in the periumbilical region. The reason for localisation of pain to the right lower quadrant is:",
+  "options": {
+   "A": "Appendicular colic",
+   "B": "Distension of appendix",
+   "C": "Intestinal colic",
+   "D": "Peritoneal irritation",
+   "E": "Referred pain"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Early visceral pain from appendiceal distension is referred to the umbilicus (T10, midgut). When inflammation reaches the parietal peritoneum, which has somatic innervation, pain localises precisely to the right iliac fossa.",
+  "key_note": "",
+  "figure": "",
+  "qid": "19-6"
+ },
+ {
+  "cids": [
+   "C0726"
+  ],
+  "stem": "Acute appendicitis is most commonly associated with which of the following?",
+  "options": {
+   "A": "Temperature above 104 F",
+   "B": "Frequent loose stools",
+   "C": "Anorexia, abdominal pain and right lower quadrant tenderness",
+   "D": "White blood cell count greater than 20,000 per cu mm",
+   "E": "Constipation"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "The classic triad is anorexia, periumbilical pain shifting to the RIF and RIF tenderness. High fever above 39-40 C or WCC above 20,000 suggests perforation or another diagnosis.",
+  "key_note": "Not marked in the source paper; answer by reviewer (agrees with compiled key).",
+  "figure": "",
+  "qid": "19-7"
+ },
+ {
+  "cids": [
+   "C0608",
+   "C1121"
+  ],
+  "stem": "A 40-year-old patient presents with umbilical pain which shifted to the right lower abdomen over 12 hours. There is tenderness at McBurney's point. What is the likely diagnosis?",
+  "options": {
+   "A": "Acute appendicitis",
+   "B": "Acute pancreatitis",
+   "C": "Acute cholecystitis",
+   "D": "Acute cholangitis",
+   "E": "Acute intestinal obstruction"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Migratory pain from the umbilicus to the RIF with McBurney's point tenderness is classic acute appendicitis.",
+  "key_note": "One compiled answer book entry wrote 'Acute cholecystitis' against letter A; correct is acute appendicitis.",
+  "figure": "",
+  "qid": "19-8"
+ },
+ {
+  "cids": [
+   "C0325"
+  ],
+  "stem": "A 25-year-old woman has abdominal pain that started periumbilically and has shifted to the right iliac fossa, with right lower quadrant tenderness. Ultrasound shows a blind-ending loop of gut in the right lower quadrant and no other significant finding. The most likely diagnosis is:",
+  "options": {
+   "A": "Acute appendicitis",
+   "B": "Intestinal obstruction",
+   "C": "Pelvic inflammatory disease",
+   "D": "Mesenteric lymphadenitis",
+   "E": "Ureteric colic"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "A blind-ending, non-compressible tubular structure (usually over 6 mm, aperistaltic) in the RIF is the ultrasound sign of an inflamed appendix. Normal ovaries and tubes on ultrasound make PID less likely.",
+  "key_note": "Source stem said 'with a peristalsis'; an inflamed appendix is aperistaltic, so this was likely meant as 'aperistaltic'.",
+  "figure": "",
+  "qid": "19-9"
+ },
+ {
+  "cids": [
+   "C0916",
+   "C0609"
+  ],
+  "stem": "A 16-year-old boy presents with right iliac fossa pain. Pressing on the left iliac fossa produces pain in the right iliac fossa. This sign is known as:",
+  "options": {
+   "A": "Psoas sign",
+   "B": "Pointing sign",
+   "C": "Obturator sign",
+   "D": "Rovsing sign",
+   "E": "Murphy sign"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Rovsing's sign: pressure in the LIF displaces gas and bowel towards the inflamed right side, causing RIF pain. Psoas and obturator signs indicate a retrocaecal or pelvic appendix respectively, and Murphy's sign is for cholecystitis.",
+  "key_note": "Some versions had only 4 options; same answer.",
+  "figure": "",
+  "qid": "19-10"
+ },
+ {
+  "cids": [
+   "C1015"
+  ],
+  "stem": "A 23-year-old woman presents with right iliac fossa pain, anorexia, nausea and fever for 2 days, with no menstrual irregularity. Which clinical score is used to diagnose acute appendicitis?",
+  "options": {
+   "A": "Ranson's score",
+   "B": "Alvarado score",
+   "C": "Glasgow coma scale",
+   "D": "Visual analogue scale",
+   "E": "Wells score"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "The Alvarado (MANTRELS) score combines migration of pain, anorexia, nausea, RIF tenderness, rebound, fever, leucocytosis and left shift (maximum 10). Ranson's is for pancreatitis and Wells for DVT/PE; the AIR score is a newer alternative.",
+  "key_note": "",
+  "figure": "",
+  "qid": "19-11"
+ },
+ {
+  "cids": [
+   "C1122",
+   "C1339"
+  ],
+  "stem": "A 30-year-old woman with right iliac fossa pain and low-grade fever is suspected of having acute appendicitis. What is the preferred initial imaging modality?",
+  "options": {
+   "A": "CT scan",
+   "B": "PET scan",
+   "C": "MRI",
+   "D": "Ultrasound abdomen",
+   "E": "X-ray abdomen"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Ultrasound is the first-line imaging in children and in women of reproductive age, as it avoids radiation and also assesses the ovaries and tubes. CT is more accurate in adults generally and is used when ultrasound is inconclusive, and MRI is preferred in pregnancy.",
+  "key_note": "Merged with a similar question about a 12-year-old boy; one paper keyed CT (A) for the child, but correct is ultrasound, the first-line study in children. The adult female version was not marked.",
+  "figure": "",
+  "qid": "19-12"
+ },
+ {
+  "cids": [
+   "C1445"
+  ],
+  "stem": "A 7-year-old boy has high-grade fever and sore throat for 2 days, and paraumbilical and right iliac fossa pain for 1 day with nausea and anorexia. Tenderness is greater in the paraumbilical region than the RIF, with no rebound tenderness, and shifting tenderness is positive towards the paraumbilical area. What is the diagnosis?",
+  "options": {
+   "A": "Non-specific abdominal pain",
+   "B": "Acute appendicitis",
+   "C": "Meckel's diverticulum",
+   "D": "Mesenteric lymphadenitis",
+   "E": "Intestinal worms"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Mesenteric adenitis follows an upper respiratory infection, with high fever early, pain and tenderness that are less localised and shift with position (Klein's sign) as the mesentery moves. In appendicitis, fever is low-grade and tenderness stays fixed in the RIF.",
+  "key_note": "",
+  "figure": "",
+  "qid": "19-13"
+ },
+ {
+  "cids": [
+   "C0922"
+  ],
+  "stem": "A 24-year-old married woman presents with pain in the right lower abdomen. Her pulse is 130/min and BP 60/40 mmHg, with generalised abdominal tenderness. What is the most likely diagnosis?",
+  "options": {
+   "A": "Mittelschmerz",
+   "B": "Acute appendicitis",
+   "C": "Torsion of ovarian cyst",
+   "D": "Ectopic pregnancy"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Lower abdominal pain with profound haemorrhagic shock in a woman of reproductive age is a ruptured ectopic pregnancy until proven otherwise; urgent beta-hCG and laparotomy or laparoscopy are needed. Appendicitis and torsion do not cause this degree of shock early.",
+  "key_note": "",
+  "figure": "",
+  "qid": "19-14"
+ },
+ {
+  "cids": [
+   "C0800"
+  ],
+  "stem": "A previously healthy 30-year-old man has right iliac fossa pain for 1 week and multiple episodes of vomiting for 2 days. He is toxic with pulse 104/min and temperature 101 F. There is a firm, mobile, tender mass in the right iliac fossa extending towards the central abdomen. The most likely diagnosis is:",
+  "options": {
+   "A": "Acute appendicitis",
+   "B": "Appendicular mass",
+   "C": "Colonic malignancy",
+   "D": "Crohn's disease",
+   "E": "Ulcerative colitis"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "After 3-5 days the omentum and adjacent loops wall off the inflamed appendix, forming a tender appendicular mass (phlegmon). It is usually managed conservatively (Ochsner-Sherren regimen), with drainage if it becomes an abscess.",
+  "key_note": "",
+  "figure": "",
+  "qid": "19-15"
+ },
+ {
+  "cids": [
+   "C0124"
+  ],
+  "stem": "A 45-year-old patient presents with a 2-day history of right lower quadrant pain and fever. There is a palpable mass in the right iliac fossa, and CT shows a thickened appendix with surrounding inflammation (phlegmon) without abscess. What is the most appropriate next step?",
+  "options": {
+   "A": "Immediate appendicectomy",
+   "B": "Antibiotics and observation",
+   "C": "Percutaneous drainage",
+   "D": "Diagnostic laparoscopy",
+   "E": "Colonoscopy"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "An appendicular mass is treated conservatively with IV antibiotics, fluids and observation (Ochsner-Sherren regimen), because surgery on an inflamed phlegmon risks bowel injury and fistula. Percutaneous drainage is for an abscess, and colonoscopy is done later in patients over 40 to exclude caecal cancer.",
+  "key_note": "The solved copy of this paper highlighted A (immediate appendicectomy); the other copy marked B, which is correct for a mass/phlegmon.",
+  "figure": "",
+  "qid": "19-16"
+ },
+ {
+  "cids": [
+   "C0621"
+  ],
+  "stem": "A patient with acute appendicitis has refused operative treatment. What complication can occur?",
+  "options": {
+   "A": "Carcinoma appendix",
+   "B": "Perforation",
+   "C": "Bleeding",
+   "D": "Amyloidosis"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Untreated obstructive appendicitis progresses to gangrene and perforation, causing localised abscess or generalised peritonitis. Perforation is commoner at the extremes of age.",
+  "key_note": "",
+  "figure": "",
+  "qid": "19-17"
+ },
+ {
+  "cids": [
+   "C0592"
+  ],
+  "stem": "Which of the following is NOT a complication of acute appendicitis?",
+  "options": {
+   "A": "Appendicular abscess",
+   "B": "Appendicular mass",
+   "C": "Adenocarcinoma of appendix",
+   "D": "Pelvic abscess",
+   "E": "Pylephlebitis"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Appendicitis can be complicated by mass, abscess (including pelvic), perforation and portal pyaemia (pylephlebitis). Adenocarcinoma of the appendix may present as appendicitis by obstructing the lumen, but it is not caused by it.",
+  "key_note": "One paper version had 'Infected wound' as option E and was marked E; correct in both versions is C (adenocarcinoma appendix).",
+  "figure": "",
+  "qid": "19-18"
+ },
+ {
+  "cids": [
+   "C0917"
+  ],
+  "stem": "A patient presents to the surgical OPD six days after appendicectomy with spiking fever, malaise and anorexia. The most likely cause is:",
+  "options": {
+   "A": "Deep venous thrombosis",
+   "B": "Urinary tract infection",
+   "C": "Intra-abdominal abscess",
+   "D": "Wound infection",
+   "E": "Pneumonia"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A swinging (spiking) fever 5-10 days after surgery for appendicitis indicates a collection, usually pelvic or subphrenic. Wound infection presents with local erythema, pain and discharge rather than spiking fever and anorexia; DVT and pneumonia are not the classic day-6 picture after appendicectomy.",
+  "key_note": "Two copies of one ward test marked D (Wound infection, queried with '????' in the source) and one compiled key gave A (DVT); correct is C.",
+  "figure": "",
+  "qid": "19-19"
+ },
+ {
+  "cids": [
+   "C0322"
+  ],
+  "stem": "A 35-year-old man presents with fever and diarrhoea 3 weeks after appendicectomy. On digital rectal examination the rectum is boggy. What is the most likely diagnosis?",
+  "options": {
+   "A": "Acute gastroenteritis",
+   "B": "Amoebic dysentery",
+   "C": "Diverticulitis",
+   "D": "Pelvic abscess",
+   "E": "Postoperative wound infection"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A pelvic abscess irritates the rectum, causing diarrhoea and mucus, and is felt as a boggy, tender anterior rectal wall mass on DRE. Many drain spontaneously into the rectum; otherwise they are drained transrectally or percutaneously.",
+  "key_note": "",
+  "figure": "",
+  "qid": "19-20"
+ },
+ {
+  "cids": [
+   "C1315"
+  ],
+  "stem": "A woman presents with 3 days of abdominal pain. She had surgery for a perforated appendix 2 weeks ago, and now has high-grade fever and lower abdominal guarding. Which is the initial investigation of choice to detect the underlying pathology?",
+  "options": {
+   "A": "Chest X-ray",
+   "B": "Ultrasound of the abdomen and pelvis",
+   "C": "CT scan abdomen",
+   "D": "X-ray abdomen erect",
+   "E": "X-ray abdomen supine"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "The likely problem is a pelvic or intra-abdominal abscess, and ultrasound of the abdomen and pelvis is a quick, radiation-free first test that can also guide drainage. CT is the most accurate test if ultrasound is inconclusive; plain films do not show abscesses.",
+  "key_note": "One copy of this paper marked E (X-ray abdomen supine); correct is B, as plain films cannot show an abscess.",
+  "figure": "",
+  "qid": "19-21"
+ },
+ {
+  "cids": [
+   "C1120"
+  ],
+  "stem": "A 60-year-old woman undergoes surgery for suspected appendicitis. Histology shows a well-differentiated neuroendocrine tumour at the tip of the appendix. What is the most likely diagnosis?",
+  "options": {
+   "A": "Adenocarcinoma",
+   "B": "Carcinoid tumour",
+   "C": "GIST",
+   "D": "Lymphoma",
+   "E": "Mucinous cystadenoma"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "A well-differentiated neuroendocrine tumour of the appendix is a carcinoid, most often at the tip and found incidentally. Tumours under 2 cm at the tip are cured by appendicectomy; larger or basal ones need right hemicolectomy.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "19-22"
+ },
+ {
+  "ncids": [
+   "K0422",
+   "K1608"
+  ],
+  "stem": "An 18-year-old patient presents with a 5-day history of abdominal pain and pyrexia. Bowel sounds are present, the abdomen is soft with no rebound tenderness, and a mass is palpable in the right iliac fossa. CT confirms an appendicular mass with an associated abscess. He is started on metronidazole and admitted for conservative management. After 2 days the mass has not reduced in size and the temperature remains raised. What is the next stage in management?",
+  "options": {
+   "A": "Continue metronidazole for a further 14 days and add cefuroxime",
+   "B": "Proceed to appendicectomy",
+   "C": "Drainage of the appendicular abscess",
+   "D": "Colonoscopy",
+   "E": "Laparoscopy"
+  },
+  "answer": "C",
+  "explanation": "An appendix abscess that fails to settle on antibiotics needs drainage, preferably percutaneous under ultrasound or CT guidance. Immediate appendicectomy in an inflammatory mass is hazardous; interval appendicectomy can be considered later.",
+  "key_note": "",
+  "_new": true,
+  "qid": "19-N1"
+ },
+ {
+  "ncids": [
+   "K0427"
+  ],
+  "stem": "Which of the following is NOT a sign associated with acute appendicitis?",
+  "options": {
+   "A": "Murphy's sign",
+   "B": "Cope's sign",
+   "C": "Psoas sign",
+   "D": "Rovsing's sign",
+   "E": "Pain on rectal examination"
+  },
+  "answer": "A",
+  "explanation": "Murphy's sign (inspiratory arrest on palpation of the right hypochondrium) indicates acute cholecystitis. Cope's (obturator) sign, the psoas sign, Rovsing's sign and right-sided pelvic tenderness on PR are all signs of appendicitis.",
+  "key_note": "",
+  "_new": true,
+  "qid": "19-N2"
+ },
+ {
+  "ncids": [
+   "K1668"
+  ],
+  "stem": "Which of the following is NOT a feature of acute appendicitis?",
+  "options": {
+   "A": "Pain at McBurney's point",
+   "B": "Positive psoas sign",
+   "C": "Oedema and ischaemia of the wall of the appendix",
+   "D": "Rovsing's sign",
+   "E": "Positive Grey Turner's sign"
+  },
+  "answer": "E",
+  "explanation": "Grey Turner's sign (flank bruising) reflects retroperitoneal haemorrhage, classically in severe acute pancreatitis. The others are clinical or pathological features of appendicitis.",
+  "key_note": "",
+  "_new": true,
+  "qid": "19-N3"
+ },
+ {
+  "ncids": [
+   "K0430"
+  ],
+  "stem": "A 26-year-old woman arrives at the emergency department with intense right iliac fossa pain. Earlier that day she had on-and-off moderate periumbilical pain which gradually moved to the right iliac fossa, with anorexia, nausea and vomiting. She is pyrexial, with rebound tenderness and guarding over the right iliac fossa. A beta-hCG test is negative. What should you do next?",
+  "options": {
+   "A": "Take the patient to theatre for appendicectomy",
+   "B": "Alert the obstetrics and gynaecology team, suspecting a ruptured ectopic pregnancy",
+   "C": "Manage the patient medically in the emergency department",
+   "D": "Order an ultrasound scan of the abdomen",
+   "E": "Send the patient for a plain abdominal radiograph"
+  },
+  "answer": "A",
+  "explanation": "Migratory pain, anorexia, fever and localised peritonism with a negative pregnancy test is a clear clinical diagnosis of acute appendicitis, and imaging should not delay appendicectomy. A negative beta-hCG excludes ectopic pregnancy.",
+  "key_note": "",
+  "_new": true,
+  "qid": "19-N4"
+ },
+ {
+  "ncids": [
+   "K0486"
+  ],
+  "stem": "All of the following may cause a palpable right iliac fossa mass on abdominal examination EXCEPT:",
+  "options": {
+   "A": "Carcinoma of the caecum",
+   "B": "Ulcerative colitis",
+   "C": "Tuberculosis",
+   "D": "Appendicitis",
+   "E": "Ovarian cancer"
+  },
+  "answer": "B",
+  "explanation": "Ulcerative colitis is a mucosal disease starting in the rectum and does not produce a mass. Caecal carcinoma, ileocaecal TB, an appendix mass and ovarian tumours are recognised causes of a right iliac fossa mass (as are Crohn's disease and amoeboma).",
+  "key_note": "Bank marks disagree between copies (two starred B, one starred E); correct is B because a right-sided ovarian tumour can present as a right iliac fossa mass, whereas ulcerative colitis does not form a mass.",
+  "_new": true,
+  "qid": "19-N5"
+ },
+ {
+  "ncids": [
+   "K0538"
+  ],
+  "stem": "An 18-year-old has had right iliac fossa pain for 3 days and also complains of diarrhoea. A diagnosis of acute appendicitis is made. From the history, what is the likely position of the appendix?",
+  "options": {
+   "A": "Retrocaecal",
+   "B": "Paraileal",
+   "C": "Pelvic",
+   "D": "Subhepatic",
+   "E": "Retroileal"
+  },
+  "answer": "C",
+  "explanation": "A pelvic appendix lies against the rectum and bladder, so it can cause diarrhoea, tenesmus and urinary frequency, with tenderness mainly on rectal examination. A retrocaecal appendix gives loin or flank tenderness and a positive psoas sign.",
+  "key_note": "",
+  "_new": true,
+  "qid": "19-N6"
+ },
+ {
+  "ncids": [
+   "K0539"
+  ],
+  "stem": "The appendicular artery most commonly arises from which vessel?",
+  "options": {
+   "A": "Anterior (superior) branch of the ileocolic artery",
+   "B": "Right colic artery",
+   "C": "Ileal arteries",
+   "D": "Posterior (inferior) branch of the ileocolic artery",
+   "E": "Anterior caecal artery"
+  },
+  "answer": "D",
+  "explanation": "The appendicular artery arises from the inferior (posterior) division of the ileocolic artery, passes behind the terminal ileum and runs in the free border of the mesoappendix. It is an end artery, which explains early gangrene in obstructive appendicitis.",
+  "key_note": "",
+  "_new": true,
+  "qid": "19-N7"
+ },
+ {
+  "ncids": [
+   "K0541"
+  ],
+  "stem": "Which of the following is an advantage of laparoscopic appendicectomy compared with the open technique?",
+  "options": {
+   "A": "Lower rate of intra-abdominal abscess",
+   "B": "Shorter operating time",
+   "C": "Lower procedure cost",
+   "D": "Longer return to normal diet",
+   "E": "Lower wound infection rate"
+  },
+  "answer": "E",
+  "explanation": "Laparoscopic appendicectomy gives fewer wound infections, less pain, shorter stay and quicker return to activity, and allows diagnostic inspection, particularly in women. It costs more, often takes longer and has a slightly higher rate of intra-abdominal abscess.",
+  "key_note": "Bank starred C (lower cost); correct is E because laparoscopy is more expensive but reduces wound infection. Options A, B and D were reworded by the reviewer, as the original A ('can be performed safely with minimal morbidity') and E were both true.",
+  "_new": true,
+  "qid": "19-N8"
+ },
+ {
+  "ncids": [
+   "K0847"
+  ],
+  "stem": "The diagnosis of acute appendicitis is most difficult to establish in:",
+  "options": {
+   "A": "Persons aged 60 and older",
+   "B": "Women aged 18 to 35",
+   "C": "Infants younger than 1 year",
+   "D": "Pregnant women"
+  },
+  "answer": "C",
+  "explanation": "Infants cannot give a history, the presentation is non-specific (irritability, vomiting, lethargy) and the thin omentum fails to wall off infection, so diagnosis is often delayed and perforation rates approach 80-100%. The elderly and pregnant are also difficult, but infants are the hardest.",
+  "key_note": "",
+  "_new": true,
+  "qid": "19-N9"
+ },
+ {
+  "ncids": [
+   "K1427"
+  ],
+  "stem": "Which of the following is NOT true of the microscopic anatomy of the appendix?",
+  "options": {
+   "A": "The bases of the crypts contain Kulchitsky (argentaffin) cells",
+   "B": "Crypts are numerous",
+   "C": "The submucosa contains abundant lymphoid tissue (the 'abdominal tonsil')",
+   "D": "The complete longitudinal muscle coat is formed by the joining of the taeniae coli at the base of the appendix"
+  },
+  "answer": "B",
+  "explanation": "The appendix has relatively few, irregular crypts compared with the colon, with abundant submucosal lymphoid follicles. Kulchitsky cells in the crypt bases are the origin of appendiceal carcinoid, and the three taeniae converge at the base to form a complete longitudinal coat, a guide to finding the appendix.",
+  "key_note": "",
+  "_new": true,
+  "qid": "19-N10"
+ },
+ {
+  "ncids": [
+   "K1428"
+  ],
+  "stem": "In the elderly, acute appendicitis needs to be differentiated from:",
+  "options": {
+   "A": "Mesenteric infarction",
+   "B": "Colon cancer",
+   "C": "Torsion of an appendix epiploica",
+   "D": "Diverticulitis",
+   "E": "All of the above"
+  },
+  "answer": "E",
+  "explanation": "In elderly patients a right iliac fossa presentation may be caecal carcinoma (which can also cause obstructive appendicitis), right-sided or sigmoid diverticulitis, mesenteric ischaemia or epiploic appendagitis, so CT is used liberally.",
+  "key_note": "",
+  "_new": true,
+  "qid": "19-N11"
+ },
+ {
+  "ncids": [
+   "K1609"
+  ],
+  "stem": "Which of the following is the most important sign associated with acute appendicitis?",
+  "options": {
+   "A": "Rebound tenderness in the right iliac fossa",
+   "B": "WBC of 8000/mm3",
+   "C": "Psoas sign",
+   "D": "Rovsing's sign",
+   "E": "Murphy's sign"
+  },
+  "answer": "A",
+  "explanation": "Localised tenderness with rebound (peritonism) in the right iliac fossa is the most important clinical sign, indicating parietal peritoneal inflammation; it scores highest in the Alvarado score's clinical signs. A normal WBC does not support the diagnosis, and Murphy's sign is for cholecystitis.",
+  "key_note": "",
+  "_new": true,
+  "qid": "19-N12"
+ },
+ {
+  "ncids": [
+   "K1617"
+  ],
+  "stem": "A 20-year-old man presents with pain, fever and a soft cystic mass in the right iliac fossa. Ultrasound confirms the cystic (fluid-filled) nature of the mass. What is the diagnosis?",
+  "options": {
+   "A": "Appendicular mass",
+   "B": "Caecal carcinoma",
+   "C": "Appendicular abscess",
+   "D": "Carcinoid tumour",
+   "E": "Ileocaecal Crohn's disease"
+  },
+  "answer": "C",
+  "explanation": "A fluctuant, fluid-filled collection in the right iliac fossa with fever is an appendix abscess. An appendicular mass (phlegmon) is a firm, solid inflammatory mass of omentum and bowel without a liquid collection.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "19-N13"
+ },
+ {
+  "ncids": [
+   "K1669"
+  ],
+  "stem": "Which statement about acute appendicitis is CORRECT?",
+  "options": {
+   "A": "It is most common during the 5th decade of life",
+   "B": "It may cause pain on forced extension of the hip joint",
+   "C": "It typically presents with a high temperature",
+   "D": "It can be excluded if the patient has diarrhoea",
+   "E": "It may lead to gross haematuria"
+  },
+  "answer": "B",
+  "explanation": "Pain on hyperextension of the right hip (psoas sign) occurs with a retrocaecal appendix irritating the psoas. Appendicitis peaks in the second and third decades, usually causes only low-grade fever, can cause diarrhoea (pelvic appendix) and causes at most microscopic haematuria.",
+  "key_note": "",
+  "_new": true,
+  "qid": "19-N14"
+ }
+]

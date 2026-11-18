@@ -1,0 +1,441 @@
+[
+ {
+  "cids": [
+   "C0953"
+  ],
+  "stem": "Which of the following is an important cause of enlarged cervical lymph nodes?",
+  "options": {
+   "A": "Syphilis",
+   "B": "Hypothyroidism",
+   "C": "Thyrotoxicosis",
+   "D": "Metastatic disease",
+   "E": "Cervical trauma"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Metastatic carcinoma (especially from the upper aerodigestive tract) is a key cause of cervical lymphadenopathy in adults, along with TB and lymphoma. Any persistent neck node in an adult needs a malignancy workup.",
+  "key_note": "",
+  "figure": "",
+  "qid": "40-1"
+ },
+ {
+  "cids": [
+   "C0885",
+   "C0766"
+  ],
+  "stem": "A 12-year-old girl presents with a right-sided neck swelling for 4 months. She has low-grade evening pyrexia and weight loss. The swelling is firm and rubbery, and ESR is raised. What is the most likely diagnosis?",
+  "options": {
+   "A": "Tuberculous cervical lymphadenitis",
+   "B": "Cystic hygroma",
+   "C": "Metastatic disease",
+   "D": "Lymphoma",
+   "E": "Squamous cell carcinoma"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Evening fever, weight loss, raised ESR and enlarging (often matted) cervical nodes in a young patient in Pakistan is tuberculous lymphadenitis until proven otherwise. Lymphoma is the main differential and is excluded by excision biopsy.",
+  "key_note": "One copy within an RDMC paper marked D (Lymphoma); correct is A (TB lymphadenitis), as marked elsewhere. Some versions describe an 18-year-old with multiple matted nodes, or use different distractors; the answer is the same.",
+  "figure": "",
+  "qid": "40-2"
+ },
+ {
+  "cids": [
+   "C0989"
+  ],
+  "stem": "A 35-year-old man has had a painful right neck swelling for 6 months, with weight loss and evening pyrexia. There are matted cervical lymph nodes and his ESR is 70 mm/hr. Biopsy will most likely show:",
+  "options": {
+   "A": "Acute suppurative inflammation",
+   "B": "Squamous cell carcinoma",
+   "C": "Thyroid neoplasm",
+   "D": "Branchial cyst",
+   "E": "Chronic granulomatous inflammation"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Matted nodes with constitutional symptoms and high ESR suggest tuberculosis, whose histology is chronic caseating granulomatous inflammation with Langhans giant cells.",
+  "key_note": "Not marked in the source paper; answer by reviewer, which agrees with the compiled answer book.",
+  "figure": "",
+  "qid": "40-3"
+ },
+ {
+  "cids": [
+   "C1476"
+  ],
+  "stem": "A 15-year-old boy with general ill health and weight loss presents with multiple enlarged cervical lymph nodes. ESR is 40 with lymphocytosis on blood count. Which investigation will best confirm the diagnosis?",
+  "options": {
+   "A": "Chest X-ray",
+   "B": "CT scan neck",
+   "C": "FNAC of lymph node",
+   "D": "Lymph node (excision) biopsy",
+   "E": "Sputum for AFB"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Excision biopsy of a whole node gives architecture for histology (caseating granulomas versus lymphoma) plus tissue for AFB culture and GeneXpert. FNAC is a useful first test but cannot reliably exclude lymphoma.",
+  "key_note": "",
+  "figure": "",
+  "qid": "40-4"
+ },
+ {
+  "cids": [
+   "C0985"
+  ],
+  "stem": "A 23-year-old woman has a neck lump that has become prominent over the last few months. It is 2 x 3 cm, soft, fluctuant, tender and erythematous, and lies about a third of the way down the anterior border of the sternocleidomastoid. What is the likely diagnosis?",
+  "options": {
+   "A": "Lymphoma",
+   "B": "Metastatic cancer",
+   "C": "Thyroid nodule",
+   "D": "Branchial cyst",
+   "E": "Dermoid cyst"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A branchial cyst typically presents in young adults as a smooth fluctuant swelling at the junction of the upper and middle thirds of the anterior border of sternocleidomastoid. Tenderness and redness reflect infection, a common presentation.",
+  "key_note": "",
+  "figure": "",
+  "qid": "40-5"
+ },
+ {
+  "cids": [
+   "C0593"
+  ],
+  "stem": "A 13-year-old boy is diagnosed with a branchial cyst on the right side of the neck. Branchial cleft remnants most often present with which clinical problem?",
+  "options": {
+   "A": "Airway obstruction",
+   "B": "Haemorrhage",
+   "C": "Infection",
+   "D": "Malignant degeneration",
+   "E": "Pain"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Branchial cysts and sinuses commonly present with recurrent infection or abscess, often after an upper respiratory tract infection. Malignant change is extremely rare.",
+  "key_note": "",
+  "figure": "",
+  "qid": "40-6"
+ },
+ {
+  "cids": [
+   "C0899"
+  ],
+  "stem": "Which of the following is NOT a common site for a cystic hygroma?",
+  "options": {
+   "A": "Neck",
+   "B": "Head",
+   "C": "Limbs",
+   "D": "Inguinal region"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Cystic hygroma (macrocystic lymphatic malformation) arises where primitive lymph sacs develop: neck (posterior triangle, the commonest), axilla, mediastinum and groin. It is rare in the limbs.",
+  "key_note": "",
+  "figure": "",
+  "qid": "40-7"
+ },
+ {
+  "cids": [
+   "C0366"
+  ],
+  "stem": "A 20-year-old man has a small midline swelling in the front of the neck that moves upwards on protrusion of the tongue. What is the diagnosis?",
+  "options": {
+   "A": "Branchial cyst",
+   "B": "Cystic hygroma",
+   "C": "Submental lymph node",
+   "D": "Thyroglossal cyst",
+   "E": "Thyroid nodule"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Movement on tongue protrusion is characteristic of a thyroglossal cyst, because of its attachment to the foramen caecum via the tract through the hyoid. Thyroid swellings move on swallowing but not with tongue protrusion.",
+  "key_note": "",
+  "figure": "",
+  "qid": "40-8"
+ },
+ {
+  "cids": [
+   "C0990"
+  ],
+  "stem": "Regarding thyroglossal duct cyst, which of the following statements is true?",
+  "options": {
+   "A": "It arises from the first pharyngeal pouch",
+   "B": "It is an acquired condition",
+   "C": "The definitive treatment is Sistrunk's operation",
+   "D": "It is a premalignant condition"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Sistrunk's operation removes the cyst, the whole tract and the central part of the hyoid, minimising recurrence. The cyst is a congenital remnant of the thyroglossal duct (from the foramen caecum), not a pharyngeal pouch derivative. Rare papillary carcinoma occurs, but it is not regarded as premalignant.",
+  "key_note": "Not marked in the source paper; answer by reviewer, which agrees with the compiled answer book.",
+  "figure": "",
+  "qid": "40-9"
+ },
+ {
+  "cids": [
+   "C0361"
+  ],
+  "stem": "A 15-year-old girl is diagnosed with a thyroglossal cyst and a Sistrunk operation is planned. Which investigation should be done before surgery?",
+  "options": {
+   "A": "Bone scan",
+   "B": "CT scan of chest",
+   "C": "CT scan of neck",
+   "D": "MRI neck",
+   "E": "Thyroid scan"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Before excision, imaging (ultrasound, or a thyroid scan as here) must confirm a normally sited functioning thyroid, so an ectopic thyroid that is the patient's only thyroid tissue is not removed by mistake.",
+  "key_note": "",
+  "figure": "",
+  "qid": "40-10"
+ },
+ {
+  "cids": [
+   "C0534"
+  ],
+  "stem": "A 70-year-old man has progressive weight loss and hoarseness. He has right vocal cord paralysis and several right neck masses, which FNA shows to be squamous cell carcinoma. He undergoes right hemilaryngectomy and right radical neck dissection. Postoperatively, right hemidiaphragm paralysis is noted. This is due to injury to which nerve?",
+  "options": {
+   "A": "Vagus nerve",
+   "B": "Brachial plexus",
+   "C": "Cervical plexus",
+   "D": "Spinal accessory nerve",
+   "E": "Phrenic nerve"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "The phrenic nerve (C3-C5) lies on scalenus anterior beneath the prevertebral fascia, which forms the deep limit of radical neck dissection, so it can be injured there and paralyse the hemidiaphragm. The spinal accessory nerve is deliberately sacrificed in a classical radical dissection, causing shoulder dysfunction.",
+  "key_note": "",
+  "figure": "",
+  "qid": "40-11"
+ },
+ {
+  "ncids": [
+   "K0097"
+  ],
+  "stem": "A 30-year-old sanitary worker has a painless neck lump for 3 weeks, which began discharging pus a day ago. He also reports generalised weakness and night sweats. What is the most probable diagnosis?",
+  "options": {
+   "A": "Acute lymphadenitis",
+   "B": "Cold abscess",
+   "C": "Hodgkin's lymphoma",
+   "D": "Infected sebaceous cyst",
+   "E": "Metastatic carcinoma"
+  },
+  "answer": "B",
+  "explanation": "A painless neck swelling that liquefies and discharges, with night sweats and malaise, is a tuberculous cold abscess from caseating cervical nodes. Acute lymphadenitis would be painful, hot and tender.",
+  "key_note": "",
+  "_new": true,
+  "qid": "40-N1"
+ },
+ {
+  "ncids": [
+   "K0468"
+  ],
+  "stem": "A 10-year-old child is brought to the ER with high-grade fever and a rapidly growing neck swelling that is large, hot and tender with brawny induration and fluctuation. What is the best management?",
+  "options": {
+   "A": "Start a course of antibiotics",
+   "B": "Incision and drainage",
+   "C": "Excise the swelling",
+   "D": "Treat conservatively",
+   "E": "CT scan"
+  },
+  "answer": "B",
+  "explanation": "A fluctuant neck abscess needs incision and drainage (with antibiotic cover); antibiotics alone cannot sterilise a pus collection. Ultrasound can confirm pus but should not delay drainage.",
+  "key_note": "Bank marked A with *; correct is B because a fluctuant abscess must be drained.",
+  "_new": true,
+  "qid": "40-N2"
+ },
+ {
+  "ncids": [
+   "K0735",
+   "K1202"
+  ],
+  "stem": "Primary tumours that commonly metastasise to the cervical lymph nodes include all of the following EXCEPT:",
+  "options": {
+   "A": "Nasopharyngeal cancer",
+   "B": "Cancer of the sinuses, laryngopharynx and vallecula",
+   "C": "Breast cancer",
+   "D": "Thyroid cancer",
+   "E": "Tongue cancer"
+  },
+  "answer": "C",
+  "explanation": "Cervical nodal metastases usually come from head and neck primaries (nasopharynx, oral cavity, pharynx, larynx) and the thyroid. Breast cancer spreads to axillary and internal mammary nodes; cervical (supraclavicular) spread is uncommon and late.",
+  "key_note": "One copy marked breast cancer with *, the other unmarked; correct.",
+  "_new": true,
+  "qid": "40-N3"
+ },
+ {
+  "ncids": [
+   "K0741",
+   "K1205"
+  ],
+  "stem": "Characteristics of a cystic hygroma include all of the following EXCEPT:",
+  "options": {
+   "A": "Develops from the jugular lymph sacs",
+   "B": "Brilliantly transilluminant",
+   "C": "Typically occupies the middle third of the neck",
+   "D": "Enlarges when the child cries or coughs",
+   "E": "Multiloculated"
+  },
+  "answer": "C",
+  "explanation": "A cystic hygroma arises from sequestered jugular lymph sacs, is multiloculated and brilliantly transilluminant, and typically occupies the lower third of the neck (posterior triangle), not the middle third.",
+  "key_note": "One copy marked C with *, the other unmarked; correct.",
+  "_new": true,
+  "qid": "40-N4"
+ },
+ {
+  "ncids": [
+   "K0840"
+  ],
+  "stem": "Which of the following is the commonest cause of chronic cervical lymphadenitis in Pakistan?",
+  "options": {
+   "A": "Brucellosis",
+   "B": "Tuberculosis",
+   "C": "Malignancy",
+   "D": "HIV"
+  },
+  "answer": "B",
+  "explanation": "In TB-endemic countries such as Pakistan, tuberculosis is the commonest cause of chronic cervical lymphadenitis, typically with matted nodes and possible cold abscess formation.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "40-N5"
+ },
+ {
+  "ncids": [
+   "K1278"
+  ],
+  "stem": "A 35-year-old multipara from a poor background has a chronic discharging sinus in the lower part of the right anterior triangle of the neck. The opening is about 3 x 4 mm with bluish discolouration of the surrounding skin, and a firm 2 x 2.5 cm mass lies beneath it. What is the most likely diagnosis?",
+  "options": {
+   "A": "Branchial sinus",
+   "B": "Thyroglossal sinus",
+   "C": "Infected sebaceous cyst",
+   "D": "Chronic tuberculous sinus",
+   "E": "Implantation dermoid"
+  },
+  "answer": "D",
+  "explanation": "A chronic sinus with undermined edges and bluish surrounding skin overlying a firm nodal mass, in a patient from a poor background, is a tuberculous sinus from caseating cervical nodes. A branchial sinus is congenital and opens at the anterior border of the lower sternocleidomastoid.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "40-N6"
+ },
+ {
+  "ncids": [
+   "K1308"
+  ],
+  "stem": "A patient with a thyroglossal cyst develops a sudden increase in its size together with dyspnoea. What is the most likely complication?",
+  "options": {
+   "A": "Infection in the cyst",
+   "B": "Bleeding into the cyst",
+   "C": "Torsion of the cyst",
+   "D": "Malignant change in the cyst"
+  },
+  "answer": "B",
+  "explanation": "Sudden enlargement of a cyst with pressure symptoms is typical of haemorrhage into it. Infection develops over days with pain, redness and fever, and malignancy (papillary carcinoma) is rare and slow.",
+  "key_note": "",
+  "_new": true,
+  "qid": "40-N7"
+ },
+ {
+  "ncids": [
+   "K1333"
+  ],
+  "stem": "A cystic hygroma:",
+  "options": {
+   "A": "Usually presents in the neonate",
+   "B": "Contains sequestered blood",
+   "C": "Contains fresh blood",
+   "D": "Usually disappears spontaneously"
+  },
+  "answer": "A",
+  "explanation": "Cystic hygroma is a congenital lymphatic malformation that usually presents at birth or in early infancy. It contains clear lymph, not blood, and rarely regresses fully on its own.",
+  "key_note": "",
+  "_new": true,
+  "qid": "40-N8"
+ },
+ {
+  "ncids": [
+   "K1386"
+  ],
+  "stem": "Which of the following statements regarding a thyroglossal cyst is true?",
+  "options": {
+   "A": "It may occur in any part of the thyroglossal tract",
+   "B": "It lies in the midline except over the thyroid cartilage, where the tract is pushed to one side (usually the left)",
+   "C": "It moves upward on protrusion of the tongue as well as on swallowing",
+   "D": "It should be excised because infection is inevitable",
+   "E": "All of the above"
+  },
+  "answer": "E",
+  "explanation": "A thyroglossal cyst can arise anywhere along the tract, is midline except at the thyroid cartilage where it deviates slightly, moves with swallowing and tongue protrusion, and is excised (Sistrunk's operation) because infection is very likely.",
+  "key_note": "",
+  "_new": true,
+  "qid": "40-N9"
+ },
+ {
+  "ncids": [
+   "K1482"
+  ],
+  "stem": "A neonate has a soft, brilliantly transilluminant swelling at the base of the neck. Aspiration yields lymph. What is the most likely diagnosis?",
+  "options": {
+   "A": "Lymphadenitis",
+   "B": "Lymphangitis",
+   "C": "Lymphangioma (cystic hygroma)",
+   "D": "Lymphangiosarcoma",
+   "E": "Lymphoedema"
+  },
+  "answer": "C",
+  "explanation": "A brilliantly transilluminant, lymph-filled swelling at the root of the neck in a neonate is a cystic hygroma, a macrocystic lymphangioma.",
+  "key_note": "",
+  "_new": true,
+  "qid": "40-N10"
+ },
+ {
+  "ncids": [
+   "K1514"
+  ],
+  "stem": "A 70-year-old man with a 50-year history of cigarette smoking has a non-tender, hard mass in the lateral neck. What is the simplest way to establish the diagnosis of a neck mass suspected to be carcinoma?",
+  "options": {
+   "A": "Fine needle aspiration cytology",
+   "B": "Bone marrow biopsy",
+   "C": "Excision biopsy",
+   "D": "CT scan of head and neck",
+   "E": "Sinus X-rays"
+  },
+  "answer": "A",
+  "explanation": "FNAC is the simplest first diagnostic test for a suspected metastatic neck node. Open excision biopsy should be avoided until a head and neck primary has been sought, because it can seed the neck and compromise later treatment.",
+  "key_note": "",
+  "_new": true,
+  "qid": "40-N11"
+ },
+ {
+  "ncids": [
+   "K1573"
+  ],
+  "stem": "A patient has a discharging swelling on the right side of the neck, and routine culture of the discharge grows nothing. Tuberculosis is suspected. What is the first (initial) investigation for diagnosis?",
+  "options": {
+   "A": "Biopsy",
+   "B": "Ziehl-Neelsen stain of the discharge",
+   "C": "Observation"
+  },
+  "answer": "B",
+  "explanation": "A sterile routine culture from a discharging neck swelling suggests tuberculosis; the simplest first test is Ziehl-Neelsen staining of the pus for acid-fast bacilli. Biopsy (or FNAC) with histology and TB culture/PCR confirms the diagnosis if the smear is negative.",
+  "key_note": "Bank marked A (Biopsy) with *; correct is B because ZN staining of the discharge is the first, simplest test, with biopsy reserved for confirmation.",
+  "_new": true,
+  "qid": "40-N12"
+ },
+ {
+  "ncids": [
+   "K1701"
+  ],
+  "stem": "In tuberculous cervical lymphadenitis the lymph nodes are usually:",
+  "options": {
+   "A": "Single",
+   "B": "Matted",
+   "C": "Rubbery",
+   "D": "Hard",
+   "E": "Soft"
+  },
+  "answer": "B",
+  "explanation": "Periadenitis in tuberculous lymphadenitis binds adjacent nodes together so they are characteristically matted. Rubbery nodes suggest lymphoma and hard nodes suggest metastatic carcinoma.",
+  "key_note": "",
+  "_new": true,
+  "qid": "40-N13"
+ }
+]

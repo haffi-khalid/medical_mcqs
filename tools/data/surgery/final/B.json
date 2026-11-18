@@ -1,0 +1,1966 @@
+[
+ {
+  "cids": [
+   "C0674"
+  ],
+  "stem": "Which of the following statements is true regarding the anatomy of the breast?",
+  "options": {
+   "A": "Breast tissue extends from 2nd to 4rth rib",
+   "B": "Lobules are denser in old age",
+   "C": "Sentinel node is last node to drain involved Breast tissue",
+   "D": "50% Lymphatic drainage of breast is through Internal mammary lymph nodes.",
+   "E": "85% Lymphatic drainage of breast is through Axillary lymph node."
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Around 75-85% of breast lymph drains to the axillary nodes and most of the rest to the internal mammary chain. The breast extends from the 2nd to the 6th rib, lobules atrophy with age, and the sentinel node is the first (not last) node to receive drainage.",
+  "key_note": "",
+  "figure": "",
+  "qid": "B-1"
+ },
+ {
+  "cids": [
+   "C1386"
+  ],
+  "stem": "Rotter's lymph nodes are important in relation to which cancer?",
+  "options": {
+   "A": "Carcinoma breast",
+   "B": "Carcinoma gallbladder",
+   "C": "Carcinoma rectum",
+   "D": "Carcinoma stomach",
+   "E": "Carcinoma thyroid"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Rotter's (interpectoral) nodes lie between pectoralis major and minor and receive breast lymph; they are a route of spread of breast carcinoma and are removed in a Patey mastectomy.",
+  "key_note": "One paper key marked B (Carcinoma gallbladder); correct is A: Rotter's nodes are interpectoral breast drainage nodes.",
+  "figure": "",
+  "qid": "B-2"
+ },
+ {
+  "cids": [
+   "C0756"
+  ],
+  "stem": "A 48-year-old lady is undergoing axillary node clearance for breast cancer. Which of the structures listed below is most likely to be encountered during axillary dissection?",
+  "options": {
+   "A": "Cords of brachial plexus",
+   "B": "Thoracodorsal trunk",
+   "C": "Internal mammary artery",
+   "D": "Thoracoacromial artery",
+   "E": "None of the above"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "The thoracodorsal neurovascular bundle (nerve to latissimus dorsi with its vessels) runs on the posterior axillary wall and is routinely identified and preserved during axillary clearance, along with the long thoracic nerve. The brachial plexus cords lie above the axillary vein and should not be exposed, and the internal mammary artery is not in the axilla.",
+  "key_note": "Not marked in the source paper; the compiled key letter (A) did not match its own answer text (Thoracodorsal trunk), which is correct: B.",
+  "figure": "",
+  "qid": "B-3"
+ },
+ {
+  "cids": [
+   "C0060",
+   "C0782"
+  ],
+  "stem": "Which of the following genes is most strongly associated with hereditary breast cancer?",
+  "options": {
+   "A": "BRCA1",
+   "B": "TP53",
+   "C": "APC",
+   "D": "RB1",
+   "E": "FAP"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "BRCA1 (chromosome 17) and BRCA2 (chromosome 13) are the main high-penetrance genes in hereditary breast cancer, with lifetime risk up to 60-85%. TP53 (Li-Fraumeni) also raises risk but is far rarer; APC and FAP relate to colorectal polyposis and RB1 to retinoblastoma.",
+  "key_note": "",
+  "figure": "",
+  "qid": "B-4"
+ },
+ {
+  "cids": [
+   "C0853"
+  ],
+  "stem": "A 40-year-old lawyer comes into your office after seeing some information on the Internet relating to breast cancer. Which of the following factors has not been shown to increase a woman's risk for breast cancer?",
+  "options": {
+   "A": "Smoking",
+   "B": "Previous history of benign breast biopsies",
+   "C": "Atypia seen on pathology from previous breast biopsy",
+   "D": "First-degree relative with history of breast cancer",
+   "E": "Increasing age"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Smoking has not been shown to be a significant risk factor for breast cancer. Increasing age, a first-degree relative with breast cancer, previous benign biopsies and especially atypical hyperplasia on biopsy all raise risk.",
+  "key_note": "",
+  "figure": "",
+  "qid": "B-5"
+ },
+ {
+  "cids": [
+   "C0059"
+  ],
+  "stem": "Which is the most common type of breast carcinoma in Pakistani women?",
+  "options": {
+   "A": "Medullary carcinoma",
+   "B": "Lobular carcinoma",
+   "C": "Invasive ductal carcinoma",
+   "D": "Paget's disease of nipple",
+   "E": "Comedo carcinoma"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Invasive ductal carcinoma (no special type) makes up about 70-80% of breast cancers, in Pakistan as elsewhere. Lobular is next at about 10-15%, and medullary and Paget's are uncommon.",
+  "key_note": "",
+  "figure": "",
+  "qid": "B-6"
+ },
+ {
+  "cids": [
+   "C1388"
+  ],
+  "stem": "Which one of the following is a malignant condition of the breast?",
+  "options": {
+   "A": "Cystosarcoma Phylloides",
+   "B": "Duct ectasia",
+   "C": "Fibroadenoma",
+   "D": "Mondor's disease",
+   "E": "Paget's Disease"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Paget's disease of the nipple is almost always associated with an underlying ductal carcinoma (in situ or invasive), so it is a malignant condition. Phyllodes tumours are mostly benign (only a minority are malignant), and the other options are benign.",
+  "key_note": "One paper highlighted A (Cystosarcoma phylloides); correct is E, as most phyllodes tumours are benign while Paget's disease always signifies carcinoma.",
+  "figure": "",
+  "qid": "B-7"
+ },
+ {
+  "cids": [
+   "C0238"
+  ],
+  "stem": "A 55-year-old lady has had bilateral axillary lumps for one year. There is no history of pain. On examination there are diffuse fatty lumps in both axillae with no skin changes. What is the most likely diagnosis?",
+  "options": {
+   "A": "Accessory breast",
+   "B": "Fibroadenoma axilla",
+   "C": "Hiradenitis suppurativa",
+   "D": "Lipoma axilla",
+   "E": "Lymph nodes axilla"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Accessory breast tissue lies along the milk line and is commonest in the axilla, presenting as bilateral soft, fatty swellings that may enlarge with pregnancy or lactation. Lipomas are usually solitary and lymph nodes are discrete and firm.",
+  "key_note": "",
+  "figure": "",
+  "qid": "B-8"
+ },
+ {
+  "cids": [
+   "C0234"
+  ],
+  "stem": "A 20-year-old man who has been exercising (bodybuilding) notices bilateral breast enlargement. What is the most likely diagnosis?",
+  "options": {
+   "A": "Carcinoma breast",
+   "B": "Fat necrosis",
+   "C": "Gynecomastia",
+   "D": "Hypertrophy Muscles",
+   "E": "Lipoma of chest"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Bilateral breast enlargement in a young man is gynaecomastia, which in gym-goers is often due to anabolic steroid use. Pectoral muscle hypertrophy does not produce breast tissue, and carcinoma or fat necrosis would be unilateral.",
+  "key_note": "",
+  "figure": "",
+  "qid": "B-9"
+ },
+ {
+  "cids": [
+   "C0382"
+  ],
+  "stem": "A premenopausal female complains of pain and lumps in breast. Examination reveals firm breast with fine nodularity but no discrete mass. There is cyclical pain and local tenderness. Most probably, this patient is suffering from",
+  "options": {
+   "A": "Fibroadenosis",
+   "B": "Carcinoma breast",
+   "C": "Duct ectasia",
+   "D": "Giant fibroadenoma",
+   "E": "Phyllodes tumor"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Cyclical pain with diffuse fine nodularity and no discrete mass in a premenopausal woman is fibroadenosis (fibrocystic disease, ANDI). Duct ectasia causes nipple discharge and retraction in older women, while fibroadenoma and phyllodes present as discrete lumps.",
+  "key_note": "One entry in the compiled key listed C (Duct ectasia); correct is A, as the printed paper key agrees.",
+  "figure": "",
+  "qid": "B-10"
+ },
+ {
+  "cids": [
+   "C0517"
+  ],
+  "stem": "A 20-year-old girl has pain in both breasts, more marked during menstrual periods. Clinically there is no swelling palpable in either breast. Which of the following is the most likely diagnosis?",
+  "options": {
+   "A": "Chronic breast abscess",
+   "B": "Duct ectasia",
+   "C": "Duct papilloma",
+   "D": "Inflammatory carcinoma breast",
+   "E": "Mastalgia"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Bilateral breast pain worse with menses and no palpable mass is cyclical mastalgia. Duct ectasia and papilloma present with nipple discharge, and inflammatory carcinoma with a red, swollen breast.",
+  "key_note": "",
+  "figure": "",
+  "qid": "B-11"
+ },
+ {
+  "cids": [
+   "C0242",
+   "C1161"
+  ],
+  "stem": "A 25-year-old female has painful breasts just before her menstrual cycle. What is the best treatment option?",
+  "options": {
+   "A": "Bromocriptine",
+   "B": "Danazol",
+   "C": "Evening Primrose",
+   "D": "Tamoxifen",
+   "E": "Vitamin B"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "For cyclical mastalgia, after reassurance and a well-fitting bra, evening primrose oil (gamolenic acid) is the traditional first-line drug in exam teaching because it has few side effects. Danazol, bromocriptine and tamoxifen work but are reserved for severe cases because of their side effects.",
+  "key_note": "B&L notes that trials show evening primrose oil is little better than placebo, but it remains the expected first-line answer in this exam.",
+  "figure": "",
+  "qid": "B-12"
+ },
+ {
+  "cids": [
+   "C1379"
+  ],
+  "stem": "A 35-year-old premenopausal woman whose mother had breast cancer has been told that she has fibrocystic breasts. On examination she has multiple areas of thickening but no discrete mass. Which of the following diagnostic tests should be performed?",
+  "options": {
+   "A": "Re-examination in 6 months",
+   "B": "Bilateral breast ultrasound",
+   "C": "Thermography",
+   "D": "Bilateral breast (MRI)",
+   "E": "Mammogram both breasts"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "At 35 with a first-degree relative with breast cancer, diffuse nodularity still needs imaging to exclude an occult lesion, and bilateral mammography (with spot compression of any asymmetry or calcification) is the appropriate test at this age. Re-examination alone is inadequate in a higher-risk woman, and thermography has no role.",
+  "key_note": "Paper marks conflicted: one ticked A and highlighted B, another highlighted B; the compiled key gave E (Mammogram both breasts), which is accepted. In one paper option E read 'Spot compression views if an area of discrete asymmetry or concerning calcifications is seen', which is the same mammographic answer.",
+  "figure": "",
+  "qid": "B-13"
+ },
+ {
+  "cids": [
+   "C0516",
+   "C1369"
+  ],
+  "stem": "A 25 years old woman has a small swelling in her left breast for 2 months. Swelling is increasing in size and bothering her especially during her menstruation. On examination, there is about 3 cm, round, smooth, freely mobile swelling in upper inner quadrant of breast. There is no H/o of nipple discharge & axillary lymphadenopathy. Which of the following is the most likely diagnosis?",
+  "options": {
+   "A": "Chronic breast abscess",
+   "B": "Cystosarcoma phylloides",
+   "C": "Carcinoma breast",
+   "D": "Fibroadenosis",
+   "E": "Fibroadenoma"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "A 3 cm round, smooth, freely mobile, discrete lump in a 25-year-old is a fibroadenoma; premenstrual discomfort is common and does not change the diagnosis. Fibroadenosis produces diffuse nodularity without a discrete mobile mass.",
+  "key_note": "The paper marked D (Fibroadenosis); correct is E: a discrete, freely mobile, smooth lump is a fibroadenoma, while fibroadenosis lacks a discrete mass.",
+  "figure": "",
+  "qid": "B-14"
+ },
+ {
+  "cids": [
+   "C0544"
+  ],
+  "stem": "A 25-year-old female notices a firm 2 x 2 cm lump in one breast which slips on palpation and is sometimes tender. There are no clinically palpable axillary lymph nodes. What would be the next step in management?",
+  "options": {
+   "A": "Excision biopsy of the lump",
+   "B": "Mammogram",
+   "C": "Quadrantectomy",
+   "D": "Ultrasound of breast",
+   "E": "Wide local excision"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A mobile 'slipping' lump in a 25-year-old is probably a fibroadenoma, but it must still undergo triple assessment, and under 35 the imaging of choice is ultrasound (dense breasts make mammography poor). Excision is not the first step.",
+  "key_note": "",
+  "figure": "",
+  "qid": "B-15"
+ },
+ {
+  "cids": [
+   "C0374",
+   "C0241"
+  ],
+  "stem": "A 30-year-old female notices a firm 3 x 4 cm lump in one breast which slips on palpation and is sometimes tender. FNAC shows C2 cells. What would be the appropriate treatment option?",
+  "options": {
+   "A": "Excision biopsy of the lump",
+   "B": "Quadrantectomy",
+   "C": "Modified radical mastectomy",
+   "D": "Simple mastectomy",
+   "E": "Wide local excision"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "A 3-4 cm mobile lump with benign (C2) cytology is a fibroadenoma, and lesions over 3 cm, growing, symptomatic or in women who request it are removed by simple excision (enucleation). Quadrantectomy and mastectomy are cancer operations.",
+  "key_note": "",
+  "figure": "",
+  "qid": "B-16"
+ },
+ {
+  "cids": [
+   "C0230"
+  ],
+  "stem": "A 20-year-old female presents with a lump in her right breast. On examination it is 5 cm, firm, mobile and has a smooth surface with well-defined margins. What is the best treatment option?",
+  "options": {
+   "A": "Aspiration of lump",
+   "B": "Conservative reassurance",
+   "C": "Incision and drainage",
+   "D": "Right Breast Lumpectomy",
+   "E": "Right Mastectomy"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A 5 cm firm, smooth, mobile lump in a 20-year-old is a giant fibroadenoma (or possibly a phyllodes tumour), which should be excised for histology. Reassurance is inappropriate at this size, and mastectomy is not needed for a benign lump.",
+  "key_note": "",
+  "figure": "",
+  "qid": "B-17"
+ },
+ {
+  "cids": [
+   "C0231"
+  ],
+  "stem": "A 34-year-old lady presents with a huge left breast lump, 15 x 15 cm, firm, covering the whole breast. No axillary lymph node is palpable and no structure is involved. She had two surgical excisions of similar lumps of the same size 2 and 4 years ago, both benign on histopathology. What is the most likely diagnosis?",
+  "options": {
+   "A": "Benign breast cyst",
+   "B": "Cancer breast",
+   "C": "Giant Fibroadenoma",
+   "D": "Medullary carcinoma",
+   "E": "Phyllodes tumor"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "A huge, rapidly growing, firm lump that keeps recurring after excision of benign-looking lesions in a woman in her 30s-40s is typical of phyllodes tumour, which recurs locally unless excised with a clear margin. A giant fibroadenoma does not recur repeatedly like this.",
+  "key_note": "",
+  "figure": "",
+  "qid": "B-18"
+ },
+ {
+  "cids": [
+   "C0240"
+  ],
+  "stem": "A 20-year-old girl presents with a lump in the upper inner quadrant of her right breast. It is soft, smooth and mobile. Ultrasound shows a 3 cm cyst. What is the best treatment option?",
+  "options": {
+   "A": "Aspiration of cyst",
+   "B": "Marsupialisation of cyst",
+   "C": "Cyst excision",
+   "D": "Quadrantectomy",
+   "E": "Reassurance only"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "A simple breast cyst confirmed on ultrasound is treated by needle aspiration. Excision is only needed if the fluid is bloodstained, a residual mass persists, or the cyst repeatedly recurs.",
+  "key_note": "",
+  "figure": "",
+  "qid": "B-19"
+ },
+ {
+  "cids": [
+   "C0863"
+  ],
+  "stem": "A 29-year-old female has a 2 cm breast mass which is cystic on examination. FNAC shows non-malignant cells. What is the next step?",
+  "options": {
+   "A": "Excisional biopsy",
+   "B": "Repeat aspiration",
+   "C": "Wide local excision",
+   "D": "USG after 6 month",
+   "E": "No further treatment"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "A cyst is excised for histology when aspiration leaves a residual mass, the fluid is bloodstained, it recurs, or cytology shows cells, as the question implies here. If clear fluid is aspirated and the lump disappears completely, no further treatment is needed.",
+  "key_note": "The question is ambiguous: excision is the answer the paper expects, assuming a residual or complex cystic mass after aspiration; a simple cyst that resolves completely needs no further treatment.",
+  "figure": "",
+  "qid": "B-20"
+ },
+ {
+  "cids": [
+   "C0515",
+   "C1179"
+  ],
+  "stem": "A 29-year-old lactating mother has had high-grade fever and a painful swelling of her right breast for 6 days. On examination there is a 4 x 3 cm swelling behind the nipple; it is severely tender with red, warm overlying skin. Which investigation will be most helpful in reaching the diagnosis?",
+  "options": {
+   "A": "CT Scan",
+   "B": "Mammogram",
+   "C": "MRI",
+   "D": "Ultrasound",
+   "E": "X-Ray chest"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "In suspected lactational mastitis or abscess, ultrasound confirms whether there is a drainable collection and guides aspiration. Mammography is painful and poorly diagnostic in a lactating breast, and CT or MRI add nothing.",
+  "key_note": "",
+  "figure": "",
+  "qid": "B-21"
+ },
+ {
+  "cids": [
+   "C0378"
+  ],
+  "stem": "Following the delivery of her second baby, a woman develops a tender, fluctuant swelling in her right breast with a temperature of 102 F. She should be treated by:",
+  "options": {
+   "A": "Antibiotics for gram positive organisms.",
+   "B": "Antibiotics and she should express milk from the infected breast.",
+   "C": "Incision and drainage.",
+   "D": "Mastectomy as underlying malignancy can be a cause.",
+   "E": "Needle aspiration and antibiotics."
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A fluctuant swelling with high fever is an established lactational abscess, which needs drainage plus antibiotics (flucloxacillin, Staph aureus); antibiotics alone are inadequate once pus has formed. Breastfeeding or expressing can continue.",
+  "key_note": "Current B&L practice favours repeated ultrasound-guided needle aspiration with antibiotics (option E) first, keeping incision and drainage for large, multiloculated or thinned-skin abscesses; both printed keys give C, which is accepted.",
+  "figure": "",
+  "qid": "B-22"
+ },
+ {
+  "cids": [
+   "C0236"
+  ],
+  "stem": "A 38-year-old woman who has been lactating for 3 months has a painful lump in the right breast. She took antibiotics but the lump persists and has changed. On examination there is a tender, hard lump in the upper inner quadrant with no redness or induration. What is the most likely diagnosis?",
+  "options": {
+   "A": "Abscess breast",
+   "B": "Antibioma breast",
+   "C": "Breast cyst",
+   "D": "Cancer breast",
+   "E": "Fibroadenoma"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "An antibioma is a hard, sterile, tender inflammatory mass that forms when an abscess is treated with prolonged antibiotics without drainage. It mimics carcinoma, so persistent lumps need imaging and biopsy.",
+  "key_note": "",
+  "figure": "",
+  "qid": "B-23"
+ },
+ {
+  "cids": [
+   "C0520"
+  ],
+  "stem": "A 35-year-old multiparous woman has a history of multiple chronic abscesses and sinuses of the right breast with a palpable axillary lymph node. Biopsy shows chronic granulomatous inflammation. What is the most likely diagnosis?",
+  "options": {
+   "A": "Actinomycosis of the breast",
+   "B": "Tuberculosis of the breast",
+   "C": "Syphilis of breast",
+   "D": "Mondor's disease",
+   "E": "Carcinoma of breast"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Multiple chronic abscesses and sinuses with axillary nodes in a multiparous woman of a TB-endemic region, with granulomatous inflammation on biopsy, is tuberculous mastitis. Actinomycosis also forms sinuses but shows sulphur granules, and Mondor's disease is superficial thrombophlebitis.",
+  "key_note": "",
+  "figure": "",
+  "qid": "B-24"
+ },
+ {
+  "cids": [
+   "C0243"
+  ],
+  "stem": "A 35-year-old female has had an irregular breast lump with purulent discharge for the last 6 months. Which is the investigation of choice?",
+  "options": {
+   "A": "Culture of pus",
+   "B": "Cytology of pus",
+   "C": "Mammogram",
+   "D": "Trucut biopsy",
+   "E": "MRI scan"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "An irregular lump with chronic discharging pus needs tissue diagnosis: core (Trucut) biopsy gives histology to distinguish carcinoma from TB or chronic granulomatous mastitis. Pus culture or cytology cannot exclude malignancy.",
+  "key_note": "",
+  "figure": "",
+  "qid": "B-25"
+ },
+ {
+  "cids": [
+   "C1377"
+  ],
+  "stem": "A 28-year-old female figure skater presents several weeks after having sustained an injury to her left breast. She has a painful mass in the upper outer quadrant. Skin retraction is noticed, and a hard mass, 3-4 cm in diameter, can easily be palpated. What is the most likely diagnosis?",
+  "options": {
+   "A": "Infiltrating carcinoma",
+   "B": "Breast abscess",
+   "C": "Hematoma",
+   "D": "Fat necrosis",
+   "E": "Sclerosing adenosis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Fat necrosis follows trauma and presents as a hard, irregular, sometimes painful lump with skin tethering or retraction, mimicking carcinoma. A haematoma would be soft and resolve, and triple assessment is still needed to exclude cancer.",
+  "key_note": "",
+  "figure": "",
+  "qid": "B-26"
+ },
+ {
+  "cids": [
+   "C0569"
+  ],
+  "stem": "Mondor's disease of the breast involves:",
+  "options": {
+   "A": "Arteries",
+   "B": "Veins",
+   "C": "Nerves",
+   "D": "Ducts",
+   "E": "Cooper's ligaments"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Mondor's disease is superficial thrombophlebitis of the veins of the breast and anterior chest wall (usually the thoracoepigastric vein), felt as a tender subcutaneous cord. It is self-limiting.",
+  "key_note": "",
+  "figure": "",
+  "qid": "B-27"
+ },
+ {
+  "cids": [
+   "C0247"
+  ],
+  "stem": "A 20-year-old unmarried girl has had milky discharge from both breasts for 3 months, with a change in her menstrual cycle. Which diagnostic investigation would you order?",
+  "options": {
+   "A": "Ultrasound both breasts",
+   "B": "MRI scan breasts",
+   "C": "Prolactin levels",
+   "D": "Beta HCG",
+   "E": "Alpha fetoprotein"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Bilateral milky discharge with menstrual disturbance suggests hyperprolactinaemia, often from a pituitary prolactinoma, so serum prolactin is measured first (after excluding pregnancy). Breast imaging does not help with galactorrhoea.",
+  "key_note": "",
+  "figure": "",
+  "qid": "B-28"
+ },
+ {
+  "cids": [
+   "C0416"
+  ],
+  "stem": "Galactorrhoea, a milky discharge from the nipple in non-pregnant women, is most likely to be associated with which of the following?",
+  "options": {
+   "A": "Fibroadenoma",
+   "B": "Tubular adenoma",
+   "C": "Pituitary adenoma",
+   "D": "Hyperparathyroidism",
+   "E": "Breast abscess"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Galactorrhoea outside pregnancy is most often due to hyperprolactinaemia from a pituitary adenoma (prolactinoma) or drugs such as dopamine antagonists. Local breast lesions do not cause milky discharge.",
+  "key_note": "",
+  "figure": "",
+  "qid": "B-29"
+ },
+ {
+  "cids": [
+   "C0232",
+   "C1392",
+   "C0373"
+  ],
+  "stem": "A 43-year-old school teacher has pain in both breasts. There is tenderness without any palpable lump and no redness or induration, but there is greenish-black nipple discharge from multiple ducts. What is the most likely diagnosis?",
+  "options": {
+   "A": "Breast abscess",
+   "B": "Carcinoma breast",
+   "C": "Duct Ectasia",
+   "D": "Duct Papilloma",
+   "E": "Galactorrhea"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Thick green or green-black discharge from multiple ducts, with tenderness or a subareolar inflammatory lump but no discrete mass, is typical of duct ectasia (periductal mastitis). Papilloma causes single-duct bloody discharge, and galactorrhoea is milky.",
+  "key_note": "",
+  "figure": "",
+  "qid": "B-30"
+ },
+ {
+  "cids": [
+   "C0239"
+  ],
+  "stem": "A 47-year-old female has serous, yellow-green nipple discharge from multiple ducts of the right breast. On examination no lump is palpable but there is tenderness. Previous antibiotic courses have failed. What is the best treatment option?",
+  "options": {
+   "A": "Antibiotic repetition",
+   "B": "Evening primrose",
+   "C": "Hadfield duct excision",
+   "D": "Mastectomy",
+   "E": "Microdochectomy"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Troublesome multi-duct discharge from duct ectasia that fails conservative treatment is treated by total duct excision (Hadfield's operation). Microdochectomy removes a single duct and is for single-duct discharge (e.g. papilloma).",
+  "key_note": "",
+  "figure": "",
+  "qid": "B-31"
+ },
+ {
+  "cids": [
+   "C1378",
+   "C0559"
+  ],
+  "stem": "A 36-year-old woman has a 3-month history of bloody discharge from the nipple. On examination a small nodule is found deep to the areola, and careful pressure on the nipple-areolar complex produces blood at the 3 o'clock position. Mammogram is normal. What is the likely diagnosis?",
+  "options": {
+   "A": "Intraductal papilloma",
+   "B": "Breast cyst",
+   "C": "Intraductal carcinoma",
+   "D": "Carcinoma in situ",
+   "E": "Fat necrosis"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Bloody discharge from a single duct reproduced by pressure at one point of the areola, with a small subareolar nodule and a normal mammogram, is classic for intraductal papilloma. Treatment is microdochectomy, which also gives histology to exclude carcinoma.",
+  "key_note": "",
+  "figure": "",
+  "qid": "B-32"
+ },
+ {
+  "cids": [
+   "C0791"
+  ],
+  "stem": "A 40-year-old lady presented with history of blood-stained nipple discharge from right breast for 6 months. There is no lump palpable in breast on examination. What is true regarding intra-ductal papilloma?",
+  "options": {
+   "A": "This lesion is the most common cause of bloody nipple discharge",
+   "B": "Serous discharge is unlikely",
+   "C": "Ductography is not diagnostic in a non-palpable lesion",
+   "D": "It is considered premalignant.",
+   "E": "It can be a dangerous lesion"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Intraductal papilloma is the commonest cause of bloody nipple discharge. Solitary papillomas are not regarded as premalignant, discharge may be serous, and ductography or ductoscopy can show filling defects even when the lesion is impalpable.",
+  "key_note": "Not marked in the source paper; compiled key gives A, which is correct.",
+  "figure": "",
+  "qid": "B-33"
+ },
+ {
+  "cids": [
+   "C1376"
+  ],
+  "stem": "After intraductal papilloma, unilateral bloody nipple discharge from one duct orifice is most commonly caused by which of the following pathologic conditions?",
+  "options": {
+   "A": "Paget's disease of the nipple",
+   "B": "Intraductal carcinoma",
+   "C": "Inflammatory carcinoma",
+   "D": "Sub areolar mastitis",
+   "E": "Fibroadenoma"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "After intraductal papilloma, the next commonest cause of single-duct bloody discharge is intraductal carcinoma (DCIS or papillary carcinoma), which is why such discharge must always be investigated. Fibroadenoma and inflammatory carcinoma do not cause single-duct bleeding.",
+  "key_note": "",
+  "figure": "",
+  "qid": "B-34"
+ },
+ {
+  "cids": [
+   "C0235"
+  ],
+  "stem": "A 47-year-old female has right nipple discharge. On examination no lump is palpable in the right breast, but blood-stained discharge comes from a single duct. Which investigation would rule out a tumour?",
+  "options": {
+   "A": "Cytology discharge",
+   "B": "Ductal biopsy",
+   "C": "Mammogram",
+   "D": "MRI Rt Breast",
+   "E": "Ultrasound Breast"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Bloodstained single-duct discharge needs histology to exclude carcinoma: after mammography and ultrasound, the duct is excised (microdochectomy, a ductal biopsy). Cytology of the discharge has low sensitivity, and a normal mammogram does not exclude an intraduct lesion.",
+  "key_note": "Mammography and ultrasound are done first in practice, but only histology of the involved duct rules out tumour, so B is accepted.",
+  "figure": "",
+  "qid": "B-35"
+ },
+ {
+  "cids": [
+   "C1372"
+  ],
+  "stem": "A 60-year-old lady presents with a 2-month history of a lump in the right breast with eczema of the nipple-areola complex. What is the most likely diagnosis?",
+  "options": {
+   "A": "Fibrocystic disease",
+   "B": "Fibroadenoma",
+   "C": "Paget disease of breast",
+   "D": "CA breast",
+   "E": "Papilloma breast"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Eczema of the nipple-areola complex in an older woman with a breast lump is Paget's disease of the nipple, an intraepidermal spread of an underlying ductal carcinoma. Unlike true eczema, it starts on the nipple and spreads to the areola.",
+  "key_note": "",
+  "figure": "",
+  "qid": "B-36"
+ },
+ {
+  "cids": [
+   "C1380"
+  ],
+  "stem": "A 65-year-old woman has an eczematous rash of the left areola that has persisted for 3 months. Biopsy of the nipple reveals Paget's disease. Regarding Paget's disease of the nipple, which of the following is true?",
+  "options": {
+   "A": "Carcinoma of the breast is rarely found.",
+   "B": "Surgical therapy often fails to cure Paget's disease.",
+   "C": "The diagnosis is made by nipple biopsy.",
+   "D": "The underlying carcinoma when present is very large.",
+   "E": "Paget's disease of the bone is commonly encountered"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Paget's disease is confirmed by nipple (punch or wedge) biopsy showing Paget cells. It is almost always associated with underlying DCIS or invasive carcinoma, which is often small or impalpable, and surgery is curative in most cases.",
+  "key_note": "",
+  "figure": "",
+  "qid": "B-37"
+ },
+ {
+  "cids": [
+   "C0377"
+  ],
+  "stem": "A 30-year-old female notices a firm, painless 2 cm lump in one breast. It is attached neither to the skin nor to underlying structures. What would be the next logical step in management?",
+  "options": {
+   "A": "Complete triple assessment",
+   "B": "CT scan of Breast",
+   "C": "MRI of breast",
+   "D": "Excision biopsy",
+   "E": "Modified Radical Mastectomy"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Every discrete breast lump needs triple assessment (clinical examination, imaging and cytology or core biopsy) before any treatment. Excision is not the first step, and CT has no role.",
+  "key_note": "",
+  "figure": "",
+  "qid": "B-38"
+ },
+ {
+  "cids": [
+   "C0244",
+   "C0254"
+  ],
+  "stem": "Triple assessment of the breast includes which of the following categories?",
+  "options": {
+   "A": "Cytology, clinical examination, history",
+   "B": "Mammogram, examination, history",
+   "C": "Clinical, radiological & histopathology",
+   "D": "Self-exam, MRI, chest radiograph",
+   "E": "FNAC, PET scan, ultrasound"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Triple assessment combines clinical assessment (history and examination), radiology (mammography and/or ultrasound) and pathology (FNAC or preferably core biopsy).",
+  "key_note": "",
+  "figure": "",
+  "qid": "B-39"
+ },
+ {
+  "cids": [
+   "C1391"
+  ],
+  "stem": "Carcinoma of the breast is the commonest tumour in females. Which one of the following is not a component of triple assessment?",
+  "options": {
+   "A": "Clinical examination",
+   "B": "Mammogram",
+   "C": "Sonomammogram",
+   "D": "FNAC",
+   "E": "X ray chest"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Triple assessment is clinical examination, imaging (mammogram or sonomammogram) and cytology or histology (FNAC or core biopsy). A chest X-ray is a staging test, not part of triple assessment.",
+  "key_note": "",
+  "figure": "",
+  "qid": "B-40"
+ },
+ {
+  "cids": [
+   "C0061"
+  ],
+  "stem": "What is the standard initial imaging modality for a woman over 35 years of age suspected of having a breast lump?",
+  "options": {
+   "A": "Mammography",
+   "B": "Ultrasound breast",
+   "C": "MRI scan",
+   "D": "PET scan",
+   "E": "X ray chest"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "From about 35 years onwards, mammography (usually with ultrasound) is the standard initial imaging for a breast lump; under 35, dense breasts make ultrasound the first choice.",
+  "key_note": "",
+  "figure": "",
+  "qid": "B-41"
+ },
+ {
+  "cids": [
+   "C0543"
+  ],
+  "stem": "You are asked to assess a 34-year-old mother of two for a lump in her left breast. You think the lump is likely to be malignant. What is the next diagnostic step to confirm the diagnosis?",
+  "options": {
+   "A": "Ultrasound of the breast",
+   "B": "Mammography",
+   "C": "Ultrasound of the breast and FNA",
+   "D": "FNAC",
+   "E": "Excision Biopsy"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Under 35, imaging is with ultrasound because breast tissue is dense, and diagnosis is confirmed by needle sampling (ultrasound-guided FNA or core biopsy) as part of triple assessment. Mammography alone cannot confirm malignancy and is less useful at this age.",
+  "key_note": "The source marked B (Mammography); corrected to C because mammography cannot confirm a diagnosis and ultrasound is the imaging of choice under 35, with needle sampling giving the tissue diagnosis.",
+  "figure": "",
+  "qid": "B-42"
+ },
+ {
+  "cids": [
+   "C1345"
+  ],
+  "stem": "What is the most sensitive imaging test for detecting breast cancer?",
+  "options": {
+   "A": "Mammography",
+   "B": "Ultrasound",
+   "C": "MRI",
+   "D": "PET scan",
+   "E": "Clinical exam"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Contrast-enhanced MRI is the most sensitive imaging test for breast cancer (over 90%), though less specific; it is used for high-risk screening, dense breasts, implants and lobular cancer. Mammography is the standard screening test, but it is not the most sensitive.",
+  "key_note": "Paper key and compiled key marked A (Mammography); corrected to C because MRI has the highest sensitivity, while mammography is the screening test of choice.",
+  "figure": "",
+  "qid": "B-43"
+ },
+ {
+  "cids": [
+   "C0246"
+  ],
+  "stem": "A 45-year-old female brings a mammogram showing clustered microcalcifications in the upper quadrant of the left breast, with no palpable lump. There is no nipple discharge from the left breast. Which investigation should be ordered next?",
+  "options": {
+   "A": "Cytology of discharge",
+   "B": "Excision & histopath",
+   "C": "MRI scan breast",
+   "D": "CT guided biopsy",
+   "E": "Ultrasound guided FNAC"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Clustered microcalcifications without a palpable lump suggest DCIS and need histology: stereotactic core biopsy is ideal, or wire-guided (localisation) excision for histopathology, the best option offered here. Microcalcifications are often invisible on ultrasound, so US-guided FNAC is unsuitable.",
+  "key_note": "",
+  "figure": "",
+  "qid": "B-44"
+ },
+ {
+  "cids": [
+   "C0379"
+  ],
+  "stem": "Regarding TNM staging of carcinoma of the breast, T1 is a tumour of up to:",
+  "options": {
+   "A": "1 cm",
+   "B": "2 cm",
+   "C": "3 cm",
+   "D": "4 cm",
+   "E": "5 cm"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "T1 is a tumour of 2 cm or less, T2 is >2-5 cm, T3 is >5 cm, and T4 is any size with direct extension to the chest wall or skin (ulceration, peau d'orange, satellite nodules) or inflammatory carcinoma.",
+  "key_note": "",
+  "figure": "",
+  "qid": "B-45"
+ },
+ {
+  "cids": [
+   "C1381"
+  ],
+  "stem": "A 39-year-old patient has a 3 cm left breast tumour with involvement of the skin. Core needle biopsy shows invasive ductal carcinoma. No axillary lymph nodes are palpable and there is no distant metastasis. What is her T stage?",
+  "options": {
+   "A": "T1",
+   "B": "T2",
+   "C": "T3",
+   "D": "T4",
+   "E": "T0"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Direct involvement of the skin (ulceration, satellite nodules or peau d'orange) makes a tumour T4b regardless of size, so a 3 cm tumour with skin involvement is T4, not T2. Simple dimpling or tethering does not upstage it.",
+  "key_note": "The paper highlighted B (T2); correct is D (T4), as the compiled key gives, because skin involvement makes it T4 whatever the size.",
+  "figure": "",
+  "qid": "B-46"
+ },
+ {
+  "cids": [
+   "C1159"
+  ],
+  "stem": "A 24-year-old lady has had a lump in the right breast for 2 months. On examination there is a single irregular, hard 3 cm lump with small, mobile, hard right axillary lymph nodes. There are no skin changes, jaundice or bone pains. What is the stage of the disease?",
+  "options": {
+   "A": "T1NoMx",
+   "B": "T2N1Mx",
+   "C": "T4N3M1",
+   "D": "Tis No Mo",
+   "E": "T2NoMo"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "A 3 cm tumour is T2 (>2-5 cm), mobile ipsilateral axillary nodes are N1, and with no clinical evidence of metastasis the best available option is T2N1Mx (strictly cM0).",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "B-47"
+ },
+ {
+  "cids": [
+   "C0518"
+  ],
+  "stem": "A 45-year-old female attends OPD with an FNAC report showing a malignant lesion in a breast lump. On examination the lump is 5 cm, with two mobile axillary lymph nodes and no evidence of disease elsewhere. What is the clinical stage?",
+  "options": {
+   "A": "Stage I",
+   "B": "Stage II",
+   "C": "Stage III",
+   "D": "Stage IV",
+   "E": "Inflammatory carcinoma"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "A 5 cm tumour is T2 (>2 cm up to 5 cm) and mobile axillary nodes are N1; T2N1M0 is stage IIB, i.e. stage II.",
+  "key_note": "",
+  "figure": "",
+  "qid": "B-48"
+ },
+ {
+  "cids": [
+   "C0458"
+  ],
+  "stem": "A 35-year-old female has a painless lump over 5 cm in the upper outer quadrant of the left breast. It is hard and not adherent to skin or underlying tissues. Hard, mobile left axillary lymph nodes are palpable. There are no bony pains. Trucut biopsy shows invasive ductal carcinoma. What is the stage of the tumour?",
+  "options": {
+   "A": "T2,N2,M1",
+   "B": "T3, N1,M0",
+   "C": "T3,N3,M0",
+   "D": "T4,N2, Mx",
+   "E": "T1, N1,M0"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "A tumour over 5 cm is T3, mobile ipsilateral axillary nodes are N1, and with no bone pain or other evidence of spread it is M0, giving T3N1M0 (stage IIIA).",
+  "key_note": "",
+  "figure": "",
+  "qid": "B-49"
+ },
+ {
+  "cids": [
+   "C0375"
+  ],
+  "stem": "A 45-year-old female has carcinoma of the breast. The tumour is 3.5 cm in greatest dimension with fixed, hard ipsilateral axillary nodes and no clinical evidence of metastasis. What is her TNM stage group?",
+  "options": {
+   "A": "Stage I",
+   "B": "Stage IIa",
+   "C": "Stage IIb",
+   "D": "Stage III",
+   "E": "Stage IV"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A 3.5 cm tumour is T2, and fixed or matted ipsilateral axillary nodes are N2; T2N2M0 is stage IIIA.",
+  "key_note": "",
+  "figure": "",
+  "qid": "B-50"
+ },
+ {
+  "cids": [
+   "C0233"
+  ],
+  "stem": "A 50-year-old female has a 6 cm hard lump in the upper outer quadrant of the right breast with an inverted nipple and a small 1 cm skin ulcer over it. It is not attached to the underlying muscle. Hard, fixed ipsilateral axillary lymph nodes are present and there is no evidence of metastasis. What is the stage of the disease?",
+  "options": {
+   "A": "T1N2M0",
+   "B": "T4N2M1",
+   "C": "T0N1Mx",
+   "D": "T4N2Mx",
+   "E": "T1N0M0"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Skin ulceration makes the tumour T4 (T4b) regardless of its 6 cm size, and fixed ipsilateral axillary nodes are N2. With no evidence of metastasis it is strictly M0, but T4N2Mx is the best option offered.",
+  "key_note": "Strictly the stage is T4N2M0; D is the only option with the correct T and N.",
+  "figure": "",
+  "qid": "B-51"
+ },
+ {
+  "cids": [
+   "C0864"
+  ],
+  "stem": "A 50-year-old female has a hard breast mass of about 6 cm with palpable lymph nodes in the anterior axillary fold and a space-occupying lesion in the lung. What is the stage?",
+  "options": {
+   "A": "T1N3M0",
+   "B": "T3N1M0",
+   "C": "T3N2M1",
+   "D": "T3N1M1",
+   "E": "T4N2M1"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A 6 cm tumour is T3, palpable mobile axillary nodes are N1 (N2 requires fixed or matted nodes), and a lung deposit is M1, giving T3N1M1 (stage IV).",
+  "key_note": "The paper marked C (T3N2M1); corrected to D because the nodes are not described as fixed or matted, so they are N1. Either way the patient is stage IV.",
+  "figure": "",
+  "qid": "B-52"
+ },
+ {
+  "cids": [
+   "C1477"
+  ],
+  "stem": "A patient diagnosed with right breast carcinoma 4 months ago was lost to follow-up and now presents with jaundice. What is the most likely stage and treatment?",
+  "options": {
+   "A": "Hormonal therapy",
+   "B": "Stage IIC & Resection",
+   "C": "Stage IIIB & Resection",
+   "D": "Stage IIIC & chemo",
+   "E": "Stage IV & chemo radiation"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Jaundice in a patient with breast cancer suggests liver metastases (or porta hepatis nodes), which is stage IV disease, treated with systemic therapy rather than resection. Hormonal therapy alone is not a stage, so E is the best answer.",
+  "key_note": "",
+  "figure": "",
+  "qid": "B-53"
+ },
+ {
+  "cids": [
+   "C0721"
+  ],
+  "stem": "Which of the following is the most important prognostic factor in breast cancer?",
+  "options": {
+   "A": "Size of tumour",
+   "B": "ER PR receptors",
+   "C": "Axillary nodes involvement",
+   "D": "High grade on HP",
+   "E": "Family history"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Axillary lymph node status is the single most important prognostic factor in breast cancer (included in the Nottingham Prognostic Index with size and grade). Receptor status mainly predicts response to treatment.",
+  "key_note": "Not marked in the source paper; compiled key gives C, which is correct.",
+  "figure": "",
+  "qid": "B-54"
+ },
+ {
+  "cids": [
+   "C0237"
+  ],
+  "stem": "A 33-year-old lady has a painless 2 cm lump in the upper outer quadrant of the left breast with no skin changes. It is hard, irregular and mobile with no axillary lymph nodes. FNAC confirms malignant cells. What is the best treatment option?",
+  "options": {
+   "A": "Breast conservative surgery",
+   "B": "Chemo radiation",
+   "C": "Radiotherapy",
+   "D": "Modified radical mastectomy",
+   "E": "Radical mastectomy"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "An early (T2 or smaller, node-negative) unifocal cancer in a breast large enough for a good cosmetic result is ideally treated with breast-conserving surgery plus sentinel node biopsy and whole-breast radiotherapy, with survival equal to mastectomy. Radical mastectomy is obsolete.",
+  "key_note": "",
+  "figure": "",
+  "qid": "B-55"
+ },
+ {
+  "cids": [
+   "C0376"
+  ],
+  "stem": "In a young patient with a right-sided breast cancer 2.5 cm in greatest dimension, with a mobile, palpable ipsilateral axillary lymph node and no clinical evidence of distant metastasis, the best treatment option is:",
+  "options": {
+   "A": "Lumpectomy with axillary sampling",
+   "B": "Lumpectomy with axillary clearance",
+   "C": "Wide local excision with axillary sampling",
+   "D": "Wide local excision with axillary clearance",
+   "E": "Simple mastectomy with axillary clearance"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A 2.5 cm tumour suits breast conservation (wide local excision), but a clinically palpable node makes the axilla node-positive, which (after confirmation by US-guided biopsy) is treated with axillary clearance, not sampling. Sampling or sentinel node biopsy is for the clinically negative axilla.",
+  "key_note": "Both printed keys gave C (WLE with axillary sampling); corrected to D because a palpable axillary node needs axillary clearance, while sampling/sentinel node biopsy is only for a clinically node-negative axilla.",
+  "figure": "",
+  "qid": "B-56"
+ },
+ {
+  "cids": [
+   "C0792"
+  ],
+  "stem": "What is the management of right breast carcinoma in a 38-year-old patient with early-stage T2 N1 M0 disease?",
+  "options": {
+   "A": "Radical Mastectomy",
+   "B": "Neo-adjuvant chemotherapy",
+   "C": "Modified radical mastectomy",
+   "D": "Hormone therapy",
+   "E": "Conservative"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Operable T2N1M0 disease is classically treated in exam teaching by modified radical mastectomy (with breast conservation plus axillary clearance an equal alternative where suitable), followed by adjuvant therapy. Radical mastectomy is obsolete and hormone therapy alone is not curative.",
+  "key_note": "Not marked in the source paper; compiled key gives C, which is accepted.",
+  "figure": "",
+  "qid": "B-57"
+ },
+ {
+  "cids": [
+   "C1187"
+  ],
+  "stem": "A 45-year-old female is diagnosed with stage III infiltrating ductal carcinoma of the breast. The best management approach for her is:",
+  "options": {
+   "A": "Chemotherapy only",
+   "B": "Radiotherapy only",
+   "C": "Surgery only",
+   "D": "Chemotherapy followed by surgery",
+   "E": "Radiotherapy followed by Surgery"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Stage III (locally advanced) breast cancer is managed with neoadjuvant chemotherapy to downstage the tumour, followed by surgery (usually MRM) and then radiotherapy. A single modality is inadequate.",
+  "key_note": "Not marked in the source paper; compiled key gives D, which is correct.",
+  "figure": "",
+  "qid": "B-58"
+ },
+ {
+  "cids": [
+   "C0519",
+   "C0581"
+  ],
+  "stem": "An 80-year-old female presents with a locally advanced breast tumour invading the pectoralis major muscle over a broad base. There are a few mobile axillary lymph nodes and no evidence of distant metastasis. The best treatment option is:",
+  "options": {
+   "A": "Simple mastectomy",
+   "B": "Modified radical mastectomy",
+   "C": "Radical mastectomy after down staging",
+   "D": "Wide local excision with adjuvant radiation therapy",
+   "E": "No further surgical intervention"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Modified radical mastectomy, taking any involved part of pectoralis major en bloc, achieves local control, followed by adjuvant therapy; Halsted radical mastectomy is no longer performed. Invasion of pectoralis major alone does not make the tumour T4 (chest wall means ribs, intercostals and serratus anterior).",
+  "key_note": "Another paper asked the same question for a 60-year-old with stage III disease (same options, same answer). Locally advanced (especially IIIB/IIIC) tumours are now usually given neoadjuvant chemotherapy before MRM; among these options B is the expected answer, and in a frail 80-year-old with an ER-positive tumour primary endocrine therapy is also acceptable.",
+  "figure": "",
+  "qid": "B-59"
+ },
+ {
+  "cids": [
+   "C0249"
+  ],
+  "stem": "A 43-year-old female has been advised modified radical mastectomy and wants immediate breast reconstruction. What is the best way to reconstruct her breast?",
+  "options": {
+   "A": "Latissimus dorsi flap",
+   "B": "Peroneus longus flap",
+   "C": "Serratus Anterior flap",
+   "D": "Silicone gel implant",
+   "E": "Subscapularis flap"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "The latissimus dorsi myocutaneous flap (or a TRAM/DIEP flap) is a standard autologous method for immediate reconstruction after mastectomy, often combined with an implant. An implant alone is poorly tolerated if radiotherapy is likely, and the other muscles listed are not used for breast reconstruction.",
+  "key_note": "",
+  "figure": "",
+  "qid": "B-60"
+ },
+ {
+  "cids": [
+   "C1309"
+  ],
+  "stem": "A patient with breast cancer has positive ER and PR receptors. Which hormonal or chemotherapeutic agent is recommended?",
+  "options": {
+   "A": "Herceptin",
+   "B": "Tamoxifen",
+   "C": "5-Fluorouracil",
+   "D": "Adriamycin",
+   "E": "Cytoxan"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "ER/PR-positive tumours respond to endocrine therapy: tamoxifen (a selective oestrogen receptor modulator) is standard in premenopausal women, and aromatase inhibitors in postmenopausal women. Herceptin (trastuzumab) targets HER2, and the rest are cytotoxics.",
+  "key_note": "",
+  "figure": "",
+  "qid": "B-61"
+ },
+ {
+  "cids": [
+   "C1160"
+  ],
+  "stem": "A 55-year-old postmenopausal lady has stage IIIC left breast carcinoma that is ER, PR and HER2/neu positive. Which endocrine drug should be used after mastectomy?",
+  "options": {
+   "A": "Anastrozole",
+   "B": "Fulvestrant",
+   "C": "Goserelin",
+   "D": "Leuprolide",
+   "E": "Tamoxifen"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "In postmenopausal women with hormone receptor-positive cancer, aromatase inhibitors (anastrozole, letrozole) are the preferred adjuvant endocrine therapy and are superior to tamoxifen. Goserelin and leuprolide suppress ovarian function in premenopausal women, and fulvestrant is used for advanced disease; the HER2 positivity also warrants trastuzumab.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "B-62"
+ },
+ {
+  "cids": [
+   "C0709"
+  ],
+  "stem": "A 67-year-old asymptomatic female with a past history of stage III breast cancer for which she completed mastectomy, chemotherapy, radiotherapy, and 5 years of hormonal therapy is incidentally found on computed tomography (CT) scan to have several 1-cm liver lesions and bilateral pulmonary nodules consistent with metastatic breast cancer. Biopsy of one of the liver masses confirms the diagnosis of an ER-positive and PR-positive, HER2-negative metastatic breast cancer. There is no evidence of local recurrence or new primary breast cancer. The BEST treatment for this patient would be:",
+  "options": {
+   "A": "Chemotherapy",
+   "B": "Hormonal therapy",
+   "C": "Radiation therapy",
+   "D": "Metastectomy",
+   "E": "Metastectomy and chemotherapy"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "For ER/PR-positive, HER2-negative metastatic breast cancer that is asymptomatic, with no visceral crisis, endocrine therapy (e.g. an aromatase inhibitor with a CDK4/6 inhibitor) is first-line. Chemotherapy is reserved for visceral crisis or endocrine resistance, and metastasectomy has no role for multiple liver and lung deposits.",
+  "key_note": "",
+  "figure": "",
+  "qid": "B-63"
+ },
+ {
+  "cids": [
+   "C0103"
+  ],
+  "stem": "A 40-year-old woman with breast cancer was managed with breast-conserving surgery. Her doctor recommends an annual imaging study to monitor for recurrence. Which investigation is most appropriate?",
+  "options": {
+   "A": "Mammography",
+   "B": "Ultrasound breast",
+   "C": "CT scan chest",
+   "D": "MRI",
+   "E": "Trucut Biopsy"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "After breast-conserving surgery, annual mammography of both breasts is the standard surveillance for local recurrence and new primaries. MRI is reserved for high-risk or equivocal cases.",
+  "key_note": "",
+  "figure": "",
+  "qid": "B-64"
+ },
+ {
+  "cids": [
+   "C0245"
+  ],
+  "stem": "What is the most common complication of modified radical mastectomy?",
+  "options": {
+   "A": "Wound abscess",
+   "B": "Oedema of chest wall",
+   "C": "Frozen shoulder",
+   "D": "Hemorrhage",
+   "E": "Seroma formation"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Seroma under the skin flaps or in the axilla is the commonest complication after mastectomy and axillary surgery, managed by repeated aspiration. Haemorrhage, infection, lymphoedema and shoulder stiffness are less common.",
+  "key_note": "",
+  "figure": "",
+  "qid": "B-65"
+ },
+ {
+  "cids": [
+   "C0380"
+  ],
+  "stem": "A 42-year-old woman undergoes left wide local excision and axillary clearance for a 4 cm invasive ductal carcinoma. After surgery she has numbness of her left arm. Which structure has most likely been damaged?",
+  "options": {
+   "A": "Intercostobrachial nerve.",
+   "B": "Latissimus dorsi muscle.",
+   "C": "Long thoracic nerve.",
+   "D": "Musculocutaneous nerve.",
+   "E": "Serratus anterior muscle."
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "The intercostobrachial nerve (T2) crosses the axilla and is often divided during axillary clearance, causing numbness of the inner upper arm and axilla. The long thoracic and thoracodorsal nerves are motor.",
+  "key_note": "",
+  "figure": "",
+  "qid": "B-66"
+ },
+ {
+  "cids": [
+   "C0381"
+  ],
+  "stem": "After modified radical mastectomy for invasive carcinoma, a 50-year-old woman notices winging of the scapula on the same side. This is due to damage to which structure during surgery?",
+  "options": {
+   "A": "Inter-costobrachial nerve.",
+   "B": "Latissimus dorsi muscle.",
+   "C": "Long thoracic nerve.",
+   "D": "Musculocutaneous nerve.",
+   "E": "Serratus anterior muscle."
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Winging of the scapula after axillary surgery is due to injury of the long thoracic nerve (of Bell, C5-7), which supplies serratus anterior and runs on the medial wall of the axilla. The thoracodorsal nerve supplies latissimus dorsi and does not cause winging.",
+  "key_note": "",
+  "figure": "",
+  "qid": "B-67"
+ },
+ {
+  "cids": [
+   "C0754"
+  ],
+  "stem": "A 53-year-old lady is recovering from a difficult mastectomy and axillary nodal clearance for breast carcinoma. She complains of shoulder pain and has obvious winging of the scapula. Loss of innervation to which muscle is the most likely cause?",
+  "options": {
+   "A": "Latissimus Dorsi",
+   "B": "Serratus anterior",
+   "C": "Pectoralis minor",
+   "D": "Pectoralis major",
+   "E": "Rhomboids"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Winging of the scapula is caused by loss of innervation to serratus anterior from injury to the long thoracic nerve on the medial axillary wall during axillary clearance.",
+  "key_note": "Not marked in the source paper; compiled key gives B, which is correct.",
+  "figure": "",
+  "qid": "B-68"
+ },
+ {
+  "ncids": [
+   "K0132"
+  ],
+  "stem": "What percentage of the lymph from the breast drains to the axillary lymph nodes?",
+  "options": {
+   "A": "15%",
+   "B": "25%",
+   "C": "50%",
+   "D": "75%",
+   "E": "100%"
+  },
+  "answer": "D",
+  "explanation": "About 75% of breast lymph drains to the axillary nodes, most of the remainder going to the internal mammary nodes, mainly from the medial half of the breast.",
+  "key_note": "",
+  "_new": true,
+  "qid": "B-N1"
+ },
+ {
+  "ncids": [
+   "K0192"
+  ],
+  "stem": "A 70-year-old lady presents with a 1 cm lump in the right breast which is fixed to the skin, without ulceration, skin nodules or peau d'orange. What is the T stage?",
+  "options": {
+   "A": "T1",
+   "B": "T2",
+   "C": "T3",
+   "D": "T4",
+   "E": "TX"
+  },
+  "answer": "A",
+  "explanation": "T stage is set by size (T1 is 2 cm or less) unless there is chest wall invasion or skin ulceration, satellite nodules or oedema (T4). Simple tethering or dimpling of the skin does not upstage the tumour to T4.",
+  "key_note": "Bank marked D with * but highlighted A; correct is A because skin tethering alone does not qualify as T4 under TNM.",
+  "_new": true,
+  "qid": "B-N2"
+ },
+ {
+  "ncids": [
+   "K0257"
+  ],
+  "stem": "A patient with stage II breast cancer is going to undergo mastectomy in a week. She wishes to have reconstruction at the same operation. Which is the best option?",
+  "options": {
+   "A": "Skin grafting",
+   "B": "Advancement flap",
+   "C": "Latissimus dorsi free flap",
+   "D": "Islanded pedicled myocutaneous flap (e.g. latissimus dorsi)",
+   "E": "Skin expansion alone"
+  },
+  "answer": "D",
+  "explanation": "Immediate reconstruction is commonly done with a pedicled myocutaneous flap such as latissimus dorsi, islanded on the thoracodorsal vessels, or a pedicled TRAM. The latissimus dorsi flap is used pedicled, not as a free flap, so option C is technically wrong.",
+  "key_note": "Bank marked D with * but highlighted C; correct is D because the latissimus dorsi flap is an islanded pedicled flap, not a free flap.",
+  "_new": true,
+  "qid": "B-N3"
+ },
+ {
+  "ncids": [
+   "K0333"
+  ],
+  "stem": "Left-sided supraclavicular (Virchow's) lymph node enlargement is classically important in relation to:",
+  "options": {
+   "A": "Carcinoma of the spine",
+   "B": "Carcinoma of the anal canal",
+   "C": "Carcinoma of the stomach",
+   "D": "Carcinoma of the prostate",
+   "E": "Carcinoma of bone"
+  },
+  "answer": "C",
+  "explanation": "Virchow's node (Troisier's sign) is spread of abdominal malignancy, classically gastric carcinoma, via the thoracic duct to the left supraclavicular nodes. Rotter's (interpectoral) nodes, not Virchow's, relate to breast cancer.",
+  "key_note": "One copy of this question in the bank omitted 'carcinoma stomach' and starred 'carcinoma breast', apparently confusing it with Rotter's nodes; correct is carcinoma of the stomach.",
+  "_new": true,
+  "qid": "B-N4"
+ },
+ {
+  "ncids": [
+   "K0487"
+  ],
+  "stem": "Which of the following conditions is associated with the greatest increase in risk of breast cancer?",
+  "options": {
+   "A": "Severe (usual) hyperplasia",
+   "B": "Papillomatosis",
+   "C": "Fibroadenoma",
+   "D": "Atypical hyperplasia",
+   "E": "Fibrocystic mastopathy"
+  },
+  "answer": "D",
+  "explanation": "Atypical ductal or lobular hyperplasia increases breast cancer risk about 4 to 5 fold. Usual hyperplasia and papillomatosis carry only a slight increase, and simple fibroadenoma or fibrocystic change little or none.",
+  "key_note": "One bank copy with different options starred Paget's disease, which is itself a malignancy, not a risk factor; correct is atypical hyperplasia.",
+  "_new": true,
+  "qid": "B-N5"
+ },
+ {
+  "ncids": [
+   "K0488"
+  ],
+  "stem": "A 33-year-old woman is referred with nipple discharge from both breasts. Which of the following statements is correct?",
+  "options": {
+   "A": "Unilateral galactorrhoea is suggestive of an underlying endocrinopathy",
+   "B": "Serous discharge is usually seen in underlying breast cancer",
+   "C": "Every blood-stained nipple discharge should be evaluated, including cytology",
+   "D": "Milky breast discharge would be expected one year after discontinuation of breast feeding"
+  },
+  "answer": "C",
+  "explanation": "Blood-stained discharge always needs evaluation (cytology, imaging and often duct excision) to exclude papilloma or carcinoma. Endocrine galactorrhoea is bilateral, serous discharge is usually benign, and persistent milky discharge long after weaning warrants a prolactin check.",
+  "key_note": "One bank copy with different options starred 'every blood-stained nipple discharge is not cancer'; the HBS version keyed the evaluation statement, used here.",
+  "_new": true,
+  "qid": "B-N6"
+ },
+ {
+  "ncids": [
+   "K0489"
+  ],
+  "stem": "The sentinel lymph node in carcinoma of the breast is:",
+  "options": {
+   "A": "The first lymph node draining the tumour",
+   "B": "A supraclavicular lymph node",
+   "C": "Rotter's lymph node",
+   "D": "An internal mammary lymph node",
+   "E": "A posterior axillary lymph node"
+  },
+  "answer": "A",
+  "explanation": "The sentinel node is the first node (or nodes) receiving lymph from the tumour, usually in the axilla; if it is free of tumour the rest of the axilla is very likely clear, avoiding axillary clearance.",
+  "key_note": "",
+  "_new": true,
+  "qid": "B-N7"
+ },
+ {
+  "ncids": [
+   "K0490"
+  ],
+  "stem": "Regarding fibroadenoma of the breast, which statement is true?",
+  "options": {
+   "A": "It is almost always caused by trauma to the breast",
+   "B": "Treatment is wide local excision",
+   "C": "It commonly occurs in lactating mothers",
+   "D": "Metastasis through lymphatics is common",
+   "E": "Confirmation by triple assessment is mandatory"
+  },
+  "answer": "E",
+  "explanation": "Every discrete breast lump, including a suspected fibroadenoma, must be confirmed by triple assessment (clinical, imaging, cytology or core biopsy). Fibroadenomas are benign aberrations of lobular development in young women; if removed, simple excision suffices.",
+  "key_note": "",
+  "_new": true,
+  "qid": "B-N8"
+ },
+ {
+  "ncids": [
+   "K0492"
+  ],
+  "stem": "Which method of biopsy gives the most histological information in carcinoma of the breast?",
+  "options": {
+   "A": "Trucut (core needle) biopsy",
+   "B": "Ultrasound-guided FNAC",
+   "C": "Closed biopsy",
+   "D": "Fine needle aspiration cytology",
+   "E": "Skin biopsy"
+  },
+  "answer": "A",
+  "explanation": "Core needle biopsy gives a tissue core showing invasion, grade and receptor status (ER, PR, HER2). FNAC gives cytology only and cannot distinguish invasive from in situ carcinoma.",
+  "key_note": "",
+  "_new": true,
+  "qid": "B-N9"
+ },
+ {
+  "ncids": [
+   "K0494"
+  ],
+  "stem": "A 21-year-old woman presents with an asymptomatic breast mass. Which of the following statements regarding her diagnosis is true?",
+  "options": {
+   "A": "Mammography will play an important role in diagnosing the lesion",
+   "B": "Ultrasonography is often useful in the differential diagnosis of this lesion",
+   "C": "The mass should always be CT scanned",
+   "D": "The lesion should not be biopsied",
+   "E": "FNAC alone is always sufficient"
+  },
+  "answer": "B",
+  "explanation": "In women under 35 the breast is dense, so ultrasound is the imaging of choice and readily distinguishes solid from cystic lesions. Mammography has low sensitivity at this age, and any discrete lump still needs tissue sampling as part of triple assessment.",
+  "key_note": "",
+  "_new": true,
+  "qid": "B-N10"
+ },
+ {
+  "ncids": [
+   "K0496"
+  ],
+  "stem": "Which treatment is of benefit in managing mastalgia associated with fibrocystic breast disease?",
+  "options": {
+   "A": "Caffeine compounds",
+   "B": "Smoking",
+   "C": "Vitamin D",
+   "D": "Vitamin E",
+   "E": "Tramadol"
+  },
+  "answer": "D",
+  "explanation": "Simple measures for cyclical mastalgia include a well-fitting bra, evening primrose oil and vitamin E, with danazol, bromocriptine or tamoxifen for refractory cases. Caffeine reduction, not caffeine, is advised.",
+  "key_note": "",
+  "_new": true,
+  "qid": "B-N11"
+ },
+ {
+  "ncids": [
+   "K0497"
+  ],
+  "stem": "A 15-year-old boy has bilateral breast swellings, noticed 6 months ago, and wants them removed surgically. If surgery is undertaken, which procedure should be chosen?",
+  "options": {
+   "A": "Modified radical mastectomy on each side",
+   "B": "Simple lumpectomy on both sides",
+   "C": "Radical excision on both sides",
+   "D": "Excision biopsy on both sides",
+   "E": "Bilateral subcutaneous mastectomy"
+  },
+  "answer": "E",
+  "explanation": "Pubertal gynaecomastia usually regresses within 1 to 2 years, but persistent or distressing cases are treated by subcutaneous mastectomy (often with liposuction) through a periareolar incision, preserving the nipple-areola complex.",
+  "key_note": "",
+  "_new": true,
+  "qid": "B-N12"
+ },
+ {
+  "ncids": [
+   "K0499"
+  ],
+  "stem": "What is the best management of carcinoma of the breast in a 38-year-old patient with a locally advanced, ER and PR positive tumour, stage T3 N2 M0?",
+  "options": {
+   "A": "Radical mastectomy",
+   "B": "Neoadjuvant chemotherapy, then modified radical mastectomy, then hormone therapy",
+   "C": "Modified radical mastectomy",
+   "D": "Hormone therapy alone",
+   "E": "None of the above"
+  },
+  "answer": "B",
+  "explanation": "Locally advanced breast cancer is treated with neoadjuvant chemotherapy to downstage, followed by surgery (usually MRM) and radiotherapy, then endocrine therapy because the tumour is receptor positive.",
+  "key_note": "",
+  "_new": true,
+  "qid": "B-N13"
+ },
+ {
+  "ncids": [
+   "K0501"
+  ],
+  "stem": "A 46-year-old man is diagnosed with invasive ductal carcinoma of the right breast, stage T2 N0 M0. What is the most appropriate treatment option?",
+  "options": {
+   "A": "Cytotoxic chemotherapy",
+   "B": "Wide local excision",
+   "C": "Mastectomy with postoperative radiotherapy",
+   "D": "Palliative care programme",
+   "E": "Modified radical mastectomy"
+  },
+  "answer": "C",
+  "explanation": "Male breast cancer is usually central and close to the nipple and chest wall, so breast conservation is rarely feasible; mastectomy (with sentinel node biopsy) is standard, and radiotherapy is often given because of the thin tissue cover. Axillary clearance (MRM) is not needed for a node-negative axilla.",
+  "key_note": "Some bank copies changed the patient to a woman or a 16-year-old and starred wide local excision; for this man the bank's answer C (mastectomy plus radiotherapy) is correct.",
+  "_new": true,
+  "qid": "B-N14"
+ },
+ {
+  "ncids": [
+   "K0550"
+  ],
+  "stem": "Which one of the following is NOT an established prognostic factor in breast cancer?",
+  "options": {
+   "A": "Metastasis",
+   "B": "Size of tumour",
+   "C": "Circulating tumour DNA in blood",
+   "D": "Lymph node status",
+   "E": "Number of tumours"
+  },
+  "answer": "E",
+  "explanation": "Established prognostic factors are nodal status, tumour size, grade, receptor status and distant metastasis; circulating tumour DNA is an emerging prognostic marker. Multifocality (number of tumours) is not an independent established prognostic factor.",
+  "key_note": "",
+  "_new": true,
+  "qid": "B-N15"
+ },
+ {
+  "ncids": [
+   "K0551"
+  ],
+  "stem": "Patey (modified radical) mastectomy is indicated for which of the following?",
+  "options": {
+   "A": "Fungating tumour",
+   "B": "Recurrent nodule",
+   "C": "Tumour near the nipple",
+   "D": "Metastatic disease",
+   "E": "Small tumours"
+  },
+  "answer": "C",
+  "explanation": "A central tumour close to or involving the nipple usually cannot be treated by breast conservation with good cosmesis, so mastectomy with axillary surgery is indicated. Small peripheral tumours are suited to breast conservation, and metastatic disease is treated systemically.",
+  "key_note": "",
+  "_new": true,
+  "qid": "B-N16"
+ },
+ {
+  "ncids": [
+   "K0552"
+  ],
+  "stem": "A patient with recurrent carcinoma of the breast has skin of the chest wall diffusely infiltrated with tumour. What is this condition called?",
+  "options": {
+   "A": "Lymphoedema",
+   "B": "Peau d'orange",
+   "C": "Cancer en cuirasse",
+   "D": "Metastatic cancer",
+   "E": "Lymphangitis"
+  },
+  "answer": "C",
+  "explanation": "Cancer en cuirasse is diffuse infiltration of the chest wall skin by carcinoma, producing a hard, armour-like plaque. Peau d'orange is skin oedema from blocked dermal lymphatics.",
+  "key_note": "",
+  "_new": true,
+  "qid": "B-N17"
+ },
+ {
+  "ncids": [
+   "K0553"
+  ],
+  "stem": "A 35-year-old woman has a 1.5 cm hard lump in the upper outer quadrant of the left breast with no palpable axillary nodes. Biopsy confirms carcinoma, and sentinel lymph node biopsy is planned. Where should the dye be injected?",
+  "options": {
+   "A": "Into the breast lump",
+   "B": "Breast skin and axilla",
+   "C": "Axilla only",
+   "D": "Around the nipple and axilla",
+   "E": "Around the breast lump"
+  },
+  "answer": "E",
+  "explanation": "Blue dye or radioisotope is injected peritumorally or in the subareolar/periareolar region, from where it travels to the sentinel node; it is never injected into the axilla. Injecting into the lump itself drains poorly.",
+  "key_note": "Bank marked D; correct is E because the tracer is injected around the tumour (or periareolar), not into the axilla.",
+  "_new": true,
+  "qid": "B-N18"
+ },
+ {
+  "ncids": [
+   "K0554"
+  ],
+  "stem": "A 45-year-old perimenopausal lady with stage IIIC ER and PR positive carcinoma of the right breast has completed chemotherapy. What hormonal therapy is recommended?",
+  "options": {
+   "A": "Anastrozole",
+   "B": "Trastuzumab (Herceptin)",
+   "C": "Tamoxifen",
+   "D": "Lapatinib",
+   "E": "Danazol"
+  },
+  "answer": "C",
+  "explanation": "Tamoxifen is the endocrine therapy of choice in pre and perimenopausal women because aromatase inhibitors alone are ineffective while the ovaries still produce oestrogen. Anastrozole is used after the menopause, and trastuzumab or lapatinib target HER2.",
+  "key_note": "",
+  "_new": true,
+  "qid": "B-N19"
+ },
+ {
+  "ncids": [
+   "K0570"
+  ],
+  "stem": "A 28-year-old lady presents with a 2 cm soft, mobile lump in her left breast with no axillary lymph nodes. Which investigation will confirm the diagnosis?",
+  "options": {
+   "A": "Core needle biopsy",
+   "B": "Mammography",
+   "C": "Magnetic resonance imaging",
+   "D": "Ultrasound breast",
+   "E": "Fine needle aspiration cytology"
+  },
+  "answer": "A",
+  "explanation": "Imaging (ultrasound in women under 35) characterises the lump, but confirmation requires tissue, and core needle biopsy gives definitive histology. Mammography is of limited value in dense young breasts.",
+  "key_note": "Bank marked B; correct is A because mammography cannot confirm a diagnosis, especially in a 28-year-old; a core biopsy is confirmatory.",
+  "_new": true,
+  "qid": "B-N20"
+ },
+ {
+  "ncids": [
+   "K0571"
+  ],
+  "stem": "A lactating mother with bilateral cracked nipples presents with severe pain and swelling of the right breast, fever with rigors and chills. There is tenderness but no fluctuation. What is the management?",
+  "options": {
+   "A": "Cold sponging and milk evacuation",
+   "B": "Incision and drainage with antibiotics",
+   "C": "Aspiration of pus and antibiotics",
+   "D": "Antibiotics and breast pump evacuation of milk",
+   "E": "Pump evacuation and reassurance"
+  },
+  "answer": "D",
+  "explanation": "Lactational mastitis without an abscess is treated with antibiotics (flucloxacillin) and continued emptying of the breast by feeding or pumping. Drainage or aspiration is only needed once an abscess forms.",
+  "key_note": "",
+  "_new": true,
+  "qid": "B-N21"
+ },
+ {
+  "ncids": [
+   "K0663",
+   "K1675"
+  ],
+  "stem": "What percentage of lymph from the breast is drained by the cervical lymph nodes?",
+  "options": {
+   "A": "50 percent",
+   "B": "65 percent",
+   "C": "100 percent",
+   "D": "These nodes do not directly receive lymph from the breast"
+  },
+  "answer": "D",
+  "explanation": "Breast lymph drains to the axillary (about 75%) and internal mammary nodes; the cervical nodes receive none directly, though supraclavicular nodes may be involved in advanced disease.",
+  "key_note": "One bank copy had no correct option and its answer line was carried into the next question; merged with the complete version.",
+  "_new": true,
+  "qid": "B-N22"
+ },
+ {
+  "ncids": [
+   "K0737"
+  ],
+  "stem": "Male breast cancer is associated with an excess of:",
+  "options": {
+   "A": "Androgen",
+   "B": "Oestrogen",
+   "C": "Both androgen and oestrogen",
+   "D": "It is not related to hormones",
+   "E": "Progesterone"
+  },
+  "answer": "B",
+  "explanation": "Male breast cancer is linked to hyperoestrogenic states such as Klinefelter's syndrome, cirrhosis, obesity and exogenous oestrogens, as well as BRCA2 mutation; most tumours are ER positive.",
+  "key_note": "",
+  "_new": true,
+  "qid": "B-N23"
+ },
+ {
+  "ncids": [
+   "K0752"
+  ],
+  "stem": "A 35-year-old professional dancer presents with a well-defined, tense, smooth mass in the upper outer quadrant of the left breast which becomes larger just before her periods. Aspiration yields clear yellow fluid and the mass disappears. What is the most likely diagnosis?",
+  "options": {
+   "A": "Fibroadenoma",
+   "B": "Fibrocystic disease of the breast (simple cyst)",
+   "C": "Carcinoma in a cyst",
+   "D": "Lipoma",
+   "E": "Galactocele"
+  },
+  "answer": "B",
+  "explanation": "A cyclical tense lump that yields clear non-bloody fluid and disappears on aspiration is a simple cyst, part of fibrocystic disease (ANDI). Bloodstained fluid or a residual lump would raise concern for intracystic carcinoma.",
+  "key_note": "",
+  "_new": true,
+  "qid": "B-N24"
+ },
+ {
+  "ncids": [
+   "K1313"
+  ],
+  "stem": "A 40-year-old woman is to undergo mastectomy for a T2 N0 M0 malignant breast lump. The objective of the 'radical' surgery here is:",
+  "options": {
+   "A": "Diagnosis",
+   "B": "Local control",
+   "C": "Local and systemic control of cancer",
+   "D": "To make chemotherapy more effective"
+  },
+  "answer": "B",
+  "explanation": "Surgery and radiotherapy achieve local control; systemic control depends on chemotherapy, endocrine and targeted therapy, since breast cancer is often systemic at presentation.",
+  "key_note": "",
+  "_new": true,
+  "qid": "B-N25"
+ },
+ {
+  "ncids": [
+   "K1395"
+  ],
+  "stem": "The acronym QUART stands for:",
+  "options": {
+   "A": "Quadrantectomy and radiotherapy",
+   "B": "Quadrantectomy, axillary dissection and radiotherapy",
+   "C": "Quadrantic resection and chemotherapy",
+   "D": "None of the above"
+  },
+  "answer": "B",
+  "explanation": "QUART (Veronesi) is quadrantectomy, axillary dissection and radiotherapy, a form of breast conserving treatment shown to be equivalent to mastectomy for small tumours.",
+  "key_note": "",
+  "_new": true,
+  "qid": "B-N26"
+ },
+ {
+  "ncids": [
+   "K1396"
+  ],
+  "stem": "Indications for chemotherapy in breast cancer include:",
+  "options": {
+   "A": "Premenopausal women with positive lymph nodes",
+   "B": "Postmenopausal women with poor prognosis disease",
+   "C": "Extensive disease irrespective of menopausal status",
+   "D": "A and C",
+   "E": "A and B"
+  },
+  "answer": "E",
+  "explanation": "Adjuvant chemotherapy is given to node-positive premenopausal women and to postmenopausal women with poor prognostic features (node positive, high grade, ER negative, HER2 positive, triple negative).",
+  "key_note": "",
+  "_new": true,
+  "qid": "B-N27"
+ },
+ {
+  "ncids": [
+   "K1487"
+  ],
+  "stem": "A 20-year-old nulliparous woman presents with a 2 x 2 cm well-defined, mobile lump in the lower outer quadrant of the right breast, noticed 3 days ago in the shower. There is no family history of breast cancer, and she has taken the oral contraceptive pill for 3 years. For her initial work-up you will send her for:",
+  "options": {
+   "A": "Chest X-ray",
+   "B": "Mammography and ultrasound of the right breast",
+   "C": "Ultrasound of the right breast",
+   "D": "Mammography",
+   "E": "Ultrasound of the right breast and fine needle aspiration cytology"
+  },
+  "answer": "E",
+  "explanation": "Triple assessment in a woman under 35 uses clinical examination, ultrasound (not mammography, as young breasts are dense) and needle sampling (FNAC or core biopsy).",
+  "key_note": "",
+  "_new": true,
+  "qid": "B-N28"
+ },
+ {
+  "ncids": [
+   "K1489"
+  ],
+  "stem": "A patient is receiving the CAF regimen as adjuvant chemotherapy for breast cancer. What is the principal dose-limiting toxicity of Adriamycin (doxorubicin)?",
+  "options": {
+   "A": "Cardiomyopathy",
+   "B": "Pulmonary fibrosis",
+   "C": "Peripheral neuropathy",
+   "D": "Uric acid nephropathy",
+   "E": "Hepatic dysfunction"
+  },
+  "answer": "A",
+  "explanation": "Doxorubicin causes cumulative dose-related dilated cardiomyopathy, so cardiac function is monitored by echocardiography or MUGA scan. Pulmonary fibrosis is typical of bleomycin and neuropathy of taxanes and vinca alkaloids.",
+  "key_note": "",
+  "_new": true,
+  "qid": "B-N29"
+ },
+ {
+  "ncids": [
+   "K1490"
+  ],
+  "stem": "A 45-year-old woman has a 1.5 cm infiltrating ductal carcinoma in the lower outer quadrant of the left breast. Wide local excision with sentinel lymph node biopsy is performed. The margins are clear, the sentinel nodes are free of metastasis and the tumour is ER and PR positive. What will you now offer?",
+  "options": {
+   "A": "Simple mastectomy",
+   "B": "Mastectomy with axillary node clearance",
+   "C": "Tamoxifen alone",
+   "D": "Chemotherapy",
+   "E": "Radiotherapy and hormonal therapy"
+  },
+  "answer": "E",
+  "explanation": "After breast conserving surgery, whole breast radiotherapy is required to reduce local recurrence, and a receptor positive tumour needs adjuvant endocrine therapy. A negative sentinel node means no further axillary surgery.",
+  "key_note": "",
+  "_new": true,
+  "qid": "B-N30"
+ },
+ {
+  "ncids": [
+   "K1491"
+  ],
+  "stem": "A 40-year-old woman presents with a 3 cm lump in the upper outer quadrant of the left breast. FNAC confirms infiltrating ductal carcinoma. Which lymph node group is likely to be involved first?",
+  "options": {
+   "A": "Internal mammary",
+   "B": "Axillary",
+   "C": "Supraclavicular",
+   "D": "Upper deep cervical",
+   "E": "Abdominal"
+  },
+  "answer": "B",
+  "explanation": "The axillary nodes receive about 75% of breast lymph and are the first nodes involved, especially from lateral tumours. Internal mammary nodes are more relevant for medial and central tumours.",
+  "key_note": "",
+  "_new": true,
+  "qid": "B-N31"
+ },
+ {
+  "ncids": [
+   "K1546"
+  ],
+  "stem": "Which of the following statements about the mammary gland is correct?",
+  "options": {
+   "A": "It extends vertically from the 4th to the 8th rib",
+   "B": "It contains 15 to 20 lobes, each drained by a lactiferous duct",
+   "C": "In the non-pregnant state it contains well-developed secretory alveoli",
+   "D": "The areola contains no sebaceous glands"
+  },
+  "answer": "B",
+  "explanation": "The breast has 15 to 20 lobes, each drained by a lactiferous duct opening on the nipple. It extends from the 2nd to the 6th rib, secretory alveoli develop fully only in pregnancy, and the areola contains sebaceous (Montgomery's) glands.",
+  "key_note": "Options repaired: the recalled source had several true options (2nd to 6th rib, alveoli in pregnancy, areolar sebaceous glands); distractors were reworded to make the bank's answer B the single correct option.",
+  "_new": true,
+  "qid": "B-N32"
+ },
+ {
+  "ncids": [
+   "K1676"
+  ],
+  "stem": "Which of the following statements about FNAC of the breast is INCORRECT?",
+  "options": {
+   "A": "It is a safe investigation",
+   "B": "It is usually reliable",
+   "C": "It is the least invasive investigation for diagnosis of breast cancer",
+   "D": "It can differentiate invasive carcinoma from carcinoma in situ",
+   "E": "It is part of the triple assessment for breast cancer"
+  },
+  "answer": "D",
+  "explanation": "FNAC provides cells, not tissue architecture, so it cannot show invasion and cannot distinguish invasive from in situ carcinoma; core biopsy is needed for that.",
+  "key_note": "Stem repaired: the bank fused this stem with the last option of the previous question; the bank's starred answer (invasive versus in situ) is option D here.",
+  "_new": true,
+  "qid": "B-N33"
+ },
+ {
+  "ncids": [
+   "K1677"
+  ],
+  "stem": "Which type of breast carcinoma has the worst prognosis?",
+  "options": {
+   "A": "Inflammatory carcinoma",
+   "B": "Invasive ductal carcinoma",
+   "C": "Non-invasive ductal carcinoma",
+   "D": "Scirrhous carcinoma",
+   "E": "Lobular carcinoma"
+  },
+  "answer": "A",
+  "explanation": "Inflammatory carcinoma (T4d) is an aggressive form with diffuse dermal lymphatic invasion, presenting with erythema and peau d'orange over much of the breast, and has the worst prognosis. Non-invasive ductal carcinoma (DCIS) has an excellent prognosis.",
+  "key_note": "",
+  "_new": true,
+  "qid": "B-N34"
+ },
+ {
+  "ncids": [
+   "K1678"
+  ],
+  "stem": "A young woman presents with blood-stained discharge from the right nipple. Which of the following statements is INAPPROPRIATE?",
+  "options": {
+   "A": "It may be associated with carcinoma of the breast",
+   "B": "It may be caused by duct papilloma",
+   "C": "Mastectomy is the treatment of choice",
+   "D": "It is usually on one side",
+   "E": "It should always be investigated"
+  },
+  "answer": "C",
+  "explanation": "Bloody nipple discharge is most often due to an intraductal papilloma and is treated after investigation by excision of the affected duct (microdochectomy), not mastectomy. It must always be investigated because carcinoma is the second commonest cause.",
+  "key_note": "",
+  "_new": true,
+  "qid": "B-N35"
+ },
+ {
+  "ncids": [
+   "K1679"
+  ],
+  "stem": "The TNM classification of breast cancer is primarily based on:",
+  "options": {
+   "A": "Clinical evaluation",
+   "B": "Peroperative evaluation",
+   "C": "Liver and whole body scanning",
+   "D": "Histological findings",
+   "E": "Ultrasound examination of the breast"
+  },
+  "answer": "A",
+  "explanation": "The TNM system is primarily a clinical staging (cTNM) based on examination and imaging before treatment; pathological staging (pTNM) is a later refinement after surgery.",
+  "key_note": "",
+  "_new": true,
+  "qid": "B-N36"
+ },
+ {
+  "ncids": [
+   "K1680"
+  ],
+  "stem": "Regarding fibrocystic disease of the breast, which statement is true?",
+  "options": {
+   "A": "It is an aberration of the normal cyclical changes that develop in the breasts during each menstrual cycle",
+   "B": "It is always bilateral",
+   "C": "It usually persists in the postmenopausal years",
+   "D": "It is generally a precancerous condition",
+   "E": "It is usually associated with marked pain in the breast"
+  },
+  "answer": "A",
+  "explanation": "Fibrocystic change is part of ANDI (aberrations of normal development and involution), related to cyclical hormonal changes; it regresses after the menopause and, without atypia, does not significantly increase cancer risk.",
+  "key_note": "",
+  "_new": true,
+  "qid": "B-N37"
+ }
+]

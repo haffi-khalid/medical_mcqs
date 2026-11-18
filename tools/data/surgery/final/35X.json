@@ -1,0 +1,734 @@
+[
+ {
+  "cids": [
+   "C0402"
+  ],
+  "stem": "Normal amount of pleural fluid produced in 24 hours in an adult is:",
+  "options": {
+   "A": "1-2 liters",
+   "B": "2-3 liters",
+   "C": "3-4 liters",
+   "D": "4-5 liters",
+   "E": "5-6 liters"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Pleural fluid is continuously secreted (mainly from parietal pleural capillaries) and absorbed by parietal pleural lymphatics; the commonly taught daily turnover is about 1-2 litres, while only 5-15 mL is present at any time.",
+  "key_note": "",
+  "figure": "",
+  "qid": "35X-1"
+ },
+ {
+  "cids": [
+   "C0752"
+  ],
+  "stem": "A 28 yr old man is shot in the right chest and develops a right haemothorax necessitating a thoracotomy. The surgeons decide to place a vascular clamp across the hilum of the right lung. Which of the following structures will lie most anteriorly at this point?",
+  "options": {
+   "A": "Thoracic duct",
+   "B": "Phrenic nerve",
+   "C": "Vagus nerve",
+   "D": "Pulmonary artery",
+   "E": "Pulmonary vein"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "The phrenic nerve passes anterior to the lung root and the vagus posterior to it, so a hilar clamp from the front meets the phrenic nerve first; within the hilum the pulmonary veins are the most anterior and inferior vessels.",
+  "key_note": "Not marked in the source paper; answer by reviewer. Compiled key agrees.",
+  "figure": "",
+  "qid": "35X-2"
+ },
+ {
+  "cids": [
+   "C0751"
+  ],
+  "stem": "What are the boundaries of the ‘safe triangle' of chest drain insertion?",
+  "options": {
+   "A": "Bounded by trapezius, latissimus dorsi, and laterally by the vertebral border of the scapula",
+   "B": "Bounded by latissimus dorsi, pectoralis major, line superior to the nipple and apex at the axilla",
+   "C": "Bounded by latissimus dorsi, serratus anterior, line superior to the nipple and apex at the axilla",
+   "D": "Bounded by trapezius, deltoid, rhomboid major and teres minor",
+   "E": "Bounded by trapezius, deltoid and latissimus dorsi"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "The safe triangle is bounded by the lateral border of pectoralis major, the anterior border of latissimus dorsi, a line at the level of the nipple (5th intercostal space) and the apex below the axilla; the drain is inserted just above a rib to avoid the neurovascular bundle.",
+  "key_note": "Not marked in the source paper; answer by reviewer. Compiled key agrees.",
+  "figure": "",
+  "qid": "35X-3"
+ },
+ {
+  "cids": [
+   "C0115"
+  ],
+  "stem": "A patient with a pleural effusion undergoes thoracentesis. The fluid analysis reveals a protein level of 4.5 g/dl and a lactate dehydrogenase (LDH) level of 250 IU/L. What type of effusion is this?",
+  "options": {
+   "A": "Transudative",
+   "B": "Exudative",
+   "C": "Chylous",
+   "D": "Hemorrhagic",
+   "E": "Pseudochylous"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "By Light's criteria an effusion is exudative if pleural/serum protein exceeds 0.5, pleural/serum LDH exceeds 0.6 or pleural LDH exceeds two-thirds of the upper limit of normal serum LDH; a protein of 4.5 g/dL (over 3 g/dL) is clearly an exudate.",
+  "key_note": "",
+  "figure": "",
+  "qid": "35X-4"
+ },
+ {
+  "cids": [
+   "C0116"
+  ],
+  "stem": "A patient with a history of tuberculosis presents with a pleural effusion. What is the most likely characteristic of such a pleural fluid?",
+  "options": {
+   "A": "High glucose level",
+   "B": "Low protein level",
+   "C": "Lymphocytic predominance",
+   "D": "Neutrophilic predominance",
+   "E": "Eosinophilic predominance"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Tuberculous pleural effusion is an exudate with lymphocytic predominance (usually over 80%), high protein and raised adenosine deaminase (ADA); neutrophils dominate parapneumonic effusions.",
+  "key_note": "",
+  "figure": "",
+  "qid": "35X-5"
+ },
+ {
+  "cids": [
+   "C0839"
+  ],
+  "stem": "Which of the following is associated with causation of mesothelioma?",
+  "options": {
+   "A": "Aniline dye",
+   "B": "Wood dust",
+   "C": "Cigarette smoking",
+   "D": "Asbestos",
+   "E": "Alcohol"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Asbestos exposure (especially crocidolite, blue asbestos) is the main cause of malignant mesothelioma, with a latency of 20-40 years; smoking does not increase mesothelioma risk.",
+  "key_note": "",
+  "figure": "",
+  "qid": "35X-6"
+ },
+ {
+  "cids": [
+   "C0587"
+  ],
+  "stem": "A 72-year-old retired miner complains of progressive dyspnea, chest pain, and a 20-lb weight loss. He is a nonsmoker. Examination reveals clubbing of the fingers. CT scan shows a pleural effusion and nodular, irregular thickening of the right lung and involvement of the celiac lymph nodes. Cytology, repeated on several occasions, is not helpful. Which test will most likely establish the diagnosis?",
+  "options": {
+   "A": "Laparoscopy",
+   "B": "Bronchoscopy",
+   "C": "Open pleural biopsy",
+   "D": "Repeat cytology",
+   "E": "Gastroscopy"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A former miner with pleural effusion, irregular nodular pleural thickening and repeatedly negative cytology suggests malignant mesothelioma; diagnosis requires an adequate pleural biopsy, by open or thoracoscopic (VATS) biopsy, since cytology is often non-diagnostic.",
+  "key_note": "",
+  "figure": "",
+  "qid": "35X-7"
+ },
+ {
+  "cids": [
+   "C0117"
+  ],
+  "stem": "A patient with a recurrent malignant pleural effusion undergoes pleurodesis. What is the primary purpose of this procedure?",
+  "options": {
+   "A": "To drain the pleural fluid",
+   "B": "To diagnose the underlying cause",
+   "C": "To prevent fluid reaccumulation",
+   "D": "To improve lung function",
+   "E": "To reduce pain"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Pleurodesis (talc, or other agents) fuses the visceral and parietal pleura so that the pleural space is obliterated, preventing reaccumulation of a recurrent malignant effusion.",
+  "key_note": "",
+  "figure": "",
+  "qid": "35X-8"
+ },
+ {
+  "cids": [
+   "C1040"
+  ],
+  "stem": "Management of chylothorax includes all of the following except:",
+  "options": {
+   "A": "Drainage of the pleural space",
+   "B": "Fluid, electrolyte, and nutritional support",
+   "C": "External beam radiation therapy",
+   "D": "Surgical ligation of the thoracic duct",
+   "E": "Octreotide"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Chylothorax is managed by pleural drainage, nutritional support (fat-free diet with medium-chain triglycerides or TPN), octreotide and, if persistent, thoracic duct ligation; external beam radiotherapy is not part of standard management (it is used only for some lymphoma-related cases).",
+  "key_note": "",
+  "figure": "",
+  "qid": "35X-9"
+ },
+ {
+  "cids": [
+   "C0530"
+  ],
+  "stem": "Empyema is presence of following in pleural cavity",
+  "options": {
+   "A": "Air",
+   "B": "Water",
+   "C": "Pus",
+   "D": "Blood",
+   "E": "None"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Empyema is pus in the pleural cavity; air is pneumothorax, serous fluid is effusion (hydrothorax) and blood is haemothorax.",
+  "key_note": "",
+  "figure": "",
+  "qid": "35X-10"
+ },
+ {
+  "cids": [
+   "C0980"
+  ],
+  "stem": "An elderly male underwent chest intubation few days back for pneumohemothorax following RTA which was taken out three days back. He is suffering from fever (103 F) along with difficulty in breathing and reduced breath sounds on the right lower chest. What is the possible cause:",
+  "options": {
+   "A": "Lung Abscess",
+   "B": "Hemothorax",
+   "C": "Pneumonia",
+   "D": "Empyema thoracis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "High fever, dyspnoea and reduced breath sounds at the base days after chest drainage for a haemopneumothorax suggest infected retained haemothorax, i.e. post-traumatic empyema thoracis.",
+  "key_note": "Not marked in the source paper; answer by reviewer. Compiled key agrees. Option E not available in the source.",
+  "figure": "",
+  "qid": "35X-11"
+ },
+ {
+  "cids": [
+   "C1260",
+   "C0272"
+  ],
+  "stem": "A 20 year old is an athlete and develops sudden shortness of breath. He has no previous history of fever or trauma to chest. On examination he has no air entry left lower zone of lung with hyper resonant note. What is most likely diagnosis?",
+  "options": {
+   "A": "Diaphragm rupture",
+   "B": "Empyema thoracis",
+   "C": "Haemo-thorax",
+   "D": "Pleural effusion",
+   "E": "Spontaneous pneumothorax"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Sudden dyspnoea in a young athlete with absent breath sounds and a hyper-resonant percussion note indicates spontaneous pneumothorax; effusion, haemothorax and empyema are stony dull.",
+  "key_note": "",
+  "figure": "",
+  "qid": "35X-12"
+ },
+ {
+  "cids": [
+   "C1348"
+  ],
+  "stem": "Which radiographic sign indicates pneumothorax?",
+  "options": {
+   "A": "Air outside the lung",
+   "B": "Mediastinal shift",
+   "C": "Diaphragmatic elevation",
+   "D": "Lung collapse",
+   "E": "All of the above"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "The diagnostic radiographic sign of pneumothorax is air outside the lung: a visible visceral pleural line with no lung markings beyond it. Mediastinal shift occurs only with tension, and the hemidiaphragm is depressed, not elevated.",
+  "key_note": "The paper and compiled key marked E (All of the above); correct is A, because diaphragmatic elevation is not a sign of pneumothorax and mediastinal shift occurs only in tension pneumothorax.",
+  "figure": "",
+  "qid": "35X-13"
+ },
+ {
+  "cids": [
+   "C0403"
+  ],
+  "stem": "Patient presents with sudden shortness of breath in emergency. X-ray chest reveals right sided pneumothorax. Which of the following statement is NOT true regarding pneumothorax?",
+  "options": {
+   "A": "Chest tube is placed in triangle of safety for pneumothorax",
+   "B": "Intubation is always required for pneumothorax",
+   "C": "Tension pneumothorax is dire emergency",
+   "D": "There is mediastinal shift in tension pneumothorax",
+   "E": "There is tracheal deviation in tension pneumothorax"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Pneumothorax does not always need intubation: small ones are observed or aspirated and larger ones drained via the safe triangle. Tension pneumothorax is a life-threatening emergency with tracheal deviation and mediastinal shift, needing immediate decompression.",
+  "key_note": "",
+  "figure": "",
+  "qid": "35X-14"
+ },
+ {
+  "cids": [
+   "C0076"
+  ],
+  "stem": "A patient is being mechanically ventilated in the ICU when suddenly, his blood pressure drops, and his oxygen saturation decreases. His peak inspiratory pressure increases, and breath sounds are absent on the right side. What is the most likely diagnosis?",
+  "options": {
+   "A": "Sudden Cardiac infarction",
+   "B": "Tension pneumothorax",
+   "C": "Pulmonary embolism",
+   "D": "Acute respiratory distress syndrome (ARDS)",
+   "E": "Bronchospasm"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "In a ventilated patient, sudden hypotension, desaturation, rising peak inspiratory pressure and unilateral absent breath sounds indicate tension pneumothorax from positive-pressure ventilation; it needs immediate decompression and a chest drain.",
+  "key_note": "",
+  "figure": "",
+  "qid": "35X-15"
+ },
+ {
+  "cids": [
+   "C0080"
+  ],
+  "stem": "A patient is intubated and mechanically ventilated in the ICU. Suddenly, the high-pressure alarm sounds, and the patient's oxygen saturation begins to decrease. What is the most likely cause?",
+  "options": {
+   "A": "Endotracheal tube obstruction",
+   "B": "Ventilator malfunction",
+   "C": "Pneumothorax",
+   "D": "Acute respiratory distress syndrome (ARDS)",
+   "E": "Cardiac arrest"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "A sudden high-pressure alarm with falling saturation in a ventilated patient is most often due to endotracheal tube obstruction (secretions, kinking or biting); pass a suction catheter and check the tube first, then consider pneumothorax.",
+  "key_note": "",
+  "figure": "",
+  "qid": "35X-16"
+ },
+ {
+  "cids": [
+   "C0024"
+  ],
+  "stem": "An elderly male presents in the surgical OPD with high grade fever, cough and dyspnea. On chest X-ray there is a loculated air fluid level in the upper lobe of right lung. What is the likely lesion?",
+  "options": {
+   "A": "Empyema",
+   "B": "Lung Abscess",
+   "C": "Pneumonia",
+   "D": "Carcinoma Lung",
+   "E": "Pleural effusion"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "A thick-walled cavity with an air-fluid level within the lung, with high fever and cough, is a lung abscess; empyema gives a pleural-based collection, and pneumonia does not cavitate with a fluid level.",
+  "key_note": "",
+  "figure": "",
+  "qid": "35X-17"
+ },
+ {
+  "cids": [
+   "C1475"
+  ],
+  "stem": "A 35-year-old lady who is a pet lover (is having farm animals in her residence) developed off and on dry cough, chest pain on right side along with fever. On examination right lower lung has decreased air entry. Chest x ray shows a rounded lesion with crescent in right lung lower zone. What is the most likely diagnosis?",
+  "options": {
+   "A": "Hydatid cyst lung",
+   "B": "Lung abscess",
+   "C": "Pneumonic patch lung",
+   "D": "TB lung",
+   "E": "Tumor of lung"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Contact with dogs or farm animals, cough and chest pain, and a rounded opacity with an air crescent (meniscus sign) suggest a pulmonary hydatid cyst (Echinococcus granulosus). Treatment is surgical removal with albendazole cover.",
+  "key_note": "",
+  "figure": "",
+  "qid": "35X-18"
+ },
+ {
+  "cids": [
+   "C1036"
+  ],
+  "stem": "Which of the following is the most common benign lung tumor?",
+  "options": {
+   "A": "Leiomyoma",
+   "B": "Hamartoma",
+   "C": "Myoepithelioma",
+   "D": "Mucinous cystadenoma",
+   "E": "Mucous gland adenoma"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Pulmonary hamartoma is the most common benign lung tumour, typically a peripheral coin lesion with 'popcorn' calcification.",
+  "key_note": "",
+  "figure": "",
+  "qid": "35X-19"
+ },
+ {
+  "cids": [
+   "C1034"
+  ],
+  "stem": "All of the following mediastinal tumors are found in the anterior mediastinum except:",
+  "options": {
+   "A": "Thymoma",
+   "B": "Thyroid mass",
+   "C": "Lymphoma",
+   "D": "Teratoma",
+   "E": "Ganglioneuroma"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Ganglioneuroma is a neurogenic tumour of the posterior mediastinum; thymoma, retrosternal thyroid, lymphoma and teratoma are the anterior mediastinal masses (the '4 Ts').",
+  "key_note": "The source key marked B (Thyroid mass); correct is E: ganglioneuroma is a posterior mediastinal tumour, while retrosternal thyroid lies in the anterior/superior mediastinum.",
+  "figure": "",
+  "qid": "35X-20"
+ },
+ {
+  "cids": [
+   "C0493"
+  ],
+  "stem": "A 45-year-old woman presents with weakness towards the afternoon, shortness of breath, and ptosis. CT scan reveals an anterior mediastinal mass. The most likely diagnosis is:",
+  "options": {
+   "A": "Intrathoracic goiter",
+   "B": "Non-Hodgkin's lymphoma.",
+   "C": "Non-seminoma germ cell tumor",
+   "D": "Thymoma",
+   "E": "Carcinoid tumor"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Fatigable weakness worse in the afternoon with ptosis is myasthenia gravis, and an anterior mediastinal mass in this setting is a thymoma (about 30-50% of thymoma patients have myasthenia).",
+  "key_note": "One copy had a pen tick on A (Intrathoracic goitre); the key marked D, which is correct.",
+  "figure": "",
+  "qid": "35X-21"
+ },
+ {
+  "cids": [
+   "C1037"
+  ],
+  "stem": "Which of the following tumor markers is not indicated in the workup of an anterior mediastinal mass?",
+  "options": {
+   "A": "Antiacetylcholine receptor antibody",
+   "B": "Lactate dehydrogenase (LDH)",
+   "C": "Alpha-fetoprotein",
+   "D": "Carcinoembryonic antigen (CEA)",
+   "E": "Beta-HCG"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Workup of an anterior mediastinal mass includes AFP, beta-hCG and LDH (germ cell tumours, lymphoma) and anti-acetylcholine receptor antibodies (thymoma with myasthenia); CEA has no role.",
+  "key_note": "The source key marked A (antiacetylcholine receptor antibody); correct is D: CEA, since anti-AChR antibodies are part of the workup for suspected thymoma.",
+  "figure": "",
+  "qid": "35X-22"
+ },
+ {
+  "cids": [
+   "C0605"
+  ],
+  "stem": "After returning from vacation, a 67-year-old retired judge is admitted to the emergency department with severe dyspnea. On examination an inspiratory stridor, ecchymosis in his neck, and swelling of soft tissue and veins in his face and upper extremity veins are evident. The CT scan shows an expanding superior mediastinal hematoma. What is the most common source of mediastinal hemorrhage?",
+  "options": {
+   "A": "Parotid gland surgery",
+   "B": "Trauma",
+   "C": "Dissecting thoracic aneurysm",
+   "D": "Mediastinal tumor",
+   "E": "Hemorrhagic diathesis"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "In a patient without trauma, spontaneous mediastinal haemorrhage is most often due to a ruptured or dissecting thoracic aortic aneurysm; it can cause airway compression and SVC-like venous engorgement, as here.",
+  "key_note": "One copy ticked D (Mediastinal tumour) while the highlight was on C; C is the best answer for a non-traumatic presentation, though trauma is the commonest cause of mediastinal haematoma overall.",
+  "figure": "",
+  "qid": "35X-23"
+ },
+ {
+  "cids": [
+   "C1038"
+  ],
+  "stem": "A 45-year-old man is being evaluated for a painful right chest wall mass emanating from the ribs. Workup suggests that this is a primary lesion of the chest wall. What is the most common primary malignant chest wall neoplasm in an adult?",
+  "options": {
+   "A": "Osteosarcoma",
+   "B": "Soft tissue sarcoma",
+   "C": "Ewing sarcoma",
+   "D": "Chondrosarcoma",
+   "E": "Plasmacytoma"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Chondrosarcoma is the most common primary malignant tumour of the chest wall in adults, usually arising from the costochondral arches or ribs anteriorly, and is treated by wide resection.",
+  "key_note": "The source key marked B (Soft tissue sarcoma); for a primary malignant lesion arising from the ribs, the standard answer is D: chondrosarcoma.",
+  "figure": "",
+  "qid": "35X-24"
+ },
+ {
+  "cids": [
+   "C1039"
+  ],
+  "stem": "A 46-year-old woman with a history of previously treated breast cancer presents with pain over her left fourth and fifth ribs posteriorly. CT scan reveals a mass in the posterior paravertebral chest wall. What is the most common radiation induced chest wall tumor?",
+  "options": {
+   "A": "Primitive neuroectodermal tumor",
+   "B": "Malignant fibrous histiocytoma",
+   "C": "Osteochondroma",
+   "D": "Chondroma",
+   "E": "Osteosarcoma"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Osteochondroma is the tumour most often induced by prior chest wall irradiation (classically after childhood radiotherapy). Among malignant radiation-induced chest wall tumours, malignant fibrous histiocytoma (undifferentiated pleomorphic sarcoma) and osteosarcoma are the commonest.",
+  "key_note": "The question is imperfect: the source key's C (Osteochondroma) is kept, but if 'malignant' tumour were meant, B (Malignant fibrous histiocytoma) would be the answer.",
+  "figure": "",
+  "qid": "35X-25"
+ },
+ {
+  "cids": [
+   "C1330"
+  ],
+  "stem": "A 60 year male present to the surgical OPD with history of a chronic discharging sinus over the right side of his chest. A CT scan of the chest revealed expansion and destruction of the 8th rib consistent with osteomyelitis. What is the most common cause of osteomyelitis of the rib?",
+  "options": {
+   "A": "Staphylococcus aureus",
+   "B": "Streptococcus pneumonia",
+   "C": "Klebsiella pneumonia",
+   "D": "Pseudomonas aeruginosa",
+   "E": "Neisseria gonorrhea"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Staphylococcus aureus is the commonest organism in osteomyelitis at all sites, including the ribs; tuberculosis must also be considered in rib lesions with chronic sinuses in Pakistan.",
+  "key_note": "",
+  "figure": "",
+  "qid": "35X-26"
+ },
+ {
+  "cids": [
+   "C1331"
+  ],
+  "stem": "30 year male presented with chest wall abscess and necrotic patch on it. What is the management?",
+  "options": {
+   "A": "Incision and drainage",
+   "B": "Debridement",
+   "C": "IV antibiotics",
+   "D": "I&D with Debridement",
+   "E": "Dressings only"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "An abscess with overlying necrotic skin needs incision and drainage plus debridement of the dead tissue; antibiotics alone cannot penetrate an abscess cavity.",
+  "key_note": "",
+  "figure": "",
+  "qid": "35X-27"
+ },
+ {
+  "cids": [
+   "C1332"
+  ],
+  "stem": "A 52 years male presented to the OPD with history of a painful swelling over the left side of his chest. He gives of high grade fever associated with the swelling. On examination there is a 4cm x 4cm tender erythematous fluctuant swelling. What will NOT happen if chest wall abscess is not drained?",
+  "options": {
+   "A": "Cancer development",
+   "B": "Antibioma",
+   "C": "Sinus tract",
+   "D": "Gangrene",
+   "E": "Rupture"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "An undrained abscess may rupture spontaneously, form a chronic sinus, cause local gangrene or, if treated with antibiotics alone, become an antibioma; it does not turn into cancer.",
+  "key_note": "",
+  "figure": "",
+  "qid": "35X-28"
+ },
+ {
+  "cids": [
+   "C1333"
+  ],
+  "stem": "A 52-year-old man has a 4 cm x 4 cm tender, erythematous, fluctuant swelling over the left side of his chest with high-grade fever, consistent with a chest wall abscess. He refuses treatment, and you counsel him about complications. Which of the following is a possible complication of chest wall infection?",
+  "options": {
+   "A": "Sepsis",
+   "B": "Empyema",
+   "C": "Pneumonia",
+   "D": "All of the above",
+   "E": "None of the above"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "An untreated chest wall infection may spread systemically (sepsis) or extend through the chest wall into the pleura and lung, causing empyema and pneumonia.",
+  "key_note": "",
+  "figure": "",
+  "qid": "35X-29"
+ },
+ {
+  "cids": [
+   "C1033"
+  ],
+  "stem": "Approximately 2 weeks after placement of a tracheostomy tube, copious bleeding from within and around the tracheostomy tube develops in a 65-year-old man. Which of the following choices is the best management for this problem?",
+  "options": {
+   "A": "Removal of the tracheostomy tube at the bedside",
+   "B": "Right posterolateral thoracotomy to access trachea and innominate artery",
+   "C": "Tracheal stent placement",
+   "D": "Resection of the innominate artery",
+   "E": "Arterial wall repair of the innominate artery"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Massive bleeding about 2 weeks after tracheostomy suggests a tracheo-innominate artery fistula. After temporary control (cuff overinflation or digital compression) in theatre, the definitive treatment is median sternotomy with ligation and resection of the innominate artery; repair in an infected field fails, and bedside tube removal can be fatal.",
+  "key_note": "The source key marked A (Removal of the tracheostomy tube at the bedside); correct is D: removing the tube outside theatre loses control of the airway and bleeding.",
+  "figure": "",
+  "qid": "35X-30"
+ },
+ {
+  "ncids": [
+   "K0607"
+  ],
+  "stem": "Regarding the anatomical differences between the lungs, which of the following is true?",
+  "options": {
+   "A": "The right lung is divided into two lobes by a single oblique fissure",
+   "B": "The right main bronchus is shorter, wider and more vertical",
+   "C": "The left lung is divided into three lobes by oblique and horizontal fissures",
+   "D": "The left main bronchus is shorter, wider and more vertical",
+   "E": "The right lung has a cardiac notch for the heart"
+  },
+  "answer": "B",
+  "explanation": "The right main bronchus is shorter, wider and more vertical, so aspirated foreign bodies usually enter it. The right lung has three lobes (oblique and horizontal fissures) and the left lung has two lobes and the cardiac notch.",
+  "key_note": "",
+  "_new": true,
+  "qid": "35X-N1"
+ },
+ {
+  "ncids": [
+   "K0608"
+  ],
+  "stem": "A 30-year-old man who has smoked for 10 years presents to the emergency department with sudden right-sided chest pain worse on deep breathing and shortness of breath for 6 hours. He has no known lung disease. He is tachycardic with oxygen saturation of 85% on room air, absent breath sounds and a hyper-resonant percussion note on the right. What is the most likely diagnosis?",
+  "options": {
+   "A": "Secondary pneumothorax",
+   "B": "Open pneumothorax",
+   "C": "Primary spontaneous pneumothorax",
+   "D": "Acute exacerbation of asthma",
+   "E": "Subcutaneous emphysema"
+  },
+  "answer": "C",
+  "explanation": "A spontaneous pneumothorax in a young person without underlying lung disease is primary, usually from rupture of apical blebs; smoking is a major risk factor. Secondary pneumothorax implies underlying lung disease such as COPD, and open pneumothorax requires a chest wall wound.",
+  "key_note": "",
+  "_new": true,
+  "qid": "35X-N2"
+ },
+ {
+  "ncids": [
+   "K0609"
+  ],
+  "stem": "A 56-year-old man with known pleural tuberculosis presents with shortness of breath. Chest X-ray shows a massive right-sided pleural effusion with a collapsed right lung. What is the management?",
+  "options": {
+   "A": "Needle thoracostomy",
+   "B": "Right-sided chest drain with underwater seal",
+   "C": "Median sternotomy",
+   "D": "Open thoracotomy",
+   "E": "Video-assisted thoracoscopic surgery (VATS)"
+  },
+  "answer": "B",
+  "explanation": "A massive symptomatic effusion causing lung collapse is drained with an intercostal tube connected to an underwater seal, alongside antituberculous treatment. Needle thoracostomy is for tension pneumothorax, and VATS or thoracotomy are reserved for loculated or organised collections.",
+  "key_note": "",
+  "_new": true,
+  "qid": "35X-N3"
+ },
+ {
+  "ncids": [
+   "K0611"
+  ],
+  "stem": "A 15-year-old boy is brought to the OPD by his parents with a gradually worsening deformity of the anterior chest wall first noticed 2 years ago. On examination he has a pigeon-like anterior chest with no other symptoms. What is this condition called?",
+  "options": {
+   "A": "Kyphoscoliosis",
+   "B": "Pectus excavatum",
+   "C": "Costochondritis",
+   "D": "Pectus carinatum",
+   "E": "Thoracic intervertebral disc prolapse"
+  },
+  "answer": "D",
+  "explanation": "Pectus carinatum (pigeon chest) is anterior protrusion of the sternum and costal cartilages, often becoming obvious during the adolescent growth spurt. Pectus excavatum (funnel chest) is the opposite, a depressed sternum.",
+  "key_note": "",
+  "_new": true,
+  "qid": "35X-N4"
+ },
+ {
+  "ncids": [
+   "K0734"
+  ],
+  "stem": "Pain in the arm due to a cervical rib is caused by:",
+  "options": {
+   "A": "Compression of the T1 root",
+   "B": "Compression of the C7 root",
+   "C": "Muscle ischaemia",
+   "D": "Compression of the lower trunk of the brachial plexus",
+   "E": "All of the above"
+  },
+  "answer": "C",
+  "explanation": "Arm pain on use with a cervical rib is classically ischaemic (claudication-type) pain from subclavian artery compression; neural compression of the lower trunk (C8, T1) causes paraesthesia and small muscle wasting rather than pain. C7 is not involved, so 'all of the above' cannot be correct.",
+  "key_note": "Bank highlighted E but printed C in bold; correct is C because C7 root compression is not a feature of cervical rib, making 'all of the above' wrong.",
+  "_new": true,
+  "qid": "35X-N5"
+ },
+ {
+  "ncids": [
+   "K0821"
+  ],
+  "stem": "Immediately following a bout of pneumonia, a young woman develops a large pleural effusion. A chest tube is inserted and 600 ml of thin pus is obtained. A CT scan shows incomplete drainage and multiple intrapleural loculations. Management of this empyema requires:",
+  "options": {
+   "A": "Insertion of multiple chest tubes under CT guidance to drain most or all loculations",
+   "B": "Antibiotics and continued single chest tube drainage",
+   "C": "Antibiotics and single chest tube drainage, waiting for a thick peel to develop before open decortication",
+   "D": "Thoracoscopy (VATS) with intrapleural toilet, breaking down the loculations and placing drains",
+   "E": "Immediate open total lung decortication"
+  },
+  "answer": "D",
+  "explanation": "A multiloculated (fibrinopurulent stage) empyema that a single tube has failed to drain needs VATS debridement to break down loculations and allow full lung re-expansion. Continuing a single tube leaves undrained pus, and open decortication is reserved for the organised stage with a thick peel.",
+  "key_note": "Bank marked B; correct is D because a loculated empyema not drained by one tube needs thoracoscopic breakdown of loculations.",
+  "_new": true,
+  "qid": "35X-N6"
+ },
+ {
+  "ncids": [
+   "K1019"
+  ],
+  "stem": "A 45-year-old man presents to the emergency department with severe chest pain and shortness of breath, and is diagnosed with a tension pneumothorax. Which of the following statements regarding tension pneumothorax is untrue?",
+  "options": {
+   "A": "Chest tube insertion is the definitive treatment",
+   "B": "Distended neck veins are a classical feature",
+   "C": "Endotracheal intubation is the first step in treatment",
+   "D": "Needle decompression is performed before chest tube insertion",
+   "E": "The mediastinum shifts towards the opposite side"
+  },
+  "answer": "C",
+  "explanation": "Tension pneumothorax is treated by immediate decompression (needle or finger thoracostomy) followed by a chest drain; intubation and positive pressure ventilation without decompression will worsen it. Distended neck veins and contralateral mediastinal shift are classic signs.",
+  "key_note": "",
+  "_new": true,
+  "qid": "35X-N7"
+ },
+ {
+  "ncids": [
+   "K1293"
+  ],
+  "stem": "Five days after admission to a medical ward with right-sided pneumonia, a 46-year-old develops severe right-sided chest pain, shortness of breath and a swinging pyrexia. There is poor air entry, and chest X-ray confirms a right-sided fluid collection. In the early management of this empyema, which is the most successful option?",
+  "options": {
+   "A": "Parenteral antibiotics alone",
+   "B": "Repeated aspiration of the chest and antibiotics",
+   "C": "Insertion of a dependent chest tube, antibiotics and physiotherapy",
+   "D": "Insertion of a dependent chest tube and antibiotics",
+   "E": "Insertion of a chest tube through the bed of a resected rib"
+  },
+  "answer": "C",
+  "explanation": "Early (exudative) empyema is managed by dependent intercostal tube drainage, appropriate antibiotics and chest physiotherapy to re-expand the lung. Rib resection drainage is for chronic, organised empyema.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "35X-N8"
+ },
+ {
+  "ncids": [
+   "K1400"
+  ],
+  "stem": "The clinical presentation of a mediastinal mass lesion may include:",
+  "options": {
+   "A": "SVC obstruction and facial suffusion",
+   "B": "Dry cough",
+   "C": "Hoarseness of voice",
+   "D": "Elevated hemidiaphragm",
+   "E": "All of the above"
+  },
+  "answer": "E",
+  "explanation": "Mediastinal masses produce symptoms by compressing or invading adjacent structures: SVC (facial suffusion), airways (cough), recurrent laryngeal nerve (hoarseness) and phrenic nerve (raised hemidiaphragm).",
+  "key_note": "",
+  "_new": true,
+  "qid": "35X-N9"
+ }
+]

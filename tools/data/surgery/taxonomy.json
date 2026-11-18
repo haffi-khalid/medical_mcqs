@@ -1,0 +1,309 @@
+{
+ "sections": [
+  {
+   "code": "S1",
+   "title": "Orthopaedic Surgery",
+   "chapters": [
+    [
+     "1",
+     "General principles of orthopaedic surgery"
+    ],
+    [
+     "2",
+     "Fractures of upper limb"
+    ],
+    [
+     "3",
+     "Fractures of lower limb"
+    ],
+    [
+     "4",
+     "Paediatric orthopaedics"
+    ],
+    [
+     "5",
+     "Bone tumours"
+    ],
+    [
+     "6",
+     "Bone and joint infections"
+    ],
+    [
+     "7",
+     "Sports injuries"
+    ],
+    [
+     "8",
+     "Peripheral nerve injuries"
+    ],
+    [
+     "9",
+     "Degenerative diseases of the musculoskeletal system"
+    ]
+   ]
+  },
+  {
+   "code": "S2",
+   "title": "Upper GIT",
+   "chapters": [
+    [
+     "10",
+     "The oesophagus"
+    ],
+    [
+     "11",
+     "Stomach and duodenum"
+    ],
+    [
+     "12",
+     "Liver"
+    ],
+    [
+     "13",
+     "Spleen"
+    ],
+    [
+     "14",
+     "Hepatobiliary system"
+    ],
+    [
+     "15",
+     "Pancreas"
+    ],
+    [
+     "16",
+     "Peritoneum, mesentery and retroperitoneal space"
+    ]
+   ]
+  },
+  {
+   "code": "S3",
+   "title": "Lower GIT",
+   "chapters": [
+    [
+     "17",
+     "Small and large intestine"
+    ],
+    [
+     "18",
+     "Intestinal obstruction"
+    ],
+    [
+     "19",
+     "Vermiform appendix"
+    ],
+    [
+     "20",
+     "Rectum and anal canal"
+    ],
+    [
+     "21",
+     "Hernia, umbilicus and abdominal wall"
+    ]
+   ]
+  },
+  {
+   "code": "S4",
+   "title": "Urology",
+   "chapters": [
+    [
+     "22",
+     "Kidney and ureter"
+    ],
+    [
+     "23",
+     "Urinary bladder"
+    ],
+    [
+     "24",
+     "Prostate and seminal vesicles"
+    ],
+    [
+     "25",
+     "Urethra and penis"
+    ],
+    [
+     "26",
+     "Testes and scrotum"
+    ]
+   ]
+  },
+  {
+   "code": "S5",
+   "title": "Endocrine Surgery",
+   "chapters": [
+    [
+     "27",
+     "Thyroid gland"
+    ],
+    [
+     "28",
+     "Parathyroid"
+    ],
+    [
+     "29",
+     "Adrenal gland"
+    ],
+    [
+     "30",
+     "Pituitary gland"
+    ],
+    [
+     "31",
+     "Pancreatic endocrine tumours (PETs)"
+    ]
+   ]
+  },
+  {
+   "code": "S6",
+   "title": "Thorax & Cardiac Surgery",
+   "chapters": [
+    [
+     "32",
+     "Bronchogenic carcinoma"
+    ],
+    [
+     "33",
+     "Cardiac surgery"
+    ],
+    [
+     "34",
+     "Valvular heart diseases"
+    ],
+    [
+     "35",
+     "Congenital heart diseases"
+    ],
+    [
+     "35X",
+     "Other thoracic: mediastinum, pleura, chest wall, lung (non-cancer)"
+    ]
+   ]
+  },
+  {
+   "code": "S7",
+   "title": "Breast Surgery",
+   "chapters": [
+    [
+     "B",
+     "Breast"
+    ]
+   ]
+  },
+  {
+   "code": "S8",
+   "title": "Neurosurgery",
+   "chapters": [
+    [
+     "36",
+     "Head injuries"
+    ],
+    [
+     "37",
+     "Diseases of the vertebra and spinal cord"
+    ],
+    [
+     "37X",
+     "Other neurosurgery (brain tumours, hydrocephalus, etc.)"
+    ]
+   ]
+  },
+  {
+   "code": "S9",
+   "title": "Head and Neck",
+   "chapters": [
+    [
+     "38",
+     "Salivary glands"
+    ],
+    [
+     "39",
+     "Tumours of the oral cavity"
+    ],
+    [
+     "40",
+     "Neck swellings"
+    ],
+    [
+     "41",
+     "Cleft lip & palate"
+    ],
+    [
+     "42",
+     "Maxillofacial injuries"
+    ],
+    [
+     "43",
+     "Neck trauma"
+    ],
+    [
+     "44",
+     "Dental surgery"
+    ]
+   ]
+  },
+  {
+   "code": "S10",
+   "title": "General Surgery & Other Topics (not in your contents list)",
+   "chapters": [
+    [
+     "G1",
+     "Trauma & ATLS (primary survey, chest & abdominal trauma, FAST)"
+    ],
+    [
+     "G2",
+     "Burns"
+    ],
+    [
+     "G3",
+     "Shock, fluids, electrolytes, acid-base & blood transfusion"
+    ],
+    [
+     "G4",
+     "Metabolic response to trauma & surgical nutrition"
+    ],
+    [
+     "G5",
+     "Wounds, wound healing, scars, skin grafts & flaps"
+    ],
+    [
+     "G6",
+     "Skin & soft-tissue lesions: ulcers, cysts, lipoma, skin cancers"
+    ],
+    [
+     "G7",
+     "Surgical infections, antibiotics & sterilisation"
+    ],
+    [
+     "G8",
+     "Arterial disorders & amputation"
+    ],
+    [
+     "G9",
+     "Venous & lymphatic disorders (varicose veins, DVT, lymphoedema)"
+    ],
+    [
+     "G10",
+     "Anaesthesia, CPR & perioperative care"
+    ],
+    [
+     "G11",
+     "Minimal access surgery, endoscopy, imaging & surgical technology"
+    ],
+    [
+     "G12",
+     "Principles of surgical oncology & other"
+    ],
+    [
+     "G13",
+     "Paediatric surgery (non-orthopaedic)"
+    ],
+    [
+     "G14",
+     "Miscellaneous"
+    ]
+   ]
+  }
+ ],
+ "notes": "Hernia questions -> 21. GI bleeding -> organ of origin. Acute abdomen/perforation -> organ. Abdominal trauma organ injury (splenic rupture etc.) -> G1 Trauma unless it's about organ disease. Chest trauma -> G1. Head injury -> 36. Neck trauma -> 43. Maxillofacial trauma -> 42. Fractures -> ortho chapters. Urological trauma -> relevant urology chapter. Thyroid -> 27. Pancreatitis -> 15. Gallbladder/bile duct/jaundice -> 14. Liver abscess/hydatid -> 12. Portal hypertension -> 12. Mesenteric ischaemia -> 17. Volvulus/intussusception/obstruction -> 18. Hirschsprung/pyloric stenosis/paediatric GI -> G13 unless clearly one organ chapter (pyloric stenosis -> 11). Carpal tunnel / nerve palsy -> 8. Parotid -> 38. Thyroglossal/branchial cyst/cervical lymph nodes -> 40. Skin melanoma/BCC/SCC -> G6. Lip/tongue cancer -> 39."
+}

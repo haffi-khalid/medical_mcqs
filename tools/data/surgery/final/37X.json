@@ -1,0 +1,280 @@
+[
+ {
+  "cids": [
+   "C0290"
+  ],
+  "stem": "A 40-year-old man presents to the neuro-emergency department with headache, drowsiness, diplopia and blurred vision. He also has nausea and has vomited twice. What is the most probable diagnosis?",
+  "options": {
+   "A": "Brain abscess",
+   "B": "Intracranial infection",
+   "C": "Raised intracranial pressure",
+   "D": "Subdural empyema",
+   "E": "Ventricular obstruction"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Headache, vomiting, drowsiness, blurred vision (papilloedema) and diplopia (false localising sixth nerve palsy) are the features of raised ICP. There is no fever to suggest abscess or empyema.",
+  "key_note": "Not marked in the source paper; answer by reviewer, which agrees with the compiled answer book.",
+  "figure": "",
+  "qid": "37X-1"
+ },
+ {
+  "cids": [
+   "C0384"
+  ],
+  "stem": "A 45-year-old man presents to the OPD with 20 days of severe headache, repeated vomiting, fits and weakness of the right side of the body. What is your diagnosis?",
+  "options": {
+   "A": "Encephalitis",
+   "B": "Haematoma",
+   "C": "Left cerebral brain tumour",
+   "D": "Meningitis",
+   "E": "Right cerebral brain tumour"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A subacute history of raised ICP symptoms with seizures and a progressive focal deficit suggests a space-occupying lesion; right-sided weakness localises it to the left cerebral hemisphere because the corticospinal tract crosses.",
+  "key_note": "",
+  "figure": "",
+  "qid": "37X-2"
+ },
+ {
+  "cids": [
+   "C0804"
+  ],
+  "stem": "A 1-year-old child presents with a progressively enlarging head and delayed milestones. Head circumference is markedly above normal for age and sex, and CT brain shows dilated ventricles. What is the most likely diagnosis?",
+  "options": {
+   "A": "Arnold-Chiari malformation",
+   "B": "Dandy-Walker malformation",
+   "C": "Hydrocephalus",
+   "D": "Meningitis",
+   "E": "Subdural haematoma"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Progressive macrocephaly with ventriculomegaly on CT is hydrocephalus. Chiari and Dandy-Walker malformations are causes of hydrocephalus with specific posterior fossa findings, which are not described.",
+  "key_note": "",
+  "figure": "",
+  "qid": "37X-3"
+ },
+ {
+  "cids": [
+   "C1145"
+  ],
+  "stem": "A patient with hydrocephalus has a ventriculoperitoneal (VP) shunt inserted. Several months later he presents with symptoms of shunt failure. The most likely cause is:",
+  "options": {
+   "A": "Over-drainage",
+   "B": "Shunt blockage",
+   "C": "Shunt infection",
+   "D": "Shunt malfunction",
+   "E": "Under-drainage"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Mechanical obstruction, most often of the proximal (ventricular) catheter by choroid plexus or debris, is the commonest cause of VP shunt failure. Infection usually presents within the first few months after insertion. 'Malfunction' is just a restatement of failure.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "37X-4"
+ },
+ {
+  "cids": [
+   "C1146"
+  ],
+  "stem": "A patient with known normal pressure hydrocephalus (NPH) presents with gait disturbance, dementia and urinary incontinence. The most appropriate management is:",
+  "options": {
+   "A": "Endoscopic third ventriculostomy (ETV)",
+   "B": "Physical therapy",
+   "C": "Medications for dementia",
+   "D": "Serial lumbar punctures",
+   "E": "VP shunt placement"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "NPH is a communicating hydrocephalus, treated with CSF diversion by a ventriculoperitoneal shunt, ideally in patients who improve after a tap test. ETV works for obstructive hydrocephalus, and serial lumbar punctures are only diagnostic or temporising.",
+  "key_note": "Not marked in the source paper; answer by reviewer. The source said a 3-year-old boy, which is an error: NPH is a disease of the elderly.",
+  "figure": "",
+  "qid": "37X-5"
+ },
+ {
+  "cids": [
+   "C1147"
+  ],
+  "stem": "A 25-year-old presents with fever, headache and neck stiffness. CSF shows raised protein, low glucose and neutrophils. What is the most likely diagnosis?",
+  "options": {
+   "A": "Bacterial meningitis",
+   "B": "Encephalitis",
+   "C": "Fungal meningitis",
+   "D": "Tuberculous meningitis",
+   "E": "Viral meningitis"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Neutrophil-predominant CSF with low glucose and high protein is bacterial meningitis. TB and fungal meningitis give a lymphocytic CSF with low glucose, and viral meningitis a lymphocytic CSF with normal glucose.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "37X-6"
+ },
+ {
+  "cids": [
+   "C0387"
+  ],
+  "stem": "A 2-month-old infant presents to the ER with a skin rash for 10 days followed by dizziness and fits for 1 day. Neurological examination shows signs of meningeal irritation. What is the most likely diagnosis?",
+  "options": {
+   "A": "Cerebral infarction",
+   "B": "Encephalitis",
+   "C": "Intracerebral bleed",
+   "D": "Meningitis",
+   "E": "Metabolic/toxic encephalopathy"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Fits with signs of meningeal irritation (neck stiffness, bulging fontanelle) in an infant with a preceding rash point to meningitis. Encephalitis causes altered consciousness and seizures without prominent meningism.",
+  "key_note": "",
+  "figure": "",
+  "qid": "37X-7"
+ },
+ {
+  "cids": [
+   "C1291"
+  ],
+  "stem": "A 40-year-old hypertensive woman develops a sudden severe headache, confusion and right-sided weakness. CT angiography shows irregularity of the left middle cerebral artery. What is the most likely diagnosis?",
+  "options": {
+   "A": "Atherosclerotic cerebral vasculopathy",
+   "B": "Moyamoya disease",
+   "C": "Intracranial aneurysm",
+   "D": "Vasculitis",
+   "E": "Arteriovenous malformation"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Sudden-onset severe (thunderclap) headache with a focal deficit is subarachnoid or intracerebral haemorrhage from a ruptured MCA aneurysm until proven otherwise, and hypertension is a risk factor. Vasculitis usually causes a subacute, progressive picture.",
+  "key_note": "Ambiguous question: the paper key marked C, while the compiled answer book gave D (Vasculitis) because 'irregularity' suggests beading; C is kept because the thunderclap onset is the key clue.",
+  "figure": "",
+  "qid": "37X-8"
+ },
+ {
+  "ncids": [
+   "K0503"
+  ],
+  "stem": "Which of the following conditions is commonly managed by surgical intervention?",
+  "options": {
+   "A": "Pituitary prolactinoma",
+   "B": "Multiple cerebral metastases",
+   "C": "Trigeminal neuralgia",
+   "D": "Myelomeningocele",
+   "E": "Arachnoid cyst"
+  },
+  "answer": "D",
+  "explanation": "Open myelomeningocele is closed surgically within 48 hours of birth to prevent infection. Prolactinomas respond to dopamine agonists, multiple metastases receive radiotherapy, trigeminal neuralgia is treated first with carbamazepine, and most arachnoid cysts are observed.",
+  "key_note": "",
+  "_new": true,
+  "qid": "37X-N1"
+ },
+ {
+  "ncids": [
+   "K0504"
+  ],
+  "stem": "Which of the following is a common complication of cranial neurosurgery?",
+  "options": {
+   "A": "Brain abscess",
+   "B": "Meningitis",
+   "C": "Haematoma",
+   "D": "Subdural empyema",
+   "E": "Tuberculous abscess"
+  },
+  "answer": "C",
+  "explanation": "Postoperative haematoma (extradural, subdural or intracerebral) is the most common serious early complication of craniotomy and causes delayed deterioration. Infective complications are much less frequent.",
+  "key_note": "",
+  "_new": true,
+  "qid": "37X-N2"
+ },
+ {
+  "ncids": [
+   "K0940"
+  ],
+  "stem": "Pott's puffy tumour is:",
+  "options": {
+   "A": "An infected sebaceous cyst of the scalp",
+   "B": "A subperiosteal abscess with osteomyelitis of the skull",
+   "C": "Tuberculosis of the brain",
+   "D": "A sebaceous horn",
+   "E": "A lipoma"
+  },
+  "answer": "B",
+  "explanation": "Pott's puffy tumour is a forehead swelling from a subperiosteal abscess with frontal bone osteomyelitis, usually complicating frontal sinusitis. It is not a neoplasm.",
+  "key_note": "",
+  "_new": true,
+  "qid": "37X-N3"
+ },
+ {
+  "ncids": [
+   "K1117"
+  ],
+  "stem": "Which of the following is the most important clinical sign of hydrocephalus in a 2-month-old baby?",
+  "options": {
+   "A": "Dilated pupils",
+   "B": "Facial nerve palsy",
+   "C": "Hemiplegia",
+   "D": "Sunset sign",
+   "E": "Normal fontanelle"
+  },
+  "answer": "D",
+  "explanation": "Raised pressure in infant hydrocephalus causes a rapidly enlarging head, a tense bulging fontanelle, separated sutures and the sunset sign (downward gaze from pressure on the tectum). The fontanelle is bulging, not normal.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "37X-N4"
+ },
+ {
+  "ncids": [
+   "K1118"
+  ],
+  "stem": "A 30-year-old man presents with sudden severe headache, neck stiffness, vomiting and fever. The emergency doctor advises a lumbar puncture. What is the most important precaution before the procedure?",
+  "options": {
+   "A": "Complete blood count",
+   "B": "Fundoscopy and CT scan",
+   "C": "Catheterise the patient",
+   "D": "Position the patient in the left lateral position",
+   "E": "X-ray skull"
+  },
+  "answer": "B",
+  "explanation": "Lumbar puncture in the presence of raised intracranial pressure or a mass lesion can precipitate tonsillar herniation, so papilloedema and a space-occupying lesion must first be excluded with fundoscopy and CT.",
+  "key_note": "",
+  "_new": true,
+  "qid": "37X-N5"
+ },
+ {
+  "ncids": [
+   "K1119"
+  ],
+  "stem": "The most common presentation of an adult primary brain tumour is:",
+  "options": {
+   "A": "Focal neurological deficit",
+   "B": "Endocrine dysfunction",
+   "C": "Visual loss",
+   "D": "Hemiplegia",
+   "E": "Headache and seizures"
+  },
+  "answer": "E",
+  "explanation": "Headache (raised ICP) and seizures are the commonest presenting features of adult brain tumours; seizures are often the first symptom, especially in low-grade gliomas. Endocrine and visual symptoms are specific to pituitary region tumours.",
+  "key_note": "",
+  "_new": true,
+  "qid": "37X-N6"
+ },
+ {
+  "ncids": [
+   "K1135"
+  ],
+  "stem": "A 70-year-old man taking warfarin presents to the emergency department with sudden right hemiparesis. Which investigation is the most urgent and important?",
+  "options": {
+   "A": "Carotid duplex scan",
+   "B": "Echocardiogram",
+   "C": "CT brain",
+   "D": "Nerve conduction studies",
+   "E": "Electrocardiography"
+  },
+  "answer": "C",
+  "explanation": "Urgent non-contrast CT brain distinguishes intracranial haemorrhage, a major risk in an anticoagulated patient needing warfarin reversal, from ischaemic stroke. Carotid duplex, ECG and echo are later work-up for the cause.",
+  "key_note": "",
+  "_new": true,
+  "qid": "37X-N7"
+ }
+]

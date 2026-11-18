@@ -1,0 +1,1411 @@
+[
+ {
+  "cids": [
+   "C0983"
+  ],
+  "stem": "Cells responsible for humoral immune response are",
+  "options": {
+   "A": "T Lymphocytes",
+   "B": "Neutrophils",
+   "C": "B Lymphocytes",
+   "D": "Mast Cells"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "B lymphocytes mediate humoral immunity: on antigen contact they mature into plasma cells that secrete antibody. T lymphocytes mediate cell-mediated immunity.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "G14-1"
+ },
+ {
+  "cids": [
+   "C0868"
+  ],
+  "stem": "A 64-year-old man underwent a transplant which was complicated by a graft-versus-host reaction. Which of the following did he most likely receive?",
+  "options": {
+   "A": "Kidney",
+   "B": "Skin",
+   "C": "Bone marrow",
+   "D": "Cornea",
+   "E": "Liver"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Graft-versus-host disease occurs when immunocompetent donor T cells attack an immunosuppressed host, so it is classically a complication of bone marrow (haematopoietic stem cell) transplantation; it is rare after solid organ grafts.",
+  "key_note": "Stem partly cut off at the page edge in the source; meaning is clear.",
+  "figure": "",
+  "qid": "G14-2"
+ },
+ {
+  "cids": [
+   "C1471"
+  ],
+  "stem": "A patient with chronic renal failure underwent a kidney transplant. Six months later he had almost no urine output. His symptoms may be attributed to graft rejection due to which reaction?",
+  "options": {
+   "A": "ABO incompatibility",
+   "B": "Antibodies against graft",
+   "C": "HLA antigen",
+   "D": "T cell dependent",
+   "E": "Non immune pathogens"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Loss of graft function in the first months after transplantation is typically acute rejection, which is a T cell dependent (cell-mediated) response to donor HLA antigens. Hyperacute rejection from preformed antibodies (including ABO incompatibility) occurs within minutes to hours, not at 6 months.",
+  "key_note": "Paper key marked B (antibodies against graft); correct is D: acute rejection in the first 6 months is predominantly T cell mediated, antibody-mediated rejection being hyperacute or chronic.",
+  "figure": "",
+  "qid": "G14-3"
+ },
+ {
+  "cids": [
+   "C1472"
+  ],
+  "stem": "While doing a transplant the doctor must counsel about the complications and long-term risks. What is a common long-term risk in recipient after receiving an organ?",
+  "options": {
+   "A": "Amyloidosis",
+   "B": "Brain death",
+   "C": "DVT",
+   "D": "Malignancy",
+   "E": "Vasculitis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Long-term immunosuppression impairs immune surveillance, so transplant recipients have a markedly increased risk of malignancy, especially non-melanoma skin cancer and post-transplant lymphoproliferative disorder.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G14-4"
+ },
+ {
+  "cids": [
+   "C1513"
+  ],
+  "stem": "A 60 years old male non-compliant diabetic is admitted for management of a diabetic foot. There is considerable tissue loss and active infection with purulent discharge. After examination and radiology a decision is made for a below knee amputation. Despite detailed counseling the patient is not willing for amputation. What is the next step?",
+  "options": {
+   "A": "Discuss with family and proceed with the surgery",
+   "B": "Proceed with the surgery to save from further spread of infection",
+   "C": "Do not proceed with the surgery",
+   "D": "Get the patient's mental competence evaluated for possibility of a proxy consent",
+   "E": "Treat the patient with IV antibiotics"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A competent adult who has been properly counselled has the right to refuse treatment, even life- or limb-saving treatment; capacity is presumed and an unwise decision alone does not prove incapacity. Proceeding against his wishes or relying on family consent is assault; formal capacity assessment is only needed if there is a genuine reason to doubt it.",
+  "key_note": "Paper key marked A (discuss with family and proceed) and the compiled key gives D (capacity evaluation for proxy consent); correct is C: a counselled, competent adult may refuse, and family cannot consent for him.",
+  "figure": "",
+  "qid": "G14-5"
+ },
+ {
+  "cids": [
+   "C0840"
+  ],
+  "stem": "New cases of a disease or condition occurring in a specified time and population is known as?",
+  "options": {
+   "A": "Incidence",
+   "B": "Prevalence",
+   "C": "Audit",
+   "D": "Research",
+   "E": "Adoption study"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Incidence is the number of new cases arising in a defined population over a defined period; prevalence is the total number of existing cases at a point or over a period.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G14-6"
+ },
+ {
+  "cids": [
+   "C0589"
+  ],
+  "stem": "Pain abdomen is one of the commonest reasons for a surgical referral. Non-surgical causes of acute abdominal pain may include which of the following?",
+  "options": {
+   "A": "Diabetic ketoacidosis",
+   "B": "Hypoglycemia",
+   "C": "Hyperthyroidism",
+   "D": "Hypothyroidism",
+   "E": "Paget's disease"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Diabetic ketoacidosis is a classic medical mimic of the acute abdomen, causing abdominal pain, vomiting and even guarding; always check glucose and ketones. Other medical causes include inferior MI, lower lobe pneumonia, sickle crisis, porphyria and hypercalcaemia.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G14-7"
+ },
+ {
+  "ncids": [
+   "K0011"
+  ],
+  "stem": "A line joining the highest points of the iliac crests passes through:",
+  "options": {
+   "A": "Lumbar vertebra 1",
+   "B": "Lumbar vertebra 2",
+   "C": "Lumbar vertebra 4",
+   "D": "Thoracic vertebra 12",
+   "E": "Sacral vertebra 1"
+  },
+  "answer": "C",
+  "explanation": "The supracristal (intercristal) line crosses the spinous process of L4 or the L4/L5 interspace, the landmark used for lumbar puncture and spinal anaesthesia.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G14-N1"
+ },
+ {
+  "ncids": [
+   "K0239"
+  ],
+  "stem": "An 80-year-old man insisted on driving a car alone despite his family telling him not to. He drove carefully but still hit another car. Which of the following was NOT a contributing risk factor in this accident?",
+  "options": {
+   "A": "Slower reaction time",
+   "B": "Larger blind spot",
+   "C": "Limited cervical mobility",
+   "D": "Driving during day time",
+   "E": "Decreased hearing"
+  },
+  "answer": "D",
+  "explanation": "Slower reactions, visual field loss, reduced neck rotation and hearing loss are age-related changes that raise accident risk in elderly drivers; daytime driving is safer, not a risk factor.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G14-N2"
+ },
+ {
+  "ncids": [
+   "K0441"
+  ],
+  "stem": "The most common bacterial sexually transmitted disease in the United States is:",
+  "options": {
+   "A": "Gonorrhoea",
+   "B": "Chlamydia",
+   "C": "Syphilis",
+   "D": "Chancroid",
+   "E": "Ureaplasma"
+  },
+  "answer": "B",
+  "explanation": "Chlamydia trachomatis is the most commonly reported bacterial STD in the USA, roughly three times more frequent than gonorrhoea.",
+  "key_note": "Bank marked A (gonorrhoea); correct is B because chlamydia is the most common reportable bacterial STD in the USA.",
+  "_new": true,
+  "qid": "G14-N3"
+ },
+ {
+  "ncids": [
+   "K0446"
+  ],
+  "stem": "A 24-year-old woman presents with a 2-day history of lower abdominal pain and foul-smelling vaginal discharge. She is tender with guarding in both the suprapubic region and the right iliac fossa. Urine dipstick shows leukocytes and protein. What is the most likely diagnosis?",
+  "options": {
+   "A": "Appendicitis",
+   "B": "Ectopic pregnancy",
+   "C": "Mittelschmerz",
+   "D": "Pelvic inflammatory disease",
+   "E": "Urinary tract infection"
+  },
+  "answer": "D",
+  "explanation": "Bilateral lower abdominal tenderness with purulent, foul-smelling vaginal discharge in a young sexually active woman points to PID; sterile pyuria on dipstick can occur with adjacent pelvic inflammation.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G14-N4"
+ },
+ {
+  "ncids": [
+   "K0651"
+  ],
+  "stem": "The following organs are part of the lymphatic system EXCEPT:",
+  "options": {
+   "A": "Spleen",
+   "B": "Liver",
+   "C": "Thymus",
+   "D": "Tonsils",
+   "E": "Bone marrow"
+  },
+  "answer": "B",
+  "explanation": "Bone marrow and thymus are primary lymphoid organs and the spleen and tonsils are secondary lymphoid organs; the liver is not part of the lymphatic system.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G14-N5"
+ },
+ {
+  "ncids": [
+   "K0716"
+  ],
+  "stem": "Active absorption of calcium occurs mainly in:",
+  "options": {
+   "A": "The body of the stomach",
+   "B": "The antrum of the stomach",
+   "C": "The duodenum",
+   "D": "The proximal jejunum"
+  },
+  "answer": "C",
+  "explanation": "Active, vitamin D (calbindin) dependent transcellular calcium absorption is maximal in the duodenum; passive paracellular absorption continues along the jejunum and ileum.",
+  "key_note": "Bank underlined D (proximal jejunum); correct is C because active calcium absorption is greatest in the duodenum.",
+  "_new": true,
+  "qid": "G14-N6"
+ },
+ {
+  "ncids": [
+   "K0825"
+  ],
+  "stem": "A 38-year-old woman presents with shortness of breath and abdominal distension. Workup reveals an ovarian tumour with ascites and right hydrothorax. What is the name of this condition?",
+  "options": {
+   "A": "Brenner tumour",
+   "B": "Dysgerminoma",
+   "C": "Wolffian duct remnant",
+   "D": "Krukenberg tumour",
+   "E": "Meigs syndrome"
+  },
+  "answer": "E",
+  "explanation": "Meigs syndrome is the triad of a benign ovarian tumour (usually fibroma), ascites and pleural effusion, which resolve after removal of the tumour.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G14-N7"
+ },
+ {
+  "ncids": [
+   "K0909"
+  ],
+  "stem": "Which of the following is the site of absorption of vitamin B12?",
+  "options": {
+   "A": "Stomach",
+   "B": "Duodenum",
+   "C": "Ileum",
+   "D": "Transverse colon",
+   "E": "Descending colon"
+  },
+  "answer": "C",
+  "explanation": "The B12 and intrinsic factor complex is absorbed by cubilin receptors in the terminal ileum, so ileal resection or Crohn disease causes B12 deficiency.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G14-N8"
+ },
+ {
+  "ncids": [
+   "K1246"
+  ],
+  "stem": "While examining a patient, the physician should observe all of the following. Mark the INCORRECT statement.",
+  "options": {
+   "A": "Do not make the patient completely naked during clinical examination",
+   "B": "Take specific permission before a socially sensitive investigation, such as a test for HIV",
+   "C": "If rectal examination is unlikely to contribute to management, do not do it",
+   "D": "If examination of a particular area causes pain, do not examine the area"
+  },
+  "answer": "D",
+  "explanation": "A painful area must still be examined, gently and last, since it often holds the diagnosis; the other statements reflect good practice on dignity, consent and avoiding unnecessary intimate examinations.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G14-N9"
+ },
+ {
+  "ncids": [
+   "K1418"
+  ],
+  "stem": "Clinical manifestations of cystic fibrosis include all of the following EXCEPT:",
+  "options": {
+   "A": "Malabsorption",
+   "B": "Obstructive lung disease",
+   "C": "Salty-tasting child (high sweat chloride)",
+   "D": "Mental retardation"
+  },
+  "answer": "D",
+  "explanation": "CF causes pancreatic insufficiency with malabsorption, obstructive lung disease and salty sweat; intellect is normal.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G14-N10"
+ },
+ {
+  "ncids": [
+   "K1519"
+  ],
+  "stem": "A patient has an arterial PO2 of 60 mmHg and haemoglobin of 15 g/dL. The type of hypoxia is:",
+  "options": {
+   "A": "Hypoxic hypoxia",
+   "B": "Anaemic hypoxia",
+   "C": "Overutilisation hypoxia",
+   "D": "Histotoxic hypoxia"
+  },
+  "answer": "A",
+  "explanation": "Low arterial PO2 with normal haemoglobin indicates hypoxic (hypoxaemic) hypoxia; anaemic hypoxia has normal PO2 with low Hb and histotoxic hypoxia has normal PO2 with impaired cellular utilisation.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G14-N11"
+ },
+ {
+  "ncids": [
+   "K1520"
+  ],
+  "stem": "Amyloidosis due to increased production of immunoglobulin light chains (AL amyloid) is classified as:",
+  "options": {
+   "A": "Primary systemic amyloidosis",
+   "B": "Reactive systemic amyloidosis",
+   "C": "Localised amyloidosis",
+   "D": "Hereditary (familial) amyloidosis"
+  },
+  "answer": "A",
+  "explanation": "AL amyloid derived from monoclonal light chains (plasma cell dyscrasia, myeloma) causes primary systemic amyloidosis; reactive systemic amyloidosis is AA amyloid from chronic inflammation.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G14-N12"
+ },
+ {
+  "ncids": [
+   "K1523"
+  ],
+  "stem": "Which of the following opioids is a mixed agonist-antagonist?",
+  "options": {
+   "A": "Pethidine",
+   "B": "Buprenorphine",
+   "C": "Pentazocine",
+   "D": "Morphine",
+   "E": "Fentanyl"
+  },
+  "answer": "C",
+  "explanation": "Pentazocine is the prototype mixed agonist-antagonist (kappa agonist, weak mu antagonist); buprenorphine is classed mainly as a partial mu agonist, while pethidine, morphine and fentanyl are full agonists.",
+  "key_note": "Bank marked B (buprenorphine) and noted pentazocine as also correct; pentazocine (C) is the prototype mixed agonist-antagonist, buprenorphine being primarily a partial agonist.",
+  "_new": true,
+  "qid": "G14-N13"
+ },
+ {
+  "ncids": [
+   "K1524"
+  ],
+  "stem": "Regarding anti-epileptic drugs, which statement is INCORRECT?",
+  "options": {
+   "A": "Diazepam enhances GABA-A mediated chloride channel opening",
+   "B": "Ethosuximide acts by blocking potassium channels",
+   "C": "Phenobarbital prolongs opening of GABA-A chloride channels",
+   "D": "Phenytoin prolongs the inactivated state of sodium channels",
+   "E": "Vigabatrin irreversibly inhibits GABA transaminase"
+  },
+  "answer": "B",
+  "explanation": "Ethosuximide blocks T-type calcium channels in thalamic neurones, which is why it is used for absence seizures; it does not act on potassium channels.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G14-N14"
+ },
+ {
+  "ncids": [
+   "K1525"
+  ],
+  "stem": "Lumbar puncture is done through which interspace?",
+  "options": {
+   "A": "L2 and L3",
+   "B": "L4 and L5",
+   "C": "S1 and S2",
+   "D": "L1 and L3",
+   "E": "S2 and S4"
+  },
+  "answer": "B",
+  "explanation": "Lumbar puncture is performed at L3/L4 or L4/L5, below the termination of the spinal cord at L1/L2 in adults, using the intercristal line as the landmark.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G14-N15"
+ },
+ {
+  "ncids": [
+   "K1527"
+  ],
+  "stem": "The most dangerous effect of diphtheria exotoxin is on which organ?",
+  "options": {
+   "A": "Heart",
+   "B": "Larynx",
+   "C": "Intestine",
+   "D": "Peripheral nerves",
+   "E": "Kidney"
+  },
+  "answer": "A",
+  "explanation": "Diphtheria toxin inhibits protein synthesis (EF-2 ADP ribosylation); myocarditis with arrhythmias and heart failure is the commonest cause of death.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G14-N16"
+ },
+ {
+  "ncids": [
+   "K1528"
+  ],
+  "stem": "Renin secretion is increased by:",
+  "options": {
+   "A": "Increased atrial stretch",
+   "B": "Increased NaCl delivery to the macula densa",
+   "C": "Increased plasma osmolarity",
+   "D": "Increased plasma potassium",
+   "E": "Sympathetic (beta-1) stimulation of juxtaglomerular cells"
+  },
+  "answer": "E",
+  "explanation": "Renin release is stimulated by reduced renal perfusion pressure, reduced NaCl at the macula densa and sympathetic beta-1 stimulation; plasma osmolarity does not directly drive renin release.",
+  "key_note": "Bank marked C (plasma osmolarity); correct is E because neurogenic (sympathetic beta-1) stimulation directly increases renin secretion, while osmolarity mainly controls ADH.",
+  "_new": true,
+  "qid": "G14-N17"
+ },
+ {
+  "ncids": [
+   "K1531"
+  ],
+  "stem": "Which of the following is NOT a neoplasm?",
+  "options": {
+   "A": "Choristoma",
+   "B": "Meningioma",
+   "C": "Lymphoma",
+   "D": "Leiomyoma"
+  },
+  "answer": "A",
+  "explanation": "A choristoma is normal tissue in an abnormal location (heterotopic rest), not a neoplasm; meningioma, lymphoma and leiomyoma are true neoplasms.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G14-N18"
+ },
+ {
+  "ncids": [
+   "K1534"
+  ],
+  "stem": "Carrier-mediated movement of glucose into most cells (for example via GLUT transporters) down its concentration gradient without energy use is known as:",
+  "options": {
+   "A": "Active transport",
+   "B": "Simple diffusion",
+   "C": "Facilitated diffusion",
+   "D": "Pinocytosis"
+  },
+  "answer": "C",
+  "explanation": "GLUT-mediated glucose entry is facilitated diffusion: passive, carrier-mediated and saturable, unlike simple diffusion whose rate is directly proportional to concentration.",
+  "key_note": "Bank marked C. As originally worded ('directly proportional to its concentration') the description fits simple diffusion, so the stem was reworded to the intended concept.",
+  "_new": true,
+  "qid": "G14-N19"
+ },
+ {
+  "ncids": [
+   "K1535"
+  ],
+  "stem": "Which nutrient needs further digestion before it can be absorbed?",
+  "options": {
+   "A": "Sucrose",
+   "B": "Tripeptides",
+   "C": "Glucose",
+   "D": "Monoglycerides"
+  },
+  "answer": "A",
+  "explanation": "Sucrose must be split by brush border sucrase into glucose and fructose; di- and tripeptides are absorbed intact via PepT1, and glucose and monoglycerides are already absorbable.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G14-N20"
+ },
+ {
+  "ncids": [
+   "K1536"
+  ],
+  "stem": "Which lipoprotein is a negative (protective) coronary risk factor?",
+  "options": {
+   "A": "HDL",
+   "B": "LDL",
+   "C": "VLDL",
+   "D": "IDL"
+  },
+  "answer": "A",
+  "explanation": "HDL mediates reverse cholesterol transport to the liver, so high HDL lowers coronary risk; LDL, VLDL and IDL are atherogenic.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G14-N21"
+ },
+ {
+  "ncids": [
+   "K1537"
+  ],
+  "stem": "Regarding the countercurrent mechanism of the kidney, which statement is correct?",
+  "options": {
+   "A": "The loop of Henle acts as the countercurrent multiplier and creates a hypertonic medullary interstitium",
+   "B": "The vasa recta act as the countercurrent multiplier",
+   "C": "The descending limb actively pumps NaCl out of the tubule",
+   "D": "The thick ascending limb is highly permeable to water"
+  },
+  "answer": "A",
+  "explanation": "The loop of Henle (NaCl pumping by the water-impermeable thick ascending limb) multiplies the medullary gradient; the vasa recta are countercurrent exchangers that maintain it.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G14-N22"
+ },
+ {
+  "ncids": [
+   "K1538"
+  ],
+  "stem": "Preganglionic autonomic nerve fibres are:",
+  "options": {
+   "A": "B fibres",
+   "B": "C fibres",
+   "C": "A alpha fibres",
+   "D": "A delta fibres"
+  },
+  "answer": "A",
+  "explanation": "Preganglionic autonomic fibres are thinly myelinated type B fibres; postganglionic autonomic fibres are unmyelinated type C fibres.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G14-N23"
+ },
+ {
+  "ncids": [
+   "K1539"
+  ],
+  "stem": "Muscle tension is reduced to prevent muscle or tendon rupture by:",
+  "options": {
+   "A": "Golgi tendon organ",
+   "B": "Muscle spindle",
+   "C": "Pacinian corpuscle",
+   "D": "Free nerve endings"
+  },
+  "answer": "A",
+  "explanation": "The Golgi tendon organ senses tension and produces autogenic (inverse stretch) inhibition, relaxing the muscle; the muscle spindle senses length and drives the stretch reflex.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G14-N24"
+ },
+ {
+  "ncids": [
+   "K1540"
+  ],
+  "stem": "Which drug irreversibly impairs platelet function?",
+  "options": {
+   "A": "Aspirin",
+   "B": "Ibuprofen",
+   "C": "Dipyridamole",
+   "D": "Heparin"
+  },
+  "answer": "A",
+  "explanation": "Aspirin irreversibly acetylates platelet COX-1, blocking thromboxane A2 for the platelet lifespan (7 to 10 days); ibuprofen inhibits COX reversibly.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G14-N25"
+ },
+ {
+  "ncids": [
+   "K1542"
+  ],
+  "stem": "A patient presents with haemoptysis and haematuria that progresses to renal failure. Renal biopsy shows linear deposition of IgG along the glomerular basement membrane. The diagnosis is:",
+  "options": {
+   "A": "Focal glomerulonephritis",
+   "B": "Rapidly progressive glomerulonephritis",
+   "C": "Goodpasture syndrome",
+   "D": "IgA nephropathy",
+   "E": "Post-streptococcal glomerulonephritis"
+  },
+  "answer": "C",
+  "explanation": "Anti-GBM antibodies against type IV collagen give linear IgG staining and pulmonary-renal syndrome; immune complex diseases show granular deposits.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G14-N26"
+ },
+ {
+  "ncids": [
+   "K1543"
+  ],
+  "stem": "A 30-year-old man has fever, malaise, splenomegaly, a cardiac murmur, splinter haemorrhages and haematuria. The most appropriate test is:",
+  "options": {
+   "A": "Blood serology",
+   "B": "Blood culture",
+   "C": "Stool culture",
+   "D": "Urine culture"
+  },
+  "answer": "B",
+  "explanation": "This is infective endocarditis; serial blood cultures (three sets before antibiotics) are the key diagnostic test, together with echocardiography.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G14-N27"
+ },
+ {
+  "ncids": [
+   "K1544"
+  ],
+  "stem": "A patient with several weeks of fever and lethargy has serum creatinine 4 mg/dL, pedal oedema and haemoglobin 6 g/dL. The most likely cause of the anaemia is:",
+  "options": {
+   "A": "Erythropoietin deficiency",
+   "B": "Acute renal failure",
+   "C": "Iron deficiency",
+   "D": "Haemolysis"
+  },
+  "answer": "A",
+  "explanation": "Anaemia of chronic kidney disease is normocytic and due mainly to reduced renal erythropoietin production.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G14-N28"
+ },
+ {
+  "ncids": [
+   "K1549"
+  ],
+  "stem": "The fibres of the ventral (anterior) corticospinal tract end at the level of the:",
+  "options": {
+   "A": "Lumbar cord",
+   "B": "Mid-thoracic cord",
+   "C": "Lower thoracic cord",
+   "D": "End of the spinal cord"
+  },
+  "answer": "B",
+  "explanation": "The uncrossed anterior corticospinal tract is small and extends only to the cervical and mid-thoracic segments, supplying axial and proximal muscles.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G14-N29"
+ },
+ {
+  "ncids": [
+   "K1550"
+  ],
+  "stem": "On standing up from the supine position, which change occurs?",
+  "options": {
+   "A": "Increase in heart rate",
+   "B": "Increase in stroke volume",
+   "C": "Increase in venous return",
+   "D": "Decrease in total peripheral resistance"
+  },
+  "answer": "A",
+  "explanation": "Venous pooling reduces venous return and stroke volume; the baroreceptor reflex then increases heart rate and peripheral resistance (cardiac output actually falls slightly).",
+  "key_note": "",
+  "_new": true,
+  "qid": "G14-N30"
+ },
+ {
+  "ncids": [
+   "K1552"
+  ],
+  "stem": "Net movement of water from capillaries into the interstitium occurs by:",
+  "options": {
+   "A": "Filtration",
+   "B": "Diffusion",
+   "C": "Co-transport with Na+",
+   "D": "Decreased hydrostatic pressure"
+  },
+  "answer": "A",
+  "explanation": "Bulk fluid movement across the capillary wall is filtration driven by Starling forces (capillary hydrostatic pressure exceeding plasma oncotic pressure at the arterial end).",
+  "key_note": "",
+  "_new": true,
+  "qid": "G14-N31"
+ },
+ {
+  "ncids": [
+   "K1554"
+  ],
+  "stem": "Mycobacterium leprae is:",
+  "options": {
+   "A": "An intracellular acid-fast bacillus",
+   "B": "An intracellular non acid-fast bacillus",
+   "C": "An extracellular acid-fast bacillus",
+   "D": "An extracellular non acid-fast bacillus"
+  },
+  "answer": "A",
+  "explanation": "M. leprae is an obligate intracellular acid-fast bacillus that lives in macrophages and Schwann cells and cannot be grown in culture media.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G14-N32"
+ },
+ {
+  "ncids": [
+   "K1555"
+  ],
+  "stem": "A child has a skin rash starting along the facial hairline, conjunctivitis, and bluish-white specks with red margins on the buccal mucosa. These buccal lesions are called:",
+  "options": {
+   "A": "Koplik spots",
+   "B": "Forchheimer spots",
+   "C": "Aphthous ulcers",
+   "D": "Fordyce spots"
+  },
+  "answer": "A",
+  "explanation": "Koplik spots are pathognomonic of measles and appear before the rash; Forchheimer spots are palatal petechiae of rubella.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G14-N33"
+ },
+ {
+  "ncids": [
+   "K1556"
+  ],
+  "stem": "Which of the following parasites is NOT transmitted by the faeco-oral route?",
+  "options": {
+   "A": "Trichinella spiralis",
+   "B": "Trichuris trichiura",
+   "C": "Ascaris lumbricoides",
+   "D": "Enterobius vermicularis"
+  },
+  "answer": "A",
+  "explanation": "Trichinella spiralis is acquired by eating undercooked pork containing encysted larvae; the other worms spread by ingestion of eggs via the faeco-oral route.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G14-N34"
+ },
+ {
+  "ncids": [
+   "K1557"
+  ],
+  "stem": "Hepatitis B is transmitted by:",
+  "options": {
+   "A": "Sexual contact",
+   "B": "Faeco-oral route",
+   "C": "Respiratory droplets",
+   "D": "Mosquito bite"
+  },
+  "answer": "A",
+  "explanation": "HBV spreads parenterally, sexually and vertically; faeco-oral spread is typical of hepatitis A and E.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G14-N35"
+ },
+ {
+  "ncids": [
+   "K1558"
+  ],
+  "stem": "Which of the following is NOT a second-line (disease-modifying) drug in rheumatoid arthritis?",
+  "options": {
+   "A": "Antibiotics",
+   "B": "Antimalarials (hydroxychloroquine)",
+   "C": "Gold salts",
+   "D": "Sulfasalazine"
+  },
+  "answer": "A",
+  "explanation": "Hydroxychloroquine, gold and sulfasalazine are classic DMARDs; antibiotics are not standard RA therapy.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G14-N36"
+ },
+ {
+  "ncids": [
+   "K1559"
+  ],
+  "stem": "Which infection is acquired from eating undercooked meat?",
+  "options": {
+   "A": "Tapeworm (Taenia)",
+   "B": "Liver fluke",
+   "C": "Hookworm",
+   "D": "Ascaris"
+  },
+  "answer": "A",
+  "explanation": "Taenia solium and T. saginata are acquired from cysticerci in undercooked pork and beef; liver flukes come from fish or watercress and hookworm penetrates skin.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G14-N37"
+ },
+ {
+  "ncids": [
+   "K1560"
+  ],
+  "stem": "Which statement about visceral (gastrointestinal) smooth muscle is correct?",
+  "options": {
+   "A": "It is arranged in longitudinal and circular layers",
+   "B": "It is striated",
+   "C": "It has a well-developed T-tubule system",
+   "D": "It is under voluntary control"
+  },
+  "answer": "A",
+  "explanation": "Gut smooth muscle forms inner circular and outer longitudinal layers, is non-striated, lacks T tubules and is under involuntary autonomic control.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G14-N38"
+ },
+ {
+  "ncids": [
+   "K1561"
+  ],
+  "stem": "A patient develops memory loss after head trauma. Which brain area is most likely involved?",
+  "options": {
+   "A": "Hippocampus",
+   "B": "Cerebellum",
+   "C": "Amygdala",
+   "D": "Basal ganglia"
+  },
+  "answer": "A",
+  "explanation": "The hippocampus (medial temporal lobe) is essential for consolidating new declarative memory and is vulnerable to trauma and hypoxia.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G14-N39"
+ },
+ {
+  "ncids": [
+   "K1562"
+  ],
+  "stem": "Somatostatin (octreotide) is used in the management of pancreatic fistula because it:",
+  "options": {
+   "A": "Inhibits activity of pancreatic enzymes within the duct",
+   "B": "Decreases pancreatic exocrine secretion",
+   "C": "Promotes epithelialisation of the fistula tract",
+   "D": "Increases splanchnic blood flow"
+  },
+  "answer": "B",
+  "explanation": "Somatostatin analogues reduce pancreatic exocrine secretion and fistula output, which may help closure; they do not inactivate enzymes already secreted.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G14-N40"
+ },
+ {
+  "ncids": [
+   "K1563"
+  ],
+  "stem": "The primary somatosensory cortex differs from the primary motor cortex in that it:",
+  "options": {
+   "A": "Has a well-developed granular layer (layer IV)",
+   "B": "Lies only on the lateral surface",
+   "C": "Has a larger homunculus",
+   "D": "Contains giant pyramidal (Betz) cells"
+  },
+  "answer": "A",
+  "explanation": "Somatosensory cortex is granular (prominent layer IV receiving thalamic input) while motor cortex is agranular with Betz cells in layer V.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G14-N41"
+ },
+ {
+  "ncids": [
+   "K1565"
+  ],
+  "stem": "Regarding the medulla oblongata, which statement is correct?",
+  "options": {
+   "A": "The fourth ventricle lies posterior to the upper (open) medulla",
+   "B": "The central canal is present in the upper medulla",
+   "C": "The pyramids lie on its posterior surface",
+   "D": "The olive lies medial to the pyramid"
+  },
+  "answer": "A",
+  "explanation": "The upper (open) medulla forms the lower part of the floor of the fourth ventricle, while the lower (closed) medulla contains the central canal; pyramids are anterior and the olive is lateral to them.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G14-N42"
+ },
+ {
+  "ncids": [
+   "K1566"
+  ],
+  "stem": "A 40-year-old man working as a taxi driver in Sharjah presents with fever, weight loss, anorexia and diarrhoea. He is emaciated with splenomegaly, jaundice and generalised lymphadenopathy. What is the diagnosis?",
+  "options": {
+   "A": "AIDS",
+   "B": "Visceral leishmaniasis",
+   "C": "Yellow fever",
+   "D": "Typhoid fever"
+  },
+  "answer": "A",
+  "explanation": "Chronic wasting, diarrhoea, fever and generalised lymphadenopathy in a migrant worker suggest HIV/AIDS; kala-azar gives massive splenomegaly but lymphadenopathy is not generalised in the usual Asian form.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G14-N43"
+ },
+ {
+  "ncids": [
+   "K1567"
+  ],
+  "stem": "The karyotype in Turner syndrome is:",
+  "options": {
+   "A": "45,XO",
+   "B": "47,XXY",
+   "C": "47,XXX",
+   "D": "46,XY"
+  },
+  "answer": "A",
+  "explanation": "Turner syndrome is monosomy X (45,XO); 47,XXY is Klinefelter syndrome.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G14-N44"
+ },
+ {
+  "ncids": [
+   "K1568"
+  ],
+  "stem": "Which of the following is NOT an AIDS-defining malignancy?",
+  "options": {
+   "A": "Squamous cell carcinoma of the skin",
+   "B": "Primary CNS lymphoma",
+   "C": "Kaposi sarcoma",
+   "D": "Invasive cervical carcinoma"
+  },
+  "answer": "A",
+  "explanation": "AIDS-defining cancers are Kaposi sarcoma, non-Hodgkin (including primary CNS) lymphoma and invasive cervical carcinoma; cutaneous SCC is more common in HIV but is not AIDS-defining.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G14-N45"
+ },
+ {
+  "ncids": [
+   "K1570"
+  ],
+  "stem": "A patient presents with gingival hypertrophy, bleeding gums, petechiae and painful sores on the lips. Which condition should investigations rule out?",
+  "options": {
+   "A": "Lymphoma",
+   "B": "Leukaemia",
+   "C": "Behcet disease",
+   "D": "Pemphigus vulgaris"
+  },
+  "answer": "B",
+  "explanation": "Gingival infiltration with bleeding and petechiae from thrombocytopenia is classic for acute leukaemia (especially monocytic AML M4/M5); a blood count and film are needed.",
+  "key_note": "Bank marked A (lymphoma); correct is B because gum hypertrophy with bleeding and petechiae is typical of acute leukaemia, not lymphoma.",
+  "_new": true,
+  "qid": "G14-N46"
+ },
+ {
+  "ncids": [
+   "K1571"
+  ],
+  "stem": "The main source of creatinine is:",
+  "options": {
+   "A": "Muscle",
+   "B": "Heart",
+   "C": "Liver",
+   "D": "Kidney"
+  },
+  "answer": "A",
+  "explanation": "Creatinine is formed at a fairly constant rate by non-enzymatic breakdown of creatine phosphate in skeletal muscle.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G14-N47"
+ },
+ {
+  "ncids": [
+   "K1572"
+  ],
+  "stem": "In a diabetic patient, the investigation of choice to detect early diabetic nephropathy is:",
+  "options": {
+   "A": "Urine albumin (albumin:creatinine ratio)",
+   "B": "Serum creatinine",
+   "C": "Creatinine clearance",
+   "D": "Renal ultrasound"
+  },
+  "answer": "A",
+  "explanation": "Microalbuminuria (ACR 3 to 30 mg/mmol) is the earliest detectable marker of diabetic nephropathy, before creatinine rises.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G14-N48"
+ },
+ {
+  "ncids": [
+   "K1574"
+  ],
+  "stem": "Regarding the embryology of the ovary and oogenesis, which statement is INCORRECT?",
+  "options": {
+   "A": "All primary oocytes enter prophase of the first meiotic division during fetal life",
+   "B": "Most oocytes undergo atresia between birth and puberty",
+   "C": "The oocyte completes the second meiotic division before ovulation",
+   "D": "The first meiotic division is completed just before ovulation"
+  },
+  "answer": "C",
+  "explanation": "Meiosis II is arrested at metaphase and completed only at fertilisation; meiosis I starts in fetal life and completes just before ovulation, and most oocytes become atretic before puberty.",
+  "key_note": "Bank marked A, a true statement; since A and B are both true as written, the question was reframed to ask for the incorrect statement (C).",
+  "_new": true,
+  "qid": "G14-N49"
+ },
+ {
+  "ncids": [
+   "K1575"
+  ],
+  "stem": "Which structure separates maternal and fetal blood in the later stages of pregnancy?",
+  "options": {
+   "A": "Cytotrophoblast",
+   "B": "Syncytiotrophoblast",
+   "C": "Cytotrophoblast and syncytiotrophoblast",
+   "D": "Syncytiotrophoblast and fetal capillary endothelium"
+  },
+  "answer": "D",
+  "explanation": "In late pregnancy the cytotrophoblast layer thins out, leaving syncytiotrophoblast and fetal capillary endothelium (with basement membranes) as the placental barrier.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G14-N50"
+ },
+ {
+  "ncids": [
+   "K1576"
+  ],
+  "stem": "The maxillary division of the trigeminal nerve does NOT supply the:",
+  "options": {
+   "A": "Maxillary sinus",
+   "B": "Lateral wall of the nasal cavity",
+   "C": "Roof of the nasopharynx",
+   "D": "Frontal sinus",
+   "E": "Upper teeth"
+  },
+  "answer": "D",
+  "explanation": "The frontal sinus is supplied by the supraorbital branch of the ophthalmic division (V1); V2 supplies the maxillary sinus, nasal cavity, nasopharynx and upper teeth.",
+  "key_note": "Bank marked 'one air sinus' (garbled options); question repaired, the air sinus not supplied by V2 is the frontal sinus.",
+  "_new": true,
+  "qid": "G14-N51"
+ },
+ {
+  "ncids": [
+   "K1577"
+  ],
+  "stem": "A woman with HIV but not AIDS, with a CD4 count of 800 cells/microlitre, develops acute suppurative otitis media. The most likely cause is:",
+  "options": {
+   "A": "Pneumocystis jirovecii",
+   "B": "Streptococcus pneumoniae",
+   "C": "Mycobacterium avium complex",
+   "D": "Pseudomonas aeruginosa",
+   "E": "Staphylococcus aureus"
+  },
+  "answer": "B",
+  "explanation": "With a near-normal CD4 count the usual community pathogens apply, and S. pneumoniae is the commonest cause of acute otitis media; Pneumocystis appears below 200 and MAC below 50 cells.",
+  "key_note": "Bank marked A (Pneumocystis); correct is B because opportunistic infections do not occur at a CD4 count of 800.",
+  "_new": true,
+  "qid": "G14-N52"
+ },
+ {
+  "ncids": [
+   "K1579"
+  ],
+  "stem": "A 19-year-old boy sitting in a well-ventilated room at 26 C is sweating profusely, with pulse 120/min and BP 150/90 mmHg. What is the most likely explanation?",
+  "options": {
+   "A": "Heat stroke",
+   "B": "Mental stress",
+   "C": "Exercise",
+   "D": "Sympatholytic drugs"
+  },
+  "answer": "C",
+  "explanation": "Recent exercise produces sympathetic tachycardia, systolic hypertension and thermoregulatory sweating; a comfortable room excludes heat stroke and sympatholytics would lower pulse and BP.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G14-N53"
+ },
+ {
+  "ncids": [
+   "K1580"
+  ],
+  "stem": "The most potent mechanism for preventing heat loss from the body is:",
+  "options": {
+   "A": "Shivering",
+   "B": "Cutaneous vasoconstriction",
+   "C": "Piloerection",
+   "D": "Increased thyroxine secretion"
+  },
+  "answer": "B",
+  "explanation": "Skin vasoconstriction reduces heat conduction to the surface and is the main heat-conserving mechanism; shivering is the most potent mechanism of heat production.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G14-N54"
+ },
+ {
+  "ncids": [
+   "K1582"
+  ],
+  "stem": "In an asthmatic patient, which spirometric value is most decreased?",
+  "options": {
+   "A": "FEV1",
+   "B": "FEV1/FVC ratio",
+   "C": "FVC",
+   "D": "Residual volume"
+  },
+  "answer": "A",
+  "explanation": "Airway obstruction reduces FEV1 much more than FVC, so FEV1 is the most reduced volume and the ratio falls below 0.7; residual volume increases from air trapping.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G14-N55"
+ },
+ {
+  "ncids": [
+   "K1583"
+  ],
+  "stem": "Central cyanosis becomes clinically apparent when:",
+  "options": {
+   "A": "Carbon monoxide poisoning is present",
+   "B": "Deoxygenated haemoglobin exceeds 5 g/dL in capillary blood",
+   "C": "Severe anaemia is present",
+   "D": "Cyanide poisoning is present"
+  },
+  "answer": "B",
+  "explanation": "Cyanosis appears when reduced haemoglobin in capillary blood exceeds about 5 g/dL; CO poisoning gives a cherry-red colour and severe anaemia makes cyanosis hard to detect.",
+  "key_note": "Bank marked 'deoxyhaemoglobin less than 5 mg/dL', which is incorrect as written; the threshold is more than 5 g/dL.",
+  "_new": true,
+  "qid": "G14-N56"
+ },
+ {
+  "ncids": [
+   "K1584"
+  ],
+  "stem": "Which of the following amino acids is NOT synthesised by the human body and must be included in the diet?",
+  "options": {
+   "A": "Alanine",
+   "B": "Tyrosine",
+   "C": "Phenylalanine",
+   "D": "Glycine"
+  },
+  "answer": "C",
+  "explanation": "Phenylalanine is essential; tyrosine is synthesised from phenylalanine, and alanine and glycine are non-essential.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G14-N57"
+ },
+ {
+  "ncids": [
+   "K1585"
+  ],
+  "stem": "The Hering-Breuer inflation reflex is mediated by:",
+  "options": {
+   "A": "Stretch receptors in the bronchi and bronchioles",
+   "B": "Irritant receptors",
+   "C": "J (juxtacapillary) receptors",
+   "D": "Peripheral chemoreceptors"
+  },
+  "answer": "A",
+  "explanation": "Slowly adapting pulmonary stretch receptors in airway smooth muscle send vagal impulses that terminate inspiration when the lungs are inflated.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G14-N58"
+ },
+ {
+  "ncids": [
+   "K1586"
+  ],
+  "stem": "The plasma protein bound fraction of a drug is:",
+  "options": {
+   "A": "Pharmacologically active",
+   "B": "Pharmacologically inactive",
+   "C": "More lipid soluble",
+   "D": "Freely filtered at the glomerulus"
+  },
+  "answer": "B",
+  "explanation": "Only the free (unbound) drug crosses membranes and acts at receptors; the bound fraction is an inactive reservoir that is not glomerularly filtered.",
+  "key_note": "Bank marked A (active); correct is B because protein-bound drug is pharmacologically inactive.",
+  "_new": true,
+  "qid": "G14-N59"
+ },
+ {
+  "ncids": [
+   "K1587"
+  ],
+  "stem": "A baby born at 34 weeks to an Rh-negative mother is severely anaemic and pale, and dies 6 hours after transfusion. What is the most likely finding at autopsy?",
+  "options": {
+   "A": "Bilirubin staining of the basal ganglia (kernicterus)",
+   "B": "Congenital cardiac malformation",
+   "C": "Pulmonary hypoplasia",
+   "D": "Neural tube defect"
+  },
+  "answer": "A",
+  "explanation": "In Rh haemolytic disease, unconjugated bilirubin crosses the immature blood-brain barrier and stains the basal ganglia (kernicterus), a common autopsy finding in fatal cases.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G14-N60"
+ },
+ {
+  "ncids": [
+   "K1588"
+  ],
+  "stem": "Standard deviation is a measure of:",
+  "options": {
+   "A": "Variability (dispersion)",
+   "B": "Central tendency",
+   "C": "Correlation",
+   "D": "Statistical significance"
+  },
+  "answer": "A",
+  "explanation": "Standard deviation measures the spread of observations around the mean; mean, median and mode measure central tendency.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G14-N61"
+ },
+ {
+  "ncids": [
+   "K1589"
+  ],
+  "stem": "A doctor is permitted to disclose a patient's confidential information:",
+  "options": {
+   "A": "For an insurance claim without consent",
+   "B": "If the adult patient's parents ask",
+   "C": "If the patient authorises it",
+   "D": "Freely after the patient's death"
+  },
+  "answer": "C",
+  "explanation": "Disclosure with the patient's valid consent is permitted; confidentiality persists after death and does not yield to relatives or insurers without consent.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G14-N62"
+ },
+ {
+  "ncids": [
+   "K1590"
+  ],
+  "stem": "The cerebellum is connected to the midbrain by the:",
+  "options": {
+   "A": "Superior cerebellar peduncle",
+   "B": "Middle cerebellar peduncle",
+   "C": "Inferior cerebellar peduncle",
+   "D": "Corpus callosum"
+  },
+  "answer": "A",
+  "explanation": "The superior peduncle joins the midbrain (main cerebellar output); the middle joins the pons and the inferior joins the medulla.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G14-N63"
+ },
+ {
+  "ncids": [
+   "K1591"
+  ],
+  "stem": "A 45-year-old woman presents with abnormal vaginal bleeding. Endometrial biopsy shows simple hyperplasia. This is due to:",
+  "options": {
+   "A": "Increased oestrogen stimulation",
+   "B": "Decreased oestrogen stimulation",
+   "C": "Increased LH stimulation",
+   "D": "Increased progesterone stimulation"
+  },
+  "answer": "A",
+  "explanation": "Endometrial hyperplasia results from prolonged unopposed oestrogen (anovulation, obesity, oestrogen therapy); progesterone opposes it.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G14-N64"
+ },
+ {
+  "ncids": [
+   "K1592"
+  ],
+  "stem": "A patient lying supine aspirates gastric contents. The resulting lung abscess is most likely in the:",
+  "options": {
+   "A": "Posterior segment of the right upper lobe",
+   "B": "Apical segment of the left upper lobe",
+   "C": "Basal segments of the right lower lobe",
+   "D": "Lingula",
+   "E": "Right middle lobe"
+  },
+  "answer": "A",
+  "explanation": "In the supine position aspirate gravitates to the posterior segment of the right upper lobe and the superior (apical) segment of the right lower lobe; erect aspiration goes to the basal segments.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G14-N65"
+ },
+ {
+  "ncids": [
+   "K1593"
+  ],
+  "stem": "The approximate diameter of an arteriole is:",
+  "options": {
+   "A": "0.03 mm (30 micrometres)",
+   "B": "0.5 to 1 mm",
+   "C": "1 mm",
+   "D": "3 mm",
+   "E": "5 mm"
+  },
+  "answer": "A",
+  "explanation": "Arterioles are roughly 10 to 100 micrometres in diameter, too small to see clearly with the naked eye; vessels of 1 to 5 mm are small and medium arteries.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G14-N66"
+ },
+ {
+  "ncids": [
+   "K1594"
+  ],
+  "stem": "Which part of the circulation contains the greatest volume of blood?",
+  "options": {
+   "A": "Capillaries",
+   "B": "Resistance vessels (arterioles)",
+   "C": "Veins",
+   "D": "Arteries"
+  },
+  "answer": "C",
+  "explanation": "About 60 to 65 percent of blood volume is in the systemic veins and venules (capacitance vessels); capillaries hold only about 5 percent.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G14-N67"
+ },
+ {
+  "ncids": [
+   "K1596"
+  ],
+  "stem": "ADH (vasopressin) acts primarily on the:",
+  "options": {
+   "A": "Proximal convoluted tubule",
+   "B": "Collecting ducts",
+   "C": "Thick ascending limb of the loop of Henle",
+   "D": "Descending limb of the loop of Henle"
+  },
+  "answer": "B",
+  "explanation": "ADH binds V2 receptors on collecting duct principal cells and inserts aquaporin-2 channels, increasing water reabsorption.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G14-N68"
+ },
+ {
+  "ncids": [
+   "K1597"
+  ],
+  "stem": "Which cells are NOT part of the central nervous system?",
+  "options": {
+   "A": "Oligodendrocytes",
+   "B": "Protoplasmic astrocytes",
+   "C": "Fibrous astrocytes",
+   "D": "Schwann cells",
+   "E": "Microglia"
+  },
+  "answer": "D",
+  "explanation": "Schwann cells myelinate peripheral nerves; oligodendrocytes, astrocytes and microglia are CNS glia.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G14-N69"
+ },
+ {
+  "ncids": [
+   "K1599"
+  ],
+  "stem": "An elderly patient presents with diplopia and headache; biopsy shows granulomatous inflammation of the vessel wall. The most likely diagnosis is:",
+  "options": {
+   "A": "Giant cell arteritis",
+   "B": "Takayasu arteritis",
+   "C": "Granulomatosis with polyangiitis (Wegener)",
+   "D": "Polyarteritis nodosa"
+  },
+  "answer": "A",
+  "explanation": "Giant cell (temporal) arteritis is a granulomatous large vessel vasculitis of patients over 50 that causes visual symptoms; Takayasu affects young women.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G14-N70"
+ },
+ {
+  "ncids": [
+   "K1600"
+  ],
+  "stem": "A scientist wants to study telomerase activity. Which cells normally have high telomerase activity?",
+  "options": {
+   "A": "Endothelial cells",
+   "B": "Erythrocytes",
+   "C": "Mature leukocytes",
+   "D": "Germ cells"
+  },
+  "answer": "D",
+  "explanation": "Telomerase is active in germ cells (and stem and cancer cells), maintaining telomere length; most somatic cells lack it.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G14-N71"
+ },
+ {
+  "ncids": [
+   "K1601"
+  ],
+  "stem": "The earliest step among the following in apoptosis is:",
+  "options": {
+   "A": "Activation of caspases",
+   "B": "Phagocytosis of apoptotic bodies",
+   "C": "Activation of Bcl-2",
+   "D": "DNA fragmentation"
+  },
+  "answer": "A",
+  "explanation": "Initiator caspase activation precedes executioner caspases, DNA fragmentation and finally phagocytosis; Bcl-2 is anti-apoptotic and is inactivated, not activated.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G14-N72"
+ },
+ {
+  "ncids": [
+   "K1602"
+  ],
+  "stem": "The most common site of lodgement of an inhaled foreign body is the:",
+  "options": {
+   "A": "Right lower lobe",
+   "B": "Right upper lobe",
+   "C": "Left lower lobe",
+   "D": "Left upper lobe"
+  },
+  "answer": "A",
+  "explanation": "The right main bronchus is wider, shorter and more vertical, so foreign bodies most often enter the right lower lobe bronchus.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G14-N73"
+ },
+ {
+  "ncids": [
+   "K1643"
+  ],
+  "stem": "The lower respiratory tract is protected by the following mechanisms. Mark the WRONG statement.",
+  "options": {
+   "A": "Closure of the laryngeal inlet",
+   "B": "Closure of the false cords",
+   "C": "Closure of the glottis",
+   "D": "Cessation of respiration",
+   "E": "No cough reflex"
+  },
+  "answer": "E",
+  "explanation": "Laryngeal inlet, false cord and glottic closure with reflex apnoea protect the airway during swallowing; the cough reflex is an active protective mechanism, so its absence is not protective.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G14-N74"
+ }
+]

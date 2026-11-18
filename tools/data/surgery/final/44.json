@@ -1,0 +1,21 @@
+[
+ {
+  "cids": [
+   "C0562"
+  ],
+  "stem": "Ludwig's angina involves:",
+  "options": {
+   "A": "Face",
+   "B": "Heart",
+   "C": "Nose",
+   "D": "Palate",
+   "E": "Tonsil"
+  },
+  "answer": "A",
+  "explanation": "Ludwig's angina is a rapidly spreading cellulitis of the submandibular, sublingual and submental spaces (floor of the mouth), usually from infected lower second or third molars, causing brawny swelling of the upper neck and lower face and elevation of the tongue with airway risk. It has nothing to do with the heart ('angina' means choking) and does not involve the palate.",
+  "key_note": "The source marked D (Palate); this is wrong because the infection involves the floor of the mouth, not the palate. None of the options is ideal, and A (Face) is the best available answer.",
+  "answer_text": "",
+  "figure": "",
+  "qid": "44-1"
+ }
+]

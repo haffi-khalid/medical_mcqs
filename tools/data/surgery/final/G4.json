@@ -1,0 +1,836 @@
+[
+ {
+  "cids": [
+   "C0441"
+  ],
+  "stem": "A 60-year-old man has an abdominoperineal resection for carcinoma of the rectum. When does the ebb phase of the metabolic response to surgery start in this patient?",
+  "options": {
+   "A": "Immediately after the injury",
+   "B": "One day after the injury",
+   "C": "Two days after the injury",
+   "D": "Three days after the injury",
+   "E": "Four days after the injury"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "The ebb phase starts immediately after injury and lasts about 24-48 hours: reduced metabolic rate, cardiac output and temperature (hypometabolism). It is followed by the catabolic flow phase.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G4-1"
+ },
+ {
+  "cids": [
+   "C0442"
+  ],
+  "stem": "The flow phase of the metabolic response to injury is characterised by all of the following EXCEPT:",
+  "options": {
+   "A": "Tissue oedema",
+   "B": "Increased basal metabolic rate",
+   "C": "Increased cardiac output",
+   "D": "Decreased body temperature",
+   "E": "Leucocytosis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "The flow (hypermetabolic) phase has raised metabolic rate, cardiac output, temperature, leucocytosis, oxygen consumption, tissue oedema and catabolism. Decreased temperature belongs to the ebb phase.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G4-2"
+ },
+ {
+  "cids": [
+   "C0679",
+   "C0805"
+  ],
+  "stem": "Which of the following represents the metabolic response to trauma?",
+  "options": {
+   "A": "Retention of sodium",
+   "B": "Retention of potassium",
+   "C": "Loss of sodium",
+   "D": "Loss of potassium",
+   "E": "Gain of calcium"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Aldosterone and ADH released after injury cause sodium and water retention, which is the classic response. Potassium is actually lost in excess (urinary K+ rises from aldosterone and cell breakdown), so retention of potassium is wrong.",
+  "key_note": "One paper's option set had hyperthermia, hyponatraemia and hypochloraemia as distractors; both papers marked retention of sodium. Loss of potassium (D) is also a true feature, but A is the classic intended answer.",
+  "figure": "",
+  "qid": "G4-3"
+ },
+ {
+  "cids": [
+   "C0443"
+  ],
+  "stem": "In a 70-year-old man with multiple long-bone fractures, avoidable factors that compound the response to injury include all of the following EXCEPT:",
+  "options": {
+   "A": "Continuing haemorrhage",
+   "B": "Hyperthermia",
+   "C": "Tissue oedema",
+   "D": "Tissue underperfusion",
+   "E": "Immobility"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Bailey & Love lists the avoidable factors as continuing haemorrhage, hypothermia, tissue oedema, tissue underperfusion, starvation and immobility. It is hypothermia, not hyperthermia, that worsens the response, which is why patients are kept warm.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G4-4"
+ },
+ {
+  "cids": [
+   "C0806"
+  ],
+  "stem": "Sepsis increases the resting metabolic rate by approximately what percentage?",
+  "options": {
+   "A": "20%",
+   "B": "30%",
+   "C": "35%",
+   "D": "40%",
+   "E": "50%"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Resting energy expenditure rises by about 10% after elective surgery, 20-30% after multiple fractures and around 40% (range 30-60%) in severe sepsis. Major burns can double it.",
+  "key_note": "Paper key D accepted; textbook figures for sepsis vary (about 30-60%), so learn about 40% as the conventional answer.",
+  "figure": "",
+  "qid": "G4-5"
+ },
+ {
+  "cids": [
+   "C0654"
+  ],
+  "stem": "Which of the following statements regarding starvation is true?",
+  "options": {
+   "A": "After a 12-hour fast plasma insulin levels rise",
+   "B": "Energy expenditure is higher in starvation",
+   "C": "All of the body's glycogen is stored in the liver",
+   "D": "Protein breakdown during starvation cannot be prevented",
+   "E": "Proteins and fats are broken down when starvation is prolonged"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Liver glycogen lasts about 24 hours, after which gluconeogenesis from protein begins and fat becomes the main fuel. In prolonged starvation ketone adaptation spares protein. Insulin and energy expenditure fall in starvation, and most glycogen is in muscle.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G4-6"
+ },
+ {
+  "cids": [
+   "C0655"
+  ],
+  "stem": "What would be the basal energy expenditure of a 60 kg healthy man?",
+  "options": {
+   "A": "2500 kcal/day",
+   "B": "1000 kcal/day",
+   "C": "1800 kcal/day",
+   "D": "1200 kcal/day",
+   "E": "3000 kcal/day"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Energy requirement is roughly 25-30 kcal/kg/day: 60 x 25 = 1500 and 60 x 30 = 1800 kcal/day (Harris-Benedict gives about 1500 kcal for a young 60 kg man). 1800 kcal is the conventional answer.",
+  "key_note": "Paper key C accepted; strictly, basal expenditure (about 25 kcal/kg = 1500 kcal) lies between C and D, and 1800 kcal reflects the 30 kcal/kg rule.",
+  "figure": "",
+  "qid": "G4-7"
+ },
+ {
+  "cids": [
+   "C0657"
+  ],
+  "stem": "Which of the following tools is used to assess the nutritional status of patients?",
+  "options": {
+   "A": "MUST score",
+   "B": "APACHE score",
+   "C": "Ranson's score",
+   "D": "Glasgow score",
+   "E": "Alvarado score"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "MUST (Malnutrition Universal Screening Tool) combines BMI, unintentional weight loss and acute illness effect to screen for malnutrition. APACHE grades ICU severity, Ranson and Glasgow grade pancreatitis, and Alvarado scores appendicitis.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G4-8"
+ },
+ {
+  "cids": [
+   "C0659"
+  ],
+  "stem": "Which of the following is used as a clinical measure in nutritional assessment?",
+  "options": {
+   "A": "Triceps skinfold thickness",
+   "B": "Blood pressure pattern",
+   "C": "Dryness of the tongue",
+   "D": "Walking distance",
+   "E": "Ability to climb a flight of stairs"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Anthropometric measures include triceps skinfold thickness (fat stores), mid-arm muscle circumference (protein stores), BMI and weight loss. Hand grip strength is the functional test.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G4-9"
+ },
+ {
+  "cids": [
+   "C0658"
+  ],
+  "stem": "What is the expected normal BMI of a 70 kg man?",
+  "options": {
+   "A": "15-20",
+   "B": "20-25",
+   "C": "26-30",
+   "D": "31-35",
+   "E": "35-40"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Normal BMI is 18.5-24.9 kg/m2, overweight 25-29.9 and obese 30 or more. A 70 kg man of average height (about 1.75 m) has a BMI of about 70/3.06 = 22.9.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G4-10"
+ },
+ {
+  "cids": [
+   "C0826"
+  ],
+  "stem": "Regarding body mass index, which one of the following is true?",
+  "options": {
+   "A": "It is weight corrected for gender",
+   "B": "A BMI over 30 predicts a good postoperative recovery",
+   "C": "A BMI of 20 is associated with increased hospital mortality",
+   "D": "A BMI below 15 is associated with increased hospital mortality",
+   "E": "It is not useful for predicting morbidity or mortality"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "BMI is weight (kg) divided by height squared (m2), with no correction for gender. A BMI below 15 indicates severe malnutrition and is associated with markedly increased hospital mortality, while obesity increases postoperative complications.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G4-11"
+ },
+ {
+  "cids": [
+   "C1172"
+  ],
+  "stem": "All of the following are fat-soluble vitamins EXCEPT:",
+  "options": {
+   "A": "Vitamin A",
+   "B": "Vitamin C",
+   "C": "Vitamin D",
+   "D": "Vitamin E",
+   "E": "Vitamin K"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Vitamins A, D, E and K are fat soluble (malabsorbed in obstructive jaundice and steatorrhoea). Vitamin C and the B group are water soluble.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "G4-12"
+ },
+ {
+  "cids": [
+   "C0090"
+  ],
+  "stem": "A patient with a head injury and GCS of 7 requires nutritional support. What is the most appropriate nutritional management?",
+  "options": {
+   "A": "Enteral nutrition",
+   "B": "Parenteral nutrition",
+   "C": "Oral nutrition",
+   "D": "Percutaneous gastrostomy feeding",
+   "E": "Electrolyte replacement"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "If the gut works, use it: early enteral feeding via a nasogastric tube is preferred in head injury since it cannot be given orally safely with GCS 7. PEG is reserved for long-term feeding beyond about 4 weeks.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G4-13"
+ },
+ {
+  "cids": [
+   "C0769",
+   "C0660"
+  ],
+  "stem": "A 60-year-old smoker has marked dysphagia due to carcinoma of the middle third of the oesophagus and needs nutritional support for at least two weeks before surgery or radiotherapy. What is the most appropriate method of nutrition?",
+  "options": {
+   "A": "Central line",
+   "B": "Easily digested oral soft diet",
+   "C": "Nasogastric feeding",
+   "D": "Enteral feeding via jejunostomy",
+   "E": "Peripheral parenteral nutrition"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "With an obstructing oesophageal tumour, a feeding jejunostomy gives reliable enteral nutrition and leaves the stomach untouched for use as the conduit at oesophagectomy. A nasogastric tube may not pass the stricture and is poorly tolerated for weeks.",
+  "key_note": "The compiled key gave C (nasogastric feeding); the paper's D (feeding jejunostomy) is preferred with marked dysphagia before oesophagectomy, although NG feeding is acceptable if a fine-bore tube can be passed.",
+  "figure": "",
+  "qid": "G4-14"
+ },
+ {
+  "cids": [
+   "C0768"
+  ],
+  "stem": "What is the commonest complication of jejunostomy feeding?",
+  "options": {
+   "A": "Tube blockage",
+   "B": "Wrong placement",
+   "C": "Tube dislodgement",
+   "D": "Diarrhoea"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Hyperosmolar feed delivered straight into the jejunum (no gastric reservoir) commonly causes diarrhoea and cramps, managed by slowing the rate or diluting the feed. Tube blockage and displacement are less frequent.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "G4-15"
+ },
+ {
+  "cids": [
+   "N015"
+  ],
+  "stem": "What is the best method of nutrition for a patient with prolonged recovery after a stroke?",
+  "options": {},
+  "answer": null,
+  "answer_text": "Percutaneous endoscopic gastrostomy (PEG)",
+  "explanation": "When unsafe swallowing is expected to last more than about 4 weeks, percutaneous endoscopic gastrostomy (PEG) is preferred to a nasogastric tube. It is better tolerated, less often dislodged and gives better nutritional outcomes.",
+  "key_note": "Options not available in the source; recall question.",
+  "figure": "",
+  "qid": "G4-16"
+ },
+ {
+  "cids": [
+   "C0827"
+  ],
+  "stem": "Which of the following is a method of providing parenteral nutrition?",
+  "options": {
+   "A": "NG tube",
+   "B": "Jejunostomy",
+   "C": "Gastrostomy",
+   "D": "CVP (central venous) line",
+   "E": "Whole food by mouth"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Parenteral means bypassing the gut, so it is given intravenously. Hypertonic TPN needs a central venous line (or PICC) because it causes peripheral thrombophlebitis. NG, gastrostomy and jejunostomy are enteral routes.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G4-17"
+ },
+ {
+  "cids": [
+   "C0406"
+  ],
+  "stem": "Which of the following is LEAST suited for central venous access for feeding?",
+  "options": {
+   "A": "Basilic vein",
+   "B": "External jugular vein",
+   "C": "Femoral vein",
+   "D": "Internal jugular vein",
+   "E": "Subclavian vein"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "The femoral route has the highest rates of catheter infection and thrombosis and hinders mobility, so it is avoided for long-term TPN. Subclavian tunnelled lines or PICCs via the basilic vein are preferred.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G4-18"
+ },
+ {
+  "cids": [
+   "C1232"
+  ],
+  "stem": "Parenteral nutrition is given by a central or peripheral line. Which of the following is a complication of central line insertion for parenteral nutrition?",
+  "options": {
+   "A": "Abdominal cramps",
+   "B": "Bloating",
+   "C": "Constipation",
+   "D": "Diarrhoea",
+   "E": "Pneumothorax"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Mechanical complications of central venous line insertion include pneumothorax (especially subclavian), arterial puncture, haemothorax, air embolism and malposition. Cramps, bloating and diarrhoea are complications of enteral feeding.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "G4-19"
+ },
+ {
+  "cids": [
+   "C0966"
+  ],
+  "stem": "Total parenteral nutrition (TPN):",
+  "options": {
+   "A": "Should deliver about 2500 calories/day to an adult of average build",
+   "B": "Should deliver at least 30 g nitrogen (180 g protein) per day",
+   "C": "Is free of complications in today's settings",
+   "D": "Provides better nutritional support than the enteral route"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "An average adult needs about 25-35 kcal/kg/day (about 2000-2500 kcal) and 0.2-0.3 g nitrogen/kg (about 9-14 g nitrogen, not 30 g). TPN carries line sepsis, metabolic and hepatic complications, and enteral feeding is preferred whenever the gut works.",
+  "key_note": "Not marked in the source paper; A is the best answer, though modern targets are often nearer 25-30 kcal/kg (about 2000 kcal).",
+  "figure": "",
+  "qid": "G4-20"
+ },
+ {
+  "ncids": [
+   "K0027",
+   "K0636"
+  ],
+  "stem": "A patient recovering from major burns is in the catabolic phase. One gram of urinary nitrogen lost is equivalent to how many grams of protein?",
+  "options": {
+   "A": "5.25 g",
+   "B": "6.25 g",
+   "C": "7.25 g",
+   "D": "8.25 g",
+   "E": "9.25 g"
+  },
+  "answer": "B",
+  "explanation": "Protein is about 16% nitrogen, so 1 g of nitrogen corresponds to 100/16 = 6.25 g of protein.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G4-N1"
+ },
+ {
+  "ncids": [
+   "K0036"
+  ],
+  "stem": "Refeeding syndrome causes a fall in which group of electrolytes, leading to deterioration of the patient?",
+  "options": {
+   "A": "Calcium, vitamin D, potassium",
+   "B": "Phosphate, calcium, vitamin D",
+   "C": "Magnesium, calcium, phosphate",
+   "D": "Vitamin C, sodium, calcium",
+   "E": "Phosphate, sodium, magnesium"
+  },
+  "answer": "C",
+  "explanation": "Insulin release on refeeding drives phosphate, magnesium and potassium into cells, causing hypophosphataemia (the hallmark), hypomagnesaemia and hypokalaemia; thiamine is also depleted. Sodium is retained rather than lost, so E is wrong.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G4-N2"
+ },
+ {
+  "ncids": [
+   "K0091"
+  ],
+  "stem": "A 32-year-old woman with known Crohn's disease develops a fistula in the right iliac fossa. Investigations reveal a low-output distal small bowel fistula. Which mode of nutrition is best?",
+  "options": {
+   "A": "Elemental/low-residue diet",
+   "B": "Feeding gastrostomy",
+   "C": "High-protein enteral diet",
+   "D": "Nasogastric tube feeding",
+   "E": "Total parenteral nutrition"
+  },
+  "answer": "A",
+  "explanation": "A low-output distal fistula allows enteral feeding; an elemental, low-residue diet is absorbed proximally, reduces fistula output and also helps Crohn's disease. TPN is reserved for high-output or proximal fistulas.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G4-N3"
+ },
+ {
+  "ncids": [
+   "K0092"
+  ],
+  "stem": "A 16-year-old boy is admitted to the neurosurgical ICU after a head injury. He is expected to need nutritional support for about a week. What is the best route?",
+  "options": {
+   "A": "Feeding gastrostomy",
+   "B": "Feeding jejunostomy",
+   "C": "Nasogastric tube feeding",
+   "D": "Oral liquids with a spoon",
+   "E": "Total parenteral nutrition"
+  },
+  "answer": "C",
+  "explanation": "Short-term (less than about 4 weeks) enteral support with a functioning gut is best given by nasogastric tube; gastrostomy or jejunostomy is for longer-term feeding and TPN is used only when the gut cannot be used.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G4-N4"
+ },
+ {
+  "ncids": [
+   "K0093"
+  ],
+  "stem": "A 60-year-old diabetic man has an emergency cholecystectomy for empyema of the gallbladder. Postoperatively he develops pneumonia and is expected to need ventilation in ICU for several days. Which type of feeding is most appropriate?",
+  "options": {
+   "A": "Feeding gastrostomy",
+   "B": "Feeding jejunostomy",
+   "C": "Nasogastric tube feeding",
+   "D": "Oral liquids with a spoon",
+   "E": "Total parenteral nutrition"
+  },
+  "answer": "C",
+  "explanation": "His gut works and support is needed only for days, so nasogastric enteral feeding is appropriate; a surgical gastrostomy is unnecessary for short-term feeding.",
+  "key_note": "Bank starred A and C and highlighted all options; correct is C because short-term feeding in a ventilated patient with a functioning gut is via nasogastric tube.",
+  "_new": true,
+  "qid": "G4-N5"
+ },
+ {
+  "ncids": [
+   "K0128"
+  ],
+  "stem": "What is the earliest source of glucose (glycogen) during starvation?",
+  "options": {
+   "A": "Blood",
+   "B": "Bone",
+   "C": "Liver",
+   "D": "Muscle",
+   "E": "Spleen"
+  },
+  "answer": "C",
+  "explanation": "Liver glycogen is mobilised first and is exhausted within about 24 hours. Muscle glycogen cannot release free glucose into the blood as muscle lacks glucose-6-phosphatase.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G4-N6"
+ },
+ {
+  "ncids": [
+   "K0129"
+  ],
+  "stem": "In prolonged starvation, what is the main source of energy?",
+  "options": {
+   "A": "Liver glycogen",
+   "B": "Lipid stores",
+   "C": "Muscle protein",
+   "D": "Muscle glycogen",
+   "E": "Inhaled oxygen only"
+  },
+  "answer": "B",
+  "explanation": "In prolonged starvation fat becomes the main fuel (fatty acids and ketone bodies, which the brain adapts to use), sparing muscle protein.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G4-N7"
+ },
+ {
+  "ncids": [
+   "K0674"
+  ],
+  "stem": "The body responds to surgical trauma by alterations in water and electrolyte balance. Which of the following is NOT part of this response?",
+  "options": {
+   "A": "Retention of water",
+   "B": "Retention of sodium",
+   "C": "Sweating caused by fever",
+   "D": "Release of steroid hormones",
+   "E": "Release of catecholamines"
+  },
+  "answer": "C",
+  "explanation": "ADH, aldosterone, cortisol and catecholamine release cause salt and water retention after injury; sweating due to fever is an incidental loss, not part of the neuroendocrine response.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G4-N8"
+ },
+ {
+  "ncids": [
+   "K0711"
+  ],
+  "stem": "A 70-year-old man has gastric outlet obstruction due to inoperable carcinoma of the stomach. What is the most appropriate method of providing nutrition?",
+  "options": {
+   "A": "Feeding jejunostomy",
+   "B": "Gastrostomy",
+   "C": "PEG",
+   "D": "NG feeding"
+  },
+  "answer": "A",
+  "explanation": "Feeding must be delivered distal to the obstruction, so a feeding jejunostomy is used; gastrostomy, PEG or NG feeding deliver food into the obstructed stomach.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G4-N9"
+ },
+ {
+  "ncids": [
+   "K0754"
+  ],
+  "stem": "After what period of expected starvation should parenteral nutritional support be considered?",
+  "options": {
+   "A": "1 day",
+   "B": "5 to 7 days",
+   "C": "1 to 2 weeks",
+   "D": "12 hours",
+   "E": "1 month"
+  },
+  "answer": "B",
+  "explanation": "Nutritional support (enteral if possible, otherwise parenteral) is indicated if inadequate intake is expected for more than 5 to 7 days, sooner in already malnourished patients.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G4-N10"
+ },
+ {
+  "ncids": [
+   "K0850"
+  ],
+  "stem": "What is the most appropriate method of feeding for a high-output fistula following small bowel resection?",
+  "options": {
+   "A": "Oral",
+   "B": "Nasogastric",
+   "C": "Total parenteral nutrition",
+   "D": "Jejunal"
+  },
+  "answer": "C",
+  "explanation": "A high-output small bowel fistula loses most enteral feed, so TPN with bowel rest is used to reduce output and correct deficits.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G4-N11"
+ },
+ {
+  "ncids": [
+   "K0862"
+  ],
+  "stem": "Which of the following statements is CORRECT about enteral feeding?",
+  "options": {
+   "A": "It results in constipation",
+   "B": "It should be considered second best after intravenous nutrition",
+   "C": "It may result in diarrhoea",
+   "D": "It is not an effective method for long-term nutrition",
+   "E": "It often results in uraemia and dehydration"
+  },
+  "answer": "C",
+  "explanation": "Diarrhoea is the commonest complication of enteral feeding. Enteral feeding is preferred over parenteral, is effective long term (e.g. PEG), and dehydration with prerenal uraemia ('tube-feeding syndrome') is uncommon, not frequent.",
+  "key_note": "One bank copy (without the diarrhoea option) underlined 'often results in uraemia and dehydration'; correct is C, diarrhoea, because uraemia and dehydration are uncommon complications of hyperosmolar feeds.",
+  "_new": true,
+  "qid": "G4-N12"
+ },
+ {
+  "ncids": [
+   "K0961"
+  ],
+  "stem": "What is the approximate total energy requirement of a stable patient with normal or moderately increased needs?",
+  "options": {
+   "A": "10 to 20 kcal/kg per day",
+   "B": "20 to 30 kcal/kg per day",
+   "C": "30 to 40 kcal/kg per day",
+   "D": "40 to 50 kcal/kg per day",
+   "E": "50 to 60 kcal/kg per day"
+  },
+  "answer": "B",
+  "explanation": "Most stable patients need about 25 kcal/kg/day (range 20 to 30), with higher requirements only in hypermetabolic states such as major burns.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G4-N13"
+ },
+ {
+  "ncids": [
+   "K1021"
+  ],
+  "stem": "An 18-year-old woman is labelled malnourished at nutritional assessment because her BMI is below:",
+  "options": {
+   "A": "18",
+   "B": "20",
+   "C": "23",
+   "D": "25",
+   "E": "35"
+  },
+  "answer": "A",
+  "explanation": "A BMI below 18.5 kg/m2 defines underweight/malnutrition; 18.5 to 24.9 is normal.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G4-N14"
+ },
+ {
+  "ncids": [
+   "K1257"
+  ],
+  "stem": "Which of the following hormones shows a significant rise after a fast?",
+  "options": {
+   "A": "Insulin",
+   "B": "Aldosterone",
+   "C": "Glucagon",
+   "D": "TSH"
+  },
+  "answer": "C",
+  "explanation": "Fasting lowers blood glucose, which suppresses insulin and raises glucagon to drive glycogenolysis and gluconeogenesis.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G4-N15"
+ },
+ {
+  "ncids": [
+   "K1258"
+  ],
+  "stem": "In severe sepsis and injury, the hormonal changes produce all of the following effects EXCEPT:",
+  "options": {
+   "A": "Anabolism",
+   "B": "Lipid mobilisation",
+   "C": "Utilisation of amino acids for energy",
+   "D": "Increased metabolic rate"
+  },
+  "answer": "A",
+  "explanation": "Sepsis and injury cause a catabolic state: raised metabolic rate, lipolysis and muscle protein breakdown for gluconeogenesis. Anabolism occurs only in the later recovery phase. (A fifth option, 'decreased metabolic rate', was removed because it was also incorrect.)",
+  "key_note": "",
+  "_new": true,
+  "qid": "G4-N16"
+ },
+ {
+  "ncids": [
+   "K1259"
+  ],
+  "stem": "A 45 kg woman with gallstone pancreatitis is treated with bowel rest, analgesia and antibiotics. After 5 days of IV fluids the physician decides to start total parenteral nutrition. Which daily plan is most suitable?",
+  "options": {
+   "A": "50 g Intralipid, 20 g albumin, 2000 ml normal saline via a peripheral vein",
+   "B": "50 g Intralipid, 20 g albumin, 100 g dextrose in 2000 ml normal saline via a peripheral vein",
+   "C": "50 g Intralipid, 60 g amino acids, 100 g dextrose in 2500 ml normal saline via a central venous line",
+   "D": "60 g amino acids, 500 g dextrose in 2500 ml fluid via a central venous line",
+   "E": "50 g Intralipid, 30 g albumin, 2000 ml normal saline via a peripheral vein"
+  },
+  "answer": "D",
+  "explanation": "TPN must supply nitrogen as amino acids (albumin is not a nutritional protein source) plus adequate calories: 60 g amino acids (about 1 g/kg) and 500 g dextrose (about 2000 kcal) via a central line, as concentrated dextrose is too hyperosmolar for a peripheral vein. Option C gives far too few calories.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G4-N17"
+ },
+ {
+  "ncids": [
+   "K1261"
+  ],
+  "stem": "Which of the following conditions is LEAST likely to require total parenteral nutrition?",
+  "options": {
+   "A": "Head injury with coma",
+   "B": "Pancreatitis",
+   "C": "Short residual intestinal length after surgery",
+   "D": "High-output ileal fistula"
+  },
+  "answer": "A",
+  "explanation": "A comatose head-injured patient has a functioning gut and is fed enterally (nasogastric). Short bowel, high-output fistula and severe pancreatitis may need TPN.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G4-N18"
+ },
+ {
+  "ncids": [
+   "K1501"
+  ],
+  "stem": "A 50-year-old woman has a 3-day history of fever, abdominal pain, nausea and anorexia and has not passed urine for 24 hours. She has had previous surgery for inflammatory bowel disease. BP is 85/60 mmHg and pulse 140/min. Her physiological response to this state includes which of the following?",
+  "options": {
+   "A": "Increased sodium and water excretion",
+   "B": "Increased renal perfusion",
+   "C": "Decreased cortisol level",
+   "D": "Hyperkalaemia",
+   "E": "Hypoglycaemia"
+  },
+  "answer": "D",
+  "explanation": "Septic shock with oliguric acute kidney injury, acidosis and tissue breakdown causes hyperkalaemia. The stress response retains sodium and water, reduces renal perfusion, raises cortisol and causes hyperglycaemia.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G4-N19"
+ },
+ {
+  "ncids": [
+   "K1502"
+  ],
+  "stem": "A 65-year-old woman with advanced oesophageal carcinoma has prominent, easily palpable tendons and prominent bony prominences of the scapula. How much of her body protein stores has she lost?",
+  "options": {
+   "A": "More than 30%",
+   "B": "20 to 30%",
+   "C": "10 to 20%",
+   "D": "5 to 10%",
+   "E": "Less than 5%"
+  },
+  "answer": "A",
+  "explanation": "Clinically obvious wasting with prominent tendons and bony prominences indicates loss of more than 30% of body protein stores, a level associated with impaired organ function.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G4-N20"
+ },
+ {
+  "ncids": [
+   "K1503"
+  ],
+  "stem": "A 40-year-old man has third-degree burns of 60% body surface area. Before injury his energy expenditure was 1800 kcal/day. What will his daily energy requirement be now?",
+  "options": {
+   "A": "1600 kcal/day",
+   "B": "2300 kcal/day",
+   "C": "2800 kcal/day",
+   "D": "3600 kcal/day",
+   "E": "4500 kcal/day"
+  },
+  "answer": "D",
+  "explanation": "Major burns (over about 50% TBSA) roughly double resting energy expenditure, the largest increase of any injury: 1800 x 2 = 3600 kcal/day.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G4-N21"
+ },
+ {
+  "ncids": [
+   "K1507"
+  ],
+  "stem": "A 50-year-old woman undergoes laparotomy for adhesiolysis and a feeding jejunostomy is also done. When can feeding with elemental formula begin?",
+  "options": {
+   "A": "4 to 6 hours",
+   "B": "48 hours",
+   "C": "3 days",
+   "D": "5 days",
+   "E": "7 days"
+  },
+  "answer": "A",
+  "explanation": "Small bowel motility and absorption recover within hours of surgery (unlike the stomach and colon), so jejunostomy feeding can start early, within about 6 hours, at a low rate.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G4-N22"
+ },
+ {
+  "ncids": [
+   "K1522"
+  ],
+  "stem": "A patient who has had a colostomy is now on parenteral nutrition. What is the most common metabolic complication of parenteral nutrition?",
+  "options": {
+   "A": "Fatty liver",
+   "B": "Hyperglycaemia",
+   "C": "Hypophosphataemia"
+  },
+  "answer": "B",
+  "explanation": "Hyperglycaemia from the dextrose load is the commonest metabolic complication of TPN. Hypophosphataemia is typical of refeeding and fatty liver is a later complication.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G4-N23"
+ },
+ {
+  "ncids": [
+   "K1662"
+  ],
+  "stem": "Systemic inflammatory response syndrome and multiple organ dysfunction syndrome are mainly the result of:",
+  "options": {
+   "A": "Prostaglandins",
+   "B": "Leucocytes",
+   "C": "Red blood cells",
+   "D": "Cytokines",
+   "E": "Anti-inflammatory mediators"
+  },
+  "answer": "D",
+  "explanation": "SIRS and MODS are driven by an excessive release of pro-inflammatory cytokines (TNF-alpha, IL-1, IL-6) causing endothelial injury and organ dysfunction.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G4-N24"
+ },
+ {
+  "ncids": [
+   "K0839"
+  ],
+  "stem": "Regarding refeeding syndrome, which of the following statements is true?",
+  "options": {
+   "A": "It is a complication of fasting itself",
+   "B": "It results in hyperphosphataemia",
+   "C": "It occurs only with enteral nutrition",
+   "D": "It occurs due to overly rapid feeding after a period of starvation"
+  },
+  "answer": "D",
+  "explanation": "Refeeding syndrome follows aggressive reintroduction of nutrition after starvation: insulin drives phosphate, potassium and magnesium into cells, causing hypophosphataemia. It can occur with oral, enteral or parenteral feeding.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G4-N25"
+ },
+ {
+  "ncids": [
+   "K0687"
+  ],
+  "stem": "Which of the following statements is most appropriate about total parenteral nutrition (TPN)?",
+  "options": {
+   "A": "It is preferred over the enteral route",
+   "B": "It is indicated when a patient is kept nil by mouth for longer than 2 days",
+   "C": "Carbohydrates, lipids and proteins should be given in a balanced formulation",
+   "D": "It can never be given by a peripheral vein"
+  },
+  "answer": "C",
+  "explanation": "TPN should supply a balanced mix of carbohydrate, lipid and amino acids with electrolytes and micronutrients. Enteral feeding is preferred whenever the gut works, TPN is considered after 5-7 days of inadequate intake, and dilute formulations can be given peripherally for short periods.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G4-N26"
+ }
+]

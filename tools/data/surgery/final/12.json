@@ -1,0 +1,696 @@
+[
+ {
+  "cids": [
+   "C1013"
+  ],
+  "stem": "The liver receives its blood supply from:",
+  "options": {
+   "A": "Portal vein and right and left hepatic arteries",
+   "B": "Hepatic artery",
+   "C": "Portal vein",
+   "D": "Artery directly arising from aorta",
+   "E": "Right hepatic artery"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "The liver has a dual blood supply: the portal vein provides about 75% of flow and the hepatic artery (dividing into right and left branches) about 25%, though the artery supplies roughly half the oxygen.",
+  "key_note": "",
+  "figure": "",
+  "qid": "12-1"
+ },
+ {
+  "cids": [
+   "C0339"
+  ],
+  "stem": "Which test is NOT part of routinely advised liver function tests?",
+  "options": {
+   "A": "Alanine aminotransferase (ALT)",
+   "B": "Aspartate aminotransferase (AST)",
+   "C": "Bilirubin",
+   "D": "Creatinine",
+   "E": "PT/APTT"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Liver function tests comprise bilirubin, transaminases (ALT, AST), ALP, GGT, albumin and clotting (PT), which reflects synthetic function. Creatinine is a renal function test.",
+  "key_note": "",
+  "figure": "",
+  "qid": "12-2"
+ },
+ {
+  "cids": [
+   "C0329"
+  ],
+  "stem": "The Pringle manoeuvre is carried out to:",
+  "options": {
+   "A": "Control haemorrhage from the liver",
+   "B": "Deliver the spleen during laparotomy",
+   "C": "Mobilise the duodenum",
+   "D": "Mobilise the right side of the colon",
+   "E": "Stop bleeding from the spleen"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "The Pringle manoeuvre is clamping of the hepatoduodenal ligament (free edge of the lesser omentum) to occlude the hepatic artery and portal vein, controlling inflow bleeding from the liver. Persistent bleeding despite it suggests hepatic vein or retrohepatic IVC injury.",
+  "key_note": "",
+  "figure": "",
+  "qid": "12-3"
+ },
+ {
+  "cids": [
+   "C0553"
+  ],
+  "stem": "A 45 years patient was diagnosed to be having Hepatitis C. He is having distended abdomen with prominent veins around umbilicus. Enlarged peri-umbilical veins in this patient indicate:",
+  "options": {
+   "A": "Bile duct obstruction",
+   "B": "Intestinal obstruction",
+   "C": "Inferior vena caval obstruction",
+   "D": "Portal venous obstruction",
+   "E": "Superior vena caval obstruction"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Dilated periumbilical veins (caput medusae) form through recanalised paraumbilical veins in the falciform ligament, a portosystemic collateral. Flow radiates away from the umbilicus, unlike IVC obstruction where flow in flank veins is upwards.",
+  "key_note": "",
+  "figure": "",
+  "qid": "12-4"
+ },
+ {
+  "cids": [
+   "C0505"
+  ],
+  "stem": "Which of the following complications of portal hypertension often requires surgical intervention?",
+  "options": {
+   "A": "Hypersplenism",
+   "B": "Variceal haemorrhage",
+   "C": "Encephalopathy",
+   "D": "Ascites",
+   "E": "Haemorrhoids"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Bleeding oesophageal varices is the life-threatening complication of portal hypertension needing intervention (endoscopic banding first, then TIPS or shunt surgery if refractory). Ascites and encephalopathy are managed medically.",
+  "key_note": "",
+  "figure": "",
+  "qid": "12-5"
+ },
+ {
+  "cids": [
+   "C0338"
+  ],
+  "stem": "Most common organism found in pyogenic liver abscess is",
+  "options": {
+   "A": "E. coli",
+   "B": "Staphylococcus aureus",
+   "C": "Neisseria meningitidis",
+   "D": "Pseudomonas aeruginosa",
+   "E": "Haemophilus influenzae"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "E. coli is the commonest organism in pyogenic liver abscess in standard texts, usually via biliary infection or portal pyaemia; Klebsiella pneumoniae is increasingly common, particularly in Asia and in diabetics. Abscesses are often polymicrobial with anaerobes.",
+  "key_note": "",
+  "figure": "",
+  "qid": "12-6"
+ },
+ {
+  "cids": [
+   "C0773"
+  ],
+  "stem": "A fifty years old diabetic woman presents with fever, anorexia and malaise, accompanied by right upper quadrant discomfort. Examination reveals tender enlarged liver. Ultrasonography reveals a multiloculated cystic mass. What is the diagnosis?",
+  "options": {
+   "A": "Polycystic liver disease",
+   "B": "Amoebic liver abscess",
+   "C": "Pyogenic liver abscess",
+   "D": "Hepatoma"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Fever, RUQ pain and tender hepatomegaly with a multiloculated cystic lesion in a diabetic patient is classic pyogenic liver abscess. Amoebic abscess is usually a single, non-loculated lesion in a young man with a history of dysentery.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "12-7"
+ },
+ {
+  "cids": [
+   "C1433"
+  ],
+  "stem": "A 35-year-old woman presents to the surgical OPD with a 5-day history of severe pain in the right hypochondrium, high-grade fever and nausea. On examination her pulse is 110/min, temperature 101 F and there is marked tenderness in the right hypochondrium. There is no jaundice. Chest X-ray shows a raised right hemidiaphragm and a minimal right pleural effusion. What is the most likely diagnosis?",
+  "options": {
+   "A": "Hydatid cyst of liver",
+   "B": "Cholangitis",
+   "C": "Liver abscess",
+   "D": "Acute viral Hepatitis",
+   "E": "Right sided Pyelonephritis"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Swinging fever, RUQ pain and tenderness with a raised right hemidiaphragm and reactive right pleural effusion on chest X-ray is the classic picture of a liver abscess. Absence of jaundice argues against cholangitis.",
+  "key_note": "",
+  "figure": "",
+  "qid": "12-8"
+ },
+ {
+  "cids": [
+   "C0789"
+  ],
+  "stem": "Which of the following is the most accurate approach to therapy for pyogenic hepatic abscess?",
+  "options": {
+   "A": "Antibiotics alone",
+   "B": "Open surgical drainage",
+   "C": "Treat the abscess as well as the underlying source",
+   "D": "Percutaneous drainage"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Pyogenic abscess is secondary in most cases, so treatment is drainage (usually percutaneous) plus antibiotics AND treatment of the source, e.g. biliary obstruction or intra-abdominal sepsis; otherwise it recurs.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "12-9"
+ },
+ {
+  "cids": [
+   "C1435"
+  ],
+  "stem": "A 33-year-old woman has been diagnosed with a large 8x10 cm pyogenic liver abscess in the right lobe of the liver. She has pain in the right hypochondrium with fever and nausea. On examination she is tender in the right hypochondrium and her temperature is 100 F. She is already receiving IV antibiotics and NSAIDs. What is the best strategy for her management?",
+  "options": {
+   "A": "Continue IV antibiotics and supportive treatment",
+   "B": "Open drainage of the abscess by exploratory laparotomy",
+   "C": "Diagnostic laparoscopy and drainage of the abscess",
+   "D": "Percutaneous aspiration of the abscess under ultrasound guidance",
+   "E": "Discharge on oral medication with follow-up after one week"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A large (over 5 cm) pyogenic abscess needs drainage in addition to IV antibiotics; ultrasound or CT-guided percutaneous aspiration or catheter drainage is first line. Open or laparoscopic drainage is reserved for failure of percutaneous drainage, multiloculated or ruptured abscesses.",
+  "key_note": "Paper highlighted A (continue antibiotics) and the compiled key gave B (open drainage); correct is D: an 8x10 cm abscess needs drainage, and percutaneous drainage is first line.",
+  "figure": "",
+  "qid": "12-10"
+ },
+ {
+  "cids": [
+   "C1473",
+   "C0661"
+  ],
+  "stem": "A young male 25 years presented in ER with history of upper abdominal pain radiating to right shoulder along with fever, weight loss and anorexia. On examination there is sick looking male patient with tenderness & rigidity in the right hypochondrium. There is hepatomegaly of 3 finger breadths below costal margin. Past history of dysentery is positive. What is most likely diagnosis?",
+  "options": {
+   "A": "Amoebic liver abscess",
+   "B": "Hemangioma liver",
+   "C": "Hematoma liver",
+   "D": "Hydatid cyst liver",
+   "E": "Liver fluke infestation"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Previous dysentery, fever, weight loss, right shoulder-tip pain and tender hepatomegaly in a young man is classic amoebic liver abscess (Entamoeba histolytica reaching the liver via the portal vein), usually a solitary right lobe cavity; intercostal tenderness, cough and mild jaundice may occur. Hydatid cysts are usually painless unless complicated.",
+  "key_note": "",
+  "figure": "",
+  "qid": "12-11"
+ },
+ {
+  "cids": [
+   "C1126"
+  ],
+  "stem": "A 40-year man presents with fever, right upper quadrant pain, and weight loss over 2 weeks. Ultrasound reveals a solitary 4x5 cm liver abscess in the right lobe. Serology is positive for Entamoeba histolytica. What is the most appropriate initial management?",
+  "options": {
+   "A": "Antifungal therapy",
+   "B": "Empirical IV antibiotics for pyogenic abscess",
+   "C": "Oral metronidazole therapy",
+   "D": "Percutaneous aspiration",
+   "E": "Surgical drainage of abscess"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Uncomplicated amoebic liver abscess responds to metronidazole in over 90% of cases, followed by a luminal agent (diloxanide furoate or paromomycin). Aspiration is reserved for large (over 5-10 cm) or left lobe abscesses, impending rupture or failure to respond in 48-72 hours.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "12-12"
+ },
+ {
+  "cids": [
+   "C0883"
+  ],
+  "stem": "The causative organism of Hydatid disease is:",
+  "options": {
+   "A": "Entamoeba histolytica",
+   "B": "Clostridium difficile",
+   "C": "Echinococcus granulosus",
+   "D": "Echinococcus multilocularis",
+   "E": "Streptococcus milleri"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Hydatid disease (cystic echinococcosis) is caused by the larval stage of the dog tapeworm Echinococcus granulosus; E. multilocularis causes the more aggressive alveolar echinococcosis. Entamoeba histolytica causes amoebic abscess.",
+  "key_note": "One compiled key gave A (Entamoeba histolytica); correct is C.",
+  "figure": "",
+  "qid": "12-13"
+ },
+ {
+  "cids": [
+   "N012"
+  ],
+  "stem": "A farmer presents with eosinophilia and right hypochondrial pain. Which statement is correct?",
+  "options": {},
+  "answer": null,
+  "answer_text": "Hydatid cyst of the liver is likely; CT scan is the best investigating tool.",
+  "explanation": "Farming or contact with dogs and sheep, eosinophilia and RUQ pain point to hydatid cyst of the liver. Ultrasound is the first-line test; CT is the best investigation to define the cyst (daughter cysts, wall calcification, relation to biliary and vascular structures) and plan treatment; serology (ELISA) supports the diagnosis.",
+  "key_note": "Options not available in the source; recall question.",
+  "figure": "",
+  "qid": "12-14"
+ },
+ {
+  "cids": [
+   "C0176"
+  ],
+  "stem": "A 45-year-old farmer is found to have a 10 cm cystic liver lesion. CT shows internal septations and daughter cysts. What is the best initial treatment?",
+  "options": {
+   "A": "Laparoscopic fenestration",
+   "B": "High-dose albendazole",
+   "C": "Surgical resection",
+   "D": "Watchful waiting",
+   "E": "IV antibiotics"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Albendazole is started first: it is given before (and after) any intervention to sterilise the cyst and reduce the risk of secondary hydatidosis from spillage. A large cyst with daughter cysts then needs surgery (conservative or radical cystectomy) or PAIR in suitable cysts, as drugs alone rarely cure a 10 cm multivesicular cyst.",
+  "key_note": "Both copies marked B; this is defensible as the initial step, but remember that definitive treatment of a large multivesicular cyst is surgical.",
+  "figure": "",
+  "qid": "12-15"
+ },
+ {
+  "cids": [
+   "C0178"
+  ],
+  "stem": "A 28-year-old woman on oral contraceptives is found to have a 7 cm liver lesion. CT shows a well-demarcated, hypervascular lesion without a central scar. Alpha-fetoprotein (AFP) is normal. What is the most appropriate management?",
+  "options": {
+   "A": "Stop OCPs and observe",
+   "B": "Liver biopsy",
+   "C": "Surgical resection",
+   "D": "Radiofrequency ablation (RFA)",
+   "E": "Transarterial chemoembolisation (TACE)"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "A well-demarcated hypervascular lesion without a central scar in a young woman on the pill is a hepatocellular adenoma (FNH has a central scar). Initial management is to stop the OCP and re-image at about 6 months, as many regress; resection is advised if it remains 5 cm or more, grows, bleeds, or occurs in a man.",
+  "key_note": "Both copies marked A; this follows current EASL guidance. Older teaching resects adenomas over 5 cm at once, so be aware of that alternative.",
+  "figure": "",
+  "qid": "12-16"
+ },
+ {
+  "cids": [
+   "C1434",
+   "C0580"
+  ],
+  "stem": "A 67-year-old man presents with a solitary 5x6 cm space-occupying lesion in the left lobe of his liver. He is a known case of hepatitis C for which he completed interferon therapy 3 years ago. Ultrasound also shows a coarse liver texture but no portal hypertension. He is hypertensive and diabetic on regular medication. What is the most likely provisional diagnosis?",
+  "options": {
+   "A": "Liver haemangioma",
+   "B": "Hydatid cyst of liver",
+   "C": "Hepatocellular carcinoma",
+   "D": "Pyogenic liver abscess",
+   "E": "Amoebic liver abscess"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A solitary mass in a coarse-textured (cirrhotic) liver of a hepatitis C patient is HCC until proven otherwise, even after successful antiviral therapy. Confirm with triphasic CT and AFP.",
+  "key_note": "The source stem also said 'no internal echoes in the mass', which was removed as misleading (HCC is a solid lesion); the intended answer is clearly C.",
+  "figure": "",
+  "qid": "12-17"
+ },
+ {
+  "cids": [
+   "C1311"
+  ],
+  "stem": "Which tumour marker is most commonly used to detect the presence of a suspected primary liver cancer (hepatocellular carcinoma)?",
+  "options": {
+   "A": "CA-125",
+   "B": "CA-19-9",
+   "C": "AFP",
+   "D": "BRCA 1",
+   "E": "BRCA2"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Alpha-fetoprotein is the tumour marker for hepatocellular carcinoma (raised in about 70%). CA 19-9 is for pancreaticobiliary cancer, CA-125 for ovarian cancer, and BRCA genes are hereditary breast and ovarian cancer genes.",
+  "key_note": "",
+  "figure": "",
+  "qid": "12-18"
+ },
+ {
+  "cids": [
+   "C0164"
+  ],
+  "stem": "A 65-year man with a history of chronic hepatitis B presents with weight loss and RUQ mass. The Alpha fetoprotein is markedly elevated. What is the most appropriate next diagnostic step?",
+  "options": {
+   "A": "Liver biopsy",
+   "B": "Triphasic CT abdomen",
+   "C": "MRI abdomen without contrast",
+   "D": "PET scan",
+   "E": "MRCP"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "In a hepatitis B patient with a liver mass and markedly raised AFP, multiphasic (triphasic) contrast CT showing arterial enhancement with portal venous washout is diagnostic of HCC, so biopsy is usually unnecessary and risks needle-track seeding.",
+  "key_note": "",
+  "figure": "",
+  "qid": "12-19"
+ },
+ {
+  "cids": [
+   "C0171"
+  ],
+  "stem": "A 55-year man with cirrhosis is undergoing evaluation for liver transplantation. Which of the following is an absolute contraindication?",
+  "options": {
+   "A": "Portal vein thrombosis",
+   "B": "Hepatocellular carcinoma within Milan criteria",
+   "C": "Active alcohol use",
+   "D": "Mild abdominal Ascites",
+   "E": "Previous abdominal surgery"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Ongoing alcohol (or substance) misuse is an absolute contraindication to liver transplantation; most centres require a period of abstinence. HCC within Milan criteria is an indication, and portal vein thrombosis or previous surgery make the operation harder but are not absolute bars.",
+  "key_note": "",
+  "figure": "",
+  "qid": "12-20"
+ },
+ {
+  "cids": [
+   "C0506"
+  ],
+  "stem": "A 56-year-old man with hepatocellular carcinoma had a liver transplant. Postoperatively he is on an essential immunosuppressive medicine together with IV antibiotics, and he has a continuous fever. The most dreaded complication of this immunosuppressive medicine after organ transplantation is:",
+  "options": {
+   "A": "Bacterial infection.",
+   "B": "Opportunistic infection.",
+   "C": "Post-transplant lymphoproliferative disorder.",
+   "D": "Reactivation of latent virus.",
+   "E": "Malaria."
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Immunosuppression after transplantation predisposes to opportunistic infections (CMV, Pneumocystis, fungi), the most feared early cause of death, especially in the first 6 months. PTLD is a later complication.",
+  "key_note": "",
+  "figure": "",
+  "qid": "12-21"
+ },
+ {
+  "ncids": [
+   "K0141"
+  ],
+  "stem": "The PAIR procedure is used for the treatment of:",
+  "options": {
+   "A": "Bone cyst",
+   "B": "Choledochal cyst",
+   "C": "Hydatid cyst",
+   "D": "Ovarian cyst",
+   "E": "Sebaceous cyst"
+  },
+  "answer": "C",
+  "explanation": "PAIR (Puncture, Aspiration, Injection of a scolicidal agent such as hypertonic saline, Re-aspiration) is a percutaneous treatment for hepatic hydatid cysts, given under albendazole cover. It is avoided when the cyst communicates with the biliary tree.",
+  "key_note": "",
+  "_new": true,
+  "qid": "12-N1"
+ },
+ {
+  "ncids": [
+   "K0356"
+  ],
+  "stem": "A 56-year-old man has been vomiting fresh blood since this morning. His wife says he has a long history of alcohol abuse, drinking at least a bottle a day. What is the most likely cause of his bleeding?",
+  "options": {
+   "A": "Dieulafoy lesion",
+   "B": "Duodenal ulcer",
+   "C": "Gastric ulcer",
+   "D": "Oesophageal varices",
+   "E": "Oesophagitis"
+  },
+  "answer": "D",
+  "explanation": "Heavy long-term alcohol use leads to cirrhosis and portal hypertension, and bleeding oesophageal varices typically present with brisk fresh haematemesis. Peptic ulcer remains the commonest cause of upper GI bleeding overall, but the alcohol history points to varices.",
+  "key_note": "",
+  "_new": true,
+  "qid": "12-N2"
+ },
+ {
+  "ncids": [
+   "K0373"
+  ],
+  "stem": "Which of the following statements about the segmental anatomy of the liver is true?",
+  "options": {
+   "A": "Segments are subdivisions in the German system",
+   "B": "Segments are determined primarily by hepatic bile drainage",
+   "C": "There are seven segments for hepatic resection",
+   "D": "Segments are important for understanding the topographic anatomy"
+  },
+  "answer": "D",
+  "explanation": "Couinaud's (French) classification divides the liver into 8 functional segments defined by portal venous and hepatic arterial inflow with hepatic veins as boundaries; it underpins topographic anatomy and segmental resection. Bile drainage does not define the segments.",
+  "key_note": "",
+  "_new": true,
+  "qid": "12-N3"
+ },
+ {
+  "ncids": [
+   "K0379",
+   "K1642"
+  ],
+  "stem": "A 50-year-old farmer has continuous dull pain in the right upper abdomen for 6 weeks. There is a palpable mass arising from the right lobe of the liver, eosinophilia on blood count, and CT shows a right lobe cystic lesion with a floating membrane. What is the most likely diagnosis?",
+  "options": {
+   "A": "Amoebic liver abscess",
+   "B": "Acute hepatitis",
+   "C": "Haemangioma of liver",
+   "D": "Mucocele of gallbladder",
+   "E": "Hydatid cyst"
+  },
+  "answer": "E",
+  "explanation": "A floating, detached laminated membrane (water-lily sign) in a liver cyst with eosinophilia in a farmer is diagnostic of hydatid disease (Echinococcus granulosus). Amoebic abscess has no membrane and follows dysentery.",
+  "key_note": "",
+  "_new": true,
+  "qid": "12-N4"
+ },
+ {
+  "ncids": [
+   "K0382"
+  ],
+  "stem": "A 30-year-old man has an incidental liver lesion on ultrasound reported as benign. What is the commonest benign hepatic lesion?",
+  "options": {
+   "A": "Adenoma",
+   "B": "Focal nodular hyperplasia",
+   "C": "Haemangioma",
+   "D": "Lymphoma",
+   "E": "Lipoma"
+  },
+  "answer": "C",
+  "explanation": "Cavernous haemangioma is the commonest benign liver tumour, followed by focal nodular hyperplasia; hepatic adenoma is rare and linked to oral contraceptives. Lymphoma is not benign.",
+  "key_note": "Bank marked A; correct is C because haemangioma is by far the commonest benign liver lesion, while adenoma is uncommon.",
+  "_new": true,
+  "qid": "12-N5"
+ },
+ {
+  "ncids": [
+   "K0402"
+  ],
+  "stem": "Hepatic echinococcosis caused by Echinococcus granulosus:",
+  "options": {
+   "A": "Is not endemic to parts of Europe and the United States",
+   "B": "Is a neoplasm",
+   "C": "Is more deadly than the Echinococcus multilocularis form",
+   "D": "Is usually curable by resection"
+  },
+  "answer": "D",
+  "explanation": "E. granulosus forms well-defined unilocular cysts that can usually be cured by surgical excision (cystectomy or resection) with albendazole cover. E. multilocularis (alveolar echinococcosis) is infiltrative, behaves like a malignancy and is more lethal.",
+  "key_note": "",
+  "_new": true,
+  "qid": "12-N6"
+ },
+ {
+  "ncids": [
+   "K0577"
+  ],
+  "stem": "Options for treating a patient with acute massive upper GI bleeding from oesophageal varices include all of the following EXCEPT:",
+  "options": {
+   "A": "IV fluids such as Ringer's lactate",
+   "B": "Blood and blood product transfusion",
+   "C": "Upper GI endoscopy and band ligation",
+   "D": "Insertion of a Sengstaken-Blakemore tube",
+   "E": "Insertion of a self-expanding metal stent (SEMS) as for malignant stricture"
+  },
+  "answer": "E",
+  "explanation": "Variceal bleeding is managed by resuscitation, transfusion, vasoactive drugs, antibiotics, endoscopic banding, and balloon tamponade with a Sengstaken-Blakemore tube as a bridge, then TIPS. Conventional SEMS are used to palliate malignant dysphagia, not as standard variceal therapy.",
+  "key_note": "",
+  "_new": true,
+  "qid": "12-N7"
+ },
+ {
+  "ncids": [
+   "K0591"
+  ],
+  "stem": "A 40-year-old woman on oral contraceptives has an ultrasound for gallstones which shows gallstones and a well-defined 2 x 2 cm mass in the right lobe of the liver. What is the most likely diagnosis of the liver mass?",
+  "options": {
+   "A": "Focal nodular hyperplasia",
+   "B": "Hepatic adenoma",
+   "C": "Hepatocellular carcinoma",
+   "D": "Haemangioma",
+   "E": "Hydatid cyst of liver"
+  },
+  "answer": "B",
+  "explanation": "Hepatic adenoma is strongly associated with oral contraceptive use in women of reproductive age and carries risks of haemorrhage and malignant change. FNH is not hormone-dependent in the same way and usually has a central scar.",
+  "key_note": "",
+  "_new": true,
+  "qid": "12-N8"
+ },
+ {
+  "ncids": [
+   "K0652",
+   "K0873"
+  ],
+  "stem": "How many segments does the adult liver have according to Couinaud's classification?",
+  "options": {
+   "A": "2",
+   "B": "4",
+   "C": "6",
+   "D": "8"
+  },
+  "answer": "D",
+  "explanation": "Couinaud divided the liver into 8 functionally independent segments, each with its own portal pedicle and hepatic venous drainage. Segment I is the caudate lobe.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "12-N9"
+ },
+ {
+  "ncids": [
+   "K0653"
+  ],
+  "stem": "Which of the following is WRONG about hepatitis C?",
+  "options": {
+   "A": "About 1% of blood donors are HCV positive",
+   "B": "Chronic hepatitis C progresses to cirrhosis in about 20% of cases",
+   "C": "The chance of developing hepatic malignancy is negligible",
+   "D": "Deteriorating hepatic encephalopathy in HCV cirrhosis is an indication for liver transplantation"
+  },
+  "answer": "C",
+  "explanation": "Chronic HCV with cirrhosis is a major cause of hepatocellular carcinoma, with an annual risk of about 1 to 4%. About 20% progress to cirrhosis over 20 years, and decompensated HCV cirrhosis is a leading indication for transplantation.",
+  "key_note": "",
+  "_new": true,
+  "qid": "12-N10"
+ },
+ {
+  "ncids": [
+   "K1408"
+  ],
+  "stem": "Variceal bleeding secondary to portal vein thrombosis (extrahepatic portal venous obstruction) is best treated by:",
+  "options": {
+   "A": "TIPSS",
+   "B": "Endoscopic sclerotherapy",
+   "C": "Gastro-oesophageal devascularisation",
+   "D": "Octreotide"
+  },
+  "answer": "B",
+  "explanation": "In extrahepatic portal vein thrombosis, liver function is preserved and endoscopic therapy (sclerotherapy or band ligation) is the treatment of choice for variceal bleeding. TIPSS is not feasible with a thrombosed portal vein, and devascularisation or shunt surgery is reserved for failure of endoscopic therapy.",
+  "key_note": "Bank keyed C; correct is B because endoscopic sclerotherapy or banding is first-line for EHPVO variceal bleeding and devascularisation is only for endoscopic failure.",
+  "_new": true,
+  "qid": "12-N11"
+ },
+ {
+  "ncids": [
+   "K1411"
+  ],
+  "stem": "The most common complication of hepatic hydatid disease is:",
+  "options": {
+   "A": "Jaundice",
+   "B": "Rupture into the peritoneal cavity",
+   "C": "Suppuration",
+   "D": "Rupture into the biliary channels"
+  },
+  "answer": "D",
+  "explanation": "Intrabiliary rupture (communication with the bile ducts) is the commonest complication of hepatic hydatid cysts, causing obstructive jaundice and cholangitis from daughter cysts. Free intraperitoneal rupture is less common but can cause anaphylaxis.",
+  "key_note": "",
+  "_new": true,
+  "qid": "12-N12"
+ },
+ {
+  "ncids": [
+   "K1443"
+  ],
+  "stem": "Regarding amoebic liver abscess, which statement is TRUE?",
+  "options": {
+   "A": "The trophozoite of E. histolytica is the infective form",
+   "B": "Amoebic liver abscess is mostly solitary",
+   "C": "Open surgical drainage is the treatment of choice",
+   "D": "High-grade fever with rigors is the usual presentation",
+   "E": "The left lobe of the liver is the commonest site"
+  },
+  "answer": "B",
+  "explanation": "Amoebic liver abscess is usually solitary and in the right lobe; treatment is metronidazole, with aspiration only for large or non-responding abscesses. The cyst, not the trophozoite, is the infective form.",
+  "key_note": "Not marked in the source bank; answer by reviewer. Option A reworded because the original ('cyst of E. histolytica is the infective form') is also true.",
+  "_new": true,
+  "qid": "12-N13"
+ },
+ {
+  "ncids": [
+   "K1444"
+  ],
+  "stem": "Regarding pyogenic liver abscess, which statement is TRUE?",
+  "options": {
+   "A": "Infection is usually polymicrobial",
+   "B": "Plain CT scan abdomen is the investigation of choice",
+   "C": "Open surgical drainage must be done if the patient does not improve within a week after starting antibiotics",
+   "D": "Pyogenic liver abscess is seldom fatal",
+   "E": "A single antibiotic is mostly used"
+  },
+  "answer": "A",
+  "explanation": "Pyogenic liver abscesses are usually polymicrobial (E. coli, Klebsiella, streptococci, anaerobes), most often of biliary origin. Contrast CT or ultrasound is used, percutaneous drainage is preferred over open surgery, and untreated abscesses are often fatal.",
+  "key_note": "",
+  "_new": true,
+  "qid": "12-N14"
+ },
+ {
+  "ncids": [
+   "K1448"
+  ],
+  "stem": "Which of the following statements about pyogenic abscess of the liver is TRUE?",
+  "options": {
+   "A": "Appendicular abscess is the most common underlying cause",
+   "B": "CT scan is rarely helpful",
+   "C": "Open surgical drainage is the treatment of choice",
+   "D": "Staphylococcus aureus is the commonest organism",
+   "E": "The right lobe is more commonly involved than the left lobe"
+  },
+  "answer": "E",
+  "explanation": "The right lobe is involved more often because it is larger and receives most of the portal (streaming) blood flow. Biliary disease is now the commonest cause, E. coli and Klebsiella are the commonest organisms, and percutaneous drainage is preferred.",
+  "key_note": "",
+  "_new": true,
+  "qid": "12-N15"
+ },
+ {
+  "ncids": [
+   "K1447"
+  ],
+  "stem": "The most common site of hydatid cyst is:",
+  "options": {
+   "A": "Brain",
+   "B": "Lung",
+   "C": "Liver",
+   "D": "Spleen",
+   "E": "Pancreas"
+  },
+  "answer": "C",
+  "explanation": "Echinococcus embryos reach the liver first via the portal vein, so about two-thirds of hydatid cysts are hepatic; the lung is second.",
+  "key_note": "",
+  "_new": true,
+  "qid": "12-N16"
+ },
+ {
+  "ncids": [
+   "K0374"
+  ],
+  "stem": "Which of the following is true regarding the blood supply of the liver?",
+  "options": {
+   "A": "The hepatic artery supplies the same amount of blood as the portal vein",
+   "B": "The portal vein provides more blood to the bile ducts than the hepatic artery",
+   "C": "Detoxification in the liver is mainly of portal venous blood",
+   "D": "The hepatic artery supplies no blood to hepatic metastases"
+  },
+  "answer": "C",
+  "explanation": "Portal venous blood (about 75% of liver inflow) carries absorbed gut substances that the liver metabolises and detoxifies. The bile ducts and liver metastases are supplied mainly by the hepatic artery, which provides only about 25% of inflow.",
+  "key_note": "Bank starred B; correct is C because the biliary tree is supplied by the hepatic artery, not the portal vein.",
+  "_new": true,
+  "qid": "12-N17"
+ }
+]

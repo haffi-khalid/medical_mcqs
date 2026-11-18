@@ -1,0 +1,166 @@
+[
+ {
+  "cids": [
+   "C0083"
+  ],
+  "stem": "A patient with cardiac tamponade has a low-voltage ECG. What could be the most likely cause?",
+  "options": {
+   "A": "Pericardial effusion",
+   "B": "Myocardial infarction",
+   "C": "Cardiac ischemia",
+   "D": "Electrolyte imbalance",
+   "E": "Medication effect"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Low-voltage QRS complexes (with electrical alternans) in tamponade are caused by the pericardial effusion damping the electrical signal between heart and chest wall.",
+  "key_note": "",
+  "figure": "",
+  "qid": "33-1"
+ },
+ {
+  "cids": [
+   "C0084"
+  ],
+  "stem": "A patient with cardiac tamponade requires surgical drainage. What would the most appropriate surgical approach?",
+  "options": {
+   "A": "Median sternotomy",
+   "B": "Left thoracotomy",
+   "C": "Right thoracotomy",
+   "D": "Subxiphoid approach",
+   "E": "Thoracoscopic approach"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "The subxiphoid approach allows quick drainage of the pericardium and creation of a pericardial window under local or general anaesthesia with minimal morbidity; median sternotomy or thoracotomy is reserved for traumatic tamponade needing cardiac repair.",
+  "key_note": "",
+  "figure": "",
+  "qid": "33-2"
+ },
+ {
+  "cids": [
+   "C0082"
+  ],
+  "stem": "A patient undergoes pericardial window procedure for cardiac tamponade. What is the main purpose of this procedure?",
+  "options": {
+   "A": "To drain the pericardial fluid",
+   "B": "To repair the pericardium",
+   "C": "To prevent recurrence of tamponade",
+   "D": "To diagnose the cause of tamponade",
+   "E": "To improve cardiac function"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A pericardial window drains the effusion continuously into the pleural or peritoneal cavity, so its main purpose over simple pericardiocentesis is to prevent reaccumulation and recurrent tamponade (and it gives tissue for diagnosis).",
+  "key_note": "Papers disagreed: one key marked C, another highlighted A (To drain the pericardial fluid); C is the best answer, as drainage alone can be done by pericardiocentesis.",
+  "figure": "",
+  "qid": "33-3"
+ },
+ {
+  "ncids": [
+   "K0506"
+  ],
+  "stem": "A 68-year-old man underwent coronary artery bypass surgery. Regarding the conduits used for bypass grafting, which of the following is false?",
+  "options": {
+   "A": "Short saphenous vein graft is used",
+   "B": "Great saphenous vein graft is used",
+   "C": "Radial artery graft is used",
+   "D": "Femoral artery graft is used",
+   "E": "Left internal mammary artery is used"
+  },
+  "answer": "D",
+  "explanation": "CABG conduits include the internal mammary (thoracic) arteries, radial artery, great saphenous vein and, if needed, short saphenous vein. The femoral artery is never harvested as it supplies the whole lower limb.",
+  "key_note": "",
+  "_new": true,
+  "qid": "33-N1"
+ },
+ {
+  "ncids": [
+   "K0612"
+  ],
+  "stem": "Which is the most commonly used conduit in coronary artery bypass graft (CABG) surgery?",
+  "options": {
+   "A": "Radial artery",
+   "B": "Left internal mammary artery",
+   "C": "Great saphenous vein",
+   "D": "Short saphenous vein",
+   "E": "Femoral vein"
+  },
+  "answer": "C",
+  "explanation": "The great saphenous vein remains the most frequently used conduit overall because several grafts are usually needed. The left internal mammary artery is the best conduit (to the LAD) with superior long-term patency, but typically only one is used per patient.",
+  "key_note": "",
+  "_new": true,
+  "qid": "33-N2"
+ },
+ {
+  "ncids": [
+   "K0613"
+  ],
+  "stem": "Regarding the coronary arteries, which of the following statements is true?",
+  "options": {
+   "A": "The left main coronary artery arises from the aortic root",
+   "B": "The right coronary artery arises from the pulmonary trunk",
+   "C": "The left anterior descending artery is the least often bypassed vessel in CABG",
+   "D": "The circumflex artery is the most often bypassed vessel in CABG",
+   "E": "The left coronary artery continues as the posterior interventricular artery"
+  },
+  "answer": "A",
+  "explanation": "Both coronary arteries arise from the aortic sinuses at the aortic root. The LAD is the most frequently grafted vessel, and the posterior interventricular artery usually arises from the right coronary artery.",
+  "key_note": "Options repaired: the source listed 'right coronary artery arises from aortic root', which is also true, giving two correct answers; option B was reworded to keep the bank's answer A as the single best answer.",
+  "_new": true,
+  "qid": "33-N3"
+ },
+ {
+  "ncids": [
+   "K0614"
+  ],
+  "stem": "What is the gold standard investigation for imaging the coronary vessels?",
+  "options": {
+   "A": "Echocardiography",
+   "B": "CT scan of the heart",
+   "C": "Cardiac enzymes",
+   "D": "Coronary angiography",
+   "E": "Angioplasty"
+  },
+  "answer": "D",
+  "explanation": "Invasive coronary angiography remains the gold standard for defining coronary anatomy and stenoses before revascularisation. CT coronary angiography is a useful non-invasive alternative, and angioplasty is a treatment, not an investigation.",
+  "key_note": "",
+  "_new": true,
+  "qid": "33-N4"
+ },
+ {
+  "ncids": [
+   "K1270"
+  ],
+  "stem": "In atherosclerotic ischaemic heart disease, disease of which coronary artery is of particular significance for prognosis?",
+  "options": {
+   "A": "Right coronary artery",
+   "B": "Left (main) coronary artery",
+   "C": "Left anterior descending artery",
+   "D": "Circumflex branch of the left coronary artery",
+   "E": "Marginal branch of the right coronary artery"
+  },
+  "answer": "B",
+  "explanation": "Significant left main stem stenosis jeopardises most of the left ventricular myocardium and carries the worst prognosis; it is a clear indication for CABG. Proximal LAD disease is the next most important.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "33-N5"
+ },
+ {
+  "ncids": [
+   "K1402"
+  ],
+  "stem": "Chronic constrictive pericarditis presents with all of the following EXCEPT:",
+  "options": {
+   "A": "Raised CVP",
+   "B": "Tender hepatomegaly",
+   "C": "Ascites and oedema of the feet",
+   "D": "Marked cardiomegaly"
+  },
+  "answer": "D",
+  "explanation": "In constrictive pericarditis a rigid pericardium restricts filling, producing raised JVP, hepatomegaly, ascites and oedema, but the heart is normal sized or small. Marked cardiomegaly suggests effusion or cardiomyopathy instead.",
+  "key_note": "",
+  "_new": true,
+  "qid": "33-N6"
+ }
+]

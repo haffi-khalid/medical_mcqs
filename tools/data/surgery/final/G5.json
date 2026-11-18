@@ -1,0 +1,1336 @@
+[
+ {
+  "cids": [
+   "C0643"
+  ],
+  "stem": "Which of the following would be considered a \"tidy\" (clean) wound?",
+  "options": {
+   "A": "Midline incision in feculent peritonitis",
+   "B": "Mangled hand",
+   "C": "Laceration on leg with visible debris",
+   "D": "Burn wound with purulent discharge",
+   "E": "Incision for thyroidectomy"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "A surgical incision such as a thyroidectomy wound is the classic tidy wound: clean-cut, uncontaminated, with healthy edges and no tissue loss. Contaminated, crushed, burnt or infected wounds are untidy.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G5-1"
+ },
+ {
+  "cids": [
+   "N001"
+  ],
+  "stem": "How is a contaminated injury such as a degloving injury with dirt and debris classified?",
+  "options": {},
+  "answer": null,
+  "answer_text": "Untidy wound",
+  "explanation": "Untidy wounds are caused by crushing, tearing, avulsion, contamination or devitalisation; they need debridement and are usually not closed primarily.",
+  "key_note": "Options not available in the source; recall question.",
+  "figure": "",
+  "qid": "G5-2"
+ },
+ {
+  "cids": [
+   "C0668"
+  ],
+  "stem": "A 2-year-old toddler falls while playing, sustaining a bruise on his knee. Which cell type is responsible for cessation of blood flow in his wound healing process?",
+  "options": {
+   "A": "Fibroblasts",
+   "B": "lymphocytes",
+   "C": "Macrophage",
+   "D": "Neutrophils",
+   "E": "Platelets"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Haemostasis is the first event in wound healing: platelets adhere to exposed collagen, aggregate into a plug and release clotting factors and growth factors (PDGF, TGF-beta). Neutrophils and macrophages arrive later in the inflammatory phase.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G5-3"
+ },
+ {
+  "cids": [
+   "C0445"
+  ],
+  "stem": "Regarding wound healing, the inflammatory phase begins:",
+  "options": {
+   "A": "Immediately after wounding",
+   "B": "One day after wounding",
+   "C": "Two days after wounding",
+   "D": "Three days after wounding",
+   "E": "Four days after wounding"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "The inflammatory phase starts immediately after injury, with haemostasis and release of mediators that attract neutrophils within hours.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G5-4"
+ },
+ {
+  "cids": [
+   "C0640"
+  ],
+  "stem": "The inflammatory phase of wound healing lasts for:",
+  "options": {
+   "A": "2 to 3 days",
+   "B": "3 days to 3 weeks",
+   "C": "7 to 14 days",
+   "D": "2 weeks to 4 weeks",
+   "E": "3 months to 1 year"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Inflammation occupies the first few days (roughly day 0 to 3-5); the proliferative phase follows from about day 3 to 3 weeks, and remodelling continues for up to a year or more.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G5-5"
+ },
+ {
+  "cids": [
+   "C0641"
+  ],
+  "stem": "Which of the following is the main feature of the proliferative phase of wound healing?",
+  "options": {
+   "A": "Fibroblastic activity",
+   "B": "Inflammation",
+   "C": "Bleeding",
+   "D": "Vasoconstriction",
+   "E": "Thrombus formation"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "The proliferative phase is dominated by fibroblasts laying down collagen (initially type III), with angiogenesis and granulation tissue formation. Bleeding, vasoconstriction and thrombus belong to haemostasis.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G5-6"
+ },
+ {
+  "cids": [
+   "C0642"
+  ],
+  "stem": "The remodelling phase of wound healing is characterised by:",
+  "options": {
+   "A": "Re-epithelialization",
+   "B": "Increased Vascular permeability",
+   "C": "Cross-linkage of Collagen fibers",
+   "D": "Migration of macrophages",
+   "E": "ADP release"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "In remodelling (maturation), type III collagen is replaced by type I and collagen fibres become cross-linked and reorganised along lines of tension, increasing tensile strength. Re-epithelialisation and macrophage migration occur earlier.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G5-7"
+ },
+ {
+  "cids": [
+   "N003"
+  ],
+  "stem": "What is the predominant type of collagen in a hypertrophic scar?",
+  "options": {},
+  "answer": null,
+  "answer_text": "Type III collagen",
+  "explanation": "Immature and hypertrophic scars contain a high proportion of type III collagen, which is gradually replaced by type I collagen as the scar matures.",
+  "key_note": "Options not available in the source; recall question.",
+  "figure": "",
+  "qid": "G5-8"
+ },
+ {
+  "cids": [
+   "C0833"
+  ],
+  "stem": "Which of the following tissues heals without scar formation?",
+  "options": {
+   "A": "Liver",
+   "B": "Skin",
+   "C": "Bone",
+   "D": "Muscle",
+   "E": "Heart"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Bone is the classic tissue that heals by regeneration, with fracture callus remodelled into normal lamellar bone rather than fibrous scar. Liver hepatocytes regenerate, but if the connective tissue framework is damaged the liver heals with fibrosis.",
+  "key_note": "The paper marked A (Liver); correct is C: bone heals by true regeneration without scar, whereas liver heals with fibrosis when its framework is disrupted.",
+  "figure": "",
+  "qid": "G5-9"
+ },
+ {
+  "cids": [
+   "C0684"
+  ],
+  "stem": "Which of the following statements is most appropriate regarding wound healing?",
+  "options": {
+   "A": "Primary repair of all structures should be attempted in untidy wound to achieve primary healing",
+   "B": "Delayed primary repair involves immediate closure of wound",
+   "C": "A crush wound is for primary healing",
+   "D": "Healing by primary intention results in best scar",
+   "E": "Healing by secondary intention leaves minimal scar and deformity"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Primary intention healing of a clean, apposed wound gives the narrowest, best scar. Untidy and crushed wounds should not be closed primarily, delayed primary closure is done after a few days (not immediately), and secondary intention leaves a wider scar with contracture.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G5-10"
+ },
+ {
+  "cids": [
+   "C0688",
+   "C1189"
+  ],
+  "stem": "A 24-year-old man with a gunshot wound to the abdomen is found at laparotomy to have a significant sigmoid colon injury with gross faecal spillage. A Hartmann procedure with colostomy is performed, the fascia is closed and the skin is left open. How will this skin wound heal?",
+  "options": {
+   "A": "It will not heal",
+   "B": "Primary intention",
+   "C": "Secondary intention",
+   "D": "Tertiary intension",
+   "E": "Quaternary intention"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A skin wound that is left open to granulate and contract heals by secondary intention. Tertiary intention (delayed primary closure) only applies if the surgeon later returns to suture the open wound, as in the enteric perforation scenario.",
+  "key_note": "The paper key marked D (Tertiary intention); correct is C, because the wound as described is simply left open with no planned delayed closure.",
+  "figure": "",
+  "qid": "G5-11"
+ },
+ {
+  "cids": [
+   "C0644"
+  ],
+  "stem": "A 20 years old man undergoes laparotomy for peritonitis secondary to enteric perforation. His skin incision is initially left open for 7 days and then sutured. How would you characterize this type of healing?",
+  "options": {
+   "A": "Healing by Primary intention",
+   "B": "Healing by Secondary intention",
+   "C": "Healing by Tertiary intention",
+   "D": "Healing by Quaternary intention",
+   "E": "Advanced healing"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Leaving a contaminated wound open for several days and then suturing it once clean is delayed primary closure, also called healing by tertiary intention.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G5-12"
+ },
+ {
+  "cids": [
+   "C1057"
+  ],
+  "stem": "Delayed primary sutures are applied:",
+  "options": {
+   "A": "When patient presents late.",
+   "B": "In case of simple lacerated wounds.",
+   "C": "When wound infection has been controlled",
+   "D": "In wound after midline laparotomy.",
+   "E": "In repair of recurrent hernia."
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Delayed primary suture is used for contaminated wounds: the wound is left open, and once contamination or infection is controlled (usually 3-5 days) the edges are sutured.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G5-13"
+ },
+ {
+  "cids": [
+   "C0906"
+  ],
+  "stem": "What is meant by SECONDARY sutures?",
+  "options": {
+   "A": "Skin closure of a wound 6 hours after surgery",
+   "B": "Skin closure of a wound one day after surgery",
+   "C": "Suturing with double-knot technique",
+   "D": "Suturing a wound again after control of wound infection"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Secondary suture is closure of a wound that has broken down or become infected, done after infection is controlled and healthy granulation tissue has formed (usually after 10-14 days). Closure at 3-5 days before granulation is delayed primary suture.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G5-14"
+ },
+ {
+  "cids": [
+   "C0645"
+  ],
+  "stem": "A 37 years old factory worker presents with a deep laceration on the anterior aspect of his Right mid forearm caused by a sharp piece of steel. There is visible profuse bleed from the wound. How would you proceed in managing his wound initially?",
+  "options": {
+   "A": "Skin should be closed as the bleeding will stop itself",
+   "B": "Cauterize the whole wound",
+   "C": "Apply hemostats in poor visibility to control bleeding",
+   "D": "Apply local pressure and elevate the arm while organizing a tourniquet",
+   "E": "Explore the brachial artery and then securely ligate it to control hemorrhage."
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "External bleeding from a limb wound is controlled first by direct pressure and elevation, with a tourniquet as backup. Blind application of haemostats risks damaging nerves, and ligating the brachial artery is not appropriate first aid.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G5-15"
+ },
+ {
+  "cids": [
+   "C0896"
+  ],
+  "stem": "Debridement is defined as:",
+  "options": {
+   "A": "Excision of one mm of skin from edge of wound",
+   "B": "Excision of all dead muscles",
+   "C": "Partial amputation",
+   "D": "Laying open all layers of a wound and excision of devitalized tissue"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Debridement means laying the wound open through all layers and excising all dead, devitalised and contaminated tissue, back to healthy bleeding tissue.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G5-16"
+ },
+ {
+  "cids": [
+   "C1076"
+  ],
+  "stem": "Debridement is invariably needed in contaminated wounds, such as lacerated and crushed injuries from a high-impact road traffic accident. Which of the following statements regarding debridement is NOT true?",
+  "options": {
+   "A": "The wound thoroughly washed with antiseptic solution",
+   "B": "It is better done through a long incision.",
+   "C": "All doubtful tissue should be removed.",
+   "D": "It frequently involves leaving the wound open.",
+   "E": "It involves definitive repair treatment."
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Debridement is a preparatory step: the wound is extended, washed, all doubtful tissue excised and often left open. Definitive repair (closure, grafting, flap) is done later once the wound is clean.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G5-17"
+ },
+ {
+  "cids": [
+   "C0446",
+   "C1056"
+  ],
+  "stem": "A patient sustained extensive laceration of right forearm which is contaminated and there is lot of devitalized tissue in the wound. Best treatment option in this patient is:",
+  "options": {
+   "A": "Primary suturing",
+   "B": "Wash with copious saline, debridement and leave wound open",
+   "C": "Debridement and suturing",
+   "D": "Dressing and elevation",
+   "E": "Intravenous antibiotics alone"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "A contaminated wound with devitalised tissue must be irrigated with copious saline, debrided back to healthy tissue and left open for delayed primary closure. Suturing it risks infection and breakdown, and antibiotics are only an adjunct.",
+  "key_note": "Merged with a crush-injury version whose compiled key gave IV antibiotics; debridement is correct. Duplicate option (D and E identical) in the source paper replaced with 'Intravenous antibiotics alone'.",
+  "figure": "",
+  "qid": "G5-18"
+ },
+ {
+  "cids": [
+   "C1070"
+  ],
+  "stem": "26 year old male had road accident with left heel deep laceration. It was primarily closed on same day. On 3rd post op day he developed frank pus from the wound and edges of wound turned black. What is next step of management?",
+  "options": {
+   "A": "Daily dressing and strong antibiotics and elevation",
+   "B": "Open the wound, thorough debridement and let it secondarily heal",
+   "C": "Below knee amputation",
+   "D": "Pus for culture and closed wound management",
+   "E": "Foot amputation"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "An infected wound with pus and necrotic edges must be reopened, drained and debrided, then left to heal secondarily or closed later. Antibiotics and dressings alone will not clear pus and dead tissue.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G5-19"
+ },
+ {
+  "cids": [
+   "C0837"
+  ],
+  "stem": "Which of the following suture materials is most resistant to infection?",
+  "options": {
+   "A": "Silk",
+   "B": "Polypropylene",
+   "C": "Vicryl",
+   "D": "Catgut",
+   "E": "Surgical steel/staplers"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Monofilament non-absorbable sutures such as polypropylene have no interstices to harbour bacteria and provoke minimal tissue reaction, so they resist infection. Braided silk and absorbable multifilaments (Vicryl, catgut) are worst.",
+  "key_note": "The highlight in the source covered B and part of C; B is accepted, though stainless steel is also a highly inert, infection-resistant monofilament, so the question is imperfect.",
+  "figure": "",
+  "qid": "G5-20"
+ },
+ {
+  "cids": [
+   "C0650"
+  ],
+  "stem": "Which of the following gives a good-looking scar?",
+  "options": {
+   "A": "Transverse incision.",
+   "B": "Midline incision.",
+   "C": "Incisions along Langer's lines.",
+   "D": "Vertical incisions.",
+   "E": "Horizontal incisions."
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Incisions placed along Langer's lines (relaxed skin tension lines) are under least tension and heal with the finest scars.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G5-21"
+ },
+ {
+  "cids": [
+   "C1197",
+   "C1077"
+  ],
+  "stem": "Which of the following statements is true regarding scars?",
+  "options": {
+   "A": "A hypertrophic scar extends beyond its boundaries",
+   "B": "A keloid scar is red, itchy and flat",
+   "C": "Suture marks can be reduced by using monofilament suture",
+   "D": "Scar gains full strength in first 3 months",
+   "E": "Keloid scars can improve spontaneously"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Monofilament sutures cause less tissue reaction and less suture-track marking. A keloid (not a hypertrophic scar) extends beyond the wound, keloids are raised and do not regress spontaneously, and a scar reaches only about 80% of normal strength, over months to a year.",
+  "key_note": "Not marked in one source; another version's paper key marked E (hypertrophic scar extends beyond incision), which is false as that describes a keloid. C is correct.",
+  "figure": "",
+  "qid": "G5-22"
+ },
+ {
+  "cids": [
+   "C0444",
+   "C1503"
+  ],
+  "stem": "A 65-year-old diabetic sustained an injury to the sternal area in a road traffic accident which was primarily sutured. Seven months later he presents with an expanding ugly scar over the sternum extending beyond the confines of the original scar. What is the diagnosis?",
+  "options": {
+   "A": "Hypertrophic scar",
+   "B": "Keloid",
+   "C": "Hypo trophic scar",
+   "D": "Normal scar",
+   "E": "Pigmented scar"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Extension beyond the original wound margins is the defining feature of a keloid; a hypertrophic scar remains confined to the wound. The presternal area is a classic keloid site.",
+  "key_note": "Merged with an appendicectomy-scar version (paper key C, keloid).",
+  "figure": "",
+  "qid": "G5-23"
+ },
+ {
+  "cids": [
+   "C1079",
+   "C1321"
+  ],
+  "stem": "Keloids usually form after injury to the skin or after surgery. Which of the following statements about keloids is NOT true?",
+  "options": {
+   "A": "Keloids are predisposed to wound hematoma and infection.",
+   "B": "Keloid extend beyond the margin of the scar",
+   "C": "Keloids are more common in children and young adults",
+   "D": "Keloids usually develop within weeks of initial injury",
+   "E": "Keloids are characterized by increased collagen synthesis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Hypertrophic scars appear within weeks of injury, whereas keloids typically develop months (up to a year or more) later. Keloids extend beyond the wound, are commonest in children and young adults, are favoured by haematoma and infection, and show excess collagen synthesis.",
+  "key_note": "One paper key marked A; correct is D, as other keys marked: haematoma and wound infection are recognised predisposing factors, but keloids do not usually appear within weeks.",
+  "figure": "",
+  "qid": "G5-24"
+ },
+ {
+  "cids": [
+   "C1063"
+  ],
+  "stem": "A 35-year-old woman had a cystic lesion excised from the sternum 3 months ago. She now has itching and swelling at the scar, and a 4 x 3 cm keloid has formed. Which of the following is useful in the treatment of this keloid?",
+  "options": {
+   "A": "Tight garments",
+   "B": "Excision of scar only",
+   "C": "Excision and steroid injection",
+   "D": "Chemicals",
+   "E": "Vitamin D preparations"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Excision alone of a keloid recurs in most cases; intralesional excision combined with steroid (triamcinolone) injection reduces recurrence. Pressure garments help hypertrophic scars and burns but are not the best answer here.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G5-25"
+ },
+ {
+  "cids": [
+   "C1068"
+  ],
+  "stem": "A 5 year old girl had trauma left foot plantar aspect with full thickness deglove injury of skin 2 months ago. Initially her wound was managed with dressings and debridements. After secondary healing of wound there is granulation tissue appearing in wound. Her surgeon decided for partial thickness skin graft. What thickness you think surgeon will take from donor site?",
+  "options": {
+   "A": "Skin with full epidermis and dermis",
+   "B": "Skin with subcutaneous fat",
+   "C": "Skin with full epidermis and partial dermis",
+   "D": "Skin with partial epidermis and partial dermis",
+   "E": "Skin with full epidermis and partial fats"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A split (partial) thickness skin graft contains the full epidermis and a variable part of the dermis; a full thickness graft includes the entire dermis, and subcutaneous fat is never included in a graft.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G5-26"
+ },
+ {
+  "cids": [
+   "C1193",
+   "C0003"
+  ],
+  "stem": "An 18 years old female is admitted in surgical ward after history of burns. She had 5X5 cm wound on left thigh. At the moment, wound is clean, healthy granulation tissue is seen. Wound culture and sensitivity test shows no growth of bacteria. What is the best management of the wound?",
+  "options": {
+   "A": "Full thickness skin graft",
+   "B": "Myocutaneous flaps",
+   "C": "Partial thickness skin graft",
+   "D": "Skin closure with prolene",
+   "E": "Wound dressing"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A clean, healthy granulating bed with no bacterial growth is ideal for a split (partial) thickness skin graft, which takes well on granulation tissue. Full thickness grafts and flaps are not needed for a simple granulating defect.",
+  "key_note": "Not marked in the source paper; compiled key C agrees.",
+  "figure": "",
+  "qid": "G5-27"
+ },
+ {
+  "cids": [
+   "C0111"
+  ],
+  "stem": "A 39-year-old patient with no comorbidities receives a split thickness skin graft. What is the most common cause of early graft failure in this patient?",
+  "options": {
+   "A": "Infection",
+   "B": "Hematoma",
+   "C": "Diabetes",
+   "D": "Contracture",
+   "E": "Keloid"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Haematoma (and seroma) under the graft is the commonest cause of graft loss, because it separates the graft from its bed and prevents imbibition and revascularisation. Infection (especially beta-haemolytic Strep) and shearing are the other main causes.",
+  "key_note": "One solved copy marked A (Infection); correct is B, as the other key marked: haematoma/seroma is the commonest cause of early graft failure.",
+  "figure": "",
+  "qid": "G5-28"
+ },
+ {
+  "cids": [
+   "C0109"
+  ],
+  "stem": "Which of the following is the suitable option to cover a defect on the fingers of the hand after contracture excision and release?",
+  "options": {
+   "A": "Rotational flap",
+   "B": "Composite flap",
+   "C": "Partial thickness flap",
+   "D": "Full thickness flap (full thickness skin graft)",
+   "E": "Z-plasty"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "After excision and release of a finger contracture the resulting defect is best covered with a full thickness skin graft, which contracts least and gives durable, supple skin. Z-plasty is a technique to lengthen and reorient a linear contracture band, not a means of covering a defect.",
+  "key_note": "One paper marked E (Z-plasty) and another D; correct is D, because the question asks how to cover the defect left after release.",
+  "figure": "",
+  "qid": "G5-29"
+ },
+ {
+  "cids": [
+   "C1322"
+  ],
+  "stem": "What is the best option to close a wound with exposed bone?",
+  "options": {
+   "A": "Superficial thickness skin graft",
+   "B": "Deep thickness skin graft",
+   "C": "Free Flap",
+   "D": "Island flap",
+   "E": "Z-plasty"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Bare bone (without periosteum) will not support a skin graft, so vascularised tissue is needed; for significant defects, especially in the distal leg, a free flap is the reconstruction of choice.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G5-30"
+ },
+ {
+  "cids": [
+   "C0020"
+  ],
+  "stem": "Which of the following statements regarding free flaps are true?",
+  "options": {
+   "A": "Free flaps are the best way of reconstructing major composite loss of tissue.",
+   "B": "Surgical expertise and equipment in microsurgery are essential for the use of free flaps.",
+   "C": "Debridement of the area of reconstruction is necessary for the use of free flaps.",
+   "D": "Major donor site morbidity is a possible disadvantage in free-flap surgery.",
+   "E": "all of the above"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "All four statements are true: free flaps are the best option for major composite tissue loss, require microsurgical skill and equipment, need a thoroughly debrided recipient bed, and carry possible donor site morbidity.",
+  "key_note": "The paper marked A; correct is E, because statements B, C and D are also true.",
+  "figure": "",
+  "qid": "G5-31"
+ },
+ {
+  "cids": [
+   "C1069",
+   "C0110"
+  ],
+  "stem": "A young woman had her nose amputated by her husband 2 months ago. Her wounds have been managed and a plastic surgeon now plans reconstruction of her nose. Which option suits her?",
+  "options": {
+   "A": "Free Flap",
+   "B": "Partial thickness graft",
+   "C": "Full thickness graft",
+   "D": "Composite flap",
+   "E": "Only cartilage graft"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Total nasal reconstruction needs skin cover, structural support and lining, so a composite reconstruction (classically a forehead flap with cartilage grafts) is required. Skin grafts or cartilage alone cannot rebuild the nose.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G5-32"
+ },
+ {
+  "ncids": [
+   "K0001",
+   "K1192"
+  ],
+  "stem": "All of the following are true about keloids EXCEPT:",
+  "options": {
+   "A": "It is a benign condition",
+   "B": "It is an extensive overgrowth of scar tissue",
+   "C": "It is the same as a hypertrophic scar",
+   "D": "It may occur on the ear lobes",
+   "E": "It is common in Africans"
+  },
+  "answer": "C",
+  "explanation": "Keloids grow beyond the margins of the original wound and rarely regress, whereas hypertrophic scars stay within the wound and often settle with time, so they are different entities. Keloids are benign, commoner in dark-skinned people and classically occur on ear lobes, sternum and shoulders.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G5-N1"
+ },
+ {
+  "ncids": [
+   "K0078"
+  ],
+  "stem": "Which of the following is a criterion of a tidy wound?",
+  "options": {
+   "A": "Contaminated wound",
+   "B": "Devitalized tissues",
+   "C": "Crushed wound",
+   "D": "Minimal tissue loss",
+   "E": "Primary repair is not possible"
+  },
+  "answer": "D",
+  "explanation": "Tidy wounds are clean, incised, with healthy tissue and minimal tissue loss, so primary repair is possible. Contamination, devitalized or crushed tissue and tissue loss define untidy wounds.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G5-N2"
+ },
+ {
+  "ncids": [
+   "K0113"
+  ],
+  "stem": "During the process of wound healing, collagen is laid down by:",
+  "options": {
+   "A": "Eosinophils",
+   "B": "Basophils",
+   "C": "Fibroblasts",
+   "D": "Neutrophils",
+   "E": "Platelets"
+  },
+  "answer": "C",
+  "explanation": "Fibroblasts migrate into the wound in the proliferative phase and synthesise collagen and ground substance. Platelets start haemostasis and neutrophils/macrophages clean the wound.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G5-N3"
+ },
+ {
+  "ncids": [
+   "K0122"
+  ],
+  "stem": "What is the difference between hypertrophic scars and keloids?",
+  "options": {
+   "A": "Keloids are an overabundance of fibroplasia, whereas hypertrophic scars are a failure of collagen remodelling",
+   "B": "Hypertrophic scars often regress over time, whereas keloids rarely regress",
+   "C": "Hypertrophic scars are more common in darker pigmented ethnicities",
+   "D": "Hypertrophic scars extend beyond the border of the original wound",
+   "E": "Keloids are very painful"
+  },
+  "answer": "B",
+  "explanation": "Hypertrophic scars stay within the wound margins and usually improve over months, whereas keloids extend beyond the wound and rarely regress. Keloids, not hypertrophic scars, are commoner in darker skin and they are itchy rather than painful.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G5-N4"
+ },
+ {
+  "ncids": [
+   "K0125"
+  ],
+  "stem": "Which type of collagen is most important in (early) wound healing?",
+  "options": {
+   "A": "Type I",
+   "B": "Type III",
+   "C": "Type V",
+   "D": "Type VII",
+   "E": "Type XI"
+  },
+  "answer": "B",
+  "explanation": "Type III collagen is laid down first and predominates in the early healing wound; it is later replaced by stronger type I collagen during remodelling. Type I is the main collagen of normal skin and mature scar.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G5-N5"
+ },
+ {
+  "ncids": [
+   "K0144"
+  ],
+  "stem": "Steroids impair wound healing by:",
+  "options": {
+   "A": "Decreasing angiogenesis and macrophage migration",
+   "B": "Decreasing platelet plug integrity",
+   "C": "Increasing release of lysosomal enzymes",
+   "D": "Increasing fibrinolysis",
+   "E": "Increasing vasoconstriction"
+  },
+  "answer": "A",
+  "explanation": "Corticosteroids suppress the inflammatory phase: they reduce macrophage migration, fibroblast proliferation, collagen synthesis and angiogenesis. Vitamin A can partly reverse this effect.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G5-N6"
+ },
+ {
+  "ncids": [
+   "K0177"
+  ],
+  "stem": "A 20-year-old man sustains a clean incised wound over the right forearm and presents promptly to hospital. What is the best method to treat this wound?",
+  "options": {
+   "A": "Primary suturing",
+   "B": "Secondary suturing",
+   "C": "Delayed primary suturing",
+   "D": "Leaving the wound open",
+   "E": "Debridement only"
+  },
+  "answer": "A",
+  "explanation": "A fresh, clean (tidy) incised wound with healthy edges should be closed primarily for healing by first intention and the best scar.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G5-N7"
+ },
+ {
+  "ncids": [
+   "K0178"
+  ],
+  "stem": "A 45-year-old woman sustains lacerated wounds on both thighs in a road traffic accident. In the operation theatre, after thorough cleaning of the wounds, what is the next best step?",
+  "options": {
+   "A": "Primary suturing",
+   "B": "Secondary suturing",
+   "C": "Delayed primary suturing",
+   "D": "Leaving the wound open",
+   "E": "Debridement and leaving the wound open"
+  },
+  "answer": "E",
+  "explanation": "Lacerated road traffic wounds are untidy and contaminated with devitalized tissue: they need debridement and are left open for delayed primary closure. Primary suturing traps contamination and risks infection.",
+  "key_note": "Bank marked E with * but highlighted A; correct is E because untidy contaminated lacerations must be debrided and left open, not closed primarily.",
+  "_new": true,
+  "qid": "G5-N8"
+ },
+ {
+  "ncids": [
+   "K0180"
+  ],
+  "stem": "All of the following are treatment options for a keloid EXCEPT:",
+  "options": {
+   "A": "Compression garments",
+   "B": "Intralesional steroid",
+   "C": "Radiotherapy",
+   "D": "Excision",
+   "E": "Chemotherapy"
+  },
+  "answer": "E",
+  "explanation": "Keloids are treated by pressure garments, intralesional triamcinolone, silicone, excision combined with steroid or postoperative radiotherapy. Systemic chemotherapy has no role.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G5-N9"
+ },
+ {
+  "ncids": [
+   "K0182"
+  ],
+  "stem": "Regarding wound healing, the proliferative phase starts:",
+  "options": {
+   "A": "Immediately after wounding",
+   "B": "One day after wounding",
+   "C": "Two days after wounding",
+   "D": "Three days after wounding",
+   "E": "Four days after wounding"
+  },
+  "answer": "D",
+  "explanation": "Inflammatory phase lasts from wounding to about day 3; the proliferative (fibroblastic) phase runs from about day 3 to 3 weeks, followed by remodelling for up to a year.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G5-N10"
+ },
+ {
+  "ncids": [
+   "K0183"
+  ],
+  "stem": "A 20-year-old woman sustains untidy wounds over the lower limbs. Which feature characterises this type of wound?",
+  "options": {
+   "A": "Clean",
+   "B": "Incised",
+   "C": "Seldom tissue loss",
+   "D": "Contaminated with devitalized tissue",
+   "E": "Healthy tissue"
+  },
+  "answer": "D",
+  "explanation": "Untidy wounds are crushed, torn or burnt, contaminated and contain devitalized tissue, often with tissue loss. The other options describe tidy wounds.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G5-N11"
+ },
+ {
+  "ncids": [
+   "K0185"
+  ],
+  "stem": "A 30-year-old man sustains multiple gunshot wounds over the right thigh. After initial resuscitation he is taken to the operation theatre. What is the best treatment of the wounds?",
+  "options": {
+   "A": "Antiseptic dressing",
+   "B": "Primary repair of nerves",
+   "C": "Debridement and leaving the wound open",
+   "D": "Debridement and primary closure of the wound",
+   "E": "Primary repair of colon"
+  },
+  "answer": "C",
+  "explanation": "Gunshot wounds are contaminated with devitalized tissue: they are debrided and left open for delayed primary closure. Primary closure risks infection, including gas gangrene.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G5-N12"
+ },
+ {
+  "ncids": [
+   "K0253"
+  ],
+  "stem": "A 14-year-old boy had burns of the left forearm 3 months ago. The wound has developed into an irregular contracture limiting the range of movement. What is the best mode of treatment?",
+  "options": {
+   "A": "Free flap",
+   "B": "Release of contracture",
+   "C": "Physiotherapy",
+   "D": "Skin grafting",
+   "E": "Skin expansion"
+  },
+  "answer": "B",
+  "explanation": "An established burn contracture limiting movement needs surgical release (incision/excision, Z-plasty), with the resulting defect covered by graft or flap. Physiotherapy alone cannot correct a fixed contracture.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G5-N13"
+ },
+ {
+  "ncids": [
+   "K0254"
+  ],
+  "stem": "A 22-year-old soccer player sustains an injury to the left heel leaving a 3 x 3 cm defect with the calcaneum exposed. What is the best mode of treatment?",
+  "options": {
+   "A": "Free flap",
+   "B": "Advancement flap",
+   "C": "Islanded pedicle flap",
+   "D": "Skin grafting",
+   "E": "Skin expansion"
+  },
+  "answer": "C",
+  "explanation": "Exposed bone cannot take a skin graft, and the weight-bearing heel needs durable, sensate glabrous cover: an islanded pedicled flap (e.g. medial plantar artery flap) is ideal for a small heel defect. Free flaps are reserved for larger defects.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G5-N14"
+ },
+ {
+  "ncids": [
+   "K0255"
+  ],
+  "stem": "A 33-year-old woman had a second-degree burn 3 months ago. The wound has granulated but lacks the superficial skin layer over an area of about 10 x 13 cm. What is the best mode of treatment?",
+  "options": {
+   "A": "Free flap",
+   "B": "Advancement flap",
+   "C": "Islanded pedicle flap",
+   "D": "Skin grafting",
+   "E": "Skin expansion"
+  },
+  "answer": "D",
+  "explanation": "A large, healthy, granulating superficial defect without exposed bone, tendon or vessels is best covered with a split-thickness skin graft. Flaps are needed only when the bed cannot support a graft.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G5-N15"
+ },
+ {
+  "ncids": [
+   "K0256"
+  ],
+  "stem": "A man has a healthy oval 4 x 4 cm scalp defect after excision of a pigmented skin cancer. What is the best way to cover the defect?",
+  "options": {
+   "A": "Free flap",
+   "B": "Advancement flap",
+   "C": "Islanded pedicle flap",
+   "D": "Rotational flap",
+   "E": "Skin expansion"
+  },
+  "answer": "D",
+  "explanation": "The scalp is inelastic, so moderate defects are closed with local rotation flaps that recruit the surrounding lax scalp while preserving hair-bearing skin.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G5-N16"
+ },
+ {
+  "ncids": [
+   "K0272"
+  ],
+  "stem": "A man presents with lacerations of three fingers with divided tendons. What is the appropriate management?",
+  "options": {
+   "A": "Repair the laceration and send him to a plastic surgeon",
+   "B": "Repair tendons in the emergency department with vicryl",
+   "C": "Admit and repair the tendons with prolene",
+   "D": "Leave the wounds open for washing out dirt",
+   "E": "Repair tendons with silk sutures"
+  },
+  "answer": "C",
+  "explanation": "Divided flexor tendons should be repaired formally in theatre with a strong non-absorbable monofilament core suture such as polypropylene (prolene) or nylon. Absorbable vicryl loses strength too early and silk is reactive.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G5-N17"
+ },
+ {
+  "ncids": [
+   "K0658",
+   "K1335",
+   "K1690"
+  ],
+  "stem": "What is usually described as the best dressing for a wound?",
+  "options": {
+   "A": "Cotton gauze",
+   "B": "Skin",
+   "C": "Silver foil",
+   "D": "Aerosol spray",
+   "E": "Amnion"
+  },
+  "answer": "B",
+  "explanation": "The patient's own skin is the ideal wound cover: it prevents fluid loss and infection and is not rejected. All other dressings are temporary substitutes.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G5-N18"
+ },
+ {
+  "ncids": [
+   "K0661"
+  ],
+  "stem": "Transfer of tissues between two genetically identical individuals (e.g. identical twins) is called:",
+  "options": {
+   "A": "Allograft",
+   "B": "Autograft",
+   "C": "Isograft",
+   "D": "Xenograft",
+   "E": "Full thickness graft"
+  },
+  "answer": "C",
+  "explanation": "An isograft (syngraft) is between genetically identical individuals and is not rejected. Autograft is within the same person, allograft between non-identical members of the same species and xenograft between species.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G5-N19"
+ },
+ {
+  "ncids": [
+   "K0664"
+  ],
+  "stem": "All of the following are true for an incised wound EXCEPT:",
+  "options": {
+   "A": "It has minimal tissue damage",
+   "B": "Healing is completed by laying down of collagen fibres",
+   "C": "It heals by secondary intention",
+   "D": "It may lead to formation of a keloid"
+  },
+  "answer": "C",
+  "explanation": "A clean incised wound has apposable edges and minimal damage, so it is sutured and heals by primary intention. Any wound, including a surgical incision, can form a keloid.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "G5-N20"
+ },
+ {
+  "ncids": [
+   "K0669"
+  ],
+  "stem": "A clean incised skin wound:",
+  "options": {
+   "A": "Commences epithelialization after 8-10 days",
+   "B": "Regains the full strength of normal skin in about 10 weeks",
+   "C": "Regains its strength as a result of fibroblast activity",
+   "D": "Cannot undergo contraction",
+   "E": "Does not lead to keloid formation"
+  },
+  "answer": "C",
+  "explanation": "Strength comes from collagen synthesised by fibroblasts and later cross-linked during remodelling. Epithelialization starts within 24-48 hours, and a scar only reaches about 80% of normal skin strength, never full strength.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G5-N21"
+ },
+ {
+  "ncids": [
+   "K0672"
+  ],
+  "stem": "The process of wound healing is delayed by all of the following EXCEPT:",
+  "options": {
+   "A": "Deficiency of vitamin C",
+   "B": "Vasodilator drugs",
+   "C": "Malnutrition",
+   "D": "Uraemia"
+  },
+  "answer": "B",
+  "explanation": "Vitamin C deficiency impairs collagen cross-linking, and malnutrition and uraemia impair healing. Vasodilators do not delay healing (improved perfusion, if anything, helps).",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "G5-N22"
+ },
+ {
+  "ncids": [
+   "K0691"
+  ],
+  "stem": "Sutures applied for the first time to a wound after a delay of a few days are called:",
+  "options": {
+   "A": "Retention sutures",
+   "B": "Secondary sutures",
+   "C": "Delayed primary sutures",
+   "D": "Non-absorbable sutures"
+  },
+  "answer": "C",
+  "explanation": "Delayed primary suture is the first closure of a wound left open for a few days (before granulation) once contamination is controlled. Secondary suture is closure of a granulating wound, usually after infection or dehiscence.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "G5-N23"
+ },
+ {
+  "ncids": [
+   "K0697"
+  ],
+  "stem": "What is INCORRECT about Vicryl suture?",
+  "options": {
+   "A": "It is an absorbable suture",
+   "B": "It gives rise to formation of stitch granuloma",
+   "C": "It is used in intestinal anastomosis",
+   "D": "It is synthetic in nature"
+  },
+  "answer": "B",
+  "explanation": "Vicryl (polyglactin 910) is a synthetic absorbable braided suture absorbed by hydrolysis with little tissue reaction, widely used for anastomoses. Stitch granulomas are typical of non-absorbable braided material such as silk.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G5-N24"
+ },
+ {
+  "ncids": [
+   "K0699"
+  ],
+  "stem": "What is the holding time (retention of useful tensile strength) for chromic catgut suture?",
+  "options": {
+   "A": "2-3 days",
+   "B": "One week",
+   "C": "Two weeks",
+   "D": "One month"
+  },
+  "answer": "C",
+  "explanation": "Chromic catgut retains useful strength for about 2 to 3 weeks (plain catgut about 7 to 10 days) and is absorbed by proteolysis by about 90 days.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "G5-N25"
+ },
+ {
+  "ncids": [
+   "K0702"
+  ],
+  "stem": "What is CORRECT about a hypertrophic scar?",
+  "options": {
+   "A": "It is the same as a keloid",
+   "B": "It requires radiotherapy for cure",
+   "C": "It is a raised red scar that persists for some months before regressing",
+   "D": "It occurs only on the abdomen"
+  },
+  "answer": "C",
+  "explanation": "A hypertrophic scar is raised and red but confined to the wound and tends to regress over months. It is distinct from a keloid, can occur anywhere (especially across flexures) and does not need radiotherapy.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "G5-N26"
+ },
+ {
+  "ncids": [
+   "K0706"
+  ],
+  "stem": "Wound healing is impaired by all of the following EXCEPT:",
+  "options": {
+   "A": "Marked anaemia",
+   "B": "Haematoma formation",
+   "C": "Hyperthyroidism",
+   "D": "Steroids"
+  },
+  "answer": "C",
+  "explanation": "Anaemia, haematoma and steroids all impair healing. Hypothyroidism, not hyperthyroidism, is the thyroid state associated with delayed healing.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "G5-N27"
+ },
+ {
+  "ncids": [
+   "K0710"
+  ],
+  "stem": "Regarding scars, which one of the following statements is true?",
+  "options": {
+   "A": "A hypertrophic scar extends beyond the original wound",
+   "B": "A keloid scar does not extend beyond the original wound",
+   "C": "The pathophysiology of both keloid and hypertrophic scar is excess deposition of collagen fibres",
+   "D": "Steroids have no role in their management"
+  },
+  "answer": "C",
+  "explanation": "Both result from excessive collagen deposition; the keloid extends beyond the wound margins and the hypertrophic scar does not. Intralesional steroid is a mainstay of treatment for both.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G5-N28"
+ },
+ {
+  "ncids": [
+   "K0758"
+  ],
+  "stem": "Which of the following is a good donor area for taking a split-thickness skin graft?",
+  "options": {
+   "A": "Abdomen",
+   "B": "Forearm",
+   "C": "Buttock",
+   "D": "Thigh",
+   "E": "Neck"
+  },
+  "answer": "D",
+  "explanation": "The thigh is the commonest STSG donor site: a large flat area, easy to harvest with a dermatome and easy to dress. Forearm and neck leave visible scars.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G5-N29"
+ },
+ {
+  "ncids": [
+   "K0932"
+  ],
+  "stem": "A 45-year-old woman presents to a cosmetic surgeon with a burn scar. Which of the following statements regarding scars is most appropriate?",
+  "options": {
+   "A": "A hypertrophic scar is red, itchy and flat",
+   "B": "Keloid scars can improve spontaneously",
+   "C": "A keloid scar extends beyond its boundaries",
+   "D": "Monofilament suture causes ugly scarring",
+   "E": "Scars of abdominal wounds gain full strength in the first 3 months"
+  },
+  "answer": "C",
+  "explanation": "A keloid, by definition, grows beyond the original wound boundaries and rarely regresses. Hypertrophic scars are raised (not flat), monofilament sutures reduce stitch marks, and scars never regain full strength.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G5-N30"
+ },
+ {
+  "ncids": [
+   "K0934",
+   "K1070"
+  ],
+  "stem": "A 35-year-old woman is followed up after skin grafting and has patches of graft failure. Which of the following bacteria may cause total loss of a skin graft?",
+  "options": {
+   "A": "Beta-haemolytic streptococci",
+   "B": "Escherichia coli",
+   "C": "Klebsiella",
+   "D": "Pseudomonas aeruginosa",
+   "E": "Staphylococcus albus"
+  },
+  "answer": "A",
+  "explanation": "Beta-haemolytic (group A) streptococci produce streptokinase and fibrinolysins that dissolve the fibrin binding the graft, so even small numbers can destroy the whole graft. A positive streptococcal swab is a contraindication to grafting.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G5-N31"
+ },
+ {
+  "ncids": [
+   "K0952",
+   "K1218"
+  ],
+  "stem": "Regarding wound healing, which one of the following statements is true?",
+  "options": {
+   "A": "It is characterized by decreased vascular permeability",
+   "B": "Type I collagen is formed first",
+   "C": "It is retarded by vitamin A excess",
+   "D": "Macrophages play a central role",
+   "E": "It is poor in children"
+  },
+  "answer": "D",
+  "explanation": "Macrophages orchestrate healing by clearing debris and releasing growth factors that recruit fibroblasts and stimulate angiogenesis. Vascular permeability increases, type III collagen is laid down first, vitamin A aids healing and children heal well.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G5-N32"
+ },
+ {
+  "ncids": [
+   "K1181"
+  ],
+  "stem": "Regarding hypertrophic scar and keloid, spot the WRONG statement:",
+  "options": {
+   "A": "Hypertrophic scar is common on flexor surfaces",
+   "B": "Keloid is often familial",
+   "C": "Hypertrophic scar outgrows the wound area",
+   "D": "Keloid is common on the sternum, shoulder and face",
+   "E": "Keloid is treated by local injection of steroids"
+  },
+  "answer": "C",
+  "explanation": "A hypertrophic scar stays within the wound margins; outgrowing the wound is the defining feature of a keloid.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G5-N33"
+ },
+ {
+  "ncids": [
+   "K1238",
+   "K1445"
+  ],
+  "stem": "Which of the following suture materials is monofilament?",
+  "options": {
+   "A": "Catgut",
+   "B": "Cotton",
+   "C": "Prolene",
+   "D": "Silk",
+   "E": "Catgut and prolene"
+  },
+  "answer": "E",
+  "explanation": "Prolene (polypropylene) is a synthetic non-absorbable monofilament, and catgut is classed as a natural absorbable monofilament. Cotton, silk and vicryl are braided or twisted multifilaments.",
+  "key_note": "Bank starred catgut and prolene separately and highlighted 'A and C' in one copy; correct is both catgut and prolene.",
+  "_new": true,
+  "qid": "G5-N34"
+ },
+ {
+  "ncids": [
+   "K1262"
+  ],
+  "stem": "A patient has a deep 6 cm wide thigh abrasion that becomes infected. The surgeon dresses the wound and allows it to heal by secondary intention. The resultant scar is likely to be:",
+  "options": {
+   "A": "Thin and easily broken",
+   "B": "Thick and vascular",
+   "C": "Thick, vascular and resistant to trauma",
+   "D": "Of normal thickness, but without sensation"
+  },
+  "answer": "A",
+  "explanation": "A wide wound healed by secondary intention is covered by thin epithelium over scar tissue without dermal appendages, giving an unstable scar that breaks down easily.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G5-N35"
+ },
+ {
+  "ncids": [
+   "K1314"
+  ],
+  "stem": "Which of the following is true of the different types of skin grafts?",
+  "options": {
+   "A": "A split-thickness graft contains epidermis but no dermis",
+   "B": "A Wolfe graft consists of the entire dermis (with the epidermis)",
+   "C": "A graft that contains both skin and bone is called a multilayer graft",
+   "D": "A rhomboid flap is based on a single feeding artery that allows a length several times its width"
+  },
+  "answer": "B",
+  "explanation": "A Wolfe (full-thickness) graft contains epidermis and the whole dermis; subcutaneous fat is trimmed off. A split-thickness graft contains part of the dermis, a graft of several tissues is a composite graft and the rhomboid flap is a random-pattern local flap.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G5-N36"
+ },
+ {
+  "ncids": [
+   "K1336"
+  ],
+  "stem": "Regarding puncture wounds, all are true EXCEPT:",
+  "options": {
+   "A": "They are caused by standing on a sharp object",
+   "B": "Foreign material may be carried deeply into underlying tissues",
+   "C": "Radiography is of no use in their management",
+   "D": "Bites are puncture wounds",
+   "E": "They are best treated by open surgical exploration"
+  },
+  "answer": "C",
+  "explanation": "Radiography (X-ray, ultrasound) is useful to locate retained radio-opaque foreign bodies carried deep by puncture wounds.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G5-N37"
+ },
+ {
+  "ncids": [
+   "K1347"
+  ],
+  "stem": "Which of the following surgical dressings has maximum advantage for dressing a deep (cavity) wound?",
+  "options": {
+   "A": "Polymeric film",
+   "B": "Hydrogels",
+   "C": "Hydrocolloids",
+   "D": "Fibrous polymers"
+  },
+  "answer": "B",
+  "explanation": "Hydrogels conform to and fill cavities, keep the wound moist and help autolytic debridement. Polymeric films suit only shallow clean wounds and hydrocolloids are occlusive sheets for flat wounds; fibrous polymers (alginates) are mainly for heavily exuding wounds.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G5-N38"
+ },
+ {
+  "ncids": [
+   "K1494"
+  ],
+  "stem": "A 50-year-old man has undergone laparotomy through a midline incision. On the 3rd postoperative day there is serosanguinous discharge from the wound. Removal of a few skin stitches reveals a 1 cm dehiscence of the abdominal fascia. Which of the following is most appropriate?",
+  "options": {
+   "A": "Remove all skin stitches and pack the wound with moist gauze",
+   "B": "Start intravenous antibiotics",
+   "C": "Place an abdominal binder",
+   "D": "Prompt resuturing of the fascia in the operation theatre",
+   "E": "Bed rest"
+  },
+  "answer": "D",
+  "explanation": "Serosanguinous ('pink') discharge with fascial separation in the first postoperative week is early fascial dehiscence, the forerunner of a burst abdomen; the standard treatment is prompt return to theatre and resuturing of the fascia. A binder does not prevent evisceration.",
+  "key_note": "Bank marked C (abdominal binder); correct is D because early fascial dehiscence needs prompt operative resuturing.",
+  "_new": true,
+  "qid": "G5-N39"
+ },
+ {
+  "ncids": [
+   "K1495"
+  ],
+  "stem": "A 60-year-old diabetic man undergoes excision of a 3 cm carbuncle on his back. The wound is left open and packed, and it grows smaller day by day. Which of the following is true concerning wound contraction?",
+  "options": {
+   "A": "It is the process that closes a sutured surgical wound",
+   "B": "Infection significantly slows the process of contraction",
+   "C": "It may account for a maximum 60% decrease in the size of the wound",
+   "D": "It is based on specialized fibroblasts that contain actin myofilaments",
+   "E": "The percentage reduction of wound size increases with greater adhesion of skin to underlying tissues"
+  },
+  "answer": "D",
+  "explanation": "Contraction is driven by myofibroblasts containing actin, mainly in open wounds healing by secondary intention. It can reduce wound size by up to 80% or more and is less where skin is fixed to deep tissues.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G5-N40"
+ },
+ {
+  "ncids": [
+   "K1496"
+  ],
+  "stem": "A 14-year-old boy presents one hour after falling through a glass door. He has a 5 cm tidy wound on the right wrist with no skin loss but a 2 cm gap, and examination shows an ulnar nerve injury. How would you close his wound?",
+  "options": {
+   "A": "Primary suturing",
+   "B": "Delayed primary suturing",
+   "C": "Secondary suturing",
+   "D": "Skin graft",
+   "E": "Skin flap"
+  },
+  "answer": "A",
+  "explanation": "A fresh, clean glass laceration is a tidy wound: it is explored, the divided nerve and other structures repaired primarily, and the skin closed primarily. The gap is due to skin retraction, not tissue loss.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G5-N41"
+ }
+]

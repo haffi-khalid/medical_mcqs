@@ -1,0 +1,1322 @@
+[
+ {
+  "cids": [
+   "C0909"
+  ],
+  "stem": "The wall of a true cyst is lined by:",
+  "options": {
+   "A": "Epithelium",
+   "B": "Endothelium",
+   "C": "Granulation tissue",
+   "D": "Mesothelium"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "A true cyst is a fluid-filled sac lined by epithelium (or endothelium in some classifications); a false cyst, such as a pancreatic pseudocyst, is lined by granulation or fibrous tissue.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G6-1"
+ },
+ {
+  "cids": [
+   "C0900"
+  ],
+  "stem": "Which of the following terms best describes a tract that connects an epithelial surface with an abnormal cavity lined with epithelium?",
+  "options": {
+   "A": "Fistula",
+   "B": "Sinus",
+   "C": "Tunnel",
+   "D": "Inter-calated duct"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "A fistula is an abnormal communication between two epithelial surfaces, here the skin and an epithelium-lined cavity. A sinus is a blind tract ending in the tissues and is lined by granulation tissue.",
+  "key_note": "One source printed a query mark against the key; A is correct.",
+  "figure": "",
+  "qid": "G6-2"
+ },
+ {
+  "cids": [
+   "C1081",
+   "C0897"
+  ],
+  "stem": "An undermined edge is characteristic of:",
+  "options": {
+   "A": "Septic ulcer",
+   "B": "Syphilitic Ulcer",
+   "C": "Basal cell carcinoma",
+   "D": "Tuberculous ulcer",
+   "E": "Squamous cell carcinoma"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Tuberculous ulcers have undermined edges because the infection spreads in the subcutaneous tissue faster than the skin is destroyed. Syphilitic ulcers are punched out, BCC has a rolled edge, and SCC has a raised everted edge.",
+  "key_note": "One paper key marked C (Basal cell carcinoma); correct is D, as the other keys marked: BCC has a rolled, not undermined, edge.",
+  "figure": "",
+  "qid": "G6-3"
+ },
+ {
+  "cids": [
+   "C0112"
+  ],
+  "stem": "A 60-year-old diabetic man presents with an ulcer over the plantar surface of his right foot, along with peripheral neuropathy. What is the characteristic edge of this type of ulcer?",
+  "options": {
+   "A": "Punched out edges",
+   "B": "Rolled edges",
+   "C": "Undermined edges",
+   "D": "Shelving edges",
+   "E": "Heaped up everted edges"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Neuropathic (trophic) ulcers occur over pressure points such as the metatarsal heads and are punched out, deep and painless with a callus rim. Shelving edges suggest a healing or venous ulcer, rolled edges BCC, everted edges SCC.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G6-4"
+ },
+ {
+  "cids": [
+   "C1075"
+  ],
+  "stem": "A 40-year-old diabetic develops an ulcerative lesion on the dorsum of the forefoot. It has a necrotic base with scanty pale granulation and a blackish edge. The foot is not swollen and there is no obvious discharge. Which of the following best suits the description?",
+  "options": {
+   "A": "Infective ulcer",
+   "B": "Ischemic ulcer",
+   "C": "Neuropathic ulcer",
+   "D": "Traumatic ulcer",
+   "E": "Malignant ulcer"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "A necrotic base, pale scanty granulation and black edges on the dorsum of the foot indicate poor blood supply: an ischaemic ulcer. Neuropathic ulcers are on pressure areas with a punched out, callused edge, and infective ulcers have pus and surrounding swelling.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G6-5"
+ },
+ {
+  "cids": [
+   "C0701"
+  ],
+  "stem": "A patient with a non-infected lower limb ulcer is being investigated to outline the underlying cause. What is the most appropriate primary investigation?",
+  "options": {
+   "A": "Plethysmography",
+   "B": "Venography",
+   "C": "Arteriography",
+   "D": "Duplex Doppler ultrasound",
+   "E": "Ankle-Brachial pressure index"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Ankle brachial pressure index is the first-line screening test in any leg ulcer: it identifies arterial disease and must be checked before compression bandaging is applied. Duplex scanning follows to define venous or arterial anatomy.",
+  "key_note": "A compiled key gave Doppler ultrasound; the paper key E (ABPI) is correct as the primary bedside test, with duplex as the next step.",
+  "figure": "",
+  "qid": "G6-6"
+ },
+ {
+  "cids": [
+   "C1078"
+  ],
+  "stem": "An 80-year-old woman with no comorbidities has a small chronic non-healing ulcer on the face with cervical lymphadenopathy. There are no other findings. What is the likely cause of the ulcer?",
+  "options": {
+   "A": "Diabetic ulcer",
+   "B": "Neuropathic ulcer",
+   "C": "Traumatic ulcer",
+   "D": "Malignant ulcer",
+   "E": "Venous ulcer"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A chronic non-healing facial ulcer in an elderly patient with regional lymphadenopathy is malignant (most likely squamous cell carcinoma) until proved otherwise and needs biopsy.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G6-7"
+ },
+ {
+  "cids": [
+   "C0639"
+  ],
+  "stem": "A 72 years old man recovering from stroke has developed an ulcer over his sacrum for a week and there is also a necrotic patch over the heel. Which condition is responsible for this presentation?",
+  "options": {
+   "A": "Hypertrophic scar",
+   "B": "Leg ulcer",
+   "C": "Soft tissue infection",
+   "D": "Pressure sores",
+   "E": "Contracture"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Ulceration over the sacrum and necrosis over the heel in an immobile post-stroke patient are pressure sores, caused by sustained pressure over bony prominences causing ischaemic necrosis.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G6-8"
+ },
+ {
+  "cids": [
+   "C0464"
+  ],
+  "stem": "Paraplegic patients are prone to develop pressure sores. What is the commonest site of bed sores in these patients?",
+  "options": {
+   "A": "Ischium",
+   "B": "Greater trochanter",
+   "C": "Sacrum",
+   "D": "Heel",
+   "E": "Malleolus"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Bed sores (decubitus ulcers) occur most commonly over the sacrum in supine, bed-bound patients, followed by the heels, ischial tuberosities and greater trochanters. In wheelchair-bound paraplegics the ischium becomes the main site.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G6-9"
+ },
+ {
+  "cids": [
+   "C0762"
+  ],
+  "stem": "Only one of the following statements about bed sores (decubitus ulcers) is correct. Which one?",
+  "options": {
+   "A": "They can be prevented by sheepskin blankets",
+   "B": "Can be prevented by changing the patient’s position 4-6 times a day",
+   "C": "They occur only over the sacrum",
+   "D": "They may heal spontaneously with suitable care"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "With pressure relief, nutrition and wound care, superficial pressure sores can heal spontaneously. Prevention requires turning about every 2 hours (not 4-6 times a day), sheepskins do not reliably prevent them, and they occur at any bony prominence, not only the sacrum.",
+  "key_note": "Not marked in the source paper; a compiled key gave B, but turning only 4-6 times a day is inadequate (2-hourly turning is the standard), so D is correct.",
+  "figure": "",
+  "qid": "G6-10"
+ },
+ {
+  "cids": [
+   "C1236",
+   "C0436",
+   "C1195"
+  ],
+  "stem": "You are asked to see a 30 years old man complaining of a swelling on his back, O/E it is a 2x3cm swelling over left scapular region, it has a smooth surface, regular margins and is mobile over the underlying structures, overlying skin is not pinchable, a small black punctum is visible in the center of the swelling. What is the diagnosis?",
+  "options": {
+   "A": "Lipoma",
+   "B": "Fibroma",
+   "C": "Neurofibroma",
+   "D": "Sebaceous cyst",
+   "E": "Hemangioma"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Attachment to the skin (skin not pinchable over it) and a central black punctum identify a sebaceous (epidermoid) cyst, which remains mobile over deeper structures.",
+  "key_note": "Not marked in one source; other versions keyed sebaceous cyst.",
+  "figure": "",
+  "qid": "G6-11"
+ },
+ {
+  "cids": [
+   "C0248"
+  ],
+  "stem": "A 24-year-old woman presents with a painful swelling in the intermammary region for 7 days. There is a 2 cm red, hot, tender, firm lump over the mid-sternum, adherent to the skin, with a punctum. What is the most likely diagnosis?",
+  "options": {
+   "A": "CA Breast",
+   "B": "Cutaneous Abscess",
+   "C": "Inflamed Fibroadenoma",
+   "D": "Inflamed lymph node",
+   "E": "Inflamed Sebaceous cyst"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "A punctum and attachment to skin identify a sebaceous cyst; redness, heat and tenderness mean it has become infected. A simple cutaneous abscess or breast lesion would not have a punctum.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G6-12"
+ },
+ {
+  "cids": [
+   "C1235"
+  ],
+  "stem": "You are examining a 24 years old patient who presented with a swelling over the left calf, the swelling is painful but not very tender, it is firm, has a smooth surface and is mobile in a plane perpendicular to the axis of the leg. While you are examining the swelling the patient complains of pain and tingling sensation over medial aspect of ankle and foot. What is the diagnosis?",
+  "options": {
+   "A": "Lipoma",
+   "B": "Fibroma",
+   "C": "Neurofibroma",
+   "D": "Dermoid cyst",
+   "E": "Hemangioma"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A firm, smooth swelling that moves only perpendicular to the long axis of a nerve, and produces tingling in its distribution on palpation (here the posterior tibial nerve to the medial ankle and foot), is a neurofibroma (or schwannoma). A lipoma moves freely in all directions and causes no paraesthesia.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "G6-13"
+ },
+ {
+  "cids": [
+   "C0437"
+  ],
+  "stem": "A patient is diagnosed with onychogryphosis. This is:",
+  "options": {
+   "A": "An absent nail",
+   "B": "A broken nail",
+   "C": "An infected nail",
+   "D": "An ingrowing nail",
+   "E": "An overgrown curved nail"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Onychogryphosis is thickened, overgrown and curved nail ('ram's horn nail'), usually of the big toe in the elderly. An ingrowing nail is onychocryptosis.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G6-14"
+ },
+ {
+  "cids": [
+   "C0005"
+  ],
+  "stem": "A 77-year-old patient presents with a 1.5 cm raised lesion above the right eyebrow. On examination it is pearly, with rolled edges and telangiectasia. What is the most likely diagnosis?",
+  "options": {
+   "A": "Marjolin’s ulcer",
+   "B": "Squamous cell carcinoma",
+   "C": "Basal cell carcinoma",
+   "D": "Kaposi’s sarcoma",
+   "E": "Keratoacanthoma"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A pearly nodule with a rolled edge and surface telangiectasia on the sun-exposed face of an elderly person is the classic basal cell carcinoma.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G6-15"
+ },
+ {
+  "cids": [
+   "C1191",
+   "C0785"
+  ],
+  "stem": "A 65-year-old male farmer presents with a 3 x 3 mm non-healing ulcer at the outer canthus of the left eye. On examination the ulcer has burrowed deeply down to bone. Lymph nodes are not palpable. What is the most likely diagnosis?",
+  "options": {
+   "A": "Basal cell carcinoma",
+   "B": "Malignant Melanoma",
+   "C": "Squamous cell carcinoma",
+   "D": "Traumatic ulcer",
+   "E": "Tuberculous ulcer"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Basal cell carcinoma ('rodent ulcer') erodes locally and deeply, even into bone, while remaining small on the surface and almost never involving lymph nodes. SCC grows faster and tends to involve regional nodes.",
+  "key_note": "Not marked in the source paper; compiled keys were inconsistent (one gave SCC); A is correct.",
+  "figure": "",
+  "qid": "G6-16"
+ },
+ {
+  "cids": [
+   "C1061"
+  ],
+  "stem": "Regarding basal cell carcinoma of the skin, which statement is most characteristic?",
+  "options": {
+   "A": "Histologically exhibits intercellular bridging",
+   "B": "Is radiosensitive",
+   "C": "Is characterized by rodent ulcer",
+   "D": "Characteristically metastasis to the regional lymph nodes",
+   "E": "If small, can be treated successfully by cryosurgery"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "BCC is the 'rodent ulcer'. Intercellular bridges are a feature of SCC, and BCC rarely metastasises to lymph nodes.",
+  "key_note": "One key marked E; statements B (radiosensitive) and E (small lesions curable by cryosurgery) are also true, so the question is flawed, but C is the defining feature and was marked by most keys.",
+  "figure": "",
+  "qid": "G6-17"
+ },
+ {
+  "cids": [
+   "C0803"
+  ],
+  "stem": "Which of the following cancers is potentially curable without the need for surgical excision?",
+  "options": {
+   "A": "Basal cell carcinoma of skin",
+   "B": "Invasive ductal carcinoma",
+   "C": "Follicular thyroid carcinoma",
+   "D": "Gastric carcinoma",
+   "E": "Colorectal carcinoma"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Basal cell carcinoma can be cured by non-excisional methods such as radiotherapy, cryotherapy, curettage, photodynamic therapy or topical imiquimod. The other cancers need surgical resection for cure.",
+  "key_note": "Not marked in the source paper; compiled key A agrees.",
+  "figure": "",
+  "qid": "G6-18"
+ },
+ {
+  "cids": [
+   "C1054"
+  ],
+  "stem": "A 42 year old woman has a history of 3rd degree burn to her right arm in childhood. Now she has come with an ulcerating lesion over the burn scar for 6 months. She states that this lesion appeared after she had a fall and wound over the previous burn scar. Biopsy will most likely reveal:",
+  "options": {
+   "A": "Basal cell carcinoma",
+   "B": "Squamous cell carcinoma",
+   "C": "Keloid",
+   "D": "Malignant melanoma",
+   "E": "Kaposi sarcoma"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "An ulcer arising in a long-standing burn scar is a Marjolin's ulcer, a squamous cell carcinoma. It is slow-growing and, being in avascular scar without lymphatics, spreads to nodes late.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G6-19"
+ },
+ {
+  "cids": [
+   "C1059"
+  ],
+  "stem": "A 50-year-old Pathan labourer has just returned after spending twenty years in Saudi Arabia. He presents with an ulcerating lesion at the lateral canthus of the left eye, and the left cervical lymph nodes are enlarged. The lesion is most likely:",
+  "options": {
+   "A": "Basal cell carcinoma",
+   "B": "Squamous cell carcinoma",
+   "C": "Malignant melanoma",
+   "D": "Keratoacanthoma",
+   "E": "Seborrheic keratosis"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Chronic sun exposure predisposes to both BCC and SCC, but regional lymph node enlargement points to squamous cell carcinoma, because BCC almost never metastasises.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G6-20"
+ },
+ {
+  "cids": [
+   "C0729",
+   "C0859"
+  ],
+  "stem": "A 60-year-old woman presents with a chronic lesion over the right hand. She has a history of radiation treatment for hand eczema. Biopsy shows squamous cell carcinoma. Which of the following is true regarding this lesion?",
+  "options": {
+   "A": "It is more malignant than basal cell carcinoma",
+   "B": "It is rarely associated with chronic sun exposure",
+   "C": "It does not metastasize to regional lymph nodes",
+   "D": "It should be treated by radiation therapy",
+   "E": "Is least troublesome of all skin malignancies"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "SCC is more aggressive than BCC and can metastasise to regional lymph nodes; it is strongly associated with chronic sun exposure and is treated primarily by surgical excision (radiation is the cause here).",
+  "key_note": "",
+  "figure": "",
+  "qid": "G6-21"
+ },
+ {
+  "cids": [
+   "C0749"
+  ],
+  "stem": "A 65 yr old farm worker presented with a 6-week history of a rapidly growing tumour on his face. On examination, the tumour is 2 cm in diameter, with large central keratin plug. What is the most likely diagnosis?",
+  "options": {
+   "A": "Basal cell carcinoma",
+   "B": "Bowen disease",
+   "C": "Keratoacanthoma",
+   "D": "Melanoma",
+   "E": "Molluscum contagiosum"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A rapidly growing (weeks) dome-shaped nodule with a central keratin plug on sun-exposed skin is a keratoacanthoma, which often regresses spontaneously but is usually excised because it mimics SCC.",
+  "key_note": "Not marked in the source paper; compiled key C agrees.",
+  "figure": "",
+  "qid": "G6-22"
+ },
+ {
+  "cids": [
+   "C1194"
+  ],
+  "stem": "A 30 years old male presents in OPD with complaint of itching and ulceration in the naevus on his fore-arm. He is also worried about the size of the naevus that has increased during the last few weeks. What is the most likely diagnosis?",
+  "options": {
+   "A": "Basal Cell Carcinoma",
+   "B": "Malignant Melanoma",
+   "C": "Squamous Cell Carcinoma",
+   "D": "Traumatic ulcer",
+   "E": "Tuberculous ulcer"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Change in a naevus, especially increasing size, itching and ulceration or bleeding, is malignant change to melanoma until proved otherwise and needs excision biopsy.",
+  "key_note": "Not marked in the source paper; compiled key B agrees.",
+  "figure": "",
+  "qid": "G6-23"
+ },
+ {
+  "cids": [
+   "C0467"
+  ],
+  "stem": "An 87-year-old male smoker presents with a raised, dark, irregular lesion on the neck. A diagnosis of melanoma is made. What is the specific type of melanoma most likely in this case?",
+  "options": {
+   "A": "Superficial spreading Melanoma",
+   "B": "Nodular melanoma",
+   "C": "Lentigo maligna melanoma",
+   "D": "Acral Lentigious melanoma",
+   "E": "Desmoplastic melanoma"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Lentigo maligna melanoma typically arises in the very elderly on chronically sun-damaged skin of the head and neck, starting as a flat irregular pigmented patch that later develops raised invasive areas. Superficial spreading melanoma is the commonest type overall but affects younger adults, mainly the trunk and legs.",
+  "key_note": "The paper marked A (Superficial spreading); C is the better answer given the age and sun-exposed head and neck site.",
+  "figure": "",
+  "qid": "G6-24"
+ },
+ {
+  "ncids": [
+   "K0025",
+   "K0107"
+  ],
+  "stem": "A 50-year-old man has had multiple discharging sinuses in the axilla for 6 months and is diagnosed with hidradenitis suppurativa. This is an infection of:",
+  "options": {
+   "A": "Apocrine glands",
+   "B": "Adenoids",
+   "C": "Hair follicles",
+   "D": "Middle ear",
+   "E": "Tonsils"
+  },
+  "answer": "A",
+  "explanation": "Hidradenitis suppurativa is chronic suppurative inflammation of apocrine sweat glands, so it affects the axilla, groin and perineum.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G6-N1"
+ },
+ {
+  "ncids": [
+   "K0026",
+   "K0944"
+  ],
+  "stem": "Rodent ulcer is another name for:",
+  "options": {
+   "A": "Aphthous ulcer",
+   "B": "Basal cell carcinoma",
+   "C": "Melanoma",
+   "D": "Peptic ulcer",
+   "E": "Squamous cell carcinoma"
+  },
+  "answer": "B",
+  "explanation": "Basal cell carcinoma is called a rodent ulcer because it slowly erodes ('gnaws') local tissues, even bone, while rarely metastasising.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G6-N2"
+ },
+ {
+  "ncids": [
+   "K0032"
+  ],
+  "stem": "Which of the following describes chronic leg ulcers?",
+  "options": {
+   "A": "The cause of ulcers cannot be determined by their location on the leg",
+   "B": "Venous ulcers are seldom located on the foot",
+   "C": "Arterial ulcers are seldom located on the leg",
+   "D": "Leg ulcers affect diabetic patients less often than other patient groups",
+   "E": "Ulcer healing is improved more significantly with balloon angioplasty than with arterial bypass"
+  },
+  "answer": "B",
+  "explanation": "Venous ulcers occur in the gaiter area above the medial malleolus and seldom on the foot, so location is a useful clue. Arterial ulcers favour toes, heel and pressure points but can occur on the leg, and diabetics are more prone to ulcers.",
+  "key_note": "Bank starred C in one copy and B in another; correct is B because venous ulcers occupy the gaiter area and rarely the foot.",
+  "_new": true,
+  "qid": "G6-N3"
+ },
+ {
+  "ncids": [
+   "K0057"
+  ],
+  "stem": "Which of the following is a premalignant skin lesion?",
+  "options": {
+   "A": "Actinic keratosis",
+   "B": "Basal cell papilloma",
+   "C": "Blue naevus",
+   "D": "Mongolian spot",
+   "E": "Sebaceous cyst"
+  },
+  "answer": "A",
+  "explanation": "Actinic (solar) keratosis is a sun-induced premalignant lesion that can progress to squamous cell carcinoma. Basal cell papilloma (seborrhoeic keratosis) is benign.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G6-N4"
+ },
+ {
+  "ncids": [
+   "K0101"
+  ],
+  "stem": "A 40-year-old man has a 10-year history of a non-healing ulcer on the left forearm following a third-degree burn. In the last 2 months the ulcer has changed, with heaped-up tissue growth around the edges. What is the most appropriate next diagnostic step?",
+  "options": {
+   "A": "Arteriogram",
+   "B": "Biopsy",
+   "C": "Culture",
+   "D": "Doppler studies",
+   "E": "Venous pressure tracings"
+  },
+  "answer": "B",
+  "explanation": "Change in a chronic burn scar ulcer suggests Marjolin's ulcer (squamous cell carcinoma); diagnosis needs a biopsy from the edge.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G6-N5"
+ },
+ {
+  "ncids": [
+   "K0126"
+  ],
+  "stem": "Signs of malignant transformation in a chronic wound include:",
+  "options": {
+   "A": "Persistent granulation tissue with bleeding",
+   "B": "Everted wound edges",
+   "C": "Non-healing after 2 weeks of therapy",
+   "D": "Distal oedema",
+   "E": "Wound shrinkage"
+  },
+  "answer": "B",
+  "explanation": "Rolled or everted, heaped-up edges in a chronic wound indicate malignant change (Marjolin's ulcer) and demand biopsy.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G6-N6"
+ },
+ {
+  "ncids": [
+   "K0136"
+  ],
+  "stem": "The most common cause of leg ulcer is:",
+  "options": {
+   "A": "Arterial",
+   "B": "Fungal",
+   "C": "Malignant",
+   "D": "Traumatic",
+   "E": "Venous"
+  },
+  "answer": "E",
+  "explanation": "Venous disease causes about 70% of leg ulcers; arterial disease, neuropathy and mixed causes account for most of the rest.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G6-N7"
+ },
+ {
+  "ncids": [
+   "K0137"
+  ],
+  "stem": "The slipping sign is a feature of:",
+  "options": {
+   "A": "Ganglion",
+   "B": "Lipoma",
+   "C": "Melanoma",
+   "D": "Varicocele",
+   "E": "Neurofibroma"
+  },
+  "answer": "B",
+  "explanation": "The edge of a lipoma slips away from the examining finger when pressed (slip sign) because of its soft lobulated fat.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G6-N8"
+ },
+ {
+  "ncids": [
+   "K0145"
+  ],
+  "stem": "The commonest site of a neuropathic ulcer is:",
+  "options": {
+   "A": "Sole of the foot",
+   "B": "Heel",
+   "C": "Dorsum of the foot",
+   "D": "Forefoot",
+   "E": "Tips of the toes"
+  },
+  "answer": "A",
+  "explanation": "Neuropathic ulcers occur over pressure points on the weight-bearing sole, typically under the metatarsal heads. Ischaemic ulcers favour toe tips, heel and dorsum.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G6-N9"
+ },
+ {
+  "ncids": [
+   "K0154"
+  ],
+  "stem": "A 3 mm basal cell carcinoma (BCC) of the skin should be treated with:",
+  "options": {
+   "A": "Biopsy and gross total excision",
+   "B": "Dermatologic laser vaporization",
+   "C": "Excision with a 2 to 4 mm normal margin",
+   "D": "Electrodesiccation",
+   "E": "Observation only"
+  },
+  "answer": "C",
+  "explanation": "Small, well-defined BCCs are excised with a 2 to 4 mm margin of normal skin, which cures over 95%.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G6-N10"
+ },
+ {
+  "ncids": [
+   "K0155"
+  ],
+  "stem": "The primary risk factor for the development of cutaneous squamous cell carcinoma (SCC) is:",
+  "options": {
+   "A": "UV exposure",
+   "B": "Cigarette smoking",
+   "C": "Chemical agents",
+   "D": "Chronic non-healing wounds",
+   "E": "Trauma"
+  },
+  "answer": "A",
+  "explanation": "Cumulative UV (sunlight) exposure is the main risk factor for cutaneous SCC; chemicals, chronic wounds and immunosuppression are less common causes.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G6-N11"
+ },
+ {
+  "ncids": [
+   "K0244"
+  ],
+  "stem": "A 14-year-old boy has a 2 x 2 cm swelling on the back with a punctum oozing foul-smelling cheesy material, diagnosed as a sebaceous (epidermoid) cyst. In which layer of the skin does this lesion lie?",
+  "options": {
+   "A": "Epidermis",
+   "B": "Dermis",
+   "C": "Hypodermis",
+   "D": "Subcutaneous tissue",
+   "E": "Muscular layer"
+  },
+  "answer": "B",
+  "explanation": "A sebaceous (epidermoid) cyst arises from the hair follicle infundibulum and lies in the dermis, which is why it is fixed to the skin at the punctum.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G6-N12"
+ },
+ {
+  "ncids": [
+   "K0245"
+  ],
+  "stem": "A 14-year-old boy has a 2 x 2 cm non-tender, non-inflamed sebaceous cyst on the back with a punctum discharging cheesy material. What is the best mode of treatment?",
+  "options": {
+   "A": "Incision and drainage",
+   "B": "Application of regular dressings",
+   "C": "Surgical excision under general anaesthesia",
+   "D": "Surgical excision under local anaesthesia",
+   "E": "Observation"
+  },
+  "answer": "D",
+  "explanation": "An uninfected sebaceous cyst is excised completely, with an ellipse of skin including the punctum, under local anaesthesia. Incision and drainage is only for an abscess and leads to recurrence.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G6-N13"
+ },
+ {
+  "ncids": [
+   "K0246"
+  ],
+  "stem": "An 8-month-old infant has small, hard, keratin retention cysts distributed over the chest and back. There is no history of fever, fits or sun exposure. What is the most probable diagnosis?",
+  "options": {
+   "A": "Epidermal cysts",
+   "B": "Lentigo",
+   "C": "Milia",
+   "D": "Naevi",
+   "E": "Impetigo"
+  },
+  "answer": "C",
+  "explanation": "Milia are tiny superficial keratin retention cysts, common in infants.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G6-N14"
+ },
+ {
+  "ncids": [
+   "K0247"
+  ],
+  "stem": "A 44-year-old woman with known neurofibromatosis type 1 has multiple coffee-coloured macules of variable sizes all over her body. What are these lesions?",
+  "options": {
+   "A": "Spindle cell naevus",
+   "B": "Purpura fulminans",
+   "C": "Verruca vulgaris",
+   "D": "Cafe-au-lait spots",
+   "E": "Ephelis"
+  },
+  "answer": "D",
+  "explanation": "Cafe-au-lait spots (six or more over 15 mm in adults) are a diagnostic criterion of NF1.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G6-N15"
+ },
+ {
+  "ncids": [
+   "K0249"
+  ],
+  "stem": "A 34-year-old Australian surfer has a raised, cauliflower-like lesion on the left forearm that has grown significantly over 5 months. What is the most probable diagnosis?",
+  "options": {
+   "A": "Basal cell carcinoma",
+   "B": "Squamous cell carcinoma",
+   "C": "Sunburn",
+   "D": "Marjolin ulcer",
+   "E": "Lipomatosis"
+  },
+  "answer": "B",
+  "explanation": "A rapidly growing proliferative (cauliflower) lesion on sun-exposed skin is typical of squamous cell carcinoma. BCC grows slowly with a pearly rolled edge.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G6-N16"
+ },
+ {
+  "ncids": [
+   "K0251"
+  ],
+  "stem": "A patient had a burn on the torso over 10 years ago. The area has never healed and has now formed an ulcerative lesion. What is the most likely diagnosis?",
+  "options": {
+   "A": "Basal cell carcinoma",
+   "B": "Squamous cell carcinoma",
+   "C": "Naevus",
+   "D": "Marjolin ulcer",
+   "E": "Adenoma"
+  },
+  "answer": "D",
+  "explanation": "Malignant change in a long-standing burn scar or chronic ulcer is called Marjolin's ulcer; histologically it is a squamous cell carcinoma, but the specific term is the best answer.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G6-N17"
+ },
+ {
+  "ncids": [
+   "K0252"
+  ],
+  "stem": "A nodular melanoma is diagnosed on the scalp of a 76-year-old man and excision is planned. What is the most important prognostic factor?",
+  "options": {
+   "A": "Age of the patient",
+   "B": "Site of the lesion",
+   "C": "Depth of the lesion",
+   "D": "Colour of the lesion",
+   "E": "None of the above"
+  },
+  "answer": "C",
+  "explanation": "Breslow thickness (depth of invasion) is the single most important prognostic factor in primary melanoma and determines excision margins.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G6-N18"
+ },
+ {
+  "ncids": [
+   "K0259",
+   "K0756"
+  ],
+  "stem": "While examining a swelling over the left flank of a 50-year-old woman you find it is soft, mobile over underlying structures and overlying skin, has a lobulated surface and slips under your examining finger. What is the diagnosis?",
+  "options": {
+   "A": "Lipoma",
+   "B": "Fibroma",
+   "C": "Neurofibroma",
+   "D": "Dermoid cyst",
+   "E": "Haemangioma"
+  },
+  "answer": "A",
+  "explanation": "A soft, lobulated swelling free from skin and deep structures with a positive slip sign is a lipoma.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G6-N19"
+ },
+ {
+  "ncids": [
+   "K0630",
+   "K1085"
+  ],
+  "stem": "A 30-year-old woman has a gradually growing, 2 x 2 cm, smooth, fluctuant, brilliantly transilluminant swelling on the dorsum of the left wrist, with the overlying skin free. What is the likely diagnosis?",
+  "options": {
+   "A": "Lipoma",
+   "B": "Sebaceous cyst",
+   "C": "Ganglion",
+   "D": "Dermoid cyst",
+   "E": "Giant cell tumour of the tendon sheath"
+  },
+  "answer": "C",
+  "explanation": "A ganglion is a cystic myxoid degeneration related to a joint capsule or tendon sheath, commonest on the dorsum of the wrist; it is tense, transilluminant and attached deeply but free of skin.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G6-N20"
+ },
+ {
+  "ncids": [
+   "K0631"
+  ],
+  "stem": "A 30-year-old woman has a ganglion on the dorsum of the left wrist. What is the surgical treatment?",
+  "options": {
+   "A": "Reassurance",
+   "B": "Excision",
+   "C": "Intralesional steroid injection",
+   "D": "Analgesics",
+   "E": "Incision and drainage"
+  },
+  "answer": "B",
+  "explanation": "When treatment is required, surgical excision of the ganglion with its stalk down to the joint capsule is the definitive treatment. Aspiration has high recurrence and incision and drainage is inappropriate.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G6-N21"
+ },
+ {
+  "ncids": [
+   "K0679"
+  ],
+  "stem": "A patient has a long-standing discharging sinus on the chest wall. Which of the following is the most UNLIKELY cause of the persistent discharge?",
+  "options": {
+   "A": "Infection with resistant microorganisms",
+   "B": "Tuberculosis of the underlying rib",
+   "C": "A foreign body in the deeper tissues of the sinus",
+   "D": "Crohn's disease"
+  },
+  "answer": "D",
+  "explanation": "Chest wall sinuses persist due to resistant infection, TB of rib or costal cartilage, or a retained foreign body such as a suture. Crohn's disease causes perianal and enterocutaneous fistulae, not chest wall sinuses.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "G6-N22"
+ },
+ {
+  "ncids": [
+   "K0719",
+   "K1191"
+  ],
+  "stem": "A middle-aged man has a leg ulcer with sloping edges. Which type of ulcer has a sloping edge?",
+  "options": {
+   "A": "Septic ulcer",
+   "B": "Syphilitic ulcer",
+   "C": "Carcinomatous ulcer",
+   "D": "Tubercular ulcer",
+   "E": "Venous ulcer"
+  },
+  "answer": "E",
+  "explanation": "A sloping edge is seen in healing ulcers and typically in venous ulcers. Syphilitic ulcers are punched out, tuberculous undermined and carcinomatous everted.",
+  "key_note": "Bank starred A (septic) in one copy but highlighted E; correct is E.",
+  "_new": true,
+  "qid": "G6-N23"
+ },
+ {
+  "ncids": [
+   "K0757"
+  ],
+  "stem": "A 6-month-old boy has a reddish-brown swelling over the left cheek that blanches on pressure and refills when pressure is released. What is the diagnosis?",
+  "options": {
+   "A": "Lipoma",
+   "B": "Fibroma",
+   "C": "Neurofibroma",
+   "D": "Dermoid cyst",
+   "E": "Haemangioma"
+  },
+  "answer": "E",
+  "explanation": "A compressible, blanching vascular swelling in infancy is an infantile haemangioma, which typically grows in the first year then involutes.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G6-N24"
+ },
+ {
+  "ncids": [
+   "K0818"
+  ],
+  "stem": "A 45-year-old man has a 6-month history of an ulcerated nodular lesion 1.5 cm in diameter at the right oral commissure. Biopsy shows basal cell carcinoma. The preferred treatment is:",
+  "options": {
+   "A": "Mohs micrographic surgery and subsequent reconstruction",
+   "B": "Excision with a clinical margin and local flap repair",
+   "C": "Topical 5-FU",
+   "D": "Local radiation therapy",
+   "E": "Cryotherapy"
+  },
+  "answer": "A",
+  "explanation": "BCCs in high-risk central facial (H-zone) sites such as the lip and oral commissure are best treated with Mohs micrographic surgery, which gives the highest cure rate while conserving tissue, followed by reconstruction.",
+  "key_note": "Bank marked B with * but highlighted A; correct is A because Mohs surgery is preferred for BCC at high-risk facial sites.",
+  "_new": true,
+  "qid": "G6-N25"
+ },
+ {
+  "ncids": [
+   "K1016"
+  ],
+  "stem": "A 65-year-old man has a 3 x 3 cm non-healing wound in the sacral region. Which of the following statements regarding chronic wounds is true?",
+  "options": {
+   "A": "Bed-bound patients are turned every 6 hours",
+   "B": "The most common chronic leg ulcer is Marjolin's ulcer",
+   "C": "A chronic non-healing ulcer must be biopsied to exclude malignancy",
+   "D": "Most leg ulcers are managed by surgery",
+   "E": "Recurrence rate is low in venous ulcers"
+  },
+  "answer": "C",
+  "explanation": "Any chronic non-healing ulcer should be biopsied to exclude malignancy. Patients are turned every 2 hours, venous ulcers are the commonest and recur frequently, and most are managed conservatively with compression.",
+  "key_note": "Bank marked D with * but highlighted C; correct is C because a chronic non-healing ulcer must be biopsied to exclude malignancy, while most leg ulcers are managed conservatively, not surgically.",
+  "_new": true,
+  "qid": "G6-N26"
+ },
+ {
+  "ncids": [
+   "K1027"
+  ],
+  "stem": "Which statement is true regarding hidradenitis suppurativa?",
+  "options": {
+   "A": "Groin is the commonest site",
+   "B": "It is chronic cicatrizing suppuration of apocrine glands",
+   "C": "It is tuberculous in nature",
+   "D": "It is more common in males",
+   "E": "It occurs in the elderly"
+  },
+  "answer": "B",
+  "explanation": "Hidradenitis suppurativa is a chronic scarring suppuration of apocrine glands, commonest in the axilla, in young adults and in women. It is not tuberculous.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G6-N27"
+ },
+ {
+  "ncids": [
+   "K1028"
+  ],
+  "stem": "Which of the following skin lesions is NOT a premalignant or malignant condition?",
+  "options": {
+   "A": "Actinic keratosis",
+   "B": "Bowen's disease",
+   "C": "Marjolin ulcer",
+   "D": "Salmon patch",
+   "E": "Radiodermatitis"
+  },
+  "answer": "D",
+  "explanation": "A salmon patch is a benign capillary vascular malformation in infants. Actinic keratosis, Bowen's disease and radiodermatitis are premalignant, and Marjolin's ulcer is a squamous cell carcinoma.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G6-N28"
+ },
+ {
+  "ncids": [
+   "K1061"
+  ],
+  "stem": "A 65-year-old male farmer has a recurrent 5 x 9 mm ulcer on the left leg with everted margins, inflamed indurated surrounding skin and palpable inguinal lymph nodes. What is the most likely diagnosis?",
+  "options": {
+   "A": "Basal cell carcinoma",
+   "B": "Parotid carcinoma",
+   "C": "Squamous cell carcinoma",
+   "D": "Traumatic ulcer",
+   "E": "Tuberculous ulcer"
+  },
+  "answer": "C",
+  "explanation": "Everted edges, induration and regional node involvement in a sun-exposed outdoor worker indicate squamous cell carcinoma. BCC has rolled edges and rarely spreads to nodes.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G6-N29"
+ },
+ {
+  "ncids": [
+   "K1167"
+  ],
+  "stem": "A 65-year-old man has a painless leg wound present for over 2 months. There is a 3 cm ulcer in the gaiter area above the right medial malleolus with a shallow bed of granulation tissue and sloping edges. There is no history of trauma. What is the most likely diagnosis?",
+  "options": {
+   "A": "Arterial leg ulcer",
+   "B": "Neuropathic ulcer",
+   "C": "Venous ulcer",
+   "D": "Traumatic ulcer",
+   "E": "Neoplastic ulcer"
+  },
+  "answer": "C",
+  "explanation": "A shallow, relatively painless ulcer with sloping edges above the medial malleolus in the gaiter area is a classic venous ulcer.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G6-N30"
+ },
+ {
+  "ncids": [
+   "K1170"
+  ],
+  "stem": "A sebaceous cyst has a:",
+  "options": {
+   "A": "Depression",
+   "B": "Hair",
+   "C": "Punctum",
+   "D": "Slipping sign",
+   "E": "Stalk"
+  },
+  "answer": "C",
+  "explanation": "The punctum marks the blocked follicular opening where the cyst is attached to skin; the slip sign belongs to a lipoma.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G6-N31"
+ },
+ {
+  "ncids": [
+   "K1219"
+  ],
+  "stem": "The commonest site of a ganglion is:",
+  "options": {
+   "A": "Back",
+   "B": "Foot",
+   "C": "Neck",
+   "D": "Scalp",
+   "E": "Wrist"
+  },
+  "answer": "E",
+  "explanation": "Most ganglia arise on the dorsum of the wrist, from the scapholunate joint.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G6-N32"
+ },
+ {
+  "ncids": [
+   "K1281"
+  ],
+  "stem": "A 35-year-old woman from a poor background has a small ulcer discharging cheesy material in the right anterior axillary fold, with underlying large matted lymph nodes. All of the following suggest a tuberculous ulcer EXCEPT:",
+  "options": {
+   "A": "The ulcer edge has a bluish margin",
+   "B": "The ulcer base shows no sign of healing",
+   "C": "The ulcer edge is undermined",
+   "D": "There is a caseous (cheesy) discharge",
+   "E": "There are severe systemic symptoms"
+  },
+  "answer": "E",
+  "explanation": "Tuberculous ulcers have thin, bluish, undermined edges, pale granulation and caseous discharge from underlying matted nodes; systemic upset is usually mild.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G6-N33"
+ },
+ {
+  "ncids": [
+   "K1309"
+  ],
+  "stem": "An anxious 25-year-old woman has a punched-out ulcer on the forearm with straight, geometric edges. The likely diagnosis is:",
+  "options": {
+   "A": "Basal cell carcinoma",
+   "B": "Scrofula",
+   "C": "Dermatitis artefacta",
+   "D": "Trophic ulcer following nerve injury"
+  },
+  "answer": "C",
+  "explanation": "Dermatitis artefacta is self-inflicted: lesions have straight or geometric edges and appear on sites the patient can reach, usually in anxious young women.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G6-N34"
+ },
+ {
+  "ncids": [
+   "K1310"
+  ],
+  "stem": "A 50-year-old man with long-standing varicose veins develops a Marjolin's ulcer on the leg. The cause of non-healing is:",
+  "options": {
+   "A": "Impaired oxygenation due to stagnant blood in the varicosities",
+   "B": "Persistent infection in the ulcer",
+   "C": "Chronic surrounding lymphoedema causing skin breakdown before healing",
+   "D": "Onset of cancer in the ulcer"
+  },
+  "answer": "D",
+  "explanation": "A Marjolin's ulcer is malignant (squamous cell carcinoma) change in a chronic ulcer or scar; the malignancy itself prevents healing.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G6-N35"
+ },
+ {
+  "ncids": [
+   "K1337"
+  ],
+  "stem": "Spot the WRONG statement with regard to ulcers:",
+  "options": {
+   "A": "They are chronic wounds",
+   "B": "They are always caused by mechanical injury",
+   "C": "They are common in diabetes and rheumatoid arthritis",
+   "D": "They are wounds which fail to heal easily"
+  },
+  "answer": "B",
+  "explanation": "Ulcers have many causes: venous, arterial, neuropathic, infective, malignant and vasculitic, not only mechanical injury.",
+  "key_note": "Original option E ('Are not wounds') removed because it was also a false statement; bank answer B is correct.",
+  "_new": true,
+  "qid": "G6-N36"
+ },
+ {
+  "ncids": [
+   "K1353"
+  ],
+  "stem": "Complications of a cyst include:",
+  "options": {
+   "A": "Torsion",
+   "B": "Infection",
+   "C": "Rupture",
+   "D": "Compression of adjacent structures",
+   "E": "All of the above"
+  },
+  "answer": "E",
+  "explanation": "Cysts can twist, become infected, rupture, bleed, calcify, become malignant or compress neighbouring structures.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G6-N37"
+ },
+ {
+  "ncids": [
+   "K1354"
+  ],
+  "stem": "A punched-out edge is characteristic of which type of ulcer?",
+  "options": {
+   "A": "Tuberculous",
+   "B": "Rodent ulcer",
+   "C": "Syphilitic",
+   "D": "Nonspecific ulcer"
+  },
+  "answer": "C",
+  "explanation": "Punched-out edges are seen in syphilitic gummatous ulcers and also in trophic (neuropathic) ulcers. Tuberculous ulcers are undermined and rodent ulcers rolled.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G6-N38"
+ },
+ {
+  "ncids": [
+   "K1355"
+  ],
+  "stem": "A sinus or fistula will persist in the presence of:",
+  "options": {
+   "A": "Inefficient drainage",
+   "B": "Foreign body or necrotic tissue",
+   "C": "Epithelialisation of the wall",
+   "D": "Malignant change",
+   "E": "All of the above"
+  },
+  "answer": "E",
+  "explanation": "Persistence of a sinus or fistula is due to foreign body or dead tissue, inadequate drainage, epithelialisation of the tract, malignancy, specific infection (TB, actinomycosis), distal obstruction or radiation.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G6-N39"
+ },
+ {
+  "ncids": [
+   "K1356"
+  ],
+  "stem": "What is NOT true of callosity, corn and wart?",
+  "options": {
+   "A": "Wart is virus induced, corn and callosity are not",
+   "B": "A corn has its base at the surface and its apex pointing inwards",
+   "C": "Callosity occurs in areas of friction and pressure, and so does a corn",
+   "D": "Resistant multiple warts often indicate immune deficiency",
+   "E": "All are true"
+  },
+  "answer": "E",
+  "explanation": "All statements are correct: warts are HPV-induced and multiple resistant warts suggest immunosuppression, while corns and callosities are pressure-induced keratin thickening, the corn forming an inward-pointing cone.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G6-N40"
+ },
+ {
+  "ncids": [
+   "K1451"
+  ],
+  "stem": "Cock's peculiar tumour of the scalp is:",
+  "options": {
+   "A": "A lipoma",
+   "B": "An epithelioma",
+   "C": "An infected haematoma",
+   "D": "A suppurating sebaceous cyst",
+   "E": "A chronic boil"
+  },
+  "answer": "D",
+  "explanation": "Cock's peculiar tumour is an ulcerated, granulating sebaceous cyst of the scalp that mimics squamous cell carcinoma.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G6-N41"
+ },
+ {
+  "ncids": [
+   "K1472"
+  ],
+  "stem": "A 60-year-old woman is to have a suspected thin melanoma, less than 1 mm deep, excised from her thigh. The smallest margin to plan for the excision is:",
+  "options": {
+   "A": "3 mm",
+   "B": "5 mm",
+   "C": "1 cm",
+   "D": "3 cm",
+   "E": "5 cm"
+  },
+  "answer": "C",
+  "explanation": "For melanomas up to 1 mm Breslow thickness the recommended wide local excision margin is 1 cm; 1 to 2 mm needs 1 to 2 cm and over 2 mm needs 2 cm.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G6-N42"
+ },
+ {
+  "ncids": [
+   "K1474"
+  ],
+  "stem": "A 50-year-old man has a painless swelling on the scalp with a punctum (sebaceous cyst). What is the best treatment for the lesion?",
+  "options": {
+   "A": "Excision",
+   "B": "Enucleation",
+   "C": "Incision and avulsion",
+   "D": "Incision and drainage",
+   "E": "Marsupialization"
+  },
+  "answer": "C",
+  "explanation": "A scalp sebaceous cyst is classically removed by incising the overlying skin and avulsing the intact cyst wall; the whole lining must come out to prevent recurrence. Incision and drainage is only for an infected cyst.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G6-N43"
+ },
+ {
+  "ncids": [
+   "K1569"
+  ],
+  "stem": "A patient has a pigmented nodule on the dorsum of the hand with enlarged axillary lymph nodes on the same side, and melanoma is diagnosed. What is the most likely aetiological factor?",
+  "options": {
+   "A": "Ultraviolet radiation",
+   "B": "Occupational asbestos exposure",
+   "C": "Latex glove allergy"
+  },
+  "answer": "A",
+  "explanation": "Ultraviolet radiation, particularly intermittent intense exposure and sunburn, is the main environmental cause of cutaneous melanoma.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G6-N44"
+ },
+ {
+  "ncids": [
+   "K1658"
+  ],
+  "stem": "A bed-bound paraplegic patient has bed sores over the sacrum. Which of the following is NOT a stage of decubitus ulcer?",
+  "options": {
+   "A": "Non-blanchable skin erythema",
+   "B": "Partial-thickness skin loss involving the epidermis",
+   "C": "Full-thickness skin loss",
+   "D": "Full-thickness tissue loss involving muscle, bone, tendons and joints",
+   "E": "Healthy healing wound edges"
+  },
+  "answer": "E",
+  "explanation": "Pressure ulcer staging runs from non-blanchable erythema (stage 1), partial-thickness loss (2), full-thickness skin loss (3) to exposure of muscle, bone or tendon (4). Healthy healing edges are not a stage.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G6-N45"
+ },
+ {
+  "ncids": [
+   "K1708"
+  ],
+  "stem": "What is INCORRECT about a simple sebaceous cyst?",
+  "options": {
+   "A": "It is attached to the skin",
+   "B": "It can be moulded",
+   "C": "It has a punctum",
+   "D": "It can get infected",
+   "E": "Transillumination test is positive"
+  },
+  "answer": "E",
+  "explanation": "A sebaceous cyst contains opaque keratin and does not transilluminate. It is fixed to skin at a punctum, can be indented and commonly gets infected.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G6-N46"
+ },
+ {
+  "ncids": [
+   "K1720"
+  ],
+  "stem": "Basal cell carcinoma:",
+  "options": {
+   "A": "Usually metastasizes to regional lymph nodes",
+   "B": "Is less common than squamous cell carcinoma",
+   "C": "Most commonly occurs on the face (head and neck)",
+   "D": "Is histologically characterized by epithelial (keratin) pearls",
+   "E": "Is more common in dark-skinned people of the Middle East and Far East"
+  },
+  "answer": "C",
+  "explanation": "BCC occurs mainly on the face, especially above a line from the angle of the mouth to the ear lobe. It rarely metastasizes, is the commonest skin cancer, affects fair-skinned people and keratin pearls belong to SCC.",
+  "key_note": "Source item was fused with the previous question and had two true options; option B reworded to 'less common than SCC' so the bank's starred answer (face and neck) is the single best answer.",
+  "_new": true,
+  "qid": "G6-N47"
+ },
+ {
+  "ncids": [
+   "K1068"
+  ],
+  "stem": "The best treatment for a localised basal cell carcinoma of the inner canthus (when surgical excision is not chosen) is:",
+  "options": {
+   "A": "External radiation",
+   "B": "Radium needle implantation",
+   "C": "Surgery with chemotherapy",
+   "D": "Chemotherapy",
+   "E": "Combination of radiotherapy and chemotherapy"
+  },
+  "answer": "A",
+  "explanation": "BCC is radiosensitive and external beam radiotherapy is an effective option at the inner canthus, where excision can be difficult (Mohs surgery is the modern alternative). Systemic chemotherapy has no role in localised BCC.",
+  "key_note": "Bank starred A but highlighted D; correct is A because chemotherapy has no role in localised basal cell carcinoma.",
+  "_new": true,
+  "qid": "G6-N48"
+ }
+]

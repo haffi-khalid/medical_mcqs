@@ -1,0 +1,1178 @@
+[
+ {
+  "cids": [
+   "C0019"
+  ],
+  "stem": "Which of the following statements regarding the Glasgow Coma Scale (GCS) is true?",
+  "options": {
+   "A": "The maximum score is 15.",
+   "B": "The minimum score is 0.",
+   "C": "A GCS of 10 means the patient is in coma.",
+   "D": "Eye opening to command/speech is scored as 2.",
+   "E": "A GCS of 12 means the patient is in coma."
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "GCS ranges from 3 to 15 (eyes 4, verbal 5, motor 6), so the minimum is 3, not 0. Eye opening to speech scores 3, and coma is conventionally defined as GCS 8 or less.",
+  "key_note": "",
+  "figure": "",
+  "qid": "36-1"
+ },
+ {
+  "cids": [
+   "C0877"
+  ],
+  "stem": "A 28-year-old window cleaner fell off a six-storey building and suffered intracranial bleeding. His Glasgow Coma Scale on arrival in the emergency department is 10. The GCS includes:",
+  "options": {
+   "A": "Best sensory response",
+   "B": "Conjunctival eye reflex",
+   "C": "Best motor response",
+   "D": "Pupillary reflex"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "The three GCS components are eye opening, best verbal response and best motor response. Pupils and brainstem reflexes are recorded separately on the neuro-observation chart, not in the GCS.",
+  "key_note": "",
+  "figure": "",
+  "qid": "36-2"
+ },
+ {
+  "cids": [
+   "C0965"
+  ],
+  "stem": "A severely traumatised woman is seen in the emergency department with a Glasgow Coma Scale (GCS) of 5. Which of the following statements regarding the GCS is most appropriate?",
+  "options": {
+   "A": "A high score correlates with a high mortality",
+   "B": "It includes measurement of intracranial pressure",
+   "C": "It includes measurement of verbal response",
+   "D": "It includes measurement of pupillary reflexes",
+   "E": "It is an obsolete clinical tool"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "GCS measures eye opening, verbal response and motor response. A low score, not a high one, predicts mortality, and neither ICP nor pupils are part of the score.",
+  "key_note": "",
+  "figure": "",
+  "qid": "36-3"
+ },
+ {
+  "cids": [
+   "C0991"
+  ],
+  "stem": "Prognosis in head injury is best given by:",
+  "options": {
+   "A": "Glasgow Coma Score",
+   "B": "Age of patient",
+   "C": "Mode of injury",
+   "D": "Ranson's score"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "The GCS (particularly the motor score) after resuscitation is the single best clinical predictor of outcome after head injury. Age matters too but is secondary, and Ranson's score is for acute pancreatitis.",
+  "key_note": "",
+  "figure": "",
+  "qid": "36-4"
+ },
+ {
+  "cids": [
+   "C0823"
+  ],
+  "stem": "A 30-year-old man is brought to the emergency department after a road traffic accident with multiple lacerations over the head and neck. He opens his eyes to painful stimulus, utters only inappropriate words, and his only motor response is abnormal extension. What is his Glasgow Coma Score?",
+  "options": {
+   "A": "5",
+   "B": "6",
+   "C": "7",
+   "D": "3",
+   "E": "4"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Eyes to pain = 2, inappropriate words = 3, extension (decerebrate) = 2, giving 7/15.",
+  "key_note": "One ward-test paper marked A (5); correct is C (7): E2 + V3 + M2 = 7.",
+  "figure": "",
+  "qid": "36-5"
+ },
+ {
+  "cids": [
+   "C0532"
+  ],
+  "stem": "A 16-year-old boy is injured while doing a one-wheelie on his motorbike. He opens his eyes to painful stimuli, his verbal response is confused, and his motor response is flexion to pain. What is his Glasgow Coma Scale?",
+  "options": {
+   "A": "3",
+   "B": "6",
+   "C": "9",
+   "D": "12",
+   "E": "15"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Eyes to pain = 2, confused speech = 4, abnormal flexion to pain = 3, giving 9. Even if the flexion were scored as withdrawal (4), the total would be 10, so 9 is the only matching option.",
+  "key_note": "",
+  "figure": "",
+  "qid": "36-6"
+ },
+ {
+  "cids": [
+   "C1250"
+  ],
+  "stem": "A 20-year-old man is brought to the emergency department with a head injury. He opens his eyes spontaneously, localises a painful stimulus and speaks inappropriate words. What is his GCS?",
+  "options": {
+   "A": "4",
+   "B": "7",
+   "C": "12",
+   "D": "9",
+   "E": "15"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Spontaneous eye opening = 4, inappropriate words = 3, localises pain = 5, giving 12/15 (moderate head injury).",
+  "key_note": "The compiled answer book lists letter B but the answer text '12', which is option C here; correct is C (12).",
+  "figure": "",
+  "qid": "36-7"
+ },
+ {
+  "cids": [
+   "C0085"
+  ],
+  "stem": "A patient presents to the emergency department after a road traffic accident. His pulse is 108/min, BP 80/60 mmHg and his GCS is only 3. What is the interpretation of this patient's neurological condition?",
+  "options": {
+   "A": "Deep coma",
+   "B": "Vegetative state",
+   "C": "Locked-in syndrome",
+   "D": "Brain death",
+   "E": "Severe disability"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "GCS 3 is the lowest possible score and indicates deep coma. Brain death cannot be diagnosed acutely in a shocked trauma patient; it needs formal brainstem testing after correcting hypotension and other confounders.",
+  "key_note": "",
+  "figure": "",
+  "qid": "36-8"
+ },
+ {
+  "cids": [
+   "C0842"
+  ],
+  "stem": "What is the normal value of intracranial pressure in an adult?",
+  "options": {
+   "A": "5 to 15 mmHg",
+   "B": "25 to 35 mmHg",
+   "C": "50 to 75 mmHg",
+   "D": "100 mmHg",
+   "E": "150 mmHg"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Normal adult ICP is about 5-15 mmHg (around 10 mmHg). Sustained ICP above 20-22 mmHg is treated as raised.",
+  "key_note": "",
+  "figure": "",
+  "qid": "36-9"
+ },
+ {
+  "cids": [
+   "C1215"
+  ],
+  "stem": "An 18-year-old man was assaulted and sustained significant head and facial trauma. Which of the following is the most common initial manifestation of increased intracranial pressure?",
+  "options": {
+   "A": "Change in level of consciousness",
+   "B": "Ipsilateral pupillary dilatation",
+   "C": "Contralateral pupillary dilatation",
+   "D": "Hemiparesis",
+   "E": "Hypertension"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "A falling level of consciousness (drop in GCS) is the earliest and most sensitive sign of rising ICP. Ipsilateral pupillary dilatation, hemiparesis and the Cushing response are later signs of herniation.",
+  "key_note": "",
+  "figure": "",
+  "qid": "36-10"
+ },
+ {
+  "cids": [
+   "C0601"
+  ],
+  "stem": "A taxi driver is brought to the A&E department after a head injury and admitted for neuro-observation. Which feature would cause concern during observation of a head-injured patient?",
+  "options": {
+   "A": "Bradycardia",
+   "B": "Hypotension",
+   "C": "Photophobia",
+   "D": "Pyrexia",
+   "E": "Tachycardia"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Bradycardia with rising blood pressure (Cushing response) signals rising intracranial pressure and impending coning. Hypotension and tachycardia point to extracranial blood loss, not raised ICP.",
+  "key_note": "",
+  "figure": "",
+  "qid": "36-11"
+ },
+ {
+  "cids": [
+   "C1252"
+  ],
+  "stem": "A 45-year-old man presents to the emergency department after an accident. His pulse is 56/min and BP 90/60 mmHg. On arrival his GCS is 9, with right-sided hemiparesis and a dilated left pupil. What do these findings indicate?",
+  "options": {
+   "A": "Subarachnoid haemorrhage",
+   "B": "Subdural haematoma",
+   "C": "Brain herniation",
+   "D": "Pontine haemorrhage",
+   "E": "Brain ischaemia and necrosis"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Falling GCS, ipsilateral (left) pupillary dilatation from third nerve compression, contralateral hemiparesis and bradycardia are the classic picture of transtentorial (uncal) herniation, whatever the underlying mass lesion.",
+  "key_note": "The 2024 send-up key marked B (Subdural haematoma); correct is C: the findings describe herniation, and the type of haematoma cannot be told clinically.",
+  "figure": "",
+  "qid": "36-12"
+ },
+ {
+  "cids": [
+   "C0874"
+  ],
+  "stem": "A unilateral dilated pupil is an important sign in head injury. What is the underlying cause?",
+  "options": {
+   "A": "Damage to the optic nerve",
+   "B": "Compression of the 3rd cranial nerve",
+   "C": "Cerebral anoxia",
+   "D": "Increased intracranial pressure"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "The parasympathetic pupillomotor fibres run on the outside of the oculomotor nerve, so uncal herniation over the tentorial edge compresses them first and the ipsilateral pupil dilates. Raised ICP is the driver, but the direct cause of the unilateral dilatation is third nerve compression.",
+  "key_note": "",
+  "figure": "",
+  "qid": "36-13"
+ },
+ {
+  "cids": [
+   "C0422"
+  ],
+  "stem": "A motorcyclist is brought to the neurosurgical emergency after an accident. The duty doctor finds weakness of the right side of the body with a dilated left pupil. In this setting, the dilated pupil after head injury is due to:",
+  "options": {
+   "A": "Anoxia",
+   "B": "Damage to optic nerves",
+   "C": "Damage to iris",
+   "D": "Fear",
+   "E": "Intracranial hypertension"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "With contralateral hemiparesis, the dilated pupil reflects raised intracranial pressure causing uncal herniation and compression of the ipsilateral third nerve. A pupil dilated purely from local eye or optic nerve trauma would not come with hemiparesis.",
+  "key_note": "Of these options the mechanism is raised ICP with third nerve compression; a pupil dilated from the very moment of impact without other signs may instead be from direct orbital trauma.",
+  "figure": "",
+  "qid": "36-14"
+ },
+ {
+  "cids": [
+   "C0962"
+  ],
+  "stem": "A 25-year-old man is brought to the emergency department after a serious road traffic accident. Skull X-ray shows a fracture. Regarding traumatic skull fracture, which of the following is most appropriate?",
+  "options": {
+   "A": "They are never serious",
+   "B": "Nasogastric intubation should be done immediately",
+   "C": "They require immediate assessment of the Glasgow Coma Score and management according to severity",
+   "D": "They are common in old age",
+   "E": "They should be dealt with on an OPD basis"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A skull fracture greatly increases the risk of an intracranial haematoma, so the patient needs GCS assessment, CT and management according to severity. Nasogastric tubes are contraindicated if a base of skull fracture is possible.",
+  "key_note": "",
+  "figure": "",
+  "qid": "36-15"
+ },
+ {
+  "cids": [
+   "C0720"
+  ],
+  "stem": "A 40-year-old woman was involved in a car crash and was unconscious for 5 minutes. X-ray shows a depressed fracture in the frontal region. Which of the following statements about skull fracture is true?",
+  "options": {
+   "A": "It always requires surgical exploration",
+   "B": "It is compound if multiple",
+   "C": "It requires burr holes if compound",
+   "D": "In the anterior cranial fossa, it may produce rhinorrhoea",
+   "E": "It requires steroid administration"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "An anterior cranial fossa fracture can tear the dura over the cribriform plate and cause CSF rhinorrhoea. 'Compound' means open to the exterior (not multiple), compound depressed fractures need debridement and elevation rather than burr holes, and steroids have no role in head injury (CRASH trial).",
+  "key_note": "Not marked in the source paper; answer by reviewer, which agrees with the compiled answer book.",
+  "figure": "",
+  "qid": "36-16"
+ },
+ {
+  "cids": [
+   "C1251",
+   "C0708",
+   "C1216"
+  ],
+  "stem": "A man is brought to the emergency department after a road traffic accident with bilateral raccoon eyes and a right-sided Battle's sign. What is the main significance of these two signs?",
+  "options": {
+   "A": "Extradural haematoma",
+   "B": "Fracture of the occipital bone",
+   "C": "Subdural haematoma",
+   "D": "Fracture of the skull base",
+   "E": "Pontine haemorrhage"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Raccoon (panda) eyes and CSF rhinorrhoea indicate an anterior cranial fossa fracture, and Battle's sign (mastoid bruising) a middle fossa or petrous temporal fracture; all are signs of basal skull fracture.",
+  "key_note": "",
+  "figure": "",
+  "qid": "36-17"
+ },
+ {
+  "cids": [
+   "C0383"
+  ],
+  "stem": "A 36-year-old man presents to the ER with a head injury. He is unable to open his eyes because of swelling around both eyes. What is this called?",
+  "options": {
+   "A": "Exophthalmos",
+   "B": "Battle's sign",
+   "C": "Black eye",
+   "D": "Panda sign",
+   "E": "Raccoon sign"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Bilateral periorbital swelling and bruising after head injury is the panda (raccoon) sign of anterior cranial fossa fracture.",
+  "key_note": "Flawed question: panda sign and raccoon sign are the same thing; the paper keys marked D (Panda sign), which is acceptable, but E would be equally correct.",
+  "figure": "",
+  "qid": "36-18"
+ },
+ {
+  "cids": [
+   "C0830"
+  ],
+  "stem": "The commonest type of intracranial haematoma after road traffic accidents in young adults is:",
+  "options": {
+   "A": "Acute subdural haematoma",
+   "B": "Acute extradural haematoma",
+   "C": "Chronic subdural haematoma",
+   "D": "Intracerebral haematoma",
+   "E": "Pontine haemorrhage"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Extradural haematoma is typically a lesion of young adults, because in older people the dura is firmly stuck to the skull, and it follows a temporal bone fracture tearing the middle meningeal artery. Chronic subdural is a disease of the elderly.",
+  "key_note": "The paper key (B) follows standard teaching for young adults; note that across all severe head injuries, acute subdural haematoma is actually more frequent.",
+  "figure": "",
+  "qid": "36-19"
+ },
+ {
+  "cids": [
+   "C0554",
+   "C0784"
+  ],
+  "stem": "A cricketer is struck on the head by a ball. He is unconscious for a while but then resumes play. In the lunch break he is found deeply comatose in the dressing room. A lucid interval after head injury is typically present in:",
+  "options": {
+   "A": "Dural sinus haematoma",
+   "B": "Extradural haematoma",
+   "C": "Intracerebral haematoma",
+   "D": "Scalp haematoma",
+   "E": "Subdural haematoma"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "The classic lucid interval (brief concussion, recovery, then deterioration as an arterial bleed expands) is the hallmark of extradural haematoma from middle meningeal artery injury. It occurs in only a minority of EDHs but is most typical of them.",
+  "key_note": "",
+  "figure": "",
+  "qid": "36-20"
+ },
+ {
+  "cids": [
+   "C1217"
+  ],
+  "stem": "A patient is brought to the ER unconscious after a road traffic accident. After resuscitation he becomes conscious with no deficit. Four hours later he suddenly becomes unconscious again with a unilateral pupillary change. What is this period of consciousness called?",
+  "options": {
+   "A": "Amnesia",
+   "B": "Chronic interval",
+   "C": "Dementia",
+   "D": "Lucid interval",
+   "E": "Parkinson's"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Recovery of consciousness between the initial concussion and later deterioration from an expanding haematoma is the lucid interval, classically seen in extradural haematoma. (The source says 'constricted pupil'; early third nerve irritation can briefly constrict the pupil, but dilatation follows.)",
+  "key_note": "Not marked in the source paper; answer by reviewer, which agrees with the compiled answer book.",
+  "figure": "",
+  "qid": "36-21"
+ },
+ {
+  "cids": [
+   "C0531"
+  ],
+  "stem": "A 30-year-old labourer is brought to the neurosurgeon after a fall with loss of consciousness. He is diagnosed with an extradural haematoma and operated on immediately. Which blood vessel is most commonly involved?",
+  "options": {
+   "A": "Common carotid artery",
+   "B": "Circle of Willis",
+   "C": "Middle cerebral artery",
+   "D": "Middle meningeal artery",
+   "E": "Vertebral artery"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Most extradural haematomas follow a squamous temporal bone fracture tearing the middle meningeal artery at the pterion. Acute subdural haematomas come from torn bridging veins or cortical vessels.",
+  "key_note": "",
+  "figure": "",
+  "qid": "36-22"
+ },
+ {
+  "cids": [
+   "N020"
+  ],
+  "stem": "CT findings in extradural (epidural) haematoma typically show:",
+  "options": {},
+  "answer": null,
+  "answer_text": "A biconvex (lens-shaped) hyperdense collection that does not cross suture lines",
+  "explanation": "EDH is a hyperdense biconvex (lentiform) collection that does not cross suture lines, because the dura is tightly attached at the sutures. Acute subdural haematoma is crescentic and crosses sutures.",
+  "key_note": "Options not available in the source; recall question.",
+  "figure": "",
+  "qid": "36-23"
+ },
+ {
+  "cids": [
+   "C0931",
+   "C0547"
+  ],
+  "stem": "A 40-year-old man is brought unconscious to the emergency department after a road traffic accident, and head injury is suspected. What is the single most important investigation to diagnose head injury?",
+  "options": {
+   "A": "X-ray skull",
+   "B": "CT scan brain",
+   "C": "Intracranial pressure monitoring",
+   "D": "MRI brain"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Non-contrast CT is the investigation of choice in acute head injury: fast, widely available and excellent for blood and fractures. MRI is slower and less practical in an unstable patient, and skull X-ray has largely been abandoned.",
+  "key_note": "",
+  "figure": "",
+  "qid": "36-24"
+ },
+ {
+  "cids": [
+   "C1248"
+  ],
+  "stem": "A man falls from a roof and sustains a head injury. He presents to the emergency department with GCS 13, no local scalp swelling and stable vitals. What is the next step in management?",
+  "options": {
+   "A": "Conservative management for 3 hours",
+   "B": "Do a CT scan brain and plan further",
+   "C": "Do an X-ray skull to look for a fracture",
+   "D": "Observe for 3 days in the ward",
+   "E": "Do an MRI brain to see the injury"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "GCS below 13 at any time, or below 15 two hours after injury, is an indication for CT head within 1 hour (NICE). A GCS 13 patient therefore needs CT, and management is planned on the result.",
+  "key_note": "",
+  "figure": "",
+  "qid": "36-25"
+ },
+ {
+  "cids": [
+   "C1249"
+  ],
+  "stem": "A boy on a motorcycle crashed into a car and sustained a severe head injury. On arrival in the emergency department, apart from the head injury itself, what should you check?",
+  "options": {
+   "A": "Loss of consciousness and GCS",
+   "B": "Ear, nose and mouth bleeding",
+   "C": "Pupillary reaction to light",
+   "D": "Amnesia and limb movements",
+   "E": "Chest auscultation and rib fractures"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "The stem asks what to check other than the head injury: in a high-energy motorcycle crash, ATLS primary survey means looking for associated life-threatening injuries such as chest trauma. Options A to D are all part of the head injury assessment itself.",
+  "key_note": "Ambiguous question: the paper key marked E, while the compiled answer book gave C (pupils); E fits the wording 'other than head injury', but pupils are also checked in every head injury.",
+  "figure": "",
+  "qid": "36-26"
+ },
+ {
+  "cids": [
+   "N006"
+  ],
+  "stem": "What is the management priority in a severe head injury with GCS 8/15?",
+  "options": {},
+  "answer": null,
+  "answer_text": "Airway (with cervical spine control), Breathing and Circulation: secure a definitive airway by endotracheal intubation",
+  "explanation": "Follow ATLS ABCDE: airway with cervical spine protection first. GCS 8 or less means the patient cannot protect the airway and needs a definitive airway (endotracheal intubation), with oxygenation and blood pressure maintained to prevent secondary brain injury.",
+  "key_note": "Options not available in the source; recall question.",
+  "figure": "",
+  "qid": "36-27"
+ },
+ {
+  "cids": [
+   "C1253"
+  ],
+  "stem": "A young man sustains a head injury in a road traffic accident. His GCS is 5/15 and he needs artificial ventilation. Which is the definitive and secure method of airway management?",
+  "options": {
+   "A": "Guedel's airway",
+   "B": "Laryngeal mask airway",
+   "C": "Endotracheal intubation",
+   "D": "Tracheostomy",
+   "E": "Nasal airway"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A definitive airway is a cuffed tube in the trachea, and orotracheal intubation with in-line cervical stabilisation is the first choice. A surgical airway is reserved for failed intubation, and guedel, nasal and LMA devices are not definitive (a nasal airway is also contraindicated with possible base of skull fracture).",
+  "key_note": "",
+  "figure": "",
+  "qid": "36-28"
+ },
+ {
+  "cids": [
+   "C0087"
+  ],
+  "stem": "A patient with a severe head injury has a CT scan showing a large extradural (epidural) haematoma. What is the most appropriate treatment?",
+  "options": {
+   "A": "Conservative management",
+   "B": "Surgical evacuation of the haematoma",
+   "C": "Administration of anticoagulants",
+   "D": "Repeat CT scan in 24 hours",
+   "E": "Physical therapy and rehabilitation"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "A large EDH (over 30 mL, or with mass effect or a falling GCS) needs urgent craniotomy and evacuation. Prompt surgery gives an excellent outcome, while delay causes coning and death.",
+  "key_note": "",
+  "figure": "",
+  "qid": "36-29"
+ },
+ {
+  "cids": [
+   "C1149"
+  ],
+  "stem": "A 25-year-old man presents after a motorcycle road traffic accident. His GCS is 7 and imaging shows an acute subdural haematoma. The most appropriate next step is:",
+  "options": {
+   "A": "Administration of mannitol",
+   "B": "Emergency craniotomy",
+   "C": "Hyperventilation",
+   "D": "Insertion of an intracranial pressure (ICP) monitor",
+   "E": "Observation and monitoring"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "An acute SDH in a comatose patient (GCS 8 or less) needs emergency craniotomy and evacuation, especially if it is over 10 mm thick or causes midline shift over 5 mm. The airway is secured first. Mannitol and hyperventilation are only temporising, and ICP monitoring is added for small lesions not needing surgery.",
+  "key_note": "Not marked in the source paper; answer by reviewer (assumes a significant haematoma, which is the usual intent of this question).",
+  "figure": "",
+  "qid": "36-30"
+ },
+ {
+  "cids": [
+   "C0089"
+  ],
+  "stem": "A patient with a head injury has a CT scan showing subarachnoid haemorrhage. What is the most likely long-term complication?",
+  "options": {
+   "A": "Vasospasm",
+   "B": "Hydrocephalus",
+   "C": "Seizures",
+   "D": "Cerebral oedema",
+   "E": "Abscess"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Blood in the subarachnoid space blocks CSF absorption at the arachnoid granulations, causing communicating hydrocephalus as a later complication. Vasospasm is an early complication (days 4-14), not long-term.",
+  "key_note": "",
+  "figure": "",
+  "qid": "36-31"
+ },
+ {
+  "ncids": [
+   "K0075"
+  ],
+  "stem": "A patient sustains a head injury. He opens his eyes to a painful stimulus, is moaning periodically but does not follow commands, and his hand reaches purposefully towards the painful stimulus. What is his Glasgow Coma Scale score?",
+  "options": {
+   "A": "6",
+   "B": "7",
+   "C": "8",
+   "D": "9",
+   "E": "10"
+  },
+  "answer": "D",
+  "explanation": "Eyes to pain = E2, moaning (incomprehensible sounds) = V2, purposeful movement towards the stimulus is localising = M5, giving 9/15.",
+  "key_note": "Bank starred both D and E (with all options highlighted); correct is D because E2 + V2 + M5 = 9.",
+  "_new": true,
+  "qid": "36-N1"
+ },
+ {
+  "ncids": [
+   "K0080"
+  ],
+  "stem": "A 30-year-old man is brought to the emergency department after a high-speed road traffic accident. There is a 5 cm scalp laceration just above the right ear and his GCS is 7. No other injuries are found on primary survey and he is haemodynamically stable. What is the next step in management?",
+  "options": {
+   "A": "Admit for observation",
+   "B": "Burr hole and haematoma evacuation",
+   "C": "CT scan of the brain",
+   "D": "Intravenous mannitol",
+   "E": "X-ray skull"
+  },
+  "answer": "C",
+  "explanation": "Once the primary survey is complete (and the airway secured, as GCS 8 or less needs intubation) a head-injured patient with a depressed GCS needs an urgent CT brain to identify a surgical lesion. Burr holes or mannitol are not given blind, and skull X-ray has no role.",
+  "key_note": "",
+  "_new": true,
+  "qid": "36-N2"
+ },
+ {
+  "ncids": [
+   "K0117",
+   "K0992"
+  ],
+  "stem": "A 25-year-old man presents to A&E with a head injury after a road traffic accident. His eyes are open spontaneously, he is confused and he localises pain. What is his Glasgow Coma Score?",
+  "options": {
+   "A": "8",
+   "B": "9",
+   "C": "11",
+   "D": "13",
+   "E": "15"
+  },
+  "answer": "D",
+  "explanation": "Spontaneous eye opening = E4, confused speech = V4, localising pain = M5, total 13/15.",
+  "key_note": "",
+  "_new": true,
+  "qid": "36-N3"
+ },
+ {
+  "ncids": [
+   "K0481",
+   "K0598",
+   "K0712"
+  ],
+  "stem": "A 15-year-old boy sustained a head injury in a motorbike accident 6 hours ago. He opens his eyes to verbal command, is confused but able to answer questions, and localises pain. He is haemodynamically stable. What is his Glasgow Coma Score?",
+  "options": {
+   "A": "8",
+   "B": "10",
+   "C": "11",
+   "D": "12",
+   "E": "14"
+  },
+  "answer": "D",
+  "explanation": "Eyes to speech = E3, confused = V4, localises pain = M5, total 12/15.",
+  "key_note": "K0712 was not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "36-N4"
+ },
+ {
+  "ncids": [
+   "K1109"
+  ],
+  "stem": "A 21-year-old student presents to the emergency department after falling about 1.5 m from a ledge. She is drowsy, opens her eyes when her name is called, and talks coherently and appropriately about her studies tomorrow. She localises pain when you press her nail bed. What is her Glasgow Coma Score?",
+  "options": {
+   "A": "5",
+   "B": "7",
+   "C": "9",
+   "D": "11",
+   "E": "13"
+  },
+  "answer": "E",
+  "explanation": "Eyes to voice = E3, coherent oriented conversation = V5, localising pain = M5, total 13/15.",
+  "key_note": "",
+  "_new": true,
+  "qid": "36-N5"
+ },
+ {
+  "ncids": [
+   "K1137"
+  ],
+  "stem": "A patient presents after a motor vehicle accident. He opens his eyes to a painful stimulus, makes incomprehensible sounds, and on painful stimulus flexes his arms and extends his legs. What is his Glasgow Coma Score?",
+  "options": {
+   "A": "5/15",
+   "B": "6/15",
+   "C": "7/15",
+   "D": "8/15",
+   "E": "9/15"
+  },
+  "answer": "C",
+  "explanation": "Eyes to pain = E2, incomprehensible sounds = V2, abnormal (decorticate) flexion of the arms = M3, total 7/15.",
+  "key_note": "",
+  "_new": true,
+  "qid": "36-N6"
+ },
+ {
+  "ncids": [
+   "K0227"
+  ],
+  "stem": "A 20-year-old man involved in a road traffic accident presents with injuries to the head and lower limb. He walked into the department with a limp and is fully alert. There is ecchymosis around his right eye with blurring of vision, and X-ray shows a hairline fracture of the orbital region of the skull. What is his Glasgow Coma Scale score?",
+  "options": {
+   "A": "16",
+   "B": "15",
+   "C": "20",
+   "D": "14",
+   "E": "12"
+  },
+  "answer": "B",
+  "explanation": "A fully alert, oriented patient who walks in and obeys commands scores E4 V5 M6 = 15, the maximum. Scores of 16 or 20 do not exist on the scale.",
+  "key_note": "",
+  "_new": true,
+  "qid": "36-N7"
+ },
+ {
+  "ncids": [
+   "K0160",
+   "K0162",
+   "K1132"
+  ],
+  "stem": "A 31-year-old man is hit across the side of the head with a blunt object during an assault. On admission his GCS is 12/15 but it falls to 8/15 during evaluation. CT head shows a high-density, biconvex (lens-shaped) collection on the side of the injury. What is the diagnosis?",
+  "options": {
+   "A": "Extradural haematoma",
+   "B": "Subdural haematoma",
+   "C": "Subarachnoid haemorrhage",
+   "D": "Cerebral contusion",
+   "E": "Intracerebral haemorrhage"
+  },
+  "answer": "A",
+  "explanation": "A biconvex hyperdense collection limited by suture lines is an extradural haematoma, usually from the middle meningeal artery under a temporal fracture. Acute subdural haematoma is crescentic (concavo-convex).",
+  "key_note": "",
+  "_new": true,
+  "qid": "36-N8"
+ },
+ {
+  "ncids": [
+   "K0786"
+  ],
+  "stem": "A 30-year-old victim of a motor vehicle accident has a GCS of E1 V1 M4. You secure his airway during the primary survey and find a fixed dilated left pupil. Urgent CT brain shows a convex (lens-shaped) bleed over the surface of the left hemisphere. What is the most probable diagnosis?",
+  "options": {
+   "A": "Acute subdural haemorrhage",
+   "B": "Chronic subdural haemorrhage",
+   "C": "Acute extradural haemorrhage",
+   "D": "Diffuse axonal injury",
+   "E": "Subarachnoid haemorrhage"
+  },
+  "answer": "C",
+  "explanation": "A convex, lens-shaped collection with an ipsilateral fixed dilated pupil (uncal herniation) indicates an acute extradural haematoma. A crescent-shaped collection would indicate an acute subdural haematoma, and diffuse axonal injury shows no mass lesion.",
+  "key_note": "",
+  "_new": true,
+  "qid": "36-N9"
+ },
+ {
+  "ncids": [
+   "K1110"
+  ],
+  "stem": "A 35-year-old man is knocked off his bicycle and hits his head on a stone. He arrives with a fluctuating Glasgow Coma Scale score and CT head shows a biconvex-shaped haematoma. What other finding is he most likely to have?",
+  "options": {
+   "A": "Midline shift",
+   "B": "Skull fracture",
+   "C": "Subdural haematoma",
+   "D": "Hydrocephalus",
+   "E": "Subarachnoid haemorrhage"
+  },
+  "answer": "B",
+  "explanation": "A biconvex haematoma is extradural, and an overlying skull fracture (classically temporal, tearing the middle meningeal artery) is present in about 85 to 95% of adult cases. Midline shift occurs only with larger collections.",
+  "key_note": "Bank variants disagree: one starred A, the other starred and highlighted B; correct is B because a skull fracture accompanies the great majority of extradural haematomas.",
+  "_new": true,
+  "qid": "36-N10"
+ },
+ {
+  "ncids": [
+   "K0196"
+  ],
+  "stem": "What is the most common result of laceration of the middle meningeal artery?",
+  "options": {
+   "A": "Subarachnoid haemorrhage",
+   "B": "Extradural haematoma",
+   "C": "Subdural haematoma",
+   "D": "Intraparenchymal haemorrhage",
+   "E": "Subcutaneous haemorrhage"
+  },
+  "answer": "B",
+  "explanation": "The middle meningeal artery runs between the skull and the dura, so its laceration (usually by a temporal bone fracture at the pterion) produces an extradural haematoma. Subdural haematomas come from torn bridging veins.",
+  "key_note": "",
+  "_new": true,
+  "qid": "36-N11"
+ },
+ {
+  "ncids": [
+   "K1526"
+  ],
+  "stem": "Acute subdural haemorrhage most commonly results from tearing of which vessels?",
+  "options": {
+   "A": "Superior cerebral (bridging) veins",
+   "B": "Middle meningeal artery",
+   "C": "Middle cerebral artery",
+   "D": "Vertebral artery",
+   "E": "Anterior communicating artery"
+  },
+  "answer": "A",
+  "explanation": "Subdural haematoma usually arises from rupture of the bridging (superior cerebral) veins crossing the subdural space to the dural sinuses. The middle meningeal artery is the source of extradural haematoma.",
+  "key_note": "Source question was a fragment with only two relevant options (other options belonged to a chest trauma question); stem and distractors C to E rebuilt by reviewer. Bank starred A.",
+  "_new": true,
+  "qid": "36-N12"
+ },
+ {
+  "ncids": [
+   "K1111"
+  ],
+  "stem": "An 85-year-old man is brought by his family because he has become increasingly confused and drowsy over the past 3 weeks. He is oriented to time and person, complains of occasional frontal headache and is sleeping for long periods. He may have fallen while climbing out of the bath some weeks ago. CT head shows mild generalised atrophy and a crescent-shaped collection. This presentation is consistent with:",
+  "options": {
+   "A": "Intracerebral haemorrhage",
+   "B": "Subarachnoid haemorrhage",
+   "C": "Extradural haemorrhage",
+   "D": "Chronic subdural haematoma",
+   "E": "Intraventricular haemorrhage"
+  },
+  "answer": "D",
+  "explanation": "Chronic subdural haematoma typically affects the elderly (cerebral atrophy stretches the bridging veins) after a trivial or forgotten fall, with insidious fluctuating confusion and drowsiness and a crescentic collection on CT.",
+  "key_note": "",
+  "_new": true,
+  "qid": "36-N13"
+ },
+ {
+  "ncids": [
+   "K1138"
+  ],
+  "stem": "A 25-year-old man falls 15 feet from a tree with a brief loss of consciousness. He is GCS 15 when the ambulance arrives and has a right temporal scalp laceration. One hour later his GCS is 13/15, and 30 minutes later it is 8/15 with a fixed dilated right pupil. CT shows an extradural haematoma. All of the following statements are correct EXCEPT:",
+  "options": {
+   "A": "It is often caused by a skull fracture with laceration of the middle meningeal artery",
+   "B": "It commonly occurs at the pterion",
+   "C": "There is often a lucid interval",
+   "D": "Treatment is evacuation of the haematoma (craniotomy, or burr hole if no neurosurgeon is available)",
+   "E": "Prognosis is poor even if operated"
+  },
+  "answer": "E",
+  "explanation": "Extradural haematoma has an excellent prognosis when evacuated promptly because the underlying brain is often relatively uninjured. Delay, not the lesion itself, causes poor outcome.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "36-N14"
+ },
+ {
+  "ncids": [
+   "K1139"
+  ],
+  "stem": "A 65-year-old man is hit by a speeding car while crossing the road. CT brain in the emergency department shows an extensive acute subdural haematoma. Which of the following statements regarding acute subdural haematoma is FALSE?",
+  "options": {
+   "A": "It is a collection of blood between the dura and arachnoid membranes",
+   "B": "It can be caused by laceration of the brain",
+   "C": "It can be due to disruption of a cortical blood vessel, usually a vein",
+   "D": "It has a very good prognosis if operated",
+   "E": "It has a crescentic (concavo-convex) shape on CT scans"
+  },
+  "answer": "D",
+  "explanation": "Acute subdural haematoma is usually associated with significant underlying brain injury, so mortality remains high (often quoted 40 to 60%) even after evacuation.",
+  "key_note": "Bank keyed D. As printed, option E ('biconvex shape on CT') was also false; it has been reworded to the correct crescentic shape so that D is the single answer.",
+  "_new": true,
+  "qid": "36-N15"
+ },
+ {
+  "ncids": [
+   "K0198"
+  ],
+  "stem": "An acute subdural haematoma should be evacuated urgently, regardless of GCS, if it causes a midline shift greater than:",
+  "options": {
+   "A": "1 mm",
+   "B": "2 mm",
+   "C": "3 mm",
+   "D": "5 mm",
+   "E": "10 mm"
+  },
+  "answer": "D",
+  "explanation": "Brain Trauma Foundation criteria: evacuate an acute subdural haematoma with thickness over 10 mm or midline shift over 5 mm regardless of GCS. The 10 mm figure applies to clot thickness, not shift.",
+  "key_note": "Bank marked E; correct is D because the surgical threshold is midline shift over 5 mm (10 mm is the threshold for haematoma thickness).",
+  "_new": true,
+  "qid": "36-N16"
+ },
+ {
+  "ncids": [
+   "K0197",
+   "K0223"
+  ],
+  "stem": "A nurse in the intensive care unit is monitoring a head-injured patient with the Glasgow Coma Scale. Which of the following is NOT part of the GCS assessment?",
+  "options": {
+   "A": "Checking limb extension to pain",
+   "B": "Checking sensory loss",
+   "C": "Checking verbal response and orientation",
+   "D": "Checking eye opening",
+   "E": "Checking flexion in response to pain"
+  },
+  "answer": "B",
+  "explanation": "The GCS assesses only eye opening, verbal response and best motor response (including flexion and extension to pain). Sensory examination and pupils are recorded separately.",
+  "key_note": "",
+  "_new": true,
+  "qid": "36-N17"
+ },
+ {
+  "ncids": [
+   "K0662"
+  ],
+  "stem": "The Glasgow Coma Scale includes:",
+  "options": {
+   "A": "Eye opening",
+   "B": "Best verbal response",
+   "C": "Best motor response",
+   "D": "All of these"
+  },
+  "answer": "D",
+  "explanation": "The GCS is the sum of eye opening (1 to 4), best verbal response (1 to 5) and best motor response (1 to 6), giving 3 to 15.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "36-N18"
+ },
+ {
+  "ncids": [
+   "K1121"
+  ],
+  "stem": "The Glasgow Coma Score (GCS) is used for all of the following EXCEPT:",
+  "options": {
+   "A": "Diagnosis of severity of head injury",
+   "B": "Prognosis of head injury",
+   "C": "Guiding treatment of head injury",
+   "D": "Treatment of a paraplegic patient",
+   "E": "Monitoring of a stroke patient"
+  },
+  "answer": "D",
+  "explanation": "GCS grades and monitors conscious level, so it classifies head injury severity, guides management and predicts outcome in head injury and other cerebral insults such as stroke. It has no role in managing paraplegia, where consciousness is normal.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "36-N19"
+ },
+ {
+  "ncids": [
+   "K1644"
+  ],
+  "stem": "After a head injury, what is the best clinical scale for monitoring the level of consciousness in the ward?",
+  "options": {
+   "A": "APACHE scoring system",
+   "B": "Glasgow Coma Scale",
+   "C": "Ranson's criteria",
+   "D": "Alvarado score",
+   "E": "King's College criteria"
+  },
+  "answer": "B",
+  "explanation": "The GCS is the standard bedside tool for serial monitoring of conscious level. APACHE is an ICU severity score, Ranson's is for pancreatitis, Alvarado for appendicitis and King's College criteria for liver transplant in acute liver failure.",
+  "key_note": "",
+  "_new": true,
+  "qid": "36-N20"
+ },
+ {
+  "ncids": [
+   "K0599"
+  ],
+  "stem": "All of the following are signs of raised intracranial pressure EXCEPT:",
+  "options": {
+   "A": "Vomiting",
+   "B": "Papilloedema",
+   "C": "Headache",
+   "D": "Blurred vision",
+   "E": "Anosmia"
+  },
+  "answer": "E",
+  "explanation": "Headache, vomiting, papilloedema and visual blurring are classic features of raised ICP. Anosmia results from olfactory nerve injury, typically with anterior cranial fossa fractures.",
+  "key_note": "",
+  "_new": true,
+  "qid": "36-N21"
+ },
+ {
+  "ncids": [
+   "K1124",
+   "K1645"
+  ],
+  "stem": "Cushing's reflex, a physiological response to raised intracranial pressure, results in:",
+  "options": {
+   "A": "Tachycardia and hypotension",
+   "B": "Tachycardia and hypertension",
+   "C": "Bradycardia and hypotension",
+   "D": "Bradycardia and hypertension",
+   "E": "Hypertension and dyspnoea"
+  },
+  "answer": "D",
+  "explanation": "Cushing's triad is hypertension (to maintain cerebral perfusion pressure), reflex bradycardia and irregular respiration. It is a late sign of impending herniation.",
+  "key_note": "K1645 was not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "36-N22"
+ },
+ {
+  "ncids": [
+   "K1122"
+  ],
+  "stem": "A 27-year-old driver presents to the emergency department with a severe head injury after a road traffic accident, GCS 7/15. Which of the following can cause serious secondary brain injury?",
+  "options": {
+   "A": "Base of skull fracture",
+   "B": "Hypertension",
+   "C": "Hypoxia",
+   "D": "Increased cerebral perfusion",
+   "E": "Polyuria"
+  },
+  "answer": "C",
+  "explanation": "Hypoxia and hypotension are the two most important causes of secondary brain injury and each markedly worsens outcome, so management focuses on oxygenation and perfusion.",
+  "key_note": "",
+  "_new": true,
+  "qid": "36-N23"
+ },
+ {
+  "ncids": [
+   "K1116"
+  ],
+  "stem": "A 32-year-old man presents with a severe head injury, GCS 6/15, and your senior asks you to give a mannitol infusion. Which of the following is essential before administration?",
+  "options": {
+   "A": "Ask about allergy to mannitol",
+   "B": "Confirm bilaterally dilated pupils",
+   "C": "Haemoglobin of 100 g/L",
+   "D": "Oxygen saturation of 95%",
+   "E": "Urinary catheterisation"
+  },
+  "answer": "E",
+  "explanation": "Mannitol is an osmotic diuretic causing a brisk diuresis, so a urinary catheter is placed to allow fluid balance monitoring and avoid bladder distension.",
+  "key_note": "",
+  "_new": true,
+  "qid": "36-N24"
+ },
+ {
+  "ncids": [
+   "K0600"
+  ],
+  "stem": "A 5-year-old boy has a head injury with GCS 13/15 and stable vital signs. The neurosurgeon has ordered him nil by mouth. Which maintenance fluid should you prescribe?",
+  "options": {
+   "A": "5% dextrose water",
+   "B": "Hypertonic saline",
+   "C": "Dextrose saline",
+   "D": "0.9% normal saline",
+   "E": "25% dextrose water"
+  },
+  "answer": "D",
+  "explanation": "Isotonic fluid (0.9% saline) is used in head injury. Hypotonic or dextrose-containing fluids lower serum osmolality, worsen cerebral oedema and can cause hyponatraemia and hyperglycaemia.",
+  "key_note": "",
+  "_new": true,
+  "qid": "36-N25"
+ },
+ {
+  "ncids": [
+   "K0785"
+  ],
+  "stem": "According to NICE guidelines, CT brain is indicated after a head injury for which of the following?",
+  "options": {
+   "A": "Age over 40 years",
+   "B": "Scalp laceration",
+   "C": "More than one episode of vomiting",
+   "D": "Initial headache",
+   "E": "GCS 15 at presentation"
+  },
+  "answer": "C",
+  "explanation": "NICE indications for CT within 1 hour include GCS under 13 on assessment (or under 15 at 2 hours), suspected open, depressed or basal skull fracture, post-traumatic seizure, focal deficit and more than one episode of vomiting. Age 65 or over is a factor for CT within 8 hours, not 40.",
+  "key_note": "",
+  "_new": true,
+  "qid": "36-N26"
+ },
+ {
+  "ncids": [
+   "K1123"
+  ],
+  "stem": "A 39-year-old woman falls from a height of 10 metres. Which of the following is clinical evidence of a middle cranial fossa fracture?",
+  "options": {
+   "A": "CSF otorrhoea",
+   "B": "CSF rhinorrhoea",
+   "C": "Fits",
+   "D": "Hypotension",
+   "E": "Panda eyes"
+  },
+  "answer": "A",
+  "explanation": "Middle cranial fossa (petrous temporal) fractures cause CSF otorrhoea, haemotympanum and Battle's sign. CSF rhinorrhoea and panda eyes indicate an anterior cranial fossa fracture.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "36-N27"
+ },
+ {
+  "ncids": [
+   "K1126"
+  ],
+  "stem": "A 31-year-old woman who is 3 months pregnant sustains a severe head injury in a road traffic accident. What would you consider when ordering a CT brain?",
+  "options": {
+   "A": "CT scan is contraindicated in this patient",
+   "B": "The abdomen should be covered with lead shielding during the CT scan",
+   "C": "A contrast CT brain is required",
+   "D": "CT can be postponed until the patient regains consciousness",
+   "E": "Priority is given to the safety of the baby first"
+  },
+  "answer": "B",
+  "explanation": "A pregnant trauma patient must not be denied a needed CT: the best treatment for the fetus is resuscitation of the mother. Head CT gives negligible fetal dose, further reduced by abdominal shielding.",
+  "key_note": "",
+  "_new": true,
+  "qid": "36-N28"
+ },
+ {
+  "ncids": [
+   "K1131"
+  ],
+  "stem": "Acute blood appears white (hyperdense) on CT brain because of its content of:",
+  "options": {
+   "A": "Calcium",
+   "B": "Sodium",
+   "C": "Oedema",
+   "D": "Globin (haemoglobin protein)",
+   "E": "Potassium"
+  },
+  "answer": "D",
+  "explanation": "Hyperdensity of acute haematoma is due to the protein (globin) component of haemoglobin, concentrated as the clot retracts. It becomes isodense then hypodense over 1 to 3 weeks as the protein breaks down.",
+  "key_note": "",
+  "_new": true,
+  "qid": "36-N29"
+ },
+ {
+  "ncids": [
+   "K1140"
+  ],
+  "stem": "Which of the following statements regarding third nerve palsy in head injury is true?",
+  "options": {
+   "A": "It causes a fixed, dilated pupil",
+   "B": "It causes the eye to deviate upwards",
+   "C": "It is caused by pressure on the third nerve by a herniated brainstem",
+   "D": "It usually occurs on the opposite side to the haematoma",
+   "E": "It is never bilateral"
+  },
+  "answer": "A",
+  "explanation": "Compression of the oculomotor nerve by the herniating uncus of the temporal lobe paralyses its parasympathetic fibres, giving a fixed dilated pupil, usually on the same side as the haematoma; the eye deviates down and out.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "36-N30"
+ },
+ {
+  "ncids": [
+   "K1321"
+  ],
+  "stem": "In a critically ill patient in the ICU, a resident performs the cold water caloric test to assess brain death, instilling 50 mL of ice-cold water into the ear. What should he look for?",
+  "options": {
+   "A": "Any movement of the body",
+   "B": "Eye movement",
+   "C": "Convulsions",
+   "D": "Gasping"
+  },
+  "answer": "B",
+  "explanation": "The vestibulo-ocular (cold caloric) reflex tests brainstem function: any eye movement shows an intact brainstem, so its absence is required for brainstem death.",
+  "key_note": "",
+  "_new": true,
+  "qid": "36-N31"
+ },
+ {
+  "ncids": [
+   "K1683"
+  ],
+  "stem": "In a head injury, a contre-coup injury is the result of:",
+  "options": {
+   "A": "Brain oedema",
+   "B": "Acceleration injury",
+   "C": "Deceleration injury",
+   "D": "Mannitol infusion",
+   "E": "Colloid infusion"
+  },
+  "answer": "C",
+  "explanation": "When the moving head is suddenly stopped, the brain strikes the skull opposite the site of impact, producing a contre-coup contusion (classically frontal and temporal poles after an occipital blow).",
+  "key_note": "",
+  "_new": true,
+  "qid": "36-N32"
+ },
+ {
+  "ncids": [
+   "K1115"
+  ],
+  "stem": "Which one of the following statements is true regarding intracranial pressure (ICP)?",
+  "options": {
+   "A": "It increases in brain tumours",
+   "B": "It decreases after head injury",
+   "C": "It increases with lumbar puncture",
+   "D": "It decreases in hydrocephalus",
+   "E": "It decreases in meningitis"
+  },
+  "answer": "A",
+  "explanation": "By the Monro-Kellie doctrine, a space-occupying lesion such as a tumour raises ICP once compensation is exhausted. Head injury, hydrocephalus and meningitis also raise ICP, while lumbar puncture lowers CSF pressure.",
+  "key_note": "",
+  "_new": true,
+  "qid": "36-N33"
+ }
+]

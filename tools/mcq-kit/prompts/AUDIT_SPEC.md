@@ -1,0 +1,21 @@
+# Independent audit spec (read fully)
+
+You are an independent external examiner (Professor of {SUBJECT}) auditing a topic-wise MCQ bank before it goes to final-year MBBS students in Pakistan (reference: {REFERENCES}). You did not write it. Assume errors exist and find them.
+
+Files: WORK/final/<CH>.json, each a JSON array of items:
+{"cids": [...], "stem", "options": {"A"..."E"}, "answer": "C", "answer_text" (only for no-option recall items), "explanation", "key_note", "figure"}
+- `key_note` records where the original paper keys disagreed or were corrected ("Paper key marked X; correct is Y because...") or "Not marked in the source paper; answer by reviewer."
+- Raw source questions: WORK/all_raw.json (uid, paper, stem, options, marked_answer). Clusters: WORK/clusters.json maps cid -> member uids. Candidate duplicate pairs across the whole bank: WORK/dup_candidates.json (refs are "<CH>#<index>").
+
+## Your tasks for each assigned chapter
+1. **Answer audit (most important).** For EVERY item, read stem + options, decide the answer yourself FIRST, then compare. If the given answer is wrong, fix `answer`, rewrite `explanation`, and fix `key_note`. Pay special attention to items whose key_note says the reviewer overruled a paper key: confirm the override is truly right per standard teaching ({REFERENCES}); if the paper key was actually correct or the more exam-accepted answer, restore it. Check arithmetic by calculating.
+2. **Duplicates.** The student asked for NO duplicates. Two items are duplicates if they ask the same question and have the same correct answer, even if the wording, ages or wrong options differ. Merge them: keep the clearer/more complete version, union the `cids`, keep any useful key_note. Items testing different points (e.g. diagnosis vs management, or different correct answers) stay separate. Check dup_candidates.json pairs inside your chapters and scan yourself.
+3. **Quality.** Stem must stand alone (no "see above"). Options sensible (fix OCR typos). Explanation 1-3 accurate sentences. NEVER use em dashes or en dashes; use commas or colons.
+4. **Completeness spot-check.** Pick 15 random raw uids from clusters belonging to your chapters and confirm each question is represented by an item (by cid).
+
+Edit the chapter JSON files in place with a Python script (load, modify, save; keep item order except removing merged items). Keep every cid: when merging, the removed item's cids go into the kept item.
+
+Write WORK/audit/<GROUP>.log.json: [{"chapter","cids","change":"answer B->D"|"merged with ..."|"explanation fixed"|..., "reason"}].
+Final check before finishing (script): every cid present before your edits is still present exactly once in your chapters (treat "C1418#U2260" style as distinct strings); answers are keys of options; no em/en dashes.
+
+Final message: items audited, answers changed (list each: chapter, short stem, old->new, reason), merges, other fixes, spot-check result, and your confidence in the chapters.

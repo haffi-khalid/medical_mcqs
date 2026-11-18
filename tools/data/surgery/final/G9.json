@@ -1,0 +1,1334 @@
+[
+ {
+  "cids": [
+   "C0428",
+   "C0999"
+  ],
+  "stem": "The following veins join the great saphenous vein before it enters the femoral vein, EXCEPT:",
+  "options": {
+   "A": "Superficial epigastric vein",
+   "B": "Deep external pudendal vein",
+   "C": "Deep epigastric vein",
+   "D": "Superficial external pudendal vein",
+   "E": "Superficial circumflex iliac vein"
+  },
+  "answer": "C",
+  "explanation": "The tributaries at the saphenofemoral junction are the superficial epigastric, superficial circumflex iliac, superficial and deep external pudendal veins (plus the anterolateral and posteromedial thigh veins). The deep (inferior) epigastric vein drains into the external iliac vein.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G9-1"
+ },
+ {
+  "cids": [
+   "C1307"
+  ],
+  "stem": "A 30-year-old female develops varicose veins during pregnancy. What is the most likely underlying cause?",
+  "options": {
+   "A": "Hormonal changes",
+   "B": "Increased venous pressure",
+   "C": "Deep vein thrombosis",
+   "D": "Superficial thrombophlebitis",
+   "E": "Family history"
+  },
+  "answer": "A",
+  "explanation": "Progesterone-mediated relaxation of the vein wall is the main cause, which is why varicosities often appear in the first trimester before the uterus is large enough to obstruct venous return. Pelvic compression by the gravid uterus contributes later.",
+  "key_note": "The compiled answer book gave B (increased venous pressure); the paper key A is accepted, as hormonal venodilatation precedes mechanical compression.",
+  "figure": "",
+  "qid": "G9-2"
+ },
+ {
+  "cids": [
+   "C0920",
+   "C1493"
+  ],
+  "stem": "A 50-year-old woman presents to the surgical OPD with aching in both legs on walking. There are multiple bluish swellings over both legs and thighs and you suspect varicose veins. What is the gold standard for diagnosing varicose veins nowadays?",
+  "options": {
+   "A": "Conventional angiography",
+   "B": "Conventional ultrasound",
+   "C": "Duplex scan",
+   "D": "Computerised tomography scan",
+   "E": "Clinical examination"
+  },
+  "answer": "C",
+  "explanation": "Colour duplex ultrasound combines B-mode imaging with Doppler flow and shows the site and extent of reflux and deep vein patency; it is mandatory before any intervention. Clinical tests such as the tourniquet test are now obsolete.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G9-3"
+ },
+ {
+  "cids": [
+   "C1000"
+  ],
+  "stem": "A 21-year-old woman is referred because of multiple lower limb varicose veins. She has large varicosities only in the distribution of the long saphenous vein. What is the next step in management?",
+  "options": {
+   "A": "A ligation and stripping operation",
+   "B": "Ligation of both the long and short saphenous veins",
+   "C": "Sclerotherapy",
+   "D": "Duplex evaluation along with clinical correlation as an essential initial step",
+   "E": "Compression stockings and anticoagulant therapy"
+  },
+  "answer": "D",
+  "explanation": "No treatment should be planned before duplex scanning, which defines the sites of reflux, excludes deep venous obstruction and determines the appropriate procedure.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G9-4"
+ },
+ {
+  "cids": [
+   "C0817"
+  ],
+  "stem": "Which of the following are indications for surgery in varicose veins?",
+  "options": {
+   "A": "Recurrent haemorrhage",
+   "B": "Skin changes such as lipodermatosclerosis or ulceration",
+   "C": "Itching",
+   "D": "Cosmesis",
+   "E": "A and B"
+  },
+  "answer": "E",
+  "explanation": "Complications such as bleeding, thrombophlebitis, skin changes (eczema, lipodermatosclerosis) and ulceration are clear indications for intervention. Itching or cosmesis alone are not accepted indications in most public health systems.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G9-5"
+ },
+ {
+  "cids": [
+   "C0778"
+  ],
+  "stem": "A 30-year-old school teacher presents with dilated tortuous veins over the medial aspect of the left leg. Venous Doppler shows incompetence of the left saphenofemoral junction. Which operation is best for this patient?",
+  "options": {
+   "A": "Trendelenburg operation",
+   "B": "Injection sclerotherapy",
+   "C": "Gel foam injection",
+   "D": "Multiple stab avulsions"
+  },
+  "answer": "A",
+  "explanation": "SFJ incompetence with great saphenous varicosities is treated surgically by the Trendelenburg operation (flush SFJ ligation) with stripping and avulsions. Sclerotherapy alone fails in the presence of junctional reflux.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "G9-6"
+ },
+ {
+  "cids": [
+   "C1297"
+  ],
+  "stem": "A 50-year-old man develops varicose veins, oedema and skin pigmentation of the left leg. Doppler study shows saphenofemoral junction incompetence. What would be the most effective management?",
+  "options": {
+   "A": "Sclerotherapy",
+   "B": "Endovenous laser ablation",
+   "C": "Vein stripping",
+   "D": "Compression therapy",
+   "E": "Conservative management"
+  },
+  "answer": "B",
+  "explanation": "For SFJ and great saphenous reflux, endothermal ablation (laser or radiofrequency) is now the first-line treatment per Bailey & Love and NICE, with outcomes at least equal to surgery and faster recovery. High tie and stripping remains the alternative where ablation is unavailable.",
+  "key_note": "Two paper keys marked C (vein stripping) and one marked B; B is the current first-line treatment, though C is still accepted where endovenous facilities are not available.",
+  "figure": "",
+  "qid": "G9-7"
+ },
+ {
+  "cids": [
+   "C1002"
+  ],
+  "stem": "In varicose veins of the leg, the Trendelenburg operative procedure includes the following EXCEPT:",
+  "options": {
+   "A": "Flush ligation",
+   "B": "Ligation of the short saphenous vein",
+   "C": "Stripping of the vein",
+   "D": "Stab avulsion",
+   "E": "Ligation of the long saphenous vein"
+  },
+  "answer": "B",
+  "explanation": "The Trendelenburg operation is flush ligation of the long saphenous vein at the saphenofemoral junction with its tributaries, usually combined with stripping of the thigh portion and stab avulsions of varicosities. The short saphenous vein is dealt with by a separate saphenopopliteal ligation.",
+  "key_note": "The paper key marked D (stab avulsion); correct is B: short saphenous ligation is a separate operation, while stab avulsions are routinely done with Trendelenburg's operation.",
+  "figure": "",
+  "qid": "G9-8"
+ },
+ {
+  "cids": [
+   "C0669"
+  ],
+  "stem": "During stripping of the great saphenous vein in Trendelenburg's operation for varicose veins, which nerve is at risk of damage?",
+  "options": {
+   "A": "Common peroneal nerve",
+   "B": "Deep peroneal nerve",
+   "C": "Saphenous nerve",
+   "D": "Superficial peroneal nerve",
+   "E": "Sural nerve"
+  },
+  "answer": "C",
+  "explanation": "The saphenous nerve runs with the great saphenous vein below the knee, so stripping below the knee can injure it and cause numbness of the medial leg and foot; this is why the GSV is stripped only to the knee. The sural nerve is at risk with short saphenous surgery.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G9-9"
+ },
+ {
+  "cids": [
+   "C0819"
+  ],
+  "stem": "Which of the following statements regarding complications of surgical treatment of varicose veins is true?",
+  "options": {
+   "A": "Foot drop is not a complication",
+   "B": "DVT occurs in about 5 per cent of cases",
+   "C": "Muscle atrophy is a common complication",
+   "D": "Saphenous nerve injury may lead to paraesthesia of the forefoot",
+   "E": "Numbness of the heel may be caused by tibial nerve neuropraxia"
+  },
+  "answer": "D",
+  "explanation": "The saphenous nerve supplies the medial leg and medial border of the foot to the forefoot, so injury causes paraesthesia there. Foot drop can follow common peroneal injury in saphenopopliteal surgery, DVT occurs in under 1%, and heel numbness is from sural nerve injury.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G9-10"
+ },
+ {
+  "cids": [
+   "C1016"
+  ],
+  "stem": "A patient with varicose veins presents for foam sclerotherapy. The anaesthesia given for the procedure is:",
+  "options": {
+   "A": "Bupivacaine",
+   "B": "Lignocaine",
+   "C": "Local",
+   "D": "General",
+   "E": "Tumescent"
+  },
+  "answer": "B",
+  "explanation": "Foam sclerotherapy is an outpatient procedure needing at most local infiltration with lignocaine at the cannulation site. Tumescent anaesthesia is used for endothermal (laser or radiofrequency) ablation, not sclerotherapy.",
+  "key_note": "Flawed question: B (lignocaine) and C (local) describe the same thing; the paper key B is kept.",
+  "figure": "",
+  "qid": "G9-11"
+ },
+ {
+  "cids": [
+   "C1301"
+  ],
+  "stem": "A 30-year-old female develops varicose veins during pregnancy. What is the most effective management?",
+  "options": {
+   "A": "Sclerotherapy",
+   "B": "Endovenous laser ablation",
+   "C": "Compression stockings",
+   "D": "Vein stripping",
+   "E": "Conservative management"
+  },
+  "answer": "C",
+  "explanation": "Pregnancy varicosities often regress after delivery, so they are managed with graduated compression stockings and elevation; interventions are deferred until after pregnancy.",
+  "key_note": "One compiled-book entry gave B (endovenous laser ablation); correct is C, as intervention is avoided during pregnancy.",
+  "figure": "",
+  "qid": "G9-12"
+ },
+ {
+  "cids": [
+   "C1221",
+   "C1302"
+  ],
+  "stem": "A 55-year-old woman has tiredness, aching and heaviness of the left leg for three months, relieved by elevation and massage. There are superficial varicosities, non-pitting oedema and a superficial, slightly painful 2 x 2 cm ulcer above and behind the medial malleolus. What is the most appropriate diagnosis?",
+  "options": {
+   "A": "Superficial thrombophlebitis",
+   "B": "Venous insufficiency",
+   "C": "Arterial embolism",
+   "D": "Arterial insufficiency",
+   "E": "Lymphoedema"
+  },
+  "answer": "B",
+  "explanation": "Aching relieved by elevation, varicosities, oedema and a shallow ulcer in the gaiter area over the medial malleolus are classic for chronic venous insufficiency. Arterial ulcers are painful, punched out and on pressure points or toes.",
+  "key_note": "One paper version keyed B (chronic venous insufficiency); the other source copy was unmarked.",
+  "figure": "",
+  "qid": "G9-13"
+ },
+ {
+  "cids": [
+   "C1011"
+  ],
+  "stem": "A 35-year-old man has an ulcer on the medial side of the right ankle and a diagnosis of venous ulcer is made. What may be the cause of the venous ulcer?",
+  "options": {
+   "A": "Trauma",
+   "B": "Tuberculosis",
+   "C": "Varicose veins of the short saphenous system",
+   "D": "Incompetent venous perforators",
+   "E": "Deep vein thrombosis"
+  },
+  "answer": "D",
+  "explanation": "Medial gaiter ulcers result from venous hypertension transmitted through incompetent medial calf (Cockett) perforators, usually with great saphenous or post-thrombotic deep venous reflux. The short saphenous system drains the lateral side of the ankle.",
+  "key_note": "The paper key marked C (short saphenous varicose veins); correct is D because the ulcer is medial. If C was intended as 'superficial venous system', it would also be acceptable.",
+  "figure": "",
+  "qid": "G9-14"
+ },
+ {
+  "cids": [
+   "C1299",
+   "C0997"
+  ],
+  "stem": "A 60-year-old man has chronic venous insufficiency with ulceration, lipodermatosclerosis and oedema. What is the most effective management?",
+  "options": {
+   "A": "Compression therapy",
+   "B": "Endovenous ablation",
+   "C": "Venous bypass surgery",
+   "D": "Wound care and debridement",
+   "E": "Medical management with diuretics"
+  },
+  "answer": "A",
+  "explanation": "Multilayer compression (bandaging then stockings) is the cornerstone of venous ulcer healing and of chronic venous insufficiency. Endovenous ablation of superficial reflux is added to speed healing and prevent recurrence, but does not replace compression.",
+  "key_note": "The paper key marked B (endovenous ablation); correct is A: compression is the mainstay of treatment for venous ulceration.",
+  "figure": "",
+  "qid": "G9-15"
+ },
+ {
+  "cids": [
+   "C1514"
+  ],
+  "stem": "A 45-year-old man, non-diabetic and normotensive, has a non-healing ulcer above the medial malleolus of the right leg for 6 months. He has varicosities of both legs, more marked on the right. What is the most appropriate treatment?",
+  "options": {
+   "A": "Daily dressing of the ulcer and oral antibiotics",
+   "B": "Excision of the ulcer and cover the defect with a skin flap",
+   "C": "Excision of the ulcer and skin grafting",
+   "D": "Surgery of the varicose veins",
+   "E": "Treat the ulcer conservatively and then plan surgery for the varicose veins"
+  },
+  "answer": "E",
+  "explanation": "A venous ulcer is first healed with compression, elevation and dressings, then the underlying superficial reflux is corrected to prevent recurrence. Operating through an active ulcer and lipodermatosclerotic skin risks infection and poor healing.",
+  "key_note": "The compiled answer book gave D (surgery of varicose veins); the paper key E is accepted: the ulcer is healed with compression first, then the superficial reflux is treated.",
+  "figure": "",
+  "qid": "G9-16"
+ },
+ {
+  "cids": [
+   "C1303"
+  ],
+  "stem": "A 45-year-old woman develops superficial thrombophlebitis after IV catheter placement. What is the most effective management?",
+  "options": {
+   "A": "Anticoagulation with warfarin",
+   "B": "Thrombolysis",
+   "C": "Compression therapy",
+   "D": "Antibiotics",
+   "E": "Removal of the catheter"
+  },
+  "answer": "E",
+  "explanation": "Infusion phlebitis is treated by removing the cannula, plus warm compresses and NSAIDs. Anticoagulation is not needed unless the thrombus extends towards the deep system.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G9-17"
+ },
+ {
+  "cids": [
+   "C1298"
+  ],
+  "stem": "A 25-year-old woman presents with recurrent superficial thrombophlebitis, varicose veins and a family history of venous thromboembolism. What is the most likely underlying condition?",
+  "options": {
+   "A": "Factor V Leiden mutation",
+   "B": "Protein C deficiency",
+   "C": "Antithrombin deficiency",
+   "D": "May-Thurner syndrome",
+   "E": "Primary hypercoagulability"
+  },
+  "answer": "A",
+  "explanation": "Factor V Leiden (activated protein C resistance) is the commonest inherited thrombophilia, present in about 5% of white populations, and is the likeliest cause of familial venous thrombosis.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G9-18"
+ },
+ {
+  "cids": [
+   "C0813"
+  ],
+  "stem": "Which of the following is not a risk factor for thrombosis?",
+  "options": {
+   "A": "Young age",
+   "B": "Pregnancy",
+   "C": "Smoking",
+   "D": "Trauma",
+   "E": "Malignancy"
+  },
+  "answer": "A",
+  "explanation": "Risk of venous thrombosis increases with age (over 40). Pregnancy, smoking, trauma and malignancy are all established risk factors acting through Virchow's triad.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G9-19"
+ },
+ {
+  "cids": [
+   "C0949"
+  ],
+  "stem": "Which of the following is a risk factor for postoperative thrombosis?",
+  "options": {
+   "A": "Short surgery time",
+   "B": "Body mass index <18",
+   "C": "Body mass index >30",
+   "D": "Surgery on face and neck",
+   "E": "Young age"
+  },
+  "answer": "C",
+  "explanation": "Obesity (BMI over 30) increases venous stasis and is a standard risk factor in VTE risk assessment. Long operations, pelvic and lower limb surgery and older age increase risk, while short head and neck procedures carry low risk.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G9-20"
+ },
+ {
+  "cids": [
+   "C0818"
+  ],
+  "stem": "Which of the following statements regarding venous thrombosis is true?",
+  "options": {
+   "A": "Between 20 and 30 per cent of the population may have a thrombophilia",
+   "B": "Virchow's triad describes extraluminal, intramural and intraluminal obstructive causes",
+   "C": "A family history of venous thrombosis is a risk factor for a patient",
+   "D": "Risk can be abolished by effective prophylaxis",
+   "E": "Homans' sign is pathognomonic of this condition"
+  },
+  "answer": "C",
+  "explanation": "A family history of VTE suggests an inherited thrombophilia and is an important risk factor. Virchow's triad is stasis, endothelial injury and hypercoagulability, prophylaxis reduces but never abolishes risk, and Homans' sign is unreliable.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G9-21"
+ },
+ {
+  "cids": [
+   "C1492"
+  ],
+  "stem": "A 30-year-old woman who had a caesarean section two weeks ago presents with pain and swelling of the left calf. The skin is shiny and tender with pitting oedema. Distal pulses are normal, she is afebrile and the opposite limb is normal. What is the most probable diagnosis?",
+  "options": {
+   "A": "Cellulitis",
+   "B": "Deep vein thrombosis",
+   "C": "Leg oedema due to cardiac failure",
+   "D": "Lymphoedema",
+   "E": "Varicose veins"
+  },
+  "answer": "B",
+  "explanation": "Unilateral painful calf swelling with pitting oedema in the puerperium after surgery is DVT until proven otherwise. Fever and erythema would favour cellulitis, and cardiac oedema is bilateral.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G9-22"
+ },
+ {
+  "cids": [
+   "C1166"
+  ],
+  "stem": "A 60-year-old woman develops a tender, warm, swollen right calf after hip surgery. She smokes five cigarettes daily and takes the oral contraceptive pill. She has no chest pain or shortness of breath. Which blood investigation is most useful in this scenario?",
+  "options": {
+   "A": "Complete blood count",
+   "B": "D-dimer",
+   "C": "Liver function test",
+   "D": "Urea and creatinine",
+   "E": "Serum electrolytes"
+  },
+  "answer": "B",
+  "explanation": "D-dimer is the relevant blood test for suspected DVT; it is highly sensitive but not specific (raised after any surgery), so its main value is a negative result excluding DVT in low-probability patients. Duplex ultrasound confirms the diagnosis.",
+  "key_note": "Not marked in the source paper; answer by reviewer. The source stem asks for the 'more specific' test, but D-dimer is sensitive rather than specific.",
+  "figure": "",
+  "qid": "G9-23"
+ },
+ {
+  "cids": [
+   "C1222"
+  ],
+  "stem": "A 23-year-old medical student returning from the USA after his electives develops a warm, red, tender and swollen leg. He smokes 10 cigarettes a day. There is no chest pain or shortness of breath. Which is the most important investigation?",
+  "options": {
+   "A": "CT pulmonary angiogram",
+   "B": "Venography",
+   "C": "D-dimers",
+   "D": "VQ scan",
+   "E": "Doppler ultrasound of the leg"
+  },
+  "answer": "E",
+  "explanation": "Suspected DVT after a long-haul flight with a clinically likely presentation is confirmed by compression duplex Doppler ultrasound. D-dimer is only a rule-out test and CTPA or VQ is for suspected PE, which he does not have.",
+  "key_note": "Not marked in the source paper; answer by reviewer. The compiled book's letter (C, D-dimer) conflicts with its own text (Doppler); E is correct.",
+  "figure": "",
+  "qid": "G9-24"
+ },
+ {
+  "cids": [
+   "C0012"
+  ],
+  "stem": "A 40-year-old man develops left calf swelling and pain after surgery for a rectal tumour. You suspect deep vein thrombosis and order a duplex scan before starting treatment. What is true regarding this scan?",
+  "options": {
+   "A": "It is not very sensitive in patients with symptomatic calf deep vein thrombosis",
+   "B": "A negative duplex scan will rule out deep vein thrombosis",
+   "C": "It cannot differentiate between acute and chronic thrombosis",
+   "D": "Lack of compressibility of veins is the hallmark of chronic thrombosis",
+   "E": "The results are similar to clinical examination alone"
+  },
+  "answer": "B",
+  "explanation": "Duplex ultrasound is over 95% sensitive for symptomatic proximal DVT, so a negative scan effectively excludes it. Non-compressibility is the hallmark of acute thrombus, and duplex can distinguish acute from chronic clot by echogenicity and vein size.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G9-25"
+ },
+ {
+  "cids": [
+   "C0988"
+  ],
+  "stem": "A 50-year-old man complains of calf pain and swelling 24 hours after surgery for a tumour. Duplex scan confirms deep vein thrombosis. Which of the following statements is true?",
+  "options": {
+   "A": "He will not have long-term complications",
+   "B": "It can be treated with pneumatic compression devices",
+   "C": "It can be treated with antibiotics and analgesics",
+   "D": "He is at increased risk of pulmonary embolism",
+   "E": "Heparin is of no use in treatment"
+  },
+  "answer": "D",
+  "explanation": "Proximal propagation and embolisation of DVT cause pulmonary embolism, the main immediate danger, which is why prompt anticoagulation is needed. Pneumatic compression is prophylaxis, not treatment, and post-thrombotic syndrome is a recognised long-term complication.",
+  "key_note": "Options combined from two paper versions (Batch C and Batch D) that offered different distractors; both keyed the PE option.",
+  "figure": "",
+  "qid": "G9-26"
+ },
+ {
+  "cids": [
+   "C1296",
+   "C0979"
+  ],
+  "stem": "A 35-year-old woman presents with a swollen, painful left leg with dilated superficial veins. Doppler ultrasound confirms deep vein thrombosis. What would be the most appropriate initial management?",
+  "options": {
+   "A": "Anticoagulation",
+   "B": "Thrombolysis",
+   "C": "Compression stockings",
+   "D": "Inferior vena cava filter",
+   "E": "Surgical thrombectomy"
+  },
+  "answer": "A",
+  "explanation": "Anticoagulation (LMWH, unfractionated heparin or a DOAC, or heparin overlapping with warfarin) is the standard initial treatment of DVT to prevent propagation and PE. Aspirin is inadequate, thrombolysis and thrombectomy are reserved for limb-threatening iliofemoral DVT, and IVC filters for when anticoagulation is contraindicated.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G9-27"
+ },
+ {
+  "cids": [
+   "C1304"
+  ],
+  "stem": "A 70-year-old man presents with swelling, pain and warmth of his left leg. Ultrasound confirms acute DVT. What is the most effective initial management?",
+  "options": {
+   "A": "Warfarin",
+   "B": "Heparin",
+   "C": "Fondaparinux",
+   "D": "Rivaroxaban",
+   "E": "Apixaban"
+  },
+  "answer": "B",
+  "explanation": "Heparin gives immediate anticoagulation and is the traditional initial treatment, while warfarin alone is initially prothrombotic and takes days to work.",
+  "key_note": "Flawed question: current guidelines accept fondaparinux, rivaroxaban or apixaban as initial treatment too; heparin is the intended answer.",
+  "figure": "",
+  "qid": "G9-28"
+ },
+ {
+  "cids": [
+   "C1306"
+  ],
+  "stem": "A 75-year-old man presents with acute DVT and a contraindication to anticoagulation. What is the most appropriate management?",
+  "options": {
+   "A": "Inferior vena cava filter",
+   "B": "Thrombolysis",
+   "C": "Surgical thrombectomy",
+   "D": "Compression therapy",
+   "E": "Observation"
+  },
+  "answer": "A",
+  "explanation": "When anticoagulation is contraindicated (for example active bleeding), an IVC filter is placed to prevent pulmonary embolism, ideally a retrievable filter removed once anticoagulation can start. Thrombolysis is even more contraindicated.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G9-29"
+ },
+ {
+  "cids": [
+   "C1001"
+  ],
+  "stem": "A young basketball player develops acute subclavian vein thrombosis (effort thrombosis) after heavy exercise. What is the next step in management?",
+  "options": {
+   "A": "Active exercise of the limb",
+   "B": "Anti-inflammatory drugs",
+   "C": "Thrombolytic therapy",
+   "D": "Antibiotics",
+   "E": "First-rib resection"
+  },
+  "answer": "C",
+  "explanation": "Paget-Schroetter syndrome is treated first with catheter-directed thrombolysis to restore patency, followed by anticoagulation and then first-rib resection to decompress the thoracic outlet.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G9-30"
+ },
+ {
+  "cids": [
+   "C1305"
+  ],
+  "stem": "A 25-year-old woman has May-Thurner syndrome with compression of the left common iliac vein. What is the most effective management?",
+  "options": {
+   "A": "Endovenous stenting",
+   "B": "Angioplasty",
+   "C": "Thrombolysis",
+   "D": "Compression therapy",
+   "E": "Surgical bypass"
+  },
+  "answer": "A",
+  "explanation": "In May-Thurner syndrome the right common iliac artery compresses the left common iliac vein; the treatment is venous stenting (after thrombolysis if there is acute thrombus), because angioplasty alone recoils.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G9-31"
+ },
+ {
+  "cids": [
+   "C1169"
+  ],
+  "stem": "A 45-year-old man, bedridden for 10 years after a spinal cord injury, develops a bluish, oedematous, swollen left lower limb. Duplex ultrasound shows massive deep vein thrombosis with sparing of the collateral channels. Which condition is anticipated?",
+  "options": {
+   "A": "Acute limb ischaemia",
+   "B": "Cellulitis",
+   "C": "Phlegmasia alba dolens",
+   "D": "Phlegmasia caerulea dolens",
+   "E": "Lymphatic obstruction"
+  },
+  "answer": "C",
+  "explanation": "Phlegmasia alba dolens is massive iliofemoral thrombosis of the major deep veins with sparing of the collaterals, giving a pale swollen leg; phlegmasia caerulea dolens occurs when the collaterals are also occluded, giving a cyanosed, painful limb at risk of venous gangrene.",
+  "key_note": "Not marked in the source paper; answer by reviewer. Flawed stem: 'sparing of collaterals' defines phlegmasia alba dolens (C), while 'bluish' suggests phlegmasia caerulea dolens (D), which the compiled book chose.",
+  "figure": "",
+  "qid": "G9-32"
+ },
+ {
+  "cids": [
+   "C0998"
+  ],
+  "stem": "Four days after hysterectomy, a 30-year-old woman develops phlegmasia caerulea dolens of the right lower limb. What is the most appropriate treatment?",
+  "options": {
+   "A": "Bed rest and elevation",
+   "B": "Systemic heparinisation",
+   "C": "Venous thrombectomy",
+   "D": "Prophylactic vena caval filter",
+   "E": "Local urokinase infusion"
+  },
+  "answer": "B",
+  "explanation": "Immediate systemic heparinisation with leg elevation is the first-line treatment of phlegmasia caerulea dolens; catheter-directed thrombolysis or venous thrombectomy is added if the limb does not improve or venous gangrene threatens. Thrombolysis is relatively contraindicated 4 days after major surgery.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G9-33"
+ },
+ {
+  "cids": [
+   "C1010"
+  ],
+  "stem": "A 24-year-old woman on oral contraceptive pills develops an episode of deep vein thrombosis that is adequately treated with anticoagulation. She is at increased risk of developing which of the following?",
+  "options": {
+   "A": "Recurrent foot infections",
+   "B": "Claudication",
+   "C": "Pulmonary embolism",
+   "D": "Post-treatment bleeding",
+   "E": "Superficial varicose veins"
+  },
+  "answer": "C",
+  "explanation": "A previous VTE is the strongest single risk factor for further VTE and pulmonary embolism, especially if the OCP is continued.",
+  "key_note": "Flawed question: secondary varicose veins (E) as part of post-thrombotic syndrome is also a recognised sequel; the paper key C is kept.",
+  "figure": "",
+  "qid": "G9-34"
+ },
+ {
+  "cids": [
+   "C1220"
+  ],
+  "stem": "In a patient with a documented DVT, the most significant long-term complication is:",
+  "options": {
+   "A": "Claudication",
+   "B": "Recurrent foot infections",
+   "C": "Diminished arterial perfusion",
+   "D": "Pulmonary embolism",
+   "E": "Development of ulcer"
+  },
+  "answer": "E",
+  "explanation": "The principal long-term sequel of DVT is post-thrombotic syndrome: valve destruction causes venous hypertension, lipodermatosclerosis and venous ulceration. PE is the major acute, not long-term, complication.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "G9-35"
+ },
+ {
+  "cids": [
+   "C0102",
+   "C1337"
+  ],
+  "stem": "A 45-year-old patient presents with severe chest pain and the ER doctor wants to rule out pulmonary embolism. What is the most appropriate imaging study?",
+  "options": {
+   "A": "CT pulmonary angiography",
+   "B": "Ventilation-perfusion scan",
+   "C": "Chest X-ray",
+   "D": "MRI",
+   "E": "Ultrasound"
+  },
+  "answer": "A",
+  "explanation": "CT pulmonary angiography is the first-line, gold-standard imaging for suspected PE: it shows the clot directly and other causes of chest pain. A V/Q scan is used when contrast is contraindicated, such as renal impairment or pregnancy.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G9-36"
+ },
+ {
+  "cids": [
+   "C1300"
+  ],
+  "stem": "A 40-year-old woman presents with sudden-onset shortness of breath, chest pain and hypoxia. CT pulmonary angiography confirms pulmonary embolism. What is the most appropriate initial management?",
+  "options": {
+   "A": "Thrombolysis",
+   "B": "Anticoagulation with heparin",
+   "C": "Inferior vena cava filter",
+   "D": "Oxygen therapy",
+   "E": "Surgical embolectomy"
+  },
+  "answer": "B",
+  "explanation": "In a haemodynamically stable patient, immediate anticoagulation with heparin (with oxygen as support) is the treatment of PE. Thrombolysis is reserved for massive PE with hypotension.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G9-37"
+ },
+ {
+  "cids": [
+   "C1336"
+  ],
+  "stem": "A 50-year-old morbidly obese woman underwent prolonged surgery under general anaesthesia. She was poorly mobilised because of pain and did not walk until the 2nd postoperative day, when she got out of bed to go to the washroom and suddenly collapsed. Pulmonary embolism is suspected. What is the initial management?",
+  "options": {
+   "A": "Anticoagulation",
+   "B": "Injection tranexamic acid",
+   "C": "CT angiogram",
+   "D": "Coronary artery bypass graft",
+   "E": "Blalock shunt"
+  },
+  "answer": "A",
+  "explanation": "Immediate anticoagulation with heparin should be started on clinical suspicion of PE while confirmation is awaited, unless contraindicated. If she is haemodynamically unstable (massive PE), thrombolysis is indicated; CT is diagnostic, not treatment.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G9-38"
+ },
+ {
+  "cids": [
+   "N025"
+  ],
+  "stem": "Which is the gold standard test for diagnosing lymphoedema?",
+  "options": {},
+  "answer": null,
+  "explanation": "Isotope lymphoscintigraphy shows the absence, delay or rerouting of lymph flow and is the investigation of choice to confirm lymphoedema.",
+  "key_note": "Options not available in the source; recall question.",
+  "figure": "",
+  "answer_text": "Lymphoscintigraphy",
+  "qid": "G9-39"
+ },
+ {
+  "cids": [
+   "C1366"
+  ],
+  "stem": "A newborn presents with congenital swelling of the right leg due to lymphatic dysfunction. What is the most likely diagnosis?",
+  "options": {
+   "A": "Milroy disease",
+   "B": "Lymphangiomatosis",
+   "C": "Klippel-Trenaunay syndrome",
+   "D": "Proteus syndrome",
+   "E": "Noonan syndrome"
+  },
+  "answer": "A",
+  "explanation": "Primary lymphoedema present at birth (congenita) that is familial is Milroy disease (VEGFR3 mutation). Praecox starts around puberty and tarda after 35.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G9-40"
+ },
+ {
+  "cids": [
+   "C1009"
+  ],
+  "stem": "A young man with a family history of lymphoedema has bilateral lower limb swelling with thick, distorted skin like elephant skin. What is the diagnosis?",
+  "options": {
+   "A": "Varicose veins",
+   "B": "Lymphoedema praecox",
+   "C": "Klippel-Trenaunay syndrome",
+   "D": "Lymphoedema tarda",
+   "E": "Phlegmasia alba dolens"
+  },
+  "answer": "B",
+  "explanation": "Primary lymphoedema with onset around puberty to 35 years is lymphoedema praecox (familial form: Meige disease), the commonest type of primary lymphoedema. Tarda begins after 35.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G9-41"
+ },
+ {
+  "cids": [
+   "C1364",
+   "C1367"
+  ],
+  "stem": "A 35-year-old woman presents with chronic swelling of the left arm after breast cancer surgery. What is the most likely diagnosis?",
+  "options": {
+   "A": "Lymphoedema",
+   "B": "Deep vein thrombosis",
+   "C": "Cellulitis",
+   "D": "Lipodermatosclerosis",
+   "E": "Peripheral artery disease"
+  },
+  "answer": "A",
+  "explanation": "Axillary node clearance and axillary radiotherapy disrupt or fibrose the lymphatic drainage of the arm, causing secondary lymphoedema, the commonest cause of arm swelling after breast cancer treatment.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G9-42"
+ },
+ {
+  "cids": [
+   "C1308"
+  ],
+  "stem": "A 50-year-old man presents with chronic oedema due to lymphoedema. What is the most effective management?",
+  "options": {
+   "A": "Compression therapy",
+   "B": "Lymphatic massage",
+   "C": "Diuretics",
+   "D": "Surgery",
+   "E": "Complete decongestive therapy"
+  },
+  "answer": "E",
+  "explanation": "Complete decongestive therapy (manual lymphatic drainage, multilayer bandaging, exercise and skin care, then compression garments) is the mainstay of lymphoedema treatment. Diuretics are ineffective, and surgery is for selected refractory cases.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G9-43"
+ },
+ {
+  "cids": [
+   "C1365"
+  ],
+  "stem": "A 50-year-old man develops swelling of his right leg with fever and chills, and lymphangitis is diagnosed. What is the most appropriate management?",
+  "options": {
+   "A": "Antibiotics",
+   "B": "Compression therapy",
+   "C": "Surgery",
+   "D": "Lymphatic massage",
+   "E": "Diuretics"
+  },
+  "answer": "A",
+  "explanation": "Lymphangitis is usually streptococcal infection spreading along lymphatics and needs prompt antibiotics (penicillin) with elevation; compression and massage are avoided during acute infection.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G9-44"
+ },
+ {
+  "cids": [
+   "C1368"
+  ],
+  "stem": "A 40-year-old man presents with recurrent swelling of his left leg, fever and weight loss. Biopsy confirms lymphoma. What is the most appropriate management?",
+  "options": {
+   "A": "Chemotherapy",
+   "B": "Radiation therapy",
+   "C": "Surgery",
+   "D": "Lymphatic massage",
+   "E": "Antibiotics"
+  },
+  "answer": "A",
+  "explanation": "Lymphoma with B symptoms (fever, weight loss) is systemic disease treated primarily with chemotherapy; surgery is for diagnostic biopsy only. Leg swelling here is secondary lymphoedema from nodal obstruction.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G9-45"
+ },
+ {
+  "cids": [
+   "C0457"
+  ],
+  "stem": "Which of the following statements regarding lymphoedema are true?",
+  "options": {
+   "A": "Primary lymphedema occurs in more than 5 per cent of the population.",
+   "B": "Early treatment is usually successful.",
+   "C": "Early treatment includes surgical drainage.",
+   "D": "Fluid is relatively low in protein in lymphedema.",
+   "E": "Lymphedema often involves the muscle compartments."
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Early treatment (compression, skin care, manual lymphatic drainage) usually controls lymphoedema. Primary lymphoedema affects only about 1 in 6000, the fluid is protein-rich, surgery is not early treatment, and the swelling is confined to the epifascial compartment, sparing muscle.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G9-46"
+ },
+ {
+  "ncids": [
+   "K0008"
+  ],
+  "stem": "Which of the following is NOT a risk factor for lymphoedema?",
+  "options": {
+   "A": "Family history",
+   "B": "Varicose vein operation",
+   "C": "Air travel",
+   "D": "Baker's cyst",
+   "E": "Obesity"
+  },
+  "answer": "D",
+  "explanation": "Family history (primary lymphoedema), groin surgery such as varicose vein operations (lymphatic damage), obesity and prolonged dependency such as air travel all predispose to or precipitate lymphoedema. A Baker's cyst causes calf swelling that mimics DVT but is not a lymphoedema risk factor.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G9-N1"
+ },
+ {
+  "ncids": [
+   "K0030"
+  ],
+  "stem": "A 55-year-old supermarket cashier has an 8-month history of leg oedema that increases over the course of the working day, with moderate to severe bursting lower leg pain. The most appropriate investigation is:",
+  "options": {
+   "A": "Doppler duplex ultrasound",
+   "B": "Brodie-Trendelenburg test",
+   "C": "Ascending and descending phlebography",
+   "D": "Measurement of ambulatory and resting foot venous pressure",
+   "E": "Venous reflux plethysmography"
+  },
+  "answer": "A",
+  "explanation": "Duplex ultrasound is the first-line and standard investigation for chronic venous insufficiency, showing reflux and obstruction in superficial and deep veins non-invasively. Phlebography and venous pressure studies are invasive and reserved for selected cases.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G9-N2"
+ },
+ {
+  "ncids": [
+   "K0061"
+  ],
+  "stem": "Which of the following carries a high risk for developing deep venous thrombosis?",
+  "options": {
+   "A": "Moderate length procedure",
+   "B": "Chest surgery",
+   "C": "Bleeding disorders",
+   "D": "Obesity",
+   "E": "Previous deep venous thrombosis"
+  },
+  "answer": "E",
+  "explanation": "A previous DVT is one of the strongest risk factors for recurrent venous thromboembolism and places a surgical patient in a high-risk category. Obesity is a moderate risk factor and bleeding disorders reduce thrombotic risk.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G9-N3"
+ },
+ {
+  "ncids": [
+   "K1307",
+   "K0062"
+  ],
+  "stem": "A patient presents with marked lymphoedema of the leg. Which of the following parasites is most likely to have caused this?",
+  "options": {
+   "A": "Loa loa",
+   "B": "Wuchereria bancrofti",
+   "C": "Onchocerca volvulus",
+   "D": "Gnathostoma spinigerum"
+  },
+  "answer": "B",
+  "explanation": "Wuchereria bancrofti (and Brugia malayi), transmitted by mosquitoes, cause lymphatic filariasis, the commonest cause of lymphoedema worldwide.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G9-N4"
+ },
+ {
+  "ncids": [
+   "K0064"
+  ],
+  "stem": "In a patient on long-term warfarin anticoagulant therapy, the INR is usually maintained at:",
+  "options": {
+   "A": "1.0 to 1.5",
+   "B": "1.5 to 2.5",
+   "C": "2.5 to 3.5",
+   "D": "3.5 to 4.5",
+   "E": "4.5 to 5.5"
+  },
+  "answer": "C",
+  "explanation": "The standard target for venous thromboembolism is 2 to 3 (target 2.5), and 2.5 to 3.5 for mechanical valves or recurrent VTE; of the ranges given, 2.5 to 3.5 is the therapeutic one, while 1.5 to 2.5 is subtherapeutic.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G9-N5"
+ },
+ {
+  "ncids": [
+   "K0065"
+  ],
+  "stem": "A 60-year-old man has chronic lymphoedema of the right leg. Which of the following complications can he develop?",
+  "options": {
+   "A": "Basal cell carcinoma",
+   "B": "Marjolin ulcer",
+   "C": "Pulmonary embolism",
+   "D": "Recurrent infections",
+   "E": "Thinning of the skin"
+  },
+  "answer": "D",
+  "explanation": "Recurrent cellulitis and lymphangitis are the commonest complications of chronic lymphoedema, and each episode damages lymphatics further. The skin thickens (hyperkeratosis) rather than thins; the rare malignant complication is lymphangiosarcoma (Stewart-Treves).",
+  "key_note": "",
+  "_new": true,
+  "qid": "G9-N6"
+ },
+ {
+  "ncids": [
+   "K0095"
+  ],
+  "stem": "Which of the following is the most common cause of lymphoedema worldwide?",
+  "options": {
+   "A": "Chagas disease",
+   "B": "Filariasis",
+   "C": "Radiotherapy",
+   "D": "Surgery",
+   "E": "Leptospirosis"
+  },
+  "answer": "B",
+  "explanation": "Filariasis (Wuchereria bancrofti) is the commonest cause worldwide; in developed countries, cancer treatment (surgery and radiotherapy) is the commonest cause.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G9-N7"
+ },
+ {
+  "ncids": [
+   "K0131"
+  ],
+  "stem": "The commonest type of lymphoedema is:",
+  "options": {
+   "A": "Primary",
+   "B": "Secondary",
+   "C": "Tertiary",
+   "D": "Idiopathic",
+   "E": "Congenital"
+  },
+  "answer": "B",
+  "explanation": "Secondary (acquired) lymphoedema due to filariasis, surgery, radiotherapy, malignancy or infection is far commoner than primary lymphoedema.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G9-N8"
+ },
+ {
+  "ncids": [
+   "K0135"
+  ],
+  "stem": "Lipodermatosclerosis is a feature of:",
+  "options": {
+   "A": "Arterial disease",
+   "B": "Cardiac disease",
+   "C": "Hyperlipidaemia",
+   "D": "Lymphatic disease",
+   "E": "Venous disease"
+  },
+  "answer": "E",
+  "explanation": "Lipodermatosclerosis is fibrosis and induration of the skin and subcutaneous fat of the gaiter area due to chronic venous hypertension, giving the 'inverted champagne bottle' leg.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G9-N9"
+ },
+ {
+  "ncids": [
+   "K0207"
+  ],
+  "stem": "Which of the following statements about leg swelling due to venous insufficiency or lymphoedema is true?",
+  "options": {
+   "A": "Oedema forms when hydrostatic pressure in the interstitium is higher than that in the lymphatics or venules",
+   "B": "Venous insufficiency causes pigmentation and hypertrophic skin changes over the ankle, while late lymphoedema results in fibrosis",
+   "C": "Lymphoedema is diagnosed by ultrasound imaging",
+   "D": "Operative intervention is commonly used for lymphoedema",
+   "E": "Long-standing lymphoedema is typically pitting"
+  },
+  "answer": "B",
+  "explanation": "Chronic venous hypertension causes haemosiderin pigmentation and lipodermatosclerosis around the ankle, whereas long-standing lymphoedema becomes fibrotic and non-pitting. Lymphoedema is diagnosed by lymphoscintigraphy and treated mainly conservatively.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G9-N10"
+ },
+ {
+  "ncids": [
+   "K0210"
+  ],
+  "stem": "A 43-year-old office worker has had a swollen left leg since her early teens. She now has aching in the calf at rest and a 4 cm shallow ulcer with an erythematous base above the lateral malleolus. What is the underlying cause?",
+  "options": {
+   "A": "Aorto-iliac arterial disease",
+   "B": "Cellulitis",
+   "C": "Deep vein thrombosis",
+   "D": "Lipodermatosclerosis",
+   "E": "Lymphoedema"
+  },
+  "answer": "E",
+  "explanation": "Swelling since adolescence suggests primary lymphoedema (praecox); chronic lymphoedema predisposes to skin breakdown and infection. Venous ulcers classically lie above the medial malleolus and follow venous disease, not lifelong swelling.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G9-N11"
+ },
+ {
+  "ncids": [
+   "K0705"
+  ],
+  "stem": "The term 'venous pump' refers to:",
+  "options": {
+   "A": "A part of an autotransfusion apparatus",
+   "B": "An apparatus used for rapid blood transfusion",
+   "C": "The musculofascial anatomy and physiology of the calf",
+   "D": "The system of venous valves in the IVC"
+  },
+  "answer": "C",
+  "explanation": "The calf muscle pump is the calf muscles contracting within the deep fascia, compressing the deep veins and, with competent valves, propelling blood towards the heart; its failure causes ambulatory venous hypertension.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "G9-N12"
+ },
+ {
+  "ncids": [
+   "K0836"
+  ],
+  "stem": "A 30-year-old traffic constable presents with aching in both lower limbs. Examination suggests bilateral varicose veins. His BMI is 25. What is the most probable cause of his varicose veins?",
+  "options": {
+   "A": "Obesity",
+   "B": "Age",
+   "C": "Gender",
+   "D": "Profession"
+  },
+  "answer": "D",
+  "explanation": "Occupations involving prolonged standing (traffic police, shop workers, surgeons) raise venous pressure in the legs and predispose to varicose veins. His BMI is normal, he is young and male sex is not a predisposing factor.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "G9-N13"
+ },
+ {
+  "ncids": [
+   "K1036",
+   "K1401"
+  ],
+  "stem": "A 65-year-old woman develops sudden chest pain and shortness of breath on her first postoperative day after hysterectomy for malignancy. Her blood pressure is 100/70 mmHg and ultrasound shows no free fluid in the pouch of Douglas. What is the most likely diagnosis?",
+  "options": {
+   "A": "Cardiomyopathy",
+   "B": "Congestive cardiac failure",
+   "C": "Hypovolaemic shock",
+   "D": "Pulmonary embolism",
+   "E": "Septic shock"
+  },
+  "answer": "D",
+  "explanation": "Sudden pleuritic chest pain and dyspnoea after pelvic cancer surgery (major VTE risk) is pulmonary embolism until proven otherwise; a loud P2 reflects acute pulmonary hypertension. No free fluid argues against intra-abdominal bleeding.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G9-N14"
+ },
+ {
+  "ncids": [
+   "K1037"
+  ],
+  "stem": "A 65-year-old man has grade 1 asymptomatic varicose veins and is not concerned about their appearance. What is the best management?",
+  "options": {
+   "A": "Injection sclerotherapy",
+   "B": "Laser ablation",
+   "C": "Polidocanol foam therapy",
+   "D": "Flush ligation and multiple stab avulsions",
+   "E": "Compression stockings and reassurance"
+  },
+  "answer": "E",
+  "explanation": "Uncomplicated, asymptomatic varicose veins without cosmetic concern need no intervention; reassurance with compression hosiery is appropriate. Interventions are for symptoms, skin changes, ulceration, bleeding or thrombophlebitis.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G9-N15"
+ },
+ {
+  "ncids": [
+   "K1046"
+  ],
+  "stem": "A 50-year-old obese woman undergoes a 3-hour operation for breast cancer. The surgeon is particularly concerned that she may develop which postoperative complication?",
+  "options": {
+   "A": "Deep venous thrombosis",
+   "B": "Postoperative fever",
+   "C": "Postoperative vomiting",
+   "D": "Postoperative hepatitis",
+   "E": "Malignant hyperthermia"
+  },
+  "answer": "A",
+  "explanation": "Malignancy, obesity, age over 40 and surgery over 30 minutes to an hour are all VTE risk factors, so she needs mechanical and pharmacological thromboprophylaxis.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G9-N16"
+ },
+ {
+  "ncids": [
+   "K1185"
+  ],
+  "stem": "The Trendelenburg (Brodie-Trendelenburg) test is used to detect:",
+  "options": {
+   "A": "Deep vein thrombosis",
+   "B": "Patency of the femoral vein",
+   "C": "Incompetence of the valves at the saphenofemoral junction",
+   "D": "Venous ulcer",
+   "E": "Varicocele"
+  },
+  "answer": "C",
+  "explanation": "After emptying the veins and occluding the saphenofemoral junction, rapid filling from above on release shows SFJ incompetence. Deep vein patency is assessed by Perthes test.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G9-N17"
+ },
+ {
+  "ncids": [
+   "K1245",
+   "K1461"
+  ],
+  "stem": "The commonest site of a venous (varicose) ulcer is:",
+  "options": {
+   "A": "Broca's area",
+   "B": "Critical area",
+   "C": "Dancer's area",
+   "D": "Gaiter area",
+   "E": "Waiter's area"
+  },
+  "answer": "D",
+  "explanation": "Venous ulcers occur in the gaiter area of the lower third of the leg, most often above the medial malleolus, where perforator incompetence and venous hypertension are greatest.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G9-N18"
+ },
+ {
+  "ncids": [
+   "K1360"
+  ],
+  "stem": "Which of the following is NOT a venous symptom?",
+  "options": {
+   "A": "Aching",
+   "B": "Leg cramps",
+   "C": "Palpitation",
+   "D": "Tiredness",
+   "E": "Ankle swelling"
+  },
+  "answer": "C",
+  "explanation": "Aching, heaviness, tiredness, night cramps and ankle swelling are typical symptoms of chronic venous disease; palpitation is a cardiac symptom.",
+  "key_note": "Bank highlighted and keyed A; correct is C because aching is the classic venous symptom, while palpitation is cardiac.",
+  "_new": true,
+  "qid": "G9-N19"
+ },
+ {
+  "ncids": [
+   "K1361",
+   "K1659"
+  ],
+  "stem": "The underlying cause of venous ulceration is:",
+  "options": {
+   "A": "Ambulatory venous hypertension",
+   "B": "Ambulatory venous hypotension",
+   "C": "Fibrin cuff around capillaries",
+   "D": "Arteriolar spasm"
+  },
+  "answer": "A",
+  "explanation": "Failure of venous pressure to fall on walking (ambulatory venous hypertension) from valvular incompetence or obstruction is the root cause; the fibrin cuff and white cell trapping theories describe the downstream mechanism.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G9-N20"
+ },
+ {
+  "ncids": [
+   "K1362"
+  ],
+  "stem": "The commonest causative organism of acute lymphangitis is:",
+  "options": {
+   "A": "Staphylococcus aureus",
+   "B": "Streptococcus pyogenes",
+   "C": "Bacteroides",
+   "D": "Mixed organisms"
+  },
+  "answer": "B",
+  "explanation": "Acute lymphangitis, with red streaks along lymphatics and tender regional nodes, is usually caused by beta-haemolytic Streptococcus pyogenes and treated with penicillin.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G9-N21"
+ },
+ {
+  "ncids": [
+   "K1440"
+  ],
+  "stem": "Which of the following statements regarding lymphoedema is true?",
+  "options": {
+   "A": "Clinical examination usually reveals non-pitting oedema",
+   "B": "Filariasis is an unusual cause",
+   "C": "Treatment is primarily surgical",
+   "D": "It is usually associated with DVT",
+   "E": "CT scan is the gold standard investigation"
+  },
+  "answer": "A",
+  "explanation": "Established lymphoedema is non-pitting because of subcutaneous fibrosis, with a positive Stemmer sign. Filariasis is the commonest cause worldwide, treatment is mainly conservative and lymphoscintigraphy is the gold standard test.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G9-N22"
+ },
+ {
+  "ncids": [
+   "K1479"
+  ],
+  "stem": "A 65-year-old woman undergoes right total hip replacement. What is her approximate risk of fatal pulmonary embolism?",
+  "options": {
+   "A": "Less than 1%",
+   "B": "7%",
+   "C": "1 to 5%",
+   "D": "10%",
+   "E": "15%"
+  },
+  "answer": "C",
+  "explanation": "Hip and knee replacements are among the highest-risk procedures for VTE; classic figures quote a fatal PE risk of about 1 to 5% without prophylaxis, which is why thromboprophylaxis is mandatory.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G9-N23"
+ },
+ {
+  "ncids": [
+   "K1480"
+  ],
+  "stem": "A 60-year-old woman develops calf pain and swelling after left hemicolectomy for colon cancer, and deep vein thrombosis is confirmed. What is the best early treatment?",
+  "options": {
+   "A": "Bed rest",
+   "B": "Pneumatic compression stockings",
+   "C": "Low-dose heparin",
+   "D": "Full-dose heparin",
+   "E": "Warfarin"
+  },
+  "answer": "D",
+  "explanation": "Established DVT requires therapeutic (full-dose) anticoagulation, usually LMWH, to prevent propagation and PE. Low-dose heparin is prophylactic only, and warfarin must not be started alone because of initial procoagulant effect and delayed onset.",
+  "key_note": "Bank marked C; correct is D because low-dose heparin is prophylaxis, not treatment of established DVT.",
+  "_new": true,
+  "qid": "G9-N24"
+ },
+ {
+  "ncids": [
+   "K1481"
+  ],
+  "stem": "A man visits South Africa for a cricket tournament. Seven months later he develops fever with rigors and chills, tender left groin lymph nodes, non-pitting oedema of the left leg and recurrent infections in that leg. What is the most likely diagnosis?",
+  "options": {
+   "A": "Filariasis",
+   "B": "Malaria",
+   "C": "Lymphoedema praecox",
+   "D": "Non-Hodgkin lymphoma",
+   "E": "Lymphoedema congenita"
+  },
+  "answer": "A",
+  "explanation": "Travel to an endemic area followed by filarial fever, lymphadenitis, lymphangitis and progressive lymphoedema of one leg is typical of filariasis. Lymphoedema praecox appears in adolescence without fever.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G9-N25"
+ },
+ {
+  "ncids": [
+   "K1483"
+  ],
+  "stem": "A 10-year-old child injures his left foot while working barefoot. Five days later he develops fever and pain in the left groin, and red streaks run longitudinally up the left thigh. What are these streaks?",
+  "options": {
+   "A": "Acute lymphadenitis",
+   "B": "Chronic lymphadenitis",
+   "C": "Acute lymphangitis",
+   "D": "Chronic lymphangitis",
+   "E": "Cellulitis"
+  },
+  "answer": "C",
+  "explanation": "Red, tender streaks along the course of lymphatics proximal to a wound are acute lymphangitis, usually streptococcal; the tender groin nodes represent accompanying lymphadenitis.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G9-N26"
+ },
+ {
+  "ncids": [
+   "K1547"
+  ],
+  "stem": "After abdominal surgery, which components of Virchow's triad mainly account for postoperative venous thromboembolism?",
+  "options": {
+   "A": "Stasis and hypercoagulability",
+   "B": "Stasis alone",
+   "C": "Endothelial injury alone",
+   "D": "Endothelial injury and hypercoagulability"
+  },
+  "answer": "A",
+  "explanation": "Immobility and anaesthesia cause venous stasis, and surgery (and malignancy) produce a hypercoagulable state; direct endothelial injury is less important unless the veins are operated on or traumatised.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G9-N27"
+ },
+ {
+  "ncids": [
+   "K1619"
+  ],
+  "stem": "Varicose veins of the legs secondary to previous deep vein thrombosis (post-thrombotic) are best managed by:",
+  "options": {
+   "A": "Injection sclerotherapy",
+   "B": "Multiple venous ligations",
+   "C": "Great saphenous vein stripping",
+   "D": "Compression, without surgical excision of the superficial varicosities",
+   "E": "Laser ablation"
+  },
+  "answer": "D",
+  "explanation": "In post-thrombotic limbs the superficial veins may be important collaterals for an obstructed deep system, so removing them can worsen venous hypertension; management is compression and skin care.",
+  "key_note": "Not marked with an asterisk or highlight in the source bank (D appears in bold only); answer by reviewer.",
+  "_new": true,
+  "qid": "G9-N28"
+ }
+]

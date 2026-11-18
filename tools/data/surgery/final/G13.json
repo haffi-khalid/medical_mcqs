@@ -1,0 +1,207 @@
+[
+ {
+  "cids": [
+   "C0259",
+   "C1486"
+  ],
+  "stem": "A 1-day-old baby girl is having repeated bile-stained vomiting. Her mother was noted to have polyhydramnios during the pregnancy. An abdominal X-ray reveals gas in the stomach and first part of the duodenum, but nowhere else in the abdomen. What is the most likely diagnosis?",
+  "options": {
+   "A": "Choledochal cyst",
+   "B": "Duodenal atresia",
+   "C": "Esophageal atresia",
+   "D": "Pyloric stenosis",
+   "E": "Renal agenesis"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Polyhydramnios plus bile-stained vomiting on day 1 and gas only in the stomach and first part of duodenum (double bubble) means duodenal atresia distal to the ampulla. Pyloric stenosis causes non-bilious vomiting at 3-6 weeks.",
+  "key_note": "One paper version keyed B (duodenal atresia); the other source paper was unmarked.",
+  "figure": "",
+  "qid": "G13-1"
+ },
+ {
+  "cids": [
+   "C0226"
+  ],
+  "stem": "A neonate has bilious vomiting with upper abdominal swelling. He has passed meconium three times since birth. But he can't be fed as he does not tolerate any liquid. The x-ray abdomen shows double bubble sign. What is the management in this case?",
+  "options": {
+   "A": "Duodenoduodenostomy",
+   "B": "Feeding jejunostomy",
+   "C": "Gastrojejunostomy",
+   "D": "Nasogastric feeding",
+   "E": "Pyloric myotomy"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Duodenal atresia is treated, after resuscitation and NG decompression, by duodenoduodenostomy (Kimura diamond-shaped anastomosis) bypassing the obstruction. Gastrojejunostomy is avoided because of blind loop and marginal ulcer problems; pyloromyotomy is for pyloric stenosis.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G13-2"
+ },
+ {
+  "cids": [
+   "C1487",
+   "C0224"
+  ],
+  "stem": "A 3 days old male neonate presented in ER with complains of inability to pass stool (meconium) since he was born. On examination, the abdomen is massively distended. X ray shows massive dilatation of colon with a transition point of distal collapse. Which of the following is most likely diagnosis for this baby?",
+  "options": {
+   "A": "Duodenal atresia",
+   "B": "Hirschsprung disease",
+   "C": "Intestinal mal-rotation",
+   "D": "Sub-acute obstruction",
+   "E": "Tracheo-esophagal fistula"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Failure to pass meconium in the first 48 hours, chronic constipation since birth, abdominal distension and an empty rectum on examination (often with explosive decompression) with dilated colon and a transition zone to a narrow distal segment is Hirschsprung disease (aganglionosis of the distal bowel starting at the internal sphincter). Functional constipation typically has a loaded rectum.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G13-3"
+ },
+ {
+  "cids": [
+   "C0692",
+   "C0463"
+  ],
+  "stem": "A 4 months old boy presents to you with complaint of passing stool after every 3-4 days and abdominal distension since birth. History of delayed passage of meconium on 48 hours. On examination, abdomen is distended but soft and anus is normal in position. Which of the following is the choice of investigation the gut pathology?",
+  "options": {
+   "A": "Barium enema",
+   "B": "Electromyogram",
+   "C": "Full thickness rectal biopsy",
+   "D": "Suction rectal biopsy",
+   "E": "Manometry"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Rectal biopsy showing absent ganglion cells and increased acetylcholinesterase-positive nerve fibres confirms Hirschsprung disease. Suction rectal biopsy is the test of choice in infants as it needs no anaesthetic; full thickness biopsy is reserved for older children or equivocal results. Barium enema shows the transition zone but does not confirm the diagnosis.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G13-4"
+ },
+ {
+  "cids": [
+   "C0217"
+  ],
+  "stem": "A 5-year boy has ingested a coin an hour back. On examination he has soft non tender abdomen. What investigation is indicated?",
+  "options": {
+   "A": "Barium meal, Follow through",
+   "B": "CT scan abdomen, pelvis",
+   "C": "Ultrasound abdomen, Pelvis",
+   "D": "MRI scan abdomen and pelvis",
+   "E": "X ray chest, abdomen erect"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "An ingested coin in an asymptomatic child is located with plain X-rays of the chest (including neck) and abdomen; a coin seen en face in the oesophagus needs endoscopic removal, while one beyond the stomach is usually left to pass. Barium is unnecessary and can obscure later endoscopy.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G13-5"
+ },
+ {
+  "cids": [
+   "C0396"
+  ],
+  "stem": "5 years old boy is booked for herniotomy. He is shifted to operation theatre which of the following problem can easily occur in this age group.",
+  "options": {
+   "A": "Hypocalcemia",
+   "B": "Hypokalemia",
+   "C": "Hyponatremia",
+   "D": "Hypothermia",
+   "E": "Hypomagnesemia"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Young children have a large surface area to body weight ratio, little subcutaneous fat and limited thermoregulation, so they lose heat rapidly in the cold theatre under anaesthesia; warm the theatre, fluids and use warming blankets.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G13-6"
+ },
+ {
+  "ncids": [
+   "K0622"
+  ],
+  "stem": "An 8-month-old infant has had intermittent constipation for three months. On examination there is mild abdominal distension. Rectal biopsy shows absent ganglion cells. What is the underlying condition?",
+  "options": {
+   "A": "Hirschsprung disease",
+   "B": "Ogilvie's syndrome",
+   "C": "Functional constipation",
+   "D": "Rectal polyp",
+   "E": "Anal atresia"
+  },
+  "answer": "A",
+  "explanation": "Absence of ganglion cells in the submucosal and myenteric plexuses on rectal biopsy is diagnostic of Hirschsprung disease. Ogilvie's syndrome is colonic pseudo-obstruction in elderly ill adults.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G13-N1"
+ },
+ {
+  "ncids": [
+   "K0949"
+  ],
+  "stem": "Hirschsprung disease most commonly affects the:",
+  "options": {
+   "A": "Colon (whole)",
+   "B": "Duodenum",
+   "C": "Small intestine",
+   "D": "Stomach",
+   "E": "Rectosigmoid"
+  },
+  "answer": "E",
+  "explanation": "Aganglionosis always starts at the anus and extends proximally; in about 75% it is confined to the rectum and sigmoid (short segment). Total colonic disease is uncommon.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G13-N2"
+ },
+ {
+  "ncids": [
+   "K1113"
+  ],
+  "stem": "What is the commonest extracranial solid malignant tumour in children?",
+  "options": {
+   "A": "Fibroblastoma",
+   "B": "Hepatoblastoma",
+   "C": "Nephroblastoma",
+   "D": "Neuroblastoma",
+   "E": "Retinoblastoma"
+  },
+  "answer": "D",
+  "explanation": "Neuroblastoma is the commonest extracranial solid malignancy of childhood (and the commonest malignancy in infancy); Wilms tumour (nephroblastoma) is the commonest renal tumour of childhood. Brain tumours are the commonest solid tumours overall.",
+  "key_note": "Bank marked C (nephroblastoma); correct is D because neuroblastoma is the most common extracranial solid tumour in children, while nephroblastoma is the most common primary renal tumour.",
+  "_new": true,
+  "qid": "G13-N3"
+ },
+ {
+  "ncids": [
+   "K1421"
+  ],
+  "stem": "Regarding the clinical presentation of Hirschsprung disease, which statement is WRONG?",
+  "options": {
+   "A": "Delayed passage of meconium in the newborn",
+   "B": "Neonatal intestinal obstruction",
+   "C": "Severe chronic constipation",
+   "D": "More common in female children with no familial tendency",
+   "E": "More common in male children"
+  },
+  "answer": "D",
+  "explanation": "Hirschsprung disease is about four times more common in boys and has a familial tendency (RET mutations, association with Down syndrome), so D is wrong on both counts. It presents with delayed meconium, neonatal obstruction or chronic constipation. (Option E was originally 'common to male child and no familial tendency', which was also partly wrong.)",
+  "key_note": "",
+  "_new": true,
+  "qid": "G13-N4"
+ },
+ {
+  "ncids": [
+   "K1529"
+  ],
+  "stem": "What is the most characteristic presenting feature of oesophageal atresia in the newborn?",
+  "options": {
+   "A": "Regurgitation of all of the first feed",
+   "B": "Attacks of coughing on feeding",
+   "C": "Continuous drooling of saliva"
+  },
+  "answer": "C",
+  "explanation": "The neonate cannot swallow saliva, so frothy saliva continuously dribbles from the mouth; choking and cyanosis follow any attempted feed. Inability to pass a nasogastric tube confirms it.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G13-N5"
+ }
+]

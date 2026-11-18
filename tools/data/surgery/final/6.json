@@ -1,0 +1,352 @@
+[
+ {
+  "cids": [
+   "C0546"
+  ],
+  "stem": "A 55-year-old diabetic has had a discharging sinus on his left leg for 1 year despite multiple courses of antibiotics. Radiograph shows periosteal reaction. What is the commonest causative organism of this condition?",
+  "options": {
+   "A": "E. coli",
+   "B": "Klebsiella",
+   "C": "Mycobacterium",
+   "D": "Staphylococcus aureus",
+   "E": "Streptococcus pyogenes"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Staphylococcus aureus is the commonest cause of both acute and chronic osteomyelitis at all ages, including diabetics; its biofilm on dead bone explains persistence despite antibiotics.",
+  "key_note": "",
+  "figure": "",
+  "qid": "6-1"
+ },
+ {
+  "cids": [
+   "C0023",
+   "C0929"
+  ],
+  "stem": "A 50-year-old man has had pus draining from a leg wound for one year after an open fracture of the tibia. The dead necrotic bone visible on X-ray is called:",
+  "options": {
+   "A": "Callus",
+   "B": "Codman's triangle",
+   "C": "Involucrum",
+   "D": "Onion peel appearance",
+   "E": "Sequestrum"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Dead bone in osteomyelitis is the sequestrum, seen on X-ray as a dense fragment surrounded by a lucent zone; it must be removed surgically for cure. Involucrum is the new periosteal bone around it, a cloaca is the hole through which pus escapes, and Codman's triangle and onion peel are periosteal reactions of tumours.",
+  "key_note": "",
+  "figure": "",
+  "qid": "6-2"
+ },
+ {
+  "cids": [
+   "C0137"
+  ],
+  "stem": "A young boy has had a discharging sinus from the left humerus for 8 months. X-ray shows a sequestrum. Which best explains the concept of a sequestrum?",
+  "options": {
+   "A": "Reactive bone in acute osteomyelitis",
+   "B": "Reactive bone in chronic osteomyelitis",
+   "C": "Necrotic bone in chronic osteomyelitis",
+   "D": "Healthy bone adjacent to chronic osteomyelitis",
+   "E": "Healthy bone adjacent to acute osteomyelitis"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Sequestrum is necrotic bone in chronic osteomyelitis, cut off from its blood supply by pus under pressure and thrombosed vessels. Reactive new bone is the involucrum.",
+  "key_note": "",
+  "figure": "",
+  "qid": "6-3"
+ },
+ {
+  "cids": [
+   "C0476"
+  ],
+  "stem": "Involucrum is found:",
+  "options": {
+   "A": "Underneath the sequestrum",
+   "B": "Around the sequestrum",
+   "C": "At the metaphysis",
+   "D": "Beneath the periosteum",
+   "E": "In fracture of bone"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "The involucrum is the sheath of new subperiosteal bone laid down around the sequestrum by the elevated periosteum. Option D is tempting because it forms from the periosteum, but its defining relationship is that it encases the sequestrum.",
+  "key_note": "One copy had D (beneath the periosteum) circled in pen; the paper key B is the classic answer.",
+  "figure": "",
+  "qid": "6-4"
+ },
+ {
+  "cids": [
+   "C0475",
+   "C0557"
+  ],
+  "stem": "Brodie's abscess can be defined as:",
+  "options": {
+   "A": "A long-standing pyogenic abscess in bone",
+   "B": "A cold abscess",
+   "C": "A subperiosteal abscess",
+   "D": "A soft tissue abscess",
+   "E": "A tuberculous abscess"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Brodie's abscess is a localised form of subacute pyogenic osteomyelitis: a walled-off abscess cavity, usually in the metaphysis of the tibia, with a sclerotic rim on X-ray, in a patient with low-grade pain and little systemic upset.",
+  "key_note": "One copy had D circled in pen; the paper key A is correct. A variant ('Brodie's abscess involves: bone, brain, breast, liver, lung') has the same answer.",
+  "figure": "",
+  "qid": "6-5"
+ },
+ {
+  "cids": [
+   "C0135"
+  ],
+  "stem": "A 65-year-old man with poorly controlled diabetes has a deep ulcer with osteomyelitis of the 2nd metatarsal at its base. Which treatment has the highest chance of cure?",
+  "options": {
+   "A": "IV antibiotics based on bone biopsy culture and sensitivity",
+   "B": "IV antibiotics based on ulcer swab culture and sensitivity",
+   "C": "IV antifungal with IV levofloxacin empirically",
+   "D": "IV vancomycin empirically",
+   "E": "Oral levofloxacin empirically"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "In diabetic foot osteomyelitis, superficial swabs grow colonisers and correlate poorly with the bone pathogen; antibiotics guided by bone biopsy culture give the best cure rates (with debridement of dead bone).",
+  "key_note": "",
+  "figure": "",
+  "qid": "6-6"
+ },
+ {
+  "ncids": [
+   "K0022"
+  ],
+  "stem": "A 35-year-old woman presents with swelling and discharge from the scalp of two years' duration. She is diagnosed with Pott's puffy tumour, which is:",
+  "options": {
+   "A": "An infected sebaceous cyst of the scalp",
+   "B": "A subperiosteal abscess with osteomyelitis of the skull",
+   "C": "Tuberculosis of the brain",
+   "D": "A sebaceous horn of the scalp",
+   "E": "A periosteal abscess without bone involvement"
+  },
+  "answer": "B",
+  "explanation": "Pott's puffy tumour is a subperiosteal abscess over the frontal bone secondary to osteomyelitis of the skull, usually from frontal sinusitis or trauma; it is not a true tumour.",
+  "key_note": "",
+  "_new": true,
+  "qid": "6-N1"
+ },
+ {
+  "ncids": [
+   "K0267"
+  ],
+  "stem": "A patient with known osteoarthritis of the knee develops fever for 3 days, and the knee becomes swollen with a positive fluctuation (tap) test. What is the most likely diagnosis?",
+  "options": {
+   "A": "Simple effusion around the knee",
+   "B": "Bursitis of the knee",
+   "C": "Septic arthritis",
+   "D": "Cellulitis of the knee",
+   "E": "Cruciate ligament inflammation"
+  },
+  "answer": "C",
+  "explanation": "Fever with an acutely swollen, tense effusion in a joint (especially one already damaged by arthritis) is septic arthritis until proven otherwise; urgent aspiration for Gram stain and culture is required.",
+  "key_note": "",
+  "_new": true,
+  "qid": "6-N2"
+ },
+ {
+  "ncids": [
+   "K0317",
+   "K0284"
+  ],
+  "stem": "A 15-year-old boy presents with pain and swelling of the left thigh with no history of trauma. He has a high-grade fever, refuses examination of the limb because of severe pain, and has a raised TLC and ESR. What is the most likely provisional diagnosis?",
+  "options": {
+   "A": "Ewing's sarcoma",
+   "B": "Osteogenic sarcoma",
+   "C": "Acute osteomyelitis",
+   "D": "Chronic osteomyelitis",
+   "E": "Soft tissue haematoma"
+  },
+  "answer": "C",
+  "explanation": "Acute haematogenous osteomyelitis presents in children and adolescents with acute severe bone pain, high fever, refusal to move the limb and raised inflammatory markers. Ewing's sarcoma can mimic it but has a more insidious course.",
+  "key_note": "",
+  "_new": true,
+  "qid": "6-N3"
+ },
+ {
+  "ncids": [
+   "K0319",
+   "K1375"
+  ],
+  "stem": "A 5-year-old boy has had high-grade fever and swelling of the right leg for 2 days. Acute osteomyelitis in children usually begins at the:",
+  "options": {
+   "A": "Diaphysis",
+   "B": "Epiphysis",
+   "C": "Metaphysis",
+   "D": "Periosteum",
+   "E": "Synovium"
+  },
+  "answer": "C",
+  "explanation": "The metaphysis has sluggish flow in looped end-capillaries (hairpin bends) and relatively few phagocytes, so blood-borne bacteria settle there; infection then spreads subperiosteally.",
+  "key_note": "",
+  "_new": true,
+  "qid": "6-N4"
+ },
+ {
+  "ncids": [
+   "K0713"
+  ],
+  "stem": "A 65-year-old man presents with acute onset of pain, swelling and erythema of the left knee. There is no previous episode or trauma. The differential diagnosis is septic arthritis versus gout. Which investigation best differentiates between them?",
+  "options": {
+   "A": "Evaluation of synovial fluid aspirate",
+   "B": "White blood cell count",
+   "C": "X-ray of the knee",
+   "D": "MRI of the knee",
+   "E": "Bone scan"
+  },
+  "answer": "A",
+  "explanation": "Joint aspiration with Gram stain, culture, cell count and polarised light microscopy for crystals (negatively birefringent needle-shaped urate crystals in gout) distinguishes the two; blood count and imaging are non-specific.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "6-N5"
+ },
+ {
+  "ncids": [
+   "K0998"
+  ],
+  "stem": "A 36-year-old woman has a chronic discharging sinus over the right radius, and X-ray shows a lesion in the underlying bone. Which statement is true for this patient?",
+  "options": {
+   "A": "Acute osteomyelitis usually becomes chronic if treated improperly",
+   "B": "Malignant transformation is common",
+   "C": "Proper antibiotics can cure all similar cases",
+   "D": "Systemic signs are very common in such cases",
+   "E": "Tubercle bacillus could be a causative organism"
+  },
+  "answer": "E",
+  "explanation": "Chronic osteomyelitis with a sinus may be pyogenic (Staph aureus) or tuberculous, so tissue for culture and histology including AFB is needed. Malignant change (Marjolin's ulcer in the sinus tract) is rare, systemic signs are usually absent, and antibiotics alone rarely cure dead bone without surgery.",
+  "key_note": "",
+  "_new": true,
+  "qid": "6-N6"
+ },
+ {
+  "ncids": [
+   "K1084"
+  ],
+  "stem": "Which one of the following organisms is most commonly associated with septic arthritis?",
+  "options": {
+   "A": "Gram-negative bacilli",
+   "B": "Haemophilus influenzae",
+   "C": "Beta-haemolytic streptococci",
+   "D": "Streptococcus pneumoniae",
+   "E": "Staphylococcus aureus"
+  },
+  "answer": "E",
+  "explanation": "Staphylococcus aureus is the commonest cause of septic arthritis at all ages; Neisseria gonorrhoeae is important in young sexually active adults, and H. influenzae has become rare since vaccination.",
+  "key_note": "",
+  "_new": true,
+  "qid": "6-N7"
+ },
+ {
+  "ncids": [
+   "K1187"
+  ],
+  "stem": "A young child presents with pain in her shoulder. There is no history of trauma. She screams if the arm is moved, and she is febrile and toxic. What is the likely diagnosis?",
+  "options": {
+   "A": "Gout",
+   "B": "Irritable joint",
+   "C": "Septic arthritis",
+   "D": "A fracture",
+   "E": "A dislocation"
+  },
+  "answer": "C",
+  "explanation": "A febrile, toxic child with a joint that cannot be moved without severe pain has septic arthritis until proven otherwise; an irritable (transient synovitis) joint is not associated with systemic toxicity.",
+  "key_note": "",
+  "_new": true,
+  "qid": "6-N8"
+ },
+ {
+  "ncids": [
+   "K1289"
+  ],
+  "stem": "A 28-year-old housewife presents with a 6-month history of ill health, weight loss, occasional pyrexia and backache. The spinous process of L2 is very prominent. X-ray shows anterior collapse of the L2 vertebral body and erosion of the adjoining discs. What is the most likely cause?",
+  "options": {
+   "A": "Multiple myeloma",
+   "B": "Secondary deposit",
+   "C": "Traumatic collapse",
+   "D": "Leukaemia",
+   "E": "Tuberculosis of the spine"
+  },
+  "answer": "E",
+  "explanation": "Constitutional symptoms with a gibbus and anterior vertebral collapse plus destruction of the adjacent disc spaces is typical of spinal tuberculosis (Pott's disease). Metastases and myeloma characteristically spare the disc.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "6-N9"
+ },
+ {
+  "ncids": [
+   "K1376"
+  ],
+  "stem": "Sequestrum in osteomyelitis is formed due to:",
+  "options": {
+   "A": "Demineralisation due to cytokines",
+   "B": "Vessel thrombosis",
+   "C": "Improper stabilisation",
+   "D": "All of the above"
+  },
+  "answer": "B",
+  "explanation": "Raised intraosseous pressure and septic thrombosis of the medullary vessels, together with periosteal stripping, cut off the blood supply so a segment of bone dies to form the sequestrum.",
+  "key_note": "",
+  "_new": true,
+  "qid": "6-N10"
+ },
+ {
+  "ncids": [
+   "K1377"
+  ],
+  "stem": "In Pott's spine (lumbar tuberculosis), the pus from a psoas abscess can present at the:",
+  "options": {
+   "A": "Greater trochanter",
+   "B": "Lesser trochanter",
+   "C": "Ischial tuberosity",
+   "D": "Any of the above",
+   "E": "None of the above"
+  },
+  "answer": "B",
+  "explanation": "A psoas abscess tracks down the psoas sheath beneath the inguinal ligament to point in the upper thigh near the insertion of psoas at the lesser trochanter.",
+  "key_note": "",
+  "_new": true,
+  "qid": "6-N11"
+ },
+ {
+  "ncids": [
+   "K1378"
+  ],
+  "stem": "In Pott's spine, the disease most commonly starts in the:",
+  "options": {
+   "A": "Intervertebral disc",
+   "B": "Anterior vertebral margin",
+   "C": "Posterior vertebral margin",
+   "D": "Paravertebral soft tissue"
+  },
+  "answer": "B",
+  "explanation": "The commonest (paradiscal) type begins in the metaphyseal region at the anterior margin of the vertebral body next to the disc, then spreads to the disc and the adjacent vertebra, causing anterior collapse and kyphosis.",
+  "key_note": "",
+  "_new": true,
+  "qid": "6-N12"
+ },
+ {
+  "ncids": [
+   "K1615"
+  ],
+  "stem": "A young boy presents with a discharging sinus over the right tibia. He had a fracture of the tibia in a road traffic accident 4 months ago. What is the most likely diagnosis?",
+  "options": {
+   "A": "Malunion",
+   "B": "Non-union",
+   "C": "Osteomyelitis",
+   "D": "Cellulitis",
+   "E": "Malignancy"
+  },
+  "answer": "C",
+  "explanation": "A persistent discharging sinus at a previous (often open) fracture site indicates post-traumatic chronic osteomyelitis; malunion and non-union are disorders of healing and do not themselves cause a sinus.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "6-N13"
+ }
+]

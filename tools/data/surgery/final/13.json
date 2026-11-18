@@ -1,0 +1,203 @@
+[
+ {
+  "cids": [
+   "C0579"
+  ],
+  "stem": "The most common cystic disease of the spleen is:",
+  "options": {
+   "A": "Hydatid cyst of the spleen",
+   "B": "Pseudocyst of the spleen",
+   "C": "Columnar lined cyst of the spleen",
+   "D": "Cystic lymphangioma",
+   "E": "Congenital cyst"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Most non-parasitic splenic cysts are pseudocysts (false cysts without an epithelial lining), usually following trauma and haematoma liquefaction. Hydatid cysts predominate only in endemic areas, and true epithelial (congenital) cysts are rarer.",
+  "key_note": "",
+  "figure": "",
+  "qid": "13-1"
+ },
+ {
+  "cids": [
+   "C0504"
+  ],
+  "stem": "Splenic abscess is rare and difficult to diagnose clinically. What is true about splenic abscess?",
+  "options": {
+   "A": "Most occur through local spread from the kidney and colon",
+   "B": "Unilocular abscess has a high mortality rate of more than 50%",
+   "C": "Splenomegaly is typically seen",
+   "D": "Haematogenous spread is the most common route",
+   "E": "Splenectomy is the treatment of choice"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Most splenic abscesses result from haematogenous seeding, classically from infective endocarditis or IV drug use; immunosuppression is a risk factor. Unilocular abscesses respond well to percutaneous drainage plus antibiotics, and splenectomy is kept for multilocular or failed cases.",
+  "key_note": "",
+  "figure": "",
+  "qid": "13-2"
+ },
+ {
+  "cids": [
+   "C0854"
+  ],
+  "stem": "Splenectomy is often indicated in the management of which of the following?",
+  "options": {
+   "A": "Hereditary spherocytosis",
+   "B": "Hereditary neurofibromatosis",
+   "C": "Aplastic anaemia",
+   "D": "Phaeochromocytoma",
+   "E": "Hashimoto's disease"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "In hereditary spherocytosis the rigid spherocytes are destroyed in the spleen, and splenectomy (ideally after age 6, with cholecystectomy if gallstones) cures the anaemia although the red cell defect persists. Aplastic anaemia is marrow failure and is not helped by splenectomy.",
+  "key_note": "",
+  "figure": "",
+  "qid": "13-3"
+ },
+ {
+  "cids": [
+   "C0790"
+  ],
+  "stem": "Splenectomy patients are at particular risk of overwhelming sepsis from which organism?",
+  "options": {
+   "A": "Anaerobic bacteria",
+   "B": "Bacteroides fragilis",
+   "C": "Haemophilus influenzae",
+   "D": "Fungi",
+   "E": "Staphylococcus aureus"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Overwhelming post-splenectomy infection is caused by encapsulated organisms: Streptococcus pneumoniae (most common, not offered), Haemophilus influenzae type b and Neisseria meningitidis. Hence vaccination and antibiotic prophylaxis.",
+  "key_note": "Not marked in the source paper; answer by reviewer (agrees with compiled key).",
+  "figure": "",
+  "qid": "13-4"
+ },
+ {
+  "cids": [
+   "C0503"
+  ],
+  "stem": "Overwhelming post-splenectomy infection (OPSI) is commonest after splenectomy done for:",
+  "options": {
+   "A": "ITP",
+   "B": "Thalassaemia",
+   "C": "Trauma",
+   "D": "Malaria",
+   "E": "Hereditary spherocytosis"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "OPSI risk depends on the indication and age: highest after splenectomy for thalassaemia major and other haematological malignancy or reticuloendothelial disorders, and lowest after splenectomy for trauma or ITP (splenunculi and normal immunity).",
+  "key_note": "",
+  "figure": "",
+  "qid": "13-5"
+ },
+ {
+  "ncids": [
+   "K0588"
+  ],
+  "stem": "During splenectomy, injury to which organ should particularly be avoided?",
+  "options": {
+   "A": "Tail of pancreas",
+   "B": "Left colic (splenic) flexure",
+   "C": "Greater curvature of stomach",
+   "D": "Both A and B",
+   "E": "None of the above"
+  },
+  "answer": "A",
+  "explanation": "The tail of the pancreas lies in the splenorenal ligament at the splenic hilum and is the structure classically injured during hilar ligation, causing pancreatic fistula or pancreatitis. Colon and stomach injuries are possible but less characteristic.",
+  "key_note": "",
+  "_new": true,
+  "qid": "13-N1"
+ },
+ {
+  "ncids": [
+   "K0589"
+  ],
+  "stem": "A patient underwent splenectomy for a haemolytic anaemia (sickle cell disease) with an uneventful recovery. A month later the haemolytic features recur, and there is a palpable mass in the left hypochondrium. What is the most probable diagnosis?",
+  "options": {
+   "A": "Subphrenic abscess",
+   "B": "Accessory spleen (splenunculus)",
+   "C": "Postoperative ileus",
+   "D": "Left hydronephrosis",
+   "E": "None of the above"
+  },
+  "answer": "B",
+  "explanation": "Accessory spleens are present in 10 to 30% of people, mainly near the hilum; if missed at splenectomy they hypertrophy and cause recurrence of the haematological disease.",
+  "key_note": "",
+  "_new": true,
+  "qid": "13-N2"
+ },
+ {
+  "ncids": [
+   "K0590"
+  ],
+  "stem": "All of the following are indications for splenectomy EXCEPT:",
+  "options": {
+   "A": "Refractory ITP",
+   "B": "Malaria",
+   "C": "Grade 4 splenic trauma with haemodynamic instability",
+   "D": "En bloc resection with radical gastrectomy",
+   "E": "Sickle cell anaemia with splenic sequestration crises"
+  },
+  "answer": "B",
+  "explanation": "Malaria causes splenomegaly (and occasional rupture) but is treated medically, not by splenectomy. ITP, severe splenic trauma, en bloc resection and sequestration crises in sickle cell disease are recognised indications.",
+  "key_note": "",
+  "_new": true,
+  "qid": "13-N3"
+ },
+ {
+  "ncids": [
+   "K1413"
+  ],
+  "stem": "A young child with anaemia and gallstones should be investigated for:",
+  "options": {
+   "A": "Cystic fibrosis",
+   "B": "Hereditary (congenital) spherocytosis",
+   "C": "Malaria",
+   "D": "Primary sclerosing cholangitis"
+  },
+  "answer": "B",
+  "explanation": "Chronic haemolysis in hereditary spherocytosis produces pigment gallstones in childhood; gallstones in a child with anaemia should prompt a blood film and osmotic fragility (or EMA binding) test.",
+  "key_note": "",
+  "_new": true,
+  "qid": "13-N4"
+ },
+ {
+  "ncids": [
+   "K1414"
+  ],
+  "stem": "A 2-year-old child has anaemia, hepatosplenomegaly and a large head with frontal bossing and slanting (mongoloid) eyes. The most likely diagnosis is:",
+  "options": {
+   "A": "Cirrhosis",
+   "B": "Spherocytosis",
+   "C": "Thalassaemia",
+   "D": "Gaucher's disease"
+  },
+  "answer": "C",
+  "explanation": "Beta-thalassaemia major presents in early childhood with severe anaemia, hepatosplenomegaly and skull and facial bone expansion from marrow hyperplasia (frontal bossing, chipmunk facies, mongoloid slant).",
+  "key_note": "",
+  "_new": true,
+  "qid": "13-N5"
+ },
+ {
+  "ncids": [
+   "K1670"
+  ],
+  "stem": "Hypersplenism is NOT associated with:",
+  "options": {
+   "A": "Anaemia",
+   "B": "Gastrointestinal bleeding and purpura",
+   "C": "Portal hypertension",
+   "D": "Enlarged palpable spleen",
+   "E": "Haematuria"
+  },
+  "answer": "E",
+  "explanation": "Hypersplenism is splenomegaly with pancytopenia (anaemia, purpura from thrombocytopenia) and is commonly due to portal hypertension, which also causes variceal GI bleeding. Haematuria is not a recognised feature.",
+  "key_note": "",
+  "_new": true,
+  "qid": "13-N6"
+ }
+]

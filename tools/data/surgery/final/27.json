@@ -1,0 +1,1436 @@
+[
+ {
+  "cids": [
+   "C0637"
+  ],
+  "stem": "Thyroid gland originates from which of the following embryonic structures?",
+  "options": {
+   "A": "2nd pharyngeal pouch",
+   "B": "3rd pharyngeal pouch",
+   "C": "2nd pharyngeal arch",
+   "D": "Foramen caecum",
+   "E": "Cloaca"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "The thyroid develops as a median endodermal downgrowth from the foramen caecum at the base of the tongue and descends along the thyroglossal duct. The 3rd pouch gives the inferior parathyroids and thymus, not the thyroid.",
+  "key_note": "",
+  "figure": "",
+  "qid": "27-1"
+ },
+ {
+  "cids": [
+   "C1198"
+  ],
+  "stem": "Regarding the blood supply of the thyroid gland, which of the following statements is true?",
+  "options": {
+   "A": "Inferior thyroid artery is a branch of the external carotid artery",
+   "B": "Inferior thyroid artery is a branch of the internal carotid artery",
+   "C": "Superior thyroid artery is a branch of the external carotid artery",
+   "D": "Superior thyroid artery is a branch of the internal carotid artery",
+   "E": "Thyroidea ima artery is a branch of the external carotid artery"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "The superior thyroid artery is the first anterior branch of the external carotid. The inferior thyroid artery comes from the thyrocervical trunk of the subclavian, and the inconstant thyroidea ima arises from the brachiocephalic trunk or aortic arch.",
+  "key_note": "",
+  "figure": "",
+  "qid": "27-2"
+ },
+ {
+  "cids": [
+   "C0776"
+  ],
+  "stem": "The inferior thyroid artery is a branch of the:",
+  "options": {
+   "A": "Internal carotid artery",
+   "B": "External carotid artery",
+   "C": "Lingual artery",
+   "D": "Thyrocervical trunk",
+   "E": "Facial artery"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "The inferior thyroid artery arises from the thyrocervical trunk of the first part of the subclavian artery. The internal carotid gives no branches in the neck.",
+  "key_note": "",
+  "figure": "",
+  "qid": "27-3"
+ },
+ {
+  "cids": [
+   "C0695"
+  ],
+  "stem": "The recurrent laryngeal nerve is closely related to which of the following vessels, which must be handled carefully during thyroid surgery?",
+  "options": {
+   "A": "Middle thyroid artery",
+   "B": "Superior thyroid artery",
+   "C": "Inferior thyroid artery",
+   "D": "Middle thyroid vein",
+   "E": "Inferior thyroid vein"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "The recurrent laryngeal nerve runs in the tracheo-oesophageal groove and crosses the branches of the inferior thyroid artery near the lower pole, so the artery is ligated close to the gland (or its branches individually) after identifying the nerve. The external laryngeal nerve, not the recurrent, accompanies the superior thyroid artery.",
+  "key_note": "",
+  "figure": "",
+  "qid": "27-4"
+ },
+ {
+  "cids": [
+   "C0370"
+  ],
+  "stem": "A 35-year-old woman presents with a swelling in front of the neck which moves on deglutition. She complains of palpitations and heat intolerance. Which is the most reliable test to determine her thyroid status?",
+  "options": {
+   "A": "Free serum T4 level",
+   "B": "Free serum T3 level",
+   "C": "Serum TSH level",
+   "D": "Thyroid scan",
+   "E": "Ultrasound neck"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Serum TSH is the most sensitive single test of thyroid status because of the log-linear relationship between TSH and free T4; a suppressed TSH confirms primary hyperthyroidism, then free T4/T3 quantify it.",
+  "key_note": "",
+  "figure": "",
+  "qid": "27-5"
+ },
+ {
+  "cids": [
+   "C0541"
+  ],
+  "stem": "A patient presents with weight loss, tremors and heat intolerance. On examination there is a diffuse swelling in front of the neck. You suspect hyperthyroidism. Which investigation is most appropriate?",
+  "options": {
+   "A": "Complete blood count",
+   "B": "FNA",
+   "C": "Thyroid hormonal profile",
+   "D": "Thyroid scan",
+   "E": "Ultrasound neck"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Thyroid status is confirmed biochemically first (TSH with free T4/T3). Imaging and cytology come later and do not establish hyperthyroidism.",
+  "key_note": "Stem was garbled in the source (age missing); reworded to stand alone.",
+  "figure": "",
+  "qid": "27-6"
+ },
+ {
+  "cids": [
+   "C1155"
+  ],
+  "stem": "A patient is found on work-up to have a decreased TSH. What is the most likely diagnosis?",
+  "options": {
+   "A": "Euthyroid goitre",
+   "B": "Graves' disease",
+   "C": "Hashimoto's thyroiditis",
+   "D": "Hypothyroidism",
+   "E": "Toxic nodular goitre"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "A suppressed TSH indicates primary hyperthyroidism, and Graves' disease is its commonest cause. Hashimoto's and primary hypothyroidism raise TSH.",
+  "key_note": "Not marked in the source paper; answer by reviewer. Question is flawed as toxic nodular goitre (E) also suppresses TSH; B chosen as the commonest cause.",
+  "figure": "",
+  "qid": "27-7"
+ },
+ {
+  "cids": [
+   "C1156"
+  ],
+  "stem": "A newborn screening test reveals an elevated TSH level. If left untreated, what is the potential consequence of this condition?",
+  "options": {
+   "A": "Cretinism",
+   "B": "Developmental delay",
+   "C": "Hyperthyroidism",
+   "D": "Thyroid nodules",
+   "E": "Thyroid storm"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Raised TSH on neonatal screening means congenital hypothyroidism, which untreated causes cretinism (irreversible intellectual disability, growth failure, coarse features). Developmental delay is one component of cretinism, so A is the more complete answer.",
+  "key_note": "Not marked in the source paper; answer by reviewer. B is partly correct but is a feature of A.",
+  "figure": "",
+  "qid": "27-8"
+ },
+ {
+  "cids": [
+   "C1347"
+  ],
+  "stem": "What is the primary imaging modality for evaluating the thyroid gland?",
+  "options": {
+   "A": "Ultrasound",
+   "B": "CT scan",
+   "C": "MRI",
+   "D": "PET scan",
+   "E": "Radioiodine scan"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Ultrasound is the first-line imaging of the thyroid: it characterises nodules (solid/cystic, microcalcification, margins), assesses nodes and guides FNAC. Isotope scanning is reserved for hyperthyroid patients with nodules.",
+  "key_note": "",
+  "figure": "",
+  "qid": "27-9"
+ },
+ {
+  "cids": [
+   "C1394"
+  ],
+  "stem": "A young woman has prominent eyes, weight loss and palpitations. She is diagnosed with Graves' disease. Which type of thyrotoxicosis is this?",
+  "options": {
+   "A": "Primary thyrotoxicosis",
+   "B": "Secondary thyrotoxicosis",
+   "C": "Tertiary thyrotoxicosis",
+   "D": "Thyrotoxicosis factitia",
+   "E": "Treated thyrotoxicosis"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Graves' disease is classically called primary thyrotoxicosis: a diffuse goitre and thyrotoxicosis arise together, with eye signs. Secondary thyrotoxicosis traditionally refers to toxicity developing in a pre-existing nodular goitre.",
+  "key_note": "",
+  "figure": "",
+  "qid": "27-10"
+ },
+ {
+  "cids": [
+   "C0186",
+   "C0363"
+  ],
+  "stem": "A 22-year-old woman presents with weight loss, palpitations and anxiety. She has diffuse enlargement of the thyroid, tremors of the hands and prominent eyes. TSH is below normal and thyroid-stimulating immunoglobulins (TSI) are positive. What is the most likely diagnosis?",
+  "options": {
+   "A": "Toxic multinodular goitre",
+   "B": "Pituitary adenoma",
+   "C": "Hashitoxicosis",
+   "D": "Graves' disease",
+   "E": "Thyroiditis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Diffuse goitre, eye signs and TSH-receptor stimulating antibodies (TSI) are diagnostic of Graves' disease. A TSH-secreting pituitary adenoma would give a normal or raised TSH.",
+  "key_note": "Source stem read 'TSH level below is normal'; corrected to 'below normal'.",
+  "figure": "",
+  "qid": "27-11"
+ },
+ {
+  "cids": [
+   "C0369"
+  ],
+  "stem": "Which of the following antibodies is diagnostic of Graves' disease?",
+  "options": {
+   "A": "Anti-thyroglobulin antibodies (anti-Tg)",
+   "B": "Anti-thyroid peroxidase antibodies (anti-TPO)",
+   "C": "Thyroid stimulating antibodies (anti-TSH receptor)",
+   "D": "Anti-cardiolipin antibodies",
+   "E": "Anti-microsomal antibodies"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "TSH-receptor stimulating antibodies (TRAb/TSI) cause and are specific for Graves' disease. Anti-TPO (anti-microsomal) and anti-Tg are typical of Hashimoto's and are only non-specifically raised in Graves'.",
+  "key_note": "",
+  "figure": "",
+  "qid": "27-12"
+ },
+ {
+  "cids": [
+   "C0951"
+  ],
+  "stem": "TSH receptor antibodies (TSH-RAb) are elevated in:",
+  "options": {
+   "A": "Autoimmune thyroiditis",
+   "B": "Graves' disease",
+   "C": "Myxoedema",
+   "D": "Cretinism"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "TSH-receptor antibodies bind and stimulate the TSH receptor, producing the diffuse toxic goitre of Graves' disease.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "27-13"
+ },
+ {
+  "cids": [
+   "C0588"
+  ],
+  "stem": "Pretibial myxoedema occurs in:",
+  "options": {
+   "A": "Chronic venous insufficiency",
+   "B": "Hypothyroidism",
+   "C": "Lymphoedema",
+   "D": "Nephrotic syndrome",
+   "E": "Thyrotoxicosis"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Pretibial myxoedema (thyroid dermopathy) is an extrathyroidal manifestation of Graves' thyrotoxicosis caused by glycosaminoglycan deposition, usually with eye disease. Despite the name, it is not a feature of hypothyroidism, which causes generalised myxoedema.",
+  "key_note": "",
+  "figure": "",
+  "qid": "27-14"
+ },
+ {
+  "cids": [
+   "C0619"
+  ],
+  "stem": "A 40-year-old woman presents with weight loss, palpitations and exophthalmos. The thyroid gland is diffusely enlarged and blood tests confirm primary hyperthyroidism. Which one of the following is the initial treatment?",
+  "options": {
+   "A": "Methimazole",
+   "B": "Lugol's iodine",
+   "C": "Radioactive iodine",
+   "D": "Subtotal thyroidectomy",
+   "E": "Steroids"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Antithyroid drugs (carbimazole/methimazole) are first-line initial therapy for Graves' disease, usually with a beta-blocker. Radioiodine is relatively contraindicated with active eye disease, and surgery needs a euthyroid patient first.",
+  "key_note": "",
+  "figure": "",
+  "qid": "27-15"
+ },
+ {
+  "cids": [
+   "C0010",
+   "C0858"
+  ],
+  "stem": "A 40-year-old woman presents to the emergency department with tachycardia, fever and confusion. Work-up reveals markedly elevated T3 and T4 levels and she is diagnosed with thyroid storm. What is the most appropriate next step in management?",
+  "options": {
+   "A": "Emergency total thyroidectomy",
+   "B": "Emergency subtotal thyroidectomy",
+   "C": "Emergency radiation to the neck",
+   "D": "IV fluids, antithyroid drugs, beta-blockers, iodine solution and steroids",
+   "E": "Antithyroid drugs only"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Thyroid storm is a medical emergency treated with resuscitation and cooling, propranolol, antithyroid drugs, iodide (given after the antithyroid drug) and hydrocortisone. Surgery is never performed in a thyrotoxic crisis.",
+  "key_note": "",
+  "figure": "",
+  "qid": "27-16"
+ },
+ {
+  "cids": [
+   "C0187"
+  ],
+  "stem": "A 50-year-old woman with a recent viral upper respiratory infection presents with pain in the thyroid region and mild fever. The thyroid is diffusely enlarged and tender. What is the most likely diagnosis?",
+  "options": {
+   "A": "Hashimoto's thyroiditis",
+   "B": "Graves' disease",
+   "C": "Toxic adenoma",
+   "D": "Riedel's thyroiditis",
+   "E": "Subacute thyroiditis"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "A painful, tender goitre with fever following a viral illness is subacute (De Quervain's) granulomatous thyroiditis, with raised ESR and low isotope uptake. Hashimoto's and Riedel's are painless.",
+  "key_note": "",
+  "figure": "",
+  "qid": "27-17"
+ },
+ {
+  "cids": [
+   "C0591"
+  ],
+  "stem": "A 55-year-old executive has sudden onset of pain and swelling of the thyroid with palpitations. He is diagnosed with De Quervain's thyroiditis, which is:",
+  "options": {
+   "A": "Bacterial thyroiditis",
+   "B": "Tuberculous thyroiditis",
+   "C": "Fungal thyroiditis",
+   "D": "Autoimmune thyroiditis",
+   "E": "Viral thyroiditis"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "De Quervain's (subacute granulomatous) thyroiditis is a viral thyroiditis, often after mumps, coxsackie or influenza; the transient thyrotoxicosis comes from release of preformed hormone.",
+  "key_note": "",
+  "figure": "",
+  "qid": "27-18"
+ },
+ {
+  "cids": [
+   "C0950"
+  ],
+  "stem": "A simple puberty goitre is treated by:",
+  "options": {
+   "A": "Radioiodine",
+   "B": "Thyroxine replacement",
+   "C": "Lugol's iodine",
+   "D": "Surgery"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "A physiological (puberty) goitre is a diffuse hyperplastic goitre that usually regresses spontaneously; if treatment is needed, thyroxine suppresses TSH drive and shrinks it. Surgery and radioiodine have no role.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "27-19"
+ },
+ {
+  "cids": [
+   "C0696"
+  ],
+  "stem": "A 40-year-old woman is referred with a long-standing multinodular goitre. She is clinically euthyroid and has a short neck. You suspect retrosternal extension producing pressure symptoms. Which clinical sign is most appropriate to reach the diagnosis?",
+  "options": {
+   "A": "Cullen's sign",
+   "B": "Grey Turner's sign",
+   "C": "Trousseau's sign",
+   "D": "Berry's sign",
+   "E": "Pemberton's sign"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Pemberton's sign: raising both arms above the head narrows the thoracic inlet, causing facial plethora, venous engorgement and stridor with a retrosternal goitre. Berry's sign is absent carotid pulsation from a malignant goitre.",
+  "key_note": "",
+  "figure": "",
+  "qid": "27-20"
+ },
+ {
+  "cids": [
+   "C1390"
+  ],
+  "stem": "A 52-year-old woman presents with a huge multinodular goitre and respiratory distress. Tracheal compression in her is tested clinically by:",
+  "options": {
+   "A": "Berry's test",
+   "B": "Kocher's test",
+   "C": "Joffroy's test",
+   "D": "Mobius test",
+   "E": "Naffziger test"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Kocher's test: gentle pressure on the lateral lobes produces stridor if the trachea is already compressed. Berry's sign is absent carotid pulsation, and Joffroy's and Mobius are eye signs of thyrotoxicosis.",
+  "key_note": "One paper key and the compiled key marked A (Berry's); correct is B: Kocher's test assesses tracheal compression.",
+  "figure": "",
+  "qid": "27-21"
+ },
+ {
+  "cids": [
+   "C0191"
+  ],
+  "stem": "A 65-year-old man with a long-standing multinodular goitre presents with a sudden increase in size and pain. What is the most likely cause?",
+  "options": {
+   "A": "Malignant transformation",
+   "B": "Haemorrhage into a nodule",
+   "C": "Subacute thyroiditis",
+   "D": "Tracheal collapse",
+   "E": "Thyroid abscess"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Sudden painful enlargement of a nodule in a known goitre is classically haemorrhage into a nodule (or cyst). Malignancy causes progressive rather than sudden painful growth, though an anaplastic change must be excluded in the elderly.",
+  "key_note": "",
+  "figure": "",
+  "qid": "27-22"
+ },
+ {
+  "cids": [
+   "C0190"
+  ],
+  "stem": "A 60-year-old woman has had a multinodular goitre for 20 years and has repeatedly refused operation. She now presents with hoarseness of voice and is found to have left vocal cord paralysis. What is the most likely cause?",
+  "options": {
+   "A": "Thyroid cyst",
+   "B": "Recurrent laryngeal nerve injury",
+   "C": "Hyperthyroidism",
+   "D": "Tracheomalacia",
+   "E": "Malignant transformation"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "In an unoperated goitre, recurrent laryngeal nerve palsy is very rarely due to benign compression and strongly suggests malignant infiltration, which is why it is listed as a risk of leaving a nodular goitre untreated. Option B merely restates the cord palsy and does not explain it.",
+  "key_note": "Source paper marked B (Recurrent laryngeal nerve injury); correct is E: new cord palsy in a long-standing unoperated goitre indicates malignant change involving the nerve.",
+  "figure": "",
+  "qid": "27-23"
+ },
+ {
+  "cids": [
+   "C1181"
+  ],
+  "stem": "A 55-year-old man presents with a multinodular goitre. Clinically it is a simple goitre, but there is a discrete swelling which is tense and fluctuant. What is the next step to reach a diagnosis?",
+  "options": {
+   "A": "CT neck",
+   "B": "FNAC of the swelling",
+   "C": "MRI of neck",
+   "D": "Thyroid scan",
+   "E": "Ultrasound neck"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "A dominant or discrete swelling within a multinodular goitre must be sampled to exclude malignancy; FNAC (ideally ultrasound-guided) also aspirates a cyst, and residual or recurrent mass after aspiration warrants surgery.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "27-24"
+ },
+ {
+  "cids": [
+   "C0542"
+  ],
+  "stem": "A 34-year-old woman presents with increased sweating, fatigue, myalgia and weight loss with increased appetite. On examination there is a swelling in front of the neck with multiple nodules. What is the best treatment option?",
+  "options": {
+   "A": "Antithyroid drugs for 6 months",
+   "B": "Antithyroid drugs for 3 months followed by surgery",
+   "C": "Radioiodine for 6 months",
+   "D": "Reassure and send home",
+   "E": "Thyroxine for 6 months"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Toxic multinodular goitre does not remit on antithyroid drugs, so the definitive treatment in a young patient is surgery after rendering her euthyroid with antithyroid drugs. Radioiodine is less effective for large nodular goitres and is avoided in young women.",
+  "key_note": "The source asterisked both B and C; correct is B.",
+  "figure": "",
+  "qid": "27-25"
+ },
+ {
+  "cids": [
+   "C0372"
+  ],
+  "stem": "A 53-year-old woman from Swat with a long-standing multinodular goitre presents with heat intolerance, palpitations and tremors for 5 months. TSH is undetectable. What is the next course of action?",
+  "options": {
+   "A": "Start thyroxine 100 micrograms OD",
+   "B": "Start propranolol 40 mg TDS",
+   "C": "Make the patient euthyroid and proceed to near-total thyroidectomy",
+   "D": "Start carbimazole 10 mg TDS to cure it",
+   "E": "Start dietary iodine supplementation"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "This is toxic (secondary) multinodular goitre, which antithyroid drugs control but do not cure; treatment is to render her euthyroid and then perform near-total or total thyroidectomy. Iodine supplementation can worsen thyrotoxicosis (Jod-Basedow).",
+  "key_note": "",
+  "figure": "",
+  "qid": "27-26"
+ },
+ {
+  "cids": [
+   "C0257",
+   "C1370"
+  ],
+  "stem": "A 50-year-old man presents with a swelling in front of the neck, moving with swallowing, for the last 6 months. He has palpitations and heat intolerance (pulse 120/min). Ultrasound shows multiple nodules in both lobes of the thyroid, more on the right side. What is the best surgical option after optimisation?",
+  "options": {
+   "A": "Subtotal thyroidectomy",
+   "B": "Near-total thyroidectomy",
+   "C": "Total thyroidectomy",
+   "D": "Right lobectomy",
+   "E": "Right lobectomy and isthmusectomy"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "For toxic multinodular goitre involving both lobes, total thyroidectomy (after making the patient euthyroid) is the operation of choice in B&L, because remnants left by subtotal resection cause recurrent goitre or thyrotoxicosis. Near-total thyroidectomy is an acceptable alternative; lobectomy is inadequate for bilateral disease.",
+  "key_note": "One paper (60-year-old version without ultrasound details) marked A (subtotal) and the compiled key gave B (near-total); correct is C per current B&L, with near-total also acceptable.",
+  "figure": "",
+  "qid": "27-27"
+ },
+ {
+  "cids": [
+   "C0963"
+  ],
+  "stem": "A 45-year-old woman presents with weight loss, palpitations and heat intolerance with a midline neck swelling that moves up on deglutition. Thyroid profile shows hyperthyroidism and chest X-ray confirms retrosternal extension. What is the best treatment option for this patient?",
+  "options": {
+   "A": "Antithyroid drugs",
+   "B": "Radioactive iodine",
+   "C": "Surgery",
+   "D": "Radiotherapy",
+   "E": "Cryoablation"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A toxic retrosternal goitre needs definitive surgery (after rendering euthyroid), because drugs do not shrink it and radioiodine can cause swelling and airway compromise. Most retrosternal goitres can be delivered through a cervical incision.",
+  "key_note": "One paper also asked this as 'best initial treatment' and marked A (antithyroid drugs to render euthyroid, which is correct for that wording); see the separate item. For 'best treatment', C is correct.",
+  "figure": "",
+  "qid": "27-28"
+ },
+ {
+  "cids": [],
+  "stem": "A 45-year-old woman presents with weight loss, palpitations and heat intolerance with a midline neck swelling that moves up on deglutition. Thyroid profile shows hyperthyroidism and chest X-ray confirms retrosternal extension. What is the best INITIAL treatment option for this patient?",
+  "options": {
+   "A": "Antithyroid drugs",
+   "B": "Radioactive iodine",
+   "C": "Surgery",
+   "D": "Radiotherapy",
+   "E": "Cryoablation"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "The initial step is to make her euthyroid with antithyroid drugs (plus a beta-blocker) to avoid thyroid storm; definitive treatment is then surgery.",
+  "key_note": "Same paper asked this twice with 'initial' and without; marked A here and C for the other wording. Both keys are consistent with their wording.",
+  "figure": "",
+  "split_from": "C0963",
+  "qid": "27-29"
+ },
+ {
+  "cids": [
+   "C0364",
+   "C0525",
+   "C0188"
+  ],
+  "stem": "A 25-year-old woman presents with a solitary nodule in the right lobe of the thyroid. Thyroid function tests are normal. What should be the next investigation of choice?",
+  "options": {
+   "A": "Anti-TSH antibodies",
+   "B": "Anti-thyroglobulin antibodies",
+   "C": "CT scan",
+   "D": "FNAC",
+   "E": "Thyroid scan"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "In a euthyroid solitary nodule the question is malignancy, answered by FNAC (ultrasound-guided, especially if ultrasound shows suspicious features such as solid hypoechoic texture or microcalcification). Isotope scanning is only useful when TSH is suppressed, and thyroglobulin is a post-thyroidectomy marker, not a diagnostic test.",
+  "key_note": "Compiled key gave E (Thyroid scan); correct is D: scan is not indicated in a euthyroid nodule.",
+  "figure": "",
+  "qid": "27-30"
+ },
+ {
+  "cids": [
+   "C0620",
+   "C1371"
+  ],
+  "stem": "A 20-year-old woman presents with a swelling in front of the neck for 6 months. Examination reveals a solitary 7 cm swelling in the right lobe of the thyroid. She is euthyroid. How will you confirm the tissue diagnosis?",
+  "options": {
+   "A": "Tru-cut biopsy",
+   "B": "FNAC",
+   "C": "Incisional biopsy",
+   "D": "Excisional biopsy"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "FNAC is the standard, safe first tissue diagnosis for thyroid nodules. Core and open biopsies risk bleeding, nerve injury and tumour spill and are reserved for suspected lymphoma or anaplastic carcinoma.",
+  "key_note": "",
+  "figure": "",
+  "qid": "27-31"
+ },
+ {
+  "cids": [
+   "C0545"
+  ],
+  "stem": "A 65-year-old man presents with hoarseness of voice for 3 weeks. There is a small swelling in front of the neck which moves on deglutition. Indirect laryngoscopy shows one vocal cord fixed in the paramedian position. What is the next step in management?",
+  "options": {
+   "A": "CT neck",
+   "B": "FNAC of the neck swelling",
+   "C": "MRI neck",
+   "D": "Surgery of the affected vocal cord",
+   "E": "Thyroid scan"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "A thyroid swelling with recurrent laryngeal nerve palsy is malignant until proven otherwise, so tissue diagnosis by FNAC comes next; cross-sectional imaging follows for staging.",
+  "key_note": "Source stem said 'adducted vocal cord'; clarified as a fixed cord.",
+  "figure": "",
+  "qid": "27-32"
+ },
+ {
+  "cids": [
+   "C1374",
+   "C0624"
+  ],
+  "stem": "A 20-year-old woman presents with a swelling in front of the neck for 6 months. Examination reveals a solitary 7 cm swelling in the right lobe of the thyroid. She is euthyroid. What is the minimum operation in this patient?",
+  "options": {
+   "A": "Subtotal thyroidectomy",
+   "B": "Near-total thyroidectomy",
+   "C": "Total thyroidectomy",
+   "D": "Lobectomy and isthmusectomy",
+   "E": "Right lobectomy"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A solitary nodule confined to one lobe is treated at minimum by hemithyroidectomy (lobectomy with isthmusectomy), giving definitive histology for completion surgery if needed.",
+  "key_note": "One paper key and the compiled key marked E (right lobectomy); correct is D, the standard 'minimum operation' (another paper ticked D). Merged variant: Source marks conflicted: one paper marked D, another ticked A while highlighting C; correct is D.",
+  "figure": "",
+  "qid": "27-33"
+ },
+ {
+  "cids": [
+   "C0703",
+   "C0862"
+  ],
+  "stem": "Which of the following is the most common malignant thyroid neoplasm?",
+  "options": {
+   "A": "Papillary carcinoma",
+   "B": "Follicular carcinoma",
+   "C": "Medullary carcinoma",
+   "D": "Lymphoma",
+   "E": "Anaplastic carcinoma"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Papillary carcinoma accounts for about 80% of thyroid cancers, typically in young women, spreading to cervical nodes. Follicular is second (about 10%).",
+  "key_note": "",
+  "figure": "",
+  "qid": "27-34"
+ },
+ {
+  "cids": [
+   "C0955"
+  ],
+  "stem": "Regarding thyroid malignancies, which of the following statements is true?",
+  "options": {
+   "A": "These malignancies have high mortality",
+   "B": "Follicular carcinoma usually metastasises to lymph nodes",
+   "C": "Papillary carcinoma metastasises by the bloodstream",
+   "D": "Papillary carcinoma spreads to cervical lymph nodes",
+   "E": "Anaplastic variety is commonest"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Papillary carcinoma spreads by lymphatics to cervical nodes, whereas follicular spreads by blood to bone and lung. Differentiated thyroid cancers mostly have an excellent prognosis, and anaplastic is rare.",
+  "key_note": "",
+  "figure": "",
+  "qid": "27-35"
+ },
+ {
+  "cids": [
+   "C0522"
+  ],
+  "stem": "A 40-year-old man has a thyroid swelling that has increased in size over 6 months. A lymph node removed from the right side of his neck shows adenocarcinoma with psammoma bodies. The primary lesion is:",
+  "options": {
+   "A": "Papillary carcinoma of the thyroid",
+   "B": "Follicular carcinoma of the thyroid",
+   "C": "Medullary carcinoma",
+   "D": "Anaplastic carcinoma",
+   "E": "Carcinosarcoma"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Psammoma bodies (laminated calcospherites) with nodal spread are hallmarks of papillary carcinoma, along with Orphan Annie nuclei and nuclear grooves. 'Lateral aberrant thyroid' was such a nodal metastasis.",
+  "key_note": "",
+  "figure": "",
+  "qid": "27-36"
+ },
+ {
+  "cids": [
+   "C1157"
+  ],
+  "stem": "A 45-year-old man presents with a solitary thyroid nodule and multiple enlarged palpable cervical lymph nodes. FNA is suspicious for malignancy. Which type of thyroid cancer is most likely?",
+  "options": {
+   "A": "Anaplastic thyroid carcinoma",
+   "B": "Follicular thyroid carcinoma",
+   "C": "Hurthle cell carcinoma",
+   "D": "Medullary thyroid carcinoma",
+   "E": "Papillary thyroid carcinoma"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Nodal spread is characteristic of papillary carcinoma, the commonest thyroid cancer. Follicular and Hurthle cell carcinomas spread by blood and rarely to nodes.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "27-37"
+ },
+ {
+  "cids": [
+   "C0678"
+  ],
+  "stem": "A 50-year-old man presents with a swelling in front of the neck which moves on deglutition but not on protrusion of the tongue. The swelling is hard, with irregular nodules, and fixed to underlying structures. What is the most likely diagnosis?",
+  "options": {
+   "A": "Simple multinodular goitre",
+   "B": "Graves' disease",
+   "C": "Malignant goitre",
+   "D": "Toxic adenoma",
+   "E": "Thyroid cyst"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A hard, irregular thyroid mass fixed to surrounding structures indicates local invasion by carcinoma. Benign goitres are mobile, and movement with swallowing simply confirms a thyroid origin.",
+  "key_note": "",
+  "figure": "",
+  "qid": "27-38"
+ },
+ {
+  "cids": [
+   "C0189"
+  ],
+  "stem": "A 45-year-old man has chronic diarrhoea and a palpable neck nodule, with bone pain, fatigue and flushing. The abdomen is soft and non-tender, and the neck mass is malignant. What is the most likely diagnosis?",
+  "options": {
+   "A": "Medullary carcinoma",
+   "B": "Papillary carcinoma",
+   "C": "Follicular carcinoma",
+   "D": "Anaplastic carcinoma",
+   "E": "Lymphoma of thyroid"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Medullary carcinoma arises from parafollicular C cells and secretes calcitonin, prostaglandins, serotonin and VIP-like peptides, causing diarrhoea and flushing. Calcitonin and CEA are its tumour markers.",
+  "key_note": "",
+  "figure": "",
+  "qid": "27-39"
+ },
+ {
+  "cids": [
+   "C1373"
+  ],
+  "stem": "A 30-year-old woman presents with a solitary thyroid nodule. FNAC reveals papillary carcinoma. What is the most appropriate management?",
+  "options": {
+   "A": "Subtotal thyroidectomy",
+   "B": "Total thyroidectomy",
+   "C": "Near-total thyroidectomy",
+   "D": "Lobectomy",
+   "E": "Isthmusectomy"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Total thyroidectomy is the standard for papillary carcinoma over 1 cm (and for multifocal or node-positive disease), enabling radioiodine ablation and thyroglobulin surveillance. In pregnancy surgery can be done safely in the second trimester, but radioiodine is contraindicated.",
+  "key_note": "",
+  "figure": "",
+  "qid": "27-40"
+ },
+ {
+  "cids": [
+   "C0978"
+  ],
+  "stem": "A 36-year-old woman, 20 weeks pregnant, presents with a 1.5 cm right thyroid mass. FNAC is consistent with papillary neoplasm; the mass is cold on scan and solid on ultrasound. Which of the following methods of treatment is contraindicated?",
+  "options": {
+   "A": "Right thyroid lobectomy",
+   "B": "Subtotal thyroidectomy",
+   "C": "Total thyroidectomy",
+   "D": "Radioactive iodine ablation",
+   "E": "Lymph node dissection"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Radioiodine is absolutely contraindicated in pregnancy (and breastfeeding) because it crosses the placenta and ablates the fetal thyroid. Surgery is safe in the second trimester. (Note: isotope scanning itself should also be avoided in pregnancy.)",
+  "key_note": "",
+  "figure": "",
+  "qid": "27-41"
+ },
+ {
+  "cids": [
+   "C1158"
+  ],
+  "stem": "A patient with hypothyroidism is started on levothyroxine (T4) replacement. What is the primary goal of this treatment?",
+  "options": {
+   "A": "To improve lipid profile",
+   "B": "To increase metabolic rate",
+   "C": "To reduce goitre size",
+   "D": "To restore normal hormone levels",
+   "E": "To suppress TSH production"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Replacement aims to restore euthyroidism, monitored by keeping TSH in the normal range. TSH suppression is the goal only after surgery for differentiated thyroid cancer.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "27-42"
+ },
+ {
+  "cids": [
+   "C0954"
+  ],
+  "stem": "A 30-year-old woman underwent total thyroidectomy in the morning. On the evening round she has difficulty in breathing which is getting worse. Regarding respiratory obstruction after thyroidectomy, which one of the following is the most important cause?",
+  "options": {
+   "A": "Tracheal injury",
+   "B": "Unilateral vocal cord paralysis",
+   "C": "Tension haematoma",
+   "D": "Laryngeal injury",
+   "E": "Direct injury to respiratory tract"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Early post-thyroidectomy airway obstruction is most often due to a tension haematoma deep to the strap muscles, which obstructs venous return and causes laryngeal oedema. Unilateral cord palsy causes hoarseness, not obstruction; bilateral palsy would.",
+  "key_note": "",
+  "figure": "",
+  "qid": "27-43"
+ },
+ {
+  "cids": [
+   "C0890",
+   "C0365",
+   "C1383"
+  ],
+  "stem": "A patient underwent total thyroidectomy in the morning for a long-standing huge multinodular goitre with pressure symptoms. In the ward he becomes breathless with severe anxiety, sweating and stridor. What should be the immediate initial step?",
+  "options": {
+   "A": "Endotracheal intubation immediately",
+   "B": "Prop up the patient",
+   "C": "Oxygen inhalation",
+   "D": "Urgent opening of all layers of the thyroidectomy incision",
+   "E": "Opening of the skin wound only"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Stridor after thyroidectomy is presumed to be a tension haematoma: open all layers (skin, platysma and strap muscles) at the bedside to decompress the trachea. Intubation through an oedematous, compressed airway is difficult and should follow decompression.",
+  "key_note": "Compiled key for one paper gave A (intubation); correct is D, as marked by the other papers.",
+  "figure": "",
+  "qid": "27-44"
+ },
+ {
+  "cids": [
+   "C0192",
+   "C1151"
+  ],
+  "stem": "A 55-year-old woman undergoes total thyroidectomy for thyroid cancer. Two days later she develops perioral tingling and carpopedal spasm, and tests show hypocalcaemia. What is the most likely cause?",
+  "options": {
+   "A": "Pseudohypoparathyroidism",
+   "B": "Hypoparathyroidism",
+   "C": "Hypomagnesaemia",
+   "D": "Hungry bone syndrome",
+   "E": "Vitamin D deficiency"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Post-thyroidectomy hypocalcaemia is usually due to parathyroid devascularisation or removal (often transient). Hungry bone syndrome follows parathyroidectomy for hyperparathyroidism or surgery for severe thyrotoxic bone disease.",
+  "key_note": "",
+  "figure": "",
+  "qid": "27-45"
+ },
+ {
+  "cids": [
+   "C0651"
+  ],
+  "stem": "While taking the blood pressure of a post-thyroidectomy patient you notice her hand going into spasm. Which of the following is likely to be responsible?",
+  "options": {
+   "A": "Hypercalcaemia",
+   "B": "Hypocalcaemia",
+   "C": "Hypokalaemia",
+   "D": "Hypermagnesaemia",
+   "E": "Hypomagnesaemia"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "This is Trousseau's sign: inflating the cuff above systolic pressure provokes carpal spasm in hypocalcaemia from parathyroid injury after thyroidectomy.",
+  "key_note": "",
+  "figure": "",
+  "qid": "27-46"
+ },
+ {
+  "cids": [
+   "C0888"
+  ],
+  "stem": "A 40-year-old man undergoes an apparently uneventful total thyroidectomy for follicular carcinoma. 48 hours later he develops circumoral numbness, followed by laryngospasm and then a generalised seizure. Which is the first priority?",
+  "options": {
+   "A": "Proceed to theatre for exploration of the operative site",
+   "B": "Administer 10% calcium gluconate intravenously",
+   "C": "Obtain serum magnesium and give intravenous magnesium chloride immediately",
+   "D": "CT scan of the head to look for brain metastasis"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Circumoral numbness, laryngospasm and seizures 48 hours after total thyroidectomy are acute hypocalcaemia from hypoparathyroidism; give 10 ml of 10% calcium gluconate IV slowly at once. Exploration is for haematoma, which presents within hours with neck swelling.",
+  "key_note": "Source paper marked A (exploration); correct is B: this is hypocalcaemic tetany, not a haematoma (the compiled key agrees with B).",
+  "figure": "",
+  "qid": "27-47"
+ },
+ {
+  "ncids": [
+   "K0462"
+  ],
+  "stem": "Which of the following cancers is associated with MEN type 2B syndrome?",
+  "options": {
+   "A": "Malignant GI tumours",
+   "B": "Medullary carcinoma of thyroid",
+   "C": "Mucosal carcinoma",
+   "D": "Adrenal carcinoma",
+   "E": "Basal cell carcinoma"
+  },
+  "answer": "B",
+  "explanation": "MEN 2B (RET mutation) comprises medullary thyroid carcinoma, phaeochromocytoma, mucosal neuromas and a marfanoid habitus. The mucosal lesions are benign neuromas, not carcinomas, and the adrenal tumour is a phaeochromocytoma, not adrenal carcinoma.",
+  "key_note": "",
+  "_new": true,
+  "qid": "27-N1"
+ },
+ {
+  "ncids": [
+   "K0471"
+  ],
+  "stem": "A 45-year-old woman undergoes subtotal thyroidectomy. Approximately how much thyroid tissue is left in each lobe?",
+  "options": {
+   "A": "4 g on each side",
+   "B": "8 g on each side",
+   "C": "6 g on each side",
+   "D": "2 g on each side",
+   "E": "1 g on each side"
+  },
+  "answer": "A",
+  "explanation": "In classical bilateral subtotal thyroidectomy a remnant of about 4 g (roughly the size of the pulp of the little finger) is left on each side, about 8 g in total, which approximates a normal gland's output. Leaving 8 g per side (16 g) carries a high risk of recurrent thyrotoxicosis.",
+  "key_note": "Bank marked B (8 g each side); correct is A because the standard remnant is about 4 g per side, 8 g in total.",
+  "_new": true,
+  "qid": "27-N2"
+ },
+ {
+  "ncids": [
+   "K0472"
+  ],
+  "stem": "A female patient presents with a solitary toxic thyroid nodule. What is the most likely treatment advised?",
+  "options": {
+   "A": "Anti-thyroid drugs lifelong",
+   "B": "Surgery of the nodule",
+   "C": "Anti-thyroid drugs for 6 months",
+   "D": "Anti-thyroid drugs and surgery",
+   "E": "Radiotherapy"
+  },
+  "answer": "B",
+  "explanation": "A toxic adenoma is autonomous and will not remit on anti-thyroid drugs, so definitive treatment is hemithyroidectomy (or radioiodine), after rendering the patient euthyroid. External radiotherapy has no role.",
+  "key_note": "",
+  "_new": true,
+  "qid": "27-N3"
+ },
+ {
+  "ncids": [
+   "K0485"
+  ],
+  "stem": "Thyrotoxicosis is characterised by which of the following?",
+  "options": {
+   "A": "Weight gain",
+   "B": "Proximal myopathy",
+   "C": "Enophthalmos",
+   "D": "Bradycardia",
+   "E": "Slow tendon reflexes"
+  },
+  "answer": "B",
+  "explanation": "Thyrotoxicosis causes a proximal myopathy along with weight loss, tachycardia, exophthalmos and brisk reflexes. Weight gain, bradycardia and slow-relaxing reflexes are features of hypothyroidism.",
+  "key_note": "",
+  "_new": true,
+  "qid": "27-N4"
+ },
+ {
+  "ncids": [
+   "K0546"
+  ],
+  "stem": "A 35-year-old woman with a multinodular goitre comes for elective thyroid surgery. Counselling regarding the choice of operation depends on all of the following post-operative risks EXCEPT:",
+  "options": {
+   "A": "Risk of recurrent goitre",
+   "B": "Lifelong hypothyroidism",
+   "C": "Recurrent laryngeal nerve damage",
+   "D": "Risk of hypoparathyroidism",
+   "E": "Toxic nodular goitre"
+  },
+  "answer": "E",
+  "explanation": "The choice between total and lesser thyroidectomy balances recurrence against lifelong thyroxine dependence and the risks of nerve injury and hypoparathyroidism. Toxic nodular goitre is a diagnosis, not a post-operative risk.",
+  "key_note": "",
+  "_new": true,
+  "qid": "27-N5"
+ },
+ {
+  "ncids": [
+   "K0548"
+  ],
+  "stem": "A boy presents with diarrhoea, raised blood pressure, bone pains, abdominal cramps and depression. Work-up shows MEN 2A. Which of the following is part of this syndrome?",
+  "options": {
+   "A": "Medullary thyroid cancer, parathyroid and pancreatic tumour",
+   "B": "Pituitary tumour, pancreatic tumour and phaeochromocytoma",
+   "C": "Medullary thyroid cancer and phaeochromocytoma only",
+   "D": "Parathyroid adenoma, phaeochromocytoma and medullary thyroid cancer",
+   "E": "Prolactinoma, phaeochromocytoma and insulinoma"
+  },
+  "answer": "D",
+  "explanation": "MEN 2A is medullary thyroid carcinoma, phaeochromocytoma and parathyroid hyperplasia/adenoma. Pituitary and pancreatic tumours belong to MEN 1.",
+  "key_note": "",
+  "_new": true,
+  "qid": "27-N6"
+ },
+ {
+  "ncids": [
+   "K0565"
+  ],
+  "stem": "A patient with toxic multinodular goitre is listed for near-total thyroidectomy. The house officer asks the nurse to stop the anti-thyroid drugs the night before but continue beta-blockers on the day of surgery and afterwards. Why is the beta-blocker continued while the anti-thyroid drug is stopped?",
+  "options": {
+   "A": "Beta-blocker is needed to control heart rate and the other drug does not do that",
+   "B": "Circulating hormone necessitates beta-blocker and anti-thyroid drugs do not act on it",
+   "C": "Anti-thyroid drug acts on vascularity of the gland and beta-blocker is needed for T3",
+   "D": "Anti-thyroid drug is needed for the remaining thyroid but not the beta-blocker",
+   "E": "Once the gland is removed the anti-thyroid drug is no longer needed, but the beta-blocker is needed until the circulating hormone is cleared (its half-life)"
+  },
+  "answer": "E",
+  "explanation": "Anti-thyroid drugs block hormone synthesis, which is pointless once the gland is removed, but pre-formed circulating thyroid hormone persists (T4 half-life about 7 days). Beta-blockade is therefore continued for about a week post-operatively to prevent thyrotoxic symptoms or crisis.",
+  "key_note": "",
+  "_new": true,
+  "qid": "27-N7"
+ },
+ {
+  "ncids": [
+   "K0566"
+  ],
+  "stem": "A young woman presents with a painful neck swelling that moves on deglutition, with fever, tenderness over the swelling, sweating, tachycardia and sore throat. Which management option will settle this condition?",
+  "options": {
+   "A": "Carbimazole",
+   "B": "Beta-blocker three times a day",
+   "C": "Thyroxine",
+   "D": "Prednisolone for 7 days",
+   "E": "Paracetamol for 5 days"
+  },
+  "answer": "D",
+  "explanation": "This is subacute (de Quervain's) thyroiditis; a short course of corticosteroids gives rapid relief of pain and inflammation (NSAIDs for milder cases). The thyrotoxicosis is from release of stored hormone, so carbimazole is ineffective.",
+  "key_note": "",
+  "_new": true,
+  "qid": "27-N8"
+ },
+ {
+  "ncids": [
+   "K0648"
+  ],
+  "stem": "A young female patient presents with a diffuse goitre. Which of the following statements is correct?",
+  "options": {
+   "A": "It may be an early stage of endemic goitre",
+   "B": "Thyroid disease is more common in females",
+   "C": "Thyroid scan is not indicated in simple goitre",
+   "D": "All of these statements are true"
+  },
+  "answer": "D",
+  "explanation": "A diffuse hyperplastic goitre in a young woman is often the early stage of endemic (iodine-deficiency) goitre, thyroid disease is several times commoner in females, and an isotope scan adds nothing in a euthyroid simple goitre.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "27-N9"
+ },
+ {
+  "ncids": [
+   "K0649",
+   "K1696"
+  ],
+  "stem": "Tetany may complicate thyroid surgery and is usually latent. What is true about latent tetany?",
+  "options": {
+   "A": "Carpopedal spasm is diagnostic",
+   "B": "It is detected by Chvostek's sign and Trousseau's sign",
+   "C": "Parathyroid hormone level is increased",
+   "D": "Serum calcium is increased"
+  },
+  "answer": "B",
+  "explanation": "Latent tetany has no spontaneous spasm and is elicited by Chvostek's sign (facial twitch on tapping the facial nerve) and Trousseau's sign (carpal spasm with cuff inflation). Post-thyroidectomy hypoparathyroidism lowers PTH and calcium.",
+  "key_note": "One copy was not marked; the other marked D (Chvostek's and Trousseau's signs). Correct is B.",
+  "_new": true,
+  "qid": "27-N10"
+ },
+ {
+  "ncids": [
+   "K0650",
+   "K1692"
+  ],
+  "stem": "All of the following are true about FNAC of the thyroid EXCEPT:",
+  "options": {
+   "A": "It is safe and reliable",
+   "B": "It is the least invasive tissue diagnostic investigation",
+   "C": "It can differentiate between follicular carcinoma and follicular adenoma",
+   "D": "It is highly accurate"
+  },
+  "answer": "C",
+  "explanation": "Follicular carcinoma is diagnosed by capsular or vascular invasion, which needs histology of the whole nodule; FNAC can only report a follicular neoplasm (Thy3f/Bethesda IV). Otherwise FNAC is safe, minimally invasive and accurate.",
+  "key_note": "One copy was not marked; the other marked C. Correct is C.",
+  "_new": true,
+  "qid": "27-N11"
+ },
+ {
+  "ncids": [
+   "K0742"
+  ],
+  "stem": "The thyroid-stimulating antibody in Graves' disease belongs to which immunoglobulin class?",
+  "options": {
+   "A": "IgG",
+   "B": "IgM",
+   "C": "IgA",
+   "D": "IgD",
+   "E": "IgE"
+  },
+  "answer": "A",
+  "explanation": "TSH-receptor stimulating antibodies are IgG, which is why they cross the placenta and can cause neonatal thyrotoxicosis.",
+  "key_note": "",
+  "_new": true,
+  "qid": "27-N12"
+ },
+ {
+  "ncids": [
+   "K0835"
+  ],
+  "stem": "A 10-year-old child is diagnosed with thyrotoxicosis. Which treatment modality is best for this age group?",
+  "options": {
+   "A": "Radioiodine",
+   "B": "Subtotal thyroidectomy",
+   "C": "Total thyroidectomy",
+   "D": "Antithyroid drugs"
+  },
+  "answer": "D",
+  "explanation": "Children and adolescents with Graves' disease are treated first with antithyroid drugs; radioiodine is generally avoided in children and surgery is reserved for relapse or failure of medical therapy.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "27-N13"
+ },
+ {
+  "ncids": [
+   "K0848"
+  ],
+  "stem": "When progressive enlargement of a multinodular goitre causes symptomatic tracheal compression, what is the preferred management in an otherwise good-risk patient?",
+  "options": {
+   "A": "Iodine treatment",
+   "B": "Thyroid hormone treatment",
+   "C": "Surgical resection of the abnormal thyroid",
+   "D": "Radioactive iodine treatment"
+  },
+  "answer": "C",
+  "explanation": "Pressure symptoms from a multinodular goitre are an indication for thyroidectomy in fit patients. Thyroxine suppression and iodine do not shrink nodular goitres reliably, and radioiodine acts slowly and is reserved for poor surgical candidates.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "27-N14"
+ },
+ {
+  "ncids": [
+   "K0978"
+  ],
+  "stem": "A 45-year-old woman undergoes subtotal thyroidectomy for a simple multinodular goitre. Eight hours after surgery she develops shortness of breath and neck pain due to a post-operative haematoma. How is this haemorrhage classified?",
+  "options": {
+   "A": "Primary haemorrhage",
+   "B": "Reactionary haemorrhage",
+   "C": "Secondary haemorrhage",
+   "D": "Tertiary haemorrhage",
+   "E": "Quaternary haemorrhage"
+  },
+  "answer": "B",
+  "explanation": "Reactionary haemorrhage occurs within 24 hours of surgery, usually from a slipped ligature or reopened vessel as blood pressure recovers. Primary is at operation, and secondary occurs at 7-14 days due to infection.",
+  "key_note": "",
+  "_new": true,
+  "qid": "27-N15"
+ },
+ {
+  "ncids": [
+   "K1034"
+  ],
+  "stem": "Which of the following statements is true regarding the thyroid gland?",
+  "options": {
+   "A": "C-cells are calcium-secreting cells in the thyroid gland",
+   "B": "Superior thyroid artery is a branch of the internal carotid artery",
+   "C": "T3 is the most sensitive part of the thyroid function test",
+   "D": "Thyroid gland lies in front of the lower tracheal rings",
+   "E": "Thyrocervical trunk is a branch of the subclavian artery"
+  },
+  "answer": "E",
+  "explanation": "The thyrocervical trunk arises from the first part of the subclavian artery and gives the inferior thyroid artery. The superior thyroid artery comes from the external carotid, C-cells secrete calcitonin, TSH is the most sensitive test, and the isthmus overlies the 2nd to 4th tracheal rings.",
+  "key_note": "Bank marked B with * but highlighted E; correct is E because the superior thyroid artery arises from the external, not internal, carotid.",
+  "_new": true,
+  "qid": "27-N16"
+ },
+ {
+  "ncids": [
+   "K1159",
+   "K1627",
+   "K1269"
+  ],
+  "stem": "A singer complains that she can no longer reach high notes after her thyroidectomy. What is the likely cause?",
+  "options": {
+   "A": "Damage to the recurrent laryngeal nerve",
+   "B": "Damage to the external laryngeal nerve",
+   "C": "Damage to the vagus nerve",
+   "D": "Tracheal stenosis",
+   "E": "Vocal cord hemiparalysis"
+  },
+  "answer": "B",
+  "explanation": "The external branch of the superior laryngeal nerve supplies cricothyroid, which tenses the cord; injury (usually while ligating the superior pole vessels) causes loss of high pitch and voice fatigue. Recurrent laryngeal nerve injury causes cord paralysis with hoarseness.",
+  "key_note": "Bank marked B with * but highlighted A; correct is B because pitch loss is due to cricothyroid paralysis from external laryngeal nerve injury.",
+  "_new": true,
+  "qid": "27-N17"
+ },
+ {
+  "ncids": [
+   "K1297"
+  ],
+  "stem": "Four hours after an uneventful subtotal thyroidectomy for a euthyroid multinodular goitre, a 40-year-old woman develops stridor and restlessness. An endotracheal tube is inserted with relief. What is the next best step in management?",
+  "options": {
+   "A": "Administer an IV steroid",
+   "B": "Administer an IM antihistamine",
+   "C": "Administer IV calcium chloride infusion",
+   "D": "Put on a ventilator",
+   "E": "Explore the neck wound"
+  },
+  "answer": "E",
+  "explanation": "Early post-thyroidectomy stridor is most often due to a haematoma causing laryngeal oedema; once the airway is secured the wound must be explored to evacuate clot and secure bleeding. Hypocalcaemic stridor occurs later, usually after 24-48 hours.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "27-N18"
+ },
+ {
+  "ncids": [
+   "K1304"
+  ],
+  "stem": "Which nerve is most commonly damaged in thyroid surgery?",
+  "options": {
+   "A": "External laryngeal nerve",
+   "B": "Superficial laryngeal nerve",
+   "C": "Recurrent laryngeal nerve",
+   "D": "Accessory nerve"
+  },
+  "answer": "A",
+  "explanation": "The external branch of the superior laryngeal nerve runs with the superior thyroid vessels and is injured more often than the recurrent laryngeal nerve, though injury is frequently unrecognised as it only alters pitch. Recurrent laryngeal nerve injury is less frequent but clinically more serious.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "27-N19"
+ },
+ {
+  "ncids": [
+   "K1324"
+  ],
+  "stem": "The parafollicular 'C' cells of the thyroid gland arise from the:",
+  "options": {
+   "A": "Ultimobranchial body",
+   "B": "Neural crest",
+   "C": "Thyroglossal duct",
+   "D": "Fourth pharyngeal pouch"
+  },
+  "answer": "B",
+  "explanation": "C-cells are neural crest derivatives that migrate into the ultimobranchial body (from the 4th/5th pouch), which then fuses with the thyroid. Their neural crest origin explains the neuroendocrine behaviour of medullary carcinoma.",
+  "key_note": "",
+  "_new": true,
+  "qid": "27-N20"
+ },
+ {
+  "ncids": [
+   "K1325"
+  ],
+  "stem": "A known hypothyroid patient presents with an altered mental state and hypothermia. Which of the following is of LEAST value in management?",
+  "options": {
+   "A": "Intravenous T3",
+   "B": "Slow rewarming",
+   "C": "Propranolol",
+   "D": "Hydrocortisone"
+  },
+  "answer": "C",
+  "explanation": "Myxoedema coma is treated with IV thyroid hormone, hydrocortisone (for possible adrenal insufficiency), passive slow rewarming and supportive care. Propranolol is used in thyrotoxicosis and would worsen bradycardia.",
+  "key_note": "",
+  "_new": true,
+  "qid": "27-N21"
+ },
+ {
+  "ncids": [
+   "K1327"
+  ],
+  "stem": "As compared to secondary thyrotoxicosis, which of the following features is NOT true for primary thyrotoxicosis?",
+  "options": {
+   "A": "Hyperthyroidism is more severe",
+   "B": "Cardiac failure is less common",
+   "C": "Orbital proptosis is more common",
+   "D": "Pretibial myxoedema is less common"
+  },
+  "answer": "D",
+  "explanation": "Primary thyrotoxicosis (Graves') is autoimmune, so eye signs and pretibial myxoedema are characteristic of it and more common, not less. Secondary (toxic nodular) disease is milder but affects older patients, so cardiac failure is more common there.",
+  "key_note": "",
+  "_new": true,
+  "qid": "27-N22"
+ },
+ {
+  "ncids": [
+   "K1328"
+  ],
+  "stem": "Twenty-four hours after thyroidectomy for diffuse toxic goitre, a patient develops hyperpyrexia, marked tachycardia and restlessness. Which of the following measures is LEAST useful?",
+  "options": {
+   "A": "Propranolol",
+   "B": "Iodine",
+   "C": "Antibiotics",
+   "D": "Steroids"
+  },
+  "answer": "C",
+  "explanation": "Thyroid crisis is treated with beta-blockers, antithyroid drugs, iodine, steroids, cooling and fluids. The fever is hypermetabolic, not infective, so antibiotics are the least useful.",
+  "key_note": "",
+  "_new": true,
+  "qid": "27-N23"
+ },
+ {
+  "ncids": [
+   "K1334",
+   "K1695"
+  ],
+  "stem": "A young man presents with a solitary thyroid nodule and is clinically euthyroid. Which of the following investigations is of LEAST value?",
+  "options": {
+   "A": "Thyroid function tests",
+   "B": "Ultrasonography",
+   "C": "Radioisotope scan",
+   "D": "FNAC"
+  },
+  "answer": "C",
+  "explanation": "Evaluation of a euthyroid solitary nodule rests on TFTs, ultrasound and FNAC. An isotope scan cannot reliably separate benign from malignant (most cold nodules are benign) and is reserved for a nodule with suppressed TSH.",
+  "key_note": "",
+  "_new": true,
+  "qid": "27-N24"
+ },
+ {
+  "ncids": [
+   "K1388"
+  ],
+  "stem": "All of the following are symptoms of adult hypothyroidism EXCEPT:",
+  "options": {
+   "A": "Tiredness",
+   "B": "Cold intolerance",
+   "C": "Weight loss",
+   "D": "Mental lethargy",
+   "E": "Menstrual disturbances"
+  },
+  "answer": "C",
+  "explanation": "Hypothyroidism causes weight gain, with tiredness, cold intolerance, mental slowing and menorrhagia. Weight loss is a feature of thyrotoxicosis.",
+  "key_note": "",
+  "_new": true,
+  "qid": "27-N25"
+ },
+ {
+  "ncids": [
+   "K1389"
+  ],
+  "stem": "Simple goitre most commonly develops as a result of:",
+  "options": {
+   "A": "TSH secretion from an anterior pituitary microadenoma",
+   "B": "TSH stimulation due to chronically low circulating thyroid hormone",
+   "C": "Dietary deficiency of iodine",
+   "D": "Defective hormone synthesis",
+   "E": "Goitrogens such as vegetables of the brassica family"
+  },
+  "answer": "C",
+  "explanation": "Worldwide, iodine deficiency is the most important cause of simple goitre, acting through raised TSH drive. Dyshormonogenesis and goitrogens are much less common causes.",
+  "key_note": "",
+  "_new": true,
+  "qid": "27-N26"
+ },
+ {
+  "ncids": [
+   "K1390"
+  ],
+  "stem": "All of the following statements regarding de Quervain's thyroiditis are true EXCEPT:",
+  "options": {
+   "A": "It is due to viral infection",
+   "B": "Typically there is neck pain, fever, malaise and a firm irregular thyroid enlargement",
+   "C": "ESR is raised",
+   "D": "Thyroid antibodies are absent",
+   "E": "Iodine-123 uptake is high"
+  },
+  "answer": "E",
+  "explanation": "In subacute thyroiditis, inflamed follicles leak stored hormone while uptake of iodine is very low; a raised ESR with low uptake is diagnostic. High uptake suggests Graves' disease.",
+  "key_note": "",
+  "_new": true,
+  "qid": "27-N27"
+ },
+ {
+  "ncids": [
+   "K1691"
+  ],
+  "stem": "What is CORRECT about toxic diffuse goitre in a young patient?",
+  "options": {
+   "A": "It may be an early stage of endemic goitre",
+   "B": "TSH is usually raised in these cases",
+   "C": "Thyroid scan is strongly indicated",
+   "D": "Thyroid disease is equally common in both genders",
+   "E": "It is more common in females"
+  },
+  "answer": "E",
+  "explanation": "Graves' disease is several times more common in women. TSH is suppressed, and the diagnosis is usually made on TFTs and TSH receptor antibodies without needing a scan.",
+  "key_note": "",
+  "_new": true,
+  "qid": "27-N28"
+ },
+ {
+  "ncids": [
+   "K1693",
+   "K1694"
+  ],
+  "stem": "All of the following are true about follicular carcinoma of the thyroid EXCEPT:",
+  "options": {
+   "A": "It is more common in females",
+   "B": "It is more common over the age of 30 years",
+   "C": "It is associated with a relatively good prognosis",
+   "D": "It is best treated by total thyroidectomy",
+   "E": "It usually metastasises to the regional lymph nodes"
+  },
+  "answer": "E",
+  "explanation": "Follicular carcinoma spreads typically by the bloodstream to bone and lung; lymph node spread is characteristic of papillary carcinoma.",
+  "key_note": "",
+  "_new": true,
+  "qid": "27-N29"
+ },
+ {
+  "ncids": [
+   "K1387"
+  ],
+  "stem": "Which of the following statements regarding cretinism is untrue?",
+  "options": {
+   "A": "In endemic areas goitrous cretinism is common",
+   "B": "Endemic cretinism is due to maternal and foetal iodine deficiency",
+   "C": "In sporadic cretinism the parents and other children may be normal",
+   "D": "Congenital hypothyroidism occurs in about 1 in 4000 live births",
+   "E": "Routine biochemical screening of neonates is of no value in detecting congenital hypothyroidism"
+  },
+  "answer": "E",
+  "explanation": "Neonatal heel-prick TSH screening reliably detects congenital hypothyroidism (about 1 in 3000 to 4000 births) so that thyroxine can be started early and cretinism prevented. The other statements are true.",
+  "key_note": "Bank keyed E, but the source option read 'routine biochemical screening of neonates is done', which is true; option reworded so the keyed answer is genuinely untrue.",
+  "_new": true,
+  "qid": "27-N30"
+ }
+]

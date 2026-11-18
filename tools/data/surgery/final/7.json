@@ -1,0 +1,284 @@
+[
+ {
+  "cids": [
+   "C0625"
+  ],
+  "stem": "A 25-year-old footballer presents with a painful swollen left knee. MRI shows a ligamentous injury. The most common ligament torn in football players is the:",
+  "options": {
+   "A": "Anterior cruciate ligament",
+   "B": "Lateral collateral ligament",
+   "C": "Medial collateral ligament",
+   "D": "Patellar ligament",
+   "E": "Posterior cruciate ligament"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Non-contact pivoting and twisting on a planted foot, typical of football, tears the ACL; the patient feels a pop and develops a rapid haemarthrosis. In general populations the MCL is often quoted as the most frequently injured knee ligament, but for footballers and in exams the ACL is the expected answer.",
+  "key_note": "",
+  "figure": "",
+  "qid": "7-1"
+ },
+ {
+  "cids": [
+   "C0417"
+  ],
+  "stem": "The anterior drawer sign is positive in:",
+  "options": {
+   "A": "Medial meniscus injury",
+   "B": "Anterior cruciate ligament injury",
+   "C": "Lateral meniscus injury",
+   "D": "Posterior cruciate ligament injury",
+   "E": "Greenstick fracture"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Excess anterior translation of the tibia on the femur (anterior drawer at 90 degrees, Lachman at 20-30 degrees, the more sensitive test) indicates ACL deficiency. A positive posterior drawer or posterior sag indicates PCL injury.",
+  "key_note": "",
+  "figure": "",
+  "qid": "7-2"
+ },
+ {
+  "cids": [
+   "C1420"
+  ],
+  "stem": "A 30-year-old man twisted his right knee playing football, with immediate swelling and inability to continue. X-rays were normal. He was given a Robert Jones dressing and reviewed after 1 week, when the swelling had subsided. He now has medial joint line tenderness, a positive McMurray's test, and 2+ anterior drawer and 2+ Lachman tests. What is the most likely diagnosis?",
+  "options": {
+   "A": "Anterior cruciate ligament tear only",
+   "B": "Anterior cruciate ligament tear with medial meniscal tear",
+   "C": "Anterior cruciate ligament tear with lateral meniscal tear",
+   "D": "Posterior cruciate ligament tear with medial meniscal tear",
+   "E": "Posterior cruciate ligament tear with lateral meniscal tear"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Positive Lachman and anterior drawer mean ACL tear; medial joint line tenderness with a positive McMurray's test indicates a medial meniscal tear. Immediate swelling suggests haemarthrosis from the ACL.",
+  "key_note": "",
+  "figure": "",
+  "qid": "7-3"
+ },
+ {
+  "cids": [
+   "C0268"
+  ],
+  "stem": "A 35-year-old man twisted his right knee and fell while skiing, with severe pain and immediate swelling. He cannot fully bear weight or flex and extend the knee. There is marked swelling with limited movement; the posterior drawer test is positive, straight-leg raise is normal and X-rays are normal. The most likely injury is of the:",
+  "options": {
+   "A": "Femoral condyle",
+   "B": "Medial collateral ligament",
+   "C": "Medial meniscus",
+   "D": "Posterior cruciate ligament",
+   "E": "Tibial tuberosity"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A positive posterior drawer (posterior translation of the tibia, with posterior sag) indicates a posterior cruciate ligament tear. A normal straight-leg raise excludes extensor mechanism disruption and normal X-rays exclude fracture.",
+  "key_note": "Not marked in the source paper; answer by reviewer (compiled key agrees).",
+  "figure": "",
+  "qid": "7-4"
+ },
+ {
+  "cids": [
+   "C0142"
+  ],
+  "stem": "A footballer has had a twisting injury to the left knee a few weeks ago and now has intermittent locking of the knee without any instability. Lachman and anterior drawer tests are negative. Which structure is most likely injured?",
+  "options": {
+   "A": "Medial meniscus",
+   "B": "Lateral meniscus",
+   "C": "Both equally",
+   "D": "Anterior cruciate ligament",
+   "E": "Posterior cruciate ligament"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Locking (a mechanical block to full extension) after a twisting injury suggests a bucket-handle meniscal tear, and the medial meniscus is torn far more often than the lateral because it is less mobile and attached to the MCL. Negative Lachman and drawer tests exclude ACL instability.",
+  "key_note": "",
+  "figure": "",
+  "qid": "7-5"
+ },
+ {
+  "cids": [
+   "C0743"
+  ],
+  "stem": "A 16-year-old boy injured his right knee playing rugby. His knee was forcibly abducted (valgus) and externally rotated while semi-flexed. This mechanism classically results in a tear of the:",
+  "options": {
+   "A": "Anterior cruciate ligament",
+   "B": "Posterior cruciate ligament",
+   "C": "Medial meniscus",
+   "D": "Lateral meniscus",
+   "E": "Lateral collateral ligament"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Rotation of the femur on the tibia with the knee flexed and weight bearing, combined with valgus stress, traps and tears the medial meniscus; the same valgus-external rotation force produces the 'unhappy triad' of MCL, ACL and medial meniscus injury.",
+  "key_note": "Not marked in the source paper; answer by reviewer (compiled key agrees). ACL is a tempting alternative, but the classic answer for this mechanism is medial meniscus.",
+  "figure": "",
+  "qid": "7-6"
+ },
+ {
+  "cids": [
+   "C1415"
+  ],
+  "stem": "A 22-year-old man has pain at the right distal lateral thigh, especially when the knee is flexed beyond 30 degrees. Ober's test is positive with tenderness along the fascia lata. What is the most likely diagnosis?",
+  "options": {
+   "A": "Iliotibial band syndrome",
+   "B": "Myositis ossificans",
+   "C": "Jumper's knee",
+   "D": "Preacher's (housemaid's) knee",
+   "E": "Chondromalacia patellae"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Iliotibial band syndrome is an overuse injury of runners and cyclists in which the tight band rubs over the lateral femoral epicondyle at about 30 degrees of flexion; Ober's test demonstrates ITB tightness. Jumper's knee is patellar tendinopathy and chondromalacia gives anterior knee pain.",
+  "key_note": "One copy had E (chondromalacia patellae) circled in pen; the paper key A is correct.",
+  "figure": "",
+  "qid": "7-7"
+ },
+ {
+  "cids": [
+   "C0575"
+  ],
+  "stem": "A sportsman complains of pain around his left elbow, with tenderness over the lateral epicondyle. This type of injury usually occurs in a:",
+  "options": {
+   "A": "Badminton player",
+   "B": "Basketball player",
+   "C": "Cricket player",
+   "D": "Hockey player",
+   "E": "Tennis player"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Lateral epicondylitis (tennis elbow) is a degenerative tendinopathy of the common extensor origin, especially extensor carpi radialis brevis, from repetitive wrist extension such as backhand strokes. Medial epicondylitis is golfer's elbow.",
+  "key_note": "",
+  "figure": "",
+  "qid": "7-8"
+ },
+ {
+  "cids": [
+   "C0600"
+  ],
+  "stem": "A middle-aged man has had a swelling over the posterior aspect of the right elbow for 3 years and is diagnosed with olecranon bursitis, which is also known as:",
+  "options": {
+   "A": "Clergyman's elbow",
+   "B": "Cricket elbow",
+   "C": "Golfer's elbow",
+   "D": "Student's elbow",
+   "E": "Tennis elbow"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Olecranon bursitis is called student's (or miner's) elbow from repeated leaning on the elbow. Clergyman's knee is infrapatellar bursitis and housemaid's knee is prepatellar bursitis.",
+  "key_note": "",
+  "figure": "",
+  "qid": "7-9"
+ },
+ {
+  "cids": [
+   "C0138"
+  ],
+  "stem": "A 16-year-old football player injures his ring finger while making a tackle. He cannot flex the distal interphalangeal joint of the ring finger. What is the most likely diagnosis?",
+  "options": {
+   "A": "Central slip rupture",
+   "B": "Distal extensor tendon rupture",
+   "C": "Flexor digitorum profundus avulsion",
+   "D": "Flexor digitorum superficialis avulsion",
+   "E": "Sagittal band rupture"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Jersey finger is avulsion of the FDP from the distal phalanx when a flexed finger is forcibly extended, typically the ring finger when grabbing a shirt; the DIP cannot be actively flexed. Early surgical reattachment is needed.",
+  "key_note": "",
+  "figure": "",
+  "qid": "7-10"
+ },
+ {
+  "cids": [
+   "C0133",
+   "C1289"
+  ],
+  "stem": "A 35-year-old man fell from 10 feet and has pain and swelling of the right ankle. X-rays show no fracture, only a soft tissue injury. What is the most appropriate management?",
+  "options": {
+   "A": "Open reduction and screw fixation",
+   "B": "Open reduction and fixation with anatomical plate",
+   "C": "Walking cast",
+   "D": "Conservative treatment",
+   "E": "Soft tissue repair"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "An ankle sprain without fracture is treated conservatively with rest, ice, compression and elevation, analgesia, early mobilisation and physiotherapy. Casting and surgery are for fractures or unstable ligament injuries.",
+  "key_note": "",
+  "figure": "",
+  "qid": "7-11"
+ },
+ {
+  "ncids": [
+   "K0289"
+  ],
+  "stem": "What is the most common injury in an ankle sprain?",
+  "options": {
+   "A": "Fracture of the base of the fifth metatarsal",
+   "B": "Deltoid ligament injury",
+   "C": "Ankle fracture",
+   "D": "Anterior talofibular ligament injury",
+   "E": "Triangular ligament injury at the ankle"
+  },
+  "answer": "D",
+  "explanation": "Most ankle sprains are inversion injuries, and the anterior talofibular ligament (the weakest part of the lateral ligament complex) is the first and most commonly torn.",
+  "key_note": "",
+  "_new": true,
+  "qid": "7-N1"
+ },
+ {
+  "ncids": [
+   "K0606"
+  ],
+  "stem": "A 30-year-old squash player feels as if he has been kicked in the heel and feels something give way while smashing. On examination there is a palpable gap in the lower third of the calf. What is the likely diagnosis?",
+  "options": {
+   "A": "Achilles tendon rupture",
+   "B": "Fracture of the lower third of the tibia",
+   "C": "Calcaneal fracture",
+   "D": "Tibial nerve injury",
+   "E": "Deep peroneal nerve injury"
+  },
+  "answer": "A",
+  "explanation": "The sensation of being kicked in the heel during push-off, with a palpable gap about 5 cm above the insertion, is classic for Achilles tendon rupture; Simmonds (Thompson) calf-squeeze test is positive.",
+  "key_note": "",
+  "_new": true,
+  "qid": "7-N2"
+ },
+ {
+  "ncids": [
+   "K0626"
+  ],
+  "stem": "A 20-year-old ballet dancer falls while dancing and presents with pain and mild swelling with redness around the left ankle. Ankle movements are restricted and painful. X-ray of the left ankle is normal. What is the most likely diagnosis?",
+  "options": {
+   "A": "Achilles tendon rupture",
+   "B": "Left ankle sprain",
+   "C": "Fracture of the left fibula",
+   "D": "Deep peroneal nerve injury",
+   "E": "Tibial nerve injury"
+  },
+  "answer": "B",
+  "explanation": "Pain, swelling and painful movement after a fall with a normal X-ray indicates a ligamentous (soft tissue) injury, i.e. an ankle sprain. There is no gap or loss of plantarflexion to suggest Achilles rupture.",
+  "key_note": "",
+  "_new": true,
+  "qid": "7-N3"
+ },
+ {
+  "ncids": [
+   "K0727"
+  ],
+  "stem": "The most common cause of shoulder pain is disease of the tendon of:",
+  "options": {
+   "A": "Supraspinatus",
+   "B": "Infraspinatus",
+   "C": "Teres major",
+   "D": "Biceps",
+   "E": "Teres minor"
+  },
+  "answer": "A",
+  "explanation": "Rotator cuff disease (impingement, tendinopathy and tears) is the commonest cause of shoulder pain, and the supraspinatus tendon, which passes under the coracoacromial arch, is most often affected.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "7-N4"
+ }
+]

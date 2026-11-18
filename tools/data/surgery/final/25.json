@@ -1,0 +1,393 @@
+[
+ {
+  "cids": [
+   "C0606"
+  ],
+  "stem": "A 6-month-old boy was born with hypospadias. This condition is due to failure in the development of which of the following?",
+  "options": {
+   "A": "Urogenital fold",
+   "B": "Mullerian system",
+   "C": "Genital tubercle",
+   "D": "Urachus",
+   "E": "Vitelline duct"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Hypospadias results from incomplete fusion of the urethral (urogenital) folds on the ventral surface of the penis, leaving the meatus proximal and ventral; the genital tubercle forms the glans and phallus, not the urethral tube.",
+  "key_note": "",
+  "figure": "",
+  "qid": "25-1"
+ },
+ {
+  "cids": [
+   "C0220"
+  ],
+  "stem": "A 2-month baby is brought in OPD for circumcision. When surgeon saw the urethral meatus, it was on ventral aspect of corona. Which disorder is this?",
+  "options": {
+   "A": "Coronal hypospadias",
+   "B": "Dorsal epispadias",
+   "C": "Glanular epispadias",
+   "D": "Normal meatus",
+   "E": "Penile hypospadias"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "A meatus on the ventral aspect at the corona is coronal hypospadias, a distal (anterior) type and one of the commonest; epispadias opens on the dorsum. Circumcision must be avoided as the foreskin is used for repair.",
+  "key_note": "",
+  "figure": "",
+  "qid": "25-2"
+ },
+ {
+  "cids": [
+   "C0508"
+  ],
+  "stem": "A non-Muslim uncircumcised child of 08 years of age was brought in emergency with c/o painful swelling of the glans penis for 02 hours. O/E the glans was swollen and tender with a retracted foreskin over the glans. What is the most likely diagnosis?",
+  "options": {
+   "A": "Balanitis xerotica obliterans",
+   "B": "Gonorrheal UTI",
+   "C": "Paraphimosis",
+   "D": "Phimosis",
+   "E": "Syphilis"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Paraphimosis is a retracted foreskin that cannot be returned over the glans, causing a constricting ring with painful swelling of the glans; phimosis is a non-retractile foreskin over the glans.",
+  "key_note": "The printed key of one paper marked D (Phimosis); correct is C: a retracted foreskin trapped behind the glans is paraphimosis.",
+  "figure": "",
+  "qid": "25-3"
+ },
+ {
+  "cids": [
+   "C0045"
+  ],
+  "stem": "A 24-year uncircumcised man has swollen, painful glans with the foreskin retracted behind the corona. The distal glans appears dusky. The best next step in management?",
+  "options": {
+   "A": "Topical steroids",
+   "B": "Manual reduction after analgesia",
+   "C": "Routine circumcision",
+   "D": "Oral antibiotics",
+   "E": "Incision and drainage"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Paraphimosis with a dusky glans is an emergency: manual reduction after analgesia/local block (with compression to reduce oedema) is first-line; dorsal slit is used if reduction fails, and circumcision is done electively later.",
+  "key_note": "",
+  "figure": "",
+  "qid": "25-4"
+ },
+ {
+  "cids": [
+   "C0051"
+  ],
+  "stem": "A 35-year man with sickle cell disease presented in ER has a rigid, painful erection for 6 hours. What is the best next step in management?",
+  "options": {
+   "A": "Oral pseudoephedrine",
+   "B": "Cavernosal aspiration",
+   "C": "PDE-5 inhibitor",
+   "D": "Cold packs and NSAIDs",
+   "E": "Hormonal therapy"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Ischaemic (low-flow) priapism in sickle cell disease lasting over 4 hours needs corporal aspiration (with irrigation and intracavernosal phenylephrine if needed) to prevent fibrosis and impotence; PDE-5 inhibitors would worsen it.",
+  "key_note": "",
+  "figure": "",
+  "qid": "25-5"
+ },
+ {
+  "cids": [
+   "C1410"
+  ],
+  "stem": "A 30-year-old man presents with difficulty urinating, a feeling of incomplete bladder emptying, and a weak urine stream. His symptoms have worsened over the past few months. Which of the following conditions should be suspected?",
+  "options": {
+   "A": "Bladder cancer",
+   "B": "Urethral stricture",
+   "C": "Benign prostatic hyperplasia",
+   "D": "Kidney stones",
+   "E": "Neurogenic bladder"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Obstructive voiding symptoms in a 30-year-old man suggest urethral stricture (post-infective, traumatic or iatrogenic); BPH is a disease of men over 50 and is very unlikely at 30.",
+  "key_note": "The paper and compiled key marked C (Benign prostatic hyperplasia); correct is B: at 30 years obstructive LUTS point to urethral stricture.",
+  "figure": "",
+  "qid": "25-6"
+ },
+ {
+  "cids": [
+   "C0513"
+  ],
+  "stem": "After a pelvic injury, a man develops recurrent episodes of urinary retention. Which statement regarding this condition is true?",
+  "options": {
+   "A": "It is more common in young female",
+   "B": "Micturating cystourethrogram is the investigation of choice",
+   "C": "The condition is best managed by TURP",
+   "D": "It predisposes to bladder carcinoma",
+   "E": "Presenting complaint is hematuria."
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Recurrent retention after pelvic injury indicates a posterior urethral stricture; its length and site are defined by contrast urethrography (retrograde urethrogram combined with micturating cystourethrogram). Treatment is urethrotomy or urethroplasty, not TURP.",
+  "key_note": "",
+  "figure": "",
+  "qid": "25-7"
+ },
+ {
+  "cids": [
+   "C0556"
+  ],
+  "stem": "A cyclist was run over by a tractor on his lower trunk. The commonest injury associated with fractured pelvis is:",
+  "options": {
+   "A": "Colonic injury",
+   "B": "Ruptured urethra",
+   "C": "Sciatic nerve injury",
+   "D": "Small gut tear",
+   "E": "Torn ureter"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Urethral (membranous/bulbomembranous) rupture is the classic visceral injury associated with pelvic fracture, along with bladder rupture.",
+  "key_note": "",
+  "figure": "",
+  "qid": "25-8"
+ },
+ {
+  "cids": [
+   "C0719"
+  ],
+  "stem": "An otherwise healthy, 30-year-old man is brought to the Emergency Department after being thrown off the back of a motorcycle. During the assessment, blood is noted at the urethral meatus. Which of the following statement is true?",
+  "options": {
+   "A": "A foley catheter should be inserted immediately.",
+   "B": "Dislocation of the sacroiliac joint is usually associated with fracture of the pubic ramus separation of the symphysis.",
+   "C": "Open lavage is a useful indication for the need to perform laparotomy.",
+   "D": "Fracture of the coccyx requires surgical excision in most patients.",
+   "E": "Pain is relieved on walking."
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "The pelvis is a ring, so it usually breaks in two places: sacroiliac disruption is usually accompanied by pubic rami fracture or symphysis diastasis. With blood at the meatus a Foley must not be passed blindly.",
+  "key_note": "Not marked in the source paper; answer by reviewer. Compiled key agrees.",
+  "figure": "",
+  "qid": "25-9"
+ },
+ {
+  "cids": [
+   "C0287"
+  ],
+  "stem": "A 16 years male presented to the emergency department with history of road traffic accident while riding a bicycle. On examination the patient is conscious and oriented pulse 100 bpm and blood pressure 110/70mmhg. There is blood at the meatus of urethra, what is the investigation of choice to diagnose urethral injury?",
+  "options": {
+   "A": "CT scan abdomen and pelvis with IV contrast",
+   "B": "Renal angiogram",
+   "C": "Renal scan",
+   "D": "Retrograde urethra-cystogram",
+   "E": "Ultrasound pelvis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A retrograde urethrogram (urethrocystogram) is the investigation of choice for suspected urethral injury and must precede any attempt at catheterisation.",
+  "key_note": "Not marked in the source paper; answer by reviewer. Compiled key agrees.",
+  "figure": "",
+  "qid": "25-10"
+ },
+ {
+  "cids": [
+   "C1512"
+  ],
+  "stem": "An 80-years-old male is brought to the ER after being involved in a road traffic accident. His pulse is 110/min, BP 100/60 mmHg. There is bleeding per-urethrum and he is unable to pass urine. What is the most important step in his initial management?",
+  "options": {
+   "A": "Apply a pelvic binder",
+   "B": "Pass a Foley catheter",
+   "C": "Start ringer lactate infusion",
+   "D": "Give analgesics",
+   "E": "Start antibiotics"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Hypotension and tachycardia after RTA with signs of urethral injury suggest a pelvic fracture with haemorrhage: a pelvic binder closes the pelvic volume and controls bleeding as part of circulation in the primary survey. A Foley catheter is contraindicated with blood at the meatus.",
+  "key_note": "",
+  "figure": "",
+  "qid": "25-11"
+ },
+ {
+  "cids": [
+   "C0043"
+  ],
+  "stem": "A 28-year after motor vehicle accident with pelvic fracture has blood at the meatus, inability to void, and high-riding prostate. What is the next step in emergency?",
+  "options": {
+   "A": "Insert Foley catheter gently",
+   "B": "Suprapubic cystostomy",
+   "C": "Immediate Transurethral resection of prostate",
+   "D": "CT urography",
+   "E": "Give diuretics and observe"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Blood at the meatus, inability to void and a high-riding prostate indicate posterior urethral rupture: avoid urethral catheterisation (it may convert a partial to a complete tear) and drain the bladder with a suprapubic cystostomy.",
+  "key_note": "",
+  "figure": "",
+  "qid": "25-12"
+ },
+ {
+  "cids": [
+   "C0433"
+  ],
+  "stem": "A 40 year old male underwent pelvic fracture due to road traffic accident, posterior urethral injury was suspected and confirmed on urethrogram; regarding the treatment, deferred for 03 months because,",
+  "options": {
+   "A": "For patient to void normally",
+   "B": "For urethral ends get closed",
+   "C": "For edema and hematoma get resolved",
+   "D": "Patient wants to continue medical treatment",
+   "E": "Needs Foleys catheterization"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "After posterior urethral disruption, definitive urethroplasty is deferred about 3 months (with suprapubic drainage meanwhile) so that the pelvic haematoma and oedema resolve and scar stabilises, allowing a tension-free repair.",
+  "key_note": "",
+  "figure": "",
+  "qid": "25-13"
+ },
+ {
+  "ncids": [
+   "K0557"
+  ],
+  "stem": "A man with a known urethral stricture develops pain and fever. He is advised investigation to define the level and length of the stricture. Which is the first and most useful diagnostic investigation?",
+  "options": {
+   "A": "Intravenous urogram",
+   "B": "CT scan KUB",
+   "C": "Retrograde urethrogram",
+   "D": "Cystourethroscopy",
+   "E": "X-ray KUB"
+  },
+  "answer": "C",
+  "explanation": "A retrograde urethrogram (combined with MCUG when needed) shows the site, length and number of strictures and guides the choice between urethrotomy and urethroplasty. Cystourethroscopy shows only the distal face of the stricture.",
+  "key_note": "",
+  "_new": true,
+  "qid": "25-N1"
+ },
+ {
+  "ncids": [
+   "K0564"
+  ],
+  "stem": "A boy with a history of passing stones several times presents with right loin-to-groin pain followed by severe urethral pain. On examination the bladder is palpable and a stone is impacted at the external urethral meatus. What is the definitive management?",
+  "options": {
+   "A": "Suprapubic catheterisation for urinary retention",
+   "B": "Break the stone at the meatus and remove it piecemeal",
+   "C": "Pass a Foley catheter per urethra",
+   "D": "Meatotomy and stone removal",
+   "E": "Dilate the urethra and let the stone pass by itself"
+  },
+  "answer": "D",
+  "explanation": "A stone impacted at the narrow external meatus is removed through a small ventral meatotomy, which relieves the retention at the same time. Pushing a catheter past it or crushing it in situ risks urethral injury.",
+  "key_note": "",
+  "_new": true,
+  "qid": "25-N2"
+ },
+ {
+  "ncids": [
+   "K0618"
+  ],
+  "stem": "Which of the following is NOT an indication for circumcision?",
+  "options": {
+   "A": "Phimosis",
+   "B": "Recurrent balanoposthitis",
+   "C": "Religious tradition",
+   "D": "Recurrent urinary tract infections",
+   "E": "Hypospadias"
+  },
+  "answer": "E",
+  "explanation": "Hypospadias is a contraindication to circumcision because the preputial skin is used for later urethroplasty. Phimosis, recurrent balanoposthitis, recurrent UTI (especially with anomalies) and religious reasons are accepted indications.",
+  "key_note": "",
+  "_new": true,
+  "qid": "25-N3"
+ },
+ {
+  "ncids": [
+   "K0830"
+  ],
+  "stem": "Which is the main neurotransmitter mediating vasodilatation of the penile blood vessels during erection?",
+  "options": {
+   "A": "Serotonin",
+   "B": "Dopamine",
+   "C": "Noradrenaline",
+   "D": "Nitric oxide",
+   "E": "Adrenaline"
+  },
+  "answer": "D",
+  "explanation": "Parasympathetic (nitrergic) nerves and endothelium release nitric oxide, which raises cGMP in cavernosal smooth muscle causing relaxation and erection. PDE-5 inhibitors work by preventing cGMP breakdown. Noradrenaline maintains flaccidity.",
+  "key_note": "",
+  "_new": true,
+  "qid": "25-N4"
+ },
+ {
+  "ncids": [
+   "K1146"
+  ],
+  "stem": "A 20-year-old man falls astride a sharp object in the street and sustains perineal trauma. Which part of the urethra is most likely injured?",
+  "options": {
+   "A": "Navicular fossa",
+   "B": "Anterior (bulbar) urethra",
+   "C": "Membranous urethra",
+   "D": "Prostatic urethra",
+   "E": "Penile urethra"
+  },
+  "answer": "B",
+  "explanation": "A straddle injury crushes the bulbar part of the anterior urethra against the inferior pubic arch. The membranous (posterior) urethra is injured with pelvic fractures.",
+  "key_note": "",
+  "_new": true,
+  "qid": "25-N5"
+ },
+ {
+  "ncids": [
+   "K1149"
+  ],
+  "stem": "A man is a known case of urethral stricture. Which is the best palliative (non-curative) treatment?",
+  "options": {
+   "A": "Laser ablation",
+   "B": "Observation",
+   "C": "Optical internal urethrotomy",
+   "D": "Urethroplasty",
+   "E": "Urethral dilatation"
+  },
+  "answer": "C",
+  "explanation": "Optical internal urethrotomy under vision is the preferred first-line minimally invasive treatment for a short stricture, but like dilatation it is palliative with high recurrence. Urethroplasty is the curative option.",
+  "key_note": "",
+  "_new": true,
+  "qid": "25-N6"
+ },
+ {
+  "ncids": [
+   "K1157"
+  ],
+  "stem": "A young man has gonococcal urethritis. What is the most common complication of this infection?",
+  "options": {
+   "A": "Epididymitis",
+   "B": "Infertility",
+   "C": "Prostatitis",
+   "D": "Urethral stricture",
+   "E": "Orchitis"
+  },
+  "answer": "A",
+  "explanation": "Epididymitis is the commonest local complication of gonococcal urethritis in men; infertility can follow bilateral epididymitis. Urethral stricture is a late complication that was common in the pre-antibiotic era but is now uncommon.",
+  "key_note": "Bank marked D; correct is A because epididymitis is the most frequent complication of gonococcal urethritis, while stricture is a late and now uncommon sequel.",
+  "_new": true,
+  "qid": "25-N7"
+ },
+ {
+  "ncids": [
+   "K1707"
+  ],
+  "stem": "All of the following are causes of urethral stricture EXCEPT:",
+  "options": {
+   "A": "Perineal trauma",
+   "B": "Urethral infections",
+   "C": "Retroperitoneal fibrosis",
+   "D": "Congenital anomalies",
+   "E": "Long-standing urethral catheterisation"
+  },
+  "answer": "C",
+  "explanation": "Urethral strictures are traumatic, inflammatory (gonococcal, catheter-related), iatrogenic or congenital. Retroperitoneal fibrosis encases the ureters and causes ureteric, not urethral, obstruction.",
+  "key_note": "",
+  "_new": true,
+  "qid": "25-N8"
+ }
+]

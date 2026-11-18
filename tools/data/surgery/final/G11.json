@@ -1,0 +1,818 @@
+[
+ {
+  "cids": [
+   "C0469"
+  ],
+  "stem": "What is the most important risk of exposure to ionizing radiation?",
+  "options": {
+   "A": "Induction of malignancy",
+   "B": "Alopecia",
+   "C": "Cataracts",
+   "D": "Diarrhea",
+   "E": "Skin irritation"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "The most important (stochastic) risk of ionising radiation is induction of malignancy, which has no threshold dose and is why exposure is kept as low as reasonably achievable. Cataract, alopecia, skin reactions and diarrhoea are deterministic effects that need a threshold dose.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G11-1"
+ },
+ {
+  "cids": [
+   "C1026"
+  ],
+  "stem": "Which of the following most accurately represents the average speed at which ultrasound waves move through the human body?",
+  "options": {
+   "A": "350 m/s",
+   "B": "2000 m/s",
+   "C": "500 cm/s",
+   "D": "1540 m/s",
+   "E": "2500 m/s"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "The average speed of sound in soft tissue is taken as 1540 m/s, and ultrasound machines use this value to convert echo return time into depth.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G11-2"
+ },
+ {
+  "cids": [
+   "C1178"
+  ],
+  "stem": "Ultrasound is the first line investigation to detect pathologies in:",
+  "options": {
+   "A": "Liver",
+   "B": "Biliary tree",
+   "C": "Kidney",
+   "D": "uterus",
+   "E": "All of above"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Ultrasound is cheap, portable, radiation-free and very sensitive for liver lesions, gallstones and duct dilatation, renal masses and hydronephrosis, and pelvic (uterine) pathology, so it is first line for all of these.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "G11-3"
+ },
+ {
+  "cids": [
+   "C1027"
+  ],
+  "stem": "Which of the following is not a sonographic characteristic of an inflamed gallbladder?",
+  "options": {
+   "A": "Gallbladder distention",
+   "B": "Pericholecystic fluid",
+   "C": "Wall thickness of 2 mm",
+   "D": "Sonographic Murphy's sign",
+   "E": "Gallstones"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A normal gallbladder wall is under 3 mm thick, so a 2 mm wall is normal and not a sign of inflammation. Sonographic features of acute cholecystitis are gallstones (often impacted in the neck), wall thickening over 3 mm, distension, pericholecystic fluid and a positive sonographic Murphy's sign.",
+  "key_note": "Paper key marked E (gallstones); correct is C: gallstones are present in about 90% of acute cholecystitis, whereas a 2 mm wall is normal.",
+  "figure": "",
+  "qid": "G11-4"
+ },
+ {
+  "cids": [
+   "C1028"
+  ],
+  "stem": "Which of the following findings is consistent with perforated acute appendicitis?",
+  "options": {
+   "A": "External diameter > 4 cm",
+   "B": "Compressible cecum",
+   "C": "Asymmetric appendiceal thickening",
+   "D": "Fluid within the lumen of the appendix",
+   "E": "Appendicolith"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Ultrasound features suggesting perforation are asymmetric wall thickening with loss of the echogenic submucosal layer, periappendiceal or loculated pelvic fluid collections and an extraluminal appendicolith. Fluid distending the lumen and an appendicolith are features of (non-perforated) obstructed appendicitis.",
+  "key_note": "Paper key marked D (fluid within the lumen); correct is C: a fluid-filled distended lumen indicates an obstructed, still intact appendix, whereas asymmetric thickening indicates perforation.",
+  "figure": "",
+  "qid": "G11-5"
+ },
+ {
+  "cids": [
+   "C1314"
+  ],
+  "stem": "A patient presented with history of cough and purulent sputum. There is a positive family history of Tuberculosis in the family. Which is the initial investigation of choice?",
+  "options": {
+   "A": "Ultrasound",
+   "B": "Chest X-ray",
+   "C": "CT scan of the chest",
+   "D": "MRI",
+   "E": "None"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "A chest X-ray is the first-line, cheap and widely available investigation for suspected pulmonary tuberculosis or other lung infection, followed by sputum smear, GeneXpert and culture; CT is reserved for problem solving.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G11-6"
+ },
+ {
+  "cids": [
+   "C1340"
+  ],
+  "stem": "A 32 years male presented with history of a road traffic accident. On exposing he has respiratory distress and an obvious steering wheel injury. Which radiographic view is best for evaluating the mediastinum?",
+  "options": {
+   "A": "PA chest",
+   "B": "Lateral chest",
+   "C": "AP chest",
+   "D": "Decubitus chest",
+   "E": "Lordotic chest"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "An erect PA chest film gives the most accurate assessment of mediastinal width and contour; the supine AP film used in trauma magnifies and widens the mediastinum, giving false positives. In practice a widened mediastinum on a trauma film is followed by CT angiography.",
+  "key_note": "The compiled key gives B (lateral chest); the paper key A is retained: the PA view is the standard for assessing mediastinal width, with the lateral view only complementary.",
+  "figure": "",
+  "qid": "G11-7"
+ },
+ {
+  "cids": [
+   "C1346"
+  ],
+  "stem": "Which of the following is a contraindication for contrast-enhanced CT?",
+  "options": {
+   "A": "History of abdominal surgery",
+   "B": "History of radiation exposure",
+   "C": "Renal insufficiency",
+   "D": "Hepatic insufficiency",
+   "E": "Financial constraint"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Iodinated contrast can cause contrast-induced nephropathy, so renal insufficiency is the main (relative) contraindication; check creatinine/eGFR, hydrate and consider non-contrast imaging. Previous contrast allergy is the other important contraindication.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G11-8"
+ },
+ {
+  "cids": [
+   "C1231"
+  ],
+  "stem": "Which of the following is true regarding Magnetic resonance imaging?",
+  "options": {
+   "A": "It has excellent contrast resolution without any radiation exposure",
+   "B": "It is widely available and cheap",
+   "C": "MRI is based on the same principle as X-rays",
+   "D": "Patients who are claustrophobic or unable to remain calm can be easily imaged using MRI",
+   "E": "Metallic implants are better visualized in MRI"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "MRI gives excellent soft tissue contrast resolution using magnetic fields and radiofrequency pulses, with no ionising radiation. It is expensive, less available, unsuitable for claustrophobic or uncooperative patients, and ferromagnetic implants are hazardous and cause artefact.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "G11-9"
+ },
+ {
+  "cids": [
+   "C1341"
+  ],
+  "stem": "Which of the following is NOT a contraindication for MRI?",
+  "options": {
+   "A": "Pacemaker",
+   "B": "Metal fragments",
+   "C": "Claustrophobia",
+   "D": "Dental implants and dentures",
+   "E": "Plastic braces"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Plastic braces contain no ferromagnetic material and are not a contraindication to MRI (fixed titanium dental implants are also generally MRI-safe; removable dentures are simply taken out). Pacemakers and metal fragments (especially intraocular) are contraindications, and claustrophobia is a relative contraindication that may need sedation or an open scanner.",
+  "key_note": "Paper key marked C (claustrophobia); correct is E: claustrophobia is a relative contraindication, whereas plastic braces are not a contraindication at all.",
+  "figure": "",
+  "qid": "G11-10"
+ },
+ {
+  "cids": [
+   "C0105"
+  ],
+  "stem": "A 40-year-old patient has a family history of colonic cancer. A contrast study is planned to visualise the colon. Which contrast will be used in this patient?",
+  "options": {
+   "A": "Iodine",
+   "B": "Gastrografin",
+   "C": "Barium",
+   "D": "Gadolinium",
+   "E": "Saline"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Barium sulphate is the standard contrast for a double contrast barium enema to visualise the colonic mucosa. Water-soluble contrast (Gastrografin) is used instead only when perforation or leak is suspected, because barium in the peritoneum causes severe peritonitis.",
+  "key_note": "One solved copy marked B (Gastrografin), with a note of low confidence; correct is C: barium is the contrast for routine colonic imaging.",
+  "figure": "",
+  "qid": "G11-11"
+ },
+ {
+  "cids": [
+   "C1229"
+  ],
+  "stem": "While comparing Colonoscopy with barium enema which of the following differences has caused a shift towards Colonoscopy in Surgical practice?",
+  "options": {
+   "A": "Barium enema is easy to perform as compared to Colonoscopy",
+   "B": "Chances of missing a lesion are the same in Barium enema and colonoscopy",
+   "C": "Barium enema and colonoscopy both are easy to interpret",
+   "D": "Direct visualization and tissue diagnosis is not possible with barium enema",
+   "E": "Colonoscopy is more comfortable for the patient than barium enema"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Colonoscopy has replaced barium enema as first-line colonic investigation mainly because it allows direct visualisation, biopsy for tissue diagnosis and therapeutic polypectomy; barium enema is purely diagnostic and misses small lesions.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "G11-12"
+ },
+ {
+  "cids": [
+   "C1350"
+  ],
+  "stem": "What is the primary indication for upper endoscopy?",
+  "options": {
+   "A": "Gastroesophageal reflux disease",
+   "B": "Peptic ulcer disease",
+   "C": "Dysphagia",
+   "D": "Abdominal pain",
+   "E": "All of the above"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Upper GI endoscopy is indicated for reflux symptoms not responding to treatment, peptic ulcer disease, dysphagia and dyspepsia/upper abdominal pain (especially with alarm features), as well as upper GI bleeding.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G11-13"
+ },
+ {
+  "cids": [
+   "C1230"
+  ],
+  "stem": "While assisting your consultant in the endoscopy suite, you are quizzed about the extent of visualization of GI tract by Upper GI endoscopy?",
+  "options": {
+   "A": "It is only able to visualize up to the pyloric sphincter",
+   "B": "It can only visualize the upper part of stomach and esophagus",
+   "C": "The 2nd part of the duodenum is the most common extent of visualization",
+   "D": "It is able to visualize the GI tract beyond the ligament of Treitz",
+   "E": "Proximal Ileum can be easily visualized"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A standard gastroscope (OGD) routinely examines the oesophagus, stomach and duodenum to the second part (D2); seeing beyond the ligament of Treitz needs enteroscopy or capsule endoscopy.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G11-14"
+ },
+ {
+  "cids": [
+   "C1023"
+  ],
+  "stem": "A major disadvantage of a flexible fiberoptic endoscope is:",
+  "options": {
+   "A": "Loops in the scope",
+   "B": "Image quality",
+   "C": "Size of the scope",
+   "D": "Fragility of the fibers",
+   "E": "Inadequate scope length"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "The glass fibre bundles of a fibreoptic endoscope are fragile and break with bending and handling, producing black dots in the image; this is a major reason video (chip-tip) endoscopes have replaced them.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G11-15"
+ },
+ {
+  "cids": [
+   "C1024"
+  ],
+  "stem": "A 78-year-old male underwent EGD for evaluation of dysphagia. Endoscope insertion was difficult, and post procedure, the surgeon is concerned about perforation. Which of the following is an early sign of possible perforation?",
+  "options": {
+   "A": "Chest wall rigidity",
+   "B": "Hypotension",
+   "C": "Hypoxia",
+   "D": "Neck stiffness",
+   "E": "Cervical crepitus"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "After a difficult oesophagoscopy, neck pain with cervical surgical emphysema (crepitus) is an early sign of cervical oesophageal perforation; confirm with a water-soluble contrast swallow or CT. Hypotension and hypoxia are late signs of established mediastinitis and sepsis.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G11-16"
+ },
+ {
+  "cids": [
+   "C1025"
+  ],
+  "stem": "During an EGD for acute upper GI bleeding, active bleeding from a visible vessel was identified. Vessels up to what size are typically controlled by coaptive thermal techniques?",
+  "options": {
+   "A": "1 mm",
+   "B": "1.5 mm",
+   "C": "2 mm",
+   "D": "2.5 mm",
+   "E": "3 mm"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Coaptive coagulation (heater probe or bipolar probe pressed firmly on the vessel before applying heat) reliably seals arteries up to about 2 mm in diameter, which covers most visible vessels in ulcer bases.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G11-17"
+ },
+ {
+  "cids": [
+   "C0468"
+  ],
+  "stem": "A patient underwent minimal invasive surgery. What site can be used for NOTES?",
+  "options": {
+   "A": "Umbilicus",
+   "B": "Nose",
+   "C": "Urethra",
+   "D": "Vagina",
+   "E": "Throat"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "NOTES (natural orifice transluminal endoscopic surgery) reaches the peritoneal cavity through a natural orifice: transvaginal (most used clinically, e.g. cholecystectomy), transgastric via the mouth, transrectal or transvesical. The umbilicus is not a natural orifice; umbilical access is single-incision laparoscopic surgery.",
+  "key_note": "Paper key marked A (umbilicus); correct is D: the umbilicus is used for single-incision laparoscopy, not NOTES, and transvaginal is the commonest NOTES route.",
+  "figure": "",
+  "qid": "G11-18"
+ },
+ {
+  "cids": [
+   "C1020"
+  ],
+  "stem": "Which of the following is not a characteristic of carbon dioxide (CO2) as an insufflation gas?",
+  "options": {
+   "A": "Rapidly absorbed",
+   "B": "Relatively inexpensive",
+   "C": "Negligible physiologic consequences",
+   "D": "Low risk of gas embolism",
+   "E": "Readily available"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "CO2 is used for pneumoperitoneum because it is cheap, readily available, non-combustible and highly soluble (rapidly absorbed), so the risk of gas embolism is low. Its absorption, however, causes hypercarbia and respiratory acidosis, and the raised pressure affects ventilation and venous return, so its physiological consequences are not negligible.",
+  "key_note": "Paper key marked D (low risk of gas embolism); correct is C: CO2 does have a low embolism risk because of its solubility, but it has definite physiological effects (hypercarbia, acidosis).",
+  "figure": "",
+  "qid": "G11-19"
+ },
+ {
+  "cids": [
+   "C1021"
+  ],
+  "stem": "Which of the following conditions represents a contraindication to advanced laparoscopic operations?",
+  "options": {
+   "A": "Pregnancy",
+   "B": "Morbid obesity",
+   "C": "Contraindication to general anesthesia",
+   "D": "Previous laparotomy",
+   "E": "Cirrhosis"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "The only absolute contraindication to advanced laparoscopy is inability to tolerate general anaesthesia (and the pneumoperitoneum). Pregnancy, morbid obesity, previous laparotomy and cirrhosis are relative contraindications that call for modified technique.",
+  "key_note": "Paper key marked D (previous laparotomy); correct is C: previous surgery is only a relative contraindication, managed by open (Hasson) entry away from scars.",
+  "figure": "",
+  "qid": "G11-20"
+ },
+ {
+  "cids": [
+   "C1022"
+  ],
+  "stem": "Which of the following does not routinely increase during laparoscopic surgery?",
+  "options": {
+   "A": "Airway pressure",
+   "B": "Pulmonary capillary wedge pressure",
+   "C": "Vital capacity",
+   "D": "Diaphragmatic excursion",
+   "E": "Intrathoracic pressure."
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Pneumoperitoneum pushes the diaphragm up, raising airway pressure, intrathoracic pressure and filling pressures (CVP, PCWP), while lung volumes fall: vital capacity and FRC decrease and diaphragmatic excursion is reduced.",
+  "key_note": "Paper key marked B (PCWP); correct is C: PCWP rises with pneumoperitoneum; note the question is flawed as diaphragmatic excursion (D) also does not increase.",
+  "figure": "",
+  "qid": "G11-21"
+ },
+ {
+  "cids": [
+   "C1029"
+  ],
+  "stem": "Using the \"pure cut\" function on a monopolar instrument results in tissue:",
+  "options": {
+   "A": "Desiccation",
+   "B": "Vaporization",
+   "C": "Fulguration",
+   "D": "Ablation",
+   "E": "Coagulation"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Pure cut uses a continuous low-voltage waveform that heats cells so fast that intracellular water boils and the cells vaporise, cutting with little coagulation. Coagulation (fulguration) uses an interrupted high-voltage waveform; desiccation is contact coagulation.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G11-22"
+ },
+ {
+  "cids": [
+   "C1030"
+  ],
+  "stem": "Monopolar instruments have:",
+  "options": {
+   "A": "Only a dispersive electrode",
+   "B": "Only an active electrode",
+   "C": "Two active and one dispersive electrode",
+   "D": "Both an active and a dispersive electrode, with a separate \"grounding pad\"",
+   "E": "Both an active and a dispersive electrode, in which the \"grounding pad\" is the dispersive electrode"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "In monopolar electrosurgery current passes from the small active electrode (the instrument) through the patient to the large dispersive electrode, which is the patient return (grounding) pad. Bipolar has both electrodes in the instrument jaws.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G11-23"
+ },
+ {
+  "cids": [
+   "C1031"
+  ],
+  "stem": "With regard to bipolar and monopolar devices:",
+  "options": {
+   "A": "Both use direct current (DC)",
+   "B": "Both use alternating current (AC)",
+   "C": "Bipolar uses AC, while monopolar uses DC",
+   "D": "Bipolar uses DC, while monopolar uses AC",
+   "E": "Neither requires an electrosurgical unit (ESU)"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Both monopolar and bipolar electrosurgery use high-frequency (radiofrequency, about 300 kHz to 3 MHz) alternating current from an electrosurgical unit; the high frequency avoids nerve and muscle stimulation. They differ only in the current path.",
+  "key_note": "Paper key marked C (bipolar AC, monopolar DC); correct is B: both use high-frequency AC, and direct current is not used in electrosurgery.",
+  "figure": "",
+  "qid": "G11-24"
+ },
+ {
+  "cids": [
+   "C1032"
+  ],
+  "stem": "Electromagnetic interference is a concern for patients with pacemakers when using energy devices. Of the following, which device would not generate any electromagnetic interference?",
+  "options": {
+   "A": "Monopolar electrosurgical device",
+   "B": "Monopolar endoscopic device",
+   "C": "Radiofrequency ablation (RFA)",
+   "D": "Ultrasonic device",
+   "E": "Bipolar electrosurgical device"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Ultrasonic devices (harmonic scalpel) cut and coagulate by mechanical vibration at about 55 kHz, with no electrical current passing through the patient, so they do not cause electromagnetic interference with pacemakers. Bipolar causes less interference than monopolar but still some.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G11-25"
+ },
+ {
+  "cids": [
+   "C0878"
+  ],
+  "stem": "A foleys catheter is designed to be use for?",
+  "options": {
+   "A": "Intravenous nutrition.",
+   "B": "Ureteric catheterization.",
+   "C": "Removing blood clot from arteries.",
+   "D": "Arteriography.",
+   "E": "Draining the bladder."
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "The Foley catheter is a self-retaining (balloon) catheter designed for urethral drainage of the bladder. Arterial clots are removed with a Fogarty balloon catheter.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G11-26"
+ },
+ {
+  "ncids": [
+   "K0017"
+  ],
+  "stem": "A 30-year-old woman with gallstones undergoes laparoscopic cholecystectomy. Which of the following is an advantage of minimal access surgery?",
+  "options": {
+   "A": "Good tactile feedback",
+   "B": "Decreased wound size",
+   "C": "Use of methane gas for insufflation",
+   "D": "Lower cost of the procedure",
+   "E": "Increased postoperative pain"
+  },
+  "answer": "B",
+  "explanation": "Minimal access surgery reduces wound size, giving less pain, better cosmesis, fewer wound complications and faster recovery. Loss of tactile feedback and higher equipment cost are disadvantages, and CO2 (not methane) is used.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G11-N1"
+ },
+ {
+  "ncids": [
+   "K0068"
+  ],
+  "stem": "Which metal is used in the walls of an X-ray room for radiation protection?",
+  "options": {
+   "A": "Copper",
+   "B": "Iron",
+   "C": "Lead",
+   "D": "Silver",
+   "E": "Steel"
+  },
+  "answer": "C",
+  "explanation": "Lead is dense with a high atomic number, so it efficiently attenuates X-rays; it lines X-ray room walls, doors and protective aprons.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G11-N2"
+ },
+ {
+  "ncids": [
+   "K0103"
+  ],
+  "stem": "Which fluoroscopic contrast study is done to assess the stomach?",
+  "options": {
+   "A": "Barium swallow",
+   "B": "Barium enema",
+   "C": "Barium follow-through",
+   "D": "Barium meal",
+   "E": "Gastrografin swallow"
+  },
+  "answer": "D",
+  "explanation": "A barium meal outlines the stomach and duodenum. A swallow images the oesophagus, a follow-through the small bowel and an enema the colon.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G11-N3"
+ },
+ {
+  "ncids": [
+   "K0104"
+  ],
+  "stem": "A 35-year-old woman is being investigated for anaemia. After normal upper and lower GI endoscopy, the physician decides to examine the small intestine. Which of the following is the investigation of choice among these?",
+  "options": {
+   "A": "Barium enema",
+   "B": "Barium follow-through",
+   "C": "Computed tomography",
+   "D": "Magnetic resonance imaging",
+   "E": "Barium swallow"
+  },
+  "answer": "B",
+  "explanation": "A barium follow-through images the small bowel mucosa, the area not reached by gastroscopy or colonoscopy. In modern practice capsule endoscopy or CT/MR enterography is often preferred, but neither is offered as such here.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G11-N4"
+ },
+ {
+  "ncids": [
+   "K0118"
+  ],
+  "stem": "MRI is contraindicated if the patient has a:",
+  "options": {
+   "A": "Fever",
+   "B": "Cardiac pacemaker",
+   "C": "Plaster of Paris cast",
+   "D": "Leg oedema",
+   "E": "Chest drain"
+  },
+  "answer": "B",
+  "explanation": "The strong magnetic field can dislodge or malfunction a conventional cardiac pacemaker, so it is a classic contraindication (MRI-conditional devices excepted).",
+  "key_note": "",
+  "_new": true,
+  "qid": "G11-N5"
+ },
+ {
+  "ncids": [
+   "K0119"
+  ],
+  "stem": "Intravenous urography should not be done if the patient has:",
+  "options": {
+   "A": "Tachycardia",
+   "B": "Jaundice",
+   "C": "Renal failure",
+   "D": "Haematuria",
+   "E": "Cough"
+  },
+  "answer": "C",
+  "explanation": "Iodinated contrast is nephrotoxic and a failing kidney cannot concentrate it, giving poor images and risking contrast-induced nephropathy. Haematuria is an indication for IVU, not a contraindication.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G11-N6"
+ },
+ {
+  "ncids": [
+   "K0120"
+  ],
+  "stem": "In laparoscopic surgery, the gas used to create a pneumoperitoneum is:",
+  "options": {
+   "A": "Carbon dioxide",
+   "B": "Helium",
+   "C": "Hydrogen",
+   "D": "Nitrous oxide",
+   "E": "Oxygen"
+  },
+  "answer": "A",
+  "explanation": "CO2 is cheap, non-flammable and highly soluble, so it is rapidly absorbed and the risk of gas embolism is low. Oxygen and hydrogen support combustion and are unsafe with diathermy.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G11-N7"
+ },
+ {
+  "ncids": [
+   "K0632"
+  ],
+  "stem": "A patient presents with an acute abdomen. Which of the following investigations should be advised first?",
+  "options": {
+   "A": "Plain X-ray abdomen",
+   "B": "Barium meal",
+   "C": "CT scan",
+   "D": "Laparoscopy"
+  },
+  "answer": "A",
+  "explanation": "Plain radiographs (erect chest and abdomen) are quick, cheap first-line tests showing free gas, obstruction or calcification. Barium is contraindicated if perforation is possible, and CT follows when needed.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "G11-N8"
+ },
+ {
+  "ncids": [
+   "K0866"
+  ],
+  "stem": "The working length of the instrument used for upper GI endoscopy is about:",
+  "options": {
+   "A": "30 cm",
+   "B": "40 cm",
+   "C": "80 cm",
+   "D": "100 cm",
+   "E": "120 cm"
+  },
+  "answer": "D",
+  "explanation": "A standard gastroscope has a working length of about 100 to 110 cm, enough to reach the second part of the duodenum. Colonoscopes are longer (about 130 to 170 cm).",
+  "key_note": "One copy not marked; the other marked E (120 cm); correct is D because a standard gastroscope is about 100 cm long, while 120 cm or more is colonoscope territory.",
+  "_new": true,
+  "qid": "G11-N9"
+ },
+ {
+  "ncids": [
+   "K0925"
+  ],
+  "stem": "A 35-year-old woman with epigastric pain is advised upper GI endoscopy. Which of the following is NOT a complication of routine upper GI endoscopy?",
+  "options": {
+   "A": "Perforation of the common bile duct",
+   "B": "Perforation of the duodenum",
+   "C": "Perforation of the oesophagus",
+   "D": "Perforation of the jejunum",
+   "E": "Perforation of the stomach"
+  },
+  "answer": "D",
+  "explanation": "A standard gastroscope reaches only the second part of the duodenum, so jejunal perforation does not occur. Oesophageal (commonest), gastric and duodenal perforations are recognised, and CBD injury can occur with ERCP.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G11-N10"
+ },
+ {
+  "ncids": [
+   "K0960"
+  ],
+  "stem": "SEMS stands for:",
+  "options": {
+   "A": "Surgical Emergency Medical Service",
+   "B": "Single Electrode Medical Stent",
+   "C": "Self-Expanding Metallic Stent",
+   "D": "Surgical Emergency Mobile Service",
+   "E": "Self-Expanding Malleable Stent"
+  },
+  "answer": "C",
+  "explanation": "Self-expanding metallic stents are deployed endoscopically or radiologically to palliate malignant obstruction of the oesophagus, colon, duodenum or bile duct.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G11-N11"
+ },
+ {
+  "ncids": [
+   "K0994"
+  ],
+  "stem": "Compared with a PA chest X-ray, the radiation dose from AP and lateral X-rays of the lumbosacral spine is more than:",
+  "options": {
+   "A": "Five times",
+   "B": "Fifteen times",
+   "C": "Ten times",
+   "D": "Twenty-five times",
+   "E": "Twenty times"
+  },
+  "answer": "D",
+  "explanation": "A PA chest film delivers about 0.02 mSv while a lumbar spine series delivers about 1 to 1.5 mSv, roughly 50 to 65 chest X-ray equivalents, so it is more than twenty-five times the chest dose.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G11-N12"
+ },
+ {
+  "ncids": [
+   "K1183"
+  ],
+  "stem": "A Fogarty catheter is used for:",
+  "options": {
+   "A": "Intravenous nutrition",
+   "B": "Ureteric catheterisation",
+   "C": "Arteriography",
+   "D": "Urinary retention",
+   "E": "Removing arterial blood clots"
+  },
+  "answer": "E",
+  "explanation": "The Fogarty balloon catheter is passed beyond an arterial embolus, inflated and withdrawn to extract the clot (embolectomy). A Foley catheter drains the bladder.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G11-N13"
+ },
+ {
+  "ncids": [
+   "K1230"
+  ],
+  "stem": "ERCP is not possible in a patient who has:",
+  "options": {
+   "A": "Duodenal obstruction",
+   "B": "Jejunal obstruction",
+   "C": "Ileal obstruction",
+   "D": "Colonic obstruction",
+   "E": "Rectal obstruction"
+  },
+  "answer": "A",
+  "explanation": "The duodenoscope must reach the ampulla in the second part of the duodenum; an obstructing duodenal lesion prevents access. Obstruction distal to the ampulla does not.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G11-N14"
+ },
+ {
+  "ncids": [
+   "K1457"
+  ],
+  "stem": "A Veress needle is used during:",
+  "options": {
+   "A": "Burr hole",
+   "B": "Cystostomy",
+   "C": "Chest intubation",
+   "D": "Laparoscopy",
+   "E": "Epidural anaesthesia"
+  },
+  "answer": "D",
+  "explanation": "The Veress needle has a spring-loaded blunt stylet that retracts on entering the peritoneum; it is used for closed creation of the pneumoperitoneum in laparoscopy.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G11-N15"
+ },
+ {
+  "ncids": [
+   "K1725"
+  ],
+  "stem": "The ideal first test to detect free air under the diaphragm is:",
+  "options": {
+   "A": "Erect chest X-ray",
+   "B": "Erect abdominal X-ray",
+   "C": "CT scan abdomen",
+   "D": "Supine abdominal X-ray"
+  },
+  "answer": "A",
+  "explanation": "An erect chest X-ray (patient upright for about 10 minutes) can show as little as 1 to 2 mL of free gas under the domes of the diaphragm. CT is more sensitive but is not the first test.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G11-N16"
+ },
+ {
+  "ncids": [
+   "K0069"
+  ],
+  "stem": "Which of the following is the gold standard imaging for diagnosis of pelvic pathology?",
+  "options": {
+   "A": "Bone scan",
+   "B": "Computed tomography",
+   "C": "Contrast studies",
+   "D": "Magnetic resonance imaging",
+   "E": "X-ray pelvis"
+  },
+  "answer": "D",
+  "explanation": "MRI gives the best soft-tissue contrast for pelvic organs (rectum, prostate, uterus, bladder) and is the imaging of choice for local pelvic staging; CT is better for distant staging.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G11-N17"
+ },
+ {
+  "ncids": [
+   "K0127"
+  ],
+  "stem": "Which one of the following is the most radiosensitive tumour?",
+  "options": {
+   "A": "Neuroblastoma",
+   "B": "Renal cell carcinoma",
+   "C": "Gastric carcinoma",
+   "D": "Germ cell tumour (seminoma)",
+   "E": "Leiomyosarcoma"
+  },
+  "answer": "D",
+  "explanation": "Seminoma (germ cell tumour) and lymphoma are the most radiosensitive tumours. Neuroblastoma is moderately radiosensitive, while renal cell carcinoma, gastric carcinoma and sarcomas are relatively radioresistant.",
+  "key_note": "Bank copies conflict: two starred A (neuroblastoma) but highlighted D; a third copy marked Seminoma. Correct is D, germ cell tumour (seminoma).",
+  "_new": true,
+  "qid": "G11-N18"
+ }
+]

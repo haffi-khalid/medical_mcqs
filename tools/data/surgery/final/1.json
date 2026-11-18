@@ -1,0 +1,298 @@
+[
+ {
+  "cids": [
+   "C0727"
+  ],
+  "stem": "A greenstick fracture:",
+  "options": {
+   "A": "Occurs mainly in elderly",
+   "B": "Is a fatigue fracture",
+   "C": "Is a spiral fracture of a long bone",
+   "D": "Is a fracture where part of the cortex is intact and part is crumpled",
+   "E": "Is always treated by surgery"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Greenstick fractures occur in the soft, springy bones of children: one cortex breaks while the opposite cortex bends or buckles but stays intact. Most are treated closed (reduction if angulated, then cast).",
+  "key_note": "",
+  "figure": "",
+  "qid": "1-1"
+ },
+ {
+  "cids": [
+   "C0927"
+  ],
+  "stem": "Best imaging investigation for a stress fracture is:",
+  "options": {
+   "A": "X-ray",
+   "B": "CT scan",
+   "C": "Bone scan",
+   "D": "MRI"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "MRI is the most sensitive and specific test for a stress fracture: it shows marrow oedema and the fracture line within days, when plain films are usually normal. Isotope bone scan is sensitive but non-specific and has been superseded by MRI.",
+  "key_note": "One paper key marked C (Bone scan); the compiled key and current teaching favour D: MRI is now the investigation of choice, with bone scan as an older alternative.",
+  "figure": "",
+  "qid": "1-2"
+ },
+ {
+  "cids": [
+   "C0960"
+  ],
+  "stem": "Open reduction and internal fixation (ORIF) of a fracture achieves:",
+  "options": {
+   "A": "Accurate reduction",
+   "B": "Stable fixation",
+   "C": "Stronger fixation",
+   "D": "All of these"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "ORIF allows anatomical (accurate) reduction under direct vision and rigid, stable fixation that permits early movement of adjacent joints. The price is the risk of infection and surgical soft-tissue damage.",
+  "key_note": "",
+  "figure": "",
+  "qid": "1-3"
+ },
+ {
+  "cids": [
+   "C1467"
+  ],
+  "stem": "A 28-year-old man fell from a ladder on a building site and sustained a fracture of his tibia and fibula, which was promptly treated by open reduction and internal fixation. On the second postoperative day he developed severe pain in the leg, made worse by passive movement, with sensory loss. What is the most likely diagnosis?",
+  "options": {
+   "A": "Compartment syndrome",
+   "B": "Decubitus ulcer",
+   "C": "Leg ulcer",
+   "D": "Necrotising soft tissue infection",
+   "E": "Pressure sores"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Pain out of proportion and pain on passive stretch of the muscles are the earliest and most reliable signs of compartment syndrome; paraesthesia follows. Tibial fractures are the commonest cause, and pulses are often still present.",
+  "key_note": "Option order differs between papers; all marked answers point to Compartment syndrome.",
+  "figure": "",
+  "qid": "1-4"
+ },
+ {
+  "cids": [
+   "C1278",
+   "C0301"
+  ],
+  "stem": "A man had an accident and presented with massive swelling of the left leg. The calf muscles are taut and tender. X-ray of the leg shows no fracture. Ultrasound shows no localised haematoma but oedema of all the muscles. What is the most appropriate management?",
+  "options": {
+   "A": "Amputation of left leg",
+   "B": "Elevation and crepe bandage",
+   "C": "Fasciotomy of the compartments",
+   "D": "Antibiotics and analgesics",
+   "E": "Observe for arterial pulses"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Tense, tender compartments after trauma, even without a fracture, mean compartment syndrome, and the treatment is urgent fasciotomy of all four leg compartments after removing any tight dressings or casts. Keep the limb at heart level (elevation reduces arterial inflow) and do not wait for pulses to disappear: they are lost late, after muscle is already dying.",
+  "key_note": "",
+  "figure": "",
+  "qid": "1-5"
+ },
+ {
+  "cids": [
+   "C0432",
+   "C1167"
+  ],
+  "stem": "A young man had a fracture of the shaft of the right femur in a road traffic accident. Within 24 hours he developed shortness of breath, tachycardia, deranged ABGs and ECG changes. On arrival he was fully conscious and oriented, with no bleeding from the nose or ears. What is the most likely cause of his symptoms?",
+  "options": {
+   "A": "Associated head injury",
+   "B": "Compartment syndrome of the right thigh",
+   "C": "Fat embolism",
+   "D": "Haemothorax/pneumothorax",
+   "E": "Extradural haematoma"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Fat embolism syndrome typically appears 24-72 hours after a long-bone (especially femoral) fracture with the triad of respiratory distress and hypoxaemia, cerebral signs (confusion) and a petechial rash over the upper trunk, axillae and conjunctivae. The normal initial conscious level makes head injury unlikely, and petechiae are not a feature of pulmonary thromboembolism.",
+  "key_note": "A variant (45-year-old woman, dyspnoea with petechiae 48 hours after femoral fixation) had no paper key; same answer.",
+  "figure": "",
+  "qid": "1-6"
+ },
+ {
+  "cids": [
+   "C0602"
+  ],
+  "stem": "A 19-year-old man had fractures of the right femur and tibia. He was operated within 24 hours and both fractures were fixed with DCPs. He became unconscious postoperatively. What is the most likely cause?",
+  "options": {
+   "A": "Associated head injury",
+   "B": "Complication of spinal anaesthesia",
+   "C": "Fat embolism",
+   "D": "Encephalitis",
+   "E": "Drug reaction"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Multiple long-bone fractures and intramedullary manipulation release marrow fat into the circulation; cerebral fat embolism causes confusion, drowsiness or coma, usually with hypoxaemia and petechiae. Spinal anaesthesia does not cause loss of consciousness postoperatively.",
+  "key_note": "",
+  "figure": "",
+  "qid": "1-7"
+ },
+ {
+  "ncids": [
+   "K0287"
+  ],
+  "stem": "Nonunion of long bones is most common in fractures of the:",
+  "options": {
+   "A": "Shaft (diaphysis)",
+   "B": "Metaphyseal region",
+   "C": "Growth plate",
+   "D": "Epiphyseal area",
+   "E": "Distal end of the bone"
+  },
+  "answer": "A",
+  "explanation": "Diaphyseal cortical bone has a poorer blood supply and less cancellous bone than the metaphysis, so shaft fractures (classically the distal third of the tibia) are most prone to delayed union and nonunion. Metaphyseal cancellous bone is well vascularised and unites readily.",
+  "key_note": "",
+  "_new": true,
+  "qid": "1-N1"
+ },
+ {
+  "ncids": [
+   "K0313"
+  ],
+  "stem": "The most appropriate treatment for a closed fracture of the shaft of a long bone (e.g. femur or tibia) in an adult is:",
+  "options": {
+   "A": "Manipulation under anaesthesia and cast immobilisation",
+   "B": "Immobilisation with traction and counter-traction",
+   "C": "Closed intramedullary interlocking nailing",
+   "D": "Dynamic compression plating (DCP)",
+   "E": "Immobilisation with an external fixator"
+  },
+  "answer": "C",
+  "explanation": "Closed locked intramedullary nailing is the treatment of choice for adult femoral and tibial shaft fractures: it is load-sharing, preserves the fracture haematoma and periosteal blood supply, and allows early mobilisation. Plating needs open exposure, and external fixators are mainly for open or contaminated fractures.",
+  "key_note": "",
+  "_new": true,
+  "qid": "1-N2"
+ },
+ {
+  "ncids": [
+   "K0724",
+   "K1197"
+  ],
+  "stem": "Following trauma, compartment syndrome most commonly occurs in the:",
+  "options": {
+   "A": "Upper arm",
+   "B": "Forearm",
+   "C": "Thigh",
+   "D": "Foot",
+   "E": "Leg"
+  },
+  "answer": "E",
+  "explanation": "The leg (especially the anterior compartment after tibial fractures) is the commonest site of compartment syndrome; the forearm is the second commonest, typically after supracondylar or forearm fractures.",
+  "key_note": "One source copy marked B (forearm) with * but highlighted E; correct is E because the leg is the commonest site, the forearm second.",
+  "_new": true,
+  "qid": "1-N3"
+ },
+ {
+  "ncids": [
+   "K0794"
+  ],
+  "stem": "A 47-year-old farmer presents 7 days after trauma to his left leg, treated by a bone setter with an ill-fitting cast. He now has swelling of the limb and loss of sensation in the left foot. The foot is dropped and inverted, and sensation is absent over the dorsum of the foot. Radiographs show a fracture of the upper end of the fibula. Which nerve is most likely injured?",
+  "options": {
+   "A": "Common peroneal nerve",
+   "B": "Sciatic nerve",
+   "C": "Tibial nerve",
+   "D": "Obturator nerve",
+   "E": "Femoral nerve"
+  },
+  "answer": "A",
+  "explanation": "The common peroneal nerve winds around the fibular neck, where it is injured by fractures and tight casts, giving foot drop and loss of sensation over the dorsum of the foot. Tibial nerve injury causes loss of plantar flexion and sole sensation.",
+  "key_note": "",
+  "_new": true,
+  "qid": "1-N4"
+ },
+ {
+  "ncids": [
+   "K0831"
+  ],
+  "stem": "Regarding compartment syndrome, which statement is true?",
+  "options": {
+   "A": "Pain out of proportion to the injury is a cardinal sign",
+   "B": "It is not an emergency",
+   "C": "Tissue ischaemia may not occur if it is left alone",
+   "D": "It does not occur in the abdomen",
+   "E": "It is not common in the leg"
+  },
+  "answer": "A",
+  "explanation": "Pain out of proportion to the injury, worsened by passive stretch of the compartment muscles, is the earliest and most important sign. It is a surgical emergency needing fasciotomy; untreated it causes muscle and nerve necrosis, and abdominal compartment syndrome is well recognised.",
+  "key_note": "",
+  "_new": true,
+  "qid": "1-N5"
+ },
+ {
+  "ncids": [
+   "K0955"
+  ],
+  "stem": "An external fixator is used for fractures of:",
+  "options": {
+   "A": "Atlas vertebra",
+   "B": "Axis vertebra",
+   "C": "Limb bones",
+   "D": "Ribs",
+   "E": "Skull"
+  },
+  "answer": "C",
+  "explanation": "External fixators are applied to limb bones (and the pelvis), particularly in open fractures with soft tissue damage, infected fractures and damage control orthopaedics. Cervical spine injuries use a halo or internal fixation, not a standard external fixator.",
+  "key_note": "",
+  "_new": true,
+  "qid": "1-N6"
+ },
+ {
+  "ncids": [
+   "K1369"
+  ],
+  "stem": "Open reduction of a fracture is indicated in:",
+  "options": {
+   "A": "Failed closed reduction",
+   "B": "Intra-articular fractures in children",
+   "C": "Displaced intra-articular fractures",
+   "D": "Unstable fractures",
+   "E": "All of the above"
+  },
+  "answer": "E",
+  "explanation": "Open reduction is indicated when closed reduction fails or cannot be held (unstable fractures), and for displaced intra-articular fractures (including physeal and articular fractures in children) where anatomical reduction of the joint surface is needed.",
+  "key_note": "",
+  "_new": true,
+  "qid": "1-N7"
+ },
+ {
+  "ncids": [
+   "K1374"
+  ],
+  "stem": "Major factors influencing the time of fracture healing include all of the following EXCEPT:",
+  "options": {
+   "A": "Age",
+   "B": "Type of fracture",
+   "C": "Immobilisation",
+   "D": "High protein diet",
+   "E": "Apposition of fragments"
+  },
+  "answer": "D",
+  "explanation": "Healing time depends on age, the type and site of fracture, blood supply, adequate immobilisation and apposition of the fragments. A high protein diet is not a major determinant of fracture healing time.",
+  "key_note": "",
+  "_new": true,
+  "qid": "1-N8"
+ },
+ {
+  "ncids": [
+   "K1686"
+  ],
+  "stem": "Fracture of a long bone is NOT associated with which of the following complications?",
+  "options": {
+   "A": "Osteomyelitis",
+   "B": "Hypocalcaemia",
+   "C": "Fat embolism",
+   "D": "Nonunion",
+   "E": "Malunion"
+  },
+  "answer": "B",
+  "explanation": "Osteomyelitis (especially after open fractures), fat embolism, nonunion and malunion are recognised complications of long bone fractures. Hypocalcaemia is not; immobilisation tends to cause hypercalcaemia if anything.",
+  "key_note": "",
+  "_new": true,
+  "qid": "1-N9"
+ }
+]

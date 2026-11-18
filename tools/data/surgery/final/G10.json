@@ -1,0 +1,2335 @@
+[
+ {
+  "cids": [
+   "C1241"
+  ],
+  "stem": "There is a 65 years old male in ICU. The patient is in critical condition and is not expected to survive beyond the next 24 hours without surgery, suspected ruptured abdominal aortic aneurysm. Anesthetist is asked to evaluate the patient. This patient fall in which ASA grading?",
+  "options": {
+   "A": "II",
+   "B": "III",
+   "C": "IV",
+   "D": "V",
+   "E": "VI"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "ASA V is a moribund patient not expected to survive without the operation, which fits a ruptured AAA. ASA IV is severe systemic disease that is a constant threat to life, and ASA VI is a brain-dead organ donor.",
+  "key_note": "The compiled key letter differs (C) but its text is ASA V, so all sources agree on ASA V.",
+  "figure": "",
+  "qid": "G10-1"
+ },
+ {
+  "cids": [
+   "C1497"
+  ],
+  "stem": "A 40-year-old woman is planned for laparoscopic cholecystectomy under general anaesthesia. A routine airway assessment before anaesthesia includes which of the following?",
+  "options": {
+   "A": "Bronchoscopy",
+   "B": "Cervical spine X-ray",
+   "C": "Mallampati grading",
+   "D": "MRI Cervical spine",
+   "E": "BMI calculation"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Routine bedside airway assessment includes Mallampati grading, mouth opening, thyromental distance, neck extension and dentition. Bronchoscopy and cervical spine imaging are not routine.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G10-2"
+ },
+ {
+  "cids": [
+   "C0523"
+  ],
+  "stem": "60 Year old male is undergoing open heart surgery. Anesthetist wants to assess the respiratory tract before operation. Best investigation to assess lung function is",
+  "options": {
+   "A": "Peak expiratory flow rate",
+   "B": "Forced expiratory volume in 1 second",
+   "C": "Forced vital capacity",
+   "D": "Blood gases",
+   "E": "Chest X-ray"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Spirometry, with FEV1 (and the FEV1/FVC ratio), is the standard test of lung function to quantify obstructive or restrictive disease and predict postoperative pulmonary risk. Blood gases and chest X-ray do not measure ventilatory function.",
+  "key_note": "The compiled key letter differs (C) but its text is FEV1, so all sources agree on FEV1.",
+  "figure": "",
+  "qid": "G10-3"
+ },
+ {
+  "cids": [
+   "C0812"
+  ],
+  "stem": "Which of the following statements regarding preoperative investigations are true?",
+  "options": {
+   "A": "Chest X-ray is routinely requested in all patients over 60 years old.",
+   "B": "A ventricular ejection fraction of less than 35 per cent indicates a high risk of cardiac complications.",
+   "C": "A body mass index (BMI) >15 is associated with significant hospital mortality.",
+   "D": "ECG is usually required in patients below 65 years.",
+   "E": "HIV testing does not require patient consent."
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "A left ventricular ejection fraction under 35% indicates poor ventricular function and high perioperative cardiac risk. Routine CXR in all over-60s is not recommended, the ECG is mainly needed in older or cardiac patients, a BMI of 15 is underweight not obese, and HIV testing requires consent.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G10-4"
+ },
+ {
+  "cids": [
+   "C0879"
+  ],
+  "stem": "A 24 years old woman is scheduled for an elective cholecystectomy. The best method of identifying a potential bleeder is which of the following?",
+  "options": {
+   "A": "Platelet count.",
+   "B": "Complete history and physical examination.",
+   "C": "Bleeding time.",
+   "D": "Plasma volume"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "A careful bleeding history (previous surgery, dental extraction, menorrhagia, family history, anticoagulant or antiplatelet drugs) and examination is the best screen for a bleeding tendency; routine coagulation tests in a patient with a negative history have very low yield.",
+  "key_note": "Paper key marked A (platelet count); correct is B: history and examination detect most bleeding disorders, including von Willebrand disease and platelet dysfunction, which a normal platelet count misses.",
+  "figure": "",
+  "qid": "G10-5"
+ },
+ {
+  "cids": [
+   "C0993"
+  ],
+  "stem": "What is the minimum platelet count generally considered safe to proceed with surgery?",
+  "options": {
+   "A": "150,000/µL",
+   "B": "100,000/µL",
+   "C": "90,000/µL",
+   "D": "50,000/µL"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A platelet count of at least 50,000/µL (50 x 10^9/L) is generally adequate for most major surgery; higher thresholds apply to neuraxial anaesthesia (about 80,000) and neurosurgery or posterior eye surgery (100,000).",
+  "key_note": "Not marked in the source paper (stem garbled in source); the compiled key gives B (100,000), but 50,000 is the accepted general threshold, 100,000 being reserved for neurosurgery and eye surgery.",
+  "figure": "",
+  "qid": "G10-6"
+ },
+ {
+  "cids": [
+   "C0956"
+  ],
+  "stem": "A 45-year-old man had a myocardial infarction one month ago and wants surgery for an inguinal hernia. Which one of the following is true?",
+  "options": {
+   "A": "Surgery should never be done on this patient",
+   "B": "Surgery should be performed after 6 months",
+   "C": "Surgery can be done on the next operation list",
+   "D": "Surgery should be performed after one month",
+   "E": "Surgery should be performed after eighteen months"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Elective surgery soon after myocardial infarction carries a high risk of reinfarction, so classic teaching is to defer it for 6 months; current guidelines accept at least 60 days, but an elective hernia should certainly not be done at one month.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G10-7"
+ },
+ {
+  "cids": [
+   "C0957"
+  ],
+  "stem": "A 50 years old hypertensive patient is booked for cholecystectomy in next week.The best advice for him would be:",
+  "options": {
+   "A": "Stop his antihypertensive medications",
+   "B": "Continue the drug but stop it on the night before surgery",
+   "C": "Continue the drug and take it on the morning of surgery with sip of water",
+   "D": "Increase the dose of medication",
+   "E": "Decrease the dose of medication"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Most antihypertensives (especially beta-blockers and calcium channel blockers) should be continued, including the morning dose with a sip of water, to avoid rebound hypertension and perioperative cardiac events. ACE inhibitors and ARBs are often omitted on the day of surgery because of the risk of hypotension.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G10-8"
+ },
+ {
+  "cids": [
+   "C0828"
+  ],
+  "stem": "55 years old diabetic female controlled on oral hypoglycemic is to be operated for Paraumbilical hernia. Which of the following is true?",
+  "options": {
+   "A": "Should be last on operation list",
+   "B": "Must take oral hypoglycemic drug on the morning of surgery",
+   "C": "Should be first on operation list",
+   "D": "Should be kept hypoglycemic during surgery",
+   "E": "Blood sugar must be checked every hour post operatively"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Diabetic patients should be first on the morning list to minimise the fasting period and the risk of hypoglycaemia; oral hypoglycaemics (especially sulfonylureas) are usually withheld on the morning of surgery and glucose is checked regularly, not kept low.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G10-9"
+ },
+ {
+  "cids": [
+   "C0014"
+  ],
+  "stem": "Which of the following is not a surgical risk in a diabetic patient?",
+  "options": {
+   "A": "Infection",
+   "B": "Myocardial infarction",
+   "C": "Pressure sore",
+   "D": "Poor wound healing",
+   "E": "Pain control"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Diabetes increases the risk of wound infection, poor wound healing, pressure sores and perioperative myocardial infarction (often silent). Pain control is not a specific diabetic surgical risk.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G10-10"
+ },
+ {
+  "cids": [
+   "C1238"
+  ],
+  "stem": "The ideal temperature of an Operating theatre should be?",
+  "options": {
+   "A": "10-12C",
+   "B": "14-16C",
+   "C": "20-22C",
+   "D": "28-30C",
+   "E": "32-34C"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Operating theatre temperature is kept at about 20-22 C (range 18-23 C) with 50-60% humidity, balancing staff comfort, bacterial growth and the risk of patient hypothermia; it is raised for neonates and burns.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G10-11"
+ },
+ {
+  "cids": [
+   "C0275"
+  ],
+  "stem": "A surgeon is planning for a day care surgery for a small procedure. Which of the following intravenous induction agents is most suitable for anesthesia in day care surgery?",
+  "options": {
+   "A": "Diazepam",
+   "B": "Ketamine",
+   "C": "Morphine",
+   "D": "Propofol",
+   "E": "Thiopentone sodium"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Propofol is the induction agent of choice for day case surgery because of its rapid, clear-headed recovery and antiemetic effect. Ketamine causes emergence delirium and thiopentone and diazepam cause prolonged hangover.",
+  "key_note": "Paper marked B (ketamine); correct is D: propofol gives the fastest recovery with least nausea, ideal for day care.",
+  "figure": "",
+  "qid": "G10-12"
+ },
+ {
+  "cids": [
+   "C0277"
+  ],
+  "stem": "A 39 years female patient came for emergency laparotomy. Her Blood Pressure is 160/100 mm Hg, pulse is 110/min and SpO2 is 98 %. She is afebrile. Which of the following agents is contraindicated in such patients?",
+  "options": {
+   "A": "Diazepam",
+   "B": "Etomidate",
+   "C": "Ketamine",
+   "D": "Propofol",
+   "E": "Thiopentone"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Ketamine stimulates the sympathetic system, raising blood pressure, heart rate and intracranial pressure, so it is contraindicated in a hypertensive, tachycardic patient (and in pre-eclampsia, raised ICP and ischaemic heart disease).",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "G10-13"
+ },
+ {
+  "cids": [
+   "C1239",
+   "C1499"
+  ],
+  "stem": "A full-term pregnant woman with placenta praevia is undergoing caesarean section under general anaesthesia. She is diabetic and has bronchial asthma; chest examination shows a wheeze at the lung bases. Which induction agent is most suitable for induction of general anaesthesia?",
+  "options": {
+   "A": "Pentothal",
+   "B": "Etomidate",
+   "C": "Propofol",
+   "D": "Ketamine",
+   "E": "none of the above"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Ketamine is a bronchodilator and maintains blood pressure through sympathetic stimulation, making it the best induction agent for a patient with active wheeze who is at risk of major haemorrhage (placenta praevia). Thiopentone can release histamine and provoke bronchospasm, and etomidate has no bronchodilator benefit.",
+  "key_note": "Paper keys disagree (one marked etomidate, another propofol); the reviewer's answer is ketamine, as it bronchodilates and maintains blood pressure; propofol is an acceptable alternative in a stable patient.",
+  "figure": "",
+  "qid": "G10-14"
+ },
+ {
+  "cids": [
+   "C1240",
+   "C1185"
+  ],
+  "stem": "A six months baby has presented for congenital inguinal hernia. Patient is NPO for last 4 hours. Which of following inhalational anesthetic agent is best for the induction of this patient?",
+  "options": {
+   "A": "Desflurane",
+   "B": "Entonox",
+   "C": "Halothane",
+   "D": "Isoflurane",
+   "E": "Sevoflurane"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Sevoflurane is the standard agent for paediatric inhalational induction because it is sweet-smelling, non-irritant and fast. Desflurane is pungent and causes coughing and laryngospasm, and Entonox alone is not an induction agent.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G10-15"
+ },
+ {
+  "cids": [
+   "C1500"
+  ],
+  "stem": "A 50 years old patient with history of autoimmune hepatitis is booked for elective removal of large lipoma at back under general anesthesia, what is the most suitable inhalational agent for this patient.",
+  "options": {
+   "A": "Isoflurane",
+   "B": "Halothane",
+   "C": "Sevoflurane",
+   "D": "Desflurane",
+   "E": "Thiopentone"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Halothane is avoided in liver disease because of halothane hepatitis. Sevoflurane undergoes minimal metabolism, produces no trifluoroacetic acid metabolite and preserves hepatic blood flow, so it is a suitable choice (isoflurane and desflurane are also acceptable).",
+  "key_note": "",
+  "figure": "",
+  "qid": "G10-16"
+ },
+ {
+  "cids": [
+   "C0456"
+  ],
+  "stem": "A full stomach patient is being scheduled for emergency appendectomy. Anesthetist wants to use depolarizing muscle relaxant for intubation. Which one is depolarizing muscle relaxant?",
+  "options": {
+   "A": "Atracurium",
+   "B": "Pancuronium bromide",
+   "C": "Rocuronium",
+   "D": "Succinylcholine",
+   "E": "Vecuronium"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Succinylcholine (suxamethonium) is the only depolarising muscle relaxant in clinical use, with the fastest onset, which is why it is used for rapid sequence induction in a patient with a full stomach. The others are non-depolarising agents.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G10-17"
+ },
+ {
+  "cids": [
+   "C0278"
+  ],
+  "stem": "A 35 years non-booked female, G5P4+1 came for emergency Cesarean Section. She is giving history of 2 episodes of fits in the morning. Her Blood Pressure is 190/110, pulse is 100/min and SpO2 is 97%. The Anesthesiologist decides to give her General Anesthesia with rapid sequence intubation. Which muscle relaxant will be most appropriate?",
+  "options": {
+   "A": "Atracurium",
+   "B": "Mivacurium",
+   "C": "Pancuronium",
+   "D": "Succinylcholine",
+   "E": "Vecuronium"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Rapid sequence induction for an emergency caesarean section (full stomach) uses suxamethonium for its rapid onset and short duration. Magnesium given for eclampsia potentiates non-depolarising relaxants, so their doses must be reduced.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "G10-18"
+ },
+ {
+  "cids": [
+   "C1245"
+  ],
+  "stem": "An eye surgery was performed using propofol as intravenous agent and succinylcholine as muscle relaxant. Recovery from anesthesia was uneventful. However after 8 hours of surgery, patient complains of pain in the muscles. Which of the following is the likely reason for this condition?",
+  "options": {
+   "A": "Propofol",
+   "B": "Due to surgery",
+   "C": "Early mobilization",
+   "D": "Succinylcholine",
+   "E": "Atracurium"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Suxamethonium causes fasciculations on depolarisation, which produce postoperative myalgia typically on the day after surgery, especially in young ambulant patients.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G10-19"
+ },
+ {
+  "cids": [
+   "C1498"
+  ],
+  "stem": "A 9-year-old sustained a 40% burn to the anterior portion of his body. On the twentieth day after the burn, he is brought to the operating room for a skin graft. Anesthesia is induced with thiopental, along with succinylcholine. The electrocardiogram (ECG) shows a bizarre tracing followed by asystole. The most likely cause of the arrhythmia is",
+  "options": {
+   "A": "Electrocutions",
+   "B": "Hyperkalemia",
+   "C": "Hypoxia",
+   "D": "Succinyl choline",
+   "E": "Thiopental overdose"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "After major burns (from about 24-48 hours onwards), extrajunctional acetylcholine receptors proliferate, so suxamethonium causes a massive potassium release; the resulting hyperkalaemia produces bizarre wide complex arrhythmias and asystole.",
+  "key_note": "Paper marked D (succinylcholine); correct is B: suxamethonium is the trigger, but the direct cause of the arrhythmia is hyperkalaemia.",
+  "figure": "",
+  "qid": "G10-20"
+ },
+ {
+  "cids": [
+   "C0038"
+  ],
+  "stem": "A 60-years man undergoing hernia repair is intubated using rocuronium. Toward the end of surgery, the anesthetist plans to reverse the neuromuscular blockade. Which drugs will be used in combination for reversal?",
+  "options": {
+   "A": "Atropine and neostigmine",
+   "B": "Midazolam and glycopyrrolate",
+   "C": "Succinylcholine alone",
+   "D": "Naloxone and atropine",
+   "E": "Adrenaline infusion"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Neostigmine, an anticholinesterase, reverses non-depolarising block, and an anticholinergic (glycopyrrolate or atropine) is given with it to block its muscarinic effects such as bradycardia and secretions. Sugammadex is the specific reversal agent for rocuronium where available.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G10-21"
+ },
+ {
+  "cids": [
+   "C1046"
+  ],
+  "stem": "A 50-year-old patient underwent laparoscopic cholecystectomy under general anaesthesia. Which of the following agents is used at the end of the operation as a reversal agent (for the muscle relaxant)?",
+  "options": {
+   "A": "Bupivacaine",
+   "B": "Ketamine",
+   "C": "Neostigmine",
+   "D": "Physostigmine",
+   "E": "Propofol"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Neostigmine inhibits acetylcholinesterase, increasing acetylcholine at the neuromuscular junction to reverse non-depolarising relaxants at the end of anaesthesia; it is given with glycopyrrolate or atropine. Physostigmine crosses the blood-brain barrier and is used for anticholinergic poisoning.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G10-22"
+ },
+ {
+  "cids": [
+   "C0904"
+  ],
+  "stem": "Which instrument is used for putting endo-tracheal tube (ETT) to a patient?",
+  "options": {
+   "A": "Oesophagoscope",
+   "B": "Laryngoscope",
+   "C": "Gastroscope",
+   "D": "It needs no instrument"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "A laryngoscope is used to visualise the larynx and vocal cords so the endotracheal tube can be passed through them under direct (or video) vision.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G10-23"
+ },
+ {
+  "cids": [
+   "C0079"
+  ],
+  "stem": "A patient is being intubated in the emergency department, but the anaesthesiologist is having difficulty visualizing the vocal cords. What is the next best step?",
+  "options": {
+   "A": "Use a bougie",
+   "B": "Use a video laryngoscope",
+   "C": "Perform a blind intubation",
+   "D": "Use a laryngeal mask airway",
+   "E": "Perform tracheostomy"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "When the cords are difficult to see, Plan A of the Difficult Airway Society guideline is to optimise the attempt with adjuncts such as a video laryngoscope or a bougie; a supraglottic airway (Plan B) follows failed intubation, and a surgical airway is the last resort for cannot intubate, cannot oxygenate.",
+  "key_note": "One solved copy marked E (tracheostomy), which is wrong at this stage; B is correct, and a bougie (A) is an equally valid Plan A adjunct.",
+  "figure": "",
+  "qid": "G10-24"
+ },
+ {
+  "cids": [
+   "C1183"
+  ],
+  "stem": "Young anesthetist is having problem while intubating a short-necked female. Which is the most reliable way to ascertain correct placement of an endotracheal tube?",
+  "options": {
+   "A": "Detection of breath sounds on auscultation",
+   "B": "Detection of pressure in inflated balloon",
+   "C": "Measurement of end-tidal CO2 concentration",
+   "D": "Movement of chest wall on manual inflation",
+   "E": "Trying to visualize trachea"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Sustained end-tidal CO2 on capnography over several breaths is the most reliable confirmation of tracheal placement. Breath sounds and chest movement can be misleading, especially in obese or short-necked patients.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "G10-25"
+ },
+ {
+  "cids": [
+   "C1042"
+  ],
+  "stem": "A 2 year child is being operated for undescended testes under General Anesthesia. Which of the following will be the choice for Airway management?",
+  "options": {
+   "A": "Bag Mask Ventilation",
+   "B": "Cuffed ETT",
+   "C": "Guedal's Airway",
+   "D": "Laryngeal Mask Airway",
+   "E": "Non-Cuffed ETT with throat pack."
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "For a short elective peripheral procedure such as orchidopexy in a fasted 2-year-old, a laryngeal mask airway with spontaneous breathing is the usual choice; intubation is reserved for long cases, a full stomach or laparoscopy.",
+  "key_note": "Paper key marked cuffed ETT; correct is LMA (D): intubation is unnecessary for a short, fasted, elective peripheral procedure.",
+  "figure": "",
+  "qid": "G10-26"
+ },
+ {
+  "cids": [
+   "C1242"
+  ],
+  "stem": "A surgeon is planning to do laparoscopic cholecystectomy under G/A. Anesthetist wants to measure End tidal CO2. End tidal CO2 monitoring under general anesthesia is done with which gadget?",
+  "options": {
+   "A": "ABG",
+   "B": "Arterial line",
+   "C": "Capnography",
+   "D": "Pulse oximetry",
+   "E": "CVP line"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Capnography continuously measures CO2 in expired gas, displaying end-tidal CO2 and a waveform; pulse oximetry measures oxygen saturation, not CO2.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G10-27"
+ },
+ {
+  "cids": [
+   "C1247"
+  ],
+  "stem": "A patient has history of awareness during anesthesia in the past. Intraoperative awareness is evaluated by which parameter?",
+  "options": {
+   "A": "Pulse oximetry",
+   "B": "Colour Doppler",
+   "C": "Bispectral index",
+   "D": "End tidal CO2",
+   "E": "Central venous pressure (CVP)"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "The bispectral index (BIS) is a processed EEG monitor of anaesthetic depth (target 40-60) used to reduce the risk of awareness, particularly in high-risk patients or TIVA with paralysis.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G10-28"
+ },
+ {
+  "cids": [
+   "C0035"
+  ],
+  "stem": "A 42-year woman reports awareness during a hysterectomy under general anesthesia. She describes hearing voices and feeling pain during the operation but was unable to move. What will be the cause of this event?",
+  "options": {
+   "A": "Excessive use of opioids",
+   "B": "Delayed metabolism of neuromuscular blockers",
+   "C": "Hypersensitivity to anesthetics",
+   "D": "Inadequate depth of anesthesia",
+   "E": "Emergence delirium"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Accidental awareness is caused by inadequate depth of anaesthesia, often with neuromuscular blockade masking movement (e.g. low volatile concentration, TIVA disconnection, haemodynamically unstable patients). Opioid excess and residual block do not cause awareness.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G10-29"
+ },
+ {
+  "cids": [
+   "C0036",
+   "C1186"
+  ],
+  "stem": "A 35-year male undergoing emergency laparotomy develops masseter muscle rigidity, rapidly rising end-tidal CO2 despite adequate ventilation, increasing temperature, and tachycardia shortly after induction with thiopental and succinylcholine. What will be the immediate management?",
+  "options": {
+   "A": "Administer midazolam",
+   "B": "Stop the surgery",
+   "C": "Administer dantrolene",
+   "D": "Give IV fluids and observe",
+   "E": "Switch to propofol"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Masseter rigidity, rising ETCO2 despite adequate ventilation, tachycardia and hyperthermia after suxamethonium is malignant hyperthermia; stop the trigger agents and give IV dantrolene 2.5 mg/kg, repeated as needed.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G10-30"
+ },
+ {
+  "cids": [
+   "C0037"
+  ],
+  "stem": "A 28 years male patient undergoing laparoscopic surgery under general anesthesia. The patient was hemodynamically stable when his heart rate increased to 150 b/min. His blood pressure is dropped to 80/40mmHg and his end tidal CO2 decreased from 38mmHg to 05mmHg. What is the most likely cause of sudden tachycardia, hypotension and decreased in end tidal CO2?",
+  "options": {
+   "A": "Pulmonary embolism",
+   "B": "Pneumothorax",
+   "C": "Hypovolemia",
+   "D": "Anaphylactic reaction",
+   "E": "Aspiration pneumonia"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "A sudden fall in end-tidal CO2 with tachycardia and hypotension indicates a sudden drop in pulmonary blood flow from embolism; during laparoscopy this is classically CO2 gas embolism. Hypovolaemia and anaphylaxis cause a gradual rather than abrupt fall in ETCO2.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G10-31"
+ },
+ {
+  "cids": [
+   "C0039"
+  ],
+  "stem": "A 45-year male undergoes prolonged abdominal surgery in the lithotomy position. On the first postoperative day, he complains of numbness and tingling along the lateral aspect of his right leg and weakness of dorsiflexion of the foot. Which nerve is likely to be damaged in lithotomy position?",
+  "options": {
+   "A": "Femoral nerve",
+   "B": "Obturator nerve",
+   "C": "Common peroneal nerve",
+   "D": "Sciatic nerve",
+   "E": "Saphenous nerve"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "In the lithotomy position the common peroneal nerve is compressed against the head of the fibula by the leg supports, causing foot drop and numbness of the lateral leg and dorsum of the foot.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G10-32"
+ },
+ {
+  "cids": [
+   "C1044"
+  ],
+  "stem": "A patient comes to you with blunt trauma abdomen and is scheduled for exploratory laparotomy. Which type of Anesthesia will you give?",
+  "options": {
+   "A": "Local Anesthesia",
+   "B": "Spinal Anesthesia",
+   "C": "Epidural Anesthesia",
+   "D": "General Anesthesia",
+   "E": "Combined Spinal and epidural anesthesia"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Exploratory laparotomy for blunt abdominal trauma needs general anaesthesia with rapid sequence intubation: the patient may be hypovolaemic (regional block would cause profound hypotension), has a full stomach and needs full muscle relaxation.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G10-33"
+ },
+ {
+  "cids": [
+   "N021"
+  ],
+  "stem": "The surgeon plans to excise a sebaceous cyst under local anesthesia. He has planned to use lidocaine, which is a short-acting local anesthetic. The suggested mechanism of action of lidocaine at the cellular level is:",
+  "options": {},
+  "answer": null,
+  "answer_text": "It blocks voltage-gated sodium channels",
+  "explanation": "Lidocaine, like all local anaesthetics, blocks voltage-gated sodium channels from inside the nerve membrane, preventing depolarisation and conduction of the action potential.",
+  "key_note": "Options not available in the source; recall question.",
+  "figure": "",
+  "qid": "G10-34"
+ },
+ {
+  "cids": [
+   "C1246"
+  ],
+  "stem": "A surgeon wants to excise an ingrown toe nail under local anesthesia. This patient is allergic to Ester local anesthetic. Which one of the following drug he should not use?",
+  "options": {
+   "A": "lignocaine",
+   "B": "Procaine",
+   "C": "bupivacaine",
+   "D": "Dibucaine",
+   "E": "Mepivacaine"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Procaine is an ester local anaesthetic (esters have one 'i' in the name: procaine, cocaine, amethocaine). Lignocaine, bupivacaine, dibucaine and mepivacaine are amides (two 'i's), which rarely cause allergy.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G10-35"
+ },
+ {
+  "cids": [
+   "C0825"
+  ],
+  "stem": "For prolonged local anesthesia the anesthetic of choice is:",
+  "options": {
+   "A": "Procaine",
+   "B": "Xylocaine",
+   "C": "Bupivacaine",
+   "D": "Prilocaine",
+   "E": "Lignocaine"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Bupivacaine is a long-acting amide local anaesthetic (several hours) because of high lipid solubility and protein binding. Procaine is short acting and lignocaine (Xylocaine) and prilocaine are intermediate.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G10-36"
+ },
+ {
+  "cids": [
+   "C0455"
+  ],
+  "stem": "Most cardio toxic local anesthetic is:",
+  "options": {
+   "A": "Lignocaine",
+   "B": "Tetracaine",
+   "C": "Cocaine",
+   "D": "Bupivacaine",
+   "E": "Mepivacaine"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Bupivacaine is the most cardiotoxic local anaesthetic: it binds cardiac sodium channels avidly and dissociates slowly, causing refractory ventricular arrhythmias; treat toxicity with lipid emulsion (Intralipid).",
+  "key_note": "",
+  "figure": "",
+  "qid": "G10-37"
+ },
+ {
+  "cids": [
+   "C1045"
+  ],
+  "stem": "A 40 year old male is shifted to OT for inguinal hernia. Anesthetist decides to give subarachnoid block for this operation. Which drug is most commonly used for subarachnoid block in our set up?",
+  "options": {
+   "A": "Lignocaine",
+   "B": "Bupivacaine",
+   "C": "Mepivacaine",
+   "D": "Cocaine",
+   "E": "Tetracaine"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Hyperbaric bupivacaine 0.5% (heavy) is the standard drug for subarachnoid block for lower abdominal and limb surgery, giving about 2-3 hours of anaesthesia.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G10-38"
+ },
+ {
+  "cids": [
+   "C0454"
+  ],
+  "stem": "A 25 years old female shifted to OT for emergency C-section. Anesthetist is planning to give her spinal anesthesia with Injection Bupivacaine 0.5%. In spinal anesthesia, the drug will be given in which space?",
+  "options": {
+   "A": "Sub arachnoid space",
+   "B": "Epidural space",
+   "C": "Intravascular",
+   "D": "Intramuscular",
+   "E": "Subcostal space"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "In spinal anaesthesia the drug is injected into the subarachnoid space, into the CSF, below the end of the cord. Epidural anaesthesia deposits it in the epidural space outside the dura.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G10-39"
+ },
+ {
+  "cids": [
+   "C1043"
+  ],
+  "stem": "A 25 years old female has come for elective C-section. Anesthetist has decided to give Spinal Anesthesia. Which ligament is pierced just before subarachnoid space in spinal anesthesia?",
+  "options": {
+   "A": "Supraspinous ligament",
+   "B": "Interspinous ligament",
+   "C": "Ligamentum Flavum",
+   "D": "Ligamentum spinosum",
+   "E": "Ligamentum venosum"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "In the midline approach the needle passes skin, subcutaneous tissue, supraspinous ligament, interspinous ligament and ligamentum flavum (loss of resistance, entering the epidural space), then dura and arachnoid into the subarachnoid space.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G10-40"
+ },
+ {
+  "cids": [
+   "C1244"
+  ],
+  "stem": "Where you expect the spinal cord to end on an adult patient?",
+  "options": {
+   "A": "L1-L2",
+   "B": "L2-3",
+   "C": "L3-4",
+   "D": "L4-5",
+   "E": "Sacral Hiatus"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "The adult spinal cord ends at the lower border of L1 or L1-L2 (L3 at birth), so spinal needles are inserted at L3-4 or L4-5, below the conus.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G10-41"
+ },
+ {
+  "cids": [
+   "C0034"
+  ],
+  "stem": "A 30-year woman develops sudden hypotension and bradycardia shortly after spinal anesthesia for a cesarean section. The immediate step to be taken in this patient is to",
+  "options": {
+   "A": "Start adrenaline infusion",
+   "B": "Administer atropine and IV fluids",
+   "C": "Give calcium gluconate",
+   "D": "Start CPR",
+   "E": "Reassure and observe"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Spinal block causes sympathectomy (hypotension) and, if it reaches T1-T4 cardioaccelerator fibres, bradycardia. Treat with IV fluids, left uterine displacement, a vasopressor (phenylephrine or ephedrine) and atropine for bradycardia.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G10-42"
+ },
+ {
+  "cids": [
+   "C1233"
+  ],
+  "stem": "You are called to see a patient who had Left inguinal hernia repair after a difficult spinal anesthetic yesterday. The patient complains of intense generalized headache involving both sides which gets worse on sitting up and improves on lying down, the patient is not able to mobilize because of this headache and has vomited once. What is the most likely diagnosis?",
+  "options": {
+   "A": "Migraine",
+   "B": "Simple Headache",
+   "C": "Intracranial Hemorrhage",
+   "D": "Spinal headache",
+   "E": "Extradural hematoma"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A bilateral frontal or occipital headache that is worse on sitting or standing and relieved by lying flat after a dural puncture is post-dural puncture (spinal) headache from CSF leak. Treat with rest, fluids, analgesia and caffeine, and an epidural blood patch if persistent.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "G10-43"
+ },
+ {
+  "cids": [
+   "C0002"
+  ],
+  "stem": "Urinary retention is a common complication after:",
+  "options": {
+   "A": "Local anesthesia.",
+   "B": "Intrathecal anesthesia.",
+   "C": "Epidural anesthesia.",
+   "D": "Intravenous regional anesthesia.",
+   "E": "General anesthesia."
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Neuraxial blocks (spinal and epidural) block the sacral parasympathetic outflow to the bladder, and urinary retention is a well-recognised complication, particularly with continuous epidural infusions containing opioids. Local, IV regional and general anaesthesia cause it much less often.",
+  "key_note": "Question is flawed: intrathecal (spinal) anaesthesia (B) also commonly causes urinary retention; the paper key C (epidural) is retained.",
+  "figure": "",
+  "qid": "G10-44"
+ },
+ {
+  "cids": [
+   "C1184"
+  ],
+  "stem": "Bier's block is useful technique to provide anesthesia for upper limb surgery. Which is the best anesthetic agent used for Bier block?",
+  "options": {
+   "A": "Amethocaine",
+   "B": "Bupivacaine",
+   "C": "Lignocaine",
+   "D": "Levobupivacaine",
+   "E": "Prilocaine"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Prilocaine (0.5%, plain) is the agent of choice for Bier's block (IV regional anaesthesia) because it is the least toxic amide if the cuff fails. Bupivacaine is contraindicated because of cardiotoxicity.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "G10-45"
+ },
+ {
+  "cids": [
+   "C1182"
+  ],
+  "stem": "45 years old man presents with a big swelling in right arm. Surgeon has planned to perform excision under local anesthesia. The effective maximum dose of lignocaine is",
+  "options": {
+   "A": "1mg/kg body weight",
+   "B": "2mg/kg body weight",
+   "C": "3mg/kg body weight",
+   "D": "4mg/kg body weight",
+   "E": "5mg/kg body weight"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "The maximum dose of plain lignocaine is 3 mg/kg (7 mg/kg with adrenaline). For a 70 kg adult that is 210 mg, i.e. 21 mL of 1% (10 mg/mL) or 10.5 mL of 2% (20 mg/mL).",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "G10-46"
+ },
+ {
+  "cids": [
+   "C1047"
+  ],
+  "stem": "A 30 years old patient is scheduled for toe nail removal under local anesthesia. The maximum allowable dose of Inj. Bupivacaine 0.5% for this patient would be",
+  "options": {
+   "A": "1.5 mg/kg",
+   "B": "2.5 mg/kg",
+   "C": "4.5 mg/kg",
+   "D": "7 mg/kg",
+   "E": "10 mg/kg"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "The maximum safe dose of bupivacaine is about 2-2.5 mg/kg (plain or with adrenaline, about 150 mg in an adult). Bupivacaine 0.5% contains 5 mg/mL, so a 70 kg adult may receive up to 140-175 mg, i.e. 28-35 mL.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G10-47"
+ },
+ {
+  "cids": [
+   "C1048"
+  ],
+  "stem": "A 1 month baby, weighing 5 kg, comes for circumcision under local anesthesia. The surgeon injects plain lignocaine 2 %, 3 mL (60 mg). The baby starts having seizures following facial twitching. The most likely cause of seizures would be?",
+  "options": {
+   "A": "Allergy to local anesthetic",
+   "B": "Dehydration",
+   "C": "Hypoxia",
+   "D": "Lignocaine toxicity",
+   "E": "Pain"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Lignocaine 2% contains 20 mg/mL, so 3 mL is 60 mg, i.e. 12 mg/kg in a 5 kg baby, four times the 3 mg/kg maximum for plain lignocaine (15 mg, only 0.75 mL of 2%). Circumoral or facial twitching progressing to seizures is the classic sequence of local anaesthetic systemic toxicity.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G10-48"
+ },
+ {
+  "cids": [
+   "C1049"
+  ],
+  "stem": "A 1-month-old baby weighing 5 kg is given 3 mL (60 mg) of plain lignocaine 2% for circumcision under local anaesthesia and develops facial twitching followed by seizures. What would be the first line of action in treating this patient?",
+  "options": {
+   "A": "Administer Oxygen",
+   "B": "I/V Valproic Acid",
+   "C": "Maintain IV Line",
+   "D": "Start CPR",
+   "E": "Sedation with Propofol/Midazolam"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Management of local anaesthetic toxicity follows ABC: stop injecting, call for help, maintain the airway and give 100% oxygen (hypoxia and acidosis worsen toxicity), secure IV access, then control seizures with a benzodiazepine or small dose of propofol and give 20% lipid emulsion if there is cardiovascular instability.",
+  "key_note": "Paper key marked C (maintain IV line); correct is A: airway and 100% oxygen come first in the AAGBI toxicity guideline, with IV access next.",
+  "figure": "",
+  "qid": "G10-49"
+ },
+ {
+  "cids": [
+   "C1051"
+  ],
+  "stem": "You saw a person lying on the roadside. The patient is unconscious, with no pulse and no visible signs of breathing. What next step should be taken?",
+  "options": {
+   "A": "Start Chest Compressions",
+   "B": "Call for help to 15",
+   "C": "Give Mouth to mouth breathing",
+   "D": "Check for pulse and breathing once again",
+   "E": "Start ambu bag mask ventilation"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Once a collapsed person is confirmed unresponsive with no normal breathing (and no pulse), call for help/emergency services (Rescue 1122) and start chest compressions immediately at 100-120/min, 5-6 cm deep. Do not waste time re-checking or giving rescue breaths first.",
+  "key_note": "Summoning help (B) is also part of the first response; ideally help is called (e.g. on speaker phone) while compressions are started, so A is the best single answer.",
+  "figure": "",
+  "qid": "G10-50"
+ },
+ {
+  "cids": [
+   "C1053"
+  ],
+  "stem": "How long should you check for carotid pulse on an adult cardiac arrest?",
+  "options": {
+   "A": "For at least 20 Seconds",
+   "B": "For a full minute",
+   "C": "For 10 to 15 seconds",
+   "D": "For 5 to 10 seconds",
+   "E": "For 30 seconds"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "In adult BLS/ACLS the pulse (and breathing) check should take at least 5 and no more than 10 seconds, to minimise interruption to chest compressions; if no definite pulse is felt in 10 seconds, start CPR.",
+  "key_note": "Paper key marked C (10-15 seconds); correct is D: AHA and ERC guidelines limit the pulse check to no more than 10 seconds.",
+  "figure": "",
+  "qid": "G10-51"
+ },
+ {
+  "cids": [
+   "C1052"
+  ],
+  "stem": "After delivering a shock with an AED, what is the next step in caring for the patient?",
+  "options": {
+   "A": "Reassess for a pulse",
+   "B": "Resume CPR",
+   "C": "Give another shock",
+   "D": "Do Ventilation only",
+   "E": "Call for help"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "After a shock, resume CPR immediately, starting with chest compressions, for 2 minutes before the next rhythm or pulse check; even successful defibrillation is followed by a period of poor cardiac output.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G10-52"
+ },
+ {
+  "cids": [
+   "C0032"
+  ],
+  "stem": "A 60-year hypertensive male is brought to the emergency department after ingesting a large quantity of propranolol tablets. His pulse is 42 bpm, blood pressure is 70/40 mmHg, and he is drowsy. ECG shows sinus bradycardia. Which drug will be required to treat sinus bradycardia?",
+  "options": {
+   "A": "Atropine",
+   "B": "Dopamine",
+   "C": "Glucagon",
+   "D": "Adrenaline",
+   "E": "Calcium gluconate"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Glucagon is the specific treatment of beta-blocker overdose: it raises cAMP through its own receptor, bypassing the blocked beta receptors, and increases heart rate and contractility. Atropine may be tried first but is usually ineffective in significant beta-blocker poisoning.",
+  "key_note": "One solved copy marked A (atropine); correct is C: in propranolol overdose with shock, glucagon is the specific antidote, atropine being only a temporising first step.",
+  "figure": "",
+  "qid": "G10-53"
+ },
+ {
+  "cids": [
+   "C1234"
+  ],
+  "stem": "Post-operative analgesic requirements vary in different patients. Which of the following is the best way to assess adequacy of pain relief?",
+  "options": {
+   "A": "Measure the degree of tachycardia",
+   "B": "Assess the level of hypertension",
+   "C": "Ask the patient using a visual analogue scale",
+   "D": "Look for tachypnea",
+   "E": "Assess the level of sedation"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Pain is subjective, so the best measure of adequacy of analgesia is the patient's own report on a visual analogue (or numerical rating) scale; tachycardia, hypertension and tachypnoea are non-specific.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "G10-54"
+ },
+ {
+  "cids": [
+   "C0933"
+  ],
+  "stem": "As a resident on call, you are informed about a 60 year old male who underwent laparotomy 12 hours back has passed only 20 ml urine in previous hour. The previous output was satisfactory. What will be your first step?",
+  "options": {
+   "A": "Give fluid challenge of 500 ml saline",
+   "B": "Give 20 mg diuretic",
+   "C": "Check central venous pressure line",
+   "D": "Check urinary catheter for blockage",
+   "E": "Give 1000 ml saline bolus and 20 mg diuretic"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A sudden fall in urine output in a catheterised patient with previously satisfactory output should first prompt a check for a blocked or kinked catheter; then assess volume status and give a fluid challenge. Diuretics should not be given to an oliguric postoperative patient before hypovolaemia is excluded.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G10-55"
+ },
+ {
+  "cids": [
+   "C0350"
+  ],
+  "stem": "On 4rth post-operative day, following pelvic surgery due to CA Rectum, a 54-years-old woman becomes dyspnoeic, her peripheral arterial O2 saturation falls from 94% to 81 % and her measured PaO2 is 52 on 100% non-rebreathing mask. This is associated with which of the following conditions?",
+  "options": {
+   "A": "Atelectasis",
+   "B": "Congestive cardiac failure",
+   "C": "Myocardial infarct",
+   "D": "Pneumothorax",
+   "E": "Pulmonary thrombo-embolism"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Sudden dyspnoea with marked hypoxaemia (PaO2 52 on 100% oxygen) a few days after pelvic cancer surgery is pulmonary embolism until proved otherwise; pelvic surgery and malignancy are major risk factors for DVT. Confirm with CT pulmonary angiography.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G10-56"
+ },
+ {
+  "cids": [
+   "C0427"
+  ],
+  "stem": "A 55-year-old man sustains numerous injuries involving the abdomen and lower extremities. During the intra- and postoperative periods, he is resuscitated with 10 L of Ringer's lactate and 2 Units of packed red blood cells (RBC). After initial improvement, he has severe dyspnea on the second postoperative day. The most useful initial diagnostic test is which of the following?",
+  "options": {
+   "A": "Electrocardiogram",
+   "B": "Analysis of arterial blood gas",
+   "C": "Insertion of a central venous line",
+   "D": "Ventilation-perfusion scan",
+   "E": "Computed tomography (CT) scan of abdomen"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Severe dyspnoea after massive resuscitation (10 L crystalloid) suggests ARDS or fluid overload, and arterial blood gas analysis is the most useful initial test to assess oxygenation (PaO2/FiO2 ratio), ventilation and acid-base status. An ECG does not assess respiratory failure.",
+  "key_note": "Paper key marked A (ECG); correct is B: ABG is the first and most useful test in acute postoperative respiratory distress.",
+  "figure": "",
+  "qid": "G10-57"
+ },
+ {
+  "cids": [
+   "C0533"
+  ],
+  "stem": "An 85-year-old ventilator-dependent male had endotracheal intubated 10 days ago. He remains unresponsive and is not a candidate for early extubation. The intensive care unit (ICU) asks trainees to perform tracheotomy at the bedside. During the procedure, copious dark blood is encountered. This is most likely due to transection of which of the following:",
+  "options": {
+   "A": "Anterior jugular vein",
+   "B": "External jugular vein",
+   "C": "Internal jugular vein",
+   "D": "Middle thyroid vein",
+   "E": "Inferior thyroid vein"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "During a bedside tracheostomy the dissection is in the midline, where the anterior jugular veins and their communicating arch are the veins encountered, producing dark venous bleeding. The internal jugular vein lies laterally in the carotid sheath and is not in the operative field.",
+  "key_note": "Paper key marked C (internal jugular vein); correct is A: the IJV lies laterally in the carotid sheath; the anterior jugular veins (and, lower down, the inferior thyroid veins) are the midline veins at risk.",
+  "figure": "",
+  "qid": "G10-58"
+ },
+ {
+  "cids": [
+   "C1212"
+  ],
+  "stem": "Commonest cause of death in surgical patient is:",
+  "options": {
+   "A": "Breast cancer",
+   "B": "Colo-rectal carcinoma",
+   "C": "Lung cancer",
+   "D": "Myocardial Infarction",
+   "E": "Shock"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Shock (haemorrhagic, septic or cardiogenic) with the resulting multiorgan failure is the commonest final pathway of death in surgical patients. The cancers listed are diseases, not causes of death in the surgical setting.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G10-59"
+ },
+ {
+  "cids": [
+   "C1243"
+  ],
+  "stem": "A patient comes to the emergency department unconscious and pulseless. Resuscitation is started. What will be the gold standard for his airway management?",
+  "options": {
+   "A": "Guedel's airway",
+   "B": "Bag mask ventilation",
+   "C": "Laryngeal mask airway",
+   "D": "Endotracheal intubation",
+   "E": "Tracheostomy"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A cuffed endotracheal tube is the gold standard airway: it protects against aspiration, allows controlled ventilation and continuous chest compressions, and permits capnography. Bag-mask and supraglottic devices are acceptable bridges but are not definitive.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G10-60"
+ },
+ {
+  "ncids": [
+   "K0014"
+  ],
+  "stem": "The most commonly used mixture of gases for maintenance of general anaesthesia is:",
+  "options": {
+   "A": "O2/N2O and isoflurane",
+   "B": "O2/nitrogen and halothane",
+   "C": "Sevoflurane/O2",
+   "D": "CO2/N2O and isoflurane",
+   "E": "O2/CO2 and sevoflurane"
+  },
+  "answer": "A",
+  "explanation": "Balanced anaesthesia is classically maintained with oxygen and nitrous oxide as carrier gases plus a volatile agent such as isoflurane. CO2 is never part of the delivered mixture and halothane is largely obsolete.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G10-N1"
+ },
+ {
+  "ncids": [
+   "K0016"
+  ],
+  "stem": "A patient with ischaemic heart disease is taking aspirin and is due for open cholecystectomy. How many days before surgery should aspirin be stopped?",
+  "options": {
+   "A": "5 days",
+   "B": "1 day",
+   "C": "14 days",
+   "D": "7 days",
+   "E": "3 days"
+  },
+  "answer": "D",
+  "explanation": "Aspirin irreversibly inhibits platelet cyclo-oxygenase, so its effect lasts for the platelet lifespan; stopping it 7 days before surgery allows a new platelet population to form. In high-risk cardiac patients the decision should be shared with the cardiologist.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G10-N2"
+ },
+ {
+  "ncids": [
+   "K0966",
+   "K0077"
+  ],
+  "stem": "Patients are kept nil by mouth before anaesthesia to avoid the risk of acid aspiration syndrome. For how long should solid food be withheld before elective surgery (adults and children alike)?",
+  "options": {
+   "A": "2 hours",
+   "B": "4 hours",
+   "C": "6 hours",
+   "D": "8 hours"
+  },
+  "answer": "C",
+  "explanation": "Standard fasting rules are 6 hours for solids (and formula milk), 4 hours for breast milk and 2 hours for clear fluids. The same 6-hour solid-food rule applies to a 4-year-old booked for herniotomy.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G10-N3"
+ },
+ {
+  "ncids": [
+   "K0085",
+   "K0086"
+  ],
+  "stem": "A 52-year-old man presents to the surgical clinic with a right-sided inguinal swelling. He has chronic renal failure secondary to glomerulonephritis. On examination he has a reducible right direct inguinal hernia and mild ankle oedema. His serum creatinine is 3.5 mg/dL (normal 0.5 to 1.2 mg/dL). How will you proceed?",
+  "options": {
+   "A": "Cancel the surgery and advise him to wear a truss",
+   "B": "Check electrolytes and proceed with surgery",
+   "C": "Dialyse the patient and proceed with surgery",
+   "D": "Postpone the surgery until cleared by a nephrologist",
+   "E": "Take high-risk consent and proceed with surgery"
+  },
+  "answer": "D",
+  "explanation": "A reducible direct hernia carries a low risk of strangulation, so elective repair can safely wait until renal function, fluid status and electrolytes are optimised by the nephrologist. Proceeding with an uncorrected significant comorbidity, or dialysing empirically, is inappropriate.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G10-N4"
+ },
+ {
+  "ncids": [
+   "K0114"
+  ],
+  "stem": "Which of the following studies is most helpful in evaluating a patient's pulmonary status before a thoracic surgical procedure?",
+  "options": {
+   "A": "ECG",
+   "B": "Chest X-ray",
+   "C": "History alone",
+   "D": "Lung function tests",
+   "E": "Exercise tolerance test"
+  },
+  "answer": "D",
+  "explanation": "Spirometry (FEV1, FVC) and diffusion capacity quantify pulmonary reserve and predict postoperative respiratory risk, especially before lung resection. A chest X-ray shows anatomy but not function.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G10-N5"
+ },
+ {
+  "ncids": [
+   "K0115"
+  ],
+  "stem": "Malignant hyperthermia is a recognised complication of:",
+  "options": {
+   "A": "Atropine",
+   "B": "Pentothal",
+   "C": "Halothane",
+   "D": "Atracurium",
+   "E": "Succinylcholine"
+  },
+  "answer": "E",
+  "explanation": "Malignant hyperthermia is triggered by suxamethonium (succinylcholine) and the volatile agents in genetically susceptible patients (RYR1 mutation). Halothane is also a trigger, but succinylcholine is the classic single-drug answer; thiopentone, atropine and non-depolarising relaxants are safe.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G10-N6"
+ },
+ {
+  "ncids": [
+   "K0121"
+  ],
+  "stem": "A cuffed endotracheal tube is traditionally avoided in young children because it can lead to:",
+  "options": {
+   "A": "Allergic reaction",
+   "B": "Bleeding",
+   "C": "Cough",
+   "D": "Cyanosis",
+   "E": "Tracheal stenosis"
+  },
+  "answer": "E",
+  "explanation": "The narrowest part of the child's airway is the cricoid ring, and cuff pressure on its mucosa causes oedema, ulceration and later subglottic/tracheal stenosis. Modern low-pressure cuffed tubes are increasingly used with careful cuff monitoring.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G10-N7"
+ },
+ {
+  "ncids": [
+   "K1232"
+  ],
+  "stem": "A non-cuffed endotracheal tube is traditionally used in:",
+  "options": {
+   "A": "Adults",
+   "B": "Adolescents",
+   "C": "Children",
+   "D": "The elderly",
+   "E": "Pregnant women"
+  },
+  "answer": "C",
+  "explanation": "In children the cricoid ring is the narrowest point and forms a natural seal around an uncuffed tube, while a cuff risks mucosal ischaemia and subglottic stenosis.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G10-N8"
+ },
+ {
+  "ncids": [
+   "K0149"
+  ],
+  "stem": "Which of the following airways can be tolerated by a conscious patient?",
+  "options": {
+   "A": "Endotracheal tube",
+   "B": "Oropharyngeal airway",
+   "C": "Laryngeal mask airway",
+   "D": "Nasopharyngeal airway",
+   "E": "Tracheostomy tube"
+  },
+  "answer": "D",
+  "explanation": "A nasopharyngeal airway is tolerated by semiconscious and conscious patients because it does not stimulate the gag reflex. Oropharyngeal airways and LMAs provoke gagging and vomiting unless the patient is deeply obtunded.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G10-N9"
+ },
+ {
+  "ncids": [
+   "K0164"
+  ],
+  "stem": "The most commonly used intravenous anaesthetic induction agent is:",
+  "options": {
+   "A": "Diazepam",
+   "B": "Morphine",
+   "C": "Atracurium",
+   "D": "Propofol",
+   "E": "Ketamine"
+  },
+  "answer": "D",
+  "explanation": "Propofol is the standard IV induction agent: rapid onset, rapid clean recovery and antiemetic properties. Atracurium is a muscle relaxant and morphine an analgesic.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G10-N10"
+ },
+ {
+  "ncids": [
+   "K1486"
+  ],
+  "stem": "A 20-year-old woman needs general anaesthesia for appendicectomy. Which one of the following is the best intravenous induction agent?",
+  "options": {
+   "A": "Thiopentone",
+   "B": "Nitrous oxide",
+   "C": "Propofol",
+   "D": "Halothane",
+   "E": "Succinylcholine"
+  },
+  "answer": "C",
+  "explanation": "Propofol gives smooth rapid induction, suppresses airway reflexes and has a short recovery with less nausea, making it the agent of choice in a fit young adult. Nitrous oxide and halothane are inhalational agents and succinylcholine is a muscle relaxant, not an induction agent.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G10-N11"
+ },
+ {
+  "ncids": [
+   "K0165"
+  ],
+  "stem": "The three basic monitors used during anaesthesia are:",
+  "options": {
+   "A": "ECG, temperature and pulse oximeter",
+   "B": "ECG, pulse oximeter and blood pressure",
+   "C": "ECG and capnogram",
+   "D": "Pulse oximeter, respiratory rate and blood pressure",
+   "E": "Respiratory rate, heart rate and blood pressure"
+  },
+  "answer": "B",
+  "explanation": "Minimum standard monitoring includes ECG, pulse oximetry and non-invasive blood pressure, with capnography added whenever an airway device is used. Of the options, B is the classic basic triad.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G10-N12"
+ },
+ {
+  "ncids": [
+   "K0167"
+  ],
+  "stem": "The most commonly used inhalational anaesthetic agent in modern general anaesthesia is:",
+  "options": {
+   "A": "Halothane",
+   "B": "Isoflurane",
+   "C": "Desflurane",
+   "D": "Sevoflurane",
+   "E": "Chloroform"
+  },
+  "answer": "D",
+  "explanation": "Sevoflurane is non-pungent, allows smooth inhalational induction and rapid recovery, and is the most widely used volatile agent. Halothane and chloroform are obsolete.",
+  "key_note": "Bank marked C with * but highlighted D; correct is D because sevoflurane, not desflurane, is the most widely used volatile agent.",
+  "_new": true,
+  "qid": "G10-N13"
+ },
+ {
+  "ncids": [
+   "K0168",
+   "K0170"
+  ],
+  "stem": "Most elective caesarean sections are performed under:",
+  "options": {
+   "A": "Spinal anaesthesia",
+   "B": "Epidural anaesthesia",
+   "C": "Local anaesthesia",
+   "D": "General anaesthesia",
+   "E": "Caudal anaesthesia"
+  },
+  "answer": "A",
+  "explanation": "Spinal (subarachnoid) block is the technique of choice for elective caesarean section: rapid dense block, minimal fetal drug exposure, avoids the difficult obstetric airway and lets the mother stay awake.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G10-N14"
+ },
+ {
+  "ncids": [
+   "K0169"
+  ],
+  "stem": "The most common site for administering spinal anaesthesia is the:",
+  "options": {
+   "A": "Thoracic region",
+   "B": "Cervical region",
+   "C": "Lumbar region",
+   "D": "Sacral region"
+  },
+  "answer": "C",
+  "explanation": "Spinal anaesthesia is given in the lumbar region (L3/4 or L4/5), below the termination of the cord at L1/L2 in adults, to avoid cord injury.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G10-N15"
+ },
+ {
+  "ncids": [
+   "K0171"
+  ],
+  "stem": "A 60-year-old woman undergoes open cholecystectomy under spinal anaesthesia. Which one of the following is the most serious complication that can occur?",
+  "options": {
+   "A": "Cardiac arrest",
+   "B": "Headache",
+   "C": "Hypotension",
+   "D": "Needle breakage",
+   "E": "Urinary retention"
+  },
+  "answer": "A",
+  "explanation": "Hypotension is the commonest complication, but the most serious is cardiac arrest from a high or total spinal block with profound sympathectomy and bradycardia. A cholecystectomy needs a high block, increasing this risk.",
+  "key_note": "Bank marked A with * but highlighted C; correct is A because the question asks for the most serious complication, while hypotension is the most common.",
+  "_new": true,
+  "qid": "G10-N16"
+ },
+ {
+  "ncids": [
+   "K0172"
+  ],
+  "stem": "Which type of anaesthesia is most appropriate for a patient undergoing surgery on the humerus?",
+  "options": {
+   "A": "Bier block",
+   "B": "General anaesthesia",
+   "C": "Local anaesthesia",
+   "D": "Ring block",
+   "E": "Spinal anaesthesia"
+  },
+  "answer": "B",
+  "explanation": "Humeral surgery needs anaesthesia of the whole arm and shoulder region, provided by general anaesthesia (with or without a brachial plexus block). A Bier block needs an upper arm tourniquet, so it only covers the forearm and hand, and spinal anaesthesia covers the lower body only.",
+  "key_note": "Bank marked A; correct is B because a Bier block requires a tourniquet on the upper arm and cannot anaesthetise the humerus.",
+  "_new": true,
+  "qid": "G10-N17"
+ },
+ {
+  "ncids": [
+   "K0173"
+  ],
+  "stem": "What is the maximum safe dose of plain lignocaine (lidocaine) for local infiltration anaesthesia?",
+  "options": {
+   "A": "1 to 3 mg/kg",
+   "B": "3 to 5 mg/kg",
+   "C": "5 to 7 mg/kg",
+   "D": "7 to 9 mg/kg",
+   "E": "9 to 11 mg/kg"
+  },
+  "answer": "B",
+  "explanation": "The maximum dose of plain lignocaine is about 3 mg/kg (some sources up to 4.5 mg/kg), rising to 7 mg/kg with adrenaline. The 3 to 5 mg/kg band contains the plain-drug limit.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G10-N18"
+ },
+ {
+  "ncids": [
+   "K0766"
+  ],
+  "stem": "What is the maximum safe dose of plain lignocaine for local infiltration in a 60 kg man?",
+  "options": {
+   "A": "100 mg",
+   "B": "180 mg",
+   "C": "250 mg",
+   "D": "300 mg",
+   "E": "350 mg"
+  },
+  "answer": "B",
+  "explanation": "Maximum dose of plain lignocaine is 3 mg/kg, so 3 x 60 = 180 mg (equal to 18 mL of 1% or 9 mL of 2% solution). With adrenaline the limit rises to 7 mg/kg (420 mg).",
+  "key_note": "",
+  "_new": true,
+  "qid": "G10-N19"
+ },
+ {
+  "ncids": [
+   "K1249"
+  ],
+  "stem": "Which of the following represents a safe maximum dose of local anaesthetic in an adult?",
+  "options": {
+   "A": "Lignocaine: 40 mL of 2%",
+   "B": "Bupivacaine: 40 mL of 1%",
+   "C": "Ropivacaine: 40 mL of 1%",
+   "D": "Prilocaine: 40 mL of 1%"
+  },
+  "answer": "D",
+  "explanation": "1% = 10 mg/mL, 2% = 20 mg/mL. Prilocaine 40 mL of 1% = 400 mg, which is its accepted adult maximum (6 mg/kg). Lignocaine 40 mL of 2% = 800 mg (limit about 200 mg plain, 500 mg with adrenaline), bupivacaine 40 mL of 1% = 400 mg (limit about 150 mg) and ropivacaine 40 mL of 1% = 400 mg (limit about 225 mg) are all toxic.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G10-N20"
+ },
+ {
+  "ncids": [
+   "K0175"
+  ],
+  "stem": "During anaesthesia, succinylcholine injection is used for:",
+  "options": {
+   "A": "Induction",
+   "B": "Maintenance",
+   "C": "Reversal",
+   "D": "Muscle relaxation",
+   "E": "Analgesia"
+  },
+  "answer": "D",
+  "explanation": "Succinylcholine is a depolarising neuromuscular blocker used for rapid muscle relaxation to facilitate intubation, especially in rapid sequence induction.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G10-N21"
+ },
+ {
+  "ncids": [
+   "K0176",
+   "K1225"
+  ],
+  "stem": "Lignocaine with adrenaline is contraindicated for local anaesthesia of the:",
+  "options": {
+   "A": "Finger",
+   "B": "Arm",
+   "C": "Scalp",
+   "D": "Palm",
+   "E": "Sole"
+  },
+  "answer": "A",
+  "explanation": "Adrenaline is traditionally avoided in end-artery areas (fingers, toes, penis, pinna, nose tip) because vasoconstriction may cause ischaemic necrosis. The scalp, in contrast, benefits from adrenaline to reduce bleeding.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G10-N22"
+ },
+ {
+  "ncids": [
+   "K0264"
+  ],
+  "stem": "A man with a short neck is anaesthetised for thyroidectomy. Which technique is commonly used for intubation in an anticipated difficult airway?",
+  "options": {
+   "A": "Nasal intubation",
+   "B": "Oral intubation",
+   "C": "Small endotracheal tube",
+   "D": "Guide-wire guided intubation",
+   "E": "Fibreoptic intubation"
+  },
+  "answer": "E",
+  "explanation": "Awake fibreoptic intubation is the gold standard for an anticipated difficult airway (short neck, large goitre, tracheal deviation), as the airway is secured under vision while spontaneous breathing is preserved.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G10-N23"
+ },
+ {
+  "ncids": [
+   "K0265"
+  ],
+  "stem": "The anaesthesia of choice for perianal fistulectomy is:",
+  "options": {
+   "A": "Ketamine",
+   "B": "Spinal anaesthesia",
+   "C": "Saddle block",
+   "D": "Caudal block",
+   "E": "Epidural anaesthesia"
+  },
+  "answer": "C",
+  "explanation": "A saddle block (low spinal with hyperbaric drug, patient sitting) anaesthetises the sacral segments supplying the perineum while sparing the legs and limiting haemodynamic effects.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G10-N24"
+ },
+ {
+  "ncids": [
+   "K0266"
+  ],
+  "stem": "A diabetic patient with a gangrenous right big toe is due for amputation of the toe. What type of anaesthesia should be given?",
+  "options": {
+   "A": "Ankle block",
+   "B": "Bier's block",
+   "C": "Spinal anaesthesia",
+   "D": "Local ring block",
+   "E": "Intravenous anaesthesia"
+  },
+  "answer": "D",
+  "explanation": "A digital ring block with plain local anaesthetic (no adrenaline) is the simplest option for toe amputation and avoids the systemic risks of GA or spinal in a diabetic. An ankle block is a valid alternative if infection extends to the base of the toe.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G10-N25"
+ },
+ {
+  "ncids": [
+   "K0270"
+  ],
+  "stem": "A man is to undergo oesophagectomy for cancer. The anaesthetist wants to keep him pain free postoperatively. What is the best option?",
+  "options": {
+   "A": "Bupivacaine injection",
+   "B": "Spinal block",
+   "C": "Thoracic epidural block",
+   "D": "Coeliac plexus block",
+   "E": "Local wound infiltration"
+  },
+  "answer": "C",
+  "explanation": "A thoracic epidural infusion gives excellent continuous analgesia after thoraco-abdominal surgery, improves coughing and reduces pulmonary complications. A single-shot spinal wears off within hours.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G10-N26"
+ },
+ {
+  "ncids": [
+   "K0633"
+  ],
+  "stem": "Which of the following investigations will be required before elective surgery in a 45-year-old patient?",
+  "options": {
+   "A": "Blood sugar",
+   "B": "Chest X-ray",
+   "C": "ECG",
+   "D": "All of the above"
+  },
+  "answer": "D",
+  "explanation": "In local exam convention, a middle-aged patient for elective surgery under GA gets a baseline blood sugar, chest X-ray and ECG. In current NICE guidance tests are tailored to ASA grade and surgical grade.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "G10-N27"
+ },
+ {
+  "ncids": [
+   "K0654"
+  ],
+  "stem": "Diabetic patients are high-risk candidates for surgical procedures because of:",
+  "options": {
+   "A": "Poor wound healing",
+   "B": "Increased chances of wound infection",
+   "C": "Increased risk of cardiovascular complications",
+   "D": "Increased risk of cerebrovascular accident",
+   "E": "All of the above"
+  },
+  "answer": "E",
+  "explanation": "Diabetes impairs wound healing and immunity (more infections) and is associated with macrovascular disease, so perioperative MI and stroke risks are increased.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G10-N28"
+ },
+ {
+  "ncids": [
+   "K0682"
+  ],
+  "stem": "An informed consent form contains all the following information EXCEPT:",
+  "options": {
+   "A": "Name of the patient",
+   "B": "Name of the operating surgeon",
+   "C": "Nature of the operation",
+   "D": "Diagnosis of the patient"
+  },
+  "answer": "B",
+  "explanation": "Consent must record the patient's identity, the diagnosis, the nature, benefits and risks of the procedure. It need not guarantee which individual surgeon will operate, only the responsible clinician or team.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "G10-N29"
+ },
+ {
+  "ncids": [
+   "K0748"
+  ],
+  "stem": "A 63-year-old man undergoes a peripheral vascular procedure under general anaesthesia. A decrease in urine formation is noted. Decreased urine flow under general anaesthesia occurs mainly because of:",
+  "options": {
+   "A": "Vasopressin (ADH) release",
+   "B": "Aldosterone suppression",
+   "C": "Depression of glucocorticoids",
+   "D": "Depression of thyroid function",
+   "E": "A specific effect of anaesthesia on the renal tubules"
+  },
+  "answer": "A",
+  "explanation": "Surgery and anaesthesia trigger ADH (vasopressin) release as part of the stress response, causing water retention and oliguria. Aldosterone is increased, not suppressed.",
+  "key_note": "Bank marked B with * but highlighted A; correct is A because the stress response increases ADH and aldosterone, it does not suppress aldosterone.",
+  "_new": true,
+  "qid": "G10-N30"
+ },
+ {
+  "ncids": [
+   "K0750"
+  ],
+  "stem": "A 78-year-old woman undergoes an uncomplicated minor procedure under local anaesthesia. At its completion she suddenly develops pallor, sweating, bradycardia, hypotension, abdominal pain and gastric distension. What is the next step in management?",
+  "options": {
+   "A": "Rapid infusion of 3 L of Ringer's lactate",
+   "B": "Digoxin",
+   "C": "Insertion of a nasogastric tube",
+   "D": "Morphine",
+   "E": "Neostigmine"
+  },
+  "answer": "C",
+  "explanation": "This is acute gastric dilatation with a vagal response; decompression with a nasogastric tube relieves distension and reverses the bradycardia and hypotension. Neostigmine would worsen bradycardia.",
+  "key_note": "Bank marked E with * but highlighted A; correct is C because acute gastric dilatation is treated by nasogastric decompression.",
+  "_new": true,
+  "qid": "G10-N31"
+ },
+ {
+  "ncids": [
+   "K0761"
+  ],
+  "stem": "Which of the following does NOT increase the risk of myocardial ischaemia in the perioperative period?",
+  "options": {
+   "A": "Tachycardia",
+   "B": "Hypertension",
+   "C": "Pain",
+   "D": "Anaemia",
+   "E": "Beta-blockers"
+  },
+  "answer": "E",
+  "explanation": "Tachycardia, hypertension, pain and anaemia all upset myocardial oxygen supply/demand. Beta-blockers lower heart rate and oxygen demand and, if already taken, should be continued perioperatively.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G10-N32"
+ },
+ {
+  "ncids": [
+   "K0763"
+  ],
+  "stem": "Which of the following should be kept in mind while operating on diabetic patients?",
+  "options": {
+   "A": "Tight glycaemic control is not necessary",
+   "B": "Diabetic patients have the same risk of cardiac events as normal patients",
+   "C": "HbA1c reflects glucose control over the preceding 1 month",
+   "D": "Diabetic patients should be prioritised (first) on the theatre list",
+   "E": "Poor wound healing is rare in diabetic patients"
+  },
+  "answer": "D",
+  "explanation": "Diabetics should be first on the list to minimise fasting time and the risk of hypoglycaemia or ketosis. HbA1c reflects control over the previous 2 to 3 months, and diabetics have higher cardiac and wound risks.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G10-N33"
+ },
+ {
+  "ncids": [
+   "K0764"
+  ],
+  "stem": "During the COVID-19 pandemic, which of the following was the minimum screening recommended for elective surgical patients?",
+  "options": {
+   "A": "COVID-19 IgG and IgM levels",
+   "B": "COVID-19 PCR and chest X-ray",
+   "C": "HRCT thorax",
+   "D": "COVID-19 rapid antigen test",
+   "E": "History and examination only"
+  },
+  "answer": "B",
+  "explanation": "Pre-operative screening in local protocols relied on a negative RT-PCR (with a chest X-ray), since antibodies do not show current infection and rapid antigen tests are less sensitive.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G10-N34"
+ },
+ {
+  "ncids": [
+   "K0851"
+  ],
+  "stem": "Which of the following is most likely to occur after spinal anaesthesia?",
+  "options": {
+   "A": "CSF leak headache",
+   "B": "Temporal lobe herniation",
+   "C": "Hypotension",
+   "D": "Infection"
+  },
+  "answer": "C",
+  "explanation": "Sympathetic blockade causes vasodilatation, making hypotension the commonest complication of spinal anaesthesia. Post-dural puncture headache is less frequent with fine pencil-point needles, and infection is rare.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "G10-N35"
+ },
+ {
+  "ncids": [
+   "K0948"
+  ],
+  "stem": "Of the following, the commonest late complication after spinal anaesthesia is:",
+  "options": {
+   "A": "Backache",
+   "B": "Bleeding",
+   "C": "Headache",
+   "D": "Meningitis",
+   "E": "Urinary retention"
+  },
+  "answer": "C",
+  "explanation": "Post-dural puncture headache from CSF leak is the classic characteristic complication: postural, worse sitting up, relieved lying flat. Hypotension is the commonest immediate effect but is not offered here.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G10-N36"
+ },
+ {
+  "ncids": [
+   "K0965"
+  ],
+  "stem": "After a proven myocardial infarction, to reduce the risk of perioperative re-infarction, elective surgery should be postponed for:",
+  "options": {
+   "A": "1 to 2 months",
+   "B": "2 to 3 months",
+   "C": "3 to 6 months",
+   "D": "6 to 12 months",
+   "E": "12 to 24 months"
+  },
+  "answer": "C",
+  "explanation": "Re-infarction risk is about 30% within 3 months of MI, 15% at 3 to 6 months and 5% after 6 months, so elective surgery is deferred for at least 3 and ideally 6 months.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G10-N37"
+ },
+ {
+  "ncids": [
+   "K0967"
+  ],
+  "stem": "Bier's block (intravenous regional anaesthesia) is usually used for surgery of the:",
+  "options": {
+   "A": "Chest",
+   "B": "Digit",
+   "C": "Scalp",
+   "D": "Lower limb",
+   "E": "Upper limb"
+  },
+  "answer": "E",
+  "explanation": "Bier's block involves exsanguinating the limb, inflating a tourniquet and injecting local anaesthetic (prilocaine) intravenously. It is mostly used for forearm and hand surgery.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G10-N38"
+ },
+ {
+  "ncids": [
+   "K0975"
+  ],
+  "stem": "A 50-year-old woman is booked for cholecystectomy under general anaesthesia. Which technique is best for maintaining the airway and preventing complications such as aspiration?",
+  "options": {
+   "A": "Cricothyroidotomy",
+   "B": "Endotracheal intubation",
+   "C": "Guedel airway",
+   "D": "Jaw thrust",
+   "E": "Tracheostomy"
+  },
+  "answer": "B",
+  "explanation": "A cuffed endotracheal tube secures the airway, allows controlled ventilation with relaxants and protects against aspiration, so it is standard for abdominal surgery. Cricothyroidotomy and tracheostomy are emergency or long-term surgical airways.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G10-N39"
+ },
+ {
+  "ncids": [
+   "K1043"
+  ],
+  "stem": "A healthy 25-year-old man is booked for inguinal hernioplasty. Which statement is true regarding his pre-operative preparation?",
+  "options": {
+   "A": "He should be nil by mouth for 10 hours before surgery",
+   "B": "A hepatitis profile is all he requires from laboratory tests",
+   "C": "A chest X-ray is mandatory",
+   "D": "Shaving is best done 2 hours before surgery",
+   "E": "Hernioplasty is commonly done under general anaesthesia"
+  },
+  "answer": "E",
+  "explanation": "Most elective inguinal hernia repairs are done under general (or regional) anaesthesia. If hair removal is needed it should be done with clippers immediately before surgery, fasting is 6 hours for solids, and a chest X-ray is not needed in a healthy young adult.",
+  "key_note": "Bank marked D with * but highlighted E; correct is E because hair removal should be done immediately before surgery with clippers, not 2 hours earlier.",
+  "_new": true,
+  "qid": "G10-N40"
+ },
+ {
+  "ncids": [
+   "K1045"
+  ],
+  "stem": "A 40-year-old woman develops dryness of the mouth immediately after surgery for a perforated duodenal ulcer. The doctor reassures her that this is a known side effect of an anaesthetic drug. Which drug is it?",
+  "options": {
+   "A": "Atropine",
+   "B": "Enflurane",
+   "C": "Neostigmine",
+   "D": "Pentothal",
+   "E": "Suxamethonium"
+  },
+  "answer": "A",
+  "explanation": "Atropine is an antimuscarinic given as premedication or with neostigmine at reversal; it reduces salivary secretions, causing a dry mouth. Neostigmine does the opposite (increases secretions).",
+  "key_note": "",
+  "_new": true,
+  "qid": "G10-N41"
+ },
+ {
+  "ncids": [
+   "K1063"
+  ],
+  "stem": "A 65-year-old woman who is a chronic smoker is being prepared for elective cholecystectomy under general anaesthesia. Which investigation should be done as part of her routine work-up?",
+  "options": {
+   "A": "X-ray chest",
+   "B": "CT scan chest",
+   "C": "Lung function test",
+   "D": "MRI chest",
+   "E": "Ultrasound chest"
+  },
+  "answer": "A",
+  "explanation": "An elderly chronic smoker undergoing GA needs a baseline chest X-ray to detect chronic lung disease, malignancy or infection. Formal lung function tests are reserved for symptomatic patients or thoracic and major upper abdominal risk assessment.",
+  "key_note": "One copy marked X-ray chest with * but highlighted lung function test; correct is X-ray chest, which is the routine baseline test.",
+  "_new": true,
+  "qid": "G10-N42"
+ },
+ {
+  "ncids": [
+   "K1206"
+  ],
+  "stem": "What is the most significant disadvantage of the laryngeal mask airway (LMA) compared with an endotracheal tube?",
+  "options": {
+   "A": "Failure to provide a competent airway",
+   "B": "Risk of pulmonary aspiration",
+   "C": "Unreliable placement",
+   "D": "Enhanced risk of tube obstruction",
+   "E": "Failure to allow tracheal suction"
+  },
+  "answer": "B",
+  "explanation": "The LMA sits above the glottis and does not seal the trachea, so it gives no protection against aspiration of gastric contents. It is therefore avoided in patients with a full stomach.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G10-N43"
+ },
+ {
+  "ncids": [
+   "K1209"
+  ],
+  "stem": "Lidocaine can be injected intravenously, but what is the main reason why bupivacaine should not be injected into a vein during local anaesthesia?",
+  "options": {
+   "A": "It lasts longer",
+   "B": "It is often used with adrenaline",
+   "C": "It can cause methaemoglobinaemia",
+   "D": "It may cause convulsions",
+   "E": "It is cardiotoxic"
+  },
+  "answer": "E",
+  "explanation": "Bupivacaine binds cardiac sodium channels avidly and dissociates slowly, so intravascular injection causes refractory arrhythmias and cardiac arrest; it is never used for Bier's block. Methaemoglobinaemia is a feature of prilocaine.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G10-N44"
+ },
+ {
+  "ncids": [
+   "K1220"
+  ],
+  "stem": "Atropine injection is used during anaesthesia in a patient having:",
+  "options": {
+   "A": "Bradycardia",
+   "B": "Cyanosis",
+   "C": "Hypertension",
+   "D": "Hypotension",
+   "E": "Tachycardia"
+  },
+  "answer": "A",
+  "explanation": "Atropine blocks vagal muscarinic effects on the SA node and is the first-line drug for intraoperative bradycardia.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G10-N45"
+ },
+ {
+  "ncids": [
+   "K1231"
+  ],
+  "stem": "Atropine injection should be avoided if the patient has:",
+  "options": {
+   "A": "Bleeding",
+   "B": "Diabetes mellitus",
+   "C": "Cyanosis",
+   "D": "Fever",
+   "E": "Hypertension"
+  },
+  "answer": "D",
+  "explanation": "Atropine inhibits sweating and can cause hyperpyrexia, so it is avoided in febrile patients (particularly children). Other cautions are tachycardia and angle-closure glaucoma.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G10-N46"
+ },
+ {
+  "ncids": [
+   "K1222"
+  ],
+  "stem": "During anaesthesia, Pentothal (thiopentone) injection is used for:",
+  "options": {
+   "A": "Induction",
+   "B": "Maintenance",
+   "C": "Reversal",
+   "D": "Relaxation",
+   "E": "Analgesia"
+  },
+  "answer": "A",
+  "explanation": "Thiopentone is an ultrashort-acting barbiturate used for rapid IV induction; it has no analgesic or relaxant effect and accumulates if used for maintenance.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G10-N47"
+ },
+ {
+  "ncids": [
+   "K1224"
+  ],
+  "stem": "The recommended position of a patient after tonsillectomy is:",
+  "options": {
+   "A": "Head up",
+   "B": "Lateral",
+   "C": "Legs up",
+   "D": "Prone",
+   "E": "Straight supine"
+  },
+  "answer": "B",
+  "explanation": "The lateral (tonsillar or recovery) position with slight head-down tilt lets blood and secretions drain out of the mouth rather than being aspirated.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G10-N48"
+ },
+ {
+  "ncids": [
+   "K1226"
+  ],
+  "stem": "A test dose of a drug (for example an antibiotic, to check for hypersensitivity) is given by which route?",
+  "options": {
+   "A": "Intramuscular",
+   "B": "Intraosseous",
+   "C": "Intrathecal",
+   "D": "Intravenous",
+   "E": "Subcutaneous"
+  },
+  "answer": "E",
+  "explanation": "Sensitivity test doses are given superficially (intradermally or subcutaneously) so a reaction is visible locally and absorption is slow. Strictly the intradermal route is used; subcutaneous is the closest option offered.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G10-N49"
+ },
+ {
+  "ncids": [
+   "K1228"
+  ],
+  "stem": "The colour of a nitrous oxide cylinder is:",
+  "options": {
+   "A": "Blue",
+   "B": "Green",
+   "C": "Red",
+   "D": "White",
+   "E": "Yellow"
+  },
+  "answer": "A",
+  "explanation": "Nitrous oxide cylinders are French blue. Oxygen cylinders are black with a white shoulder (white in newer coding), and medical air is grey with black and white shoulders.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G10-N50"
+ },
+ {
+  "ncids": [
+   "K1229"
+  ],
+  "stem": "The colour of an oxygen cylinder (shoulder) is:",
+  "options": {
+   "A": "Blue",
+   "B": "Green",
+   "C": "Black",
+   "D": "White",
+   "E": "Yellow"
+  },
+  "answer": "D",
+  "explanation": "Medical oxygen cylinders have a white shoulder (black body in the older UK/Pakistani coding, all-white in the newer ISO coding). Blue is nitrous oxide.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G10-N51"
+ },
+ {
+  "ncids": [
+   "K1233"
+  ],
+  "stem": "The position for thyroidectomy is:",
+  "options": {
+   "A": "Head-up (reverse Trendelenburg) with neck extended",
+   "B": "Lateral",
+   "C": "Lithotomy",
+   "D": "Prone",
+   "E": "Flat supine"
+  },
+  "answer": "A",
+  "explanation": "Thyroidectomy is performed supine with a sandbag under the shoulders, the neck extended and a 15 to 20 degree head-up tilt to reduce venous congestion and bleeding.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G10-N52"
+ },
+ {
+  "ncids": [
+   "K1237"
+  ],
+  "stem": "A laryngeal mask airway (LMA) is used mainly by the:",
+  "options": {
+   "A": "Anaesthetist",
+   "B": "Gynaecologist",
+   "C": "Ophthalmologist",
+   "D": "Surgeon",
+   "E": "Urologist"
+  },
+  "answer": "A",
+  "explanation": "The LMA is a supraglottic airway device used by anaesthetists for airway management during GA and as a rescue device in failed intubation.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G10-N53"
+ },
+ {
+  "ncids": [
+   "K1239"
+  ],
+  "stem": "Painless delivery (labour analgesia) is achieved by:",
+  "options": {
+   "A": "Epidural anaesthesia",
+   "B": "Ketamine injection",
+   "C": "Local anaesthesia",
+   "D": "Morphine injection",
+   "E": "Spinal anaesthesia"
+  },
+  "answer": "A",
+  "explanation": "A lumbar epidural catheter gives continuous adjustable labour analgesia and can be topped up for operative delivery. A single-shot spinal is too short-lived for labour.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G10-N54"
+ },
+ {
+  "ncids": [
+   "K1247"
+  ],
+  "stem": "Which of the following is true regarding pre- and intra-operative anaesthetic management?",
+  "options": {
+   "A": "Pre-anaesthetic complete blood counts are essential even for medically fit patients undergoing minor surgery",
+   "B": "Recent myocardial infarction is not by itself a contraindication to elective anaesthesia",
+   "C": "Hepatitis does not affect recovery from anaesthesia",
+   "D": "Bipolar diathermy is safer than monopolar diathermy in patients with a pacemaker"
+  },
+  "answer": "D",
+  "explanation": "In bipolar diathermy current passes only between the forceps tips, so it does not traverse the body or interfere with a pacemaker. Recent MI is a strong reason to defer elective surgery and liver disease delays drug metabolism.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G10-N55"
+ },
+ {
+  "ncids": [
+   "K1248"
+  ],
+  "stem": "In the perioperative management of diabetic patients:",
+  "options": {
+   "A": "Insulin control is preferred, even in non-insulin-dependent diabetics, for major surgery",
+   "B": "Sodium derangements are commoner than potassium changes",
+   "C": "Long-acting insulin is better than short-acting insulin",
+   "D": "Blood sugar is best measured once daily"
+  },
+  "answer": "A",
+  "explanation": "For major surgery, glucose is best controlled with a variable-rate IV infusion of short-acting insulin, even in type 2 diabetics. Insulin shifts potassium, so potassium derangements are more common, and glucose is monitored hourly.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G10-N56"
+ },
+ {
+  "ncids": [
+   "K1342"
+  ],
+  "stem": "Metabolic disorders that can complicate anaesthesia include:",
+  "options": {
+   "A": "Porphyria",
+   "B": "Malignant hyperthermia",
+   "C": "Diabetes mellitus",
+   "D": "Corticosteroid intake",
+   "E": "All of the above"
+  },
+  "answer": "E",
+  "explanation": "Barbiturates precipitate acute porphyria, volatile agents and suxamethonium trigger malignant hyperthermia, diabetes risks hypo/hyperglycaemia, and steroid use needs perioperative cover to prevent adrenal crisis.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G10-N57"
+ },
+ {
+  "ncids": [
+   "K1343"
+  ],
+  "stem": "In a jaundiced patient, general anaesthesia and surgery carry the particular risk of:",
+  "options": {
+   "A": "Bleeding",
+   "B": "Thrombosis",
+   "C": "Renal failure",
+   "D": "Shock"
+  },
+  "answer": "C",
+  "explanation": "Obstructive jaundice predisposes to acute kidney injury (hepatorenal syndrome) through endotoxaemia and bile salt effects, so patients are well hydrated and given mannitol. Bleeding from vitamin K deficiency is also a risk, but is corrected preoperatively.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G10-N58"
+ },
+ {
+  "ncids": [
+   "K1344"
+  ],
+  "stem": "Nitrous oxide is:",
+  "options": {
+   "A": "A strong analgesic but a weak anaesthetic",
+   "B": "A weak analgesic but a strong anaesthetic",
+   "C": "A strong analgesic and a strong anaesthetic",
+   "D": "Neither analgesic nor anaesthetic"
+  },
+  "answer": "A",
+  "explanation": "Nitrous oxide is a good analgesic (Entonox) but a weak anaesthetic with a MAC of about 104%, so it cannot produce anaesthesia alone and is used as a carrier gas.",
+  "key_note": "Bank keyed D ('analgesic and weak anaesthetic'); correct is A, the textbook statement that N2O is a strong analgesic but weak anaesthetic. Option D was a near-duplicate of A and has been replaced.",
+  "_new": true,
+  "qid": "G10-N59"
+ },
+ {
+  "ncids": [
+   "K1485"
+  ],
+  "stem": "On the first postoperative day after major surgery, a 70-year-old man vomits and immediately goes into severe respiratory distress. The initial treatment should be:",
+  "options": {
+   "A": "Tracheal intubation and suctioning",
+   "B": "Steroids",
+   "C": "Intravenous fluid bolus",
+   "D": "Cricothyroidotomy",
+   "E": "High positive end-expiratory pressure"
+  },
+  "answer": "A",
+  "explanation": "This is aspiration of gastric contents (Mendelson syndrome); the airway must be secured and the aspirate suctioned immediately. Steroids have no proven benefit.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G10-N60"
+ },
+ {
+  "ncids": [
+   "K1506"
+  ],
+  "stem": "A patient due for elective cholecystectomy is taking aspirin for osteoarthritis. Which test should be done before surgery?",
+  "options": {
+   "A": "APTT",
+   "B": "PT",
+   "C": "Clotting time",
+   "D": "Bleeding time",
+   "E": "Reptilase time"
+  },
+  "answer": "D",
+  "explanation": "Aspirin impairs platelet function without changing the platelet count or coagulation factors, so bleeding time (a platelet function test) is prolonged while PT and APTT stay normal.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G10-N61"
+ },
+ {
+  "ncids": [
+   "K1564"
+  ],
+  "stem": "A patient under general anaesthesia develops high blood pressure. Which drug should be given?",
+  "options": {
+   "A": "Glyceryl trinitrate",
+   "B": "Halothane",
+   "C": "Hydralazine",
+   "D": "Metoprolol"
+  },
+  "answer": "C",
+  "explanation": "After excluding light anaesthesia and pain, intraoperative hypertension is commonly treated with an IV vasodilator such as hydralazine. Exam keys use hydralazine; GTN and short-acting beta-blockers are alternatives in current practice.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G10-N62"
+ },
+ {
+  "ncids": [
+   "K1622"
+  ],
+  "stem": "Pain control in benign disease includes the following. Mark the INCORRECT option.",
+  "options": {
+   "A": "Pre-emptive analgesia to avoid phantom pain",
+   "B": "Local anaesthetic or steroid infiltration around nerve roots to reduce spasm",
+   "C": "Transcutaneous electrical nerve stimulation",
+   "D": "Neuralgias respond to decompression of nerves",
+   "E": "On-demand analgesia"
+  },
+  "answer": "E",
+  "explanation": "Analgesia for persistent pain should be given regularly by the clock rather than on demand, which allows pain to return before the next dose. The other options are recognised strategies.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "G10-N63"
+ },
+ {
+  "ncids": [
+   "K1623"
+  ],
+  "stem": "After a failed attempt at endotracheal intubation, the best choice to maintain oxygenation is:",
+  "options": {
+   "A": "Pass an oral airway",
+   "B": "Do a tracheostomy",
+   "C": "Laryngeal mask airway",
+   "D": "Face mask",
+   "E": "Nasotracheal intubation"
+  },
+  "answer": "C",
+  "explanation": "Difficult Airway Society guidelines recommend a second-generation supraglottic device (LMA) as the rescue after failed intubation. A surgical airway is reserved for a can't intubate, can't oxygenate situation.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G10-N64"
+ },
+ {
+  "ncids": [
+   "K1712"
+  ],
+  "stem": "Which of the following investigations is NOT required for anaesthetic fitness before elective surgery in a middle-aged patient?",
+  "options": {
+   "A": "Complete blood picture",
+   "B": "Ultrasound abdomen",
+   "C": "Blood sugar",
+   "D": "Chest X-ray",
+   "E": "ECG"
+  },
+  "answer": "B",
+  "explanation": "Abdominal ultrasound is a diagnostic test for abdominal disease and has no role in assessing fitness for anaesthesia.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G10-N65"
+ },
+ {
+  "ncids": [
+   "K1728"
+  ],
+  "stem": "A patient develops fever on the 4th day after laparotomy. Which of the following is NOT a likely cause at this stage?",
+  "options": {
+   "A": "Urinary tract infection",
+   "B": "Wound infection",
+   "C": "Subphrenic abscess",
+   "D": "IV cannula site infection",
+   "E": "Chest infection"
+  },
+  "answer": "C",
+  "explanation": "Intra-abdominal collections such as a subphrenic abscess typically present around 7 to 10 days or later. Chest, urinary, wound and cannula infections all occur around days 3 to 5.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G10-N66"
+ },
+ {
+  "ncids": [
+   "K0174"
+  ],
+  "stem": "Which of the following investigations is routinely required in a patient receiving general anaesthesia?",
+  "options": {
+   "A": "Blood complete picture (haemoglobin)",
+   "B": "Echocardiography",
+   "C": "Liver function tests",
+   "D": "Renal function tests",
+   "E": "Serum electrolytes"
+  },
+  "answer": "A",
+  "explanation": "A blood count (haemoglobin) is the baseline investigation most consistently requested before general anaesthesia. Echocardiography, liver and renal tests and electrolytes are requested only when age, comorbidity or the planned surgery indicate them.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G10-N67"
+ }
+]

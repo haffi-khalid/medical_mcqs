@@ -1,0 +1,794 @@
+[
+ {
+  "cids": [
+   "C1283"
+  ],
+  "stem": "A 4-year-old boy came after a fall. He has a tender swelling over the right clavicle and X-ray shows a fracture of the right clavicle. What is the best treatment option?",
+  "options": {
+   "A": "Arm rest and analgesia",
+   "B": "Polysling (broad arm sling) application",
+   "C": "Open reduction and plating",
+   "D": "Closed intramedullary nailing",
+   "E": "Wire application"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Paediatric clavicle fractures heal rapidly and remodel, so treatment is a broad arm sling (polysling) with analgesia for 2-3 weeks. Operative fixation is almost never needed in children.",
+  "key_note": "The compiled key gave A (arm rest and analgesia); the paper key B is the standard answer, since a sling is the treatment and 'arm rest' alone does not immobilise the fracture.",
+  "figure": "",
+  "qid": "2-1"
+ },
+ {
+  "cids": [
+   "C0968"
+  ],
+  "stem": "A 40-year-old man injured his right shoulder while playing, with immediate pain and deformity. A dislocation of the shoulder joint is suspected. Which type of shoulder dislocation is most common?",
+  "options": {
+   "A": "Posterior",
+   "B": "Anterior",
+   "C": "Superior",
+   "D": "Lateral"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Anterior (subcoracoid) dislocation accounts for about 95% of shoulder dislocations. Posterior dislocation is rare and classically follows epileptic fits or electric shock.",
+  "key_note": "One paper key marked D (Lateral); correct is B: anterior dislocation is by far the commonest.",
+  "figure": "",
+  "qid": "2-2"
+ },
+ {
+  "cids": [
+   "C0627",
+   "C1491"
+  ],
+  "stem": "During a fight a patient's right arm was forced into extension, abduction and external rotation. He came to the emergency department supporting his right arm with his left hand, in so much pain that he would not allow examination. He is suffering from:",
+  "options": {
+   "A": "Fracture of the proximal humerus head",
+   "B": "Fracture of the lower third of the humeral shaft",
+   "C": "Posterior dislocation of the shoulder joint",
+   "D": "Inferior dislocation of the shoulder joint",
+   "E": "Anterior dislocation of the shoulder joint"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Forced abduction, extension and external rotation levers the humeral head out anteriorly; anterior dislocation is about 95% of shoulder dislocations. The patient supports the injured arm with the other hand and the shoulder loses its rounded contour (squared, prominent acromion); check axillary nerve sensation over the regimental badge area.",
+  "key_note": "",
+  "figure": "",
+  "qid": "2-3"
+ },
+ {
+  "cids": [
+   "C0302",
+   "C1268"
+  ],
+  "stem": "A sportsman cannot extend his right wrist after a fall while playing. His radiograph shows a fracture of the shaft of the right humerus. Most likely this is due to injury to the:",
+  "options": {
+   "A": "Anterior interosseous nerve",
+   "B": "Median nerve",
+   "C": "Musculocutaneous nerve",
+   "D": "Radial nerve",
+   "E": "Ulnar nerve"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "The radial nerve lies in the spiral groove of the mid-shaft humerus and is the nerve most often injured in humeral shaft fractures, causing wrist drop with sensory loss over the dorsal first web space. Most are neurapraxias that recover spontaneously.",
+  "key_note": "A variant (mid-shaft fracture with wrist drop; its stem placed the sensory loss over the medial 2 fingers on the dorsum, which is ulnar territory) has the same answer, radial nerve.",
+  "figure": "",
+  "qid": "2-4"
+ },
+ {
+  "cids": [
+   "C0144"
+  ],
+  "stem": "A 50-year-old woman had a fracture of the shaft of the humerus. At surgery the nerve in the radial groove was found trapped between the two fracture fragments. What is the most expected complication?",
+  "options": {
+   "A": "Ape-like hand",
+   "B": "Claw hand",
+   "C": "Dupuytren's contracture",
+   "D": "Volkmann ischaemic contracture",
+   "E": "Wrist drop"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "The nerve in the radial (spiral) groove is the radial nerve; its injury paralyses the wrist and finger extensors, producing wrist drop. Ape hand is median and claw hand is ulnar nerve palsy.",
+  "key_note": "",
+  "figure": "",
+  "qid": "2-5"
+ },
+ {
+  "cids": [
+   "C1490",
+   "C0266"
+  ],
+  "stem": "A 12-year-old boy fell on an outstretched hand and has swelling and bruising around the elbow joint. What is the most likely fracture?",
+  "options": {
+   "A": "Fracture of the lateral condyle of the humerus",
+   "B": "Fracture of the lateral epicondyle of the humerus",
+   "C": "Fracture of the neck of radius",
+   "D": "Fracture of the shaft of the proximal ulna",
+   "E": "Supracondylar fracture of the humerus"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Supracondylar fracture of the humerus is the commonest elbow fracture in children and typically follows a fall on the outstretched hand with the elbow extended. Lateral condyle fracture is the second commonest.",
+  "key_note": "A variant (1-year-old after a fall from bed, not moving the elbow) had no paper key; same answer.",
+  "figure": "",
+  "qid": "2-6"
+ },
+ {
+  "cids": [
+   "C0971"
+  ],
+  "stem": "A 15-year-old boy injured his right arm while playing. There is swelling of the right elbow with painful movements and X-ray shows a supracondylar fracture of the humerus. What is the most threatening immediate complication of this fracture?",
+  "options": {
+   "A": "Malunion",
+   "B": "Bleeding",
+   "C": "Neurovascular compromise",
+   "D": "Compartment syndrome",
+   "E": "Deformity"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "The displaced proximal fragment can injure the brachial artery and the median (anterior interosseous) nerve, so neurovascular compromise is the immediate threat; untreated arterial injury leads on to Volkmann ischaemia. Malunion (cubitus varus) is a late complication.",
+  "key_note": "Option letters differ between papers (5-option and 4-option versions), but all keys marked Neurovascular compromise.",
+  "figure": "",
+  "qid": "2-7"
+ },
+ {
+  "cids": [
+   "C0946"
+  ],
+  "stem": "A 7-year-old boy falls off his bicycle onto his left elbow. He has massive tense swelling of the elbow with painful, restricted movement. X-ray shows a displaced fracture of the distal humerus. Which of the following is the most serious complication of this fracture?",
+  "options": {
+   "A": "Non-union of fracture fragments",
+   "B": "Disruption of the growth plate at the distal end of the humerus",
+   "C": "Forearm compartment syndrome (Volkmann's ischaemia)",
+   "D": "Ankylosis of the elbow joint"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Brachial artery injury or massive swelling after a displaced supracondylar fracture can cause forearm compartment syndrome; if missed, necrotic flexor muscles fibrose into Volkmann's ischaemic contracture, a devastating permanent deformity.",
+  "key_note": "",
+  "figure": "",
+  "qid": "2-8"
+ },
+ {
+  "cids": [
+   "C1280"
+  ],
+  "stem": "A boy fell on his elbow and X-ray shows a supracondylar fracture of the right humerus. Which neurovascular injury is suspected?",
+  "options": {
+   "A": "Radial nerve and radial artery",
+   "B": "Ulnar nerve and ulnar artery",
+   "C": "Median nerve and brachial artery",
+   "D": "Ulnar nerve and brachial artery",
+   "E": "Median nerve and ulnar artery"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "In the common extension-type supracondylar fracture the proximal fragment is driven anteriorly onto the brachial artery and median nerve (especially its anterior interosseous branch).",
+  "key_note": "",
+  "figure": "",
+  "qid": "2-9"
+ },
+ {
+  "cids": [
+   "C0141"
+  ],
+  "stem": "A 9-year-old boy presented with a supracondylar fracture of the humerus. Which nerve is most at risk of injury?",
+  "options": {
+   "A": "Axillary nerve",
+   "B": "Median nerve",
+   "C": "Musculocutaneous nerve",
+   "D": "Radial nerve",
+   "E": "Ulnar nerve"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "The median nerve, particularly its anterior interosseous branch, is the nerve most commonly injured in extension-type supracondylar fractures (posterolateral displacement). The radial nerve is at risk with posteromedial displacement and the ulnar nerve with flexion-type injuries or medial pinning.",
+  "key_note": "",
+  "figure": "",
+  "qid": "2-10"
+ },
+ {
+  "cids": [
+   "C1271"
+  ],
+  "stem": "A 22-year-old man had a supracondylar fracture of the left humerus with loss of sensation over the medial two and a half fingers. Which nerve is most likely damaged?",
+  "options": {
+   "A": "Median nerve",
+   "B": "Radial nerve",
+   "C": "Axillary nerve",
+   "D": "Ulnar nerve",
+   "E": "Thoracodorsal nerve"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Loss of sensation on the medial (little finger) side of the hand is ulnar nerve territory; the ulnar nerve lies behind the medial epicondyle and can be injured in distal humeral fractures. Strictly the ulnar nerve supplies the medial one and a half fingers (the stem's 'two and a half' is loose wording), while the median nerve supplies the lateral three and a half.",
+  "key_note": "One paper key marked A (Median nerve); correct is D: medial finger sensory loss localises to the ulnar nerve.",
+  "figure": "",
+  "qid": "2-11"
+ },
+ {
+  "cids": [
+   "C0705"
+  ],
+  "stem": "A 5-year-old child had a supracondylar fracture 2 years ago that was treated by a quack. He now has wasting of the forearm and a flexion attitude of the wrist, hand and fingers, and cannot actively dorsiflex the wrist and metacarpophalangeal joints. This is the sequel of which of the following?",
+  "options": {
+   "A": "POP cast",
+   "B": "ORIF",
+   "C": "Prolonged immobilisation",
+   "D": "Compartment syndrome",
+   "E": "Radial nerve injury"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "This is Volkmann's ischaemic contracture: untreated forearm compartment syndrome causes necrosis and fibrosis of the forearm flexors, which shorten and hold the wrist and fingers flexed with a wasted forearm. A tight cast can contribute, but the underlying lesion is compartment syndrome.",
+  "key_note": "",
+  "figure": "",
+  "qid": "2-12"
+ },
+ {
+  "cids": [
+   "C1413"
+  ],
+  "stem": "A 20-year-old man presents 2 months after trauma with pain and stiffness of the right elbow, which is fixed at 110 degrees. X-rays show a malunited fracture dislocation of the right elbow with myositis ossificans both anteriorly and posteriorly. He is unable to perform daily activities with the limb. What is the best management option?",
+  "options": {
+   "A": "Manipulation under anaesthesia",
+   "B": "Elbow arthrodesis",
+   "C": "Excision of radial head and myositis ossificans with intra-operative manipulation to increase range of motion",
+   "D": "Open reduction and internal fixation",
+   "E": "Spanning external fixation of the elbow"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A malunited elbow with a mechanical bony block and heterotopic ossification needs surgical release: excision of the obstructing radial head and the ectopic bone, with intra-operative mobilisation. Manipulation under anaesthesia is contraindicated as it worsens myositis ossificans, and arthrodesis of the elbow is poorly tolerated.",
+  "key_note": "",
+  "figure": "",
+  "qid": "2-13"
+ },
+ {
+  "cids": [
+   "C1285"
+  ],
+  "stem": "An elderly lady fell on her outstretched right hand and has a Galeazzi fracture of the right forearm. Which bones/joints are involved?",
+  "options": {
+   "A": "Fracture of carpal bones and distal radius",
+   "B": "Fracture of distal radius and ulna with joint involvement",
+   "C": "Fracture of ulna with proximal radial head displacement",
+   "D": "Fracture of metacarpal and carpal bones",
+   "E": "Fracture of distal radius with dislocation of the distal radio-ulnar joint"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Galeazzi: fracture of the distal third of the radius with dislocation of the distal radio-ulnar joint. Monteggia is the reverse: proximal ulna fracture with radial head dislocation (option C).",
+  "key_note": "",
+  "figure": "",
+  "qid": "2-14"
+ },
+ {
+  "cids": [
+   "C1284",
+   "C0473"
+  ],
+  "stem": "A 6-year-old boy has a greenstick fracture of the right mid-shaft radius with a flexion deformity. Distal neurovascular status is intact. What is the best management option?",
+  "options": {
+   "A": "Open reduction and K-wire",
+   "B": "Back slab and elevation",
+   "C": "Closed reduction and IM nailing",
+   "D": "Closed reduction and above-elbow POP",
+   "E": "Polysling and analgesia"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Most forearm shaft fractures in children, including angulated greenstick fractures, are treated closed: reduce if angulated (completing the fracture if needed to stop recurrence) and hold in an above-elbow cast to control rotation. Children remodel well, so plating or nailing is reserved for irreducible or unstable fractures.",
+  "key_note": "A variant (6-year-old, mid-shaft radius fracture) keyed 'Immobilisation with POP'; same answer.",
+  "figure": "",
+  "qid": "2-15"
+ },
+ {
+  "cids": [
+   "C0626"
+  ],
+  "stem": "An elderly lady fell on her outstretched right hand. X-rays show a fracture with the distal fragment collapsed into extension, with dorsal displacement, radial tilt and shortening. What is your diagnosis?",
+  "options": {
+   "A": "Colles' fracture",
+   "B": "Dorsal Barton fracture",
+   "C": "Fracture of the radial styloid",
+   "D": "Smith fracture",
+   "E": "Volar Barton fracture"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Colles' fracture is an extra-articular fracture of the distal radius within 2.5 cm of the wrist with dorsal displacement and dorsal angulation, radial deviation and shortening, giving the dinner-fork deformity. Smith's fracture is the reverse with volar displacement; Barton's is intra-articular.",
+  "key_note": "",
+  "figure": "",
+  "qid": "2-16"
+ },
+ {
+  "cids": [
+   "C0264"
+  ],
+  "stem": "A patient fell and sustained a fracture of the distal radius with volar displacement of the distal fragment (Smith type). Which structure is most commonly at risk of compression?",
+  "options": {
+   "A": "Median and ulnar nerves",
+   "B": "Median nerve",
+   "C": "Radial artery",
+   "D": "Radial nerve",
+   "E": "Ulnar nerve"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "The median nerve runs through the carpal tunnel directly in front of the distal radius, so it is the structure compressed by distal radial fractures, especially volarly displaced ones, causing acute carpal tunnel syndrome.",
+  "key_note": "Not marked in the source paper; answer by reviewer (compiled key agrees).",
+  "figure": "",
+  "qid": "2-17"
+ },
+ {
+  "cids": [
+   "C0472"
+  ],
+  "stem": "A 50-year-old woman fell on the floor and now has severe pain in her right wrist. X-ray shows a fracture of the distal radius. A common complication of this fracture is:",
+  "options": {
+   "A": "Radial nerve palsy",
+   "B": "Stiffness of the wrist joint",
+   "C": "Ulnar nerve palsy",
+   "D": "Avascular necrosis",
+   "E": "None of the above"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Common complications of Colles' fracture are malunion, stiffness of the wrist, fingers and shoulder, median nerve compression, complex regional pain syndrome and rupture of extensor pollicis longus. Radial nerve palsy and avascular necrosis are not features.",
+  "key_note": "One copy also had A (radial nerve palsy) circled in pen; the paper key B is correct.",
+  "figure": "",
+  "qid": "2-18"
+ },
+ {
+  "cids": [
+   "C0269"
+  ],
+  "stem": "A 64-year-old woman attends the fracture clinic 2 weeks after removal of plaster for a Colles' fracture, with burning pain in the whole hand. The hand is slightly swollen, red and shiny, with reduced movement in all directions. What is the most likely cause?",
+  "options": {
+   "A": "Carpal tunnel syndrome",
+   "B": "Compartment syndrome",
+   "C": "Malunion of the fracture",
+   "D": "Rupture of extensor pollicis longus",
+   "E": "Sudeck's atrophy"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Burning pain out of proportion, swelling, shiny red skin and stiffness after a distal radial fracture is complex regional pain syndrome type 1 (Sudeck's atrophy, reflex sympathetic dystrophy). Treat with early mobilisation, physiotherapy and analgesia.",
+  "key_note": "Not marked in the source paper; answer by reviewer (compiled key agrees).",
+  "figure": "",
+  "qid": "2-19"
+ },
+ {
+  "cids": [
+   "C0134",
+   "C1417"
+  ],
+  "stem": "A 20-year-old man fell during a cricket match and has pain and swelling of the right wrist. X-rays show a hairline (undisplaced) fracture of the distal radius. What is the most appropriate management?",
+  "options": {
+   "A": "Above-elbow back slab",
+   "B": "Long arm cast",
+   "C": "Wrist cast",
+   "D": "Short arm cast",
+   "E": "Open reduction and internal fixation"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "An undisplaced (hairline) distal radial fracture is stable and needs only a below-elbow (short arm) cast for about 4-6 weeks. Above-elbow casts and fixation are for displaced or unstable fractures; 'wrist cast' is a looser term for the same thing, and the paper key is D.",
+  "key_note": "One copy had A (above-elbow back slab) circled in pen; correct is D. A variant (14-year-old, radial styloid hairline fracture) has the same answer.",
+  "figure": "",
+  "qid": "2-20"
+ },
+ {
+  "ncids": [
+   "K0067"
+  ],
+  "stem": "A patient presents after a fall on the outstretched hand with pain and swelling at the wrist. Which X-ray should be requested to rule out a fracture at the wrist?",
+  "options": {
+   "A": "X-ray wrist PA view only",
+   "B": "X-ray hand AP and lateral views",
+   "C": "X-ray wrist AP view",
+   "D": "X-ray wrist AP and lateral views",
+   "E": "X-ray wrist AP, lateral and oblique views"
+  },
+  "answer": "D",
+  "explanation": "The standard initial imaging for a suspected wrist fracture is two orthogonal views (AP/PA and lateral) of the wrist, since a single view can miss displacement. Dedicated scaphoid views (including obliques) are added when there is anatomical snuffbox tenderness.",
+  "key_note": "",
+  "_new": true,
+  "qid": "2-N1"
+ },
+ {
+  "ncids": [
+   "K0261"
+  ],
+  "stem": "A boy has a displaced supracondylar fracture of the left humerus and no palpable radial pulse. What is the ideal initial management?",
+  "options": {
+   "A": "Repeated manipulation of the fracture until the pulse returns",
+   "B": "POP cast of the limb",
+   "C": "Open reduction and internal fixation",
+   "D": "Urgent closed reduction and percutaneous K-wire fixation"
+  },
+  "answer": "D",
+  "explanation": "A pulseless supracondylar fracture needs urgent closed reduction and percutaneous K-wire fixation, which restores the pulse in most cases by relieving kinking of the brachial artery. Open exploration of the artery is reserved for a hand that remains ischaemic after reduction; a cast alone or repeated manipulation is unsafe.",
+  "key_note": "Bank marked C (ORIF); correct is D because urgent closed reduction and percutaneous pinning is the first step, with open exploration only if the hand stays ischaemic after reduction.",
+  "_new": true,
+  "qid": "2-N2"
+ },
+ {
+  "ncids": [
+   "K0278"
+  ],
+  "stem": "Brachial artery injury most commonly occurs with:",
+  "options": {
+   "A": "Distal forearm fracture",
+   "B": "Upper arm (proximal humerus) fracture",
+   "C": "None of these",
+   "D": "Proximal radius fracture",
+   "E": "Supracondylar fracture of the humerus"
+  },
+  "answer": "E",
+  "explanation": "In an extension-type supracondylar fracture the proximal fragment is displaced anteriorly and can kink, contuse or tear the brachial artery, which lies directly in front of the distal humerus.",
+  "key_note": "",
+  "_new": true,
+  "qid": "2-N3"
+ },
+ {
+  "ncids": [
+   "K0279"
+  ],
+  "stem": "Complications of anterior dislocation of the shoulder include all of the following EXCEPT:",
+  "options": {
+   "A": "Axillary nerve injury",
+   "B": "Fracture of the neck or greater tuberosity of the humerus",
+   "C": "Radial nerve injury",
+   "D": "Recurrent dislocation",
+   "E": "Axillary artery injury"
+  },
+  "answer": "C",
+  "explanation": "Anterior dislocation can injure the axillary nerve (the commonest nerve injury), the axillary artery in the elderly, cause greater tuberosity or neck fractures and lead to recurrent dislocation. The radial nerve is not typically injured; it is at risk with humeral shaft fractures.",
+  "key_note": "",
+  "_new": true,
+  "qid": "2-N4"
+ },
+ {
+  "ncids": [
+   "K0281"
+  ],
+  "stem": "A 60-year-old woman falls on her outstretched hand and has pain, swelling and a dinner fork deformity of the right wrist, with intact neurovascular status. Which imaging study is the most informative initial investigation?",
+  "options": {
+   "A": "MRI of the right forearm",
+   "B": "CT scan with 3D reconstruction",
+   "C": "Plain X-ray of the right wrist in two planes (AP and lateral)",
+   "D": "Bone scan",
+   "E": "Soft tissue ultrasound"
+  },
+  "answer": "C",
+  "explanation": "Biplanar plain radiographs (AP and lateral) confirm a Colles fracture and show displacement, angulation and shortening, which guide management. CT is reserved for complex intra-articular fractures when planning fixation.",
+  "key_note": "",
+  "_new": true,
+  "qid": "2-N5"
+ },
+ {
+  "ncids": [
+   "K0285"
+  ],
+  "stem": "A fracture of the clavicle is usually managed by:",
+  "options": {
+   "A": "Conservative treatment, which is used for about 90% of clavicle fractures",
+   "B": "ORIF for every clavicle fracture",
+   "C": "Figure of eight bandage, which is still the method of choice",
+   "D": "None of the above",
+   "E": "Intramedullary injection"
+  },
+  "answer": "A",
+  "explanation": "Most clavicle fractures (especially middle third) are treated conservatively in a broad arm sling and unite well. A figure of eight bandage gives no better results and causes discomfort; operative fixation is reserved for open, severely displaced or shortened fractures, or those threatening skin or neurovascular structures.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "2-N6"
+ },
+ {
+  "ncids": [
+   "K0298"
+  ],
+  "stem": "The most common injury in a 7-year-old child due to a fall on the outstretched hand affecting the elbow region is:",
+  "options": {
+   "A": "Dislocation of the shoulder",
+   "B": "Colles' fracture",
+   "C": "Clavicle fracture",
+   "D": "Soft tissue injury",
+   "E": "Supracondylar fracture of the humerus"
+  },
+  "answer": "E",
+  "explanation": "A fall on the outstretched hand in a child of 5 to 8 years classically produces an extension-type supracondylar fracture of the humerus. A Colles' fracture is a distal radial fracture of older, osteoporotic adults; in children distal radial injuries are greenstick or physeal fractures.",
+  "key_note": "Bank marked B (Colles' fracture); correct is E because Colles' fracture is an adult osteoporotic fracture, while the classic FOOSH injury at this age is a supracondylar fracture of the humerus.",
+  "_new": true,
+  "qid": "2-N7"
+ },
+ {
+  "ncids": [
+   "K0300"
+  ],
+  "stem": "What is the ideal treatment for a displaced fracture of the lateral condyle of the humerus in a 7-year-old child?",
+  "options": {
+   "A": "Open reduction and immobilisation",
+   "B": "Cast immobilisation",
+   "C": "Closed reduction and plaster immobilisation",
+   "D": "Open reduction and internal fixation",
+   "E": "Excision of the fractured fragment"
+  },
+  "answer": "D",
+  "explanation": "A lateral condyle fracture is an intra-articular physeal (Salter-Harris IV) injury pulled by the forearm extensors; if displaced it needs open reduction and internal fixation (K-wires or screw) to prevent nonunion, cubitus valgus and tardy ulnar nerve palsy.",
+  "key_note": "",
+  "_new": true,
+  "qid": "2-N8"
+ },
+ {
+  "ncids": [
+   "K0301"
+  ],
+  "stem": "A 38-year-old man presents to the emergency department after a road traffic accident with deformity of the arm and inability to extend his wrist. His X-ray of the arm is most likely to show:",
+  "options": {
+   "A": "Fracture of the shaft of the humerus",
+   "B": "Fracture of the clavicle",
+   "C": "Elbow dislocation",
+   "D": "Shoulder dislocation",
+   "E": "Normal study"
+  },
+  "answer": "A",
+  "explanation": "Deformity of the arm with wrist drop indicates radial nerve injury, which classically complicates a humeral shaft fracture because the nerve runs in the spiral groove. Elbow dislocation more often injures the ulnar or median nerve.",
+  "key_note": "Bank marked C (elbow dislocation); correct is A because arm deformity with wrist drop indicates a humeral shaft fracture injuring the radial nerve in the spiral groove.",
+  "_new": true,
+  "qid": "2-N9"
+ },
+ {
+  "ncids": [
+   "K0302"
+  ],
+  "stem": "For a 12-year-old girl with a displaced, closed fracture of the olecranon and no neurovascular deficit, the treatment is:",
+  "options": {
+   "A": "Above elbow cast in extension",
+   "B": "Skeletal traction",
+   "C": "Open reduction and internal fixation",
+   "D": "Excision of the olecranon fragment",
+   "E": "Above elbow cast with the elbow flexed"
+  },
+  "answer": "C",
+  "explanation": "A displaced olecranon fracture is an intra-articular fracture with the triceps pulling the fragment apart, so it needs open reduction and internal fixation (usually tension band wiring). Casting in flexion distracts the fragment further; only undisplaced fractures are treated in a cast.",
+  "key_note": "Bank marked E (cast in flexion); correct is C because a displaced olecranon fracture is distracted by triceps and needs ORIF, typically tension band wiring.",
+  "_new": true,
+  "qid": "2-N10"
+ },
+ {
+  "ncids": [
+   "K0303"
+  ],
+  "stem": "An 8-year-old child with a supracondylar fracture of the humerus underwent closed reduction and percutaneous pin fixation, and the arm was immobilised in flexion. He later develops severe pain on passive extension of the fingers. What is the next step in management?",
+  "options": {
+   "A": "Remove the splint and dressings and extend the elbow",
+   "B": "Measure compartment pressure",
+   "C": "Doppler ultrasound",
+   "D": "Arteriogram",
+   "E": "Fasciotomy of the forearm"
+  },
+  "answer": "A",
+  "explanation": "Pain on passive finger extension suggests impending forearm compartment syndrome; the first step is to remove all constricting dressings and splints and reduce elbow flexion. If symptoms do not settle promptly, urgent fasciotomy follows; compartment syndrome is a clinical diagnosis and waiting for pressure measurement should not delay treatment.",
+  "key_note": "Bank marked B (measure compartment pressure); correct is A because the immediate step is to release all constricting splints and reduce elbow flexion, followed by fasciotomy if there is no prompt improvement.",
+  "_new": true,
+  "qid": "2-N11"
+ },
+ {
+  "ncids": [
+   "K0305"
+  ],
+  "stem": "A 51-year-old woman sustains a comminuted fracture of the radial head. She was initially splinted in a back slab and is seen in OPD 10 days later. Which treatment is recommended?",
+  "options": {
+   "A": "Excision of the radial head",
+   "B": "External fixator",
+   "C": "Open reduction and internal fixation",
+   "D": "Continue with the splint"
+  },
+  "answer": "A",
+  "explanation": "A comminuted (Mason type III) radial head fracture that cannot be reconstructed is treated by excision of the radial head (or radial head replacement if the elbow is unstable), followed by early mobilisation. ORIF is suited to fractures with two or three large fragments.",
+  "key_note": "Bank marked C (ORIF); correct is A because a comminuted Mason III radial head fracture is usually not reconstructable and is treated by excision or replacement.",
+  "_new": true,
+  "qid": "2-N12"
+ },
+ {
+  "ncids": [
+   "K0309"
+  ],
+  "stem": "A Monteggia fracture dislocation is:",
+  "options": {
+   "A": "Fracture of the proximal shaft of the ulna with dislocation of the radial head (radiocapitellar joint)",
+   "B": "Fracture of the proximal radius with dislocation of the proximal radioulnar joint",
+   "C": "Fracture of the coronoid process with elbow dislocation",
+   "D": "Fracture of the shaft of the ulna with ulnohumeral joint dislocation"
+  },
+  "answer": "A",
+  "explanation": "Monteggia: fracture of the proximal third of the ulna with dislocation of the radial head. Its counterpart, the Galeazzi fracture, is a distal third radial fracture with dislocation of the distal radioulnar joint.",
+  "key_note": "",
+  "_new": true,
+  "qid": "2-N13"
+ },
+ {
+  "ncids": [
+   "K0310"
+  ],
+  "stem": "Which statement about supracondylar fracture of the humerus in children is true?",
+  "options": {
+   "A": "K-wire fixation is recommended for undisplaced fractures",
+   "B": "It is a common fracture in this age group",
+   "C": "It is not associated with compartment syndrome of the forearm",
+   "D": "It is always treated conservatively"
+  },
+  "answer": "B",
+  "explanation": "Supracondylar fracture is the commonest elbow fracture in children. Undisplaced fractures are treated in an above elbow cast, displaced ones by closed reduction and K-wires, and Volkmann's ischaemic contracture from forearm compartment syndrome is a dreaded complication.",
+  "key_note": "",
+  "_new": true,
+  "qid": "2-N14"
+ },
+ {
+  "ncids": [
+   "K0311"
+  ],
+  "stem": "A 64-year-old woman falls from a horse and develops pain in her shoulder and difficulty moving the limb. X-ray shows a fracture of the proximal humerus. What is the usual treatment?",
+  "options": {
+   "A": "Immobilisation with a U slab",
+   "B": "Closed reduction",
+   "C": "Collar and cuff sling",
+   "D": "Open reduction and internal fixation"
+  },
+  "answer": "C",
+  "explanation": "Most proximal humerus fractures in older patients are minimally displaced and are treated with a collar and cuff or broad arm sling followed by early pendulum exercises. ORIF or arthroplasty is reserved for significantly displaced 3 and 4 part fractures or fracture dislocations.",
+  "key_note": "Bank marked D (ORIF); correct is C because most proximal humerus fractures in the elderly are minimally displaced and are treated non-operatively in a sling, with ORIF reserved for significantly displaced fractures.",
+  "_new": true,
+  "qid": "2-N15"
+ },
+ {
+  "ncids": [
+   "K0726",
+   "K1188"
+  ],
+  "stem": "Which type of fracture of the humerus is classically associated with radial nerve injury (wrist drop)?",
+  "options": {
+   "A": "Fracture of the proximal third",
+   "B": "Fracture of the surgical neck",
+   "C": "Spiral fracture of the distal third",
+   "D": "Intercondylar fracture",
+   "E": "Fracture of the greater tuberosity"
+  },
+  "answer": "C",
+  "explanation": "The Holstein-Lewis fracture, a spiral fracture of the distal third of the humeral shaft, classically traps or injures the radial nerve where it pierces the lateral intermuscular septum. Surgical neck fractures endanger the axillary nerve.",
+  "key_note": "",
+  "_new": true,
+  "qid": "2-N16"
+ },
+ {
+  "ncids": [
+   "K0787"
+  ],
+  "stem": "Which of the following injuries is notorious for not being seen on initial radiographs?",
+  "options": {
+   "A": "Anterior dislocation of the shoulder",
+   "B": "Hip fracture",
+   "C": "Scaphoid fracture",
+   "D": "Supracondylar fracture of the humerus",
+   "E": "Distal radius fracture"
+  },
+  "answer": "C",
+  "explanation": "Scaphoid waist fractures are often invisible on initial films; with anatomical snuffbox tenderness the wrist is immobilised and repeat scaphoid views at 10 to 14 days or an MRI are obtained, because missed fractures risk nonunion and avascular necrosis.",
+  "key_note": "",
+  "_new": true,
+  "qid": "2-N17"
+ },
+ {
+  "ncids": [
+   "K0788"
+  ],
+  "stem": "A 50-year-old woman with a displaced fracture of the shaft of the right humerus was treated with analgesia, a U-slab and a humeral brace. At 4 months she still has pain and mobility at the fracture site. X-rays show no callus formation and no cortical bridging. What is the probable diagnosis?",
+  "options": {
+   "A": "Atrophic nonunion",
+   "B": "Delayed union",
+   "C": "Hypertrophic nonunion",
+   "D": "Malunion",
+   "E": "Union"
+  },
+  "answer": "A",
+  "explanation": "Persistent mobility with no callus at all at 4 months indicates an atrophic nonunion, a biologically inactive failure of healing. Hypertrophic nonunion shows abundant callus (elephant foot) due to excess movement, and delayed union shows slow but progressing healing.",
+  "key_note": "",
+  "_new": true,
+  "qid": "2-N18"
+ },
+ {
+  "ncids": [
+   "K1083"
+  ],
+  "stem": "Which of the following statements is true of Colles' fracture?",
+  "options": {
+   "A": "It is a cause of carpal tunnel syndrome",
+   "B": "It results in palmar displacement of the distal fractured fragment",
+   "C": "It typically extends into the radiocarpal joint",
+   "D": "It is typically associated with compression of the ulnar nerve",
+   "E": "Open reduction is the usual treatment"
+  },
+  "answer": "A",
+  "explanation": "Colles' fracture can compress the median nerve and cause carpal tunnel syndrome. It is an extra-articular distal radial fracture with dorsal displacement (palmar displacement is Smith's), and most are treated by closed reduction and plaster.",
+  "key_note": "",
+  "_new": true,
+  "qid": "2-N19"
+ },
+ {
+  "ncids": [
+   "K1371"
+  ],
+  "stem": "What is true of clavicle fractures?",
+  "options": {
+   "A": "Nonunion is rare",
+   "B": "Malunion is usually of no functional significance",
+   "C": "Reduction, even if achieved, is difficult to maintain",
+   "D": "All of the above"
+  },
+  "answer": "D",
+  "explanation": "Clavicle fractures usually unite (nonunion is uncommon), the resulting malunion and bump rarely affect function, and closed reduction cannot be held with slings or bandages, which is why most are treated in a simple sling without attempted reduction.",
+  "key_note": "",
+  "_new": true,
+  "qid": "2-N20"
+ },
+ {
+  "ncids": [
+   "K1465"
+  ],
+  "stem": "The most commonly fractured carpal bone is the:",
+  "options": {
+   "A": "Trapezoid",
+   "B": "Hamate",
+   "C": "Scaphoid",
+   "D": "Lunate",
+   "E": "Triquetrum"
+  },
+  "answer": "C",
+  "explanation": "The scaphoid accounts for most carpal fractures, typically from a fall on the outstretched hand in young adults; the lunate is the most commonly dislocated carpal bone.",
+  "key_note": "",
+  "_new": true,
+  "qid": "2-N21"
+ },
+ {
+  "ncids": [
+   "K0294"
+  ],
+  "stem": "A closed undisplaced fracture of the shaft of the humerus is best treated by:",
+  "options": {
+   "A": "Closed reduction and shoulder spica",
+   "B": "Intramedullary nail",
+   "C": "Plate and screw fixation",
+   "D": "U-shaped plaster slab (coaptation splint) and sling",
+   "E": "Skeletal traction"
+  },
+  "answer": "D",
+  "explanation": "Most humeral shaft fractures, especially undisplaced ones, are treated non-operatively with a U-slab and sling followed by a functional (Sarmiento) brace; gravity aids alignment and union rates are high. Plating or nailing is reserved for open, pathological, failed conservative or polytrauma cases.",
+  "key_note": "Bank marked B (intramedullary nail); correct is D because undisplaced humeral shaft fractures heal well with a U-slab and functional bracing.",
+  "_new": true,
+  "qid": "2-N22"
+ },
+ {
+  "ncids": [
+   "K0725"
+  ],
+  "stem": "The commonest type of elbow dislocation is:",
+  "options": {
+   "A": "Anterior",
+   "B": "Posterior (pure)",
+   "C": "Posterolateral",
+   "D": "Anteromedial",
+   "E": "Lateral"
+  },
+  "answer": "C",
+  "explanation": "Elbow dislocations are almost always posterior, and the great majority of these are posterolateral, typically after a fall on the outstretched hand. Anterior dislocation is rare.",
+  "key_note": "Source bank (bold) marked B (posterior); correct is C because posterolateral is the most common pattern of the posterior dislocations, so it is the more precise answer when both are offered.",
+  "_new": true,
+  "qid": "2-N23"
+ }
+]

@@ -1,0 +1,709 @@
+[
+ {
+  "cids": [
+   "C0216",
+   "C0462",
+   "C1387"
+  ],
+  "stem": "A 10-year-old boy presents with painless bleeding per rectum and something coming out of the anus during defecation, which goes back in after passing stool. What is the most likely diagnosis?",
+  "options": {
+   "A": "Anal fissure",
+   "B": "Anal prolapse",
+   "C": "Ascariasis",
+   "D": "Haemorrhoids",
+   "E": "Rectal polyp"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "A juvenile polyp on a stalk can prolapse through the anus at defecation and return spontaneously, and bleeds painlessly. Haemorrhoids are uncommon in children, and a full prolapse is a mucosal ring rather than a single bleeding lump.",
+  "key_note": "A resit paper version (options including amoebic dysentery and worm infestation) marked Haemorrhoids; correct is Rectal polyp.",
+  "figure": "",
+  "qid": "20-1"
+ },
+ {
+  "cids": [
+   "C0316",
+   "C1465"
+  ],
+  "stem": "A 25-year-old man has bleeding per rectum for 2 weeks with painful defecation, the pain persisting for 1-2 hours afterwards. There is no weight loss or mucus discharge. What is the most likely diagnosis?",
+  "options": {
+   "A": "Anal fissure",
+   "B": "Carcinoma anal canal",
+   "C": "Carcinoma rectum",
+   "D": "Haemorrhoids",
+   "E": "Perianal fistula"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Severe pain during and lasting after defecation with bright red streaks of blood is typical of an anal fissure, the pain coming from internal sphincter spasm. Haemorrhoids bleed painlessly unless thrombosed.",
+  "key_note": "",
+  "figure": "",
+  "qid": "20-2"
+ },
+ {
+  "cids": [
+   "C1014"
+  ],
+  "stem": "A boy has severe constipation and bleeding per rectum. Inspection shows an anal fissure at the 12 o'clock position. What treatment should be given?",
+  "options": {
+   "A": "High protein diet, sitz baths",
+   "B": "Just apply GTN, high protein diet",
+   "C": "Fibre diet with pain relief and GTN",
+   "D": "Fibre diet, sitz baths",
+   "E": "Surgical management"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "An acute fissure in a child is managed conservatively with stool softening (high-fibre diet, fluids, laxatives) and warm sitz baths; most heal within weeks. Topical GTN or diltiazem is reserved for chronic fissures, and surgery is rarely needed in children.",
+  "key_note": "Option C is also reasonable in adults with a chronic fissure; keyed answer D fits an acute fissure in a child.",
+  "figure": "",
+  "qid": "20-3"
+ },
+ {
+  "cids": [
+   "C1135"
+  ],
+  "stem": "A 40-year-old patient presents with rectal bleeding, pain and itching, and has thrombosed external haemorrhoids. What is the most appropriate initial management?",
+  "options": {
+   "A": "Conservative management with pain control and stool softeners",
+   "B": "Haemorrhoidectomy",
+   "C": "Rubber band ligation",
+   "D": "Sclerotherapy",
+   "E": "Sitz baths and topical creams"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "A thrombosed external pile (perianal haematoma) is usually managed conservatively with analgesia, stool softeners and warm baths, and resolves in 1-2 weeks; if seen within 48-72 hours it can be evacuated under local anaesthetic. Banding and sclerotherapy are for internal haemorrhoids only.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "20-4"
+ },
+ {
+  "cids": [
+   "C0565"
+  ],
+  "stem": "The most common complication in an elderly patient following haemorrhoidectomy is:",
+  "options": {
+   "A": "Faecal impaction",
+   "B": "Bleeding",
+   "C": "Urinary retention",
+   "D": "Infection",
+   "E": "Anal stenosis"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Urinary retention is the commonest early complication after haemorrhoidectomy, especially in elderly men, due to pain, sphincter spasm and spinal anaesthesia. Bleeding (reactive or secondary) and stenosis are less frequent.",
+  "key_note": "",
+  "figure": "",
+  "qid": "20-5"
+ },
+ {
+  "cids": [
+   "C0676"
+  ],
+  "stem": "A 45-year-old diabetic man presents with painful perianal swelling for 1 week. There is a red, hot, tender, fluctuant swelling in the left buttock beside the anus. What is the most likely diagnosis?",
+  "options": {
+   "A": "Anal carcinoma",
+   "B": "Anal fissure",
+   "C": "Haemorrhoids",
+   "D": "Perianal fistula",
+   "E": "Perianal abscess"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "An acutely painful, red, hot, fluctuant perianal swelling is a perianal (or ischiorectal) abscess, which diabetics are prone to. A fistula presents as a chronically discharging opening rather than an acute fluctuant swelling.",
+  "key_note": "Compiled answer book entries for this question were garbled (one gave D, perianal fistula); correct is E.",
+  "figure": "",
+  "qid": "20-6"
+ },
+ {
+  "cids": [
+   "C1137"
+  ],
+  "stem": "A patient presents with a painful, swollen, fluctuant mass near the anus and is diagnosed with a perianal abscess. What is the most appropriate management?",
+  "options": {
+   "A": "Antibiotics alone",
+   "B": "Incision and drainage",
+   "C": "Fistulotomy",
+   "D": "Seton placement",
+   "E": "Sitz baths and topical creams"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Pus needs drainage: prompt incision and drainage (with deroofing) is the treatment, and antibiotics alone are inadequate except as an adjunct in diabetics or with cellulitis. Searching for and laying open a fistula at the first operation risks sphincter injury.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "20-7"
+ },
+ {
+  "cids": [
+   "C0539",
+   "C1190"
+  ],
+  "stem": "An adult man complains of a painful nodule near his anus for the past 3 years; it recurs intermittently and resolves after a few days with discharge of pus. Examination shows a nodule at the anal verge with a palpable track. Your diagnosis is:",
+  "options": {
+   "A": "Carcinoma of the anus",
+   "B": "Chronic anal fissure",
+   "C": "External haemorrhoids",
+   "D": "Fistula-in-ano",
+   "E": "Sebaceous cyst"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Recurrent painful swelling that bursts with pus, with a palpable cord-like track towards the anal canal, is fistula-in-ano.",
+  "key_note": "Patient's age was missing in the source; stem generalised.",
+  "figure": "",
+  "qid": "20-8"
+ },
+ {
+  "cids": [
+   "C0734"
+  ],
+  "stem": "A 36-year-old man has a perianal abscess. At EUA a fistula into the abscess cavity is found; the abscess lies to the left and posterior to the anus (5 o'clock in the lithotomy position). Where would you expect the internal opening to be?",
+  "options": {
+   "A": "Directly anterior to the centre of the anus (12 o'clock)",
+   "B": "Directly posterior to the centre of the anus (6 o'clock)",
+   "C": "To the left and posterior to the centre of the anus (5 o'clock)",
+   "D": "To the left of the centre of the anus (3 o'clock)",
+   "E": "To the right of the centre of the anus (9 o'clock)"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Goodsall's rule: an external opening posterior to the transverse anal line usually has a curved track to an internal opening in the posterior midline (6 o'clock in lithotomy). Anterior openings usually track radially in a straight line.",
+  "key_note": "Not marked in the source paper; answer by reviewer (agrees with compiled key).",
+  "figure": "",
+  "qid": "20-9"
+ },
+ {
+  "cids": [
+   "C1131"
+  ],
+  "stem": "A 30-year-old patient with Crohn's disease has a complex fistula-in-ano that has failed medical management, with significant pain and discharge. What is the most appropriate surgical approach?",
+  "options": {
+   "A": "Advancement flap repair",
+   "B": "Fistulectomy",
+   "C": "Fistulotomy",
+   "D": "Proctectomy with permanent end colostomy",
+   "E": "Seton placement"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "A loose draining seton controls sepsis while preserving the sphincter, and is combined with medical therapy (anti-TNF) in Crohn's perianal disease. Fistulotomy of a complex fistula risks incontinence, and proctectomy is a last resort.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "20-10"
+ },
+ {
+  "cids": [
+   "C1136"
+  ],
+  "stem": "A patient with chronic constipation is diagnosed with a full-thickness rectal prolapse. What is the most appropriate surgical approach?",
+  "options": {
+   "A": "Altemeier procedure",
+   "B": "Delorme's procedure",
+   "C": "Hemicolectomy",
+   "D": "Laparoscopic ventral rectopexy",
+   "E": "Rectopexy"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "In a fit patient, an abdominal procedure has the lowest recurrence, and laparoscopic ventral rectopexy avoids lateral ligament division, so it does not worsen (and often improves) constipation. Perineal operations (Delorme's, Altemeier) are for frail patients.",
+  "key_note": "Not marked in the source paper; answer by reviewer. Option E (rectopexy) is broadly correct too; D is the most specific best answer.",
+  "figure": "",
+  "qid": "20-11"
+ },
+ {
+  "cids": [
+   "C1457"
+  ],
+  "stem": "A 55-year-old woman has weight loss and blood in the stool for the last year. She has no pain on defecation but finds it difficult to pass stool. The most appropriate initial investigation is:",
+  "options": {
+   "A": "Stool for occult blood",
+   "B": "Rectal examination and proctoscopy",
+   "C": "Rigid sigmoidoscopy and biopsy",
+   "D": "CT scan with IV contrast",
+   "E": "Colonoscopy"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "The first step in any patient with rectal bleeding is digital rectal examination with proctoscopy, which will detect most low rectal cancers. Colonoscopy with biopsy follows to confirm the diagnosis and exclude synchronous lesions.",
+  "key_note": "Compiled answer book gave E (colonoscopy); paper key B retained as the initial step, with colonoscopy as the definitive investigation.",
+  "figure": "",
+  "qid": "20-12"
+ },
+ {
+  "cids": [
+   "C0501"
+  ],
+  "stem": "A 60-year-old man attends an annual check-up. Examination is normal except for a palpable rectal mass on DRE, and he has no symptoms. Rectal cancer is suspected. What is the next best step?",
+  "options": {
+   "A": "CT scan of the abdomen and pelvis",
+   "B": "Double-contrast barium enema",
+   "C": "Flexible sigmoidoscopy with biopsy of the lesion",
+   "D": "Full colonoscopy with biopsy of the lesion",
+   "E": "MRI scan of the abdomen and pelvis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Colonoscopy provides a tissue diagnosis and examines the whole colon for synchronous cancers or polyps (present in about 5%). Staging by CT and pelvic MRI follows once the diagnosis is confirmed.",
+  "key_note": "",
+  "figure": "",
+  "qid": "20-13"
+ },
+ {
+  "cids": [
+   "C1226"
+  ],
+  "stem": "Which of the following is the most accurate in determining the T-stage of rectal carcinoma?",
+  "options": {
+   "A": "CT pelvis with contrast",
+   "B": "Abdominal sonography",
+   "C": "Colonoscopy",
+   "D": "Endoscopic (endorectal) ultrasound",
+   "E": "PET scan"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Endorectal ultrasound is the most accurate test among these for depth of invasion (T stage), especially for early T1/T2 tumours. Pelvic MRI is now the standard for local staging (mesorectal fascia, CRM) but is not offered; CT is poor for T stage.",
+  "key_note": "Not marked in the source paper; compiled key gave B with text 'CT-Scan'. Correct among these options is D (EUS).",
+  "figure": "",
+  "qid": "20-14"
+ },
+ {
+  "cids": [
+   "C1133"
+  ],
+  "stem": "A 55-year-old patient has a rectal tumour 5 cm from the anal verge and is a candidate for surgical resection. What is the most important factor in determining whether the sphincter can be preserved?",
+  "options": {
+   "A": "Distance from anal verge",
+   "B": "Patient's age",
+   "C": "Presence of lymph node metastases",
+   "D": "Tumour location",
+   "E": "Tumour size"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Sphincter preservation depends on whether an adequate distal margin (1-2 cm) can be obtained above the anorectal ring, which is judged by the tumour's distance from the anal verge or dentate line. Node status affects adjuvant therapy, not the type of resection.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "20-15"
+ },
+ {
+  "cids": [
+   "C0599"
+  ],
+  "stem": "A 70-year-old woman has bleeding per rectum for 6 months. DRE shows a growth in the lower rectum 5 cm from the anal verge, and CT shows it is confined to the muscular layer. What is the best treatment option?",
+  "options": {
+   "A": "Abdominoperineal resection",
+   "B": "Anterior resection",
+   "C": "Sigmoidectomy",
+   "D": "Left hemicolectomy"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "With total mesorectal excision and stapled low anastomosis, a 1-2 cm distal margin is enough, so a T2 tumour 5 cm from the verge can usually be treated by (ultra-)low anterior resection with a temporary stoma. APR is reserved for tumours involving the sphincters or too low for a clear margin.",
+  "key_note": "",
+  "figure": "",
+  "qid": "20-16"
+ },
+ {
+  "cids": [
+   "C1138"
+  ],
+  "stem": "A 60-year-old patient has stage II rectal cancer 8 cm from the anal verge and is a candidate for resection. What is the most appropriate surgical approach?",
+  "options": {
+   "A": "Abdominoperineal resection (APR)",
+   "B": "Hartmann's procedure",
+   "C": "Low anterior resection (LAR) with sphincter preservation",
+   "D": "Total mesorectal excision with LAR",
+   "E": "Transanal resection"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Mid-rectal cancer is treated by low anterior resection with total mesorectal excision, removing the rectum and its intact mesorectal envelope, which minimises local recurrence. Option C is not wrong, but TME is the key oncological principle that makes D the best answer.",
+  "key_note": "Not marked in the source paper; answer by reviewer. C and D overlap; D is the more complete answer.",
+  "figure": "",
+  "qid": "20-17"
+ },
+ {
+  "cids": [
+   "C1310"
+  ],
+  "stem": "A patient is a known case of stage III rectal cancer. Which mode of treatment is recommended?",
+  "options": {
+   "A": "Surgical resection",
+   "B": "Radiotherapy only",
+   "C": "Chemotherapy only",
+   "D": "Radiotherapy and chemotherapy (chemoradiotherapy)",
+   "E": "No treatment"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Stage III (node-positive) rectal cancer is treated by neoadjuvant chemoradiotherapy to downstage and reduce local recurrence, followed by total mesorectal excision. The keyed answer reflects the neoadjuvant step; surgery still follows.",
+  "key_note": "Somewhat flawed: full treatment is chemoradiotherapy followed by surgery; keyed answer D retained.",
+  "figure": "",
+  "qid": "20-18"
+ },
+ {
+  "cids": [
+   "C1225"
+  ],
+  "stem": "A 62-year-old man has early-morning spurious diarrhoea with rectal bleeding for 6 weeks. Staging shows an adenocarcinoma 5 cm from the anal verge that has spread locally to the lateral pelvic wall, with no distant metastases. What is the appropriate course of treatment?",
+  "options": {
+   "A": "Neoadjuvant chemotherapy followed by surgery and adjuvant therapy",
+   "B": "Surgery alone",
+   "C": "Surgery and postoperative chemotherapy",
+   "D": "Endoscopic stenting",
+   "E": "Chemotherapy and radiotherapy"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Locally advanced rectal cancer threatening the circumferential margin needs neoadjuvant (chemo)radiotherapy to downstage it, then radical surgery, then adjuvant chemotherapy. Surgery first risks a positive margin and high local recurrence.",
+  "key_note": "",
+  "figure": "",
+  "qid": "20-19"
+ },
+ {
+  "cids": [
+   "C0730"
+  ],
+  "stem": "A 56-year-old man has an abdominoperineal excision of the rectum. At follow-up his wounds have healed, but he complains of impotence. Which of the following best explains this?",
+  "options": {
+   "A": "Sciatic nerve injury",
+   "B": "Damage to internal iliac artery",
+   "C": "Damage to the hypogastric nerve plexus",
+   "D": "Damage to vas deferens",
+   "E": "Damage to genitofemoral nerve"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Pelvic autonomic nerves (sympathetic hypogastric nerves and parasympathetic pelvic splanchnic nerves forming the inferior hypogastric plexus) are at risk during rectal dissection; injury causes erectile and ejaculatory dysfunction and bladder problems. Nerve-sparing TME reduces this risk.",
+  "key_note": "Not marked in the source paper; answer by reviewer (agrees with compiled key).",
+  "figure": "",
+  "qid": "20-20"
+ },
+ {
+  "cids": [
+   "C0502"
+  ],
+  "stem": "Which of the following is the appropriate initial therapy for a 4 cm squamous cancer of the anal canal?",
+  "options": {
+   "A": "Local excision",
+   "B": "Abdominoperineal resection",
+   "C": "Combined chemotherapy and radiotherapy",
+   "D": "Laser therapy",
+   "E": "Cryotherapy"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Chemoradiotherapy (Nigro regimen: 5-FU and mitomycin C with radiotherapy) is first-line for anal canal squamous carcinoma and preserves the sphincter in most. APR is reserved for persistent or recurrent disease.",
+  "key_note": "One student pen mark was beside B; keyed answer C is correct.",
+  "figure": "",
+  "qid": "20-21"
+ },
+ {
+  "cids": [
+   "C1139"
+  ],
+  "stem": "A patient with rectal cancer undergoes neoadjuvant chemoradiotherapy, and the post-treatment MRI shows a significant reduction in tumour size. What is the most appropriate next step?",
+  "options": {
+   "A": "Add additional radiation therapy",
+   "B": "Consider a watch-and-wait approach",
+   "C": "Continue chemotherapy alone",
+   "D": "Perform a PET scan to assess for distant metastases",
+   "E": "Proceed with surgical resection"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "A partial response after neoadjuvant chemoradiotherapy is followed by total mesorectal excision, usually 6-12 weeks after treatment. Watch-and-wait is only for a complete clinical response with no residual tumour.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "20-22"
+ },
+ {
+  "ncids": [
+   "K0351"
+  ],
+  "stem": "A 37-year-old woman presents with a 3-week history of frequent loose motions and muscle weakness. Colonoscopy shows a 15 cm mass in the rectum with multiple frond-like projections; the rest of the colon is unremarkable. What is the most likely diagnosis?",
+  "options": {
+   "A": "Adenomatous polyp",
+   "B": "Colorectal carcinoma",
+   "C": "Infective colitis",
+   "D": "Pseudomembranous colitis",
+   "E": "Villous adenoma"
+  },
+  "answer": "E",
+  "explanation": "A large, soft, frond-like rectal villous adenoma can secrete copious potassium-rich mucus, causing diarrhoea, hypokalaemia (muscle weakness) and dehydration. These lesions carry a high malignant potential and need excision.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "20-N1"
+ },
+ {
+  "ncids": [
+   "K0357"
+  ],
+  "stem": "A 43-year-old woman presents with bright red rectal bleeding and intermittent rectal discomfort, and has noticed a lump at the anus. On examination a non-tender lump is seen emerging from the anus that cannot be reduced. What is the most appropriate treatment?",
+  "options": {
+   "A": "Anal dilatation",
+   "B": "Banding",
+   "C": "Haemorrhoidectomy",
+   "D": "Injection sclerotherapy",
+   "E": "No intervention required"
+  },
+  "answer": "C",
+  "explanation": "Permanently prolapsed, irreducible (fourth-degree) haemorrhoids require haemorrhoidectomy. Banding and sclerotherapy are for first- to second-degree (and some third-degree) haemorrhoids, and anal dilatation is obsolete because of incontinence.",
+  "key_note": "",
+  "_new": true,
+  "qid": "20-N2"
+ },
+ {
+  "ncids": [
+   "K0363"
+  ],
+  "stem": "A 36-year-old man has a 6-month history of intermittent rectal pain unrelated to defecation, tending to occur at night. He denies passing mucus or blood, and examination is unremarkable. What is the most likely diagnosis?",
+  "options": {
+   "A": "Anal fissure",
+   "B": "Anal fistula",
+   "C": "Perianal abscess",
+   "D": "Perianal haematoma",
+   "E": "Proctalgia fugax"
+  },
+  "answer": "E",
+  "explanation": "Proctalgia fugax is episodic, fleeting severe rectal pain, often at night, due to levator or sphincter spasm, with normal examination. A fissure causes pain on and after defecation with bleeding, and abscess, fistula or haematoma give clinical findings.",
+  "key_note": "",
+  "_new": true,
+  "qid": "20-N3"
+ },
+ {
+  "ncids": [
+   "K0364"
+  ],
+  "stem": "A 73-year-old woman has a 3-week history of rectal bleeding, a sensation of incomplete emptying and rectal discomfort. She has a rectal adenocarcinoma 2 cm from the anal margin, involving the anal sphincter complex. What is the most appropriate operation?",
+  "options": {
+   "A": "Abdominoperineal resection",
+   "B": "Anterior resection",
+   "C": "Hartmann's procedure",
+   "D": "Left hemicolectomy",
+   "E": "Right hemicolectomy"
+  },
+  "answer": "A",
+  "explanation": "A very low rectal cancer 2 cm from the anal margin that involves the sphincters cannot be removed with an adequate distal margin while preserving the sphincter, so abdominoperineal resection with permanent colostomy is required. Anterior resection is used when sphincter preservation with clear margins is possible.",
+  "key_note": "",
+  "_new": true,
+  "qid": "20-N4"
+ },
+ {
+  "ncids": [
+   "K0412"
+  ],
+  "stem": "Human papillomavirus (HPV) can cause which of the following malignancies?",
+  "options": {
+   "A": "Carcinoma of the breast",
+   "B": "Carcinoma of the anal canal",
+   "C": "Carcinoma of the oesophagus",
+   "D": "Bladder carcinoma",
+   "E": "Gastric carcinoma"
+  },
+  "answer": "B",
+  "explanation": "HPV (especially types 16 and 18) causes squamous cell carcinoma of the anal canal, as well as cervical, penile, vulval and oropharyngeal cancers. Risk is higher in HIV-positive patients and men who have sex with men.",
+  "key_note": "",
+  "_new": true,
+  "qid": "20-N5"
+ },
+ {
+  "ncids": [
+   "K0423"
+  ],
+  "stem": "A patient with a previous perianal abscess presents with persistent perianal discharge and discomfort. On examination an external opening is identified at the 6 o'clock position with the patient in the lithotomy position. Which procedure is the surgeon most likely to perform?",
+  "options": {
+   "A": "Seton insertion",
+   "B": "Colostomy",
+   "C": "Exploration and laying open of the tract (fistulotomy)",
+   "D": "Incision and drainage",
+   "E": "Lateral sphincterotomy"
+  },
+  "answer": "C",
+  "explanation": "Persistent discharge after an anorectal abscess indicates a fistula-in-ano; most are low intersphincteric fistulae treated by probing and laying open the tract. A seton is used for high or complex fistulae, and lateral sphincterotomy is for anal fissure.",
+  "key_note": "Bank marks disagree between copies (three starred C, one starred B); correct is C because a simple low fistula is laid open, and colostomy has no role.",
+  "_new": true,
+  "qid": "20-N6"
+ },
+ {
+  "ncids": [
+   "K0426"
+  ],
+  "stem": "Which of the following is NOT an option when treating an anal fissure?",
+  "options": {
+   "A": "Propranolol",
+   "B": "Botulinum toxin A injection",
+   "C": "Glyceryl trinitrate cream",
+   "D": "Diltiazem cream",
+   "E": "Laxatives"
+  },
+  "answer": "A",
+  "explanation": "Fissures are treated by relaxing the internal sphincter (topical GTN or diltiazem, botulinum toxin, or lateral internal sphincterotomy) together with stool softeners and fibre. Propranolol has no role.",
+  "key_note": "",
+  "_new": true,
+  "qid": "20-N7"
+ },
+ {
+  "ncids": [
+   "K0431"
+  ],
+  "stem": "Radiotherapy (as chemoradiotherapy, without surgery) can be the sole definitive treatment for which of the following cancers?",
+  "options": {
+   "A": "Adenocarcinoma of the oesophagus",
+   "B": "Rectal adenocarcinoma",
+   "C": "Squamous cell carcinoma of the anal canal",
+   "D": "Gastric carcinoma",
+   "E": "Phyllodes tumour of the breast"
+  },
+  "answer": "C",
+  "explanation": "Squamous cell carcinoma of the anal canal is treated primarily by chemoradiotherapy (Nigro regimen: radiotherapy with 5-FU and mitomycin C), with surgery (APR) reserved for residual or recurrent disease. The other tumours require surgery for cure.",
+  "key_note": "",
+  "_new": true,
+  "qid": "20-N8"
+ },
+ {
+  "ncids": [
+   "K0540"
+  ],
+  "stem": "The middle rectal artery arises from the:",
+  "options": {
+   "A": "Superior mesenteric artery",
+   "B": "Inferior mesenteric artery",
+   "C": "Internal pudendal artery",
+   "D": "Sigmoid arteries",
+   "E": "Internal iliac artery"
+  },
+  "answer": "E",
+  "explanation": "The superior rectal artery is the continuation of the inferior mesenteric artery, the middle rectal artery arises from the anterior division of the internal iliac artery, and the inferior rectal artery comes from the internal pudendal artery.",
+  "key_note": "",
+  "_new": true,
+  "qid": "20-N9"
+ },
+ {
+  "ncids": [
+   "K0900"
+  ],
+  "stem": "A 45-year-old diabetic man presents with a 1-week history of painful perianal swelling. There is a red, hot, tender, fluctuant swelling in the left buttock beside the anus. Which organism is classically involved in this condition?",
+  "options": {
+   "A": "Bacteroides",
+   "B": "E. coli",
+   "C": "Klebsiella",
+   "D": "Proteus",
+   "E": "Staphylococcus"
+  },
+  "answer": "B",
+  "explanation": "Most perianal abscesses arise from infected anal glands (cryptoglandular), and the commonest isolate is E. coli, usually with anaerobes such as Bacteroides. Staphylococcus aureus suggests a skin-origin abscess (furuncle) and is less likely to be associated with a fistula.",
+  "key_note": "Bank highlighted E (Staphylococcus); correct is B because cryptoglandular perianal abscesses are caused mainly by gut flora, with E. coli the most frequently isolated organism.",
+  "_new": true,
+  "qid": "20-N10"
+ },
+ {
+  "ncids": [
+   "K1311"
+  ],
+  "stem": "A hirsute young man has a sinus just above the natal cleft. What is the most likely diagnosis?",
+  "options": {
+   "A": "Pilonidal sinus",
+   "B": "Tuberculous sinus associated with chronic osteomyelitis",
+   "C": "Hidradenitis suppurativa",
+   "D": "Fistula-in-ano"
+  },
+  "answer": "A",
+  "explanation": "Pilonidal sinus is an acquired condition in which hairs drill into the skin of the natal cleft, typically in young, hairy men, giving midline pits with lateral discharging sinuses.",
+  "key_note": "",
+  "_new": true,
+  "qid": "20-N11"
+ },
+ {
+  "ncids": [
+   "K1429",
+   "K1430"
+  ],
+  "stem": "Rectal lesions that may mimic or be confused with rectal cancer include:",
+  "options": {
+   "A": "Inflammatory stricture",
+   "B": "Amoeboma (amoebic granuloma)",
+   "C": "Endometrioma",
+   "D": "Solitary rectal ulcer",
+   "E": "All of the above"
+  },
+  "answer": "E",
+  "explanation": "Benign adenomas, inflammatory or Crohn's strictures, amoeboma, endometriosis and solitary rectal ulcer syndrome can all resemble rectal carcinoma clinically or endoscopically, so biopsy is essential before major resection.",
+  "key_note": "",
+  "_new": true,
+  "qid": "20-N12"
+ },
+ {
+  "ncids": [
+   "K1431"
+  ],
+  "stem": "What is true of local recurrence after surgical treatment of rectal cancer?",
+  "options": {
+   "A": "It is a major problem",
+   "B": "Radiotherapy is a mainstay of therapy",
+   "C": "The most common cause is inadequate removal rather than micrometastasis",
+   "D": "Rising CEA can indicate the need for further radical surgery",
+   "E": "All are true"
+  },
+  "answer": "E",
+  "explanation": "Local pelvic recurrence was historically a major problem after rectal cancer surgery, mainly due to inadequate clearance of the mesorectum and circumferential margin, which is why total mesorectal excision and neoadjuvant radiotherapy are used. CEA surveillance can detect recurrence amenable to salvage surgery.",
+  "key_note": "",
+  "_new": true,
+  "qid": "20-N13"
+ },
+ {
+  "ncids": [
+   "K1432"
+  ],
+  "stem": "The most common cause of anorectal abscess and fistula is:",
+  "options": {
+   "A": "Unhygienic perianal skin",
+   "B": "Anal intercourse",
+   "C": "Infection of the anal glands",
+   "D": "Perianal eczema"
+  },
+  "answer": "C",
+  "explanation": "Most anorectal abscesses and fistulae are cryptoglandular: infection of the intersphincteric anal glands opening at the dentate line (Parks' theory). Crohn's, TB and malignancy are less common specific causes.",
+  "key_note": "",
+  "_new": true,
+  "qid": "20-N14"
+ },
+ {
+  "ncids": [
+   "K1671"
+  ],
+  "stem": "What is INCORRECT about haemorrhoids?",
+  "options": {
+   "A": "They are caused by varicosity of the anal veins",
+   "B": "They may cause pruritus",
+   "C": "They may cause severe pain when thrombosed or strangulated",
+   "D": "They may become infected",
+   "E": "They may resolve with conservative treatment"
+  },
+  "answer": "A",
+  "explanation": "Haemorrhoids are displaced and enlarged anal vascular cushions (arteriovenous sinusoids with supporting smooth muscle), not varicose veins. Uncomplicated internal haemorrhoids are painless, but thrombosis or strangulation causes severe pain.",
+  "key_note": "",
+  "_new": true,
+  "qid": "20-N15"
+ },
+ {
+  "ncids": [
+   "K1433"
+  ],
+  "stem": "The most common malignant tumour of the anus is:",
+  "options": {
+   "A": "Basaloid carcinoma",
+   "B": "Mucoepidermoid carcinoma",
+   "C": "Melanoma",
+   "D": "Squamous cell carcinoma"
+  },
+  "answer": "D",
+  "explanation": "Squamous cell carcinoma, strongly associated with HPV, accounts for the large majority of anal cancers; melanoma and other types are rare.",
+  "key_note": "",
+  "_new": true,
+  "qid": "20-N16"
+ }
+]

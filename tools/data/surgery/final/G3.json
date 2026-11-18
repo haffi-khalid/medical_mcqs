@@ -1,0 +1,2662 @@
+[
+ {
+  "cids": [
+   "C0680"
+  ],
+  "stem": "What percentage of body weight in men is water?",
+  "options": {
+   "A": "30",
+   "B": "40",
+   "C": "50",
+   "D": "60",
+   "E": "70"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Total body water is about 60% of body weight in an adult man (about 42 L in a 70 kg man) and about 50-55% in women, who have more fat.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G3-1"
+ },
+ {
+  "cids": [
+   "C0913"
+  ],
+  "stem": "In a 70 kg man the total body water is about 42 litres. Where is the majority of it?",
+  "options": {
+   "A": "Extracellular extravascular compartment",
+   "B": "Extracellular intravascular compartment",
+   "C": "Intracellular intravascular compartment",
+   "D": "Intracellular extravascular compartment"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Two-thirds of total body water (about 28 L) is intracellular, almost all of it in cells outside the vessels. The ECF is one-third (about 14 L), split into interstitial (about 10.5 L) and plasma (about 3.5 L).",
+  "key_note": "The paper key marked B (extracellular intravascular); correct is D: the intracellular compartment holds about two-thirds of body water, while plasma is only about 3.5 L.",
+  "figure": "",
+  "qid": "G3-2"
+ },
+ {
+  "cids": [
+   "C0986"
+  ],
+  "stem": "At the venular end of the capillary, water enters the capillary because:",
+  "options": {
+   "A": "K+ ions are located within the capillary",
+   "B": "A higher solute concentration is found in the capillary",
+   "C": "The colloid osmotic pressure exceeds the hydrostatic pressure",
+   "D": "Na+ ions are located at the arterial end of the capillary"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Starling forces: hydrostatic pressure falls along the capillary while plasma oncotic pressure (about 25 mmHg) stays constant, so at the venular end oncotic pressure exceeds hydrostatic pressure and fluid is reabsorbed.",
+  "key_note": "Not marked in the source paper; answer by reviewer. Options A, B and D were garbled in the source and have been lightly reconstructed.",
+  "figure": "",
+  "qid": "G3-3"
+ },
+ {
+  "cids": [
+   "C0321"
+  ],
+  "stem": "The normal volume of gastric juice is about 2-2.5 litres per day. What is the total volume of gastrointestinal secretions in a 70 kg adult in 24 hours?",
+  "options": {
+   "A": "1 litre",
+   "B": "4 litres",
+   "C": "8 litres",
+   "D": "10 litres",
+   "E": "12 litres"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Saliva, gastric juice, bile, pancreatic juice and succus entericus together come to about 8 L a day, almost all reabsorbed. This explains why high fistulae and obstruction cause such large fluid losses.",
+  "key_note": "One copy of the paper highlighted E (12 litres) but the printed key gave C; correct is C, about 8 L/day.",
+  "figure": "",
+  "qid": "G3-4"
+ },
+ {
+  "cids": [
+   "C0649"
+  ],
+  "stem": "What is the composition of normal saline?",
+  "options": {
+   "A": "120 mEq/L of NaCl",
+   "B": "135 mEq/L of NaCl",
+   "C": "138 mEq/L of NaCl",
+   "D": "145 mEq/L of NaCl",
+   "E": "154 mEq/L of NaCl"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "0.9% saline contains 154 mmol/L each of sodium and chloride (308 mOsm/L). Its high chloride compared with plasma (about 100 mmol/L) causes hyperchloraemic acidosis when given in large volumes.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G3-5"
+ },
+ {
+  "cids": [
+   "N016"
+  ],
+  "stem": "Which ion is NOT present in Hartmann's solution?",
+  "options": {},
+  "answer": null,
+  "answer_text": "Fluoride (Hartmann's contains only sodium, potassium, calcium, chloride and lactate)",
+  "explanation": "Hartmann's (compound sodium lactate) contains Na+ 131, K+ 5, Ca2+ 2, Cl- 111 and lactate 29 mmol/L. It contains no fluoride, magnesium, glucose or bicarbonate as such: lactate is converted to bicarbonate in the liver.",
+  "key_note": "Options not available in the source; recall question.",
+  "figure": "",
+  "qid": "G3-6"
+ },
+ {
+  "cids": [
+   "C1041"
+  ],
+  "stem": "Which of the following is NOT associated with infusion of large volumes of normal saline for fluid resuscitation?",
+  "options": {
+   "A": "Renal vasoconstriction",
+   "B": "Hyperchloraemic metabolic acidosis",
+   "C": "Lactic acidosis",
+   "D": "Anasarca",
+   "E": "Decrease in strong ion difference"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "The excess chloride in saline lowers the strong ion difference, causing hyperchloraemic (normal anion gap) acidosis, and hyperchloraemia causes renal vasoconstriction. Large volumes also cause interstitial oedema (anasarca). Saline contains no lactate and does not cause lactic acidosis.",
+  "key_note": "The paper key marked D (anasarca); correct is C: large-volume saline causes oedema and hyperchloraemic acidosis, not lactic acidosis.",
+  "figure": "",
+  "qid": "G3-7"
+ },
+ {
+  "cids": [
+   "C1060"
+  ],
+  "stem": "A 65-year-old man has a jejunal enterocutaneous fistula secondary to inflammatory bowel disease. What is the most appropriate fluid to replace his enteric losses?",
+  "options": {
+   "A": "5% dextrose in water",
+   "B": "3% saline",
+   "C": "Sodium bicarbonate solution",
+   "D": "Ringer's lactate solution",
+   "E": "Haemaccel"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Small bowel effluent is roughly isotonic, with sodium around 100-140 mmol/L plus potassium and bicarbonate, so it is replaced volume for volume with an isotonic balanced crystalloid such as Ringer's lactate. Hypertonic saline is for symptomatic severe hyponatraemia.",
+  "key_note": "One paper key marked hypertonic saline; correct is D, Ringer's lactate (isotonic crystalloid).",
+  "figure": "",
+  "qid": "G3-8"
+ },
+ {
+  "cids": [
+   "C0229",
+   "C0461"
+  ],
+  "stem": "A 10 kg baby has severe dehydration after diarrhoea. What is the daily fluid requirement?",
+  "options": {
+   "A": "20 ml/kg/day",
+   "B": "50 ml/kg/day",
+   "C": "100 ml/kg/day",
+   "D": "150 ml/kg/day",
+   "E": "120 ml/kg/day"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Holliday-Segar maintenance is 100 ml/kg/day for the first 10 kg (1000 ml/day for a 10 kg child). The dehydration deficit is calculated and given on top of this.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G3-9"
+ },
+ {
+  "cids": [
+   "C0774"
+  ],
+  "stem": "A 34-year-old man has a serum sodium of 114 mEq/L. What is the normal daily sodium requirement to be provided while correcting his hyponatraemia?",
+  "options": {
+   "A": "5 mEq/kg/day",
+   "B": "1 mEq/kg/day",
+   "C": "10 mEq/kg/day",
+   "D": "7 mEq/kg/day",
+   "E": "3 mEq/kg/day"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Daily sodium maintenance is about 1 mmol/kg/day (70 mmol for a 70 kg adult). In chronic hyponatraemia the serum sodium should not rise by more than 8-10 mmol/L in 24 hours, to avoid osmotic demyelination.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "G3-10"
+ },
+ {
+  "cids": [
+   "C0459"
+  ],
+  "stem": "A 40-year-old man weighing 65 kg is in the ICU. Twenty-four hours after surgery he develops convulsions. His serum sodium is 118 mEq/L. Appropriate management includes:",
+  "options": {
+   "A": "Normal saline (0.9%)",
+   "B": "Hypertonic saline (3%)",
+   "C": "Emergency haemodialysis",
+   "D": "Vasopressin",
+   "E": "Furosemide 40 mg IV"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Severe symptomatic hyponatraemia (seizures) needs hypertonic 3% saline boluses to raise sodium by 4-6 mmol/L and stop the seizures, then slow correction (no more than 8-10 mmol/L in 24 hours). Normal saline is too weak, and vasopressin worsens water retention.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G3-11"
+ },
+ {
+  "cids": [
+   "C0681"
+  ],
+  "stem": "The normal range of serum potassium is:",
+  "options": {
+   "A": "1.5-2.5 mEq/L",
+   "B": "2.5-3.5 mEq/L",
+   "C": "3.5-5.5 mEq/L",
+   "D": "5.5-7.5 mEq/L",
+   "E": "7.5-9.5 mEq/L"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Normal serum potassium is about 3.5-5.0 (up to 5.5 in some labs) mmol/L. Potassium is mainly intracellular (about 150 mmol/L inside cells).",
+  "key_note": "",
+  "figure": "",
+  "qid": "G3-12"
+ },
+ {
+  "cids": [
+   "C0886"
+  ],
+  "stem": "The normal daily requirement of potassium in a 70 kg man is:",
+  "options": {
+   "A": "Less than 5 mmol per day",
+   "B": "10-25 mmol per day",
+   "C": "40-45 mmol per day",
+   "D": "70-80 mmol per day",
+   "E": "100-200 mmol per day"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Maintenance potassium is about 1 mmol/kg/day (NICE, Bailey & Love), i.e. about 70 mmol/day for a 70 kg man. 40-45 mmol is too little to replace normal daily urinary losses.",
+  "key_note": "One paper key and the compiled key marked 40-45 mmol/day, another paper marked 70-80 mmol/day; correct is 70-80 mmol/day, since 1 mmol/kg/day x 70 kg = 70 mmol.",
+  "figure": "",
+  "qid": "G3-13"
+ },
+ {
+  "cids": [
+   "C1174"
+  ],
+  "stem": "Potassium is the main intracellular ion. The average daily potassium requirement of a 50 kg woman is approximately:",
+  "options": {
+   "A": "0.5 mmol/day",
+   "B": "5 mmol/day",
+   "C": "50 mmol/day",
+   "D": "500 mmol/day",
+   "E": "5000 mmol/day"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "At about 1 mmol/kg/day, a 50 kg woman needs about 50 mmol of potassium daily.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "G3-14"
+ },
+ {
+  "cids": [
+   "C0873"
+  ],
+  "stem": "Potassium deficiency should be suspected:",
+  "options": {
+   "A": "In paralytic ileus",
+   "B": "When the patient's reflexes are exaggerated",
+   "C": "If there is tenting of the T waves on the ECG",
+   "D": "In renal failure"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Hypokalaemia causes smooth and skeletal muscle weakness, so it prolongs postoperative ileus and causes hyporeflexia. Tented T waves and renal failure point to hyperkalaemia.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G3-15"
+ },
+ {
+  "cids": [
+   "C1210"
+  ],
+  "stem": "A 60-year-old woman was operated on for a perforated appendix and kept nil by mouth. On the third postoperative day she develops weakness and fatigue with vomiting and absent bowel sounds. Her ECG shows ST depression and U waves. What is the most likely diagnosis?",
+  "options": {
+   "A": "Hypercalcaemia",
+   "B": "Hypocalcaemia",
+   "C": "Hyperkalaemia",
+   "D": "Hypokalaemia",
+   "E": "Hyponatraemia"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Nil by mouth without potassium replacement plus vomiting causes hypokalaemia: muscle weakness, paralytic ileus and ECG changes of flattened T waves, ST depression and prominent U waves.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "G3-16"
+ },
+ {
+  "cids": [
+   "C0647"
+  ],
+  "stem": "In patients with metabolic alkalosis, which abnormality is most commonly seen?",
+  "options": {
+   "A": "Hyponatraemia",
+   "B": "Hypernatraemia",
+   "C": "Hypokalaemia",
+   "D": "Hyperkalaemia",
+   "E": "Hypercalcaemia"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Alkalosis drives potassium into cells in exchange for H+, and the kidney exchanges K+ for Na+ to conserve H+, so hypokalaemia goes with metabolic alkalosis (e.g. gastric outlet obstruction).",
+  "key_note": "",
+  "figure": "",
+  "qid": "G3-17"
+ },
+ {
+  "cids": [
+   "C0987"
+  ],
+  "stem": "An excessive amount of potassium in the body may lead to:",
+  "options": {
+   "A": "Poor muscle contraction",
+   "B": "Accumulation of acid in the body",
+   "C": "Fibrillation of the heart",
+   "D": "Renal failure"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Severe hyperkalaemia depolarises the resting membrane potential and causes conduction block, ventricular fibrillation and asystole. It is a consequence of renal failure, not a cause.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "G3-18"
+ },
+ {
+  "cids": [
+   "C0648"
+  ],
+  "stem": "Which of the following is an early ECG sign of hyperkalaemia?",
+  "options": {
+   "A": "Peaked T wave",
+   "B": "Peaked P wave",
+   "C": "Shortened QRS complex",
+   "D": "Peaked U wave",
+   "E": "Flattened T wave"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "The earliest ECG change of hyperkalaemia is tall peaked (tented) T waves. Later come PR prolongation, P wave loss, QRS widening, a sine wave pattern and VF. U waves and flat T waves mean hypokalaemia.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G3-19"
+ },
+ {
+  "cids": [
+   "C0430"
+  ],
+  "stem": "Which electrolyte imbalance requires insulin as part of its treatment?",
+  "options": {
+   "A": "Hypokalaemia",
+   "B": "Shift of the oxyhaemoglobin dissociation curve to the right",
+   "C": "Hyperkalaemia",
+   "D": "Hypercalcaemia",
+   "E": "Hyperchloraemia"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Insulin with dextrose (e.g. 10 units soluble insulin in 50 ml of 50% glucose) shifts potassium into cells, lowering serum K+ within 15-30 minutes. Calcium gluconate is given first to protect the myocardium.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G3-20"
+ },
+ {
+  "cids": [
+   "C1208"
+  ],
+  "stem": "A 35-year-old woman presents with colicky abdominal pain and distension for one day. She is constipated and has had multiple episodes of projectile vomiting. Arterial blood gases are ordered. What abnormality do you anticipate?",
+  "options": {
+   "A": "Metabolic acidosis",
+   "B": "Metabolic alkalosis",
+   "C": "Respiratory acidosis",
+   "D": "Respiratory alkalosis",
+   "E": "All of the above"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Repeated vomiting loses H+ and Cl- from the stomach, causing hypochloraemic hypokalaemic metabolic alkalosis. Metabolic acidosis would point to strangulation or ischaemia with lactate.",
+  "key_note": "Not marked in the source paper; the compiled key gave two answers (D and B); correct is B, metabolic alkalosis from vomiting.",
+  "figure": "",
+  "qid": "G3-21"
+ },
+ {
+  "cids": [
+   "C0814"
+  ],
+  "stem": "Which of the following is the most common type of hypovolaemic shock?",
+  "options": {
+   "A": "Decompensated shock",
+   "B": "Covert compensated hypovolaemia",
+   "C": "Overt compensated hypovolaemia",
+   "D": "Moderate shock",
+   "E": "None of the above"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Bailey & Love describes covert compensated hypovolaemia (occult hypoperfusion): normal pulse, BP and urine output but ongoing splanchnic underperfusion and acidosis. It is common after trauma and surgery, and is missed unless lactate or base deficit is checked.",
+  "key_note": "Paper keys disagreed (B and C); B is the reviewer's choice, but the question is ambiguous and poorly referenced.",
+  "figure": "",
+  "qid": "G3-22"
+ },
+ {
+  "cids": [
+   "C1207"
+  ],
+  "stem": "Hypovolaemic shock can be classified into categories by severity. In mild hypovolaemic shock there is only:",
+  "options": {
+   "A": "Increased pulse rate",
+   "B": "Lactic acidosis",
+   "C": "Marked decrease in urine output",
+   "D": "Marked increase in breathing rate",
+   "E": "Pain"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "In mild (compensated) hypovolaemia, tachycardia is often the only sign as sympathetic drive keeps BP up. Marked oliguria, tachypnoea and lactic acidosis appear in moderate to severe shock.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "G3-23"
+ },
+ {
+  "cids": [
+   "C0780"
+  ],
+  "stem": "According to the traditional (ATLS) classification of haemorrhagic shock, how is class III defined by volume loss?",
+  "options": {
+   "A": "1-5%",
+   "B": "5-15%",
+   "C": "15-30%",
+   "D": "30-40%",
+   "E": ">40%"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "ATLS classes by blood volume lost: I up to 15%, II 15-30%, III 31-40%, IV over 40%. Class III is the first class with a consistent fall in systolic BP.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "G3-24"
+ },
+ {
+  "cids": [
+   "C1205"
+  ],
+  "stem": "Which of the following is true regarding haemorrhagic shock?",
+  "options": {
+   "A": "Blood volume loss of less than 20% is class I shock",
+   "B": "Blood volume loss of 15-30% is class II shock",
+   "C": "Blood volume loss of 15-30% is class III shock",
+   "D": "Blood volume loss of 15-30% is class IV shock",
+   "E": "Blood volume loss greater than 30% is class IV shock"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Class I is up to 15%, class II 15-30% (750-1500 ml in a 70 kg adult), class III 31-40% and class IV over 40% of blood volume.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "G3-25"
+ },
+ {
+  "cids": [
+   "C0815",
+   "C0895"
+  ],
+  "stem": "Loss of 1000 ml of blood from a penetrating wound in an adult falls under which class of haemorrhage?",
+  "options": {
+   "A": "Class I",
+   "B": "Class II",
+   "C": "Class III",
+   "D": "Class IV",
+   "E": "Class V"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Adult blood volume is about 70 ml/kg (about 5 L in 70 kg). 1000 ml is about 20%, within class II (15-30%, 750-1500 ml).",
+  "key_note": "A merged reverse-format variant asked which volume is class II; its paper key D (1500 ml) is the class II/III boundary, so 1000 ml is the unequivocal class II volume.",
+  "figure": "",
+  "qid": "G3-26"
+ },
+ {
+  "cids": [
+   "C0630"
+  ],
+  "stem": "Blood loss from a fractured shaft of femur, which may cause class II haemorrhagic shock, is:",
+  "options": {
+   "A": "Up to 500 ml",
+   "B": "Up to 750 ml",
+   "C": "Up to 1500 ml",
+   "D": "Up to 2000 ml",
+   "E": "Up to 2500 ml"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A closed femoral shaft fracture can hide 1-1.5 L of blood in the thigh, enough for class II shock (750-1500 ml). A pelvic fracture can lose much more.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G3-27"
+ },
+ {
+  "cids": [
+   "C1484"
+  ],
+  "stem": "A 23-year-old man is brought to the ER after a stab wound to the left upper quadrant. He is anxious and drowsy, with pulse 120/min, BP 90/60 mmHg, respiratory rate 30/min and urine output 5-15 ml/hour. What is his approximate blood loss?",
+  "options": {
+   "A": ">2500 ml",
+   "B": "1500-2000 ml",
+   "C": "2000-2500 ml",
+   "D": "500-750 ml",
+   "E": "750-1500 ml"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Pulse over 120, hypotension, RR 30-40, urine output 5-15 ml/h and anxiety or confusion fit ATLS class III, 31-40% or 1500-2000 ml. Class IV (over 2000 ml) has negligible urine output and lethargy.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G3-28"
+ },
+ {
+  "cids": [
+   "C1482",
+   "C0911"
+  ],
+  "stem": "After a road accident a patient has severe pelvic trauma with ecchymosis and bruising around the pelvic girdle but no external wound. On arrival his BP is 70/40 mmHg and pulse 130/min. He is most likely suffering from:",
+  "options": {
+   "A": "Cardiogenic shock",
+   "B": "Distributive shock",
+   "C": "Endocrine shock",
+   "D": "Hypovolaemic shock",
+   "E": "Neurogenic shock"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Pelvic fractures can bleed several litres into the retroperitoneum from venous plexuses and fracture surfaces, causing hypovolaemic (haemorrhagic) shock. Management is a pelvic binder, blood and angioembolisation or packing.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G3-29"
+ },
+ {
+  "cids": [
+   "C0008",
+   "C0834"
+  ],
+  "stem": "Obstructive shock may be caused by:",
+  "options": {
+   "A": "Haemothorax",
+   "B": "Cardiac tamponade",
+   "C": "Pneumothorax",
+   "D": "Cardiomyopathy",
+   "E": "Flail chest"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Obstructive shock comes from mechanical obstruction to cardiac filling or outflow: cardiac tamponade, tension pneumothorax and massive pulmonary embolism. A simple pneumothorax does not cause it, haemothorax causes hypovolaemic shock, and cardiomyopathy causes cardiogenic shock.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G3-30"
+ },
+ {
+  "cids": [
+   "C0686"
+  ],
+  "stem": "A 10-year-old boy develops stridor and collapses after eating chocolate containing nuts. He needs airway and breathing support. His BP is 70/38 mmHg. What is the most likely diagnosis?",
+  "options": {
+   "A": "Septic shock",
+   "B": "Cardiogenic shock",
+   "C": "Neurogenic shock",
+   "D": "Anaphylactic shock",
+   "E": "Hypovolaemic shock"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Nut exposure followed by airway oedema (stridor) and hypotension is anaphylaxis, an IgE-mediated distributive shock. Treatment is IM adrenaline 0.5 mg (1:1000) in adults (300 micrograms in a 6-12-year-old child), airway support and fluids.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G3-31"
+ },
+ {
+  "cids": [
+   "C0716"
+  ],
+  "stem": "A 30-year-old man is brought to the emergency department after a high-speed car crash in which he was the driver and the windscreen was broken. He is alert, oriented and in no respiratory distress. He cannot move any of his four limbs, but his extremities are warm and pink. Pulse is 54/min and BP 70/40 mmHg. What is the diagnosis?",
+  "options": {
+   "A": "Haemorrhagic shock",
+   "B": "Cardiogenic shock",
+   "C": "Neurogenic shock",
+   "D": "Septic shock",
+   "E": "Obstructive shock"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Cervical cord injury (quadriplegia) cuts sympathetic outflow, causing vasodilatation with warm pink peripheries, hypotension and relative bradycardia from unopposed vagal tone. Haemorrhage must still be excluded before hypotension is attributed to the cord injury.",
+  "key_note": "Most papers printed pulse 110/min (one 54/min) and some had E as Irreversible shock; the answer in every version is C, neurogenic shock, but tachycardia should prompt a search for concurrent haemorrhage.",
+  "figure": "",
+  "qid": "G3-32"
+ },
+ {
+  "cids": [
+   "C0910"
+  ],
+  "stem": "Neurogenic shock is characterised by:",
+  "options": {
+   "A": "Decreased cardiac output",
+   "B": "Decreased blood volume",
+   "C": "Decreased peripheral vascular resistance",
+   "D": "Increased cardiac output",
+   "E": "Increased peripheral vascular resistance"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Loss of sympathetic vasomotor tone after cord injury (usually above T6) causes vasodilatation and low systemic vascular resistance. Blood volume is normal but relatively underfilled.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G3-33"
+ },
+ {
+  "cids": [
+   "C0829"
+  ],
+  "stem": "What is the most striking feature of vasovagal shock?",
+  "options": {
+   "A": "Blood pressure is low",
+   "B": "Pulse is bounding",
+   "C": "The patient has bradycardia",
+   "D": "It may follow a sudden blow to the epigastrium",
+   "E": "It is due to expansion of the vascular space"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Vasovagal (neurogenic) syncope comes from a sudden vagal surge, so its hallmark is bradycardia with hypotension, unlike the tachycardia of hypovolaemia. It recovers rapidly once the patient lies flat.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G3-34"
+ },
+ {
+  "cids": [
+   "C1206"
+  ],
+  "stem": "A 44-year-old man presents with abdominal pain and repeated vomiting for 2 days. Erect abdominal X-ray shows gas under the right hemidiaphragm. Pulse is 120/min and BP 90/60 mmHg, with warm extremities. Which statement is true regarding septic shock?",
+  "options": {
+   "A": "Allergic reaction is the root cause",
+   "B": "Endotoxins are the cause of septic shock",
+   "C": "Hypovolaemia is the root cause",
+   "D": "Myocardial dysfunction is the root cause",
+   "E": "Reduced preload is due to mechanical obstruction"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "In perforation peritonitis, Gram-negative endotoxin (LPS) triggers a cytokine cascade, causing vasodilatation and capillary leak: warm, hyperdynamic distributive shock. Hypovolaemia and myocardial depression contribute but are not the root cause.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "G3-35"
+ },
+ {
+  "cids": [
+   "C0876"
+  ],
+  "stem": "A 30-year-old man with a crushed left leg from a road traffic accident develops septic shock four days later. Which statement is true?",
+  "options": {
+   "A": "Septic shock is only caused by Gram-negative organisms",
+   "B": "A patient in septic shock will always have a normal CVP",
+   "C": "Cardiac output is decreased in septic shock",
+   "D": "Cellular oxygenation is mainly disturbed in septic shock"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Sepsis impairs tissue oxygen extraction and mitochondrial use (cytopathic hypoxia), so cells are hypoxic despite high flow. Gram-positive and fungal organisms also cause it, and early septic shock has a high cardiac output.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G3-36"
+ },
+ {
+  "cids": [
+   "C0821"
+  ],
+  "stem": "In which type of shock is mixed venous oxygen saturation increased above normal?",
+  "options": {
+   "A": "Hypovolaemic shock",
+   "B": "Septic shock",
+   "C": "Neurogenic shock",
+   "D": "Spinal shock",
+   "E": "Anaphylactic shock"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "In septic shock, tissues fail to extract oxygen and blood is shunted, so SvO2 rises (often above 75-80%). In hypovolaemic and cardiogenic shock, increased extraction lowers SvO2.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G3-37"
+ },
+ {
+  "cids": [
+   "C0808"
+  ],
+  "stem": "A patient with hypotension secondary to septic shock should receive which volume of fluid replacement?",
+  "options": {
+   "A": "30 ml/kg in 15-30 min",
+   "B": "30 ml/kg in 30-60 min",
+   "C": "20 ml/kg in 30-60 min",
+   "D": "50 ml/kg in 40-60 min",
+   "E": "None of the above"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "The Surviving Sepsis Campaign recommends 30 ml/kg of crystalloid for sepsis-induced hypotension or lactate of 4 mmol/L or more, started rapidly in the first hour and completed within 3 hours, with reassessment after each bolus.",
+  "key_note": "Paper key B accepted; strictly, guidelines say 30 ml/kg started within the first hour and completed within 3 hours, so no option is exact.",
+  "figure": "",
+  "qid": "G3-38"
+ },
+ {
+  "cids": [
+   "C0007"
+  ],
+  "stem": "Myocardial depression seen in ischaemia-reperfusion injury is due to build-up of which of the following?",
+  "options": {
+   "A": "HCO3-",
+   "B": "K+",
+   "C": "Na+",
+   "D": "Mg2+",
+   "E": "Ca2+"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "On reperfusion, Na+/H+ and then Na+/Ca2+ exchange cause intracellular calcium overload, which with oxygen free radicals causes myocardial stunning and contractile dysfunction.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G3-39"
+ },
+ {
+  "cids": [
+   "C0822"
+  ],
+  "stem": "CVP is used to measure which of the following?",
+  "options": {
+   "A": "Urine output",
+   "B": "Left ventricular function",
+   "C": "Intravascular volume and right ventricular function",
+   "D": "Intravascular volume",
+   "E": "Left ventricular volume"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "CVP approximates right atrial pressure, so it reflects both venous return (intravascular volume) and right heart function. A single value is a poor guide, and the trend after a fluid challenge is more useful.",
+  "key_note": "Paper keys disagreed (C and D); correct is C, since CVP depends on both volume and right ventricular performance.",
+  "figure": "",
+  "qid": "G3-40"
+ },
+ {
+  "cids": [
+   "C1518"
+  ],
+  "stem": "A 27-year-old man presents to the ER with polytrauma, pulse 130/min and BP 80/40 mmHg, and is managed by ATLS protocol. What is a simple and reliable indicator of adequate tissue perfusion in a shocked patient?",
+  "options": {
+   "A": "Blood pressure",
+   "B": "Central venous pressure",
+   "C": "Mean arterial pressure",
+   "D": "Pulse rate",
+   "E": "Urine output"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Hourly urine output (at least 0.5 ml/kg/h in adults) via a catheter is a simple, reliable reflection of renal and end-organ perfusion. BP can be maintained by vasoconstriction while organs remain underperfused.",
+  "key_note": "The compiled key gave C (mean arterial pressure); the paper's E (urine output) is correct.",
+  "figure": "",
+  "qid": "G3-41"
+ },
+ {
+  "cids": [
+   "C1507"
+  ],
+  "stem": "A 60-year-old woman is brought in after an accident with a fast, weak, thready pulse and systolic BP 80 mmHg. After ABC she is resuscitated with Ringer's lactate. What is the first sign to look for of improvement in shock after fluid resuscitation?",
+  "options": {
+   "A": "Increased blood pressure",
+   "B": "Increased CVP",
+   "C": "Decreased heart rate",
+   "D": "Decreased respiratory rate",
+   "E": "Urine output"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Tachycardia is the earliest compensatory sign of hypovolaemia, and falling heart rate is the earliest clinical sign of response to a fluid bolus, followed by BP and then urine output. A transient CVP rise only shows the bolus was given, not that perfusion has improved.",
+  "key_note": "The paper key marked B (increased CVP) and the compiled key E (urine output); the reviewer's answer is C (falling heart rate) as the earliest sign of response, but urine output is the best ongoing measure of perfusion, so the question is ambiguous.",
+  "figure": "",
+  "qid": "G3-42"
+ },
+ {
+  "cids": [
+   "C0798"
+  ],
+  "stem": "During cholecystectomy, iatrogenic injury to the right hepatic artery causes profuse bleeding. This type of haemorrhage is defined as:",
+  "options": {
+   "A": "Primary haemorrhage",
+   "B": "Secondary haemorrhage",
+   "C": "Reactionary haemorrhage",
+   "D": "Massive haemorrhage"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Primary haemorrhage happens at the time of injury or operation. Reactionary is within 24 hours (slipped ligature or dislodged clot as BP rises), and secondary is at 7-14 days from infection eroding a vessel.",
+  "key_note": "Not marked in the source paper; the compiled key letter (C) contradicts its own text (primary haemorrhage); correct is A.",
+  "figure": "",
+  "qid": "G3-43"
+ },
+ {
+  "cids": [
+   "N017"
+  ],
+  "stem": "Which statement regarding reactionary haemorrhage is correct?",
+  "options": {},
+  "answer": null,
+  "answer_text": "It occurs within 24 hours of surgery, typically from a slipped ligature or dislodged clot",
+  "explanation": "Reactionary haemorrhage occurs within 24 hours of surgery when rising BP and vasodilatation after recovery dislodge a clot or a ligature slips. It usually needs re-exploration.",
+  "key_note": "Options not available in the source; recall question.",
+  "figure": "",
+  "qid": "G3-44"
+ },
+ {
+  "cids": [
+   "N005"
+  ],
+  "stem": "Which statement regarding secondary haemorrhage is correct?",
+  "options": {},
+  "answer": null,
+  "answer_text": "It occurs about 7-14 days after operation, due to infection eroding a vessel",
+  "explanation": "Secondary haemorrhage occurs about 7-14 days after surgery or injury when infection erodes a vessel wall (e.g. after an infected wound or pelvic surgery), and is often heralded by a small warning bleed.",
+  "key_note": "Options not available in the source; recall question.",
+  "figure": "",
+  "qid": "G3-45"
+ },
+ {
+  "cids": [
+   "C0653"
+  ],
+  "stem": "Which clotting factor is the FIRST common factor of both the intrinsic and extrinsic pathways?",
+  "options": {
+   "A": "Factor X",
+   "B": "Factor I",
+   "C": "Factor V",
+   "D": "Factor IX",
+   "E": "Factor XI"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "The intrinsic (tenase IXa-VIIIa) and extrinsic (tissue factor-VIIa) pathways both activate factor X, the start of the common pathway (X, V, II, I).",
+  "key_note": "",
+  "figure": "",
+  "qid": "G3-46"
+ },
+ {
+  "cids": [
+   "C0832"
+  ],
+  "stem": "What is the cause of the increased bleeding tendency in patients with chronic renal failure?",
+  "options": {
+   "A": "Liver dysfunction",
+   "B": "Factor VIII and IX deficiency",
+   "C": "Increased fragility of blood vessels",
+   "D": "Platelet dysfunction",
+   "E": "None of the above"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Uraemic toxins impair platelet adhesion and aggregation (a qualitative defect) even with a normal count. It responds to dialysis and desmopressin.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G3-47"
+ },
+ {
+  "cids": [
+   "C0033"
+  ],
+  "stem": "A 55-year-old woman on warfarin for a mechanical heart valve presents with spontaneous bleeding from the gums. Her INR is 9.2 and she is haemodynamically stable. Which agent is required to reverse the anticoagulation?",
+  "options": {
+   "A": "Oral vitamin K",
+   "B": "Fresh frozen plasma",
+   "C": "Protamine sulfate",
+   "D": "Tranexamic acid",
+   "E": "Desmopressin"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "With a very high INR and only minor bleeding in a stable patient, warfarin is withheld and vitamin K given (low dose, IV preferred when bleeding, to avoid valve thrombosis from over-reversal). Prothrombin complex concentrate (or FFP if unavailable) is for major bleeding, and protamine reverses heparin.",
+  "key_note": "Paper key A accepted; current guidance prefers low-dose IV vitamin K when there is bleeding.",
+  "figure": "",
+  "qid": "G3-48"
+ },
+ {
+  "cids": [
+   "C0006"
+  ],
+  "stem": "A 16-year-old boy with severe haemophilia A is undergoing elective inguinal hernia repair. Which of the following is the best option for preventing or treating bleeding complications?",
+  "options": {
+   "A": "Whole blood",
+   "B": "Cryoprecipitate",
+   "C": "FFP",
+   "D": "Factor IX",
+   "E": "Packed cells"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Haemophilia A is factor VIII deficiency; the treatment of choice is recombinant factor VIII concentrate. Among these options, cryoprecipitate is the richest source of factor VIII (with fibrinogen and vWF). Factor IX is for haemophilia B.",
+  "key_note": "Paper key B accepted as best among the options; the ideal answer, factor VIII concentrate, is not offered.",
+  "figure": "",
+  "qid": "G3-49"
+ },
+ {
+  "cids": [
+   "C0824"
+  ],
+  "stem": "A 16-year-old boy with severe haemophilia A is undergoing elective inguinal hernia repair. Which of the following is the best option for preventing or treating bleeding complications? (alternative option set)",
+  "options": {
+   "A": "FFP",
+   "B": "FFP and desmopressin",
+   "C": "DDAVP (desmopressin)",
+   "D": "Aminocaproic acid and desmopressin",
+   "E": "Factor IX concentrate"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Desmopressin releases stored factor VIII and vWF and works only in mild haemophilia A; in severe disease there is no factor VIII to release. Without factor VIII concentrate, FFP is the only option here that supplies factor VIII. Factor IX is for haemophilia B.",
+  "key_note": "The paper key marked C (DDAVP); this is wrong for severe haemophilia A, where desmopressin is ineffective. A (FFP) is the best of the options, and the ideal answer, recombinant factor VIII, is missing.",
+  "figure": "",
+  "qid": "G3-50"
+ },
+ {
+  "cids": [
+   "C0907"
+  ],
+  "stem": "In a blood bank, at what temperature is blood (red cells) for transfusion stored?",
+  "options": {
+   "A": "-20 C",
+   "B": "0 to 4 C",
+   "C": "+2 to +6 C",
+   "D": "+10 to +14 C"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Red cells are stored at 2-6 C (4 +/- 2 C) for up to 35 days in CPDA-1 or 42 days in SAGM. Platelets are kept at 20-24 C with agitation, and FFP is frozen at -25 C or below.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G3-51"
+ },
+ {
+  "cids": [
+   "C0807"
+  ],
+  "stem": "Which solution is commonly used for storage of blood?",
+  "options": {
+   "A": "Acid citrate dextrose",
+   "B": "Citrate phosphate dextrose (CPD)",
+   "C": "CPD-adenine (CPDA-1)",
+   "D": "Dextran",
+   "E": "Citrate"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "CPDA-1 is the standard anticoagulant-preservative in blood bags (as in Pakistan): citrate anticoagulates, phosphate buffers, dextrose fuels red cell glycolysis and adenine maintains ATP, extending shelf life to 35 days, against 21 days for CPD alone.",
+  "key_note": "The paper key marked B (CPD); correct is C, since CPDA-1 (or SAGM additive) is the solution in common use and adenine extends red cell storage.",
+  "figure": "",
+  "qid": "G3-52"
+ },
+ {
+  "cids": [
+   "C0809"
+  ],
+  "stem": "Stored blood lacks which clotting factors?",
+  "options": {
+   "A": "Factors II and V",
+   "B": "Factors V and VIII",
+   "C": "Factors II and III",
+   "D": "Factors VIII and IX",
+   "E": "Factors VIII and X"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "The labile factors V and VIII decay rapidly in stored blood, and platelets are non-functional after about 48 hours at 4 C. That is why massive transfusion needs FFP and platelets.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G3-53"
+ },
+ {
+  "cids": [
+   "C1224"
+  ],
+  "stem": "Blood transfusion is one of the commonest procedures in public sector hospitals. What is the main hazard of blood transfusion in Pakistan?",
+  "options": {
+   "A": "Transmission of bacterial infection",
+   "B": "Transmission of hepatitis C",
+   "C": "Transmission of the malaria parasite",
+   "D": "Transmission of syphilis",
+   "E": "Transmission of HIV"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Pakistan has one of the highest hepatitis C prevalences in the world, and screening is inconsistent in some centres, so HCV is the main transfusion-transmitted infection risk.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "G3-54"
+ },
+ {
+  "cids": [
+   "C0930"
+  ],
+  "stem": "A man bleeds excessively during prostatectomy and requires blood transfusion. What should be remembered before requesting blood?",
+  "options": {
+   "A": "Hypothermia is indicated if cryoglobulins are found",
+   "B": "Blood group AB is the universal donor",
+   "C": "Cross-matching should be done before dextran or colloid administration",
+   "D": "Recipient serum stored for one week is best for testing"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Dextrans coat red cells, causing rouleaux and interfering with grouping and cross-matching, so a sample should be taken before they are given. Group O is the universal donor, and the cross-match sample should be fresh (within 72 hours).",
+  "key_note": "",
+  "figure": "",
+  "qid": "G3-55"
+ },
+ {
+  "cids": [
+   "N018"
+  ],
+  "stem": "In an acute emergency, if blood must be given immediately without a full laboratory cross-match, it is best to give blood that is:",
+  "options": {},
+  "answer": null,
+  "answer_text": "Group O RhD-negative",
+  "explanation": "Group O RhD-negative red cells lack A, B and D antigens, so they can be given to anyone in an emergency (O RhD-positive is acceptable for males and older women). Type-specific blood is used as soon as the group is known.",
+  "key_note": "Options not available in the source; recall question.",
+  "figure": "",
+  "qid": "G3-56"
+ },
+ {
+  "cids": [
+   "N019"
+  ],
+  "stem": "To improve end-organ perfusion in severe haemorrhagic shock, what is the best therapy?",
+  "options": {},
+  "answer": null,
+  "answer_text": "Immediate transfusion of blood (O-negative uncross-matched if needed) with haemorrhage control",
+  "explanation": "In class III/IV haemorrhage, oxygen delivery is restored with blood, not crystalloid: uncross-matched O-negative red cells immediately, followed by balanced blood components and definitive control of bleeding.",
+  "key_note": "Options not available in the source; recall question.",
+  "figure": "",
+  "qid": "G3-57"
+ },
+ {
+  "cids": [
+   "C0761"
+  ],
+  "stem": "A trauma patient develops shock. Which of the following solutions has NO role in treating hypovolaemic shock in this patient?",
+  "options": {
+   "A": "Blood transfusion",
+   "B": "Ringer's lactate solution",
+   "C": "Fresh frozen plasma (FFP)",
+   "D": "Colloid solution"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Traditional teaching: FFP is not a volume expander and is given only to correct coagulopathy, while crystalloid, colloid and blood restore volume.",
+  "key_note": "Not marked in the source paper; C follows the compiled key and traditional teaching, but under modern ATLS damage control resuscitation FFP is given with red cells in haemorrhagic shock, so the question is dated.",
+  "figure": "",
+  "qid": "G3-58"
+ },
+ {
+  "cids": [
+   "C1017"
+  ],
+  "stem": "A 17-year-old girl is in haemorrhagic shock after a motor vehicle crash, and a massive transfusion protocol is triggered. What is the optimal ratio in damage control resuscitation?",
+  "options": {
+   "A": "2 plasma : 1 platelet : 1 RBC",
+   "B": "1 plasma : 1 platelet : 1 RBC",
+   "C": "1 plasma : 1 platelet : 3 RBC",
+   "D": "2 plasma : 1 cryoprecipitate : 1 RBC",
+   "E": "1 plasma : 1 cryoprecipitate : 1 RBC"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Damage control resuscitation uses plasma, platelets and red cells in a 1:1:1 ratio (PROPPR trial) to mimic whole blood and prevent dilutional coagulopathy, with tranexamic acid and minimal crystalloid.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G3-59"
+ },
+ {
+  "cids": [
+   "C1058"
+  ],
+  "stem": "While operating on a middle-aged man with a gunshot injury to the abdomen, the surgeon notices generalised oozing from raw surfaces. What is the most suitable blood product to transfuse?",
+  "options": {
+   "A": "Whole blood",
+   "B": "Platelets",
+   "C": "Fresh frozen plasma",
+   "D": "Packed red cells",
+   "E": "Cryoprecipitate"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Generalised oozing in a massively bleeding trauma patient means dilutional and consumptive coagulopathy, and FFP replaces all clotting factors. Platelets and cryoprecipitate are added when the count is below 50-75 x 10^9/L or fibrinogen is below 1.5 g/L.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G3-60"
+ },
+ {
+  "cids": [
+   "C0775"
+  ],
+  "stem": "A polytrauma patient in shock (pulse 130/min, systolic BP 70 mmHg, cold peripheries) has a shattered spleen and 2.5 L haemoperitoneum at laparotomy. He receives 3 units of red cell concentrate and 6 units of fresh frozen plasma. What does fresh frozen plasma contain?",
+  "options": {
+   "A": "Factor XII",
+   "B": "Coagulation factors",
+   "C": "Both A and B",
+   "D": "Platelets",
+   "E": "Factor VIII and fibrinogen"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "FFP contains all the plasma coagulation factors (including the labile V and VIII, fibrinogen and XII), plus albumin and immunoglobulins, but no platelets.",
+  "key_note": "Not marked in the source paper; the compiled key gave C (both A and B); the question is flawed because factor XII and factor VIII/fibrinogen are themselves coagulation factors, so B is the most complete single answer.",
+  "figure": "",
+  "qid": "G3-61"
+ },
+ {
+  "cids": [
+   "C0718"
+  ],
+  "stem": "Massive blood transfusion may be complicated by:",
+  "options": {
+   "A": "Hypokalaemia",
+   "B": "Hypercalcaemia",
+   "C": "Leucopenia",
+   "D": "Coagulopathy"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Massive transfusion (e.g. replacing one blood volume in 24 hours) causes dilutional coagulopathy and thrombocytopenia. Other complications are hypothermia, hypocalcaemia (citrate), hyperkalaemia and acidosis.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "G3-62"
+ },
+ {
+  "cids": [
+   "C0810"
+  ],
+  "stem": "Which of the following is a complication of massive transfusion?",
+  "options": {
+   "A": "Hyperthermia",
+   "B": "Hyperkalaemia",
+   "C": "Hypercalcaemia",
+   "D": "Hyponatraemia",
+   "E": "Hypermagnesaemia"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Potassium leaks from stored red cells (high K+ in old units), so rapid massive transfusion can cause hyperkalaemia. Cold blood causes hypothermia, not hyperthermia, and citrate causes hypocalcaemia.",
+  "key_note": "The compiled key gave hypothermia, which is not among the options; the paper's B (hyperkalaemia) is correct.",
+  "figure": "",
+  "qid": "G3-63"
+ },
+ {
+  "cids": [
+   "C1209"
+  ],
+  "stem": "During massive transfusion, which electrolyte abnormality may lead to disaster if not corrected immediately?",
+  "options": {
+   "A": "Hypocalcaemia",
+   "B": "Bicarbonate deficiency",
+   "C": "Hypochloraemia",
+   "D": "Hypomagnesaemia",
+   "E": "Hyperglycaemia"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Citrate in stored blood chelates ionised calcium, and hypocalcaemia causes myocardial depression, hypotension, arrhythmias and worsened coagulopathy (part of the lethal diamond). Ionised calcium is monitored and replaced with IV calcium.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "G3-64"
+ },
+ {
+  "cids": [
+   "C1203"
+  ],
+  "stem": "An 80-year-old woman with Hb 5.7 g/dl is transfused 4 units of blood over 6 hours. Four hours later she is breathless with bilateral basal crackles, and the X-ray shows fluffy haziness in the lower zones. What is the diagnosis?",
+  "options": {
+   "A": "DIC",
+   "B": "Fluid overload",
+   "C": "Hypocalcaemia",
+   "D": "Infection",
+   "E": "Transfusion reaction"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Rapid transfusion in an elderly patient with chronic anaemia causes transfusion-associated circulatory overload (TACO), i.e. pulmonary oedema. Such patients should be transfused slowly (e.g. 1 unit over 3-4 hours) with diuretic cover.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "G3-65"
+ },
+ {
+  "cids": [
+   "C0652"
+  ],
+  "stem": "What is the most common cause of a (serious) transfusion reaction?",
+  "options": {
+   "A": "Air embolism",
+   "B": "Contaminated blood",
+   "C": "Unusual circulating antibodies",
+   "D": "Human error",
+   "E": "Graft-versus-host disease"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Clerical and identification errors (wrong blood in tube, wrong patient) are the commonest cause of ABO-incompatible haemolytic reactions, as SHOT data consistently show. The commonest reaction overall is febrile non-haemolytic.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G3-66"
+ },
+ {
+  "cids": [
+   "C1204"
+  ],
+  "stem": "Which of the following statements is true regarding resuscitation in shock?",
+  "options": {
+   "A": "Colloids are better than crystalloids for resuscitation",
+   "B": "Blood loss must always be replaced by blood transfusion",
+   "C": "Long & wide bore cannulas are best for fluid resuscitation",
+   "D": "Resuscitation should not be started before determining cause of shock",
+   "E": "Short & wide bore cannulas are best for fluid resuscitation"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Flow through a cannula is proportional to the fourth power of the radius and inversely proportional to its length (Poiseuille's law), so short, wide-bore cannulas give the fastest infusion. Colloids are not superior to crystalloids, and resuscitation is not delayed while the cause is sought.",
+  "key_note": "Not marked in the source paper; compiled key E agrees.",
+  "figure": "",
+  "qid": "G3-67"
+ },
+ {
+  "ncids": [
+   "K0003"
+  ],
+  "stem": "A 27-year-old man is involved in a car crash at over 70 miles/hour. He sustains an intra-abdominal injury and a fractured femur. His BP is 60/40 mmHg and haematocrit 16%. There is likely to be a proportionately greater increase in blood flow to which of the following?",
+  "options": {
+   "A": "Heart",
+   "B": "Kidneys",
+   "C": "Thyroid gland",
+   "D": "Skin",
+   "E": "Liver"
+  },
+  "answer": "A",
+  "explanation": "In haemorrhagic shock sympathetic vasoconstriction diverts flow away from skin, gut, kidneys and liver, while coronary (and cerebral) flow is preserved by autoregulation and local metabolic vasodilatation, so the heart receives a proportionately greater share of cardiac output.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G3-N1"
+ },
+ {
+  "ncids": [
+   "K0004"
+  ],
+  "stem": "A young man after a road traffic accident has a pulse of 130/min and systolic BP of 70 mmHg with suspected blunt abdominal trauma and cold peripheries. Which of the following statements regarding blood pressure in shock is FALSE?",
+  "options": {
+   "A": "Hypotension is a late sign of shock",
+   "B": "Elderly patients who are normally hypertensive may present with a 'normal' blood pressure",
+   "C": "Blood pressure is decreased by reduction in stroke volume and peripheral vasoconstriction",
+   "D": "Beta-blockers may prevent a tachycardic response",
+   "E": "Children and fit young adults are able to maintain blood pressure until the final stages of shock"
+  },
+  "answer": "C",
+  "explanation": "Peripheral vasoconstriction is a compensatory mechanism that maintains blood pressure, it does not lower it. Blood pressure is a poor, late marker of shock: young patients compensate until late, hypertensives may look 'normal' and beta-blockers blunt tachycardia.",
+  "key_note": "As printed, option A read 'Hypotension is one of the first signs of shock', which is also false; it was reworded to 'a late sign' so that C (the bank's starred and highlighted answer) is the single false statement.",
+  "_new": true,
+  "qid": "G3-N2"
+ },
+ {
+  "ncids": [
+   "K0005",
+   "K0886",
+   "K0981",
+   "K1221",
+   "K1730"
+  ],
+  "stem": "A polytrauma patient arrives in the emergency department with pulse 120/min, BP 90/60 mmHg and bleeding from a leg wound. Initial resuscitation is best done by administration of which of the following?",
+  "options": {
+   "A": "Ringer's lactate solution",
+   "B": "5% dextrose in water",
+   "C": "5% hydroxyethyl starch solution",
+   "D": "5% plasma protein solution",
+   "E": "5% dextrose with 0.45% saline"
+  },
+  "answer": "A",
+  "explanation": "A warmed isotonic balanced crystalloid (Ringer's lactate/Hartmann's) is the initial fluid in trauma while blood is arranged; dextrose solutions distribute into the intracellular space and do not expand the circulation, and starches/colloids offer no survival benefit and carry renal and coagulation risks.",
+  "key_note": "Copies of this question carried conflicting marks: one copy starred normal saline but highlighted Ringer's lactate, another starred sodium chloride but highlighted Ringer's lactate. Correct is Ringer's lactate, the balanced crystalloid of choice (large volumes of saline cause hyperchloraemic acidosis).",
+  "_new": true,
+  "qid": "G3-N3"
+ },
+ {
+  "ncids": [
+   "K0020"
+  ],
+  "stem": "A 70-year-old man weighing 70 kg is admitted with acute cholecystitis. His calculated daily maintenance fluid requirement is approximately:",
+  "options": {
+   "A": "2.5 L",
+   "B": "1 L",
+   "C": "4 L",
+   "D": "3 L",
+   "E": "2 L"
+  },
+  "answer": "A",
+  "explanation": "Maintenance is about 35 ml/kg/day: 35 x 70 = 2450 ml. The Holliday-Segar 4-2-1 rule gives the same: 1000 + 500 + (50 x 20) = 2500 ml/day, i.e. about 2.5 L.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G3-N4"
+ },
+ {
+  "ncids": [
+   "K0034"
+  ],
+  "stem": "A 30-year-old man weighing 60 kg has haemoglobin 10 g/dl, serum sodium 120 mEq/L, potassium 4 mEq/L, chloride 90 mEq/L and CO2 content 30 mEq/L. What is his approximate sodium deficit?",
+  "options": {
+   "A": "20 mEq",
+   "B": "200 mEq",
+   "C": "400 mEq",
+   "D": "720 mEq",
+   "E": "120 mEq"
+  },
+  "answer": "D",
+  "explanation": "Sodium deficit = total body water x (desired Na minus actual Na) = (0.6 x 60) x (140 - 120) = 36 x 20 = 720 mEq. Correction must be slow (no more than about 8-10 mEq/L in 24 hours) to avoid osmotic demyelination.",
+  "key_note": "Bank starred A (20 mEq); correct is D, because 20 is only the concentration gap and must be multiplied by total body water (36 L): 36 x 20 = 720 mEq.",
+  "_new": true,
+  "qid": "G3-N5"
+ },
+ {
+  "ncids": [
+   "K0035"
+  ],
+  "stem": "A man falls from the roof of a single-storey building and arrives in shock: the radial pulse is not palpable and he cannot move his limbs. He does not respond to IV fluids. What is the cause of neurogenic shock?",
+  "options": {
+   "A": "Septicaemia and endotoxins",
+   "B": "Spinal nerve overflow",
+   "C": "Activation of cellular and humoral immunity",
+   "D": "Parasympathetic outflow failure",
+   "E": "Sympathetic outflow failure"
+  },
+  "answer": "E",
+  "explanation": "Cord injury above T6 interrupts the thoracolumbar sympathetic outflow, causing loss of vasomotor tone (vasodilatation, hypotension) and unopposed vagal bradycardia; the parasympathetic supply is preserved.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G3-N6"
+ },
+ {
+  "ncids": [
+   "K0083"
+  ],
+  "stem": "A 78-year-old man presents with acute retention of urine, urinary tract infection and increasing confusion. He is catheterised, given IV antibiotics and IV fluids, and advised to drink plenty of fluids. The following day he becomes increasingly drowsy. Which electrolyte imbalance is most likely?",
+  "options": {
+   "A": "Hypernatraemia",
+   "B": "Hyperkalaemia",
+   "C": "Hypoglycaemia",
+   "D": "Hyponatraemia",
+   "E": "Hypokalaemia"
+  },
+  "answer": "D",
+  "explanation": "Excess free water (oral water plus hypotonic IV fluid) on top of stress-related ADH release in an elderly patient causes dilutional hyponatraemia, presenting with confusion and drowsiness.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G3-N7"
+ },
+ {
+  "ncids": [
+   "K0084"
+  ],
+  "stem": "A 68-year-old man complaining of back pain collapses suddenly and is brought in unconscious. He is pale, pulse 136/min, systolic BP 50 mmHg and the abdomen is distended. He improves partly with rapid crystalloid infusion. What type of shock is this most likely to be?",
+  "options": {
+   "A": "Anaphylactic",
+   "B": "Cardiogenic",
+   "C": "Hypovolaemic",
+   "D": "Neurogenic",
+   "E": "Traumatic"
+  },
+  "answer": "C",
+  "explanation": "Back pain, collapse and a distended abdomen in an elderly man suggest a ruptured abdominal aortic aneurysm: haemorrhagic (hypovolaemic) shock, which partly responds to fluid.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G3-N8"
+ },
+ {
+  "ncids": [
+   "K0087"
+  ],
+  "stem": "A 40-year-old man is brought to the emergency department 15 minutes after being punched hard in the epigastrium in a street fight. Pulse is 80/min and BP 120/80 mmHg, with mild epigastric tenderness. His haemoglobin is 9 g/dl (normal 14-18 g/dl). How will you manage his anaemia?",
+  "options": {
+   "A": "No treatment is needed",
+   "B": "Investigate further for anaemia",
+   "C": "Transfuse packed red cells",
+   "D": "Urgent cross-matched blood transfusion",
+   "E": "Urgent group O positive blood transfusion"
+  },
+  "answer": "B",
+  "explanation": "Haemoglobin does not fall immediately after acute bleeding (haemodilution takes hours), so a low value 15 minutes after injury in a haemodynamically normal patient reflects pre-existing anaemia, which needs investigation rather than transfusion (while he is observed for abdominal injury).",
+  "key_note": "",
+  "_new": true,
+  "qid": "G3-N9"
+ },
+ {
+  "ncids": [
+   "K0088"
+  ],
+  "stem": "A 20-year-old woman is brought from a car accident site. Her respiratory rate is 25/min, airway and chest examination are unremarkable, pulse is 115/min and BP 110/70 mmHg. Which type of shock is she most probably suffering from?",
+  "options": {
+   "A": "Anaphylactic shock",
+   "B": "Cardiogenic shock",
+   "C": "Hypovolaemic shock",
+   "D": "Neurogenic shock",
+   "E": "Septic shock"
+  },
+  "answer": "C",
+  "explanation": "After trauma, shock is haemorrhagic (hypovolaemic) until proven otherwise; tachycardia and tachypnoea with a preserved BP indicate compensated (class II) haemorrhage, as young patients maintain BP until late.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G3-N10"
+ },
+ {
+  "ncids": [
+   "K0089"
+  ],
+  "stem": "A 60-year-old man undergoes left hemicolectomy for carcinoma of the sigmoid colon. On the third postoperative day he becomes listless with slurred speech, and his ECG shows flattened T waves. Which parenteral fluid is most appropriate?",
+  "options": {
+   "A": "Blood transfusion",
+   "B": "5% dextrose",
+   "C": "5% dextrose with 0.45% saline",
+   "D": "Normal saline with KCl",
+   "E": "Ringer's lactate"
+  },
+  "answer": "D",
+  "explanation": "Flattened T waves with lethargy after bowel surgery indicate hypokalaemia; treat with potassium chloride added to saline, infused no faster than about 10-20 mmol/hour peripherally.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G3-N11"
+ },
+ {
+  "ncids": [
+   "K0090",
+   "K0803"
+  ],
+  "stem": "A 20-year-old man receives multiple blood transfusions for an abdominal gunshot wound. He complains of numbness around his mouth and displays carpopedal spasm and a positive Chvostek sign. The treatment required is:",
+  "options": {
+   "A": "Intravenous bicarbonate",
+   "B": "Intravenous potassium",
+   "C": "Intravenous calcium (gluconate)",
+   "D": "Intravenous digoxin",
+   "E": "Intravenous parathormone"
+  },
+  "answer": "C",
+  "explanation": "Citrate in stored blood chelates ionised calcium, causing symptomatic hypocalcaemia (perioral paraesthesia, tetany, Chvostek sign) during massive transfusion; treat with IV 10% calcium gluconate (or chloride).",
+  "key_note": "",
+  "_new": true,
+  "qid": "G3-N12"
+ },
+ {
+  "ncids": [
+   "K0108"
+  ],
+  "stem": "Class I (stage I) haemorrhagic shock results from loss of up to what percentage of blood volume?",
+  "options": {
+   "A": "5%",
+   "B": "10%",
+   "C": "15%",
+   "D": "20%",
+   "E": "25%"
+  },
+  "answer": "C",
+  "explanation": "ATLS class I haemorrhage is loss of up to 15% of blood volume (up to 750 ml), with minimal physiological change; class II is 15-30%, class III 30-40% and class IV more than 40%.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G3-N13"
+ },
+ {
+  "ncids": [
+   "K0134"
+  ],
+  "stem": "Regarding massive transfusion protocols, which statement is correct?",
+  "options": {
+   "A": "They should include transfusion of fresh frozen plasma (FFP) and platelets in addition to packed red cells",
+   "B": "They should only be initiated after blood typing, although cross-match is not needed",
+   "C": "They should be initiated in patients with tachycardia despite 3.5 L of crystalloid",
+   "D": "They should include testing for coagulopathy, which is present in only 5% of patients needing massive transfusion",
+   "E": "They should include vitamin K injection"
+  },
+  "answer": "A",
+  "explanation": "Massive transfusion protocols deliver red cells with plasma and platelets in a balanced (about 1:1:1) ratio to prevent dilutional coagulopathy; uncross-matched O blood is used without waiting for typing, and coagulopathy is common (around a quarter or more of severely injured patients).",
+  "key_note": "",
+  "_new": true,
+  "qid": "G3-N14"
+ },
+ {
+  "ncids": [
+   "K0158"
+  ],
+  "stem": "A 70 kg man presents after a stab wound to the abdomen. He is hypotensive, markedly tachycardic and confused. Approximately what percentage of his blood volume has he lost?",
+  "options": {
+   "A": "5%",
+   "B": "15%",
+   "C": "25%",
+   "D": "35%",
+   "E": "55%"
+  },
+  "answer": "D",
+  "explanation": "Hypotension with marked tachycardia and confusion is ATLS class III haemorrhage, 30-40% of blood volume (about 1500-2000 ml in a 70 kg adult). Class IV (over 40%) produces lethargy and a markedly decreased BP, and 55% is near-fatal.",
+  "key_note": "Bank starred E (55%); correct is D, because hypotension, marked tachycardia and confusion define class III (30-40%) haemorrhage.",
+  "_new": true,
+  "qid": "G3-N15"
+ },
+ {
+  "ncids": [
+   "K0616"
+  ],
+  "stem": "A 6-month-old baby is brought to the emergency department with acute abdominal pain, severe dehydration and massive abdominal distension. All peripheral veins are collapsed and central venous access has failed. What is the next most suitable route for vascular access?",
+  "options": {
+   "A": "External jugular vein",
+   "B": "Femoral vein",
+   "C": "Great saphenous vein",
+   "D": "Axillary vein",
+   "E": "Intraosseous cannulation"
+  },
+  "answer": "E",
+  "explanation": "When peripheral and central access fail in a shocked infant, intraosseous cannulation (proximal tibia) is quick and reliable, and all resuscitation fluids and drugs can be given through it.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G3-N16"
+ },
+ {
+  "ncids": [
+   "K0643",
+   "K0856"
+  ],
+  "stem": "In a normal adult of average build (70 kg), which statement is correct?",
+  "options": {
+   "A": "Extracellular fluid volume is about 8 litres",
+   "B": "Plasma volume measures about 5 litres",
+   "C": "Total body water measures approximately 40 litres",
+   "D": "Sodium requirement is 150 mEq/day",
+   "E": "Resting energy expenditure decreases after major surgery"
+  },
+  "answer": "C",
+  "explanation": "Total body water is about 60% of body weight, roughly 42 litres in a 70 kg man. ECF is about 14 litres and plasma about 3 litres (5 litres is total blood volume), sodium requirement is about 1 mmol/kg/day, and energy expenditure rises after major surgery.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G3-N17"
+ },
+ {
+  "ncids": [
+   "K0644"
+  ],
+  "stem": "The pH of extracellular fluid:",
+  "options": {
+   "A": "Is maintained in health between 7.4 and 7.8",
+   "B": "Is increased in hypovolaemic shock",
+   "C": "Increases abruptly after cardiac arrest",
+   "D": "Can be higher than normal in acute peritonitis",
+   "E": "Should be monitored in a critically ill patient"
+  },
+  "answer": "E",
+  "explanation": "Normal ECF pH is 7.35-7.45; shock, cardiac arrest and peritonitis cause metabolic (lactic) acidosis, which lowers pH, so acid-base status (arterial blood gases) should be monitored in critically ill patients.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G3-N18"
+ },
+ {
+  "ncids": [
+   "K0645"
+  ],
+  "stem": "Extracellular fluid losses may be extensive in all of the following clinical settings EXCEPT:",
+  "options": {
+   "A": "Acute intestinal obstruction",
+   "B": "Major burns",
+   "C": "Hepatic coma",
+   "D": "Acute peritonitis",
+   "E": "Acute pancreatitis"
+  },
+  "answer": "C",
+  "explanation": "Obstruction, burns, peritonitis and pancreatitis cause large third-space and external ECF losses; hepatic coma is not a cause of acute ECF loss.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G3-N19"
+ },
+ {
+  "ncids": [
+   "K0646"
+  ],
+  "stem": "In hypovolaemic shock:",
+  "options": {
+   "A": "The extremities are warm and sweating",
+   "B": "The central venous pressure (CVP) is low",
+   "C": "There is always a source of bleeding",
+   "D": "The neck veins may be engorged",
+   "E": "Urine output is not affected"
+  },
+  "answer": "B",
+  "explanation": "Reduced circulating volume gives a low CVP with collapsed neck veins, cold clammy peripheries and oliguria; hypovolaemia can also follow non-haemorrhagic losses such as vomiting, diarrhoea or burns.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G3-N20"
+ },
+ {
+  "ncids": [
+   "K0655",
+   "K0852"
+  ],
+  "stem": "Water is lost from the body through a number of routes. Which of the following is NOT a route of water loss?",
+  "options": {
+   "A": "Urine",
+   "B": "Faeces",
+   "C": "Skin",
+   "D": "Respiratory tract",
+   "E": "Saliva"
+  },
+  "answer": "E",
+  "explanation": "Water is lost in urine, faeces and insensibly through skin and lungs; saliva is swallowed and reabsorbed in the gut, so it is not a net route of loss.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G3-N21"
+ },
+ {
+  "ncids": [
+   "K0656",
+   "K1341"
+  ],
+  "stem": "Blood collection bags contain an anticoagulant solution. This solution contains all of the following EXCEPT:",
+  "options": {
+   "A": "Phosphate",
+   "B": "Sodium",
+   "C": "Dextrose",
+   "D": "Calcium",
+   "E": "Citrate"
+  },
+  "answer": "D",
+  "explanation": "CPDA-1 contains sodium citrate (and citric acid), sodium phosphate, dextrose and adenine. Citrate works by chelating calcium, so calcium is never added.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G3-N22"
+ },
+ {
+  "ncids": [
+   "K0657",
+   "K0861"
+  ],
+  "stem": "5% dextrose saline (5% dextrose in 0.9% saline) is often used in surgical patients. Which statement about it is correct?",
+  "options": {
+   "A": "It is isotonic",
+   "B": "It is hypotonic",
+   "C": "It is hypertonic",
+   "D": "It has good nutritive value",
+   "E": "It is the best solution for use in shock"
+  },
+  "answer": "C",
+  "explanation": "0.9% saline (about 308 mOsm/L) plus 5% dextrose (about 278 mOsm/L) gives roughly 586 mOsm/L, hypertonic in the bag; its 200 kcal/L has little nutritive value and it is not a resuscitation fluid.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G3-N23"
+ },
+ {
+  "ncids": [
+   "K0665"
+  ],
+  "stem": "Hypovolaemic shock can occur in all of the following settings EXCEPT:",
+  "options": {
+   "A": "Generalised peritonitis",
+   "B": "Acute intestinal obstruction",
+   "C": "Gastric outlet obstruction",
+   "D": "Massive pulmonary embolism"
+  },
+  "answer": "D",
+  "explanation": "Massive pulmonary embolism causes obstructive shock by blocking right ventricular outflow; the others cause hypovolaemia through third-space or vomiting losses.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G3-N24"
+ },
+ {
+  "ncids": [
+   "K0666"
+  ],
+  "stem": "Septic shock:",
+  "options": {
+   "A": "Can only be caused by Gram-negative bacteria",
+   "B": "Can only be caused by Gram-positive bacteria",
+   "C": "Carries a favourable prognosis",
+   "D": "Is particularly associated with infective complications of the gastrointestinal and genitourinary systems",
+   "E": "Can be most effectively treated with antibiotics alone"
+  },
+  "answer": "D",
+  "explanation": "Surgical septic shock most often follows gastrointestinal (peritonitis, anastomotic leak) and genitourinary infections; it can be caused by Gram-positive, Gram-negative or fungal organisms, carries high mortality and needs source control plus resuscitation as well as antibiotics.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G3-N25"
+ },
+ {
+  "ncids": [
+   "K0667"
+  ],
+  "stem": "In a blood transfusion reaction, all of the following statements are correct EXCEPT:",
+  "options": {
+   "A": "It may be due to incompatibility between the recipient's serum and donor cells",
+   "B": "It is manifested by thrombophlebitis of the infusion site",
+   "C": "It is most commonly due to clerical mistakes and labelling errors",
+   "D": "It occurs within the first 30 minutes of transfusion",
+   "E": "It must be suspected when a patient having a transfusion complains of loin pain"
+  },
+  "answer": "B",
+  "explanation": "Acute haemolytic reactions result from ABO incompatibility (usually clerical error), start early in the transfusion and cause fever, loin pain, hypotension and haemoglobinuria; thrombophlebitis at the cannula site is a local cannula complication, not a transfusion reaction.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G3-N26"
+ },
+ {
+  "ncids": [
+   "K0673",
+   "K0853"
+  ],
+  "stem": "Which of the following conditions CANNOT lead to water depletion in a patient?",
+  "options": {
+   "A": "Diabetes insipidus",
+   "B": "Profuse sweating",
+   "C": "Head injury",
+   "D": "Peripheral oedema",
+   "E": "Reduced intake"
+  },
+  "answer": "D",
+  "explanation": "Peripheral oedema is water excess (retention) in the interstitial space; diabetes insipidus (including after head injury), sweating and poor intake all cause water depletion.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G3-N27"
+ },
+ {
+  "ncids": [
+   "K0676"
+  ],
+  "stem": "Metabolic acidosis can occur due to all of the following EXCEPT:",
+  "options": {
+   "A": "Diarrhoea",
+   "B": "Repeated vomiting",
+   "C": "High-output fistula",
+   "D": "Renal failure",
+   "E": "Shock"
+  },
+  "answer": "B",
+  "explanation": "Repeated vomiting loses gastric HCl and causes hypochloraemic hypokalaemic metabolic alkalosis; diarrhoea and intestinal fistulae lose bicarbonate, renal failure retains acid and shock produces lactic acidosis.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G3-N28"
+ },
+ {
+  "ncids": [
+   "K0685"
+  ],
+  "stem": "What is the treatment for an overdose of heparin?",
+  "options": {
+   "A": "Platelet transfusion",
+   "B": "Cryoprecipitate",
+   "C": "FFP transfusion",
+   "D": "Intravenous protamine sulphate"
+  },
+  "answer": "D",
+  "explanation": "Protamine sulphate binds and neutralises unfractionated heparin (1 mg per 100 units, maximum 50 mg); FFP and vitamin K are used for warfarin reversal.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G3-N29"
+ },
+ {
+  "ncids": [
+   "K0688"
+  ],
+  "stem": "What is true about haemorrhage?",
+  "options": {
+   "A": "Venous haemorrhage is bright red in colour",
+   "B": "Bleeding during surgery is reactionary haemorrhage",
+   "C": "Bleeding due to blunt injury of the abdomen is concealed haemorrhage",
+   "D": "A continuous ooze of bright red blood is secondary haemorrhage"
+  },
+  "answer": "C",
+  "explanation": "Bleeding into a body cavity after blunt abdominal trauma is concealed (internal) haemorrhage. Venous blood is dark red, bleeding during surgery is primary haemorrhage and secondary haemorrhage occurs 7-14 days later due to infection.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G3-N30"
+ },
+ {
+  "ncids": [
+   "K0694"
+  ],
+  "stem": "The average daily loss of fluid from the skin and lungs in a temperate climate is normally in the range of:",
+  "options": {
+   "A": "350-500 ml",
+   "B": "500-750 ml",
+   "C": "750-1000 ml",
+   "D": "1000-1500 ml"
+  },
+  "answer": "C",
+  "explanation": "Insensible loss is roughly 500-600 ml from the skin plus about 400 ml from the lungs, i.e. about 800-1000 ml/day, increasing by about 10% per degree Celsius of fever.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G3-N31"
+ },
+ {
+  "ncids": [
+   "K0703",
+   "K1722"
+  ],
+  "stem": "Hepatitis B can be transmitted through transfusion of contaminated blood. How much time is required for the infection to develop?",
+  "options": {
+   "A": "One week",
+   "B": "Six weeks",
+   "C": "Three months",
+   "D": "Six months",
+   "E": "Nine months"
+  },
+  "answer": "C",
+  "explanation": "The incubation period of hepatitis B is 6 weeks to 6 months, averaging about 60-90 days (around three months).",
+  "key_note": "Copies of this question disagree: one copy underlined three months, another starred six weeks. Correct is three months, the average incubation period; six weeks is only the lower limit.",
+  "_new": true,
+  "qid": "G3-N32"
+ },
+ {
+  "ncids": [
+   "K0720"
+  ],
+  "stem": "In evaluating a patient for a bleeding disorder, the single most useful laboratory test is:",
+  "options": {
+   "A": "Bleeding time",
+   "B": "Clotting time",
+   "C": "Partial thromboplastin time",
+   "D": "Platelet count",
+   "E": "Prothrombin time"
+  },
+  "answer": "D",
+  "explanation": "Thrombocytopenia is the commonest cause of abnormal bleeding in surgical patients and the platelet count is a quick, reliable screen; bleeding and clotting times are crude and poorly reproducible, and PT/APTT each test only part of the cascade.",
+  "key_note": "Not marked with * or highlight in the source bank (platelet count is in bold); answer by reviewer.",
+  "_new": true,
+  "qid": "G3-N33"
+ },
+ {
+  "ncids": [
+   "K0722",
+   "K1195"
+  ],
+  "stem": "A 65-year-old man with polytrauma has a central venous catheter placed to guide volume replacement. Normal central venous pressure is:",
+  "options": {
+   "A": "0-5 cm saline",
+   "B": "5-8 cm saline",
+   "C": "8-12 cm saline",
+   "D": "12-15 cm saline",
+   "E": "15-20 cm saline"
+  },
+  "answer": "B",
+  "explanation": "Normal CVP is about 3-8 cmH2O (roughly 2-6 mmHg) measured from the mid-axillary line; 8-12 mmHg is the resuscitation target in septic shock, not the normal value.",
+  "key_note": "Copies disagree: one copy highlighted 8-12 cm saline, the other starred (and bolded) 5-8 cm saline. Correct is B, 5-8 cm saline; 8-12 is a resuscitation target in mmHg, not the normal range.",
+  "_new": true,
+  "qid": "G3-N34"
+ },
+ {
+  "ncids": [
+   "K0801"
+  ],
+  "stem": "A 25-year-old woman presents to the emergency department with severe vomiting for one day. Her pulse is 120/min and BP 60/40 mmHg. Which of the following fluids is most appropriate for initial replacement?",
+  "options": {
+   "A": "Albumin",
+   "B": "5% dextrose in water",
+   "C": "Ringer's lactate",
+   "D": "Dextrose saline",
+   "E": "Blood"
+  },
+  "answer": "C",
+  "explanation": "She is in hypovolaemic shock from vomiting and needs rapid isotonic crystalloid; Ringer's lactate is the only isotonic crystalloid offered (0.9% saline with added potassium would also suit gastric losses). Dextrose solutions do not stay intravascular and blood is not needed for non-haemorrhagic loss.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G3-N35"
+ },
+ {
+  "ncids": [
+   "K0854"
+  ],
+  "stem": "In a normal 70 kg adult:",
+  "options": {
+   "A": "Insensible water loss is about 200 ml/day",
+   "B": "Sodium requirement is 300 mEq/day",
+   "C": "Daily urine output is 1000-2000 ml",
+   "D": "Protein requirement is 17 g/24 hours",
+   "E": "Tidal volume is 300 ml"
+  },
+  "answer": "C",
+  "explanation": "Normal urine output is about 0.5-1 ml/kg/hour, i.e. about 1-2 L/day. Insensible loss is about 800-1000 ml/day, sodium requirement about 1 mmol/kg/day (70 mmol), protein about 1 g/kg/day and tidal volume about 500 ml.",
+  "key_note": "Bank starred C (agreed). Option B originally read 'Sodium requirement is 70 mEq/day', which is also correct (1 mmol/kg/day x 70 kg), so it was changed to 300 mEq/day to leave one best answer.",
+  "_new": true,
+  "qid": "G3-N36"
+ },
+ {
+  "ncids": [
+   "K0855"
+  ],
+  "stem": "What is the normal serum sodium level in adults?",
+  "options": {
+   "A": "3.5-5.5 mEq/L",
+   "B": "5.0-10.0 mEq/L",
+   "C": "35-55 mEq/L",
+   "D": "135-145 mEq/L",
+   "E": "150-160 mEq/L"
+  },
+  "answer": "D",
+  "explanation": "Normal serum sodium is 135-145 mEq/L; 3.5-5.5 mEq/L is the normal potassium range.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G3-N37"
+ },
+ {
+  "ncids": [
+   "K0857"
+  ],
+  "stem": "Which of the following complications is NOT associated with blood transfusion?",
+  "options": {
+   "A": "Serum sickness",
+   "B": "Acidosis",
+   "C": "Hyperkalaemia",
+   "D": "Hypocalcaemia",
+   "E": "Incompatibility reactions"
+  },
+  "answer": "A",
+  "explanation": "Stored blood is acidic and potassium-rich (hyperkalaemia, acidosis) and its citrate causes hypocalcaemia, while ABO incompatibility causes haemolytic reactions; serum sickness is a reaction to foreign (animal) serum such as antitoxins, not a feature of blood transfusion.",
+  "key_note": "Bank underlined hyperkalaemia; correct is A, because hyperkalaemia is a well-recognised complication of stored or massive transfusion, whereas serum sickness is not.",
+  "_new": true,
+  "qid": "G3-N38"
+ },
+ {
+  "ncids": [
+   "K0859",
+   "K1446"
+  ],
+  "stem": "Shock is common in clinical practice. In all forms of shock there is:",
+  "options": {
+   "A": "Diminished circulatory volume",
+   "B": "A hypotensive state with peripheral vasoconstriction",
+   "C": "An impairment of cellular oxygenation and tissue perfusion",
+   "D": "Tissue alkalosis",
+   "E": "Inadequate cardiac output"
+  },
+  "answer": "C",
+  "explanation": "Shock is defined as inadequate tissue perfusion and cellular oxygenation leading to anaerobic metabolism; volume may be normal (cardiogenic), BP preserved early, vessels dilated (septic, neurogenic), cardiac output high in septic shock, and the tissues become acidotic.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G3-N39"
+ },
+ {
+  "ncids": [
+   "K0860"
+  ],
+  "stem": "Which of the following is NOT a feature of hypovolaemic shock?",
+  "options": {
+   "A": "Peripheral vasoconstriction",
+   "B": "Air hunger",
+   "C": "Increased blood viscosity",
+   "D": "Bradycardia",
+   "E": "Cold sweating"
+  },
+  "answer": "D",
+  "explanation": "Hypovolaemia triggers sympathetic tachycardia, vasoconstriction, sweating and air hunger; bradycardia suggests neurogenic or vasovagal shock (or a pre-terminal state).",
+  "key_note": "",
+  "_new": true,
+  "qid": "G3-N40"
+ },
+ {
+  "ncids": [
+   "K0915"
+  ],
+  "stem": "A 35-year-old motorcyclist has an open fracture of the right femur after a road traffic accident. On arrival he is tachypnoeic and confused with cold clammy skin. Which physiological change is most likely present?",
+  "options": {
+   "A": "Decreased reabsorption of water from the tubules",
+   "B": "Decreased serum bicarbonate",
+   "C": "Increased pH of blood",
+   "D": "Increased secretion of sodium in urine",
+   "E": "Increased synthesis of glycogen in the liver"
+  },
+  "answer": "B",
+  "explanation": "Haemorrhagic shock causes anaerobic metabolism and lactic acidosis, which consumes bicarbonate; tachypnoea is respiratory compensation and does not raise pH above normal. ADH and aldosterone increase water and sodium retention, and catecholamines promote glycogenolysis, not glycogen synthesis.",
+  "key_note": "Copies disagree: one highlighted respiratory alkalosis / increased pH, another starred and highlighted decreased serum bicarbonate. Correct is B, because the primary disturbance in class III shock is lactic metabolic acidosis; the tachypnoea is compensatory.",
+  "_new": true,
+  "qid": "G3-N41"
+ },
+ {
+  "ncids": [
+   "K0918"
+  ],
+  "stem": "A 35-year-old man is transfused one unit of blood after thyroidectomy. Which of the following is NOT a complication of a single blood transfusion?",
+  "options": {
+   "A": "Allergic reaction",
+   "B": "Febrile reaction",
+   "C": "HCV transmission",
+   "D": "Haemolytic reaction",
+   "E": "Hypothermia"
+  },
+  "answer": "E",
+  "explanation": "Allergic, febrile and haemolytic reactions and infection can follow any single unit; hypothermia is a complication of rapid massive transfusion of cold blood.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G3-N42"
+ },
+ {
+  "ncids": [
+   "K0959"
+  ],
+  "stem": "Massive blood transfusion in an adult is defined as transfusion of how many units of red cell concentrate in 24 hours?",
+  "options": {
+   "A": "2",
+   "B": "4",
+   "C": "6",
+   "D": "8",
+   "E": "10"
+  },
+  "answer": "E",
+  "explanation": "Massive transfusion is replacement of one blood volume (about 10 units) in 24 hours; alternative definitions are 50% of blood volume in 3 hours or 4 units in 1 hour.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G3-N43"
+ },
+ {
+  "ncids": [
+   "K0979",
+   "K1656"
+  ],
+  "stem": "A 50-year-old man with chronic renal failure on haemodialysis develops weakness, nausea, vomiting and colicky abdominal pain. His ECG shows tall tented T waves. What is the most likely diagnosis?",
+  "options": {
+   "A": "Hypercalcaemia",
+   "B": "Hypocalcaemia",
+   "C": "Hyperkalaemia",
+   "D": "Hypokalaemia",
+   "E": "Hyponatraemia"
+  },
+  "answer": "C",
+  "explanation": "Tall peaked (tented) T waves are the earliest ECG sign of hyperkalaemia, common in renal failure; hypokalaemia gives flat T waves and U waves.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G3-N44"
+ },
+ {
+  "ncids": [
+   "K0984"
+  ],
+  "stem": "Preoperative blood transfusion is generally indicated in patients with a haemoglobin level of:",
+  "options": {
+   "A": "Less than 8 g/dl",
+   "B": "Less than 9 g/dl",
+   "C": "Less than 10 g/dl",
+   "D": "Less than 11 g/dl",
+   "E": "Less than 12 g/dl"
+  },
+  "answer": "A",
+  "explanation": "Restrictive transfusion practice transfuses at Hb below 7-8 g/dl (higher thresholds only with cardiac disease or active bleeding); the old '10/30 rule' is obsolete.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G3-N45"
+ },
+ {
+  "ncids": [
+   "K1002"
+  ],
+  "stem": "A 30-year-old butcher accidentally stabs his right wrist and arrives at the trauma centre with fresh bleeding. Treatment of the haemorrhage includes all of the following EXCEPT:",
+  "options": {
+   "A": "Antibiotics",
+   "B": "Blood transfusion",
+   "C": "IV fluids",
+   "D": "Ligation or repair of the vessel",
+   "E": "Pressure dressing"
+  },
+  "answer": "A",
+  "explanation": "Haemorrhage is controlled by pressure, ligation or repair, with fluids and blood to restore volume; antibiotics may prevent wound infection but play no part in treating the bleeding.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G3-N46"
+ },
+ {
+  "ncids": [
+   "K1013"
+  ],
+  "stem": "A 35-year-old man is brought to the emergency department within 2 hours of a road traffic accident with a fractured shaft of the right femur. His pulse is 120/min and BP 120/75 mmHg. Which statement is true?",
+  "options": {
+   "A": "A fractured shaft of femur cannot cause this condition",
+   "B": "He cannot be in shock as his BP is normal",
+   "C": "He may fall into class I or class II haemorrhagic shock",
+   "D": "His condition is explained by neurogenic shock",
+   "E": "His condition is explained by septic shock"
+  },
+  "answer": "C",
+  "explanation": "A femoral shaft fracture can lose up to 1500 ml; tachycardia with a normal BP indicates compensated (class I to II) haemorrhage, since BP falls only in class III.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G3-N47"
+ },
+ {
+  "ncids": [
+   "K1020"
+  ],
+  "stem": "If hepatitis B infection is acquired through blood transfusion, the ELISA test (HBsAg) in the recipient first becomes positive approximately:",
+  "options": {
+   "A": "One week later",
+   "B": "One year later",
+   "C": "Six months later",
+   "D": "Two weeks later",
+   "E": "Two years later"
+  },
+  "answer": "D",
+  "explanation": "HBsAg becomes detectable 1-10 weeks after exposure, weeks before symptoms; persistence beyond six months defines chronic infection. Of the options, two weeks is the best fit.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G3-N48"
+ },
+ {
+  "ncids": [
+   "K1055"
+  ],
+  "stem": "A 65-year-old man presents with abdominal pain and more than a dozen episodes of vomiting over one day. He has not passed stool or flatus for 3 days and his abdomen is distended. Which electrolyte or metabolic abnormality do you expect?",
+  "options": {
+   "A": "Hyperchloraemia",
+   "B": "Hyperkalaemia",
+   "C": "Hypernatraemia",
+   "D": "Hypokalaemia",
+   "E": "Metabolic acidosis"
+  },
+  "answer": "D",
+  "explanation": "Vomiting and intestinal obstruction lose potassium (in vomitus and via renal compensation for alkalosis), giving hypokalaemic hypochloraemic metabolic alkalosis.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G3-N49"
+ },
+ {
+  "ncids": [
+   "K1057"
+  ],
+  "stem": "A 45-year-old man underwent laparotomy for multiple trauma with massive transfusion for solid organ injury. Six days later he presents in shock and diagnostic peritoneal lavage confirms intraperitoneal blood. This haemorrhage is classified as:",
+  "options": {
+   "A": "Haemorrhage due to a clotting disorder",
+   "B": "Primary haemorrhage",
+   "C": "Reactionary haemorrhage",
+   "D": "Secondary haemorrhage",
+   "E": "Tertiary haemorrhage"
+  },
+  "answer": "D",
+  "explanation": "Bleeding about 7-14 days after surgery (here day six) is secondary haemorrhage, due to infection eroding vessels or sloughing of ligatures; reactionary haemorrhage occurs within 24 hours.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G3-N50"
+ },
+ {
+  "ncids": [
+   "K1223"
+  ],
+  "stem": "The commonest site for venesection (venous cutdown) is:",
+  "options": {
+   "A": "Ankle",
+   "B": "Arm",
+   "C": "Neck",
+   "D": "Scalp",
+   "E": "Thigh"
+  },
+  "answer": "A",
+  "explanation": "The long saphenous vein just anterior to the medial malleolus is the classic venous cutdown site because its position is constant and superficial.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G3-N51"
+ },
+ {
+  "ncids": [
+   "K1235"
+  ],
+  "stem": "Which intravenous fluid has traditionally been used for maintenance in children?",
+  "options": {
+   "A": "Half-strength saline with glucose",
+   "B": "Hypertonic saline",
+   "C": "Hypertonic glucose",
+   "D": "Normal saline",
+   "E": "5% dextrose"
+  },
+  "answer": "A",
+  "explanation": "Children need glucose as well as sodium in maintenance fluid, traditionally 0.45% saline with glucose; current guidance (NICE) prefers isotonic saline with glucose to reduce hyponatraemia, while plain 5% dextrose is dangerous.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G3-N52"
+ },
+ {
+  "ncids": [
+   "K1236"
+  ],
+  "stem": "Which blood group is the universal recipient?",
+  "options": {
+   "A": "A",
+   "B": "AB",
+   "C": "B",
+   "D": "Rh positive",
+   "E": "Rh negative"
+  },
+  "answer": "B",
+  "explanation": "Group AB has no anti-A or anti-B antibodies in plasma so can receive red cells of any ABO group; group O negative is the universal red cell donor.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G3-N53"
+ },
+ {
+  "ncids": [
+   "K1244"
+  ],
+  "stem": "Which gastrointestinal secretion has the highest bicarbonate content?",
+  "options": {
+   "A": "Saliva",
+   "B": "Gastric juice",
+   "C": "Bile",
+   "D": "Pancreatic juice",
+   "E": "Ileal fluid"
+  },
+  "answer": "D",
+  "explanation": "Pancreatic juice contains about 100-120 mmol/L of bicarbonate to neutralise gastric acid, so pancreatic fistulae cause metabolic acidosis.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G3-N54"
+ },
+ {
+  "ncids": [
+   "K1250"
+  ],
+  "stem": "All of the following are features of hypokalaemia EXCEPT:",
+  "options": {
+   "A": "Prolonged QT, depressed ST and flattened T waves on ECG",
+   "B": "Hyperkinetic movements or tremors",
+   "C": "Cardiac arrhythmias",
+   "D": "Abdominal distension"
+  },
+  "answer": "B",
+  "explanation": "Hypokalaemia causes muscle weakness, hypotonia, paralytic ileus (distension), arrhythmias and ECG changes (flat T, ST depression, U waves, apparent QT prolongation); it does not cause hyperkinetic movements.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G3-N55"
+ },
+ {
+  "ncids": [
+   "K1251"
+  ],
+  "stem": "Acid-base changes are often associated with electrolyte disturbances. Consider: 1. Alkalosis lowers free (ionised) calcium in the serum; 2. Hypokalaemia worsens alkalosis. Which comment is correct?",
+  "options": {
+   "A": "Statement 1 is true, statement 2 is false",
+   "B": "Statement 2 is true, statement 1 is false",
+   "C": "Statements 1 and 2 are both true",
+   "D": "Statements 1 and 2 are both false"
+  },
+  "answer": "C",
+  "explanation": "Alkalosis increases albumin binding of calcium, lowering ionised calcium (tetany); hypokalaemia drives H+ into cells and increases renal H+ excretion, perpetuating alkalosis.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G3-N56"
+ },
+ {
+  "ncids": [
+   "K1252"
+  ],
+  "stem": "Three hours after thyroidectomy, a patient begins to bleed from the operated site. This form of bleeding is called:",
+  "options": {
+   "A": "Primary haemorrhage",
+   "B": "Reactionary haemorrhage",
+   "C": "Secondary haemorrhage",
+   "D": "Tertiary haemorrhage"
+  },
+  "answer": "B",
+  "explanation": "Reactionary haemorrhage occurs within 24 hours of surgery, when BP rises and vessels open up or a ligature slips; after thyroidectomy it can cause airway-compressing haematoma.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G3-N57"
+ },
+ {
+  "ncids": [
+   "K1253"
+  ],
+  "stem": "A clot the size of a clenched fist contains approximately:",
+  "options": {
+   "A": "100-200 ml of blood",
+   "B": "250-300 ml of blood",
+   "C": "350-400 ml of blood",
+   "D": "450-500 ml of blood",
+   "E": "600-700 ml of blood"
+  },
+  "answer": "D",
+  "explanation": "A clot the size of a clenched fist represents about 500 ml of blood loss, a useful bedside rule for estimating haemorrhage.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G3-N58"
+ },
+ {
+  "ncids": [
+   "K1254"
+  ],
+  "stem": "In local practice, a standard bag of donated blood for transfusion usually contains about:",
+  "options": {
+   "A": "200 ml of blood",
+   "B": "250 ml of blood",
+   "C": "300 ml of blood",
+   "D": "350 ml of blood",
+   "E": "400 ml of blood"
+  },
+  "answer": "D",
+  "explanation": "A standard donation in Pakistani blood banks is about 350 ml (450 ml in many Western services), collected into about 49-63 ml of CPDA-1 anticoagulant.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G3-N59"
+ },
+ {
+  "ncids": [
+   "K1255"
+  ],
+  "stem": "Thirty minutes after starting a blood transfusion, a patient develops mild tachycardia and fever. Blood pressure is normal, there is no rash and there are no other abnormal findings. The most likely cause is:",
+  "options": {
+   "A": "Mismatched ABO transfusion",
+   "B": "Allergic reaction",
+   "C": "Transmission of malaria",
+   "D": "Febrile (pyrexial) non-haemolytic reaction"
+  },
+  "answer": "D",
+  "explanation": "Isolated fever and mild tachycardia without hypotension, loin pain or rash is a febrile non-haemolytic reaction to donor leucocyte cytokines; slow the transfusion and give paracetamol after excluding haemolysis.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G3-N60"
+ },
+ {
+  "ncids": [
+   "K1256"
+  ],
+  "stem": "After trauma, a patient receives several units of stored blood and then begins to bleed again from his wounds. Investigations confirm a coagulation defect. Which of the following has NO role in managing his condition?",
+  "options": {
+   "A": "Calcium",
+   "B": "Platelets",
+   "C": "Heparin",
+   "D": "Steroids"
+  },
+  "answer": "D",
+  "explanation": "Dilutional and consumptive coagulopathy after massive transfusion is managed with platelets, FFP, cryoprecipitate and calcium (to replace citrate-bound calcium); heparin is reserved for selected DIC with thrombosis, while steroids have no role.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G3-N61"
+ },
+ {
+  "ncids": [
+   "K1276",
+   "K1499"
+  ],
+  "stem": "Two days after cholecystectomy, an asymptomatic 40-year-old woman is found to have a serum sodium of 120 mEq/L after receiving hypotonic IV fluids. Proper management would be:",
+  "options": {
+   "A": "Administration of hypertonic saline",
+   "B": "Restriction of free water",
+   "C": "Plasma ultrafiltration",
+   "D": "Haemodialysis",
+   "E": "Aggressive diuresis with furosemide"
+  },
+  "answer": "B",
+  "explanation": "Asymptomatic postoperative dilutional hyponatraemia is treated by stopping hypotonic fluids and restricting free water; hypertonic saline is reserved for severe symptoms such as seizures or coma.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G3-N62"
+ },
+ {
+  "ncids": [
+   "K1301"
+  ],
+  "stem": "A patient in the ICU becomes restless and breathless. Arterial blood gases show raised pH, normal PCO2 and raised HCO3-. This patient has:",
+  "options": {
+   "A": "Metabolic acidosis",
+   "B": "Metabolic alkalosis",
+   "C": "Respiratory alkalosis",
+   "D": "Respiratory acidosis"
+  },
+  "answer": "B",
+  "explanation": "High pH with high bicarbonate is metabolic alkalosis; a normal PCO2 means it is not yet respiratory compensated (compensation would raise PCO2 by hypoventilation).",
+  "key_note": "",
+  "_new": true,
+  "qid": "G3-N63"
+ },
+ {
+  "ncids": [
+   "K1332"
+  ],
+  "stem": "In preventing multiple organ dysfunction syndrome (MODS), all of the following are targets for intervention EXCEPT:",
+  "options": {
+   "A": "Established microvascular occlusion",
+   "B": "Tissue hypoxia",
+   "C": "Cellular dysfunction",
+   "D": "Abnormal arachidonic acid metabolism",
+   "E": "Coagulation and complement activation"
+  },
+  "answer": "A",
+  "explanation": "Treatment aims to interrupt the inflammatory cascade (hypoxia, mediator release, coagulation and complement activation) before damage is fixed; once microvascular occlusion is established it is not reversible by intervention.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G3-N64"
+ },
+ {
+  "ncids": [
+   "K1338"
+  ],
+  "stem": "All of the following are frequent causes of hyponatraemia in surgical practice EXCEPT:",
+  "options": {
+   "A": "Small intestinal obstruction",
+   "B": "Duodenal, biliary, pancreatic or high intestinal external fistulae",
+   "C": "Severe diarrhoea",
+   "D": "SIADH",
+   "E": "Central diabetes insipidus"
+  },
+  "answer": "E",
+  "explanation": "Central diabetes insipidus causes loss of free water and hypernatraemia; GI losses replaced with water and SIADH cause hyponatraemia.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G3-N65"
+ },
+ {
+  "ncids": [
+   "K1339"
+  ],
+  "stem": "All of the following are true of respiratory alkalosis EXCEPT:",
+  "options": {
+   "A": "PaCO2 is below the normal range (less than 35 mmHg)",
+   "B": "It is caused by excessive pulmonary ventilation",
+   "C": "It occurs with hyperventilation at high altitude",
+   "D": "It occurs with hyperpyrexia and hyperventilation",
+   "E": "It is caused by pituitary adenomas"
+  },
+  "answer": "E",
+  "explanation": "Respiratory alkalosis results from hyperventilation lowering PaCO2 (anxiety, altitude, fever, sepsis, excessive mechanical ventilation); pituitary adenomas are not a cause.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G3-N66"
+ },
+ {
+  "ncids": [
+   "K1340"
+  ],
+  "stem": "All of the following statements regarding respiratory acidosis are correct EXCEPT:",
+  "options": {
+   "A": "PCO2 is above the normal range",
+   "B": "It is caused by impaired alveolar ventilation",
+   "C": "It occurs with inadequate ventilation of an anaesthetised patient",
+   "D": "It occurs when the effects of muscle relaxants are fully reversed at the end of anaesthesia",
+   "E": "It occurs in prolonged cardiac arrest"
+  },
+  "answer": "D",
+  "explanation": "Respiratory acidosis is CO2 retention from hypoventilation (residual neuromuscular block, opioids, inadequate ventilation, cardiac arrest); full reversal of muscle relaxants restores ventilation and prevents it.",
+  "key_note": "Bank highlighted D but the 'Correct Answer' line says E; correct is D, because prolonged cardiac arrest does cause CO2 retention (respiratory acidosis), whereas full reversal of relaxants does not.",
+  "_new": true,
+  "qid": "G3-N67"
+ },
+ {
+  "ncids": [
+   "K1345"
+  ],
+  "stem": "The main organism responsible for endotoxin release in multiple organ dysfunction syndrome is:",
+  "options": {
+   "A": "Proteus vulgaris",
+   "B": "Escherichia coli",
+   "C": "Pseudomonas",
+   "D": "Acinetobacter"
+  },
+  "answer": "B",
+  "explanation": "Gut-derived Gram-negative bacteria, chiefly E. coli, release lipopolysaccharide endotoxin, the classic trigger of septic shock and MODS in surgical patients.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G3-N68"
+ },
+ {
+  "ncids": [
+   "K1484"
+  ],
+  "stem": "A patient is receiving mechanical ventilation after surgery. Arterial PCO2 is 40 mmHg. This indicates that:",
+  "options": {
+   "A": "There is paradoxical acidosis",
+   "B": "Alveolar ventilation is adequate",
+   "C": "The patient is hypoxic",
+   "D": "The patient is hypercapnic",
+   "E": "The respiratory rate should be increased"
+  },
+  "answer": "B",
+  "explanation": "PaCO2 is inversely proportional to alveolar ventilation; a normal value (35-45 mmHg) means ventilation is adequate. Oxygenation is judged from PaO2, not PaCO2.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G3-N69"
+ },
+ {
+  "ncids": [
+   "K1500"
+  ],
+  "stem": "A 70-year-old man develops arrhythmias on the night of coronary bypass surgery after potassium supplementation. His urine output is 20-30 ml/hour and serum potassium is 6 mmol/L. Which drug counteracts the cardiac effects of potassium without lowering the serum potassium level?",
+  "options": {
+   "A": "Sodium polystyrene sulfonate",
+   "B": "Sodium bicarbonate",
+   "C": "50% dextrose",
+   "D": "Calcium gluconate",
+   "E": "Insulin"
+  },
+  "answer": "D",
+  "explanation": "IV calcium gluconate stabilises the myocardial membrane within minutes but does not change serum potassium; insulin-dextrose and bicarbonate shift potassium into cells and resins remove it from the body.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G3-N70"
+ },
+ {
+  "ncids": [
+   "K1518"
+  ],
+  "stem": "An unconscious patient is brought in 1 hour after severe haemorrhage. BP is 50 mmHg, pulse rapid and skin cool and clammy. Which compensatory mechanism is most active at this stage?",
+  "options": {
+   "A": "Baroreceptor reflex",
+   "B": "Central nervous system (cerebral) ischaemic response",
+   "C": "Cushing reaction",
+   "D": "Chemoreceptor reflex"
+  },
+  "answer": "B",
+  "explanation": "Baroreceptors work mainly at 60-160 mmHg and chemoreceptors below about 80 mmHg, but when arterial pressure falls below about 60 mmHg (maximal at 15-20 mmHg) the CNS ischaemic response produces the most powerful sympathetic discharge.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G3-N71"
+ },
+ {
+  "ncids": [
+   "K1650"
+  ],
+  "stem": "If a patient remains in shock for a prolonged period, what will be the metabolic outcome?",
+  "options": {
+   "A": "Lactic acidosis and hyperkalaemia",
+   "B": "Hypercarbia",
+   "C": "Hyponatraemia",
+   "D": "Hypocalcaemia",
+   "E": "Hypoalbuminaemia"
+  },
+  "answer": "A",
+  "explanation": "Prolonged hypoperfusion forces anaerobic glycolysis (lactic acidosis), and failure of the Na/K ATPase with cell injury releases potassium (hyperkalaemia).",
+  "key_note": "",
+  "_new": true,
+  "qid": "G3-N72"
+ },
+ {
+  "ncids": [
+   "K1651"
+  ],
+  "stem": "Most patients in hypovolaemic shock have cool, pale peripheries with prolonged capillary refill. In distributive shock such as septic shock, capillary refill time is:",
+  "options": {
+   "A": "Normal",
+   "B": "Delayed",
+   "C": "Decreased (brisk)",
+   "D": "Increased",
+   "E": "Not appreciable"
+  },
+  "answer": "C",
+  "explanation": "Early distributive (septic) shock causes peripheral vasodilatation, so the peripheries are warm with a brisk capillary refill despite inadequate tissue oxygenation.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G3-N73"
+ },
+ {
+  "ncids": [
+   "K1652"
+  ],
+  "stem": "Physiological exhaustion is the end result of shock in any patient with ongoing traumatic haemorrhage. What is the best management plan?",
+  "options": {
+   "A": "Stop (control) the haemorrhage",
+   "B": "IV analgesics",
+   "C": "Cold IV fluids",
+   "D": "Vitamin K injection",
+   "E": "Intravenous tranexamic acid"
+  },
+  "answer": "A",
+  "explanation": "Ongoing bleeding leads to the lethal triad and physiological exhaustion; the priority is early haemorrhage control (surgery or angioembolisation) with damage control resuscitation, while tranexamic acid is only an adjunct and cold fluids worsen coagulopathy.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G3-N74"
+ },
+ {
+  "ncids": [
+   "K1653"
+  ],
+  "stem": "Platelets are very important haemostatic particles. What is their lifespan?",
+  "options": {
+   "A": "1-2 days",
+   "B": "2-3 days",
+   "C": "4-5 days",
+   "D": "7-10 days",
+   "E": "10-15 days"
+  },
+  "answer": "D",
+  "explanation": "Circulating platelets survive about 7-10 days before removal by the spleen; stored platelet concentrates last only 5-7 days at 22 C.",
+  "key_note": "Bank bolded E (10-15 days); correct is D, because platelet lifespan is 7-10 days.",
+  "_new": true,
+  "qid": "G3-N75"
+ },
+ {
+  "ncids": [
+   "K1654"
+  ],
+  "stem": "The most common fatal infectious complication of blood transfusion (among the options) is:",
+  "options": {
+   "A": "Malaria",
+   "B": "Cytomegalovirus",
+   "C": "HIV",
+   "D": "Viral hepatitis",
+   "E": "Typhoid fever"
+  },
+  "answer": "D",
+  "explanation": "Among these options, transfusion-transmitted viral hepatitis (especially hepatitis C in Pakistan) is the most common serious infectious risk; in screened Western supplies bacterial contamination of platelets is now the leading infectious cause of death.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G3-N76"
+ },
+ {
+  "ncids": [
+   "K1655"
+  ],
+  "stem": "Approximately what percentage of total insensible water loss occurs through the skin?",
+  "options": {
+   "A": "25%",
+   "B": "45%",
+   "C": "60%",
+   "D": "75%",
+   "E": "80%"
+  },
+  "answer": "C",
+  "explanation": "Insensible loss is about 900-1000 ml/day: roughly 500-600 ml through the skin and 300-400 ml through the lungs, so about 60% (two-thirds) is via the skin.",
+  "key_note": "Bank bolded D (75%); correct is C, because standard figures give about 600 ml of 1000 ml (about 60%) through the skin.",
+  "_new": true,
+  "qid": "G3-N77"
+ },
+ {
+  "ncids": [
+   "K0677"
+  ],
+  "stem": "Which of the following statements about septic shock is INCORRECT?",
+  "options": {
+   "A": "It is classically caused by endotoxins released by bacteria",
+   "B": "It is associated with overwhelming infections",
+   "C": "Antibodies against bacteria have a major role in causing this shock",
+   "D": "The cold variety represents the advanced stage of this type of shock"
+  },
+  "answer": "C",
+  "explanation": "Septic shock results from bacterial toxins (classically Gram-negative endotoxin) triggering a dysregulated cytokine and inflammatory response, not from antibodies. Warm (hyperdynamic) shock progresses to cold (hypodynamic) shock in late stages.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G3-N78"
+ },
+ {
+  "ncids": [
+   "K0684"
+  ],
+  "stem": "Which of the following complications is LEAST likely to be related to blood transfusion?",
+  "options": {
+   "A": "Incompatibility reaction",
+   "B": "Septic shock",
+   "C": "Transmission of viral disease",
+   "D": "Coagulation failure"
+  },
+  "answer": "B",
+  "explanation": "Incompatibility reactions, viral transmission and dilutional coagulopathy (after massive transfusion) are well-recognised transfusion complications. Septic shock from bacterially contaminated blood is possible but very rare, so it is the least likely.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G3-N79"
+ }
+]

@@ -1,0 +1,536 @@
+[
+ {
+  "cids": [
+   "C0796"
+  ],
+  "stem": "The dermatome associated with the thumb is:",
+  "options": {
+   "A": "C5",
+   "B": "C6",
+   "C": "C7",
+   "D": "C8",
+   "E": "T1"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "C6 supplies the lateral forearm and thumb, C7 the middle finger and C8 the little finger.",
+  "key_note": "Not marked in the source paper; answer by reviewer, which agrees with the compiled answer book.",
+  "figure": "",
+  "qid": "37-1"
+ },
+ {
+  "cids": [
+   "C0797"
+  ],
+  "stem": "A 28-year-old woman who is getting married in a few weeks asks about taking folic acid to prevent neural tube defects. What advice should you give?",
+  "options": {
+   "A": "She should start a daily supplement containing 400 to 800 micrograms of folic acid now",
+   "B": "She should start daily folic acid supplements after she conceives",
+   "C": "She should not take any additional vitamins or iron supplements",
+   "D": "If her Hb is adequate she does not need any supplements"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "The neural tube closes by about day 28, often before pregnancy is recognised, so folic acid 400 micrograms daily (up to 800) should start before conception and continue through the first trimester. High-risk women (previous NTD, antiepileptics) need 5 mg daily.",
+  "key_note": "Not marked in the source paper; answer by reviewer, which agrees with the compiled answer book.",
+  "figure": "",
+  "qid": "37-2"
+ },
+ {
+  "cids": [
+   "C0466"
+  ],
+  "stem": "A 23-year-old mountaineer slips and falls 10 metres onto rocks. With a suspected spinal injury, paramedics place him supine on a padded spine board with straps. On arrival in the emergency department he is in pain but fully conscious and haemodynamically stable. He should be:",
+  "options": {
+   "A": "Kept on the rigid spine board safely for 6-8 hours",
+   "B": "Shifted to the hospital bed by being lifted by 2 porters",
+   "C": "Kept strapped on the spine board until assessed by the neurosurgeon",
+   "D": "Sent directly to the radiology department for X-rays",
+   "E": "Log-rolled by 4 people for examination of the spine"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "The spine board is a transport device and should be removed early (pressure sores develop within hours). The patient is log-rolled by a team of four with in-line stabilisation so the whole spine can be examined as part of the secondary survey.",
+  "key_note": "",
+  "figure": "",
+  "qid": "37-3"
+ },
+ {
+  "cids": [
+   "C1256"
+  ],
+  "stem": "A patient arrives in the emergency department with spinal trauma. Which measure may NOT be required in this case?",
+  "options": {
+   "A": "Lumbar corset",
+   "B": "Log-roll movement",
+   "C": "Cervical collar",
+   "D": "MRI lumbar spine",
+   "E": "Steroid injection"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Acute spinal trauma care is immobilisation (collar, blocks, log-roll) and imaging; a lumbar corset is a later rehabilitation brace with no place in the emergency setting.",
+  "key_note": "Imperfect question: high-dose methylprednisolone (option E) is also no longer recommended in acute spinal cord injury, but the paper and compiled keys give A, which is the clearest answer.",
+  "figure": "",
+  "qid": "37-4"
+ },
+ {
+  "cids": [
+   "C1344"
+  ],
+  "stem": "A 28-year-old woman presents to the orthopaedic OPD with radiating pain in her neck and arm. Which radiographic view is best for evaluating the cervical spine?",
+  "options": {
+   "A": "AP view",
+   "B": "Lateral view",
+   "C": "Odontoid view",
+   "D": "Swimmer's view",
+   "E": "PA view"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "The lateral view is the single most informative cervical spine film, showing alignment, disc spaces, foramina-related changes and the prevertebral soft tissue, provided C7/T1 is visible. Swimmer's and odontoid views are supplementary.",
+  "key_note": "",
+  "figure": "",
+  "qid": "37-5"
+ },
+ {
+  "cids": [
+   "C0098"
+  ],
+  "stem": "A 25-year-old man involved in a motor vehicle accident presents with numbness and weakness in both his arms and legs. What is the most likely level of spinal cord injury?",
+  "options": {
+   "A": "Cervical spine",
+   "B": "Thoracic spine",
+   "C": "Lumbar spine",
+   "D": "Sacral spine",
+   "E": "Coccygeal spine"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Involvement of all four limbs (tetraparesis) means a lesion above the brachial plexus outflow, that is in the cervical cord. Thoracic and lower lesions spare the arms.",
+  "key_note": "",
+  "figure": "",
+  "qid": "37-6"
+ },
+ {
+  "cids": [
+   "C0128"
+  ],
+  "stem": "A 16-year-old boy falls from a height and injures his spine. He is in respiratory distress. Which level of injury most likely explains this?",
+  "options": {
+   "A": "Spinal cord injury at S1",
+   "B": "Spinal cord injury at T8",
+   "C": "Spinal cord injury above C3",
+   "D": "Spinal cord injury below T1",
+   "E": "Spinal cord injury at L1"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "The phrenic nerve (C3, 4, 5 keeps the diaphragm alive) arises from C3-C5, so a cord lesion above C3 paralyses the diaphragm and causes apnoea needing ventilation. Lower thoracic lesions only weaken intercostal and abdominal muscles.",
+  "key_note": "",
+  "figure": "",
+  "qid": "37-7"
+ },
+ {
+  "cids": [
+   "C0794"
+  ],
+  "stem": "A patient sustains a penetrating injury to the right side of the spinal cord at T6. There is loss of pain and temperature sensation on the contralateral side below the lesion, with loss of proprioception and vibration on the ipsilateral side. Which syndrome is this?",
+  "options": {
+   "A": "Central cord syndrome",
+   "B": "Anterior cord syndrome",
+   "C": "Brown-Sequard syndrome",
+   "D": "Conus medullaris syndrome"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Hemisection of the cord gives ipsilateral motor loss and loss of dorsal column sensation (proprioception, vibration) with contralateral loss of spinothalamic sensation (pain, temperature), because spinothalamic fibres cross within 1-2 segments of entry.",
+  "key_note": "Not marked in the source paper; answer by reviewer, which agrees with the compiled answer book. The source stem said proprioception was 'preserved' ipsilaterally, an error; it is lost ipsilaterally in Brown-Sequard syndrome.",
+  "figure": "",
+  "qid": "37-8"
+ },
+ {
+  "cids": [
+   "C1255"
+  ],
+  "stem": "A man falls from the roof of a single-storey building and sustains a spinal injury. On examination limb power is grade 3/5 and sensation is normal. What is the ASIA grade of neurological impairment?",
+  "options": {
+   "A": "A",
+   "B": "B",
+   "C": "C",
+   "D": "D",
+   "E": "E"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "ASIA D is a motor incomplete injury in which at least half the key muscles below the level have power of 3/5 or more. ASIA C has most key muscles below grade 3, and ASIA E is entirely normal motor and sensory function.",
+  "key_note": "",
+  "figure": "",
+  "qid": "37-9"
+ },
+ {
+  "cids": [
+   "C1257"
+  ],
+  "stem": "A patient is brought to the emergency department with paralysis after a fall from a height. There is decreased muscle tone and hyporeflexia with hypotension and bradycardia. As this resolves, the bulbocavernosus reflex is the first to return. What is the diagnosis?",
+  "options": {
+   "A": "Hypovolaemic shock",
+   "B": "Ischaemic stroke",
+   "C": "Neurological tumour",
+   "D": "Spinal shock",
+   "E": "Head injury"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Spinal shock is temporary flaccid areflexia below a cord injury; return of the bulbocavernosus reflex marks its end, after which the true extent of injury can be judged. Hypotension with bradycardia (not tachycardia) reflects loss of sympathetic tone (neurogenic shock), not haemorrhage.",
+  "key_note": "",
+  "figure": "",
+  "qid": "37-10"
+ },
+ {
+  "cids": [
+   "C0099"
+  ],
+  "stem": "A patient with a spinal cord injury labelled at the L3 level develops orthostatic hypotension. What is the most likely cause?",
+  "options": {
+   "A": "Loss of sympathetic tone",
+   "B": "Increased parasympathetic tone",
+   "C": "Decreased blood volume",
+   "D": "Cardiac dysfunction",
+   "E": "Vasodilation"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Orthostatic hypotension after spinal cord injury results from loss of sympathetic vasomotor tone, because sympathetic outflow arises from T1-L2 and is interrupted by the injury.",
+  "key_note": "Flawed stem: a true L3 lesion lies below the sympathetic outflow (T1-L2) and would rarely cause this; the intended answer is still A (loss of sympathetic tone), as keyed.",
+  "figure": "",
+  "qid": "37-11"
+ },
+ {
+  "cids": [
+   "C0100"
+  ],
+  "stem": "A female patient falls about 20 feet onto her back. Imaging shows a spinal cord injury at the S1 level. What is the most likely effect on bowel function?",
+  "options": {
+   "A": "Loss of bowel control",
+   "B": "Retention of stool",
+   "C": "Normal bowel function",
+   "D": "Increased bowel motility",
+   "E": "Decreased bowel motility"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Sacral segments S2-S4 control the anal sphincters and defaecation reflex; a conus/sacral lesion gives a lower motor neurone (areflexic) bowel with a lax sphincter and faecal incontinence.",
+  "key_note": "Part of the stem (age, imaging word) was cropped in the source scans.",
+  "figure": "",
+  "qid": "37-12"
+ },
+ {
+  "cids": [
+   "C0140"
+  ],
+  "stem": "A 59-year-old man with a cervical disc herniation has acute pain radiating from his neck down the right arm. Examination shows right triceps weakness, a reduced triceps reflex and diminished sensation in the middle finger. At which level is the herniation most likely?",
+  "options": {
+   "A": "C3-4",
+   "B": "C4-5",
+   "C": "C5-6",
+   "D": "C6-7",
+   "E": "C7-T1"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Triceps weakness, a reduced triceps jerk and middle finger sensory loss indicate a C7 radiculopathy. In the cervical spine the root exits above its numbered vertebra, so the C7 root is compressed by a C6-7 disc.",
+  "key_note": "",
+  "figure": "",
+  "qid": "37-13"
+ },
+ {
+  "cids": [
+   "C0385"
+  ],
+  "stem": "A 35-year-old man has severe backache after heavy weightlifting. He cannot straighten his back, and has weakness of big toe extension with sensory loss over the lateral aspect of the calf. What is the most likely diagnosis?",
+  "options": {
+   "A": "Ankylosing spondylitis",
+   "B": "Osteoarthritis",
+   "C": "Paget's disease",
+   "D": "Rheumatoid arthritis",
+   "E": "Intervertebral disc prolapse"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Acute back pain after lifting, with weak extensor hallucis longus and lateral calf numbness, is an L5 radiculopathy, most often from an L4-5 disc prolapse.",
+  "key_note": "",
+  "figure": "",
+  "qid": "37-14"
+ },
+ {
+  "cids": [
+   "C1148"
+  ],
+  "stem": "A 20-year-old man presents with fever, back pain and progressive weakness of the lower limbs. MRI shows an enhancing fluid collection in the spinal epidural space. The most likely diagnosis is:",
+  "options": {
+   "A": "Herniated disc",
+   "B": "Spinal cord infarction",
+   "C": "Spinal cord tumour",
+   "D": "Spinal epidural abscess",
+   "E": "Transverse myelitis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "The classic triad of fever, back pain and progressive neurological deficit with a rim-enhancing epidural collection on MRI is a spinal epidural abscess (usually Staph. aureus); it needs urgent decompression and antibiotics.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "37-15"
+ },
+ {
+  "cids": [
+   "C1288",
+   "C1411"
+  ],
+  "stem": "A 55-year-old man with no known comorbidities and a 25 pack-year smoking history presents to the OPD with pain in both lower limbs and inability to walk more than 500 metres. Straight leg raising is 90 degrees bilaterally and distal neurovascular status is intact. What is the most appropriate next investigation to reach a diagnosis?",
+  "options": {
+   "A": "MRI lumbosacral spine with contrast to rule out pathology in the lumbosacral spine",
+   "B": "MRI lumbosacral spine without contrast to rule out pathology in the lumbosacral spine",
+   "C": "CT scan lumbosacral spine",
+   "D": "Doppler ultrasound of both lower limbs",
+   "E": "Workup for diabetic neuropathy"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "In a heavy smoker with exertional leg pain and normal straight leg raising and neurology, the intended diagnosis is vascular intermittent claudication, and the first investigation is non-invasive arterial Doppler with ABPI. If arterial studies are normal and symptoms are postural, neurogenic claudication from spinal stenosis is then assessed with non-contrast MRI.",
+  "key_note": "All paper keys marked D (Doppler), while the compiled answer book gave MRI (B in one paper, A in another); D is kept as the intended answer, but this question is debatable because palpable pulses would favour spinal stenosis.",
+  "figure": "",
+  "qid": "37-16"
+ },
+ {
+  "cids": [
+   "C0104"
+  ],
+  "stem": "A 60-year-old patient presents with severe back pain radiating to the leg. The doctor suspects a herniated disc. What would be the imaging study of choice?",
+  "options": {
+   "A": "X-ray spine",
+   "B": "CT spine",
+   "C": "MRI spine",
+   "D": "Ultrasound spine",
+   "E": "Bone scan"
+  },
+  "answer": "C",
+  "explanation": "MRI is the investigation of choice for disc prolapse, showing the disc, nerve root compression and soft tissues without radiation.",
+  "key_note": "",
+  "figure": "",
+  "qid": "37-17"
+ },
+ {
+  "ncids": [
+   "K0074"
+  ],
+  "stem": "A 35-year-old man falls from a building. On primary survey he is alert and haemodynamically stable but complains of severe lower back pain. Lower limb neurological examination is unremarkable. Which investigation will confirm the suspected diagnosis?",
+  "options": {
+   "A": "Complete blood picture",
+   "B": "X-rays of the spine",
+   "C": "Ultrasound pelvis",
+   "D": "Urine analysis",
+   "E": "Erect abdominal X-ray"
+  },
+  "answer": "B",
+  "explanation": "A suspected vertebral fracture in a neurologically intact patient is confirmed with plain radiographs of the spine (AP and lateral), followed by CT if a fracture is seen or suspected.",
+  "key_note": "",
+  "_new": true,
+  "qid": "37-N1"
+ },
+ {
+  "ncids": [
+   "K1114"
+  ],
+  "stem": "Which investigation helps in the antenatal diagnosis of meningomyelocele due to spina bifida?",
+  "options": {
+   "A": "Complete blood picture",
+   "B": "Erythrocyte sedimentation rate",
+   "C": "CT scan",
+   "D": "Maternal serum alpha-fetoprotein (AFP)",
+   "E": "Serum amylase"
+  },
+  "answer": "D",
+  "explanation": "Open neural tube defects leak AFP into the amniotic fluid and maternal circulation, so raised maternal serum AFP at 15 to 20 weeks is the screening test, confirmed by detailed ultrasound.",
+  "key_note": "",
+  "_new": true,
+  "qid": "37-N2"
+ },
+ {
+  "ncids": [
+   "K1129"
+  ],
+  "stem": "A 45-year-old woman presents with backache and right sciatica due to a lumbar disc prolapse. On examination the right knee jerk is absent. At which level is the lesion?",
+  "options": {
+   "A": "L1-L2",
+   "B": "L2-L3",
+   "C": "L3-L4",
+   "D": "L5-S1",
+   "E": "S1-S2"
+  },
+  "answer": "C",
+  "explanation": "The knee jerk is mediated by L3 and L4 (mainly L4); a lost knee jerk points to L4 root compression, usually from an L3-L4 disc. A lost ankle jerk indicates S1 (L5-S1 disc).",
+  "key_note": "",
+  "_new": true,
+  "qid": "37-N3"
+ },
+ {
+  "ncids": [
+   "K1130"
+  ],
+  "stem": "Lumbar puncture in a newborn is risky because in the newborn the spinal cord extends to the level of:",
+  "options": {
+   "A": "T12",
+   "B": "L1",
+   "C": "L3",
+   "D": "L4",
+   "E": "L5"
+  },
+  "answer": "C",
+  "explanation": "At birth the conus medullaris lies at about L3, ascending to the adult level of L1-L2 by around 2 years, so neonatal lumbar puncture is done at L4-L5 or below.",
+  "key_note": "",
+  "_new": true,
+  "qid": "37-N4"
+ },
+ {
+  "ncids": [
+   "K1133"
+  ],
+  "stem": "Which one of the following indicates a lower motor neuron lesion?",
+  "options": {
+   "A": "Clonus",
+   "B": "Depressed tendon reflexes",
+   "C": "Increased muscle bulk",
+   "D": "Increased muscle tone",
+   "E": "Upgoing plantar reflex"
+  },
+  "answer": "B",
+  "explanation": "Lower motor neuron lesions cause flaccid weakness with hypotonia, wasting, fasciculation and depressed or absent reflexes. Hypertonia, clonus and an upgoing plantar are upper motor neuron signs.",
+  "key_note": "Option A was printed as a duplicate of option D ('Increased tone of muscles') and has been replaced with clonus. One variant of this cluster asked instead for an upper motor neuron sign (answer: increased tone).",
+  "_new": true,
+  "qid": "37-N5"
+ },
+ {
+  "ncids": [
+   "K1136"
+  ],
+  "stem": "Failure of the neural tube to close causes:",
+  "options": {
+   "A": "Hydrocephalus",
+   "B": "Microcephaly",
+   "C": "Meningomyelocele",
+   "D": "Loss of vision",
+   "E": "Cerebral palsy"
+  },
+  "answer": "C",
+  "explanation": "Failure of closure of the caudal neuropore produces spina bifida, the open form being meningomyelocele (cranially, anencephaly or encephalocele). Hydrocephalus often accompanies it but is not the primary defect.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "37-N6"
+ },
+ {
+  "ncids": [
+   "K1141"
+  ],
+  "stem": "A 32-year-old man has paraparesis from a spinal cord injury after a motorcycle accident. The emergency doctor applies a cervical collar and advises log-rolling. Which of the following statements regarding log-roll is FALSE?",
+  "options": {
+   "A": "It is a manoeuvre used to move a trauma patient with a suspected spinal injury",
+   "B": "The patient is carefully rolled in the desired direction without twisting or bending the body",
+   "C": "The basic idea is not to convert an incomplete spinal injury into a complete one",
+   "D": "It is used to examine the spine in a trauma patient",
+   "E": "It is used only for the first few hours of trauma management"
+  },
+  "answer": "E",
+  "explanation": "Log-rolling with in-line immobilisation is used whenever the patient is moved, until spinal injury is excluded or the spine is stabilised, not only in the first few hours.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "37-N7"
+ },
+ {
+  "ncids": [
+   "K1319"
+  ],
+  "stem": "Which statement about burst fractures of the spine is FALSE?",
+  "options": {
+   "A": "The injury most often occurs at the junction of T12 and L1",
+   "B": "If the posterior elements are intact, the fracture is stable",
+   "C": "A cardinal sign of instability is widening of the interpedicular distance",
+   "D": "Laminectomy is indicated to provide stability"
+  },
+  "answer": "D",
+  "explanation": "Laminectomy removes the posterior elements and further destabilises the spine. Unstable burst fractures are treated by instrumented fixation, with anterior or posterolateral decompression if needed.",
+  "key_note": "",
+  "_new": true,
+  "qid": "37-N8"
+ },
+ {
+  "ncids": [
+   "K1320"
+  ],
+  "stem": "Which statement is true about thoracic and thoracolumbar spine injuries?",
+  "options": {
+   "A": "The commonest type of fracture is the burst fracture",
+   "B": "Because of the splinting action of the ribs, even unstable fractures rarely displace",
+   "C": "Associated injuries are extremely uncommon",
+   "D": "Fractures are less common at T1-T9 than at T10-L1"
+  },
+  "answer": "D",
+  "explanation": "The rigid rib-splinted T1-T9 segment is fractured less often than the mobile thoracolumbar junction (T10-L1), where stress concentrates. The commonest fracture is the wedge compression fracture, and associated injuries (chest, abdomen) are common.",
+  "key_note": "",
+  "_new": true,
+  "qid": "37-N9"
+ },
+ {
+  "ncids": [
+   "K1397"
+  ],
+  "stem": "The region of the vertebral column most vulnerable to injury is:",
+  "options": {
+   "A": "Cervical",
+   "B": "Upper thoracic",
+   "C": "Lower thoracic",
+   "D": "Lumbar",
+   "E": "Sacral"
+  },
+  "answer": "A",
+  "explanation": "The mobile cervical spine is the most commonly injured region: about 55% of spinal injuries are cervical, with roughly 15% each thoracic, thoracolumbar and lumbosacral (ATLS).",
+  "key_note": "",
+  "_new": true,
+  "qid": "37-N10"
+ },
+ {
+  "ncids": [
+   "K1548"
+  ],
+  "stem": "After a spinal injury, a patient has absent biceps reflexes, brisk knee and ankle reflexes, and a normal respiratory rate of 16/min. At which level is the spinal cord transected?",
+  "options": {
+   "A": "L1-L3",
+   "B": "C8-T1",
+   "C": "T8-T9",
+   "D": "C5-C6",
+   "E": "C3-C4"
+  },
+  "answer": "D",
+  "explanation": "The biceps reflex is C5-C6, so its loss with hyperreflexia below marks a C5-C6 lesion. A normal respiratory rate shows the phrenic nerve (C3-C5) is largely spared, excluding C3-C4.",
+  "key_note": "",
+  "_new": true,
+  "qid": "37-N11"
+ },
+ {
+  "ncids": [
+   "K1318"
+  ],
+  "stem": "Which of the following statements regarding cervical spine fractures is FALSE?",
+  "options": {
+   "A": "Motor vehicle collisions and falls are common causes of cervical spine fractures",
+   "B": "Fractures of the C1 ring are called Jefferson fractures and are caused by axial loading",
+   "C": "Plain X-rays are often insufficient, and CT is required for proper diagnosis",
+   "D": "The majority of unstable fractures require immediate surgery with reduction, decompression and fusion"
+  },
+  "answer": "D",
+  "explanation": "Many unstable cervical fractures are managed first with immobilisation, traction or halo fixation, and surgery is not immediate in most; so D is false. CT is the standard for diagnosing cervical fractures and Jefferson fractures follow axial loading.",
+  "key_note": "Source option A ('most cervical spine fractures result from hyperextension') was also false, since flexion injuries predominate; reworded so the keyed answer D is the single false statement.",
+  "_new": true,
+  "qid": "37-N12"
+ }
+]

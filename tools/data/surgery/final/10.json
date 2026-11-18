@@ -1,0 +1,1145 @@
+[
+ {
+  "cids": [
+   "C0908"
+  ],
+  "stem": "Following are some anatomical facts about the oesophagus. Which of these is INCORRECT?",
+  "options": {
+   "A": "It is 25 cm long",
+   "B": "It extends from the cricopharyngeal sphincter to the crura of the diaphragm",
+   "C": "It is lined by squamous epithelium",
+   "D": "Its upper part has striated muscle"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "The oesophagus runs from the cricopharyngeus (C6) through the hiatus (T10) to end at the cardia of the stomach (about T11), so it does not stop at the crura; it has a short abdominal segment. The other statements are true: about 25 cm long, stratified squamous lining, striated muscle in the upper third.",
+  "key_note": "",
+  "figure": "",
+  "qid": "10-1"
+ },
+ {
+  "cids": [
+   "C0831"
+  ],
+  "stem": "During endoscopy, at what distance from the incisor teeth is the endoscope likely to encounter the cardiac sphincter (lower oesophageal sphincter)?",
+  "options": {
+   "A": "15 cm",
+   "B": "25 cm",
+   "C": "30 cm",
+   "D": "40 cm",
+   "E": "50 cm"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "From the incisors, cricopharyngeus is at about 15 cm, the aortic arch/left main bronchus at about 25 cm and the lower oesophageal sphincter/cardia at about 38-40 cm. 25 cm is the bronchoaortic constriction, not the cardia.",
+  "key_note": "The paper marked B (25 cm); correct is D: the cardia lies about 40 cm from the incisors, 25 cm is the aortic/bronchial constriction.",
+  "figure": "",
+  "qid": "10-2"
+ },
+ {
+  "cids": [
+   "C0576"
+  ],
+  "stem": "A 50-year-old smoker presents with progressive dysphagia. A gastroenterologist is performing upper GI endoscopy. Which of the following is true regarding findings on upper GI endoscopy?",
+  "options": {
+   "A": "Distance between incisors and lower oesophageal sphincter is 25 cm",
+   "B": "Endoscopy is performed routinely under general anaesthesia",
+   "C": "Lining of the oesophagus is ciliated columnar",
+   "D": "Second constriction appreciated during endoscopy is the aortic and bronchial constriction",
+   "E": "Total length of the oesophagus is 40 cm"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "The oesophagus has constrictions at cricopharyngeus (15 cm), the aortic arch and left main bronchus (22-27 cm) and the diaphragm/LES (about 40 cm). The LES is about 40 cm from the incisors, the oesophagus itself is about 25 cm long, it is lined by non-keratinised stratified squamous epithelium, and diagnostic endoscopy is done under topical anaesthesia with or without sedation.",
+  "key_note": "",
+  "figure": "",
+  "qid": "10-3"
+ },
+ {
+  "cids": [
+   "C0612"
+  ],
+  "stem": "The following statements about the influence of diet and lifestyle on lower oesophageal sphincter (LES) function are true except one. Identify the incorrect statement.",
+  "options": {
+   "A": "A high-protein diet increases LES pressure",
+   "B": "A fat meal results in a sustained decrease in LES pressure",
+   "C": "Chocolate ingestion causes a decrease in LES pressure",
+   "D": "Peppermint produces a transient decrease in LES values",
+   "E": "Cigarette smoking produces no significant changes in LES pressure"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Smoking lowers LES pressure and impairs acid clearance, which is why smoking cessation is part of reflux management. Protein raises LES pressure, while fat, chocolate and peppermint lower it.",
+  "key_note": "",
+  "figure": "",
+  "qid": "10-4"
+ },
+ {
+  "cids": [
+   "C0341"
+  ],
+  "stem": "The best diagnostic tool for oesophageal motility disorders is:",
+  "options": {
+   "A": "Barium swallow",
+   "B": "CT scan of thorax",
+   "C": "Endoscopic ultrasound",
+   "D": "Oesophageal manometry",
+   "E": "Plain X-ray chest"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Manometry (now high-resolution manometry) is the gold standard for motility disorders such as achalasia and diffuse oesophageal spasm, as it measures LES relaxation and body peristalsis directly. Barium swallow is suggestive but not diagnostic.",
+  "key_note": "",
+  "figure": "",
+  "qid": "10-5"
+ },
+ {
+  "cids": [
+   "C0763"
+  ],
+  "stem": "Regarding achalasia:",
+  "options": {
+   "A": "It is a disease of the large intestine",
+   "B": "It is associated with H. pylori infection",
+   "C": "It is closely related to hiatal hernia",
+   "D": "It is due to loss of ganglion cells in the myenteric plexus",
+   "E": "It is a Greek word for failure to contract"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Achalasia results from degeneration of inhibitory ganglion cells in Auerbach's (myenteric) plexus, causing failure of LES relaxation and aperistalsis. The Greek term means failure to relax, not failure to contract.",
+  "key_note": "",
+  "figure": "",
+  "qid": "10-6"
+ },
+ {
+  "cids": [
+   "C0760"
+  ],
+  "stem": "Which of the following statements about achalasia is correct?",
+  "options": {
+   "A": "In most cases in North America, the cause is a parasitic infestation by Trypanosoma cruzi",
+   "B": "Chest pain and regurgitation are the usual symptoms",
+   "C": "Distal-third oesophageal adenocarcinomas may occur in as many as 20% of patients within 10 years of diagnosis",
+   "D": "Endoscopic botulinum toxin injection of the LES, pneumatic dilatation and oesophagomyotomy provide highly effective curative therapy for achalasia"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Regurgitation and chest pain (with dysphagia) are typical symptoms. Chagas disease causes achalasia in South America, not North America; the cancer risk in achalasia is mainly squamous and far below 20%; and all treatments are palliative, they do not restore peristalsis.",
+  "key_note": "Not marked in the source paper; answer by reviewer (agrees with compiled key). The source split option C across two lettered lines; they have been joined, leaving four options. Dysphagia is the cardinal symptom, but B is the only true statement.",
+  "figure": "",
+  "qid": "10-7"
+ },
+ {
+  "cids": [
+   "C0306"
+  ],
+  "stem": "A 45-year-old male presents with difficulty in swallowing. A barium swallow shows a dilated oesophageal body with smooth tapering at the lower oesophageal end. What is the most likely diagnosis?",
+  "options": {
+   "A": "Achalasia cardia",
+   "B": "Diffuse oesophageal spasm",
+   "C": "Incompetent lower oesophageal sphincter",
+   "D": "Oropharyngeal dysphagia",
+   "E": "Scleroderma"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "A dilated oesophagus with smooth 'bird-beak' tapering at the LES is classic achalasia. Diffuse spasm gives a corkscrew oesophagus and scleroderma gives an incompetent, patulous LES with reflux.",
+  "key_note": "",
+  "figure": "",
+  "qid": "10-8"
+ },
+ {
+  "cids": [
+   "C1427"
+  ],
+  "stem": "A middle-aged lady presents to the outpatient department with dysphagia. You suspect achalasia cardia and advise a barium swallow. Which one of the following findings do you expect?",
+  "options": {
+   "A": "Rat tail appearance",
+   "B": "Apple core sign",
+   "C": "Bird beak appearance",
+   "D": "Diffuse narrowing of the entire oesophagus",
+   "E": "A sharp stricture at upper oesophageal sphincter level"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Achalasia shows a dilated oesophagus tapering smoothly to a closed LES (bird beak). A rat tail (irregular shouldered narrowing) suggests carcinoma, and apple core is the colonic carcinoma sign.",
+  "key_note": "",
+  "figure": "",
+  "qid": "10-9"
+ },
+ {
+  "cids": [
+   "C0155",
+   "C0412"
+  ],
+  "stem": "A 45-year-old man presents with dysphagia and regurgitation. Barium swallow shows a 'bird-beak' appearance. What is the most definitive treatment?",
+  "options": {
+   "A": "Oesophageal stenting",
+   "B": "Nitrates and calcium channel blockers",
+   "C": "Pneumatic balloon dilatation",
+   "D": "Heller's myotomy with fundoplication",
+   "E": "Botulinum toxin injection"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Heller's cardiomyotomy (usually laparoscopic) with a partial fundoplication gives the most durable relief in achalasia. Drugs and botulinum toxin are short-lived, and balloon dilatation often needs repeating.",
+  "key_note": "Also asked as: patient with achalasia who refused surgery and failed lifestyle measures, calcium channel blockers, botulinum toxin and pneumatic dilatation; surgical option is Heller's myotomy (Nissen alone or oesophagectomy are wrong).",
+  "figure": "",
+  "qid": "10-10"
+ },
+ {
+  "cids": [
+   "C1428"
+  ],
+  "stem": "What is the best treatment option for a fit patient with achalasia cardia, no comorbidity, and failed medical treatment?",
+  "options": {
+   "A": "Oesophagectomy",
+   "B": "Open Heller myotomy with complete fundoplication",
+   "C": "Open Heller myotomy with partial fundoplication",
+   "D": "Laparoscopic Heller myotomy with partial fundoplication",
+   "E": "Laparoscopic Heller myotomy with complete fundoplication"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Laparoscopic Heller myotomy with a partial fundoplication (Dor anterior or Toupet posterior) is the standard: the wrap controls reflux after myotomy, and a complete 360 degree Nissen wrap causes dysphagia in an aperistaltic oesophagus.",
+  "key_note": "The paper's highlight was on E (complete fundoplication); correct is D, as the compiled key also gives: a total wrap obstructs an aperistaltic oesophagus.",
+  "figure": "",
+  "qid": "10-11"
+ },
+ {
+  "cids": [
+   "C0074"
+  ],
+  "stem": "A patient undergoes upper GI endoscopy and is found to have oesophagitis. What is the most likely cause?",
+  "options": {
+   "A": "Gastro-oesophageal reflux disease (GORD)",
+   "B": "Bacterial infection",
+   "C": "Medication-induced oesophagitis",
+   "D": "Autoimmune oesophagitis",
+   "E": "Viral infection"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Reflux of acid and bile is by far the commonest cause of oesophagitis. Infective (Candida, CMV, HSV), pill-induced and eosinophilic oesophagitis are much less common and seen in particular settings such as immunosuppression.",
+  "key_note": "",
+  "figure": "",
+  "qid": "10-12"
+ },
+ {
+  "cids": [
+   "C1429"
+  ],
+  "stem": "A middle-aged male is diagnosed with long-standing gastro-oesophageal reflux disease secondary to a hiatal hernia. He is a non-smoker with normal BMI. What is the best treatment option with minimal relapse rates?",
+  "options": {
+   "A": "Proton pump inhibitors",
+   "B": "H2 receptor blockers",
+   "C": "Anti-reflux surgery",
+   "D": "Diet and lifestyle modifications",
+   "E": "Antacids"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "PPIs control symptoms but reflux recurs on stopping, because they do not correct the anatomical defect. Laparoscopic hiatal repair with fundoplication restores the barrier and has the lowest relapse in a fit patient with a hiatus hernia.",
+  "key_note": "",
+  "figure": "",
+  "qid": "10-13"
+ },
+ {
+  "cids": [
+   "C0613"
+  ],
+  "stem": "When a stricture is present in association with gastro-oesophageal reflux, each of the following is an acceptable repair for reflux control except one.",
+  "options": {
+   "A": "Intrathoracic total fundoplication",
+   "B": "Lengthening gastroplasty with total fundoplication",
+   "C": "Total fundoplication",
+   "D": "Lengthening gastroplasty with partial fundoplication",
+   "E": "Partial fundoplication"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "A fundoplication must lie in the abdomen without tension; a wrap left in the chest causes ulceration, bleeding, perforation and obstruction. If the oesophagus is short, a Collis lengthening gastroplasty allows the wrap to sit below the diaphragm.",
+  "key_note": "",
+  "figure": "",
+  "qid": "10-14"
+ },
+ {
+  "cids": [
+   "C0311"
+  ],
+  "stem": "A middle-aged male has a long history of dysphagia to liquids and solids and retrosternal pain that is usually relieved by a loud belch. His chest X-ray shows an air-fluid level behind the heart and a gas bubble shadow. The most likely diagnosis is:",
+  "options": {
+   "A": "Achalasia cardia",
+   "B": "Barrett's oesophagus",
+   "C": "Carcinoma oesophagus",
+   "D": "Mallory-Weiss tear",
+   "E": "Para-oesophageal hiatus hernia"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "A retrocardiac gas bubble with an air-fluid level is the stomach herniated through the hiatus, and pain relieved by belching reflects gastric distension in the hernia. Achalasia can give a mediastinal fluid level but with an absent gastric air bubble.",
+  "key_note": "",
+  "figure": "",
+  "qid": "10-15"
+ },
+ {
+  "cids": [
+   "C0598"
+  ],
+  "stem": "A 64-year-old woman presents with severe upper abdominal pain and retching of 1-day duration. Attempts to pass a nasogastric tube are unsuccessful. X-rays show an air-fluid level in the left side of the chest in the posterior mediastinum. An incarcerated para-oesophageal hernia with gastric volvulus is diagnosed. What is the next step in management?",
+  "options": {
+   "A": "Insertion of a weighted bougie to untwist the volvulus",
+   "B": "Elevation of the head of the bed",
+   "C": "Placing the patient in the Trendelenburg position with the head of the bed lowered",
+   "D": "Laparotomy and vagotomy",
+   "E": "Surgery, reduction of the gastric volvulus, and repair of the hernia"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Pain, unproductive retching and failure to pass a nasogastric tube (Borchardt's triad) indicate acute gastric volvulus, which risks strangulation and perforation. Emergency surgery to reduce the stomach, repair the hiatus and fix the stomach is required.",
+  "key_note": "",
+  "figure": "",
+  "qid": "10-16"
+ },
+ {
+  "cids": [
+   "C0303"
+  ],
+  "stem": "One of the premalignant conditions of the oesophagus is Barrett's oesophagus, which involves the lower end of the oesophagus. It is a predisposing factor for:",
+  "options": {
+   "A": "Adenocarcinoma",
+   "B": "Adenoid cystic carcinoma",
+   "C": "Basal cell carcinoma",
+   "D": "Squamous cell carcinoma",
+   "E": "Malignant melanoma"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Barrett's oesophagus is intestinal metaplasia of the distal oesophagus caused by chronic reflux, progressing through dysplasia to adenocarcinoma. Squamous cell carcinoma arises from squamous mucosa and is linked to smoking, alcohol, achalasia and caustic injury.",
+  "key_note": "",
+  "figure": "",
+  "qid": "10-17"
+ },
+ {
+  "cids": [
+   "C0850"
+  ],
+  "stem": "A 63-year-old woman presents with dysphagia. On endoscopy an oesophageal web is identified and the diagnosis of Plummer-Vinson syndrome is established. What is the next step in management?",
+  "options": {
+   "A": "Oesophagostomy",
+   "B": "Dilatation of the web and iron therapy",
+   "C": "Oesophagectomy",
+   "D": "Gastric bypass of the oesophagus",
+   "E": "Cortisone"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Plummer-Vinson (Paterson-Brown-Kelly) syndrome is iron deficiency anaemia with a postcricoid web; the web is dilated (often it ruptures at endoscopy) and iron deficiency corrected. Follow-up is needed because it is premalignant for postcricoid carcinoma.",
+  "key_note": "",
+  "figure": "",
+  "qid": "10-18"
+ },
+ {
+  "cids": [
+   "C1421"
+  ],
+  "stem": "A 10-year-old child presents to the emergency department with accidental ingestion of a coin 2 hours ago. He is unable to swallow anything. Which one of the following is the most common site for foreign body impaction in the upper GI tract?",
+  "options": {
+   "A": "At the level of cricopharyngeus",
+   "B": "At the crossing of the left main bronchus",
+   "C": "Lower oesophageal sphincter",
+   "D": "At the crossing of the arch of aorta",
+   "E": "Pylorus of the stomach"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Cricopharyngeus is the narrowest part of the GI tract, so most impacted foreign bodies, especially coins in children, lodge there. The aortic/bronchial and LES constrictions are less common sites.",
+  "key_note": "",
+  "figure": "",
+  "qid": "10-19"
+ },
+ {
+  "cids": [
+   "C1318"
+  ],
+  "stem": "A child presents with a history of swallowing a coin less than 6 hours ago. The child is comfortable and not in any kind of distress. Which is the investigation of choice to detect the presence of the metallic object?",
+  "options": {
+   "A": "CT scan chest",
+   "B": "Endoscopy",
+   "C": "Bronchoscopy",
+   "D": "Chest X-ray",
+   "E": "Laparoscopy"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Coins are radio-opaque, so a plain X-ray of the neck, chest and abdomen localises them quickly and cheaply. A coin in the oesophagus lies flat (en face) on the AP film, whereas one in the trachea is seen edge-on. Endoscopy is for removal, not detection.",
+  "key_note": "",
+  "figure": "",
+  "qid": "10-20"
+ },
+ {
+  "cids": [
+   "C0614"
+  ],
+  "stem": "Which of the following is most reliable for confirming the occurrence of a significant oesophageal caustic injury?",
+  "options": {
+   "A": "History of the event",
+   "B": "Physical examination of the patient",
+   "C": "Barium oesophagography",
+   "D": "Endoscopy",
+   "E": "CT chest"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Early endoscopy (within 24-48 hours) grades the depth and extent of the caustic burn and guides management. Absence of oral burns does not exclude oesophageal injury, so history and examination are unreliable.",
+  "key_note": "",
+  "figure": "",
+  "qid": "10-21"
+ },
+ {
+  "cids": [
+   "C0480"
+  ],
+  "stem": "The most important investigation for evaluation of an extensive oesophageal corrosive stricture is:",
+  "options": {
+   "A": "Endoscopy",
+   "B": "Barium study",
+   "C": "CT thorax",
+   "D": "Oesophageal manometry",
+   "E": "Pharyngoscopy"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Once a corrosive stricture has formed, a contrast (barium) swallow best shows its length, number and level, which decides between dilatation and replacement; a scope often cannot pass a tight, long stricture. Endoscopy is the key test in the acute phase to grade the burn.",
+  "key_note": "The paper key marked A (endoscopy), though B was pen-circled; correct is B for an established extensive stricture: endoscopy is the investigation for the acute caustic burn, not for mapping a long stricture.",
+  "figure": "",
+  "qid": "10-22"
+ },
+ {
+  "cids": [
+   "C0160"
+  ],
+  "stem": "A patient with caustic ingestion develops a long-segment stricture of the lower oesophagus. After failed multiple dilatations, what is the most definitive surgical option?",
+  "options": {
+   "A": "Nissen fundoplication",
+   "B": "Transhiatal oesophagectomy",
+   "C": "Endoscopic mucosal resection",
+   "D": "Oesophageal stent placement",
+   "E": "Oesophagogastrostomy"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "A long refractory caustic stricture needs resection or bypass with oesophageal replacement (stomach or colon); the scarred oesophagus also carries a raised risk of squamous carcinoma. A stent is not appropriate for a benign long stricture.",
+  "key_note": "",
+  "figure": "",
+  "qid": "10-23"
+ },
+ {
+  "cids": [
+   "C0590"
+  ],
+  "stem": "Mallory-Weiss syndrome is:",
+  "options": {
+   "A": "Congenital cardiac anomaly",
+   "B": "Congenital diaphragmatic hernia",
+   "C": "Oesophagocardiac (gastro-oesophageal junction) mucosal tear",
+   "D": "Prominent umbilical veins",
+   "E": "Type of nephrotic syndrome"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Mallory-Weiss syndrome is a longitudinal mucosal tear at the gastro-oesophageal junction caused by forceful retching, presenting with haematemesis.",
+  "key_note": "",
+  "figure": "",
+  "qid": "10-24"
+ },
+ {
+  "cids": [
+   "C0156",
+   "C0481",
+   "C0787"
+  ],
+  "stem": "A 70-year-old male presents with haematemesis following severe retching. Endoscopy reveals a linear tear at the gastro-oesophageal junction. What is the most likely diagnosis?",
+  "options": {
+   "A": "Oesophageal varices",
+   "B": "Boerhaave's syndrome",
+   "C": "Mallory-Weiss tear",
+   "D": "Gastric ulcer",
+   "E": "Dieulafoy lesion"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A mucosal (not full-thickness) longitudinal tear at the gastro-oesophageal junction after retching is a Mallory-Weiss tear. Boerhaave's is a full-thickness rupture presenting with chest pain, surgical emphysema and shock rather than haematemesis.",
+  "key_note": "The same question appears in other papers with different distractors (Menetrier's disease, Barrett's, carcinoma, achalasia, reflux oesophagitis); the answer in all is Mallory-Weiss tear.",
+  "figure": "",
+  "qid": "10-25"
+ },
+ {
+  "cids": [
+   "C1425"
+  ],
+  "stem": "A middle-aged lady presents to the emergency department with retrosternal chest pain and one episode of haematemesis 1 hour ago, after an episode of violent coughing. She is conscious, alert and maintaining her blood pressure, pulse 80/min, no melaena. She is diabetic on oral hypoglycaemics. You suspect Mallory-Weiss syndrome. The appropriate management plan would be:",
+  "options": {
+   "A": "Diagnostic upper GI endoscopy and treat accordingly",
+   "B": "Urgent upper GI endoscopy and surgical repair of the tear",
+   "C": "Immediate thoracotomy to repair the injury",
+   "D": "Conservative treatment only without endoscopy",
+   "E": "Placement of oesophageal stents such as SEMS"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Endoscopy confirms the diagnosis and excludes other causes; most Mallory-Weiss tears stop bleeding spontaneously, and active bleeding is treated endoscopically (adrenaline, clips). Surgery is rarely needed.",
+  "key_note": "",
+  "figure": "",
+  "qid": "10-26"
+ },
+ {
+  "cids": [
+   "C0851"
+  ],
+  "stem": "A 60-year-old man presents with excruciating chest pain following an episode of violent vomiting after a heavy meal. Subcutaneous emphysema is noted in the neck. X-rays show air in the mediastinum and neck, and a fluid level in the left pleural cavity. What is the most likely diagnosis?",
+  "options": {
+   "A": "Perforated duodenal ulcer",
+   "B": "Spontaneous rupture of the oesophagus",
+   "C": "Spontaneous pneumothorax",
+   "D": "Inferior wall myocardial infarction",
+   "E": "Dissecting aortic aneurysm"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Boerhaave's syndrome is a full-thickness barogenic rupture, usually of the left posterolateral lower oesophagus, after forceful vomiting: chest pain, surgical emphysema (Mackler's triad), pneumomediastinum and a left hydropneumothorax.",
+  "key_note": "",
+  "figure": "",
+  "qid": "10-27"
+ },
+ {
+  "cids": [
+   "C0611"
+  ],
+  "stem": "A 50-year-old patient develops sudden left lower chest and epigastric pain after vomiting. The patient is diaphoretic, breath sounds are decreased on the left, and there is abdominal guarding. The most appropriate diagnostic test is:",
+  "options": {
+   "A": "Aortography",
+   "B": "Oesophagoscopy",
+   "C": "Electrocardiogram",
+   "D": "Chest X-ray",
+   "E": "White blood cell count"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Suspected Boerhaave's rupture: the chest X-ray is the first test, showing pneumomediastinum, left pleural effusion or hydropneumothorax. It is then confirmed with a water-soluble contrast swallow or CT; endoscopy can enlarge the tear and is not first-line.",
+  "key_note": "Part of the stem was cut off in the scan and has been reconstructed from context.",
+  "figure": "",
+  "qid": "10-28"
+ },
+ {
+  "cids": [
+   "C0400"
+  ],
+  "stem": "A 50-year-old smoker presents with progressive dysphagia. After an upper GI endoscopy he complains of severe chest pain and vomiting. On examination there is subcutaneous emphysema of the thorax and neck. The most likely cause is:",
+  "options": {
+   "A": "Acute myocardial infarction",
+   "B": "Angina pectoris",
+   "C": "Iatrogenic oesophageal perforation",
+   "D": "Mucosal injury to the oesophagus",
+   "E": "Variceal bleeding"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Instrumentation is the commonest cause of oesophageal perforation, especially through a malignant stricture. Chest pain with surgical emphysema after endoscopy means a full-thickness perforation until proven otherwise.",
+  "key_note": "",
+  "figure": "",
+  "qid": "10-29"
+ },
+ {
+  "cids": [
+   "C0725"
+  ],
+  "stem": "The best management for a 48-hour-old distal oesophageal perforation is:",
+  "options": {
+   "A": "Antibiotics and drainage",
+   "B": "Division of the oesophagus and exclusion of the perforation",
+   "C": "Primary repair with buttressing",
+   "D": "Resection with cervical oesophagostomy, gastrostomy and jejunostomy",
+   "E": "T-tube fistula and drainage"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "In a fit patient with an otherwise healthy oesophagus, current teaching (Sabiston, Schwartz) is debridement and primary repair reinforced with a tissue buttress plus drainage, regardless of the delay. T-tube controlled fistula or exclusion is kept for oesophagus too oedematous or necrotic to hold sutures.",
+  "key_note": "Not marked in the source paper; the compiled key gave E (T-tube drainage), which is older teaching for late perforation. Reviewer answer is C, but some local keys may still accept E.",
+  "figure": "",
+  "qid": "10-30"
+ },
+ {
+  "cids": [
+   "C0724",
+   "C0616"
+  ],
+  "stem": "A 60-year-old smoker presents with progressive dysphagia for 3 months, hoarseness of voice and about 10 kg weight loss. Barium swallow reveals an irregular stricture in the middle third of the oesophagus. The lesion is most likely:",
+  "options": {
+   "A": "Chronic oesophagitis",
+   "B": "Squamous cell carcinoma of oesophagus",
+   "C": "Adenocarcinoma",
+   "D": "Barrett's oesophagus",
+   "E": "Achalasia"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "An irregular mid-oesophageal stricture in an elderly smoker with weight loss is squamous cell carcinoma; hoarseness indicates recurrent laryngeal nerve invasion and advanced disease.",
+  "key_note": "Not marked in the source paper; answer by reviewer (agrees with compiled key). Also asked as: growth in the proximal oesophagus of a 70-year-old smoker, biopsy shows squamous cell carcinoma.",
+  "figure": "",
+  "qid": "10-31"
+ },
+ {
+  "cids": [
+   "C0342"
+  ],
+  "stem": "A 65-year-old male presents with progressive dysphagia. Biopsy at upper GI endoscopy reveals carcinoma of the oesophagus. Which one of the following statements is true regarding carcinoma of the oesophagus?",
+  "options": {
+   "A": "Best investigation to diagnose the disease is CT scan thorax",
+   "B": "Dysphagia usually presents as a very early feature",
+   "C": "Incidence of adenocarcinoma is decreasing",
+   "D": "Squamous cell carcinoma usually affects the upper two-thirds",
+   "E": "Recurrent laryngeal nerve is never involved"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Squamous cell carcinoma mainly affects the upper and middle thirds, while adenocarcinoma (incidence rising) affects the lower third. Diagnosis is by endoscopy and biopsy; dysphagia is a late feature (lumen narrowed by more than half), and RLN involvement causes hoarseness.",
+  "key_note": "",
+  "figure": "",
+  "qid": "10-32"
+ },
+ {
+  "cids": [
+   "C0423",
+   "C0849"
+  ],
+  "stem": "A 64-year-old man develops progressive dysphagia over 6 months and has lost 10 kg in weight. A barium swallow shows a 'rat tail' appearance. What is the most likely cause of his presentation?",
+  "options": {
+   "A": "Carcinoma of the oesophagus",
+   "B": "Achalasia",
+   "C": "Sliding hiatal hernia",
+   "D": "Para-oesophageal hernia",
+   "E": "Oesophageal diverticulum"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Short-history progressive dysphagia with weight loss in an elderly man and an irregular shouldered (rat tail) narrowing is carcinoma. Achalasia gives a smooth bird-beak taper with a long history.",
+  "key_note": "One paper gave this stem without the barium finding (image not reproduced); both versions were keyed A.",
+  "figure": "",
+  "qid": "10-33"
+ },
+ {
+  "cids": [
+   "C1423",
+   "C0346"
+  ],
+  "stem": "A 65-year-old male presents with progressive dysphagia for 6 months, initially for solids and now for both solids and liquids, with weight loss and anorexia. You suspect carcinoma of the oesophagus. Which investigation is most appropriate for the diagnosis?",
+  "options": {
+   "A": "Barium swallow",
+   "B": "Oesophagoscopy",
+   "C": "Oesophageal manometry",
+   "D": "24-hour pH monitoring",
+   "E": "CT scan of chest"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Endoscopy with biopsy is the investigation of choice: it visualises the lesion and gives a tissue diagnosis. Barium swallow can suggest a stricture but cannot confirm malignancy, and CT is for staging.",
+  "key_note": "Also asked as: 72-year-old with dysphagia, weight loss and a supraclavicular node, next step is upper GI endoscopy (CT is for staging after tissue diagnosis); asked twice in that paper with slightly different CT distractors.",
+  "figure": "",
+  "qid": "10-34"
+ },
+ {
+  "cids": [
+   "C1424"
+  ],
+  "stem": "A 75-year-old man with locally advanced carcinoma of the oesophagus presents with sudden onset hoarseness of voice. He is vitally stable, abdominal examination is unremarkable and breathing is normal except for occasional cough. What is the likely cause of his hoarseness?",
+  "options": {
+   "A": "Involvement of the sympathetic chain by the tumour",
+   "B": "Invasion of the recurrent laryngeal nerve",
+   "C": "Invasion of the vagus nerve by the tumour",
+   "D": "Tracheo-oesophageal fistula",
+   "E": "Involvement of the phrenic nerve"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Hoarseness in oesophageal cancer means recurrent laryngeal nerve (usually left) infiltration, a sign of unresectability. A tracheo-oesophageal fistula gives coughing on swallowing and aspiration rather than hoarseness.",
+  "key_note": "",
+  "figure": "",
+  "qid": "10-35"
+ },
+ {
+  "cids": [
+   "C0159"
+  ],
+  "stem": "A 68-year-old chronic smoker has a mid-oesophageal squamous cell carcinoma. Which lymph node group is most likely to be involved?",
+  "options": {
+   "A": "Supraclavicular",
+   "B": "Coeliac",
+   "C": "Mediastinal",
+   "D": "Para-oesophageal",
+   "E": "Axillary"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Lymphatic spread first goes to the regional para-oesophageal nodes adjacent to the tumour, then to wider mediastinal, coeliac and cervical/supraclavicular groups. Spread in the submucosal lymphatics can skip, but the first-echelon nodes are para-oesophageal.",
+  "key_note": "",
+  "figure": "",
+  "qid": "10-36"
+ },
+ {
+  "cids": [
+   "C0154"
+  ],
+  "stem": "A 65-year-old man with progressive dysphagia to solids and weight loss is found to have a lower oesophageal mass on endoscopy. Biopsy confirms adenocarcinoma. What is the most appropriate next step?",
+  "options": {
+   "A": "Immediate surgical resection",
+   "B": "Chemoradiotherapy",
+   "C": "CT scan for staging",
+   "D": "Oesophageal stenting",
+   "E": "Staging laparotomy"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "After tissue diagnosis, CT chest/abdomen (then PET-CT, EUS and staging laparoscopy as needed) stages the tumour before any treatment is chosen. Treatment without staging is wrong, and laparoscopy, not laparotomy, is used to look for peritoneal disease.",
+  "key_note": "",
+  "figure": "",
+  "qid": "10-37"
+ },
+ {
+  "cids": [
+   "C1426"
+  ],
+  "stem": "An elderly patient has locally advanced inoperable carcinoma of the oesophagus with significant comorbid disease. What is the best palliative option to relieve his dysphagia?",
+  "options": {
+   "A": "Feeding gastrostomy",
+   "B": "Feeding jejunostomy",
+   "C": "Placement of a feeding nasogastric tube",
+   "D": "Placement of a self-expanding metal stent",
+   "E": "Long-term parenteral feeding through a central venous line"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A self-expanding metal stent relieves dysphagia rapidly, lets the patient swallow saliva and food, and is minimally invasive. Feeding tubes provide nutrition but do not relieve dysphagia or the drooling of saliva.",
+  "key_note": "",
+  "figure": "",
+  "qid": "10-38"
+ },
+ {
+  "cids": [
+   "C1422"
+  ],
+  "stem": "A 70-year-old man has advanced carcinoma of the lower third of the oesophagus and is unable to swallow anything. He is diabetic and hypertensive and had a left cortical stroke 6 months ago. The best palliation for his dysphagia would be:",
+  "options": {
+   "A": "Long-term nasogastric tube placement",
+   "B": "Nasojejunal feeding tube placement",
+   "C": "PEG tube placement",
+   "D": "Open feeding jejunostomy",
+   "E": "Long-term TPN through a central line"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "With a recent stroke and probable impaired swallow, a stent alone would not ensure safe oral intake, so enteral access via gastrostomy is the most practical long-term palliation (placed radiologically if the endoscope cannot pass the tumour). Long-term nasal tubes are poorly tolerated and TPN carries line sepsis risk.",
+  "key_note": "A stent is not among the options; PEG is the keyed and best available answer.",
+  "figure": "",
+  "qid": "10-39"
+ },
+ {
+  "cids": [
+   "C0161"
+  ],
+  "stem": "A 55-year-old man undergoes Ivor Lewis oesophagectomy. What is the most appropriate postoperative investigation to check anastomotic integrity?",
+  "options": {
+   "A": "Chest X-ray",
+   "B": "Upper GI endoscopy",
+   "C": "Contrast (barium) swallow",
+   "D": "CT chest with contrast",
+   "E": "PET-CT"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A contrast swallow, in practice with a water-soluble agent such as Gastrografin rather than barium, shows anastomotic leak. CT with oral contrast is used if a leak is clinically suspected and the swallow is equivocal.",
+  "key_note": "The paper option reads 'Barium swallow'; the answer is correct in principle, but water-soluble contrast is used for suspected leaks.",
+  "figure": "",
+  "qid": "10-40"
+ },
+ {
+  "cids": [
+   "C0158"
+  ],
+  "stem": "A patient sustained a thoracic duct injury during oesophagectomy. What postoperative complication is most likely?",
+  "options": {
+   "A": "Aspiration pneumonia",
+   "B": "Chylothorax",
+   "C": "Pleural effusion",
+   "D": "Mediastinitis",
+   "E": "Bronchopleural fistula"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "The thoracic duct runs alongside the oesophagus in the posterior mediastinum; injury leaks chyle into the pleural cavity, giving a milky, triglyceride-rich effusion, usually once enteral feeding starts.",
+  "key_note": "",
+  "figure": "",
+  "qid": "10-41"
+ },
+ {
+  "cids": [
+   "C0707"
+  ],
+  "stem": "A 65-year-old man has progressive dysphagia to solids and liquids over 2 months and 10 kg weight loss. Endoscopy shows a 5 cm ulcerated mass in the lower third of the oesophagus; biopsy confirms squamous cell carcinoma. CT shows enlarged regional lymph nodes but no distant metastases. What is the most appropriate treatment plan?",
+  "options": {
+   "A": "Oesophagectomy with lymph node dissection",
+   "B": "Neoadjuvant chemoradiation followed by surgery",
+   "C": "Definitive chemoradiation",
+   "D": "Palliative stent placement",
+   "E": "Endoscopic resection"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Locally advanced (node-positive) resectable oesophageal cancer is treated with neoadjuvant chemoradiotherapy (CROSS regimen) followed by oesophagectomy, which improves survival over surgery alone. Definitive chemoradiation is the option for upper-third SCC or unfit patients.",
+  "key_note": "",
+  "figure": "",
+  "qid": "10-42"
+ },
+ {
+  "cids": [
+   "C0157"
+  ],
+  "stem": "A 45-year-old patient underwent transhiatal oesophagectomy for oesophageal cancer. On day 5 he develops fever, chest pain and tachycardia with a markedly raised white cell count. What is the most likely complication?",
+  "options": {
+   "A": "Anastomotic leak",
+   "B": "Recurrent laryngeal nerve injury",
+   "C": "Gastric outlet obstruction",
+   "D": "Chylothorax",
+   "E": "Pulmonary embolism"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Sepsis with chest pain around days 5-7 after oesophagectomy is the classic timing of anastomotic leak. Confirm with water-soluble contrast swallow or CT, and endoscopy to assess conduit viability.",
+  "key_note": "",
+  "figure": "",
+  "qid": "10-43"
+ },
+ {
+  "ncids": [
+   "K0359",
+   "K1637"
+  ],
+  "stem": "A 64-year-old woman presents with pain and difficulty in swallowing that is getting progressively worse; she now finds it hard even to drink water. On examination she appears cachectic. What is the most likely diagnosis?",
+  "options": {
+   "A": "Oesophageal candidiasis",
+   "B": "Oesophageal carcinoma",
+   "C": "Oesophageal spasm",
+   "D": "Oesophageal stricture",
+   "E": "Oesophageal web"
+  },
+  "answer": "B",
+  "explanation": "Progressive dysphagia, first for solids and then liquids, with weight loss and cachexia in an older patient is carcinoma of the oesophagus until proven otherwise. A benign stricture causes progressive dysphagia but not marked cachexia.",
+  "key_note": "",
+  "_new": true,
+  "qid": "10-N1"
+ },
+ {
+  "ncids": [
+   "K0360"
+  ],
+  "stem": "A 56-year-old woman complains of episodes of severe retrosternal chest pain after eating, associated with a bitter taste in her mouth. She has no difficulty or pain on swallowing. Examination is unremarkable. Which investigation would be most useful in establishing the cause of her symptoms?",
+  "options": {
+   "A": "24-hour lower oesophageal pH monitoring",
+   "B": "Barium swallow",
+   "C": "Erect chest X-ray",
+   "D": "Manometry",
+   "E": "Upper gastrointestinal endoscopy"
+  },
+  "answer": "A",
+  "explanation": "The picture is gastro-oesophageal reflux without alarm features; 24-hour pH monitoring is the gold standard for proving pathological acid reflux and correlating it with symptoms. Endoscopy is normal in about half of patients with GORD, so it can miss non-erosive reflux.",
+  "key_note": "Bank marked E; correct is A because 24-hour pH monitoring is the definitive test for establishing reflux as the cause, while endoscopy is often normal in non-erosive reflux disease.",
+  "_new": true,
+  "qid": "10-N2"
+ },
+ {
+  "ncids": [
+   "K0369"
+  ],
+  "stem": "Which of the following conditions is associated with the development of oesophageal carcinoma?",
+  "options": {
+   "A": "Nutcracker oesophagus",
+   "B": "Tracheo-oesophageal fistula",
+   "C": "Plummer-Vinson syndrome",
+   "D": "Zenker diverticulum",
+   "E": "None of the above"
+  },
+  "answer": "C",
+  "explanation": "Plummer-Vinson (Paterson-Brown-Kelly) syndrome, with iron deficiency and a post-cricoid web, predisposes to post-cricoid squamous cell carcinoma. Motility disorders such as nutcracker oesophagus are not premalignant.",
+  "key_note": "",
+  "_new": true,
+  "qid": "10-N3"
+ },
+ {
+  "ncids": [
+   "K0371"
+  ],
+  "stem": "Which of the following statements is correct regarding diagnostic work-up for oesophageal carcinoma?",
+  "options": {
+   "A": "CT scan is not useful",
+   "B": "A barium swallow is an unnecessary test",
+   "C": "Bronchoscopy should be performed for upper and middle third tumours",
+   "D": "Bone and brain scans should never be obtained",
+   "E": "Endoscopic ultrasound is not necessary"
+  },
+  "answer": "C",
+  "explanation": "Bronchoscopy is done for tumours of the upper and middle thirds to exclude invasion of the trachea or left main bronchus, which would make the tumour unresectable. CT and endoscopic ultrasound are core staging tools.",
+  "key_note": "",
+  "_new": true,
+  "qid": "10-N4"
+ },
+ {
+  "ncids": [
+   "K0389"
+  ],
+  "stem": "A 40-year-old woman presents with haematemesis after a bout of severe vomiting. Emergency endoscopy reveals a mucosal tear at the lower oesophagus (gastro-oesophageal junction) with no active bleeding. What is the best treatment?",
+  "options": {
+   "A": "Cold saline lavage",
+   "B": "Operative repair",
+   "C": "Conservative treatment",
+   "D": "Injection sclerotherapy"
+  },
+  "answer": "C",
+  "explanation": "Most Mallory-Weiss tears stop bleeding spontaneously and heal within days, so conservative management with acid suppression is the rule. Endoscopic therapy (adrenaline injection, clips) is reserved for active bleeding, and surgery is rarely needed.",
+  "key_note": "Bank marked D; correct is C because the vast majority of Mallory-Weiss tears settle conservatively; endoscopic injection is only for active or recurrent bleeding.",
+  "_new": true,
+  "qid": "10-N5"
+ },
+ {
+  "ncids": [
+   "K0394"
+  ],
+  "stem": "A 70-year-old man presents with progressive dysphagia of 3 months duration with anorexia and weight loss for 2 months. Endoscopy reveals a growth in the thoracic oesophagus. Which is the single best investigation to stage the tumour?",
+  "options": {
+   "A": "Chest X-ray",
+   "B": "CT scan of chest and neck",
+   "C": "Ultrasound of chest",
+   "D": "CT scan of chest",
+   "E": "CT scan of neck, chest and abdomen"
+  },
+  "answer": "E",
+  "explanation": "Staging CT must include neck, chest and abdomen to assess local extent, nodal spread (cervical, mediastinal and coeliac) and distant metastases such as liver. CT of the chest alone misses coeliac nodes and liver deposits.",
+  "key_note": "",
+  "_new": true,
+  "qid": "10-N6"
+ },
+ {
+  "ncids": [
+   "K0516"
+  ],
+  "stem": "A 52-year-old doctor has intermittent dysphagia attributed to a benign (peptic) stricture of the lower oesophagus. Which of the following characterises this condition?",
+  "options": {
+   "A": "A full-thickness scar in the upper oesophagus",
+   "B": "Symptoms of mild to moderate dysphagia",
+   "C": "A low incidence in men",
+   "D": "Absence of a sliding hiatal hernia in most cases",
+   "E": "The need for anti-reflux surgery at an early stage"
+  },
+  "answer": "B",
+  "explanation": "Peptic strictures typically cause mild to moderate, slowly progressive dysphagia and lie in the lower oesophagus, usually with an associated sliding hiatus hernia. Most respond to dilatation and PPI, so early anti-reflux surgery is not required.",
+  "key_note": "",
+  "_new": true,
+  "qid": "10-N7"
+ },
+ {
+  "ncids": [
+   "K0517"
+  ],
+  "stem": "A 46-year-old man has a long history of heartburn (GORD). A barium study shows an irregular, ulcerated area in the lower third of his oesophagus with marked mucosal disruption and overhanging edges. What is the most likely diagnosis?",
+  "options": {
+   "A": "Sliding hiatal hernia with GORD",
+   "B": "Para-oesophageal hernia",
+   "C": "Benign oesophageal stricture",
+   "D": "Squamous cell carcinoma of the oesophagus",
+   "E": "Adenocarcinoma arising in Barrett's oesophagus"
+  },
+  "answer": "E",
+  "explanation": "An irregular ulcerated lower-third lesion with overhanging (shouldered) edges is malignant, and long-standing reflux leading to Barrett's metaplasia makes adenocarcinoma the likely type. Squamous carcinoma favours the upper and middle thirds and is linked to smoking and alcohol.",
+  "key_note": "",
+  "_new": true,
+  "qid": "10-N8"
+ },
+ {
+  "ncids": [
+   "K0518"
+  ],
+  "stem": "A 46-year-old man presents with dysphagia of recent onset. An oesophagogram shows a lesion in the lower third of the oesophagus and biopsy shows adenocarcinoma. His general condition is excellent and his metastatic work-up is negative. What should his management involve?",
+  "options": {
+   "A": "Chemotherapy alone",
+   "B": "Radiotherapy alone",
+   "C": "Insertion of a stent to improve swallowing",
+   "D": "Surgical resection of the oesophagus",
+   "E": "Combination of chemotherapy and radiotherapy alone"
+  },
+  "answer": "D",
+  "explanation": "A fit patient with localised, non-metastatic oesophageal adenocarcinoma should be offered curative oesophagectomy, usually after neoadjuvant chemotherapy or chemoradiotherapy. Stenting and non-surgical therapy alone are palliative or for unfit patients.",
+  "key_note": "",
+  "_new": true,
+  "qid": "10-N9"
+ },
+ {
+  "ncids": [
+   "K0578"
+  ],
+  "stem": "The classical finding on barium swallow in a patient with carcinoma of the oesophagus is:",
+  "options": {
+   "A": "Rat tail appearance (irregular narrowing with shouldering)",
+   "B": "Bird beak deformity",
+   "C": "Apple core sign",
+   "D": "Corkscrew oesophagus",
+   "E": "Cullen's sign"
+  },
+  "answer": "A",
+  "explanation": "Carcinoma of the oesophagus classically gives an irregular, rat-tail narrowing with shouldering on barium swallow. Bird beak is achalasia, corkscrew is diffuse oesophageal spasm, and the apple core sign is the classic description of colonic carcinoma on barium enema.",
+  "key_note": "Bank marked C; correct is A because the apple core sign is the classic description of colorectal carcinoma, whereas the rat-tail (irregular shouldered) narrowing is taught as the classic oesophageal carcinoma sign.",
+  "_new": true,
+  "qid": "10-N10"
+ },
+ {
+  "ncids": [
+   "K0865"
+  ],
+  "stem": "Following are some statements about carcinoma of the oesophagus. Which one is INCORRECT?",
+  "options": {
+   "A": "Squamous cell carcinoma is the most frequent type",
+   "B": "The lower third of the oesophagus is most commonly involved",
+   "C": "It usually presents with progressive dysphagia",
+   "D": "It can be effectively diagnosed on history and upper GI endoscopy",
+   "E": "There is thickening, rigidity and narrowing of the lumen"
+  },
+  "answer": "B",
+  "explanation": "Squamous cell carcinoma, the commonest type worldwide and in Pakistan, most often affects the middle third of the oesophagus. Only adenocarcinoma has a lower-third predominance.",
+  "key_note": "",
+  "_new": true,
+  "qid": "10-N11"
+ },
+ {
+  "ncids": [
+   "K0869"
+  ],
+  "stem": "The pain of gastro-oesophageal reflux disease (GORD) is most closely linked to:",
+  "options": {
+   "A": "Food intake",
+   "B": "Change of posture (stooping forward or lying flat)",
+   "C": "Induction of vomiting",
+   "D": "Feeling hungry",
+   "E": "Emotional stress"
+  },
+  "answer": "B",
+  "explanation": "Reflux heartburn is characteristically provoked by posture, stooping, bending forward or lying flat, which lets acid flow back across an incompetent sphincter. Large meals can worsen it, but postural aggravation is the classic association.",
+  "key_note": "",
+  "_new": true,
+  "qid": "10-N12"
+ },
+ {
+  "ncids": [
+   "K0996"
+  ],
+  "stem": "Perforation of the oesophagus is a serious condition with a high mortality rate. Which investigation allows both diagnosis and early treatment of oesophageal perforation?",
+  "options": {
+   "A": "Barium swallow",
+   "B": "Flexible endoscopy",
+   "C": "Gastrografin swallow",
+   "D": "Rigid endoscopy",
+   "E": "Chest X-ray"
+  },
+  "answer": "B",
+  "explanation": "Careful flexible endoscopy locates the perforation and allows immediate therapy such as clipping or covered stent placement. Water-soluble contrast and CT confirm a leak but are purely diagnostic; barium is avoided because it causes mediastinitis.",
+  "key_note": "",
+  "_new": true,
+  "qid": "10-N13"
+ },
+ {
+  "ncids": [
+   "K1403"
+  ],
+  "stem": "Which of the following is NOT true of Boerhaave's syndrome?",
+  "options": {
+   "A": "It occurs due to vomiting against a full stomach",
+   "B": "There is a longitudinal tear in the lower oesophagus",
+   "C": "The tear involves only the mucosa and submucosa",
+   "D": "Mediastinitis and left pleural effusion can occur"
+  },
+  "answer": "C",
+  "explanation": "Boerhaave's syndrome is a full-thickness (transmural) rupture, usually of the left posterolateral lower oesophagus. A tear limited to mucosa and submucosa is a Mallory-Weiss tear.",
+  "key_note": "",
+  "_new": true,
+  "qid": "10-N14"
+ },
+ {
+  "ncids": [
+   "K1404"
+  ],
+  "stem": "Regarding Mallory-Weiss syndrome, mark the WRONG statement.",
+  "options": {
+   "A": "It follows severe vomiting or retching",
+   "B": "The tear is vertical (longitudinal)",
+   "C": "The tear is in the lower oesophagus away from the junction",
+   "D": "Bleeding is usually mild and self-limiting"
+  },
+  "answer": "C",
+  "explanation": "The Mallory-Weiss tear is a longitudinal mucosal tear at the gastro-oesophageal junction, mostly on the gastric cardia side, not in the lower oesophagus proper. Bleeding usually stops spontaneously.",
+  "key_note": "",
+  "_new": true,
+  "qid": "10-N15"
+ },
+ {
+  "ncids": [
+   "K1636"
+  ],
+  "stem": "A 35-year-old woman complains of dysphagia for 6 months, worse for liquids than solids. Which investigation will confirm the diagnosis from the options below?",
+  "options": {
+   "A": "Barium swallow",
+   "B": "Barium meal",
+   "C": "CT scan",
+   "D": "Chest X-ray",
+   "E": "Ultrasound of chest"
+  },
+  "answer": "A",
+  "explanation": "Paradoxical dysphagia (liquids worse than solids) suggests achalasia; barium swallow shows a dilated oesophagus with smooth bird-beak tapering. Manometry is the gold standard but is not offered; barium meal studies the stomach, not the oesophagus.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "10-N16"
+ },
+ {
+  "ncids": [
+   "K1638"
+  ],
+  "stem": "A patient presents with severe cough especially at bedtime, regurgitation of undigested food and embarrassing bad breath (halitosis). What is the likely diagnosis?",
+  "options": {
+   "A": "Carcinoma of oesophagus",
+   "B": "Pharyngeal pouch",
+   "C": "Peptic stricture",
+   "D": "Barrett's oesophagus",
+   "E": "GORD"
+  },
+  "answer": "B",
+  "explanation": "A pharyngeal (Zenker's) pouch retains food that is regurgitated undigested, causing halitosis and nocturnal cough or aspiration when lying down. GORD regurgitates acid, not stale undigested food.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "10-N17"
+ },
+ {
+  "ncids": [
+   "K1639"
+  ],
+  "stem": "Which of the following is considered a premalignant lesion?",
+  "options": {
+   "A": "Oesophageal candidiasis",
+   "B": "Barrett's oesophagus",
+   "C": "Schatzki ring",
+   "D": "Moniliasis",
+   "E": "Mallory-Weiss tear"
+  },
+  "answer": "B",
+  "explanation": "Barrett's oesophagus (intestinal metaplasia of the lower oesophagus due to reflux) is premalignant for adenocarcinoma. Schatzki rings and candidiasis carry no malignant potential.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "10-N18"
+ }
+]

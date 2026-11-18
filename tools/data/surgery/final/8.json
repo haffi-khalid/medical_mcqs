@@ -1,0 +1,578 @@
+[
+ {
+  "cids": [
+   "C0131",
+   "C1273"
+  ],
+  "stem": "A child was pulled by his arm by his elder brother and started to cry. On examination the elbow is extended and the arm internally rotated with the wrist flexed. What is the most probable injury?",
+  "options": {
+   "A": "Klumpke's palsy",
+   "B": "Erb's palsy",
+   "C": "Saturday night palsy",
+   "D": "Long thoracic nerve palsy",
+   "E": "Axillary nerve palsy"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Upper trunk (C5-C6) injury paralyses the shoulder abductors and external rotators, elbow flexors and supinators, so the arm hangs adducted, internally rotated, elbow extended, forearm pronated and wrist flexed: the waiter's tip posture of Erb's palsy. Klumpke's (C8-T1) affects the small muscles of the hand.",
+  "key_note": "A variant asked 'which nerve is damaged' with the same palsy options; same answer.",
+  "figure": "",
+  "qid": "8-1"
+ },
+ {
+  "cids": [
+   "C1272"
+  ],
+  "stem": "A 35-year-old gym trainer lifted a very heavy weight and felt excruciating pain in both arms and the shoulder muscles. Examination shows long thoracic nerve damage. Which sign is likely to be present?",
+  "options": {
+   "A": "Waiter's tip sign",
+   "B": "Winging of the scapula",
+   "C": "Saturday night palsy",
+   "D": "Wrist drop",
+   "E": "Trumpet sign"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "The long thoracic nerve (C5-C7) supplies serratus anterior, which holds the scapula against the chest wall; its paralysis causes medial winging of the scapula, best seen when pushing against a wall.",
+  "key_note": "",
+  "figure": "",
+  "qid": "8-2"
+ },
+ {
+  "cids": [
+   "C0628",
+   "C0969",
+   "C1269"
+  ],
+  "stem": "A 22-year-old man has loss of sensation over a patch on the lateral aspect of the right arm following an anterior dislocation of the shoulder. Which nerve is most likely injured?",
+  "options": {
+   "A": "Axillary",
+   "B": "Suprascapular",
+   "C": "Subscapular",
+   "D": "Long thoracic",
+   "E": "Musculocutaneous"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "The axillary nerve winds around the surgical neck of the humerus, gives the upper lateral cutaneous nerve of the arm (regimental badge area over the lower deltoid) and supplies deltoid and teres minor; it is stretched over the displaced humeral head in anterior dislocation. Long thoracic and thoracodorsal nerves are purely motor.",
+  "key_note": "Variants (which nerve is involved in anterior dislocation; gym injury with numbness over the deltoid) have the same answer.",
+  "figure": "",
+  "qid": "8-3"
+ },
+ {
+  "cids": [
+   "C1286"
+  ],
+  "stem": "A man had a fracture of the neck of the left humerus 6 weeks ago, managed conservatively. He now has difficulty abducting the shoulder. Which nerve is most likely damaged?",
+  "options": {
+   "A": "Ulnar nerve",
+   "B": "Brachial plexus",
+   "C": "Radial nerve",
+   "D": "Axillary nerve",
+   "E": "Thoracodorsal nerve"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "The axillary nerve winds around the surgical neck of the humerus, so neck fractures can injure it, causing deltoid paralysis with weak abduction and numbness over the badge area. The radial nerve is at risk with shaft fractures.",
+  "key_note": "",
+  "figure": "",
+  "qid": "8-4"
+ },
+ {
+  "cids": [
+   "C0091"
+  ],
+  "stem": "After a motorbike injury a patient cannot extend his fingers and has sensory loss over the dorsum of the fingers. Which nerve is most likely injured?",
+  "options": {
+   "A": "Posterior interosseous nerve",
+   "B": "Median nerve",
+   "C": "Ulnar nerve",
+   "D": "Radial nerve",
+   "E": "Axillary nerve"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Loss of finger extension with dorsal sensory loss means a radial nerve lesion; the posterior interosseous nerve is purely motor so cannot explain the sensory loss.",
+  "key_note": "The compiled key gave B (Median nerve); the paper keys' D is correct: the median nerve does not extend the fingers.",
+  "figure": "",
+  "qid": "8-5"
+ },
+ {
+  "cids": [
+   "C0270",
+   "C0129",
+   "C1267"
+  ],
+  "stem": "A 33-year-old woman has had pain and numbness in the left hand for 2 months, worse at night, with difficulty gripping. There is reduced sensation over the thumb, index and middle fingers, wasting of the thenar eminence and weak thumb abduction. Her symptoms are reproduced by forced flexion of the wrist. Compression of which structure is responsible?",
+  "options": {
+   "A": "Axillary nerve",
+   "B": "Median nerve",
+   "C": "Posterior interosseous nerve",
+   "D": "Radial nerve",
+   "E": "Ulnar nerve"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "This is carpal tunnel syndrome: compression of the median nerve under the flexor retinaculum, with nocturnal paraesthesia, thenar wasting (abductor pollicis brevis) and a positive Phalen's test.",
+  "key_note": "Not marked in the source paper; answer by reviewer (compiled key agrees). A variant (numbness over the lateral three and a half fingers after work) has the same answer.",
+  "figure": "",
+  "qid": "8-6"
+ },
+ {
+  "cids": [
+   "C1113"
+  ],
+  "stem": "A patient has pain in the right arm with numbness of the right lateral three fingers. Tinel's test is positive. What is the cause?",
+  "options": {
+   "A": "Radial nerve palsy",
+   "B": "Cervical rib",
+   "C": "Radial artery narrowing",
+   "D": "Carpal tunnel syndrome",
+   "E": "Ulnar nerve palsy"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Numbness of the lateral three and a half fingers with a positive Tinel's sign (tapping over the carpal tunnel) indicates median nerve compression at the wrist. A cervical rib affects the lower trunk (C8-T1) and gives medial symptoms.",
+  "key_note": "",
+  "figure": "",
+  "qid": "8-7"
+ },
+ {
+  "cids": [
+   "C0934"
+  ],
+  "stem": "What is the typical feature of nerve entrapment in carpal tunnel syndrome?",
+  "options": {
+   "A": "Symptoms diminish with wrist flexion",
+   "B": "Pain worsens at night",
+   "C": "Erythema in the cutaneous distribution of the median nerve",
+   "D": "Motor symptoms precede sensory symptoms"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Nocturnal pain and paraesthesia that wake the patient, relieved by shaking the hand, are typical of carpal tunnel syndrome. Wrist flexion worsens symptoms (Phalen's test) and sensory symptoms precede thenar weakness.",
+  "key_note": "One paper key marked D (motor before sensory); correct is B: sensory symptoms come first and night pain is characteristic.",
+  "figure": "",
+  "qid": "8-8"
+ },
+ {
+  "cids": [
+   "C0603"
+  ],
+  "stem": "A middle-aged woman has had pain and numbness of the thumb, index finger and thenar area of the right hand for a couple of months, and has now suddenly developed weakness of grip. What should be the management protocol?",
+  "options": {
+   "A": "Clinical examination to make the diagnosis and give painkillers",
+   "B": "Clinical examination, X-ray of right hand and below-elbow POP",
+   "C": "MRI of the right wrist to confirm carpal tunnel syndrome (CTS) and carpal tunnel decompression",
+   "D": "Inject 80 mg Depo-Medrol and apply a wrist brace",
+   "E": "NSAIDs and reassurance"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Carpal tunnel syndrome with motor weakness (thenar involvement) indicates significant compression, and surgical decompression of the carpal tunnel is indicated rather than splints or steroid injection. Confirmation is usually by nerve conduction studies rather than MRI, but C is the only option that leads to decompression.",
+  "key_note": "Paper key C accepted as the best option; note that nerve conduction studies, not MRI, are the standard confirmatory test.",
+  "figure": "",
+  "qid": "8-9"
+ },
+ {
+  "cids": [
+   "C1489"
+  ],
+  "stem": "A 32-year-old labourer fell down the stairs onto his outstretched hand and has numbness over the thenar eminence of the left hand. X-ray shows a comminuted Colles' fracture with an intact distal radio-ulnar joint. Finger abduction and adduction are normal. Which peripheral nerve is most likely involved?",
+  "options": {
+   "A": "Anterior interosseous nerve",
+   "B": "Palmar cutaneous branch of the median nerve",
+   "C": "Posterior interosseous nerve",
+   "D": "Radial nerve",
+   "E": "Ulnar nerve"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "The palmar cutaneous branch of the median nerve arises above the wrist and passes superficial to the flexor retinaculum to supply the skin of the thenar eminence; isolated thenar numbness after a distal radial fracture points to it. Normal finger abduction and adduction exclude ulnar nerve injury.",
+  "key_note": "",
+  "figure": "",
+  "qid": "8-10"
+ },
+ {
+  "cids": [
+   "C0293"
+  ],
+  "stem": "An elderly lady has numbness of the little and ring fingers of the right hand and wasting of the medial half of the hand. The cause is:",
+  "options": {
+   "A": "Entrapment of anterior interosseous nerve",
+   "B": "Entrapment of posterior interosseous nerve",
+   "C": "Entrapment of median nerve",
+   "D": "Entrapment of radial nerve",
+   "E": "Entrapment of ulnar nerve"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Sensory loss over the little and medial ring finger with hypothenar and interosseous wasting is ulnar neuropathy, commonly entrapment at the cubital tunnel (elbow) or Guyon's canal (wrist).",
+  "key_note": "",
+  "figure": "",
+  "qid": "8-11"
+ },
+ {
+  "cids": [
+   "C0755"
+  ],
+  "stem": "A 23-year-old man slips and a shard of glass penetrates the skin at the level of the medial epicondyle, injuring the ulnar nerve. Which of the following sequelae is least likely to occur?",
+  "options": {
+   "A": "Atrophy of the first dorsal interosseous muscle",
+   "B": "Difficulty in abduction of the 2nd, 3rd, 4th and 5th fingers",
+   "C": "Claw-like appearance of the hand",
+   "D": "Loss of sensation over the anterior aspect of the 5th finger",
+   "E": "Partial denervation of flexor digitorum profundus"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "In a high (elbow-level) ulnar nerve lesion, the ulnar half of FDP is also paralysed, so the ring and little fingers cannot flex at the DIP joints and clawing is less marked: the ulnar paradox. Interossei wasting, weak finger abduction, little finger numbness and partial FDP denervation all occur.",
+  "key_note": "Not marked in the source paper; answer by reviewer. The compiled key gave E, but FDP (ulnar half) is denervated in a lesion at the elbow; clawing is the least likely because of the ulnar paradox.",
+  "figure": "",
+  "qid": "8-12"
+ },
+ {
+  "cids": [
+   "C0753"
+  ],
+  "stem": "A man sustains a laceration between the base of the little finger and the wrist. Several weeks later there is loss of thumb adduction power. Which nerve has most likely been injured?",
+  "options": {
+   "A": "Superficial branch of ulnar nerve",
+   "B": "Deep branch of ulnar nerve",
+   "C": "Median nerve",
+   "D": "Radial nerve",
+   "E": "Recurrent branch of median nerve"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Adductor pollicis is supplied by the deep (motor) branch of the ulnar nerve, which runs through the hypothenar region of the palm; weak adduction gives a positive Froment's sign. The superficial branch is sensory.",
+  "key_note": "Not marked in the source paper; answer by reviewer (compiled key agrees).",
+  "figure": "",
+  "qid": "8-13"
+ },
+ {
+  "cids": [
+   "C1274"
+  ],
+  "stem": "A 45-year-old man has severe pain in the left leg with numbness of the left foot. Straight leg raising is limited to about 35 degrees. Which nerve is most likely affected?",
+  "options": {
+   "A": "Great saphenous nerve",
+   "B": "Tibial nerve",
+   "C": "Sciatic nerve",
+   "D": "Common peroneal nerve",
+   "E": "Short saphenous nerve"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A positive straight leg raise below 60 degrees indicates tension on the sciatic nerve roots (L4-S1), usually from a prolapsed lumbar disc, giving radiating leg pain and foot numbness.",
+  "key_note": "A later paper reworded some distractors (pudendal, peroneal, saphenous); same answer.",
+  "figure": "",
+  "qid": "8-14"
+ },
+ {
+  "cids": [
+   "C0386"
+  ],
+  "stem": "A 75-year-old woman developed profound foot drop after a fibular fracture. Which nerve is most likely injured?",
+  "options": {
+   "A": "Tibial",
+   "B": "Common peroneal",
+   "C": "Superior gluteal",
+   "D": "Sciatic",
+   "E": "Femoral"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "The common peroneal nerve is superficial as it winds around the fibular neck and is injured by fractures there, tight plasters or pressure, causing foot drop from paralysis of the dorsiflexors.",
+  "key_note": "",
+  "figure": "",
+  "qid": "8-15"
+ },
+ {
+  "ncids": [
+   "K0063"
+  ],
+  "stem": "As a house officer you perform a saphenous vein cutdown at the ankle in a burns patient. The patient then develops pain and numbness along the medial border of the foot. Which nerve has most likely been accidentally ligated?",
+  "options": {
+   "A": "Sural nerve",
+   "B": "Deep peroneal nerve",
+   "C": "Saphenous nerve",
+   "D": "Genicular nerve",
+   "E": "Medial cutaneous nerve"
+  },
+  "answer": "C",
+  "explanation": "The saphenous nerve accompanies the great saphenous vein anterior to the medial malleolus and supplies the skin of the medial side of the leg and foot; it is at risk during cutdown. The sural nerve accompanies the short saphenous vein laterally.",
+  "key_note": "",
+  "_new": true,
+  "qid": "8-N1"
+ },
+ {
+  "ncids": [
+   "K0124"
+  ],
+  "stem": "Which type of nerve injury involves disruption of axonal continuity with a preserved Schwann cell sheath (endoneurium)?",
+  "options": {
+   "A": "Neurapraxia",
+   "B": "Axonotmesis",
+   "C": "Neurotmesis",
+   "D": "Axonolysis",
+   "E": "Neurolysis"
+  },
+  "answer": "B",
+  "explanation": "In axonotmesis the axons are divided and undergo Wallerian degeneration but the endoneurial tubes remain intact, so regeneration occurs spontaneously at about 1 mm per day. Neurapraxia is a conduction block without axonal loss; neurotmesis is complete division.",
+  "key_note": "",
+  "_new": true,
+  "qid": "8-N2"
+ },
+ {
+  "ncids": [
+   "K0262"
+  ],
+  "stem": "An elderly lady fell in the bathroom with her arm extended. In the emergency department she has a wrist drop of the left hand and a bruise in the axilla. Which structure is most likely damaged?",
+  "options": {
+   "A": "Ulnar nerve",
+   "B": "Radial artery",
+   "C": "Brachial plexus (posterior cord / radial nerve in the axilla)",
+   "D": "Axillary nerve"
+  },
+  "answer": "C",
+  "explanation": "Wrist drop with axillary bruising indicates injury to the radial nerve high in the axilla, a continuation of the posterior cord of the brachial plexus. The axillary nerve causes deltoid weakness, not wrist drop, and the ulnar nerve causes clawing.",
+  "key_note": "",
+  "_new": true,
+  "qid": "8-N3"
+ },
+ {
+  "ncids": [
+   "K0269"
+  ],
+  "stem": "A man with a fracture of the right tibia and fibula has a right foot drop. Which investigation should be done to confirm the nerve damage?",
+  "options": {
+   "A": "Angiography",
+   "B": "Electromyography",
+   "C": "Nerve conduction study",
+   "D": "Clinical examination only",
+   "E": "Nerve stimulation"
+  },
+  "answer": "C",
+  "explanation": "Nerve conduction studies confirm and localise a peripheral nerve lesion (here the common peroneal nerve) and help grade it; EMG complements it to assess muscle denervation, best after about 3 weeks.",
+  "key_note": "",
+  "_new": true,
+  "qid": "8-N4"
+ },
+ {
+  "ncids": [
+   "K0276"
+  ],
+  "stem": "Long thoracic nerve damage causes paralysis of:",
+  "options": {
+   "A": "Serratus anterior",
+   "B": "Deltoid",
+   "C": "Pectoralis minor",
+   "D": "Pectoralis major",
+   "E": "Brachioradialis"
+  },
+  "answer": "A",
+  "explanation": "The long thoracic nerve (C5 to C7) supplies serratus anterior; its paralysis causes winging of the scapula. Deltoid is supplied by the axillary nerve and brachioradialis by the radial nerve.",
+  "key_note": "",
+  "_new": true,
+  "qid": "8-N5"
+ },
+ {
+  "ncids": [
+   "K0280",
+   "K0308"
+  ],
+  "stem": "A 16-year-old boy underwent plating of a mid-shaft fracture of the left humerus. Postoperatively he cannot dorsiflex (extend) his left wrist. No nerve was explored during surgery. Which nerve has most likely been damaged?",
+  "options": {
+   "A": "Anterior interosseous nerve",
+   "B": "Ulnar nerve",
+   "C": "Musculocutaneous nerve",
+   "D": "Posterior interosseous nerve",
+   "E": "Radial nerve"
+  },
+  "answer": "E",
+  "explanation": "The radial nerve lies in the spiral groove on the back of the humeral shaft and is at risk from mid-shaft fractures and their fixation, giving wrist drop. Posterior interosseous nerve palsy causes finger drop but spares wrist extension (ECRL is supplied above).",
+  "key_note": "",
+  "_new": true,
+  "qid": "8-N6"
+ },
+ {
+  "ncids": [
+   "K0316"
+  ],
+  "stem": "Regarding sciatic nerve injury following posterior dislocation of the hip, which statement is true?",
+  "options": {
+   "A": "The patient may present with foot drop",
+   "B": "Nerve conduction studies are not helpful in diagnosing the type of nerve injury",
+   "C": "Nerve repair should be done in a type 2 (axonotmesis) injury",
+   "D": "Wait and see is the policy in every case"
+  },
+  "answer": "A",
+  "explanation": "Posterior hip dislocation stretches the sciatic nerve, usually its common peroneal component, causing foot drop. NCS help grade the injury, axonotmesis recovers without repair, and open injuries or failure to recover need exploration.",
+  "key_note": "",
+  "_new": true,
+  "qid": "8-N7"
+ },
+ {
+  "ncids": [
+   "K0321"
+  ],
+  "stem": "A 'claw hand' is usually associated with injury to which of the following nerves?",
+  "options": {
+   "A": "Axillary nerve",
+   "B": "Musculocutaneous nerve",
+   "C": "Radial nerve",
+   "D": "Median nerve",
+   "E": "Ulnar nerve"
+  },
+  "answer": "E",
+  "explanation": "Ulnar nerve palsy paralyses the medial lumbricals and interossei, giving hyperextension at the MCP and flexion at the IP joints of the ring and little fingers (ulnar claw), more marked in low lesions.",
+  "key_note": "",
+  "_new": true,
+  "qid": "8-N8"
+ },
+ {
+  "ncids": [
+   "K0628"
+  ],
+  "stem": "A 40-year-old overweight diabetic woman complains of tingling and numbness in the lateral three and a half fingers of the right hand, worse at night and relieved by hanging her hand out of bed. What is the appropriate investigation to diagnose the underlying condition?",
+  "options": {
+   "A": "Nerve conduction study",
+   "B": "Electromyogram",
+   "C": "X-ray of the right hand",
+   "D": "Doppler of the upper limb",
+   "E": "HbA1c"
+  },
+  "answer": "A",
+  "explanation": "Nerve conduction studies confirm carpal tunnel syndrome by showing slowed median nerve conduction across the wrist and help grade severity before surgery.",
+  "key_note": "",
+  "_new": true,
+  "qid": "8-N9"
+ },
+ {
+  "ncids": [
+   "K0629"
+  ],
+  "stem": "A 40-year-old overweight diabetic woman has tingling and numbness in the lateral three and a half fingers of the right hand, worse at night. Nerve conduction study shows compression of the median nerve at the carpal tunnel. What is the definitive treatment?",
+  "options": {
+   "A": "Wrist splint",
+   "B": "Analgesics",
+   "C": "Steroid injection",
+   "D": "Median nerve resection and graft",
+   "E": "Median nerve decompression (carpal tunnel release)"
+  },
+  "answer": "E",
+  "explanation": "Splints and steroid injection give temporary relief, but division of the flexor retinaculum (carpal tunnel decompression) is the definitive treatment, especially with confirmed compression or motor signs.",
+  "key_note": "",
+  "_new": true,
+  "qid": "8-N10"
+ },
+ {
+  "ncids": [
+   "K0715"
+  ],
+  "stem": "A 40-year-old pregnant woman complains of wrist pain and paraesthesia of the hand, and carpal tunnel syndrome is suspected. Which of the following statements is true?",
+  "options": {
+   "A": "It is rarely traumatic",
+   "B": "It may be associated with pregnancy",
+   "C": "It is caused by compression of the ulnar nerve",
+   "D": "Surgery is never required"
+  },
+  "answer": "B",
+  "explanation": "Fluid retention in pregnancy is a well-recognised cause of carpal tunnel syndrome and often resolves after delivery. It is median, not ulnar, nerve compression, it can follow wrist trauma (e.g. Colles' fracture), and decompression is often needed.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "8-N11"
+ },
+ {
+  "ncids": [
+   "K1271",
+   "K0885"
+  ],
+  "stem": "A burglar smashes through a glass window and gashes the anterior aspect of his right wrist. He has anaesthesia of the radial three and a half digits and cannot move his thumb and index finger properly. Which structure is most likely injured?",
+  "options": {
+   "A": "Radial artery",
+   "B": "Palmaris longus tendon",
+   "C": "Flexor retinaculum",
+   "D": "Ulnar artery",
+   "E": "Median nerve"
+  },
+  "answer": "E",
+  "explanation": "The median nerve lies superficially at the front of the wrist just deep to palmaris longus and supplies sensation to the radial three and a half digits and the thenar muscles, so it is commonly cut in wrist lacerations.",
+  "key_note": "K1271 not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "8-N12"
+ },
+ {
+  "ncids": [
+   "K1127"
+  ],
+  "stem": "A 45-year-old man receives an intramuscular injection of diclofenac sodium in the gluteal region for renal colic and develops immediate foot drop. Which spinal segment is chiefly involved?",
+  "options": {
+   "A": "L1",
+   "B": "L2",
+   "C": "L4",
+   "D": "L5",
+   "E": "S1"
+  },
+  "answer": "D",
+  "explanation": "A misplaced gluteal injection damages the sciatic nerve, usually its common peroneal part; ankle and toe dorsiflexion (tibialis anterior, extensor hallucis longus) is chiefly the L5 (L4, L5) segment, so foot drop corresponds to L5.",
+  "key_note": "",
+  "_new": true,
+  "qid": "8-N13"
+ },
+ {
+  "ncids": [
+   "K1128"
+  ],
+  "stem": "A 43-year-old man receives an intramuscular injection of diclofenac sodium low in the deltoid region and develops immediate wrist drop. Which nerve root segment is chiefly responsible for the paralysed wrist extension?",
+  "options": {
+   "A": "C5",
+   "B": "C6",
+   "C": "C7",
+   "D": "C8",
+   "E": "T1"
+  },
+  "answer": "B",
+  "explanation": "The injection injures the radial nerve, causing wrist drop; wrist extension is the C6 key myotome (with contribution from C7), whereas C5 is elbow flexion and C7 elbow extension.",
+  "key_note": "",
+  "_new": true,
+  "qid": "8-N14"
+ },
+ {
+  "ncids": [
+   "K1268"
+  ],
+  "stem": "In a confirmed case of carpal tunnel syndrome, a steroid injection into the tunnel is planned. Where should the steroid be infiltrated to reach the tunnel while avoiding injection into the median nerve?",
+  "options": {
+   "A": "On the dorsum of the wrist",
+   "B": "Anywhere on the palmar aspect of the wrist",
+   "C": "On the medial (ulnar) side of the palmaris longus tendon",
+   "D": "On the lateral (radial) side of the palmaris longus tendon",
+   "E": "Over the radial styloid"
+  },
+  "answer": "C",
+  "explanation": "The median nerve lies directly beneath and slightly radial to the palmaris longus tendon at the distal wrist crease, so the needle is inserted just ulnar to the tendon, angled distally into the tunnel, to avoid intraneural injection.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "8-N15"
+ },
+ {
+  "ncids": [
+   "K1614"
+  ],
+  "stem": "After an intramuscular injection over the left triceps muscle, a young girl has difficulty dorsiflexing (extending) her wrist. What is the most likely cause?",
+  "options": {
+   "A": "Extensor muscle disease",
+   "B": "Radial nerve injury",
+   "C": "Median nerve injury",
+   "D": "Ulnar nerve damage",
+   "E": "Axillary nerve damage"
+  },
+  "answer": "B",
+  "explanation": "The radial nerve runs in the spiral groove deep to the triceps on the back of the arm and can be injured by injections there, causing wrist drop.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "8-N16"
+ }
+]

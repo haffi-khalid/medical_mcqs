@@ -1,0 +1,493 @@
+[
+ {
+  "cids": [
+   "C0284"
+  ],
+  "stem": "A 75 years male presented to the OPD with history of lower urinary tract symptoms, an ultrasound KUB and prostate was advised which revealed enlarged prostate of about 65 grams, what is the estimated weight of a normal sized prostate?",
+  "options": {
+   "A": "More than 50gm",
+   "B": "Less than 5gm",
+   "C": "Around 10-20gm",
+   "D": "More than 30gm",
+   "E": "More than 70gm"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "The normal adult prostate weighs about 20 g (roughly 15-25 g), so 'around 10-20 g' is the closest option; a 65 g gland is clearly enlarged.",
+  "key_note": "Not marked in the source paper; answer by reviewer. Compiled key agrees.",
+  "figure": "",
+  "qid": "24-1"
+ },
+ {
+  "cids": [
+   "C0282"
+  ],
+  "stem": "A 65 years male presented to the OPD with history of increased urinary frequency, urgency and hesitancy. He was advised an ultrasound KUB and prostate with pre and post voidal urinary volume. The study reveals significant amount of post void residual volume and an enlarged prostate which seems to have benign appearance, BPH usually originates in,",
+  "options": {
+   "A": "Capsule of prostate",
+   "B": "Peripheral zone",
+   "C": "Central zone",
+   "D": "Transition zone",
+   "E": "Peri-urethral area"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "BPH arises in the transition zone (and periurethral glands) surrounding the prostatic urethra, which is why it causes outflow obstruction early.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "24-2"
+ },
+ {
+  "cids": [
+   "C0573"
+  ],
+  "stem": "The normal value of urine peak flow from full bladder into the flow meter is?",
+  "options": {
+   "A": "> 5ml/s",
+   "B": "> 10ml/s",
+   "C": "> 15ml/s",
+   "D": "> 20 ml/s",
+   "E": "> 25ml/s"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A maximum flow rate (Qmax) above 15 mL/s is normal in men; Qmax below 10 mL/s strongly suggests bladder outflow obstruction, with 10-15 mL/s equivocal. Flow rates are only reliable with a voided volume over 150 mL.",
+  "key_note": "Paper key marked B (> 10 mL/s); correct is C: normal Qmax is above 15 mL/s, and below 10 mL/s indicates obstruction.",
+  "figure": "",
+  "qid": "24-3"
+ },
+ {
+  "cids": [
+   "C0355"
+  ],
+  "stem": "Which investigation is of highest diagnostic value in the management of benign prostatic hyperplasia.",
+  "options": {
+   "A": "Blood complete",
+   "B": "Cytological examination of urine.",
+   "C": "Renal function tests.",
+   "D": "Prostate specific antigen",
+   "E": "Transrectal ultrasound."
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Transrectal ultrasound accurately measures prostate volume and assesses the gland, guiding the choice of medical or surgical therapy; PSA, RFTs and urine tests are supportive but not diagnostic of BPH.",
+  "key_note": "",
+  "figure": "",
+  "qid": "24-4"
+ },
+ {
+  "cids": [
+   "C1398",
+   "C1405"
+  ],
+  "stem": "A 65-year-old man presents with difficulty starting urination, a weak stream, and frequent urination at night. His digital rectal exam shows an enlarged prostate without nodules. What is the next best step in management?",
+  "options": {
+   "A": "Perform a cystoscopy",
+   "B": "Start alpha-blockers",
+   "C": "Refer for surgery",
+   "D": "Administer antibiotics",
+   "E": "Transurethral resection of the prostate (TURP)"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Alpha-1 blockers (e.g. tamsulosin) relax prostatic and bladder neck smooth muscle and give rapid symptom relief, making them first-line medical therapy for symptomatic BPH; 5-alpha reductase inhibitors are added for large glands, and surgery is for failed medical therapy or complications.",
+  "key_note": "",
+  "figure": "",
+  "qid": "24-5"
+ },
+ {
+  "cids": [
+   "C0772",
+   "C0935"
+  ],
+  "stem": "Gold standard surgical procedure for enlarged prostate:",
+  "options": {
+   "A": "Transvesical prostatectomy",
+   "B": "Retropubic (Millin) prostatectomy",
+   "C": "TURP",
+   "D": "Transperineal prostatectomy"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "TURP remains the gold-standard operation for BPH; open (Millin retropubic or transvesical) prostatectomy is reserved for very large glands (generally over 80-100 g).",
+  "key_note": "",
+  "figure": "",
+  "qid": "24-6"
+ },
+ {
+  "cids": [
+   "C0537"
+  ],
+  "stem": "70 years old male was presented in emergency with retention of urine and palpable bladder. On examination prostate was enlarged. Urologist counseled him for Trans urethral resection of prostate (TURP). Risk of re-operation after TURP is",
+  "options": {
+   "A": "2% after 8-10 years",
+   "B": "8% after 8-10 years",
+   "C": "15 % after 8-10 years",
+   "D": "20% after 8-10 years",
+   "E": "25% after 8-10 years"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "The re-operation rate after TURP is roughly 1-2% per year, about 15% at 8-10 years, due to regrowth of adenoma or bladder neck/urethral stricture.",
+  "key_note": "",
+  "figure": "",
+  "qid": "24-7"
+ },
+ {
+  "cids": [
+   "C0055"
+  ],
+  "stem": "A 72-year undergoes transurethral resection of prostate. On first post-operative day he develops confusion, nausea, hyponatremia, and hypertension. What is the most likely cause?",
+  "options": {
+   "A": "Urosepsis",
+   "B": "Glycine absorption",
+   "C": "Adrenal insufficiency",
+   "D": "Hemorrhage",
+   "E": "Hypoglycemia"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "TURP syndrome: absorption of hypotonic glycine irrigant through opened venous sinuses causes dilutional hyponatraemia and fluid overload (hypertension, bradycardia), with confusion and nausea; glycine metabolites can also cause visual disturbance.",
+  "key_note": "",
+  "figure": "",
+  "qid": "24-8"
+ },
+ {
+  "cids": [
+   "C0042",
+   "C0512"
+  ],
+  "stem": "A 68-year man with lower urinary tract symptoms develops painful inability to void; bladder scan shows 900 mL of urine. What is best initial management?",
+  "options": {
+   "A": "Start finasteride and review after a week",
+   "B": "Single dose tamsulosin and discharge",
+   "C": "Immediate urethral catheterization",
+   "D": "Suprapubic catheterization",
+   "E": "Emergent Transurethral resection of prostate"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Acute painful retention needs immediate bladder decompression, and urethral catheterisation is the first choice; suprapubic catheterisation is used only if urethral catheterisation fails or is contraindicated. Alpha-blockers can then be started for a trial without catheter.",
+  "key_note": "",
+  "figure": "",
+  "qid": "24-9"
+ },
+ {
+  "cids": [
+   "C0057"
+  ],
+  "stem": "A day after laparoscopic hernia repair, a 70-year man with prostatic enlargement developed oliguria, lower abdominal distension, and suprapubic tenderness. Which investigations is best indicated?",
+  "options": {
+   "A": "Serum urea and creatinine",
+   "B": "Fractional excretion of Na",
+   "C": "Bladder ultrasound",
+   "D": "CT abdomen",
+   "E": "Diuretic challenge"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Postoperative oliguria with a distended, tender suprapubic area in an elderly man with prostatic enlargement is acute urinary retention until proven otherwise; a bedside bladder ultrasound (bladder scan) confirms it quickly before blood tests.",
+  "key_note": "",
+  "figure": "",
+  "qid": "24-10"
+ },
+ {
+  "cids": [
+   "C0054"
+  ],
+  "stem": "A 45-year febrile man presented with dysuria. On digital rectal exam he had a tender boggy prostate. What is the best diagnostic approach?",
+  "options": {
+   "A": "Prostatic massage for culture",
+   "B": "Midstream urine culture and empiric antibiotics",
+   "C": "Immediate cystoscopy",
+   "D": "PSA level",
+   "E": "Transrectal biopsy"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Acute bacterial prostatitis (fever, dysuria, tender boggy prostate) is diagnosed with midstream urine culture and treated with empirical antibiotics (e.g. a quinolone); prostatic massage is contraindicated as it is painful and may cause bacteraemia.",
+  "key_note": "",
+  "figure": "",
+  "qid": "24-11"
+ },
+ {
+  "cids": [
+   "C0283"
+  ],
+  "stem": "A 60 years male presented to the urology OPD with history of dysuria, weight loss, and on and off urinary obstruction and pelvic pain. His PSA levels are markedly raised. A core needle biopsy revealed a diagnosis of ca prostate. Most common site of origin of carcinoma prostate is:",
+  "options": {
+   "A": "Capsule of prostate",
+   "B": "Peripheral zone",
+   "C": "Central zone",
+   "D": "Transition zone",
+   "E": "Benign prostatic hypertrophy"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "About 70% of prostate cancers arise in the peripheral zone, which is why they are often palpable as a hard nodule on DRE; BPH, by contrast, arises in the transition zone.",
+  "key_note": "Not marked in the source paper; answer by reviewer. Compiled key agrees.",
+  "figure": "",
+  "qid": "24-12"
+ },
+ {
+  "cids": [
+   "C0356"
+  ],
+  "stem": "A 75-year-old man presents to the emergency department with retention of urine and a palpable bladder. On digital rectal examination the prostate is enlarged, hard in consistency and fixed to the rectum. Which statement regarding prostatic cancer is true?",
+  "options": {
+   "A": "It is the most common malignancy in men over 65 years",
+   "B": "There is no correlation of family history and prostatic malignancy",
+   "C": "Prostatic specific antigen is always raised in Prostatic malignancy",
+   "D": "Bones involved most frequently with prostatic cancers are ribs",
+   "E": "Hematogenous spread is not present in prostate cancers"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Prostate cancer is the most common (non-skin) malignancy in older men; family history increases risk, PSA can be normal in some cancers, spread is commonly haematogenous to the axial skeleton (lumbar spine and pelvis), not chiefly the ribs.",
+  "key_note": "",
+  "figure": "",
+  "qid": "24-13"
+ },
+ {
+  "cids": [
+   "C0567"
+  ],
+  "stem": "Raised PSA is suggestive of:",
+  "options": {
+   "A": "Carcinoma pancreas",
+   "B": "Carcinoma liver",
+   "C": "Carcinoma prostate",
+   "D": "Carcinoma ovary",
+   "E": "Carcinoma rectum"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "PSA is a serine protease produced almost exclusively by prostatic epithelium, so a raised PSA suggests prostate cancer (though BPH, prostatitis, retention and instrumentation also raise it).",
+  "key_note": "",
+  "figure": "",
+  "qid": "24-14"
+ },
+ {
+  "cids": [
+   "C0617",
+   "C0053"
+  ],
+  "stem": "A 62-year-old male attorney presents to a prostate-screening clinic. On careful questioning, he has noted slight urgency, frequency, nocturia, and a decrease in the force of micturition. He is referred to have blood tests to include which of the following to rule out carcinoma prostate",
+  "options": {
+   "A": "Carcinoembryonic antigen (CEA)",
+   "B": "Prostatic acid phosphatase",
+   "C": "Alkaline phosphatase",
+   "D": "Prostate-specific antigen (PSA)",
+   "E": "Lactic dehydrogenase (LDH)"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "PSA is the standard blood test to rule out prostate cancer in a man with LUTS; prostatic acid phosphatase was the old marker and is now obsolete.",
+  "key_note": "One copy also had an arrow toward C (alkaline phosphatase); correct is D: PSA.",
+  "figure": "",
+  "qid": "24-15"
+ },
+ {
+  "cids": [
+   "C1141"
+  ],
+  "stem": "A 72-year man presents with urinary hesitancy, weak stream, and nocturia. Digital rectal exam reveals a hard, nodular prostate. The Prostatic Specific Antigen (PSA) is 26ng/ml. The Bone scan shows increased uptake in the lumbar spine. What is the most likely diagnosis?",
+  "options": {
+   "A": "Benign prostatic hyperplasia",
+   "B": "Prostatitis",
+   "C": "Prostate carcinoma",
+   "D": "Renal cell carcinoma",
+   "E": "Bladder carcinoma"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A hard nodular prostate, PSA 26 ng/mL and increased uptake in the lumbar spine on bone scan indicate prostate carcinoma with sclerotic skeletal metastases; BPH gives a smooth rubbery gland and does not cause bone lesions.",
+  "key_note": "One copy had a pen circle on A (benign prostatic hyperplasia); the answer key marked C, which is correct.",
+  "figure": "",
+  "qid": "24-16"
+ },
+ {
+  "cids": [
+   "C0942"
+  ],
+  "stem": "A 62-year-old postal officer develops minimal urinary symptoms. His PSA level is elevated and continues to increase during a 6-month period of observation. The next step in evaluation, if transrectal ultrasound (TRUS) prostate biopsy were positive for adenocarcinoma of prostate, would be:",
+  "options": {
+   "A": "Refer to oncologist for chemotherapy",
+   "B": "Metastatic evaluation including CT and bone scans",
+   "C": "Repeat PSA and biopsy",
+   "D": "Evaluation by radiation oncologist",
+   "E": "Start hormonal ablation treatment"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Once biopsy confirms adenocarcinoma, the next step is staging: CT (or MRI) for nodes and a bone scan for metastases, because treatment depends on whether disease is localised or metastatic.",
+  "key_note": "",
+  "figure": "",
+  "qid": "24-17"
+ },
+ {
+  "cids": [
+   "C1144"
+  ],
+  "stem": "A 68-year man is diagnosed with prostate cancer with a Gleason score of 9. He has no metastasis on imaging. Which of the following is the most appropriate primary treatment?",
+  "options": {
+   "A": "Radiation therapy alone",
+   "B": "Radical prostatectomy with lymphadenectomy",
+   "C": "Transrectal ultrasound-guided biopsy",
+   "D": "Trans urethral prostatic resection",
+   "E": "Watchful waiting"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Gleason 9 without metastasis is high-risk localised disease; radical prostatectomy with pelvic lymphadenectomy (or radiotherapy combined with androgen deprivation) is curative-intent treatment. Radiotherapy alone without ADT, watchful waiting and TURP are inadequate.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "24-18"
+ },
+ {
+  "cids": [
+   "C0250"
+  ],
+  "stem": "A 69-year man with metastatic prostate cancer is started on androgen deprivation therapy. Three months later, he reports worsening bone pain. What is the most appropriate next step in management?",
+  "options": {
+   "A": "Increase PSA monitoring",
+   "B": "Switch to TURP",
+   "C": "Start bisphosphonates",
+   "D": "Repeat TRUS biopsy",
+   "E": "Start antibiotics"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Bone pain from skeletal metastases in metastatic prostate cancer is managed with bone-protecting agents (bisphosphonates such as zoledronic acid, or denosumab) plus analgesia and palliative radiotherapy; ADT itself also causes bone loss. TURP has no role in bone pain.",
+  "key_note": "One copy had a pen circle on B (Switch to TURP); the answer key marked C, which is correct.",
+  "figure": "",
+  "qid": "24-19"
+ },
+ {
+  "ncids": [
+   "K0442"
+  ],
+  "stem": "All of the following are typical lower urinary tract symptoms of bladder outflow obstruction EXCEPT:",
+  "options": {
+   "A": "Urgency",
+   "B": "Frequency",
+   "C": "Nocturia",
+   "D": "Dysuria",
+   "E": "Weak urinary stream"
+  },
+  "answer": "D",
+  "explanation": "LUTS comprise storage symptoms (frequency, urgency, nocturia, urge incontinence) and voiding symptoms (hesitancy, weak stream, straining, terminal dribbling). Dysuria suggests infection or inflammation rather than outflow obstruction.",
+  "key_note": "",
+  "_new": true,
+  "qid": "24-N1"
+ },
+ {
+  "ncids": [
+   "K0555"
+  ],
+  "stem": "A man presents with increased urinary frequency, a poor stream and straining to pass urine. He has had intermittent fever but no pain or haematuria. He underwent prostatectomy 5 years ago. What is the most likely cause of his new symptoms?",
+  "options": {
+   "A": "Recurrent growth of the prostate",
+   "B": "Urethral stricture following infection",
+   "C": "Trauma to the urethra",
+   "D": "Stone in the urinary tract",
+   "E": "Carcinoma of the bladder"
+  },
+  "answer": "B",
+  "explanation": "Urethral stricture (or bladder neck contracture) is a well-recognised late complication of prostatectomy, especially after instrumentation and infection, and presents with a poor stream and straining. Significant regrowth of adenoma within 5 years is uncommon.",
+  "key_note": "",
+  "_new": true,
+  "qid": "24-N2"
+ },
+ {
+  "ncids": [
+   "K0562",
+   "K0824"
+  ],
+  "stem": "A 75-year-old man undergoes radical prostatectomy for prostate cancer. Histology shows a Gleason score of 9 and involvement of several pelvic lymph nodes. Which is the most likely site of distant metastasis?",
+  "options": {
+   "A": "Liver",
+   "B": "Kidney",
+   "C": "Lung",
+   "D": "Bone (especially lumbar vertebrae and pelvis)",
+   "E": "Brain"
+  },
+  "answer": "D",
+  "explanation": "Prostate cancer spreads preferentially to the axial skeleton (lumbar spine, pelvis, femur) via Batson's vertebral venous plexus, producing osteoblastic (sclerotic) deposits. Lung and liver involvement occur later.",
+  "key_note": "",
+  "_new": true,
+  "qid": "24-N3"
+ },
+ {
+  "ncids": [
+   "K1096"
+  ],
+  "stem": "A 75-year-old man is admitted to the emergency department with acute-onset suprapubic pain and inability to pass urine for 12 hours. He is in discomfort, neurologically intact, and the suprapubic region is particularly tender. Digital rectal examination reveals a smooth, enlarged prostate. What is the most likely diagnosis?",
+  "options": {
+   "A": "Bladder outflow obstruction due to prostate cancer",
+   "B": "Bladder outflow obstruction due to benign prostatic hyperplasia",
+   "C": "Bladder outflow obstruction due to a urethral stricture",
+   "D": "Bladder outflow obstruction due to a spinal cord lesion",
+   "E": "Bladder outflow obstruction due to a bladder stone"
+  },
+  "answer": "B",
+  "explanation": "Painful acute retention with a smooth, symmetrically enlarged prostate in an elderly man is due to BPH. Prostate cancer feels hard and nodular, and a normal neurological examination makes a cord lesion unlikely.",
+  "key_note": "",
+  "_new": true,
+  "qid": "24-N4"
+ },
+ {
+  "ncids": [
+   "K1145"
+  ],
+  "stem": "A 60-year-old man with LUTS develops acute urinary retention. Which is the most common precipitating factor?",
+  "options": {
+   "A": "Over-indulgence in beer",
+   "B": "Excessive intake of coffee",
+   "C": "Postponement of micturition",
+   "D": "Confinement to bed",
+   "E": "Prolonged driving"
+  },
+  "answer": "C",
+  "explanation": "Acute retention in a man with BPH is commonly precipitated by voluntary postponement of micturition, which overdistends the detrusor. Alcohol, constipation, anticholinergic drugs, surgery/anaesthesia and immobility are other triggers.",
+  "key_note": "",
+  "_new": true,
+  "qid": "24-N5"
+ },
+ {
+  "ncids": [
+   "K1154"
+  ],
+  "stem": "A 70-year-old man has LUTS. Which of the following is an obstructive (voiding) urinary symptom?",
+  "options": {
+   "A": "Frequency of micturition",
+   "B": "Hesitancy",
+   "C": "Nocturia",
+   "D": "Urgency",
+   "E": "Urge incontinence"
+  },
+  "answer": "B",
+  "explanation": "Hesitancy, poor stream, intermittency, straining and terminal dribbling are obstructive (voiding) symptoms. Frequency, nocturia, urgency and urge incontinence are irritative (storage) symptoms.",
+  "key_note": "",
+  "_new": true,
+  "qid": "24-N6"
+ },
+ {
+  "ncids": [
+   "K1705"
+  ],
+  "stem": "All of the following are true about carcinoma of the prostate EXCEPT:",
+  "options": {
+   "A": "It mostly affects men over 60 years of age",
+   "B": "The most common pathological type is adenocarcinoma",
+   "C": "The second most common tumour of the prostate is sarcoma",
+   "D": "It may give rise to osteoblastic metastases",
+   "E": "Advanced disease is often only palliated by usual therapeutic measures"
+  },
+  "answer": "C",
+  "explanation": "Over 95% of prostate cancers are acinar adenocarcinomas; the rarer types are ductal, urothelial, small cell and neuroendocrine tumours, and sarcoma is very rare. Bone secondaries are typically osteoblastic.",
+  "key_note": "",
+  "_new": true,
+  "qid": "24-N7"
+ }
+]

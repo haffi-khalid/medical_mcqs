@@ -1,0 +1,1033 @@
+[
+ {
+  "cids": [
+   "C0392",
+   "C0638"
+  ],
+  "stem": "The parotid gland is divided into superficial and deep portions by:",
+  "options": {
+   "A": "Ramus of mandible",
+   "B": "Facial nerve branches",
+   "C": "Internal maxillary artery",
+   "D": "Tragal cartilage",
+   "E": "Deep fascia"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "The facial nerve and its branches run through the gland, and this plane defines the surgical superficial and deep lobes. Superficial parotidectomy removes the tissue lateral to the nerve after identifying the main trunk.",
+  "key_note": "",
+  "figure": "",
+  "qid": "38-1"
+ },
+ {
+  "cids": [
+   "C0203"
+  ],
+  "stem": "A 12-year-old boy presents with bilateral parotid swelling, fever and malaise. Two days later he complains of bilateral scrotal pain. Which complication is most likely?",
+  "options": {
+   "A": "Orchitis",
+   "B": "Parotid abscess",
+   "C": "Facial nerve palsy",
+   "D": "Cervical lymphadenitis",
+   "E": "Trismus"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Bilateral parotitis with fever is mumps, and orchitis is its commonest complication in post-pubertal males (about 20-30%), usually within a week of the parotitis.",
+  "key_note": "",
+  "figure": "",
+  "qid": "38-2"
+ },
+ {
+  "cids": [
+   "C0393",
+   "C1153"
+  ],
+  "stem": "Sialolithiasis is most commonly found in the:",
+  "options": {
+   "A": "Submandibular gland",
+   "B": "Accessory salivary glands",
+   "C": "Sublingual gland",
+   "D": "Parotid gland",
+   "E": "Interdental spaces"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "About 80% of salivary stones occur in the submandibular gland, because its saliva is alkaline, mucin-rich and calcium-rich and Wharton's duct runs uphill against gravity.",
+  "key_note": "",
+  "figure": "",
+  "qid": "38-3"
+ },
+ {
+  "cids": [
+   "C0205"
+  ],
+  "stem": "A 50-year-old man develops recurrent submandibular gland swelling. Imaging shows a salivary stone. Which factor contributes most to this condition?",
+  "options": {
+   "A": "High mucin content and alkaline saliva",
+   "B": "Low calcium concentration in saliva",
+   "C": "Viral infection of the duct with no saliva",
+   "D": "Low mucin content with acidic saliva",
+   "E": "Vitamin C deficiency"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Submandibular saliva is more viscous (high mucin), more alkaline and richer in calcium and phosphate than parotid saliva, which favours calcium precipitation. Its long upward-running duct adds stasis.",
+  "key_note": "",
+  "figure": "",
+  "qid": "38-4"
+ },
+ {
+  "cids": [
+   "C0204",
+   "C1152",
+   "C0882"
+  ],
+  "stem": "A 45-year-old man reports recurrent swelling below the jaw that worsens during meals and subsides afterwards. Examination shows a hard mass in the floor of the mouth near the duct opening. What is the most likely diagnosis?",
+  "options": {
+   "A": "Chronic parotitis",
+   "B": "Sialolithiasis of Wharton's duct",
+   "C": "Pleomorphic adenoma",
+   "D": "Mucocele",
+   "E": "Ranula"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Meal-related submandibular swelling with a palpable hard object in the floor of the mouth is a calculus in Wharton's duct. A stone near the duct opening can be removed intraorally.",
+  "key_note": "One ward-test paper version (painful lump under the jaw that resolves after meals) marked Thyroglossal duct cyst; that is wrong, as a thyroglossal cyst is midline and not meal-related.",
+  "figure": "",
+  "qid": "38-5"
+ },
+ {
+  "cids": [
+   "C0256"
+  ],
+  "stem": "A 40-year-old woman has a long history of intermittent pain and swelling of the submandibular gland on eating. She is found to have a calculus in the intraglandular part of the duct. What is the best treatment?",
+  "options": {
+   "A": "Removal of the stone through the oral cavity",
+   "B": "Excision of the submandibular gland",
+   "C": "Conservative treatment",
+   "D": "Dissolution therapy",
+   "E": "Laser therapy"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Stones in the distal (anterior) duct can be removed intraorally, but intraglandular or hilar stones with a chronically damaged gland are best treated by submandibular gland excision.",
+  "key_note": "Not marked in the source paper; answer by reviewer, which agrees with the compiled answer book.",
+  "figure": "",
+  "qid": "38-6"
+ },
+ {
+  "cids": [
+   "C0211"
+  ],
+  "stem": "A 40-year-old woman with rheumatoid arthritis develops painless bilateral parotid enlargement with dry mouth and dry eyes. What is the most likely diagnosis?",
+  "options": {
+   "A": "Mumps",
+   "B": "Sialolithiasis",
+   "C": "Sjogren's syndrome",
+   "D": "HIV sialadenitis",
+   "E": "Sarcoidosis"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Xerostomia and keratoconjunctivitis sicca with a connective tissue disease such as RA is secondary Sjogren's syndrome. It carries an increased risk of MALT lymphoma of the parotid.",
+  "key_note": "",
+  "figure": "",
+  "qid": "38-7"
+ },
+ {
+  "cids": [
+   "C1154"
+  ],
+  "stem": "A patient is diagnosed with Sjogren's syndrome, an autoimmune disorder of exocrine glands. Which glands are primarily affected, leading to dry mouth?",
+  "options": {
+   "A": "All salivary glands",
+   "B": "Lacrimal gland",
+   "C": "Parotid gland",
+   "D": "Sublingual gland",
+   "E": "Submandibular gland"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Sjogren's syndrome is a lymphocytic infiltration of all major and minor salivary glands, which together cause xerostomia. The parotid is the gland that most visibly enlarges, but dry mouth reflects global salivary involvement.",
+  "key_note": "Not marked in the source paper; answer by reviewer. Some keys may give C (Parotid), the gland that typically swells; A is the more accurate answer to 'dry mouth'.",
+  "figure": "",
+  "qid": "38-8"
+ },
+ {
+  "cids": [
+   "C0212"
+  ],
+  "stem": "A 30-year-old HIV-positive man presents with bilateral parotid enlargement. Ultrasound shows multiple cystic lesions. What is the most likely diagnosis?",
+  "options": {
+   "A": "Warthin tumour",
+   "B": "Lymphoepithelial cysts",
+   "C": "Mucocele",
+   "D": "Lymphoma",
+   "E": "Pleomorphic adenoma"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Multiple bilateral benign lymphoepithelial cysts of the parotids are characteristic of HIV infection. Warthin tumour can be bilateral but occurs in older male smokers.",
+  "key_note": "",
+  "figure": "",
+  "qid": "38-9"
+ },
+ {
+  "cids": [
+   "C0213",
+   "C0880"
+  ],
+  "stem": "A 25-year-old woman presents with a translucent bluish swelling in the floor of the mouth. It fluctuates in size and is non-tender. What is the most likely diagnosis?",
+  "options": {
+   "A": "Mucocele of a minor salivary gland",
+   "B": "Sialolithiasis",
+   "C": "Ranula",
+   "D": "Lymphangioma",
+   "E": "Dermoid cyst"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A bluish translucent cystic swelling in the floor of the mouth is a ranula (sublingual gland). A mucocele is the same process in a minor salivary gland, typically on the lower lip, and a sublingual dermoid is midline, opaque and doughy.",
+  "key_note": "",
+  "figure": "",
+  "qid": "38-10"
+ },
+ {
+  "cids": [
+   "C0026",
+   "C0555",
+   "C0799"
+  ],
+  "stem": "Which one of the following is the most common tumour of the parotid gland?",
+  "options": {
+   "A": "Adenocarcinoma",
+   "B": "Adenolymphoma",
+   "C": "Squamous cell carcinoma",
+   "D": "Adenoid cystic carcinoma",
+   "E": "Pleomorphic adenoma"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Pleomorphic adenoma accounts for about 70-80% of parotid tumours. Warthin tumour (adenolymphoma) is the second commonest benign tumour, and mucoepidermoid carcinoma the commonest malignant one.",
+  "key_note": "",
+  "figure": "",
+  "qid": "38-11"
+ },
+ {
+  "cids": [
+   "C0367",
+   "C0255"
+  ],
+  "stem": "A patient presents with a slowly enlarging painless lump in front of the ear which is mobile and not fixed to skin or deeper structures. What is the most likely clinical diagnosis?",
+  "options": {
+   "A": "Enlarged cervical lymph node",
+   "B": "Lipoma of skin",
+   "C": "Dermoid cyst",
+   "D": "Pleomorphic adenoma of the deep parotid lobe",
+   "E": "Pleomorphic adenoma of the superficial parotid lobe"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "About 90% of pleomorphic adenomas arise in the superficial lobe and present as a mobile pre-auricular lump. Deep lobe tumours present as a parapharyngeal mass pushing the tonsil medially.",
+  "key_note": "Another paper asked the same question (8-year painless, firm, mobile lump below the angle of the jaw, normal facial nerve) with options carcinoma, mumps, sialadenitis, pleomorphic adenoma and TB parotid; the answer is the same (pleomorphic adenoma).",
+  "figure": "",
+  "qid": "38-12"
+ },
+ {
+  "cids": [
+   "C0527"
+  ],
+  "stem": "Pleomorphic adenomas of the salivary glands are characterised by which of the following?",
+  "options": {
+   "A": "They occur most commonly in the lips",
+   "B": "They grow rapidly",
+   "C": "They recur if simply enucleated",
+   "D": "They have malignant potential",
+   "E": "They present as a rocky hard mass"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Pleomorphic adenoma has an incomplete pseudocapsule with finger-like projections, so enucleation leaves tumour behind and causes multinodular recurrence; this is why superficial parotidectomy is done.",
+  "key_note": "Imperfect question: D is also true (carcinoma ex pleomorphic adenoma, about 5-10% in long-standing tumours), but C is the classic defining feature and was the keyed answer.",
+  "figure": "",
+  "qid": "38-13"
+ },
+ {
+  "cids": [
+   "C0368",
+   "C1395"
+  ],
+  "stem": "What is the most appropriate treatment of a pleomorphic adenoma of the parotid?",
+  "options": {
+   "A": "Conservative medical therapy",
+   "B": "Enucleation",
+   "C": "Superficial parotidectomy",
+   "D": "Total parotidectomy",
+   "E": "Radiotherapy"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Superficial (conservative) parotidectomy with preservation of the facial nerve removes the tumour with a cuff of normal tissue. Enucleation leads to recurrence, and total parotidectomy is reserved for deep lobe tumours.",
+  "key_note": "Some papers asked the same question with options Radiotherapy, Chemotherapy, Wedge excision and Superficial parotidectomy, or Total, Radical and Subtotal parotidectomy; the answer is the same (superficial parotidectomy).",
+  "figure": "",
+  "qid": "38-14"
+ },
+ {
+  "cids": [
+   "C0214"
+  ],
+  "stem": "A 50-year-old woman presents with a recurrent parotid swelling after previous surgery for pleomorphic adenoma. What is the most appropriate imaging to assess the extent of recurrence?",
+  "options": {
+   "A": "Ultrasound",
+   "B": "X-ray neck",
+   "C": "MRI scan",
+   "D": "PET scan",
+   "E": "Sialography"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "MRI gives the best soft-tissue detail for multinodular recurrent pleomorphic adenoma, deep lobe and parapharyngeal extension, and relation to the facial nerve. Ultrasound is good for superficial primary lumps but underestimates recurrent disease.",
+  "key_note": "",
+  "figure": "",
+  "qid": "38-15"
+ },
+ {
+  "cids": [
+   "C0208"
+  ],
+  "stem": "A 60-year-old male smoker presents with a painless, soft parotid mass that is cystic and fluctuant. What is the most likely diagnosis?",
+  "options": {
+   "A": "Pleomorphic adenoma",
+   "B": "Warthin tumour (adenolymphoma)",
+   "C": "Mucoepidermoid carcinoma",
+   "D": "Chronic sialadenitis",
+   "E": "Lipoma"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Warthin tumour typically occurs in older male smokers, is soft and cystic, usually in the parotid tail, and is bilateral in about 10%. It is hot on technetium scanning.",
+  "key_note": "",
+  "figure": "",
+  "qid": "38-16"
+ },
+ {
+  "cids": [
+   "C0694"
+  ],
+  "stem": "A patient has a slowly enlarging, painless, mobile lump in front of the ear, and a clinical diagnosis of mixed parotid tumour (pleomorphic adenoma) is made. Which feature most strongly suggests malignant change?",
+  "options": {
+   "A": "Rapid growth",
+   "B": "Facial nerve weakness",
+   "C": "Cervical lymphadenopathy",
+   "D": "Fixation to skin",
+   "E": "Fixation to underlying muscles"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Benign parotid tumours almost never cause facial palsy, so facial nerve weakness in a parotid lump is the most reliable clinical sign of malignancy. Rapid growth, pain, fixity and nodes are also suspicious but less specific.",
+  "key_note": "Paper key B is kept; rapid growth (A) is often the first symptom noticed, but facial nerve involvement is the classic sign of malignancy.",
+  "figure": "",
+  "qid": "38-17"
+ },
+ {
+  "cids": [
+   "C1188"
+  ],
+  "stem": "A patient presents with a swelling in front of the ear. Which clinical feature is NOT suggestive of a malignant parotid tumour?",
+  "options": {
+   "A": "Fixity to skin",
+   "B": "Fixity to underlying structures",
+   "C": "Facial nerve involvement",
+   "D": "Purulent discharge from its duct",
+   "E": "Cervical lymphadenopathy"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Pus from Stensen's duct indicates bacterial (suppurative) parotitis, not malignancy. Fixity, facial palsy and nodal spread are all signs of a malignant parotid tumour.",
+  "key_note": "Not marked in the source paper; answer by reviewer, which agrees with the compiled answer book.",
+  "figure": "",
+  "qid": "38-18"
+ },
+ {
+  "cids": [
+   "C0258",
+   "C0209"
+  ],
+  "stem": "A 60-year-old man has a lump in front of the left ear that is non-tender, hard and irregular with ill-defined edges. He also has a left facial palsy and a palpable submandibular lymph node. What is the likely diagnosis?",
+  "options": {
+   "A": "Pleomorphic adenoma",
+   "B": "Warthin tumour",
+   "C": "Mucoepidermoid carcinoma",
+   "D": "Facial neuroma",
+   "E": "Mandibular osteoma"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A hard irregular parotid mass with facial palsy and nodal spread is a parotid carcinoma, and mucoepidermoid carcinoma is the commonest type.",
+  "key_note": "Not marked in the source paper; answer by reviewer, which agrees with the compiled answer book.",
+  "figure": "",
+  "qid": "38-19"
+ },
+ {
+  "cids": [
+   "C0210"
+  ],
+  "stem": "A 55-year-old man presents with a firm submandibular gland mass and severe facial pain radiating to the ear. Histology shows perineural invasion. What is the most likely diagnosis?",
+  "options": {
+   "A": "Warthin tumour",
+   "B": "Pleomorphic adenoma",
+   "C": "Adenoid cystic carcinoma",
+   "D": "Mucoepidermoid carcinoma",
+   "E": "Acinic cell carcinoma"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Adenoid cystic carcinoma is notorious for perineural spread, causing pain and nerve palsies, and is the commonest malignant tumour of the submandibular and minor salivary glands.",
+  "key_note": "",
+  "figure": "",
+  "qid": "38-20"
+ },
+ {
+  "cids": [
+   "C0801"
+  ],
+  "stem": "Which of the following statements regarding malignant parotid tumours is correct?",
+  "options": {
+   "A": "Acinic cell carcinoma is a highly aggressive malignant tumour of the parotid gland",
+   "B": "Squamous carcinoma of the parotid gland shows only moderately malignant behaviour",
+   "C": "Regional node dissection for occult metastases is never indicated because of their low incidence and the morbidity of lymphadenectomy",
+   "D": "Facial nerve preservation should be attempted when the surgical margins of resection are free of tumour",
+   "E": "Total parotidectomy is indicated for all malignant parotid tumours"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A facial nerve that is functioning and not encased by tumour is preserved if clear margins can be obtained; it is sacrificed only when involved. Acinic cell carcinoma is low grade, squamous carcinoma is highly aggressive, and elective neck dissection is indicated for high-grade tumours.",
+  "key_note": "Not marked in the source paper; answer by reviewer, which agrees with the compiled answer book. Option A's tumour name was missing in the source and has been restored as acinic cell carcinoma, and options C and E have been lightly reworded.",
+  "figure": "",
+  "qid": "38-21"
+ },
+ {
+  "cids": [
+   "C0215"
+  ],
+  "stem": "A 40-year-old man presents with a parotid mass. FNAC shows high-grade mucoepidermoid carcinoma. What is the most appropriate surgical approach?",
+  "options": {
+   "A": "Enucleation",
+   "B": "Superficial parotidectomy",
+   "C": "Total parotidectomy with facial nerve preservation",
+   "D": "Total parotidectomy with facial nerve sacrifice",
+   "E": "Radiotherapy alone"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "High-grade parotid cancer needs total parotidectomy (usually with neck dissection and postoperative radiotherapy). The facial nerve is preserved when it is functioning and not invaded, and sacrificed only if involved.",
+  "key_note": "",
+  "figure": "",
+  "qid": "38-22"
+ },
+ {
+  "cids": [
+   "C0881"
+  ],
+  "stem": "A 40-year-old woman presents with a painless swelling just below and in front of the right ear. Investigations confirm squamous cell carcinoma of the right parotid gland. What is the best treatment?",
+  "options": {
+   "A": "Radiotherapy",
+   "B": "Chemotherapy",
+   "C": "Wedge excision",
+   "D": "Radical parotidectomy",
+   "E": "Superficial parotidectomy"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Squamous carcinoma in the parotid is aggressive (and often metastatic from skin), so it needs radical or total parotidectomy with neck dissection and postoperative radiotherapy. Superficial parotidectomy is the operation for benign superficial lobe tumours.",
+  "key_note": "Some papers reused this stem with 'pleomorphic adenoma' instead of squamous carcinoma, with the answer superficial parotidectomy; that version is covered by the pleomorphic adenoma question above.",
+  "figure": "",
+  "qid": "38-23"
+ },
+ {
+  "cids": [
+   "C0206"
+  ],
+  "stem": "A 60-year-old woman undergoes total parotidectomy for a parotid mass. Postoperatively she cannot close her left eye or smile. Which nerve is likely to be injured?",
+  "options": {
+   "A": "Auriculotemporal nerve",
+   "B": "Facial nerve",
+   "C": "Glossopharyngeal nerve",
+   "D": "Great auricular nerve",
+   "E": "Trigeminal nerve"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Inability to close the eye (orbicularis oculi) and to smile means facial nerve injury. Great auricular nerve injury, the commonest nerve sacrificed at parotidectomy, only causes earlobe numbness.",
+  "key_note": "",
+  "figure": "",
+  "qid": "38-24"
+ },
+ {
+  "cids": [
+   "C0771"
+  ],
+  "stem": "A 43-year-old teacher undergoes left parotidectomy. On waking from surgery, paralysis of the left lower lip is noted. This was most likely due to injury to which of the following?",
+  "options": {
+   "A": "Parotid duct",
+   "B": "Facial nerve: temporal branch",
+   "C": "Facial nerve: cervical branch",
+   "D": "Facial nerve: main trunk",
+   "E": "Platysma muscle"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Lower lip depression depends on the marginal mandibular branch and the platysma, supplied by the cervical branch; isolated lower lip weakness after parotid surgery from cervical branch injury is called marginal mandibular pseudo-paralysis. Main trunk injury would paralyse the whole hemiface.",
+  "key_note": "The 2022 recalled paper printed D (Main trunk); correct is C, as given by the compiled answer book. The marginal mandibular branch, the best answer, is not among the options.",
+  "figure": "",
+  "qid": "38-25"
+ },
+ {
+  "cids": [
+   "C0251"
+  ],
+  "stem": "Which two nerves can be damaged during submandibular gland surgery?",
+  "options": {
+   "A": "Lingual and hypoglossal",
+   "B": "Recurrent laryngeal and external laryngeal",
+   "C": "Superficial cervical and facial",
+   "D": "Superficial facial and transverse cervical",
+   "E": "Trigeminal and facial"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Submandibular gland excision puts three nerves at risk: the marginal mandibular branch of the facial nerve (superficially), and the lingual and hypoglossal nerves (deep to the gland).",
+  "key_note": "",
+  "figure": "",
+  "qid": "38-26"
+ },
+ {
+  "cids": [
+   "C0848"
+  ],
+  "stem": "A 42-year-old man had a right submandibular gland tumour excised two days ago. He now complains of loss of sensation in the submental region. What complication has occurred?",
+  "options": {
+   "A": "Facial nerve injury",
+   "B": "Lingual nerve injury",
+   "C": "Hypoglossal nerve injury",
+   "D": "Injury to the nerve to mylohyoid",
+   "E": "Marginal mandibular nerve injury"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "The nerve to mylohyoid gives a small cutaneous branch to the submental skin and lies on mylohyoid in the bed of the gland. The marginal mandibular nerve is purely motor (lower lip), and lingual nerve injury causes numbness of the anterior tongue.",
+  "key_note": "One copy in the same paper was marked E (Marginal mandibular nerve injury); correct is D, as marked elsewhere and in the compiled answer book.",
+  "figure": "",
+  "qid": "38-27"
+ },
+ {
+  "cids": [
+   "C0558",
+   "C1389"
+  ],
+  "stem": "Frey's syndrome follows:",
+  "options": {
+   "A": "Cataract surgery",
+   "B": "Mandibulectomy",
+   "C": "Parotidectomy",
+   "D": "SMR for deviated nasal septum",
+   "E": "Thyroidectomy"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Frey's (auriculotemporal or gustatory sweating) syndrome is a late complication of parotidectomy or parotid region trauma.",
+  "key_note": "",
+  "figure": "",
+  "qid": "38-28"
+ },
+ {
+  "cids": [
+   "C0362",
+   "C0252"
+  ],
+  "stem": "A 50-year-old man who had surgery for a parotid tumour complains of redness and sweating at the scar site whenever he tastes food. What is the most likely diagnosis?",
+  "options": {
+   "A": "Facial nerve weakness",
+   "B": "Frey's syndrome",
+   "C": "Horner's syndrome",
+   "D": "Oculomotor nerve weakness",
+   "E": "Trigeminal nerve weakness"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Gustatory sweating and flushing over the parotid bed after parotidectomy is Frey's syndrome. It can be confirmed with the Minor starch-iodine test.",
+  "key_note": "",
+  "figure": "",
+  "qid": "38-29"
+ },
+ {
+  "cids": [
+   "C0207"
+  ],
+  "stem": "A 58-year-old man had parotid surgery. Three months later he reports sweating and flushing over his cheek while eating. What is the most likely mechanism?",
+  "options": {
+   "A": "Parasympathetic fibres reinnervate sweat glands",
+   "B": "Damage to sympathetic fibres has occurred",
+   "C": "A fistula between the parotid duct and skin has developed",
+   "D": "Chronic infection of the gland has occurred",
+   "E": "Cross-reaction with taste receptors occurs"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Cut postganglionic parasympathetic secretomotor fibres from the auriculotemporal nerve regenerate aberrantly into the severed sympathetic fibres supplying skin sweat glands and vessels, so eating causes sweating and flushing (Frey's syndrome).",
+  "key_note": "",
+  "figure": "",
+  "qid": "38-30"
+ },
+ {
+  "cids": [
+   "C0253"
+  ],
+  "stem": "A patient develops gustatory redness and sweating over the operated area a few weeks after superficial parotidectomy (Frey's syndrome). Which of the following is a recognised surgical management?",
+  "options": {
+   "A": "Teflon injection",
+   "B": "Skin graft",
+   "C": "Skin flap",
+   "D": "Dermal fat (or fascial) graft interposition",
+   "E": "Extensive surgery"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Frey's syndrome is managed first with topical antiperspirants or intradermal botulinum toxin; surgical options interpose a barrier (dermal fat graft, temporalis fascia or SMAS flap, or sternomastoid flap) between skin and parotid bed. Teflon injection is used for vocal cord palsy, not Frey's syndrome.",
+  "key_note": "Not marked in the source paper; the compiled answer book gave A (Teflon injection), which is incorrect; D is the best of these options. Option D appeared as 'Dermal Facial Graft' in the source. Botulinum toxin, the usual first-line treatment, is not offered.",
+  "figure": "",
+  "qid": "38-31"
+ },
+ {
+  "ncids": [
+   "K0258"
+  ],
+  "stem": "A 22-year-old man has pain in the jaw while eating, a swelling in the region of the angle of the mandible and fever for the last 3 days. What is the most probable diagnosis?",
+  "options": {
+   "A": "Dermoid cyst",
+   "B": "Lipoma",
+   "C": "Sebaceous cyst",
+   "D": "Pleomorphic adenoma of the parotid",
+   "E": "Submandibular lymph node (lymphadenitis)"
+  },
+  "answer": "E",
+  "explanation": "An acute, painful swelling at the angle of the mandible with fever points to an inflammatory process; of the options only an inflamed submandibular lymph node fits. Dermoid, lipoma, sebaceous cyst and pleomorphic adenoma are painless and afebrile.",
+  "key_note": "",
+  "_new": true,
+  "qid": "38-N1"
+ },
+ {
+  "ncids": [
+   "K0463"
+  ],
+  "stem": "A 21-year-old man has a painless, transparent swelling in the floor of the mouth and a similar swelling below the chin. Aspiration yields clear, viscid fluid. What is the most likely diagnosis?",
+  "options": {
+   "A": "Ludwig's angina",
+   "B": "Tumour of the sublingual gland",
+   "C": "Simple ranula",
+   "D": "Mucous retention cyst",
+   "E": "Plunging ranula of the sublingual gland"
+  },
+  "answer": "E",
+  "explanation": "A ranula that extends through or around the mylohyoid into the submandibular or submental region of the neck is a plunging ranula, arising from the sublingual gland. A simple ranula is confined to the floor of the mouth.",
+  "key_note": "",
+  "_new": true,
+  "qid": "38-N2"
+ },
+ {
+  "ncids": [
+   "K1180"
+  ],
+  "stem": "The term plunging ranula refers to which clinical entity?",
+  "options": {
+   "A": "A malignant congenital salivary mass arising from the submandibular gland",
+   "B": "A benign salivary mass involving the parotid and submandibular glands",
+   "C": "A mucous retention cyst from the sublingual gland confined above the mylohyoid muscle",
+   "D": "A mucous extravasation cyst, usually from the sublingual gland, that passes through the mylohyoid muscle into the neck",
+   "E": "A midline neck mass that moves on tongue protrusion"
+  },
+  "answer": "D",
+  "explanation": "A plunging ranula is a mucous extravasation pseudocyst, usually from the sublingual gland, that herniates through or behind the mylohyoid to present in the neck. Option C describes a simple ranula; option E describes a thyroglossal cyst.",
+  "key_note": "",
+  "_new": true,
+  "qid": "38-N3"
+ },
+ {
+  "ncids": [
+   "K1208"
+  ],
+  "stem": "Which of the following is NOT a complication of submandibular gland excision?",
+  "options": {
+   "A": "Frey's syndrome",
+   "B": "Anaesthesia of the ipsilateral tongue",
+   "C": "Weakness of the corner of the mouth",
+   "D": "Anaesthesia of the submental skin",
+   "E": "Paralysis of the ipsilateral tongue"
+  },
+  "answer": "A",
+  "explanation": "Frey's syndrome (gustatory sweating) follows parotidectomy, not submandibular excision. Submandibular surgery risks the lingual nerve (tongue numbness), hypoglossal nerve (tongue paralysis), marginal mandibular nerve (lip weakness) and nerve to mylohyoid (submental numbness).",
+  "key_note": "",
+  "_new": true,
+  "qid": "38-N4"
+ },
+ {
+  "ncids": [
+   "K0480"
+  ],
+  "stem": "A young woman has a swelling in the right submandibular region for one month, and X-ray shows a stone in the gland duct. What is the main chemical composition of stones in this duct?",
+  "options": {
+   "A": "Cholesterol",
+   "B": "Calcium phosphate",
+   "C": "Calcium oxalate",
+   "D": "None of the above",
+   "E": "Vitamin"
+  },
+  "answer": "B",
+  "explanation": "Salivary calculi are composed mainly of calcium phosphate (hydroxyapatite) with some carbonate on an organic matrix, which is why about 80% of submandibular stones are radio-opaque.",
+  "key_note": "Bank marked E (Vitamin) with *; correct is B because salivary stones are mainly calcium phosphate.",
+  "_new": true,
+  "qid": "38-N5"
+ },
+ {
+  "ncids": [
+   "K0543"
+  ],
+  "stem": "Which one of the following features of a salivary gland tumour is NOT a feature of advanced disease?",
+  "options": {
+   "A": "Facial nerve weakness",
+   "B": "Rapid enlargement of the swelling",
+   "C": "Induration and/or ulceration of the overlying skin",
+   "D": "Cervical lymph node enlargement",
+   "E": "A small, localised swelling"
+  },
+  "answer": "E",
+  "explanation": "Facial nerve palsy, rapid growth, skin involvement and cervical nodes all indicate malignant, advanced disease. A small, localised, mobile swelling is the typical benign or early presentation.",
+  "key_note": "",
+  "_new": true,
+  "qid": "38-N6"
+ },
+ {
+  "ncids": [
+   "K0544"
+  ],
+  "stem": "A boy presents with a second episode of left parotid swelling with high-grade fever, chills, rigors and difficulty eating. He is diagnosed with recurrent parotitis. Sialography shows punctate sialectasis. This appearance is also called:",
+  "options": {
+   "A": "Cluster of grapes appearance",
+   "B": "Snowstorm appearance",
+   "C": "Beaded appearance",
+   "D": "Microdots appearance",
+   "E": "Membranes appearance"
+  },
+  "answer": "B",
+  "explanation": "In recurrent (juvenile) parotitis the sialogram shows multiple punctate collections of contrast (punctate sialectasis), described as a snowstorm appearance. Beaded ducts suggest ductal stricture.",
+  "key_note": "",
+  "_new": true,
+  "qid": "38-N7"
+ },
+ {
+  "ncids": [
+   "K0704",
+   "K1700"
+  ],
+  "stem": "What proportion of parotid gland tumours are malignant?",
+  "options": {
+   "A": "About 20%",
+   "B": "About 40%",
+   "C": "Up to 60%",
+   "D": "Up to 80%",
+   "E": "All parotid tumours are malignant"
+  },
+  "answer": "A",
+  "explanation": "About 80% of parotid tumours are benign, so roughly 20% are malignant. The smaller the salivary gland, the higher the proportion of malignant tumours.",
+  "key_note": "Bank marked A in one copy and left the other unmarked; A is correct.",
+  "_new": true,
+  "qid": "38-N8"
+ },
+ {
+  "ncids": [
+   "K0731"
+  ],
+  "stem": "Regarding salivary gland neoplasms, spot the wrong statement:",
+  "options": {
+   "A": "About 75 to 80% of salivary neoplasms arise in the parotid",
+   "B": "About 80% of parotid tumours are benign",
+   "C": "About 80% of benign parotid tumours are pleomorphic adenomas",
+   "D": "All are correct",
+   "E": "None is correct"
+  },
+  "answer": "D",
+  "explanation": "The 'rule of 80s': about 80% of salivary tumours arise in the parotid, 80% of parotid tumours are benign and about 80% of these are pleomorphic adenomas, so all statements are correct.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "38-N9"
+ },
+ {
+  "ncids": [
+   "K0732"
+  ],
+  "stem": "Adenolymphoma (Warthin's tumour) is most common in which gland?",
+  "options": {
+   "A": "Parotid gland",
+   "B": "Submandibular gland",
+   "C": "Minor salivary glands",
+   "D": "Sublingual gland",
+   "E": "All of the above equally"
+  },
+  "answer": "A",
+  "explanation": "Warthin's tumour occurs almost exclusively in the parotid, usually the lower pole, because it arises from salivary inclusions within intraparotid lymph nodes.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "38-N10"
+ },
+ {
+  "ncids": [
+   "K0733"
+  ],
+  "stem": "A malignant parotid tumour is characterised by:",
+  "options": {
+   "A": "Pain",
+   "B": "A hard, fixed mass",
+   "C": "Paralysis of facial muscles",
+   "D": "Progressive increase in size",
+   "E": "All of the above"
+  },
+  "answer": "E",
+  "explanation": "Features suggesting malignancy in a parotid swelling include pain, rapid growth, hardness and fixity to skin or deep structures, facial nerve palsy and cervical lymphadenopathy.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "38-N11"
+ },
+ {
+  "ncids": [
+   "K0740",
+   "K1204"
+  ],
+  "stem": "The submandibular gland is related to all of the following EXCEPT:",
+  "options": {
+   "A": "Lingual nerve",
+   "B": "Hypoglossal nerve",
+   "C": "Facial artery",
+   "D": "Facial vein",
+   "E": "Facial nerve (main trunk)"
+  },
+  "answer": "E",
+  "explanation": "The deep part of the submandibular gland is related to the lingual and hypoglossal nerves, and the facial artery grooves the gland with the facial vein superficial to it. The facial nerve trunk runs in the parotid; only its marginal mandibular branch crosses superficial to the gland.",
+  "key_note": "One copy marked 'Inguinal nerve' with *, a parsing typo for lingual nerve, which is closely related to the gland; correct is facial nerve.",
+  "_new": true,
+  "qid": "38-N12"
+ },
+ {
+  "ncids": [
+   "K0834"
+  ],
+  "stem": "A 35-year-old man is diagnosed with a salivary gland tumour. Which of the following is true of salivary gland tumours in general?",
+  "options": {
+   "A": "Most tumours arising from minor salivary glands are benign",
+   "B": "Most tumours arising from minor salivary glands are malignant",
+   "C": "Fine needle aspiration cytology is the first-line investigation",
+   "D": "CT and MRI are not helpful investigations"
+  },
+  "answer": "B",
+  "explanation": "The smaller the gland, the more likely a tumour is malignant: most minor salivary gland tumours are malignant (commonly adenoid cystic carcinoma). Ultrasound is the first-line investigation, with FNAC usually ultrasound-guided, and CT/MRI are valuable for deep lobe and malignant tumours.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "38-N13"
+ },
+ {
+  "ncids": [
+   "K0943"
+  ],
+  "stem": "The parotid duct is also called:",
+  "options": {
+   "A": "Charcot's duct",
+   "B": "Santorini's duct",
+   "C": "Stensen's duct",
+   "D": "Wharton's duct",
+   "E": "Wirsung's duct"
+  },
+  "answer": "C",
+  "explanation": "The parotid duct is Stensen's duct, opening opposite the upper second molar. Wharton's is the submandibular duct; Santorini's and Wirsung's are pancreatic ducts.",
+  "key_note": "",
+  "_new": true,
+  "qid": "38-N14"
+ },
+ {
+  "ncids": [
+   "K1103"
+  ],
+  "stem": "The submandibular gland duct is called:",
+  "options": {
+   "A": "Charcot's duct",
+   "B": "Santorini's duct",
+   "C": "Stensen's duct",
+   "D": "Wharton's duct",
+   "E": "Wirsung's duct"
+  },
+  "answer": "D",
+  "explanation": "Wharton's duct drains the submandibular gland and opens at the sublingual papilla beside the frenulum. Stensen's duct drains the parotid.",
+  "key_note": "",
+  "_new": true,
+  "qid": "38-N15"
+ },
+ {
+  "ncids": [
+   "K1201",
+   "K1383"
+  ],
+  "stem": "Chronic parotitis in children is almost pathognomonic of:",
+  "options": {
+   "A": "Syphilis",
+   "B": "Tuberculosis",
+   "C": "HIV infection (AIDS)",
+   "D": "Sarcoidosis",
+   "E": "Sjogren's syndrome"
+  },
+  "answer": "C",
+  "explanation": "Chronic parotid enlargement in children (often bilateral, with lymphoepithelial cysts) is almost pathognomonic of HIV infection, and HIV testing should be done.",
+  "key_note": "Keyed C in one copy and marked HIV with * in the other; correct.",
+  "_new": true,
+  "qid": "38-N16"
+ },
+ {
+  "ncids": [
+   "K1203"
+  ],
+  "stem": "What is the most common site for a parotid tumour to present?",
+  "options": {
+   "A": "At the anterior border of the masseter",
+   "B": "Inferior to the angle of the mandible",
+   "C": "As a parapharyngeal mass",
+   "D": "Anterior to the ear (preauricular)",
+   "E": "Behind the angle of the mandible"
+  },
+  "answer": "D",
+  "explanation": "Most parotid tumours arise in the superficial lobe, which lies mainly in front of the ear, so a preauricular lump is the commonest presentation. Deep lobe tumours (about 10%) may present as a parapharyngeal mass.",
+  "key_note": "",
+  "_new": true,
+  "qid": "38-N17"
+ },
+ {
+  "ncids": [
+   "K1384"
+  ],
+  "stem": "Warthin's tumour refers to:",
+  "options": {
+   "A": "Pleomorphic adenoma",
+   "B": "Adenolymphoma",
+   "C": "Mucoepidermoid tumour",
+   "D": "Adenoid cystic carcinoma"
+  },
+  "answer": "B",
+  "explanation": "Warthin's tumour is also called adenolymphoma (papillary cystadenoma lymphomatosum): a benign parotid tumour of older male smokers, sometimes bilateral.",
+  "key_note": "",
+  "_new": true,
+  "qid": "38-N18"
+ },
+ {
+  "ncids": [
+   "K1385"
+  ],
+  "stem": "Sjogren's syndrome is associated with each of the following EXCEPT (mark the least associated):",
+  "options": {
+   "A": "Rheumatoid arthritis",
+   "B": "Systemic lupus erythematosus",
+   "C": "Chronic active hepatitis",
+   "D": "Primary biliary cirrhosis"
+  },
+  "answer": "C",
+  "explanation": "Secondary Sjogren's syndrome most classically accompanies rheumatoid arthritis, SLE, systemic sclerosis and primary biliary cirrhosis. Chronic active hepatitis is the weakest association of those listed and is the expected answer.",
+  "key_note": "Keyed C. Note that autoimmune (chronic active) hepatitis is occasionally reported with Sjogren's, so this item is weakly constructed; C remains the intended and best answer.",
+  "_new": true,
+  "qid": "38-N19"
+ },
+ {
+  "ncids": [
+   "K1553"
+  ],
+  "stem": "What is the most evident clinical feature of Sjogren's syndrome?",
+  "options": {
+   "A": "Enlargement of salivary glands",
+   "B": "Dry mouth and dry eyes",
+   "C": "Dry mouth only"
+  },
+  "answer": "B",
+  "explanation": "Sjogren's syndrome presents chiefly with sicca symptoms: xerostomia and keratoconjunctivitis sicca. Salivary gland enlargement occurs in only a proportion of patients.",
+  "key_note": "Bank marked A with * but highlighted B; correct is B because dry mouth and dry eyes are the defining features.",
+  "_new": true,
+  "qid": "38-N20"
+ },
+ {
+  "ncids": [
+   "K1625"
+  ],
+  "stem": "Which of the following is the most common cause of acute bacterial sialadenitis?",
+  "options": {
+   "A": "Streptococcus pyogenes",
+   "B": "Atypical mycobacteria",
+   "C": "Staphylococcus aureus",
+   "D": "Pseudomonas aeruginosa",
+   "E": "Klebsiella"
+  },
+  "answer": "C",
+  "explanation": "Acute suppurative sialadenitis (typically parotitis in dehydrated, elderly or postoperative patients) is most often caused by Staphylococcus aureus, with streptococci and anaerobes less commonly.",
+  "key_note": "",
+  "_new": true,
+  "qid": "38-N21"
+ },
+ {
+  "ncids": [
+   "K1702"
+  ],
+  "stem": "What is the chance of bilateral Warthin's tumour of the parotid gland?",
+  "options": {
+   "A": "About 10%",
+   "B": "About 20%",
+   "C": "Up to 30%",
+   "D": "Up to 40%",
+   "E": "Approximately 50%"
+  },
+  "answer": "A",
+  "explanation": "Warthin's tumour is the salivary tumour most likely to be bilateral or multifocal, occurring bilaterally in about 10% of cases.",
+  "key_note": "",
+  "_new": true,
+  "qid": "38-N22"
+ },
+ {
+  "ncids": [
+   "K1703"
+  ],
+  "stem": "What is the most common malignant tumour of the parotid gland?",
+  "options": {
+   "A": "Mucoepidermoid carcinoma",
+   "B": "Adenoid cystic carcinoma",
+   "C": "Squamous cell carcinoma",
+   "D": "Mixed parotid tumour",
+   "E": "Adenocarcinoma"
+  },
+  "answer": "A",
+  "explanation": "Mucoepidermoid carcinoma is the most common malignant tumour of the parotid. Adenoid cystic carcinoma is the most common malignancy of the submandibular and minor salivary glands.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "38-N23"
+ },
+ {
+  "ncids": [
+   "K1704"
+  ],
+  "stem": "What proportion of parotid tumours arise in the deep lobe?",
+  "options": {
+   "A": "About 1 to 2%",
+   "B": "About 10%",
+   "C": "Up to 20%",
+   "D": "Up to 40%",
+   "E": "Approximately 60%"
+  },
+  "answer": "B",
+  "explanation": "About 90% of parotid tumours arise in the superficial lobe and about 10% in the deep lobe, which may present as a parapharyngeal mass bulging the tonsil and soft palate.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "38-N24"
+ }
+]

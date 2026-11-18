@@ -1,0 +1,783 @@
+[
+ {
+  "cids": [
+   "C0631"
+  ],
+  "stem": "Pelvic trauma may lead to a serious life-threatening complication because of:",
+  "options": {
+   "A": "Bladder injury",
+   "B": "Blood loss",
+   "C": "Gut perforation",
+   "D": "Rectal trauma",
+   "E": "Uterine injury"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Unstable pelvic fractures can bleed several litres into the retroperitoneum from the presacral venous plexus, fracture surfaces and pelvic arteries, causing haemorrhagic shock. Haemorrhage is the main cause of early death in pelvic fractures.",
+  "key_note": "",
+  "figure": "",
+  "qid": "3-1"
+ },
+ {
+  "cids": [
+   "C0297"
+  ],
+  "stem": "A 40-year-old man presents in shock after an RTA. He has an open book pelvic fracture. The simple immediate measure in the ER to control shock in this patient is:",
+  "options": {
+   "A": "Bilateral skin traction",
+   "B": "External fixation",
+   "C": "Open reduction and internal fixation",
+   "D": "Pelvic binder",
+   "E": "Skeletal traction"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A pelvic binder applied at the level of the greater trochanters closes the open book, reduces pelvic volume and tamponades venous bleeding; it is the immediate ER measure (ATLS). External fixation, angioembolisation or preperitoneal packing follow if bleeding continues.",
+  "key_note": "",
+  "figure": "",
+  "qid": "3-2"
+ },
+ {
+  "cids": [
+   "C1287"
+  ],
+  "stem": "A 65-year-old man has a fracture of the right pubic rami associated with abdominal and chest injuries. After resuscitation, what management should be done for the pelvic fracture?",
+  "options": {
+   "A": "Apply pelvic binder",
+   "B": "Open reduction and K-wire",
+   "C": "Closed nailing of ramus",
+   "D": "POP cast around pelvis",
+   "E": "Rest and analgesia only"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "In a high-energy polytrauma patient with a pelvic fracture, mechanical stabilisation with a pelvic binder is part of haemorrhage control and stabilisation. Note that an isolated, stable pubic ramus fracture (e.g. low-energy fall in the elderly) is treated with analgesia and early mobilisation.",
+  "key_note": "Paper keys agree on A; this fits a high-energy polytrauma pelvic injury, whereas an isolated stable rami fracture would be managed with rest and analgesia (E).",
+  "figure": "",
+  "qid": "3-3"
+ },
+ {
+  "cids": [
+   "C0294"
+  ],
+  "stem": "The predominant blood supply to the head of the femur in adults is from the:",
+  "options": {
+   "A": "Deep femoral (profunda) artery",
+   "B": "Lateral circumflex femoral artery",
+   "C": "Medial circumflex femoral artery",
+   "D": "Peroneal artery",
+   "E": "None of the above"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "The retinacular (lateral epiphyseal) branches of the medial circumflex femoral artery run up the femoral neck and supply most of the adult femoral head; the artery of the ligamentum teres contributes little. Displaced intracapsular fractures tear these vessels, causing AVN.",
+  "key_note": "",
+  "figure": "",
+  "qid": "3-4"
+ },
+ {
+  "cids": [
+   "C0566"
+  ],
+  "stem": "The commonest dislocation of the hip joint is:",
+  "options": {
+   "A": "Anterior",
+   "B": "Inferior",
+   "C": "Lateral",
+   "D": "Posterior",
+   "E": "Superior"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "About 90% of traumatic hip dislocations are posterior, typically from a dashboard injury to the flexed, adducted hip; the limb is shortened, flexed, adducted and internally rotated, and the sciatic nerve is at risk.",
+  "key_note": "",
+  "figure": "",
+  "qid": "3-5"
+ },
+ {
+  "cids": [
+   "C0267"
+  ],
+  "stem": "You visit an 88-year-old lady with dementia in a nursing home; she often wanders around. Staff are concerned she has not walked since yesterday. She has discomfort on moving her right leg, which is held in external rotation with slight shortening. What is the most likely diagnosis?",
+  "options": {
+   "A": "Fracture of the neck of the femur",
+   "B": "Fracture of the pelvis",
+   "C": "Osteoarthritis of the hip",
+   "D": "Severe osteoarthritis of the lumbar spine",
+   "E": "Traumatic posterior hip dislocation"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "An elderly, osteoporotic patient who stops weight bearing with a shortened, externally rotated leg has a hip (femoral neck) fracture until proven otherwise; a fall may not be reported in dementia. Posterior dislocation gives internal rotation.",
+  "key_note": "Not marked in the source paper; answer by reviewer (compiled key agrees).",
+  "figure": "",
+  "qid": "3-6"
+ },
+ {
+  "cids": [
+   "C0263"
+  ],
+  "stem": "A 70-year-old man fell in the washroom, injuring his left gluteal area, and cannot move his left lower limb. The limb is externally rotated and flexed at the knee; neurovascular status is intact. What is the primary investigation?",
+  "options": {
+   "A": "CT scan with 3-D reconstruction",
+   "B": "MRI of the left hip",
+   "C": "Plain biplanar X-ray of the left hip (AP pelvis and lateral hip)",
+   "D": "Bone scan",
+   "E": "X-ray of the lumbosacral spine"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Plain AP pelvis and lateral hip X-rays diagnose almost all hip fractures and are always the first investigation. MRI is reserved for suspected occult fracture when X-rays are normal.",
+  "key_note": "Not marked in the source paper; answer by reviewer (compiled key agrees).",
+  "figure": "",
+  "qid": "3-7"
+ },
+ {
+  "cids": [
+   "C0296",
+   "C0629"
+  ],
+  "stem": "Avascular necrosis of the femoral head is most common in:",
+  "options": {
+   "A": "Basicervical fracture",
+   "B": "Intertrochanteric fracture",
+   "C": "Subcapital fracture",
+   "D": "Fracture of shaft of femur",
+   "E": "Transcervical fracture"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "The more proximal and displaced the intracapsular fracture, the more retinacular vessels are torn, so subcapital fractures have the highest AVN risk. Extracapsular (intertrochanteric) fractures have a rich blood supply and rarely cause AVN.",
+  "key_note": "C0629 was a fragment (only option E 'Transcervical fracture' visible) of this same question in another paper.",
+  "figure": "",
+  "qid": "3-8"
+ },
+ {
+  "cids": [
+   "C0479"
+  ],
+  "stem": "Avascular necrosis of the head of the femur can occur in:",
+  "options": {
+   "A": "Trochanteric fracture",
+   "B": "Intertrochanteric fracture",
+   "C": "Transcervical fracture",
+   "D": "Central dislocation of hip",
+   "E": "Osteoporosis"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "AVN of the femoral head follows intracapsular (subcapital or transcervical) neck fractures, which disrupt the retinacular vessels. Intertrochanteric fractures are extracapsular, well vascularised and seldom cause AVN.",
+  "key_note": "The paper key marked B (Intertrochanteric fracture); correct is C: AVN complicates intracapsular, not extracapsular, fractures.",
+  "figure": "",
+  "qid": "3-9"
+ },
+ {
+  "cids": [
+   "C0295"
+  ],
+  "stem": "A 70-year-old woman with pain in both hips is diagnosed with avascular necrosis (AVN). AVN of the caput femoris is:",
+  "options": {
+   "A": "Osteonecrosis of the head of the femur due to loss of blood supply",
+   "B": "Osteonecrosis of the neck of the femur",
+   "C": "Osteonecrosis of the acetabulum",
+   "D": "Osteonecrosis of the shaft of the femur",
+   "E": "None of the above"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Caput femoris means the femoral head; AVN is death of bone from interruption of its blood supply. Causes include intracapsular fracture, steroids, alcohol, sickle cell disease and caisson disease.",
+  "key_note": "",
+  "figure": "",
+  "qid": "3-10"
+ },
+ {
+  "cids": [
+   "C0538"
+  ],
+  "stem": "An 80-year-old lady is diagnosed with a fracture of the neck of the femur after a fall from bed. The most likely complication related to this fracture is:",
+  "options": {
+   "A": "Avascular necrosis",
+   "B": "Compartment syndrome",
+   "C": "Delayed union",
+   "D": "Massive bleeding",
+   "E": "Nerve entrapment syndrome"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Displaced intracapsular neck of femur fractures disrupt the femoral head blood supply, so AVN and non-union are the characteristic complications; this is why displaced fractures in the elderly are treated by arthroplasty rather than fixation.",
+  "key_note": "",
+  "figure": "",
+  "qid": "3-11"
+ },
+ {
+  "cids": [
+   "C0298"
+  ],
+  "stem": "The management of a fracture of the neck of the femur in a young adult is:",
+  "options": {
+   "A": "Hip spica",
+   "B": "Immediate fixation",
+   "C": "Immobilising the patient",
+   "D": "Skin traction",
+   "E": "Skeletal traction"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "In young adults the femoral head must be preserved, so the fracture is treated as an emergency by urgent anatomical reduction and internal fixation (cannulated screws or sliding hip screw) to minimise AVN and non-union.",
+  "key_note": "",
+  "figure": "",
+  "qid": "3-12"
+ },
+ {
+  "cids": [
+   "C0299"
+  ],
+  "stem": "Fracture of the neck of the femur in the elderly is managed by:",
+  "options": {
+   "A": "Hemiarthroplasty if the patient is physiologically active and community ambulant",
+   "B": "Hip spica if the patient is physically active",
+   "C": "Total hip replacement if the patient is wheelchair bound",
+   "D": "Total hip replacement if the patient was community ambulant before injury, fit for surgery and leads an active life",
+   "E": "Skeletal traction if the patient is physically active"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "For displaced intracapsular fractures, NICE and B&L recommend total hip replacement for patients who were independently mobile, medically fit and cognitively intact, and hemiarthroplasty for frailer, less active patients. Spica and traction have no role in adults.",
+  "key_note": "",
+  "figure": "",
+  "qid": "3-13"
+ },
+ {
+  "cids": [
+   "C0478"
+  ],
+  "stem": "Fracture of the neck of the femur in old age is best treated by:",
+  "options": {
+   "A": "Replacement arthroplasty",
+   "B": "Thomas splint",
+   "C": "Hip spica",
+   "D": "Internal fixation with DHS",
+   "E": "Intramedullary nail"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Displaced intracapsular fractures in the elderly have a high risk of AVN and non-union after fixation, so they are treated by arthroplasty (hemi or total), allowing immediate weight bearing. DHS and nails are used for extracapsular fractures.",
+  "key_note": "",
+  "figure": "",
+  "qid": "3-14"
+ },
+ {
+  "cids": [
+   "C1414"
+  ],
+  "stem": "A 65-year-old woman has pain and inability to bear weight on the right leg 2 days after a fall. X-rays show an intertrochanteric fracture with comminution of the lateral wall. What is the best management option?",
+  "options": {
+   "A": "Proximal femoral nail",
+   "B": "Dynamic hip screw",
+   "C": "Interlocking nail",
+   "D": "Hip arthrodesis",
+   "E": "Reconstruction nail"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "A dynamic hip screw depends on an intact lateral femoral wall; when the wall is comminuted the fracture collapses and medialises, so an intramedullary device (proximal femoral nail) is preferred. DHS remains standard for stable intertrochanteric fractures with an intact lateral wall.",
+  "key_note": "Paper keys differed (one marked E Reconstruction nail, another B Dynamic hip screw); correct is A per the compiled key: lateral wall comminution needs a cephalomedullary nail, not a DHS.",
+  "figure": "",
+  "qid": "3-15"
+ },
+ {
+  "cids": [
+   "C0300"
+  ],
+  "stem": "Definitive management of a femoral shaft fracture in adults is:",
+  "options": {
+   "A": "Hip spica",
+   "B": "Intramedullary nailing",
+   "C": "Long leg cast",
+   "D": "Skin traction",
+   "E": "Skeletal traction"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Closed locked intramedullary nailing is the gold standard for adult femoral shaft fractures: high union rates, early mobilisation and fewer complications of recumbency. Traction is only temporary.",
+  "key_note": "",
+  "figure": "",
+  "qid": "3-16"
+ },
+ {
+  "cids": [
+   "C1418"
+  ],
+  "stem": "A 25-year-old man with cerebral palsy presented after a fall with marked swelling around the right proximal femur; the knee is normal. X-rays show a fracture of the proximal third of the femoral shaft, and the bone is osteopenic. What is the management?",
+  "options": {
+   "A": "Closed reduction and nailing",
+   "B": "Interlocking nailing of the femur",
+   "C": "ORIF with IM nail",
+   "D": "ORIF with locking compression plate (LCP)",
+   "E": "Multiple screw fixation"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "An interlocking intramedullary nail is the standard for adult femoral shaft fractures and is a load-sharing device, which suits osteopenic bone better than a plate. Proximal and distal locking screws control length and rotation.",
+  "key_note": "The 2025 copies (with option C reworded as 'Intramedullary nailing') were marked D (LCP) and C; correct is B per the 2024 key and compiled key.",
+  "figure": "",
+  "qid": "3-17"
+ },
+ {
+  "cids": [
+   "C1418#U2260"
+  ],
+  "stem": "An 18-year-old man with cerebral palsy, weighing 110 lb, presented after a fall with marked swelling around the right distal femur; the knee is stiff in flexion. X-rays show a fracture of the distal third of the femoral shaft with anterior bowing of the proximal fragment from a previous malunion, and the bone is osteopenic. What is the management?",
+  "options": {
+   "A": "Closed reduction and TENS nailing",
+   "B": "Interlocking nailing of the femur",
+   "C": "ORIF with DCP",
+   "D": "ORIF with LCP (locking compression plate)",
+   "E": "Multiple screw fixation"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Anterior bowing from an old malunion blocks passage of an intramedullary nail, and the fracture is distal; a locking compression plate gives angular-stable fixation that holds well in osteopenic bone. A conventional DCP relies on screw purchase, which is poor in osteopenic bone.",
+  "key_note": "The paper key marked B (Interlocking nail); the compiled key's D is correct because the bowed malunited canal will not accept a nail. Split from the 25-year-old proximal-third version, which has a different answer.",
+  "figure": "",
+  "qid": "3-18"
+ },
+ {
+  "cids": [
+   "C0944"
+  ],
+  "stem": "A 40-year-old man is involved in a car crash with BP 80 mmHg. He has a subdural haematoma and a supracondylar fracture of the left femur. FAST shows fluid in the abdomen. In theatre the intra-abdominal bleeding is controlled and the subdural haematoma is drained. The femoral fracture should be treated by:",
+  "options": {
+   "A": "Long leg cast",
+   "B": "Steinmann pin insertion and traction",
+   "C": "Aspiration of the knee joint",
+   "D": "Operative reduction with internal fixation"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Early stabilisation of femoral fractures in polytrauma reduces pulmonary complications, fat embolism and nursing problems, and allows mobilisation; a supracondylar fracture is periarticular and needs anatomical reduction and internal fixation. Traction and casts mean prolonged recumbency.",
+  "key_note": "",
+  "figure": "",
+  "qid": "3-19"
+ },
+ {
+  "cids": [
+   "C1281"
+  ],
+  "stem": "A 20-year-old man has a simple undisplaced closed fracture of the left tibial shaft. What is the best management?",
+  "options": {
+   "A": "Above-knee POP cast",
+   "B": "Open reduction and internal fixation",
+   "C": "Closed reduction and IM nail",
+   "D": "Splint to the leg",
+   "E": "External fixator application"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "A closed, undisplaced (stable) tibial shaft fracture can be treated conservatively in an above-knee cast, later converted to a functional brace. IM nailing is the standard for displaced or unstable fractures, or when early mobilisation is a priority.",
+  "key_note": "The paper key marked C (Closed reduction and IM nail); A is the textbook answer for an undisplaced fracture, though nailing is also widely used and some examiners accept it.",
+  "figure": "",
+  "qid": "3-20"
+ },
+ {
+  "cids": [
+   "C1282"
+  ],
+  "stem": "After a road accident, a 50-year-old man has an open fracture of the right tibia and fibula with an exposed bone fragment. What is the best treatment option?",
+  "options": {
+   "A": "Open reduction and IM nail",
+   "B": "Plating of tibia and fibula",
+   "C": "Conservative with back slab",
+   "D": "POP cast with window",
+   "E": "External fixator application"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "A contaminated open tibial fracture (Gustilo III with exposed bone) is treated with antibiotics, thorough debridement and stabilisation with an external fixator, which avoids implants in a dirty wound and allows soft-tissue care.",
+  "key_note": "",
+  "figure": "",
+  "qid": "3-21"
+ },
+ {
+  "cids": [
+   "C0964"
+  ],
+  "stem": "A 14-year-old boy sustains a closed stable fracture of the upper tibia. After reduction and application of a cast he complains of excessive pain. The next step in his management is:",
+  "options": {
+   "A": "X-rays to check for cast fragments",
+   "B": "Elevate the limb by 5-10 degrees",
+   "C": "Elevate the limb by about 90 degrees",
+   "D": "Remove the cast",
+   "E": "Increase the dose of analgesic"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Severe pain after casting must be presumed to be early compartment syndrome; the cast and padding must be split down to skin (or removed) immediately, then the limb reassessed. Giving more analgesia masks the warning sign.",
+  "key_note": "Option letters differ between papers (one 4-option version), but all keys marked Remove the cast.",
+  "figure": "",
+  "qid": "3-22"
+ },
+ {
+  "cids": [
+   "C0757"
+  ],
+  "stem": "A 23-year-old man undergoes ORIF of the right tibia after a road traffic accident. Shortly after returning to the ward he complains of paraesthesia in his toes and pain in his right foot. The first step of management is:",
+  "options": {
+   "A": "Measure compartment pressures in the right leg",
+   "B": "Prescribe stronger analgesia as this is a common postoperative complaint",
+   "C": "Call your seniors as he may have a trapped nerve from the surgery",
+   "D": "Book theatre immediately for urgent fasciotomy",
+   "E": "Split the cast and reassess the situation in 10 minutes"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Suspected compartment syndrome: the first step is to remove all constricting dressings or casts down to skin and keep the limb at heart level, then reassess; if symptoms persist, urgent fasciotomy follows. Pressure measurement helps only when the clinical picture is unclear.",
+  "key_note": "Not marked in the source paper; answer by reviewer (compiled key agrees).",
+  "figure": "",
+  "qid": "3-23"
+ },
+ {
+  "cids": [
+   "C0130",
+   "C1270"
+  ],
+  "stem": "A biker had a road accident with swelling of the right leg. There is tenderness at the upper end of the fibula with a fracture of the fibular neck, and the common peroneal nerve is damaged. What is the most likely presentation?",
+  "options": {
+   "A": "Weakness and bending of the knee",
+   "B": "Difficulty extending the leg",
+   "C": "Right foot drop",
+   "D": "Abnormal reflexes",
+   "E": "Numbness of the gluteal area"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "The common peroneal nerve winds around the fibular neck; its injury paralyses ankle dorsiflexors and evertors, giving foot drop with high-stepping gait and numbness over the dorsum of the foot. Knee extension (femoral) and reflexes are unaffected.",
+  "key_note": "",
+  "figure": "",
+  "qid": "3-24"
+ },
+ {
+  "cids": [
+   "C1416"
+  ],
+  "stem": "A 45-year-old man fell from 20 feet and has pain and swelling of the right ankle. X-rays show a tongue-type fracture of the right calcaneum. What is the management?",
+  "options": {
+   "A": "Open reduction and screw fixation",
+   "B": "Open reduction and fixation with anatomical plate",
+   "C": "Walking cast",
+   "D": "Conservative treatment",
+   "E": "Closed reduction and percutaneous fixation with screws"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Displaced intra-articular calcaneal fractures in a fit young adult are commonly treated by open reduction and internal fixation with a contoured calcaneal plate once swelling settles (wrinkle sign). Tongue-type fractures can also be reduced percutaneously (Essex-Lopresti), so E is a recognised alternative.",
+  "key_note": "Paper and compiled keys agree on B; E (percutaneous screws) is also accepted for tongue-type fractures in some centres.",
+  "figure": "",
+  "qid": "3-25"
+ },
+ {
+  "ncids": [
+   "K0238"
+  ],
+  "stem": "A 14-year-old boy falls down the stairs and is brought to the emergency department with an obvious deformity of the thigh indicating a femoral fracture. He is haemodynamically stable. The most important thing to do for the limb in the emergency department is:",
+  "options": {
+   "A": "Send the patient for X-rays",
+   "B": "Apply skin traction",
+   "C": "Maintain an IV line",
+   "D": "Give an injection of analgesia",
+   "E": "Neurovascular assessment of the limb"
+  },
+  "answer": "E",
+  "explanation": "After the primary survey, every limb fracture must have the distal pulses, capillary refill, sensation and motor function assessed and documented before splinting or X-ray, since vascular or nerve injury changes management urgently.",
+  "key_note": "",
+  "_new": true,
+  "qid": "3-N1"
+ },
+ {
+  "ncids": [
+   "K0275"
+  ],
+  "stem": "A 90-year-old man has a displaced intracapsular fracture of the neck of the femur, with complete separation of the fragments on the lateral X-ray. Which of the following is the most appropriate treatment?",
+  "options": {
+   "A": "Hemiarthroplasty and bed rest",
+   "B": "Conservative management with skin traction",
+   "C": "Fixation with a dynamic hip screw (DHS)",
+   "D": "Screw fixation and immediate partial weight bearing",
+   "E": "Hip replacement within 24 to 48 hours and mobilisation the next day"
+  },
+  "answer": "E",
+  "explanation": "A displaced intracapsular fracture in the elderly is treated by early replacement arthroplasty (within 36 to 48 hours) with mobilisation the next day, because fixation has high rates of nonunion and AVN. Prolonged bed rest or traction causes pneumonia, pressure sores and thromboembolism.",
+  "key_note": "",
+  "_new": true,
+  "qid": "3-N2"
+ },
+ {
+  "ncids": [
+   "K0296"
+  ],
+  "stem": "The commonest complication of an untreated extracapsular (intertrochanteric) fracture of the neck of the femur is:",
+  "options": {
+   "A": "Nonunion",
+   "B": "Malunion",
+   "C": "Avascular necrosis",
+   "D": "Delayed union",
+   "E": "Pulmonary embolism"
+  },
+  "answer": "B",
+  "explanation": "Extracapsular fractures occur through well-vascularised cancellous bone and usually unite, but untreated they unite in malposition, typically coxa vara with shortening and external rotation. AVN and nonunion are complications of intracapsular fractures.",
+  "key_note": "Bank marked C (avascular necrosis); correct is B because AVN complicates intracapsular fractures, whereas extracapsular fractures unite but malunite into varus and external rotation.",
+  "_new": true,
+  "qid": "3-N3"
+ },
+ {
+  "ncids": [
+   "K0312"
+  ],
+  "stem": "Regarding the management protocol for an open fracture of the shaft of the femur, which statement is NOT true?",
+  "options": {
+   "A": "Wound debridement under aseptic conditions",
+   "B": "Fracture stabilisation with an external fixator",
+   "C": "Take a swab for culture and sensitivity and start antibiotics",
+   "D": "Stitch the wound primarily immediately after debridement",
+   "E": "Manage the wound with VAC dressing if required"
+  },
+  "answer": "D",
+  "explanation": "Open fracture wounds are not closed primarily after debridement when contaminated; they are left open or covered with VAC dressing and closed or covered after re-look debridement. Early antibiotics, debridement and skeletal stabilisation are standard.",
+  "key_note": "",
+  "_new": true,
+  "qid": "3-N4"
+ },
+ {
+  "ncids": [
+   "K0314"
+  ],
+  "stem": "Popliteal artery injury at the level of the distal femur is commonly due to:",
+  "options": {
+   "A": "Pressure from the distal fragment of a supracondylar fracture of the femur",
+   "B": "Tight plaster",
+   "C": "A skeletal traction pin passing through the distal femur",
+   "D": "Pressure from the proximal fragment of the femur",
+   "E": "Haematoma"
+  },
+  "answer": "A",
+  "explanation": "In a supracondylar femoral fracture the gastrocnemius pulls the distal fragment backwards into the popliteal fossa, where it can injure the popliteal artery.",
+  "key_note": "",
+  "_new": true,
+  "qid": "3-N5"
+ },
+ {
+  "ncids": [
+   "K0315"
+  ],
+  "stem": "An 80-year-old thin woman, on bisphosphonates for 10 years, stumbled at home and is now unable to bear weight on her left lower limb. X-ray is not available. What is the most likely provisional diagnosis?",
+  "options": {
+   "A": "Hip dislocation",
+   "B": "Fracture of the left superior and inferior pubic rami",
+   "C": "Soft tissue injury around the hip",
+   "D": "Fracture of the neck of the femur",
+   "E": "Intertrochanteric fracture of the left hip"
+  },
+  "answer": "D",
+  "explanation": "An elderly osteoporotic woman who cannot bear weight after a trivial fall has a fracture of the neck of the femur until proved otherwise; intracapsular neck fractures are the commonest hip fractures. Long-term bisphosphonates are linked with atypical subtrochanteric fractures, not specifically intertrochanteric ones, and an intertrochanteric fracture cannot be distinguished without X-ray.",
+  "key_note": "Bank marked E (intertrochanteric fracture); correct is D because without imaging the provisional diagnosis in an elderly osteoporotic woman unable to bear weight after a minor fall is fracture neck of femur, and nothing in the history points specifically to an intertrochanteric fracture.",
+  "_new": true,
+  "qid": "3-N6"
+ },
+ {
+  "ncids": [
+   "K0805"
+  ],
+  "stem": "Regarding fracture of the shaft of the femur, which statement is true?",
+  "options": {
+   "A": "Blood loss may be up to 1 to 1.5 litres",
+   "B": "It is a very common sports injury",
+   "C": "It is always an open fracture",
+   "D": "It is always a closed fracture",
+   "E": "Mid shaft fracture is common in old age"
+  },
+  "answer": "A",
+  "explanation": "A closed femoral shaft fracture can conceal 1 to 1.5 litres of blood in the thigh, enough to cause hypovolaemic shock. These fractures are usually high-energy injuries in young adults and may be open or closed.",
+  "key_note": "",
+  "_new": true,
+  "qid": "3-N7"
+ },
+ {
+  "ncids": [
+   "K0813"
+  ],
+  "stem": "Regarding fracture of the neck of the femur, which statement is true?",
+  "options": {
+   "A": "It is a fracture of necessity",
+   "B": "It is not an emergency",
+   "C": "Osteonecrosis is not a complication",
+   "D": "Nonunion is very common if it is not fixed",
+   "E": "It is common in children"
+  },
+  "answer": "D",
+  "explanation": "Intracapsular femoral neck fractures, bathed in synovial fluid with a poor blood supply and shear forces, have a high rate of nonunion and AVN if not fixed or replaced. Fracture of necessity refers to Galeazzi fractures, and neck of femur fractures are commonest in elderly osteoporotic women.",
+  "key_note": "",
+  "_new": true,
+  "qid": "3-N8"
+ },
+ {
+  "ncids": [
+   "K0817"
+  ],
+  "stem": "Regarding posterior dislocation of the hip, which statement is true?",
+  "options": {
+   "A": "It is not associated with dashboard injury",
+   "B": "It may cause sciatic nerve injury",
+   "C": "It is usually due to trivial trauma",
+   "D": "It is common in elderly people",
+   "E": "It is commonly associated with femoral neck injury"
+  },
+  "answer": "B",
+  "explanation": "Posterior hip dislocation results from a high-energy dashboard injury in young adults and injures the sciatic nerve (mainly its peroneal division) in about 10 to 20% of cases; posterior acetabular wall fractures are the usual associated fracture.",
+  "key_note": "Bank marked D (common in elderly); correct is B because posterior hip dislocation is a high-energy injury of young adults and sciatic nerve injury is its classic complication.",
+  "_new": true,
+  "qid": "3-N9"
+ },
+ {
+  "ncids": [
+   "K0954"
+  ],
+  "stem": "A Thomas splint is used for fractures of the:",
+  "options": {
+   "A": "Lower limb (femoral shaft)",
+   "B": "Cervical vertebrae",
+   "C": "Upper limb",
+   "D": "Lumbar vertebrae",
+   "E": "Ribs"
+  },
+  "answer": "A",
+  "explanation": "The Thomas splint is used for femoral shaft fractures, particularly for first aid and transport and for fixed traction, as it reduces pain and blood loss by maintaining length.",
+  "key_note": "",
+  "_new": true,
+  "qid": "3-N10"
+ },
+ {
+  "ncids": [
+   "K0997"
+  ],
+  "stem": "A 21-year-old motorcyclist has a fracture of the right tibia with a 5 cm laceration over the fracture site but no extensive soft tissue loss. He should be treated by:",
+  "options": {
+   "A": "Wound debridement and daily antiseptic dressing",
+   "B": "Wound debridement with antibiotics",
+   "C": "Wound debridement with antibiotics and internal fixation",
+   "D": "Wound debridement with antibiotics and external fixation",
+   "E": "Wound debridement with antibiotics and POP"
+  },
+  "answer": "C",
+  "explanation": "A Gustilo grade II open tibial fracture (laceration over 1 cm without extensive soft tissue damage) is treated with early IV antibiotics, thorough debridement and skeletal stabilisation, usually by reamed intramedullary nailing when soft tissue cover can be achieved. External fixation is preferred for heavily contaminated or grade III injuries and in damage control.",
+  "key_note": "",
+  "_new": true,
+  "qid": "3-N11"
+ },
+ {
+  "ncids": [
+   "K1042"
+  ],
+  "stem": "A road traffic accident victim has a multi-fragment displaced fracture of the pelvis that now needs reconstruction. He is clinically stable. Which investigation gives the most information for planning?",
+  "options": {
+   "A": "CT scan",
+   "B": "Bone scan",
+   "C": "Fluoroscopy",
+   "D": "MRI",
+   "E": "Ultrasound"
+  },
+  "answer": "A",
+  "explanation": "CT with 3D reconstruction defines the fracture pattern, acetabular and sacroiliac involvement and displacement, and is the investigation of choice for planning pelvic and acetabular fixation in a stable patient.",
+  "key_note": "",
+  "_new": true,
+  "qid": "3-N12"
+ },
+ {
+  "ncids": [
+   "K1048"
+  ],
+  "stem": "A road traffic accident victim presents 3 days after injury; his open fracture of the tibia and fibula was managed by a quack with a tight splint. On removal there is foul-smelling pus, blistering and black discolouration of the skin up to the knee, with crepitus around the wound. What is the best management?",
+  "options": {
+   "A": "Above knee amputation",
+   "B": "Below knee amputation",
+   "C": "Debridement of the wound and back slab",
+   "D": "Debridement of the wound and POP cast",
+   "E": "IV antibiotics and aseptic dressing of the wound"
+  },
+  "answer": "A",
+  "explanation": "Crepitus, foul discharge, blistering and black skin indicate gas gangrene (clostridial myonecrosis). With necrosis extending to the knee, a life-saving amputation above the level of involvement (above knee) with high-dose penicillin and resuscitation is needed.",
+  "key_note": "",
+  "_new": true,
+  "qid": "3-N13"
+ },
+ {
+  "ncids": [
+   "K1207"
+  ],
+  "stem": "A 70-year-old woman, hypertensive on diuretics and living alone, sustains a fractured neck of the femur and is admitted at 7.30 pm. Her BP is 160/100 mmHg, pulse 70/min; she is fully alert and orientated with no other injuries. The best approach is:",
+  "options": {
+   "A": "Set her up for operation as soon as possible that evening",
+   "B": "Wait for the blood results, then discuss with the anaesthetist and optimise her for surgery on the next morning's list",
+   "C": "Leave all planning until the morning as it is now out of hours",
+   "D": "Insist on operating that night however long you have to wait",
+   "E": "Apply a Cramer wire splint with 5 kg weight on sliding traction"
+  },
+  "answer": "B",
+  "explanation": "Hip fracture surgery should be done on a planned daytime list within 36 to 48 hours after assessment and optimisation (bloods, electrolytes in a patient on diuretics, BP). Night-time surgery by junior teams increases risk, and preoperative traction is no longer recommended.",
+  "key_note": "Bank marked E (traction); correct is B because preoperative traction gives no benefit and the patient should be optimised and operated on the next planned daytime list.",
+  "_new": true,
+  "qid": "3-N14"
+ },
+ {
+  "ncids": [
+   "K1370"
+  ],
+  "stem": "Figure of eight tension band wiring is commonly done for fractures of the:",
+  "options": {
+   "A": "Clavicle",
+   "B": "Medial femoral condyle",
+   "C": "Patella",
+   "D": "Talus"
+  },
+  "answer": "C",
+  "explanation": "Tension band wiring (K-wires with a figure of eight wire) converts the distracting pull of the quadriceps into compression at the fracture site and is used for displaced transverse patellar and olecranon fractures.",
+  "key_note": "",
+  "_new": true,
+  "qid": "3-N15"
+ },
+ {
+  "ncids": [
+   "K1372"
+  ],
+  "stem": "Avascular necrosis of the femoral head results from:",
+  "options": {
+   "A": "Fracture of the neck of the femur",
+   "B": "Alcoholism",
+   "C": "Steroid therapy",
+   "D": "Idiopathic causes",
+   "E": "All of the above"
+  },
+  "answer": "E",
+  "explanation": "Causes of femoral head AVN include trauma (intracapsular neck fracture, dislocation), corticosteroids, alcohol, sickle cell disease, caisson disease and idiopathic cases.",
+  "key_note": "",
+  "_new": true,
+  "qid": "3-N16"
+ },
+ {
+  "ncids": [
+   "K1685"
+  ],
+  "stem": "A transverse fracture of the shaft of the tibia is usually caused by:",
+  "options": {
+   "A": "A direct impact (bending force) at the site of fracture",
+   "B": "Twisting of the bone",
+   "C": "Axial compression",
+   "D": "Crush injury",
+   "E": "Blunt injury"
+  },
+  "answer": "A",
+  "explanation": "Transverse fractures result from a direct blow or bending force at the fracture site; twisting produces spiral fractures, axial compression produces compression or burst fractures, and crush injuries produce comminution.",
+  "key_note": "",
+  "_new": true,
+  "qid": "3-N17"
+ }
+]

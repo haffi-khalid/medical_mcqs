@@ -1,0 +1,95 @@
+[
+ {
+  "cids": [
+   "C0011"
+  ],
+  "stem": "A newborn male infant is brought to the outpatient department because his parents are worried about his unilateral cleft lip and palate. Which of the following is true?",
+  "options": {
+   "A": "This child certainly has other anomalies as well",
+   "B": "Speech therapy is an important part of rehabilitation",
+   "C": "Lip repair should be done at 2 years",
+   "D": "Palate repair should be done at 5 months",
+   "E": "Both lip and palate should be repaired immediately"
+  },
+  "answer": "B",
+  "explanation": "Cleft palate care is multidisciplinary and speech therapy is central to rehabilitation because velopharyngeal function determines speech outcome. Most isolated clefts have no other anomaly, the lip is repaired at about 3 months and the palate at about 6-12 months, not immediately.",
+  "key_note": "",
+  "answer_text": "",
+  "figure": "",
+  "qid": "41-1"
+ },
+ {
+  "cids": [
+   "C0027"
+  ],
+  "stem": "A newborn has been brought to the outpatient department by parents for surgery of a unilateral cleft lip. What is the best timing of surgery for this pathology?",
+  "options": {
+   "A": "One operation at 12 months age",
+   "B": "Two operations at 5-6 months age",
+   "C": "One operation at 5-6 months age",
+   "D": "Two operations at 8-9 months age",
+   "E": "One operation at 18 months age"
+  },
+  "answer": "C",
+  "explanation": "A unilateral cleft lip is repaired in a single operation at around 3-6 months of age (traditional 'rule of 10s': 10 weeks, 10 lb, Hb 10 g/dL). Bilateral clefts may be staged, but a unilateral lip needs one procedure.",
+  "key_note": "",
+  "answer_text": "",
+  "figure": "",
+  "qid": "41-2"
+ },
+ {
+  "cids": [
+   "C0961"
+  ],
+  "stem": "Cleft palate surgery is best carried out at:",
+  "options": {
+   "A": "2-6 months",
+   "B": "6-18 months",
+   "C": "18-22 months",
+   "D": "2-3 years",
+   "E": "5 years"
+  },
+  "answer": "B",
+  "explanation": "The palate is repaired between 6 and 18 months (ideally before 12 months), before the child starts speaking, to allow normal speech development. Later repair worsens speech; very early repair may impair maxillary growth.",
+  "key_note": "",
+  "answer_text": "",
+  "figure": "",
+  "qid": "41-3"
+ },
+ {
+  "cids": [
+   "C0898"
+  ],
+  "stem": "Cleft palate may be associated with which of the following abnormalities?",
+  "options": {
+   "A": "Otitis media and deafness",
+   "B": "Dental anomalies",
+   "C": "Speech impairment",
+   "D": "All of these"
+  },
+  "answer": "D",
+  "explanation": "Abnormal insertion of tensor and levator veli palatini causes Eustachian tube dysfunction, leading to otitis media with effusion and conductive deafness. Dental anomalies and speech impairment (hypernasality) are also typical.",
+  "key_note": "",
+  "answer_text": "",
+  "figure": "",
+  "qid": "41-4"
+ },
+ {
+  "ncids": [
+   "K1646"
+  ],
+  "stem": "A baby with a unilateral cleft lip presents to the OPD. What is the best time for surgical repair?",
+  "options": {
+   "A": "5-6 months",
+   "B": "4-5 months",
+   "C": "6 months",
+   "D": "2-3 months",
+   "E": "First month of life"
+  },
+  "answer": "D",
+  "explanation": "Bailey & Love gives cleft lip repair at about 3 months (the 'rule of 10s': 10 weeks, 10 lb, Hb 10 g/dl), with the palate repaired at 6 to 12 months. Neonatal repair offers no advantage and carries more anaesthetic risk.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "41-N1"
+ }
+]

@@ -1,0 +1,573 @@
+[
+ {
+  "cids": [
+   "C0816"
+  ],
+  "stem": "Which of the following statements about malignant transformation of cells is true?",
+  "options": {
+   "A": "Cells have limited growth",
+   "B": "Cells have no angiogenic competence",
+   "C": "Cells show decreased or no apoptosis",
+   "D": "Cells remain well localised",
+   "E": "Cells have no multiplication potential"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Malignant cells evade apoptosis (for example through p53 loss or BCL-2 overexpression), along with unlimited replicative potential, sustained angiogenesis and invasion. All the other options describe benign or normal behaviour.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G12-1"
+ },
+ {
+  "cids": [
+   "N027"
+  ],
+  "stem": "TNM classification of a malignant tumor was designed as:",
+  "options": {},
+  "answer": null,
+  "answer_text": "A clinical (anatomical) staging system",
+  "explanation": "TNM (tumour, node, metastasis) is an anatomical clinical staging system describing extent of disease, used to plan treatment, give prognosis and compare results; the pathological version is written pTNM.",
+  "key_note": "Options not available in the source; recall question.",
+  "figure": "",
+  "qid": "G12-2"
+ },
+ {
+  "cids": [
+   "C0670"
+  ],
+  "stem": "Routine cancer screening should be performed for which of the following cancers?",
+  "options": {
+   "A": "Leukemia",
+   "B": "Renal cancer",
+   "C": "Sarcoma",
+   "D": "Breast cancer",
+   "E": "Pancreatic cancer"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Population screening is justified only for common cancers with a detectable preclinical phase and effective early treatment: breast (mammography), cervix and colorectal cancer. Leukaemia, renal cancer, sarcoma and pancreatic cancer have no effective population screening test.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G12-3"
+ },
+ {
+  "cids": [
+   "C0526"
+  ],
+  "stem": "Different tumor markers are available for diagnosis of certain malignant conditions. CEA is one of the tumor marker widely used in surgery. Raised CEA levels are diagnostic of",
+  "options": {
+   "A": "Breast carcinoma.",
+   "B": "Colorectal carcinoma.",
+   "C": "Gastric carcinoma.",
+   "D": "Lung carcinoma",
+   "E": "Pancreatic carcinoma."
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "CEA is the tumour marker associated with colorectal carcinoma, but it is not truly diagnostic: it is non-specific (raised in smokers, gastric, pancreatic, breast and lung cancer) and its main use is prognosis and postoperative surveillance for recurrence.",
+  "key_note": "Stem wording is flawed (CEA is not diagnostic of any cancer); B is the intended and best answer.",
+  "figure": "",
+  "qid": "G12-4"
+ },
+ {
+  "cids": [
+   "C0528"
+  ],
+  "stem": "Different tumor markers are available for diagnosis of certain malignant as well as non-malignant conditions. CA19-9 is one of the tumor marker widely used in surgery. Raised CA19-9 is helpful in the diagnosis of",
+  "options": {
+   "A": "Biliary obstruction",
+   "B": "Cirrhosis",
+   "C": "Esophageal cancer",
+   "D": "Pancreatic cancer",
+   "E": "Pancreatitis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "CA 19-9 is the marker used for pancreatic adenocarcinoma, for diagnosis support, prognosis and follow-up. It is falsely raised in obstructive jaundice, pancreatitis and cirrhosis, and is absent in Lewis antigen negative people.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G12-5"
+ },
+ {
+  "cids": [
+   "C0106"
+  ],
+  "stem": "A patient receives a treatment that targets rapidly dividing cancer cells. On what part of cell the treatment will work?",
+  "options": {
+   "A": "Damaging DNA to prevent cell division",
+   "B": "Disrupting cell membrane function",
+   "C": "Inhibiting hormone production",
+   "D": "Enhancing immune response",
+   "E": "Inhibit mitosis of the cell"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Conventional cytotoxic chemotherapy kills rapidly dividing cells mainly by damaging DNA or blocking its synthesis, so that cell division cannot proceed. Spindle poisons (vinca alkaloids, taxanes) that inhibit mitosis are a subgroup, but DNA damage is the general mechanism.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G12-6"
+ },
+ {
+  "cids": [
+   "C1313"
+  ],
+  "stem": "Which of the following is a chemotherapeutic drug that interferes with DNA synthesis?",
+  "options": {
+   "A": "Vinblastine",
+   "B": "Vincristine",
+   "C": "Cisplatin",
+   "D": "5-fluorouracil",
+   "E": "Etoposide"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "5-fluorouracil is an antimetabolite (pyrimidine analogue) that inhibits thymidylate synthase, blocking DNA synthesis in S phase. Vinblastine and vincristine are spindle poisons, cisplatin cross-links existing DNA and etoposide inhibits topoisomerase II.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G12-7"
+ },
+ {
+  "cids": [
+   "C0066"
+  ],
+  "stem": "A patient with colorectal cancer is prescribed a chemotherapy regimen that includes 5-fluorouracil (5-FU). What is the primary mechanism of action of 5-FU?",
+  "options": {
+   "A": "Inhibiting DNA synthesis",
+   "B": "Targeting topoisomerase",
+   "C": "Inhibiting angiogenesis",
+   "D": "Stimulating apoptosis",
+   "E": "Enhancing immune response"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "5-FU is converted to FdUMP, which inhibits thymidylate synthase and so blocks thymidine and DNA synthesis; its metabolites are also incorporated into RNA. Topoisomerase inhibition is the action of irinotecan and etoposide.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G12-8"
+ },
+ {
+  "cids": [
+   "C0065"
+  ],
+  "stem": "A patient with lymphoma is prescribed a chemotherapy regimen that includes rituximab. What is the primary mechanism of action of rituximab?",
+  "options": {
+   "A": "Inhibiting DNA synthesis",
+   "B": "Targeting CD20-positive B cells",
+   "C": "Inhibiting angiogenesis",
+   "D": "Stimulating apoptosis",
+   "E": "Enhancing immune response"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Rituximab is a chimeric monoclonal antibody against CD20 on B lymphocytes, killing them by complement-dependent and antibody-dependent cytotoxicity; it is used in B cell lymphomas.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G12-9"
+ },
+ {
+  "cids": [
+   "C1479"
+  ],
+  "stem": "A patient is having chemotherapy for carcinoma lung. Which organs will have maximum damage as a side effect?",
+  "options": {
+   "A": "Skin & Breast",
+   "B": "GIT & Genitalia",
+   "C": "Hair & Nails",
+   "D": "Brain & thyroid",
+   "E": "Ovaries & Uterus"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Cytotoxic drugs damage rapidly dividing tissues: bone marrow, gastrointestinal mucosa (mucositis, diarrhoea), hair follicles and the gonads. Of the pairs offered, GIT and genitalia (gonads) is the best answer.",
+  "key_note": "Paper key marked E (ovaries and uterus); correct is B: the GI mucosa and gonads are rapidly dividing tissues, whereas the uterus is not a major target and the patient's sex is not stated.",
+  "figure": "",
+  "qid": "G12-10"
+ },
+ {
+  "cids": [
+   "C0062"
+  ],
+  "stem": "A 35-year woman with breast cancer is prescribed a chemotherapy regimen that includes doxorubicin. She has a history of hypertension and cardiac disease. What is the most important consideration for her treatment?",
+  "options": {
+   "A": "Dose reduction of doxorubicin",
+   "B": "Close monitoring of cardiac function",
+   "C": "Use of cardio protective agents",
+   "D": "Alternative chemotherapy regimen",
+   "E": "Use radiotherapy"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Doxorubicin causes dose-dependent cardiomyopathy, so a patient with pre-existing heart disease needs baseline and serial assessment of left ventricular function (echo or MUGA) during treatment, with dose modification or a change of regimen if function falls.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G12-11"
+ },
+ {
+  "cids": [
+   "C0064"
+  ],
+  "stem": "A 45-year woman with stage III breast cancer is prescribed a chemotherapy regimen that includes anthracyclines. What is the most important monitoring parameter for cardiotoxicity?",
+  "options": {
+   "A": "Coagulation profile",
+   "B": "Clotting & bleeding time",
+   "C": "Electrocardiogram (ECG)",
+   "D": "Echocardiogram (echo)",
+   "E": "Blood pressure monitoring"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Anthracycline cardiotoxicity is a fall in left ventricular ejection fraction, so serial echocardiography (or MUGA) of LVEF is the key monitoring test; an ECG does not measure ventricular function.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G12-12"
+ },
+ {
+  "cids": [
+   "C0067"
+  ],
+  "stem": "A patient with breast cancer is prescribed a chemotherapy regimen that includes doxorubicin. What is the primary concern for cardiac toxicity with this medication?",
+  "options": {
+   "A": "Hypertension",
+   "B": "Cardiomyopathy",
+   "C": "Arrhythmias",
+   "D": "Myocardial infarction",
+   "E": "Pericarditis"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "The main cardiac toxicity of doxorubicin is cumulative dose-related dilated cardiomyopathy and heart failure (risk rises steeply above about 450-550 mg/m2), caused by free radical damage to myocytes.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G12-13"
+ },
+ {
+  "cids": [
+   "C0068"
+  ],
+  "stem": "A 60-year man with stage III colon cancer is receiving adjuvant FOLFOX (5-FU + leucovorin + oxaliplatin). After two cycles, he complains of numbness and tingling in his hands and feet. Which drug is most likely responsible?",
+  "options": {
+   "A": "5-Fluorouracil",
+   "B": "Leucovorin",
+   "C": "Oxaliplatin",
+   "D": "Irinotecan",
+   "E": "Methotrexate"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Oxaliplatin causes a cumulative sensory peripheral neuropathy (glove and stocking numbness and tingling) plus acute cold-induced dysaesthesia, and is often the dose-limiting toxicity of FOLFOX. 5-FU mainly causes mucositis, diarrhoea and hand-foot syndrome.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G12-14"
+ },
+ {
+  "cids": [
+   "C0063"
+  ],
+  "stem": "A patient with colon cancer is prescribed a chemotherapy regimen that includes 5-fluorouracil (5-FU) and leucovorin. He develops severe diarrhea and mucositis. What is the most appropriate next step?",
+  "options": {
+   "A": "Reduce the dose of 5-FU",
+   "B": "Administer supportive care",
+   "C": "Delay the next cycle of chemotherapy",
+   "D": "Switch to a different chemotherapy",
+   "E": "Use radiotherapy instead"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Severe diarrhoea and mucositis are 5-FU toxicities; the immediate step is supportive care (fluids, electrolytes, antidiarrhoeals such as loperamide, mouth care, treat infection). Dose reduction or delay of the next cycle follows once the patient is stabilised.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G12-15"
+ },
+ {
+  "cids": [
+   "C0070"
+  ],
+  "stem": "A 63-year man on methotrexate for lymphoma develops severe oral mucositis and pancytopenia. Which drug can reverse these effects?",
+  "options": {
+   "A": "Leucovorin",
+   "B": "Mesna",
+   "C": "Filgrastim",
+   "D": "Palifermin",
+   "E": "Cisplatin"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Leucovorin (folinic acid) rescue bypasses the dihydrofolate reductase block caused by methotrexate and reverses its marrow and mucosal toxicity. Mesna protects the bladder from cyclophosphamide/ifosfamide; filgrastim only stimulates neutrophils.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G12-16"
+ },
+ {
+  "cids": [
+   "C0069"
+  ],
+  "stem": "A 35-year man with testicular cancer develops severe nausea and vomiting within hours of receiving cisplatin-based chemotherapy. Which is the best prophylactic antiemetic regimen?",
+  "options": {
+   "A": "5-HT3 antagonist + dexamethasone + NK1 receptor antagonist",
+   "B": "Metoclopramide + dexamethasone",
+   "C": "Benzodiazepine + Mesacol + dexamethasone",
+   "D": "Gravinate + dexamethasone",
+   "E": "Solu-Cortef + metoclopramide + NK1 receptor antagonist"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Cisplatin is highly emetogenic, and the recommended prophylaxis is triple therapy: a 5-HT3 antagonist (ondansetron), dexamethasone and an NK1 receptor antagonist (aprepitant).",
+  "key_note": "",
+  "figure": "",
+  "qid": "G12-17"
+ },
+ {
+  "cids": [
+   "C1312"
+  ],
+  "stem": "The Five R's of Radiotherapy stand for all except:",
+  "options": {
+   "A": "Repair",
+   "B": "Re-oxygenation",
+   "C": "Radio-sensitivity",
+   "D": "Repopulation",
+   "E": "Rest"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "The 5 Rs of radiobiology are Repair, Repopulation, Redistribution (reassortment), Reoxygenation and Radiosensitivity; they explain why radiotherapy is fractionated. Rest is not one of them.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G12-18"
+ },
+ {
+  "cids": [
+   "C0107"
+  ],
+  "stem": "A 30-year-old patient with cervical cancer receives a treatment that uses high-energy rays to kill cancer cells. Which treatment option is this?",
+  "options": {
+   "A": "Brachytherapy",
+   "B": "External beam radiotherapy",
+   "C": "Chemotherapy",
+   "D": "Hormone therapy",
+   "E": "Surgical Excision"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "External beam radiotherapy delivers high-energy X-rays from a linear accelerator outside the body. Brachytherapy places a sealed radioactive source inside or next to the tumour (used as a boost in cervical cancer), so it is not the treatment described.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G12-19"
+ },
+ {
+  "cids": [
+   "C1478"
+  ],
+  "stem": "What is safe way to deliver high dose radiotherapy for an irregular growth in a cancer patient?",
+  "options": {
+   "A": "Brachytherapy in target cells",
+   "B": "Image guided radiation therapy",
+   "C": "Intensity modulated radiation therapy",
+   "D": "Stereotactic ablative therapy",
+   "E": "Targeted radiotherapy"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Intensity modulated radiotherapy (IMRT) varies the beam intensity across many fields so the high dose conforms to an irregularly shaped tumour while sparing surrounding normal tissue.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G12-20"
+ },
+ {
+  "cids": [
+   "C0870"
+  ],
+  "stem": "Which of the following modalities prevents the recurrence [words missing in source] surgical resection?",
+  "options": {
+   "A": "Adjuvant chemotherapy",
+   "B": "Neoadjuvant radiotherapy",
+   "C": "Adjuvant radiotherapy",
+   "D": "Neoadjuvant chemotherapy",
+   "E": "None of the above"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Neoadjuvant chemotherapy is given before resection to downstage the tumour, increase resectability and treat micrometastases early, thereby reducing recurrence. Adjuvant chemotherapy is the corresponding treatment given after resection.",
+  "key_note": "Stem partly cut off in the source; the paper key marked D, which fits only if the missing words refer to treatment given before resection; if the question meant therapy given after resection, adjuvant chemotherapy (A) would be the answer.",
+  "figure": "",
+  "qid": "G12-21"
+ },
+ {
+  "ncids": [
+   "K0152"
+  ],
+  "stem": "Samples for routine histopathology are immediately placed in which fixative to preserve morphology?",
+  "options": {
+   "A": "10% alcohol",
+   "B": "10% formaldehyde (formalin)",
+   "C": "10% glucose",
+   "D": "10% mannitol",
+   "E": "10% saline"
+  },
+  "answer": "B",
+  "explanation": "10% neutral buffered formalin is the standard fixative for routine histopathology; fresh (unfixed) samples are sent only for frozen section, microbiology or flow cytometry.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G12-N1"
+ },
+ {
+  "ncids": [
+   "K0188"
+  ],
+  "stem": "Features of malignant transformation of tissue include all of the following EXCEPT:",
+  "options": {
+   "A": "Evasion of apoptosis",
+   "B": "Acquisition of angiogenic competence",
+   "C": "Acquisition of the ability to invade",
+   "D": "Acquisition of the ability not to disseminate and implant",
+   "E": "Evocation of inflammation"
+  },
+  "answer": "D",
+  "explanation": "Hallmarks of cancer include evading apoptosis, sustained angiogenesis, invasion and metastasis (dissemination and implantation) and tumour-promoting inflammation; losing the ability to disseminate is the opposite of malignancy.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G12-N2"
+ },
+ {
+  "ncids": [
+   "K0189"
+  ],
+  "stem": "Human papillomavirus (HPV) is associated with which of the following tumours?",
+  "options": {
+   "A": "Cervical cancer",
+   "B": "Kaposi's sarcoma",
+   "C": "Lymphomas",
+   "D": "Germ cell tumours",
+   "E": "Bladder cancer"
+  },
+  "answer": "A",
+  "explanation": "High-risk HPV types 16 and 18 cause cervical (and anal, oropharyngeal) squamous carcinoma. Kaposi's sarcoma is due to HHV-8.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G12-N3"
+ },
+ {
+  "ncids": [
+   "K0191"
+  ],
+  "stem": "Tissue diagnosis of malignant disease can be confirmed by which of the following methods?",
+  "options": {
+   "A": "Ultrasound",
+   "B": "MRI",
+   "C": "CT scan",
+   "D": "X-ray",
+   "E": "FNAC"
+  },
+  "answer": "E",
+  "explanation": "Only cytology or histology (FNAC, core or excision biopsy) confirms malignancy; imaging can only suggest it.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G12-N4"
+ },
+ {
+  "ncids": [
+   "K0326"
+  ],
+  "stem": "Which of the following malignancies can be cured by radiotherapy alone?",
+  "options": {
+   "A": "Lymphoma",
+   "B": "Breast carcinoma",
+   "C": "Squamous cell carcinoma",
+   "D": "Leukaemia",
+   "E": "Oesophageal carcinoma"
+  },
+  "answer": "C",
+  "explanation": "Early squamous cell carcinomas (skin, larynx, cervix) are radiosensitive and can be cured with radiotherapy alone. Lymphoma and leukaemia are systemic diseases treated mainly with chemotherapy, and breast and oesophageal cancer need multimodal treatment.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G12-N5"
+ },
+ {
+  "ncids": [
+   "K0690"
+  ],
+  "stem": "Which of the following is NOT a recognised factor in the development of a tumour?",
+  "options": {
+   "A": "Familial (genetic) predisposition",
+   "B": "Viruses",
+   "C": "Over-eating, especially a high-protein diet",
+   "D": "Smoking"
+  },
+  "answer": "C",
+  "explanation": "Inherited mutations, oncogenic viruses (HPV, HBV, EBV) and smoking are established carcinogenic factors; a high-protein diet per se is not.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G12-N6"
+ },
+ {
+  "ncids": [
+   "K1242"
+  ],
+  "stem": "5-fluorouracil is the chemotherapeutic agent of choice for:",
+  "options": {
+   "A": "Brain tumour",
+   "B": "Colorectal carcinoma",
+   "C": "Lymphoma",
+   "D": "Osteogenic sarcoma",
+   "E": "Seminoma"
+  },
+  "answer": "B",
+  "explanation": "5-FU (with leucovorin, often with oxaliplatin as FOLFOX) is the backbone of chemotherapy for colorectal cancer. Seminoma is treated with platinum-based regimens and osteosarcoma with methotrexate, doxorubicin and cisplatin.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G12-N7"
+ },
+ {
+  "ncids": [
+   "K1515"
+  ],
+  "stem": "A 35-year-old woman has developed a 6 cm mass on her anterior thigh over the past ten months. It appears fixed to the underlying muscle. What is the most appropriate next step?",
+  "options": {
+   "A": "Above-knee amputation",
+   "B": "Excision biopsy",
+   "C": "Incision biopsy",
+   "D": "Bone scan",
+   "E": "Abdominal CT scan"
+  },
+  "answer": "C",
+  "explanation": "A deep, fixed soft-tissue mass larger than 5 cm is a sarcoma until proven otherwise; tissue diagnosis by incisional (or core needle) biopsy along the line of future resection comes first. Excision biopsy risks contaminating tissue planes and compromising definitive surgery.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G12-N8"
+ },
+ {
+  "ncids": [
+   "K1603"
+  ],
+  "stem": "After exposure to ionising radiation, what is the usual latent period before a radiation-induced solid carcinoma develops?",
+  "options": {
+   "A": "Less than 1 year",
+   "B": "Less than 2 years",
+   "C": "2 to 5 years",
+   "D": "10 years or more",
+   "E": "7 to 10 years"
+  },
+  "answer": "D",
+  "explanation": "Radiation-induced leukaemias appear earliest (peak about 5 to 7 years), whereas solid carcinomas and sarcomas typically appear after a latent period of 10 years or more.",
+  "key_note": "Bank marked E (7 to 10 years); correct is D because radiation-induced solid cancers usually take 10 years or longer to develop; the 5 to 10 year window applies to leukaemia.",
+  "_new": true,
+  "qid": "G12-N9"
+ },
+ {
+  "ncids": [
+   "K0700"
+  ],
+  "stem": "Which one of the following is NOT a pre-malignant condition?",
+  "options": {
+   "A": "Bowen's disease",
+   "B": "Solar keratosis",
+   "C": "Marjolin's ulcer",
+   "D": "Leukoplakia"
+  },
+  "answer": "C",
+  "explanation": "Marjolin's ulcer is already a malignancy: a squamous cell carcinoma arising in a chronic scar or ulcer. Bowen's disease (SCC in situ), solar keratosis and leukoplakia are premalignant.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G12-N10"
+ }
+]

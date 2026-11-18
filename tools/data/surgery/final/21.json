@@ -1,0 +1,1220 @@
+[
+ {
+  "cids": [
+   "C0414"
+  ],
+  "stem": "During a hernia operation the spermatic cord is mobilised and slung. The spermatic cord contains all of the following structures EXCEPT:",
+  "options": {
+   "A": "Pampiniform plexus of veins",
+   "B": "Testicular artery",
+   "C": "Vas deferens",
+   "D": "Artery of vas deferens",
+   "E": "Ilioinguinal nerve"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "The ilioinguinal nerve runs through the inguinal canal lying on (outside) the spermatic cord, not within its coverings. The cord contains the vas deferens, testicular artery, artery to the vas, cremasteric artery, pampiniform plexus, genital branch of the genitofemoral nerve, sympathetics and lymphatics.",
+  "key_note": "",
+  "figure": "",
+  "qid": "21-1"
+ },
+ {
+  "cids": [
+   "C0227"
+  ],
+  "stem": "Which structure is seen in the inguinal canal of a female with an inguinal hernia?",
+  "options": {
+   "A": "Artery to Vas",
+   "B": "Cremaster muscle",
+   "C": "Hypoglossal nerve",
+   "D": "Pampiniform veins",
+   "E": "Round ligament"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "In the female the inguinal canal transmits the round ligament of the uterus (with the ilioinguinal nerve), which is the female counterpart of the spermatic cord contents. Pampiniform veins, cremaster and the artery to the vas are male structures.",
+  "key_note": "",
+  "figure": "",
+  "qid": "21-2"
+ },
+ {
+  "cids": [
+   "C0635"
+  ],
+  "stem": "While examining a patient with a groin lump you recall the anatomy of inguinal hernia. Which of the following statements is true?",
+  "options": {
+   "A": "The bulge of inguinal hernia is medial to pubic tubercle",
+   "B": "The bulge of inguinal hernia is lateral to pubic tubercle",
+   "C": "Direct Inguinal hernia passes through the femoral canal",
+   "D": "Indirect inguinal hernia passes through Hesselbach's triangle",
+   "E": "Inguinal Hernia passes below the Inguinal ligament"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "The neck of an inguinal hernia lies above and medial to the pubic tubercle, whereas a femoral hernia lies below and lateral to it. A direct hernia comes through Hesselbach's triangle and an indirect one through the deep ring; neither passes through the femoral canal or below the inguinal ligament.",
+  "key_note": "Paper circled B (lateral to pubic tubercle), though option A was also highlighted; correct is A: the standard Bailey & Love teaching is inguinal hernia above and medial, femoral below and lateral to the pubic tubercle.",
+  "figure": "",
+  "qid": "21-3"
+ },
+ {
+  "cids": [
+   "C0741"
+  ],
+  "stem": "A surgeon is due to perform a laparotomy for perforated duodenal ulcer. An upper midline incision is to be performed. Which of the following structures is the incision most likely to divide?",
+  "options": {
+   "A": "Rectus abdominis muscle",
+   "B": "External oblique muscle",
+   "C": "Linea alba",
+   "D": "Internal oblique muscle",
+   "E": "None of the above"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A midline incision goes through the linea alba, the avascular fusion of the aponeuroses of the three flat muscles, so no muscle is divided. That is why it is quick, relatively bloodless and gives good access.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "21-4"
+ },
+ {
+  "cids": [
+   "C0672"
+  ],
+  "stem": "Common site of obstruction of an abdominal hernia is",
+  "options": {
+   "A": "Body of hernia",
+   "B": "Fundus of hernia",
+   "C": "Inside abdomen",
+   "D": "Neck of hernia",
+   "E": "Wall of hernia"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "The neck is the narrowest part of the sac, at the defect in the abdominal wall, so it is where the contents are constricted, causing obstruction and strangulation. Hernias with narrow necks (femoral, paraumbilical) therefore strangulate more often.",
+  "key_note": "",
+  "figure": "",
+  "qid": "21-5"
+ },
+ {
+  "cids": [
+   "C0996"
+  ],
+  "stem": "Which of the following is a risk factor for the development of abdominal hernias?",
+  "options": {
+   "A": "COPD",
+   "B": "Hypertension",
+   "C": "Diabetes",
+   "D": "TB"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Anything that chronically raises intra-abdominal pressure predisposes to hernia: chronic cough (COPD, smoking), constipation, prostatism, obesity, ascites and heavy lifting. Hypertension, diabetes and TB are not direct risk factors.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "21-6"
+ },
+ {
+  "cids": [
+   "C1450"
+  ],
+  "stem": "A 35-year-old woman developed an incisional hernia after a Caesarean section. Which factor is NOT a likely cause of this incisional hernia?",
+  "options": {
+   "A": "Hypertension",
+   "B": "Steroid therapy",
+   "C": "Obesity",
+   "D": "Wound infection",
+   "E": "Chronic cough"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Incisional hernia follows poor wound healing or raised intra-abdominal pressure: wound infection (the most important), obesity, steroids, chronic cough, malnutrition and poor closure technique. Hypertension has no role.",
+  "key_note": "",
+  "figure": "",
+  "qid": "21-7"
+ },
+ {
+  "cids": [
+   "C0413",
+   "C0490",
+   "C0973"
+  ],
+  "stem": "The most common hernia in females is:",
+  "options": {
+   "A": "Femoral hernia",
+   "B": "Direct inguinal hernia",
+   "C": "Indirect inguinal hernia",
+   "D": "Obturator hernia",
+   "E": "Umbilical hernia"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Indirect inguinal hernia is the commonest hernia in women as well as men. Femoral hernia is much commoner in women than in men, but even in women inguinal hernias outnumber femoral hernias.",
+  "key_note": "Paper keys and the compiled key marked femoral hernia; correct is indirect inguinal hernia: femoral hernia is more common in females than males, but inguinal remains the commonest hernia in females (Bailey & Love).",
+  "figure": "",
+  "qid": "21-8"
+ },
+ {
+  "cids": [
+   "C1359"
+  ],
+  "stem": "A 50-year-old male develops a hernia medial to the inferior epigastric vessels. What is the most likely diagnosis?",
+  "options": {
+   "A": "Direct inguinal hernia",
+   "B": "Indirect inguinal hernia",
+   "C": "Epigastric hernia",
+   "D": "Umbilical hernia",
+   "E": "Femoral hernia"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "A direct inguinal hernia bulges through Hesselbach's triangle, medial to the inferior epigastric vessels. An indirect hernia enters the deep ring, lateral to these vessels.",
+  "key_note": "",
+  "figure": "",
+  "qid": "21-9"
+ },
+ {
+  "cids": [
+   "C0872"
+  ],
+  "stem": "At surgery for a right inguinal hernia, a 72-year-old man is found to have a hernia sac that is not independent of the bowel wall. The caecum forms part of the wall of the sac. Such a hernia is properly referred to as:",
+  "options": {
+   "A": "Incarcerated",
+   "B": "Irreducible",
+   "C": "Sliding",
+   "D": "Richter's",
+   "E": "Interstitial"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "In a sliding hernia (hernia en glissade) a retroperitoneal viscus such as the caecum, sigmoid colon or bladder forms part of the wall of the sac. The surgeon must not try to excise the sac off the bowel, or the viscus will be opened.",
+  "key_note": "",
+  "figure": "",
+  "qid": "21-10"
+ },
+ {
+  "cids": [
+   "C0595"
+  ],
+  "stem": "In Littre's hernia, the hernia sac contains:",
+  "options": {
+   "A": "Appendix",
+   "B": "Meckel's diverticulum",
+   "C": "Testis",
+   "D": "Ovary",
+   "E": "Bladder"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Littre's hernia is a hernia whose sac contains a Meckel's diverticulum. An appendix in an inguinal sac is Amyand's hernia (in a femoral sac, de Garengeot's).",
+  "key_note": "",
+  "figure": "",
+  "qid": "21-11"
+ },
+ {
+  "cids": [
+   "C0788"
+  ],
+  "stem": "An 80-year-old woman with a known femoral hernia is admitted with strangulation of the hernia. There is a tender swelling in the right groin immediately below and lateral to the pubic tubercle. She has had multiple bowel movements without relief of symptoms. What is the most likely diagnosis?",
+  "options": {
+   "A": "Lymphadenitis",
+   "B": "Diverticulitis",
+   "C": "Volvulus",
+   "D": "Richter's hernia",
+   "E": "Gastroenteritis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "In Richter's hernia only part of the circumference of the bowel wall (antimesenteric border) is trapped, so the lumen stays patent and the patient may keep passing stool despite strangulation. It is classically seen in femoral hernias in elderly women.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "21-12"
+ },
+ {
+  "cids": [
+   "C1357"
+  ],
+  "stem": "A 60-year-old woman develops a hernia through the abdominal wall at the lateral edge of the rectus sheath. What is the most likely diagnosis?",
+  "options": {
+   "A": "Epigastric hernia",
+   "B": "Umbilical hernia",
+   "C": "Incisional hernia",
+   "D": "Spigelian hernia",
+   "E": "Inguinal hernia"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A Spigelian hernia passes through the Spigelian fascia along the linea semilunaris at the lateral edge of the rectus sheath, usually below the arcuate line. It is often interparietal and needs ultrasound or CT to confirm.",
+  "key_note": "",
+  "figure": "",
+  "qid": "21-13"
+ },
+ {
+  "cids": [
+   "C1352"
+  ],
+  "stem": "A 60-year-old female develops a hernia through a previous surgical incision. What is the most likely diagnosis?",
+  "options": {
+   "A": "Incisional hernia",
+   "B": "Umbilical hernia",
+   "C": "Epigastric hernia",
+   "D": "Inguinal hernia",
+   "E": "Femoral hernia"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "A hernia through the scar of a previous operation is by definition an incisional hernia. It most often follows midline laparotomy and wound infection.",
+  "key_note": "",
+  "figure": "",
+  "qid": "21-14"
+ },
+ {
+  "cids": [
+   "C1449"
+  ],
+  "stem": "A 50-year-old woman with gross obesity underwent laparoscopic cholecystectomy for cholelithiasis. One year later she presented with a swelling under the healed scar of the umbilical port. The swelling was painful and became more prominent on lifting the head up. The most likely diagnosis is:",
+  "options": {
+   "A": "Subcutaneous Lipoma",
+   "B": "Retained gallstones during extraction",
+   "C": "Secondary from a tumour in abdomen",
+   "D": "Chronic abscess in the wound",
+   "E": "Port site hernia"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "A painful swelling at the umbilical port scar that becomes prominent on raising the head (contracting the recti) is a port-site hernia. The umbilical port is the usual site because the fascia is wide and the defect is enlarged for gallbladder extraction, and obesity adds to the risk.",
+  "key_note": "",
+  "figure": "",
+  "qid": "21-15"
+ },
+ {
+  "cids": [
+   "C0499"
+  ],
+  "stem": "Diaphragmatic hernias can present with symptoms of GORD. The commonest diaphragmatic hernia is:",
+  "options": {
+   "A": "Foramen of Morgagni hernia",
+   "B": "Foramen of Bochdalek hernia",
+   "C": "Hiatus Hernia",
+   "D": "Eventration of diaphragm",
+   "E": "Ventral Hernias"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Hiatus hernia (mostly sliding type) is by far the commonest diaphragmatic hernia and is associated with GORD. Bochdalek (posterolateral) is the commonest congenital diaphragmatic hernia, and Morgagni is anterior and rare.",
+  "key_note": "",
+  "figure": "",
+  "qid": "21-16"
+ },
+ {
+  "cids": [
+   "C1446"
+  ],
+  "stem": "A 50-year-old man presents with a 6-month history of pain in the right groin. The pain increases when a swelling appears on walking and straining. The most probable cause of these symptoms is:",
+  "options": {
+   "A": "Enlarged inguinal lymph nodes",
+   "B": "Subcutaneous lipoma",
+   "C": "Saphena Varix",
+   "D": "Inguinal hernia",
+   "E": "Psoas abscess"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Groin pain associated with a swelling that appears on walking and straining (an expansile impulse with raised intra-abdominal pressure) is typical of an inguinal hernia. Lymph nodes, lipoma and psoas abscess do not come and go with straining, and a saphena varix lies below the inguinal ligament.",
+  "key_note": "",
+  "figure": "",
+  "qid": "21-17"
+ },
+ {
+  "cids": [
+   "C1480"
+  ],
+  "stem": "A 90-year-old retired GP incidentally discovers a reducible swelling in his right inguinoscrotal area. Self-examination reveals a semi-firm lump that does not transilluminate. Cough impulse is positive. What is the most likely diagnosis?",
+  "options": {
+   "A": "Epididymal cyst",
+   "B": "Hydrocele",
+   "C": "Inguinoscrotal hernia",
+   "D": "Neoplasm of the vas deferens",
+   "E": "Testicular seminoma"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A reducible inguinoscrotal swelling with a positive cough impulse that does not transilluminate is an inguinoscrotal (indirect) hernia. Hydrocele and epididymal cyst transilluminate and you can get above them, and testicular tumours are not reducible.",
+  "key_note": "",
+  "figure": "",
+  "qid": "21-18"
+ },
+ {
+  "cids": [
+   "C0865"
+  ],
+  "stem": "A 70-year-old cigarette smoker presents with a right groin swelling that has caused discomfort in recent months. The swelling, which does not extend into the scrotum, reduces when resting. What is the likely diagnosis?",
+  "options": {
+   "A": "Direct inguinal hernia",
+   "B": "Strangulated indirect inguinal hernia",
+   "C": "Hydrocele",
+   "D": "Aneurysm of the femoral artery",
+   "E": "Cyst of the cord"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "An elderly smoker (chronic cough, weak posterior wall) with a groin swelling that does not descend into the scrotum and reduces on lying down has a direct inguinal hernia. Direct hernias have a wide neck, rarely enter the scrotum and rarely strangulate.",
+  "key_note": "Some stem text was cut off in the source; answer as marked.",
+  "figure": "",
+  "qid": "21-19"
+ },
+ {
+  "cids": [
+   "C0733"
+  ],
+  "stem": "A 73-year-old gentleman presents to the outpatient clinic with a swelling in the scrotum. Further examination demonstrates that the spermatic cord cannot be palpated separately from the swelling and the lump does not transilluminate. What is the most likely diagnosis?",
+  "options": {
+   "A": "Direct inguinal hernia",
+   "B": "Epididymal cyst",
+   "C": "Hydrocele",
+   "D": "Indirect inguinal hernia",
+   "E": "Testicular tumour"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Inability to get above a scrotal swelling (the cord cannot be felt separately) means it comes down from the inguinal canal, so it is an inguinoscrotal (indirect) hernia; non-transillumination fits bowel or omentum. With a testicular tumour, hydrocele or epididymal cyst you can get above the swelling and feel the cord normally.",
+  "key_note": "Not marked in the source paper; the compiled key gave testicular tumour, which is wrong because the cord is palpable above a testicular tumour. Answer by reviewer.",
+  "figure": "",
+  "qid": "21-20"
+ },
+ {
+  "cids": [
+   "C1163"
+  ],
+  "stem": "A 25-year-old man developed a right inguinal swelling 5 months ago during weight lifting. It is painless. On examination there is a small reducible swelling in the right inguinoscrotal region with a positive cough impulse. Which clinical test will confirm this as an indirect hernia?",
+  "options": {
+   "A": "Carnet's sign",
+   "B": "Deep ring occlusion",
+   "C": "External ring pressure",
+   "D": "Two finger test",
+   "E": "Valsalva manoeuvre"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "The deep ring occlusion test: reduce the hernia, press over the deep ring (midpoint of the inguinal ligament, about 1.25 cm above it) and ask the patient to cough. If the hernia is controlled it is indirect; if it bulges medially it is direct.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "21-21"
+ },
+ {
+  "cids": [
+   "C1462"
+  ],
+  "stem": "A 28-year-old weight lifter, a smoker for 10 years, felt sudden pain in the groin while picking up a heavy weight. He presents to the Emergency Department with abdominal pain, vomiting, abdominal distension and constipation. The important clinical sign to check in this patient is:",
+  "options": {
+   "A": "Bowel sounds",
+   "B": "Rupture of muscle in anterior abdominal wall",
+   "C": "Rectal examination",
+   "D": "Breath sounds",
+   "E": "Groin for a hernia"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Every patient with intestinal obstruction must have the hernial orifices examined, since an obstructed groin hernia is a common and easily missed cause. Sudden groin pain on lifting followed by vomiting, distension and constipation points to an obstructed inguinal hernia.",
+  "key_note": "The compiled key gave rectal examination; the paper marked E, which is correct: the hernial orifices must be checked in any case of intestinal obstruction.",
+  "figure": "",
+  "qid": "21-22"
+ },
+ {
+  "cids": [
+   "C1358"
+  ],
+  "stem": "A 30-year-old male presents with a painful swelling in the groin and fever. What is the most likely diagnosis?",
+  "options": {
+   "A": "Incarcerated hernia",
+   "B": "Strangulated hernia",
+   "C": "Infected hernia",
+   "D": "Inguinal lymphadenitis",
+   "E": "Femoral hernia"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A painful groin swelling with fever, without any history of a hernia or features of bowel obstruction, is most likely inflamed inguinal lymph nodes (look for a source in the lower limb, perineum or genitalia). Strangulation causes a tense, tender, irreducible hernia with obstruction and systemic toxicity.",
+  "key_note": "The compiled key gave strangulated hernia; the paper marked D, which is defensible as no hernia or obstruction is described.",
+  "figure": "",
+  "qid": "21-23"
+ },
+ {
+  "cids": [
+   "C0351"
+  ],
+  "stem": "A 2-year-old boy is brought by his mother with a left inguinal swelling that appears whenever the child strains and sometimes becomes painful. On examination a lump is felt in the left scrotum. What is the worst complication that can occur in this scenario?",
+  "options": {
+   "A": "Cyst formation",
+   "B": "Infection",
+   "C": "Irreducibility",
+   "D": "Obstruction",
+   "E": "Strangulation"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Strangulation, where the blood supply of the contents is cut off leading to gangrene, is the most serious complication of a hernia. In infants an inguinal hernia carries a high risk of incarceration, so it is repaired soon after diagnosis.",
+  "key_note": "",
+  "figure": "",
+  "qid": "21-24"
+ },
+ {
+  "cids": [
+   "C0551",
+   "C1351"
+  ],
+  "stem": "A 50-year-old chronic smoker presents with a painful swelling in the left inguinal region for the last 2 days. The swelling was initially reducible, but for the last 2 days it has been stuck and does not decrease in size. On examination it is red, hot and tender. What is the most likely diagnosis?",
+  "options": {
+   "A": "Abscess in inguinal region",
+   "B": "Obstructed left inguinal hernia",
+   "C": "Irreducible inguinal hernia",
+   "D": "Strangulated left inguinal hernia",
+   "E": "Reducible left inguinal hernia"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A previously reducible hernia that has become irreducible, red, hot and tender indicates strangulation: the overlying inflammation reflects ischaemic contents. Mere irreducibility or obstruction without these local signs is incarceration or obstruction.",
+  "key_note": "Merged variant: Incarcerated hernia (C) is the tempting distractor, but tenderness indicates compromised blood supply.",
+  "figure": "",
+  "qid": "21-25"
+ },
+ {
+  "cids": [
+   "C0218"
+  ],
+  "stem": "A 13-year-old boy presents with sudden pain and swelling in the right inguinal region after weight lifting. On examination the right testis is normal, but there is a tender irreducible right inguinal swelling with no cough impulse. What is your diagnosis?",
+  "options": {
+   "A": "Right epididymo-orchitis",
+   "B": "Right hydrocele of cord",
+   "C": "Right lipoma of cord",
+   "D": "Right strangulated hernia",
+   "E": "Right undescended testis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Sudden pain and a tender irreducible inguinal swelling with loss of cough impulse after straining, with a normal testis, indicate a strangulated inguinal hernia. A normal testis excludes torsion and epididymo-orchitis.",
+  "key_note": "",
+  "figure": "",
+  "qid": "21-26"
+ },
+ {
+  "cids": [
+   "C0261"
+  ],
+  "stem": "A 3-month-old boy presents with an intermittent right inguinal swelling with crying episodes. The swelling has now become painful and he has started vomiting. On examination there is an irreducible tender swelling in the right inguinal area with no cough impulse. Pulse is 130/min. What is the most likely diagnosis?",
+  "options": {
+   "A": "Obstructed right inguinal hernia",
+   "B": "Right inguinal abscess",
+   "C": "Right inguinal lymph node",
+   "D": "Right testicular hydrocele",
+   "E": "Right torsion of testis"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "An infant with an intermittent inguinal swelling that becomes irreducible, tender and tense with vomiting and tachycardia has an obstructed (incarcerated) inguinal hernia. Infants have a high incarceration rate, which is why their hernias are repaired early.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "21-27"
+ },
+ {
+  "cids": [
+   "C1356"
+  ],
+  "stem": "A 40-year-old male presents with intermittent abdominal pain and obstructive symptoms. CT shows an incarcerated inguinal hernia. What is the most appropriate management?",
+  "options": {
+   "A": "Emergency surgery",
+   "B": "Elective herniorrhaphy",
+   "C": "Watchful waiting",
+   "D": "Hernia truss",
+   "E": "Antibiotics"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "An incarcerated hernia causing obstructive symptoms needs emergency surgery, because obstruction can progress to strangulation. Elective repair, trusses and observation are only for uncomplicated reducible hernias.",
+  "key_note": "Part of the stem was cut off in the source; answer as marked.",
+  "figure": "",
+  "qid": "21-28"
+ },
+ {
+  "cids": [
+   "C1354"
+  ],
+  "stem": "A 50-year-old male develops a painful swelling in the groin. Ultrasound confirms a femoral hernia. What is the most appropriate management?",
+  "options": {
+   "A": "Emergency herniorrhaphy",
+   "B": "Elective herniorrhaphy",
+   "C": "Watchful waiting",
+   "D": "Hernia truss",
+   "E": "Antibiotics"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Femoral hernias have a narrow, rigid neck and the highest risk of strangulation, so a painful femoral hernia needs urgent operation. Even asymptomatic femoral hernias are repaired, never watched or trussed.",
+  "key_note": "",
+  "figure": "",
+  "qid": "21-29"
+ },
+ {
+  "cids": [
+   "C1353",
+   "C1363"
+  ],
+  "stem": "A 30-year-old man presents with an asymptomatic, reducible left inguinal hernia with normal bowel sounds. What is the most appropriate management?",
+  "options": {
+   "A": "Emergency surgery",
+   "B": "Elective hernioplasty",
+   "C": "Watchful waiting",
+   "D": "Hernia truss",
+   "E": "Herniorrhaphy"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "An uncomplicated inguinal hernia in a fit young adult should be repaired electively with a tension-free mesh hernioplasty (Lichtenstein or laparoscopic), because the lifetime risk of complications outweighs the small operative risk. Watchful waiting is an option only for minimally symptomatic, older or unfit patients.",
+  "key_note": "One paper marked B with a question mark; B is the expected answer, though watchful waiting is acceptable in minimally symptomatic elderly men.",
+  "figure": "",
+  "qid": "21-30"
+ },
+ {
+  "cids": [
+   "C1448"
+  ],
+  "stem": "To prevent recurrence of inguinal hernia in adults, the most commonly performed operation these days is:",
+  "options": {
+   "A": "Herniotomy only",
+   "B": "Herniorrhaphy with fascial flap",
+   "C": "Lichtenstein tension free repair",
+   "D": "Bassini's repair",
+   "E": "Shouldice operation"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "The Lichtenstein tension-free mesh repair is the most commonly performed open repair because it is simple and has a recurrence rate of about 1%. Tissue repairs (Bassini, Shouldice) have higher recurrence except in specialist hands, and herniotomy alone is for children.",
+  "key_note": "",
+  "figure": "",
+  "qid": "21-31"
+ },
+ {
+  "cids": [
+   "C1361"
+  ],
+  "stem": "A 40-year-old male presents with a recurrent inguinal hernia. What is the most appropriate management?",
+  "options": {
+   "A": "Repeat herniorrhaphy",
+   "B": "Mesh repair",
+   "C": "Laparoscopic repair",
+   "D": "Watchful waiting",
+   "E": "Hernia truss"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "For a hernia recurring after an open anterior repair, guidelines (EHS) advise a laparoscopic posterior (TEP/TAPP) mesh repair, which goes through unscarred tissue. Repeat tissue repair has high recurrence.",
+  "key_note": "The paper marked B (mesh repair); C is the better answer because guidelines specifically recommend a laparoscopic posterior approach after a failed open repair (laparoscopic repair is itself a mesh repair).",
+  "figure": "",
+  "qid": "21-32"
+ },
+ {
+  "cids": [
+   "C0711"
+  ],
+  "stem": "A 28-year-old male patient is asking for advice on whether to pursue open mesh repair or TEP repair of a newly diagnosed, reducible right-sided inguinal hernia. What can you tell the patient about these two methods of repair?",
+  "options": {
+   "A": "Chronic pain is reduced with an open mesh repair",
+   "B": "Operative time is not significantly different between the two",
+   "C": "TEP repair is associated with a quicker return to work and normal activities",
+   "D": "Recurrence is relatively common (>25%) no matter which method is chosen",
+   "E": "Open mesh repair is associated with a higher number of intraoperative complications"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Compared with open Lichtenstein repair, TEP gives less postoperative and chronic pain and a quicker return to work, with similar low recurrence (under 5%). It takes longer to learn and to perform, needs general anaesthesia and carries rare serious visceral or vascular injury.",
+  "key_note": "",
+  "figure": "",
+  "qid": "21-33"
+ },
+ {
+  "cids": [
+   "C1362"
+  ],
+  "stem": "A 60-year-old woman develops an uncomplicated hernia through a previous surgical incision and has chronic obstructive pulmonary disease (COPD). What is the most appropriate management?",
+  "options": {
+   "A": "Emergency surgery",
+   "B": "Elective herniorrhaphy",
+   "C": "Watchful waiting",
+   "D": "Hernia truss",
+   "E": "Antibiotics"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "A stable incisional hernia is repaired electively after optimising risk factors (COPD, smoking, obesity), usually with mesh. Emergency surgery is reserved for obstruction or strangulation.",
+  "key_note": "",
+  "figure": "",
+  "qid": "21-34"
+ },
+ {
+  "cids": [
+   "C1162"
+  ],
+  "stem": "A 57-year-old woman presents with an epigastric swelling. On examination the swelling is 6 cm, with a positive cough impulse, and partially reducible. The defect in the abdominal wall is 4 cm. What procedure is most appropriate?",
+  "options": {
+   "A": "Herniorrhaphy",
+   "B": "Herniotomy",
+   "C": "Mayo's repair",
+   "D": "Mesh Hernioplasty",
+   "E": "Primary repair"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Abdominal wall (ventral) hernias with a defect over 2 cm should be repaired with mesh, which reduces recurrence substantially compared with suture repair. Primary suture repair is reserved for small (under 2 cm) defects, and herniotomy is a paediatric operation.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "21-35"
+ },
+ {
+  "cids": [
+   "C0697",
+   "C0498"
+  ],
+  "stem": "A 2-year-old boy presents to OPD with a small inguinoscrotal swelling since birth. It is reducible, and both testes are normal. What is the appropriate management?",
+  "options": {
+   "A": "Hernioplasty",
+   "B": "Herniotomy",
+   "C": "Herniorrhaphy",
+   "D": "Darning repair",
+   "E": "Shouldice repair"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "A congenital inguinoscrotal hernia in a child is treated by herniotomy alone, as the defect is a patent processus vaginalis and the posterior wall is normal. Hernioplasty, herniorrhaphy, darning and Shouldice repairs are adult operations.",
+  "key_note": "",
+  "figure": "",
+  "qid": "21-36"
+ },
+ {
+  "cids": [
+   "C1355"
+  ],
+  "stem": "A newborn presents with a protrusion from the umbilicus. What is the most likely diagnosis?",
+  "options": {
+   "A": "Umbilical hernia",
+   "B": "Omphalocele",
+   "C": "Gastroschisis",
+   "D": "Inguinal hernia",
+   "E": "Diaphragmatic hernia"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "A protrusion at the umbilicus in a newborn is most commonly a congenital umbilical hernia, which is skin-covered and usually closes spontaneously. An omphalocele (exomphalos) is a membrane-covered herniation into the base of the cord, and gastroschisis is a defect to the right of the cord with uncovered bowel.",
+  "key_note": "An omphalocele also protrudes at the umbilicus, but umbilical hernia is the commonest and expected answer.",
+  "figure": "",
+  "qid": "21-37"
+ },
+ {
+  "cids": [
+   "C1360"
+  ],
+  "stem": "A newborn presents with gut protruding through a defect in the abdominal wall lateral to the umbilicus, with no covering sac. What is the most likely diagnosis?",
+  "options": {
+   "A": "Omphalocele",
+   "B": "Gastroschisis",
+   "C": "Diaphragmatic hernia",
+   "D": "Inguinal hernia",
+   "E": "Spigelian hernia"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Gastroschisis is a full-thickness defect beside (usually to the right of) a normally inserted umbilical cord, with bowel exposed and no covering sac. An omphalocele is central, at the cord, and covered by a membrane.",
+  "key_note": "",
+  "figure": "",
+  "qid": "21-38"
+ },
+ {
+  "cids": [
+   "C0222"
+  ],
+  "stem": "A 3-month-old girl is noticed to have a 1.5 cm reducible umbilical hernia. She has occasional discomfort. What is the immediate management?",
+  "options": {
+   "A": "Herniotomy/hernioplasty",
+   "B": "Laparoscopic herniotomy",
+   "C": "No treatment till 2 years",
+   "D": "Mesh hernioplasty",
+   "E": "Wrap abdomen with bandage"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Most congenital umbilical hernias close spontaneously by 2 to 3 years of age, so a small reducible hernia in a 3-month-old is simply observed. Strapping is useless, and surgery is reserved for hernias that persist (around age 3 to 4 years), are very large, or incarcerate.",
+  "key_note": "The paper marked A (herniotomy); correct is C: infantile umbilical hernias are observed as most close spontaneously.",
+  "figure": "",
+  "qid": "21-39"
+ },
+ {
+  "cids": [
+   "C0395"
+  ],
+  "stem": "A 1-week-old full-term boy is diagnosed with an umbilical hernia. At what age should the hernia be repaired if it fails to close spontaneously?",
+  "options": {
+   "A": "2 years",
+   "B": "4 years",
+   "C": "6 years",
+   "D": "8 years",
+   "E": "10 years"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Infantile umbilical hernias usually close spontaneously in the first few years of life. If the defect persists, repair is advised by about 4 years of age (earlier if large, symptomatic or incarcerated).",
+  "key_note": "Texts vary (some advise repair after 2 to 3 years); 4 years is the printed key and the standard local teaching.",
+  "figure": "",
+  "qid": "21-40"
+ },
+ {
+  "cids": [
+   "C1453"
+  ],
+  "stem": "A 70-year-old woman underwent laparotomy for a tumour of the colon 10 years ago. She now has a 3 cm x 4 cm swelling bulging at the umbilicus that is not reducible, hard in consistency and mildly tender. The most likely cause is:",
+  "options": {
+   "A": "Umbilical adenoma",
+   "B": "Secondary nodule",
+   "C": "Umbilical granuloma",
+   "D": "Incisional hernia",
+   "E": "Sebaceous cyst"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "A hard, irreducible umbilical nodule in a patient with a past abdominal malignancy is a Sister Mary Joseph nodule (umbilical metastasis), spread via lymphatics or along the obliterated umbilical vein or falciform ligament. An incisional hernia is soft, has a cough impulse and is usually reducible.",
+  "key_note": "The paper marked D (incisional hernia); correct is B: a hard, irreducible umbilical swelling after colonic cancer is a secondary deposit.",
+  "figure": "",
+  "qid": "21-41"
+ },
+ {
+  "cids": [
+   "C1454"
+  ],
+  "stem": "A 65-year-old man notices a discharge from his umbilicus that smells like urine. Ultrasound shows an enlarged prostate with a large post-void residual urine. The most likely cause of this problem is:",
+  "options": {
+   "A": "Carcinoma of the urinary bladder",
+   "B": "Vesicocutaneous fistula",
+   "C": "Prostatic cancer",
+   "D": "Foreign body in the umbilicus",
+   "E": "Patent Urachus"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "A urachal remnant can stay closed until bladder outlet obstruction (here an enlarged prostate with high residual urine) raises intravesical pressure and forces it open, so urine leaks from the umbilicus. That is a patent urachus, and the outflow obstruction must be treated as well.",
+  "key_note": "The paper marked B (vesicocutaneous fistula); correct is E: urine from the umbilicus with outflow obstruction is the classic presentation of a patent urachus.",
+  "figure": "",
+  "qid": "21-42"
+ },
+ {
+  "cids": [
+   "C1451"
+  ],
+  "stem": "A 38-year-old man is undergoing exploratory laparotomy for faecal peritonitis. While closing the abdominal wound, the best option for the surgeon is to:",
+  "options": {
+   "A": "Use strong non-absorbable sutures to prevent wound dehiscence",
+   "B": "Apply Polypropylene (Prolene) Mesh to reinforce the abdominal wound.",
+   "C": "Use suction drains in both flanks to prevent collection",
+   "D": "Apply tension sutures and leave the abdominal wound (skin) open",
+   "E": "Make tension releasing incisions after abdominal wound closure."
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "In faecal peritonitis the wound is heavily contaminated: never place a permanent mesh, and leave the skin and subcutaneous tissue open for delayed closure. The sheath is closed with retention (tension) sutures if needed to reduce the risk of burst abdomen.",
+  "key_note": "One paper marked B (polypropylene mesh) and its compiled key agreed; correct is D: permanent mesh is contraindicated in a faecally contaminated field.",
+  "figure": "",
+  "qid": "21-43"
+ },
+ {
+  "cids": [
+   "C0440"
+  ],
+  "stem": "An 80-year-old man is 6 days after open anterior resection for rectal carcinoma. He reports a gush of fluid from the laparotomy wound, and you notice small bowel eviscerating from the wound. Following initial resuscitation, the next best step is to:",
+  "options": {
+   "A": "Cover the small bowel with sterile saline-soaked gauze",
+   "B": "Call for senior help",
+   "C": "Administer intravenous cefuroxime 1.5 g",
+   "D": "Apply vacuum-assisted closure therapy",
+   "E": "Return the patient to OT for deep tension abdominal wall closure"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "In a burst abdomen (often heralded by serosanguinous discharge around day 6 to 8), first reassure, give analgesia and cover the eviscerated bowel with sterile saline-soaked gauze or towels. The patient is then taken back to theatre for formal deep tension closure.",
+  "key_note": "The source highlighted A and also the letter of C; A is correct.",
+  "figure": "",
+  "qid": "21-44"
+ },
+ {
+  "ncids": [
+   "K0408"
+  ],
+  "stem": "The foramen of Morgagni is a defect present in which structure?",
+  "options": {
+   "A": "Bone",
+   "B": "Brain",
+   "C": "Nose",
+   "D": "Diaphragm",
+   "E": "Skull"
+  },
+  "answer": "D",
+  "explanation": "The foramen of Morgagni is an anterior retrosternal defect in the diaphragm between the sternal and costal origins; Morgagni hernias are anterior and usually right-sided, whereas Bochdalek hernias are posterolateral and usually left-sided.",
+  "key_note": "",
+  "_new": true,
+  "qid": "21-N1"
+ },
+ {
+  "ncids": [
+   "K0416"
+  ],
+  "stem": "A man undergoes an open inguinal hernia repair. During the procedure the spermatic cord is visualised. Which of the following structures does it contain?",
+  "options": {
+   "A": "Dartos muscle",
+   "B": "Femoral branch of the genitofemoral nerve",
+   "C": "Ilioinguinal nerve",
+   "D": "Inferior epigastric artery",
+   "E": "Pampiniform plexus"
+  },
+  "answer": "E",
+  "explanation": "The cord contains the vas, testicular artery, artery to the vas, cremasteric artery, pampiniform plexus, lymphatics, sympathetic fibres and the genital branch of the genitofemoral nerve. The ilioinguinal nerve runs in the canal but outside the cord, and the inferior epigastric artery lies medial to the deep ring.",
+  "key_note": "",
+  "_new": true,
+  "qid": "21-N2"
+ },
+ {
+  "ncids": [
+   "K0537"
+  ],
+  "stem": "A 64-year-old woman presents with a strangulated femoral hernia. At operation, which criterion is used to determine the viability of a loop of bowel?",
+  "options": {
+   "A": "Increased peristalsis",
+   "B": "Mesenteric arterial pulsation",
+   "C": "Venous engorgement",
+   "D": "Intraoperative CT scan",
+   "E": "Serum amylase"
+  },
+  "answer": "B",
+  "explanation": "Viability is judged by return of colour, sheen of the serosa, visible peristalsis and pulsation of the mesenteric arteries after release of the constriction and warm packs; absent pulsation means non-viable bowel. Venous engorgement is a feature of strangulation, not viability.",
+  "key_note": "",
+  "_new": true,
+  "qid": "21-N3"
+ },
+ {
+  "ncids": [
+   "K0743"
+  ],
+  "stem": "In repair of a femoral hernia, the structure most vulnerable to major injury lies:",
+  "options": {
+   "A": "Medially",
+   "B": "Laterally",
+   "C": "Anteriorly",
+   "D": "Posteriorly",
+   "E": "Superficially"
+  },
+  "answer": "B",
+  "explanation": "The femoral canal is the medial compartment of the femoral sheath, so the femoral vein lies immediately lateral to it and is the structure at risk when the canal is closed. Medially lies the lacunar ligament (and sometimes an abnormal obturator artery).",
+  "key_note": "",
+  "_new": true,
+  "qid": "21-N4"
+ },
+ {
+  "ncids": [
+   "K0744"
+  ],
+  "stem": "A 56-year-old man is scheduled to have a left indirect inguinal hernia repaired. He is asymptomatic. Before surgical treatment, he should have which of the following?",
+  "options": {
+   "A": "Rectal examination alone",
+   "B": "Rectal examination and sigmoidoscopy",
+   "C": "Barium enema",
+   "D": "Colonoscopy",
+   "E": "Intravenous pyelogram"
+  },
+  "answer": "A",
+  "explanation": "In an asymptomatic patient a routine history and examination including digital rectal examination is sufficient; there is no evidence that an inguinal hernia warrants extra colonic or urinary imaging unless there are bowel or urinary symptoms (e.g. straining, change in bowel habit, prostatism).",
+  "key_note": "Bank marked B with * but highlighted A; correct is A because colonic endoscopy is not indicated for an asymptomatic hernia patient beyond routine age-appropriate screening.",
+  "_new": true,
+  "qid": "21-N5"
+ },
+ {
+  "ncids": [
+   "K0746"
+  ],
+  "stem": "A 44-year-old man develops a mass on the anterior abdominal wall that has gradually increased in size over the last 3 months. On examination, the lesion is a 5 x 8 cm mass in the left iliac fossa and hypogastrium. Which test will establish whether the tumour is arising from the abdominal wall or the abdominal cavity?",
+  "options": {
+   "A": "Needle biopsy",
+   "B": "Ability to elicit a cough impulse",
+   "C": "Transillumination",
+   "D": "Examination of the mass with the patient in a prone position",
+   "E": "Examination of the mass with the patient instructed to attempt sitting up"
+  },
+  "answer": "E",
+  "explanation": "Carnett's test: tensing the recti by lifting the head or attempting to sit up makes an intra-abdominal mass less palpable, whereas a mass in the abdominal wall remains palpable or becomes more prominent. Prone examination does not separate the two.",
+  "key_note": "Bank marked D with * but highlighted E; correct is E because tensing the abdominal muscles (Carnett's test) is the manoeuvre that distinguishes a parietal from an intra-abdominal mass.",
+  "_new": true,
+  "qid": "21-N6"
+ },
+ {
+  "ncids": [
+   "K0804"
+  ],
+  "stem": "A 60-year-old man presents with an inguinal hernia of recent onset. Which of the following statements is TRUE?",
+  "options": {
+   "A": "The hernia is more likely to be direct than indirect",
+   "B": "It presents through the posterior wall of the inguinal canal, lateral to the deep inguinal ring",
+   "C": "It is covered anteriorly by the transversalis fascia",
+   "D": "It is more likely than a femoral hernia to strangulate",
+   "E": "The sac is congenital"
+  },
+  "answer": "A",
+  "explanation": "A new hernia in an elderly man is most likely an acquired direct hernia due to weakness of the posterior wall (Hesselbach's triangle), medial to the deep ring. Femoral hernias strangulate more often than inguinal hernias, and a congenital (patent processus) sac is a feature of indirect hernias.",
+  "key_note": "",
+  "_new": true,
+  "qid": "21-N7"
+ },
+ {
+  "ncids": [
+   "K0822"
+  ],
+  "stem": "A male neonate is born with an omphalocele. This entity can be distinguished from gastroschisis because in an omphalocele:",
+  "options": {
+   "A": "The protrusion is not covered by a sac",
+   "B": "There is a defect in the abdominal musculature",
+   "C": "The umbilical cord is attached to the sac",
+   "D": "There is partial or complete malrotation of the bowel",
+   "E": "The protrusion contains abdominal viscera"
+  },
+  "answer": "C",
+  "explanation": "In exomphalos the viscera herniate through the umbilical ring into a sac of amnion and peritoneum with the cord inserting into the sac; gastroschisis is a defect to the right of a normally inserted cord with no sac. Both have an abdominal wall defect, both contain viscera and both have malrotation, so those options do not distinguish them.",
+  "key_note": "Bank marked B; correct is C because an abdominal wall defect is present in both conditions, whereas cord insertion into the sac is specific to omphalocele.",
+  "_new": true,
+  "qid": "21-N8"
+ },
+ {
+  "ncids": [
+   "K0826"
+  ],
+  "stem": "A 23-year-old woman has a Caesarean section through a Pfannenstiel incision. Which of the following is true of the Pfannenstiel incision?",
+  "options": {
+   "A": "The recti and fascia are divided transversely",
+   "B": "The anterior rectus sheath is divided transversely and the recti are separated vertically in the midline",
+   "C": "A fascia lata graft is used",
+   "D": "A prosthetic graft is used",
+   "E": "The upper abdomen can readily be explored"
+  },
+  "answer": "B",
+  "explanation": "In a Pfannenstiel incision the skin and anterior rectus sheath are cut transversely just above the pubis, and the rectus muscles are separated vertically in the midline without being cut. Access is limited to the pelvis, so the upper abdomen cannot be explored.",
+  "key_note": "",
+  "_new": true,
+  "qid": "21-N9"
+ },
+ {
+  "ncids": [
+   "K0832"
+  ],
+  "stem": "Which of the following is true of a Spigelian hernia?",
+  "options": {
+   "A": "It occurs exclusively in males",
+   "B": "It involves only part of the circumference of the bowel wall",
+   "C": "It is best repaired by the classical Bassini technique",
+   "D": "It occurs through the Spigelian fascia at the lateral edge of the rectus sheath (linea semilunaris)",
+   "E": "It always contains the vermiform appendix"
+  },
+  "answer": "D",
+  "explanation": "A Spigelian hernia passes through the Spigelian aponeurosis along the linea semilunaris, usually below the arcuate line, and often lies interparietal under the external oblique. Partial circumference of bowel wall describes a Richter's hernia, and a hernia containing the appendix is an Amyand's hernia.",
+  "key_note": "",
+  "_new": true,
+  "qid": "21-N10"
+ },
+ {
+  "ncids": [
+   "K0927"
+  ],
+  "stem": "A 25-year-old man presents with numbness of the skin over the right inguinal region and the medial aspect of the right thigh after a right-sided hernioplasty. Injury to which nerve has caused this?",
+  "options": {
+   "A": "Femoral branch of the genitofemoral nerve",
+   "B": "Genital branch of the genitofemoral nerve",
+   "C": "Ilioinguinal nerve",
+   "D": "Iliohypogastric nerve",
+   "E": "Obturator nerve"
+  },
+  "answer": "C",
+  "explanation": "The ilioinguinal nerve runs on the spermatic cord in the inguinal canal and supplies the skin of the groin, upper medial thigh, root of the penis and anterior scrotum; it is the nerve most often injured in open hernia repair. The iliohypogastric supplies the suprapubic skin and the femoral branch of the genitofemoral supplies the skin over the femoral triangle.",
+  "key_note": "",
+  "_new": true,
+  "qid": "21-N11"
+ },
+ {
+  "ncids": [
+   "K1035"
+  ],
+  "stem": "A 35-year-old man presents with a right-sided inguinal hernia. Which of the following statements regarding the anatomy of the inguinal region is true?",
+  "options": {
+   "A": "The conjoint tendon is the strongest part of the anterior wall of the inguinal canal",
+   "B": "The deep inguinal ring is triangular in shape",
+   "C": "The external oblique (its in-rolled lower edge, the inguinal ligament) forms the floor of the inguinal canal",
+   "D": "The femoral artery passes above the roof of the inguinal canal",
+   "E": "The first layer incised to open the inguinal canal is the internal oblique muscle"
+  },
+  "answer": "C",
+  "explanation": "The floor of the canal is the inguinal ligament, which is the in-rolled lower border of the external oblique aponeurosis. The conjoint tendon reinforces the posterior wall, the deep ring is a U-shaped opening in transversalis fascia, the femoral artery passes below the inguinal ligament, and the canal is opened by incising the external oblique aponeurosis.",
+  "key_note": "Bank marked D; correct is C because the femoral artery passes beneath the inguinal ligament (floor), not above the roof, while the floor is formed by the in-rolled external oblique aponeurosis.",
+  "_new": true,
+  "qid": "21-N12"
+ },
+ {
+  "ncids": [
+   "K1064"
+  ],
+  "stem": "Which nerve passes within the spermatic cord?",
+  "options": {
+   "A": "Femoral branch of the genitofemoral nerve",
+   "B": "Genital branch of the genitofemoral nerve",
+   "C": "Ilioinguinal nerve",
+   "D": "Iliohypogastric nerve",
+   "E": "Obturator nerve"
+  },
+  "answer": "B",
+  "explanation": "The genital branch of the genitofemoral nerve enters the deep ring and runs within the cord, supplying the cremaster and scrotal skin. The ilioinguinal nerve travels through the canal on the surface of the cord but is not a cord content.",
+  "key_note": "",
+  "_new": true,
+  "qid": "21-N13"
+ },
+ {
+  "ncids": [
+   "K1287"
+  ],
+  "stem": "A 65-year-old man presents with a 6-month history of a swelling in his right inguinal region. He has not been well for some time, and on examination a reducible right direct inguinal hernia is diagnosed. What is the most appropriate next step?",
+  "options": {
+   "A": "Put him on the waiting list for hernia repair",
+   "B": "Arrange a comprehensive assessment of all systems",
+   "C": "Arrange a chest X-ray and ECG prior to repair",
+   "D": "Arrange a urodynamic study prior to repair",
+   "E": "Reassure the patient and defer treatment until symptoms appear"
+  },
+  "answer": "B",
+  "explanation": "An elderly man with a new direct hernia who is generally unwell needs a full assessment for causes of raised intra-abdominal pressure (chronic cough, prostatism, constipation or colorectal malignancy) and fitness for surgery before repair. A chest X-ray and ECG alone are too narrow.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "21-N14"
+ },
+ {
+  "ncids": [
+   "K1434"
+  ],
+  "stem": "Which of the following statements is untrue of an obstructed hernia?",
+  "options": {
+   "A": "It is synonymous with an incarcerated hernia",
+   "B": "It is an irreducible hernia containing intestine which is obstructed",
+   "C": "There is interference with the blood supply",
+   "D": "The symptoms are less severe than in strangulation",
+   "E": "Often no clear distinction can be made clinically between obstruction and strangulation"
+  },
+  "answer": "C",
+  "explanation": "In an obstructed (incarcerated) hernia the bowel lumen is occluded but the blood supply is intact; once the blood supply is compromised the hernia is strangulated. Clinically the two often overlap, so obstructed hernias are explored urgently.",
+  "key_note": "",
+  "_new": true,
+  "qid": "21-N15"
+ },
+ {
+  "ncids": [
+   "K1435"
+  ],
+  "stem": "The following are causes of ventral (incisional) hernia. Mark the wrong statement.",
+  "options": {
+   "A": "It occurs most often in obese individuals",
+   "B": "There is a high incidence following operations for peritonitis",
+   "C": "Placing a drainage tube through the incision",
+   "D": "Persistence of postoperative cough and postoperative abdominal distension",
+   "E": "None of the above"
+  },
+  "answer": "E",
+  "explanation": "Obesity, wound infection after operations for peritonitis, drains brought out through the main wound and raised intra-abdominal pressure from cough or distension all predispose to incisional hernia, so none of the statements is wrong.",
+  "key_note": "",
+  "_new": true,
+  "qid": "21-N16"
+ },
+ {
+  "ncids": [
+   "K1616"
+  ],
+  "stem": "A woman who has had five children presents with a soft swelling in the periumbilical region. It is non-reducible and non-tender. What is the most likely diagnosis?",
+  "options": {
+   "A": "Lipoma of the abdominal wall",
+   "B": "Paraumbilical hernia",
+   "C": "Intra-abdominal tumour",
+   "D": "Incisional hernia",
+   "E": "Carcinoma of the stomach"
+  },
+  "answer": "B",
+  "explanation": "Paraumbilical hernias are typical of obese multiparous women, pass through the linea alba just above or below the umbilicus and frequently become irreducible because omentum adheres within a narrow neck. Without a previous scar it cannot be incisional.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "21-N17"
+ },
+ {
+  "ncids": [
+   "K1618"
+  ],
+  "stem": "An incisional hernia is best treated by:",
+  "options": {
+   "A": "Repair with catgut",
+   "B": "Repair with Prolene suture",
+   "C": "Repair with onlay Prolene mesh",
+   "D": "Repair with steel wires",
+   "E": "Conservative treatment"
+  },
+  "answer": "C",
+  "explanation": "Suture repair of incisional hernias has unacceptably high recurrence, so mesh repair is the standard; current practice favours sublay (retromuscular) or intraperitoneal mesh, and among these options onlay polypropylene mesh is the best choice.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "21-N18"
+ },
+ {
+  "ncids": [
+   "K1672"
+  ],
+  "stem": "Which of the following is true of a DIRECT inguinal hernia?",
+  "options": {
+   "A": "It is frequent in females",
+   "B": "It is usually congenital",
+   "C": "It passes through the posterior wall of the inguinal canal medial to the deep inguinal ring",
+   "D": "It is more common in children",
+   "E": "It often strangulates"
+  },
+  "answer": "C",
+  "explanation": "A direct hernia bulges through the weak posterior wall in Hesselbach's triangle, medial to the inferior epigastric vessels and deep ring. It is acquired, seen in older men, rare in women and children, and seldom strangulates because its neck is wide.",
+  "key_note": "",
+  "_new": true,
+  "qid": "21-N19"
+ },
+ {
+  "ncids": [
+   "K1673"
+  ],
+  "stem": "A higher incidence of incisional hernia is seen with the following co-existing factors, EXCEPT:",
+  "options": {
+   "A": "Postoperative wound infection",
+   "B": "Anaemia and malnutrition",
+   "C": "Mass closure with slowly absorbable monofilament sutures",
+   "D": "Obesity",
+   "E": "Faulty surgical technique"
+  },
+  "answer": "C",
+  "explanation": "Wound infection, malnutrition and anaemia, obesity and poor technique all increase incisional hernia rates. Mass closure with slowly absorbable monofilament (e.g. PDS, small bites, 4:1 suture to wound length) is the recommended technique; it is rapidly absorbed material such as catgut that predisposes to herniation.",
+  "key_note": "Bank marked B; correct is C because anaemia and malnutrition are recognised risk factors, whereas slowly absorbable sutures are standard for abdominal closure (the original option said 'absorbable sutures', clarified here).",
+  "_new": true,
+  "qid": "21-N20"
+ },
+ {
+  "ncids": [
+   "K1033"
+  ],
+  "stem": "Which of the following statements is true regarding the surgical anatomy of inguinal hernia?",
+  "options": {
+   "A": "The length of the inguinal canal in adults is 10 cm",
+   "B": "The inferior epigastric artery lies lateral to the deep ring",
+   "C": "In both infants and adults the internal and external rings are superimposed",
+   "D": "The internal ring is a U-shaped opening in the external oblique aponeurosis",
+   "E": "The internal ring lies about 1.25 cm above the midpoint of the inguinal ligament"
+  },
+  "answer": "E",
+  "explanation": "The deep ring is a U-shaped opening in the transversalis fascia about 1.25 cm above the midpoint of the inguinal ligament, with the inferior epigastric vessels on its medial side. The adult canal is about 4 cm long; the rings are superimposed only in infants.",
+  "key_note": "",
+  "_new": true,
+  "qid": "21-N21"
+ }
+]

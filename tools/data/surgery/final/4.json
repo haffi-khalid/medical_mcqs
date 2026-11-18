@@ -1,0 +1,206 @@
+[
+ {
+  "cids": [
+   "C0022"
+  ],
+  "stem": "The most common site of fracture in children is:",
+  "options": {
+   "A": "Shaft of femur",
+   "B": "Head of radius",
+   "C": "Shaft of ulna",
+   "D": "Distal end of radius",
+   "E": "Clavicle"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Distal radius (forearm) fractures are the commonest fractures of childhood, usually from a fall on the outstretched hand; clavicle and supracondylar fractures follow. Many are buckle (torus) or greenstick injuries.",
+  "key_note": "",
+  "figure": "",
+  "qid": "4-1"
+ },
+ {
+  "cids": [
+   "C0477"
+  ],
+  "stem": "Congenital dislocation of the hip (CDH) is due to:",
+  "options": {
+   "A": "Large acetabulum",
+   "B": "Rotation of femur",
+   "C": "Small neck of femur",
+   "D": "Small femoral head",
+   "E": "Large femoral head"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Developmental dysplasia of the hip results from a shallow, dysplastic acetabulum and capsular laxity (maternal hormones, breech position, first born girls), so the femoral head is relatively too large for the socket.",
+  "key_note": "Flawed question: none of the options states the true cause (shallow acetabulum and ligamentous laxity); the paper key E (relatively large head for the socket) is the best of the options.",
+  "figure": "",
+  "qid": "4-2"
+ },
+ {
+  "cids": [
+   "C0945"
+  ],
+  "stem": "A newborn boy is examined to exclude congenital dislocation of the hip (CDH). Which of the following is relevant to the diagnosis of CDH?",
+  "options": {
+   "A": "The diagnosis should be established between 2 and 4 years of age",
+   "B": "Abduction of the flexed hip causes a click",
+   "C": "Abduction of the hip is not limited",
+   "D": "Apparent lengthening of the thigh with hips and knees flexed may be seen"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Ortolani's test: abducting the flexed hip reduces a dislocated head into the acetabulum with a palpable clunk (click). Diagnosis should be made at birth; in later infancy abduction becomes limited and the thigh appears short (Galeazzi sign).",
+  "key_note": "",
+  "figure": "",
+  "qid": "4-3"
+ },
+ {
+  "cids": [
+   "C1517"
+  ],
+  "stem": "A young child was brought to the orthopaedic OPD after the father pulled the child's arm, after which the child immediately started crying. There is tenderness at the elbow with intact distal neurovascular status. What is the most likely diagnosis?",
+  "options": {
+   "A": "Birth trauma with fracture of the left humerus",
+   "B": "Congenital dislocation of the right shoulder joint",
+   "C": "Fracture dislocation of the ulna",
+   "D": "Fracture of distal third of humerus",
+   "E": "Partial dislocation (subluxation) of the head of radius"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Pulled elbow occurs in children aged 1-4 when traction on the extended pronated arm slips the radial head partly out of the annular ligament. The child holds the arm still and pronated; it reduces by supination and flexion, and X-rays are normal.",
+  "key_note": "The child's age was illegible in the source.",
+  "figure": "",
+  "qid": "4-4"
+ },
+ {
+  "cids": [
+   "C1382"
+  ],
+  "stem": "A 3-month-old girl is brought to OPD because she is not moving her right upper limb. There is no history of trauma, passive movements are normal, the limb is otherwise unremarkable on examination and X-ray is normal. What is the likely cause?",
+  "options": {
+   "A": "Birth trauma to the right upper limb",
+   "B": "Right brachial plexus injury during birth",
+   "C": "Pulled elbow",
+   "D": "Dislocation of the right elbow",
+   "E": "Acute osteomyelitis of the proximal humerus"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "A baby who does not move the arm actively despite full passive movement and normal X-rays has an obstetric brachial plexus palsy, usually Erb's (C5-C6) from traction during delivery. Fracture, dislocation or infection would cause pain on passive movement or X-ray changes.",
+  "key_note": "",
+  "figure": "",
+  "qid": "4-5"
+ },
+ {
+  "cids": [
+   "C1419"
+  ],
+  "stem": "A 1-year-old girl presents with toe walking. Both tendo Achilles are tight and the feet are held in equinus. What management will be done at this stage?",
+  "options": {
+   "A": "Bilateral Turco procedure",
+   "B": "Bilateral ankle arthrodesis in corrected position",
+   "C": "Bilateral tendo Achilles tenotomy with casting",
+   "D": "Physiotherapy",
+   "E": "Conservative management"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A fixed equinus from tight tendo Achilles in an infant is corrected by percutaneous tendo Achilles tenotomy followed by casting (as in the Ponseti method). Arthrodesis is never done in a growing child and Turco's posteromedial release is for resistant clubfoot.",
+  "key_note": "",
+  "figure": "",
+  "qid": "4-6"
+ },
+ {
+  "ncids": [
+   "K0277",
+   "K0282"
+  ],
+  "stem": "Parents bring their 1-week-old baby, born at home after a difficult delivery, with a swelling in the middle of the thigh. What is the most likely cause?",
+  "options": {
+   "A": "Birth-trauma fracture of the shaft of the femur during delivery",
+   "B": "Osteogenic tumour",
+   "C": "Congenital anomaly of the femur",
+   "D": "Soft tissue haematoma due to vascular injury",
+   "E": "Acute bone infection"
+  },
+  "answer": "A",
+  "explanation": "A mid-thigh swelling within days of a difficult (especially breech or unsupervised home) delivery is most likely a femoral shaft fracture from birth trauma; it unites rapidly with simple splintage or a Pavlik harness. Neonatal bone tumours are extremely rare.",
+  "key_note": "",
+  "_new": true,
+  "qid": "4-N1"
+ },
+ {
+  "ncids": [
+   "K0271",
+   "K0291"
+  ],
+  "stem": "A 3-year-old boy falls from a rooftop and sustains a closed fracture of the shaft of the left femur. The distal neurovascular status is intact. What is the management?",
+  "options": {
+   "A": "Skin traction alone",
+   "B": "POP cast up to the thigh",
+   "C": "Back slab to the thigh",
+   "D": "Hip spica (with or without initial skin traction)",
+   "E": "Pin (skeletal) traction only"
+  },
+  "answer": "D",
+  "explanation": "Femoral shaft fractures in children aged about 6 months to 5 years are treated by closed reduction and a hip spica cast (sometimes after a short period of skin traction), as rapid healing and remodelling correct minor malalignment. Children of about 5 to 12 years are now usually treated with flexible (elastic) intramedullary nails, and adolescents with locked nails.",
+  "key_note": "",
+  "_new": true,
+  "qid": "4-N2"
+ },
+ {
+  "ncids": [
+   "K0295"
+  ],
+  "stem": "The most common site of fracture of the clavicle is the:",
+  "options": {
+   "A": "Medial end",
+   "B": "Lateral end",
+   "C": "Middle third",
+   "D": "Junction of the medial two thirds and lateral third",
+   "E": "Junction of the lateral two thirds and medial third"
+  },
+  "answer": "C",
+  "explanation": "About 80% of clavicle fractures occur in the middle third, the thinnest part where the two curvatures meet, usually from a fall on the shoulder. Lateral third fractures make up about 15% and medial fractures are rare.",
+  "key_note": "",
+  "_new": true,
+  "qid": "4-N3"
+ },
+ {
+  "ncids": [
+   "K1368"
+  ],
+  "stem": "Epiphyseal (physeal) injuries cause growth disturbance in children due to:",
+  "options": {
+   "A": "Avascular necrosis of the plate",
+   "B": "Crushing or infection of the plate",
+   "C": "Hyperaemia of the plate",
+   "D": "Formation of a bony bridge between the epiphysis and metaphysis",
+   "E": "All of the above"
+  },
+  "answer": "E",
+  "explanation": "Growth plate damage can cause arrest from ischaemia, crushing (Salter-Harris V) or infection, and angular deformity from a bony bar bridging epiphysis and metaphysis; hyperaemia can cause overgrowth.",
+  "key_note": "",
+  "_new": true,
+  "qid": "4-N4"
+ },
+ {
+  "ncids": [
+   "K1373"
+  ],
+  "stem": "Childhood fractures differ from those in adults in all of the following ways EXCEPT:",
+  "options": {
+   "A": "They unite more quickly",
+   "B": "Malunion can to some extent be corrected by growth",
+   "C": "Joint stiffness is severe",
+   "D": "They may interfere with growth"
+  },
+  "answer": "C",
+  "explanation": "Children's fractures heal rapidly, remodel with growth and can disturb growth if the physis is involved, but joint stiffness after immobilisation is uncommon in children, unlike in adults.",
+  "key_note": "",
+  "_new": true,
+  "qid": "4-N5"
+ }
+]

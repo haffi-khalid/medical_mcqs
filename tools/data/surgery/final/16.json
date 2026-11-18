@@ -1,0 +1,335 @@
+[
+ {
+  "cids": [
+   "C0017"
+  ],
+  "stem": "Which of the following medical conditions is NOT a recognised cause of acute abdominal pain?",
+  "options": {
+   "A": "Diabetic ketoacidosis",
+   "B": "Porphyria",
+   "C": "Angina",
+   "D": "Coeliac disease",
+   "E": "Pneumonia"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Classic medical mimics of the acute abdomen are myocardial ischaemia, lower lobe pneumonia, diabetic ketoacidosis, porphyria, sickle cell crisis and herpes zoster. Coeliac disease causes chronic bloating and discomfort rather than acute abdominal pain, so it is the best answer.",
+  "key_note": "Flawed question: all options can cause abdominal pain. The paper marked E (pneumonia), but lower lobe pneumonia is a classic cause of referred abdominal pain; D is the least typical cause and the best answer.",
+  "figure": "",
+  "qid": "16-1"
+ },
+ {
+  "cids": [
+   "C0820"
+  ],
+  "stem": "Which of the following organisms is not a gastrointestinal source of peritonitis?",
+  "options": {
+   "A": "Escherichia coli",
+   "B": "Streptococcus",
+   "C": "Bacteroides",
+   "D": "Chlamydia",
+   "E": "Clostridium"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Secondary peritonitis from the gut is polymicrobial: E. coli, streptococci (including enterococci), Bacteroides and Clostridium. Chlamydia reaches the peritoneum from the female genital tract (pelvic inflammatory disease, Fitz-Hugh-Curtis syndrome), not from the gut.",
+  "key_note": "",
+  "figure": "",
+  "qid": "16-2"
+ },
+ {
+  "cids": [
+   "C0704"
+  ],
+  "stem": "Which range of intra-abdominal pressure represents intra-abdominal hypertension?",
+  "options": {
+   "A": "5-15 mmHg",
+   "B": "25-35 mmHg",
+   "C": "50-75 mmHg",
+   "D": "100 mmHg",
+   "E": "150 mmHg"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Normal intra-abdominal pressure is about 5-7 mmHg. Intra-abdominal hypertension is a sustained pressure of 12 mmHg or more (grade I 12-15, II 16-20, III 21-25, IV over 25), and abdominal compartment syndrome is over 20 mmHg with new organ dysfunction. Of the options, only 25-35 mmHg lies wholly in the pathological range.",
+  "key_note": "Not marked in the source paper (the student queried it); answer by reviewer. The question is poorly framed; learn the definitions in the explanation.",
+  "figure": "",
+  "qid": "16-3"
+ },
+ {
+  "cids": [
+   "C0181"
+  ],
+  "stem": "A 50-year man presents with diffuse abdominal pain and signs of peritonitis. At laparotomy, cloudy fluid and thickened peritoneum are seen. The Ziehl-Neelsen stain was positive. What is the definitive treatment?",
+  "options": {
+   "A": "IV metronidazole",
+   "B": "Intraperitoneal chemotherapy",
+   "C": "Anti-tubercular therapy",
+   "D": "Surgical resection of affected bowel",
+   "E": "Radiotherapy"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Thickened peritoneum with exudative ascites and acid-fast bacilli on Ziehl-Neelsen stain is tuberculous peritonitis; definitive treatment is a full course of anti-tuberculous therapy (6 months or more). Surgery is only for complications such as obstruction or perforation.",
+  "key_note": "",
+  "figure": "",
+  "qid": "16-4"
+ },
+ {
+  "cids": [
+   "C0179"
+  ],
+  "stem": "A 65-year man presents with progressive abdominal distension, weight loss, and early satiety. The CT scan shows diffuse thickening of the peritoneum and omental caking. What is the most likely diagnosis?",
+  "options": {
+   "A": "Omental gangrene",
+   "B": "Pseudomyxoma peritonei",
+   "C": "Peritoneal carcinomatosis",
+   "D": "Peritoneal mesothelioma",
+   "E": "Ascites due to cirrhosis"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Omental caking with diffuse peritoneal thickening, ascites, weight loss and early satiety indicate peritoneal carcinomatosis, most often from gastric, colorectal, pancreatic or ovarian primaries. Pseudomyxoma gives mucinous ascites with scalloping of the liver.",
+  "key_note": "",
+  "figure": "",
+  "qid": "16-5"
+ },
+ {
+  "cids": [
+   "C0180"
+  ],
+  "stem": "A 45-year woman presents with abdominal distension. The CT shows scalloping of the liver and large volumes of mucinous ascites. What is the most likely primary source of this condition?",
+  "options": {
+   "A": "Pancreas",
+   "B": "Appendix",
+   "C": "Colon",
+   "D": "Liver",
+   "E": "Small intestine"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Mucinous ascites with scalloping of the liver surface is pseudomyxoma peritonei, which in most cases arises from a ruptured low-grade appendiceal mucinous neoplasm. Treatment is cytoreductive surgery with HIPEC.",
+  "key_note": "",
+  "figure": "",
+  "qid": "16-6"
+ },
+ {
+  "cids": [
+   "C0866"
+  ],
+  "stem": "After a radical nephrectomy, a 60-year-old diabetic man develops necrotising fasciitis of the wound. After the infection is treated, the defect is covered with an omental flap. The omental flap is based on blood supply from the:",
+  "options": {
+   "A": "Omental branch of the abdominal aorta",
+   "B": "Middle colic artery",
+   "C": "Gastroepiploic artery",
+   "D": "Middle sacral artery",
+   "E": "Epigastric artery"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "The greater omentum is supplied by the right and left gastroepiploic arteries via the omental (epiploic) branches, so an omental flap is pedicled on one gastroepiploic artery.",
+  "key_note": "",
+  "figure": "",
+  "qid": "16-7"
+ },
+ {
+  "cids": [
+   "C0184"
+  ],
+  "stem": "A 48-year male presents with dull back pain and signs of bilateral hydronephrosis on ultrasound. The CT abdomen shows a soft tissue mass encasing the aorta and ureters. The renal functions are normal. What is the initial best management step?",
+  "options": {
+   "A": "Start corticosteroid therapy",
+   "B": "Surgical ureterolysis",
+   "C": "Begin broad-spectrum antibiotics",
+   "D": "Biopsy of the retroperitoneal mass",
+   "E": "Insert bilateral nephrostomy tubes"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "A periaortic soft tissue mass encasing the aorta and ureters with hydronephrosis is retroperitoneal fibrosis. With preserved renal function, corticosteroids are first-line and usually produce regression; ureteric stents or nephrostomy are needed only if renal function is impaired. Biopsy is reserved for atypical features to exclude lymphoma or malignancy.",
+  "key_note": "",
+  "figure": "",
+  "qid": "16-8"
+ },
+ {
+  "cids": [
+   "C0182"
+  ],
+  "stem": "A CT scan of a 55-year male incidentally shows a 15 cm retroperitoneal mass. The Biopsy reveals a well-differentiated liposarcoma. What is the most appropriate next step?",
+  "options": {
+   "A": "Neoadjuvant radiotherapy",
+   "B": "Doxorubicin-based chemotherapy",
+   "C": "En bloc surgical resection",
+   "D": "Brachytherapy",
+   "E": "Waiting with 6-monthly surveillance"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Retroperitoneal sarcoma (liposarcoma is the commonest) is treated by complete en bloc surgical resection with adjacent involved organs at a specialist centre, as margin status is the main determinant of local recurrence. Well-differentiated liposarcoma responds poorly to chemotherapy.",
+  "key_note": "",
+  "figure": "",
+  "qid": "16-9"
+ },
+ {
+  "ncids": [
+   "K0220"
+  ],
+  "stem": "Which structures are located in the retroperitoneal space?",
+  "options": {
+   "A": "Abdominal aorta and inferior vena cava",
+   "B": "Duodenum (2nd to 4th parts)",
+   "C": "Kidneys and ureters",
+   "D": "All of the above",
+   "E": "B and C only"
+  },
+  "answer": "D",
+  "explanation": "The aorta, IVC, kidneys, ureters, adrenals, pancreas (except tail) and most of the duodenum all lie in the retroperitoneum.",
+  "key_note": "",
+  "_new": true,
+  "qid": "16-N1"
+ },
+ {
+  "ncids": [
+   "K0335",
+   "K1080"
+  ],
+  "stem": "Hippocratic facies in a surgical patient is most commonly associated with:",
+  "options": {
+   "A": "Diffuse peritonitis",
+   "B": "Dehydration",
+   "C": "Renal failure",
+   "D": "Burns",
+   "E": "Bell's palsy"
+  },
+  "answer": "A",
+  "explanation": "Hippocratic facies (sunken eyes, pinched nose, hollow cheeks, cold clammy grey skin) is the terminal appearance of generalised peritonitis with hypovolaemia and septic shock.",
+  "key_note": "",
+  "_new": true,
+  "qid": "16-N2"
+ },
+ {
+  "ncids": [
+   "K0343"
+  ],
+  "stem": "A 54-year-old man presents with a 2-day history of right upper abdominal and shoulder-tip pain, difficulty breathing, fever and sweats. He underwent laparotomy 2 weeks ago for a perforated appendix. What is the most likely diagnosis?",
+  "options": {
+   "A": "Appendix abscess",
+   "B": "Cholecystitis",
+   "C": "Diverticular abscess",
+   "D": "Polycystic liver disease",
+   "E": "Subphrenic abscess"
+  },
+  "answer": "E",
+  "explanation": "Swinging fever after laparotomy for peritonitis, with upper abdominal and referred shoulder-tip pain (diaphragmatic irritation) and respiratory symptoms, suggests a subphrenic abscess; the right side is commonest after appendicular perforation.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "16-N3"
+ },
+ {
+  "ncids": [
+   "K0871"
+  ],
+  "stem": "A patient presents to the ER with severe abdominal pain and vomiting and is labelled as an 'acute abdomen'. Which of the following investigations is the FIRST to be advised?",
+  "options": {
+   "A": "Blood complete picture",
+   "B": "Plain X-ray abdomen (with erect chest X-ray)",
+   "C": "Barium meal",
+   "D": "MRI",
+   "E": "Upper GI endoscopy"
+  },
+  "answer": "B",
+  "explanation": "Plain radiographs (erect chest for free gas and abdominal film for obstruction) are the first-line imaging in an undifferentiated acute abdomen, alongside basic bloods. Endoscopy and barium are contraindicated if perforation is possible.",
+  "key_note": "Bank marked E (upper GI endoscopy) in one copy and left the other unmarked; correct is B because endoscopy is not a first-line test in an acute abdomen and risks worsening a perforation.",
+  "_new": true,
+  "qid": "16-N4"
+ },
+ {
+  "ncids": [
+   "K0971"
+  ],
+  "stem": "A middle-aged woman presents with severe epigastric pain and repeated vomiting after iftar dinner. She has used NSAIDs for arthritis for years. Her abdomen is tense and tender. What is the most important relevant investigation?",
+  "options": {
+   "A": "Complete blood picture",
+   "B": "Diagnostic peritoneal lavage",
+   "C": "Serum amylase",
+   "D": "Upper GI endoscopy",
+   "E": "Erect chest/abdominal X-ray"
+  },
+  "answer": "E",
+  "explanation": "Long-term NSAID use with sudden severe epigastric pain and a rigid abdomen suggests a perforated peptic ulcer; an erect chest X-ray showing gas under the diaphragm is the key investigation. Serum amylase excludes pancreatitis but is not the most important test here.",
+  "key_note": "",
+  "_new": true,
+  "qid": "16-N5"
+ },
+ {
+  "ncids": [
+   "K1420"
+  ],
+  "stem": "Abdominal complications of peritonitis include all of the following EXCEPT:",
+  "options": {
+   "A": "Paralytic ileus",
+   "B": "Portal pyaemia",
+   "C": "Small bowel obstruction from adhesions",
+   "D": "Colonic volvulus"
+  },
+  "answer": "D",
+  "explanation": "Peritonitis can be followed by paralytic ileus, residual abscesses, portal pyaemia (pylephlebitis) and adhesional small bowel obstruction; colonic volvulus is not a complication of peritonitis.",
+  "key_note": "",
+  "_new": true,
+  "qid": "16-N6"
+ },
+ {
+  "ncids": [
+   "K1667"
+  ],
+  "stem": "An elderly patient presents with an intra-abdominal mass that does not move with respiration. With which of the following is it most likely associated?",
+  "options": {
+   "A": "Liver",
+   "B": "Gall bladder",
+   "C": "Spleen",
+   "D": "Stomach",
+   "E": "Retroperitoneal tissues"
+  },
+  "answer": "E",
+  "explanation": "Masses arising from the liver, gall bladder, spleen and stomach lie in contact with the diaphragm and move with respiration; retroperitoneal masses are fixed and do not.",
+  "key_note": "",
+  "_new": true,
+  "qid": "16-N7"
+ },
+ {
+  "ncids": [
+   "K1718"
+  ],
+  "stem": "Regarding a subphrenic abscess, which statement is true?",
+  "options": {
+   "A": "There is always marked tenderness over the overlying ribs",
+   "B": "It is always accompanied by considerable systemic effects",
+   "C": "It rarely produces abnormal signs in the chest",
+   "D": "It is usually diagnosed by ultrasound examination",
+   "E": "It is always diagnosed by barium meal study"
+  },
+  "answer": "D",
+  "explanation": "Ultrasound (and CT) are the investigations used to diagnose a subphrenic collection and guide percutaneous drainage. Chest signs (basal effusion, raised hemidiaphragm, collapse) are common, and clinical features are often vague.",
+  "key_note": "",
+  "_new": true,
+  "qid": "16-N8"
+ },
+ {
+  "ncids": [
+   "K0963"
+  ],
+  "stem": "Which of the following is a retroperitoneal structure?",
+  "options": {
+   "A": "Liver",
+   "B": "Spleen",
+   "C": "Small gut (jejunum and ileum)",
+   "D": "Stomach",
+   "E": "Pancreas"
+  },
+  "answer": "E",
+  "explanation": "The pancreas (except the tail, which lies in the splenorenal ligament) is a secondarily retroperitoneal organ. The liver, spleen, stomach, jejunum and ileum are intraperitoneal.",
+  "key_note": "",
+  "_new": true,
+  "qid": "16-N9"
+ }
+]

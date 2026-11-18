@@ -1,0 +1,3206 @@
+[
+ {
+  "cids": [
+   "C0453"
+  ],
+  "stem": "Which of the following statements regarding blunt injury is false?",
+  "options": {
+   "A": "The mechanisms are direct or indirect",
+   "B": "In indirect injury, associated injuries may be present and should be sought",
+   "C": "Overt injury should lead the clinician to look for a covert injury as well",
+   "D": "Proper exposure is essential so as not to miss other injuries",
+   "E": "In chest injuries, damage to abdominal organs is rare"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "The lower ribs overlie the liver, spleen and kidneys, so chest injuries are frequently associated with upper abdominal organ injury. The other statements are standard principles of assessing blunt trauma.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G1-1"
+ },
+ {
+  "cids": [
+   "C0905"
+  ],
+  "stem": "Severity of tissue damage in wounds caused by bullets principally depends on:",
+  "options": {
+   "A": "Size of the bullet",
+   "B": "Shape of the bullet",
+   "C": "Velocity of the bullet",
+   "D": "Weight of the bullet"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Kinetic energy is 1/2 mv squared, so velocity is the dominant determinant of energy transfer and temporary cavitation. High-velocity missiles cause damage far beyond the visible track.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G1-2"
+ },
+ {
+  "cids": [
+   "C0779"
+  ],
+  "stem": "A 37-year-old male car driver skids from the road at high speed and hits a tree. Which of the following injuries is he most likely to suffer because of deceleration?",
+  "options": {
+   "A": "Cardiac tamponade",
+   "B": "Liver laceration",
+   "C": "Mesenteric avulsion",
+   "D": "Shoulder joint dislocation",
+   "E": "Splenic rupture"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Deceleration produces shearing between mobile and fixed structures, classically tearing the mesentery (bucket-handle injury) and the aorta at the ligamentum arteriosum. Splenic rupture and liver laceration are more typically compression or direct-blow injuries.",
+  "key_note": "Not marked in the source paper; the compiled answer book gave E (Splenic rupture), but the classic deceleration (shearing) injury among these options is mesenteric avulsion.",
+  "figure": "",
+  "qid": "G1-3"
+ },
+ {
+  "cids": [
+   "C1214",
+   "N007"
+  ],
+  "stem": "All patients involved in road traffic accidents are treated according to the ATLS protocol. Which of the following is NOT a part of the ATLS protocol?",
+  "options": {
+   "A": "Definitive treatment",
+   "B": "Primary survey",
+   "C": "Investigations as first priority",
+   "D": "Resuscitation",
+   "E": "Secondary survey"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "ATLS runs primary survey with simultaneous resuscitation, then secondary survey, then definitive care. Investigations are adjuncts and never take priority over identifying and treating immediate threats to life.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "G1-4"
+ },
+ {
+  "cids": [
+   "C1062"
+  ],
+  "stem": "You are appointed in the surgical department of a field hospital after a disaster. A victim is triaged for immediate surgery. The surgeon should best choose which of the following?",
+  "options": {
+   "A": "Continue resuscitation in ER",
+   "B": "Continue resuscitation in OT",
+   "C": "Perform damage control surgery",
+   "D": "Perform definitive surgery",
+   "E": "Transfer to specialist care centre"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "In austere and mass-casualty settings, damage control surgery (control haemorrhage and contamination, abbreviated operation, then ICU correction of the lethal triad) saves the most lives. Definitive repair is deferred until physiology is restored.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G1-5"
+ },
+ {
+  "cids": [
+   "C1254"
+  ],
+  "stem": "A rescuer receives a road accident victim at the scene. The patient is unconscious with no limb movements and bleeding lacerations on the forehead. What should he do next to shift the patient to a hospital?",
+  "options": {
+   "A": "Splint the whole spine of the patient before shifting",
+   "B": "Cervical collar application and log roll, dressing of wound",
+   "C": "Do primary and secondary survey",
+   "D": "Do stitching of wounds on forehead, cervical collar",
+   "E": "Lumbar corset and pressure dressing of wound"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "An unconscious trauma patient with no limb movement must be assumed to have a spinal injury: immobilise the cervical spine, move by log roll and control external bleeding with a dressing. Wound suturing and a full secondary survey are hospital tasks.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G1-6"
+ },
+ {
+  "cids": [
+   "C1093",
+   "C1090"
+  ],
+  "stem": "A 40-year-old male falls from a height of 10 metres and hits the hard ground. He is lying unconscious. The life-saving manoeuvre by the first responder should be to:",
+  "options": {
+   "A": "Open his mouth to clean blood and vomitus",
+   "B": "Apply splints to his fractured limbs",
+   "C": "Fix a cervical collar",
+   "D": "Do chest compressions for CPR",
+   "E": "Give a painful stimulus to wake him up"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Airway obstruction by blood, vomitus or the tongue is the quickest killer of an unconscious trauma patient, so clearing the airway is the life-saving step. Cervical spine protection is applied at the same time (airway with c-spine control) but by itself does not save life.",
+  "key_note": "Source papers keyed C (Cervical collar) and, in a variant, E (Feel the pulse); correct is clearing the airway (A): c-spine restriction accompanies airway management, but clearing blood, vomitus or the tongue from the airway is the life-saving manoeuvre.",
+  "figure": "",
+  "qid": "G1-7"
+ },
+ {
+  "cids": [
+   "C1091"
+  ],
+  "stem": "A 35-year-old driver was driving a car at 100 km/hour without a seat belt when he braked suddenly to avoid a cyclist and was thrown forward into the windscreen. On arrival in the Emergency Department he is conscious but in respiratory distress. The staff in the Emergency Department should first:",
+  "options": {
+   "A": "Check his vital signs",
+   "B": "Stitch wounds on his face",
+   "C": "Do suction of blood from his mouth",
+   "D": "Apply face mask with 100% oxygen",
+   "E": "Get an urgent portable X-ray chest"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "He is conscious and talking, so the airway is currently patent; the immediate priority in respiratory distress is high-flow oxygen via a non-rebreather mask while the breathing assessment continues. Suction is used only if blood is obstructing the airway, and X-ray is an adjunct.",
+  "key_note": "The source paper marked A (Check his vital signs); correct is D because ATLS gives high-flow oxygen immediately to a trauma patient in respiratory distress, and 'check vital signs' is not a primary survey intervention.",
+  "figure": "",
+  "qid": "G1-8"
+ },
+ {
+  "cids": [
+   "C1096"
+  ],
+  "stem": "To manage the airway in a patient with trauma, the first step is to:",
+  "options": {
+   "A": "Check the pulse",
+   "B": "Administer pain medication",
+   "C": "Assess the patient's breathing and airway",
+   "D": "Check blood pressure",
+   "E": "Apply cervical collar"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Airway management begins with assessment: look, listen and feel for patency (a patient who talks normally has a patent airway). Interventions follow from what the assessment finds.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G1-9"
+ },
+ {
+  "cids": [
+   "C0078",
+   "C0088"
+  ],
+  "stem": "A 35-year-old male is brought to the emergency department after a motor vehicle accident. He is unconscious and has a Glasgow Coma Scale (GCS) score of 6. What will be the most appropriate airway management?",
+  "options": {
+   "A": "Endotracheal intubation",
+   "B": "Laryngeal mask airway",
+   "C": "Nasopharyngeal airway",
+   "D": "Oropharyngeal airway",
+   "E": "Emergency tracheostomy"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "A GCS of 8 or less means the patient cannot protect the airway, which is an indication for a definitive airway: a cuffed tube in the trachea, usually orotracheal intubation by RSI with in-line cervical stabilisation. LMA and oro/nasopharyngeal airways are not definitive airways.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G1-10"
+ },
+ {
+  "cids": [
+   "C0086"
+  ],
+  "stem": "A 25-year-old man is brought to the emergency department after a motor vehicle accident. He has a Glasgow Coma Scale (GCS) score of 10. What would be the most appropriate initial management?",
+  "options": {
+   "A": "CT scan of the head",
+   "B": "MRI of the brain",
+   "C": "Intubation and mechanical ventilation",
+   "D": "Administration of mannitol",
+   "E": "Observation and serial neurological examinations"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "GCS 9-12 is a moderate head injury: once ABCs are secured, a CT head is mandatory to look for a surgical lesion. Intubation is indicated at GCS 8 or less, not routinely at GCS 10.",
+  "key_note": "Variants disagree: one paper marked A, another marked C (Intubation); correct is A since a GCS of 10 is not itself an indication for a definitive airway.",
+  "figure": "",
+  "qid": "G1-11"
+ },
+ {
+  "cids": [
+   "C1097"
+  ],
+  "stem": "Endotracheal intubation is commonly performed for airway management in which of the following trauma patients?",
+  "options": {
+   "A": "Suspected head injury",
+   "B": "Suspected abdominal trauma",
+   "C": "Major limb fractures",
+   "D": "Facial laceration",
+   "E": "Haemopneumothorax"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Severe head injury (GCS 8 or less) is the commonest indication for a definitive airway in trauma, to protect against aspiration and to prevent hypoxia and hypercarbia that worsen secondary brain injury.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G1-12"
+ },
+ {
+  "cids": [
+   "C1098"
+  ],
+  "stem": "Insertion of an oropharyngeal airway is contraindicated in which trauma patient?",
+  "options": {
+   "A": "Unconscious patient with no gag reflex",
+   "B": "Suspected head injury with altered mental status",
+   "C": "Penetrating chest trauma",
+   "D": "Major limb injury",
+   "E": "Blunt trauma to abdomen"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "An oropharyngeal (Guedel) airway is tolerated only by patients without a gag reflex; in a semi-conscious, head-injured patient whose gag reflex is preserved it provokes gagging, vomiting and aspiration. Option A is the actual indication for an OPA.",
+  "key_note": "Question is loosely worded (the true contraindication is an intact gag reflex), but B is the intended best answer.",
+  "figure": "",
+  "qid": "G1-13"
+ },
+ {
+  "cids": [
+   "C0995"
+  ],
+  "stem": "Which of the following signs indicates the need for a definitive airway in a severely injured trauma patient?",
+  "options": {
+   "A": "Facial laceration",
+   "B": "Repeated vomiting",
+   "C": "Severe maxillofacial fracture",
+   "D": "Sternal fracture"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Severe maxillofacial fractures threaten the airway through bleeding, swelling and loss of bony support of the tongue, and are a recognised indication for a definitive airway.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "G1-14"
+ },
+ {
+  "cids": [
+   "C0449"
+  ],
+  "stem": "A 19-year-old male involved in a motor vehicle accident presents to the ER with polytrauma including long bone fractures. His BP is 70/30 mmHg with a pulse of 122 bpm. Immediate management includes:",
+  "options": {
+   "A": "Send blood for cross-match and then transfuse type-specific and cross-matched blood",
+   "B": "Start immediate fluid resuscitation with Ringer's lactate, send cross-match and call for O-negative blood from the bank",
+   "C": "Start dextrose saline and call for O-positive blood from the bank",
+   "D": "Start O-positive blood transfusion",
+   "E": "Do not give any fluids and wait for blood"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "In class III/IV haemorrhagic shock, start warmed isotonic crystalloid (no more than about 1 L) through two large-bore cannulae while sending cross-match and obtaining uncrossmatched O-negative blood, moving early to blood and blood products. Waiting for cross-matched blood or giving dextrose is wrong.",
+  "key_note": "Source printed six options (A-F) because option A was split across two lines; merged and relabelled A-E, so the marked answer C becomes B.",
+  "figure": "",
+  "qid": "G1-15"
+ },
+ {
+  "cids": [
+   "C0273"
+  ],
+  "stem": "A healthy young male in a motor vehicle crash presents to the Emergency Department with blood pressure 80/40 mmHg, pulse 123/min and GCS 10. The patient moans when the pelvis is palpated. After initiating fluid resuscitation, the next step in management is:",
+  "options": {
+   "A": "Insert urinary catheter",
+   "B": "Pelvic X-ray",
+   "C": "Placement of pelvic binder",
+   "D": "Repeat examination of pelvis",
+   "E": "Transfer to trauma centre"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "In a haemodynamically unstable patient with suspected pelvic fracture, a pelvic binder at the level of the greater trochanters reduces pelvic volume and tamponades venous bleeding. Repeated pelvic springing dislodges clot, and catheterisation risks a urethral injury.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "G1-16"
+ },
+ {
+  "cids": [
+   "N004"
+  ],
+  "stem": "Which statement regarding pelvic fracture is correct?",
+  "options": {},
+  "answer": null,
+  "answer_text": "Rupture of the iliac vessels can cause hypovolaemic shock",
+  "explanation": "Unstable pelvic ring fractures can tear the iliac vessels and the presacral venous plexus, causing life-threatening retroperitoneal haemorrhage and hypovolaemic shock.",
+  "key_note": "Options not available in the source; recall question.",
+  "figure": "",
+  "qid": "G1-17"
+ },
+ {
+  "cids": [
+   "C1211"
+  ],
+  "stem": "A 65-year-old male presents to the emergency department after an RTA. He has a fracture of the shaft of femur after a vehicle ran over his thigh and crushed it. Which of the following complications is specific to this type of injury?",
+  "options": {
+   "A": "Anaphylactic shock",
+   "B": "Hypovolaemic shock",
+   "C": "Haemorrhagic shock",
+   "D": "Myoglobinuria",
+   "E": "Septic shock"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A crush injury causes rhabdomyolysis, releasing myoglobin that causes myoglobinuria and acute kidney injury (crush syndrome). Haemorrhagic/hypovolaemic shock occurs with any femoral fracture and is not specific to crushing.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G1-18"
+ },
+ {
+  "cids": [
+   "C1227"
+  ],
+  "stem": "A rescue team recovers a patient from a collapsed building after an earthquake. Crush syndrome is suspected. Which of the following is the best step in the emergency management of crush syndrome?",
+  "options": {
+   "A": "Blood transfusion",
+   "B": "Colloids",
+   "C": "Normal saline",
+   "D": "Plasma transfusion",
+   "E": "5% dextrose water"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Early aggressive isotonic saline, ideally started before extrication, maintains a high urine output that flushes myoglobin and prevents acute kidney injury. Potassium-containing fluids such as Ringer's lactate are avoided because of hyperkalaemia.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "G1-19"
+ },
+ {
+  "cids": [
+   "C0030"
+  ],
+  "stem": "Regarding chest trauma, which of the following statements is true?",
+  "options": {
+   "A": "Accounts for only 5% of all trauma cases",
+   "B": "Is almost never fatal",
+   "C": "Accounts directly or indirectly for about 50% of all trauma cases",
+   "D": "Is always easy to diagnose",
+   "E": "Chest X-ray is not a useful investigation"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Thoracic injury contributes directly or indirectly to about half of trauma deaths, yet most chest injuries (about 85-90%) are managed without thoracotomy, mainly by airway care, oxygen, analgesia and a chest drain.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G1-20"
+ },
+ {
+  "cids": [
+   "C0028"
+  ],
+  "stem": "Which of the following is an immediately life-threatening chest injury?",
+  "options": {
+   "A": "Aortic injury",
+   "B": "Diaphragmatic injury",
+   "C": "Airway obstruction",
+   "D": "Pulmonary contusion",
+   "E": "Myocardial contusion"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Immediately life-threatening injuries sought in the primary survey are airway obstruction, tracheobronchial injury, tension pneumothorax, open pneumothorax, massive haemothorax and cardiac tamponade. Aortic, diaphragmatic, pulmonary and myocardial injuries are potentially life-threatening and found in the secondary survey.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G1-21"
+ },
+ {
+  "cids": [
+   "C0843"
+  ],
+  "stem": "Which of the following injuries is immediately life-threatening?",
+  "options": {
+   "A": "Thoracic aorta rupture",
+   "B": "Pelvic fracture",
+   "C": "Sucking chest wound",
+   "D": "Tracheobronchial injury",
+   "E": "Pulmonary contusion"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A sucking chest wound (open pneumothorax) is one of the classic immediately life-threatening chest injuries. Blunt aortic rupture that reaches hospital alive is a contained haematoma and is classed as potentially life-threatening (secondary survey).",
+  "key_note": "One paper marked A (Thoracic aorta rupture); correct is C. Note ATLS 10 also lists tracheobronchial injury among primary survey airway threats, so D is arguable, but C is the classic intended answer.",
+  "figure": "",
+  "qid": "G1-22"
+ },
+ {
+  "cids": [
+   "C0401"
+  ],
+  "stem": "A 40-year-old man presents to the ER after an RTA. Which of the following is NOT an immediately life-threatening condition in chest trauma?",
+  "options": {
+   "A": "Rupture of diaphragm",
+   "B": "Pericardial tamponade",
+   "C": "Tension pneumothorax",
+   "D": "Massive haemothorax",
+   "E": "Flail chest with contused lungs"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Traumatic diaphragmatic rupture is a potentially life-threatening injury identified in the secondary survey. Tamponade, tension pneumothorax, massive haemothorax and flail chest with pulmonary contusion are the classic immediately life-threatening injuries.",
+  "key_note": "Under ATLS 10 flail chest with pulmonary contusion is also a secondary survey injury, so strictly both A and E qualify; A (diaphragmatic rupture) is the keyed and classic answer.",
+  "figure": "",
+  "qid": "G1-23"
+ },
+ {
+  "cids": [
+   "C0571"
+  ],
+  "stem": "Which of the following is NOT a life-threatening chest injury to be ruled out in the primary survey (ATLS 10th edition)?",
+  "options": {
+   "A": "Tension pneumothorax",
+   "B": "Massive haemothorax",
+   "C": "Flail chest",
+   "D": "Open pneumothorax",
+   "E": "Bronchial obstruction"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "ATLS 10 lists airway obstruction, tracheobronchial injury, tension pneumothorax, open pneumothorax, massive haemothorax and cardiac tamponade in the primary survey; flail chest with pulmonary contusion was moved to the secondary survey. Bronchial obstruction is an airway problem.",
+  "key_note": "Older (ATLS 9 and Bailey) lists include flail chest among immediate threats, so this question relies on the ATLS 10 classification.",
+  "figure": "",
+  "qid": "G1-24"
+ },
+ {
+  "cids": [
+   "C0265"
+  ],
+  "stem": "In a penetrating injury to the chest, which of the following can be an early cause of death?",
+  "options": {
+   "A": "Haemothorax",
+   "B": "Pulmonary laceration",
+   "C": "Oesophageal rupture",
+   "D": "Tracheobronchial injury",
+   "E": "Chylothorax"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Massive haemothorax from injury to intercostal, internal mammary, hilar or great vessels causes rapid exsanguination and is a leading early cause of death. Oesophageal rupture and chylothorax kill late through sepsis and nutritional loss.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "G1-25"
+ },
+ {
+  "cids": [
+   "C1105"
+  ],
+  "stem": "When assessing a patient with blunt chest trauma, the primary concern is:",
+  "options": {
+   "A": "Identifying potential internal injuries",
+   "B": "Checking for abrasions and lacerations",
+   "C": "Assessing abdominal signs",
+   "D": "Administering pain relief",
+   "E": "Fracture of a rib"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "External chest wall signs may be trivial while the underlying lung, heart, great vessels or upper abdominal organs are severely injured; the priority is to identify these internal injuries.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G1-26"
+ },
+ {
+  "cids": [
+   "C1104"
+  ],
+  "stem": "The primary goal of treatment in penetrating chest trauma is:",
+  "options": {
+   "A": "Relieving pain",
+   "B": "Preventing infection",
+   "C": "Reducing anxiety",
+   "D": "Haemodynamic stability and adequate oxygenation",
+   "E": "Maintaining airway"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Penetrating chest trauma kills by hypoxia and haemorrhage, so management aims to restore oxygenation and circulating volume (decompress the pleura, control bleeding). Analgesia and infection prevention are secondary.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G1-27"
+ },
+ {
+  "cids": [
+   "C1108"
+  ],
+  "stem": "In the early management of blunt chest trauma, the primary goal of treatment is to:",
+  "options": {
+   "A": "Prevent infection",
+   "B": "Provide psychological counselling",
+   "C": "Maintain airway and oxygenation",
+   "D": "Administer antipyretics",
+   "E": "Pass a chest tube"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Hypoxia is the main early threat after blunt chest injury, so maintaining a patent airway and adequate oxygenation comes first. A chest tube is needed only for a specific indication.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G1-28"
+ },
+ {
+  "cids": [
+   "C0893"
+  ],
+  "stem": "Which one of the following is the first-line investigation in chest trauma?",
+  "options": {
+   "A": "CT chest",
+   "B": "X-ray chest",
+   "C": "US chest",
+   "D": "Diagnostic peritoneal lavage",
+   "E": "Diagnostic laparoscopy"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "A supine portable chest X-ray is the first-line imaging adjunct to the primary survey: quick, at the bedside and shows haemothorax, pneumothorax, rib fractures and a widened mediastinum. CT follows in stable patients.",
+  "key_note": "One paper marked A (CT chest); correct is B, as other papers and the compiled key agree.",
+  "figure": "",
+  "qid": "G1-29"
+ },
+ {
+  "cids": [
+   "C1106"
+  ],
+  "stem": "To evaluate the extent of injury in blunt chest trauma, which imaging study is commonly used?",
+  "options": {
+   "A": "Ultrasound",
+   "B": "CT scan",
+   "C": "X-ray chest",
+   "D": "MRI",
+   "E": "Bronchoscopy"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Once the patient is stable, contrast CT of the chest defines the extent of injury (pulmonary contusion, occult pneumothorax, aortic injury, fractures) far better than plain film. Chest X-ray is the screening adjunct, not the tool for defining extent.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G1-30"
+ },
+ {
+  "cids": [
+   "C1083",
+   "C1088"
+  ],
+  "stem": "Tension pneumothorax can develop when there is:",
+  "options": {
+   "A": "Open chest wound",
+   "B": "Too much blood in the pleural cavity",
+   "C": "Two-way valve air leak from the chest cavity",
+   "D": "The chest tube for pneumothorax gets blocked",
+   "E": "One-way valve air leak from the lungs"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "A one-way (flap) valve lets air into the pleural space on inspiration but not out on expiration, so pressure builds, collapsing the lung and shifting the mediastinum. A blocked drain can contribute, but the defining mechanism is the one-way valve leak.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G1-31"
+ },
+ {
+  "cids": [
+   "C1086"
+  ],
+  "stem": "The effect of tension pneumothorax on the cardiovascular system is that it:",
+  "options": {
+   "A": "Increases cardiac output",
+   "B": "Decreases cardiac output",
+   "C": "Has no effect on cardiac output",
+   "D": "Causes arrhythmias",
+   "E": "Increases venous return"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Raised intrathoracic pressure and mediastinal shift kink the venae cavae and impair venous return, so preload and cardiac output fall, giving obstructive shock.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G1-32"
+ },
+ {
+  "cids": [
+   "C1084"
+  ],
+  "stem": "Which one of the following is diagnostic of tension pneumothorax?",
+  "options": {
+   "A": "Dull note on percussion",
+   "B": "Collapsed neck veins",
+   "C": "Tracheal deviation towards the affected lung",
+   "D": "Mediastinum displaced to the opposite side",
+   "E": "Hemithorax is depressed"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Rising pressure on the affected side pushes the mediastinum and trachea to the opposite side. The affected side is hyper-resonant and may be over-expanded, and neck veins are usually distended.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G1-33"
+ },
+ {
+  "cids": [
+   "C1085"
+  ],
+  "stem": "Which of the following clinical signs is often associated with tension pneumothorax?",
+  "options": {
+   "A": "Bradycardia",
+   "B": "Hyperthermia",
+   "C": "Hypotension",
+   "D": "Normal respiratory rate",
+   "E": "Cyanosis"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Tension pneumothorax causes obstructive shock with tachycardia and hypotension; it is the haemodynamic compromise that distinguishes it from a simple pneumothorax. Cyanosis is a late sign.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G1-34"
+ },
+ {
+  "cids": [
+   "C1324"
+  ],
+  "stem": "A 31-year-old female is brought to the emergency room after a fall from 13 feet. She is conscious and oriented but in marked respiratory distress. On auscultation the right side of her chest is silent with a hyper-resonant percussion note. Which of the following is a sign of tension pneumothorax?",
+  "options": {
+   "A": "Decreased breath sounds",
+   "B": "Muffled heart sounds",
+   "C": "Shift of the trachea towards the affected side",
+   "D": "Haemodynamic instability",
+   "E": "Prominent neck arteries"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Haemodynamic instability (hypotension, tachycardia) is what turns a pneumothorax into a tension pneumothorax. Decreased breath sounds occur in any pneumothorax, the trachea shifts away from the affected side, and it is the neck veins (not arteries) that are distended.",
+  "key_note": "The source paper marked E (Prominent neck arteries); correct is D, matching the compiled key, since neck veins rather than arteries distend.",
+  "figure": "",
+  "qid": "G1-35"
+ },
+ {
+  "cids": [
+   "C0447",
+   "C0113",
+   "C0746"
+  ],
+  "stem": "A 25-year-old male presents to the emergency department after an RTA with chest trauma. He is dyspnoeic with severe chest pain. His neck veins are engorged, and the percussion note is hyper-resonant on the left side with absent breath sounds on the same side. The most likely diagnosis is:",
+  "options": {
+   "A": "Massive haemothorax",
+   "B": "Flail chest",
+   "C": "Tension pneumothorax",
+   "D": "Ruptured diaphragm",
+   "E": "Simple rib fracture"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Engorged neck veins plus a hyper-resonant hemithorax with absent breath sounds is tension pneumothorax. Massive haemothorax gives a dull note with flat neck veins.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G1-36"
+ },
+ {
+  "cids": [
+   "C1089"
+  ],
+  "stem": "The purpose of needle decompression in tension pneumothorax is to:",
+  "options": {
+   "A": "Drain blood from the pleural space",
+   "B": "Remove pus from the pleural cavity",
+   "C": "Evacuate trapped air to relieve pressure",
+   "D": "Administer pain relief",
+   "E": "Insert a needle into the trachea to provide oxygen"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Needle decompression releases trapped air under pressure, converting a tension pneumothorax into a simple pneumothorax and restoring venous return. It must be followed by a chest drain.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G1-37"
+ },
+ {
+  "cids": [
+   "C0529",
+   "C1087"
+  ],
+  "stem": "Tension pneumothorax is best treated in an emergency by:",
+  "options": {
+   "A": "14 G needle in the 2nd intercostal space, midclavicular line",
+   "B": "14 G needle in the mid-axillary line, 4th/5th intercostal space",
+   "C": "Endotracheal intubation",
+   "D": "Decompression after confirmation by chest X-ray",
+   "E": "Tube thoracostomy"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "ATLS 10 recommends needle decompression in adults at the 4th/5th intercostal space just anterior to the mid-axillary line, because the chest wall is thinner there and the needle reaches the pleura more reliably; the 2nd ICS midclavicular line is retained for children. Never wait for an X-ray.",
+  "key_note": "The source paper marked A (2nd ICS midclavicular line), the traditional site still accepted in many local keys; per ATLS 10 the preferred adult site is B. If an exam offers only the 2nd ICS MCL, choose it.",
+  "figure": "",
+  "qid": "G1-38"
+ },
+ {
+  "cids": [
+   "C0981",
+   "C0912",
+   "C0786",
+   "C0075",
+   "C1082",
+   "C1201",
+   "C1259",
+   "C1509"
+  ],
+  "stem": "A 27-year-old man presents to the ER after a high-speed motor vehicle collision with chest pain and marked respiratory distress. He is hypotensive with distended neck veins and absent breath sounds in the left chest. Which of the following is the proper initial treatment?",
+  "options": {
+   "A": "Intubation",
+   "B": "Chest X-ray",
+   "C": "Pericardiocentesis",
+   "D": "Chest decompression with a needle",
+   "E": "Emergent thoracotomy"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Distended neck veins with hypotension occur in both tension pneumothorax and tamponade; absent breath sounds on one side point to tension pneumothorax, a clinical diagnosis decompressed at once with a wide-bore needle (adults 4th/5th ICS just anterior to the mid-axillary line per ATLS 10, children 2nd ICS midclavicular line) without waiting for X-ray. A chest tube follows, and intubating first worsens the tension.",
+  "key_note": "Merged with several variants (including a child run over by a donkey cart and items offering a cannula in the 2nd ICS midclavicular line); in every version the answer is immediate needle decompression before chest tube, X-ray or intubation.",
+  "figure": "",
+  "qid": "G1-39"
+ },
+ {
+  "cids": [
+   "C0077"
+  ],
+  "stem": "A patient with a tension pneumothorax undergoes needle decompression and his vital signs improve temporarily. However, he deteriorates again after 30 minutes. What is the most appropriate next step?",
+  "options": {
+   "A": "Repeat needle decompression",
+   "B": "Insert a chest tube",
+   "C": "Perform a thoracotomy",
+   "D": "Administer IV fluids and vasopressors",
+   "E": "Intubate the patient and ventilate"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "A needle is only a temporising measure and often kinks, blocks or dislodges; definitive treatment is a tube thoracostomy in the 5th ICS just anterior to the mid-axillary line.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G1-40"
+ },
+ {
+  "cids": [
+   "C1112"
+  ],
+  "stem": "A patient is received in the emergency department with a right chest injury and a gaping wound in the 4th intercostal space. No breath sounds are audible and air is leaking from the wound site. What is your diagnosis?",
+  "options": {
+   "A": "Haemopneumothorax",
+   "B": "Open pneumothorax",
+   "C": "Tension pneumothorax",
+   "D": "Fracture of 4th rib with wound",
+   "E": "Flail chest"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "A chest wall defect through which air moves (sucking wound) is an open pneumothorax; if the defect exceeds about two-thirds of the tracheal diameter, air preferentially enters through the wound.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G1-41"
+ },
+ {
+  "cids": [
+   "C0875",
+   "C0429",
+   "C1264"
+  ],
+  "stem": "An 18-year-old man presents with a gunshot wound to the left chest in the anterior axillary line in the seventh intercostal space. A rushing sound is audible during inspiration. Immediate management is which of the following?",
+  "options": {
+   "A": "Exploratory laparotomy",
+   "B": "Exploratory thoracotomy",
+   "C": "Pleurocentesis",
+   "D": "Closure of the hole with a sterile dressing",
+   "E": "Insertion of chest tube"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A rushing (sucking) sound means an open pneumothorax: the immediate step is a sterile occlusive dressing taped on three sides (flutter valve), followed by a chest tube through a separate incision, never through the wound. Primary closure without a drain risks tension pneumothorax, and a 7th ICS wound may later need laparotomy.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G1-42"
+ },
+ {
+  "cids": [
+   "C1323"
+  ],
+  "stem": "A 20-year-old man is brought to the surgical emergency after an assault. His airway is patent but he is in respiratory distress; pulse 110/min, BP 100/60. Breath sounds on the left are markedly diminished, the left chest moves poorly and is hyper-resonant. What is the most common cause of traumatic pneumothorax?",
+  "options": {
+   "A": "Rib fracture",
+   "B": "Pulmonary laceration",
+   "C": "Diaphragmatic rupture",
+   "D": "Tracheobronchial injury",
+   "E": "Lung contusion"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "In blunt trauma a fractured rib end lacerating the lung is the usual mechanism of pneumothorax. ATLS phrases the cause as lung laceration with air leak, which is usually produced by the rib fracture.",
+  "key_note": "Defensible as keyed; note ATLS words the commonest cause as lung laceration (B), typically from a fractured rib, so read the options carefully if the wording changes.",
+  "figure": "",
+  "qid": "G1-43"
+ },
+ {
+  "cids": [
+   "C0271"
+  ],
+  "stem": "A middle-aged patient presents after a road traffic accident. He has shallow breathing but his GCS is 14. He has marked tachycardia and dyspnoea, and chest movement on the right side is decreased with a dull percussion note. What is the most probable diagnosis?",
+  "options": {
+   "A": "Cardiac tamponade",
+   "B": "Flail chest",
+   "C": "Haemothorax",
+   "D": "Pneumothorax",
+   "E": "Subarachnoid haemorrhage"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Decreased movement and breath sounds with a dull percussion note means fluid (blood) in the pleural cavity. Pneumothorax would be hyper-resonant.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "G1-44"
+ },
+ {
+  "cids": [
+   "C0399",
+   "C0092"
+  ],
+  "stem": "After heavy building material falls onto his chest, a 35-year-old man presents with severe chest pain and marked bruising of the left chest wall. BP is 80/50 mmHg, the left chest is dull to percussion and there is no air entry. What is the diagnosis?",
+  "options": {
+   "A": "Tension pneumothorax",
+   "B": "Cardiac tamponade",
+   "C": "Flail chest",
+   "D": "Massive haemothorax",
+   "E": "Open pneumothorax"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Shock with a dull, silent hemithorax is massive haemothorax (more than 1500 mL of blood). Tension pneumothorax gives the same silent chest but with hyper-resonance and distended neck veins.",
+  "key_note": "A merged variant gave no percussion note and two keys disagreed (Haemothorax vs Tension pneumothorax); the dull note here makes massive haemothorax unambiguous.",
+  "figure": "",
+  "qid": "G1-45"
+ },
+ {
+  "cids": [
+   "C1510",
+   "C1329",
+   "C1265",
+   "C0094",
+   "C0972"
+  ],
+  "stem": "A 50-year-old woman sustains an injury to the left side of the chest in a road traffic accident. Pulse 120/min, BP 80/40 mmHg. Breath sounds are diminished on the left with a dull percussion note. What is the treatment?",
+  "options": {
+   "A": "Chest tube insertion",
+   "B": "Needle thoracostomy",
+   "C": "Strapping of chest",
+   "D": "Left thoracotomy",
+   "E": "Ventilatory support"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Haemothorax (dull, silent hemithorax) is managed by a large-bore chest drain (28-32 Fr, 5th ICS just anterior to the mid-axillary line) alongside volume and blood resuscitation; needle thoracostomy is for tension pneumothorax (hyper-resonant). Thoracotomy is reserved for initial drainage of 1500 mL or more, or continuing loss of 200 mL/hour for 2-4 hours.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G1-46"
+ },
+ {
+  "cids": [
+   "C1107"
+  ],
+  "stem": "What is an indication for tube thoracostomy in severe blunt chest trauma?",
+  "options": {
+   "A": "Elevated blood pressure",
+   "B": "Tachycardia",
+   "C": "Respiratory distress",
+   "D": "Cardiac tamponade",
+   "E": "Decreased venous return"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A chest drain is indicated for pneumothorax or haemothorax causing respiratory compromise. Tamponade is treated by pericardial drainage or surgery, not a chest tube.",
+  "key_note": "Loosely worded question; C is the best of the options.",
+  "figure": "",
+  "qid": "G1-47"
+ },
+ {
+  "cids": [
+   "C1218",
+   "C1103"
+  ],
+  "stem": "A 28-year-old shopkeeper was beaten with a stick and has severe right chest pain and dyspnoea. A chest tube was inserted for a right haemothorax and drained 1500 mL of blood immediately. What is the next step in management?",
+  "options": {
+   "A": "Conservative management",
+   "B": "Exploratory laparotomy",
+   "C": "Monitor chest drain output for the next 24 hours and transfuse blood",
+   "D": "Planned emergency thoracotomy",
+   "E": "Ventilator support"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Immediate drainage of 1500 mL or more of blood (or ongoing loss of 200 mL/hour for 2-4 hours, or persistent need for transfusion) is an indication for thoracotomy.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "G1-48"
+ },
+ {
+  "cids": [
+   "C1266"
+  ],
+  "stem": "A 60-year-old man with severe chest trauma in a road traffic accident has 1500 mL of blood drained after left chest intubation, followed by 250 mL over the next hour. Which structure is likely to be damaged?",
+  "options": {
+   "A": "Left lung",
+   "B": "Stomach",
+   "C": "Oesophagus",
+   "D": "Hilum of lung",
+   "E": "Heart"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Continuing brisk haemorrhage after a massive haemothorax implies a systemic or high-flow source such as hilar vessels, intercostal or internal mammary arteries. Bleeding from lung parenchyma is low pressure and usually stops once the lung re-expands.",
+  "key_note": "The compiled answer book gave A (Left lung); the paper's key D is correct, since parenchymal bleeding is usually self-limiting.",
+  "figure": "",
+  "qid": "G1-49"
+ },
+ {
+  "cids": [
+   "C0958",
+   "C1511"
+  ],
+  "stem": "Flail chest is defined as:",
+  "options": {
+   "A": "Multiple rib fractures with subsequent subcutaneous emphysema",
+   "B": "Chyle in the pleural space",
+   "C": "Excess fluid in the pericardium",
+   "D": "Two or more adjacent ribs fractured at two points",
+   "E": "Blood in the pleural space"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Flail chest occurs when two or more adjacent ribs are fractured in two or more places, so a segment loses continuity with the chest wall and moves paradoxically. The hypoxia is mainly due to the underlying pulmonary contusion.",
+  "key_note": "Another paper asked 'A flail segment occurs when' with the answer 'multiple ribs broken'; that is the same point, but the precise definition is fractures at two sites in each of two or more adjacent ribs.",
+  "figure": "",
+  "qid": "G1-50"
+ },
+ {
+  "cids": [
+   "C0114",
+   "C1258",
+   "C1325"
+  ],
+  "stem": "A 25-year-old male presents to the emergency department after a road traffic accident with severe right-sided chest pain on breathing. He is conscious and oriented with no obvious bleeding. On inspection a segment of the chest wall moves paradoxically with respiration. What is the probable diagnosis?",
+  "options": {
+   "A": "Flail chest",
+   "B": "Open pneumothorax",
+   "C": "Tension pneumothorax",
+   "D": "Haemothorax",
+   "E": "Surgical emphysema"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Paradoxical movement (the segment sinks on inspiration and bulges on expiration) is pathognomonic of a flail segment.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G1-51"
+ },
+ {
+  "cids": [
+   "C1019"
+  ],
+  "stem": "A 41-year-old man falls from a ladder and sustains fractures of the left 2nd to 9th ribs with a flail segment and pneumothorax. A chest tube is inserted. What is the best management?",
+  "options": {
+   "A": "Pain control and epidural",
+   "B": "Incentive spirometry",
+   "C": "Early ambulation",
+   "D": "Conservative fluid management",
+   "E": "All of the above"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Flail chest care rests on effective analgesia (epidural or regional block), chest physiotherapy and incentive spirometry, early mobilisation and avoiding fluid overload, which worsens the underlying pulmonary contusion.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G1-52"
+ },
+ {
+  "cids": [
+   "C0096"
+  ],
+  "stem": "A patient in a road side accident has severe bruising of the chest, a large flail segment and an oxygen saturation of 80%. What would be the most appropriate management?",
+  "options": {
+   "A": "Mechanical ventilation",
+   "B": "Chest tube insertion",
+   "C": "Needle decompression",
+   "D": "Observation",
+   "E": "Administering oxygen"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Flail chest with severe hypoxia despite treatment needs intubation and positive-pressure ventilation (internal pneumatic stabilisation). Oxygen alone is not enough when saturation is 80%.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G1-53"
+ },
+ {
+  "cids": [
+   "C1327",
+   "C1101"
+  ],
+  "stem": "Which of the following features constitute Beck's triad of cardiac tamponade?",
+  "options": {
+   "A": "Hypotension, muffled heart sounds, distended neck veins",
+   "B": "Hypotension, tracheal shift, muffled heart sounds",
+   "C": "Hypertension, muffled heart sounds, distended neck veins",
+   "D": "Hypertension, tracheal shift, collapsed neck veins",
+   "E": "Hypotension, prominent peripheral veins, proptosis"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Beck's triad is hypotension, muffled (distant) heart sounds and raised JVP. It is present in only a minority of cases; pulsus paradoxus and Kussmaul's sign support the diagnosis, and FAST/echo confirms it.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G1-54"
+ },
+ {
+  "cids": [
+   "C1102"
+  ],
+  "stem": "How is diastolic filling of the heart affected by accumulation of blood in the pericardium in cardiac tamponade?",
+  "options": {
+   "A": "It is enhanced, leading to increased cardiac output",
+   "B": "It remains unaffected",
+   "C": "It is impaired, reducing cardiac output",
+   "D": "It leads to heart muscle atrophy",
+   "E": "It increases venous return"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "The non-distensible pericardium means even 50-100 mL of blood raises intrapericardial pressure, which restricts diastolic filling (right heart first), so stroke volume and cardiac output fall.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G1-55"
+ },
+ {
+  "cids": [
+   "C0570"
+  ],
+  "stem": "Which of the following is NOT a feature of cardiac tamponade?",
+  "options": {
+   "A": "Engorged neck veins",
+   "B": "Hypotension",
+   "C": "Tracheal shift",
+   "D": "Muffled heart sounds",
+   "E": "Normal breath sounds"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Tracheal shift is a feature of tension pneumothorax. Tamponade has Beck's triad with normal, equal breath sounds, which is the key bedside distinction.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G1-56"
+ },
+ {
+  "cids": [
+   "C0405"
+  ],
+  "stem": "A motorcyclist driving at high speed collides with a trawler. He is hypotensive with distended neck veins and increased cardiac dullness, and cardiac tamponade is suspected. Which statement is untrue regarding cardiac tamponade?",
+  "options": {
+   "A": "Cardiac echo will show fluid in the pericardial cavity",
+   "B": "There is increased pulse pressure",
+   "C": "Pericardiocentesis with removal of a small amount of blood is life-saving",
+   "D": "Enlarged cardiac shadow on CXR",
+   "E": "The correct immediate treatment of tamponade is intervention"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Tamponade narrows the pulse pressure because stroke volume falls; it also causes pulsus paradoxus. Removing as little as 15-20 mL of blood can dramatically improve output.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G1-57"
+ },
+ {
+  "cids": [
+   "C1483",
+   "C0081",
+   "C0404",
+   "C1099",
+   "C1261",
+   "C0431"
+  ],
+  "stem": "A 36-year-old woman is ejected from her car in a head-on collision. Her pulse is 120/min, BP 80/60 mmHg and neck veins are engorged. The chest is clear with equal, adequate air entry on both sides, but the heart sounds are muffled. The most likely diagnosis is:",
+  "options": {
+   "A": "Cardiac tamponade",
+   "B": "Haemothorax",
+   "C": "Haemorrhagic shock",
+   "D": "Neurogenic shock",
+   "E": "Tension pneumothorax"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Equal air entry excludes tension pneumothorax and haemothorax; engorged neck veins exclude haemorrhagic and neurogenic shock. Beck's triad remains: tamponade.",
+  "key_note": "Merged with several variants (stab wound, steering wheel, cricket bat, run-over with bilateral parasternal rib fractures, left stab with dull chest and bradycardia). In the run-over variant a stove-in chest was offered, and in the stab variant a dull chest suggested haemothorax; muffled heart sounds keyed tamponade in every version.",
+  "figure": "",
+  "qid": "G1-58"
+ },
+ {
+  "cids": [
+   "C0390"
+  ],
+  "stem": "A 19-year-old man is stabbed in the left side of the chest. After 2 L of fluid his HR is 107/min and BP 80/50 mmHg. Heart sounds cannot be heard and breath sounds are distant on the left. What should be your next step?",
+  "options": {
+   "A": "Chest X-ray while preparing a thoracostomy set",
+   "B": "Emergency pericardiocentesis",
+   "C": "Intubation",
+   "D": "Large-volume resuscitation",
+   "E": "Chest tube insertion"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Inaudible heart sounds with persistent shock after a precordial stab wound suggest tamponade; where immediate surgery is not available, pericardiocentesis (ideally ultrasound-guided) is the temporising step before thoracotomy or sternotomy.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G1-59"
+ },
+ {
+  "cids": [
+   "C1100"
+  ],
+  "stem": "A 25-year-old man is stabbed in the chest and arrives in shock. Focused ultrasound shows pericardial fluid, and cardiac tamponade is the likely cause of shock. In a fully equipped hospital he is best managed with:",
+  "options": {
+   "A": "Emergency thoracotomy or sternotomy",
+   "B": "Subxiphoid pericardiocentesis",
+   "C": "Chest intubation",
+   "D": "Packed cell blood transfusion",
+   "E": "Insertion of a flexible catheter with Seldinger's technique"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "ATLS 10: definitive treatment of traumatic tamponade is operative (thoracotomy or median sternotomy) to repair the cardiac wound; pericardiocentesis is only a temporising measure when a surgeon is not available.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G1-60"
+ },
+ {
+  "cids": [
+   "C0093"
+  ],
+  "stem": "A patient is diagnosed with pulmonary contusion after blunt chest trauma. What is the most likely complication that can develop?",
+  "options": {
+   "A": "Acute respiratory distress syndrome (ARDS)",
+   "B": "Pneumonia",
+   "C": "Pulmonary embolism",
+   "D": "Cardiac tamponade",
+   "E": "Aortic dissection"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Pulmonary contusion causes alveolar haemorrhage and oedema that can progress over 24-72 hours to respiratory failure and ARDS; careful fluid balance and ventilatory support are central to management.",
+  "key_note": "Pneumonia is also a very frequent complication of pulmonary contusion, so B is arguable; A is the keyed answer and the classic teaching.",
+  "figure": "",
+  "qid": "G1-61"
+ },
+ {
+  "cids": [
+   "C1326"
+  ],
+  "stem": "A 26-year-old woman, driving without a seatbelt, is brought to the ER after a road traffic accident. Her airway is patent, she has mild breathing difficulty, pulse 110 bpm and BP 90/60 mmHg. A lateral chest X-ray reveals a sternal fracture. What is the most common injury associated with sternal fractures?",
+  "options": {
+   "A": "Cardiac tamponade",
+   "B": "Pulmonary contusion",
+   "C": "Tracheobronchial injury",
+   "D": "Spinal cord injury",
+   "E": "Aortic dissection"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Sternal fractures are most often accompanied by rib fractures and pulmonary contusion, and they also raise suspicion of blunt cardiac (myocardial) injury. Tamponade is uncommon after sternal fracture.",
+  "key_note": "The source paper marked A (Cardiac tamponade); correct is B, as the compiled key also states.",
+  "figure": "",
+  "qid": "G1-62"
+ },
+ {
+  "cids": [
+   "C1018"
+  ],
+  "stem": "A 19-year-old male in an RTA hits the steering wheel and sustains a sternal fracture, a broken left clavicle and a left pneumothorax, for which a chest tube has been passed. What is the best test to look for blunt cardiac injury?",
+  "options": {
+   "A": "Serial ECG only",
+   "B": "Serial troponin only",
+   "C": "Echo",
+   "D": "Admission ECG and troponins",
+   "E": "Admission, echo and serial ECG"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Screening for blunt cardiac injury is an admission 12-lead ECG plus troponin: if both are normal, significant injury is excluded. Echo is reserved for an abnormal ECG/troponin or haemodynamic instability.",
+  "key_note": "The source paper marked E; correct is D per ATLS and EAST guidance, which use ECG plus troponin as the screen and echo only selectively.",
+  "figure": "",
+  "qid": "G1-63"
+ },
+ {
+  "cids": [
+   "C1092"
+  ],
+  "stem": "A 30-year-old man receives a direct blow to the upper chest in a fight. An urgent chest X-ray shows a posterior dislocation of the sternoclavicular joint. The patient may present with:",
+  "options": {
+   "A": "Deformity of the shoulder joint",
+   "B": "Respiratory distress",
+   "C": "Engorged neck veins",
+   "D": "Hypotension",
+   "E": "Bulging of eyes"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "In posterior sternoclavicular dislocation the medial clavicle is displaced into the superior mediastinum, where it can compress the trachea (dyspnoea, stridor), oesophagus (dysphagia) and great vessels. The shoulder joint itself is not deformed.",
+  "key_note": "The source paper marked A (Deformity of the shoulder joint); correct is B, because posterior SCJ dislocation threatens the mediastinal structures, not the shoulder. Venous congestion (C) can occur but is less typical.",
+  "figure": "",
+  "qid": "G1-64"
+ },
+ {
+  "cids": [
+   "C0274",
+   "C0976"
+  ],
+  "stem": "A 25-year-old male presents to the emergency department with chest injury after a road traffic accident. He is dyspnoeic with decreased breath sounds on the left. Chest X-ray shows air-fluid levels with multiple loops, and the gastric bubble has shifted into the left hemithorax. The most likely diagnosis is:",
+  "options": {
+   "A": "Flail chest",
+   "B": "Massive haemothorax",
+   "C": "Ruptured diaphragm",
+   "D": "Simple rib fracture",
+   "E": "Tension pneumothorax"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Bowel loops or the stomach in the chest after trauma indicates diaphragmatic rupture, which is more common on the left because the liver protects the right hemidiaphragm. A nasogastric tube seen curling in the chest confirms it.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "G1-65"
+ },
+ {
+  "cids": [
+   "C0095"
+  ],
+  "stem": "A patient is brought with a gunshot wound to the chest. CT shows a diaphragmatic injury without any pulmonary contusion. What would be the most appropriate management?",
+  "options": {
+   "A": "Laparotomy",
+   "B": "Thoracotomy",
+   "C": "Chest tube insertion",
+   "D": "Needle decompression",
+   "E": "Observation"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Acute penetrating diaphragmatic injuries are repaired through the abdomen (laparotomy or laparoscopy), because associated intra-abdominal injuries are common and must be dealt with. Thoracotomy is preferred for chronic hernias with adhesions.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G1-66"
+ },
+ {
+  "cids": [
+   "C1262"
+  ],
+  "stem": "A young woman presents with a firearm injury to the right thoraco-abdominal area: a single entry wound in the right 3rd intercostal space in the mid-axillary line and an exit wound in the right paraumbilical region. Pulse is 130/min and systolic BP 60 mmHg. There is no air entry in the right lower zone, and the abdomen shows generalised tenderness with rigidity. What first step do you opt for?",
+  "options": {
+   "A": "Pass chest tube in the right 5th ICS",
+   "B": "Pass NGT and Foley catheter",
+   "C": "Apply dressing on the wounds",
+   "D": "Double IV line and rush Ringer's lactate",
+   "E": "Refer the patient to a big unit"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "With a systolic BP of 60 mmHg, two large-bore IV lines and immediate volume (moving quickly to blood) are started, and the right chest is drained at the same time; ATLS manages massive haemothorax by simultaneously restoring volume and decompressing the chest. The patient then needs laparotomy for peritonitis.",
+  "key_note": "The compiled answer book gave A (chest tube); the paper's key D is defensible since IV access and chest drainage proceed simultaneously, with circulation support urgent at SBP 60.",
+  "figure": "",
+  "qid": "G1-67"
+ },
+ {
+  "cids": [
+   "C1263"
+  ],
+  "stem": "A young woman has a firearm injury with a single entry wound in the right 3rd intercostal space in the mid-axillary line and an exit wound in the right paraumbilical region (an oblique trajectory with a long course). Which serious injury is this patient likely to have at the thoraco-abdominal junction?",
+  "options": {
+   "A": "Rupture of diaphragm",
+   "B": "Liver laceration",
+   "C": "Lung laceration",
+   "D": "Hepatic flexure of colon",
+   "E": "Inferior vena cava"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Any missile track crossing from the chest to the abdomen must traverse the diaphragm, so a diaphragmatic injury is certain and must be repaired. Liver injury is also likely on this path.",
+  "key_note": "Original stem referred to 'the scenario above'; rewritten to stand alone. Liver laceration (B) is also very likely, but A is the keyed answer.",
+  "figure": "",
+  "qid": "G1-68"
+ },
+ {
+  "cids": [
+   "C1328"
+  ],
+  "stem": "A 29-year-old man is asymptomatic; a chest X-ray for a job medical shows a right-sided diaphragmatic hernia. On questioning he recalls a road traffic accident 10 years ago. What is the management of a traumatic diaphragmatic rupture?",
+  "options": {
+   "A": "Surgical repair",
+   "B": "Conservative management",
+   "C": "Chest tube insertion",
+   "D": "Laparotomy",
+   "E": "Thoracotomy"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Traumatic diaphragmatic defects never heal and carry a lifelong risk of visceral strangulation, so all should be repaired even if asymptomatic. Late (chronic) hernias are usually approached through the chest because of adhesions.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G1-69"
+ },
+ {
+  "cids": [
+   "C1109"
+  ],
+  "stem": "The primary goal of the focused assessment with sonography in trauma (FAST) examination is to:",
+  "options": {
+   "A": "Assess lung function",
+   "B": "Evaluate the gastrointestinal system",
+   "C": "Identify abdominal wall hernias",
+   "D": "Quickly assess for intra-abdominal bleeding",
+   "E": "Look for intestinal perforation"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "FAST is a rapid, repeatable bedside scan looking for free fluid (presumed blood) in the peritoneum and pericardium, mainly to decide whether an unstable patient needs laparotomy.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G1-70"
+ },
+ {
+  "cids": [
+   "C0448",
+   "C1515"
+  ],
+  "stem": "A 20-year-old man is received in the ER after a road traffic accident. Pulse 120/min, BP 90/60 mmHg and the abdomen is tense and tender. A FAST scan is done. All of the following regions are examined EXCEPT:",
+  "options": {
+   "A": "Pelvis",
+   "B": "Left lienorenal space",
+   "C": "Right hepatorenal space",
+   "D": "Pericardium",
+   "E": "Paracolic gutters"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "The four standard FAST windows are pericardial (subxiphoid), right upper quadrant (hepatorenal, Morison's pouch), left upper quadrant (splenorenal) and pelvis (pouch of Douglas/rectovesical). Paracolic gutters are not a standard window.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G1-71"
+ },
+ {
+  "cids": [
+   "C1110"
+  ],
+  "stem": "FAST in trauma is NOT used to assess:",
+  "options": {
+   "A": "Splenic rupture",
+   "B": "Liver laceration",
+   "C": "Bowel perforation",
+   "D": "Kidney injury",
+   "E": "Urinary bladder injury"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "FAST detects free fluid; it is poor at detecting hollow viscus perforation (little fluid early, free gas obscures views) and retroperitoneal injury. Solid organ bleeding is shown indirectly by free fluid.",
+  "key_note": "Question is loosely worded (FAST also does not grade solid organ or renal injuries well), but bowel perforation is the classic blind spot.",
+  "figure": "",
+  "qid": "G1-72"
+ },
+ {
+  "cids": [
+   "C1111"
+  ],
+  "stem": "In abdominal trauma, the FAST examination is considered positive if it shows free fluid:",
+  "options": {
+   "A": "Accumulated in the pleural space",
+   "B": "Surrounding the heart",
+   "C": "Accumulated in the space between the liver and diaphragm",
+   "D": "Around the spleen or the bladder",
+   "E": "In the retroperitoneum"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A positive abdominal FAST shows free intraperitoneal fluid in the hepatorenal, splenorenal (perisplenic) or pelvic (perivesical) windows. Fluid around the heart is a positive pericardial view, not abdominal, and FAST cannot assess the retroperitoneum.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G1-73"
+ },
+ {
+  "cids": [
+   "C0919",
+   "C0101"
+  ],
+  "stem": "A 30-year-old man presents to the Emergency Department after a high-speed motor vehicle accident. He has marked abdominal distension, a pulse of 130/min and a blood pressure of 80/50 mmHg. The most appropriate initial investigation would be:",
+  "options": {
+   "A": "Abdominal angiogram",
+   "B": "Abdominal paracentesis",
+   "C": "CT scan of the abdomen with contrast",
+   "D": "Plain X-ray of the abdomen",
+   "E": "FAST (focused assessment with sonography for trauma) scan"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "An unstable patient must not go to the CT scanner; FAST in the resuscitation bay identifies haemoperitoneum and directs him straight to laparotomy.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G1-74"
+ },
+ {
+  "cids": [
+   "C0450"
+  ],
+  "stem": "Which of the following is considered a positive finding in diagnostic peritoneal lavage?",
+  "options": {
+   "A": "More than 50,000 red blood cells/mm3",
+   "B": "More than 100 white blood cells/mm3",
+   "C": "Visible food particles in the aspirate",
+   "D": "A negative Gram stain",
+   "E": "Straw-coloured aspirate"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "DPL is positive with aspiration of 10 mL or more of frank blood, gastrointestinal contents (food, bile, faeces), RBC over 100,000/mm3, WBC over 500/mm3 or a positive Gram stain. Food particles indicate hollow viscus perforation.",
+  "key_note": "The source printed the RBC and WBC values with bracketed corrections (100,000 and 500); if those corrected thresholds are used, A and B would also be positive, so C is the only unambiguous answer.",
+  "figure": "",
+  "qid": "G1-75"
+ },
+ {
+  "cids": [
+   "N008"
+  ],
+  "stem": "Which of the following is NOT true about diagnostic peritoneal lavage (DPL)?",
+  "options": {},
+  "answer": null,
+  "answer_text": "Presence of blood on DPL always requires surgery",
+  "explanation": "DPL is extremely sensitive to even small amounts of blood, so a positive result in a stable patient (for example a minor liver or splenic injury) does not automatically mandate laparotomy.",
+  "key_note": "Options not available in the source; recall question.",
+  "figure": "",
+  "qid": "G1-76"
+ },
+ {
+  "cids": [
+   "C1125",
+   "C0914"
+  ],
+  "stem": "A 45-year-old man sustains a penetrating stab wound to the right upper abdomen. On arrival he is hypotensive (BP 85/60 mmHg) and tachycardic (HR 122 bpm) despite fluid resuscitation. FAST shows fluid in Morison's pouch. What is the most appropriate next step?",
+  "options": {
+   "A": "Abdominal CT scan",
+   "B": "Continued observation and monitoring",
+   "C": "Diagnostic peritoneal lavage",
+   "D": "Emergency laparotomy",
+   "E": "Interventional radiology embolisation"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Unstable penetrating abdominal trauma with a positive FAST goes straight to laparotomy; CT and embolisation are only for haemodynamically stable patients.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "G1-77"
+ },
+ {
+  "cids": [
+   "C0452"
+  ],
+  "stem": "A man presents with a stab injury to the left flank. His vital signs are stable. What would be the next step in management?",
+  "options": {
+   "A": "CECT",
+   "B": "Diagnostic peritoneal lavage",
+   "C": "Laparotomy",
+   "D": "Laparoscopy",
+   "E": "IVU studies"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Flank and back stab wounds may injure retroperitoneal structures (colon, kidney) that FAST and DPL miss; in a stable patient contrast-enhanced (ideally triple-contrast) CT is the investigation of choice.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G1-78"
+ },
+ {
+  "cids": [
+   "C0977"
+  ],
+  "stem": "A 30-year-old restrained driver is involved in a motor-vehicle crash. He is haemodynamically stable with a large seat belt sign across the abdomen, which is tender to palpation. In this patient one should be most concerned about:",
+  "options": {
+   "A": "Liver and spleen injury",
+   "B": "Transection of the head of the pancreas",
+   "C": "Renal pedicle avulsion",
+   "D": "Hollow viscus injuries",
+   "E": "Pelvic fracture"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A seat belt sign is strongly associated with hollow viscus (small bowel and mesentery) injury and with Chance fracture of the lumbar spine. These injuries are easily missed on early CT, so serial examination is needed.",
+  "key_note": "Not marked in the source paper; one compiled answer book gave A (Liver and spleen injury), but hollow viscus injury is the recognised seat belt sign association.",
+  "figure": "",
+  "qid": "G1-79"
+ },
+ {
+  "cids": [
+   "C1213",
+   "C0974",
+   "C0759"
+  ],
+  "stem": "A man falls off a bridge while riding a motorcycle at high speed. He has severe pain and tenderness over the left lower chest (9th to 11th ribs) and abdomen. Pulse is 120/min and BP 90/70 mmHg. The abdomen is rigid and still. DRE reveals local tenderness and a boggy feel anteriorly. What is the diagnosis?",
+  "options": {
+   "A": "Pneumothorax",
+   "B": "Rupture of spleen",
+   "C": "Liver trauma",
+   "D": "Colonic rupture",
+   "E": "Rupture of diaphragm"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Left lower rib fractures (9th to 11th) with shock and peritonism indicate splenic rupture; the boggy anterior rectal wall reflects blood collecting in the rectovesical pouch.",
+  "key_note": "Not marked in the source paper; compiled answer book entries were contradictory (one pointed to diaphragm rupture), but splenic rupture fits the findings.",
+  "figure": "",
+  "qid": "G1-80"
+ },
+ {
+  "cids": [
+   "C1443"
+  ],
+  "stem": "A teenage boy is in haemorrhagic shock after blunt abdominal trauma. Investigations reveal a grade V splenic injury. What is the best management plan?",
+  "options": {
+   "A": "Conservative management with IV fluids and antibiotics",
+   "B": "Conservative management with blood transfusions and monitoring",
+   "C": "Immediate laparotomy and splenorrhaphy",
+   "D": "Immediate laparotomy and splenectomy",
+   "E": "Refer to a tertiary care facility"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A grade V (shattered or hilar devascularised) spleen in a shocked patient needs immediate laparotomy and splenectomy; splenic salvage is not feasible. Post-splenectomy vaccination against pneumococcus, Haemophilus and meningococcus follows.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G1-81"
+ },
+ {
+  "cids": [
+   "C1129"
+  ],
+  "stem": "A 25-year-old man is brought after a road traffic accident. He is haemodynamically stable. Imaging shows a grade II splenic laceration with no free fluid in the abdomen. What is the most appropriate management?",
+  "options": {
+   "A": "Diagnostic peritoneal lavage",
+   "B": "Embolisation of splenic artery",
+   "C": "Immediate splenectomy",
+   "D": "Laparotomy and splenorrhaphy",
+   "E": "Observation and close monitoring"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Haemodynamically stable patients with low-grade splenic injury are managed non-operatively with bed rest, serial examination and haemoglobin monitoring in a unit able to operate at once if needed. Embolisation is reserved for contrast blush or higher-grade injuries.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "G1-82"
+ },
+ {
+  "cids": [
+   "C1342",
+   "C1508"
+  ],
+  "stem": "A 17-year-old male is brought after a head-on collision on a motorbike. Pulse is 100/min and BP 110/70 mmHg. FAST shows free fluid in Morison's pouch and a liver laceration is suspected. What is the primary imaging modality for evaluating the liver in this patient?",
+  "options": {
+   "A": "CT scan",
+   "B": "MRI",
+   "C": "Ultrasound",
+   "D": "PET scan",
+   "E": "Angiography"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "He is stable, so contrast-enhanced CT is the imaging of choice to grade the liver injury, detect active extravasation (blush) and plan non-operative management. Ultrasound has already shown fluid but cannot grade the injury.",
+  "key_note": "The compiled answer book gave C (Ultrasound); the paper's key A is correct for a haemodynamically stable patient.",
+  "figure": "",
+  "qid": "G1-83"
+ },
+ {
+  "cids": [
+   "C1436"
+  ],
+  "stem": "A 16-year-old boy is brought 1 hour after a road traffic accident. GCS is 15/15, pulse 110/min and BP 110/70 mmHg. He is slightly anxious with right hypochondrial pain. Imaging reveals a liver laceration involving segments 5, 6, 7 and 8. What is the American Association for the Surgery of Trauma (AAST) grade?",
+  "options": {
+   "A": "Grade 1",
+   "B": "Grade 2",
+   "C": "Grade 3",
+   "D": "Grade 4",
+   "E": "Grade 5"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "AAST liver grade IV is parenchymal disruption of 25-75% of a lobe or 1-3 Couinaud segments within one lobe; grade V is more than 75% of a lobe or more than 3 segments within one lobe. Segments 5-8 are four segments, the whole right lobe, so this is grade V.",
+  "key_note": "Both the paper and compiled key marked D (Grade 4); correct is E because more than three Couinaud segments in a single lobe defines grade V.",
+  "figure": "",
+  "qid": "G1-84"
+ },
+ {
+  "cids": [
+   "C0331"
+  ],
+  "stem": "A patient presents to the trauma room after an RTA. He was initially maintaining his vital signs, and CT showed a grade 2 liver injury. He then suddenly became hypotensive and tachycardic despite adequate fluid resuscitation. What is the next appropriate step in management?",
+  "options": {
+   "A": "Blood transfusion",
+   "B": "MRI",
+   "C": "Endoscopy",
+   "D": "Laparotomy",
+   "E": "Transfusion of FFP"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Non-operative management of a liver injury is abandoned when the patient becomes haemodynamically unstable despite resuscitation; such a patient needs laparotomy to control bleeding.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G1-85"
+ },
+ {
+  "cids": [
+   "C0844"
+  ],
+  "stem": "A patient has a grade IV liver injury after blunt abdominal trauma. What is the most appropriate initial step to secure haemostasis at laparotomy?",
+  "options": {
+   "A": "Pringle manoeuvre",
+   "B": "Packing",
+   "C": "Locking mattress suture",
+   "D": "Ligation of segmental vessel",
+   "E": "Electrocautery"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Perihepatic packing (manual compression then packs above and below the liver) is the first and often definitive damage-control manoeuvre for major liver bleeding. The Pringle manoeuvre helps identify the source: if bleeding continues despite it, suspect hepatic vein or retrohepatic IVC injury.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G1-86"
+ },
+ {
+  "cids": [
+   "C0340"
+  ],
+  "stem": "In liver trauma, liver packing should be removed after:",
+  "options": {
+   "A": "24 hours",
+   "B": "48 hours",
+   "C": "82 hours",
+   "D": "96 hours",
+   "E": "102 hours"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Packs are removed at a planned relook laparotomy once the patient is warm, not acidotic and not coagulopathic, usually about 48 hours (24-72 hours). Leaving them longer raises the risk of sepsis.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G1-87"
+ },
+ {
+  "cids": [
+   "C0675"
+  ],
+  "stem": "All of the following are complications of liver trauma EXCEPT:",
+  "options": {
+   "A": "Intrahepatic haematoma",
+   "B": "Liver abscess",
+   "C": "Bile collection",
+   "D": "Biliary fistula",
+   "E": "Hydatid cyst"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Complications after liver injury include haemorrhage, haematoma, biloma, biliary fistula, haemobilia and abscess. A hydatid cyst is a parasitic (Echinococcus) infection unrelated to trauma.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G1-88"
+ },
+ {
+  "cids": [
+   "C0451"
+  ],
+  "stem": "A young patient has a massive injury to the proximal duodenum, head of the pancreas and distal common bile duct. The procedure of choice is:",
+  "options": {
+   "A": "Roux-en-Y anastomosis",
+   "B": "Pancreaticoduodenectomy (Whipple's operation)",
+   "C": "Lateral tube jejunostomy",
+   "D": "Retrograde jejunostomy",
+   "E": "Triple bypass"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Combined destruction of the duodenum, pancreatic head and distal CBD that cannot be reconstructed is the classic indication for trauma pancreaticoduodenectomy, usually staged as damage control in an unstable patient.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G1-89"
+ },
+ {
+  "ncids": [
+   "K0009"
+  ],
+  "stem": "Disasters cause mass casualties with varied medical emergencies, raising the need for triage. Which of the following statements about triage is true?",
+  "options": {
+   "A": "It is carried out at the same time as basic life support is given",
+   "B": "It means treating all the injured",
+   "C": "It implies selection of the surgical procedure",
+   "D": "A patient's triage category cannot be reviewed",
+   "E": "It is carried out only at the site of the disaster"
+  },
+  "answer": "A",
+  "explanation": "Triage sorts casualties by priority while simple life-saving manoeuvres (airway opening, haemorrhage control) are performed alongside it. It is dynamic and repeated at the scene, casualty clearing station and hospital, so categories are reviewed and it is not confined to the disaster site.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G1-N1"
+ },
+ {
+  "ncids": [
+   "K0012"
+  ],
+  "stem": "A young man is received in a field hospital after a major earthquake. He has an extradural haematoma with GCS 8/15, an open fracture of the right femur bleeding from the wound and a right-sided pneumothorax. His airway is intact, pulse 140/min and systolic BP 80 mmHg. Under damage control principles in disaster management, what can be performed for this patient in the field hospital?",
+  "options": {
+   "A": "Tracheostomy",
+   "B": "Definitive fixation of the right femur",
+   "C": "Exploratory laparotomy",
+   "D": "Stop bleeding, stabilise the fracture, resuscitate, thoracostomy and craniotomy",
+   "E": "Right thoracotomy"
+  },
+  "answer": "D",
+  "explanation": "Damage control aims at life-saving steps only: control haemorrhage, splint or externally stabilise fractures, decompress the chest and evacuate the expanding haematoma. Definitive fixation and unnecessary major surgery are deferred until physiology is restored.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G1-N2"
+ },
+ {
+  "ncids": [
+   "K0013"
+  ],
+  "stem": "A 20-year-old man has multiple injuries after a road accident. His pulse is 140/min and systolic BP 70 mmHg, with active bleeding from an open femur fracture. What is the immediate step to prevent further shock?",
+  "options": {
+   "A": "Stop the haemorrhage",
+   "B": "IV line with crystalloid solution",
+   "C": "Surgery",
+   "D": "Blood transfusion",
+   "E": "Factor VIII and fibrinogen"
+  },
+  "answer": "A",
+  "explanation": "Ongoing blood loss must be stopped first (direct pressure, splintage or tourniquet); fluids or blood given while bleeding continues only replace what is being lost and dilute clotting factors.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G1-N3"
+ },
+ {
+  "ncids": [
+   "K0019"
+  ],
+  "stem": "A focused abdominal sonogram (FAST) in trauma is done primarily to rule out which of the following injuries?",
+  "options": {
+   "A": "Abdominal aortic injury",
+   "B": "Cardiac tamponade",
+   "C": "Intestinal injury",
+   "D": "Urethral injury",
+   "E": "Hepatic injury"
+  },
+  "answer": "E",
+  "explanation": "FAST is primarily a search for haemoperitoneum, which in blunt trauma comes mostly from solid organ (liver and spleen) injury. It is poor for hollow viscus, retroperitoneal and urethral injuries; the pericardial view is an add-on window, not its primary abdominal purpose.",
+  "key_note": "Bank marked A with * but highlighted E; correct is E because FAST primarily detects haemoperitoneum from solid organ injury, and the aorta is not assessed by it.",
+  "_new": true,
+  "qid": "G1-N4"
+ },
+ {
+  "ncids": [
+   "K0028"
+  ],
+  "stem": "Which of the following is NOT one of the potentially life-threatening chest injuries sought in the secondary survey (ATLS 10th edition)?",
+  "options": {
+   "A": "Aortic injury",
+   "B": "Tracheobronchial injury",
+   "C": "Myocardial contusion",
+   "D": "Rupture of the diaphragm",
+   "E": "Pulmonary contusion"
+  },
+  "answer": "B",
+  "explanation": "In ATLS 10th edition tracheobronchial tree injury is an immediately life-threatening injury dealt with in the primary survey. Blunt aortic injury, blunt cardiac injury, diaphragmatic rupture and pulmonary contusion are the potentially life-threatening injuries looked for in the secondary survey.",
+  "key_note": "Bank marked D; correct is B because diaphragmatic rupture is a potentially life-threatening injury, while tracheobronchial injury is classed as immediately life-threatening (primary survey) in ATLS 10th edition.",
+  "_new": true,
+  "qid": "G1-N5"
+ },
+ {
+  "ncids": [
+   "K0038"
+  ],
+  "stem": "In liver trauma (AAST grading), which of the following is a grade II injury?",
+  "options": {
+   "A": "Subcapsular haematoma involving more than 50% of the surface area",
+   "B": "Hilar avulsion",
+   "C": "Laceration less than 1 cm deep",
+   "D": "Subcapsular haematoma involving 10 to 50% of the surface area"
+  },
+  "answer": "D",
+  "explanation": "AAST grade II liver injury is a subcapsular haematoma covering 10 to 50% of the surface (or intraparenchymal haematoma under 10 cm) or a laceration 1 to 3 cm deep. A laceration under 1 cm is grade I and a haematoma over 50% is grade III.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G1-N6"
+ },
+ {
+  "ncids": [
+   "K0039"
+  ],
+  "stem": "In the management of blunt liver trauma, which of the following is true?",
+  "options": {
+   "A": "CT scan is advised in the unstable patient",
+   "B": "Conservative management is advised in haemodynamically stable patients",
+   "C": "Colloid is the ideal resuscitation fluid",
+   "D": "A clotting profile is not necessary"
+  },
+  "answer": "B",
+  "explanation": "Most blunt liver injuries in haemodynamically stable patients are managed non-operatively with CT grading and monitoring. Unstable patients should not go to CT, and coagulopathy must be checked and corrected.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G1-N7"
+ },
+ {
+  "ncids": [
+   "K0042"
+  ],
+  "stem": "After an earthquake you are summoned to the disaster area as a member of the healthcare team while victims are being retrieved. What is your best designated job at the site?",
+  "options": {
+   "A": "Assist in safe retrieval of victims",
+   "B": "Provide basic life support at a safe site",
+   "C": "Provide basic life support at the accident site",
+   "D": "Provide advanced trauma life support",
+   "E": "Triage and referral to a regional hospital"
+  },
+  "answer": "B",
+  "explanation": "Medical personnel should not enter the unsafe rescue zone; trained rescue teams extract casualties, and health workers give life support at a safe casualty collection point. Full ATLS belongs in hospital.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G1-N8"
+ },
+ {
+  "ncids": [
+   "K0043",
+   "K0186"
+  ],
+  "stem": "A 40-year-old man sustains a gunshot wound to the left lower abdomen with no exit wound. Laparotomy reveals injury to the sigmoid colon. What is the best treatment option after initial resuscitation?",
+  "options": {
+   "A": "Primary repair",
+   "B": "Colostomy and mucous fistula",
+   "C": "Conservative treatment",
+   "D": "Transverse colostomy only",
+   "E": "Ligation of the sigmoid colon"
+  },
+  "answer": "B",
+  "explanation": "For a contaminated high-energy (gunshot) injury of the left colon, the traditional safe answer is resection or exteriorisation with an end colostomy and mucous fistula, avoiding a leaking repair. A proximal transverse colostomy alone leaves the injured segment in place.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G1-N9"
+ },
+ {
+  "ncids": [
+   "K0044",
+   "K0046"
+  ],
+  "stem": "An 18-year-old man is brought to the emergency department after a road accident. His pulse is barely palpable at 140/min and BP 60/0 mmHg. Breathing is rapid and shallow with air entry in both lung fields. His abdomen is moderately distended with no audible peristalsis. After rapid infusion of 2 L of lactated Ringer's solution his pulse is 130/min and BP 70/0 mmHg. What is the next immediate step?",
+  "options": {
+   "A": "Obtain cross-table lateral X-rays of the cervical spine",
+   "B": "Obtain head and abdominal CT scans",
+   "C": "Obtain supine and lateral decubitus X-rays of the abdomen",
+   "D": "Obtain an arch aortogram",
+   "E": "Explore the abdomen (emergency laparotomy)"
+  },
+  "answer": "E",
+  "explanation": "A non-responder to fluid with a distended abdomen and no chest cause is bleeding intra-abdominally and needs immediate laparotomy. Sending an unstable patient for CT, X-rays or angiography is dangerous.",
+  "key_note": "Merged version K0044 (BP 90/60 after 1 L, options CT, MRI, ultrasound, theatre) was starred A and C with several options highlighted; its correct answer is emergency laparotomy, consistent with this item.",
+  "_new": true,
+  "qid": "G1-N10"
+ },
+ {
+  "ncids": [
+   "K0045"
+  ],
+  "stem": "Which of the following is NOT a sign of tension pneumothorax?",
+  "options": {
+   "A": "Tracheal deviation",
+   "B": "Decreased breath sounds",
+   "C": "Respiratory distress with hypertension",
+   "D": "Distended neck veins"
+  },
+  "answer": "C",
+  "explanation": "Tension pneumothorax reduces venous return and cardiac output, so it causes hypotension, not hypertension, along with tracheal deviation away from the affected side, absent breath sounds and distended neck veins.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G1-N11"
+ },
+ {
+  "ncids": [
+   "K0047",
+   "K1012"
+  ],
+  "stem": "A patient with a penetrating chest injury has a chest tube placed. Which of the following is an indication for thoracotomy?",
+  "options": {
+   "A": "More than 500 mL of blood drains from the chest tube when placed",
+   "B": "More than 200 mL/h of blood drains for 3 hours from the chest tube",
+   "C": "An air leak persists for more than 48 hours",
+   "D": "Lung injury is documented on CT scan",
+   "E": "Tension pneumothorax is present"
+  },
+  "answer": "B",
+  "explanation": "Thoracotomy is indicated for an initial drainage of 1500 mL or more, or continued drainage of about 200 mL/h for 2 to 4 hours, or ongoing need for transfusion. 500 mL initial drainage, a persistent air leak or a tension pneumothorax are managed with a chest tube.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G1-N12"
+ },
+ {
+  "ncids": [
+   "K0048"
+  ],
+  "stem": "A 27-year-old pregnant woman is brought to the emergency department after a road accident. Her BP is 90/60 mmHg and pulse 90/min. Which manoeuvre can help raise her blood pressure?",
+  "options": {
+   "A": "Manually displacing the uterus to the right to relieve pressure on the inferior vena cava",
+   "B": "Log roll 70 to 90 degrees to the right",
+   "C": "Log roll to the left to relieve pressure on the aorta",
+   "D": "Manually displacing the uterus to the left to relieve pressure on the inferior vena cava",
+   "E": "Elevating the foot end"
+  },
+  "answer": "D",
+  "explanation": "In late pregnancy the supine uterus compresses the IVC and reduces venous return. Manual displacement of the uterus to the left (or left lateral tilt with spinal precautions) relieves this supine hypotension.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G1-N13"
+ },
+ {
+  "ncids": [
+   "K0071"
+  ],
+  "stem": "A 10-year-old boy is brought to the emergency department with a deep cut on his thigh that is bleeding profusely. What is the immediate management of the wound?",
+  "options": {
+   "A": "Apply pressure on the wound",
+   "B": "Call the vascular surgeon",
+   "C": "Explore the wound",
+   "D": "Tie a tourniquet above the wound",
+   "E": "Wash the wound with normal saline"
+  },
+  "answer": "A",
+  "explanation": "Direct pressure controls almost all external haemorrhage and is the first step. A tourniquet is reserved for life-threatening limb bleeding not controlled by direct pressure.",
+  "key_note": "Bank marked A with * but highlighted D; correct is A because direct pressure is the first step and a tourniquet is used only if pressure fails.",
+  "_new": true,
+  "qid": "G1-N14"
+ },
+ {
+  "ncids": [
+   "K0076"
+  ],
+  "stem": "A 25-year-old man sustains chest trauma with two fractured ribs on the right and no underlying lung injury. He complains of severe pain. Which of the following will be most helpful in relieving his pain?",
+  "options": {
+   "A": "Chest physiotherapy",
+   "B": "Chest tube insertion",
+   "C": "Axillary block",
+   "D": "Intercostal nerve block",
+   "E": "Paracetamol"
+  },
+  "answer": "D",
+  "explanation": "An intercostal nerve block gives excellent targeted analgesia for a few rib fractures, allowing deep breathing and coughing. Paracetamol alone is inadequate for severe pain, and a chest tube is not needed without pneumo or haemothorax.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G1-N15"
+ },
+ {
+  "ncids": [
+   "K0079"
+  ],
+  "stem": "Which of the following belongs to the red (immediate) category in triage?",
+  "options": {
+   "A": "Compound fractures",
+   "B": "Ruptured abdominal viscus",
+   "C": "Severe brain damage",
+   "D": "Simple fractures",
+   "E": "Tension pneumothorax"
+  },
+  "answer": "E",
+  "explanation": "Red (priority 1) casualties have immediately life-threatening but treatable problems such as tension pneumothorax or airway obstruction. Fractures and stable abdominal injuries can wait (yellow or green), and unsalvageable brain injury is expectant.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G1-N16"
+ },
+ {
+  "ncids": [
+   "K0081"
+  ],
+  "stem": "A 27-year-old woman injures her leg in a high-speed road traffic accident. There is a large bruise over the left calf, the distal pulses are palpable and X-rays show no fracture. What is the best treatment plan?",
+  "options": {
+   "A": "Admit for observation",
+   "B": "Angiography",
+   "C": "Discharge on analgesics",
+   "D": "Exploration and vascular repair",
+   "E": "Fasciotomy"
+  },
+  "answer": "A",
+  "explanation": "A high-energy crush of the calf can evolve into compartment syndrome even with palpable pulses, so she should be admitted for serial neurovascular and compartment observation. Fasciotomy is done when signs develop, not prophylactically.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G1-N17"
+ },
+ {
+  "ncids": [
+   "K0082"
+  ],
+  "stem": "An 18-year-old woman is brought to the emergency department after a car hit a motorcycle. Her systolic BP was 60 mmHg on arrival but responded to fluids; it is now 100/65 mmHg with a pulse of 104/min. She has bruising over the left lower chest and no other injury. What is the next step in management?",
+  "options": {
+   "A": "CT scan of the abdomen",
+   "B": "Immediate laparotomy",
+   "C": "Diagnostic laparotomy",
+   "D": "Diagnostic peritoneal lavage",
+   "E": "Erect abdominal X-ray"
+  },
+  "answer": "A",
+  "explanation": "Once the patient responds and is stable, contrast CT is the investigation of choice to define a suspected splenic injury (left lower rib bruising) and guide non-operative management. Laparotomy is for persistent instability.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G1-N18"
+ },
+ {
+  "ncids": [
+   "K0110"
+  ],
+  "stem": "Which is the most commonly injured intra-abdominal organ in blunt trauma?",
+  "options": {
+   "A": "Colon",
+   "B": "Liver",
+   "C": "Small gut",
+   "D": "Spleen",
+   "E": "Stomach"
+  },
+  "answer": "D",
+  "explanation": "The spleen is classically the organ most often injured in blunt abdominal trauma, with the liver a close second (and first in some series).",
+  "key_note": "",
+  "_new": true,
+  "qid": "G1-N19"
+ },
+ {
+  "ncids": [],
+  "split_from": "K0110",
+  "stem": "Which is the most commonly injured intra-abdominal organ in penetrating (gunshot) trauma?",
+  "options": {
+   "A": "Colon",
+   "B": "Liver",
+   "C": "Small gut",
+   "D": "Spleen",
+   "E": "Stomach"
+  },
+  "answer": "C",
+  "explanation": "Gunshot wounds most often injure the small bowel because it occupies most of the abdominal cavity; in stab wounds the liver is most commonly injured.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G1-N20"
+ },
+ {
+  "ncids": [
+   "K0112",
+   "K1010"
+  ],
+  "stem": "Select the most appropriate initial step in the management of a patient with multiple injuries.",
+  "options": {
+   "A": "Splinting of fractures",
+   "B": "Control of external haemorrhage",
+   "C": "Relief of tension pneumothorax",
+   "D": "Blood transfusion",
+   "E": "Maintenance of airway"
+  },
+  "answer": "E",
+  "explanation": "The primary survey follows ABCDE, starting with airway maintenance with cervical spine protection. Haemorrhage control and fluid therapy belong to C, and splintage is later.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G1-N21"
+ },
+ {
+  "ncids": [
+   "K0140"
+  ],
+  "stem": "A trauma patient arrives after a stab wound to the left chest with systolic BP 85 mmHg, which improves slightly with IV fluid resuscitation. Chest X-ray shows clear lung fields. What is the most appropriate next step?",
+  "options": {
+   "A": "CT scan of the chest",
+   "B": "Pelvic X-ray",
+   "C": "Focused assessment with sonography for trauma (FAST)"
+  },
+  "answer": "C",
+  "explanation": "With hypotension and a clear chest X-ray after a left chest stab, the concern is cardiac tamponade or intra-abdominal injury; FAST rapidly checks the pericardium and peritoneum at the bedside. CT is unsafe in a borderline unstable patient.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G1-N22"
+ },
+ {
+  "ncids": [
+   "K0187"
+  ],
+  "stem": "A 20-year-old man sustains multiple stab wounds within a 30 cm segment of the mid jejunum. What is the best treatment option?",
+  "options": {
+   "A": "Resection of the 30 cm segment and end-to-end anastomosis",
+   "B": "Repair of all individual stab wounds",
+   "C": "Jejunostomy",
+   "D": "Ileostomy",
+   "E": "Colostomy"
+  },
+  "answer": "A",
+  "explanation": "Multiple perforations clustered in a short segment are best treated by resecting that segment with primary anastomosis, rather than many separate repairs that narrow the lumen and risk leaks.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G1-N23"
+ },
+ {
+  "ncids": [
+   "K0193"
+  ],
+  "stem": "A patient in a road traffic accident sustains a left femur fracture and head trauma. He is resuscitated and stabilised at the scene. On transfer to the ER his blood pressure gradually falls and then suddenly drops to 60/40 mmHg. His left leg is splinted. What is the most likely cause of the hypotension?",
+  "options": {
+   "A": "Head trauma",
+   "B": "Abdominal organ rupture",
+   "C": "Rib fracture",
+   "D": "Cardiac contusion",
+   "E": "Ruptured urethra"
+  },
+  "answer": "B",
+  "explanation": "Delayed sudden haemodynamic collapse after blunt trauma suggests rupture of a solid organ (classically delayed splenic rupture). Isolated head injury does not cause hypotension except terminally.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G1-N24"
+ },
+ {
+  "ncids": [
+   "K0194"
+  ],
+  "stem": "A 71-year-old man is seen after a motor vehicle accident with severe sharp chest pain radiating to his back. BP is 190/100 mmHg and pulse 100/min. Chest X-ray shows a widened mediastinum. He dies before further management, and autopsy reveals massive blood in the pericardial sac. What is the most likely diagnosis?",
+  "options": {
+   "A": "Pneumothorax",
+   "B": "Ascending aortic dissection",
+   "C": "Uraemic pericarditis",
+   "D": "Rupture of a pericardial cyst",
+   "E": "Haemothorax"
+  },
+  "answer": "B",
+  "explanation": "Tearing chest pain radiating to the back with hypertension and a widened mediastinum indicates aortic dissection; rupture of an ascending (type A) dissection into the pericardium causes fatal tamponade.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G1-N25"
+ },
+ {
+  "ncids": [
+   "K0199"
+  ],
+  "stem": "What percentage of patients with thoracic trauma require thoracotomy?",
+  "options": {
+   "A": "10 to 15%",
+   "B": "20 to 25%",
+   "C": "30 to 40%",
+   "D": "45 to 50%",
+   "E": "30 to 45%"
+  },
+  "answer": "A",
+  "explanation": "Only about 10 to 15% of chest injuries need thoracotomy; the great majority are managed with airway care, analgesia and a chest drain.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G1-N26"
+ },
+ {
+  "ncids": [
+   "K0200"
+  ],
+  "stem": "A 28-year-old man is injured in a motorcycle accident without a helmet. On arrival he is in severe respiratory distress, hypotensive (BP 80/40 mmHg) and cyanosed. He is bleeding profusely from the nose, has an open femur fracture with exposed bone, and breath sounds are decreased on the right. What is the initial management priority?",
+  "options": {
+   "A": "Control of haemorrhage with anterior and posterior nasal packing",
+   "B": "Tube thoracostomy in the right hemithorax",
+   "C": "Endotracheal intubation with in-line cervical stabilisation",
+   "D": "IV access and emergency type O blood transfusion",
+   "E": "Cross-table cervical spine and chest films"
+  },
+  "answer": "C",
+  "explanation": "Airway with cervical spine protection comes first: a cyanosed patient with profuse nasal bleeding and a compromised airway needs a definitive airway before the chest drain or circulation measures.",
+  "key_note": "Bank marked C with * but highlighted B; correct is C because securing the airway takes priority over the chest tube in the ABC sequence.",
+  "_new": true,
+  "qid": "G1-N27"
+ },
+ {
+  "ncids": [
+   "K0201"
+  ],
+  "stem": "Trauma deaths occur in three distinct time periods after injury. Which statement best describes this time pattern of trauma mortality?",
+  "options": {
+   "A": "Only 10% of trauma deaths occur within seconds or minutes of injury",
+   "B": "A second peak occurs within hours of injury, and deaths in this period have been markedly reduced by trauma systems and rapid transport",
+   "C": "Deaths one day to weeks after injury are almost entirely due to infection and multiple organ failure",
+   "D": "Late mortality, days to weeks after injury, has not been affected by better trauma delivery systems",
+   "E": "Deaths in the acute phase are rare and occur only in minor injuries"
+  },
+  "answer": "B",
+  "explanation": "In the trimodal distribution the second peak (minutes to hours, the golden hour) is from treatable bleeding and airway problems and is the one most reduced by ATLS and trauma systems. About half of deaths are immediate, and late deaths are also due to causes other than sepsis and have fallen with better care.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G1-N28"
+ },
+ {
+  "ncids": [
+   "K0202"
+  ],
+  "stem": "A 22-year-old woman presents with severe left upper quadrant pain after being punched. BP is 110/70 mmHg, pulse 100/min and respiratory rate 24/min. What is the best means of establishing the diagnosis?",
+  "options": {
+   "A": "FAST",
+   "B": "Physical examination",
+   "C": "CT of the abdomen",
+   "D": "Peritoneal lavage",
+   "E": "Upper gastrointestinal series"
+  },
+  "answer": "C",
+  "explanation": "In a haemodynamically stable patient with suspected splenic injury, contrast CT is the best test: it shows and grades the solid organ injury and guides non-operative management. FAST only detects free fluid and can miss contained injuries.",
+  "key_note": "Bank marked A; correct is C because in a stable patient CT establishes and grades the injury, while FAST only shows free fluid.",
+  "_new": true,
+  "qid": "G1-N29"
+ },
+ {
+  "ncids": [
+   "K0212"
+  ],
+  "stem": "Which technique should be used to open the airway in a trauma patient with suspected cervical spine injury?",
+  "options": {
+   "A": "Tracheostomy",
+   "B": "Jaw thrust",
+   "C": "Endotracheal intubation",
+   "D": "Head tilt, chin lift",
+   "E": "Nasopharyngeal airway"
+  },
+  "answer": "B",
+  "explanation": "The jaw thrust opens the airway without moving the neck. Head tilt with chin lift extends the cervical spine and is avoided when spinal injury is suspected.",
+  "key_note": "Bank marked B with * but highlighted D; correct is B because head tilt extends the cervical spine.",
+  "_new": true,
+  "qid": "G1-N30"
+ },
+ {
+  "ncids": [
+   "K0214"
+  ],
+  "stem": "A 10-year-old boy falls from a bicycle and the handlebar hits his abdomen. He has mild abdominal tenderness, a CT abdomen with IV and oral contrast is normal, and he is discharged. The next day he returns with vomiting after oral intake and a distended abdomen. What is the next step?",
+  "options": {
+   "A": "Admit for observation only",
+   "B": "Keep nil by mouth on IV fluids only",
+   "C": "Ondansetron to stop the vomiting",
+   "D": "Repeat CT scan of the abdomen",
+   "E": "Exploratory laparotomy"
+  },
+  "answer": "D",
+  "explanation": "Handlebar injuries can cause delayed duodenal haematoma, pancreatic injury or bowel perforation that an early CT misses. With new obstruction but no peritonitis, repeat CT distinguishes a haematoma (managed conservatively) from perforation (needs laparotomy).",
+  "key_note": "",
+  "_new": true,
+  "qid": "G1-N31"
+ },
+ {
+  "ncids": [
+   "K0215"
+  ],
+  "stem": "During a fight, a 40-year-old man is hit in the abdomen with a steel bar and diagnostic peritoneal lavage (DPL) is performed. Which DPL result is an indication for exploratory laparotomy?",
+  "options": {
+   "A": "RBC count of about 75,000/mm3",
+   "B": "10 mL of serous fluid",
+   "C": "Amylase about 150 IU/dL",
+   "D": "Bile in the aspirate",
+   "E": "WBC count of about 400/mm3"
+  },
+  "answer": "D",
+  "explanation": "Bile, bowel contents or food in the lavage fluid indicate a hollow viscus or biliary injury and mandate laparotomy. Positive thresholds in blunt trauma are RBC above 100,000/mm3 and WBC above 500/mm3, so the other values are below cut-off.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G1-N32"
+ },
+ {
+  "ncids": [
+   "K0216"
+  ],
+  "stem": "Which of the following is an indication for damage control surgery in a trauma patient?",
+  "options": {
+   "A": "A small intestinal perforation due to blunt trauma",
+   "B": "Major artery injury accessible for repair",
+   "C": "Coagulopathy leading to diffuse uncontrolled bleeding",
+   "D": "Abdominal aortic injury",
+   "E": "Retroperitoneal haematoma"
+  },
+  "answer": "C",
+  "explanation": "Damage control is chosen when physiology is exhausted: coagulopathy, hypothermia and acidosis (the lethal triad). Surgery is cut short to control bleeding and contamination, and definitive repair is done after ICU resuscitation.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G1-N33"
+ },
+ {
+  "ncids": [
+   "K0604"
+  ],
+  "stem": "Which of the following is an indication for damage control surgery in trauma?",
+  "options": {
+   "A": "Stable haemodynamics",
+   "B": "No hypoxaemia",
+   "C": "Urine output above 1 mL/kg/h",
+   "D": "Core temperature below 34 degrees Celsius",
+   "E": "Normal coagulation"
+  },
+  "answer": "D",
+  "explanation": "Hypothermia below 34 degrees C, along with acidosis and coagulopathy, is a trigger for damage control surgery. The other options describe a physiologically stable patient who can have definitive surgery.",
+  "key_note": "Bank marked A; correct is D because hypothermia is part of the lethal triad that indicates damage control, while stable haemodynamics allows definitive surgery.",
+  "_new": true,
+  "qid": "G1-N34"
+ },
+ {
+  "ncids": [
+   "K0217"
+  ],
+  "stem": "Which statement about flail chest is TRUE?",
+  "options": {
+   "A": "Paradoxical motion of the chest wall is the main cause of respiratory failure",
+   "B": "The initial chest X-ray reliably predicts pulmonary contusion",
+   "C": "Operative chest wall stabilisation reduces the duration of ventilation when there is no pulmonary contusion",
+   "D": "The patient should receive aggressive fluid resuscitation",
+   "E": "All patients with flail chest need endotracheal intubation"
+  },
+  "answer": "C",
+  "explanation": "Surgical rib fixation shortens ventilation and ICU stay in selected patients without significant contusion. Hypoxia is mainly from the underlying contusion, contusion often appears late on X-ray, fluids should be judicious and intubation is selective.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G1-N35"
+ },
+ {
+  "ncids": [
+   "K0218"
+  ],
+  "stem": "A young man in a road traffic accident arrives with systolic BP 70 mmHg and a thready pulse of 130/min. He has a distended abdomen and clinical evidence of a pelvic fracture. Two litres of Ringer's lactate do not improve his vitals. What is the next step?",
+  "options": {
+   "A": "Exploratory laparotomy",
+   "B": "CT scan of the abdomen and pelvis",
+   "C": "Angioembolisation",
+   "D": "Focused assessment with sonography for trauma (FAST)",
+   "E": "Plain supine X-ray of the abdomen"
+  },
+  "answer": "D",
+  "explanation": "In a non-responder with both possible abdominal and pelvic bleeding, a bedside FAST (with a pelvic binder applied) decides the source: positive goes to laparotomy, negative points to pelvic bleeding for packing or angioembolisation. Opening the abdomen blind may release the pelvic haematoma's tamponade.",
+  "key_note": "Bank marked A; correct is D because with a pelvic fracture the source must be confirmed by bedside FAST before laparotomy, since negative FAST points to pelvic bleeding treated by binder, packing or angioembolisation.",
+  "_new": true,
+  "qid": "G1-N36"
+ },
+ {
+  "ncids": [
+   "K0219"
+  ],
+  "stem": "During diagnostic peritoneal lavage (DPL), there is no need to instil one litre of warm normal saline if the initial aspirate is:",
+  "options": {
+   "A": "Frank bile",
+   "B": "Gastrointestinal contents such as vegetable fibres",
+   "C": "Gross blood more than 10 mL",
+   "D": "All of the above",
+   "E": "A and C only"
+  },
+  "answer": "D",
+  "explanation": "A grossly positive initial aspirate (10 mL or more of blood, bile or enteric contents) is already diagnostic, so lavage is unnecessary and the patient proceeds to laparotomy.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G1-N37"
+ },
+ {
+  "ncids": [
+   "K0222"
+  ],
+  "stem": "A 35-year-old pillion passenger on a motorbike presents after an accident with neck pain and inspiratory stridor. Despite oxygen by mask her saturation stays below 90%. What is the next step?",
+  "options": {
+   "A": "Immediate tracheostomy",
+   "B": "Bilateral chest tube insertion",
+   "C": "Establish an airway while maintaining in-line immobilisation",
+   "D": "Immediate cervical spine X-rays while on 100% oxygen",
+   "E": "Apply traction to the cervical spine"
+  },
+  "answer": "C",
+  "explanation": "Stridor with persistent hypoxia means a threatened airway that must be secured at once, with manual in-line stabilisation of the cervical spine. Imaging waits, and a surgical airway is only for failed intubation.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G1-N38"
+ },
+ {
+  "ncids": [
+   "K0224"
+  ],
+  "stem": "In the emergency department, which method is NOT appropriate for controlling arterial bleeding from an open thigh wound in a 40-year-old trauma patient?",
+  "options": {
+   "A": "Manual tourniquet",
+   "B": "Arteriography",
+   "C": "Manual pressure",
+   "D": "Pneumatic tourniquet",
+   "E": "Pressure dressing"
+  },
+  "answer": "B",
+  "explanation": "Arteriography is a diagnostic or interventional imaging procedure, not an emergency method of controlling active external bleeding. Pressure, pressure dressings and tourniquets are the immediate measures.",
+  "key_note": "Bank marked C with * but highlighted B; correct is B because manual pressure is the first-line way to stop bleeding, whereas arteriography does not control haemorrhage.",
+  "_new": true,
+  "qid": "G1-N39"
+ },
+ {
+  "ncids": [
+   "K0225"
+  ],
+  "stem": "Regarding crush syndrome, which statement is FALSE?",
+  "options": {
+   "A": "It can lead to acute renal failure",
+   "B": "It occurs with sharp penetrating injuries",
+   "C": "It causes traumatic rhabdomyolysis",
+   "D": "Myoglobin is released from dead muscle cells",
+   "E": "Muscle ischaemia is a feature"
+  },
+  "answer": "B",
+  "explanation": "Crush syndrome follows prolonged compression of large muscle masses (e.g. under rubble), not sharp penetrating wounds. Ischaemic muscle releases myoglobin and potassium, causing renal failure.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G1-N40"
+ },
+ {
+  "ncids": [
+   "K0795"
+  ],
+  "stem": "A 28-year-old man is trapped under a collapsed building for 18 hours with his right arm and leg crushed under a beam. When freed he is confused, his pulse is faint, and the right arm and leg are cold, pale and pulseless, with no sensation or movement. What is the most probable diagnosis?",
+  "options": {
+   "A": "Frostbite",
+   "B": "Crush syndrome",
+   "C": "Hypothermia",
+   "D": "Tetanus",
+   "E": "Necrotising fasciitis"
+  },
+  "answer": "B",
+  "explanation": "Prolonged compression of limbs causes muscle ischaemia and, on release, the systemic effects of crush syndrome (hypovolaemia, hyperkalaemia, myoglobinuria and renal failure).",
+  "key_note": "",
+  "_new": true,
+  "qid": "G1-N41"
+ },
+ {
+  "ncids": [
+   "K0226"
+  ],
+  "stem": "In a trauma patient, what is FALSE about X-ray examination of skeletal injuries?",
+  "options": {
+   "A": "It should be done during the primary survey",
+   "B": "It depends on the mechanism of injury",
+   "C": "It depends on the patient's initial clinical findings",
+   "D": "It is appropriate during the secondary survey",
+   "E": "It depends on the haemodynamic status of the patient"
+  },
+  "answer": "A",
+  "explanation": "Limb X-rays belong to the secondary survey once life threats are controlled. Only adjuncts such as chest and pelvic X-rays and FAST are used during the primary survey.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G1-N42"
+ },
+ {
+  "ncids": [
+   "K0790"
+  ],
+  "stem": "A 57-year-old man is brought to the ER after a bomb blast in a market. He is tachypnoeic and has a right-sided open chest wound about 3 x 4 cm. What is the appropriate management?",
+  "options": {
+   "A": "Chest tube insertion on the right side",
+   "B": "Pack the wound using aseptic technique",
+   "C": "Suture the wound with absorbable sutures for muscle and non-absorbable sutures for skin",
+   "D": "Three-sided occlusive dressing along with chest tube insertion",
+   "E": "Emergency department thoracotomy"
+  },
+  "answer": "D",
+  "explanation": "An open pneumothorax is first sealed with an occlusive dressing taped on three sides (a flutter valve), followed by a chest tube placed away from the wound; formal closure is done later.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G1-N43"
+ },
+ {
+  "ncids": [
+   "K0230"
+  ],
+  "stem": "In a motor vehicle crash, the lower rim of the steering wheel hits the abdomen of a 50-year-old woman driver. She is stable and admitted for observation. At night she vomits twice, and next morning she has abdominal pain and distension with stable vitals; the abdomen is tense, tender and rigid with absent bowel sounds. What is the most likely cause?",
+  "options": {
+   "A": "Liver trauma",
+   "B": "Splenic injury",
+   "C": "Small bowel perforation",
+   "D": "Retroperitoneal haematoma",
+   "E": "Haemorrhage from a mesenteric tear"
+  },
+  "answer": "C",
+  "explanation": "Delayed peritonitis with stable vitals after a steering wheel blow suggests hollow viscus perforation; bleeding from solid organs or mesentery would cause haemodynamic deterioration rather than rigid peritonitis with normal vitals.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G1-N44"
+ },
+ {
+  "ncids": [
+   "K0232"
+  ],
+  "stem": "A 2-year-old child falls from a height and injures his head. He is breathing spontaneously but with a partially obstructed airway. How should the airway be optimised?",
+  "options": {
+   "A": "Place flat on a spine board facing up",
+   "B": "Flex the neck",
+   "C": "Insert an oral airway only if he is conscious",
+   "D": "Use the jaw thrust manoeuvre with bimanual in-line spinal restriction",
+   "E": "Insert the oral airway backwards and rotate it 180 degrees"
+  },
+  "answer": "D",
+  "explanation": "Jaw thrust with manual in-line stabilisation opens the airway without moving the spine. In children the large occiput flexes the neck when flat (padding under the shoulders is needed), and the oral airway is inserted directly, not rotated, and only in unconscious patients.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G1-N45"
+ },
+ {
+  "ncids": [
+   "K0233"
+  ],
+  "stem": "A 30-year-old labourer is crushed when a pickup truck backs into him while he is loading boxes. In the emergency department he has plethora and petechiae of the upper torso, face and arms. What is the most likely cause?",
+  "options": {
+   "A": "Traumatic diaphragmatic injury",
+   "B": "Subcutaneous emphysema",
+   "C": "Traumatic asphyxia",
+   "D": "Fracture of the sternum",
+   "E": "Tension pneumothorax"
+  },
+  "answer": "C",
+  "explanation": "Traumatic asphyxia results from sudden severe chest compression forcing blood back into the valveless veins of the head and neck, producing cervicofacial cyanosis, plethora, petechiae and subconjunctival haemorrhages.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G1-N46"
+ },
+ {
+  "ncids": [
+   "K0236"
+  ],
+  "stem": "A healthy 25-year-old man sustains a chest injury and X-ray shows a haemothorax. A chest tube drains about 500 mL of blood. What will his vital signs most likely show?",
+  "options": {
+   "A": "Normal pulse pressure",
+   "B": "Increased heart rate",
+   "C": "Low urine output",
+   "D": "High respiratory rate",
+   "E": "Low blood pressure"
+  },
+  "answer": "A",
+  "explanation": "Loss of under 750 mL (under 15% of blood volume) is class I haemorrhage, with essentially normal pulse, BP, pulse pressure, respiratory rate and urine output.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G1-N47"
+ },
+ {
+  "ncids": [
+   "K0237"
+  ],
+  "stem": "An 8-year-old child is monitored in the ICU after trauma. A return to haemodynamic normality is indicated by:",
+  "options": {
+   "A": "Cold extremities",
+   "B": "Decreased pulse pressure",
+   "C": "Pale skin colour",
+   "D": "Return of peripheral pulses",
+   "E": "Clouded sensorium"
+  },
+  "answer": "D",
+  "explanation": "Return of peripheral pulses, warm pink skin, normal sensorium and adequate urine output show restored perfusion. The other options are signs of persisting shock.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G1-N48"
+ },
+ {
+  "ncids": [
+   "K0260"
+  ],
+  "stem": "A man with trauma to the right hypochondrium arrives with an absent radial pulse and feeble brachial pulses. His abdomen is generally tender and rigid. After resuscitation, which investigation may help in diagnosis?",
+  "options": {
+   "A": "Contrast-enhanced CT abdomen",
+   "B": "X-ray abdomen",
+   "C": "MRI abdomen",
+   "D": "Laparoscopy"
+  },
+  "answer": "A",
+  "explanation": "Once resuscitated and stable, contrast-enhanced CT is the investigation of choice for blunt abdominal (liver) trauma. MRI is slow and impractical in acute trauma.",
+  "key_note": "Bank marked C with * but highlighted A; correct is A because CECT is the standard imaging in stable abdominal trauma, while MRI has no role in the acute setting.",
+  "_new": true,
+  "qid": "G1-N49"
+ },
+ {
+  "ncids": [
+   "K0263"
+  ],
+  "stem": "A man with multiple stab wounds to the abdomen and chest presents in shock with an acute abdomen. Laparotomy shows the descending colon ruptured at two points with a gangrenous segment between them, a gastric perforation, an ileal perforation and a small left kidney laceration. What is the appropriate management?",
+  "options": {
+   "A": "Repair all perforations and the laceration",
+   "B": "Exteriorise the ileum after repairing other structures, and nephrectomy",
+   "C": "Exteriorise the colon after repairing other structures, with repair of the kidney",
+   "D": "Primary repair of the colon and exteriorise the ileum",
+   "E": "Resect the involved colonic segment and exteriorise it after repairing the other injuries"
+  },
+  "answer": "E",
+  "explanation": "The non-viable colon must be resected, and in a shocked patient with multiple injuries the colon ends are brought out as a stoma rather than anastomosed. Stomach and ileal holes are repaired, and a small renal laceration is managed conservatively or repaired, not by nephrectomy.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G1-N50"
+ },
+ {
+  "ncids": [
+   "K0366"
+  ],
+  "stem": "An elderly man presents after a fall. He is conscious, oriented, obeys commands and speaks fluently, but complains of left hypochondrial pain. Suddenly his blood pressure drops and he loses consciousness. What is the most probable diagnosis?",
+  "options": {
+   "A": "Hypoglycaemia",
+   "B": "Subarachnoid haematoma",
+   "C": "Epidural haematoma",
+   "D": "Splenic rupture",
+   "E": "Intestinal perforation"
+  },
+  "answer": "D",
+  "explanation": "Left hypochondrial pain followed by sudden hypotension and collapse indicates (delayed) splenic rupture with haemorrhagic shock. An epidural haematoma causes a lucid interval but not hypotension; it raises BP with bradycardia.",
+  "key_note": "Bank marked C; correct is D because the sudden fall in BP with left upper quadrant pain points to splenic haemorrhage, whereas an extradural haematoma does not cause hypotension.",
+  "_new": true,
+  "qid": "G1-N51"
+ },
+ {
+  "ncids": [
+   "K0575"
+  ],
+  "stem": "A 12-year-old boy falls from a bicycle and the handlebar strikes his epigastrium. He has features of injury to a retroperitoneal organ. Which organ is most likely injured?",
+  "options": {
+   "A": "Gallbladder",
+   "B": "Right lobe of liver",
+   "C": "Pancreas",
+   "D": "Second part of the duodenum",
+   "E": "Third part of the duodenum"
+  },
+  "answer": "D",
+  "explanation": "Handlebar injuries in children classically injure the duodenum (often an intramural haematoma), most commonly the second part, and the pancreas, which are compressed against the spine. The gallbladder and liver are intraperitoneal.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G1-N52"
+ },
+ {
+  "ncids": [
+   "K0603"
+  ],
+  "stem": "Which injury is most likely in a left-sided impact in a road traffic accident?",
+  "options": {
+   "A": "Splenic rupture",
+   "B": "Duodenal rupture",
+   "C": "Popliteal artery disruption",
+   "D": "Posterior dislocation of the shoulder",
+   "E": "Posterior dislocation of the hip"
+  },
+  "answer": "A",
+  "explanation": "Lateral impact on the left compresses the left lower ribs and spleen, so splenic rupture is the classic pattern. Posterior hip dislocation follows dashboard (frontal) impact.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G1-N53"
+ },
+ {
+  "ncids": [
+   "K0641"
+  ],
+  "stem": "What is the leading cause of trauma during the first decades (up to 30 to 40 years) of life?",
+  "options": {
+   "A": "Traffic accidents",
+   "B": "Sports injuries",
+   "C": "Falls from height",
+   "D": "Acts of violence",
+   "E": "Blast injuries"
+  },
+  "answer": "A",
+  "explanation": "Road traffic accidents are the leading cause of injury and injury-related death in children and young adults worldwide.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G1-N54"
+ },
+ {
+  "ncids": [
+   "K0723",
+   "K1196"
+  ],
+  "stem": "A 45-year-old man has blunt trauma to the central abdomen. A focused abdominal sonogram (FAST) is performed. It is used to rule out all of the following injuries EXCEPT:",
+  "options": {
+   "A": "Cardiac tamponade",
+   "B": "Hepatic injury",
+   "C": "Splenic injury",
+   "D": "Renal injury",
+   "E": "Mesenteric vascular injury"
+  },
+  "answer": "D",
+  "explanation": "FAST looks for fluid in the pericardium and the peritoneal cavity (hepatorenal, splenorenal and pelvic views), which detects bleeding from liver, spleen and mesentery. It is unreliable for retroperitoneal organs such as the kidney.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G1-N55"
+ },
+ {
+  "ncids": [
+   "K0779"
+  ],
+  "stem": "Which of the following is NOT part of the primary survey in trauma management?",
+  "options": {
+   "A": "Airway management",
+   "B": "Breathing and ventilation",
+   "C": "Cervical spine protection",
+   "D": "Neurological status assessment",
+   "E": "Definitive fracture management"
+  },
+  "answer": "E",
+  "explanation": "The primary survey is ABCDE: airway with cervical spine protection, breathing, circulation with haemorrhage control, disability (neurological status) and exposure. Definitive fracture care comes after the secondary survey.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G1-N56"
+ },
+ {
+  "ncids": [
+   "K0780"
+  ],
+  "stem": "What is the neurological threshold for considering a definitive airway in an acutely injured patient?",
+  "options": {
+   "A": "GCS 14 or less",
+   "B": "GCS 10 or less",
+   "C": "GCS 8 or less",
+   "D": "GCS 5 or less",
+   "E": "GCS 10 or more"
+  },
+  "answer": "C",
+  "explanation": "A GCS of 8 or less indicates inability to protect the airway and is an indication for a definitive airway (endotracheal intubation).",
+  "key_note": "",
+  "_new": true,
+  "qid": "G1-N57"
+ },
+ {
+  "ncids": [
+   "K0781"
+  ],
+  "stem": "A 20-year-old man is assessed in the ER after a motorbike accident. He opens his eyes when his name is called, is confused about place and time, and localises painful stimuli. What is his GCS?",
+  "options": {
+   "A": "10",
+   "B": "11",
+   "C": "12",
+   "D": "13",
+   "E": "14"
+  },
+  "answer": "C",
+  "explanation": "Eyes open to voice E3, confused speech V4, localises pain M5: total 12.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G1-N58"
+ },
+ {
+  "ncids": [
+   "K0782",
+   "K1452"
+  ],
+  "stem": "What is the quickest way to assess the patency of the airway in an alert trauma patient?",
+  "options": {
+   "A": "Ask the patient to point to the painful area",
+   "B": "Ask the patient to flex his neck",
+   "C": "Ask the patient to extend his neck",
+   "D": "Ask the patient his name (adequate speech)",
+   "E": "Ask the patient to take a deep breath"
+  },
+  "answer": "D",
+  "explanation": "A patient who answers clearly in a normal voice has a patent airway, adequate ventilation and cerebral perfusion for now. Neck movement should be avoided in possible cervical spine injury.",
+  "key_note": "Not marked with * in the source bank; highlighted answers (asking his name, adequate speech) agree with the reviewer.",
+  "_new": true,
+  "qid": "G1-N59"
+ },
+ {
+  "ncids": [
+   "K0820"
+  ],
+  "stem": "A young man is shot at the level of the right sternoclavicular joint. His BP is 60/30 mmHg, pulse 120/min, and chest X-ray shows a right hydropneumothorax. What is the first step?",
+  "options": {
+   "A": "Insert a chest tube and observe the drainage",
+   "B": "Immediate right thoracotomy",
+   "C": "Angiogram to rule out great vessel injury",
+   "D": "Median sternotomy extended along the anterior border of the right sternocleidomastoid",
+   "E": "Contrast CT to evaluate the extent of injury"
+  },
+  "answer": "A",
+  "explanation": "A chest tube treats the hydropneumothorax and quantifies bleeding; large initial or ongoing output then indicates operation. Angiography and CT are unsafe in a hypotensive patient.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G1-N60"
+ },
+ {
+  "ncids": [
+   "K0823"
+  ],
+  "stem": "After a car crash a young man has bilateral multiple rib fractures with an unstable chest wall. He is alert, short of breath, with BP 100/60 mmHg. What is the treatment?",
+  "options": {
+   "A": "Prolonged intubation and ventilator support until the rib fractures heal, with aggressive bronchial toilet",
+   "B": "Open reduction and plate stabilisation of the rib fractures once stable",
+   "C": "Fracture stabilisation with towel clips on the ribs attached to weights",
+   "D": "Avoid intubation, control pain and perform aggressive bronchial toilet",
+   "E": "Temporary extracorporeal circulation to allow the fractures to heal"
+  },
+  "answer": "D",
+  "explanation": "In an alert patient with flail chest, good analgesia (e.g. epidural), physiotherapy and bronchial toilet avoid the complications of ventilation; intubation is reserved for respiratory failure. Prolonged internal pneumatic stabilisation is outdated.",
+  "key_note": "Bank marked A (prolonged intubation and ventilation); correct is D because current management of an alert patient with flail chest is analgesia and pulmonary toilet, with ventilation only for respiratory failure.",
+  "_new": true,
+  "qid": "G1-N61"
+ },
+ {
+  "ncids": [
+   "K0844"
+  ],
+  "stem": "Regarding flail chest, which of the following is true?",
+  "options": {
+   "A": "It is a fracture of one rib only",
+   "B": "It always requires ventilator support",
+   "C": "It is a complication of blunt chest trauma",
+   "D": "It involves the lower ribs only"
+  },
+  "answer": "C",
+  "explanation": "Flail chest results from blunt trauma fracturing two or more adjacent ribs in two or more places, at any level. Most patients are managed with analgesia and only some need ventilation.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "G1-N62"
+ },
+ {
+  "ncids": [
+   "K0884",
+   "K0993"
+  ],
+  "stem": "A 55-year-old man presents after a bomb blast in a mosque. In explosive blast injury, which structure is most commonly injured by the blast wave?",
+  "options": {
+   "A": "Brain",
+   "B": "Extremities",
+   "C": "Heart",
+   "D": "Middle ear",
+   "E": "Spinal cord"
+  },
+  "answer": "D",
+  "explanation": "Primary blast injury affects air-filled organs; the tympanic membrane and middle ear are the most sensitive and most commonly injured, followed by lungs and bowel.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G1-N63"
+ },
+ {
+  "ncids": [
+   "K0945"
+  ],
+  "stem": "In a hypotensive adult trauma victim, what volume of crystalloid bolus is initially given to assess the response?",
+  "options": {
+   "A": "Half a litre",
+   "B": "1 litre",
+   "C": "2 litres",
+   "D": "3 litres",
+   "E": "4 litres"
+  },
+  "answer": "B",
+  "explanation": "ATLS 10th edition recommends an initial 1 L bolus of warmed isotonic crystalloid in adults (20 mL/kg in children), with early blood; the older 2 L figure was dropped to avoid dilutional coagulopathy.",
+  "key_note": "Bank marked C (2 L) with * but highlighted A; correct is B because ATLS 10th edition reduced the initial bolus to 1 L, and 2 L was the 9th edition figure.",
+  "_new": true,
+  "qid": "G1-N64"
+ },
+ {
+  "ncids": [
+   "K0950"
+  ],
+  "stem": "For which of the following organ injuries is diagnostic peritoneal lavage (DPL) least likely to be helpful?",
+  "options": {
+   "A": "Kidney",
+   "B": "Liver",
+   "C": "Sigmoid colon",
+   "D": "Spleen",
+   "E": "Stomach"
+  },
+  "answer": "A",
+  "explanation": "DPL samples the peritoneal cavity, so it misses retroperitoneal injuries such as the kidney (and pancreas, duodenum). Liver, spleen and intraperitoneal bowel injuries spill into the lavage.",
+  "key_note": "Bank marks conflict between versions (one version starred A and highlighted C, another starred and highlighted different options); correct is A because the kidney is retroperitoneal.",
+  "_new": true,
+  "qid": "G1-N65"
+ },
+ {
+  "ncids": [
+   "K0957"
+  ],
+  "stem": "An abdominal trauma patient should not be sent for CT scan if he has:",
+  "options": {
+   "A": "Hypertension",
+   "B": "Hypotension",
+   "C": "Abdominal pain",
+   "D": "Bradycardia",
+   "E": "Fever"
+  },
+  "answer": "B",
+  "explanation": "CT is only for haemodynamically stable patients; a hypotensive patient should not leave the resuscitation room and needs FAST or DPL and, if positive, laparotomy.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G1-N66"
+ },
+ {
+  "ncids": [
+   "K0976"
+  ],
+  "stem": "During triage of mass casualties, immediate care should be given to which group?",
+  "options": {
+   "A": "Dead patients, for proper burial",
+   "B": "Patients with compound limb fractures",
+   "C": "Patients with maxillofacial injuries",
+   "D": "Patients with simple limb fractures",
+   "E": "Patients with trivial injuries"
+  },
+  "answer": "C",
+  "explanation": "Severe maxillofacial injuries threaten the airway and are therefore immediate (red) priority. Fractures are delayed (yellow) and trivial injuries minimal (green).",
+  "key_note": "",
+  "_new": true,
+  "qid": "G1-N67"
+ },
+ {
+  "ncids": [
+   "K1004"
+  ],
+  "stem": "A 30-year-old man's right leg is trapped for 2 hours in a car crash. On arrival the leg is grossly swollen and painful with a fractured tibia. After starting resuscitation, what is the next step?",
+  "options": {
+   "A": "Elevate the affected limb",
+   "B": "External fixation of the limb",
+   "C": "Open reduction and internal fixation",
+   "D": "Fasciotomy of the affected limb",
+   "E": "DVT prophylaxis"
+  },
+  "answer": "D",
+  "explanation": "A crushed, grossly swollen, painful leg after prolonged entrapment indicates compartment syndrome, which needs urgent fasciotomy. Elevation reduces arterial inflow and worsens it.",
+  "key_note": "No * in the source bank; highlighted D agrees with the reviewer.",
+  "_new": true,
+  "qid": "G1-N68"
+ },
+ {
+  "ncids": [
+   "K1011"
+  ],
+  "stem": "A 45-year-old man presents after a road traffic accident with a wound on the left thigh, multiple wounds of the head and neck, and tenderness over the back of the neck and thorax. Which type of shock should be assumed first?",
+  "options": {
+   "A": "Anaphylactic shock",
+   "B": "Hypovolaemic shock",
+   "C": "Obstructive shock",
+   "D": "Neurogenic shock",
+   "E": "Spinal shock"
+  },
+  "answer": "B",
+  "explanation": "In any injured patient, shock is assumed to be haemorrhagic (hypovolaemic) until proven otherwise. Neurogenic shock from a cord injury is a diagnosis of exclusion once bleeding is ruled out.",
+  "key_note": "Bank marked B with * but highlighted D; correct is B because hypovolaemia is presumed first in trauma, even when a spinal injury is suspected.",
+  "_new": true,
+  "qid": "G1-N69"
+ },
+ {
+  "ncids": [
+   "K1018"
+  ],
+  "stem": "Consistent patterns of injury are seen in road traffic accidents. Which of the following is NOT a typical combination?",
+  "options": {
+   "A": "Abdominal run-over and diaphragmatic injury",
+   "B": "Head injury and clavicle injury",
+   "C": "Pelvic fracture and urinary tract injury",
+   "D": "Rib fractures and liver or splenic injury",
+   "E": "Sternal injury and dorsal spine injury"
+  },
+  "answer": "B",
+  "explanation": "Recognised pairs include head injury with cervical spine injury, lower rib fractures with liver or spleen injury, pelvic fracture with bladder or urethral injury, sternal fracture with thoracic spine injury and abdominal compression with diaphragmatic rupture. Head injury is linked to cervical spine, not clavicle, injury.",
+  "key_note": "Bank marked A with * but highlighted B; correct is B because abdominal crushing (run-over) is a recognised cause of diaphragmatic rupture.",
+  "_new": true,
+  "qid": "G1-N70"
+ },
+ {
+  "ncids": [
+   "K1198"
+  ],
+  "stem": "Which of the following statements is false?",
+  "options": {
+   "A": "The mechanism of injury and the injury produced are the keystones of management",
+   "B": "It is as essential to identify covert (hidden) injuries as overt (obvious) ones",
+   "C": "Penetrating injuries usually involve the use of weapons",
+   "D": "Blunt injuries result from acceleration or deceleration, such as falls or road traffic accidents",
+   "E": "A knife injury over a limb is easy to evaluate"
+  },
+  "answer": "E",
+  "explanation": "A small knife wound on a limb can hide serious vessel, nerve or tendon injury, so it is never assumed to be simple. The other statements are standard teaching on trauma mechanisms.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G1-N71"
+ },
+ {
+  "ncids": [
+   "K1274"
+  ],
+  "stem": "A 40-year-old motorist in a road accident has shortness of breath and right chest pain. The trachea is central with reduced air entry at the right base, and chest X-ray shows fluid. An intercostal drain yields 350 mL of blood. What is the most likely source of the bleeding?",
+  "options": {
+   "A": "Aorta",
+   "B": "Superior vena cava",
+   "C": "Inferior vena cava",
+   "D": "Right atrium",
+   "E": "Intercostal vessels"
+  },
+  "answer": "E",
+  "explanation": "A small, self-limiting haemothorax in a stable patient usually comes from low-pressure lung parenchyma or chest wall (intercostal) vessels torn by rib fractures. Great vessel or cardiac injury causes massive bleeding or rapid death.",
+  "key_note": "Not marked with * in the source bank; highlighted E agrees with the reviewer.",
+  "_new": true,
+  "qid": "G1-N72"
+ },
+ {
+  "ncids": [
+   "K1317"
+  ],
+  "stem": "After a high-velocity road accident a patient is extracted from the wreck, conscious but incoherent, with an obvious thigh fracture. How should he be transported?",
+  "options": {
+   "A": "Supine, with the injured thigh splinted",
+   "B": "Supine on a hard board, with the thigh splinted and the neck immobilised with a hard collar, sandbags and tapes",
+   "C": "Supine, with the thigh splinted and the head turned to one side to prevent aspiration",
+   "D": "Supine, with the thigh splinted, the neck hyperextended and the foot end raised"
+  },
+  "answer": "B",
+  "explanation": "Any high-energy trauma patient with altered consciousness is presumed to have a cervical spine injury and needs full spinal immobilisation as well as limb splintage. Turning or extending the neck risks cord damage.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G1-N73"
+ },
+ {
+  "ncids": [
+   "K1363"
+  ],
+  "stem": "The 'golden hour' of trauma refers to:",
+  "options": {
+   "A": "The time immediately after injury",
+   "B": "The time a few hours after injury",
+   "C": "The time days to weeks after injury"
+  },
+  "answer": "A",
+  "explanation": "The golden hour is the first hour or so after injury, when prompt treatment of airway problems and haemorrhage most reduces deaths (the second peak of trimodal mortality).",
+  "key_note": "Bank keyed B but highlighted A; correct is A because the golden hour is the period immediately after injury, not hours later.",
+  "_new": true,
+  "qid": "G1-N74"
+ },
+ {
+  "ncids": [
+   "K1364"
+  ],
+  "stem": "Regarding a missile (gunshot) wound of the abdomen, which statement is wrong?",
+  "options": {
+   "A": "The patient should be resuscitated and blood transfused",
+   "B": "A catheter must be passed into the bladder",
+   "C": "A midline incision is used",
+   "D": "Penetrating gunshot wounds of the abdomen should not be explored by laparotomy",
+   "E": "In wounds of the stomach, the lesser sac must be opened"
+  },
+  "answer": "D",
+  "explanation": "Abdominal gunshot wounds have a high rate of visceral injury, so penetrating gunshot wounds are routinely explored through a midline laparotomy. The lesser sac is opened to find a posterior gastric wound.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G1-N75"
+ },
+ {
+  "ncids": [
+   "K1366"
+  ],
+  "stem": "Which statement is wrong regarding the surgical management of missile injuries?",
+  "options": {
+   "A": "Incise the skin generously",
+   "B": "Incise the deep fascia widely",
+   "C": "Identify the neurovascular bundle",
+   "D": "Excise all dead muscle",
+   "E": "Close the wound primarily at the end of the operation"
+  },
+  "answer": "E",
+  "explanation": "Missile wounds are debrided widely and left open, with delayed primary closure at 3 to 5 days, because of contamination and dead tissue.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G1-N76"
+ },
+ {
+  "ncids": [
+   "K1367"
+  ],
+  "stem": "Which statement is wrong regarding blast injuries?",
+  "options": {
+   "A": "The organs most vulnerable to the blast wave are the eardrums, lungs and gut",
+   "B": "Victims have multiple wounds",
+   "C": "Deafness occurs due to rupture of the tympanic membrane",
+   "D": "All blast wounds should be left open and delayed primary suture performed",
+   "E": "None of the above"
+  },
+  "answer": "E",
+  "explanation": "All four statements are correct: air-containing organs are most vulnerable, fragments cause multiple wounds, tympanic rupture causes deafness and contaminated blast wounds are left open for delayed primary closure.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G1-N77"
+ },
+ {
+  "ncids": [
+   "K1398"
+  ],
+  "stem": "A haemothorax should always be drained because:",
+  "options": {
+   "A": "Empyema may supervene",
+   "B": "Fibrothorax may occur",
+   "C": "It relieves compression of the lung",
+   "D": "It helps reduce bleeding from torn vessels by re-expanding the lung",
+   "E": "All of the above"
+  },
+  "answer": "E",
+  "explanation": "Drainage re-expands the lung (which tamponades low-pressure bleeding), monitors blood loss, and prevents infected or clotted blood causing empyema and fibrothorax.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G1-N78"
+ },
+ {
+  "ncids": [
+   "K1399"
+  ],
+  "stem": "Transection of the aorta should be suspected in the presence of:",
+  "options": {
+   "A": "Deceleration injury",
+   "B": "Radiofemoral delay",
+   "C": "Hoarseness of voice",
+   "D": "Left-sided pleural effusion (haemothorax)",
+   "E": "All of the above"
+  },
+  "answer": "E",
+  "explanation": "Blunt aortic injury follows sudden deceleration at the isthmus; signs include radiofemoral delay or upper limb hypertension, hoarseness from a mediastinal haematoma affecting the recurrent laryngeal nerve, and left haemothorax or apical cap on X-ray.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G1-N79"
+ },
+ {
+  "ncids": [
+   "K1412"
+  ],
+  "stem": "Kehr's sign in splenic trauma refers to:",
+  "options": {
+   "A": "Pain and hyperaesthesia in the left shoulder",
+   "B": "Pain and hyperaesthesia in the right shoulder",
+   "C": "Bruising around the left 10th and 11th ribs",
+   "D": "Hiccups and haemoptysis on leg elevation"
+  },
+  "answer": "A",
+  "explanation": "Blood irritating the left hemidiaphragm refers pain to the left shoulder tip (C3 to C5), especially with the patient head-down; this is Kehr's sign.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G1-N80"
+ },
+ {
+  "ncids": [
+   "K1497"
+  ],
+  "stem": "A 40-year-old man has a stab wound of the chest. A chest tube drains 800 mL of blood, followed by 50 mL/h. Resuscitation is best facilitated by:",
+  "options": {
+   "A": "Central venous catheter via the subclavian vein",
+   "B": "Central venous catheter via the femoral vein",
+   "C": "Bilateral saphenous vein cut-down",
+   "D": "Large-bore peripheral intravenous cannulae",
+   "E": "Swan-Ganz catheter"
+  },
+  "answer": "D",
+  "explanation": "Two short, large-bore (14 to 16 G) peripheral cannulae give the fastest flow (Poiseuille's law) and are the ATLS standard. Long central lines flow more slowly and carry risks.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G1-N81"
+ },
+ {
+  "ncids": [
+   "K1647"
+  ],
+  "stem": "An elderly patient develops a tension pneumothorax after blunt chest wall injury. What is the best management option?",
+  "options": {
+   "A": "Chest tube insertion",
+   "B": "Tracheotomy",
+   "C": "Endotracheal intubation",
+   "D": "Urgent surgery",
+   "E": "Oxygen by mask only"
+  },
+  "answer": "A",
+  "explanation": "A tension pneumothorax is decompressed immediately (needle or finger thoracostomy) and definitively treated with a chest tube. Intubation and positive pressure ventilation without decompression worsen it.",
+  "key_note": "Not marked with * in the source bank; highlighted A agrees with the reviewer.",
+  "_new": true,
+  "qid": "G1-N82"
+ },
+ {
+  "ncids": [
+   "K1682"
+  ],
+  "stem": "Which abdominal organ is least frequently injured in blunt abdominal trauma?",
+  "options": {
+   "A": "Liver",
+   "B": "Spleen",
+   "C": "Abdominal aorta",
+   "D": "Kidneys",
+   "E": "Pancreas"
+  },
+  "answer": "C",
+  "explanation": "Blunt abdominal aortic injury is rare (well under 1% of blunt trauma). The spleen and liver are most often injured, and the kidney and pancreas less so but still far more often than the aorta.",
+  "key_note": "Bank marked C with * but highlighted E; correct is C because blunt aortic injury is much rarer than pancreatic injury.",
+  "_new": true,
+  "qid": "G1-N83"
+ }
+]

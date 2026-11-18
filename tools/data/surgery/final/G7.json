@@ -1,0 +1,1875 @@
+[
+ {
+  "cids": [
+   "C1192"
+  ],
+  "stem": "A surgeon makes an incision on a prepped and draped patient's abdomen for a hernia repair. How is this wound classified?",
+  "options": {
+   "A": "Clean",
+   "B": "Clean Contaminated",
+   "C": "Contaminated",
+   "D": "dirty",
+   "E": "Infected"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Elective hernia repair does not enter the respiratory, alimentary or genitourinary tract and involves no inflammation, so it is a clean wound.",
+  "key_note": "Not marked in the source paper; one compiled key gave D (Dirty), which is wrong; correct is A.",
+  "figure": "",
+  "qid": "G7-1"
+ },
+ {
+  "cids": [
+   "C1502"
+  ],
+  "stem": "A 43-year-old female presented to the surgical OPD with a history of right hypochondrium pain and dyspepsia, following examination and investigations a diagnosis of cholelithiasis was made. The patient is offered a laparoscopic cholecystectomy. The patient is concerned about the possible complications and risk of infection associated with the surgery. Which of the following best classifies an uncomplicated laparoscopic cholecystectomy?",
+  "options": {
+   "A": "Clean contaminated surgery",
+   "B": "Clean surgery",
+   "C": "Contaminated surgery",
+   "D": "Dirty surgery",
+   "E": "Infected surgery"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Uncomplicated cholecystectomy enters the biliary tract under controlled conditions without spillage, which defines clean-contaminated surgery.",
+  "key_note": "A compiled key gave B (Clean); correct is A, as the paper marked, since the biliary tract is opened.",
+  "figure": "",
+  "qid": "G7-2"
+ },
+ {
+  "cids": [
+   "C0683"
+  ],
+  "stem": "A 35-year-old woman undergoes an emergency appendicectomy for acute appendicitis. Which wound class best describes her procedure?",
+  "options": {
+   "A": "Clean",
+   "B": "Clean-contaminated",
+   "C": "Dirty",
+   "D": "Contaminated",
+   "E": "Clean incised wound"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Operations encountering acute non-purulent inflammation are classed as contaminated (CDC class III); an elective or non-inflamed appendicectomy would be clean-contaminated, and perforation with pus makes it dirty.",
+  "key_note": "Clean-contaminated (B) is often taught for appendicectomy; the paper key D is accepted because acute inflammation was present.",
+  "figure": "",
+  "qid": "G7-3"
+ },
+ {
+  "cids": [
+   "C0992"
+  ],
+  "stem": "A 30-year-old man sustains a gunshot wound to his right buttock. How would you classify his wound?",
+  "options": {
+   "A": "Clean",
+   "B": "Clean contaminated",
+   "C": "Contaminated",
+   "D": "Dirty"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Fresh traumatic wounds are classed as contaminated; they become dirty when old (generally over 4-6 hours) with retained devitalised tissue, or when established infection or visceral perforation is present.",
+  "key_note": "Not marked in the source paper; compiled key C agrees.",
+  "figure": "",
+  "qid": "G7-4"
+ },
+ {
+  "cids": [
+   "C0671",
+   "C0682"
+  ],
+  "stem": "A 27-year-old woman is admitted for elective para-umbilical hernioplasty. What is the chance of wound infection in this operation?",
+  "options": {
+   "A": "01-02 %",
+   "B": "04-05 %",
+   "C": "06-10 %",
+   "D": "10-20 %",
+   "E": "20-40 %"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Hernioplasty is a clean operation, with an expected wound infection rate of about 1-2%.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G7-5"
+ },
+ {
+  "cids": [
+   "C0982"
+  ],
+  "stem": "Which of the following comorbidities may result in an increased incidence of wound infection?",
+  "options": {
+   "A": "Asthma",
+   "B": "Pneumonia",
+   "C": "Ischaemic heart disease",
+   "D": "Hypertension",
+   "E": "Diabetes"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Diabetes, especially with poor glycaemic control, impairs neutrophil function and microcirculation and is a major patient risk factor for surgical site infection.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G7-6"
+ },
+ {
+  "cids": [
+   "C1080"
+  ],
+  "stem": "Which of the following is the standard method of preventing surgical wound infection?",
+  "options": {
+   "A": "Good skin preparatory technique",
+   "B": "Prophylactic broad spectrum antibiotics",
+   "C": "Long hospital stay",
+   "D": "Shaving of area 12 hours before surgery",
+   "E": "Daily dressing"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Good skin preparation with alcoholic chlorhexidine or povidone-iodine is a core standard measure. Routine broad-spectrum prophylaxis, long hospital stay, shaving the night before and daily dressings do not prevent, and some increase, infection.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G7-7"
+ },
+ {
+  "cids": [
+   "C1501"
+  ],
+  "stem": "Which of the following is a means of reducing post-operative surgical site infection?",
+  "options": {
+   "A": "Permissive hypotension",
+   "B": "Avoid chlorhexidine",
+   "C": "Maintain high blood glucose levels",
+   "D": "Use of steroids",
+   "E": "Maintain normo-thermia intraoperatively"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Maintaining intraoperative normothermia reduces SSI, as hypothermia causes vasoconstriction and impaired immunity. Hyperglycaemia, steroids, hypotension and avoiding chlorhexidine all increase infection risk.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G7-8"
+ },
+ {
+  "cids": [
+   "C0664"
+  ],
+  "stem": "Which of the following does NOT lower the surgical site infection rate?",
+  "options": {
+   "A": "Aseptic technique during surgery",
+   "B": "Short hospital stay",
+   "C": "Trimming hair using an electric trimmer just before surgery",
+   "D": "Patient wearing a clean gown",
+   "E": "Having a large team of people during surgery"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "More people and more movement in theatre increase airborne bacterial counts and infection risk. Asepsis, short preoperative stay, clipping hair just before surgery and clean gowns all reduce SSI.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G7-9"
+ },
+ {
+  "cids": [
+   "C0665"
+  ],
+  "stem": "Which of the following is NOT used as a medium for skin preparation during surgery?",
+  "options": {
+   "A": "Ethyl Alcohol",
+   "B": "Isopropyl Alcohol",
+   "C": "Chlorhexidine",
+   "D": "Povidone Iodine",
+   "E": "Methylated spirit"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Standard surgical skin preparation uses chlorhexidine or povidone-iodine, usually in an alcohol base.",
+  "key_note": "The question is flawed: ethyl alcohol is itself a valid skin antiseptic and the base of some chlorhexidine preparations; the paper key A is retained, though methylated spirit (E) is arguably the less accepted agent.",
+  "figure": "",
+  "qid": "G7-10"
+ },
+ {
+  "cids": [
+   "C1173",
+   "N023"
+  ],
+  "stem": "A 35-year-old man is undergoing inguinal hernioplasty. When should the prophylactic antibiotic be given?",
+  "options": {
+   "A": "At the time of incision",
+   "B": "At the time of induction of anesthesia",
+   "C": "One hours before operation",
+   "D": "Two hours before operation",
+   "E": "Three hours before operation"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Prophylaxis is given IV at induction of anaesthesia (within 60 minutes before incision) so tissue concentrations are adequate at the time of incision.",
+  "key_note": "Not marked in the source paper; compiled key B agrees.",
+  "figure": "",
+  "qid": "G7-11"
+ },
+ {
+  "cids": [
+   "C1071"
+  ],
+  "stem": "A 35-year-old woman had thyroid surgery and received three doses of antibiotics perioperatively. Which antibiotics should be prescribed at discharge?",
+  "options": {
+   "A": "No antibiotics needed in clean case",
+   "B": "Injectable third generation for 3 days",
+   "C": "Gram negative and anaerobe cover",
+   "D": "Gram positive drugs for 5 days",
+   "E": "Gram positive, negative and anaerobes"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Thyroidectomy is a clean operation; prophylaxis, if given, should not extend beyond 24 hours, and no antibiotics are needed at discharge.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G7-12"
+ },
+ {
+  "cids": [
+   "C0781"
+  ],
+  "stem": "A 60-year-old diabetic patient is undergoing left below knee amputation. Which antibiotic will you prescribe for prophylaxis?",
+  "options": {
+   "A": "Injection Benzylpenicillin 1.2 gm",
+   "B": "Injection Ceftriaxone 1 gm",
+   "C": "Injection Ceftriaxone 2 gm",
+   "D": "Injection Co-amoxiclav 1.2 gm",
+   "E": "Injection metronidazole 500mg"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Lower limb amputation for vascular disease carries a risk of mixed and clostridial infection; co-amoxiclav (or benzylpenicillin plus a gram-negative and anaerobic agent) is recommended prophylaxis.",
+  "key_note": "Not marked in the source paper; compiled key D agrees.",
+  "figure": "",
+  "qid": "G7-13"
+ },
+ {
+  "cids": [
+   "C0690"
+  ],
+  "stem": "Peripheral neuropathy with prolonged use is most commonly associated with:",
+  "options": {
+   "A": "Clindamycin",
+   "B": "Metronidazole",
+   "C": "Ciprofloxacin",
+   "D": "Gentamicin",
+   "E": "Vancomycin"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Prolonged metronidazole therapy causes a dose-related sensory peripheral neuropathy. Vancomycin causes nephrotoxicity, ototoxicity and red man syndrome; gentamicin is oto- and nephrotoxic.",
+  "key_note": "A compiled key gave E (Vancomycin); correct is B, as the paper marked.",
+  "figure": "",
+  "qid": "G7-14"
+ },
+ {
+  "cids": [
+   "C0438"
+  ],
+  "stem": "A 20 years old patient had appendectomy 3 days back. He is complaining of pain, swelling and discharge from the wound. His temperature is 38 C. What is the diagnosis in this patient?",
+  "options": {
+   "A": "Surgical site infection",
+   "B": "Hematoma",
+   "C": "Seroma",
+   "D": "Normal wound",
+   "E": "Lymph collection"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Pain, swelling and discharge from the wound with fever 3-5 days after appendicectomy is a surgical site infection. Haematoma and seroma are not associated with pyrexia and purulent discharge.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G7-15"
+ },
+ {
+  "cids": [
+   "C0489",
+   "C0439"
+  ],
+  "stem": "Four days after surgery for a perforated appendicitis, the primarily closed incision is noted to be erythematous, slightly swollen and tender. The appropriate treatment is:",
+  "options": {
+   "A": "Local heat therapy",
+   "B": "Topical antibiotics",
+   "C": "New systemic antibiotics",
+   "D": "Incision and drainage",
+   "E": "Ultrasound guided aspiration"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A primarily closed wound after perforated appendicitis that becomes red, swollen and tender has an infected collection: open the wound and drain it. Antibiotics and heat do not treat pus, and image-guided aspiration is for deep collections.",
+  "key_note": "A pen mark in one copy circled E; the printed key D is correct.",
+  "figure": "",
+  "qid": "G7-16"
+ },
+ {
+  "cids": [
+   "C0811"
+  ],
+  "stem": "A patient who had a laparotomy 3 days ago now has purulent discharge from the lower 11.5 cm of the wound. What is the Southampton wound grade?",
+  "options": {
+   "A": "Grade IIIb",
+   "B": "Grade IV a",
+   "C": "Grade IV b",
+   "D": "Grade IIIc",
+   "E": "Grade V"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "In the Southampton wound grading system, grade III is clear or haemoserous discharge and grade IV is pus: IVa at one point only (2 cm or less) and IVb along the wound (more than 2 cm). Pus along 11.5 cm is therefore grade IVb.",
+  "key_note": "The paper marked A (Grade IIIb); correct is C, because purulent discharge is grade IV and its length makes it IVb.",
+  "figure": "",
+  "qid": "G7-17"
+ },
+ {
+  "cids": [
+   "C0685"
+  ],
+  "stem": "A patient underwent appendicectomy for a gangrenous appendix. On the second postoperative day he developed a temperature of 104 F, pulse 110/min, white cell count 15,000/microlitre and respiratory rate 20/min. He is most likely suffering from:",
+  "options": {
+   "A": "Systemic inflammatory response syndrome",
+   "B": "Superficial surgical site infection",
+   "C": "Multiple organ Dysfunction Syndrome",
+   "D": "Multi System Organ Failure",
+   "E": "Acute Respiratory distress syndrome"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "He meets SIRS criteria (temperature over 38 C, heart rate over 90, WBC over 12,000) without evidence of organ failure. A superficial SSI is unlikely as early as day 2, and there is no organ dysfunction to suggest MODS or ARDS.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G7-18"
+ },
+ {
+  "cids": [
+   "C1504"
+  ],
+  "stem": "Which of the following is NOT a component of the systemic inflammatory response syndrome criteria?",
+  "options": {
+   "A": "Bacteremia",
+   "B": "Bradycardia",
+   "C": "Leucopenia",
+   "D": "Leukocytosis",
+   "E": "Tachycardia"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "SIRS criteria are temperature over 38 or under 36 C, heart rate over 90 (tachycardia), respiratory rate over 20 or PaCO2 under 4.3 kPa, and WBC over 12,000 or under 4,000 (leucocytosis or leucopenia). Bradycardia is not a criterion.",
+  "key_note": "The question is flawed: bacteraemia (A) is also not a SIRS criterion; B is the paper key and the intended answer.",
+  "figure": "",
+  "qid": "G7-19"
+ },
+ {
+  "cids": [
+   "C0894"
+  ],
+  "stem": "A 13 year old boy presents in OPD with painful swelling on his left forearm for last 3 days. He also complains of high grade fever for last one day. On examination the swelling is red 5*5 cm in size, hot, tender and fluctuant. The most likely causative micro-organism is.",
+  "options": {
+   "A": "Streptococcus pyogenes",
+   "B": "Staphylococcus epidermidis",
+   "C": "Haemophilus influenza",
+   "D": "Staphylococcus aureus"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A hot, tender, fluctuant swelling is an abscess, and Staphylococcus aureus is the commonest cause of skin and soft tissue abscesses. Strep pyogenes typically causes spreading cellulitis rather than localised pus.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G7-20"
+ },
+ {
+  "cids": [
+   "C0013",
+   "N026"
+  ],
+  "stem": "A 30-year-old man presents with a painful swelling over the left deltoid after an intramuscular injection. It is red, hot, tender and about 7 x 5 cm. A deltoid injection abscess is diagnosed. What is the most appropriate management?",
+  "options": {
+   "A": "Antibiotics alone",
+   "B": "Analgesics alone",
+   "C": "Incision and drainage without antibiotic cover",
+   "D": "Incision and drainage with antibiotic cover",
+   "E": "Debridement"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "An established abscess needs incision and drainage; antibiotic cover is added for a large abscess with surrounding cellulitis or systemic upset. Antibiotics alone will not resolve a pus collection.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G7-21"
+ },
+ {
+  "cids": [
+   "C0902"
+  ],
+  "stem": "A patient presents with an injection abscess over the right gluteal region. What is the best option for treatment?",
+  "options": {
+   "A": "Drain the abscess, start appropriate antibiotics, and close the wound.",
+   "B": "Drain the abscess, start appropriate antibiotics, and pack the wound daily.",
+   "C": "Keep him on broad-spectrum antibiotics only",
+   "D": "Massage the area with antiseptic creams"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "After drainage the abscess cavity is packed and left open to heal from the base by secondary intention; primary closure traps residual infection and leads to recurrence.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G7-22"
+ },
+ {
+  "cids": [
+   "C0889"
+  ],
+  "stem": "A 40 years old male presents with 4x3 cm ulcer over dorsum of right foot with bluish green discharge. A blue green discharge indicates infection with",
+  "options": {
+   "A": "Pseudomonas aeruginosa",
+   "B": "Streptococcus viridans",
+   "C": "Candida albicans",
+   "D": "Staphylococcus aureus"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Blue-green discharge is due to pyocyanin and pyoverdin pigments produced by Pseudomonas aeruginosa, often with a sweet, grape-like smell.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G7-23"
+ },
+ {
+  "cids": [
+   "C0835"
+  ],
+  "stem": "A Camembert cheese-like smell from a wound indicates infection with which of the following?",
+  "options": {
+   "A": "Gas gangrene",
+   "B": "Pseudomonas aeruginosa",
+   "C": "Staphylococcus",
+   "D": "Bacteroides fragilis",
+   "E": "Proteus species"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Pseudomonas aeruginosa produces a characteristic sweet, fruity (grape-like) odour from wounds and burns, along with blue-green discharge.",
+  "key_note": "The paper key B is accepted; the 'Camembert' descriptor is not standard textbook wording, so treat this as a recall item.",
+  "figure": "",
+  "qid": "G7-24"
+ },
+ {
+  "cids": [
+   "C0689"
+  ],
+  "stem": "Forty-eight hours after total mastectomy, a 30-year-old patient develops high fever, diarrhoea, vomiting, erythema of the skin of the entire body and hypotension. The incision appears unremarkable. The following day diffuse desquamation develops. The most likely aetiology is:",
+  "options": {
+   "A": "Clostridium perfringens",
+   "B": "Clostridium difficile",
+   "C": "β-Hemolytic Streptococcus",
+   "D": "Staphylococcus aureus",
+   "E": "Staphylococcus epidermidis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Fever, hypotension, diffuse erythroderma, gastrointestinal upset and later desquamation with an innocent-looking wound is toxic shock syndrome due to staphylococcal TSST-1 toxin from Staph aureus colonising the wound.",
+  "key_note": "A compiled key gave beta-haemolytic Streptococcus; correct is D, as the paper marked: streptococcal toxic shock usually has an obviously infected, necrotising wound.",
+  "figure": "",
+  "qid": "G7-25"
+ },
+ {
+  "cids": [
+   "C0646"
+  ],
+  "stem": "A 70-year-old diabetic woman undergoing chemotherapy for breast cancer had an emergency appendicectomy for perforated appendicitis 4 days ago. She has severe wound pain, with erythema, oedema, blistering and crepitus. What is the most likely diagnosis?",
+  "options": {
+   "A": "Necrotizing soft tissue infection",
+   "B": "Pressure ulceration of the wound",
+   "C": "Clostridium tetani infestation of the wound",
+   "D": "Normal healing",
+   "E": "Allergic reaction"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Pain out of proportion, blistering, oedema and crepitus in an immunocompromised diabetic indicate necrotising soft tissue infection, a surgical emergency needing radical debridement and broad-spectrum antibiotics.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G7-26"
+ },
+ {
+  "cids": [
+   "C0009"
+  ],
+  "stem": "A 70-year-old diabetic woman has a below-knee amputation for peripheral vascular disease. Postoperatively the wound becomes infected with excessive pain, crepitus and brownish exudate. What is the most likely organism?",
+  "options": {
+   "A": "Staphylococcus aureus",
+   "B": "Bacteroides",
+   "C": "Streptococcus pyogenes",
+   "D": "Clostridium perfringens",
+   "E": "Pseudomonas aeruginosa"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Severe pain, crepitus (gas in tissues) and thin brown 'dishwater' exudate in an ischaemic amputation stump is gas gangrene due to Clostridium perfringens.",
+  "key_note": "Paper key D; a compiled key's letter was B but its text also named Clostridium perfringens.",
+  "figure": "",
+  "qid": "G7-27"
+ },
+ {
+  "cids": [
+   "C0891"
+  ],
+  "stem": "Regarding gas gangrene:",
+  "options": {
+   "A": "It is due to clostridium botulinum infection",
+   "B": "Clostridial species are gram-negative spore",
+   "C": "The clinical features are due to release of protein endotoxin",
+   "D": "Surgical debridement and antibiotics are an essential part of treatment"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Gas gangrene is caused by Clostridium perfringens (gram-positive spore-forming anaerobe), whose effects are due to exotoxins such as alpha toxin (lecithinase). Treatment is urgent radical debridement plus high-dose penicillin and metronidazole.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G7-28"
+ },
+ {
+  "cids": [
+   "N009"
+  ],
+  "stem": "Which organism is responsible for tetanus?",
+  "options": {},
+  "answer": null,
+  "answer_text": "Clostridium tetani, a gram-positive anaerobic spore-forming rod",
+  "explanation": "Tetanus is caused by Clostridium tetani, a gram-positive, spore-forming, obligate anaerobic rod (drumstick appearance) whose tetanospasmin toxin blocks inhibitory neurotransmitter release.",
+  "key_note": "Options not available in the source; recall question.",
+  "figure": "",
+  "qid": "G7-29"
+ },
+ {
+  "cids": [
+   "C0903"
+  ],
+  "stem": "Passive immunity is available for which of the following diseases?",
+  "options": {
+   "A": "Polio",
+   "B": "Tetanus",
+   "C": "Mumps",
+   "D": "Appendicitis"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Human tetanus immunoglobulin provides passive immunity for tetanus-prone wounds in patients who are not fully immunised.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G7-30"
+ },
+ {
+  "cids": [
+   "N011"
+  ],
+  "stem": "What is the likely cause of a chest infection in an HIV patient that is not resolving with standard antibiotics?",
+  "options": {},
+  "answer": null,
+  "answer_text": "Pneumocystis jirovecii (carinii) pneumonia",
+  "explanation": "Pneumocystis jirovecii (formerly carinii) pneumonia is the classic opportunistic infection in HIV with CD4 below 200 and does not respond to standard antibiotics; it is treated with high-dose co-trimoxazole.",
+  "key_note": "Options not available in the source; recall question.",
+  "figure": "",
+  "qid": "G7-31"
+ },
+ {
+  "cids": [
+   "C1050"
+  ],
+  "stem": "Which of the following is the most common technique used for instrument sterilisation in operation theatres in Pakistan?",
+  "options": {
+   "A": "Hot air oven",
+   "B": "Ethylene Oxide",
+   "C": "Autoclaving",
+   "D": "Chlorinated Compounds",
+   "E": "Alcohols"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Autoclaving (moist heat under pressure) is the commonest, cheapest and most reliable method of sterilising heat-stable surgical instruments.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G7-32"
+ },
+ {
+  "cids": [
+   "C0663"
+  ],
+  "stem": "What is the optimum time and temperature for sterilisation using an autoclave?",
+  "options": {
+   "A": "5 minutes at 100C",
+   "B": "10 minutes at 190C",
+   "C": "15 minutes at 121C",
+   "D": "20 minutes at 95C",
+   "E": "8 minutes at 212C"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "The standard autoclave cycle is 121 C at 15 psi for 15 minutes; a flash cycle uses 134 C for 3 minutes.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G7-33"
+ },
+ {
+  "cids": [
+   "C0901"
+  ],
+  "stem": "Which of the following is NOT a physical means of sterilisation?",
+  "options": {
+   "A": "Steam",
+   "B": "Ethylene oxide gas",
+   "C": "Autoclave",
+   "D": "Radiation"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Ethylene oxide is a chemical (gaseous alkylating) sterilant used for heat-sensitive items. Steam, autoclaving and radiation are physical methods.",
+  "key_note": "",
+  "figure": "",
+  "qid": "G7-34"
+ },
+ {
+  "cids": [
+   "N010"
+  ],
+  "stem": "Which method is used for sterilisation of endoscopes?",
+  "options": {},
+  "answer": null,
+  "answer_text": "2% glutaraldehyde (chemical disinfection)",
+  "explanation": "Heat-sensitive flexible endoscopes cannot be autoclaved; they are high-level disinfected with 2% glutaraldehyde (or alternatives such as peracetic acid or ortho-phthalaldehyde).",
+  "key_note": "Options not available in the source; recall question.",
+  "figure": "",
+  "qid": "G7-35"
+ },
+ {
+  "ncids": [
+   "K0055",
+   "K0056"
+  ],
+  "stem": "A 30-year-old man comes to the hospital with a painful swelling of the left arm. He injured his hand 3 days ago on a rock. On examination he has an infected wound on the left palm with marked tenderness, swelling and crepitus in the forearm. His temperature is 102F (normal 98.6F). What should be the next step in management?",
+  "options": {
+   "A": "Give broad spectrum intravenous antibiotics",
+   "B": "Give tab co-amoxiclav 1 g twice a day",
+   "C": "Limb elevation and analgesics",
+   "D": "Take blood cultures and proceed according to the result",
+   "E": "Wound excision and broad spectrum intravenous antibiotics"
+  },
+  "answer": "E",
+  "explanation": "Crepitus with a spreading painful infection indicates gas-forming necrotizing infection (gas gangrene), which needs urgent radical excision of all dead tissue plus high-dose IV antibiotics. Antibiotics alone or waiting for cultures allows rapid spread and death.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G7-N1"
+ },
+ {
+  "ncids": [
+   "K0094",
+   "K0184"
+  ],
+  "stem": "A 45-year-old man sustains a bullet injury causing perforation of the descending colon. Postoperatively he develops necrotizing fasciitis of the anterior abdominal wall. What is the treatment of choice?",
+  "options": {
+   "A": "Incision and drainage",
+   "B": "Intravenous broad spectrum antibiotics",
+   "C": "Oral broad spectrum antibiotics",
+   "D": "Removal of stitches and daily dressings",
+   "E": "Wide excision and broad spectrum antibiotics"
+  },
+  "answer": "E",
+  "explanation": "Necrotizing fasciitis is a surgical emergency: wide, repeated debridement of all necrotic tissue back to bleeding healthy tissue plus broad spectrum IV antibiotics. Antibiotics alone fail because they cannot penetrate the thrombosed, necrotic fascia.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G7-N2"
+ },
+ {
+  "ncids": [
+   "K0096"
+  ],
+  "stem": "A 70-year-old man is taking broad spectrum antibiotics. On the 5th day he develops watery diarrhoea and abdominal cramps. What is the best next step in management?",
+  "options": {
+   "A": "Abdominal CT scan",
+   "B": "Stool routine examination",
+   "C": "Stop the antibiotics",
+   "D": "Urgent colonoscopy",
+   "E": "Intravenous fluids"
+  },
+  "answer": "C",
+  "explanation": "Antibiotic-associated diarrhoea suggests Clostridioides difficile colitis; the first step is to stop the offending antibiotic (send stool for C. difficile toxin and start oral vancomycin or metronidazole if confirmed). Colonoscopy and CT are reserved for severe or complicated disease.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G7-N3"
+ },
+ {
+  "ncids": [
+   "K0098"
+  ],
+  "stem": "Which one of the following is caused by Ascaris lumbricoides?",
+  "options": {
+   "A": "Hydatid cyst",
+   "B": "Obstructive jaundice",
+   "C": "Pruritus ani",
+   "D": "Schistosomiasis",
+   "E": "Splenomegaly"
+  },
+  "answer": "B",
+  "explanation": "Adult worms can migrate into the common bile duct causing biliary colic, obstructive jaundice, cholangitis and pancreatitis. Pruritus ani is typical of Enterobius (threadworm) and hydatid cyst is caused by Echinococcus.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G7-N4"
+ },
+ {
+  "ncids": [
+   "K1024",
+   "K0099"
+  ],
+  "stem": "Which of the following is useful in reducing surgical wound infection?",
+  "options": {
+   "A": "Compulsory chlorhexidine antiseptic baths before surgery",
+   "B": "Infrequent hand washing between operations",
+   "C": "Hypothermia in the perioperative period",
+   "D": "Shaving the operation site the night before surgery",
+   "E": "Short preoperative hospital stay"
+  },
+  "answer": "E",
+  "explanation": "A short preoperative stay reduces colonisation with resistant hospital organisms and lowers SSI rates. Perioperative hypothermia and shaving the night before increase infection, and routine preoperative chlorhexidine bathing has not been shown to reduce SSI.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G7-N5"
+ },
+ {
+  "ncids": [
+   "K0123"
+  ],
+  "stem": "The presence of sulphur granules in pus discharge indicates:",
+  "options": {
+   "A": "Actinomycosis",
+   "B": "Aspergillosis",
+   "C": "Brucellosis",
+   "D": "Mycoplasmosis"
+  },
+  "answer": "A",
+  "explanation": "Actinomyces israelii forms yellow 'sulphur granules' (colonies of branching filaments) in the pus discharged from multiple sinuses.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G7-N6"
+ },
+ {
+  "ncids": [
+   "K0138"
+  ],
+  "stem": "Compartment syndrome typically occurs in:",
+  "options": {
+   "A": "Closed upper limb injuries",
+   "B": "Open upper limb injuries",
+   "C": "Closed lower limb injuries",
+   "D": "Open lower limb injuries",
+   "E": "Head injuries"
+  },
+  "answer": "C",
+  "explanation": "Compartment syndrome is commonest after closed tibial fractures and crush injuries of the leg, where tight fascial compartments cannot decompress. Open wounds partly decompress the compartment, although compartment syndrome can still occur.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G7-N7"
+ },
+ {
+  "ncids": [
+   "K0139"
+  ],
+  "stem": "A patient has an infected insect bite on the leg with cellulitis, bullae, thin greyish fluid draining from the wound and pain out of proportion to the physical findings. What is the first step in evaluation and treatment?",
+  "options": {
+   "A": "Obtain C-reactive protein",
+   "B": "CT scan of the leg",
+   "C": "MRI of the leg",
+   "D": "Surgical exploration",
+   "E": "Observation only"
+  },
+  "answer": "D",
+  "explanation": "Pain out of proportion, bullae and 'dishwater' discharge indicate necrotizing fasciitis; urgent surgical exploration both confirms the diagnosis and allows debridement. Imaging must not delay surgery.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G7-N8"
+ },
+ {
+  "ncids": [
+   "K0146"
+  ],
+  "stem": "Which is NOT a component of the systemic inflammatory response syndrome (SIRS) criteria?",
+  "options": {
+   "A": "Temperature",
+   "B": "White blood cell count",
+   "C": "Blood pressure",
+   "D": "Heart rate",
+   "E": "Respiratory rate"
+  },
+  "answer": "C",
+  "explanation": "SIRS criteria are temperature above 38C or below 36C, heart rate above 90/min, respiratory rate above 20/min (or PaCO2 below 4.3 kPa) and WBC above 12,000 or below 4,000. Blood pressure is not a criterion; hypotension defines septic shock.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G7-N9"
+ },
+ {
+  "ncids": [
+   "K0147"
+  ],
+  "stem": "The best method of hair removal from an operative field is:",
+  "options": {
+   "A": "Shaving the night before surgery",
+   "B": "Depilating cream the night before surgery",
+   "C": "Shaving in the operating room",
+   "D": "Using hair clippers in the operating room",
+   "E": "Shaving a day before surgery"
+  },
+  "answer": "D",
+  "explanation": "If hair must be removed, electric clippers immediately before surgery give the lowest SSI rate. Razor shaving causes skin microabrasions that become colonised, especially when done the night before.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G7-N10"
+ },
+ {
+  "ncids": [
+   "K0148"
+  ],
+  "stem": "During a laparoscopic appendicectomy, a large bowel injury is caused during trocar placement with spillage of bowel contents into the abdomen. What class of surgical wound is this?",
+  "options": {
+   "A": "Class I (clean)",
+   "B": "Class II (clean-contaminated)",
+   "C": "Class III (contaminated)",
+   "D": "Class IV (dirty)"
+  },
+  "answer": "C",
+  "explanation": "Gross spillage from the gastrointestinal tract makes the wound contaminated (class III). Dirty (class IV) wounds have established infection or pus, or perforated viscus present before surgery.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G7-N11"
+ },
+ {
+  "ncids": [
+   "K0635"
+  ],
+  "stem": "The risk of postoperative wound infection can be minimised by the following measures EXCEPT:",
+  "options": {
+   "A": "Good patient preparation",
+   "B": "Good surgical technique",
+   "C": "Antibiotic prophylaxis",
+   "D": "Sterilisation of the surgeon's hands"
+  },
+  "answer": "D",
+  "explanation": "Skin cannot be sterilised; surgical scrubbing only disinfects the hands, which is why sterile gloves are worn. Patient preparation, careful technique and appropriate prophylaxis all reduce SSI.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G7-N12"
+ },
+ {
+  "ncids": [
+   "K1714",
+   "K0638"
+  ],
+  "stem": "Metronidazole is active against:",
+  "options": {
+   "A": "Anaerobes",
+   "B": "All Gram-positive bacteria",
+   "C": "All Gram-negative bacteria",
+   "D": "Fungal infections",
+   "E": "Some viral infections"
+  },
+  "answer": "A",
+  "explanation": "Metronidazole is active against anaerobic bacteria (Bacteroides, Clostridia, anaerobic cocci such as Peptostreptococcus) and protozoa. It has no useful activity against aerobic bacteria, fungi or viruses.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G7-N13"
+ },
+ {
+  "ncids": [
+   "K0639",
+   "K1351"
+  ],
+  "stem": "Antibiotic prophylaxis before elective surgery is given as:",
+  "options": {
+   "A": "Single low dose of a broad spectrum antibiotic",
+   "B": "Multiple low doses of a broad spectrum antibiotic",
+   "C": "Single high (full therapeutic) dose of a broad spectrum antibiotic",
+   "D": "Multiple high doses of a broad spectrum antibiotic",
+   "E": "Oral course"
+  },
+  "answer": "C",
+  "explanation": "Prophylaxis is a single full therapeutic IV dose at induction so that tissue levels are high at the time of incision; a repeat dose is given only for long operations or major blood loss.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G7-N14"
+ },
+ {
+  "ncids": [
+   "K0660"
+  ],
+  "stem": "The following are reservoirs of HIV infection EXCEPT:",
+  "options": {
+   "A": "Lymphocytes",
+   "B": "Monocytes",
+   "C": "Macrophages",
+   "D": "Red blood cells",
+   "E": "Neural cells"
+  },
+  "answer": "D",
+  "explanation": "HIV infects CD4-bearing cells: helper T lymphocytes, monocytes and macrophages, and microglial cells in the nervous system. Red cells have no nucleus or CD4 receptor and are not infected.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G7-N15"
+ },
+ {
+  "ncids": [
+   "K0670"
+  ],
+  "stem": "Regarding staphylococcal infections:",
+  "options": {
+   "A": "They do not cause cellulitis",
+   "B": "They do not produce septicaemia",
+   "C": "They do not give rise to fever",
+   "D": "They can be effectively treated with aminoglycosides alone",
+   "E": "They may be airborne infections"
+  },
+  "answer": "E",
+  "explanation": "Staphylococci are shed on skin squames and spread by the airborne route in theatres and wards, an important source of cross-infection. They can cause cellulitis, septicaemia and fever.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G7-N16"
+ },
+ {
+  "ncids": [
+   "K0671"
+  ],
+  "stem": "What is TRUE about tetanus?",
+  "options": {
+   "A": "It may have an incubation period of over 10 days",
+   "B": "It can be prevented by immediate administration of tetanus toxoid",
+   "C": "It is more common after scalp lacerations than wounds elsewhere on the body",
+   "D": "It is usually associated with stupor or coma"
+  },
+  "answer": "A",
+  "explanation": "The incubation period is usually 3 to 21 days (often around 10). Toxoid takes weeks to produce immunity, so an unimmunised patient needs immunoglobulin for immediate protection, and consciousness is characteristically preserved.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "G7-N17"
+ },
+ {
+  "ncids": [
+   "K0678"
+  ],
+  "stem": "What is WRONG about an acute abscess?",
+  "options": {
+   "A": "It is caused by pyogenic bacteria",
+   "B": "It may develop a few days after an infection",
+   "C": "It can be treated by antibiotics alone",
+   "D": "It is associated with necrosis of tissue"
+  },
+  "answer": "C",
+  "explanation": "An abscess is a collection of pus walled off by granulation tissue that antibiotics cannot penetrate well; the treatment is drainage ('ubi pus, ibi evacua'), with antibiotics only as an adjunct.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "G7-N18"
+ },
+ {
+  "ncids": [
+   "K0680"
+  ],
+  "stem": "Tetanus is one of the serious complications of a wound. What is INCORRECT about this condition?",
+  "options": {
+   "A": "It can develop within a few days after injury",
+   "B": "It can be prevented by active or passive immunisation",
+   "C": "The patient should be isolated because it spreads from person to person",
+   "D": "Metronidazole is an appropriate antibiotic"
+  },
+  "answer": "C",
+  "explanation": "Tetanus is not communicable; patients are nursed in a quiet, dark room only to reduce spasm-provoking stimuli. Incubation can be a few days and immunisation is preventive.",
+  "key_note": "Not marked in the source bank; answer by reviewer. Option D ('Penicillin is the drug of choice') was reworded because metronidazole is now preferred, which would have made two options incorrect.",
+  "_new": true,
+  "qid": "G7-N19"
+ },
+ {
+  "ncids": [
+   "K0683"
+  ],
+  "stem": "The following are true about AIDS EXCEPT:",
+  "options": {
+   "A": "It is associated with lymphocyte deficiency and malfunction",
+   "B": "The patient may have lymphadenopathy",
+   "C": "Perianal sepsis is uncommon in these patients",
+   "D": "The risk of developing various malignancies is increased many-fold"
+  },
+  "answer": "C",
+  "explanation": "Perianal sepsis, fistulae and ulceration are common in HIV disease, so HIV should be excluded in such patients. CD4 lymphopenia, generalised lymphadenopathy and malignancies (Kaposi sarcoma, lymphoma, anal cancer) are typical.",
+  "key_note": "Not marked in the source bank; answer by reviewer. Option C reworded because as printed ('high risk for perianal fistula') all four statements were true.",
+  "_new": true,
+  "qid": "G7-N20"
+ },
+ {
+  "ncids": [
+   "K0686"
+  ],
+  "stem": "Anaerobic wound infections are liable to occur in the following settings EXCEPT:",
+  "options": {
+   "A": "Widespread tissue damage",
+   "B": "Immunocompromised status",
+   "C": "Leaving the wound open after exploration",
+   "D": "Diabetic foot",
+   "E": "None of these"
+  },
+  "answer": "C",
+  "explanation": "Anaerobes thrive in dead, poorly perfused tissue with low oxygen tension; leaving a contaminated wound open after debridement exposes it to oxygen and is a protective measure.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G7-N21"
+ },
+ {
+  "ncids": [
+   "K0692"
+  ],
+  "stem": "The following are acute infections EXCEPT:",
+  "options": {
+   "A": "Cellulitis",
+   "B": "Viral hepatitis",
+   "C": "Boils",
+   "D": "Tuberculosis"
+  },
+  "answer": "D",
+  "explanation": "Tuberculosis is a chronic specific granulomatous infection. Cellulitis, boils and viral hepatitis are acute infections.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "G7-N22"
+ },
+ {
+  "ncids": [
+   "K0693"
+  ],
+  "stem": "Which of the following is a specific infection?",
+  "options": {
+   "A": "Carbuncle",
+   "B": "Leprosy",
+   "C": "Gas gangrene",
+   "D": "Acute appendicitis"
+  },
+  "answer": "B",
+  "explanation": "Specific infections are caused by a particular organism and produce a characteristic histological picture (tuberculosis, leprosy, syphilis, actinomycosis). Carbuncle and appendicitis are non-specific pyogenic infections.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "G7-N23"
+ },
+ {
+  "ncids": [
+   "K1715"
+  ],
+  "stem": "Which one of the following diseases is a chronic SPECIFIC infection?",
+  "options": {
+   "A": "Carbuncle",
+   "B": "Tuberculosis",
+   "C": "Gas gangrene",
+   "D": "Tetanus",
+   "E": "Cellulitis"
+  },
+  "answer": "B",
+  "explanation": "Tuberculosis is the classic chronic specific infection, producing caseating granulomas with Langhans giant cells. Gas gangrene and tetanus are acute clostridial infections.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G7-N24"
+ },
+ {
+  "ncids": [
+   "K0695"
+  ],
+  "stem": "Sterilisation is a process used to free instruments of:",
+  "options": {
+   "A": "Bacteria",
+   "B": "Spores",
+   "C": "Viruses",
+   "D": "All of the above"
+  },
+  "answer": "D",
+  "explanation": "Sterilisation destroys all microorganisms including bacterial spores and viruses; disinfection reduces numbers but does not reliably kill spores.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "G7-N25"
+ },
+ {
+  "ncids": [
+   "K0701"
+  ],
+  "stem": "How is skin preparation (scrubbing) of the patient done before an operation?",
+  "options": {
+   "A": "Only the incision site is scrubbed",
+   "B": "From the periphery to the incision site",
+   "C": "From the incision site to the periphery",
+   "D": "The whole body is scrubbed"
+  },
+  "answer": "C",
+  "explanation": "Antiseptic is applied starting at the incision site and moving outwards in widening circles so organisms from the periphery are not brought back onto the incision.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "G7-N26"
+ },
+ {
+  "ncids": [
+   "K0778"
+  ],
+  "stem": "A 55-year-old diabetic man presents with a painful swelling spreading in the left lower leg. The leg is red, hot, tender and non-fluctuant, spreading over the whole leg. Hb 10 g/dl, WBC 15,000/ul, random blood sugar 450 mg/dl. What is the best first-line treatment?",
+  "options": {
+   "A": "Daily aseptic dressing",
+   "B": "Excision of the infected area",
+   "C": "Incision and drainage",
+   "D": "Intramuscular antibiotics",
+   "E": "Intravenous antibiotics"
+  },
+  "answer": "E",
+  "explanation": "This is cellulitis in an uncontrolled diabetic with systemic upset; treat with IV antibiotics (plus glycaemic control and elevation). There is no fluctuance, so incision and drainage is not indicated.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G7-N27"
+ },
+ {
+  "ncids": [
+   "K0797"
+  ],
+  "stem": "A 60-year-old rescue worker injured his foot on a nail 10 days ago and did not seek treatment; the wound healed. Now he presents with fever, sweating and drooling. He cannot open his mouth properly, and each loud noise sends his muscles into spasm with difficulty breathing. What is the probable diagnosis?",
+  "options": {
+   "A": "Gas gangrene",
+   "B": "Necrotising fasciitis",
+   "C": "Streptococcal sepsis",
+   "D": "Guillain-Barre syndrome",
+   "E": "Tetanus"
+  },
+  "answer": "E",
+  "explanation": "Trismus, reflex spasms triggered by noise, and autonomic features after a puncture wound are classic tetanus. Guillain-Barre syndrome causes flaccid ascending weakness, not spasms.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G7-N28"
+ },
+ {
+  "ncids": [
+   "K0904"
+  ],
+  "stem": "A 35-year-old IV drug user develops multiple abscesses and is diagnosed with HIV infection. Which blood cell type is most affected in HIV-positive individuals?",
+  "options": {
+   "A": "CD4 lymphocytes",
+   "B": "CD8 lymphocytes",
+   "C": "Platelets",
+   "D": "Neutrophils",
+   "E": "Red blood cells"
+  },
+  "answer": "A",
+  "explanation": "HIV uses the CD4 receptor to enter helper T cells, whose progressive depletion causes immunodeficiency; the CD4 count stages disease and guides prophylaxis.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G7-N29"
+ },
+ {
+  "ncids": [
+   "K0937"
+  ],
+  "stem": "A young man presents with a swelling on the left arm after an intramuscular injection. It is red, hot and fluctuant. Which of the following statements is FALSE regarding this swelling?",
+  "options": {
+   "A": "Antibiotics alone are not the treatment of choice for an abscess",
+   "B": "The abscess wall is composed of granulation tissue",
+   "C": "The causative organism is most likely E. coli",
+   "D": "Incision and drainage is the definitive treatment of an abscess",
+   "E": "Surgical drainage may need additional antibiotic cover"
+  },
+  "answer": "C",
+  "explanation": "Injection abscesses are almost always due to Staphylococcus aureus from the skin, not E. coli. Abscesses are walled by granulation tissue and need drainage, with antibiotics as an adjunct when there is cellulitis or systemic upset.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G7-N30"
+ },
+ {
+  "ncids": [
+   "K0946"
+  ],
+  "stem": "A cold abscess is caused by:",
+  "options": {
+   "A": "Actinomycosis",
+   "B": "Common cold",
+   "C": "Staphylococcus aureus",
+   "D": "Streptococcus pyogenes",
+   "E": "Tuberculosis"
+  },
+  "answer": "E",
+  "explanation": "A cold abscess is a tuberculous collection of caseous material without the heat and redness of acute inflammation, classically from cervical lymph nodes or the spine.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G7-N31"
+ },
+ {
+  "ncids": [
+   "K1014",
+   "K1069"
+  ],
+  "stem": "A 55-year-old diabetic man presents with fever and a painful swelling of the lower leg. There is erythema and tenderness around the ankle spreading proximally in the superficial tissues, and the inguinal lymph nodes are enlarged and tender. What is the diagnosis?",
+  "options": {
+   "A": "Abscess",
+   "B": "Carbuncle",
+   "C": "Cellulitis",
+   "D": "Gangrene",
+   "E": "Impetigo"
+  },
+  "answer": "C",
+  "explanation": "Cellulitis is a spreading non-suppurative infection of skin and subcutaneous tissue, usually streptococcal, with lymphangitis and lymphadenitis. An abscess is localised and fluctuant.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G7-N32"
+ },
+ {
+  "ncids": [
+   "K1023"
+  ],
+  "stem": "Which of the following is true regarding surgical wound infection?",
+  "options": {
+   "A": "Local antibiotic preparations are more effective than systemic antibiotics",
+   "B": "Occlusive film dressings (Opsite) should be used on infected wounds",
+   "C": "Subcuticular skin closure decreases the risk of wound infection",
+   "D": "All wounds are best closed by delayed primary or secondary closure",
+   "E": "Wounds with jagged edges are less likely to become infected than incised wounds"
+  },
+  "answer": "C",
+  "explanation": "Subcuticular (buried) closure avoids suture tracks through the skin and is associated with fewer wound infections. Occlusive films trap exudate in infected wounds, and crushed jagged wounds are more, not less, prone to infection.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G7-N33"
+ },
+ {
+  "ncids": [
+   "K1025",
+   "K0002"
+  ],
+  "stem": "Which statement is true about the risk of infection in different types of wounds?",
+  "options": {
+   "A": "Antibiotic prophylaxis is mandatory in dirty wounds",
+   "B": "Prophylactic antibiotics are ineffective in clean-contaminated wounds",
+   "C": "The infection rate in clean wounds is 1 to 2%",
+   "D": "Dirty wounds have an infection rate below 10%",
+   "E": "A wound after biliary surgery is classified as contaminated"
+  },
+  "answer": "C",
+  "explanation": "Infection rates are about 1 to 2% for clean, under 10% for clean-contaminated, 15 to 20% for contaminated and around 40% for dirty wounds. Biliary surgery is clean-contaminated, and dirty wounds need therapeutic, not prophylactic, antibiotics.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G7-N34"
+ },
+ {
+  "ncids": [
+   "K1026"
+  ],
+  "stem": "Which histological finding is characteristic of tuberculosis?",
+  "options": {
+   "A": "Askanazy cells",
+   "B": "C-cells",
+   "C": "Langhans giant cells",
+   "D": "Orphan Annie eye cells",
+   "E": "Reed-Sternberg giant cells"
+  },
+  "answer": "C",
+  "explanation": "Tuberculous granulomas show caseation surrounded by epithelioid cells and Langhans giant cells (horseshoe nuclei). Orphan Annie eye nuclei are papillary thyroid carcinoma and Reed-Sternberg cells are Hodgkin lymphoma.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G7-N35"
+ },
+ {
+  "ncids": [
+   "K1059"
+  ],
+  "stem": "A 27-year-old woman is admitted with an appendicular abscess. At laparotomy a perforated gangrenous appendix is found. What is the chance of wound infection?",
+  "options": {
+   "A": "1-2%",
+   "B": "2-5%",
+   "C": "5-10%",
+   "D": "10-20%",
+   "E": "20-40%"
+  },
+  "answer": "E",
+  "explanation": "Perforated gangrenous appendix with pus is a dirty (class IV) wound, with an infection rate up to about 40%, which is why delayed primary closure is often used.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G7-N36"
+ },
+ {
+  "ncids": [
+   "K1062"
+  ],
+  "stem": "A 35-year-old man with a urinary tract infection is advised ceftriaxone. Third generation cephalosporins are predominantly effective against:",
+  "options": {
+   "A": "Anaerobes",
+   "B": "Both Gram-positive and Gram-negative bacteria equally",
+   "C": "Clostridium tetani",
+   "D": "Gram-positive bacteria",
+   "E": "Gram-negative bacteria"
+  },
+  "answer": "E",
+  "explanation": "Third generation cephalosporins have enhanced Gram-negative cover (including Enterobacteriaceae) with weaker Gram-positive activity than first generation agents, and no anaerobic cover.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G7-N37"
+ },
+ {
+  "ncids": [
+   "K1065"
+  ],
+  "stem": "A 50-year-old gardener presents with convulsions for one day, difficulty in swallowing and spasms of different muscles. Which statement is true regarding this condition?",
+  "options": {
+   "A": "Endotoxin plays the major role in producing symptoms",
+   "B": "Exotoxin acts on the motor neurons of the anterior horn to produce symptoms",
+   "C": "The organism grows best in aerobic media",
+   "D": "The condition is due to a Gram-negative spore-forming organism",
+   "E": "A third generation cephalosporin is the treatment of choice"
+  },
+  "answer": "B",
+  "explanation": "Tetanospasmin, an exotoxin of Clostridium tetani, travels to the anterior horn and blocks inhibitory interneurons, releasing motor neurons and causing rigidity and spasms. The organism is a Gram-positive obligate anaerobe and metronidazole is the antibiotic of choice.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G7-N38"
+ },
+ {
+  "ncids": [
+   "K1067"
+  ],
+  "stem": "Which statement about cellulitis is FALSE?",
+  "options": {
+   "A": "Beta-haemolytic Streptococcus is the usual cause",
+   "B": "It is a spreading infection of the skin and subcutaneous tissue",
+   "C": "Diabetics are rarely affected",
+   "D": "Blood cultures are usually negative",
+   "E": "Systemic signs may be present"
+  },
+  "answer": "C",
+  "explanation": "Diabetics are particularly prone to cellulitis, especially of the lower limb. Cellulitis is usually streptococcal, spreads through subcutaneous tissue, may cause systemic upset, and blood cultures are positive in only a small minority.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G7-N39"
+ },
+ {
+  "ncids": [
+   "K1190"
+  ],
+  "stem": "Bacteroides are NOT part of the normal flora of the:",
+  "options": {
+   "A": "Oropharynx",
+   "B": "Urinary tract",
+   "C": "Colon",
+   "D": "Vagina",
+   "E": "Biliary passages"
+  },
+  "answer": "E",
+  "explanation": "Bacteroides are normal anaerobic commensals of the mouth, colon, vagina and distal urethra. The biliary tree is normally sterile.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G7-N40"
+ },
+ {
+  "ncids": [
+   "K1263"
+  ],
+  "stem": "A 40-year-old diabetic sustains an injury near the anus. There is marked local oedema, tenderness and crepitus, and a plain X-ray shows gas in the tissues. Which statement is correct?",
+  "options": {
+   "A": "It is likely caused by a Gram-negative bacterium releasing a potent haemolysin",
+   "B": "Most patients have minimal systemic features despite marked local signs",
+   "C": "Extensive surgical debridement is required, while hyperbaric oxygen is of limited use",
+   "D": "Fluoroquinolones and aminoglycosides are the effective antibacterials",
+   "E": "Antibiotics alone are sufficient"
+  },
+  "answer": "C",
+  "explanation": "Gas-forming perineal infection (Fournier type or clostridial) needs urgent extensive debridement; hyperbaric oxygen is at best an adjunct with weak evidence. Patients are usually profoundly toxic, and clostridia are Gram-positive and do not respond to aminoglycosides.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G7-N41"
+ },
+ {
+  "ncids": [
+   "K1266"
+  ],
+  "stem": "A hospital technician decontaminates equipment as follows: (A) trolleys in an ethylene oxide chamber, (B) proctoscopes by thorough soap and water washing, (C) flexible endoscopes by immersion in fresh 2% glutaraldehyde, (D) general surgical scissors by autoclaving. Which statement correctly describes his techniques?",
+  "options": {
+   "A": "'A' is appropriate but 'B' is insufficient",
+   "B": "'B' and 'C' are both appropriate for their intended use",
+   "C": "'C' is standard practice",
+   "D": "Scissors should be sterilised by flaming rather than autoclaving"
+  },
+  "answer": "C",
+  "explanation": "Heat-sensitive flexible endoscopes are high-level disinfected by immersion in 2% glutaraldehyde (or peracetic acid). Trolleys only need cleaning (ethylene oxide is wasteful), proctoscopes need sterilisation or high-level disinfection, and scissors are autoclaved.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G7-N42"
+ },
+ {
+  "ncids": [
+   "K1267"
+  ],
+  "stem": "Which organism requires the highest temperature for inactivation?",
+  "options": {
+   "A": "Vegetative forms of E. histolytica",
+   "B": "Mycobacterium tuberculosis",
+   "C": "HIV",
+   "D": "Clostridium tetani spores"
+  },
+  "answer": "D",
+  "explanation": "Bacterial spores are the most heat-resistant forms of life, which is why sterilisation is validated against spores and needs moist heat at 121C or higher.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G7-N43"
+ },
+ {
+  "ncids": [
+   "K1283"
+  ],
+  "stem": "In patients infected with HIV-1, all of the following are common opportunistic infections EXCEPT:",
+  "options": {
+   "A": "Pneumocystis jirovecii pneumonia",
+   "B": "Tuberculosis",
+   "C": "Cytomegalovirus infection",
+   "D": "Candida infection",
+   "E": "Hepatitis"
+  },
+  "answer": "E",
+  "explanation": "PCP, tuberculosis, CMV and candidiasis are classic opportunistic infections of AIDS. Hepatitis B and C share transmission routes with HIV (co-infection) but are not opportunistic infections.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G7-N44"
+ },
+ {
+  "ncids": [
+   "K1292"
+  ],
+  "stem": "Thirty minutes after a traumatic urethral catheterisation, a 58-year-old man develops rigors, fever and shivering. What is the most likely cause?",
+  "options": {
+   "A": "Bacteraemia",
+   "B": "Pyaemia",
+   "C": "Myocardial infarction",
+   "D": "Septicaemia",
+   "E": "Allergic reaction"
+  },
+  "answer": "A",
+  "explanation": "Instrumentation of an infected or traumatised urethra causes transient bacteraemia with rigors shortly after the procedure. Septicaemia implies multiplying organisms with systemic toxicity, and pyaemia implies septic emboli and metastatic abscesses.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "G7-N45"
+ },
+ {
+  "ncids": [
+   "K1305"
+  ],
+  "stem": "Which statement about cysticercosis is correct?",
+  "options": {
+   "A": "It does not occur in vegetarians",
+   "B": "The commonest site in man is the brain",
+   "C": "Serology is specific but not very sensitive",
+   "D": "Muscle cysticercosis usually requires excision"
+  },
+  "answer": "C",
+  "explanation": "Antibody tests (EITB) are highly specific but sensitivity is low, especially with single lesions. Infection follows ingestion of Taenia solium eggs from contaminated food or water, so vegetarians are affected, and muscle cysts usually calcify without needing excision.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G7-N46"
+ },
+ {
+  "ncids": [
+   "K1306"
+  ],
+  "stem": "Ascariasis may result in all of the following EXCEPT:",
+  "options": {
+   "A": "Biliary colic and jaundice",
+   "B": "Intestinal obstruction",
+   "C": "Pancreatitis",
+   "D": "Retroperitoneal mass"
+  },
+  "answer": "D",
+  "explanation": "Ascaris causes bolus intestinal obstruction, and worm migration into the bile or pancreatic duct causes biliary colic, jaundice, cholangitis and pancreatitis. It does not produce a retroperitoneal mass.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G7-N47"
+ },
+ {
+  "ncids": [
+   "K1346"
+  ],
+  "stem": "Spreading infection is typical of all the following organisms EXCEPT:",
+  "options": {
+   "A": "Beta-haemolytic streptococci",
+   "B": "Staphylococcus aureus",
+   "C": "Clostridium perfringens",
+   "D": "Mixed synergistic organisms (necrotising fasciitis)"
+  },
+  "answer": "B",
+  "explanation": "Staphylococcus aureus produces coagulase and tends to localise as an abscess. Streptococci (hyaluronidase, streptokinase), clostridia and synergistic mixed organisms cause spreading infection.",
+  "key_note": "Bank marked Pseudomonas (option D); Pseudomonas is also not a typical spreading organism, so that option was replaced. The classic localising organism, and the answer, is Staphylococcus aureus.",
+  "_new": true,
+  "qid": "G7-N48"
+ },
+ {
+  "ncids": [
+   "K1348"
+  ],
+  "stem": "Which of the following theatre measures does NOT help to reduce wound infection?",
+  "options": {
+   "A": "Aseptic technique",
+   "B": "Drains and wound guards",
+   "C": "Instrument sterilisation",
+   "D": "Clean dissection"
+  },
+  "answer": "B",
+  "explanation": "Drains act as a foreign body and a route for organisms to enter the wound, and wound guards have not been shown to reduce SSI. Asepsis, sterile instruments and gentle clean dissection all reduce infection.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G7-N49"
+ },
+ {
+  "ncids": [
+   "K1349"
+  ],
+  "stem": "In a patient with lepromatous leprosy, the principal source of infection is:",
+  "options": {
+   "A": "Skin nodules",
+   "B": "Nasal secretions",
+   "C": "Sexual contact",
+   "D": "Fomites"
+  },
+  "answer": "B",
+  "explanation": "Lepromatous patients shed huge numbers of bacilli in nasal discharge, and droplet spread from the nose is the main route of transmission.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G7-N50"
+ },
+ {
+  "ncids": [
+   "K1350"
+  ],
+  "stem": "In which of the following presentations should AIDS be excluded?",
+  "options": {
+   "A": "Anal warts",
+   "B": "Perianal sepsis",
+   "C": "Anorectal ulceration",
+   "D": "Anal neoplasia",
+   "E": "Any of the above"
+  },
+  "answer": "E",
+  "explanation": "Anal warts, perianal sepsis, atypical anorectal ulceration and anal intraepithelial neoplasia or carcinoma are all more common in HIV, so HIV should be considered in each.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G7-N51"
+ },
+ {
+  "ncids": [
+   "K1450"
+  ],
+  "stem": "The Hunterian chancre is due to:",
+  "options": {
+   "A": "Actinomycosis",
+   "B": "Anthrax",
+   "C": "Leprosy",
+   "D": "Syphilis",
+   "E": "Tuberculosis"
+  },
+  "answer": "D",
+  "explanation": "The Hunterian chancre is the painless, indurated primary ulcer of syphilis (Treponema pallidum) at the site of inoculation, with rubbery regional nodes.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G7-N52"
+ },
+ {
+  "ncids": [
+   "K1458"
+  ],
+  "stem": "Which gas is used for sterilisation?",
+  "options": {
+   "A": "Ethylene oxide",
+   "B": "Ethylene dioxide",
+   "C": "Ethylene trioxide",
+   "D": "Ethylene tetraoxide",
+   "E": "Ethylene pentaoxide"
+  },
+  "answer": "A",
+  "explanation": "Ethylene oxide gas is used to sterilise heat-sensitive items such as plastics, catheters and prepacked disposables; items need aeration afterwards because the gas is toxic.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G7-N53"
+ },
+ {
+  "ncids": [
+   "K1464"
+  ],
+  "stem": "A woman presents with a laceration on her arm after falling from her bicycle. She does not know when she last had a tetanus booster. Which of the following is true regarding tetanus?",
+  "options": {
+   "A": "Mortality for clinically evident tetanus is almost 50%",
+   "B": "All patients with tetanus have a history of preceding injury",
+   "C": "Wound cultures are helpful for diagnostic screening",
+   "D": "Cardiac dysrhythmia is the most common cause of death",
+   "E": "Tetanus boosters should be updated every year for clean wounds"
+  },
+  "answer": "A",
+  "explanation": "Established tetanus carries high mortality (up to about 50% worldwide, lower with modern intensive care). Many patients recall no injury, cultures are unreliable, and boosters for clean wounds are needed only if more than 10 years have passed.",
+  "key_note": "Bank highlighted B; correct is A because a significant proportion of tetanus patients have no identifiable preceding wound.",
+  "_new": true,
+  "qid": "G7-N54"
+ },
+ {
+  "ncids": [
+   "K1504"
+  ],
+  "stem": "A 70-year-old hypertensive asthmatic man receiving chemotherapy for colonic carcinoma is diagnosed with chronic cholecystitis. Pre-operative Hb is 12 g/dl and urinalysis shows 20-25 pus cells with Gram-negative bacteria. He receives IV penicillin before going to theatre, and his abdomen is shaved in theatre. Open cholecystectomy is performed and, despite no indication, the common bile duct is explored. The wound is closed and a tube drain placed through a separate stab wound. On day 3 he develops a wound infection. Which change could have made the wound a less favourable environment for infection?",
+  "options": {
+   "A": "Decreasing operating time and contamination by omitting the unnecessary bile duct exploration",
+   "B": "Placing the tube drain through the lateral corner of the wound",
+   "C": "Using oral rather than intravenous penicillin perioperatively",
+   "D": "Leaving a seroma in the wound to prevent desiccation",
+   "E": "Reinforcing the wound closure with polypropylene mesh"
+  },
+  "answer": "A",
+  "explanation": "Longer operations and opening the bile duct increase bacterial contamination and SSI risk. Drains through the wound, seromas and mesh in a contaminated field all increase infection.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G7-N55"
+ },
+ {
+  "ncids": [
+   "K1512"
+  ],
+  "stem": "A 70-year-old hypertensive asthmatic man receiving chemotherapy for colonic carcinoma is diagnosed with chronic cholecystitis. Urinalysis shows 20-25 pus cells with Gram-negative bacteria. He undergoes open cholecystectomy with an unnecessary bile duct exploration and develops a wound infection on day 3. Which patient characteristic increased his risk of wound infection?",
+  "options": {
+   "A": "History of colon surgery",
+   "B": "Hypertension",
+   "C": "Male sex",
+   "D": "Receipt of chemotherapy",
+   "E": "Asthma"
+  },
+  "answer": "D",
+  "explanation": "Chemotherapy causes immunosuppression and impaired healing, a recognised patient risk factor for SSI along with diabetes, malnutrition, obesity, smoking and remote infection.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G7-N56"
+ },
+ {
+  "ncids": [
+   "K1513"
+  ],
+  "stem": "A 70-year-old hypertensive asthmatic man receiving chemotherapy for colonic carcinoma is diagnosed with chronic cholecystitis. Urinalysis shows 20-25 pus cells with Gram-negative bacteria. He receives IV penicillin, is shaved in theatre, and undergoes open cholecystectomy with an unnecessary bile duct exploration; he develops a wound infection on day 3. Which change in his care could have decreased the chance of wound infection?",
+  "options": {
+   "A": "Increasing the preoperative stay to treat the asthma with steroids",
+   "B": "Treating the urinary tract infection before surgery",
+   "C": "Shaving the abdomen the night before surgery",
+   "D": "Continuing prophylactic antibiotics for three postoperative days",
+   "E": "Using a suction drain brought out through the incision"
+  },
+  "answer": "B",
+  "explanation": "Remote infection (here a UTI) should be treated before elective surgery as it increases SSI risk. Longer preoperative stay, steroids, night-before shaving and drains through the wound all increase infection, and prolonged prophylaxis gives no benefit.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G7-N57"
+ },
+ {
+  "ncids": [
+   "K1508"
+  ],
+  "stem": "2% glutaraldehyde (Cidex) is used to decontaminate flexible endoscopes. It is effective against:",
+  "options": {
+   "A": "Vegetative bacteria only",
+   "B": "TB, vegetative bacteria, spores and viruses",
+   "C": "Vegetative bacteria and viruses only",
+   "D": "Spores only",
+   "E": "TB and spores only"
+  },
+  "answer": "B",
+  "explanation": "Glutaraldehyde 2% is a high-level disinfectant that kills vegetative bacteria, mycobacteria, fungi and viruses within minutes, and spores with prolonged (several hours) exposure.",
+  "key_note": "Bank marked E with * but highlighted B; correct is B because glutaraldehyde is active against vegetative bacteria and viruses as well as TB and spores.",
+  "_new": true,
+  "qid": "G7-N58"
+ },
+ {
+  "ncids": [
+   "K1509"
+  ],
+  "stem": "A 12-year-old boy has pain and inflammation at the ball of his left foot with red streaks extending up the inner leg. He removed a wood splinter from the sole the previous day. Which antibiotic should be prescribed while awaiting culture and sensitivity?",
+  "options": {
+   "A": "Penicillin",
+   "B": "Erythromycin",
+   "C": "Tetracycline",
+   "D": "Cloxacillin",
+   "E": "Ofloxacin"
+  },
+  "answer": "A",
+  "explanation": "Rapidly spreading lymphangitis is typically due to Streptococcus pyogenes, which remains sensitive to penicillin. Cloxacillin is chosen when Staphylococcus aureus (localised abscess) is suspected.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G7-N59"
+ },
+ {
+  "ncids": [
+   "K1533"
+  ],
+  "stem": "About 90% of anthrax patients have lesions in the:",
+  "options": {
+   "A": "Skin",
+   "B": "Lungs",
+   "C": "Stomach",
+   "D": "Mediastinum",
+   "E": "Umbilicus"
+  },
+  "answer": "A",
+  "explanation": "Cutaneous anthrax (malignant pustule with a black eschar) accounts for about 95% of cases, usually in those handling animal hides and wool.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G7-N60"
+ },
+ {
+  "ncids": [
+   "K1598"
+  ],
+  "stem": "A patient presents with fever and multiple abscesses in the neck discharging through sinuses. What is the likely organism?",
+  "options": {
+   "A": "Pseudomonas",
+   "B": "Staphylococcus aureus",
+   "C": "Treponema pallidum",
+   "D": "Actinomyces israelii"
+  },
+  "answer": "D",
+  "explanation": "Cervicofacial actinomycosis produces woody induration with multiple discharging sinuses containing sulphur granules, often after dental infection.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G7-N61"
+ },
+ {
+  "ncids": [
+   "K1660"
+  ],
+  "stem": "Synergistic spreading gangrene is caused by:",
+  "options": {
+   "A": "Staphylococcal infection",
+   "B": "Streptococcal infection",
+   "C": "Clostridial infection",
+   "D": "Polymicrobial infection",
+   "E": "Aerobes only"
+  },
+  "answer": "D",
+  "explanation": "Synergistic spreading gangrene (Meleney's, Fournier's) is caused by a mixture of aerobes and anaerobes acting together, for example microaerophilic streptococci, staphylococci, Gram-negative bacilli and Bacteroides.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G7-N62"
+ },
+ {
+  "ncids": [
+   "K1709"
+  ],
+  "stem": "Management of tetanus includes the following measures EXCEPT:",
+  "options": {
+   "A": "Muscle relaxant drugs",
+   "B": "Tracheostomy in selected cases",
+   "C": "Drugs to stimulate the heart",
+   "D": "Isolation in a quiet, dark room",
+   "E": "Anti-tetanus immunoglobulin"
+  },
+  "answer": "C",
+  "explanation": "Treatment is wound excision, human tetanus immunoglobulin, metronidazole, sedation and muscle relaxants, airway protection (tracheostomy, ventilation) and a quiet environment. Autonomic overactivity is the problem, so cardiac stimulants are not used.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G7-N63"
+ },
+ {
+  "ncids": [
+   "K1717"
+  ],
+  "stem": "Which of the following organs is the primary site for tuberculosis?",
+  "options": {
+   "A": "Lungs",
+   "B": "Bones",
+   "C": "Kidneys",
+   "D": "Liver",
+   "E": "Brain"
+  },
+  "answer": "A",
+  "explanation": "Primary tuberculosis usually follows inhalation and starts in the lung (Ghon focus with hilar nodes); bone, kidney and other sites are secondary haematogenous spread.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G7-N64"
+ },
+ {
+  "ncids": [
+   "K1721"
+  ],
+  "stem": "What is INCORRECT about tetanus?",
+  "options": {
+   "A": "It can develop within a few days after injury",
+   "B": "It can be prevented by active or passive immunisation",
+   "C": "Effective, intensive treatment can save the patient",
+   "D": "Penicillin is the drug of choice"
+  },
+  "answer": "D",
+  "explanation": "Metronidazole is now the antibiotic of choice; penicillin is a GABA antagonist that may worsen spasms. The other statements are true.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G7-N65"
+ },
+ {
+  "ncids": [
+   "K1729"
+  ],
+  "stem": "The antibiotic of choice for prophylaxis in clean wounds is:",
+  "options": {
+   "A": "Aminoglycoside",
+   "B": "First generation cephalosporin",
+   "C": "Penicillin group",
+   "D": "Sulpha group",
+   "E": "Imipenem"
+  },
+  "answer": "B",
+  "explanation": "A first generation cephalosporin such as cefazolin covers skin staphylococci and streptococci, the usual pathogens in clean surgery, and is the standard prophylactic agent.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G7-N66"
+ },
+ {
+  "ncids": [
+   "K1017"
+  ],
+  "stem": "Which of the following statements is true regarding necrotising soft tissue infection?",
+  "options": {
+   "A": "Onset is gradual and it runs a chronic course",
+   "B": "Clostridial infection causes toxic shock syndrome",
+   "C": "It is usually a monomicrobial infection",
+   "D": "Treatment is essentially medical",
+   "E": "It commonly involves the superficial tissues: skin, subcutaneous tissue and fascia"
+  },
+  "answer": "E",
+  "explanation": "Necrotising fasciitis spreads along the superficial fascia and subcutaneous tissue, is usually polymicrobial (type 1), has a rapid onset, and needs urgent radical debridement plus antibiotics. Toxic shock syndrome is caused by streptococcal or staphylococcal toxins.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G7-N67"
+ },
+ {
+  "ncids": [
+   "K1022"
+  ],
+  "stem": "Which of the following statements is true regarding Clostridium tetani?",
+  "options": {
+   "A": "Clostridium tetani is an aerobic, terminal spore-bearing Gram-positive organism",
+   "B": "It releases the exotoxin tetanospasmin, which affects motor neurons",
+   "C": "Toxoid is a vaccine derived from horse serum",
+   "D": "Toxoid vaccine is given after a dermal sensitivity check",
+   "E": "Tracheostomy is contraindicated in respiratory cyanotic attacks"
+  },
+  "answer": "B",
+  "explanation": "Tetanospasmin travels to the CNS and blocks inhibitory transmitter release at motor neuron synapses, causing spasms. C. tetani is anaerobic, toxoid is a formalin-inactivated toxin (not horse serum), and tracheostomy is indicated for airway compromise.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G7-N68"
+ },
+ {
+  "ncids": [
+   "K0933"
+  ],
+  "stem": "A teenager falls from a bike on the road and gets a degloving injury of the upper limb with mud and sand in it. How do you classify this wound?",
+  "options": {
+   "A": "Clean",
+   "B": "Clean contaminated",
+   "C": "Contaminated",
+   "D": "Dirty",
+   "E": "Infected"
+  },
+  "answer": "C",
+  "explanation": "A fresh traumatic wound with foreign material such as soil is classed as contaminated. It becomes dirty (or infected) when it is old, contains devitalised tissue or already shows established infection.",
+  "key_note": "",
+  "_new": true,
+  "qid": "G7-N69"
+ }
+]

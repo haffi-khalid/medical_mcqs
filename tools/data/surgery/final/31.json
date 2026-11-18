@@ -1,0 +1,150 @@
+[
+ {
+  "cids": [
+   "C0310"
+  ],
+  "stem": "A 45-year-old man has repeated episodes of severe epigastric pain, retrosternal burning and profuse diarrhoea for over a year. Endoscopy shows several ulcers in the stomach and duodenum. Gastric pH is very low, serum gastrin is high, and he does not respond to acid-lowering drugs. The most likely diagnosis is:",
+  "options": {
+   "A": "Chronic atrophic gastritis",
+   "B": "Gastric outlet stenosis",
+   "C": "GORD",
+   "D": "MEN 2 syndrome",
+   "E": "Zollinger-Ellison syndrome"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "A gastrinoma causes Zollinger-Ellison syndrome: hypergastrinaemia with high acid output, multiple or atypical ulcers and diarrhoea from acid inactivating pancreatic enzymes. Atrophic gastritis also raises gastrin but with low acid (high pH).",
+  "key_note": "",
+  "figure": "",
+  "qid": "31-1"
+ },
+ {
+  "cids": [
+   "C0146"
+  ],
+  "stem": "A 40-year-old man with refractory peptic ulcer disease is found to have high fasting gastrin levels. Which of the following is the most appropriate diagnostic test?",
+  "options": {
+   "A": "Upper GI endoscopy",
+   "B": "Urea breath test",
+   "C": "Gastric emptying study",
+   "D": "Secretin stimulation test",
+   "E": "Abdominal ultrasound"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "In gastrinoma, IV secretin paradoxically raises gastrin (rise over 200 pg/mL), distinguishing it from other causes of hypergastrinaemia such as PPI use or atrophic gastritis. Localisation then uses somatostatin receptor imaging (Ga-68 DOTATATE PET) and EUS.",
+  "key_note": "",
+  "figure": "",
+  "qid": "31-2"
+ },
+ {
+  "cids": [
+   "C1118"
+  ],
+  "stem": "A 38-year-old woman presents with persistent watery diarrhoea, muscle cramps and low serum potassium. She has no infection or recent antibiotic use and stool is negative for pathogens. What is the most likely diagnosis?",
+  "options": {
+   "A": "Gastrinoma",
+   "B": "Glucagonoma",
+   "C": "Insulinoma",
+   "D": "Somatostatinoma",
+   "E": "VIPoma"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "VIPoma (Verner-Morrison syndrome) causes WDHA: watery diarrhoea (secretory, persisting on fasting), hypokalaemia and achlorhydria. Gastrinoma diarrhoea comes with peptic ulceration and high acid.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "31-3"
+ },
+ {
+  "cids": [
+   "C0175"
+  ],
+  "stem": "A 40-year-old woman has recurrent episodes of hypoglycaemia. Insulin and C-peptide are elevated during episodes, and imaging shows a 1.5 cm lesion in the tail of the pancreas. What is the most appropriate management?",
+  "options": {
+   "A": "Observation",
+   "B": "Total pancreatectomy",
+   "C": "Medical therapy with diazoxide",
+   "D": "Distal pancreatectomy",
+   "E": "ERCP with stenting"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Insulinomas are usually benign and solitary, and surgical removal is curative: enucleation if away from the main duct, otherwise a (often spleen-preserving, laparoscopic) distal pancreatectomy for a tail lesion. Diazoxide is only for unresectable disease or awaiting surgery.",
+  "key_note": "",
+  "figure": "",
+  "qid": "31-4"
+ },
+ {
+  "ncids": [
+   "K0466"
+  ],
+  "stem": "Which of the following is NOT a component of Multiple Endocrine Neoplasia type 1 (MEN 1) syndrome?",
+  "options": {
+   "A": "Phaeochromocytoma",
+   "B": "Parathyroid hyperplasia",
+   "C": "Pituitary adenoma",
+   "D": "None of the above",
+   "E": "Pancreatic islet cell tumours"
+  },
+  "answer": "A",
+  "explanation": "MEN 1 (menin gene) comprises the 3 Ps: parathyroid hyperplasia, pancreatic islet tumours and pituitary adenomas. Phaeochromocytoma belongs to MEN 2A and 2B.",
+  "key_note": "",
+  "_new": true,
+  "qid": "31-N1"
+ },
+ {
+  "ncids": [
+   "K0549"
+  ],
+  "stem": "In a patient with insulinoma, Whipple's triad consists of which of the following?",
+  "options": {
+   "A": "Symptoms of hyperglycaemia, fluctuating hypoglycaemia below 2.8 mmol/L and relief on taking sugar",
+   "B": "Symptoms of hypoglycaemia after fasting or exercise, plasma glucose below 2.8 mmol/L and relief of symptoms with glucose",
+   "C": "Pancreatitis with sweating on exercise, low sugar and relief on taking sugar",
+   "D": "Symptoms of hyperglycaemia, glucose above 5.8 mmol/L and response to insulin",
+   "E": "Symptoms of hypoglycaemia, a single pancreatic tumour and relief with IV glucose"
+  },
+  "answer": "B",
+  "explanation": "Whipple's triad is hypoglycaemic symptoms provoked by fasting or exertion, a documented low plasma glucose (below about 2.8 mmol/L) at the time, and relief of symptoms when glucose is given.",
+  "key_note": "",
+  "_new": true,
+  "qid": "31-N2"
+ },
+ {
+  "ncids": [
+   "K0574"
+  ],
+  "stem": "Zollinger-Ellison syndrome is due to over-secretion of:",
+  "options": {
+   "A": "Glucagon",
+   "B": "Pepsinogen",
+   "C": "Amylase",
+   "D": "Gastrin",
+   "E": "Lipase"
+  },
+  "answer": "D",
+  "explanation": "Zollinger-Ellison syndrome is caused by a gastrin-secreting tumour (gastrinoma), producing massive acid hypersecretion, multiple or atypical peptic ulcers and diarrhoea.",
+  "key_note": "",
+  "_new": true,
+  "qid": "31-N3"
+ },
+ {
+  "ncids": [
+   "K0595"
+  ],
+  "stem": "What is the most common site for a gastrinoma?",
+  "options": {
+   "A": "Passaro's (gastrinoma) triangle",
+   "B": "Body of stomach",
+   "C": "Tail of pancreas",
+   "D": "Lower third of oesophagus",
+   "E": "Fourth part of duodenum"
+  },
+  "answer": "A",
+  "explanation": "About 90% of gastrinomas lie in the gastrinoma (Passaro's) triangle bounded by the cystic duct/CBD junction, the junction of the 2nd and 3rd parts of the duodenum, and the neck/body junction of the pancreas, most often in the duodenal wall.",
+  "key_note": "",
+  "_new": true,
+  "qid": "31-N4"
+ }
+]

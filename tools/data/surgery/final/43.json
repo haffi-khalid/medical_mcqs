@@ -1,0 +1,40 @@
+[
+ {
+  "cids": [
+   "C1094"
+  ],
+  "stem": "A 16-year-old boy receives a direct blow to his neck during a boxing fight. He falls down gasping for breath. The most likely cause is:",
+  "options": {
+   "A": "Injury to cervical spine",
+   "B": "Bleeding from Carotid Artery",
+   "C": "Laryngeal injury",
+   "D": "Oesophageal tear",
+   "E": "Hematoma from Internal Jugular Vein"
+  },
+  "answer": "C",
+  "explanation": "A direct anterior blow compresses the larynx against the cervical spine, causing laryngeal fracture, oedema or haematoma with immediate airway compromise (stridor, hoarseness, subcutaneous emphysema). Breathlessness points to the airway rather than vascular, oesophageal or spinal injury.",
+  "key_note": "",
+  "answer_text": "",
+  "figure": "",
+  "qid": "43-1"
+ },
+ {
+  "cids": [
+   "C1095"
+  ],
+  "stem": "A 32-year-old man sustains a laryngeal injury from a direct blow to his neck. The best thing to do in this case would be:",
+  "options": {
+   "A": "Pass an endotracheal tube",
+   "B": "Give 100% oxygen with an oxygen mask",
+   "C": "Perform an urgent tracheostomy",
+   "D": "Use a Guedel oropharyngeal airway",
+   "E": "Do Nasotracheal intubation"
+  },
+  "answer": "C",
+  "explanation": "With laryngeal fracture and airway compromise, blind intubation risks creating a false passage or complete loss of the airway, so a surgical airway below the injury is safest; ATLS states that if intubation fails, an emergency tracheostomy (not cricothyroidotomy) is indicated. Oxygen by mask or an oropharyngeal airway does not bypass the laryngeal obstruction.",
+  "key_note": "ATLS allows a careful attempt at orotracheal intubation by an expert first; in this exam style, urgent tracheostomy is the expected answer.",
+  "answer_text": "",
+  "figure": "",
+  "qid": "43-2"
+ }
+]

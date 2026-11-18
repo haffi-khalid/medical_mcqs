@@ -1,0 +1,1274 @@
+[
+ {
+  "cids": [
+   "C1171"
+  ],
+  "stem": "Which of the following cells found in the stomach secrete pepsinogen?",
+  "options": {
+   "A": "APUD cells",
+   "B": "Chief cells",
+   "C": "Goblet cells",
+   "D": "Parietal cells",
+   "E": "Stomach cells"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Chief (peptic) cells in the fundic glands secrete pepsinogen, activated to pepsin by acid. Parietal cells secrete HCl and intrinsic factor.",
+  "key_note": "",
+  "figure": "",
+  "qid": "11-1"
+ },
+ {
+  "cids": [
+   "C0148"
+  ],
+  "stem": "During a laparoscopic partial gastrectomy, the left gastric artery is ligated. Which area is most at risk of ischaemia?",
+  "options": {
+   "A": "Fundus of the stomach",
+   "B": "Pylorus",
+   "C": "Greater curvature",
+   "D": "Oesophagus (abdominal oesophagus and cardia)",
+   "E": "Duodenum"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "The left gastric artery supplies the lesser curvature, cardia and lower oesophagus through its oesophageal branches. The fundus is supplied by the short gastric arteries from the splenic artery, and the greater curvature by the gastro-epiploic arteries.",
+  "key_note": "The paper marked A (fundus); correct is D: the fundus is supplied by the short gastrics, while the left gastric supplies the cardia and abdominal oesophagus.",
+  "figure": "",
+  "qid": "11-2"
+ },
+ {
+  "cids": [
+   "C1384"
+  ],
+  "stem": "A newborn baby boy vomits whenever he is fed. Which is TRUE regarding congenital hypertrophic pyloric stenosis?",
+  "options": {
+   "A": "Bilious vomiting",
+   "B": "Common in baby girls",
+   "C": "Projectile vomiting",
+   "D": "Heller's myotomy is curative",
+   "E": "Baby is acidotic"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Infantile hypertrophic pyloric stenosis causes projectile non-bilious vomiting at 2-8 weeks, mostly in first-born boys, with hypochloraemic hypokalaemic metabolic alkalosis. Treatment is Ramstedt's pyloromyotomy.",
+  "key_note": "",
+  "figure": "",
+  "qid": "11-3"
+ },
+ {
+  "cids": [
+   "C0228",
+   "C0397",
+   "C0262"
+  ],
+  "stem": "A neonate has persistent forceful projectile vomiting of gastric contents. The upper abdomen is distended and a succussion splash is positive. What is the best treatment option?",
+  "options": {
+   "A": "Duodenojejunostomy",
+   "B": "Feeding gastrostomy",
+   "C": "Gastrojejunostomy",
+   "D": "Heller's myotomy",
+   "E": "Ramstedt's pyloromyotomy"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "This is congenital hypertrophic pyloric stenosis; it is never an emergency operation, so dehydration and hypochloraemic alkalosis are corrected with IV fluids first, then Ramstedt's pyloromyotomy splits the hypertrophied muscle down to the mucosa. Heller's myotomy is for achalasia and gastrojejunostomy for adult gastric outlet obstruction.",
+  "key_note": "Merged versions: '1-month-old with projectile vomiting, name of the operation' (Ramstedt procedure) and '16-day-old, dehydrated and toxic with a right hypochondrial mass' (not marked in source; Ramstedt's pyloromyotomy is the definitive management, after IV fluid and electrolyte correction).",
+  "figure": "",
+  "qid": "11-4"
+ },
+ {
+  "cids": [
+   "C0747"
+  ],
+  "stem": "A 39-year-old woman is making a slow but adequate recovery after a 40% surface area burn. On the 6th postoperative day she becomes unwell: she vomits intermittently, has painless abdominal distension and starts to hiccup. What is the most likely cause of these symptoms?",
+  "options": {
+   "A": "Acute gastric dilatation",
+   "B": "Acute intestinal obstruction",
+   "C": "Clostridium difficile infection",
+   "D": "Faecal impaction",
+   "E": "Systemic sepsis"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Acute gastric dilatation follows major burns, trauma or surgery: painless upper abdominal distension, effortless vomiting (often small volumes) and hiccups from diaphragmatic irritation. Treatment is nasogastric decompression and correction of fluid and electrolytes.",
+  "key_note": "Not marked in the source paper; answer by reviewer (agrees with compiled key).",
+  "figure": "",
+  "qid": "11-5"
+ },
+ {
+  "cids": [
+   "C0304"
+  ],
+  "stem": "A 35-year-old male presents with intermittent epigastric pain for several months. Which of the following conditions is most likely associated with chronic non-specific gastritis?",
+  "options": {
+   "A": "Chronic malabsorption",
+   "B": "Crohn's disease",
+   "C": "Helicobacter pylori infection",
+   "D": "Pernicious anaemia",
+   "E": "Sprue"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "H. pylori causes the common antral-predominant chronic (type B) gastritis. Pernicious anaemia is linked to autoimmune type A gastritis of the body, which is far less common.",
+  "key_note": "",
+  "figure": "",
+  "qid": "11-6"
+ },
+ {
+  "cids": [
+   "C0861"
+  ],
+  "stem": "The most common cause of haematemesis and melaena is:",
+  "options": {
+   "A": "Mallory-Weiss tear",
+   "B": "Peptic ulcer",
+   "C": "Erosions",
+   "D": "Gastric tumour",
+   "E": "Oesophageal varices"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Peptic ulcer disease (duodenal more than gastric) is the commonest cause of upper GI bleeding, followed by erosive gastritis/oesophagitis, varices and Mallory-Weiss tears.",
+  "key_note": "",
+  "figure": "",
+  "qid": "11-7"
+ },
+ {
+  "cids": [
+   "C0970"
+  ],
+  "stem": "A 45-year-old man complains of burning epigastric pain that wakes him at night. The pain is relieved by eating or by over-the-counter antacids and H2 blockers. Diagnosis is best confirmed by which of the following?",
+  "options": {
+   "A": "Urea breath test",
+   "B": "Serum gastrin levels",
+   "C": "Barium meal examination",
+   "D": "Upper endoscopy",
+   "E": "Upper endoscopy and biopsy"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Upper GI endoscopy is the gold standard for confirming a peptic ulcer, and biopsies are taken for H. pylori (CLO test, histology) and to exclude malignancy where indicated. A urea breath test only shows H. pylori infection; it does not prove an ulcer.",
+  "key_note": "One paper marked A (urea breath test); correct is endoscopy with biopsy (E), as in the four-option version of this question, where it is option D. Option D, endoscopy alone, is a close second.",
+  "figure": "",
+  "qid": "11-8"
+ },
+ {
+  "cids": [
+   "C1180"
+  ],
+  "stem": "A 65-year-old lady presents with epigastric pain after a fatty meal. She has a long history of heartburn for which she takes antacids. What is the best investigation to confirm the diagnosis?",
+  "options": {
+   "A": "Barium meal",
+   "B": "CT abdomen",
+   "C": "MRI abdomen",
+   "D": "Upper GI endoscopy",
+   "E": "X-ray erect abdomen"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Long-standing heartburn and dyspepsia in a patient over 55 calls for upper GI endoscopy, which confirms peptic disease or reflux and allows biopsy to exclude malignancy. Ultrasound would be the test if biliary colic were suspected, but it is not offered.",
+  "key_note": "Not marked in the source paper; answer by reviewer (agrees with compiled key).",
+  "figure": "",
+  "qid": "11-9"
+ },
+ {
+  "cids": [
+   "C0410"
+  ],
+  "stem": "A 55-year-old school bus driver was diagnosed 3 months ago with an antral ulcer. He was treated for H. pylori eradication and continues to take a PPI. Repeat endoscopy shows the ulcer has not healed. What is the next step?",
+  "options": {
+   "A": "Treatment with H2 blockers",
+   "B": "Vagotomy alone without additional surgery",
+   "C": "Endoscopy and laser treatment of the ulcer",
+   "D": "Endoscopy and biopsy",
+   "E": "Elevating the head of the bed when asleep"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A non-healing gastric ulcer must be considered malignant until proven otherwise, so repeat endoscopy with multiple biopsies from the edge and base is mandatory. Persistent benign ulceration then needs a check for ongoing H. pylori, NSAID use or gastrinoma before surgery is considered.",
+  "key_note": "",
+  "figure": "",
+  "qid": "11-10"
+ },
+ {
+  "cids": [
+   "C0852"
+  ],
+  "stem": "A 50-year-old man is involved in a major motor vehicle collision and suffers multiple trauma. He is admitted to the intensive care unit. After 2 days he bleeds massively from the stomach. What is the probable cause?",
+  "options": {
+   "A": "Gastric ulcer",
+   "B": "Duodenal ulcer",
+   "C": "Hiatal hernia",
+   "D": "Mallory-Weiss tear",
+   "E": "Erosive gastritis"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Critically ill patients develop stress-related mucosal disease: multiple superficial erosions in the fundus and body caused by mucosal ischaemia, which can bleed heavily within days of admission. Hence PPI prophylaxis in ICU.",
+  "key_note": "The compiled key for one paper gave A (gastric ulcer); correct is E: bleeding in the first days after major trauma is stress-related erosive gastritis (Curling's ulcer after burns and Cushing's ulcer after head injury are variants).",
+  "figure": "",
+  "qid": "11-11"
+ },
+ {
+  "cids": [
+   "C0420"
+  ],
+  "stem": "In patients with bleeding duodenal ulcers, the endoscopic finding associated with the highest incidence of rebleeding is:",
+  "options": {
+   "A": "Visible vessel",
+   "B": "Cherry-red spot",
+   "C": "Clean ulcer bed",
+   "D": "Duodenitis",
+   "E": "Shallow 3 mm ulcer"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Using the Forrest classification, active spurting (Ia) and a non-bleeding visible vessel (IIa) carry the highest rebleeding risk (around 40-50% without treatment), so they require endoscopic therapy. A clean base (III) rebleeds in under 5%.",
+  "key_note": "",
+  "figure": "",
+  "qid": "11-12"
+ },
+ {
+  "cids": [
+   "C0847"
+  ],
+  "stem": "A healthy 75-year-old man bleeds from a duodenal ulcer. Medical management and endoscopic measures fail to stop the bleeding. What is the next step in management?",
+  "options": {
+   "A": "Continued transfusion of 8 U of blood",
+   "B": "Administration of norepinephrine",
+   "C": "Oversewing of the bleeding point",
+   "D": "Oversewing of the bleeding point, vagotomy and pyloroplasty",
+   "E": "Hepatic artery ligation"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "When endoscopy fails (and angioembolisation is unavailable or fails), the operation is duodenotomy and underrunning of the bleeding gastroduodenal artery with non-absorbable sutures, followed by PPI and H. pylori eradication. An added acid-reducing vagotomy is no longer routinely needed.",
+  "key_note": "Two versions exist: one paper had no 'oversewing alone' option and keyed oversewing plus vagotomy and pyloroplasty (the best answer among its options); the version with both options was keyed C, which matches current practice.",
+  "figure": "",
+  "qid": "11-13"
+ },
+ {
+  "cids": [
+   "C0572"
+  ],
+  "stem": "The commonest site of perforated duodenal ulcer is:",
+  "options": {
+   "A": "First part",
+   "B": "Second part",
+   "C": "Third part",
+   "D": "Fourth part",
+   "E": "Duodenojejunal junction"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Duodenal ulcers occur in the first part (the cap), and anterior wall ulcers perforate while posterior ulcers erode the gastroduodenal artery and bleed.",
+  "key_note": "",
+  "figure": "",
+  "qid": "11-14"
+ },
+ {
+  "cids": [
+   "C0561"
+  ],
+  "stem": "Duodenal diverticulum is commonest in:",
+  "options": {
+   "A": "First and second parts",
+   "B": "Second and third parts",
+   "C": "Third and fourth parts",
+   "D": "First and fourth parts",
+   "E": "First and third parts"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Primary duodenal diverticula are commonest in the second part, especially periampullary on the medial wall, and next in the third part. Diverticula of the first part are usually secondary to ulcer scarring.",
+  "key_note": "",
+  "figure": "",
+  "qid": "11-15"
+ },
+ {
+  "cids": [
+   "C0485",
+   "C1464",
+   "C0923"
+  ],
+  "stem": "A 58-year-old woman on NSAID therapy for arthritis has a 6-hour history of epigastric pain that has become progressively severe. Her abdomen is distended, rigid and diffusely tender. The most likely diagnosis is:",
+  "options": {
+   "A": "Intestinal obstruction",
+   "B": "Oesophageal perforation",
+   "C": "Duodenal ulcer perforation",
+   "D": "Gastric ulcer perforation",
+   "E": "Diverticulitis"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Sudden epigastric pain becoming generalised with board-like rigidity in an NSAID user (and smoker) is a perforated peptic ulcer, and anterior duodenal ulcers perforate more often than gastric ones; erect chest X-ray shows free gas in most cases. NSAIDs also cause gastric ulcers, so D is a close distractor, while gastritis, pancreatitis and cholecystitis do not cause free gas.",
+  "key_note": "Merged versions: 24-year-old smoker on ibuprofen with sudden upper abdominal pain and rigidity (keyed duodenal ulcer perforation), and 30-year-old on NSAIDs for rheumatoid arthritis, shocked, with gas under the diaphragm (several papers; all compiled keys give perforated peptic ulcer).",
+  "figure": "",
+  "qid": "11-16"
+ },
+ {
+  "cids": [
+   "C0421",
+   "C0349"
+  ],
+  "stem": "A 63-year-old woman with known acid peptic disease is admitted with severe abdominal pain beginning 1 hour after iftar. She has board-like rigidity, guarding and rebound tenderness; BP 90/50 mm Hg, pulse 110/min, respiratory rate 30/min. After history, examination and starting fluid resuscitation, what diagnostic study should be performed?",
+  "options": {
+   "A": "Supine abdominal X-ray",
+   "B": "Erect abdominal X-ray",
+   "C": "Gastrografin swallow",
+   "D": "CT scan of the abdomen",
+   "E": "Abdominal ultrasound"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "An erect film is the quick first test for pneumoperitoneum in suspected perforation, showing free gas under the diaphragm in about 75% of cases; a supine film misses free gas. CT or a Gastrografin study is used when the plain film is negative and doubt persists, and endoscopy is contraindicated as insufflation worsens the leak.",
+  "key_note": "Also asked as: middle-aged lady on NSAIDs with severe epigastric pain after iftar and a tense tender abdomen; most important investigation is erect X-ray (not endoscopy, DPL or serum amylase).",
+  "figure": "",
+  "qid": "11-17"
+ },
+ {
+  "cids": [
+   "C0687"
+  ],
+  "stem": "A 58-year-old smoker presents with an acute abdomen and unstable vital signs. The abdomen is tense, tender and rigid, and X-ray shows air under the diaphragm. What is the best management for this patient after resuscitation?",
+  "options": {
+   "A": "Conservative treatment",
+   "B": "Laparotomy and resection",
+   "C": "Laparotomy and Graham patch repair",
+   "D": "Endoscopy and stenting",
+   "E": "Vagotomy and pyloroplasty"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A perforated peptic ulcer in a shocked patient needs laparotomy (or laparoscopy), peritoneal lavage and omental (Graham) patch closure, then PPI and H. pylori eradication. Conservative (Taylor) management is only for stable, sealed perforations.",
+  "key_note": "",
+  "figure": "",
+  "qid": "11-18"
+ },
+ {
+  "cids": [
+   "C0758",
+   "C0615"
+  ],
+  "stem": "A 50-year-old man with a 2-year history of duodenal ulcer develops sudden severe epigastric pain 4 hours before evaluation. He is afebrile, pulse 80, BP 125/90, with diminished bowel sounds and abdominal rigidity. Upright chest X-ray shows pneumoperitoneum. At laparotomy there is an anterior perforation in the first part of the duodenum. Optimal treatment would include:",
+  "options": {
+   "A": "Omental patch of the perforation followed by truncal vagotomy and antrectomy after 8 weeks",
+   "B": "Omental patch of the perforation followed by chronic cimetidine administration",
+   "C": "Omental patch of the perforation plus proximal gastric vagotomy",
+   "D": "Omental patch of the perforation only"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Current practice (Bailey and Love) is omental patch repair and lavage, followed by PPI and H. pylori eradication, which prevents recurrence in most patients. Adding a highly selective vagotomy was pre-H. pylori teaching for a chronic ulcer in a stable early patient.",
+  "key_note": "Not marked in the source paper; the compiled key gave C (patch plus proximal gastric vagotomy), which reflects older teaching. Reviewer answer is D, but older keys may expect C. Also asked as: frail elderly NSAID user with anterior duodenal perforation and bilious peritoneal fluid; answer lavage and omental patch closure.",
+  "figure": "",
+  "qid": "11-19"
+ },
+ {
+  "cids": [
+   "C0767"
+  ],
+  "stem": "A 60-year-old lady presents to the emergency department with repeated vomiting of food particles and significant weight loss over 6 months. Her abdominal X-ray shows a markedly dilated stomach. What is the most likely diagnosis?",
+  "options": {
+   "A": "Gastric outlet obstruction secondary to malignancy",
+   "B": "Gastric outlet obstruction secondary to peptic ulceration",
+   "C": "Gastric bands",
+   "D": "Gastric volvulus"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "In adults, gastric outlet obstruction is now more often due to antral or pancreatic malignancy than peptic stricture, particularly with an older patient, short history and weight loss.",
+  "key_note": "Not marked in the source paper; answer by reviewer (agrees with compiled key).",
+  "figure": "",
+  "qid": "11-20"
+ },
+ {
+  "cids": [
+   "C0345"
+  ],
+  "stem": "A 68-year-old male presents with multiple episodes of vomiting of undigested food. He is diagnosed with gastric outlet obstruction. The electrolyte disorder associated with this condition is:",
+  "options": {
+   "A": "Hyperkalaemia",
+   "B": "Hypernatraemia",
+   "C": "Hypochloraemic alkalosis",
+   "D": "Hyperchloraemic alkalosis",
+   "E": "Respiratory acidosis"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Loss of HCl in vomitus gives a hypochloraemic metabolic alkalosis with hypokalaemia; renal H+ loss in exchange for Na+ causes paradoxical aciduria.",
+  "key_note": "",
+  "figure": "",
+  "qid": "11-21"
+ },
+ {
+  "cids": [
+   "C0777"
+  ],
+  "stem": "A 40-year-old man with long-standing peptic ulceration develops postprandial upper abdominal distension and repeated projectile non-bilious vomiting. He is hypovolaemic with electrolyte and acid-base disturbance. The laboratory will most likely report:",
+  "options": {
+   "A": "Hypernatraemic hyperkalaemic alkalosis",
+   "B": "Hypernatraemic hyperkalaemic acidosis",
+   "C": "Hyponatraemic hyperkalaemic acidosis",
+   "D": "Hyponatraemic hypokalaemic alkalosis",
+   "E": "Hypernatraemic hypokalaemic alkalosis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Bailey and Love describes the patient with gastric outlet obstruction as hypochloraemic, hypokalaemic, hyponatraemic and alkalotic: HCl is lost in vomitus, and the kidney exchanges Na+ and then H+ to conserve volume, worsening the alkalosis (paradoxical aciduria).",
+  "key_note": "One paper marked E (hypernatraemic); correct is D, as the compiled key also gives: sodium is lost in vomitus and urine, so the patient is hyponatraemic.",
+  "figure": "",
+  "qid": "11-22"
+ },
+ {
+  "cids": [
+   "C1430"
+  ],
+  "stem": "A 65-year-old male is brought to the surgical emergency with features of pyloric obstruction: non-bilious vomiting, increased thirst and reduced urine output. He is dehydrated with a weak pulse. What is the best initial IV fluid to correct his electrolyte imbalance?",
+  "options": {
+   "A": "Ringer's lactate",
+   "B": "5% dextrose water",
+   "C": "Gelafundin infusion",
+   "D": "0.9% normal saline",
+   "E": "Haemacel infusion"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Normal saline (with added potassium once urine flows) replaces the lost chloride and volume, which lets the kidney correct the alkalosis. Ringer's lactate supplies lactate (a bicarbonate precursor) and too little chloride, so it worsens the alkalosis.",
+  "key_note": "",
+  "figure": "",
+  "qid": "11-23"
+ },
+ {
+  "cids": [
+   "C0408"
+  ],
+  "stem": "Appropriate management of severe vomiting associated with gastric outlet obstruction from peptic ulcer disease includes all of the following except:",
+  "options": {
+   "A": "Nasogastric suction",
+   "B": "IV hydration",
+   "C": "Upper GI endoscopy to rule out malignancy",
+   "D": "IV H2 antagonist",
+   "E": "Oral antacid therapy"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "The patient is kept nil by mouth with nasogastric decompression, IV fluids and IV acid suppression, then endoscopy and biopsy to exclude malignancy. Oral medication will not pass the obstruction.",
+  "key_note": "",
+  "figure": "",
+  "qid": "11-24"
+ },
+ {
+  "cids": [
+   "C0583"
+  ],
+  "stem": "A 48-year-old man undergoes surgery for a chronic duodenal ulcer. The procedure is a truncal vagotomy and which of the following?",
+  "options": {
+   "A": "Gastroenterostomy",
+   "B": "Removal of the duodenum",
+   "C": "Closure of the oesophageal hiatus",
+   "D": "Incidental appendectomy",
+   "E": "No further procedure"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Truncal vagotomy denervates the antropyloric pump, causing gastric stasis, so it must be combined with a drainage procedure: pyloroplasty or gastroenterostomy (gastrojejunostomy).",
+  "key_note": "",
+  "figure": "",
+  "qid": "11-25"
+ },
+ {
+  "cids": [
+   "C0150"
+  ],
+  "stem": "A 45-year-old female presents with early satiety and bloating after meals. Investigations confirm gastroparesis. Which surgical intervention is most appropriate after medical therapy fails?",
+  "options": {
+   "A": "Total gastrectomy",
+   "B": "Gastric bypass",
+   "C": "Antrectomy with vagotomy",
+   "D": "Pyloroplasty",
+   "E": "Billroth I gastrectomy"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "For refractory gastroparesis, procedures that open the pylorus (pyloroplasty, or endoscopic pyloromyotomy, G-POEM) improve gastric emptying with low morbidity; gastric electrical stimulation is another option. Gastrectomy is a last resort.",
+  "key_note": "",
+  "figure": "",
+  "qid": "11-26"
+ },
+ {
+  "cids": [
+   "C1432",
+   "C0610"
+  ],
+  "stem": "Which one of the following factors has the strongest link to the development of carcinoma of the stomach?",
+  "options": {
+   "A": "Obesity",
+   "B": "Pickled vegetables",
+   "C": "Helicobacter pylori infection",
+   "D": "Exposure to nitrosamines",
+   "E": "Alcohol"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "H. pylori is a WHO class I carcinogen and the strongest risk factor for distal (non-cardia) gastric cancer, via chronic gastritis, atrophy and intestinal metaplasia. Dietary nitrosamines and salted or pickled foods are weaker contributors; blood group A (not B) is associated, high-fibre diets are protective, and incidence is low in North America.",
+  "key_note": "Also asked as: young man with gastric adenocarcinoma asking about causes, with distractors ionising radiation, blood group B, high-fibre diet and North American descent; answer H. pylori.",
+  "figure": "",
+  "qid": "11-27"
+ },
+ {
+  "cids": [
+   "C0560"
+  ],
+  "stem": "A middle-aged smoker undergoes upper GI endoscopy for chronic dyspepsia and biopsies are taken from an antral growth. Gastric carcinoma is associated with blood group:",
+  "options": {
+   "A": "A",
+   "B": "AB",
+   "C": "B",
+   "D": "O",
+   "E": "Both A and O"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Blood group A is associated with gastric carcinoma (especially the diffuse type), while blood group O is associated with duodenal ulcer.",
+  "key_note": "",
+  "figure": "",
+  "qid": "11-28"
+ },
+ {
+  "cids": [
+   "C0483"
+  ],
+  "stem": "Carcinoma of the stomach is now the fifth commonest malignancy. The commonest location of gastric carcinoma within the stomach is:",
+  "options": {
+   "A": "Antrum",
+   "B": "Body",
+   "C": "Cardia",
+   "D": "Gastro-oesophageal junction",
+   "E": "Fundus"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Worldwide the distal stomach (antrum/pylorus) remains the commonest site, linked to H. pylori. In Western countries proximal and junctional tumours are increasing, which is why cardia is a tempting distractor.",
+  "key_note": "One copy had both A and C highlighted; the printed key and another paper give antrum (A), which is the standard answer.",
+  "figure": "",
+  "qid": "11-29"
+ },
+ {
+  "cids": [
+   "C0409"
+  ],
+  "stem": "An 80% distal gastrectomy is performed for a 6 cm antral cancer with extension to the serosa. The T stage of this tumour is:",
+  "options": {
+   "A": "T0",
+   "B": "T1",
+   "C": "T2",
+   "D": "T3",
+   "E": "T4"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "By the current AJCC/UICC 8th edition TNM used in Bailey and Love, T3 penetrates the subserosa without involving the visceral peritoneum, while a tumour invading the serosa is T4a. Older editions (AJCC 6th) called serosal penetration T3, which is the source of the printed key.",
+  "key_note": "The printed key gave D (T3), which is correct only by the old AJCC 6th edition; by current TNM, serosal invasion is T4a (E). Older local keys may still expect D.",
+  "figure": "",
+  "qid": "11-30"
+ },
+ {
+  "cids": [
+   "C0151"
+  ],
+  "stem": "A patient with gastric adenocarcinoma is being assessed for surgery. Which of the following is a relative (not absolute) contraindication to curative resection?",
+  "options": {
+   "A": "Peritoneal carcinomatosis",
+   "B": "Involvement of the coeliac axis",
+   "C": "Presence of distant liver metastases",
+   "D": "Enlarged regional lymph nodes",
+   "E": "Malignant ascites"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Regional nodal disease is removed by D2 lymphadenectomy and does not preclude curative surgery. Peritoneal spread, malignant ascites, distant metastases and encasement of major vessels such as the coeliac axis indicate unresectable or incurable disease.",
+  "key_note": "",
+  "figure": "",
+  "qid": "11-31"
+ },
+ {
+  "cids": [
+   "C0706"
+  ],
+  "stem": "A 55-year-old man has a 3-month history of weight loss, early satiety and vague epigastric discomfort. Endoscopy shows a 3 cm ulcerated mass in the gastric antrum; biopsy confirms adenocarcinoma. CT shows regional lymph node involvement but no distant metastases. What is the most appropriate surgical management?",
+  "options": {
+   "A": "Total gastrectomy with D1 lymphadenectomy",
+   "B": "Subtotal gastrectomy with D2 lymphadenectomy",
+   "C": "Palliative gastrojejunostomy",
+   "D": "Neoadjuvant chemotherapy followed by surgery",
+   "E": "Endoscopic resection"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "A distal (antral) cancer is treated by subtotal (distal) gastrectomy with D2 lymphadenectomy, the standard of care for node-positive disease. In UK practice perioperative chemotherapy (FLOT) is also given, but the question asks for the operation.",
+  "key_note": "Keyed B; D (perioperative/neoadjuvant chemotherapy then surgery) reflects the overall treatment plan, but B is the surgical management asked for.",
+  "figure": "",
+  "qid": "11-32"
+ },
+ {
+  "cids": [
+   "C0147"
+  ],
+  "stem": "A 50-year-old man undergoes partial gastrectomy for gastric cancer. Histology shows tumour invasion into the muscularis propria with no lymph node involvement (T2N0). What is the next best step?",
+  "options": {
+   "A": "Chemotherapy and radiotherapy",
+   "B": "Adjuvant radiotherapy",
+   "C": "Adjuvant chemotherapy",
+   "D": "Follow-up with PET scan",
+   "E": "Follow-up with endoscopy"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Tumours of T2 or above benefit from systemic chemotherapy, ideally given perioperatively, so after upfront resection adjuvant chemotherapy is offered. Radiotherapy alone has no role.",
+  "key_note": "Keyed C; some guidelines allow observation for completely resected low-risk T2N0 tumours, but adjuvant chemotherapy is the expected exam answer.",
+  "figure": "",
+  "qid": "11-33"
+ },
+ {
+  "cids": [
+   "C0152"
+  ],
+  "stem": "A 70-year-old male with significant comorbidities has gastric outlet obstruction due to inoperable localised cancer. What is the best palliative option?",
+  "options": {
+   "A": "Total gastrectomy",
+   "B": "Chemoradiotherapy",
+   "C": "Endoscopic stent",
+   "D": "Partial gastrectomy",
+   "E": "Gastrostomy feeding tube"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Endoscopic placement of a self-expanding metal stent across the pylorus restores oral intake quickly with minimal morbidity, suited to frail patients with short life expectancy. Gastrojejunostomy is the alternative in fitter patients.",
+  "key_note": "",
+  "figure": "",
+  "qid": "11-34"
+ },
+ {
+  "cids": [
+   "C1431"
+  ],
+  "stem": "A 75-year-old man operated on for carcinoma of the stomach 6 months ago attends for follow-up. Besides other investigations, which tumour marker would you check for recurrence?",
+  "options": {
+   "A": "CA 19-9",
+   "B": "PSA",
+   "C": "BRCA1",
+   "D": "CD20",
+   "E": "CA 15-3"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "CEA, CA 19-9 and CA 72-4 are used to monitor gastric cancer, and of the options only CA 19-9 is relevant. PSA is for prostate, CA 15-3 for breast, BRCA1 is a gene and CD20 a lymphoma marker.",
+  "key_note": "",
+  "figure": "",
+  "qid": "11-35"
+ },
+ {
+  "cids": [
+   "C0622"
+  ],
+  "stem": "A 36-year-old man presents with weight loss and a large palpable upper abdominal mass. Endoscopy shows intact gastric mucosa and multiple biopsies show normal mucosa. A UGI study shows a mass in the stomach. At surgery a 3-kg mass is removed, requiring removal of the left transverse colon. What is the most likely diagnosis?",
+  "options": {
+   "A": "Gastric cancer",
+   "B": "Gastrointestinal stromal tumour (GIST)",
+   "C": "Choledochoduodenal fistula",
+   "D": "Eosinophilic gastroenteritis",
+   "E": "Linitis plastica"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "GISTs arise from the interstitial cells of Cajal in the muscle wall, so the mucosa is intact and mucosal biopsies are negative; they grow exophytically to large size and may invade adjacent organs.",
+  "key_note": "",
+  "figure": "",
+  "qid": "11-36"
+ },
+ {
+  "cids": [
+   "C0618"
+  ],
+  "stem": "A 60-year-old woman complains of early satiety. Upper endoscopy shows a small antral mass with sparing of the mucosa, and GIST is suspected. CT of the chest, abdomen and pelvis is performed. What does she require next?",
+  "options": {
+   "A": "Fulguration of the tumour",
+   "B": "Distal gastrectomy",
+   "C": "Chemoradiotherapy",
+   "D": "Total gastrectomy"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Localised GIST is treated by complete (R0) surgical resection with clear margins; lymphadenectomy is not needed as nodal spread is rare. For an antral lesion this means a distal gastrectomy (or wedge resection), with imatinib for high-risk or advanced disease. GISTs are resistant to conventional chemoradiotherapy.",
+  "key_note": "",
+  "figure": "",
+  "qid": "11-37"
+ },
+ {
+  "cids": [
+   "C0149"
+  ],
+  "stem": "A 50-year-old woman had a subtotal gastrectomy. Three days later she develops severe upper abdominal pain, fever and tachycardia, with a markedly raised white cell count. What is the most likely complication?",
+  "options": {
+   "A": "Pancreatitis",
+   "B": "Gastric remnant bleeding",
+   "C": "Anastomotic leak",
+   "D": "Pulmonary embolism",
+   "E": "Dumping syndrome"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Pain, fever, tachycardia and leucocytosis in the first postoperative week after gastrectomy suggest anastomotic or duodenal stump leak until proven otherwise; confirm with CT and water-soluble contrast.",
+  "key_note": "",
+  "figure": "",
+  "qid": "11-38"
+ },
+ {
+  "cids": [
+   "C0484",
+   "C0145"
+  ],
+  "stem": "A 35-year-old man underwent antrectomy and vagotomy for a bleeding ulcer. After a large business lunch, within 1 hour he felt lightheaded and developed abdominal cramping and diarrhoea. His symptoms may be attributed to:",
+  "options": {
+   "A": "Anaemia",
+   "B": "Jejunogastric intussusception",
+   "C": "Dumping syndrome",
+   "D": "Afferent loop syndrome",
+   "E": "Alkaline reflux gastritis"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Early dumping combines vasomotor symptoms (lightheadedness, flushing, palpitations) with GI symptoms (cramps, diarrhoea) after a large meal when the pylorus has been removed or bypassed. Afferent loop syndrome gives bilious vomiting that relieves pain.",
+  "key_note": "Also asked as: dizziness, sweating and palpitations after meals 6 months after Billroth II gastrectomy (options included early dumping syndrome, delayed gastric emptying, B12 deficiency); answer early dumping syndrome.",
+  "figure": "",
+  "qid": "11-39"
+ },
+ {
+  "cids": [
+   "C0623"
+  ],
+  "stem": "A 63-year-old man underwent gastric resection for severe peptic ulcer disease. He had complete relief of symptoms but developed dumping syndrome. This patient is most likely to complain of which of the following?",
+  "options": {
+   "A": "Gastric intussusception",
+   "B": "Repeated vomiting",
+   "C": "Severe diarrhoea",
+   "D": "Severe vasomotor symptoms after eating",
+   "E": "Intestinal obstruction"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "The hallmark of dumping is postprandial vasomotor symptoms (sweating, palpitations, flushing, faintness), with GI symptoms such as cramps and diarrhoea alongside. Post-vagotomy diarrhoea is a separate entity.",
+  "key_note": "The source copy had ticks beside both C and D with a question mark; D is the better answer as vasomotor symptoms define dumping.",
+  "figure": "",
+  "qid": "11-40"
+ },
+ {
+  "cids": [
+   "C0764"
+  ],
+  "stem": "Late dumping syndrome following peptic ulcer surgery is caused by:",
+  "options": {
+   "A": "Bile vomiting",
+   "B": "Diarrhoea",
+   "C": "Reactive hypoglycaemia",
+   "D": "Small stomach"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Late dumping (1.5-3 hours after a meal) results from rapid glucose absorption, causing an insulin surge and then reactive hypoglycaemia. Early dumping is due to hyperosmolar fluid shifts.",
+  "key_note": "Not marked in the source paper; answer by reviewer (agrees with compiled key).",
+  "figure": "",
+  "qid": "11-41"
+ },
+ {
+  "cids": [
+   "C0482",
+   "C0153",
+   "C0656"
+  ],
+  "stem": "A woman undergoes total gastrectomy for a large proximal gastric carcinoma. To protect her from developing anaemia, she must be given a regular parenteral dose of:",
+  "options": {
+   "A": "Folic acid",
+   "B": "Ferrous sulphate",
+   "C": "Vitamin B12",
+   "D": "Transferrin",
+   "E": "Vitamin K"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Gastrectomy removes the parietal cells that make intrinsic factor, so B12 cannot be absorbed in the terminal ileum and megaloblastic anaemia develops once liver stores run out (2-5 years). Lifelong intramuscular hydroxocobalamin (usually every 3 months) is therefore required; iron deficiency also occurs but is managed orally.",
+  "key_note": "Merged versions: 'long-term complication after total gastrectomy' (answer pernicious anaemia/vitamin B12 deficiency) and 'megaloblastic anaemia after gastrectomy, which deficiency' (answer vitamin B12).",
+  "figure": "",
+  "qid": "11-42"
+ },
+ {
+  "ncids": [
+   "K0161"
+  ],
+  "stem": "A 45-year-old man presents to the emergency department with coffee-ground vomiting. He also reports that for 2 days his stool has appeared darker than usual. Which of the following is the most sensitive guide to the severity of his gastrointestinal haemorrhage?",
+  "options": {
+   "A": "Haemoglobin",
+   "B": "Systolic blood pressure",
+   "C": "Pulse rate",
+   "D": "Volume of vomitus/melaena",
+   "E": "Lying and standing blood pressure"
+  },
+  "answer": "E",
+  "explanation": "A postural (lying to standing) drop in blood pressure appears with modest volume loss, before supine hypotension, making it the most sensitive bedside guide to the size of the bleed. Haemoglobin is unreliable acutely because it does not fall until haemodilution occurs hours later.",
+  "key_note": "Bank copies disagree: one starred C but highlighted A, the others marked A; correct is E because haemoglobin lags behind acute blood loss and postural BP change is the earliest, most sensitive sign of significant hypovolaemia.",
+  "_new": true,
+  "qid": "11-N1"
+ },
+ {
+  "ncids": [
+   "K0325"
+  ],
+  "stem": "The stomach is supplied by all of the following arteries EXCEPT:",
+  "options": {
+   "A": "Left gastric artery",
+   "B": "Short gastric arteries",
+   "C": "Right gastric artery",
+   "D": "Right gastro-epiploic artery",
+   "E": "Right hepatic artery"
+  },
+  "answer": "E",
+  "explanation": "The stomach receives the left and right gastric, left and right gastro-epiploic and short gastric arteries. The right hepatic artery supplies the liver and gallbladder (via the cystic artery), not the stomach.",
+  "key_note": "",
+  "_new": true,
+  "qid": "11-N2"
+ },
+ {
+  "ncids": [
+   "K0341",
+   "K1460"
+  ],
+  "stem": "A 54-year-old woman has episodes of epigastric pain associated with food. Endoscopy shows gastric ulceration and a rapid urease test on the biopsy is positive. Which regimen would you use to treat her?",
+  "options": {
+   "A": "Augmentin and metronidazole",
+   "B": "Omeprazole, clarithromycin and metronidazole",
+   "C": "Omeprazole, prednisolone and Augmentin",
+   "D": "Omeprazole, ibuprofen and clarithromycin",
+   "E": "Ranitidine alone"
+  },
+  "answer": "B",
+  "explanation": "H. pylori is eradicated with triple therapy: a proton pump inhibitor plus two antibiotics (clarithromycin with amoxicillin or metronidazole) for 7 to 14 days. Antibiotics without a PPI, steroids or NSAIDs are inappropriate.",
+  "key_note": "",
+  "_new": true,
+  "qid": "11-N3"
+ },
+ {
+  "ncids": [
+   "K0348"
+  ],
+  "stem": "A 69-year-old man presents with a 2-month history of epigastric pain. He feels full after eating small amounts of food and has lost 10 kg in weight over the last 2 months. Examination is unremarkable. What is the most likely diagnosis?",
+  "options": {
+   "A": "Duodenal ulcer",
+   "B": "Gastric cancer",
+   "C": "Gastric ulcer",
+   "D": "Menetrier disease",
+   "E": "Pernicious anaemia"
+  },
+  "answer": "B",
+  "explanation": "New dyspepsia over 55 with early satiety and significant weight loss are alarm features of gastric carcinoma. Peptic ulcers rarely cause this degree of weight loss without complications.",
+  "key_note": "",
+  "_new": true,
+  "qid": "11-N4"
+ },
+ {
+  "ncids": [
+   "K0370"
+  ],
+  "stem": "Metabolic complications of subtotal gastrectomy with Billroth I or Billroth II reconstruction include all of the following EXCEPT:",
+  "options": {
+   "A": "Hypothyroidism",
+   "B": "Anaemia",
+   "C": "Reactive hypoglycaemia",
+   "D": "Dumping syndrome",
+   "E": "Metabolic bone disease"
+  },
+  "answer": "A",
+  "explanation": "Gastrectomy causes iron and B12 deficiency anaemia, early and late dumping (late dumping is reactive hypoglycaemia) and metabolic bone disease from calcium and vitamin D malabsorption. Hypothyroidism is not a consequence.",
+  "key_note": "",
+  "_new": true,
+  "qid": "11-N5"
+ },
+ {
+  "ncids": [
+   "K0375"
+  ],
+  "stem": "A 45-year-old man with long-standing peptic ulcer disease starts having repeated vomiting, malnutrition and weight loss. Which investigation is most appropriate?",
+  "options": {
+   "A": "Gastric 24-hour pH monitoring",
+   "B": "CT scan abdomen",
+   "C": "Oesophageal manometry",
+   "D": "Barium swallow",
+   "E": "Upper gastrointestinal endoscopy"
+  },
+  "answer": "E",
+  "explanation": "This is gastric outlet obstruction; endoscopy (after gastric lavage) shows the cause and allows biopsy to distinguish benign pyloric stenosis from carcinoma, and can allow balloon dilatation. CT helps staging if malignant but does not give a tissue diagnosis.",
+  "key_note": "Bank marked B; correct is E because endoscopy with biopsy is the key investigation for gastric outlet obstruction.",
+  "_new": true,
+  "qid": "11-N6"
+ },
+ {
+  "ncids": [
+   "K0376"
+  ],
+  "stem": "A 43-year-old smoker who has been on H2 blockers presents with projectile non-bilious vomiting of food residue for a few weeks. He is dehydrated, the abdomen is distended and there is a positive succussion splash. What is the most likely clinical diagnosis?",
+  "options": {
+   "A": "Subacute intestinal obstruction",
+   "B": "Chronic colonic obstruction",
+   "C": "Coeliac disease",
+   "D": "Gastric outlet obstruction",
+   "E": "Achalasia of oesophagus"
+  },
+  "answer": "D",
+  "explanation": "Non-bilious vomiting of stale food, upper abdominal distension and a succussion splash in a peptic ulcer patient are classic for gastric outlet obstruction. Achalasia causes regurgitation without gastric distension or succussion splash.",
+  "key_note": "",
+  "_new": true,
+  "qid": "11-N7"
+ },
+ {
+  "ncids": [
+   "K0421",
+   "K0392"
+  ],
+  "stem": "A patient with a history of peptic ulceration and chronic dyspepsia presents with profuse projectile non-bile-stained vomiting and increasing bloating over 9 months. There is epigastric distension and a succussion splash. Abdominal X-ray shows a grossly distended stomach and collapsed bowel. What is the most likely cause?",
+  "options": {
+   "A": "Carcinoma of the oesophagus",
+   "B": "Carcinoma of the head of pancreas",
+   "C": "Fibrotic stricture of the pylorus (cicatricial stenosis)",
+   "D": "Compression by malignant nodes",
+   "E": "Chronic pancreatitis"
+  },
+  "answer": "C",
+  "explanation": "Long-standing peptic ulceration near the pylorus heals with fibrosis, causing benign pyloric stenosis and gastric outlet obstruction. Carcinoma of the pancreatic head obstructs the second part of the duodenum and usually presents with jaundice, often with bilious vomiting.",
+  "key_note": "Bank copies disagree: most marked C, one marked B; correct is C because a long peptic ulcer history with GOO points to cicatricial pyloric stenosis.",
+  "_new": true,
+  "qid": "11-N8"
+ },
+ {
+  "ncids": [
+   "K0384",
+   "K0870"
+  ],
+  "stem": "A 50-year-old man presents with haematemesis of 6 hours duration and a history of weight loss and anorexia for 6 months. He is pale, pulse 120/min, BP 90/60 mmHg. After resuscitation, which single investigation is best?",
+  "options": {
+   "A": "Barium studies of upper GIT",
+   "B": "Upper GI endoscopy",
+   "C": "CT scan abdomen",
+   "D": "Ultrasound abdomen",
+   "E": "Endoluminal ultrasound"
+  },
+  "answer": "B",
+  "explanation": "Urgent upper GI endoscopy after resuscitation is the investigation of choice for upper GI bleeding: it identifies the source (ulcer or tumour), allows biopsy and endoscopic haemostasis. Barium studies are contraindicated in acute bleeding as they obscure endoscopy.",
+  "key_note": "",
+  "_new": true,
+  "qid": "11-N9"
+ },
+ {
+  "ncids": [
+   "K0393"
+  ],
+  "stem": "A 40-year-old patient with dyspepsia for 4 years has an ulcer in the first part of the duodenum on endoscopy and fails to respond to medical treatment. What is the best surgical option from those listed?",
+  "options": {
+   "A": "Billroth I gastrectomy",
+   "B": "Billroth II gastrectomy",
+   "C": "Highly selective vagotomy (with or without pyloroplasty)",
+   "D": "Pyloroplasty alone",
+   "E": "Truncal vagotomy alone"
+  },
+  "answer": "C",
+  "explanation": "Highly selective (proximal gastric) vagotomy denervates the acid-secreting fundus and body while preserving the nerves of Latarjet to the antrum, so gastric emptying is preserved and side effects are fewest; strictly it needs no drainage procedure. Truncal vagotomy alone causes gastric stasis and must be combined with drainage.",
+  "key_note": "",
+  "_new": true,
+  "qid": "11-N10"
+ },
+ {
+  "ncids": [
+   "K0401"
+  ],
+  "stem": "An 80-year-old man presents with dyspepsia, haematemesis, weight loss and anorexia for 4 months. Endoscopy reveals a fungating growth in the prepyloric region, staged T1N0M0. What is the best surgical option?",
+  "options": {
+   "A": "Partial proximal gastrectomy",
+   "B": "Radical total gastrectomy",
+   "C": "Partial distal gastrectomy",
+   "D": "Total gastrectomy"
+  },
+  "answer": "C",
+  "explanation": "Distal (antral/prepyloric) gastric cancers are treated by partial distal (subtotal) gastrectomy with adequate margins and lymphadenectomy; total gastrectomy is reserved for proximal or body tumours. In an elderly patient with early disease, the lesser operation is preferred.",
+  "key_note": "",
+  "_new": true,
+  "qid": "11-N11"
+ },
+ {
+  "ncids": [
+   "K0508",
+   "K0409",
+   "K0974"
+  ],
+  "stem": "A 5-week-old boy has had forceful vomiting after feeds for 2 weeks and seems lethargic. He is mildly dehydrated with a smooth, firm, non-tender mass in the right upper quadrant. What biochemical abnormalities would you expect?",
+  "options": {
+   "A": "Hyperchloraemic respiratory alkalosis",
+   "B": "Hypernatraemic, hyperkalaemic metabolic alkalosis",
+   "C": "Hypochloraemic, hyperkalaemic metabolic alkalosis",
+   "D": "Hypochloraemic, hypokalaemic metabolic alkalosis",
+   "E": "Hyponatraemic metabolic acidosis"
+  },
+  "answer": "D",
+  "explanation": "Infantile hypertrophic pyloric stenosis causes loss of HCl in vomitus, giving hypochloraemic metabolic alkalosis; renal compensation exchanges sodium for potassium and hydrogen, adding hypokalaemia and paradoxical aciduria. The alkalosis must be corrected before pyloromyotomy.",
+  "key_note": "",
+  "_new": true,
+  "qid": "11-N12"
+ },
+ {
+  "ncids": [
+   "K0573"
+  ],
+  "stem": "Gastrointestinal stromal tumours (GIST) account for approximately what proportion of all GI tract tumours?",
+  "options": {
+   "A": "1%",
+   "B": "5%",
+   "C": "10%",
+   "D": "15%",
+   "E": "12%"
+  },
+  "answer": "A",
+  "explanation": "GISTs are rare, making up about 1% (range 1 to 3%) of GI tract neoplasms, though they are the commonest mesenchymal tumour of the GI tract. The stomach is the commonest site.",
+  "key_note": "",
+  "_new": true,
+  "qid": "11-N13"
+ },
+ {
+  "ncids": [
+   "K0576"
+  ],
+  "stem": "The following are surgical complications of peptic ulcer disease of the gastric antrum EXCEPT:",
+  "options": {
+   "A": "Perforation",
+   "B": "Bleeding",
+   "C": "Gastric outlet obstruction",
+   "D": "Diverticulum formation",
+   "E": "Acute peritonitis"
+  },
+  "answer": "D",
+  "explanation": "Complications of peptic ulcer are perforation (with peritonitis), haemorrhage, gastric outlet obstruction and penetration. Diverticulum formation is not a complication of antral ulceration.",
+  "key_note": "",
+  "_new": true,
+  "qid": "11-N14"
+ },
+ {
+  "ncids": [
+   "K0619"
+  ],
+  "stem": "A 5-week-old infant is brought with projectile non-bilious vomiting for 3 days. The baby seems hungry, is dehydrated and vomits twice in the emergency department. Ultrasound shows a thickened pylorus. What is the likely diagnosis?",
+  "options": {
+   "A": "Acute intestinal obstruction",
+   "B": "Infantile hypertrophic pyloric stenosis",
+   "C": "Intussusception",
+   "D": "Gastro-oesophageal reflux",
+   "E": "Acute pancreatitis"
+  },
+  "answer": "B",
+  "explanation": "A hungry infant of 3 to 6 weeks with projectile non-bilious vomiting and a thickened pyloric muscle on ultrasound has infantile hypertrophic pyloric stenosis. Ultrasound criteria are muscle thickness over 3 to 4 mm and pyloric length over 15 to 18 mm.",
+  "key_note": "",
+  "_new": true,
+  "qid": "11-N15"
+ },
+ {
+  "ncids": [
+   "K0841"
+  ],
+  "stem": "The treatment of choice for uncomplicated peptic ulcer disease is:",
+  "options": {
+   "A": "Truncal vagotomy",
+   "B": "Gastrectomy alone",
+   "C": "Highly selective vagotomy",
+   "D": "H. pylori eradication therapy"
+  },
+  "answer": "D",
+  "explanation": "Most peptic ulcers are H. pylori related, and eradication therapy with a PPI heals the ulcer and prevents recurrence. Elective ulcer surgery is now rarely required.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "11-N16"
+ },
+ {
+  "ncids": [
+   "K0867"
+  ],
+  "stem": "The 'teapot' stomach deformity is caused by scarring from a long-standing gastric ulcer located at the:",
+  "options": {
+   "A": "Gastric fundus",
+   "B": "Gastro-oesophageal junction",
+   "C": "Lesser curvature",
+   "D": "Greater curvature",
+   "E": "Pyloric region"
+  },
+  "answer": "C",
+  "explanation": "Cicatricial contraction of a chronic lesser curvature ulcer shortens the lesser curve, producing the teapot (and hourglass) stomach deformity. Prepyloric ulcer scarring instead causes pyloric stenosis.",
+  "key_note": "",
+  "_new": true,
+  "qid": "11-N17"
+ },
+ {
+  "ncids": [
+   "K0868"
+  ],
+  "stem": "Gastroduodenal stress ulcers developing as a result of acute severe physical stress (such as major burns) are best termed:",
+  "options": {
+   "A": "Cushing's ulcer",
+   "B": "Curling's ulcer",
+   "C": "Kissing ulcer",
+   "D": "Rodent ulcer",
+   "E": "Marjolin's ulcer"
+  },
+  "answer": "B",
+  "explanation": "Curling's ulcers are acute stress ulcers after major burns and severe physical stress. Cushing's ulcers follow head injury or raised intracranial pressure; Marjolin's ulcer is malignancy in a chronic scar.",
+  "key_note": "",
+  "_new": true,
+  "qid": "11-N18"
+ },
+ {
+  "ncids": [
+   "K1290"
+  ],
+  "stem": "A 58-year-old woman who had a partial gastrectomy for duodenal ulcer 12 years ago presents with generalised bone pain and bone tenderness. X-ray of the pelvis shows pseudofractures (Looser's zones). Repeated serum calcium levels are normal. What is the cause?",
+  "options": {
+   "A": "Osteomalacia",
+   "B": "Vitamin B12 deficiency",
+   "C": "Bile salt malabsorption",
+   "D": "Hyperparathyroidism",
+   "E": "Small stomach syndrome"
+  },
+  "answer": "A",
+  "explanation": "Malabsorption of calcium and vitamin D after gastrectomy causes osteomalacia, whose hallmark is Looser's zones (pseudofractures) with bone pain. Serum calcium may stay normal through secondary hyperparathyroidism.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "11-N19"
+ },
+ {
+  "ncids": [
+   "K1493",
+   "K1291"
+  ],
+  "stem": "A 50-year-old man presents with haematemesis. Endoscopy shows a bleeding peptic ulcer in the posterior wall of the first part of the duodenum. Which artery is involved and needs to be under-run?",
+  "options": {
+   "A": "Right gastric artery",
+   "B": "Right gastro-epiploic artery",
+   "C": "Gastroduodenal artery",
+   "D": "Superior pancreaticoduodenal artery",
+   "E": "Inferior pancreaticoduodenal artery"
+  },
+  "answer": "C",
+  "explanation": "The gastroduodenal artery runs directly behind the first part of the duodenum, so posterior duodenal ulcers erode it and cause major bleeding. At surgery it is under-run with sutures placed above, below and medially.",
+  "key_note": "",
+  "_new": true,
+  "qid": "11-N20"
+ },
+ {
+  "ncids": [
+   "K1405"
+  ],
+  "stem": "In adult hypertrophic pyloric stenosis, the pathology is:",
+  "options": {
+   "A": "Overgrowth (hypertrophy) of circular muscle",
+   "B": "Overgrowth of longitudinal muscle",
+   "C": "Fibrosis of myenteric plexus",
+   "D": "None of the above"
+  },
+  "answer": "A",
+  "explanation": "Both infantile and adult hypertrophic pyloric stenosis are characterised by hypertrophy of the circular muscle of the pylorus. Abnormal myenteric innervation is a proposed cause, not the defining pathology.",
+  "key_note": "Bank keyed C; correct is A because the defining lesion of hypertrophic pyloric stenosis is circular muscle hypertrophy, not myenteric plexus fibrosis.",
+  "_new": true,
+  "qid": "11-N21"
+ },
+ {
+  "ncids": [
+   "K1406"
+  ],
+  "stem": "Gastric ulcers at which location have the greater chance of malignancy?",
+  "options": {
+   "A": "Antrum",
+   "B": "Prepyloric region",
+   "C": "Fundus",
+   "D": "Body"
+  },
+  "answer": "C",
+  "explanation": "Benign gastric ulcers typically lie on the lesser curvature near the incisura (body and antrum) and prepyloric ulcers behave like duodenal ulcers. Ulcers in atypical sites such as the fundus and greater curvature are more likely to be malignant and must always be biopsied.",
+  "key_note": "Bank keyed B; correct is C because prepyloric (type III) ulcers behave like duodenal ulcers, while fundal and greater curvature ulcers carry a higher risk of malignancy.",
+  "_new": true,
+  "qid": "11-N22"
+ },
+ {
+  "ncids": [
+   "K1407"
+  ],
+  "stem": "Which complication of peptic ulcer manifests with vomiting, abdominal pain and rigidity?",
+  "options": {
+   "A": "Pyloric obstruction",
+   "B": "Perforation",
+   "C": "Malignant transformation",
+   "D": "Haemorrhage"
+  },
+  "answer": "B",
+  "explanation": "Perforation spills gastroduodenal contents into the peritoneal cavity, causing sudden severe pain, vomiting and board-like rigidity of chemical peritonitis. Pyloric obstruction causes vomiting and distension without rigidity.",
+  "key_note": "",
+  "_new": true,
+  "qid": "11-N23"
+ },
+ {
+  "ncids": [
+   "K1463"
+  ],
+  "stem": "Which of the following is true about upper gastrointestinal bleeding due to peptic ulcer disease?",
+  "options": {
+   "A": "In patients with normal GI anatomy, haematochezia will not occur",
+   "B": "Bleeding stops spontaneously in 70% to 80% of patients",
+   "C": "Most patients present with isolated melaena",
+   "D": "The mortality rate of bleeding peptic ulcer is 25%",
+   "E": "Perforation is accompanied by haemorrhage in 50% of cases"
+  },
+  "answer": "B",
+  "explanation": "About 70 to 80% of ulcer bleeds stop spontaneously. Brisk upper GI bleeding can present with haematochezia, mortality is around 5 to 10%, and concurrent perforation with bleeding is uncommon.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "11-N24"
+ },
+ {
+  "ncids": [
+   "K0842"
+  ],
+  "stem": "The commonest site of metastasis for gastric cancer is:",
+  "options": {
+   "A": "Bones",
+   "B": "Liver",
+   "C": "Brain",
+   "D": "Lungs"
+  },
+  "answer": "B",
+  "explanation": "Gastric cancer spreads via the portal venous system, so the liver is the commonest site of distant (haematogenous) metastasis.",
+  "key_note": "",
+  "_new": true,
+  "qid": "11-N25"
+ },
+ {
+  "ncids": [
+   "K0368"
+  ],
+  "stem": "Which of the following is an early technical (surgical) complication of Billroth II gastrectomy rather than a late post-gastrectomy syndrome?",
+  "options": {
+   "A": "Duodenal stump blowout",
+   "B": "Dumping syndrome",
+   "C": "Post-vagotomy diarrhoea",
+   "D": "Delayed gastric emptying",
+   "E": "Steatorrhoea"
+  },
+  "answer": "A",
+  "explanation": "Duodenal stump blowout is an early leak from the closed duodenal stump, typically in the first postoperative week. Dumping, post-vagotomy diarrhoea, delayed emptying and steatorrhoea are later functional or metabolic sequelae.",
+  "key_note": "Source stem asked 'all are complications of peptic ulcer surgery EXCEPT' but every option is a recognised complication; bank starred A. Stem reworded so that A is the single correct answer.",
+  "_new": true,
+  "qid": "11-N26"
+ }
+]

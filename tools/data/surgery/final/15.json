@@ -1,0 +1,927 @@
+[
+ {
+  "cids": [
+   "C0728"
+  ],
+  "stem": "The commonest cause of acute pancreatitis is:",
+  "options": {
+   "A": "Viral infection",
+   "B": "ERCP",
+   "C": "Gallstones",
+   "D": "Drugs",
+   "E": "Alcohol"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Gallstones are the commonest cause of acute pancreatitis (about 50% in most series), followed by alcohol (about 25%). ERCP, drugs and viruses are less common causes.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "15-1"
+ },
+ {
+  "cids": [
+   "C0568"
+  ],
+  "stem": "What is raised in acute pancreatitis?",
+  "options": {
+   "A": "Serum alkaline phosphatase",
+   "B": "Serum calcium",
+   "C": "Serum amylase",
+   "D": "Serum albumin",
+   "E": "Serum ALT"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Serum amylase (and lipase) rise in acute pancreatitis; a level over 3 times the upper limit of normal supports the diagnosis. Serum calcium falls, owing to fat saponification.",
+  "key_note": "",
+  "figure": "",
+  "qid": "15-2"
+ },
+ {
+  "cids": [
+   "C1114"
+  ],
+  "stem": "A 45-year alcoholic male presents with sudden-onset severe epigastric pain radiating to the back, along with nausea and vomiting. Serum amylase is 250 U/L and serum lipase is 580 U/L. Which enzyme is most specific for confirming the diagnosis?",
+  "options": {
+   "A": "ALT",
+   "B": "Serum amylase",
+   "C": "Serum lipase",
+   "D": "Trypsinogen",
+   "E": "Urinary amylase"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Serum lipase is more specific and stays elevated longer than amylase, which is also raised in perforated ulcer, ischaemic bowel, salivary disease and others.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "15-3"
+ },
+ {
+  "cids": [
+   "C1441"
+  ],
+  "stem": "A 50-year-old man presents to the emergency department with acute abdominal pain of 10 hours' duration. On examination there is bruising around the umbilicus and in both flanks. What diagnosis comes to mind first?",
+  "options": {
+   "A": "Acute biliary peritonitis",
+   "B": "Mesenteric ischaemia",
+   "C": "Acute pyelonephritis",
+   "D": "Acute pancreatitis",
+   "E": "None of the above"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Periumbilical (Cullen's sign) and flank (Grey Turner's sign) bruising result from retroperitoneal haemorrhage tracking along tissue planes, classically in severe acute haemorrhagic pancreatitis; it may also occur with a ruptured AAA or ectopic pregnancy.",
+  "key_note": "Paper marked B (mesenteric ischaemia); correct is D, as also given by the compiled key.",
+  "figure": "",
+  "qid": "15-4"
+ },
+ {
+  "cids": [
+   "C1177"
+  ],
+  "stem": "A 55-year-old woman presents with epigastric pain radiating to the back. She is suspected to have gallstone pancreatitis. What is the investigation of choice to confirm this diagnosis?",
+  "options": {
+   "A": "CT abdomen (non-contrast)",
+   "B": "CT abdomen with contrast",
+   "C": "Serum amylase",
+   "D": "Serum lipase",
+   "E": "Ultrasound abdomen"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "In suspected gallstone pancreatitis, transabdominal ultrasound is the key early investigation: it confirms gallstones as the cause (which determines ERCP and cholecystectomy). Serum amylase or lipase confirms pancreatitis; CECT is not needed early unless the diagnosis is in doubt or to assess complications after 72 hours.",
+  "key_note": "One paper circled B (contrast CT); compiled key gave E. E is preferred because the question asks about confirming the gallstone cause, which CT can miss; CECT is reserved for diagnostic doubt or complications.",
+  "figure": "",
+  "qid": "15-5"
+ },
+ {
+  "cids": [
+   "C0319"
+  ],
+  "stem": "A 60-year-old man presents to the emergency department with epigastric pain for 3 days and multiple episodes of bilious vomiting. He is a known case of gallstone disease. On examination pulse is 124/min, BP 90/60 mmHg, and he has a distended abdomen with a tender epigastric mass. Which is the best investigation to confirm the diagnosis?",
+  "options": {
+   "A": "Serum amylase",
+   "B": "CRP",
+   "C": "CT abdomen with contrast",
+   "D": "MRCP",
+   "E": "Serum lipase"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "In a patient presenting late (3 days) with shock, ileus and a tender epigastric mass, contrast-enhanced CT confirms the diagnosis of pancreatitis, shows necrosis and collections, and excludes other catastrophes such as perforation. Enzymes, especially amylase, may already be falling by day 3.",
+  "key_note": "Both copies keyed C (contrast CT). This is defensible for a late (day 3) presentation with shock and an epigastric mass; in a typical early presentation serum lipase or amylase over 3 times normal is the usual confirmatory test.",
+  "figure": "",
+  "qid": "15-6"
+ },
+ {
+  "cids": [
+   "C1228"
+  ],
+  "stem": "A 42-year-old woman admitted with painful jaundice due to choledocholithiasis had ERCP 12 hours ago. She now has a change in the nature and intensity of upper abdominal pain, which radiates to the back, and has vomited twice. The upper abdomen is tender with voluntary guarding. After analgesia and IV fluids, an erect chest X-ray is normal. What is the next step in management?",
+  "options": {
+   "A": "Reassure the patient",
+   "B": "Send Serum Amylase levels",
+   "C": "Urgent Upper GI Endoscopy",
+   "D": "Prepare for Exploratory Laparotomy",
+   "E": "Sedate the patient"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "New upper abdominal pain radiating to the back with vomiting after ERCP, with no free gas on erect chest X-ray, suggests post-ERCP pancreatitis (the commonest ERCP complication); check serum amylase or lipase. Retroperitoneal perforation is the differential if enzymes are normal (then CT).",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "15-7"
+ },
+ {
+  "cids": [
+   "C0318"
+  ],
+  "stem": "Ranson's criteria are used to predict outcome in acute pancreatitis. Which of the following is NOT one of Ranson's admission parameters?",
+  "options": {
+   "A": "Age",
+   "B": "Blood glucose",
+   "C": "LDH and AST",
+   "D": "Serum amylase",
+   "E": "White cell count"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Ranson's admission criteria: age over 55, WBC over 16,000, glucose over 10 mmol/L, LDH over 350 IU/L and AST over 250 IU/L. Serum amylase has no prognostic value and is not part of any severity score.",
+  "key_note": "",
+  "figure": "",
+  "qid": "15-8"
+ },
+ {
+  "cids": [
+   "C0552"
+  ],
+  "stem": "A 55-year-old man presents to the emergency department with severe epigastric pain radiating to the back and is diagnosed with acute pancreatitis. Which statement about Ranson's criteria is true?",
+  "options": {
+   "A": "Ranson's criteria have diagnostic value",
+   "B": "Ranson's criteria have prognostic value",
+   "C": "Serum amylase is the most significant component of Ranson's criteria",
+   "D": "Serum lipase is the most significant component of Ranson's criteria",
+   "E": "White cell count has the highest significance in Ranson's criteria"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Ranson's criteria are a prognostic (severity) score, assessed on admission and at 48 hours; they have no diagnostic value and do not include amylase or lipase.",
+  "key_note": "",
+  "figure": "",
+  "qid": "15-9"
+ },
+ {
+  "cids": [
+   "C0867"
+  ],
+  "stem": "According to the revised Atlanta classification, severe acute pancreatitis is defined by:",
+  "options": {
+   "A": "Persistent organ failure",
+   "B": "No systemic complication",
+   "C": "Transient organ failure",
+   "D": "Overt renal damage",
+   "E": "Pleural effusion"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Revised Atlanta classification: mild has no organ failure; moderately severe has transient organ failure (under 48 hours) or local complications; severe has persistent organ failure lasting over 48 hours.",
+  "key_note": "",
+  "figure": "",
+  "qid": "15-10"
+ },
+ {
+  "cids": [
+   "N022"
+  ],
+  "stem": "A 55-year-old man presents with severe excruciating epigastric pain radiating to the back and multiple episodes of vomiting. His TLC is 20,000/mm3 and serum amylase 800 IU/L. You are asked to relieve his pain. Which is the best analgesic for this patient?",
+  "options": {},
+  "answer": null,
+  "answer_text": "An opioid analgesic, e.g. intravenous nalbuphine (as in the compiled key).",
+  "explanation": "Pain in acute pancreatitis should be adequately controlled, and opioids are safe and effective. The compiled key gives IV nalbuphine; morphine or pethidine are equally acceptable, and the old fear of morphine causing sphincter of Oddi spasm has no clinical relevance.",
+  "key_note": "Options not available in the source; recall question.",
+  "figure": "",
+  "qid": "15-11"
+ },
+ {
+  "cids": [
+   "C0491"
+  ],
+  "stem": "A woman admitted to the ICU for severe acute pancreatitis begins to manifest paresthesia of the face and extremities, muscle cramps, and a positive Chvostek's sign. These are probably due to:",
+  "options": {
+   "A": "Hypocalcaemia",
+   "B": "Hypokalaemia",
+   "C": "Hypomagnesaemia",
+   "D": "Hypophosphataemia",
+   "E": "Hypochloraemia"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Hypocalcaemia in acute pancreatitis results from calcium soaps forming in areas of fat necrosis; it gives perioral and peripheral paraesthesia, cramps, and Chvostek's and Trousseau's signs. Serum calcium below 2 mmol/L is a poor prognostic sign.",
+  "key_note": "",
+  "figure": "",
+  "qid": "15-12"
+ },
+ {
+  "cids": [
+   "C0333"
+  ],
+  "stem": "All of the following are local complications of acute pancreatitis EXCEPT:",
+  "options": {
+   "A": "ARDS",
+   "B": "Pancreatic abscess",
+   "C": "Peripancreatic sterile collection",
+   "D": "Pseudocyst",
+   "E": "Splenic vein thrombosis"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Local complications are confined to and around the pancreas: acute fluid collections, pseudocyst, necrosis (sterile or infected), abscess, and splenic or portal vein thrombosis. ARDS is a systemic complication.",
+  "key_note": "",
+  "figure": "",
+  "qid": "15-13"
+ },
+ {
+  "cids": [
+   "C0563"
+  ],
+  "stem": "Pancreatic pseudocyst is a complication of acute pancreatitis. If it requires surgery, it should be operated on after an interval of:",
+  "options": {
+   "A": "6 hours",
+   "B": "6 days",
+   "C": "6 weeks",
+   "D": "6 months",
+   "E": "6 years"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A pseudocyst needs about 6 weeks for its wall to mature enough to hold sutures or a stent; many resolve spontaneously during this time.",
+  "key_note": "",
+  "figure": "",
+  "qid": "15-14"
+ },
+ {
+  "cids": [
+   "C0320"
+  ],
+  "stem": "Six weeks after an attack of acute pancreatitis, a patient develops an upper abdominal swelling that is increasing in size. Ultrasound shows a pancreatic pseudocyst of more than 8 cm. Which treatment is most appropriate?",
+  "options": {
+   "A": "Excision of cyst",
+   "B": "Cystogastrostomy",
+   "C": "Pancreatectomy",
+   "D": "Whipple operation",
+   "E": "Watch and see"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "A large (over 6 cm), enlarging pseudocyst persisting 6 weeks after pancreatitis needs internal drainage into the stomach (cystogastrostomy), now usually done endoscopically under EUS guidance. Excision is not needed as it has no epithelial lining.",
+  "key_note": "",
+  "figure": "",
+  "qid": "15-15"
+ },
+ {
+  "cids": [
+   "C0172"
+  ],
+  "stem": "A patient with a history of alcohol abuse presents with a 3-week history of epigastric pain and early satiety. The CT reveals a 6 cm fluid-filled cystic lesion in the pancreas. What is the most appropriate next step?",
+  "options": {
+   "A": "Immediate surgical resection",
+   "B": "ERCP with pancreatic stent",
+   "C": "EUS-guided aspiration and drainage",
+   "D": "Repeat imaging in 6 months",
+   "E": "IV antibiotics"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A symptomatic pseudocyst (pain, early satiety from gastric compression) is drained, and EUS-guided transmural (cyst-gastric) drainage is now first line. Drainage is ideally done once the wall has matured, around 4-6 weeks.",
+  "key_note": "",
+  "figure": "",
+  "qid": "15-16"
+ },
+ {
+  "cids": [
+   "C0071"
+  ],
+  "stem": "A patient with a history of recurrent pancreatitis undergoes an endoscopic retrograde cholangiopancreatography (ERCP). What is the primary purpose of this procedure in this scenario?",
+  "options": {
+   "A": "To diagnose gallstones",
+   "B": "To evaluate pancreatic cancer",
+   "C": "To treat bile duct obstruction",
+   "D": "To diagnose chronic pancreatitis",
+   "E": "To remove pancreatic pseudocysts"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "In recurrent (gallstone-related) pancreatitis, ERCP is used therapeutically, to clear bile duct stones or relieve obstruction by sphincterotomy. Diagnosis is now made with MRCP, EUS and CT rather than diagnostic ERCP.",
+  "key_note": "",
+  "figure": "",
+  "qid": "15-17"
+ },
+ {
+  "cids": [
+   "C0710"
+  ],
+  "stem": "The most common cause of chronic pancreatitis worldwide is:",
+  "options": {
+   "A": "Gallstones",
+   "B": "Alcohol abuse",
+   "C": "Hereditary",
+   "D": "Hypertriglyceridemia",
+   "E": "Infectious"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Alcohol is the commonest cause of chronic pancreatitis (around 70%), whereas gallstones are the commonest cause of acute pancreatitis.",
+  "key_note": "",
+  "figure": "",
+  "qid": "15-18"
+ },
+ {
+  "cids": [
+   "C0507"
+  ],
+  "stem": "Which of the following is the most common clinical presentation of chronic pancreatitis?",
+  "options": {
+   "A": "Marked weight loss",
+   "B": "Steatorrhoea",
+   "C": "Diabetes mellitus",
+   "D": "Epigastric pain",
+   "E": "Obstructive jaundice"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Pain is the dominant presenting feature of chronic pancreatitis, occurring in around 85-90%: epigastric, boring, radiating to the back. Steatorrhoea and diabetes are late features, appearing only after more than 90% of exocrine or endocrine function is lost.",
+  "key_note": "Paper marked B (steatorrhoea); correct is D, epigastric pain, which is the commonest presentation.",
+  "figure": "",
+  "qid": "15-19"
+ },
+ {
+  "cids": [
+   "C1442"
+  ],
+  "stem": "A 65-year-old woman is admitted with suspected chronic pancreatitis. Which investigation is most accurate in diagnosing chronic pancreatitis?",
+  "options": {
+   "A": "Ultrasound scan",
+   "B": "ERCP",
+   "C": "MRCP",
+   "D": "Contrast enhanced CT scan",
+   "E": "HIDA scan"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Contrast-enhanced CT is the main investigation in chronic pancreatitis, showing calcification, duct dilatation, atrophy and complications. MRCP (with secretin) and EUS are more sensitive for early disease. ERCP, the historical gold standard, is now reserved for therapy because of its complication risk.",
+  "key_note": "Paper marked D; the compiled key gave B (ERCP), which reflects older teaching. D follows current Bailey & Love teaching.",
+  "figure": "",
+  "qid": "15-20"
+ },
+ {
+  "cids": [
+   "C1115"
+  ],
+  "stem": "A 52-year male with a history of chronic alcohol use presents with steatorrhea, weight loss, and recent onset of insulin-requiring diabetes mellitus. CT shows pancreatic calcifications. What serious complication should be monitored in this patient?",
+  "options": {
+   "A": "Diabetes mellitus",
+   "B": "Fatty liver",
+   "C": "Portal hypertension",
+   "D": "Pancreatic cyst",
+   "E": "Pancreatic carcinoma"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Chronic pancreatitis, especially with calcification, raises the risk of pancreatic adenocarcinoma (around 4% at 20 years); new weight loss, jaundice or change in pain should prompt imaging. Diabetes is already present.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "15-21"
+ },
+ {
+  "cids": [
+   "C1117"
+  ],
+  "stem": "A 64-year smoker presents with progressive jaundice, weight loss, and upper abdominal discomfort. Imaging shows a mass in the head of the pancreas. Which tumor marker would most likely be elevated?",
+  "options": {
+   "A": "AFP",
+   "B": "CA 19-9",
+   "C": "CA-125",
+   "D": "CEA",
+   "E": "NSE"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "CA 19-9 is the tumour marker for pancreatic adenocarcinoma, useful for prognosis and follow-up rather than screening; it is also raised in obstructive jaundice. Smoking is the main modifiable risk factor.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "15-22"
+ },
+ {
+  "cids": [
+   "C0165",
+   "C0596",
+   "C0348"
+  ],
+  "stem": "A 52-year woman has painless jaundice, along with weight loss. On examination the gall bladder was palpable as a globular soft mass. What is the most likely diagnosis?",
+  "options": {
+   "A": "Choledocholithiasis",
+   "B": "Chronic pancreatitis",
+   "C": "Carcinoma of the pancreatic head",
+   "D": "Gallbladder carcinoma",
+   "E": "Primary sclerosing cholangitis"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Painless jaundice with weight loss and a palpable, smooth, non-tender gallbladder (Courvoisier's law) indicates malignant distal biliary obstruction, most often carcinoma of the pancreatic head.",
+  "key_note": "One source copy ticked B (choledocholithiasis) but highlighted A; with a palpable gallbladder A (carcinoma head of pancreas) is correct.",
+  "figure": "",
+  "qid": "15-23"
+ },
+ {
+  "cids": [
+   "C1116"
+  ],
+  "stem": "A 60-year male presents with painless progressive jaundice and a palpable, non-tender gallbladder. He has significant weight loss and itching. Which sign is most likely present?",
+  "options": {
+   "A": "Blumberg's sign",
+   "B": "Courvoisier's sign",
+   "C": "Cullen's sign",
+   "D": "Murphy's sign",
+   "E": "Trousseau's sign"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Courvoisier's sign (law): in painless jaundice a palpable, non-tender gallbladder is unlikely to be due to stones and suggests malignant obstruction such as pancreatic head cancer. Murphy's sign is for acute cholecystitis; Cullen's for haemorrhagic pancreatitis.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "15-24"
+ },
+ {
+  "cids": [
+   "C0604"
+  ],
+  "stem": "A 70-year-old man presents with jaundice, clay-coloured stools, dark urine and pruritus. He is jaundiced and his gallbladder is palpable. CT abdomen shows a 3 cm growth in the head of the pancreas. What is the best treatment option?",
+  "options": {
+   "A": "Cholecystojejunostomy",
+   "B": "Cholecystectomy",
+   "C": "Whipple operation",
+   "D": "Choledocholithotomy"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A resectable (3 cm, no metastases) adenocarcinoma of the pancreatic head is treated by pancreaticoduodenectomy (Whipple), followed by adjuvant chemotherapy. Cholecystojejunostomy is only a palliative bypass.",
+  "key_note": "",
+  "figure": "",
+  "qid": "15-25"
+ },
+ {
+  "cids": [
+   "C0492"
+  ],
+  "stem": "ERCP reveals a periampullary cancer in a 64-year-old man admitted for jaundice. No metastasis is detected; no co-morbid conditions are identified. How should he be managed?",
+  "options": {
+   "A": "Excision of the head of pancreas and duodenum (Whipple)",
+   "B": "Local excision and adjuvant chemotherapy",
+   "C": "External beam radiation",
+   "D": "Stenting of common bile duct",
+   "E": "Systemic chemotherapy"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "A fit patient with a non-metastatic periampullary cancer should undergo pancreaticoduodenectomy (Whipple), i.e. excision of the pancreatic head and duodenum; periampullary cancers have better resectability and prognosis than pancreatic cancer. Stenting is palliative.",
+  "key_note": "A pen mark circled B in one copy; the key gave A, which is correct.",
+  "figure": "",
+  "qid": "15-26"
+ },
+ {
+  "cids": [
+   "C0173"
+  ],
+  "stem": "During surgery for a pancreatic head mass, the tumor is found to be encasing the superior mesenteric artery. What is the best course of action?",
+  "options": {
+   "A": "Proceed with Whipple procedure",
+   "B": "Convert to distal pancreatectomy",
+   "C": "Abort surgery and refer for neoadjuvant therapy",
+   "D": "Debulk tumor and insert biliary stent",
+   "E": "Perform total pancreatectomy"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Encasement of the superior mesenteric artery (over 180 degrees) makes a pancreatic cancer locally advanced and unresectable; proceeding risks an R2 resection with no survival benefit. Abort, palliate the jaundice (stent or bypass) and refer for neoadjuvant or systemic therapy.",
+  "key_note": "",
+  "figure": "",
+  "qid": "15-27"
+ },
+ {
+  "cids": [
+   "C0324",
+   "C0586"
+  ],
+  "stem": "A 60-year-old man presents to the emergency department with epigastric pain for 3 days and multiple episodes of bilious vomiting. He is a known case of gallstone disease. On examination pulse is 124/min, BP 90/60 mmHg, and he has a distended abdomen with a tender epigastric mass. What is the most likely diagnosis?",
+  "options": {
+   "A": "Acute cholecystitis",
+   "B": "Chronic cholecystitis",
+   "C": "Gastritis",
+   "D": "Pancreatitis",
+   "E": "Peptic ulcer"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A gallstone patient with epigastric pain radiating to the back, repeated vomiting, shock (pulse 124, BP 90/60), distension (ileus) and a tender epigastric mass has severe acute (gallstone) pancreatitis; serum amylase or lipase over 3 times normal confirms it.",
+  "key_note": "The highlight in one copy was on A (acute cholecystitis) while the printed key gave D; correct is D.",
+  "figure": "",
+  "qid": "15-28"
+ },
+ {
+  "cids": [
+   "C0174"
+  ],
+  "stem": "A 65-year woman presents with painless jaundice and pruritus. Imaging reveals a 3 cm mass in the head of the pancreas with a double duct sign. What is the most likely diagnosis?",
+  "options": {
+   "A": "Cholangiocarcinoma",
+   "B": "Ampullary carcinoma",
+   "C": "Pancreatic adenocarcinoma",
+   "D": "Autoimmune pancreatitis",
+   "E": "Pancreatic neuroendocrine tumor"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A pancreatic head mass with a double duct sign (dilated CBD and pancreatic duct) and painless jaundice in an elderly patient is pancreatic ductal adenocarcinoma. Ampullary carcinoma can also give a double duct sign but no separate pancreatic head mass.",
+  "key_note": "",
+  "figure": "",
+  "qid": "15-29"
+ },
+ {
+  "cids": [
+   "C1123"
+  ],
+  "stem": "A 55-year man presents with progressive yellowing of the skin, dark urine, pale stools, and pruritus over the past 2 weeks. He has a history of weight loss and vague right upper quadrant discomfort. Laboratory tests show elevated conjugated bilirubin and ALP. Ultrasound shows dilated intrahepatic bile ducts and a mass at the head of the pancreas. What is the most appropriate next step in management?",
+  "options": {
+   "A": "Order a contrast-enhanced CT abdomen",
+   "B": "Refer for ERCP with stent placement immediately",
+   "C": "Schedule an open cholecystectomy",
+   "D": "Start empirical antibiotics for ascending cholangitis",
+   "E": "Start oral ursodeoxycholic acid"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Painless obstructive jaundice with a pancreatic head mass needs pancreas-protocol contrast-enhanced CT to stage the tumour and assess resectability (vessel involvement, metastases). Routine preoperative ERCP stenting is avoided unless there is cholangitis, severe jaundice or neoadjuvant therapy is planned.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "15-30"
+ },
+ {
+  "cids": [
+   "C1347#U0372"
+  ],
+  "stem": "What is the primary imaging modality for evaluating the pancreas?",
+  "options": {
+   "A": "CT scan",
+   "B": "MRI",
+   "C": "Ultrasound",
+   "D": "PET scan",
+   "E": "ERCP"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Contrast-enhanced CT (pancreatic protocol) is the main imaging modality for pancreatitis complications and pancreatic tumours, including staging and resectability. Ultrasound is limited by bowel gas, and ERCP is now mainly therapeutic.",
+  "key_note": "Source cluster C1347 wrongly combined this pancreas question with the thyroid imaging question (which stays in the thyroid chapter); this item covers the pancreas members U0372 and U2189.",
+  "figure": "",
+  "split_from": "C1347",
+  "qid": "15-31"
+ },
+ {
+  "ncids": [
+   "K0386"
+  ],
+  "stem": "A 45-year-old woman presents with central abdominal pain radiating to the back, with nausea and vomiting for 2 days. She has a previous history of biliary colic. Her serum amylase is 2300 IU/L. What is the most likely cause of her acute pancreatitis?",
+  "options": {
+   "A": "Autoimmune pancreatitis",
+   "B": "Alcoholic pancreatitis",
+   "C": "Drug-induced pancreatitis",
+   "D": "Gallstone pancreatitis",
+   "E": "Idiopathic pancreatitis"
+  },
+  "answer": "D",
+  "explanation": "A middle-aged woman with prior biliary colic and a very high amylase (often over 1000 IU/L in biliary cases) most likely has gallstone pancreatitis, the commonest cause overall. Ultrasound should be done to confirm gallstones.",
+  "key_note": "",
+  "_new": true,
+  "qid": "15-N1"
+ },
+ {
+  "ncids": [
+   "K0391",
+   "K0585"
+  ],
+  "stem": "A 40-year-old alcoholic man is readmitted with pain and a palpable, soft, non-pulsatile epigastric mass 4 weeks after an attack of acute pancreatitis. He is apyrexial and stable, with persistent hyperamylasaemia. What is the most likely diagnosis?",
+  "options": {
+   "A": "Abdominal aortic aneurysm",
+   "B": "Pancreatic ascites",
+   "C": "Pancreatic carcinoma",
+   "D": "Pancreatic pseudocyst",
+   "E": "Pancreatic abscess"
+  },
+  "answer": "D",
+  "explanation": "A pseudocyst is a fluid collection with a non-epithelial wall that matures about 4 weeks after pancreatitis and presents as an epigastric mass with persistent hyperamylasaemia. An abscess would cause fever and sepsis.",
+  "key_note": "",
+  "_new": true,
+  "qid": "15-N2"
+ },
+ {
+  "ncids": [
+   "K0415"
+  ],
+  "stem": "A patient was treated conservatively for alcohol-induced acute pancreatitis. Eight weeks later he complains of continued epigastric pain radiating to the back. Serum amylase is 200 IU/L and he is tender over the epigastrium. Blood pressure, pulse and temperature are normal. What is the diagnosis?",
+  "options": {
+   "A": "Pancreatic pseudocyst",
+   "B": "Cholecystitis",
+   "C": "Chronic pancreatitis",
+   "D": "Recurrent acute pancreatitis",
+   "E": "Pancreatic abscess"
+  },
+  "answer": "A",
+  "explanation": "Persistent pain and raised amylase weeks after acute pancreatitis, in an afebrile stable patient, suggest a pseudocyst; confirm with ultrasound or CT. An abscess would be febrile and chronic pancreatitis takes longer to develop.",
+  "key_note": "",
+  "_new": true,
+  "qid": "15-N3"
+ },
+ {
+  "ncids": [
+   "K0400"
+  ],
+  "stem": "Which of the following is the most common cause of obstructive jaundice in patients with chronic pancreatitis?",
+  "options": {
+   "A": "Pancreatic pseudocyst formation",
+   "B": "Cholelithiasis",
+   "C": "Choledocholithiasis",
+   "D": "Fibrotic stricture of the common bile duct",
+   "E": "Adenocarcinoma of the head of the pancreas"
+  },
+  "answer": "D",
+  "explanation": "The intrapancreatic CBD is encased by fibrosis in the inflamed head of the pancreas, giving a smooth tapering stricture; cancer must still be excluded.",
+  "key_note": "",
+  "_new": true,
+  "qid": "15-N4"
+ },
+ {
+  "ncids": [
+   "K0464"
+  ],
+  "stem": "The pancreas lies retroperitoneally in the upper abdomen. Which statement is correct?",
+  "options": {
+   "A": "The uncinate process extends posterior to the inferior vena cava",
+   "B": "The splenic artery runs along the lower border of the pancreas",
+   "C": "The portal vein is formed behind the neck of the pancreas by union of the superior mesenteric and splenic veins",
+   "D": "The tail of the pancreas extends to the right of the aorta towards the right renal hilum",
+   "E": "The head of the pancreas is supplied only by the coeliac axis"
+  },
+  "answer": "C",
+  "explanation": "The portal vein forms behind the pancreatic neck. The uncinate process lies behind the SMV but in front of the IVC and aorta, the splenic artery runs along the upper border, the tail reaches the splenic hilum on the left, and the head is supplied by both coeliac (superior pancreaticoduodenal) and SMA (inferior pancreaticoduodenal) branches.",
+  "key_note": "",
+  "_new": true,
+  "qid": "15-N5"
+ },
+ {
+  "ncids": [
+   "K0475"
+  ],
+  "stem": "A 26-year-old woman with chronic alcoholism is admitted with severe acute pancreatitis. On the day after admission there is no improvement and she develops a mild cough and slight dyspnoea. What is the most likely complication?",
+  "options": {
+   "A": "Pulmonary atelectasis",
+   "B": "Bronchitis",
+   "C": "Pulmonary embolus",
+   "D": "Afferent loop syndrome",
+   "E": "Pneumonia"
+  },
+  "answer": "A",
+  "explanation": "Early pulmonary complications of pancreatitis are common: basal atelectasis and pleural effusion from splinting and diaphragmatic irritation occur first, while ARDS and pneumonia come later. Normal amylase does not exclude pancreatitis.",
+  "key_note": "",
+  "_new": true,
+  "qid": "15-N6"
+ },
+ {
+  "ncids": [
+   "K0476"
+  ],
+  "stem": "In acute pancreatitis, serum amylase rises early but returns to normal within:",
+  "options": {
+   "A": "2 to 6 hours",
+   "B": "6 to 12 hours",
+   "C": "48 to 72 hours",
+   "D": "100 to 120 hours",
+   "E": "120 to 150 hours"
+  },
+  "answer": "D",
+  "explanation": "Amylase rises within hours and normalises in about 3 to 5 days, so a late presenter may have a normal amylase; lipase stays raised longer and is preferred.",
+  "key_note": "",
+  "_new": true,
+  "qid": "15-N7"
+ },
+ {
+  "ncids": [
+   "K0477"
+  ],
+  "stem": "A 42-year-old man develops acute pancreatitis. Three weeks later CT shows a pancreatic phlegmon with an associated pseudocyst. Which of the following would decrease the likelihood of spontaneous resolution of the pseudocyst?",
+  "options": {
+   "A": "Absence of pancreatic calcification",
+   "B": "Location in the pancreatic tail",
+   "C": "Single cavity",
+   "D": "Size greater than 5 cm"
+  },
+  "answer": "D",
+  "explanation": "Pseudocysts larger than about 5 to 6 cm, persisting beyond 6 weeks, thick-walled or associated with chronic pancreatitis (calcification) or duct obstruction are unlikely to resolve. Small, single, post-acute pseudocysts often resolve spontaneously.",
+  "key_note": "",
+  "_new": true,
+  "qid": "15-N8"
+ },
+ {
+  "ncids": [
+   "K0478"
+  ],
+  "stem": "A 50-year-old man has alcoholic acute pancreatitis. Hyperamylasaemia resolves by day 3, but on day 8 he develops recurrent fever (38.5 C), progressive leukocytosis (18,500/mm3) and tachypnoea. What is the most appropriate next step?",
+  "options": {
+   "A": "ERCP with sphincterotomy and biliary stent",
+   "B": "CT-guided aspiration of peripancreatic fluid collections",
+   "C": "Laparotomy with pancreatic debridement",
+   "D": "Intravenous amphotericin B"
+  },
+  "answer": "B",
+  "explanation": "Late fever and leukocytosis suggest infected pancreatic necrosis: contrast CT with CT-guided fine-needle aspiration for Gram stain and culture confirms infection. Treatment then follows a step-up approach (antibiotics, percutaneous drainage, minimally invasive necrosectomy) rather than early laparotomy.",
+  "key_note": "",
+  "_new": true,
+  "qid": "15-N9"
+ },
+ {
+  "ncids": [
+   "K0479"
+  ],
+  "stem": "The best initial supportive measure in a patient with mild acute pancreatitis is:",
+  "options": {
+   "A": "Intravenous fluid and electrolyte therapy",
+   "B": "Withholding analgesics to allow serial abdominal examination",
+   "C": "Nasogastric decompression",
+   "D": "Subcutaneous octreotide"
+  },
+  "answer": "A",
+  "explanation": "Adequate IV fluid resuscitation (Hartmann's) with electrolyte correction is the key early treatment. Analgesia should not be withheld, nasogastric tubes are only for vomiting or ileus, and octreotide has no proven benefit.",
+  "key_note": "",
+  "_new": true,
+  "qid": "15-N10"
+ },
+ {
+  "ncids": [
+   "K0586"
+  ],
+  "stem": "A 41-year-old man is diagnosed with acute pancreatitis (serum amylase 1851 IU/L). Which of the following parameters is included in the modified Glasgow (Imrie) criteria?",
+  "options": {
+   "A": "Alkaline phosphatase",
+   "B": "C-reactive protein",
+   "C": "Serum creatinine",
+   "D": "PaCO2",
+   "E": "Blood glucose"
+  },
+  "answer": "E",
+  "explanation": "Glasgow criteria (PANCREAS): PaO2 < 8 kPa, Age > 55, Neutrophils (WBC > 15), Calcium < 2 mmol/L, Renal (urea > 16), Enzymes (LDH > 600, AST > 200), Albumin < 32 g/L, Sugar (glucose > 10 mmol/L). It uses PaO2, not PaCO2.",
+  "key_note": "",
+  "_new": true,
+  "qid": "15-N11"
+ },
+ {
+  "ncids": [
+   "K0707"
+  ],
+  "stem": "The most sensitive test for the diagnosis of acute pancreatitis is:",
+  "options": {
+   "A": "Serum amylase",
+   "B": "Serum lipase",
+   "C": "Serum albumin",
+   "D": "Serum LDH"
+  },
+  "answer": "B",
+  "explanation": "Serum lipase is both more sensitive and more specific than amylase and stays elevated longer, so it is preferred, especially in late presenters and alcoholic pancreatitis.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "15-N12"
+ },
+ {
+  "ncids": [
+   "K0799",
+   "K0811"
+  ],
+  "stem": "A 60-year-old woman presents with severe epigastric pain for 6 hours and acute pancreatitis is confirmed. Her WBC count is 18,000/mm3 and blood glucose is 290 mg/dL (16 mmol/L). What is her Ranson score on admission?",
+  "options": {
+   "A": "2",
+   "B": "4",
+   "C": "3",
+   "D": "1",
+   "E": "5"
+  },
+  "answer": "C",
+  "explanation": "Ranson admission criteria (non-biliary): age > 55, WBC > 16,000, glucose > 200 mg/dL (11 mmol/L), LDH > 350 IU/L, AST > 250 IU/L. She scores 1 each for age, WBC and glucose, giving 3. Amylase is not part of the score.",
+  "key_note": "In one copy the bank starred 8 but highlighted 3; the other copy highlighted 3. Correct is 3: age, WBC and glucose each score 1.",
+  "_new": true,
+  "qid": "15-N13"
+ },
+ {
+  "ncids": [
+   "K0812"
+  ],
+  "stem": "A 45-year-old man was treated for acute pancreatitis 4 weeks ago. He now complains of an enlarging painful abdominal mass, and a 6 x 5 cm epigastric mass is palpable. Which statement is true regarding this patient?",
+  "options": {
+   "A": "He needs urgent surgery and removal of the mass",
+   "B": "He has developed a very rare, life-threatening complication of acute pancreatitis",
+   "C": "It cannot be confused with carcinoma of the pancreas",
+   "D": "CT scan of the abdomen is the investigation of choice",
+   "E": "Fine-needle aspiration cytology is contraindicated"
+  },
+  "answer": "D",
+  "explanation": "This is most likely a pseudocyst, a common complication; CECT is the investigation of choice to define it. Pseudocysts are not excised urgently (internal drainage after maturation if symptomatic), can mimic cystic neoplasms, and EUS-guided aspiration is used to analyse cyst fluid.",
+  "key_note": "",
+  "_new": true,
+  "qid": "15-N14"
+ },
+ {
+  "ncids": [
+   "K0815"
+  ],
+  "stem": "A patient with known gallstones presents with epigastric pain radiating to the back and vomiting for 6 hours. Serum amylase is 1600 IU/L. What is the indication for a CT scan in this patient?",
+  "options": {
+   "A": "To confirm the presence of gallstones",
+   "B": "If the condition does not resolve within 24 hours",
+   "C": "If the patient develops local complications of acute pancreatitis",
+   "D": "On the patient's demand",
+   "E": "To assess the anatomy of the pancreas"
+  },
+  "answer": "C",
+  "explanation": "CECT is not needed when the diagnosis is clear; it is used to assess suspected local complications (necrosis, collections) or clinical deterioration, ideally after 72 hours. Ultrasound, not CT, is used to detect gallstones.",
+  "key_note": "",
+  "_new": true,
+  "qid": "15-N15"
+ },
+ {
+  "ncids": [
+   "K0816"
+  ],
+  "stem": "Which of the following is a complication of a pancreatic pseudocyst?",
+  "options": {
+   "A": "Cystic fibrosis",
+   "B": "Annular pancreas",
+   "C": "ARDS",
+   "D": "Pressure symptoms including pain and vomiting",
+   "E": "Chronic pancreatitis"
+  },
+  "answer": "D",
+  "explanation": "Pseudocysts cause pressure effects (pain, early satiety, gastric outlet or biliary obstruction) and may become infected, rupture or bleed into the cyst (pseudoaneurysm). ARDS is a systemic complication of pancreatitis itself.",
+  "key_note": "",
+  "_new": true,
+  "qid": "15-N16"
+ },
+ {
+  "ncids": [
+   "K1419"
+  ],
+  "stem": "The most common feature of acute pancreatitis is:",
+  "options": {
+   "A": "Severe acute epigastric pain radiating to the back",
+   "B": "Jaundice",
+   "C": "Cullen's sign and Grey Turner's sign",
+   "D": "Abdominal guarding and loss of bowel sounds"
+  },
+  "answer": "A",
+  "explanation": "Sudden severe epigastric pain radiating to the back, often eased by leaning forward, is present in almost all patients. Cullen's and Grey Turner's signs occur in only about 1 to 3% of severe cases.",
+  "key_note": "",
+  "_new": true,
+  "qid": "15-N17"
+ },
+ {
+  "ncids": [
+   "K1462"
+  ],
+  "stem": "In acute pancreatitis, which serum enzyme rises first?",
+  "options": {
+   "A": "Amylase",
+   "B": "Chymotrypsin",
+   "C": "Elastase",
+   "D": "Lipase",
+   "E": "Trypsin"
+  },
+  "answer": "A",
+  "explanation": "Serum amylase rises within 2 to 12 hours of onset and falls within 3 to 5 days; lipase rises slightly later but remains elevated longer.",
+  "key_note": "",
+  "_new": true,
+  "qid": "15-N18"
+ },
+ {
+  "ncids": [
+   "K1631"
+  ],
+  "stem": "A 58-year-old woman is diagnosed with acute pancreatitis. Which scoring system is most effective in determining severity?",
+  "options": {
+   "A": "Glasgow",
+   "B": "Ranson",
+   "C": "APACHE II",
+   "D": "POSSUM",
+   "E": "Parsonnet"
+  },
+  "answer": "C",
+  "explanation": "APACHE II is the most accurate validated severity score, and unlike Ranson and Glasgow it can be calculated on admission and repeated daily. POSSUM and Parsonnet are general surgical and cardiac surgical risk scores.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "15-N19"
+ }
+]

@@ -1,0 +1,166 @@
+[
+ {
+  "cids": [
+   "C0136"
+  ],
+  "stem": "An elderly lady has knee osteoarthritis with deformity. Which deformity is most likely?",
+  "options": {
+   "A": "Flexion contracture only",
+   "B": "Valgus and flexion contracture",
+   "C": "Valgus deformity only",
+   "D": "Varus and flexion contracture",
+   "E": "Varus deformity only"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Primary knee OA most often affects the medial compartment, so medial joint space loss produces a varus (bow-legged) deformity, usually with a fixed flexion contracture. Valgus deformity is more typical of rheumatoid arthritis.",
+  "key_note": "",
+  "figure": "",
+  "qid": "9-1"
+ },
+ {
+  "cids": [
+   "C0947"
+  ],
+  "stem": "A 70-year-old man has had long-standing bow legs, and recently his right knee has become warm, swollen and tender. There is no recent trauma, and rest and paracetamol give no relief. He is otherwise well and takes no medication. X-rays show arthritis of the knee. What is the best treatment?",
+  "options": {
+   "A": "Bed rest, anti-inflammatory agents, analgesics and a knee brace",
+   "B": "Use of a cane for walking, restriction of knee-bending activities and quadriceps strengthening exercises",
+   "C": "Intra-articular steroid injection, bed rest and analgesics",
+   "D": "Long leg cast and crutches for weeks, analgesics and anti-inflammatory agents"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "First-line management of knee OA is non-operative: offloading with a stick in the opposite hand, activity modification, weight loss and quadriceps strengthening. Bed rest and casting cause stiffness and wasting, and a warm swollen knee must be aspirated to exclude infection or crystals before any steroid injection.",
+  "key_note": "The paper key marked C (steroid injection with bed rest); the compiled key's B is the better answer since bed rest is not advised in OA. Intra-articular steroid is reasonable for a flare only after infection is excluded.",
+  "figure": "",
+  "qid": "9-2"
+ },
+ {
+  "cids": [
+   "C0143"
+  ],
+  "stem": "A 70-year-old woman has a compression fracture of the 5th vertebra and is diagnosed with osteoporosis. What is the most common cause of primary osteoporosis at this age?",
+  "options": {
+   "A": "Prolonged corticosteroid use",
+   "B": "Postmenopausal oestrogen deficiency",
+   "C": "Hyperparathyroidism",
+   "D": "Chronic kidney disease",
+   "E": "Vitamin D deficiency"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Primary osteoporosis in older women is mainly postmenopausal (type 1), caused by oestrogen deficiency accelerating osteoclastic bone resorption. Steroids, hyperparathyroidism and CKD cause secondary osteoporosis.",
+  "key_note": "",
+  "figure": "",
+  "qid": "9-3"
+ },
+ {
+  "cids": [
+   "C0928"
+  ],
+  "stem": "Bone densitometry of the spine, hips and other bones is best done by:",
+  "options": {
+   "A": "CT scan",
+   "B": "Ultrasound",
+   "C": "Dual-energy X-ray absorptiometry (DEXA) scan",
+   "D": "MRI"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "DEXA is the gold standard for measuring bone mineral density at the lumbar spine and hip; osteoporosis is a T-score of -2.5 or below.",
+  "key_note": "",
+  "figure": "",
+  "qid": "9-4"
+ },
+ {
+  "cids": [
+   "C0795"
+  ],
+  "stem": "A 45-year-old man wakes in the middle of the night with sudden, intense pain in his right big toe, which is swollen, red and extremely tender. He has never had this before. What is the most likely cause?",
+  "options": {
+   "A": "Migraine",
+   "B": "Gout",
+   "C": "Arthritis",
+   "D": "Sprained ankle"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Acute monoarthritis of the first metatarsophalangeal joint (podagra) of sudden nocturnal onset in a middle-aged man is classic acute gout from monosodium urate crystals; joint aspiration shows needle-shaped negatively birefringent crystals.",
+  "key_note": "Not marked in the source paper; answer by reviewer (compiled key agrees).",
+  "figure": "",
+  "qid": "9-5"
+ },
+ {
+  "cids": [
+   "C1412"
+  ],
+  "stem": "A 22-year-old man presents with backache, morning stiffness and left hip pain on weight bearing with difficulty walking. No history of trauma or fever, and other joints are normal. There is tenderness in the left groin and reduced movement, especially internal rotation, of the left hip. TLC is normal, CRP is 5 and X-ray of the pelvis including both hips is normal. What investigation is most appropriate to reach the diagnosis?",
+  "options": {
+   "A": "ESR",
+   "B": "MRI of the lumbosacral spine",
+   "C": "CT scan of the lumbosacral spine",
+   "D": "HLA-B27",
+   "E": "Bone scan"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Inflammatory back pain with morning stiffness and hip involvement in a young man suggests ankylosing spondylitis; HLA-B27 is present in about 90% and supports the diagnosis when X-rays are still normal. MRI of the sacroiliac joints is the most sensitive imaging test, but it is not among the options.",
+  "key_note": "One paper key marked B (MRI lumbosacral spine); the other key and compiled key give D. The age was partly illegible in two copies; another copy gave 22 years.",
+  "figure": "",
+  "qid": "9-6"
+ },
+ {
+  "ncids": [
+   "K0286"
+  ],
+  "stem": "Degenerative osteoarthritis of the large joints is most common in which of the following?",
+  "options": {
+   "A": "Shoulder and acromioclavicular joints",
+   "B": "Ankle and distal tibiofibular joints",
+   "C": "Knee joint (tibiofemoral and patellofemoral joints)",
+   "D": "Elbow and proximal radio-ulnar joints",
+   "E": "Hip joint"
+  },
+  "answer": "C",
+  "explanation": "The knee is the most commonly affected large weight-bearing joint in osteoarthritis, typically the medial tibiofemoral and patellofemoral compartments, followed by the hip.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "9-N1"
+ },
+ {
+  "ncids": [
+   "K1382"
+  ],
+  "stem": "Heberden's nodes of osteoarthritis are seen at the:",
+  "options": {
+   "A": "Carpometacarpal joint",
+   "B": "Proximal interphalangeal joint",
+   "C": "Distal interphalangeal joint",
+   "D": "Metacarpophalangeal joint"
+  },
+  "answer": "C",
+  "explanation": "Heberden's nodes are osteophytes at the distal interphalangeal joints; Bouchard's nodes are at the proximal interphalangeal joints.",
+  "key_note": "",
+  "_new": true,
+  "qid": "9-N2"
+ },
+ {
+  "ncids": [
+   "K1532"
+  ],
+  "stem": "A 40-year-old woman has pain and swelling of the knee joint. Synovial fluid shows rhomboid-shaped, weakly positively birefringent crystals. These crystals are:",
+  "options": {
+   "A": "Calcium pyrophosphate",
+   "B": "Monosodium urate",
+   "C": "Glycine",
+   "D": "Calcium hydroxyapatite",
+   "E": "Cholesterol"
+  },
+  "answer": "A",
+  "explanation": "Calcium pyrophosphate dihydrate crystals (pseudogout) are rhomboid and weakly positively birefringent, whereas monosodium urate crystals of gout are needle-shaped and strongly negatively birefringent.",
+  "key_note": "",
+  "_new": true,
+  "qid": "9-N3"
+ }
+]

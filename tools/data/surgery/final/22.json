@@ -1,0 +1,1007 @@
+[
+ {
+  "cids": [
+   "C0285"
+  ],
+  "stem": "A 17-year-old boy undergoes ultrasound for suspected appendicitis and is incidentally found to have an absent left kidney. He has no urinary complaints, and his renal profile and urine examination are normal. Regarding renal agenesis, which of the following is correct?",
+  "options": {
+   "A": "Polyhydramnios",
+   "B": "It results from lack of the ureteric bud or its failure to interact with the metanephric blastema",
+   "C": "Microsomia",
+   "D": "Male to female ratio is 1:2",
+   "E": "Spina bifida"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Renal agenesis results from absence of the ureteric bud or its failure to induce the metanephric blastema. On prenatal ultrasound bilateral agenesis shows severe oligohydramnios (not polyhydramnios) with no kidneys or bladder seen.",
+  "key_note": "Not marked in the source paper; answer by reviewer. The question is flawed: B describes the embryological cause rather than an ultrasound sign, but it is the only correct statement offered.",
+  "figure": "",
+  "qid": "22-1"
+ },
+ {
+  "cids": [
+   "C0183"
+  ],
+  "stem": "During a left nephrectomy for renal cell carcinoma, a large retroperitoneal hematoma develops. Which vessel is most likely injured if the hematoma extends superiorly and medially toward the midline?",
+  "options": {
+   "A": "Inferior mesenteric artery",
+   "B": "Left adrenal vein",
+   "C": "Left renal artery",
+   "D": "Left adrenal artery",
+   "E": "Left gonadal vein"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "The left adrenal vein runs inferomedially to drain into the upper border of the left renal vein, so injury while dissecting the upper pole and renal hilum produces a haematoma tracking superiorly and medially. The left gonadal vein enters the lower border of the renal vein, so its bleeding lies inferiorly.",
+  "key_note": "",
+  "figure": "",
+  "qid": "22-2"
+ },
+ {
+  "cids": [
+   "C0353"
+  ],
+  "stem": "A 60-year-old woman presents to the emergency department with high temperature, rigors, and pain and swelling in the right loin. BP is 160/70 mmHg and pulse 100/min. There is extreme tenderness in the right loin. The most probable diagnosis is:",
+  "options": {
+   "A": "Bladder stones",
+   "B": "Pyelonephritis",
+   "C": "Hydronephrosis",
+   "D": "Renal stone",
+   "E": "Ureteric stone"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "High fever with rigors, loin pain and marked loin tenderness is acute pyelonephritis. Uncomplicated stones or hydronephrosis do not cause rigors, though an obstructed infected kidney must be excluded by imaging.",
+  "key_note": "",
+  "figure": "",
+  "qid": "22-3"
+ },
+ {
+  "cids": [
+   "C0691"
+  ],
+  "stem": "A 6-month-old boy has fully recovered from a non-specific febrile illness proved to be a urinary tract infection. Ultrasound shows bilateral upper urinary tract dilatation (collecting systems and ureters). What is the most appropriate next investigation?",
+  "options": {
+   "A": "Intravenous urogram (IVU)",
+   "B": "Micturating Cystourethrogram (MCUG)",
+   "C": "MAG3 isotope scan",
+   "D": "DTPA scan",
+   "E": "MRI"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "In an infant with a proven febrile UTI and bilateral dilatation of the pelvicalyceal systems and ureters, vesicoureteric reflux must be excluded, and the investigation of choice is a micturating cystourethrogram. A MAG3 or DMSA scan follows to assess drainage and scarring.",
+  "key_note": "",
+  "figure": "",
+  "qid": "22-4"
+ },
+ {
+  "cids": [
+   "C0352"
+  ],
+  "stem": "Micturating cystourethrogram (MCUG) is the investigation of choice to diagnose:",
+  "options": {
+   "A": "BPH",
+   "B": "Vesicoureteric reflux",
+   "C": "Renal stones",
+   "D": "Vesical stones",
+   "E": "Ureteric stones"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "MCUG shows reflux of contrast from the bladder up the ureters during voiding and grades vesicoureteric reflux (I to V). It also shows posterior urethral valves in boys.",
+  "key_note": "",
+  "figure": "",
+  "qid": "22-5"
+ },
+ {
+  "cids": [
+   "C0418",
+   "C0289",
+   "C0869"
+  ],
+  "stem": "A 45-year-old man presents with right ureteric colic, and ultrasound shows a stone impacted in the distal ureter. What is the most common composition of urinary stones (including in the Pakistani population)?",
+  "options": {
+   "A": "Calcium oxalate stone",
+   "B": "Struvite stone",
+   "C": "Calcium phosphate stone",
+   "D": "Uric acid stone",
+   "E": "Cystine stone"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Calcium oxalate (alone or mixed with phosphate) makes up about 70-80% of urinary stones in Pakistan, as worldwide. Dehydration (hot climate of the 'stone belt', long-distance running) raises stone risk, but the stone is still most likely calcium oxalate.",
+  "key_note": "",
+  "figure": "",
+  "qid": "22-6"
+ },
+ {
+  "cids": [
+   "C0577"
+  ],
+  "stem": "A 48-year-old woman with pain in the right lumbar region is diagnosed with nephrolithiasis. The commonest cause of renal stones is:",
+  "options": {
+   "A": "Enzyme disorders",
+   "B": "Hypercalcemic disorders",
+   "C": "Idiopathic calcium urolithiasis",
+   "D": "Renal tubular syndrome",
+   "E": "Uric acid lithiasis"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Most calcium stones form in people with no identifiable metabolic disease (idiopathic calcium urolithiasis, often with idiopathic hypercalciuria). Hypercalcaemic states, renal tubular acidosis, enzyme defects and uric acid stones are much less common causes.",
+  "key_note": "",
+  "figure": "",
+  "qid": "22-7"
+ },
+ {
+  "cids": [
+   "C0360",
+   "C0419"
+  ],
+  "stem": "A 48-year-old woman with pain in the right lumbar region is a known case of gout. The type of renal stone associated with her condition is:",
+  "options": {
+   "A": "Enzyme disorders",
+   "B": "Hypercalcemic disorders",
+   "C": "Idiopathic calcium urolithiasis",
+   "D": "Renal tubular syndrome",
+   "E": "Uric acid lithiasis"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Gout causes hyperuricosuria and persistently acid urine, which precipitate uric acid stones. These are radiolucent on plain X-ray and can be dissolved by alkalinising the urine.",
+  "key_note": "The printed key marked D (renal tubular syndrome); correct is E: gout is the classic cause of uric acid stones (the recalled version of this question with different options was keyed E).",
+  "figure": "",
+  "qid": "22-8"
+ },
+ {
+  "cids": [
+   "C0550"
+  ],
+  "stem": "An 80-year-old woman presents with right lumbar pain. Ultrasound KUB shows multiple stones in the right kidney. She has pain in the right knee from arthritis, for which she takes NSAIDs. The stones most commonly related to this scenario are:",
+  "options": {
+   "A": "Enzyme disorders",
+   "B": "Hypercalcemic disorders",
+   "C": "Idiopathic calcium urolithiasis",
+   "D": "Oxalate stones",
+   "E": "Uric acid lithiasis"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Arthritis treated long-term in an elderly woman with recurrent stones is intended to suggest gout, the classic cause of uric acid lithiasis through hyperuricosuria and acid urine.",
+  "key_note": "The stem is vague (arthritis on NSAIDs); answer as marked, on the basis that the arthritis is gouty.",
+  "figure": "",
+  "qid": "22-9"
+ },
+ {
+  "cids": [
+   "C0578"
+  ],
+  "stem": "A 60-year-old woman presents with right lumbar pain. Ultrasound KUB shows multiple renal stones. She had surgery 10 years ago in which a major portion of the gut was resected. The stones most commonly related to this scenario are:",
+  "options": {
+   "A": "Enzyme disorders",
+   "B": "Hypercalcemic disorders",
+   "C": "Idiopathic calcium urolithiasis",
+   "D": "Oxalate stones",
+   "E": "Uric acid lithiasis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "After extensive small bowel resection (short gut, Crohn's), unabsorbed fat binds calcium in the gut lumen, leaving free oxalate to be absorbed in the colon. This enteric hyperoxaluria produces calcium oxalate stones.",
+  "key_note": "",
+  "figure": "",
+  "qid": "22-10"
+ },
+ {
+  "cids": [
+   "C0049"
+  ],
+  "stem": "A 40-year-old man has recurrent nephrolithiasis. The stones are not visible on KUB X-ray but are seen on CT. What is the most likely composition?",
+  "options": {
+   "A": "Calcium oxalate",
+   "B": "Calcium phosphate",
+   "C": "Struvite",
+   "D": "Uric acid",
+   "E": "Cystine"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Pure uric acid stones are radiolucent on plain X-ray but clearly seen on non-contrast CT. Calcium stones are densely opaque, struvite moderately opaque and cystine faintly opaque.",
+  "key_note": "",
+  "figure": "",
+  "qid": "22-11"
+ },
+ {
+  "cids": [
+   "C1400"
+  ],
+  "stem": "A 35-year-old female with a history of recurrent urinary tract infections presents with cloudy urine and dysuria. Urinalysis shows alkaline urine with the presence of struvite crystals. What condition is she most likely suffering from?",
+  "options": {
+   "A": "Urethral stricture",
+   "B": "Renal colic",
+   "C": "Struvite stones (Staghorn calculus)",
+   "D": "Urinary tract infection",
+   "E": "Bladder cancer"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Urease-splitting organisms (Proteus, Klebsiella) split urea to ammonia, making the urine alkaline and precipitating magnesium ammonium phosphate (struvite). These stones grow rapidly into staghorn calculi.",
+  "key_note": "",
+  "figure": "",
+  "qid": "22-12"
+ },
+ {
+  "cids": [
+   "C1397"
+  ],
+  "stem": "A 45-year-old man is brought to the emergency department with severe right-sided flank pain that radiates to the groin. He is unable to sit still due to the pain and has nausea but no fever. Urinalysis shows microscopic hematuria. What is the most likely diagnosis?",
+  "options": {
+   "A": "Testicular torsion",
+   "B": "Urinary tract infection",
+   "C": "Renal colic due to kidney stones",
+   "D": "Acute appendicitis",
+   "E": "Pyelonephritis"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Severe colicky loin-to-groin pain with restlessness (unable to lie still), nausea and microscopic haematuria, without fever, is classic ureteric (renal) colic. Pyelonephritis causes fever and constant loin pain, and peritonitis makes patients lie still.",
+  "key_note": "Option E was cut off in the source and supplied by an annotation.",
+  "figure": "",
+  "qid": "22-13"
+ },
+ {
+  "cids": [
+   "C0415"
+  ],
+  "stem": "A 30-year-old man presents with right lumbar pain and painful haematuria for 2 weeks. What is the best investigation among the following?",
+  "options": {
+   "A": "X-ray KUB",
+   "B": "Ultrasound KUB",
+   "C": "Urine routine examination",
+   "D": "Serum urea",
+   "E": "Serum creatinine"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Non-contrast CT KUB is the gold standard for suspected stones, but of the options given ultrasound KUB is most informative: it detects radiopaque and radiolucent stones and shows hydronephrosis. A plain X-ray misses radiolucent and small stones, while urine and blood tests are supportive only.",
+  "key_note": "The source printed A (X-ray KUB); ultrasound KUB is the better answer as it shows both stones and obstruction. Both are first-line, and NCCT would be best if offered.",
+  "figure": "",
+  "qid": "22-14"
+ },
+ {
+  "cids": [
+   "C0732"
+  ],
+  "stem": "A 23-year-old man is admitted with a suspected ureteric colic. A KUB style x-ray is obtained. In which of the following locations is the stone most likely to be visualised?",
+  "options": {
+   "A": "At the crest of the ilium",
+   "B": "Over the S3 foramina",
+   "C": "Over the tips of the transverse processes (printed as T10-L1)",
+   "D": "Over the coccygeal ligament",
+   "E": "Over the pubic crest"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "On a KUB film the ureter runs along the tips of the transverse processes of the lumbar vertebrae (L2 to L5), crosses the sacroiliac joint, then curves out to the ischial spine before turning medially to the bladder. Stones are looked for along this line, especially at the PUJ, pelvic brim and VUJ.",
+  "key_note": "Not marked in the source; the compiled key gave E (pubic crest). The question is flawed: the intended landmark is the tips of the lumbar (L2 to L5) transverse processes, and 'T10-L1' as printed is anatomically wrong; learn the correct ureteric line described in the explanation.",
+  "figure": "",
+  "qid": "22-15"
+ },
+ {
+  "cids": [
+   "C1409"
+  ],
+  "stem": "A 35-year-old woman presents with flank pain, haematuria and a recent history of multiple urinary tract infections. Imaging shows multiple renal calculi. What is the most appropriate test to further evaluate this condition?",
+  "options": {
+   "A": "MRI",
+   "B": "Ultrasound",
+   "C": "X-ray",
+   "D": "CT urogram",
+   "E": "Intravenous pyelogram (IVP)"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "CT is the most accurate imaging for urinary calculi: it shows stone size, number, site, density and any obstruction, and the urographic phase defines the anatomy for planning. Ultrasound and plain X-ray are less sensitive, and IVP is now largely obsolete.",
+  "key_note": "Non-contrast CT KUB is the standard for stones; among the options CT urogram is the best answer.",
+  "figure": "",
+  "qid": "22-16"
+ },
+ {
+  "cids": [
+   "C0048"
+  ],
+  "stem": "A 28-year-old woman at 24 weeks' gestation presents with renal colic. Ultrasound shows moderate hydronephrosis. What is the next best imaging?",
+  "options": {
+   "A": "Non-contrast CT KUB",
+   "B": "IVU",
+   "C": "MRI urography",
+   "D": "KUB X-ray",
+   "E": "No imaging"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "In pregnancy ultrasound is first-line, and if it is inconclusive, non-contrast MR urography is the second-line test as it avoids ionising radiation. Low-dose CT is reserved for third-line use, and IVU and plain X-ray expose the fetus to radiation.",
+  "key_note": "",
+  "figure": "",
+  "qid": "22-17"
+ },
+ {
+  "cids": [
+   "C0047"
+  ],
+  "stem": "A 45-year-old febrile woman presents with flank pain and hypotension. CT shows a proximal ureteric stone with hydronephrosis. What is the next immediate step (along with resuscitation and IV antibiotics)?",
+  "options": {
+   "A": "IV ceftriaxone only",
+   "B": "Oral antibiotics",
+   "C": "Ureteral stent",
+   "D": "ESWL today",
+   "E": "Observe 24 hours"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "An infected obstructed kidney with sepsis is a urological emergency: give IV antibiotics and urgently decompress the collecting system by ureteric (JJ) stent or percutaneous nephrostomy. Definitive stone treatment (ESWL, ureteroscopy) is deferred until the infection has settled.",
+  "key_note": "",
+  "figure": "",
+  "qid": "22-18"
+ },
+ {
+  "cids": [
+   "C0050",
+   "C0510"
+  ],
+  "stem": "A 56-year woman has recurrent urinary tract infections. The urine had alkaline pH and the culture shows growth of Proteus organism. The X-ray showed a staghorn calculus in kidney. What would be the best definitive management?",
+  "options": {
+   "A": "Long-term suppressive antibiotics",
+   "B": "ESWL monotherapy",
+   "C": "Percutaneous nephrolithotomy",
+   "D": "Open nephrectomy",
+   "E": "Ureteroscopy"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Percutaneous nephrolithotomy (PCNL) is the first-line treatment for staghorn and large (over 2 cm) renal stones, giving the best stone-free rate with least morbidity. Struvite stones must be removed completely, as residual fragments harbour infection and regrow; ESWL monotherapy cannot clear a staghorn, and open pyelolithotomy is now reserved for failures.",
+  "key_note": "Merged variant: An older version of this question (options: ESWL, nephrolithotomy, pyelolithotomy, nephrectomy, nephrostomy) had a printed key of pyelolithotomy, reflecting older open-surgery teaching; one marker also highlighted pyelolithotomy here. Current standard is PCNL.",
+  "figure": "",
+  "qid": "22-19"
+ },
+ {
+  "cids": [
+   "C0286"
+  ],
+  "stem": "A 24-year-old man is found incidentally to have massive left hydronephrosis with marked distortion and thinning of the renal parenchyma. His renal profile is normal, but Doppler shows no blood flow to the left kidney and an isotope renal scan shows 0% function on the left. What is the next step in management?",
+  "options": {
+   "A": "Double J stenting",
+   "B": "Medical management",
+   "C": "Nephrectomy",
+   "D": "TURP",
+   "E": "Ureteroscopy"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A massively hydronephrotic kidney with thinned parenchyma, no perfusion and 0% function on isotope scan cannot be salvaged, so nephrectomy is indicated to prevent infection, pain and hypertension. Pyeloplasty or stenting is only worthwhile if the split function is meaningful (generally above 10-15%).",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "22-20"
+ },
+ {
+  "cids": [
+   "C0841"
+  ],
+  "stem": "A 42-year-old woman involved in a traffic accident presents to the emergency room with flank pain and gross haematuria. She is haemodynamically stable. The next step in management is:",
+  "options": {
+   "A": "Exploratory laparotomy",
+   "B": "Open lavage and, if positive, immediate laparotomy",
+   "C": "Immobilization of the pelvis",
+   "D": "CT scan with intravenous contrast",
+   "E": "Skeletal traction"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A haemodynamically stable patient with suspected renal injury (flank pain, gross haematuria) is staged with contrast-enhanced CT, including delayed phase images. Most renal injuries are then managed conservatively, and laparotomy is reserved for instability.",
+  "key_note": "",
+  "figure": "",
+  "qid": "22-21"
+ },
+ {
+  "cids": [
+   "C0937"
+  ],
+  "stem": "A 64-year-old man is admitted after a car accident. Pulse is 94/min, BP 95/60 mmHg and haematocrit 30%, with severe haematuria. After resuscitation his BP rises to 120/80 mmHg, and CT shows extensive contusion confined to the left kidney and perirenal fat. His BP then falls to 80/40 mmHg, and urgent laparotomy is performed. The incision of choice is:",
+  "options": {
+   "A": "Through a left flank incision",
+   "B": "Through a midline abdominal incision",
+   "C": "Through a Gibson incision",
+   "D": "Through a thoracoabdominal incision",
+   "E": "Through an inguinal incision"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "An unstable trauma patient needs a midline laparotomy, which allows control of the renal pedicle (vascular control before opening Gerota's fascia) and assessment of associated intra-abdominal injuries. A flank incision does not allow this.",
+  "key_note": "",
+  "figure": "",
+  "qid": "22-22"
+ },
+ {
+  "cids": [
+   "C0288"
+  ],
+  "stem": "A 24-year-old man presents to the ER after a stab wound to the left lumbar region, and Foley catheterisation shows gross haematuria. Which of the following signifies a grade 2 ureteric injury?",
+  "options": {
+   "A": ">50% transection",
+   "B": "<50% transection",
+   "C": "Haematoma with devascularisation",
+   "D": "Ascites",
+   "E": "Complete transection"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "AAST ureteric injury grading: I haematoma only, II laceration under 50% of circumference, III laceration over 50%, IV complete transection with under 2 cm devascularisation, V avulsion with over 2 cm devascularisation.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "22-23"
+ },
+ {
+  "cids": [
+   "C1520"
+  ],
+  "stem": "A 71-year-old man is referred to urology clinic with a 3-4 month history of painless haematuria and weight loss, and generalised weakness. He looks pale. Abdominal examination is unremarkable, and per-rectal examination reveals a normal prostate. What is the most likely diagnosis?",
+  "options": {
+   "A": "Angiomyolipoma",
+   "B": "Papilloma of the bladder",
+   "C": "Renal cell carcinoma",
+   "D": "Renal tuberculosis",
+   "E": "Ureteric stone"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Painless haematuria with weight loss, weakness and pallor (anaemia) in an elderly man points to renal cell carcinoma, which commonly causes systemic paraneoplastic features. A bladder papilloma is benign and does not cause weight loss.",
+  "key_note": "Bladder cancer is the commonest cause of painless haematuria overall; RCC is the expected answer here because of the systemic features and normal prostate.",
+  "figure": "",
+  "qid": "22-24"
+ },
+ {
+  "cids": [
+   "C0357"
+  ],
+  "stem": "A 58-year-old man presents with haematuria and right loin pain, and has a palpable mass in the right lumbar region. He is suspected to have renal cell carcinoma. Which statement about renal cell carcinoma is true?",
+  "options": {
+   "A": "Clear cell carcinoma is a rare subtype",
+   "B": "CT with contrast is the best investigation to stage the disease",
+   "C": "It is more common in females",
+   "D": "Non-surgical options are mainstay of treatment these days",
+   "E": "Radical nephrectomy is the only surgical option"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Contrast-enhanced CT of the chest, abdomen and pelvis is the standard investigation to characterise and stage RCC (tumour size, renal vein and IVC involvement, nodes, metastases). Clear cell is the commonest subtype (about 75%), RCC is commoner in men, and surgery (radical or partial nephrectomy) is the mainstay.",
+  "key_note": "",
+  "figure": "",
+  "qid": "22-25"
+ },
+ {
+  "cids": [
+   "C0425"
+  ],
+  "stem": "The treatment of choice for localised renal adenocarcinoma (renal cell carcinoma) is:",
+  "options": {
+   "A": "Chemotherapy",
+   "B": "Simple Nephrectomy",
+   "C": "Partial nephrectomy",
+   "D": "Radical nephrectomy",
+   "E": "Radiation"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Localised renal adenocarcinoma (RCC) is treated by radical nephrectomy: removing the kidney within Gerota's fascia, with or without the adrenal and regional nodes. Partial nephrectomy is used for small (T1) tumours, and RCC is relatively resistant to chemotherapy and radiotherapy.",
+  "key_note": "",
+  "figure": "",
+  "qid": "22-26"
+ },
+ {
+  "cids": [
+   "C0052"
+  ],
+  "stem": "A 64-year-old man has an incidental 4.2 cm enhancing renal mass. Workup shows no lymphadenopathy or metastasis. What is the best next step in management?",
+  "options": {
+   "A": "Radiotherapy",
+   "B": "Radical nephrectomy",
+   "C": "Partial nephrectomy",
+   "D": "Percutaneous ablation",
+   "E": "Chemotherapy"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A 4.2 cm tumour is T1b (4-7 cm), and current guidelines (EAU/AUA) recommend nephron-sparing partial nephrectomy for all T1 tumours where technically feasible. It gives equivalent cancer control and better preservation of renal function than radical nephrectomy.",
+  "key_note": "One paper marked C, while the solved version marked B (radical nephrectomy); C is correct by current guidelines, and radical nephrectomy is reserved for tumours where partial is not feasible.",
+  "figure": "",
+  "qid": "22-27"
+ },
+ {
+  "ncids": [
+   "K0021",
+   "K0455"
+  ],
+  "stem": "Which of the following describes a grade 1 renal injury (AAST)?",
+  "options": {
+   "A": "Laceration >1.0 cm involving the renal cortex only, no urinary extravasation, intact collecting system",
+   "B": "Main renal artery or vein injury with contained haemorrhage",
+   "C": "Avulsion of the renal hilum (pedicle) which devascularises the kidney",
+   "D": "Non-expanding subcapsular haematoma with normal parenchyma",
+   "E": "Injury to the hilum of the kidney"
+  },
+  "answer": "D",
+  "explanation": "Grade 1 is a contusion or non-expanding subcapsular haematoma without laceration. A cortical laceration >1 cm without extravasation is grade 3, main vessel injury with contained haemorrhage is grade 4 and hilar avulsion or shattered kidney is grade 5.",
+  "key_note": "",
+  "_new": true,
+  "qid": "22-N1"
+ },
+ {
+  "ncids": [
+   "K1142"
+  ],
+  "stem": "A 35-year-old man sustains blunt abdominal trauma and a grade IV renal injury. Which feature characterises a grade IV injury?",
+  "options": {
+   "A": "Avulsion of the renal pedicle",
+   "B": "Subcapsular haematoma",
+   "C": "Laceration extending through the cortex and medulla into the collecting system with urinary extravasation",
+   "D": "Cortical laceration <1 cm without urinary extravasation",
+   "E": "Shattered kidney"
+  },
+  "answer": "C",
+  "explanation": "AAST grade IV is a laceration through the parenchyma into the collecting system (urinary extravasation) or segmental/main vessel injury with contained haemorrhage. A shattered kidney and pedicle avulsion are grade V; subcapsular haematoma is grade I and a superficial laceration <1 cm is grade II.",
+  "key_note": "Bank marked A (avulsion of renal pedicle); correct is C because pedicle avulsion is grade V. The source's two 'laceration of upper/lower pole' options did not define a grade, so the options were rewritten to make the question answerable.",
+  "_new": true,
+  "qid": "22-N2"
+ },
+ {
+  "ncids": [
+   "K0221"
+  ],
+  "stem": "Which of the following injuries of the genitourinary system usually do NOT cause haematuria?",
+  "options": {
+   "A": "Disruption of the renal pedicle",
+   "B": "Thrombosis of the renal artery",
+   "C": "Urethral injury",
+   "D": "All of the above",
+   "E": "A and B"
+  },
+  "answer": "E",
+  "explanation": "Haematuria may be absent when the kidney is devascularised, as in pedicle avulsion or renal artery thrombosis (intimal tear in deceleration injury), so its absence does not exclude a major renal injury. Urethral injury typically causes blood at the meatus.",
+  "key_note": "Bank marked B; correct is E because renal pedicle disruption, like renal artery thrombosis, classically presents without haematuria.",
+  "_new": true,
+  "qid": "22-N3"
+ },
+ {
+  "ncids": [
+   "K0437"
+  ],
+  "stem": "A 30-year-old man presents with severe right loin pain radiating to his groin. A CT scan of his kidneys, ureters and bladder shows a ureteric stone. At which anatomical site may the stone have been impacted?",
+  "options": {
+   "A": "Pelviureteric junction",
+   "B": "Point at which the iliac vessels cross the ureter",
+   "C": "Vesicoureteric junction",
+   "D": "All of the above",
+   "E": "None of the above"
+  },
+  "answer": "D",
+  "explanation": "The ureter has three physiological narrowings where stones impact: the pelviureteric junction, the crossing of the iliac vessels at the pelvic brim, and the vesicoureteric junction (the narrowest and commonest site).",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "22-N4"
+ },
+ {
+  "ncids": [
+   "K0447"
+  ],
+  "stem": "What is the most common cause of abdominal pain associated with visible haematuria?",
+  "options": {
+   "A": "Benign prostatic enlargement",
+   "B": "Urinary tract injury",
+   "C": "Urinary tract infection",
+   "D": "Urinary tract calculi",
+   "E": "Bladder cancer"
+  },
+  "answer": "D",
+  "explanation": "Painful visible haematuria is most commonly due to urinary calculi (renal or ureteric colic). Painless haematuria suggests malignancy, and trauma is a relatively uncommon cause in routine practice.",
+  "key_note": "Bank marked B; correct is D because calculi, not trauma, are the commonest cause of haematuria with pain.",
+  "_new": true,
+  "qid": "22-N5"
+ },
+ {
+  "ncids": [
+   "K0449"
+  ],
+  "stem": "A 24-year-old woman presents with pain in the left flank. There is no fever. Urine shows 3-5 RBCs. Ultrasound shows a 3 cm clear, fluid-filled area in the left renal cortex. What is the diagnosis?",
+  "options": {
+   "A": "Renal calculus",
+   "B": "Pyelonephritis",
+   "C": "Pyonephrosis",
+   "D": "Simple renal cyst",
+   "E": "Renal cell carcinoma"
+  },
+  "answer": "D",
+  "explanation": "A thin-walled anechoic cortical lesion on ultrasound is a simple (Bosniak I) cyst, which is benign and needs no follow-up unless symptomatic. Pyonephrosis gives an infected, dilated collecting system with fever, and RCC is solid.",
+  "key_note": "",
+  "_new": true,
+  "qid": "22-N6"
+ },
+ {
+  "ncids": [
+   "K0451"
+  ],
+  "stem": "A 45-year-old man presents with haematuria on and off for the last 3 months and pain in the left flank. Ultrasound shows an echogenic shadow in the left renal pelvis with left hydronephrosis. What is the diagnosis?",
+  "options": {
+   "A": "Renal cell carcinoma",
+   "B": "Polycystic kidneys",
+   "C": "Haemophilia",
+   "D": "Congenital PUJ obstruction",
+   "E": "Renal calculus"
+  },
+  "answer": "E",
+  "explanation": "An echogenic focus with posterior acoustic shadowing in the renal pelvis causing hydronephrosis is a calculus. RCC is a solid parenchymal mass and does not cast an acoustic shadow.",
+  "key_note": "Bank marked A; correct is E because an echogenic shadowing lesion in the pelvis with hydronephrosis is a stone, not renal cell carcinoma.",
+  "_new": true,
+  "qid": "22-N7"
+ },
+ {
+  "ncids": [
+   "K0510",
+   "K0809"
+  ],
+  "stem": "A 3-year-old boy has intermittent abdominal pain, and his mother feels that his abdomen is distended. He otherwise looks well. On examination there is a large smooth mass on the left side of the abdomen which does not cross the midline. What is the most likely diagnosis?",
+  "options": {
+   "A": "Hepatoblastoma",
+   "B": "Lipoma",
+   "C": "Nephroblastoma (Wilms tumour)",
+   "D": "Neuroblastoma",
+   "E": "Polycystic kidney"
+  },
+  "answer": "C",
+  "explanation": "Wilms tumour typically presents as a large, smooth flank mass in a well child (often found by a parent during bathing) that does not cross the midline. Neuroblastoma usually crosses the midline, is irregular and the child is often unwell.",
+  "key_note": "",
+  "_new": true,
+  "qid": "22-N8"
+ },
+ {
+  "ncids": [
+   "K0561"
+  ],
+  "stem": "A woman presents with left flank pain and intermittent haematuria. She is found to have obstruction at the left pelviureteric junction caused by a 2 cm stone. What is the management of choice?",
+  "options": {
+   "A": "Ureteroscopy and stone retrieval",
+   "B": "Left pyelolithotomy",
+   "C": "Left pyeloplasty with pyelolithotomy",
+   "D": "Left percutaneous nephrolithotomy",
+   "E": "Left ESWL"
+  },
+  "answer": "D",
+  "explanation": "For a renal pelvic or PUJ stone of 2 cm or more, PCNL gives the best stone-free rate; ESWL is less effective for large stones and open pyelolithotomy is reserved for when endourology is unavailable or has failed. Pyeloplasty is only added for a true congenital PUJ obstruction.",
+  "key_note": "Bank marked B; correct is D because percutaneous nephrolithotomy has replaced open pyelolithotomy as first-line treatment for stones of 2 cm or more.",
+  "_new": true,
+  "qid": "22-N9"
+ },
+ {
+  "ncids": [
+   "K0563"
+  ],
+  "stem": "A woman with a single episode of painless haematuria is diagnosed with a right renal cell carcinoma. Which feature would make her suitable for partial nephrectomy?",
+  "options": {
+   "A": "Tumour involving the whole kidney",
+   "B": "Tumour near the hilum",
+   "C": "Multifocal disease",
+   "D": "Small tumour confined to one pole",
+   "E": "Renal vein thrombosis"
+  },
+  "answer": "D",
+  "explanation": "Nephron-sparing surgery is ideal for small (T1, especially <4 cm) peripheral or polar tumours. Central/hilar location, multifocality, whole-kidney involvement or renal vein thrombus favour radical nephrectomy.",
+  "key_note": "",
+  "_new": true,
+  "qid": "22-N10"
+ },
+ {
+  "ncids": [
+   "K0800"
+  ],
+  "stem": "Staghorn calculi are formed due to:",
+  "options": {
+   "A": "Increased intake of calcium in the diet",
+   "B": "Increased intake of protein",
+   "C": "Increased ingestion of milk",
+   "D": "Hyperoxaluria",
+   "E": "Infection with urea-splitting organisms"
+  },
+  "answer": "E",
+  "explanation": "Urease-producing organisms such as Proteus split urea to ammonia, alkalinising the urine and precipitating magnesium ammonium phosphate (struvite), which grows to fill the collecting system as a staghorn calculus.",
+  "key_note": "",
+  "_new": true,
+  "qid": "22-N11"
+ },
+ {
+  "ncids": [
+   "K0827"
+  ],
+  "stem": "A 56-year-old woman presents to the emergency department with upper abdominal pain. Ultrasound reveals a thin-walled gallbladder filled with fluid and a solid left renal mass. What is the next test to order?",
+  "options": {
+   "A": "HIDA scan",
+   "B": "Intravenous pyelogram (IVP)",
+   "C": "CT scan of the abdomen and pelvis",
+   "D": "Oral cholecystogram",
+   "E": "Upper gastrointestinal series"
+  },
+  "answer": "C",
+  "explanation": "A solid renal mass is presumed renal cell carcinoma until proven otherwise, and contrast-enhanced CT of the abdomen and pelvis (with chest) characterises and stages it. The gallbladder is normal, so biliary tests are not needed.",
+  "key_note": "",
+  "_new": true,
+  "qid": "22-N12"
+ },
+ {
+  "ncids": [
+   "K0829"
+  ],
+  "stem": "The classical triad of loin pain, haematuria and a palpable mass is present in approximately what percentage of patients with renal cell carcinoma?",
+  "options": {
+   "A": "10-15%",
+   "B": "20-30%",
+   "C": "35-50%",
+   "D": "50-60%",
+   "E": "65-75%"
+  },
+  "answer": "A",
+  "explanation": "The classic triad occurs in only about 10-15% of patients and indicates advanced disease; most RCCs are now found incidentally on imaging.",
+  "key_note": "",
+  "_new": true,
+  "qid": "22-N13"
+ },
+ {
+  "ncids": [
+   "K0448"
+  ],
+  "stem": "A 50-year-old woman presents with haematuria without trauma, fever or pain. Contrast CT shows a 12 cm solid lesion in the right kidney invading the perinephric fat but not beyond Gerota's fascia, with no metastases. What is the best treatment?",
+  "options": {
+   "A": "Radiotherapy",
+   "B": "Chemotherapy",
+   "C": "Simple nephrectomy",
+   "D": "Radical nephrectomy",
+   "E": "Partial nephrectomy"
+  },
+  "answer": "D",
+  "explanation": "This is a T3a tumour (perinephric fat invasion within Gerota's fascia), which is treated by radical nephrectomy removing the kidney within Gerota's fascia. RCC is resistant to chemotherapy and radiotherapy, and a 12 cm tumour is unsuitable for partial nephrectomy.",
+  "key_note": "",
+  "_new": true,
+  "qid": "22-N14"
+ },
+ {
+  "ncids": [
+   "K1143"
+  ],
+  "stem": "A 60-year-old woman presents with haematuria and passage of worm-like clots. What is the first-line investigation?",
+  "options": {
+   "A": "Intravenous urogram",
+   "B": "CT urogram",
+   "C": "MRI",
+   "D": "Ultrasonography",
+   "E": "CT KUB"
+  },
+  "answer": "D",
+  "explanation": "Worm-like clots are casts of the ureter and point to upper tract bleeding. Ultrasound is the first-line, non-invasive test to look for a renal mass or hydronephrosis, followed by CT urography and cystoscopy for definitive evaluation.",
+  "key_note": "",
+  "_new": true,
+  "qid": "22-N15"
+ },
+ {
+  "ncids": [
+   "K1144"
+  ],
+  "stem": "A 30-year-old woman has a 1 cm stone lodged in the lower ureter. What is the optimum treatment?",
+  "options": {
+   "A": "Conservative",
+   "B": "Open ureterolithotomy",
+   "C": "Dormia basketing",
+   "D": "Ureteroscopy",
+   "E": "Extracorporeal shockwave lithotripsy"
+  },
+  "answer": "D",
+  "explanation": "A 1 cm distal ureteric stone is unlikely to pass spontaneously and is best treated by ureteroscopy with laser lithotripsy, which has the highest stone-free rate for distal stones. Blind Dormia basketing is obsolete and open surgery is rarely needed.",
+  "key_note": "",
+  "_new": true,
+  "qid": "22-N16"
+ },
+ {
+  "ncids": [
+   "K1151"
+  ],
+  "stem": "A 30-year-old woman has a 1 cm ureteric stone 5 cm below the pelviureteric junction. What is the treatment of choice?",
+  "options": {
+   "A": "Conservative",
+   "B": "ESWL",
+   "C": "Open ureterolithotomy",
+   "D": "PCNL",
+   "E": "Ureterorenoscopy"
+  },
+  "answer": "B",
+  "explanation": "For proximal ureteric stones up to about 1 cm, ESWL is a non-invasive first-line option with good results, with ureteroscopy as the alternative. Stones larger than 1 cm or failed ESWL go to ureteroscopy.",
+  "key_note": "",
+  "_new": true,
+  "qid": "22-N17"
+ },
+ {
+  "ncids": [
+   "K1147"
+  ],
+  "stem": "Renal cell carcinoma is most common in which group?",
+  "options": {
+   "A": "Children",
+   "B": "Elderly females",
+   "C": "Elderly males",
+   "D": "Infants",
+   "E": "Teenagers"
+  },
+  "answer": "C",
+  "explanation": "RCC peaks in the sixth and seventh decades and is about twice as common in men. Wilms tumour is the renal tumour of childhood.",
+  "key_note": "",
+  "_new": true,
+  "qid": "22-N18"
+ },
+ {
+  "ncids": [
+   "K1148"
+  ],
+  "stem": "What is the commonest route of spread of renal cell carcinoma?",
+  "options": {
+   "A": "Direct",
+   "B": "Transcoelomic dissemination",
+   "C": "Lymphatic",
+   "D": "Transmigration",
+   "E": "Vascular (haematogenous)"
+  },
+  "answer": "E",
+  "explanation": "RCC characteristically invades the renal vein and IVC and spreads by the blood to lungs (cannonball secondaries), bone, liver and brain.",
+  "key_note": "",
+  "_new": true,
+  "qid": "22-N19"
+ },
+ {
+  "ncids": [
+   "K1152"
+  ],
+  "stem": "Calcium oxalate stones are:",
+  "options": {
+   "A": "Diagnosed only by ultrasonography",
+   "B": "Easily broken by ESWL",
+   "C": "Radiolucent",
+   "D": "Radio-opaque",
+   "E": "Always resistant to ESWL"
+  },
+  "answer": "D",
+  "explanation": "Calcium-containing stones are radio-opaque and visible on plain KUB X-ray. Calcium oxalate monohydrate stones are hard and relatively ESWL-resistant, while dihydrate stones fragment more easily, so neither ESWL statement holds universally.",
+  "key_note": "",
+  "_new": true,
+  "qid": "22-N20"
+ },
+ {
+  "ncids": [
+   "K1153"
+  ],
+  "stem": "Pyelolithotomy is the removal of a stone from which part of the kidney?",
+  "options": {
+   "A": "Central parenchyma",
+   "B": "Renal parenchyma",
+   "C": "Lower pole",
+   "D": "Renal pelvis",
+   "E": "Upper pole"
+  },
+  "answer": "D",
+  "explanation": "Pyelolithotomy removes a stone through an incision in the renal pelvis; nephrolithotomy goes through the parenchyma.",
+  "key_note": "",
+  "_new": true,
+  "qid": "22-N21"
+ },
+ {
+  "ncids": [
+   "K1155"
+  ],
+  "stem": "In prolonged immobilisation, stones form due to:",
+  "options": {
+   "A": "Decreased metabolism",
+   "B": "Decreased ureteric peristalsis",
+   "C": "Decreased urinary output",
+   "D": "Dehydration",
+   "E": "Skeletal decalcification"
+  },
+  "answer": "E",
+  "explanation": "Immobilisation causes bone resorption with hypercalciuria, predisposing to calcium stones; urinary stasis and infection add to the risk.",
+  "key_note": "",
+  "_new": true,
+  "qid": "22-N22"
+ },
+ {
+  "ncids": [
+   "K1156"
+  ],
+  "stem": "A woman has a ureteric stone. What is the commonest site of lodgement?",
+  "options": {
+   "A": "Anywhere in the ureter",
+   "B": "Crossing of the iliac vessels",
+   "C": "Crossing of the vas deferens",
+   "D": "Pelviureteric junction",
+   "E": "Vesicoureteric junction"
+  },
+  "answer": "E",
+  "explanation": "The vesicoureteric junction (intramural ureter) is the narrowest part of the ureter and the commonest site of impaction.",
+  "key_note": "",
+  "_new": true,
+  "qid": "22-N23"
+ },
+ {
+  "ncids": [
+   "K1241"
+  ],
+  "stem": "A double J stent is normally used by a:",
+  "options": {
+   "A": "Cardiologist",
+   "B": "Gastroenterologist",
+   "C": "Neurosurgeon",
+   "D": "Pulmonologist",
+   "E": "Urologist"
+  },
+  "answer": "E",
+  "explanation": "A double J stent is an indwelling ureteric stent with a coil in the renal pelvis and one in the bladder, used to relieve or prevent ureteric obstruction.",
+  "key_note": "",
+  "_new": true,
+  "qid": "22-N24"
+ },
+ {
+  "ncids": [
+   "K1437"
+  ],
+  "stem": "The following are causes of pre-renal uraemia. Mark the wrong statement.",
+  "options": {
+   "A": "Hypovolaemia",
+   "B": "Severe blood loss",
+   "C": "Gram-negative sepsis",
+   "D": "Cardiogenic shock",
+   "E": "Acute glomerulonephritis"
+  },
+  "answer": "E",
+  "explanation": "Pre-renal failure results from reduced renal perfusion (hypovolaemia, haemorrhage, sepsis, cardiac failure). Acute glomerulonephritis is intrinsic renal disease.",
+  "key_note": "",
+  "_new": true,
+  "qid": "22-N25"
+ },
+ {
+  "ncids": [
+   "K1438"
+  ],
+  "stem": "The following are causes of post-renal uraemia. Mark the wrong statement.",
+  "options": {
+   "A": "Renal calculus disease",
+   "B": "Pelvic malignancy",
+   "C": "Pelvic surgery (ureteric injury)",
+   "D": "Crystalluria",
+   "E": "Prolonged hypoxia"
+  },
+  "answer": "E",
+  "explanation": "Post-renal failure is due to obstruction of urine flow (stones, malignancy, iatrogenic ureteric injury, crystal obstruction). Prolonged hypoxia causes acute tubular necrosis, an intrinsic renal cause.",
+  "key_note": "",
+  "_new": true,
+  "qid": "22-N26"
+ },
+ {
+  "ncids": [
+   "K1436"
+  ],
+  "stem": "Which of the following statements regarding infantile polycystic disease of the kidney is NOT true?",
+  "options": {
+   "A": "It is a rare condition",
+   "B": "The kidneys are large and may cause obstruction at birth",
+   "C": "Many affected children are stillborn",
+   "D": "Most others die of renal failure in early life",
+   "E": "The condition is inherited as autosomal dominant"
+  },
+  "answer": "E",
+  "explanation": "Infantile polycystic kidney disease is autosomal recessive (PKHD1 gene); the adult form is autosomal dominant.",
+  "key_note": "",
+  "_new": true,
+  "qid": "22-N27"
+ }
+]

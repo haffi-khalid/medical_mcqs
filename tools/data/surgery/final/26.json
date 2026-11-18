@@ -1,0 +1,705 @@
+[
+ {
+  "cids": [
+   "C0739"
+  ],
+  "stem": "A 17-year-old male has a suspected testicular torsion and the scrotum is to be explored surgically. The surgeon incises the skin and then the dartos muscle. What is the next tissue layer that will be encountered during the dissection?",
+  "options": {
+   "A": "Visceral layer of the tunica vaginalis",
+   "B": "Cremasteric fascia",
+   "C": "Parietal layer of the tunica vaginalis",
+   "D": "External spermatic fascia",
+   "E": "Internal spermatic fascia"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Scrotal layers from outside in: skin, dartos, external spermatic fascia (from external oblique), cremasteric fascia/muscle (internal oblique), internal spermatic fascia (transversalis fascia), then parietal and visceral tunica vaginalis.",
+  "key_note": "Not marked in the source paper; answer by reviewer. Compiled key agrees.",
+  "figure": "",
+  "qid": "26-1"
+ },
+ {
+  "cids": [
+   "C0939"
+  ],
+  "stem": "During evaluation of the cause of varicocele in a 36-year-old man, attention is directed to the method of drainage of the left testicular vein, which usually enters which of the following?",
+  "options": {
+   "A": "Left adrenal vein",
+   "B": "Left renal vein",
+   "C": "Left inferior mesenteric vein",
+   "D": "Inferior vena cava (IVC)",
+   "E": "Left inferior epigastric vein"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "The left testicular vein drains at a right angle into the left renal vein (the right drains obliquely into the IVC), which, with the lack of valves and the nutcracker effect, explains why varicocele is commoner on the left.",
+  "key_note": "",
+  "figure": "",
+  "qid": "26-2"
+ },
+ {
+  "cids": [
+   "C0740"
+  ],
+  "stem": "A 78-year-old man develops a carcinoma of the scrotum. To which of the following lymph node groups may the tumour initially metastasise?",
+  "options": {
+   "A": "Para aortic",
+   "B": "Obturator",
+   "C": "Inguinal",
+   "D": "Meso-rectal",
+   "E": "None of the above"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Scrotal skin drains to the superficial inguinal nodes, so carcinoma of the scrotum first spreads there; the testis itself drains to the para-aortic nodes.",
+  "key_note": "Not marked in the source paper; answer by reviewer. Compiled key agrees.",
+  "figure": "",
+  "qid": "26-3"
+ },
+ {
+  "cids": [
+   "C0845"
+  ],
+  "stem": "A 42-year-old man presents with cancer of the left testis. To exclude lymphatic metastasis, which is the site that should be initially examined?",
+  "options": {
+   "A": "Vertical chain of inguinal glands",
+   "B": "Horizontal chain of inguinal glands",
+   "C": "Retrorectal glands",
+   "D": "Para-aortic glands",
+   "E": "Obturator nodes"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Testicular lymphatics follow the testicular vessels to the para-aortic (retroperitoneal) nodes at the level of L1-L2, reflecting the testis's embryological origin; inguinal nodes are involved only if the scrotal skin is breached.",
+  "key_note": "One copy's highlight overlapped D and E (Obturator nodes); correct is D.",
+  "figure": "",
+  "qid": "26-4"
+ },
+ {
+  "cids": [
+   "C0046"
+  ],
+  "stem": "A 29-year with primary infertility has a left 'bag of worms' feeling in scrotum on left side. This swelling increases on Valsalva. The semen analysis shows oligospermia. What will be the best management?",
+  "options": {
+   "A": "Scrotal support and NSAIDs",
+   "B": "Left orchiectomy",
+   "C": "Left varicocelectomy",
+   "D": "Long-term antibiotics",
+   "E": "Testosterone therapy"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A symptomatic left varicocele with oligospermia in an infertile man is an indication for varicocelectomy (inguinal or subinguinal ligation, or embolisation), which can improve semen parameters.",
+  "key_note": "",
+  "figure": "",
+  "qid": "26-5"
+ },
+ {
+  "cids": [
+   "C0223"
+  ],
+  "stem": "A 3-year boy presented with reducible right inguinal swelling. On examination the scrotal sac is rudimentary with no testis palpable on same side. What is the one of the most common causes of this pathology?",
+  "options": {
+   "A": "Chemical pesticides",
+   "B": "Decrease testosterone",
+   "C": "Diabetes of mother",
+   "D": "Premature birth",
+   "E": "Smoking in mother"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "An empty, underdeveloped hemiscrotum with an inguinal hernia indicates an undescended testis; prematurity is the strongest risk factor, as descent into the scrotum completes in the third trimester (about 30% of premature boys are affected).",
+  "key_note": "",
+  "figure": "",
+  "qid": "26-6"
+ },
+ {
+  "cids": [
+   "C0536",
+   "C0673"
+  ],
+  "stem": "9 months old infant is brought to OPD with undescended testes. True statement regarding undescended testes is",
+  "options": {
+   "A": "about 10% of boys are born with this condition",
+   "B": "Condition is more common on left side",
+   "C": "Condition is 40 percent bilateral",
+   "D": "6 to 12 months is the best time for orchidopexy",
+   "E": "Risk of malignancy is less in these cases"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Orchidopexy is recommended between 6 and 12 months (before 1 year, 18 months at the latest). About 3-5% of term boys are born with undescended testis, it is commoner on the right and about 10% are bilateral; the testis retains some function, malignancy risk is raised about 4-10 times (not 50), and early orchidopexy probably lowers that risk and allows self-examination.",
+  "key_note": "Merged variant: Another paper's version of this question had different options (2 years, 20 times) and marked 'orchidopexy should be attempted before the age of 2 years'; that reflects older teaching, and current guidance is before 1 year.",
+  "figure": "",
+  "qid": "26-7"
+ },
+ {
+  "cids": [
+   "C0056",
+   "C0394"
+  ],
+  "stem": "A 9-month boy has a palpable undescended testis in the inguinal canal. What is the best management approach?",
+  "options": {
+   "A": "Observe until age 2-3 years",
+   "B": "Start hCG therapy",
+   "C": "Orchidopexy between 6-12 months",
+   "D": "Orchiectomy now",
+   "E": "Fowlers procedure"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "For a palpable inguinal undescended testis in an infant, inguinal orchidopexy at 6-12 months is the treatment; this 9-month-old is in that window. Orchidectomy is for an atrophic testis or a post-pubertal case, and hCG is not recommended.",
+  "key_note": "One copy circled D (Orchiectomy now); correct is C: orchidopexy at 6-12 months.",
+  "figure": "",
+  "qid": "26-8"
+ },
+ {
+  "cids": [
+   "C0460",
+   "C1401"
+  ],
+  "stem": "A 3 year old boy presented in OPD with right inguinal region swelling since birth. On examination right inguinal swelling has no positive cough and is not reducible. There is no right palpable testis in right hemiscrotum. What procedure we will opt for him?",
+  "options": {
+   "A": "Right orchidectomy",
+   "B": "Right herniotomy",
+   "C": "Right hydrocelectomy",
+   "D": "Right orchidopexy",
+   "E": "Right varicocelectomy"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "An irreducible inguinal swelling since birth with an empty hemiscrotum is an undescended testis in the inguinal canal, and any child with an undescended testis beyond 6 months needs orchidopexy (with ligation of the patent processus vaginalis). Hormonal therapy and observation are not recommended, and laparoscopy is reserved for an impalpable testis.",
+  "key_note": "",
+  "figure": "",
+  "qid": "26-9"
+ },
+ {
+  "cids": [
+   "C1519"
+  ],
+  "stem": "A 16-year-old male went to the general practitioner. He was concerned that his right testicle does not seem to be present within his scrotum. On examination the right side of the scrotum was not developed, the left testis is palpable in the scrotum and appeared to be of normal size. What is the most appropriate plan of management?",
+  "options": {
+   "A": "Bilateral orchidopexy",
+   "B": "Exploration and orchidectomy",
+   "C": "Exploration and orchidopexy",
+   "D": "Hormonal therapy",
+   "E": "No treatment required"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "In a post-pubertal male with a unilateral undescended testis and a normal contralateral testis, the retained testis is unlikely to produce sperm and carries a raised cancer risk, so exploration and orchidectomy is usually recommended.",
+  "key_note": "The paper and compiled key marked C (Exploration and orchidopexy); B is preferred for a post-pubertal unilateral undescended testis (orchidectomy), though some still offer orchidopexy, so this item is debated.",
+  "figure": "",
+  "qid": "26-10"
+ },
+ {
+  "cids": [
+   "C0219"
+  ],
+  "stem": "A 2-year boy had a swelling left scrotal region. Mother says the swelling increase after end of day. The swelling disappears in the morning but appears again during day. On examination there is left scrotal swelling which is soft fluctuant and testis is not separately palpable. What is most likely diagnosis?",
+  "options": {
+   "A": "Left epididymitis",
+   "B": "Left hernia",
+   "C": "Left side hydrocele",
+   "D": "Left varicocele",
+   "E": "Lipoma scrotum"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A soft fluctuant scrotal swelling that fills during the day and empties overnight, with the testis not separately palpable, is a communicating (congenital) hydrocele through a patent processus vaginalis; a hernia would be felt as reducible bowel with a cough impulse and one can get above a hydrocele.",
+  "key_note": "",
+  "figure": "",
+  "qid": "26-11"
+ },
+ {
+  "cids": [
+   "C0514"
+  ],
+  "stem": "Regarding hydrocele:-",
+  "options": {
+   "A": "Vaginal hydrocele is common in young girls",
+   "B": "Hydrocele fluid contains numerous pus cells",
+   "C": "Congenital hydrocele communicates with the peritoneal cavity",
+   "D": "It usually occurs after blunt scrotal trauma",
+   "E": "Treatment is percutaneous aspiration"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A congenital hydrocele communicates with the peritoneal cavity via a patent processus vaginalis. Hydrocele fluid is clear and straw-coloured, not purulent; aspiration has a high recurrence rate and operation (Jaboulay/Lord's) is the standard treatment.",
+  "key_note": "",
+  "figure": "",
+  "qid": "26-12"
+ },
+ {
+  "cids": [
+   "C0354",
+   "C0564",
+   "C0585",
+   "C1447"
+  ],
+  "stem": "A 52 years old male presented in OPD with progressively enlarging lump right scrotum. On examination the swelling is tense with negative cough reflex. The testis is not separately palpable from this swelling and trans-illumination test is positive. What is most likely diagnosis?",
+  "options": {
+   "A": "Hernia",
+   "B": "Hematocele",
+   "C": "Hydrocele",
+   "D": "Testicular torsion",
+   "E": "Testicular tumor"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A tense, brilliantly transilluminating scrotal swelling with no cough impulse, which one can get above and in which the testis cannot be felt separately, is a vaginal hydrocele. An epididymal cyst also transilluminates but lies above and behind the testis, which is felt separately; tumours, torsion, varicocele and haematocele do not transilluminate (beware: an infant's hernia containing bowel can).",
+  "key_note": "",
+  "figure": "",
+  "qid": "26-13"
+ },
+ {
+  "cids": [
+   "C0411"
+  ],
+  "stem": "All of the following are painful testicular conditions except.",
+  "options": {
+   "A": "Hydrocele",
+   "B": "Acute epididymitis",
+   "C": "Testicular torsion",
+   "D": "Obstructed scrotal hernia",
+   "E": "Haematocele"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "An uncomplicated hydrocele is painless; epididymitis, torsion, an obstructed hernia and haematocele are all painful.",
+  "key_note": "The compiled key's letter (C) does not match its own text (Hydrocele); correct is A: Hydrocele.",
+  "figure": "",
+  "qid": "26-14"
+ },
+ {
+  "cids": [
+   "C1385"
+  ],
+  "stem": "An 11 year old boy is having sudden onset of severe pain in right testis. What is the commonest cause of torsion of testis in children is?",
+  "options": {
+   "A": "Associated testicular tumour",
+   "B": "Congenital hydrocele",
+   "C": "High investment of tunica vaginalis",
+   "D": "Maldescent of testis",
+   "E": "Trauma"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "The commonest predisposing cause of torsion is a high investment of the tunica vaginalis ('bell-clapper' deformity), which lets the testis rotate freely; this is often bilateral, so the other side is fixed at operation.",
+  "key_note": "",
+  "figure": "",
+  "qid": "26-15"
+ },
+ {
+  "cids": [
+   "C0225",
+   "C1399"
+  ],
+  "stem": "A 15 year boy has sudden pain right testicle with no other symptoms. On examination both testes are in scrotum with tender right testis present in high lying position and in a horizontal lie. Prehn's test is negative. What is your diagnosis?",
+  "options": {
+   "A": "Right hydrocele",
+   "B": "Right inguinal hernia",
+   "C": "Right orchitis",
+   "D": "Right testis torsion",
+   "E": "Right undescended testis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Sudden testicular pain with a high-riding, horizontally lying testis, an absent cremasteric reflex and a negative Prehn's sign (elevation does not relieve pain) indicates torsion of the testis. Epididymo-orchitis has a gradual onset, a normal lie and relief on elevation.",
+  "key_note": "",
+  "figure": "",
+  "qid": "26-16"
+ },
+ {
+  "cids": [
+   "C0040",
+   "C1406"
+  ],
+  "stem": "A 16-year boy has sudden, severe left testicular pain and vomiting for 3 hours. The examination shows high-riding, horizontal testis and absent cremasteric reflex. What is the next step in management?",
+  "options": {
+   "A": "Start NSAIDs and observe.",
+   "B": "Urgent Doppler ultrasound.",
+   "C": "Empiric antibiotics, scrotal support.",
+   "D": "Immediate scrotal exploration and detorsion.",
+   "E": "Manual detorsion and discharge."
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Testicular torsion is a clinical diagnosis: immediate scrotal exploration, detorsion and bilateral orchidopexy is required, ideally within 6 hours. Doppler or other imaging must not delay surgery when the clinical picture is classic.",
+  "key_note": "One paper's version (25-year-old after sport, options including immediate scrotal ultrasound) marked B (ultrasound); correct is immediate surgical exploration, as imaging should not delay surgery in classic torsion.",
+  "figure": "",
+  "qid": "26-17"
+ },
+ {
+  "cids": [
+   "C1481"
+  ],
+  "stem": "A 30 year old man presents to the Emergency Department with a 24 hour history of progressive right testicular pain. The right testes, epididymis, and spermatic cord are tender, and Prehn's maneuver leads to some relief of the pain. Examination reveals normal lying swollen testes with some scrotal erythema and swelling. What is the most likely diagnosis in this patient?",
+  "options": {
+   "A": "Epididymo-orchitis",
+   "B": "Hydrocele",
+   "C": "Idiopathic scrotal edema",
+   "D": "Testicular torsion",
+   "E": "Testicular tumor"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "A 24-hour history of progressive pain with tender epididymis and cord, a normally lying testis, scrotal erythema and relief on elevation (positive Prehn's sign) indicates epididymo-orchitis. Torsion is sudden, with a high horizontal testis and no relief.",
+  "key_note": "The compiled key marked D (Testicular torsion); correct is A: gradual onset, normal lie and positive Prehn's sign favour epididymo-orchitis.",
+  "figure": "",
+  "qid": "26-18"
+ },
+ {
+  "cids": [
+   "C1452"
+  ],
+  "stem": "A 42-year-old male patient developed a fulminating infection of his scrotal skin which became black with a foul smell. The best treatment option in this situation to save patient's life is:",
+  "options": {
+   "A": "Bilateral orchidectomy",
+   "B": "Broad-spectrum Oral antibiotics",
+   "C": "Blood transfusion",
+   "D": "Expensive antiseptic dressings",
+   "E": "Aggressive surgical debridement"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Fulminant necrotising infection of the scrotum is Fournier's gangrene; life-saving treatment is urgent aggressive surgical debridement with broad-spectrum IV antibiotics and resuscitation. The testes are usually spared as they have a separate blood supply.",
+  "key_note": "",
+  "figure": "",
+  "qid": "26-19"
+ },
+ {
+  "cids": [
+   "C0359"
+  ],
+  "stem": "70 years old male presents with pain less scrotal swelling. There is no history of trauma in recent past. On examination swelling is hard in consistency and limited to scrotum. True statement regarding testicular tumors is:",
+  "options": {
+   "A": "Hematogenous spread is more common in Seminomas",
+   "B": "Incidence of testicular tumors is decreasing in last few decades",
+   "C": "Inguinal lymph nodes are enlarged in testicular tumors",
+   "D": "Non Germ cell tumors are more common as compared to germ cell tumors",
+   "E": "Teratomas are more common in younger age group as compared to Seminoma"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Teratomas (non-seminomatous germ cell tumours) peak at 20-30 years and seminomas at 30-40 years. Germ cell tumours make up about 95% of testicular tumours, the incidence is rising, spread is mainly lymphatic to para-aortic nodes (teratoma spreads more by blood), and inguinal nodes are not involved unless scrotal skin is breached.",
+  "key_note": "",
+  "figure": "",
+  "qid": "26-20"
+ },
+ {
+  "cids": [
+   "C0509",
+   "C0633"
+  ],
+  "stem": "A 35-year-old man has a hard left testicular swelling. Regarding testicular seminoma, which statement is true?",
+  "options": {
+   "A": "It is a common testicular tumour of young children",
+   "B": "Inguinal lymph nodes are usually involved by the tumour",
+   "C": "It is the commonest cause of male infertility",
+   "D": "Orchidectomy via inguinal approach is the standard surgical management",
+   "E": "Orchidectomy via scrotal approach is the standard surgical management"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Testicular tumours are removed by radical inguinal orchidectomy with high ligation of the cord, as a scrotal approach risks seeding the tumour into the scrotal lymphatics. Seminoma peaks at 30-40 years, spreads to para-aortic nodes, and is not the commonest cause of infertility.",
+  "key_note": "Some copies highlighted C (commonest cause of male infertility); the printed key and correct answer is D: inguinal orchidectomy.",
+  "figure": "",
+  "qid": "26-21"
+ },
+ {
+  "cids": [
+   "C0943"
+  ],
+  "stem": "During a workup for infertility, a 34-year-old man is noted to have a solid tumor in the anterior aspect of his right testis. What is the most likely diagnosis?",
+  "options": {
+   "A": "Torsion of the testis",
+   "B": "Cyst of the epididymis",
+   "C": "Lipoma of the cord",
+   "D": "Seminoma testis",
+   "E": "Epididymo-orchitis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A solid intratesticular mass in a man in his 30s is a testicular germ cell tumour until proven otherwise, and seminoma is the commonest at this age (peak 30-40 years); testicular tumours are more common in subfertile men.",
+  "key_note": "",
+  "figure": "",
+  "qid": "26-22"
+ },
+ {
+  "cids": [
+   "C0044"
+  ],
+  "stem": "A 30-year man present with a firm, painless testicular mass. What is the best initial tumor marker panel?",
+  "options": {
+   "A": "PSA, LDH, β-hCG",
+   "B": "AFP, β-hCG, LDH",
+   "C": "CEA, CA-125, CA 19-9",
+   "D": "AFP and CA19-9",
+   "E": "β-hCG and CA125"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "The testicular tumour marker panel is AFP, beta-hCG and LDH, measured before orchidectomy for diagnosis, staging and follow-up.",
+  "key_note": "",
+  "figure": "",
+  "qid": "26-23"
+ },
+ {
+  "cids": [
+   "C0594"
+  ],
+  "stem": "Alpha-fetoprotein is raised in a patient with:",
+  "options": {
+   "A": "Prostatic cancer",
+   "B": "Renal cell carcinoma",
+   "C": "Seminoma testis",
+   "D": "Teratoma testis",
+   "E": "Urinary bladder cancer"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "AFP is produced by yolk sac elements of non-seminomatous germ cell tumours (teratoma); pure seminoma never raises AFP, though it may raise beta-hCG modestly.",
+  "key_note": "",
+  "figure": "",
+  "qid": "26-24"
+ },
+ {
+  "cids": [
+   "C1142",
+   "C1404"
+  ],
+  "stem": "A 27-year male presents with painless swelling in the right testicle for 2 months. On examination, a firm non-tender testicular mass is palpable. Tumor markers show elevated β-hCG and AFP. Which of the following is the most appropriate next step?",
+  "options": {
+   "A": "Testicular biopsy",
+   "B": "Fine-needle aspiration",
+   "C": "Radical inguinal orchiectomy",
+   "D": "Radiotherapy",
+   "E": "Chemotherapy"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A solid testicular mass is treated by radical inguinal orchidectomy, which is both diagnostic and therapeutic. Testicular biopsy or FNA through the scrotum is contraindicated because it risks seeding the tumour; chemotherapy and radiotherapy follow histology and staging.",
+  "key_note": "One paper's version (40-year-old with a solid mass on ultrasound) marked E (Biopsy); correct is orchidectomy, as trans-scrotal biopsy is contraindicated.",
+  "figure": "",
+  "qid": "26-25"
+ },
+ {
+  "ncids": [
+   "K0458",
+   "K0459"
+  ],
+  "stem": "A patient presents with severe pain in the right hemiscrotum with nausea and vomiting. Ultrasound of the scrotum shows a normal testis, and on examination there is a 2-3 mm 'blue dot sign' at the upper pole of the testis. In which of the following conditions is this sign seen?",
+  "options": {
+   "A": "Extravaginal torsion",
+   "B": "Intravaginal torsion",
+   "C": "Testicular torsion",
+   "D": "Torsion of appendix of testis"
+  },
+  "answer": "D",
+  "explanation": "The blue dot sign is the infarcted, twisted appendix testis (hydatid of Morgagni) seen through the scrotal skin at the upper pole. True testicular torsion (intra- or extravaginal) involves the whole testis, which here is normal on ultrasound.",
+  "key_note": "",
+  "_new": true,
+  "qid": "26-N1"
+ },
+ {
+  "ncids": [
+   "K0507"
+  ],
+  "stem": "An 8-month-old boy is taken to the GP by his anxious mother, who is worried that his right testis does not always seem to be present within his scrotum. Which of the following statements is true of undescended testes?",
+  "options": {
+   "A": "Inability to palpate the testis is an indication for laparoscopy",
+   "B": "One-quarter of undescended testes complete their descent in the first year of life",
+   "C": "Surgical exploration and fixation should be performed in the neonatal period to allow easier repair",
+   "D": "Undescended testes are associated with a reduced risk of testicular malignancy",
+   "E": "Undescended testes are associated with normal fertility"
+  },
+  "answer": "A",
+  "explanation": "An impalpable testis is best evaluated by diagnostic laparoscopy, which localises it and allows orchidopexy (single or staged Fowler-Stephens) or removal. Most testes that will descend do so by 3 months, surgery is done at 6-12 months not in the neonatal period, and maldescent increases malignancy risk and reduces fertility.",
+  "key_note": "",
+  "_new": true,
+  "qid": "26-N2"
+ },
+ {
+  "ncids": [
+   "K0514"
+  ],
+  "stem": "An 11-year-old boy has sudden onset of severe pain in the right testis. What is the investigation of choice to rule out torsion of the testis?",
+  "options": {
+   "A": "Angiography",
+   "B": "CT scan",
+   "C": "Doppler ultrasound",
+   "D": "MRI",
+   "E": "Venography"
+  },
+  "answer": "C",
+  "explanation": "Colour Doppler ultrasound shows absent or reduced testicular blood flow in torsion. It must never delay exploration when clinical suspicion is high.",
+  "key_note": "",
+  "_new": true,
+  "qid": "26-N3"
+ },
+ {
+  "ncids": [
+   "K0556"
+  ],
+  "stem": "A 2-year-old boy presents with a swelling of the right scrotum which reduces after a night's sleep. On examination there is no cough impulse and fluctuation is positive. Which investigation should be done next?",
+  "options": {
+   "A": "X-ray pelvis",
+   "B": "Blood CP",
+   "C": "Ultrasound scrotum",
+   "D": "Doppler scan",
+   "E": "Fluid C/S"
+  },
+  "answer": "C",
+  "explanation": "This is a congenital (communicating) hydrocele; scrotal ultrasound confirms fluid around a normal testis and excludes a hernia or testicular pathology. Doppler is for suspected vascular problems such as torsion or varicocele.",
+  "key_note": "",
+  "_new": true,
+  "qid": "26-N4"
+ },
+ {
+  "ncids": [
+   "K0559"
+  ],
+  "stem": "A 25-year-old man presents with a hard left inguinal swelling. The left side of the scrotum is underdeveloped and empty. He also has bone pains and a tender spine with cough. What is the likely cause of this swelling?",
+  "options": {
+   "A": "Left inguinal hernia",
+   "B": "Left undescended testis",
+   "C": "Left lipoma of the spermatic cord",
+   "D": "Seminoma of the left testis",
+   "E": "Torsion of the left testis"
+  },
+  "answer": "D",
+  "explanation": "An undescended testis carries a markedly increased risk of malignancy, and seminoma is the commonest tumour arising in it. A hard inguinal mass with an empty hemiscrotum and bone pain suggests malignant change with metastases rather than a simple undescended testis.",
+  "key_note": "",
+  "_new": true,
+  "qid": "26-N5"
+ },
+ {
+  "ncids": [
+   "K0560"
+  ],
+  "stem": "A 15-year-old boy develops sudden pain in the right testis for 4 hours. He has had 2 episodes of vomiting and is tossing with pain in the emergency room. On examination there is severe tenderness of the right testis, which is lying transversely. What is the management in this case?",
+  "options": {
+   "A": "Right orchidectomy",
+   "B": "De-rotate the testis",
+   "C": "Right orchidopexy",
+   "D": "Bilateral orchidopexy",
+   "E": "Lift the testis for pain relief"
+  },
+  "answer": "D",
+  "explanation": "Testicular torsion needs urgent exploration, detorsion and fixation of the affected testis, and the contralateral testis must also be fixed because the bell-clapper anomaly is usually bilateral. Simple derotation alone leaves both testes at risk of recurrence.",
+  "key_note": "",
+  "_new": true,
+  "qid": "26-N6"
+ },
+ {
+  "ncids": [
+   "K0617"
+  ],
+  "stem": "A 1-year-old baby is brought to the emergency department with a left groin swelling noticed one month ago. There is a 2-3 cm irreducible firm swelling in the left inguinal area, with underdevelopment of the left side of the scrotum and an absent left testis. What is the probable diagnosis?",
+  "options": {
+   "A": "Left epididymo-orchitis",
+   "B": "Left-sided testicular torsion",
+   "C": "Left-sided cryptorchidism",
+   "D": "Hydrocele",
+   "E": "Varicocele"
+  },
+  "answer": "C",
+  "explanation": "A firm, irreducible inguinal swelling with an empty, hypoplastic hemiscrotum is an undescended (cryptorchid) testis lying in the inguinal canal. Torsion would present acutely with severe pain.",
+  "key_note": "",
+  "_new": true,
+  "qid": "26-N7"
+ },
+ {
+  "ncids": [
+   "K0624"
+  ],
+  "stem": "From which site do the testes start descending during intra-embryonic life?",
+  "options": {
+   "A": "Lumbar area",
+   "B": "Pelvis",
+   "C": "Hypochondrium",
+   "D": "Thorax",
+   "E": "Superficial inguinal pouch"
+  },
+  "answer": "A",
+  "explanation": "The testis develops on the posterior abdominal wall in the lumbar region from the gonadal ridge and descends, guided by the gubernaculum, to reach the deep ring by about 7 months and the scrotum by birth.",
+  "key_note": "",
+  "_new": true,
+  "qid": "26-N8"
+ },
+ {
+  "ncids": [
+   "K1092",
+   "K1182"
+  ],
+  "stem": "A 65-year-old diabetic man develops Fournier's gangrene of the scrotum. Which of the following organisms is NOT typically expected to be involved?",
+  "options": {
+   "A": "Clostridia",
+   "B": "Bacteroides",
+   "C": "Coliforms",
+   "D": "Peptostreptococcus",
+   "E": "Staphylococcus"
+  },
+  "answer": "A",
+  "explanation": "Fournier's gangrene is a synergistic polymicrobial (classically non-clostridial) infection by coliforms, Bacteroides, anaerobic streptococci such as Peptostreptococcus, and staphylococci. Clostridia are the expected answer as the organism not typically implicated.",
+  "key_note": "",
+  "_new": true,
+  "qid": "26-N9"
+ },
+ {
+  "ncids": [
+   "K1168",
+   "K1612"
+  ],
+  "stem": "A 69-year-old diabetic man presents with a 5-day history of mild dysuria, frequency and feeling generally unwell. He is pyrexial and tachycardic. The penis and scrotum are swollen, red and tender, erythema extends into both groins, and there is palpable crepitus in the perineum. Cultures grow both aerobic and anaerobic organisms. After resuscitation and broad-spectrum antibiotics he is taken promptly to theatre. What is the likely diagnosis?",
+  "options": {
+   "A": "Fournier's gangrene",
+   "B": "Epididymo-orchitis",
+   "C": "Testicular tumour",
+   "D": "Testicular torsion",
+   "E": "Prostatitis"
+  },
+  "answer": "A",
+  "explanation": "Fournier's gangrene is necrotising fasciitis of the genitalia and perineum, typically in diabetics, with spreading erythema, crepitus from gas-forming mixed organisms and systemic sepsis. It needs resuscitation, antibiotics and urgent radical debridement.",
+  "key_note": "",
+  "_new": true,
+  "qid": "26-N10"
+ },
+ {
+  "ncids": [
+   "K1732"
+  ],
+  "stem": "A 6-year-old child develops sudden pain in the right testis which is made worse by elevating the scrotum. What is the most probable diagnosis?",
+  "options": {
+   "A": "Viral orchitis",
+   "B": "Testicular torsion",
+   "C": "Obstructed hernia",
+   "D": "Varicocele",
+   "E": "Epididymo-orchitis"
+  },
+  "answer": "B",
+  "explanation": "Pain not relieved, or worsened, by elevating the testis (negative Prehn's sign) favours torsion, whereas elevation relieves the pain of epididymo-orchitis. Sudden onset in a child also points to torsion.",
+  "key_note": "",
+  "_new": true,
+  "qid": "26-N11"
+ },
+ {
+  "ncids": [
+   "K0438"
+  ],
+  "stem": "Which of the following statements about male genital examination is false?",
+  "options": {
+   "A": "The testes in men should be about the same size",
+   "B": "It is best to examine a man's genitalia in a warm room",
+   "C": "The normal prostate is the size of a walnut",
+   "D": "A hydrocele feels like a bag of worms",
+   "E": "In undescended testis the scrotal sac may be underdeveloped"
+  },
+  "answer": "D",
+  "explanation": "A 'bag of worms' is the feel of a varicocele (dilated pampiniform plexus); a hydrocele is a smooth, tense, transilluminating swelling.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "26-N12"
+ }
+]

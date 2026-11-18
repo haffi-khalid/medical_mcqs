@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Revision">
+<meta name="theme-color" content="#1f3a5f">
+<link rel="manifest" href="manifest.json">
+<link rel="apple-touch-icon" href="icon.png">
+<title>Kashaf's Revision</title>
+<style>
+:root{--bg:#f4f6fa;--card:#fff;--ink:#1b2433;--mute:#667085;--acc:#1f3a5f;--line:#dde3ec}
+@media (prefers-color-scheme:dark){:root{--bg:#0f141c;--card:#18202c;--ink:#e6ebf2;--mute:#98a2b3;--acc:#8fb4e8;--line:#2a3443}}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;padding:calc(28px + env(safe-area-inset-top)) 20px 28px}
+main{max-width:520px;margin:0 auto}
+h1{color:var(--acc);font-size:26px;margin:0 0 4px}
+p.sub{color:var(--mute);margin:0 0 22px}
+h2{font-size:17px;margin:22px 0 10px}
+a.btn{display:block;background:var(--card);border:1px solid var(--line);border-radius:16px;padding:16px 18px;margin:0 0 10px;text-decoration:none;color:var(--ink);box-shadow:0 4px 18px rgba(16,24,40,.06)}
+a.btn b{display:block;font-size:17px;color:var(--acc)}
+a.btn span{color:var(--mute);font-size:14px}
+small{display:block;color:var(--mute);font-size:13px;margin-top:20px}
+</style>
+</head>
+<body>
+<main>
+ <h1>Kashaf's Revision</h1>
+ <p class="sub">Final year, subject by subject.</p>
+ <div id="list"></div>
+ <small>Progress saves on this phone automatically. Use Save / Restore inside each page to keep a backup code.</small>
+</main>
+<script>
+// EDIT THIS LIST when adding a subject. Each link is relative to the site root.
+const SUBJECTS = [
+  {name: "Surgery", links: [
+    {href: "surgery/quiz.html", title: "MCQ Practice", desc: "2,542 MCQs with answers and explanations"},
+    {href: "surgery/flashcards.html", title: "Flashcards", desc: "1,263 tap-to-flip cards with memory hooks"}
+  ]}
+];
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+document.getElementById('list').innerHTML=SUBJECTS.map(s=>`<h2>${esc(s.name)}</h2>`+s.links.map(l=>`<a class="btn" href="${esc(l.href)}"><b>${esc(l.title)}</b><span>${esc(l.desc)}</span></a>`).join('')).join('');
+if('serviceWorker' in navigator)navigator.serviceWorker.register('sw.js').catch(()=>{});
+</script>
+</body>
+</html>

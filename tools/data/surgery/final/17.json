@@ -1,0 +1,1251 @@
+[
+ {
+  "cids": [
+   "C1012"
+  ],
+  "stem": "If the superior mesenteric artery is blocked by an embolus, which part of the intestine becomes gangrenous?",
+  "options": {
+   "A": "Jejunum",
+   "B": "Caecum, ascending colon, transverse colon",
+   "C": "Small intestine, ascending colon and part of transverse colon",
+   "D": "Two-thirds of transverse colon, ascending colon, ileum",
+   "E": "Ileum"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "The SMA supplies the gut from the distal duodenum to the proximal two-thirds of the transverse colon, so occlusion threatens the small intestine, caecum, ascending colon and part of the transverse colon. In practice an embolus often lodges just beyond the middle colic origin and may spare the proximal jejunum, but C is the textbook territory.",
+  "key_note": "Compiled answer book gave letter C but wrote 'Ileum'; correct is C as printed.",
+  "figure": "",
+  "qid": "17-1"
+ },
+ {
+  "cids": [
+   "C0487"
+  ],
+  "stem": "Meckel's diverticulitis most commonly occurs in the:",
+  "options": {
+   "A": "Proximal jejunum",
+   "B": "Distal jejunum",
+   "C": "Proximal ileum",
+   "D": "Distal ileum",
+   "E": "Ileocaecal junction"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Meckel's diverticulum lies on the antimesenteric border of the distal ileum, about 60 cm (2 feet) from the ileocaecal valve. It is a remnant of the vitellointestinal duct, not at the junction itself.",
+  "key_note": "",
+  "figure": "",
+  "qid": "17-2"
+ },
+ {
+  "cids": [
+   "C1485"
+  ],
+  "stem": "A young child is diagnosed with a Meckel's diverticulum. What is the most common presentation?",
+  "options": {
+   "A": "Diverticulitis",
+   "B": "Intestinal obstruction",
+   "C": "Obstruction",
+   "D": "Perforation",
+   "E": "Rectal bleeding"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "In children the commonest presentation is painless rectal bleeding from peptic ulceration of adjacent ileal mucosa caused by ectopic gastric mucosa. Obstruction (intussusception, volvulus around a band) is more common in adults.",
+  "key_note": "Compiled answer book letter was D but its text was 'Rectal bleeding'; options B and C duplicate each other in the source.",
+  "figure": "",
+  "qid": "17-3"
+ },
+ {
+  "cids": [
+   "C1444"
+  ],
+  "stem": "Your resident has opened a 12-year-old boy for suspected acute appendicitis. The appendix shows no signs of acute inflammation, and there is an incidental Meckel's diverticulum which is thick walled, narrow based and acutely inflamed. The rest of the gut is healthy. What is your next plan of action?",
+  "options": {
+   "A": "Remove the appendix and leave the Meckel's diverticulum, as the inflammation will settle with postoperative antibiotics",
+   "B": "Remove the Meckel's diverticulum and fashion an ileostomy",
+   "C": "Do segmental resection and primary anastomosis",
+   "D": "Do segmental resection and primary anastomosis along with appendicectomy",
+   "E": "Do nothing and close the abdomen"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "An inflamed Meckel's diverticulum is the cause of the symptoms and must be resected; with a thickened, inflamed base a segmental ileal resection with primary anastomosis is safest (no stoma needed in a healthy child). The appendix is removed as well, because leaving a normal appendix behind a right iliac fossa scar causes future diagnostic confusion.",
+  "key_note": "One paper's highlight appeared to mark C (stroke was ambiguous); the compiled key text gives D, which is the more complete answer.",
+  "figure": "",
+  "qid": "17-4"
+ },
+ {
+  "cids": [
+   "N013"
+  ],
+  "stem": "Which statement regarding intestinal tuberculosis is correct?",
+  "options": {},
+  "answer": null,
+  "answer_text": "The commonest site of stricture is the ileocaecal junction area.",
+  "explanation": "The ileocaecal region is the commonest site of intestinal tuberculosis because of its abundant lymphoid tissue (Peyer's patches) and relative stasis; healing by fibrosis produces strictures here, typically hyperplastic or ulcero-constrictive.",
+  "key_note": "Options not available in the source; recall question.",
+  "figure": "",
+  "qid": "17-5"
+ },
+ {
+  "cids": [
+   "C0662"
+  ],
+  "stem": "A 19-year-old woman presents with intermittent colicky abdominal pain for 6 months and alternating constipation and diarrhoea. She recently lost her father to a prolonged respiratory illness. There is fullness in the right iliac fossa, and barium follow-through shows irregular narrowing of the terminal ileum. What is the most likely diagnosis?",
+  "options": {
+   "A": "Actinomycetoma",
+   "B": "Ascariasis",
+   "C": "Hydatid disease",
+   "D": "Ileocaecal tuberculosis",
+   "E": "Psoas abscess"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Household contact with probable pulmonary TB, subacute obstructive symptoms, a right iliac fossa mass and terminal ileal stricturing point to ileocaecal tuberculosis, which in Pakistan is far commoner than Crohn's disease.",
+  "key_note": "",
+  "figure": "",
+  "qid": "17-6"
+ },
+ {
+  "cids": [
+   "N014"
+  ],
+  "stem": "A patient with about 1 week of fever after eating at roadside eateries suddenly develops board-like rigidity and a tense abdomen. What is the most likely diagnosis?",
+  "options": {},
+  "answer": null,
+  "answer_text": "Typhoid (enteric) perforation of the terminal ileum.",
+  "explanation": "Enteric (typhoid) fever ulcerates Peyer's patches in the terminal ileum, which classically perforate in the second or third week, giving generalised peritonitis with board-like rigidity. Treatment is resuscitation, antibiotics and laparotomy with repair or resection of the perforation.",
+  "key_note": "Options not available in the source; recall question. Stem context reconstructed from the compiled book explanation.",
+  "figure": "",
+  "qid": "17-7"
+ },
+ {
+  "cids": [
+   "C1176"
+  ],
+  "stem": "A 65-year-old man presents with intestinal perforation. On X-ray it can be seen as:",
+  "options": {
+   "A": "Double bubble appearance",
+   "B": "Air under diaphragm",
+   "C": "Fluid under diaphragm",
+   "D": "Honeycomb appearance",
+   "E": "None of the above"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Free intraperitoneal gas rises under the diaphragm and is best seen on an erect chest X-ray; it is absent in a minority of perforations, and CT is more sensitive. Double bubble is duodenal atresia.",
+  "key_note": "Compiled answer book letter was C but its text was 'Gas under diaphragm', i.e. the same answer.",
+  "figure": "",
+  "qid": "17-8"
+ },
+ {
+  "cids": [
+   "C0314"
+  ],
+  "stem": "A middle-aged woman, on oral contraceptives for a long time, presents with acute severe central abdominal pain, vomiting, blood-mixed stools, severe hypovolaemia, leucopenia and shock. Plain abdominal X-ray shows thickened gasless small bowel loops with air bubbles in a large abdominal vein. She is most probably suffering from:",
+  "options": {
+   "A": "Acute mesenteric ischaemia",
+   "B": "Diverticulitis",
+   "C": "Intestinal amoebiasis",
+   "D": "Typhoid",
+   "E": "Ulcerative colitis"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "The OCP predisposes to mesenteric venous thrombosis; pain out of proportion, bloody stools and shock with portal/mesenteric venous gas indicate transmural bowel infarction. CT angiography confirms it and urgent laparotomy is needed.",
+  "key_note": "",
+  "figure": "",
+  "qid": "17-9"
+ },
+ {
+  "cids": [
+   "C0871"
+  ],
+  "stem": "Which of the following is the common site of carcinoid tumour?",
+  "options": {
+   "A": "Stomach",
+   "B": "Small bowel",
+   "C": "Large bowel",
+   "D": "Appendix",
+   "E": "Lungs"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Classical teaching (and the expected exam answer) is that the appendix is the commonest site of carcinoid tumour, usually found incidentally at the tip. Recent registry data show the small intestine (ileum) has overtaken it as the commonest GI site, and ileal tumours are the ones that metastasise.",
+  "key_note": "Keyed answer D is the classical textbook answer; be aware that modern data favour small bowel (B).",
+  "figure": "",
+  "qid": "17-10"
+ },
+ {
+  "cids": [
+   "C0313"
+  ],
+  "stem": "A 70-year-old woman with a long history of diarrhoea, bloating and facial flushing presents to the ER with pain, tenderness and a mass in the right iliac fossa. The most likely diagnosis is:",
+  "options": {
+   "A": "Acute appendicitis",
+   "B": "Carcinoid tumour",
+   "C": "Crohn's colitis",
+   "D": "Diverticulitis",
+   "E": "Ulcerative colitis"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Flushing and diarrhoea are carcinoid syndrome, which implies a midgut (ileal) carcinoid with hepatic metastases releasing serotonin into the systemic circulation. The ileal primary and its desmoplastic mesenteric reaction form the RIF mass.",
+  "key_note": "",
+  "figure": "",
+  "qid": "17-11"
+ },
+ {
+  "cids": [
+   "C0494"
+  ],
+  "stem": "Crohn's disease is a chronic granulomatous condition of the bowel. Which one of the following is a specific feature of this disease?",
+  "options": {
+   "A": "Continuous colonic involvement",
+   "B": "Inflammation limited to mucosa",
+   "C": "Pseudopolyps",
+   "D": "Toxic megacolon",
+   "E": "Transmural inflammation"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Crohn's is transmural, which explains its fissures, fistulae, strictures and abscesses. Continuous involvement, mucosal-only inflammation, pseudopolyps and toxic megacolon are typical of ulcerative colitis.",
+  "key_note": "",
+  "figure": "",
+  "qid": "17-12"
+ },
+ {
+  "cids": [
+   "C0305"
+  ],
+  "stem": "Ulcerative colitis is a chronic disease of the GIT which presents with remissions and relapses. Characteristic of UC is the presence of:",
+  "options": {
+   "A": "Granulomas",
+   "B": "Fistulae",
+   "C": "Pseudopolyps",
+   "D": "Sinuses",
+   "E": "Skip lesions"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Pseudopolyps are islands of regenerating mucosa between areas of ulceration in UC. Granulomas, fistulae, sinuses and skip lesions are features of Crohn's disease.",
+  "key_note": "The printed key in the source paper says E (skip lesions); correct is C, since skip lesions are a Crohn's feature.",
+  "figure": "",
+  "qid": "17-13"
+ },
+ {
+  "cids": [
+   "C0308"
+  ],
+  "stem": "In patients with inflammatory bowel disease, which one of the following extra-intestinal conditions is more commonly associated with ulcerative colitis than with Crohn's disease?",
+  "options": {
+   "A": "Gallstones",
+   "B": "Renal stones",
+   "C": "Uveitis",
+   "D": "Venous thrombosis",
+   "E": "Erythema nodosum"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Uveitis (like primary sclerosing cholangitis) is more frequent in UC. Erythema nodosum and episcleritis are more common in Crohn's, and gallstones and oxalate renal stones follow terminal ileal disease or resection, so they are Crohn's associations.",
+  "key_note": "Paper keys marked E (Erythema nodosum); correct is C: erythema nodosum is more common in Crohn's disease, while uveitis is more common in UC.",
+  "figure": "",
+  "qid": "17-14"
+ },
+ {
+  "cids": [
+   "C0315"
+  ],
+  "stem": "A 50-year-old man with a history of chronic diarrhoea, mucus discharge, haematochezia, polyarthritis and mild to moderate abdominal pain is diagnosed with cholangiocarcinoma. Which disease is associated with these symptoms as part of a syndrome?",
+  "options": {
+   "A": "Carcinoma gallbladder",
+   "B": "Crohn's disease",
+   "C": "Peutz-Jeghers syndrome",
+   "D": "Sclerosing cholangitis",
+   "E": "Ulcerative colitis"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Bloody mucoid diarrhoea with arthritis is ulcerative colitis, which is linked to primary sclerosing cholangitis and hence cholangiocarcinoma. PSC is the intermediate step, but the bowel disease causing these symptoms is UC.",
+  "key_note": "",
+  "figure": "",
+  "qid": "17-15"
+ },
+ {
+  "cids": [
+   "C0495"
+  ],
+  "stem": "A 40-year-old man has had years of intermittent diarrhoea and abdominal pain but has never consulted a physician. Eventually he begins to pass faecal material in his urine. Which one of the following diseases is most likely to cause this complication?",
+  "options": {
+   "A": "Coeliac disease",
+   "B": "Crohn's disease",
+   "C": "Meckel's diverticulosis",
+   "D": "Ulcerative colitis",
+   "E": "Whipple disease"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Transmural inflammation in Crohn's disease allows fistulation into adjacent organs, here an enterovesical fistula. UC is mucosal and does not fistulate; in the elderly, diverticular disease is the commonest cause of colovesical fistula.",
+  "key_note": "",
+  "figure": "",
+  "qid": "17-16"
+ },
+ {
+  "cids": [
+   "C1458"
+  ],
+  "stem": "A 25-year-old man has a 2-year history of intermittent right iliac fossa pain, intermittent fever and weight loss. For the last 2 months he gets abdominal distension with pain and nausea 1-2 hours after meals, and he now has multiple perianal fistulae. The most likely cause is:",
+  "options": {
+   "A": "Recurrent appendicitis",
+   "B": "Ulcerative colitis",
+   "C": "Appendicular mass",
+   "D": "Carcinoma of the caecum",
+   "E": "Crohn's disease"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Terminal ileal disease with post-prandial obstructive symptoms (stricture) plus multiple perianal fistulae in a young man is classic Crohn's disease.",
+  "key_note": "",
+  "figure": "",
+  "qid": "17-17"
+ },
+ {
+  "cids": [
+   "C1455"
+  ],
+  "stem": "A 22-year-old man has episodic profuse bloody diarrhoea 4-5 times a day for the last 2 years. He is markedly underweight, anaemic and hypoproteinaemic, with arthritis of the knees and ankles. Medical treatment leads to remission. He is most likely suffering from:",
+  "options": {
+   "A": "Carcinoma of the colon",
+   "B": "Bacillary dysentery",
+   "C": "Crohn's disease",
+   "D": "Ulcerative colitis",
+   "E": "Intestinal amoebiasis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Chronic relapsing bloody diarrhoea in a young adult with large-joint (enteropathic) arthritis that remits with medical therapy is ulcerative colitis. Crohn's more often causes non-bloody diarrhoea, pain, mass or fistulae.",
+  "key_note": "",
+  "figure": "",
+  "qid": "17-18"
+ },
+ {
+  "cids": [
+   "C1130"
+  ],
+  "stem": "A 40-year-old patient with ulcerative colitis presents with toxic megacolon and is haemodynamically unstable, requiring immediate surgery. What is the most appropriate procedure?",
+  "options": {
+   "A": "Hartmann's procedure",
+   "B": "Loop ileostomy",
+   "C": "Proctocolectomy with ileal pouch-anal anastomosis (IPAA)",
+   "D": "Segmental colectomy",
+   "E": "Total colectomy with ileostomy"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "The emergency operation for acute severe or toxic colitis is subtotal colectomy with end ileostomy, leaving the rectal stump; it removes the diseased colon quickly without a pelvic dissection. Restorative proctocolectomy (IPAA) is done electively later once the patient has recovered.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "17-19"
+ },
+ {
+  "cids": [
+   "C0276"
+  ],
+  "stem": "A 64-year-old woman presents with a 2-day history of increasing left-sided abdominal pain with fever. She has localised peritonism in the left iliac fossa, and raised white cell count and CRP. What is the most likely diagnosis?",
+  "options": {
+   "A": "Constipation",
+   "B": "Diverticular disease",
+   "C": "Diverticulitis",
+   "D": "Diverticulosis",
+   "E": "Irritable bowel syndrome"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Left iliac fossa peritonism with fever and raised inflammatory markers in an older patient is acute diverticulitis, i.e. infection of a diverticulum. Diverticulosis is the mere presence of diverticula, and diverticular disease implies symptoms without acute inflammation.",
+  "key_note": "Not marked in the source paper; answer by reviewer (agrees with compiled key).",
+  "figure": "",
+  "qid": "17-20"
+ },
+ {
+  "cids": [
+   "C0632"
+  ],
+  "stem": "A 50-year-old man with a prolonged history of bleeding per rectum now presents with pneumaturia. The test with the highest diagnostic yield for detecting a colovesical fistula is:",
+  "options": {
+   "A": "Barium enema",
+   "B": "Colonoscopy",
+   "C": "Computed tomography (CT)",
+   "D": "Cystoscopy",
+   "E": "Ultrasonography"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "CT shows gas in the bladder, bladder wall thickening adjacent to diseased colon and the underlying cause, giving the highest yield. Barium studies and endoscopy frequently miss the track.",
+  "key_note": "",
+  "figure": "",
+  "qid": "17-21"
+ },
+ {
+  "cids": [
+   "C0073"
+  ],
+  "stem": "A patient undergoes colonoscopy and a single polyp is detected. What is the most important factor in determining the risk of malignancy?",
+  "options": {
+   "A": "Size of the polyp",
+   "B": "Location of the polyp",
+   "C": "Histology of the polyp",
+   "D": "Shape of polyps",
+   "E": "Patient's age"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Malignant potential depends on histology: adenomas (especially villous with high-grade dysplasia) are premalignant whereas hyperplastic and inflammatory polyps are not. Size above 2 cm also raises risk markedly, which is the tempting distractor.",
+  "key_note": "Keyed answer C retained; note that size is also a strong predictor and some texts cite it.",
+  "figure": "",
+  "qid": "17-22"
+ },
+ {
+  "cids": [
+   "C0307",
+   "C0500"
+  ],
+  "stem": "Which one of the following colonic conditions has the highest risk of developing colorectal carcinoma?",
+  "options": {
+   "A": "Familial polyposis coli",
+   "B": "Hyperplastic polyp",
+   "C": "Inflammatory polyp",
+   "D": "Juvenile rectal polyp",
+   "E": "Peutz-Jeghers polyp"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Familial adenomatous polyposis (APC mutation) carries an almost 100% risk of colorectal cancer by about 40 years if the colon is not removed. The other polyps are hamartomatous or non-neoplastic with low risk.",
+  "key_note": "",
+  "figure": "",
+  "qid": "17-23"
+ },
+ {
+  "cids": [
+   "C1459"
+  ],
+  "stem": "A 12-year-old girl has a 2-year history of loose stools with blood and mucus, lower abdominal pain and weight loss. Colonoscopy shows hundreds of polyps in the colon. The best advice for her and her family is:",
+  "options": {
+   "A": "It is not a communicable disease, so no worry for other family members",
+   "B": "Patient should be started on broad-spectrum antibiotics",
+   "C": "Colonoscopy is advised for family members above the age of 50 years",
+   "D": "Patient should be advised total colectomy",
+   "E": "Genetic testing for family members above the age of 40 years"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Hundreds of colonic polyps means familial adenomatous polyposis, and prophylactic colectomy (proctocolectomy with pouch, or colectomy with ileorectal anastomosis) is needed before cancer develops. At-risk relatives need APC testing and flexible sigmoidoscopy from about 12 years of age, not 40 or 50.",
+  "key_note": "",
+  "figure": "",
+  "qid": "17-24"
+ },
+ {
+  "cids": [
+   "C0344"
+  ],
+  "stem": "A 55-year-old man presents with bleeding per rectum. Colonoscopy reveals a malignant lesion. The commonest site for colorectal carcinoma is:",
+  "options": {
+   "A": "Ascending colon",
+   "B": "Descending colon",
+   "C": "Rectum",
+   "D": "Sigmoid colon",
+   "E": "Transverse colon"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "About a third of colorectal cancers arise in the rectum, making it the single commonest site, followed by the sigmoid colon; together they account for roughly two-thirds.",
+  "key_note": "One copy also had a light highlight with tick on D (Sigmoid colon); printed key C is correct.",
+  "figure": "",
+  "qid": "17-25"
+ },
+ {
+  "cids": [
+   "C0335"
+  ],
+  "stem": "Regarding colorectal carcinoma, which of the following statements is true?",
+  "options": {
+   "A": "Faecal occult blood and colonoscopy can be used for screening",
+   "B": "Left-sided tumours usually present with anaemia",
+   "C": "Most common site is transverse colon",
+   "D": "Most common site of metastasis is lung",
+   "E": "Right-sided tumours usually present with obstruction"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "FOBT/FIT with colonoscopy for positives (or primary colonoscopy) is the basis of bowel cancer screening. Right-sided tumours present with anaemia and left-sided ones with obstruction and altered habit; the rectum is the commonest site and the liver the commonest metastatic site.",
+  "key_note": "",
+  "figure": "",
+  "qid": "17-26"
+ },
+ {
+  "cids": [
+   "C0330"
+  ],
+  "stem": "The most common site of metastasis in colorectal carcinoma is:",
+  "options": {
+   "A": "Brain",
+   "B": "Bone",
+   "C": "Liver",
+   "D": "Lungs",
+   "E": "Muscles"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Colorectal cancer drains via the portal venous system, so the liver is the commonest site of distant metastasis. Low rectal cancers can also reach the lungs via systemic veins.",
+  "key_note": "",
+  "figure": "",
+  "qid": "17-27"
+ },
+ {
+  "cids": [
+   "C0317",
+   "C1460"
+  ],
+  "stem": "A 70-year-old man presents with shortness of breath, easy fatigability and marked weight loss over the last few months. He is markedly anaemic and has a mass in the right iliac fossa. The most likely diagnosis is:",
+  "options": {
+   "A": "Amoebiasis",
+   "B": "Appendicular mass",
+   "C": "Carcinoma caecum",
+   "D": "Diverticulitis",
+   "E": "Intussusception"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Right-sided colon cancers bleed occultly and present with iron-deficiency anaemia, weight loss and a mass rather than obstruction. An elderly patient with anaemia and an RIF mass has caecal carcinoma until proven otherwise.",
+  "key_note": "Merged duplicate note: Source stem had no question sentence; added.",
+  "figure": "",
+  "qid": "17-28"
+ },
+ {
+  "cids": [
+   "C1456"
+  ],
+  "stem": "A 65-year-old man presents with constipation alternating with diarrhoea for 6 months, weight loss and intermittent fresh blood in the stool. There is a palpable mass in the left iliac fossa. The most likely cause is:",
+  "options": {
+   "A": "Intestinal tuberculosis",
+   "B": "Crohn's disease",
+   "C": "Carcinoma of the sigmoid colon",
+   "D": "Diverticular disease of the colon",
+   "E": "Carcinoid tumour"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Change in bowel habit, rectal bleeding and weight loss in an older patient with an LIF mass is left-sided colorectal cancer; the sigmoid is narrow with solid stool, so tumours there present with altered habit and obstruction.",
+  "key_note": "",
+  "figure": "",
+  "qid": "17-29"
+ },
+ {
+  "cids": [
+   "C0582"
+  ],
+  "stem": "A 55-year-old man presents with bleeding per rectum and altered bowel habits for 6 months and has lost 15 kg in 3 months. There is no abdominal mass and DRE is normal. The next logical step in management is:",
+  "options": {
+   "A": "Colonoscopy",
+   "B": "CT abdomen with contrast",
+   "C": "Serum carcinoembryonic antigen",
+   "D": "Ultrasound abdomen",
+   "E": "X-ray erect abdomen"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Red-flag symptoms need colonoscopy, which visualises the whole colon, allows biopsy and detects synchronous lesions. CEA is for prognosis and follow-up, not diagnosis.",
+  "key_note": "",
+  "figure": "",
+  "qid": "17-30"
+ },
+ {
+  "cids": [
+   "C1199"
+  ],
+  "stem": "A 60-year-old man is diagnosed with well-differentiated adenocarcinoma of the sigmoid colon. What is the next best investigation?",
+  "options": {
+   "A": "Colonoscopy",
+   "B": "CT abdomen with oral and IV contrast",
+   "C": "Radionuclide studies",
+   "D": "Ultrasound abdomen",
+   "E": "Ultrasound abdomen and pelvis"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Once the histological diagnosis is made, staging is by contrast CT (chest, abdomen and pelvis) to assess local spread and liver or lung metastases. Colonoscopy is also needed to exclude synchronous tumours if not already done, but staging CT is the expected next step.",
+  "key_note": "Not marked in the source paper; answer by reviewer (agrees with compiled key).",
+  "figure": "",
+  "qid": "17-31"
+ },
+ {
+  "cids": [
+   "C0540"
+  ],
+  "stem": "A 58-year-old man presents with increasing shortness of breath on exertion and weight loss, and admits to passing blood in his stools. He is anaemic with no other findings. Colonoscopy shows a growth in the ascending colon limited to the bowel wall. What is the appropriate operation?",
+  "options": {
+   "A": "Left hemicolectomy",
+   "B": "Loop colostomy",
+   "C": "Right hemicolectomy",
+   "D": "Total colectomy",
+   "E": "Total proctocolectomy"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A localised ascending colon cancer is treated by right hemicolectomy, resecting the ileocolic, right colic and right branch of middle colic territories with their lymph nodes, and ileocolic anastomosis.",
+  "key_note": "",
+  "figure": "",
+  "qid": "17-32"
+ },
+ {
+  "cids": [
+   "C0783"
+  ],
+  "stem": "Which of the following structures must be protected while performing a right hemicolectomy?",
+  "options": {
+   "A": "Liver",
+   "B": "Pancreas",
+   "C": "Urinary bladder",
+   "D": "Duodenum",
+   "E": "Common bile duct"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Mobilising the right colon and hepatic flexure exposes the second and third parts of the duodenum, which lie directly behind and are at risk. The right ureter and gonadal vessels are the other structures to protect.",
+  "key_note": "Not marked in the source paper; answer by reviewer (agrees with compiled key).",
+  "figure": "",
+  "qid": "17-33"
+ },
+ {
+  "cids": [
+   "C1132"
+  ],
+  "stem": "A 65-year-old patient with no significant comorbidities is diagnosed with stage III cancer of the sigmoid colon. What is the most appropriate surgical approach?",
+  "options": {
+   "A": "Abdominoperineal resection",
+   "B": "Left hemicolectomy",
+   "C": "Right hemicolectomy",
+   "D": "Sigmoid colectomy",
+   "E": "Total colectomy"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A sigmoid cancer is treated by sigmoid colectomy (high anterior resection) with high ligation of the inferior mesenteric vessels for nodal clearance, followed by adjuvant chemotherapy for stage III. APR is for low rectal cancer, and a formal left hemicolectomy is reserved for descending colon tumours.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "17-34"
+ },
+ {
+  "cids": [
+   "C1134"
+  ],
+  "stem": "A patient with colon cancer undergoes surgical resection, and the pathology report shows a positive resection margin. What is the most appropriate next step?",
+  "options": {
+   "A": "Adjuvant chemotherapy",
+   "B": "Observation",
+   "C": "Palliative care",
+   "D": "Radiation therapy",
+   "E": "Re-resection"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "An R1 resection leaves residual tumour, so the aim is to achieve a clear (R0) margin by re-resection when feasible. Chemotherapy or radiotherapy is used when further surgery is not possible.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "qid": "17-35"
+ },
+ {
+  "ncids": [
+   "K0100"
+  ],
+  "stem": "A 30-year-old man is referred from a district headquarters hospital with a 15-day history of a non-resolving mass in the right iliac fossa despite treatment. He also has bloody mucoid diarrhoea, fever and abdominal pain. What is the best management at this stage?",
+  "options": {
+   "A": "Colonic resection",
+   "B": "CT scan of the abdomen",
+   "C": "Injection ceftriaxone",
+   "D": "Injection metronidazole",
+   "E": "Ultrasound-guided aspiration"
+  },
+  "answer": "B",
+  "explanation": "A right iliac fossa mass that has failed to resolve on treatment has a wide differential (Crohn's, ileocaecal TB, amoeboma, carcinoma, appendicular abscess), so contrast CT is needed to define it before any intervention. Resection without a diagnosis is premature.",
+  "key_note": "Bank starred A but highlighted B; correct is B because the mass must be characterised by CT before deciding on resection, drainage or medical therapy.",
+  "_new": true,
+  "qid": "17-N1"
+ },
+ {
+  "ncids": [
+   "K0322",
+   "K1607"
+  ],
+  "stem": "Which one of the following does NOT occur as a systemic (extra-intestinal) manifestation of inflammatory bowel disease?",
+  "options": {
+   "A": "Ankylosing spondylitis",
+   "B": "Pyoderma gangrenosum",
+   "C": "Scleritis",
+   "D": "Osteoporosis",
+   "E": "Sclerosing cholangitis"
+  },
+  "answer": "D",
+  "explanation": "Ankylosing spondylitis, pyoderma gangrenosum, scleritis/episcleritis and primary sclerosing cholangitis are recognised extra-intestinal manifestations of IBD. Osteoporosis in IBD is a consequence of steroid therapy and malabsorption rather than a systemic manifestation of the disease itself.",
+  "key_note": "Bank marks disagree between copies (most starred D, one copy starred E); correct is D because sclerosing cholangitis is a classic extra-intestinal manifestation, especially of ulcerative colitis.",
+  "_new": true,
+  "qid": "17-N2"
+ },
+ {
+  "ncids": [
+   "K0324"
+  ],
+  "stem": "According to the TNM classification, a carcinoma of the colon that has invaded through the muscularis propria into the subserosa or pericolic tissues is staged as:",
+  "options": {
+   "A": "T2",
+   "B": "T4",
+   "C": "T0",
+   "D": "T3",
+   "E": "T1"
+  },
+  "answer": "D",
+  "explanation": "T1 invades submucosa, T2 invades into muscularis propria, T3 invades through the muscularis propria into pericolorectal tissues, and T4 penetrates the visceral peritoneum or invades adjacent organs.",
+  "key_note": "Bank marked A (T2); correct is D because T2 tumours are confined to the muscularis propria, and crossing it makes the tumour T3.",
+  "_new": true,
+  "qid": "17-N3"
+ },
+ {
+  "ncids": [
+   "K0337"
+  ],
+  "stem": "Regarding familial adenomatous polyposis (FAP), which statement is correct?",
+  "options": {
+   "A": "More than 100 polyps on colonoscopy is diagnostic",
+   "B": "It only affects the colon",
+   "C": "It is an autosomal recessive disease",
+   "D": "Surgery should be done before the age of 18 years",
+   "E": "Conversion to malignancy is less likely"
+  },
+  "answer": "A",
+  "explanation": "FAP is an autosomal dominant APC gene disorder diagnosed clinically by more than 100 colorectal adenomas; malignancy is virtually certain if untreated. It also causes duodenal adenomas, desmoids and other extracolonic lesions, and prophylactic surgery is usually timed in the late teens or early twenties rather than strictly before 18.",
+  "key_note": "",
+  "_new": true,
+  "qid": "17-N4"
+ },
+ {
+  "ncids": [
+   "K0344"
+  ],
+  "stem": "A 24-year-old man who has been suffering from intermittent fresh bleeding per rectum presents to the emergency department with a 6-hour history of right-sided abdominal pain, fever and nausea. He has tenderness and guarding in the right iliac fossa and a temperature of 38.2°C. What is the most likely diagnosis?",
+  "options": {
+   "A": "Appendicitis",
+   "B": "Haemorrhoids",
+   "C": "Meckel's diverticulitis",
+   "D": "Renal colic",
+   "E": "Shigella infection"
+  },
+  "answer": "C",
+  "explanation": "Meckel's diverticulitis mimics appendicitis clinically, and the background of recurrent rectal bleeding (from ectopic gastric mucosa causing ileal ulceration) is the clue that unifies both features. Appendicitis does not explain the bleeding history.",
+  "key_note": "Bank starred A (appendicitis); correct is C because the history of intermittent rectal bleeding plus an acute right iliac fossa inflammatory picture points to an inflamed Meckel's diverticulum; the bleeding would be an unexplained red herring with appendicitis.",
+  "_new": true,
+  "qid": "17-N5"
+ },
+ {
+  "ncids": [
+   "K0345"
+  ],
+  "stem": "A 34-year-old man presents to the emergency department with a 6-hour history of abdominal pain and vomiting. The abdomen is distended and tympanic. For the last 6 months he has had episodes of cramping right-sided abdominal pain with intermittent blood in his stools. Which complication has resulted in his presentation today?",
+  "options": {
+   "A": "Abscess formation",
+   "B": "Fistula formation",
+   "C": "Primary sclerosing cholangitis",
+   "D": "Stricture formation",
+   "E": "Toxic megacolon"
+  },
+  "answer": "D",
+  "explanation": "The history suggests ileocolic Crohn's disease, and acute vomiting with a distended tympanic abdomen indicates small bowel obstruction from a fibrotic stricture, the commonest reason for surgery in Crohn's. Toxic megacolon is mainly a complication of ulcerative colitis and presents with fever, bloody diarrhoea and systemic toxicity.",
+  "key_note": "Not marked in the source bank; answer by reviewer.",
+  "_new": true,
+  "qid": "17-N6"
+ },
+ {
+  "ncids": [
+   "K0399"
+  ],
+  "stem": "A 65-year-old man presents with bleeding per rectum and dark stools for 6 months. Digital rectal examination shows blackish stool on the finger, and a double-contrast barium enema shows an apple-core lesion. What is the diagnosis?",
+  "options": {
+   "A": "Haemorrhoids",
+   "B": "Bleeding peptic ulcer",
+   "C": "Carcinoma of the colon",
+   "D": "Tuberculosis of the intestine",
+   "E": "Rectal polyp"
+  },
+  "answer": "C",
+  "explanation": "An apple-core (napkin-ring) stricture with shouldered margins on barium enema is the classic appearance of an annular colonic carcinoma. Tuberculosis typically gives a pulled-up caecum and narrowed terminal ileum rather than an apple-core lesion.",
+  "key_note": "",
+  "_new": true,
+  "qid": "17-N7"
+ },
+ {
+  "ncids": [
+   "K0418"
+  ],
+  "stem": "Which of the following is the most common site for carcinoma of the colon?",
+  "options": {
+   "A": "Rectum",
+   "B": "Sigmoid colon",
+   "C": "Caecum and ascending colon",
+   "D": "Descending colon",
+   "E": "Transverse colon"
+  },
+  "answer": "B",
+  "explanation": "Within the colon proper, the sigmoid colon is the commonest site of carcinoma. If the rectum is counted as part of the large bowel (colorectal cancer), the rectum is the single commonest site, so read the stem carefully: colonic versus colorectal.",
+  "key_note": "",
+  "_new": true,
+  "qid": "17-N8"
+ },
+ {
+  "ncids": [
+   "K0425"
+  ],
+  "stem": "A 22-year-old woman presents with a 6-week history of bloody motions. She has noticed significant weight loss over this period with increasing lethargy and fatigue. She previously had constipation and admits to regular laxative use. What is the most likely diagnosis?",
+  "options": {
+   "A": "Bowel cancer",
+   "B": "Irritable bowel syndrome",
+   "C": "Diverticular disease",
+   "D": "Inflammatory bowel disease",
+   "E": "Anal fissure"
+  },
+  "answer": "D",
+  "explanation": "Bloody diarrhoea with weight loss and fatigue in a young adult is inflammatory bowel disease until proven otherwise. Bowel cancer and diverticular disease are unlikely at 22, IBS does not cause bleeding or weight loss, and a fissure causes painful bright red bleeding without systemic upset.",
+  "key_note": "Bank marks disagree between copies (most marked inflammatory bowel disease, one copy starred bowel cancer); correct is D because the age and systemic features fit IBD.",
+  "_new": true,
+  "qid": "17-N9"
+ },
+ {
+  "ncids": [
+   "K0428",
+   "K1089"
+  ],
+  "stem": "Which statement is true of Meckel's diverticulum?",
+  "options": {
+   "A": "It is present in 20 per cent of the population",
+   "B": "It arises from the mesenteric border of the jejunum",
+   "C": "It may contain heterotopic pancreatic tissue",
+   "D": "It is present only in males",
+   "E": "It is a diverticulum of the bladder"
+  },
+  "answer": "C",
+  "explanation": "Meckel's diverticulum, a remnant of the vitellointestinal duct, may contain ectopic gastric or pancreatic tissue. It is present in about 2% of people, arises from the antimesenteric border of the ileum and is about twice as common in males but not exclusive to them.",
+  "key_note": "",
+  "_new": true,
+  "qid": "17-N10"
+ },
+ {
+  "ncids": [
+   "K0520"
+  ],
+  "stem": "A 35-year-old man has known ulcerative colitis. Which of the following is an indication for total proctocolectomy?",
+  "options": {
+   "A": "Occasional bouts of colic and diarrhoea",
+   "B": "Sclerosing cholangitis",
+   "C": "Toxic megacolon",
+   "D": "Arthritis",
+   "E": "Iron deficiency anaemia"
+  },
+  "answer": "C",
+  "explanation": "Toxic megacolon unresponsive to medical therapy is an indication for colectomy in ulcerative colitis, as are perforation, haemorrhage, dysplasia/cancer and chronic intractable disease. Primary sclerosing cholangitis does not improve after colectomy, so it is not an indication.",
+  "key_note": "",
+  "_new": true,
+  "qid": "17-N11"
+ },
+ {
+  "ncids": [
+   "K0521"
+  ],
+  "stem": "Which of the following is a complication of diverticulitis?",
+  "options": {
+   "A": "Carcinoma of the colon",
+   "B": "Extraintestinal manifestations such as arthritis, iritis and skin rashes",
+   "C": "Fistulation to the adjacent bladder, with a colovesical fistula",
+   "D": "Arteriovenous fistulae of the intestine",
+   "E": "Sclerosing cholangitis"
+  },
+  "answer": "C",
+  "explanation": "Complications of diverticulitis include pericolic abscess, perforation and peritonitis, stricture, bleeding and fistulae, colovesical being the commonest (pneumaturia, faecaluria). Diverticular disease is not premalignant, and extra-intestinal manifestations belong to IBD.",
+  "key_note": "",
+  "_new": true,
+  "qid": "17-N12"
+ },
+ {
+  "ncids": [
+   "K0522"
+  ],
+  "stem": "A patient's CT scan reveals diverticulitis confined to the sigmoid colon with no pericolic abscess. What is the best course of treatment?",
+  "options": {
+   "A": "Bowel rest, nasogastric suction if vomiting, IV fluids and broad-spectrum antibiotics",
+   "B": "Urgent surgical resection",
+   "C": "Steroids",
+   "D": "Diverting colostomy",
+   "E": "Ileostomy"
+  },
+  "answer": "A",
+  "explanation": "Uncomplicated (Hinchey Ia) diverticulitis is managed conservatively with bowel rest, fluids and antibiotics. Surgery is reserved for complications such as perforation with peritonitis, non-resolving abscess, fistula or stricture.",
+  "key_note": "",
+  "_new": true,
+  "qid": "17-N13"
+ },
+ {
+  "ncids": [
+   "K0524"
+  ],
+  "stem": "Why is resection of the distal small intestine poorly tolerated compared with resection of the proximal small intestine?",
+  "options": {
+   "A": "Transit time in the ileum is slower than that in the jejunum",
+   "B": "Transit time in the jejunum is slower than that in the ileum",
+   "C": "The greater bulk of food is absorbed in the ileum",
+   "D": "Water absorption is mainly in the ileum",
+   "E": "All minerals are absorbed preferentially in the ileum"
+  },
+  "answer": "A",
+  "explanation": "The ileum has slower transit (with the ileocaecal valve acting as a brake), allowing more time for absorption, and it alone absorbs vitamin B12 and bile salts. The ileum can adapt to take over jejunal function, but the jejunum cannot replace the ileum. Most nutrient absorption actually occurs in the jejunum, so option C is false.",
+  "key_note": "",
+  "_new": true,
+  "qid": "17-N14"
+ },
+ {
+  "ncids": [
+   "K0526"
+  ],
+  "stem": "A 48-year-old woman with a long history of ulcerative colitis develops colon cancer. Which of the following is characteristic of colon cancer complicating ulcerative colitis?",
+  "options": {
+   "A": "It occurs more frequently than in the rest of the population",
+   "B": "It is more likely to occur when the disease is confined to the left colon",
+   "C": "It occurs equally on the right and left sides",
+   "D": "It has a synchronous carcinoma in 4-5% of cases",
+   "E": "It has an excellent prognosis because of physician awareness"
+  },
+  "answer": "A",
+  "explanation": "Colorectal cancer risk in UC is clearly increased and rises with duration and extent of disease (greatest in pancolitis, after 8-10 years), hence surveillance colonoscopy. The cancers are often flat, multiple and poorly differentiated, so prognosis is not better than sporadic cancer.",
+  "key_note": "",
+  "_new": true,
+  "qid": "17-N15"
+ },
+ {
+  "ncids": [
+   "K0528"
+  ],
+  "stem": "The prognosis of colon and rectal cancer is most favourably affected by which of the following?",
+  "options": {
+   "A": "Minimal serosal extension",
+   "B": "Minimal lymph node involvement",
+   "C": "Confinement to the mucosa",
+   "D": "Right-sided obstructing lesions",
+   "E": "Elevated carcinoembryonic antigen (CEA) levels"
+  },
+  "answer": "C",
+  "explanation": "Depth of invasion and nodal status are the main prognostic factors; a lesion confined to the mucosa has negligible metastatic risk and the best outcome. Any serosal extension or nodal disease worsens survival, and obstruction or a raised preoperative CEA are adverse features.",
+  "key_note": "",
+  "_new": true,
+  "qid": "17-N16"
+ },
+ {
+  "ncids": [
+   "K0529"
+  ],
+  "stem": "An 83-year-old man with carcinoma of the colon refuses surgery and is admitted 6 months later. Carcinoma of the colon is most likely to cause obstruction if it is located in the:",
+  "options": {
+   "A": "Caecum",
+   "B": "Ascending colon",
+   "C": "Descending colon",
+   "D": "Rectum",
+   "E": "Transverse colon"
+  },
+  "answer": "C",
+  "explanation": "Left-sided colonic cancers tend to be annular and stenosing, the lumen is narrower and the stool is solid, so they commonly obstruct (splenic flexure and descending colon being high-risk sites). Right-sided caecal cancers are typically exophytic in a wide, fluid-filled lumen and present with anaemia rather than obstruction.",
+  "key_note": "Bank marked A (caecum); correct is C because left-sided tumours obstruct far more often, while caecal tumours classically present with anaemia and a mass.",
+  "_new": true,
+  "qid": "17-N17"
+ },
+ {
+  "ncids": [
+   "K0532"
+  ],
+  "stem": "A 68-year-old woman who had bowel surgery several years ago is told she has blind loop syndrome. In which condition is blind loop syndrome anticipated?",
+  "options": {
+   "A": "Intestinal bypass",
+   "B": "Vesicocolic fistula",
+   "C": "Duodenal ulcer disease",
+   "D": "Multiple polyposis of the colon",
+   "E": "Arteriovenous fistula of the colon"
+  },
+  "answer": "A",
+  "explanation": "Blind loop syndrome is bacterial overgrowth in a stagnant bypassed or excluded segment of small bowel (side-to-side anastomosis, bypass, afferent loop), causing B12 deficiency, steatorrhoea and diarrhoea.",
+  "key_note": "",
+  "_new": true,
+  "qid": "17-N18"
+ },
+ {
+  "ncids": [
+   "K0533"
+  ],
+  "stem": "A woman is noted to have a Meckel's diverticulum at emergency appendicectomy, about 60 cm from the ileocaecal valve and 2-3 cm long. What is the most common complication of Meckel's diverticulum in adults?",
+  "options": {
+   "A": "Bleeding",
+   "B": "Perforation",
+   "C": "Intestinal obstruction",
+   "D": "Ulceration",
+   "E": "Carcinoma"
+  },
+  "answer": "C",
+  "explanation": "In adults the commonest complication of Meckel's diverticulum is intestinal obstruction (from a band to the umbilicus, volvulus or intussusception), whereas in children bleeding from peptic ulceration is commonest.",
+  "key_note": "",
+  "_new": true,
+  "qid": "17-N19"
+ },
+ {
+  "ncids": [
+   "K0534"
+  ],
+  "stem": "To confirm the diagnosis of ischaemic colitis, which test should be requested?",
+  "options": {
+   "A": "Selective angiogram of the inferior mesenteric artery",
+   "B": "Angiogram of the superior and inferior mesenteric arteries",
+   "C": "CT scan of the abdomen",
+   "D": "Barium enema after 2 weeks",
+   "E": "Barium enema as soon as possible"
+  },
+  "answer": "E",
+  "explanation": "The classic sign of ischaemic colitis, 'thumbprinting' from submucosal oedema and haemorrhage, is seen on an early contrast enema and disappears within days, so a delayed study may be normal. Angiography is unhelpful because ischaemic colitis is usually non-occlusive. In modern practice, CT and early colonoscopy with biopsy are used.",
+  "key_note": "",
+  "_new": true,
+  "qid": "17-N20"
+ },
+ {
+  "ncids": [
+   "K0771"
+  ],
+  "stem": "Which of the following staging systems is used for colorectal carcinoma?",
+  "options": {
+   "A": "Dukes staging",
+   "B": "Nevin staging",
+   "C": "Manchester classification",
+   "D": "Clark staging",
+   "E": "Tokyo classification"
+  },
+  "answer": "A",
+  "explanation": "Dukes staging (A to C, with D added for distant metastases) is the classic system for colorectal cancer, now largely replaced by TNM. Nevin is for gallbladder cancer, Manchester for breast/cervix, Clark for melanoma and Tokyo guidelines for acute cholangitis/cholecystitis.",
+  "key_note": "",
+  "_new": true,
+  "qid": "17-N21"
+ },
+ {
+  "ncids": [
+   "K0846"
+  ],
+  "stem": "The most common indication for operation in Crohn's disease of the colon is:",
+  "options": {
+   "A": "Obstruction",
+   "B": "Chronic debility (failure of medical therapy)",
+   "C": "Bleeding",
+   "D": "Perforation",
+   "E": "Toxic megacolon"
+  },
+  "answer": "B",
+  "explanation": "In Crohn's colitis the commonest reason for surgery is intractable disease with chronic debility despite medical treatment. Obstruction is the commonest indication in small bowel Crohn's, while perforation, haemorrhage and toxic megacolon are uncommon.",
+  "key_note": "Source underlined D (perforation); correct is B because free perforation is rare in Crohn's colitis, and failure of medical therapy with chronic ill health is the commonest indication for colectomy. Option E added by reviewer as a fifth option.",
+  "_new": true,
+  "qid": "17-N22"
+ },
+ {
+  "ncids": [
+   "K0901",
+   "K0982"
+  ],
+  "stem": "A 22-year-old woman was discharged on oral antibiotics and painkillers one week ago. She now presents with fever and diarrhoea, about 7 episodes per day. She has taken metronidazole for the last 2 days, but stool frequency has increased to 10 episodes per day. Which medicine is the drug of choice in this condition?",
+  "options": {
+   "A": "Amoxicillin",
+   "B": "Ampicillin",
+   "C": "Ciprofloxacin",
+   "D": "Erythromycin",
+   "E": "Oral vancomycin"
+  },
+  "answer": "E",
+  "explanation": "Diarrhoea after antibiotics is Clostridioides difficile colitis until proven otherwise. Oral vancomycin (or fidaxomicin) is now first-line and is used when metronidazole fails; the broad-spectrum antibiotics listed would worsen it.",
+  "key_note": "One copy of this question starred C (erythromycin) but highlighted vancomycin; correct is vancomycin.",
+  "_new": true,
+  "qid": "17-N23"
+ },
+ {
+  "ncids": [
+   "K0903"
+  ],
+  "stem": "A 50-year-old labourer who mostly eats in restaurants presents with right hypochondrial pain for 10 hours, fever for 3 days and bloody diarrhoea. Sigmoidoscopy reveals flask-shaped ulcers. What is the most likely causative organism?",
+  "options": {
+   "A": "E. coli",
+   "B": "Entamoeba histolytica",
+   "C": "Staphylococcus aureus",
+   "D": "Neisseria meningitidis",
+   "E": "Pseudomonas aeruginosa"
+  },
+  "answer": "B",
+  "explanation": "Flask-shaped undermined ulcers are characteristic of amoebic colitis, and right hypochondrial pain suggests early amoebic liver involvement, the commonest extra-intestinal complication.",
+  "key_note": "",
+  "_new": true,
+  "qid": "17-N24"
+ },
+ {
+  "ncids": [
+   "K1091"
+  ],
+  "stem": "Which of the following features is NOT characteristic of Crohn's disease?",
+  "options": {
+   "A": "Rose-thorn ulcers",
+   "B": "Cobblestoning",
+   "C": "Skip lesions",
+   "D": "Lead-pipe colon",
+   "E": "Serosal involvement"
+  },
+  "answer": "D",
+  "explanation": "A featureless 'lead-pipe' colon with loss of haustrations is the radiological hallmark of chronic ulcerative colitis. Rose-thorn ulcers, cobblestoning, skip lesions and transmural (serosal) involvement are features of Crohn's disease.",
+  "key_note": "Bank marks disagree between copies (one starred A, one starred D); correct is D because rose-thorn ulcers are a recognised Crohn's sign while lead piping belongs to ulcerative colitis.",
+  "_new": true,
+  "qid": "17-N25"
+ },
+ {
+  "ncids": [
+   "K1164"
+  ],
+  "stem": "A 28-year-old man with a 10-year history of ulcerative colitis presents with acute severe abdominal pain, nausea, vomiting and bloody watery diarrhoea. He is febrile and tachycardic, the abdomen is markedly distended, and a plain abdominal radiograph shows the transverse colon dilated to about 6.5 cm. What is the most likely diagnosis?",
+  "options": {
+   "A": "Large bowel obstruction",
+   "B": "Toxic megacolon",
+   "C": "Perforated diverticulitis",
+   "D": "Crohn's colitis",
+   "E": "Sigmoid volvulus"
+  },
+  "answer": "B",
+  "explanation": "Toxic megacolon is colonic dilatation over 6 cm (usually transverse colon) with systemic toxicity in a patient with colitis. It carries a high risk of perforation and needs urgent colectomy if it does not respond rapidly to medical treatment.",
+  "key_note": "",
+  "_new": true,
+  "qid": "17-N26"
+ },
+ {
+  "ncids": [
+   "K1422"
+  ],
+  "stem": "Regarding the 'rule of 2' for Meckel's diverticulum, which statement is WRONG?",
+  "options": {
+   "A": "It is about 2 inches long",
+   "B": "It is present in 2% of people",
+   "C": "It lies about 2 feet from the ileocaecal valve",
+   "D": "It contains only 2 coats of the intestinal wall"
+  },
+  "answer": "D",
+  "explanation": "Meckel's diverticulum is a true diverticulum containing all layers of the bowel wall. The rule of 2: 2% of the population, 2 feet from the ileocaecal valve, 2 inches long, 2 types of ectopic tissue (gastric, pancreatic), commonest presentation around age 2.",
+  "key_note": "",
+  "_new": true,
+  "qid": "17-N27"
+ },
+ {
+  "ncids": [
+   "K1424"
+  ],
+  "stem": "Intestinal amoebiasis can manifest with which of the following?",
+  "options": {
+   "A": "Typhlitis",
+   "B": "Caecal mass (amoeboma)",
+   "C": "Intestinal obstruction",
+   "D": "Fibrous stricture",
+   "E": "All of the above"
+  },
+  "answer": "E",
+  "explanation": "Amoebiasis most often affects the caecum and can cause typhlitis, an amoeboma (mass mimicking carcinoma), obstruction, fibrous strictures, perforation and haemorrhage.",
+  "key_note": "",
+  "_new": true,
+  "qid": "17-N28"
+ },
+ {
+  "ncids": [
+   "K1425"
+  ],
+  "stem": "A juvenile polyp is which type of polyp?",
+  "options": {
+   "A": "Hamartoma",
+   "B": "Villous adenoma",
+   "C": "Tubulovillous adenoma",
+   "D": "Tubular adenoma"
+  },
+  "answer": "A",
+  "explanation": "Juvenile polyps are hamartomas (cystic dilated glands in an inflamed stroma), the commonest polyp in children, usually presenting with painless rectal bleeding or prolapse. Solitary juvenile polyps have no significant malignant potential.",
+  "key_note": "",
+  "_new": true,
+  "qid": "17-N29"
+ },
+ {
+  "ncids": [
+   "K1426"
+  ],
+  "stem": "When a carcinoma is located in the pelvic (sigmoid) colon, the classical extent of resection is:",
+  "options": {
+   "A": "Entire colon",
+   "B": "Transverse colon to rectum",
+   "C": "Splenic flexure to rectum",
+   "D": "Hepatic flexure to rectum"
+  },
+  "answer": "C",
+  "explanation": "Classical teaching for a sigmoid carcinoma is resection from around the descending colon/splenic flexure region to the upper rectum with the inferior mesenteric pedicle and its lymphatics. In modern practice this is a sigmoid colectomy or high anterior resection with high ligation of the inferior mesenteric artery.",
+  "key_note": "",
+  "_new": true,
+  "qid": "17-N30"
+ },
+ {
+  "ncids": [
+   "K1510"
+  ],
+  "stem": "Which of the following statements is correct for pseudomembranous colitis?",
+  "options": {
+   "A": "Surgical intervention is frequently required",
+   "B": "After appropriate antibiotic therapy, the relapse rate is less than 5%",
+   "C": "Diagnosis is usually based on clinical findings alone",
+   "D": "If surgery is performed, a left hemicolectomy is usually adequate",
+   "E": "Indications for surgery include intractable disease, failure of medical therapy, toxic megacolon and colonic perforation"
+  },
+  "answer": "E",
+  "explanation": "Clostridioides difficile colitis is treated medically (oral vancomycin or fidaxomicin), relapse occurs in about 20%, and diagnosis needs stool toxin or PCR testing. Surgery is reserved for fulminant disease and, when needed, is a subtotal colectomy, not a left hemicolectomy.",
+  "key_note": "",
+  "_new": true,
+  "qid": "17-N31"
+ },
+ {
+  "ncids": [
+   "K0527"
+  ],
+  "stem": "A pathology specimen shows that synchronous lesions are present. Which of the following statements is true regarding colon cancer with synchronous lesions?",
+  "options": {
+   "A": "Synchronous cancer occurs in 20% of patients",
+   "B": "Synchronous benign lesions (adenomas) occur in 20-30% of patients",
+   "C": "Synchronous malignant lesions are usually adjacent to the primary cancer",
+   "D": "Synchronous benign lesions are usually adjacent to the primary cancer",
+   "E": "Synchronous lesions occur much less frequently than metachronous lesions"
+  },
+  "answer": "B",
+  "explanation": "Synchronous adenomas are found in roughly a quarter to a third of patients with colorectal cancer, whereas synchronous cancers occur in only about 3-5% and are often in a different segment. Metachronous cancers are less common (about 1.5-3%), so E is wrong; this is why full colonoscopy is needed before resection.",
+  "key_note": "Bank starred E; correct is B because synchronous lesions are more, not less, frequent than metachronous ones.",
+  "_new": true,
+  "qid": "17-N32"
+ },
+ {
+  "ncids": [
+   "K0190"
+  ],
+  "stem": "Which of the following is the best test for screening for carcinoma of the colon?",
+  "options": {
+   "A": "Faecal occult blood test",
+   "B": "Ultrasound abdomen",
+   "C": "Blood complete picture",
+   "D": "CT scan abdomen",
+   "E": "MRI abdomen"
+  },
+  "answer": "A",
+  "explanation": "Faecal occult blood (now usually faecal immunochemical) testing is the population screening test for colorectal cancer, with colonoscopy for positives. Imaging and blood counts are not screening tests.",
+  "key_note": "",
+  "_new": true,
+  "qid": "17-N33"
+ }
+]

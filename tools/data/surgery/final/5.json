@@ -1,0 +1,222 @@
+[
+ {
+  "cids": [
+   "C0932",
+   "C0597"
+  ],
+  "stem": "The most common malignant bone tumour is:",
+  "options": {
+   "A": "Osteosarcoma",
+   "B": "Chondrosarcoma",
+   "C": "Metastases",
+   "D": "Ewing's sarcoma",
+   "E": "Giant cell tumour"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Metastases are by far the commonest tumours found in bone, and therefore also the commonest malignant bone tumours, most often from breast, prostate, lung, kidney and thyroid, usually in the axial skeleton. Among primary malignant bone tumours (excluding myeloma), osteosarcoma is the commonest.",
+  "key_note": "",
+  "figure": "",
+  "qid": "5-1"
+ },
+ {
+  "cids": [
+   "C0474",
+   "C0932#U1756"
+  ],
+  "stem": "A 23-year-old man is diagnosed with a malignant tumour of the left thigh. The commonest primary malignant tumour of bone is:",
+  "options": {
+   "A": "Osteogenic sarcoma",
+   "B": "Ewing's sarcoma",
+   "C": "Osteoclastoma",
+   "D": "Chondrosarcoma",
+   "E": "Fibrosarcoma"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Osteosarcoma is the commonest primary malignant bone tumour (excluding myeloma), typically in the distal femur or proximal tibia of adolescents and young adults. Ewing's is the second commonest in the young.",
+  "key_note": "One copy had B (Ewing's sarcoma) circled in pen; the paper key A is correct. A variant ('most common malignant bone tumour in younger age') has the same answer, osteosarcoma.",
+  "figure": "",
+  "qid": "5-2"
+ },
+ {
+  "cids": [
+   "C0139"
+  ],
+  "stem": "A 33-year-old woman has lateral knee pain and slight fullness. Bone scan shows increased activity isolated to the proximal fibula and X-ray shows a lytic lesion there. Biopsy shows mononuclear stromal cells intermixed with numerous, evenly dispersed, multinucleated osteoclast-like giant cells. What is the most likely diagnosis?",
+  "options": {
+   "A": "Chondroblastoma",
+   "B": "Eosinophilic granuloma",
+   "C": "Giant cell tumour",
+   "D": "Multiple myeloma",
+   "E": "Parosteal osteosarcoma"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Giant cell tumour (osteoclastoma) occurs at age 20-40 in the epiphysis after physeal closure, typically around the knee, as an eccentric lytic lesion; histology shows evenly scattered osteoclast-like giant cells in a mononuclear stromal background.",
+  "key_note": "",
+  "figure": "",
+  "qid": "5-3"
+ },
+ {
+  "cids": [
+   "C0744"
+  ],
+  "stem": "A 4-year-old girl falls from her bike onto her left leg, which becomes tender and swollen. X-ray shows a fracture of the proximal tibia through a radiolucent area with a well-defined sclerotic margin. The most likely diagnosis is:",
+  "options": {
+   "A": "Osteosarcoma",
+   "B": "Chondrosarcoma",
+   "C": "Bone cyst",
+   "D": "Bone metastasis",
+   "E": "Ewing's sarcoma"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A well-defined lucent metaphyseal lesion with a sclerotic rim in a child is benign; a simple (unicameral) bone cyst often presents as a pathological fracture after minor trauma. Malignant lesions have ill-defined, permeative margins and periosteal reaction.",
+  "key_note": "Not marked in the source paper; answer by reviewer (compiled key agrees).",
+  "figure": "",
+  "qid": "5-4"
+ },
+ {
+  "cids": [
+   "C1488"
+  ],
+  "stem": "A 65-year-old man has difficulty squatting. He injured his thigh about 4 years ago. There is a firm, non-tender swelling at the back of the thigh with normal overlying skin temperature, and normal peripheral neurovascular examination. X-ray of the right femur is normal. Which imaging study will help diagnose the problem?",
+  "options": {
+   "A": "Bone scan",
+   "B": "CT scan of the right thigh with contrast",
+   "C": "CT scan with 3D reconstruction",
+   "D": "MRI of the right thigh",
+   "E": "Ultrasound of the right thigh muscles"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A deep, firm soft-tissue mass with a normal X-ray must be imaged by MRI, which best characterises soft-tissue tumours (e.g. sarcoma) and their relation to neurovascular structures, before any biopsy. CT 3D reconstruction is for bony anatomy.",
+  "key_note": "The paper key marked C (CT with 3D reconstruction); correct is D per the compiled key: MRI is the investigation of choice for a soft-tissue mass.",
+  "figure": "",
+  "qid": "5-5"
+ },
+ {
+  "ncids": [
+   "K0273"
+  ],
+  "stem": "A woman sustained a fracture of the right femur after a trivial injury. X-ray shows a lytic lesion at the fracture site, and breast examination reveals advanced carcinoma of the right breast. What is the most appropriate management?",
+  "options": {
+   "A": "Skin traction to the femur and surgery on the breast at the earliest",
+   "B": "Biopsy of the breast carcinoma and shift to oncologist",
+   "C": "Operate on the femur and breast at the same time",
+   "D": "Manage the breast and femur for palliation",
+   "E": "Fix the femur, then refer for palliation after biopsy"
+  },
+  "answer": "E",
+  "explanation": "A pathological fracture through a metastasis in a long bone should be stabilised (internal fixation) to relieve pain and allow mobilisation; tissue diagnosis then guides palliative oncological treatment of advanced disease. Traction alone leads to prolonged immobility and the fracture will not unite.",
+  "key_note": "",
+  "_new": true,
+  "qid": "5-N1"
+ },
+ {
+  "ncids": [
+   "K0283"
+  ],
+  "stem": "Which of the following is the definitive diagnostic modality in the management of a musculoskeletal tumour?",
+  "options": {
+   "A": "Plain biplanar X-ray of the involved region",
+   "B": "MRI of the involved region",
+   "C": "CT scan and bone scan of the involved region",
+   "D": "Biopsy of the lesion with histopathology of the specimen",
+   "E": "Ultrasound of the soft tissues"
+  },
+  "answer": "D",
+  "explanation": "Imaging (X-ray, MRI, CT, bone scan) characterises and stages the lesion, but the definitive diagnosis of a bone or soft tissue tumour is histological, from a carefully planned biopsy done after staging imaging.",
+  "key_note": "",
+  "_new": true,
+  "qid": "5-N2"
+ },
+ {
+  "ncids": [
+   "K0288"
+  ],
+  "stem": "Ewing's sarcoma of bone in teenage patients may clinically and radiologically resemble:",
+  "options": {
+   "A": "Chronic osteomyelitis and osteomalacia",
+   "B": "Osteoporosis and osteoarthritis",
+   "C": "Acute osteomyelitis and osteogenic sarcoma",
+   "D": "Fresh displaced fracture of a long bone",
+   "E": "Tuberculosis of bone"
+  },
+  "answer": "C",
+  "explanation": "Ewing's sarcoma presents with pain, swelling, fever, raised ESR and leucocytosis, mimicking acute osteomyelitis, and as an aggressive destructive lesion with periosteal reaction it can be confused with osteosarcoma.",
+  "key_note": "",
+  "_new": true,
+  "qid": "5-N3"
+ },
+ {
+  "ncids": [
+   "K0320"
+  ],
+  "stem": "The commonest location of osteogenic sarcoma is:",
+  "options": {
+   "A": "Around the wrist",
+   "B": "Around the elbow",
+   "C": "Around the hip",
+   "D": "Around the knee",
+   "E": "Around the ankle"
+  },
+  "answer": "D",
+  "explanation": "Osteosarcoma arises in the metaphyses of the fastest growing bones, most commonly the distal femur and proximal tibia around the knee, followed by the proximal humerus.",
+  "key_note": "",
+  "_new": true,
+  "qid": "5-N4"
+ },
+ {
+  "ncids": [
+   "K1379"
+  ],
+  "stem": "Which of the following bone tumours is NOT malignant?",
+  "options": {
+   "A": "Multiple myeloma",
+   "B": "Adamantinoma",
+   "C": "Ewing's tumour",
+   "D": "Giant cell tumour"
+  },
+  "answer": "D",
+  "explanation": "Giant cell tumour (osteoclastoma) is a benign but locally aggressive tumour (rarely it metastasises to the lung). Multiple myeloma and Ewing's sarcoma are malignant, and adamantinoma is a low-grade malignant tumour of the tibia.",
+  "key_note": "",
+  "_new": true,
+  "qid": "5-N5"
+ },
+ {
+  "ncids": [
+   "K1380"
+  ],
+  "stem": "Bone metastasis in a male most commonly arises from carcinoma of the:",
+  "options": {
+   "A": "Lung",
+   "B": "Prostate",
+   "C": "Kidney",
+   "D": "Thyroid"
+  },
+  "answer": "B",
+  "explanation": "In men, prostate cancer is the commonest source of skeletal metastases (typically osteosclerotic, to the spine and pelvis); in women it is breast cancer. Lung, kidney and thyroid are also bone-seeking but less common sources.",
+  "key_note": "",
+  "_new": true,
+  "qid": "5-N6"
+ },
+ {
+  "ncids": [
+   "K1381"
+  ],
+  "stem": "The most common site of metastasis from malignant bone tumours (such as osteosarcoma) is:",
+  "options": {
+   "A": "Brain",
+   "B": "Lungs",
+   "C": "Liver",
+   "D": "Pleura"
+  },
+  "answer": "B",
+  "explanation": "Primary bone sarcomas spread haematogenously and the lungs are by far the commonest site of metastasis, so chest CT is part of staging.",
+  "key_note": "",
+  "_new": true,
+  "qid": "5-N7"
+ }
+]

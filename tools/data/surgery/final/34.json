@@ -1,0 +1,21 @@
+[
+ {
+  "cids": [
+   "C0750"
+  ],
+  "stem": "A 43 yr old man is reviewed in the clinic following a cardiac operation. A chest X- ray is performed and a circular radio-opaque structure is noted in the medial aspect of the 4th intercostal space on the left. Which of the following procedures is the patient most likely to have undergone?",
+  "options": {
+   "A": "Aortic valve replacement with metallic valve",
+   "B": "Tricuspid valve replacement with metallic valve",
+   "C": "Tricuspid valve replacement with porcine valve",
+   "D": "Pulmonary valve replacement with porcine valve",
+   "E": "Mitral valve replacement with metallic valve"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "On chest X-ray, a mechanical mitral valve projects at about the left 4th intercostal space medially, lower and more lateral than an aortic prosthesis; porcine valves are largely radiolucent apart from their ring or stent.",
+  "key_note": "Not marked in the source paper; answer by reviewer. Compiled key agrees.",
+  "figure": "",
+  "qid": "34-1"
+ }
+]

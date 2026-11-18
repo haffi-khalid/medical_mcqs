@@ -1,0 +1,498 @@
+[
+ {
+  "cids": [
+   "C0334"
+  ],
+  "stem": "Valvulae conniventes are a feature of the:",
+  "options": {
+   "A": "Duodenum",
+   "B": "Oesophagus",
+   "C": "Jejunum",
+   "D": "Stomach",
+   "E": "Transverse colon"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Valvulae conniventes (plicae circulares) are most prominent in the jejunum and cross the full width of the bowel, giving the 'concertina' or 'stack of coins' look of dilated jejunum on X-ray. The ileum is relatively featureless and the colon shows haustra that do not cross the full width.",
+  "key_note": "",
+  "figure": "",
+  "qid": "18-1"
+ },
+ {
+  "cids": [
+   "C0735"
+  ],
+  "stem": "A 56-year-old woman is admitted with colicky abdominal pain and a plain X-ray is performed. Which of the following should not normally show fluid levels on a plain abdominal film?",
+  "options": {
+   "A": "Stomach",
+   "B": "Jejunum",
+   "C": "Ileum",
+   "D": "Caecum",
+   "E": "Descending colon"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "A few fluid levels may be normal in the stomach, duodenum, terminal ileum and caecum, where fluid content is high. The descending colon contains formed or semi-formed stool, so fluid levels there are abnormal.",
+  "key_note": "Not marked in the source paper; answer by reviewer (agrees with compiled key).",
+  "figure": "",
+  "qid": "18-2"
+ },
+ {
+  "cids": [
+   "C0018"
+  ],
+  "stem": "Which of the following are causes of adynamic intestinal obstruction?",
+  "options": {
+   "A": "Paralytic ileus",
+   "B": "Mesenteric vascular obstruction",
+   "C": "Pseudo-obstruction",
+   "D": "A, B and C",
+   "E": "Adhesions"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Bailey classifies adynamic obstruction (no mechanical blockage, failure of peristalsis) as paralytic ileus, mesenteric vascular occlusion and pseudo-obstruction. Adhesions cause dynamic (mechanical) obstruction.",
+  "key_note": "",
+  "figure": "",
+  "qid": "18-3"
+ },
+ {
+  "cids": [
+   "C0915"
+  ],
+  "stem": "Which of the following is a cause of adynamic intestinal obstruction?",
+  "options": {
+   "A": "Volvulus",
+   "B": "Intussusception",
+   "C": "Adhesions",
+   "D": "Neoplasm",
+   "E": "Paralytic ileus"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "In adynamic obstruction peristalsis fails without a mechanical block, as in paralytic ileus. Volvulus, intussusception, adhesions and tumours all cause dynamic (mechanical) obstruction.",
+  "key_note": "Some versions of this question had only 4 options (paralytic ileus as D); same answer.",
+  "figure": "",
+  "qid": "18-4"
+ },
+ {
+  "cids": [
+   "C0336"
+  ],
+  "stem": "Which of the following is NOT an intraluminal cause of intestinal obstruction?",
+  "options": {
+   "A": "Faecal impaction",
+   "B": "Gallstones",
+   "C": "Bezoars",
+   "D": "Foreign bodies",
+   "E": "Volvulus"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Volvulus is an extramural (outside the wall) cause, from twisting of a loop on its mesentery. Faecal impaction, gallstones, bezoars and foreign bodies all block the lumen.",
+  "key_note": "",
+  "figure": "",
+  "qid": "18-5"
+ },
+ {
+  "cids": [
+   "C0337"
+  ],
+  "stem": "The most common cause of intestinal obstruction is:",
+  "options": {
+   "A": "Adhesions",
+   "B": "Carcinoma",
+   "C": "Faecal impaction",
+   "D": "Inflammation",
+   "E": "Obstructed hernia"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Postoperative adhesions are the commonest cause of small bowel obstruction in populations with frequent abdominal surgery and are the expected answer; worldwide and in patients with no previous surgery, obstructed hernia remains very common, so always examine the hernial orifices.",
+  "key_note": "",
+  "figure": "",
+  "qid": "18-6"
+ },
+ {
+  "cids": [
+   "C0328"
+  ],
+  "stem": "A 50-year-old man presents to the emergency department with intestinal obstruction. Which of the following is NOT a classical feature of intestinal obstruction?",
+  "options": {
+   "A": "Abdominal pain",
+   "B": "Absolute constipation",
+   "C": "Abdominal distension",
+   "D": "Tenesmus",
+   "E": "Vomiting"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "The four cardinal features are colicky pain, vomiting, distension and absolute constipation. Tenesmus is a feeling of incomplete evacuation from rectal pathology such as carcinoma or proctitis.",
+  "key_note": "",
+  "figure": "",
+  "qid": "18-7"
+ },
+ {
+  "cids": [
+   "C1461"
+  ],
+  "stem": "A 40-year-old man presents with a 2-day history of colicky central abdominal pain, repeated vomiting, abdominal distension and absolute constipation. A GP gave oral medications and IV fluids without relief. Most likely he is suffering from:",
+  "options": {
+   "A": "Gastroenteritis",
+   "B": "Drug side effect",
+   "C": "Food poisoning",
+   "D": "Intestinal obstruction",
+   "E": "Irritable bowel syndrome"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Colicky pain, vomiting, distension and absolute constipation together are the cardinal features of intestinal obstruction. Gastroenteritis and food poisoning cause diarrhoea, not absolute constipation.",
+  "key_note": "",
+  "figure": "",
+  "qid": "18-8"
+ },
+ {
+  "cids": [
+   "C1440",
+   "C0918",
+   "C1119"
+  ],
+  "stem": "A 60-year-old woman presents with bilious vomiting, abdominal distension and constipation for 6 days. She had an exploratory laparotomy 2 years ago for enteric perforation. She is dehydrated with central distension and diminished bowel sounds; DRE is unremarkable. X-ray shows dilated small bowel loops with multiple air-fluid levels. What is the likely cause of the obstruction?",
+  "options": {
+   "A": "Carcinoma of rectum",
+   "B": "Colonic diverticulosis",
+   "C": "Small bowel adhesions",
+   "D": "Intussusception",
+   "E": "Hypokalaemia"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Small bowel obstruction after a previous laparotomy for peritonitis is classically adhesive. Rectal carcinoma and diverticular disease cause large bowel obstruction, and hypokalaemia causes ileus rather than mechanical obstruction.",
+  "key_note": "",
+  "figure": "",
+  "qid": "18-9"
+ },
+ {
+  "cids": [
+   "C0486"
+  ],
+  "stem": "A 29-year-old man presents to the emergency department with severe abdominal pain, vomiting, abdominal distension and constipation for one day. The most helpful diagnostic radiographic procedure is:",
+  "options": {
+   "A": "CT of abdomen",
+   "B": "Contrast study of intestine",
+   "C": "Supine X-ray of abdomen",
+   "D": "Ultrasound of abdomen",
+   "E": "Erect X-ray of abdomen"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "The supine abdominal film is the standard plain radiograph for obstruction: it shows the pattern and distribution of gas (valvulae conniventes, haustra) and hence the level. The erect film adds only fluid levels and is no longer routine; CT is the definitive test if diagnosis remains unclear.",
+  "key_note": "Keyed answer C retained as per standard teaching; modern Bailey favours CT as the most accurate study.",
+  "figure": "",
+  "qid": "18-10"
+ },
+ {
+  "cids": [
+   "C0860"
+  ],
+  "stem": "Which of the following is true about the role of plain X-ray abdomen in acute intestinal obstruction?",
+  "options": {
+   "A": "Step-ladder pattern is seen only in obstruction caused by tuberculosis",
+   "B": "X-ray supine is helpful to diagnose intestinal perforation",
+   "C": "X-ray erect is used to have an idea about level of obstruction",
+   "D": "X-ray erect is used to detect free intraperitoneal air",
+   "E": "Apple-core appearance is seen in large gut obstruction"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "The number and distribution of fluid levels on the erect abdominal film help gauge the level of obstruction (many central levels in distal small bowel obstruction). Free gas is best detected on an erect chest X-ray rather than an erect abdominal film, step-ladder levels occur in any distal SBO, and apple-core is a barium enema sign.",
+  "key_note": "Two ward-test copies marked D; professional exam and solved keys marked C. The question is somewhat ambiguous, but C is the intended answer since free air is shown on an erect chest film.",
+  "figure": "",
+  "qid": "18-11"
+ },
+ {
+  "cids": [
+   "C1343"
+  ],
+  "stem": "A 70-year-old man has altered bowel habits for 2 months and absolute constipation for 2 days. His abdomen is distended but non-tender. Which radiographic sign indicates bowel obstruction?",
+  "options": {
+   "A": "Air-fluid levels",
+   "B": "Dilated bowel loops",
+   "C": "Air-filled stomach",
+   "D": "Small bowel faeces sign",
+   "E": "All of the above"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Dilated loops and multiple air-fluid levels are the key plain-film signs; the small bowel faeces sign is a CT sign of SBO near the transition point, and a gas-filled stomach accompanies proximal obstruction. The setter intended 'all of the above'.",
+  "key_note": "Somewhat flawed question (an air-filled stomach alone is not diagnostic); keyed answer E retained.",
+  "figure": "",
+  "qid": "18-12"
+ },
+ {
+  "cids": [
+   "C0343"
+  ],
+  "stem": "A 50-year-old man presents with abdominal pain, absolute constipation and multiple episodes of vomiting. There is marked abdominal distension and multiple scars of previous surgery. The next logical step in management is:",
+  "options": {
+   "A": "Giving laxative",
+   "B": "Emergency laparotomy",
+   "C": "Diagnostic laparoscopy",
+   "D": "Prescribing antiemetic",
+   "E": "X-ray erect abdomen"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Suspected adhesive obstruction is first confirmed radiologically (abdominal X-ray) alongside drip-and-suck resuscitation. Laxatives are contraindicated, and laparotomy is reserved for strangulation or failed conservative treatment.",
+  "key_note": "",
+  "figure": "",
+  "qid": "18-13"
+ },
+ {
+  "cids": [
+   "C1463",
+   "C0123"
+  ],
+  "stem": "A 55-year-old woman who had a laparotomy for intestinal perforation 5 years ago presents to the emergency department with abdominal pain, distension, vomiting and constipation for 3 days. The best investigation to do in the emergency department is:",
+  "options": {
+   "A": "CT scan with IV contrast",
+   "B": "MRI with contrast",
+   "C": "Ultrasound of the abdomen",
+   "D": "Serum electrolytes",
+   "E": "Plain X-ray abdomen erect and supine"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Plain abdominal films are the first-line emergency investigation to confirm obstruction and its level. Contrast CT is then the most accurate test for the cause and for signs of strangulation or closed-loop obstruction.",
+  "key_note": "Compiled answer book gave A (CT with IV contrast); paper key E retained as the initial ED investigation, though Bailey regards CT as the most accurate test.",
+  "figure": "",
+  "qid": "18-14"
+ },
+ {
+  "cids": [
+   "C0496",
+   "C0292"
+  ],
+  "stem": "A 45-year-old woman with a long history of dyspepsia and right hypochondrial pain presents with sudden colicky abdominal pain, distension, vomiting and constipation. Plain abdominal X-ray shows dilated small bowel loops, air in the biliary tract and a radio-opaque shadow in the RIF. The most probable diagnosis is:",
+  "options": {
+   "A": "Acute pancreatitis",
+   "B": "Choledochal cyst",
+   "C": "Gallstone ileus",
+   "D": "Tuberculous intestinal obstruction",
+   "E": "Ulcerative colitis"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "This is Rigler's triad (small bowel obstruction, pneumobilia and an ectopic gallstone, usually at the terminal ileum). Treatment is enterotomy to remove the stone; the fistula is usually left alone at the first operation.",
+  "key_note": "",
+  "figure": "",
+  "qid": "18-15"
+ },
+ {
+  "cids": [
+   "C0838",
+   "C0497"
+  ],
+  "stem": "A 2-year-old child develops sudden colicky abdominal pain followed by vomiting, initially non-bilious and later bilious. A sausage-shaped mass is palpable in the right upper quadrant. What is the most likely cause?",
+  "options": {
+   "A": "Peritonitis",
+   "B": "Intussusception",
+   "C": "Volvulus",
+   "D": "Appendicitis",
+   "E": "Mesenteric lymphadenitis"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Colicky pain, vomiting and a sausage-shaped RUQ mass in a toddler is ileocolic intussusception; the mass is the intussusceptum in the transverse colon. Bilious vomiting reflects progression to obstruction.",
+  "key_note": "",
+  "figure": "",
+  "qid": "18-16"
+ },
+ {
+  "cids": [
+   "C0221"
+  ],
+  "stem": "A 3-year-old girl develops multiple episodes of loose stools followed by redcurrant jelly stools and severe right paraumbilical pain. A mass is palpable in the right paraumbilical region. Which non-invasive investigation will confirm the diagnosis?",
+  "options": {
+   "A": "Barium and air enema",
+   "B": "CT scan abdomen",
+   "C": "Micro enema",
+   "D": "Ultrasound abdomen",
+   "E": "X-ray abdomen erect"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Ultrasound is the diagnostic test for intussusception (target or doughnut sign in transverse view, pseudokidney in longitudinal), with near 100% sensitivity and no radiation. Air or contrast enema is used for therapeutic reduction once confirmed.",
+  "key_note": "",
+  "figure": "",
+  "qid": "18-17"
+ },
+ {
+  "cids": [
+   "C1474"
+  ],
+  "stem": "A sick 4-year-old boy presents with 3 days of abdominal pain, vomiting and abdominal distension, with no stool or flatus for 48 hours. He is markedly pale with a tense distended abdomen without rigidity and hyperactive bowel sounds. Blood count shows eosinophilia and X-ray shows multiple air-fluid levels. What is the most likely cause?",
+  "options": {
+   "A": "Amoebiasis",
+   "B": "Appendicitis",
+   "C": "Ascariasis",
+   "D": "Intestinal TB",
+   "E": "Intussusception"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A bolus of Ascaris lumbricoides worms obstructs the ileum in children from endemic areas; pallor and eosinophilia are clues. Most settle with conservative treatment and anthelmintics after the obstruction resolves.",
+  "key_note": "",
+  "figure": "",
+  "qid": "18-18"
+ },
+ {
+  "cids": [
+   "C0127"
+  ],
+  "stem": "A patient with suspected mesenteric ischaemia undergoes imaging. What is the most appropriate imaging modality to localise the blockage?",
+  "options": {
+   "A": "Endoscopy",
+   "B": "Computed tomography (CT) angiography",
+   "C": "Tagged red blood cell scan",
+   "D": "Angiography",
+   "E": "Barium swallow study"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "CT angiography is the first-line test: it is fast, non-invasive, shows the site of arterial or venous occlusion and also shows bowel wall changes. Catheter angiography is now reserved for endovascular treatment.",
+  "key_note": "",
+  "figure": "",
+  "qid": "18-19"
+ },
+ {
+  "cids": [
+   "C1466"
+  ],
+  "stem": "A 65-year-old man has a 10-day history of constipation and central abdominal pain, and has started feculent vomiting since yesterday. His abdomen is moderately distended, not tense or tender, with feeble bowel sounds. Which treatment should the emergency doctor avoid?",
+  "options": {
+   "A": "Prescribe a purgative to relieve his constipation",
+   "B": "Keep him NPO and start IV fluids",
+   "C": "Pass a nasogastric tube and do active aspiration",
+   "D": "Advise rectal enema",
+   "E": "Prescribe IV paracetamol"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Purgatives are contraindicated in mechanical obstruction: they increase peristalsis against the block, worsen pain and risk perforation. Initial management is drip and suck with analgesia.",
+  "key_note": "",
+  "figure": "",
+  "qid": "18-20"
+ },
+ {
+  "cids": [
+   "C0327"
+  ],
+  "stem": "All of the following are true about paralytic ileus EXCEPT:",
+  "options": {
+   "A": "Clinically the patient presents with abdominal distension",
+   "B": "It can occur in the postoperative patient",
+   "C": "It can occur with peritonitis",
+   "D": "Prokinetic drugs always relieve this condition",
+   "E": "There can be associated hypokalaemia"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Paralytic ileus is treated by addressing the cause (sepsis, electrolytes such as potassium, drugs) with nasogastric decompression and IV fluids; prokinetics have little proven benefit and certainly do not always work.",
+  "key_note": "",
+  "figure": "",
+  "qid": "18-21"
+ },
+ {
+  "cids": [
+   "C0309"
+  ],
+  "stem": "An elderly man with previous cardiac bypass presents with gross abdominal distension and constipation for several days and is in great distress with poor vital signs. Plain X-ray shows large bowel obstruction. At laparotomy you find a mass in the sigmoid colon. What is the best treatment option among the following?",
+  "options": {
+   "A": "Abdominoperineal resection",
+   "B": "Pass a rectal tube and decompress the colon",
+   "C": "Resection of mass with colorectal anastomosis",
+   "D": "Take biopsy and close the patient",
+   "E": "Take biopsy and perform anterior resection"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "An obstructing sigmoid cancer should be resected at the first operation. In an unstable, high-risk patient Hartmann's procedure (resection with end colostomy) would be preferred, but it is not offered; among these options resection of the mass is the only correct principle. A rectal tube is for sigmoid volvulus, and APR is for low rectal cancer.",
+  "key_note": "Flawed question: the ideal answer (Hartmann's procedure) is not offered; keyed answer C is the best available.",
+  "figure": "",
+  "qid": "18-22"
+ },
+ {
+  "ncids": [
+   "K0350",
+   "K0531"
+  ],
+  "stem": "A 74-year-old man presents with a 6-hour history of colicky lower abdominal pain and gross abdominal distension. He has had similar episodes in the past that were relieved by opening his bowels. Today he cannot even pass flatus. Abdominal X-ray shows a grossly dilated loop of large bowel. What is the most likely diagnosis?",
+  "options": {
+   "A": "Adhesions",
+   "B": "Faecal impaction",
+   "C": "Intussusception",
+   "D": "Sigmoid volvulus",
+   "E": "Strangulated inguinal hernia"
+  },
+  "answer": "D",
+  "explanation": "Sigmoid volvulus typically affects elderly, chronically constipated patients with recurrent self-limiting episodes, gross distension and a massively dilated inverted-U ('coffee bean') loop of large bowel on X-ray. Adhesions cause small bowel obstruction, not a single giant colonic loop.",
+  "key_note": "Bank starred A (adhesions); correct is D because the recurrent episodes, gross distension and a grossly dilated large bowel loop in an elderly man are classic for sigmoid volvulus.",
+  "_new": true,
+  "qid": "18-N1"
+ },
+ {
+  "ncids": [
+   "K0358"
+  ],
+  "stem": "A 6-month-old boy has had paroxysms of intense abdominal pain since the morning, with episodes of crying and drawing his legs up to the abdomen. This evening he passed mucus and blood per rectum. His temperature is 36.8°C. What is the best treatment option in the first instance?",
+  "options": {
+   "A": "Air or contrast enema reduction",
+   "B": "Continued observation",
+   "C": "Intravenous antibiotics",
+   "D": "Laparotomy",
+   "E": "Scrotal exploration"
+  },
+  "answer": "A",
+  "explanation": "This is intussusception. After resuscitation, the first-line treatment in a child without peritonitis or perforation is radiological reduction by air (or contrast) enema, successful in most cases; laparotomy is reserved for failed reduction, peritonitis or perforation.",
+  "key_note": "Bank starred C (IV antibiotics); correct is A because enema reduction is definitive first-line treatment for uncomplicated intussusception. Option A reworded from 'barium enema' to reflect current practice.",
+  "_new": true,
+  "qid": "18-N2"
+ },
+ {
+  "ncids": [
+   "K0872"
+  ],
+  "stem": "The level of intestinal obstruction can be determined by the following EXCEPT:",
+  "options": {
+   "A": "Appropriate history of the events over the last few days",
+   "B": "Thorough clinical examination",
+   "C": "Abdominal X-rays",
+   "D": "Repeated measurement of abdominal girth",
+   "E": "Radiological examination by contrast studies"
+  },
+  "answer": "D",
+  "explanation": "The level of obstruction is judged from the history (early vomiting in high obstruction, early distension and constipation in low), examination, plain films and contrast or CT studies. Serial abdominal girth helps monitor progression but does not localise the level.",
+  "key_note": "",
+  "_new": true,
+  "qid": "18-N3"
+ },
+ {
+  "ncids": [
+   "K1666"
+  ],
+  "stem": "Paralytic ileus may develop from all of the following factors EXCEPT:",
+  "options": {
+   "A": "Surgery with intra-abdominal manipulation",
+   "B": "Spinal injury",
+   "C": "Hypertension",
+   "D": "Peritoneal sepsis",
+   "E": "Shock"
+  },
+  "answer": "C",
+  "explanation": "Causes of paralytic ileus include abdominal surgery, peritonitis, retroperitoneal haematoma, spinal injury, hypokalaemia and other electrolyte disturbances, shock and drugs. Hypertension is not a cause.",
+  "key_note": "",
+  "_new": true,
+  "qid": "18-N4"
+ }
+]
