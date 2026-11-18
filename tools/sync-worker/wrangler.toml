@@ -1,0 +1,8 @@
+name = "kashaf-progress"
+main = "worker.js"
+compatibility_date = "2025-01-01"
+
+# After "npx wrangler kv namespace create PROGRESS", paste the printed id below.
+[[kv_namespaces]]
+binding = "PROGRESS"
+id = "daaa682c0830497ba5fc8c0cd0c68d81"

@@ -208,6 +208,16 @@ label();build();
 <div class="sheet" id="bkSheet" hidden><div class="panel">
  <div class="ph"><h2>Save or restore progress</h2><button id="bkClose">Close</button></div>
  <div class="plist" style="padding:12px">
+  <p style="margin:0 0 6px"><b>Your progress code</b></p>
+  <p style="margin:0 0 8px;color:var(--mute);font-size:14px">Your progress saves to this code automatically. Keep the code (WhatsApp or Notes) to get your progress back on any phone.</p>
+  <input id="scCode" readonly style="width:100%;font:20px monospace;letter-spacing:2px;text-align:center;border:1px solid var(--line);border-radius:10px;padding:12px;background:var(--bg);color:var(--ink)">
+  <button id="scCopy" class="on" style="width:100%;padding:12px;margin:6px 0 4px;font-weight:600">Copy code</button>
+  <p id="scStatus" style="margin:0 0 16px;color:var(--mute);font-size:14px"></p>
+  <p style="margin:0 0 8px"><b>Restore with a code</b> (replaces the progress on this phone)</p>
+  <input id="scIn" placeholder="16-character code" autocapitalize="characters" autocomplete="off" style="width:100%;font:18px monospace;letter-spacing:2px;text-align:center;border:1px solid var(--line);border-radius:10px;padding:12px;background:var(--card);color:var(--ink)">
+  <button id="scRestore" style="width:100%;padding:12px;margin:6px 0 4px;font-weight:600">Restore from code</button>
+  <p id="scMsg" style="margin:0 0 18px;color:var(--mute);font-size:14px"></p>
+  <details><summary style="cursor:pointer;font-weight:600;margin-bottom:8px">Offline backup (long code)</summary>
   <p style="margin:0 0 8px"><b>Save:</b> copy this code and keep it somewhere safe (send it to yourself on WhatsApp or put it in Notes).</p>
   <textarea id="bkOut" readonly style="width:100%;height:90px;font:12px monospace;border:1px solid var(--line);border-radius:10px;padding:8px;background:var(--bg);color:var(--ink)"></textarea>
   <button id="bkCopy" class="on" style="width:100%;padding:12px;margin:6px 0 16px;font-weight:600">Copy code</button>
@@ -215,6 +225,7 @@ label();build();
   <textarea id="bkIn" placeholder="Paste your code here" style="width:100%;height:90px;font:12px monospace;border:1px solid var(--line);border-radius:10px;padding:8px;background:var(--card);color:var(--ink)"></textarea>
   <button id="bkRestore" style="width:100%;padding:12px;margin-top:6px;font-weight:600">Restore progress</button>
   <p id="bkMsg" style="margin:10px 0 0;color:var(--mute);font-size:14px"></p>
+  </details>
  </div>
 </div></div>
 <script>
@@ -243,6 +254,44 @@ label();build();
    else{let n=0;Object.keys(o).forEach(k=>{if(KEYS.includes(k)){localStorage.setItem(k,o[k]);n++}});if(!n)throw 'Nothing found in that code';res=JSON.parse(localStorage.getItem("__KEY___res_v1")||'{}')}
    msg.textContent='Restored '+Object.keys(res).length+' answers. Reloading...';setTimeout(()=>location.reload(),800)}
   catch(e){msg.textContent=typeof e==='string'?e:'That code is not valid. Copy the whole code and paste it again.'}};
+})();
+
+(function(){
+ const API="https://kashaf-progress.clawedeye56-xbox.workers.dev",SYNCK=RKEY+'_sync',AL='ABCDEFGHJKLMNPQRSTUVWXYZ23456789';
+ const g=id=>document.getElementById(id);
+ const rd=k=>{try{return localStorage.getItem(k)}catch(e){return null}};
+ let code=rd(SYNCK);if(code&&!/^[A-HJ-NP-Z2-9]{16}$/.test(code))code=null;
+ function mk(){const a=new Uint8Array(16);crypto.getRandomValues(a);return Array.from(a,x=>AL[x%32]).join('')}
+ function pack(){let r={};try{r=JSON.parse(rd(RKEY)||'{}')}catch(e){}
+  return {v:2,r:Object.keys(r).map(k=>k+'|'+r[k].r+(r[k].p||'')).join(','),s:rd(SKEY),t:Date.now()}}
+ function status(t){const e=g('scStatus');if(e)e.textContent=t}
+ let busy=false,dirty=false;
+ async function push(){if(!code)return true;if(busy){dirty=true;return true}busy=true;
+  try{const r=await fetch(API+'/p/'+code,{method:'PUT',headers:{'Content-Type':'application/json'},body:JSON.stringify(pack())});
+   if(!r.ok)throw 0;status('✓ Saved online');return true}
+  catch(e){dirty=true;status('Could not save online (no internet?). Will retry after your next answer.');return false}
+  finally{busy=false;if(dirty&&!busy){dirty=false;}}}
+ let tm=null;const sched=()=>{if(!code)return;clearTimeout(tm);tm=setTimeout(push,1500)};
+ const _s=window.store;window.store=function(k,v){_s(k,v);if(k===RKEY||k===SKEY)sched()};
+ addEventListener('online',()=>{if(code)push()});
+ g('bkOpen').addEventListener('click',async()=>{
+  if(!code){code=mk();try{localStorage.setItem(SYNCK,code)}catch(e){}}
+  g('scCode').value=code;g('scMsg').textContent='';status('Saving...');await push()});
+ g('scCopy').onclick=async()=>{const t=g('scCode');try{await navigator.clipboard.writeText(t.value);status('Copied. Keep it somewhere safe.')}
+  catch(e){t.focus();t.select();status('Select the code above and copy it.')}};
+ let arm=false;
+ g('scRestore').onclick=async()=>{const m=g('scMsg'),b=g('scRestore');
+  const c=g('scIn').value.toUpperCase().replace(/[^A-Z0-9]/g,'');
+  if(!/^[A-HJ-NP-Z2-9]{16}$/.test(c)){m.textContent='A code is 16 letters and numbers. Check it and try again.';return}
+  let n=0;try{n=Object.keys(JSON.parse(rd(RKEY)||'{}')).length}catch(e){}
+  if(n>0&&c!==code&&!arm){arm=true;b.textContent='Tap again to replace '+n+' answers on this phone';setTimeout(()=>{arm=false;b.textContent='Restore from code'},4000);return}
+  arm=false;b.textContent='Restore from code';m.textContent='Looking up...';
+  try{const r=await fetch(API+'/p/'+c);if(r.status===404){m.textContent='No saved progress found for that code. Check it and try again.';return}
+   if(!r.ok)throw 0;const d=await r.json();const res={};
+   String(d.r||'').split(',').forEach(t=>{const p=t.split('|');if(p.length===2&&p[1].length>=1)res[p[0]]={r:p[1][0],p:p[1].slice(1)}});
+   localStorage.setItem(RKEY,JSON.stringify(res));if(d.s!=null)localStorage.setItem(SKEY,d.s);localStorage.setItem(SYNCK,c);
+   m.textContent='Restored '+Object.keys(res).length+' answers. Reloading...';setTimeout(()=>location.reload(),800)}
+  catch(e){m.textContent='Could not reach the server. Check your internet and try again.'}};
 })();
 </script>
 
