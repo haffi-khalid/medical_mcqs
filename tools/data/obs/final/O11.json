@@ -1,0 +1,1422 @@
+[
+ {
+  "cids": [
+   "C01624"
+  ],
+  "stem": "During pregnancy baby can be affected in utero with all of the following except",
+  "options": {
+   "A": "Syphilis",
+   "B": "CMV",
+   "C": "Rubella",
+   "D": "Toxoplasmosis",
+   "E": "Polio"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Syphilis, CMV, rubella and toxoplasmosis all cross the placenta; poliovirus does not cause congenital infection.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02964"
+  ],
+  "stem": "Which of the following infections cannot be transmitted by placental route",
+  "options": {
+   "A": "Cytomegalovirus",
+   "B": "Human papilloma virus",
+   "C": "Rubella",
+   "D": "Toxoplasmosis",
+   "E": "Primary herpes simplex"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Placental passage occurs with CMV, rubella and toxoplasma; HPV is acquired at or around delivery, and HSV is mainly an intrapartum or ascending infection.",
+  "key_note": "One paper key marked E (primary HSV); HSV rarely crosses the placenta in primary infection, whereas HPV is acquired at delivery, so HPV is the better answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01622"
+  ],
+  "stem": "Talking about perinatal infections which of the following infection has the highest risk of fetal infection in the first trimester.",
+  "options": {
+   "A": "Hepatitis A Infection",
+   "B": "Syphilis",
+   "C": "Toxoplasmosis",
+   "D": "Rubella",
+   "E": "Hepatitis B infection"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Rubella infection in the first 12 weeks causes fetal infection in up to 90% and the most severe malformations; the risk falls steeply later.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01044"
+  ],
+  "stem": "The most common cause of non-immune fetal hydrops is;",
+  "options": {
+   "A": "Rubella",
+   "B": "Trichomonas",
+   "C": "Parvovirus",
+   "D": "Syphilis",
+   "E": "Herpes simplex"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Parvovirus B19 infects erythroid precursors, causing severe fetal anaemia, high-output failure and non-immune hydrops; it is the commonest infectious cause.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01644"
+  ],
+  "stem": "A 22-year-old G1 at 14 weeks gestation presents to your office with a history of recent exposure to her 3-year old nephew who had a rubella viral infection. In which time period does maternal infection with rubella virus carry the greatest risk for congenital rubella syndrome in the fetus?",
+  "options": {
+   "A": "Preconception",
+   "B": "First trimester",
+   "C": "Second trimester",
+   "D": "Third trimester",
+   "E": "Postpartum"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Maternal rubella in the first trimester carries the highest risk of congenital rubella syndrome (cataract, deafness, PDA); the risk is minimal after 16-20 weeks.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00996",
+   "C01147",
+   "C02470"
+  ],
+  "stem": "A 22-year-old woman at 10 weeks of gestation presents with fever, rash and lymphadenopathy. TORCH screen shows positive rubella IgM. What is the best management?",
+  "options": {
+   "A": "Antibiotic therapy",
+   "B": "Antiviral therapy",
+   "C": "Continue pregnancy",
+   "D": "Counselling regarding termination",
+   "E": "Immunoglobulin"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "First-trimester rubella carries a very high risk of congenital rubella syndrome, and there is no effective fetal treatment, so the couple should be counselled about termination. Antivirals, antibiotics and immunoglobulin do not prevent fetal damage.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02986"
+  ],
+  "stem": "During first trimester of pregnancy, which of the following infections is an indication for termination of pregnancy?",
+  "options": {
+   "A": "Syphilis",
+   "B": "CMV",
+   "C": "Rubella",
+   "D": "Toxoplasmosis",
+   "E": "Polio"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Rubella in the first trimester is the classic indication to offer termination because of the very high rate of severe congenital defects.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01759"
+  ],
+  "stem": "A patient is being discharged from the hospital following an vaginal delivery. Her antenatal profile done during the first trimester revealed rubella antibodies to be negative. Discharge counseling and plans would include which of the following:",
+  "options": {
+   "A": "Rubella vaccination immediately before pregnancy next",
+   "B": "No need to do rubella antibody test before next pregnancy",
+   "C": "She is immune to rubella in rest of her life",
+   "D": "It is not safe if mother is breast feeding",
+   "E": "Rubella immunization immediately at discharge"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "A rubella non-immune woman should be vaccinated before discharge after delivery (MMR is safe with breastfeeding), and pregnancy avoided for one month.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02947"
+  ],
+  "stem": "An antenatal patient presents with her rubella antibody report showing not detected. Which of the following is true regarding rubella",
+  "options": {
+   "A": "Immediate vaccination is required",
+   "B": "Vaccination three months after delivery is recommended",
+   "C": "High risk of congenital abnormalities",
+   "D": "High risk of pre-Term delivery",
+   "E": "High risk of miscarriage"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Rubella vaccine is live and contraindicated in pregnancy, so non-immune women are vaccinated postpartum, with contraception advised for one month afterwards.",
+  "key_note": "Some paper keys marked C; the vaccination-after-delivery option is the best answer for a non-immune antenatal woman.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01623"
+  ],
+  "stem": "A pregnant lady had no complaints but cervical lymphadenopathy in the first trimester she was non-compliant with treatment. The baby was born with hydrocephalus and intracerebral calcification. Which is most likely cause?",
+  "options": {
+   "A": "Toxoplasmosis",
+   "B": "CMV",
+   "C": "Cryptococcus",
+   "D": "Rubella",
+   "E": "Syphilis"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Hydrocephalus with diffuse intracerebral calcification and maternal cervical lymphadenopathy points to congenital toxoplasmosis; CMV typically gives periventricular calcification and microcephaly.",
+  "key_note": "One paper key marked B (CMV); toxoplasmosis fits hydrocephalus with diffuse calcification and lymphadenopathy.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02373"
+  ],
+  "stem": "A 28yrs old primigravida attends clinic at 22 weeks, anomaly scan shows a hydrocephalic fetus with symmetrical growth restriction. On history she has 3 pet cats at home. Which of the following is the most likely to cause her condition",
+  "options": {
+   "A": "Rubella",
+   "B": "Toxoplasmosis",
+   "C": "Cytomegalovirus",
+   "D": "Herpes simplex",
+   "E": "Measles"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Contact with cat faeces is the classic source of Toxoplasma gondii, which causes hydrocephalus, intracranial calcification and growth restriction.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03069"
+  ],
+  "stem": "A 26-year-old at 8 weeks with primary CMV infection asks about fetal risk. Appropriate counselling?",
+  "options": {
+   "A": "Termination essential; 100% congenital transmission",
+   "B": "<1% risk of congenital infection with primary infection",
+   "C": "30-40% risk of congenital infection with primary maternal infection",
+   "D": "CMV is teratogenic only in first trimester",
+   "E": "No risk if asymptomatic"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Primary maternal CMV infection carries about 30-40% risk of congenital infection, and only about 10-15% of infected babies are symptomatic at birth; termination is not routinely essential.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00516"
+  ],
+  "stem": "Your resident has come to you in an anxious state as she has visited her relatives last week and one of the children is diagnosed with slap cheek syndrome. Which of the following infection is the most likely diagnosis",
+  "options": {
+   "A": "Rubella",
+   "B": "Measles",
+   "C": "Chickenpox",
+   "D": "Parvovirus",
+   "E": "Herpes"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Slapped cheek syndrome (erythema infectiosum) is caused by parvovirus B19.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00994"
+  ],
+  "stem": "A 30 years old primigravida came to OPD at 18 weeks of gestation and gives history of flu like symptoms and joint pains for the last 2 weeks. She gives history of viral infection of child at her school who is having rash on his face. You suspect Parvovirus infection. Which test you will advise to confirm recent infection",
+  "options": {
+   "A": "CBC",
+   "B": "IgM to Parvo virus",
+   "C": "NAAT",
+   "D": "Blood Culture",
+   "E": "IgG to parvo virus"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Recent parvovirus B19 infection is confirmed by specific IgM (IgG alone shows past infection).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02702"
+  ],
+  "stem": "A 35-year-old lady in her 3rd pregnancy comes in for a routine prenatal visit at 18 weeks of gestation. She has two children aged 3 and 5 years. She is a school teacher and is concerned about the risk of slapped cheek disease as she has been exposed to a child with a rash. The diagnoses of human parvovirus B19 has been recently confirmed in the schoolchild; however, she is asymptomatic. What is the most appropriate next step",
+  "options": {
+   "A": "Amniocentesis for diagnoses of parvovirus B19",
+   "B": "Maternal antibodies for parvovirus B19",
+   "C": "Maternal middle cerebral artery Doppler measurements",
+   "D": "Reassure her and no further testing",
+   "E": "Umbilical blood sampling"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Check maternal parvovirus IgG and IgM first; if she is non-immune or recently infected, serial MCA Doppler is used to detect fetal anaemia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01993",
+   "C03090"
+  ],
+  "stem": "A 30-year-old woman who works at a day care centre has a hydropic fetus at 19-22 weeks. A month earlier she had a mild flu-like illness with joint pains, after toddlers in her care developed fever and red cheeks. The most likely pathogen is:",
+  "options": {
+   "A": "Cytomegalovirus",
+   "B": "Herpes Simplex Virus",
+   "C": "Measles",
+   "D": "Parvovirus B 19",
+   "E": "Varicella zoster"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Fetal hydrops after exposure to children with a slapped cheek rash and a flu-like illness points to parvovirus B19, which causes fetal anaemia and high-output cardiac failure.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00469",
+   "C02372",
+   "C00656"
+  ],
+  "stem": "A pregnant woman is exposed to a child with chickenpox and is unsure of her varicella immune status. What is the most appropriate next step?",
+  "options": {
+   "A": "Ask her to re-attend if a rash illness develops",
+   "B": "Check her varicella zoster IgG",
+   "C": "Give her intramuscular varicella zoster immunoglobulin",
+   "D": "Give her varicella zoster vaccine",
+   "E": "Reassure her that she is likely to be immune"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Most women are immune to varicella; check VZV IgG first, and give VZIG only if she is found non-immune (ideally within 10 days of exposure). The live vaccine is contraindicated in pregnancy.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01733",
+   "C00285",
+   "C02305",
+   "C02912"
+  ],
+  "stem": "30 years old pregnant woman has come with history of exposure to her nephew with chicken pox today. Her VZIgG was advised which was negative. The best treatment option in this case will be:",
+  "options": {
+   "A": "VZ immunoglobulins within 24 hours of exposure",
+   "B": "VZ immunoglobulins within 5 days of exposure",
+   "C": "VZ immunoglobulins within 10 days of exposure",
+   "D": "VZ immunoglobulins within 15 days of exposure",
+   "E": "VZ immunoglobulins within 20 days of exposure"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "VZIG is given to a non-immune woman as early as possible and is effective up to 10 days after exposure; \"within 24 hours\" is not the standard window.",
+  "key_note": "Paper key marked A (within 24 hours); VZIG is ideally given early but is licensed up to 10 days after exposure, so 10 days is the standard window offered.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01826"
+  ],
+  "stem": "Choose the best option with regard to a non-immune pregnant woman with an exposure to chickenpox:",
+  "options": {
+   "A": "Should be given the varicella zoster vaccine as soon as possible after exposure",
+   "B": "Should be given varicella zoster immunoglobulin as soon as possible after exposure",
+   "C": "Does not need intervention unless symptoms of chickenpox occur",
+   "D": "Should not be treated with acyclovir in third trimester",
+   "E": "Has a 15 per cent risk of having a baby with fetal varicella syndrome"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "A non-immune exposed woman needs VZIG as soon as possible; the vaccine is live and contraindicated, and fetal varicella syndrome risk is only about 1-2% (before 20 weeks).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01043"
+  ],
+  "stem": "A 26 -year- old PG at 32 weeks of gestation presented with high grade fever for 4 days, O/E her BP 120/80mmhg, pulse 110/min temp 99F.She has fluid filled blisters all over body, one of her nephew had chicken pox 2 weeks before, what will b your next step?",
+  "options": {
+   "A": "VZIG immediately",
+   "B": "Tab acyclovir 800mg five times/day for 7 days",
+   "C": "Tab cefixim 400mg OD for 7 days",
+   "D": "Tab Doxycycline 100mg BD for 7 days",
+   "E": "Tab flagyl 400mg TDS 7 days"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Established chickenpox in pregnancy at 20 weeks or more is treated with oral aciclovir 800 mg five times daily for 7 days, ideally within 24 hours of rash onset; VZIG is for exposure, not established disease.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00997"
+  ],
+  "stem": "A 20 years old Primigravida follows up at your antenatal clinic at 37 weeks with chicken pox. There is a vesicular rash all over her abdomen and body which appeared 1 day back. She is not in labour and asks for delivery as soon as possible as she is in distress. What should be your management plan for this lady",
+  "options": {
+   "A": "Stat induction of labour",
+   "B": "Emergency Caesarean section",
+   "C": "Injection acyclovir",
+   "D": "Avoid elective delivery until 5-7 days",
+   "E": "VZIG (immunoglobulins)"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "At 37 weeks with chickenpox appearing only 1 day ago, elective delivery should be avoided for at least 5-7 days after rash onset so that maternal antibody can cross to the baby; oral aciclovir is also given if she presents within 24 hours of the rash. VZIG does not treat established disease.",
+  "key_note": "Paper key marked E (VZIG), which is post-exposure prophylaxis, not treatment of established varicella. Reviewer first chose C (aciclovir); the obstetric decision the stem asks about (she wants immediate delivery) is to defer delivery 5-7 days (RCOG), with aciclovir as adjunct.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00642"
+  ],
+  "stem": "A lady calls in emergency department informing that she is 30 weeks pregnant and has developed chickenpox. She is experiencing severe itching. Nurse asks you about ways to relieve pruritus. Your recommendation for this patient is",
+  "options": {
+   "A": "Oral aspirin",
+   "B": "Applying topical antibiotics",
+   "C": "Using antihistamines",
+   "D": "Increasing physical activity",
+   "E": "Shower daily + topical steroids"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Sedating antihistamines and calamine or emollients relieve itch; aspirin is avoided and steroids are not used for chickenpox.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00227",
+   "C01042"
+  ],
+  "stem": "A 30-year-old G2P1 at 16 weeks gestation presents with severe pain and urinary retention. O/E there were ulcerative lesions on vulva, most likely cause is?",
+  "options": {
+   "A": "Vulval candidiasis",
+   "B": "Human papilloma virus",
+   "C": "Herpes simplex virus",
+   "D": "Gonorrhea",
+   "E": "Syphilis"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Painful vulval ulcers with urinary retention (sacral radiculopathy) in a pregnant woman indicate primary genital herpes. Syphilitic chancre is painless.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03070"
+  ],
+  "stem": "A 22-year-old at 10 weeks is diagnosed with primary genital HSV infection. What is the most appropriate advice?",
+  "options": {
+   "A": "Termination is recommended due to high teratogenicity",
+   "B": "Daily suppressive aciclovir from 10 weeks until delivery",
+   "C": "Oral aciclovir now for the primary episode plus suppressive therapy from 36 weeks",
+   "D": "Elective caesarean is mandatory regardless of lesions at term",
+   "E": "Vaginal delivery is contraindicated in all future pregnancies"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Primary HSV in early pregnancy is treated with oral aciclovir; HSV is not an indication for termination, and suppressive aciclovir from 36 weeks reduces recurrence at term.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02518"
+  ],
+  "stem": "A woman develops a primary genital herpes infection close to term with active genital lesions. What is an important obstetric concern?",
+  "options": {
+   "A": "Risk of fetal macrosomia only",
+   "B": "Risk of maternal anemia only",
+   "C": "Risk of maternal diabetes only",
+   "D": "Risk of neonatal herpes transmission",
+   "E": "Risk of polyhydramnios only"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Primary genital herpes near term carries a high risk of neonatal herpes (30-50% with vaginal delivery), so caesarean section is advised.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01139"
+  ],
+  "stem": "A 32 year old primigravida with active primary genital herpes infection attends the antenatal clinic for discussion of management of prolonged pregnancy.She is at 41 weeks of gestation. You have discussed the risk associated with prolonged pregnancy and she has consented to delivery. How will you manage her delivery?",
+  "options": {
+   "A": "Caesarean section is advised",
+   "B": "Induction of labour with intracervical Foleys catheter",
+   "C": "Induction of labour with vaginal prostaglandin",
+   "D": "Intravenous acyclovir and induction of labour by amniotomy",
+   "E": "Oral acyclovir and commence induction of labour when lesions are crusted over"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Primary genital herpes after 28 weeks, or within 6 weeks of delivery, is an indication for caesarean section because of the high risk of neonatal herpes.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01994"
+  ],
+  "stem": "A 23 years old PG presents at 36 weeks gestation with ulcerative painful erosion on vulva, vagina and cervix. She has had such lesions over past two years and her husband who works abroad also has similar episodes, diagnosed to have repeated infections of herpens simplex type II. What will you prescribe for symptomatic relief and to reduce perinatal transmission of the pathogen ?",
+  "options": {
+   "A": "Adefovir",
+   "B": "Acyclovir",
+   "C": "IVIG",
+   "D": "Lamivudine",
+   "E": "Zidovudine"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Aciclovir is used for symptomatic relief and, from 36 weeks, suppression to reduce lesions at delivery and lower the need for caesarean section.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02517"
+  ],
+  "stem": "A pregnant woman has a positive syphilis screening test during antenatal care. Why is treatment important?",
+  "options": {
+   "A": "To increase fetal weight",
+   "B": "To prevent gestational diabetes",
+   "C": "To prevent placenta previa",
+   "D": "To prevent shoulder dystocia",
+   "E": "To reduce the risk of congenital infection"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Treating maternal syphilis with penicillin before the third trimester prevents most cases of congenital syphilis.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00995"
+  ],
+  "stem": "A primigravida presents at 25 weeks with vaginal discharge and painless genital ulcers on examination. Her husband is abroad and visits every 6 months. Which test is most appropriate to confirm the likely diagnosis (primary syphilis)?",
+  "options": {
+   "A": "VDRL",
+   "B": "RPR (rapid plasma reaction)",
+   "C": "PCR",
+   "D": "FTA -abs test",
+   "E": "Zielhl neelsen station"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A painless genital ulcer with exposure risk is primary syphilis. PCR of the ulcer swab (or dark-field microscopy) confirms it, since serology may still be negative in early primary syphilis.",
+  "key_note": "The source stem asked for the diagnosis but all options are tests; reworded as a test question. Marked answer PCR kept (VDRL/RPR may be negative in early primary syphilis).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02946"
+  ],
+  "stem": "A primigravida at 20 weeks of gestation presents in antenatal clinic with an ulcer on right labia minora. A diagnosis of syphilis is made. Which of the following treatment is suitable for this patient",
+  "options": {
+   "A": "Penicillin",
+   "B": "A ciclovir",
+   "C": "Cefotaxime",
+   "D": "Doxycycline",
+   "E": "Zidovidine"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Penicillin is the treatment of choice for syphilis in pregnancy and the only drug that treats the fetus.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02782"
+  ],
+  "stem": "A 27 years old PG gives birth to a stillborn baby at 27 weeks of gestation. She hd developed painless genital ulcer in first trimester. She reports developing fever,rash on feet and palms,lymphadenopathy & grayish, moist & weepy lesions in perianal & perivaginal area around 20 weeks .Which of the following is the likely cause",
+  "options": {
+   "A": "Cytomegalovirus",
+   "B": "Chlamydia",
+   "C": "Herpes Simplex Virus",
+   "D": "Parvovirus",
+   "E": "Syphilis"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Painless genital ulcer, then rash on palms and soles, lymphadenopathy and condylomata lata (grey moist perianal lesions) with stillbirth are classic for secondary syphilis.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01304"
+  ],
+  "stem": "A 26 years old primigravida presents in OPD with history of vaginal discharge and dysuria. On Investigation gonorrhoea is diagnosed. You will treat this patient with",
+  "options": {
+   "A": "Azithromycin",
+   "B": "Metronidazole",
+   "C": "Cephalosporin",
+   "D": "Tetracycline",
+   "E": "Fluconazole"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Gonorrhoea is treated with a third-generation cephalosporin, ceftriaxone (given with azithromycin); tetracyclines are avoided in pregnancy.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01348"
+  ],
+  "stem": "A 25 years old primigravida has come to OPD at a gestational amenorrhea of 32 weeks. She has brought report of NAAT test which shows chlamydial infection. What is the effect of chlamydial infection to neonate in this lady in case of vaginal delivery",
+  "options": {
+   "A": "Pneumonia",
+   "B": "Respiratory distress syndrome",
+   "C": "Jaundice",
+   "D": "Conjuctivitis",
+   "E": "Necrotizing enterocolitis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Chlamydia is acquired from the birth canal and the commonest neonatal manifestation is conjunctivitis (ophthalmia neonatorum); pneumonia is less common.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00263"
+  ],
+  "stem": "A young PG lady is diagnosed to have bacterial vaginosis at 24 weeks of gestation.She is most likely to have which of the following complications.",
+  "options": {
+   "A": "Pyrexia",
+   "B": "Preterm labour",
+   "C": "Pelvic inflammatory disease",
+   "D": "Post operative pelvic infection",
+   "E": "Preterm premature rupture of membrane"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Bacterial vaginosis is linked to preterm labour, PPROM and late miscarriage; the commonest listed complication is preterm labour.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02519"
+  ],
+  "stem": "A pregnant woman has confirmed group B streptococcal colonization and goes into labour. What is the principal reason for intrapartum antibiotic prophylaxis?",
+  "options": {
+   "A": "To induce labour",
+   "B": "To prevent gestational diabetes",
+   "C": "To prevent maternal hypertension",
+   "D": "To prevent postpartum hemorrhage",
+   "E": "To reduce early-onset neonatal GBS disease"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Intrapartum penicillin for GBS-colonised women reduces early-onset neonatal GBS sepsis.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01172"
+  ],
+  "stem": "Commonest type of viral hepatitis in pregnancy is",
+  "options": {
+   "A": "A",
+   "B": "B",
+   "C": "C",
+   "D": "D",
+   "E": "E"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Hepatitis A is the commonest acute viral hepatitis in pregnancy and is generally mild, though hepatitis E is a major cause in endemic regions.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01175"
+  ],
+  "stem": "which type of viral hepatitis in pregnancy associated with high maternal mortalilty:",
+  "options": {
+   "A": "HVA",
+   "B": "HVB",
+   "C": "HVC",
+   "D": "HVD",
+   "E": "HVE"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Hepatitis E carries a maternal mortality of 15-25% in pregnancy, especially in the third trimester (fulminant hepatic failure).",
+  "key_note": "Paper key marked A (HVA); hepatitis E is the type with high maternal mortality in pregnancy.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00895"
+  ],
+  "stem": "Least risk of HB virus transmission in pregnant woman is with:",
+  "options": {
+   "A": "H/O repeated blood transfusions",
+   "B": "Household contact with a hepatitis B Surface Antigen patient",
+   "C": "Intravenous drug addiction",
+   "D": "Prostitutes",
+   "E": "Working in hemodialysis unit"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Casual household contact carries the lowest risk; blood transfusion, IV drug use, sex work and dialysis work carry higher risk.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00618"
+  ],
+  "stem": "A primigravida has come for antenatal booking at 8 weeks. On investigations she is found to be hepatitis C positive. She is worried about mode of transmission of virus. Which is the rare mode of transmission",
+  "options": {
+   "A": "Saliva",
+   "B": "Blood products",
+   "C": "Body piercing",
+   "D": "Tattooing",
+   "E": "Sexual transmission"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Hepatitis C is transmitted mainly by blood; sexual transmission is rare.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00948"
+  ],
+  "stem": "A primigravida has presented with jaundice. She is Hep BsAg positive. To confirm acute infection. Which one of the following test will be done;",
+  "options": {
+   "A": "Hepatitis B e antigen (HBeAg)",
+   "B": "Hepatitis B surface antibody (anti-HBs)",
+   "C": "Repeat HBsAg",
+   "D": "Hepatitis B core antibody IgM (anti-HBc IgM)",
+   "E": "Hepatitis B core antibody IgG (anti-HBc IgG)"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Anti-HBc IgM is the marker of acute hepatitis B infection; HBeAg indicates high infectivity, not acuteness.",
+  "key_note": "Paper key marked A (HBeAg); acute infection is confirmed by anti-HBc IgM. Options D and E appear as \"BeAb\" in the source, read as core antibody.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00556",
+   "C00582",
+   "C02374"
+  ],
+  "stem": "A primigravida who is HBsAg positive has delivered vaginally. Which management should be advised to prevent vertical transmission of hepatitis B?",
+  "options": {
+   "A": "Hepatitis B Ig",
+   "B": "Hepatitis B vaccine single dose",
+   "C": "Hepatitis B vaccine three doses",
+   "D": "Hepatitis B Ig and hepatitis vaccine single dose",
+   "E": "Hepatitis B Ig and hepatitis vaccine three doses"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Babies of HBsAg-positive mothers should receive hepatitis B immunoglobulin plus the full three-dose vaccine course, starting at birth, which reduces transmission by more than 90%.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00619"
+  ],
+  "stem": "A primigravida who is HbsAg positive has delivered vaginally. To prevent vertical transmission of hepatitis B you have advised hepatitis B Ig. At which time this should be administered",
+  "options": {
+   "A": "Immediately after delivery",
+   "B": "Within 72 hours of delivery",
+   "C": "Within one week of child birth",
+   "D": "6 weeks after child birth",
+   "E": "12 weeks after child birth"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "HBIG should be given as soon as possible after birth, ideally within 12 hours and certainly within 24 hours, together with the first vaccine dose.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01099"
+  ],
+  "stem": "G3P2 at 37 weeks presented to you for antenatal checkup,she is HIV positive .which of the following step include in her management?",
+  "options": {
+   "A": "Delivery by vaginal route with high viral load",
+   "B": "Give BCG vaccination to baby",
+   "C": "No need of Antiretroviral therapy",
+   "D": "Delivery by elective c/section in presence of low viral load",
+   "E": "Avoid breast feed"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "In settings where safe formula feeding is available, HIV-positive mothers are advised to avoid breastfeeding. Caesarean is advised for high viral load, not low, and ART must be continued.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02473"
+  ],
+  "stem": "A 29y/o HIV positive woman is pregnant and on antiretroviral therapy. What is mode of delivery recommended if viral load >1000 copies/mL near term?",
+  "options": {
+   "A": "C-Section at 38 weeks",
+   "B": "Expectant Management",
+   "C": "Induction at 40 weeks",
+   "D": "Operative Vaginal Delivery",
+   "E": "Vaginal Delivery"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Planned caesarean at 38 weeks reduces mother-to-child HIV transmission when the viral load is above 1000 copies/mL (400 in some guidelines).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03020"
+  ],
+  "stem": "A 30 years G2P1 at 38 weeks has recently been diagnosed as HIV positive. Her husband is currently residing in Europe. Her viral load is > 50 copies /ml but < 1000 copies /ml. She complains of labour pains. On per vaginal examination cervix is 5 cm dilated with intact membranes. What should be the plan for her intrapartum care?",
+  "options": {
+   "A": "Arm to augment labor",
+   "B": "Emergency C-Section",
+   "C": "Forceps delivery",
+   "D": "Spontaneous vaginal delivery",
+   "E": "Vacuum delivery"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "With viral load below 1000 copies/mL on treatment, vaginal delivery is appropriate and caesarean confers no added benefit; avoid invasive procedures like fetal scalp electrodes.",
+  "key_note": "Paper keys marked B (emergency caesarean); with viral load under 1000 copies/mL (and established labour) vaginal delivery is recommended, caesarean being reserved for high viral load.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02985"
+  ],
+  "stem": "Regarding perinatal infections, which of the following infection has the increased risk of fetal infection during delivery which can be reduced to 2% by elective C section?",
+  "options": {
+   "A": "Hepatitis A infection",
+   "B": "HIV Infection",
+   "C": "Toxoplasmosis",
+   "D": "Rubella",
+   "E": "Hepatitis B infection"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Planned caesarean reduces HIV vertical transmission from about 15-25% to about 2% (with ART).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02578",
+   "C02965"
+  ],
+  "stem": "Regarding covid 19 vaccination in pregnancy which of the following statement is true:",
+  "options": {
+   "A": "Contraindicated in first trimester pregnancy",
+   "B": "Contraindicated in breast feeding mothers",
+   "C": "Can only be given after 6 weeks after delivery",
+   "D": "Only one dose can be given in pregnancy",
+   "E": "Can be given to all pregnant women in all trimeasters"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "COVID-19 vaccines are recommended in pregnancy in any trimester and are safe during breastfeeding.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02730"
+  ],
+  "stem": "All Individuals can get Covid-19 vaccine except",
+  "options": {
+   "A": "Pregnant between 14-33weeks",
+   "B": "Lactating Mothers",
+   "C": "Individual above 40 years",
+   "D": "People with obvious fever",
+   "E": "Medical & Paramedical staff"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Vaccination is deferred only in acute febrile illness; pregnant women and lactating mothers are eligible.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01077"
+  ],
+  "stem": "A 31 years old F PG at 20 wks gestation presented in OPD C/O fever (high grade) 3 days, sever body aches and dry cough she give Hx of flu 5 days before she came back from china 10 days before. What investigation you will do 1st",
+  "options": {
+   "A": "Typhoid IgG+IgM",
+   "B": "MP Smear",
+   "C": "Covid 19 PCR",
+   "D": "Urine R/E",
+   "E": "CBC"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Fever, cough and recent travel suggest COVID-19, so a PCR test is the first investigation.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02770"
+  ],
+  "stem": "A 27-year old PG presents to gynae OPD at 26 weeks of gestation, C/O fever, cough and shortness of breath for 3 days. She gives H/O travel from abroad one week ago. O/E ; BP; 110/80 mmHg, Pulse; 100 bpm, Temp; 99 degree. Chest auscultation normal. P/A; SFH; 26 cm, USS; SAF corresponding with gestational age. Investigations revealed Hb%- 9.5gm%. Urine RE; Pus cells-2-4, protein and sugar nil, BSR; 98 mg.ECG; normal The probable cause of her condition is;",
+  "options": {
+   "A": "Allergic Bronchial asthma",
+   "B": "Anemia in pregnancy",
+   "C": "Suspected COVID 19",
+   "D": "Angina",
+   "E": "Seasonal flue"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Fever, cough and breathlessness after travel with normal chest and urine findings point to suspected COVID-19, and mild anaemia does not explain it.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03021"
+  ],
+  "stem": "A 22- year old, G1P0 comes to the antenatal clinic for follow-up visit at 20 weeks of gestation. She gives history of loss of smell and appetite with body aches and pains. There is no history of fever but she has cough off and on. Her Covid PCR is awaited. What should be your next step?",
+  "options": {
+   "A": "Ask patient to bring report of Covid PCR",
+   "B": "Admit patient to Covid isolation ward",
+   "C": "Prescribed her steroids",
+   "D": "Order X ray chest with shielding",
+   "E": "Wear your mask and maintain distance"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Loss of smell and cough in pregnancy suggests COVID-19; isolate the patient pending PCR.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02375"
+  ],
+  "stem": "A 28yrs old G3P2, working as a nurse attends antenatal clinic at 34 weeks of pregnancy. She is concerned regarding COVID 19 infection. She has taken her Covid vaccine. As compared to the non-pregnant state, Which of the following complication is more likely to occur with Covid 19 in pregnancy.",
+  "options": {
+   "A": "High oxygen saturation",
+   "B": "Pneumonia",
+   "C": "Anemia",
+   "D": "Pneumothorax",
+   "E": "Pleural effusion"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Pregnant women with COVID-19 are at higher risk of pneumonia, ICU admission and preterm birth than non-pregnant women.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03071"
+  ],
+  "stem": "A 33-year-old woman at 30 weeks has mild symptomatic COVID-19 (fever, cough, oxygen saturation 97% on room air). Pregnancy is otherwise low-risk. What is the most appropriate obstetric management?",
+  "options": {
+   "A": "Immediate induction of labour",
+   "B": "Elective caesarean section at 34 weeks",
+   "C": "Home isolation, symptomatic treatment, and routine antenatal follow-up with fetal movement monitoring",
+   "D": "Prophylactic delivery by 37 weeks regardless of course",
+   "E": "Continuous inpatient fetal monitoring until PCR negative"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Mild COVID-19 with normal saturation needs home isolation, symptomatic care, fetal movement monitoring and routine follow-up; COVID alone is not an indication for delivery.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00658"
+  ],
+  "stem": "A 30-year-old woman at 29 weeks of gestation presents with confirmed COVID-19 infection. She has fever, persistent cough, and increasing breathlessness. Her oxygen saturation is 91% on room air. Chest X-ray shows bilateral patchy infiltrates. She has no history of comorbidities. What is the most appropriate treatment at this stage?",
+  "options": {
+   "A": "Admit in ICU+ Corticosteroids+ MDT team involvement",
+   "B": "Antenatal corticosteroids for fetal lung maturity only",
+   "C": "Inhaled bronchodilators and antibiotics on OPD basis",
+   "D": "Immediate delivery and supplemental oxygen",
+   "E": "Give injectable antiviral + Corticosteroids"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Hypoxia with bilateral infiltrates is moderate to severe COVID-19; admit to high dependency or ICU, give corticosteroids and involve the multidisciplinary team.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02520"
+  ],
+  "stem": "A pregnant woman with confirmed COVID-19 develops significant hypoxia. What is the most important initial management principle?",
+  "options": {
+   "A": "Avoid oxygen because of fetal effects",
+   "B": "Give warfarin",
+   "C": "Immediate termination in every case",
+   "D": "Maternal oxygenation and supportive management",
+   "E": "Restrict all fluids"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Treat hypoxia with maternal oxygenation and supportive care (position, fluids, thromboprophylaxis); maternal wellbeing is the priority and delivery is not routinely required.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00644"
+  ],
+  "stem": "You receive phone call from a lady who informs you that she had vaginal delivery 1 week ago in a local hospital. From last 2 days she was having fever and cough and today she is tested +ve for covid. She is worried as she is breast feeding her baby. You inform her to",
+  "options": {
+   "A": "Stop breast feeding the baby",
+   "B": "Continue breast feeding as usual",
+   "C": "Continue breast feeding with extra precautions",
+   "D": "Start top feeding",
+   "E": "Get vaccinated and continue breast feeding"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "COVID-19 is not transmitted in breast milk; the mother should continue breastfeeding with hand hygiene and a mask.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03019"
+  ],
+  "stem": "A 29 years old, P4+1, at 32 weeks gestation reports to emergency with 7 days history of on and off spiking high grade fever with rigor and chills. She has given history of travelling to her village two weeks back. She does not give any history of vomiting, diarrhea, vaginal discharge or urinary complaints. Her blood smear microscopy reveals hemolysis. Her likely diagnosis is",
+  "options": {
+   "A": "Enteric fever",
+   "B": "Food poisoning",
+   "C": "Malaria",
+   "D": "Pelvic inflammatory disease",
+   "E": "Pyelonephritis"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Cyclical high fever with rigors, travel to an endemic area and haemolysis on smear indicate malaria, which is more severe in pregnancy.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01062",
+   "C02723"
+  ],
+  "stem": "The commonest organism causing urinary tract infection in pregnancy is:",
+  "options": {
+   "A": "Proteus",
+   "B": "Pseudomonas",
+   "C": "E coli",
+   "D": "Klebsiella",
+   "E": "Streptococcus"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "E. coli causes about 80% of UTIs in pregnancy.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02545"
+  ],
+  "stem": "A pregnant woman has no urinary symptoms, but urine culture repeatedly grows a significant number of bacteria. Why should this condition be treated?",
+  "options": {
+   "A": "Because all pregnant women require antibiotics regardless of culture",
+   "B": "To prevent acute glomerulonephritis",
+   "C": "To prevent renal calculi",
+   "D": "To prevent urinary incontinence",
+   "E": "To reduce the risk of pyelonephritis and pregnancy complications"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Untreated asymptomatic bacteriuria leads to pyelonephritis in up to 30% of pregnant women, and is associated with preterm birth and low birth weight.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02280",
+   "C02891"
+  ],
+  "stem": "A pregnant woman has asymptomatic bacteriuria. What should be done?",
+  "options": {
+   "A": "Ignore",
+   "B": "Treat only if symptoms develop",
+   "C": "Treat asymptomatic bacteriuria",
+   "D": "Repeat urine after 1 month"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Asymptomatic bacteriuria in pregnancy (confirmed on culture) should be treated, since it progresses to pyelonephritis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02660"
+  ],
+  "stem": "A 35 years old G3P2 at 32 weeks of gestation brings her urine routine examination report showing bacteriuria although she has no urinary symptoms. this asymptomatic bacteriuria can lead to",
+  "options": {
+   "A": "Preterm labour",
+   "B": "Anaemia",
+   "C": "DVT",
+   "D": "Postpartum haemorrhage",
+   "E": "Pre-eclampsia"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Asymptomatic bacteriuria is associated with preterm labour, low birth weight and pyelonephritis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01087"
+  ],
+  "stem": "A 30 years old G2 P1 at 10 weeks of gestation presented with lower Abdominal pain with frequency, urgency and burning micturition O/E no vaginal discharge or bleeding USG shows viable fetus of 10 weeks. The most likely cause of her pain is;",
+  "options": {
+   "A": "Urinary tract infection",
+   "B": "Appendicitis",
+   "C": "Ovarian cyst accident",
+   "D": "Threatened miscarriage",
+   "E": "Ulcerative colitis"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Frequency, urgency and burning micturition with a viable fetus and no bleeding indicate UTI.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03043"
+  ],
+  "stem": "A primigravida presents at 12 weeks with complaints of frequency, urgency and burning micturition. Her urine examination report is awaited. But there is a strong suspicion that she has urinary tract infection. Your further plan of management will be",
+  "options": {
+   "A": "Admit and give I/V fluids",
+   "B": "Oral fluid+ reassurance",
+   "C": "Oral analgesics+ I/V fluids",
+   "D": "Antibiotic+ Oral fluids",
+   "E": "Wait for test reports"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Start empirical antibiotics with oral fluids after sending an MSU for culture; treatment should not wait for the report in a symptomatic pregnant woman.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02724",
+   "C01916"
+  ],
+  "stem": "A primigravida presented at 30 weeks of gestation with history of burning micturition, dysuria and nocturia for last 3 days. The first investigation that you will advise is",
+  "options": {
+   "A": "Midstream urine for microscopy and biochemistry",
+   "B": "Urine culture and sensitivity",
+   "C": "High vaginal swab",
+   "D": "Cystoscopy",
+   "E": "Ultrasound"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "A midstream urine culture and sensitivity is the definitive investigation in suspected UTI in pregnancy.",
+  "key_note": "Papers differ (microscopy vs culture); culture and sensitivity of an MSU is the definitive test and should always be sent before antibiotics.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02646"
+  ],
+  "stem": "A 28 years old G3P2+0 with suspected UTI to obtained a urine specimen, which of the following should you order",
+  "options": {
+   "A": "Midstream Specimen of Urine (MSU)",
+   "B": "Catheterization",
+   "C": "Suprapubic Tap",
+   "D": "24 hours Urine",
+   "E": "Urine for culture and sensitivity"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "A clean-catch midstream specimen is the standard specimen for suspected UTI and is sent for culture; catheter or suprapubic sampling is not needed.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00666"
+  ],
+  "stem": "A 24-year-old woman, 14 weeks pregnant, presents with dysuria, increased frequency of urination, and lower abdominal discomfort. On examination, her temperature is 37.8 C. She denies fever or flank pain. What is the most appropriate next step in management?",
+  "options": {
+   "A": "Send midstream urine for test",
+   "B": "Start amoxicillin and arrange for urine culture",
+   "C": "Advise hydration and observation for 48 hours",
+   "D": "Initiate ciprofloxacin and monitor for worsening symptoms",
+   "E": "Refer for ultrasound of the kidneys to rule out pyelonephritis"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Symptomatic UTI in pregnancy is treated promptly: send an MSU for culture and start an appropriate antibiotic such as amoxicillin or cephalexin, adjusting to sensitivities; waiting or sending the sample alone is not enough, and ciprofloxacin is avoided.",
+  "key_note": "Not marked in the source paper; answer by reviewer. Symptomatic lower UTI is treated empirically while culture is sent (NICE/RCOG).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02612"
+  ],
+  "stem": "A 25-year PG woman presents with fever, malaise, and dysuria at 30 weeks of gestation. Urinalysis shows leukocyte esterase and nitrites. What is the best management strategy",
+  "options": {
+   "A": "Oral antibiotics for 7 days",
+   "B": "Start magnesium sulfate",
+   "C": "Immediate delivery",
+   "D": "Send blood culture only",
+   "E": "Wait for urine culture before treatment"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Treat symptomatic UTI with a 7-day course of a pregnancy-safe antibiotic after sending urine culture.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02958"
+  ],
+  "stem": "A young lady PG with gestational age of 12 + weeks report in E R with severe lower abdominal pain for last one day, associated with increased frequency and dysuria. On examination patient is dehydrated. PA soft tender in left iliac fossa. Ultrasound shows intrauterine viable pregnancy of 12 + weeks and clear adnexa which of the following is most appropriate treatment for her",
+  "options": {
+   "A": "USG abdomen",
+   "B": "Send urine R E",
+   "C": "KUB",
+   "D": "I/V antibiotics",
+   "E": "Urine CS"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Dehydration with severe pain, frequency and dysuria and a normal pelvis scan indicates UTI, possibly early pyelonephritis, needing IV fluids and IV antibiotics.",
+  "key_note": "One paper key marked B (urine R/E); the question asks for treatment, so IV antibiotics is the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02471"
+  ],
+  "stem": "A 30y/o at 34 weeks develops urinary frequency, dysuria and fever. Urine culture grows E.coli. What is the safest antibiotic?",
+  "options": {
+   "A": "Ciprofloxacin",
+   "B": "Doxycycline",
+   "C": "Nitrofurantoin",
+   "D": "Sulfametheaxazole",
+   "E": "Tetracycline"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Nitrofurantoin is a safe option for E. coli UTI before term; fluoroquinolones, tetracyclines and sulfonamides are avoided in pregnancy.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01636"
+  ],
+  "stem": "Your 25-year-old patient is pregnant at 36 weeks gestation. She has an acute urinary tract infection (UTI). Which of the following medications is contraindicated in the treatment of the UTI in this patient?",
+  "options": {
+   "A": "Ampicillin",
+   "B": "Nitrofurantoin",
+   "C": "Trimethoprim/sulfamethoxazole",
+   "D": "Cephalexin",
+   "E": "Amoxicillin/clavulanate"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Trimethoprim-sulfamethoxazole should be avoided in late pregnancy because the sulfonamide displaces bilirubin (kernicterus) and trimethoprim is a folate antagonist.",
+  "key_note": "Some paper keys marked B (nitrofurantoin), which is avoided only at term; trimethoprim-sulfamethoxazole is the classic third-trimester contraindication.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03166"
+  ],
+  "stem": "The first line antibiotic for UTI in 3rd trimester of pregnancy is?",
+  "options": {
+   "A": "Amoxycillin",
+   "B": "Gentamycin",
+   "C": "Nitrofurantoin",
+   "D": "Uraxin",
+   "E": "Ampicillin"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Amoxicillin (or a cephalosporin) is first-line for UTI in the third trimester, guided by culture; nitrofurantoin is avoided near term.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02546",
+   "C02408",
+   "C02647",
+   "C02571"
+  ],
+  "stem": "A pregnant woman develops fever, flank pain, vomiting and costovertebral angle tenderness. Which diagnosis is most likely?",
+  "options": {
+   "A": "Acute pyelonephritis",
+   "B": "Acute glomerulonephritis",
+   "C": "Appendicitis",
+   "D": "Puerperal mastitis",
+   "E": "Hyperemesis Gravidarum"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Fever, flank pain, vomiting and costovertebral angle tenderness indicate acute pyelonephritis.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02980"
+  ],
+  "stem": "A 30 year G3P2 lady at 28 weeks of gestation presents with severe pain in her right lumbar region. She also complains of nausea, vomiting and fever. Her complete blood count shows wbc's 18,000 and a normal urine analysis. The most likely diagnosis is:",
+  "options": {
+   "A": "Appendicitis",
+   "B": "Pyelonephritis",
+   "C": "Round ligament torsion",
+   "D": "Meckel's diverticulum",
+   "E": "Torsion of ovarian cyst"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Right flank pain with nausea, fever and leucocytosis but normal urinalysis suggests appendicitis, which presents higher in the flank as the pregnant uterus displaces the appendix.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00667",
+   "C03126"
+  ],
+  "stem": "A 28-year-old woman, 18 weeks pregnant, presents with fever, chills, nausea, and vomiting. She reports dysuria and increased frequency of urination for the past 3 days. On examination, her temperature is 39 C, blood pressure is 110/70 mmHg, and she has tenderness in the right flank. Urine report shows positive leukocytes and nitrites. What is the most appropriate next step in management?",
+  "options": {
+   "A": "Start oral amoxicillin and arrange for urine culture",
+   "B": "Prescribe intravenous ceftriaxone and admit for inpatient management",
+   "C": "Initiate ciprofloxacin and arrange for a follow-up appointment in 1 week",
+   "D": "Start paracetamol for pain relief and observe for 48 hours",
+   "E": "Refer for an abdominal ultrasound to rule out kidney stones"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Pyelonephritis in pregnancy needs admission, IV fluids and IV antibiotics such as ceftriaxone, followed by prophylaxis after treatment.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01732"
+  ],
+  "stem": "A G3P2 presents in emergency in acute pyelonephritis. This patient is at increased risk",
+  "options": {
+   "A": "Premature labour",
+   "B": "Fetal renal disease",
+   "C": "Antepartum haemorrhage",
+   "D": "Cord Prolaps",
+   "E": "Fetal anaemia"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Pyelonephritis increases the risk of preterm labour, low birth weight and maternal sepsis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02604"
+  ],
+  "stem": "A 25-year-old woman at 34 weeks presents with fever, uterine tenderness, and foul-smelling vaginal discharge. ON examination uterus is woody hard. Fetal tachycardia is noted on CTG. What is the most likely diagnosis",
+  "options": {
+   "A": "Urinary tract infection",
+   "B": "Intraamniotic infection (chorioamnionitis)",
+   "C": "Abruptio placentae",
+   "D": "Preeclampsia",
+   "E": "Retained products of conception"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Fever, uterine tenderness, foul discharge and fetal tachycardia indicate chorioamnionitis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00844"
+  ],
+  "stem": "A 27-year-old G2P1 presents at 34 weeks with abdominal pain. Abdominal examination shows a longitudinal lie with a positive fetal heart sound and tenderness localised to the suprapubic area. The most probable diagnosis is:",
+  "options": {
+   "A": "Fibroid degeneration",
+   "B": "Ovarian cyst torsion",
+   "C": "Acute cystitis",
+   "D": "Labour",
+   "E": "Renal colic"
+  },
+  "answer": "C",
+  "explanation": "Suprapubic tenderness with a normal fetal lie and fetal heart and no labour features is acute cystitis, common in pregnancy; confirm with urine culture.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02979"
+  ],
+  "stem": "A 38-year-old G5P4 at 28 weeks presents with lower abdominal pain, no contractions, normal vitals and fetal movements. Ultrasound shows an anterior placenta and urine shows multiple pus cells. Which is the most serious complication if untreated?",
+  "options": {
+   "A": "Post-term labour",
+   "B": "Preterm labour",
+   "C": "Pyelonephritis",
+   "D": "Pyelolactosis",
+   "E": "Pyuria"
+  },
+  "answer": "C",
+  "explanation": "Untreated bacteriuria in pregnancy progresses to acute pyelonephritis in about 30% and can cause sepsis, preterm labour and ARDS.",
+  "key_note": "One paper marked B (preterm labour); pyelonephritis is the most serious complication, preterm labour is a consequence of it.",
+  "figure": ""
+ }
+]

@@ -1,0 +1,699 @@
+[
+ {
+  "cids": [
+   "C01080"
+  ],
+  "stem": "Regarding normal fetal development, which is the first system to develop during the embryonic period?",
+  "options": {
+   "A": "CNS",
+   "B": "CVS",
+   "C": "Renal system",
+   "D": "GIT",
+   "E": "Respiratory system"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "The neural plate and tube form in the third week, so the CNS is the first system to begin development. The heart is the first to function, which is the tempting distractor.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00591"
+  ],
+  "stem": "At which gestation do hair follicles begin to develop as hair buds?",
+  "options": {
+   "A": "Between 8-10 weeks",
+   "B": "Between 8-12 weeks",
+   "C": "Between 10-14 weeks",
+   "D": "Between 12-16 weeks",
+   "E": "Between 12-18 weeks"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Hair follicles appear as epidermal buds at about 12-16 weeks; lanugo follows.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00839"
+  ],
+  "stem": "The fetal gut protrudes through a defect in the anterior abdominal wall during fetal life (physiological herniation) but becomes completely intra-abdominal by a gestation of:",
+  "options": {
+   "A": "4 weeks",
+   "B": "6 weeks",
+   "C": "8 weeks",
+   "D": "10 weeks",
+   "E": "12 weeks"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Physiological midgut herniation begins at about 6 weeks and the gut returns to the abdominal cavity by about 10-12 weeks (complete by 12 weeks). Persistence after this is an exomphalos/gastroschisis-type defect.",
+  "key_note": "One paper key marked 8 weeks; the standard answer, and that marked by most papers, is 12 weeks.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02013"
+  ],
+  "stem": "At what gestation does the fetal thyroid begin to synthesise its own thyroid hormone?",
+  "options": {
+   "A": "6 weeks",
+   "B": "12 weeks",
+   "C": "20 weeks",
+   "D": "24 weeks",
+   "E": "At 37 weeks"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "The fetal thyroid begins to concentrate iodine and synthesise hormone from about 10-12 weeks; before this the fetus depends on maternal thyroxine.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00551",
+   "C01651",
+   "C02995"
+  ],
+  "stem": "Surfactant production is one of the key features of fetal respiratory development and prevents collapse of small alveoli. At which gestation is its production maximal?",
+  "options": {
+   "A": "20 weeks",
+   "B": "22 weeks",
+   "C": "24 weeks",
+   "D": "26 weeks",
+   "E": "28 weeks"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Type II pneumocytes begin producing surfactant from about 24 weeks, with production increasing markedly after about 28 weeks; this is the standard exam answer. Antenatal steroids accelerate maturation.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00508"
+  ],
+  "stem": "How many arteries and veins are present in the umbilical cord?",
+  "options": {
+   "A": "One vein and two arteries",
+   "B": "One vein and one artery",
+   "C": "Two veins and one artery",
+   "D": "Two veins and two arteries",
+   "E": "One vein and three arteries"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "The normal cord has two umbilical arteries carrying deoxygenated blood to the placenta and one umbilical vein carrying oxygenated blood to the fetus. A single umbilical artery is associated with fetal anomalies.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00592"
+  ],
+  "stem": "The fetal circulation is characterised by shunts that ensure oxygenated blood from the placenta is delivered preferentially to the fetal brain. How many shunts are there in the fetal circulation?",
+  "options": {
+   "A": "Two",
+   "B": "Three",
+   "C": "Four",
+   "D": "Five",
+   "E": "Six"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "The three fetal shunts are the ductus venosus, the foramen ovale and the ductus arteriosus.",
+  "key_note": "Paper keys marked C (Four); the standard teaching (Ten Teachers) is three shunts: ductus venosus, foramen ovale, ductus arteriosus.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00838"
+  ],
+  "stem": "The fetal circulation is different from the adult circulation. Oxygenated blood returning to the fetus via the umbilical vein joins the inferior vena cava through the:",
+  "options": {
+   "A": "Ductus arteriosus",
+   "B": "Ductus venosus",
+   "C": "Foramen ovale",
+   "D": "Umbilical artery",
+   "E": "Renal vein"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "The ductus venosus bypasses the hepatic sinusoids and delivers oxygenated blood to the IVC. The foramen ovale then directs it across to the left atrium.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02687"
+  ],
+  "stem": "Which of the following vessels contains the highest proportion of deoxygenated blood in the fetal circulation?",
+  "options": {
+   "A": "Umbilical artery",
+   "B": "Umbilical vein",
+   "C": "Ductus venosus",
+   "D": "Ascending aorta",
+   "E": "Descending aorta"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "The umbilical arteries carry the most deoxygenated blood (SpO2 about 50-60%) from the fetus back to the placenta, whereas the umbilical vein carries the most oxygenated blood.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00864"
+  ],
+  "stem": "In normal placental blood flow, the invading trophoblast creates a zone of:",
+  "options": {
+   "A": "Low flow and low resistance",
+   "B": "Low flow and high resistance",
+   "C": "High flow and high resistance",
+   "D": "High flow and low resistance",
+   "E": "Absent flow and high resistance"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Trophoblast invasion converts the spiral arteries into wide, low-resistance, high-flow vessels. Failure of this conversion underlies pre-eclampsia and fetal growth restriction.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02585"
+  ],
+  "stem": "Which of the following methods is the simplest, safest and most precise for placental localisation?",
+  "options": {
+   "A": "Auscultation",
+   "B": "Abdominal palpation",
+   "C": "Ultrasonography",
+   "D": "Radioisotope study",
+   "E": "Soft tissue radiography"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Ultrasound is non-invasive, involves no radiation and accurately localises the placenta.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03164"
+  ],
+  "stem": "Which one is NOT correct regarding amniotic fluid?",
+  "options": {
+   "A": "It protects the fetus from mechanical injury",
+   "B": "It prevents limb contracture by allowing fetal movement",
+   "C": "It prevents adhesions between the fetus and amnion",
+   "D": "It permits fetal lung development",
+   "E": "There is a rapid increase in volume after 40 weeks of gestation"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Liquor volume peaks at about 34-36 weeks and then falls, with a more rapid decline after 40 weeks; it does not rapidly increase.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03083"
+  ],
+  "stem": "What is the normal range of the deepest vertical pool (DVP) when assessing amniotic fluid volume?",
+  "options": {
+   "A": "1-7 cm",
+   "B": "2-8 cm",
+   "C": "3-9 cm",
+   "D": "4-10 cm",
+   "E": "5-11 cm"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "A DVP of 2-8 cm is normal; below 2 cm is oligohydramnios and above 8 cm is polyhydramnios.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03007"
+  ],
+  "stem": "Amniotic fluid volume is decreased in fetal growth restriction as a consequence of redistribution of fetal blood flow:",
+  "options": {
+   "A": "From the brain to the kidneys and heart",
+   "B": "From the heart to the skeletal system",
+   "C": "From the kidneys to the brain and heart",
+   "D": "From the kidneys to the lungs",
+   "E": "From the kidneys to the lower limbs"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "In hypoxia the fetus preserves flow to brain, heart and adrenals (brain sparing) at the expense of the kidneys, so urine output and liquor fall.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02653",
+   "C00966"
+  ],
+  "stem": "A 35-year-old G5P3A1 at 32 weeks, hypertensive in the present pregnancy and on antihypertensives, has a symphysio-fundal height less than gestational age. Ultrasound biometry shows a smaller than gestational age fetus. A small for gestational age fetus is defined as having fetal parameters (estimated fetal weight) below which centile?",
+  "options": {
+   "A": "10th centile",
+   "B": "20th centile",
+   "C": "30th centile",
+   "D": "40th centile",
+   "E": "5th centile"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "SGA is defined as estimated fetal weight or abdominal circumference below the 10th centile (RCOG); severe SGA is below the 3rd centile.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02455"
+  ],
+  "stem": "A 30-year-old woman at 32 weeks has a fundal height of 28 cm. Ultrasound confirms an estimated fetal weight below the 10th centile. What is the most likely diagnosis?",
+  "options": {
+   "A": "Intrauterine growth restriction",
+   "B": "Macrosomia",
+   "C": "Multiple pregnancy",
+   "D": "Placenta praevia",
+   "E": "Polyhydramnios"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Small fundal height with an estimated fetal weight below the 10th centile indicates growth restriction.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02502"
+  ],
+  "stem": "A 32-week fetus has an estimated fetal weight below the expected range and abnormal umbilical artery Doppler. Which diagnosis is most likely?",
+  "options": {
+   "A": "Fetal growth restriction",
+   "B": "Small for gestational age",
+   "C": "Low birth weight",
+   "D": "Fetal macrosomia",
+   "E": "Appropriate for gestational age fetus"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "A small fetus with abnormal Doppler indicates placental insufficiency, that is true growth restriction rather than a constitutionally small fetus.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02732"
+  ],
+  "stem": "A G2P1 at 30 weeks has a symphysio-fundal height of 26 cm. A possible explanation for this decreased fundal height is:",
+  "options": {
+   "A": "Polyhydramnios",
+   "B": "Mistaken dates",
+   "C": "Fibroid uterus",
+   "D": "Anomalous baby",
+   "E": "Multiple pregnancy"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Mistaken dates is the commonest benign explanation for a lag in fundal height; polyhydramnios and twins increase it.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00411"
+  ],
+  "stem": "A 39-year-old G2P0A1 attends antenatal clinic at 35 weeks. Her growth scan shows asymmetrical growth restriction. This is usually associated with which of the following?",
+  "options": {
+   "A": "Polyhydramnios",
+   "B": "Chromosomal anomaly",
+   "C": "Oligohydramnios",
+   "D": "TORCH infections",
+   "E": "Fetal neural tube defects"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Asymmetrical FGR reflects uteroplacental insufficiency with brain sparing and reduced renal perfusion, so oligohydramnios is usual. Chromosomal anomalies, TORCH infections and structural defects cause symmetrical restriction.",
+  "key_note": "One paper key marked Chromosomal anomaly; the correct answer is oligohydramnios.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01031",
+   "C00597"
+  ],
+  "stem": "Which of the following is the commonest cause of symmetrical fetal growth restriction?",
+  "options": {
+   "A": "Chromosomal disorders",
+   "B": "Fetal infections",
+   "C": "Malnutrition",
+   "D": "Fetal renal agenesis",
+   "E": "Maternal smoking"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Intrinsic fetal causes, mainly chromosomal abnormalities, produce early-onset symmetrical growth restriction, the typical exam answer.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00976"
+  ],
+  "stem": "A 36-year-old primigravida at 24 weeks presents for booking. A scan from a local doctor shows BPD, HC and FL of 18 weeks, with markedly reduced liquor. BMI is 24 kg/m2 and BP 100/70 mmHg. What is the most likely cause?",
+  "options": {
+   "A": "Fetal anomalies",
+   "B": "Fetal neuromuscular condition",
+   "C": "Chromosomal abnormalities",
+   "D": "Uteroplacental insufficiency",
+   "E": "Maternal undernutrition"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Severe, early, symmetrical restriction in a normotensive, well-nourished woman suggests a fetal cause such as a chromosomal abnormality (for example triploidy), which can also have oligohydramnios.",
+  "key_note": "Option A was garbled in the source and has been read as fetal anomalies.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02963"
+  ],
+  "stem": "A 28-year-old non-booked primigravida presents at 34 weeks with an ultrasound showing fetal parameters below the 5th centile. Which of the following maternal infections can cause this type of severe symmetrical growth restriction?",
+  "options": {
+   "A": "Herpes simplex",
+   "B": "Rubella",
+   "C": "Varicella zoster",
+   "D": "Measles",
+   "E": "Parvovirus"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Congenital rubella (like CMV and toxoplasmosis) causes early symmetrical growth restriction; of the options listed rubella is the classic cause.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02668"
+  ],
+  "stem": "A G6P5 presents at 35 weeks, gestation confirmed by a scan at 10 weeks, and fetal growth parameters correspond to 31 weeks. Which maternal medical condition can lead to this?",
+  "options": {
+   "A": "Gestational diabetes",
+   "B": "Grand multiparity",
+   "C": "Chronic kidney disease",
+   "D": "Anaemia",
+   "E": "Obstetric cholestasis"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Chronic kidney disease causes placental insufficiency and fetal growth restriction. Gestational diabetes causes macrosomia, and cholestasis is associated mainly with stillbirth and prematurity.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01032"
+  ],
+  "stem": "Which of the following is NOT a risk factor for developing fetal growth restriction?",
+  "options": {
+   "A": "Chronic maternal disease",
+   "B": "Maternal smoking, alcohol and drug use",
+   "C": "Fetuses with chromosomal defects",
+   "D": "Chronic hypertension",
+   "E": "Uncontrolled GDM"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Uncontrolled gestational diabetes is associated with macrosomia rather than growth restriction. The other options are established FGR risk factors.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02402"
+  ],
+  "stem": "Severe intrauterine growth restriction is always associated with:",
+  "options": {
+   "A": "Iron deficiency anaemia",
+   "B": "Chronic hypertension",
+   "C": "Raised serum uric acid",
+   "D": "Megaloblastic anaemia",
+   "E": "Gestational diabetes mellitus"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Of the options, chronic hypertension (placental vascular disease) is the strongest association with severe FGR, though no maternal condition is truly always present.",
+  "key_note": "Question wording is loose; paper key (chronic hypertension) is the best available answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03006"
+  ],
+  "stem": "A 28-year-old primigravida has a small for dates fetus on a growth scan at 32 weeks. Which of the following is NOT a complication of intrauterine growth restriction?",
+  "options": {
+   "A": "Fetal distress in labour",
+   "B": "Intrauterine death",
+   "C": "Meconium aspiration",
+   "D": "Neonatal hypoglycaemia",
+   "E": "Post maturity"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "FGR carries risks of fetal distress, stillbirth, meconium aspiration, hypoglycaemia and hypothermia; post-maturity is not a consequence.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02698"
+  ],
+  "stem": "A G3P2 at 32 weeks has an ultrasound showing an intrauterine growth restricted baby. Which of the following factors is responsible for intrauterine growth restriction?",
+  "options": {
+   "A": "Reduced placental blood flow",
+   "B": "Decreased vascular resistance",
+   "C": "Decreased liquor",
+   "D": "Frequent obstetric ultrasounds",
+   "E": "Reduced cerebral perfusion of the fetus"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "The commonest mechanism of FGR is reduced uteroplacental blood flow with consequent reduced nutrient and oxygen transfer.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01979",
+   "C02779"
+  ],
+  "stem": "A 35-year-old G2P1 at booking delivered her first baby at 38 weeks weighing 1.8 kg. Which of the following therapies has demonstrable benefit in preventing recurrent IUGR?",
+  "options": {
+   "A": "Low molecular weight heparin alone",
+   "B": "Aspirin alone",
+   "C": "Antioxidant therapy",
+   "D": "Low molecular weight heparin plus aspirin",
+   "E": "Nitric oxide donors"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Low-dose aspirin started before 16 weeks reduces the risk of placenta-mediated FGR. Heparin, antioxidants and nitric oxide donors have not shown consistent benefit.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00412",
+   "C00846",
+   "C01115",
+   "C01893",
+   "C02395"
+  ],
+  "stem": "A 35-year-old known chronic hypertensive, G2P1, presents at 36 weeks with an ultrasound report showing intrauterine growth restriction. Which of the following is the most sensitive ultrasound parameter indicative of fetal growth restriction?",
+  "options": {
+   "A": "Biparietal diameter",
+   "B": "Head circumference",
+   "C": "Placental maturity",
+   "D": "Femur length",
+   "E": "Abdominal circumference"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Abdominal circumference (liver glycogen and subcutaneous fat) is the most sensitive single biometric parameter for FGR. Head circumference and femur length are spared until late (brain sparing).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00507"
+  ],
+  "stem": "A G3P2 at 34 weeks has a fundal height of 36 cm. Ultrasound shows fetal abdominal circumference has risen to the 95th centile from a scan 4 weeks earlier while head circumference has remained at the 50th centile. What is the most likely explanation?",
+  "options": {
+   "A": "Polyhydramnios",
+   "B": "Normal growth pattern",
+   "C": "Gestational diabetes",
+   "D": "Hydrocephalus",
+   "E": "Microcephaly"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Disproportionate abdominal growth with a normal head size suggests fetal hyperinsulinism from maternal diabetes (asymmetrical macrosomia).",
+  "key_note": "One paper marked Microcephaly; correct is gestational diabetes since the head is normal and the abdomen is large.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01701",
+   "C02276",
+   "C02888",
+   "C00595",
+   "C02952",
+   "C01436"
+  ],
+  "stem": "A G2P1 has been diagnosed with IUGR. On ultrasound the liquor is reduced. Which is the next investigation you will request?",
+  "options": {
+   "A": "Uterine artery Doppler",
+   "B": "Umbilical artery Doppler",
+   "C": "Umbilical vein Doppler",
+   "D": "Venous artery Doppler",
+   "E": "Uterine vein Doppler"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Once FGR is diagnosed, umbilical artery Doppler is the primary tool for surveillance and timing of delivery. Uterine artery Doppler is a screening test, not for monitoring established FGR.",
+  "key_note": "Paper key marked A (Uterine artery Doppler); correct is B, umbilical artery Doppler. Options not available in one source; recall question.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01798",
+   "C02869"
+  ],
+  "stem": "A primigravida, a heavy smoker, is at 34 weeks. Her dates correspond to the dating scan but her symphysio-fundal height is 28 cm. What is the most appropriate investigation?",
+  "options": {
+   "A": "AFI and umbilical artery Doppler",
+   "B": "CTG and biophysical profile",
+   "C": "CTG and ultrasound for AFI",
+   "D": "Fetal biometry and liquor volume",
+   "E": "Scan for abdominal circumference"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A small-for-dates uterus requires ultrasound biometry (estimated weight, abdominal circumference) with liquor volume to confirm or exclude FGR.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02503"
+  ],
+  "stem": "A fetus with severe growth restriction develops absent end-diastolic flow in the umbilical artery. What does this finding indicate?",
+  "options": {
+   "A": "Decreased fetal cardiac output",
+   "B": "Increased placental vascular resistance",
+   "C": "Reduced fetal peripheral vascular resistance",
+   "D": "Increased resistance in fetal cerebral circulation",
+   "E": "Normal placental circulation"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Absent end-diastolic flow reflects obliteration of placental villous vessels and very high placental resistance. Cerebral resistance falls in brain sparing.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02806"
+  ],
+  "stem": "A 30-year-old primigravida at 32 weeks is diagnosed with IUGR (estimated fetal weight below the 5th centile). Doppler shows absent end-diastolic flow in the umbilical artery, AFI is 4 cm and the non-stress test is reactive. What is the most appropriate management at this stage?",
+  "options": {
+   "A": "Continue pregnancy with weekly surveillance until 37 weeks",
+   "B": "Admit, daily cardiotocography, plan delivery if deterioration occurs",
+   "C": "Immediate induction of labour regardless of fetal status",
+   "D": "Administer corticosteroids and caesarean delivery",
+   "E": "Emergency LSCS due to high risk of intrauterine death"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "With AEDF at 32 weeks and a reassuring CTG, admit with close monitoring (CTG, ductus venosus Doppler) and steroids, aiming to prolong the pregnancy and deliver on deterioration.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01756"
+  ],
+  "stem": "Which of the following maternal factors is associated with macrosomia?",
+  "options": {
+   "A": "Collagen vascular disease",
+   "B": "Hyperthyroidism",
+   "C": "Multiparity",
+   "D": "Hypertension",
+   "E": "SLE"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Macrosomia is associated with diabetes, obesity, multiparity, post-maturity and previous macrosomic baby; the other options are associated with growth restriction.",
+  "key_note": "Paper key marked B (Hyperthyroidism); correct is C, multiparity.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02458"
+  ],
+  "stem": "A 34-year-old diabetic mother has an ultrasound showing an estimated fetal weight above the 95th centile. What is the most likely diagnosis?",
+  "options": {
+   "A": "Fetal hydrops",
+   "B": "Growth restriction",
+   "C": "Macrosomia",
+   "D": "Polyhydramnios",
+   "E": "Twin pregnancy"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "An estimated fetal weight above the 95th centile defines a large baby; macrosomia is expected in maternal diabetes.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03045"
+  ],
+  "stem": "A 24-year-old G2P1 at 32 weeks has BP 140/90 mmHg on oral labetalol and 1+ proteinuria. Fundal height is 28 cm, fetus longitudinal and cephalic with cardiac activity. Ultrasound shows IUGR with normal umbilical artery Doppler. How will you follow her up with ultrasound?",
+  "options": {
+   "A": "Fortnightly umbilical artery Doppler with growth scan",
+   "B": "Fortnightly growth scan and weekly umbilical artery Doppler",
+   "C": "Weekly umbilical artery Doppler",
+   "D": "Weekly umbilical artery and ductus venosus Doppler and growth scan",
+   "E": "Weekly growth scan and twice weekly umbilical artery Doppler"
+  },
+  "answer": "A",
+  "explanation": "With a normal umbilical artery Doppler, RCOG advises serial growth scans and umbilical artery Doppler at about 2-weekly intervals; weekly or more frequent Doppler is for abnormal flow.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00561"
+  ],
+  "stem": "A 26-year-old primigravida at 37 weeks has a normal prenatal course except for fetal growth restriction. She delivers vaginally a female infant weighing 1950 g. The infant is at risk of which complication?",
+  "options": {
+   "A": "Hyperglycaemia",
+   "B": "Fever",
+   "C": "Hyperthermia",
+   "D": "Anaemia",
+   "E": "Hypoxia"
+  },
+  "answer": "E",
+  "explanation": "Growth restricted infants are prone to perinatal hypoxia/asphyxia, hypoglycaemia, hypothermia and polycythaemia (not the opposites listed).",
+  "key_note": "",
+  "figure": ""
+ }
+]

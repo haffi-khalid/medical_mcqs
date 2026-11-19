@@ -1,0 +1,545 @@
+[
+ {
+  "cids": [
+   "C00893"
+  ],
+  "stem": "Preterm labour is defined as labour occurring between:",
+  "options": {
+   "A": "20-36 weeks",
+   "B": "20-37 weeks",
+   "C": "22-37 weeks",
+   "D": "24-38 weeks",
+   "E": "24-37 weeks and six days"
+  },
+  "answer": "E",
+  "explanation": "Preterm labour is labour before 37 completed weeks, counted from the age of viability (24 weeks in the UK teaching of Ten Teachers).",
+  "key_note": "Keyed E in the papers; strictly the upper limit is 36+6 weeks (before 37 weeks), so option E is loosely worded, but it is the intended answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00891",
+   "C01571"
+  ],
+  "stem": "The most important risk factor for preterm delivery is:",
+  "options": {
+   "A": "Congenital fetal anomalies",
+   "B": "History of previous preterm delivery",
+   "C": "Multiple gestation",
+   "D": "Polyhydramnios",
+   "E": "PROM"
+  },
+  "answer": "B",
+  "explanation": "A previous spontaneous preterm birth is the strongest single predictor of recurrence (risk 15-40%, rising with number and earliness of earlier events).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01041",
+   "C00892",
+   "C02228",
+   "C01991",
+   "C01585"
+  ],
+  "stem": "Which of the following infections is the most important cause of preterm labour?",
+  "options": {
+   "A": "Bacterial vaginosis",
+   "B": "Rubella",
+   "C": "CMV",
+   "D": "Toxoplasmosis",
+   "E": "Herpes simplex"
+  },
+  "answer": "A",
+  "explanation": "Bacterial vaginosis (altered vaginal flora with ascending infection and inflammatory prostaglandin release) is strongly linked to preterm labour; the TORCH infections cause congenital anomalies rather than preterm labour.",
+  "key_note": "Only one paper, which keyed B (Bacterial vaginosis); PROM is also a common precipitant, but B is the keyed answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01520"
+  ],
+  "stem": "Bacterial vaginosis in pregnancy has been associated with which of the following complications?",
+  "options": {
+   "A": "Intrauterine growth restriction",
+   "B": "Ocular infection in the neonate",
+   "C": "Preterm premature rupture of membranes",
+   "D": "Neonatal jaundice",
+   "E": "Post-term labour"
+  },
+  "answer": "C",
+  "explanation": "Bacterial vaginosis is associated with PPROM, preterm labour, chorioamnionitis and late miscarriage. Neonatal ophthalmia is due to gonococcus or chlamydia.",
+  "key_note": "One paper's version also listed 'preterm labour and chorioamnionitis' as an option and keyed PPROM; both are recognised associations, PPROM is the keyed answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01707"
+  ],
+  "stem": "Mrs J, 35 years old G2P1, had an instrumental delivery for a prolonged second stage in her last pregnancy and now presents with preterm labour. The most probable cause of the preterm labour in her case is:",
+  "options": {
+   "A": "Uterine trauma",
+   "B": "Cervical trauma",
+   "C": "Vaginal trauma",
+   "D": "Perineal trauma",
+   "E": "Round ligament trauma"
+  },
+  "answer": "B",
+  "explanation": "Previous cervical trauma (difficult instrumental delivery, conisation, forceful dilatation) causes cervical weakness and predisposes to preterm delivery.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00992"
+  ],
+  "stem": "A 38-year-old G5P4+0 at 26 weeks has painless cervical dilatation and loses the pregnancy. She had knife cone biopsy for stage I cervical cancer 4 years ago. What is the most likely cause of her preterm delivery?",
+  "options": {
+   "A": "Cervical incompetence",
+   "B": "Multiparity",
+   "C": "Cervical infection",
+   "D": "Maternal age",
+   "E": "Gestational age"
+  },
+  "answer": "A",
+  "explanation": "Painless cervical dilatation in the second trimester after cone biopsy is classic cervical insufficiency from loss of cervical tissue.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00425"
+  ],
+  "stem": "A 29-year-old woman in her third pregnancy attends antenatal clinic at 18 weeks. She has had two previous painless mid-trimester miscarriages. What is the most likely diagnosis?",
+  "options": {
+   "A": "Bicornuate uterus",
+   "B": "Chromosomal abnormality",
+   "C": "Cervical incompetence",
+   "D": "Progesterone deficiency",
+   "E": "Vaginal infections"
+  },
+  "answer": "C",
+  "explanation": "Recurrent painless second-trimester loss is the hallmark of cervical incompetence; chromosomal and endocrine causes act earlier and usually with bleeding or pain.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01088",
+   "C01616"
+  ],
+  "stem": "A 24-year-old P2 at 30 weeks has intermittent abdominal pain since last night. There are 2 contractions of 30 seconds in 10 minutes, speculum shows thick mucoid discharge and the cervix is 2 cm dilated. You admit her to the labour ward because the cause of her pain is:",
+  "options": {
+   "A": "Threatened preterm labour",
+   "B": "Cholecystitis",
+   "C": "Renal colic",
+   "D": "Ruptured ovarian cyst",
+   "E": "Ectopic pregnancy"
+  },
+  "answer": "A",
+  "explanation": "Regular contractions with cervical dilatation and a mucoid show before 37 weeks indicate threatened or established preterm labour.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00850"
+  ],
+  "stem": "An 18-year-old primigravida attends the emergency department at 35 weeks with abdominal pain and 2 contractions in 10 minutes. Which feature, if present, is required to diagnose preterm labour in this patient?",
+  "options": {
+   "A": "Whitish vaginal discharge",
+   "B": "Lower abdominal pressure",
+   "C": "Constant low backache",
+   "D": "Cervical dilatation",
+   "E": "Abdominal cramps"
+  },
+  "answer": "D",
+  "explanation": "Preterm labour needs regular contractions with progressive cervical change (dilatation or effacement); symptoms alone, such as pressure, backache or cramps, are non-specific.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00648"
+  ],
+  "stem": "A 27-year-old G2P1 at 30+6 weeks has lower abdominal cramping and backache for 4 hours, with irregular contractions, a closed cervix on speculum examination and a normal CTG. You suspect threatened preterm labour. Which investigation is most helpful in assessing her risk of imminent preterm birth?",
+  "options": {
+   "A": "High vaginal swab for group B Streptococcus",
+   "B": "Cardiotocography (non-stress test)",
+   "C": "C-reactive protein and white cell count",
+   "D": "Transvaginal ultrasound for cervical length",
+   "E": "Midstream urine culture"
+  },
+  "answer": "D",
+  "explanation": "Transvaginal cervical length (or fetal fibronectin) is the best predictor of delivery within days; a long cervix (more than 30 mm) is strongly reassuring.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01706"
+  ],
+  "stem": "Mrs KJ, a primigravida at 30 weeks, fears preterm delivery as her sister delivered preterm. You request a cervical length on ultrasound. Which report shows she is at risk of preterm delivery?",
+  "options": {
+   "A": "3.8 cm",
+   "B": "2.0 cm",
+   "C": "2.8 cm",
+   "D": "3.5 cm",
+   "E": "3.0 cm"
+  },
+  "answer": "B",
+  "explanation": "A cervical length of 2.5 cm or less (below the 10th centile) is a short cervix and carries a markedly raised risk of spontaneous preterm birth.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00417",
+   "C02082"
+  ],
+  "stem": "A primigravida at 34 weeks presents with lower abdominal pain and you suspect preterm labour. Which investigation is used to help confirm preterm labour?",
+  "options": {
+   "A": "Fetal blood sampling",
+   "B": "Fetal fibronectin",
+   "C": "High vaginal swab",
+   "D": "Cervical swab",
+   "E": "Nitrazine test"
+  },
+  "answer": "B",
+  "explanation": "Fetal fibronectin in cervicovaginal secretions (a test mainly useful for its high negative predictive value between 24 and 34 weeks) helps confirm or exclude preterm labour; nitrazine detects liquor in PROM.",
+  "key_note": "One paper marked B; the other copy was unmarked.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00520"
+  ],
+  "stem": "A 30-year-old primigravida attends the ER at 33 weeks with lower abdominal pain for 12 hours, normal fetal movements and mild uterine contractions. She has a POSITIVE fetal fibronectin test. What should be the management?",
+  "options": {
+   "A": "Send her home and reassure",
+   "B": "Admit and start tocolysis",
+   "C": "Admit and start corticosteroids",
+   "D": "Antibiotics",
+   "E": "Admit and start tocolysis with corticosteroids"
+  },
+  "answer": "E",
+  "explanation": "A positive fetal fibronectin with symptoms and contractions at 33 weeks means a raised risk of delivery: admit, give antenatal steroids for lung maturity and tocolysis to gain time for the steroids to act.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00520#S2"
+  ],
+  "stem": "A 30-year-old primigravida attends the ER at 33 weeks with lower abdominal pain for 12 hours, normal fetal movements and mild uterine contractions. She has a NEGATIVE fetal fibronectin test. What should be the management?",
+  "options": {
+   "A": "Send her home and reassure",
+   "B": "Admit and start tocolysis",
+   "C": "Admit and start corticosteroids",
+   "D": "Antibiotics",
+   "E": "Admit and start tocolysis with corticosteroids"
+  },
+  "answer": "A",
+  "explanation": "A negative fetal fibronectin has a negative predictive value above 95% for delivery within 7 days, so she can be reassured and sent home.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03046"
+  ],
+  "stem": "A 34-year-old G4P3 with two preterm births presents for booking at 14 weeks. Her BMI is 34 kg/m2. Which investigation will you request to assess her cervical length?",
+  "options": {
+   "A": "CT pelvis",
+   "B": "MRI pelvis",
+   "C": "Sonohysterography",
+   "D": "Transabdominal ultrasound",
+   "E": "Transvaginal ultrasound"
+  },
+  "answer": "E",
+  "explanation": "Transvaginal ultrasound measures cervical length most accurately, especially in obese women where the transabdominal view is poor.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02962"
+  ],
+  "stem": "Which of the following is most appropriate in managing a patient with a history of spontaneous preterm birth?",
+  "options": {
+   "A": "Serial cervical length assessment from 16 weeks",
+   "B": "Progesterone support",
+   "C": "Dexamethasone cover",
+   "D": "Cervical cerclage",
+   "E": "Serial urine routine examination and transvaginal scan"
+  },
+  "answer": "A",
+  "explanation": "With a history of spontaneous preterm birth, cervical length surveillance from 16 weeks identifies a short cervix, so that progesterone or cerclage is offered only where indicated.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00467"
+  ],
+  "stem": "A 33-year-old G5P2A2 at 14 weeks has had two spontaneous first-trimester miscarriages and two preterm deliveries at 31 and 34 weeks, with no living child. She is worried about the outcome of this pregnancy. What is the best management?",
+  "options": {
+   "A": "Serial ultrasound assessment of cervical length",
+   "B": "Cervical cerclage",
+   "C": "Prophylactic antibiotics",
+   "D": "Progesterone support throughout pregnancy",
+   "E": "Cervical cap"
+  },
+  "answer": "B",
+  "explanation": "History-indicated (elective) cervical cerclage is placed at 12-14 weeks for women with a history of recurrent preterm births or second-trimester losses from cervical weakness.",
+  "key_note": "Variants differed on option E (cervical cap or abdominal cerclage); all marked cerclage.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01989",
+   "C01642"
+  ],
+  "stem": "A 27-year-old G5P2+2 with no living child is referred at 10 weeks. She had two preterm deliveries at 26 weeks and two losses at 20 and 21 weeks, each preceded by mild labour pains lasting up to an hour. Which line of management started at 13-16 weeks will benefit her?",
+  "options": {
+   "A": "Amnioinfusion",
+   "B": "Cervical cerclage",
+   "C": "Tab nifedipine",
+   "D": "Tab Loprin",
+   "E": "Tab salbutamol"
+  },
+  "answer": "B",
+  "explanation": "Recurrent painless-onset second-trimester losses and early preterm births justify history-indicated cervical cerclage at 12-16 weeks.",
+  "key_note": "Paper key marked B (twin pregnancy); correct is C, as twins alone are not an indication for cerclage.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00954"
+  ],
+  "stem": "A 3rd gravida with one previous miscarriage at 3 months and one normal term delivery attends at 24 weeks with low backache and mild contractions. Ultrasound shows cervical length 2.5 cm and a closed os. What is the best option?",
+  "options": {
+   "A": "Cervical cerclage",
+   "B": "Tocolysis",
+   "C": "Analgesics",
+   "D": "Progesterone plus cervical cerclage",
+   "E": "Progesterone"
+  },
+  "answer": "E",
+  "explanation": "A short cervix (about 25 mm or less) with a closed os and no history of preterm birth is treated with vaginal progesterone; cerclage is reserved for previous second-trimester loss or preterm birth with a short cervix.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01578"
+  ],
+  "stem": "A 28-year-old G2P1+0 attends at 28 weeks worried because her last pregnancy ended in preterm delivery at 32 weeks. Which of the following has a proven benefit in preventing preterm labour?",
+  "options": {
+   "A": "Hospitalisation for bed rest",
+   "B": "Calcium channel blockers",
+   "C": "Treatment of asymptomatic bacteriuria",
+   "D": "Cervical cerclage",
+   "E": "Antibiotic prophylaxis in intact membranes"
+  },
+  "answer": "C",
+  "explanation": "Screening and treating asymptomatic bacteriuria reduces pyelonephritis and preterm birth; bed rest, maintenance tocolysis and routine antibiotics with intact membranes are of no proven benefit.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02621",
+   "C02744",
+   "C02293",
+   "C02901",
+   "C03017"
+  ],
+  "stem": "A 29-year-old woman at 31 weeks of gestation presents with painful contractions and cervical dilatation of 3 cm. What is the most important next step in management?",
+  "options": {
+   "A": "Administer corticosteroids",
+   "B": "Start oxytocin",
+   "C": "Perform caesarean section",
+   "D": "Reassure and discharge",
+   "E": "Schedule induction of labour"
+  },
+  "answer": "A",
+  "explanation": "In established preterm labour before 34 weeks, antenatal corticosteroids are the priority; oxytocin would worsen the situation and caesarean is not indicated by prematurity alone.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02808",
+   "C02961"
+  ],
+  "stem": "A 27-year-old primigravida at 31 weeks has regular contractions every 8 minutes for 3 hours, each lasting 30-40 seconds. The cervix is 2 cm dilated with intact membranes and the CTG is reactive. What is the most appropriate next step?",
+  "options": {
+   "A": "Administer corticosteroids and start tocolysis",
+   "B": "Immediate delivery by caesarean section",
+   "C": "Expectant management without intervention",
+   "D": "Administer corticosteroids only, no tocolysis required",
+   "E": "Give antibiotics and expedite delivery"
+  },
+  "answer": "A",
+  "explanation": "Steroids for lung maturity plus short-term tocolysis (nifedipine) to allow time for steroid effect and transfer is standard for threatened preterm labour at 31 weeks with intact membranes.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00649"
+  ],
+  "stem": "A 30-year-old primigravida at 31 weeks presents with painful regular contractions. The cervix is 2 cm dilated and 80% effaced, the CTG is reactive, and there is no chorioamnionitis or abruption. She has not yet received antenatal corticosteroids. What is the most appropriate next step?",
+  "options": {
+   "A": "Give corticosteroids for fetal lung maturity",
+   "B": "Give calcium channel blocker for tocolysis",
+   "C": "Perform emergency caesarean section",
+   "D": "Prescribe prophylactic antibiotics",
+   "E": "Perform amniocentesis to assess fetal lung maturity"
+  },
+  "answer": "B",
+  "explanation": "With no contraindication to tocolysis, nifedipine is given to delay delivery by 24-48 hours so that steroids can take effect.",
+  "key_note": "Flawed question: steroids (A) are equally essential and one paper circled A; the printed key is B (tocolysis), which is kept.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00560"
+  ],
+  "stem": "A 28-year-old primigravida at 33 weeks has regular contractions with the cervix 2 cm dilated and 50% effaced. Along with tocolysis you advise betamethasone. Which statement is true regarding its use?",
+  "options": {
+   "A": "Enhances the effect of the tocolytic agent",
+   "B": "Decreases the chance of intra-amniotic infection",
+   "C": "Promotes fetal lung maturity",
+   "D": "Decreases the risk of fetal GBS infection",
+   "E": "Promotes fetal brain development"
+  },
+  "answer": "C",
+  "explanation": "Betamethasone accelerates fetal type II pneumocyte maturation and surfactant production, reducing respiratory distress syndrome.",
+  "key_note": "One paper key marked E (fetal brain development); correct is C, lung maturity, as the principal purpose of antenatal steroids.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00603",
+   "C00640",
+   "C01990"
+  ],
+  "stem": "A 30-year-old primigravida at 33 weeks has lower abdominal pain for 12 hours, normal fetal movements and mild contractions. You diagnose preterm labour and decide to start tocolysis. Which is the drug of choice?",
+  "options": {
+   "A": "Atosiban",
+   "B": "Magnesium sulphate",
+   "C": "Calcium channel blocker",
+   "D": "Prostaglandin inhibitors",
+   "E": "Beta agonists"
+  },
+  "answer": "C",
+  "explanation": "Nifedipine is first-line tocolytic: as effective as other agents, oral, with fewer maternal side effects than beta agonists. Atosiban is an alternative.",
+  "key_note": "One paper keyed D (atosiban); most keyed C, nifedipine, which is kept.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01174"
+  ],
+  "stem": "Which of the following tocolytic drugs is the best regarding efficacy and side effects?",
+  "options": {
+   "A": "Atosiban",
+   "B": "Beta-sympathomimetics",
+   "C": "Calcium channel blockers",
+   "D": "Magnesium sulphate",
+   "E": "Nitric oxide donors"
+  },
+  "answer": "A",
+  "explanation": "Atosiban (oxytocin receptor antagonist) has efficacy similar to nifedipine and the fewest maternal side effects.",
+  "key_note": "One paper circled calcium channel blockers; the key is atosiban for the best side-effect profile, although nifedipine is the usual first-line agent.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01657",
+   "C02735"
+  ],
+  "stem": "Among tocolytics nifedipine is the drug of choice. Its main side effect is:",
+  "options": {
+   "A": "Postural hypotension",
+   "B": "Headache",
+   "C": "Vomiting",
+   "D": "Reflex hypertension",
+   "E": "Diarrhoea"
+  },
+  "answer": "B",
+  "explanation": "Vasodilatation from nifedipine causes headache and flushing most commonly; hypotension can occur but is less frequent.",
+  "key_note": "Two papers disagreed (headache vs hypotension); headache is the most common side effect of nifedipine and was listed as an option, so B is kept. Where headache is not offered, hypotension is the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00879"
+  ],
+  "stem": "An anxious second gravida with enlarged thyroid, previous preterm delivery and mild sore throat is in labour at 32 weeks. Labour is suppressed with the beta-sympathomimetic ritodrine. The CTG shows FHR 165 bpm with normal beat-to-beat variability. The most probable cause of the fetal tachycardia is:",
+  "options": {
+   "A": "Anxiety",
+   "B": "Beta-sympathomimetic drug",
+   "C": "Prematurity",
+   "D": "Acute pharyngitis",
+   "E": "Hyperthyroidism"
+  },
+  "answer": "B",
+  "explanation": "Ritodrine crosses the placenta and causes fetal tachycardia (and maternal tachycardia); normal variability argues against fetal hypoxia or infection.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00952"
+  ],
+  "stem": "A 35-year-old primigravida at 30 weeks reports to a hospital with no neonatal care facilities. She has regular contractions 2 in 10 minutes, normal BP, FHR 140/min and the os 2 cm dilated. What is the best option?",
+  "options": {
+   "A": "Antibiotics",
+   "B": "After a dose of tocolytic and 12 mg betamethasone, transfer to a tertiary care hospital",
+   "C": "Steroid cover",
+   "D": "Immediate referral to a tertiary care hospital",
+   "E": "Tocolysis"
+  },
+  "answer": "B",
+  "explanation": "In-utero transfer is safest; give the first steroid dose and tocolysis to delay delivery during transfer to a centre with NICU facilities.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01790"
+  ],
+  "stem": "A 28-year-old G2P1 with one previous scar presents in labour at 34 weeks. The cervix is 5 cm dilated, fully effaced, with a footling breech and bulging membranes. What is the most appropriate immediate management?",
+  "options": {
+   "A": "Allow labour to progress",
+   "B": "External cephalic version",
+   "C": "Emergency caesarean section",
+   "D": "Internal podalic version",
+   "E": "Start tocolysis and steroids"
+  },
+  "answer": "C",
+  "explanation": "Preterm footling breech with advanced labour and a uterine scar carries a high risk of cord prolapse and head entrapment, so emergency caesarean is indicated; labour is too advanced to suppress.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00600"
+  ],
+  "stem": "A 30-year-old primigravida with a twin pregnancy at 28 weeks has irregular contractions, back pain and very light vaginal bleeding this morning. She is afebrile with normal vitals and a non-tender abdomen. What is the most appropriate first step in evaluating the vaginal bleeding?",
+  "options": {
+   "A": "Vaginal examination to determine cervical dilatation",
+   "B": "Ultrasound to check placental location",
+   "C": "Urine culture to check for urinary tract infection",
+   "D": "Labs to evaluate for disseminated intravascular coagulopathy",
+   "E": "Speculum examination to assess amount of vaginal bleeding"
+  },
+  "answer": "B",
+  "explanation": "Antepartum bleeding at 28 weeks needs placenta praevia excluded by ultrasound before any digital vaginal examination.",
+  "key_note": "",
+  "figure": ""
+ }
+]

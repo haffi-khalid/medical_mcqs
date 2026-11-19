@@ -1,0 +1,718 @@
+[
+ {
+  "cids": [
+   "C02251"
+  ],
+  "stem": "A 32-year-old woman is concerned about developing ovarian cancer. She has no family history. You inform her that the lifetime risk of developing ovarian cancer in the general population is:",
+  "options": {
+   "A": "1.2%",
+   "B": "2%",
+   "C": "5%",
+   "D": "7%",
+   "E": "10%"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "The lifetime risk of ovarian cancer in the general female population is about 1.3% (roughly 1 in 70-80). It rises to about 1 in 5 or more with a strong family history or BRCA mutation.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02118",
+   "C02345"
+  ],
+  "stem": "A 65-year-old woman presents with an abdominal mass and weight loss. She is diagnosed with an ovarian tumour. What is the most common type of ovarian tumour in this age group?",
+  "options": {
+   "A": "Epithelial tumour",
+   "B": "Germ cell tumour",
+   "C": "Sex cord tumour",
+   "D": "Stromal tumour",
+   "E": "Trophoblastic tumour"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Epithelial tumours make up about 90% of ovarian malignancies and peak after the menopause. Germ cell tumours predominate in young women.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00265",
+   "C01248",
+   "C02916"
+  ],
+  "stem": "A 25-year-old woman is diagnosed on biopsy with an ovarian tumour. Which type of ovarian tumour is most common in this age group?",
+  "options": {
+   "A": "Germ cell tumour",
+   "B": "Epithelial tumour",
+   "C": "Sex cord stromal tumour",
+   "D": "Serous cystadenoma",
+   "E": "Mucinous cystadenoma"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Ovarian tumours in girls and women under about 30 years are mostly germ cell tumours (mature teratoma the commonest), whereas epithelial tumours dominate in older women.",
+  "key_note": "One compiled key listed both A and B; A is correct for this age group.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00766"
+  ],
+  "stem": "A 25-year-old woman presents in the emergency department with lower abdominal pain. Pelvic ultrasound shows a solid and cystic right ovarian mass of 10 cm with no ascites. What is the most likely histological type?",
+  "options": {
+   "A": "Serous",
+   "B": "Mucinous",
+   "C": "Brenner",
+   "D": "Teratoma",
+   "E": "Fibroma"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A solid and cystic ovarian mass in a young woman is typically a mature cystic teratoma (dermoid), the commonest ovarian tumour in this age group.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02114"
+  ],
+  "stem": "A 10-year-old girl with precocious puberty is brought to the gynaecology OPD. Examination shows a large pelvic mass. Which ovarian tumour is responsible for her symptoms?",
+  "options": {
+   "A": "Epithelial ovarian tumour",
+   "B": "Sertoli-Leydig cell tumour",
+   "C": "Granulosa cell tumour",
+   "D": "Yolk sac tumour",
+   "E": "Dysgerminoma"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Granulosa cell tumours secrete oestrogen and cause isosexual precocious pseudopuberty in girls. Sertoli-Leydig tumours are androgenic (virilisation) and the germ cell tumours are not hormonally active in this way.",
+  "key_note": "One paper bolded both C and E; C is the correct answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00070"
+  ],
+  "stem": "A 45-year-old woman had an ovarian cystectomy for a solid and cystic ovarian mass. Histopathology shows an ovarian tumour with psammoma bodies. This is characteristic of:",
+  "options": {
+   "A": "Serous tumour",
+   "B": "Mucinous tumour"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Psammoma bodies (concentric calcified deposits) are characteristic of serous ovarian tumours.",
+  "key_note": "Some options were illegible/missing in the source (cut off at the page bottom).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02346"
+  ],
+  "stem": "Regarding risk factors for ovarian carcinoma, which of the following increases the risk?",
+  "options": {
+   "A": "Salpingectomy",
+   "B": "Hysterectomy",
+   "C": "Multiparity",
+   "D": "Cigarette smoking",
+   "E": "Tubal ligation"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Smoking is associated with an increased risk (mainly mucinous type). Salpingectomy, hysterectomy, tubal ligation, multiparity, breastfeeding and the oral contraceptive pill are protective because they reduce ovulation or exposure.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00316"
+  ],
+  "stem": "A 38-year-old patient with a family history of benign ovarian cyst asks about lifestyle and ovarian cancer. Which of the following gives the maximum protective effect?",
+  "options": {
+   "A": "High fibre diet",
+   "B": "Vitamin A supplementation",
+   "C": "Oral contraceptive pills",
+   "D": "Hysterectomy",
+   "E": "Breastfeeding"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Combined oral contraceptive use reduces ovarian cancer risk by about 50% after 5 or more years of use, and the protection persists for years after stopping. This follows suppression of ovulation.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01313"
+  ],
+  "stem": "A patient attends the gynaecology OPD and reports a strong family history of ovarian malignancy. Which investigation do you advise?",
+  "options": {
+   "A": "Serum CA 125",
+   "B": "BRCA gene testing",
+   "C": "Hysterectomy",
+   "D": "MRI",
+   "E": "CT scan"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "A strong family history suggests hereditary breast-ovarian cancer syndrome (BRCA1/2) or Lynch syndrome, so genetic counselling and BRCA testing is the appropriate step. CA 125 and imaging are not reliable screening tools.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00341",
+   "C00287",
+   "C02307"
+  ],
+  "stem": "A 55-year-old woman presents with irregular vaginal bleeding and a biopsy confirms high-grade serous carcinoma of the ovary. Which genetic mutation is most strongly associated?",
+  "options": {
+   "A": "APC gene",
+   "B": "BRCA1/2 mutation",
+   "C": "KRAS mutation",
+   "D": "P16 deletion",
+   "E": "RET mutation"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "High-grade serous ovarian carcinoma is strongly linked to BRCA1/2 and p53 mutations. KRAS is more typical of low-grade serous and mucinous tumours.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02247"
+  ],
+  "stem": "A 40-year-old woman has a strong family history of ovarian carcinoma; her mother and aunt died of it. You should inform her that:",
+  "options": {
+   "A": "She is not at increased risk for ovarian cancer",
+   "B": "She should have an annual pelvic examination",
+   "C": "Prophylactic oophorectomy decreases the risk",
+   "D": "She should have an annual USG examination",
+   "E": "She should have an annual CA 125"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "In a high-risk woman who has completed her family, risk-reducing bilateral salpingo-oophorectomy markedly lowers ovarian cancer risk. Pelvic examination, ultrasound and CA 125 are not effective screening.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01499"
+  ],
+  "stem": "A 34-year-old woman tests positive for a BRCA1 mutation. She is otherwise fit and well and wants to lower her risk of ovarian cancer as much as possible. What surgery do you recommend?",
+  "options": {
+   "A": "Bilateral oophorectomy",
+   "B": "Bilateral salpingo-oophorectomy",
+   "C": "Bilateral salpingectomy with delayed oophorectomy",
+   "D": "Subtotal hysterectomy and BSO",
+   "E": "Total hysterectomy and BSO"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Risk-reducing bilateral salpingo-oophorectomy (ideally after childbearing, by about 35-40 years for BRCA1) removes the tubes, where many serous cancers originate. Hysterectomy is not required for ovarian risk reduction.",
+  "key_note": "The stem was garbled in one source (BRCA1 typo and stray text); wording restored.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01158"
+  ],
+  "stem": "Screening for epithelial ovarian cancer is quite reliable by:",
+  "options": {
+   "A": "History",
+   "B": "Examination",
+   "C": "CA 125",
+   "D": "Ultrasound of abdomen and pelvis",
+   "E": "Genetic studies"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "No screening test for ovarian cancer is truly reliable; CA 125 (alone or with ultrasound, as in the RMI) is the usual test used in high-risk women and is the keyed answer.",
+  "key_note": "Strictly no screening method is proven reliable in the general population; the paper keys (C, CA 125) are kept as the standard exam answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00736"
+  ],
+  "stem": "A 55-year-old woman presents with gradual abdominal distension and early satiety. Examination shows a mass arising from the pelvis. Which of the following is a clinical feature of a malignant ovarian tumour?",
+  "options": {
+   "A": "Soft",
+   "B": "Mobile",
+   "C": "Slow growing",
+   "D": "Hard",
+   "E": "None of the above"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Malignant ovarian masses are typically hard, irregular, fixed and often bilateral with ascites. Benign cysts are cystic, smooth and mobile.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00436"
+  ],
+  "stem": "A 60-year-old postmenopausal woman presents with early satiety, abdominal distension and weight loss. Ultrasound shows an ovarian mass of 5 x 6 cm. Which of the following is NOT a feature of ovarian malignancy?",
+  "options": {
+   "A": "Papillary growth",
+   "B": "Bilateral tumour",
+   "C": "Ascites",
+   "D": "Reduced blood flow",
+   "E": "Increased blood flow"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Malignant tumours show neovascularisation with increased, low-resistance flow on Doppler, so reduced blood flow is not a feature. Papillary projections, bilaterality and ascites all suggest malignancy.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00260"
+  ],
+  "stem": "A 70-year-old woman presents with ascites, omental caking and elevated CA 125. What is the most likely diagnosis?",
+  "options": {
+   "A": "Endometrial carcinoma",
+   "B": "Fibroid",
+   "C": "Ovarian carcinoma",
+   "D": "Uterine sarcoma",
+   "E": "Tubo-ovarian abscess"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Ascites, omental caking and a raised CA 125 in an older woman is the classic picture of advanced epithelial ovarian carcinoma with peritoneal spread.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01765",
+   "C02322",
+   "C00737"
+  ],
+  "stem": "What is the primary route of spread of ovarian cancer?",
+  "options": {
+   "A": "Lymphatic",
+   "B": "Haematogenous",
+   "C": "Peritoneal dissemination",
+   "D": "Direct extension to adjacent organs",
+   "E": "Cell exfoliation"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Epithelial ovarian cancer spreads mainly transcoelomically, by shedding of cells into the peritoneal cavity (peritoneal dissemination, with omental caking and ascites).",
+  "key_note": "The stem was missing in one source; reconstructed from the other paper.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00067",
+   "C02191"
+  ],
+  "stem": "The tumour marker for dysgerminoma is:",
+  "options": {
+   "A": "Inhibin",
+   "B": "CA 19-9",
+   "C": "Beta hCG",
+   "D": "AFP",
+   "E": "CA 125"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Dysgerminoma is associated with raised LDH and sometimes beta hCG (and PLAP). AFP indicates yolk sac tumour, inhibin granulosa cell tumour and CA 125 epithelial tumours.",
+  "key_note": "Variant stems differ (one with a 14-year-old girl); same question, same keyed answer. LDH is the other classic marker.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00149"
+  ],
+  "stem": "AFP is a tumour marker of which of the following ovarian tumours?",
+  "options": {
+   "A": "Mucinous ovarian tumour",
+   "B": "Granulosa cell tumour",
+   "C": "Dysgerminoma",
+   "D": "Endodermal sinus (yolk sac) tumour",
+   "E": "Teratoma"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Alpha-fetoprotein is secreted by yolk sac (endodermal sinus) tumours; it may also be raised in some immature teratomas and mixed germ cell tumours.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02253"
+  ],
+  "stem": "A 38-year-old woman underwent staging laparotomy for ovarian cancer and histopathology shows a granulosa cell tumour. Which tumour marker is used for follow-up?",
+  "options": {
+   "A": "CA 125",
+   "B": "Inhibin",
+   "C": "AFP",
+   "D": "Beta hCG",
+   "E": "CA 19-9"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Inhibin (and oestradiol, anti-Mullerian hormone) are the markers of granulosa cell tumours and are used to monitor for recurrence.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02043"
+  ],
+  "stem": "A 60-year-old woman underwent staging laparotomy for stage III ovarian cancer. A tumour marker commonly used in the diagnosis and monitoring of ovarian cancer is:",
+  "options": {
+   "A": "CEA",
+   "B": "CA 19-9",
+   "C": "CA 125",
+   "D": "AFP",
+   "E": "Beta hCG"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "CA 125 is the standard marker for epithelial ovarian cancer, used in the RMI and for monitoring response and recurrence.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01473",
+   "C01265",
+   "C02040",
+   "C02248"
+  ],
+  "stem": "A 50-year-old para 3, menopausal for 2 years, has had lower abdominal pain for 5 months. Ultrasound shows a left adnexal cyst of 4 x 4 cm with no septations. Which tumour marker will you order?",
+  "options": {
+   "A": "CEA",
+   "B": "CA 125",
+   "C": "Beta hCG",
+   "D": "AFP",
+   "E": "CA 15-3"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "In a postmenopausal woman with an adnexal cyst, CA 125 is measured (with ultrasound and menopausal status) to calculate the RMI.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00234"
+  ],
+  "stem": "A 58-year-old postmenopausal woman presents with increasing abdominal distension and early satiety. There is a palpable adnexal mass with ascites; ultrasound shows a complex ovarian mass with solid and cystic components and CT shows omental caking. Which investigation is most appropriate to support the diagnosis and guide further management?",
+  "options": {
+   "A": "Serum CA 125",
+   "B": "Pap smear",
+   "C": "Diagnostic laparoscopy",
+   "D": "Endometrial biopsy",
+   "E": "Serum AFP"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Serum CA 125 supports the diagnosis of epithelial ovarian cancer and serves as a baseline for monitoring treatment. Final diagnosis rests on histology at surgery.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00278",
+   "C01446"
+  ],
+  "stem": "A 65-year-old grandmother presents with gradually increasing abdominal distension for 3 months, dyspepsia and nausea. Bimanual examination reveals a hard, irregular 18-week size mass in the right lower abdomen. What is the first investigation you order?",
+  "options": {
+   "A": "Barium meal",
+   "B": "Ultrasound abdomen and pelvis",
+   "C": "Tumour markers",
+   "D": "CT scan abdomen and pelvis",
+   "E": "Laparoscopy"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Ultrasound (preferably transvaginal as well) is the first-line imaging test for a pelvic mass; markers, CT and surgery follow.",
+  "key_note": "One paper marked tumour markers; ultrasound is the standard first investigation.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01458"
+  ],
+  "stem": "A 42-year-old para 3 has nausea, indigestion and vomiting, irregular infrequent periods for 3 months and an increasing abdominal size despite weight loss. A large fixed 10 x 18 cm abdominal mass is palpable. Her next investigation will be:",
+  "options": {
+   "A": "Laparoscopy and biopsy",
+   "B": "Ultrasound abdomen and pelvis",
+   "C": "MRI abdomen and pelvis",
+   "D": "Beta hCG and CA 125",
+   "E": "CT abdomen and pelvis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A large fixed mass with weight loss suggests ovarian malignancy, so tumour markers (CA 125, with hCG to exclude pregnancy and germ cell tumours) are sent along with imaging.",
+  "key_note": "Keyed D by the paper; ultrasound would normally accompany or precede the markers (see the related 'first investigation' item).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00280"
+  ],
+  "stem": "A 58-year-old postmenopausal woman presents with gradual abdominal distension and weight loss. Ultrasound shows an ovarian mass of 6 x 6 cm. You calculate her Risk of Malignancy Index (RMI). At which level of RMI is there a high chance of malignancy?",
+  "options": {
+   "A": "100",
+   "B": "125",
+   "C": "150",
+   "D": "200",
+   "E": "250"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "RMI = ultrasound score x menopausal score x CA 125. An RMI above about 200 (Jacobs' original cut-off) indicates high risk and referral to a gynaecological oncology centre.",
+  "key_note": "Papers were split between D (200) and E (250); RCOG now uses 250 as the referral threshold, but the majority key (D, 200) is kept.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00768"
+  ],
+  "stem": "According to FIGO staging of ovarian cancer, stage IIA shows:",
+  "options": {
+   "A": "Tumour limited to both ovaries, capsule ruptured, or with ascites positive for tumour cells",
+   "B": "Extension and/or metastasis to the uterus or tubes",
+   "C": "Extension to other pelvic organs",
+   "D": "Tumour confined to the abdominal peritoneum, or positive inguinal lymph nodes",
+   "E": "Positive cytology on pleural effusion, liver parenchymal involvement"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Stage II is pelvic extension: IIA is extension or implants on the uterus and/or tubes, IIB on other pelvic tissues. Stage III is peritoneal or retroperitoneal nodal spread and stage IV is distant metastasis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02113"
+  ],
+  "stem": "A 28-year-old woman is diagnosed with FIGO stage IB ovarian cancer. This means:",
+  "options": {
+   "A": "Tumour limited to one ovary with intact capsule without ascites",
+   "B": "Tumour limited to both ovaries with intact capsule without ascites",
+   "C": "Tumour limited to both ovaries with capsule ruptured",
+   "D": "Tumour with pelvic spread",
+   "E": "Tumour has spread to the uterus"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Stage IA is one ovary and IB is both ovaries, with intact capsule and no surface tumour or malignant ascites. IC (2014: IC1-3) involves surgical spill, capsule rupture or malignant cells in ascites or washings.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00784"
+  ],
+  "stem": "A 45-year-old para 5 has staging laparotomy for ovarian malignancy. Findings: a moderate amount of ascites, and an irregular mass of 6-7 cm involving the right ovary extending to the uterine body. No lymph nodes are involved. Stage the disease.",
+  "options": {
+   "A": "2a",
+   "B": "2b",
+   "C": "2c",
+   "D": "3a",
+   "E": "3b"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Extension to the uterus makes it stage II (IIA); in the older FIGO scheme, malignant cells in ascites upgrade stage II to IIC, which is the keyed answer.",
+  "key_note": "Keyed C using the older FIGO convention (ascites with malignant cells); under FIGO 2014 it would be IIA unless other criteria applied.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02252"
+  ],
+  "stem": "A 25-year-old woman presents with an ultrasound showing an ovarian cyst of 5 x 4 cm with ascites. The management option in this case is:",
+  "options": {
+   "A": "Conservative",
+   "B": "Staging laparotomy",
+   "C": "Hysterectomy",
+   "D": "Oophorectomy",
+   "E": "Cystectomy"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "An ovarian mass with ascites is suspicious for malignancy, and a staging laparotomy with fertility-sparing surgery where possible is the appropriate approach in a young woman.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00238",
+   "C00244",
+   "C01500"
+  ],
+  "stem": "A 55-year-old postmenopausal woman has abdominal distension, early satiety and vague pelvic discomfort for 3 months. There is a firm, irregular pelvic mass with ascites, CA 125 is 750 U/mL, and transvaginal ultrasound shows a bilateral complex adnexal mass with solid and cystic components and papillary projections. What is the most appropriate next step in management?",
+  "options": {
+   "A": "Fine-needle aspiration of the ovarian mass",
+   "B": "Neoadjuvant chemotherapy without tissue diagnosis",
+   "C": "Exploratory laparotomy with staging and cytoreductive (debulking) surgery",
+   "D": "Simple oophorectomy",
+   "E": "Repeat CA 125 after 6 weeks"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Suspected advanced ovarian cancer is managed by laparotomy with staging and maximal cytoreduction, which also provides tissue. FNA risks spillage and upstaging.",
+  "key_note": "One paper's printed key marked cystectomy for a similar item; correct is staging laparotomy with debulking surgery.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00116",
+   "C01434"
+  ],
+  "stem": "A 58-year-old woman is diagnosed with stage I ovarian carcinoma. After exploratory laparotomy, optimal cytoreductive surgery was achieved. What is the most appropriate next step in management?",
+  "options": {
+   "A": "Radiotherapy to the pelvis and abdomen",
+   "B": "Observe with serial CA 125 monitoring",
+   "C": "Chemotherapy with carboplatin and paclitaxel",
+   "D": "Hormonal therapy with tamoxifen",
+   "E": "Enrol in a surveillance protocol with no further treatment"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Adjuvant platinum-based chemotherapy (carboplatin with paclitaxel) is standard after surgery for most epithelial ovarian cancers; only low-risk stage IA/IB grade 1 disease may be observed.",
+  "key_note": "All papers keyed C; grade 1 stage IA/IB can be observed, but the stem gives no such detail. In a similar item the paper key marked laparotomy; chemotherapy is correct as staging surgery was already done.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00288",
+   "C00786"
+  ],
+  "stem": "A 62-year-old woman presents with advanced ovarian carcinoma with peritoneal spread. What is the mainstay of treatment?",
+  "options": {
+   "A": "Radiotherapy alone",
+   "B": "Cytoreductive surgery followed by chemotherapy",
+   "C": "Chemotherapy only",
+   "D": "Hormonal therapy",
+   "E": "Laparoscopic cystectomy"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Advanced ovarian cancer is treated with maximal cytoreductive surgery plus platinum-based chemotherapy; residual disease volume is the strongest prognostic factor.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01465"
+  ],
+  "stem": "A 54-year-old woman undergoes laparotomy for a pelvic mass. A unilateral ovarian malignancy is found with omental metastases. The most appropriate treatment is:",
+  "options": {
+   "A": "Excision of omental metastasis and ovarian cystectomy",
+   "B": "Infracolic omentectomy and ovarian cystectomy",
+   "C": "Omentectomy and bilateral salpingo-oophorectomy",
+   "D": "Omentectomy, hysterectomy and bilateral salpingo-oophorectomy",
+   "E": "Hysterectomy and bilateral salpingo-oophorectomy with peritoneal washings"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Advanced ovarian cancer (omental metastasis, stage III) needs total hysterectomy, BSO and omentectomy with maximal debulking. Option E omits the omentectomy.",
+  "key_note": "The printed key marked E, but one paper circled D; D is correct because omental disease must be removed.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00277"
+  ],
+  "stem": "A 26-year-old married P0+1 presents with an abdominal mass. CT shows a primary ovarian tumour. Frozen section during staging laparotomy shows stage IA dysgerminoma. What is the most appropriate treatment?",
+  "options": {
+   "A": "Unilateral oophorectomy (fertility-sparing surgery)",
+   "B": "Chemotherapy followed by radiotherapy",
+   "C": "Unilateral oophorectomy followed by radiotherapy",
+   "D": "Bilateral salpingo-oophorectomy and omental biopsies",
+   "E": "Total abdominal hysterectomy and salpingo-oophorectomy"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Stage IA dysgerminoma in a young woman is treated by fertility-sparing unilateral salpingo-oophorectomy with staging; no adjuvant therapy is needed. Radiotherapy is no longer used because it causes ovarian failure (dysgerminoma is radiosensitive, so BEP chemotherapy is used for advanced disease).",
+  "key_note": "Compiled key and some papers marked C (plus radiotherapy); others marked A. A is correct as adjuvant radiotherapy would destroy the remaining ovary and is not needed in stage IA.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02116"
+  ],
+  "stem": "Platinum-based compounds are the most effective agents in the management of:",
+  "options": {
+   "A": "Ovarian cancers",
+   "B": "Endometrial cancers",
+   "C": "Fibroid uterus",
+   "D": "Cervical intraepithelial neoplasia",
+   "E": "Cervical cancer"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Platinum compounds (carboplatin, cisplatin) form the backbone of chemotherapy for epithelial ovarian cancer.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01373"
+  ],
+  "stem": "The most common side effect of carboplatin is:",
+  "options": {
+   "A": "Alopecia",
+   "B": "Joint pain syndrome",
+   "C": "Emesis",
+   "D": "Neurotoxicity",
+   "E": "Neutropenic sepsis"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Nausea and vomiting are the commonest side effects of carboplatin; myelosuppression (especially thrombocytopenia) is dose-limiting. Alopecia and neuropathy are characteristic of paclitaxel and cisplatin.",
+  "key_note": "The paper key marked A (alopecia), but alopecia is mild and uncommon with carboplatin; emesis is the best answer among the options.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01966",
+   "C02194"
+  ],
+  "stem": "A 65-year-old para 4 with serous cystadenocarcinoma of the ovary has completed platinum-based chemotherapy. Which test will you use to follow her up?",
+  "options": {
+   "A": "Alpha fetoprotein",
+   "B": "CA 125",
+   "C": "HCG",
+   "D": "Inhibin",
+   "E": "Lactate dehydrogenase"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "CA 125 is the marker used to monitor response and detect recurrence in serous epithelial ovarian cancer.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02024"
+  ],
+  "stem": "A 34-year-old woman undergoes a staging laparotomy for suspected ovarian cancer. During surgery there is difficulty visualising the ureters. What is the next best step?",
+  "options": {
+   "A": "Intraoperative fluoroscopy with dye injection",
+   "B": "Insert ureteric stents",
+   "C": "Consult a urologist intraoperatively",
+   "D": "Careful dissection in the retroperitoneal space to identify the ureters",
+   "E": "Avoid dissection in areas where the ureters are likely to be"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "The ureters are identified by opening the retroperitoneum and dissecting carefully to trace them, usually at the pelvic brim crossing the iliac vessels. Avoiding the area would compromise the cancer operation.",
+  "key_note": "",
+  "figure": ""
+ }
+]

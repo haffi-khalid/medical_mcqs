@@ -1,0 +1,1096 @@
+[
+ {
+  "cids": [
+   "C01427"
+  ],
+  "stem": "The failure rate of a contraceptive method per 100 woman-years of use is called:",
+  "options": {
+   "A": "Diamond index",
+   "B": "Emerald index",
+   "C": "Jade index",
+   "D": "Pearl index",
+   "E": "Sapphire index"
+  },
+  "answer": "D",
+  "explanation": "The Pearl index is the number of unintended pregnancies per 100 woman-years of exposure. The other names are invented distractors.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00773"
+  ],
+  "stem": "For any contraceptive method, WHO medical eligibility criteria (MEC) category 2 indicates a condition:",
+  "options": {
+   "A": "For which there is no restriction for the use",
+   "B": "That represents an unacceptable high risk if the method is used",
+   "C": "Where the advantages of the method generally outweigh the risks",
+   "D": "Where the risks generally outweigh the advantages",
+   "E": "When its use is not acceptable to the user"
+  },
+  "answer": "C",
+  "explanation": "Category 1: no restriction; 2: advantages generally outweigh risks; 3: risks generally outweigh advantages; 4: unacceptable health risk.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01392"
+  ],
+  "stem": "Which of the following methods has the lowest percentage of unintended pregnancy within 1 year of typical use?",
+  "options": {
+   "A": "COCPs",
+   "B": "Copper IUCD",
+   "C": "LNG-IUS",
+   "D": "Barrier methods",
+   "E": "Progestogen-only implant"
+  },
+  "answer": "E",
+  "explanation": "The implant is independent of user compliance and has a typical-use failure rate of about 0.05%, lower than the IUCD or LNG-IUS (about 0.2-0.8%) and far lower than pills or barriers.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00799"
+  ],
+  "stem": "The effect of obesity on the effectiveness of various contraceptive methods is not fully understood. Which contraceptive method has been determined most conclusively to be less effective in women weighing more than 90 kg?",
+  "options": {
+   "A": "Subdermal implant",
+   "B": "Depot medroxyprogesterone acetate",
+   "C": "Copper intrauterine device",
+   "D": "Combined oral contraceptive pills",
+   "E": "Progestogen-only pills"
+  },
+  "answer": "D",
+  "explanation": "Combined pills (and the patch) show reduced efficacy in heavier women, whereas the implant, DMPA and intrauterine methods are not meaningfully affected.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01290"
+  ],
+  "stem": "A 28-year-old woman presents for a well woman examination and contraception. Which of the following best explains the contraceptive effect of pills containing both oestrogen and progestogen?",
+  "options": {
+   "A": "Impairment of embryo implantation",
+   "B": "Inhibition of oocyte maturation",
+   "C": "Production of toxic uterine secretions",
+   "D": "Inhibition of ovulation",
+   "E": "Impairment of sperm transport"
+  },
+  "answer": "D",
+  "explanation": "The main action of the combined pill is suppression of the LH surge and so inhibition of ovulation; thickened cervical mucus and thin endometrium are secondary.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00034"
+  ],
+  "stem": "A P1+0 asks about contraception. She is afraid to use combined oral contraceptive pills because of the side effects associated with oestrogen. You inform her that modern preparations contain oestrogen in a dose of:",
+  "options": {
+   "A": "15-30 micrograms",
+   "B": "15-40 micrograms",
+   "C": "15-50 micrograms",
+   "D": "15-60 micrograms",
+   "E": "15-70 micrograms"
+  },
+  "answer": "A",
+  "explanation": "Modern low-dose pills contain 15-35 micrograms of ethinylestradiol, so 15-30 micrograms is the best choice here; older high-dose pills had 50 micrograms or more.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01203",
+   "C02123",
+   "C00123"
+  ],
+  "stem": "A 32-year-old P2+0 is interested in combined oral contraceptive pills. You inform her that one benefit of the pill is a decreased incidence of:",
+  "options": {
+   "A": "Sexually transmitted disease",
+   "B": "Cervical cancer",
+   "C": "Breast cancer",
+   "D": "Ovarian cancer",
+   "E": "Fibroid uterus"
+  },
+  "answer": "D",
+  "explanation": "The pill roughly halves the risk of ovarian and endometrial cancer, and the protection persists for years after stopping. It does not protect against STIs, and cervical and breast cancer risk are slightly increased, not decreased.",
+  "key_note": "Some paper keys marked C (Breast cancer); correct is D: the pill reduces ovarian cancer risk and slightly increases, not decreases, breast cancer risk. Option C (decreased endometrial cancer) is also true; the papers marked B, so B is kept as the best answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02159"
+  ],
+  "stem": "A 28-year-old para 3 has been using combined oral contraceptive pills for three months. Which of the following is true regarding COCP?",
+  "options": {
+   "A": "Reduces the risk of breast cancer",
+   "B": "Reduces the risk of cervical cancer",
+   "C": "Reduces the risk of endometrial cancer",
+   "D": "Increases the risk of ovarian cancer",
+   "E": "Increases the risk of colorectal cancer"
+  },
+  "answer": "C",
+  "explanation": "COCP use protects against endometrial and ovarian cancer; the progestogen component opposes oestrogenic endometrial proliferation.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00744"
+  ],
+  "stem": "Regarding safety of COCPs, which of the following statements is correct?",
+  "options": {
+   "A": "Increased risk of colorectal cancer",
+   "B": "Increased risk of ovarian cancer",
+   "C": "Increased risk of endometrial cancer",
+   "D": "Increased risk of breast cancer",
+   "E": "Increased risk of vulval cancer"
+  },
+  "answer": "D",
+  "explanation": "Current users have a small increase in breast cancer risk that fades after stopping. Ovarian, endometrial and colorectal cancer risk fall, and cervical cancer risk rises slightly with long use.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01865"
+  ],
+  "stem": "A college student is considering the oral contraceptive pill but fears it is more dangerous than pregnancy. You reassure her that the pill has many benefits but can rarely increase the risk of which of the following?",
+  "options": {
+   "A": "Fibrocystic breast disease",
+   "B": "Hepatic adenoma",
+   "C": "Salpingitis",
+   "D": "Ovarian cancer",
+   "E": "Endometrial cancer"
+  },
+  "answer": "B",
+  "explanation": "Hepatic adenoma is a rare but recognised complication of oestrogen-containing pills. Fibrocystic disease, salpingitis, ovarian and endometrial cancer are all reduced.",
+  "key_note": "One paper marked D (Ovarian cancer); correct is B: the pill reduces, not increases, ovarian cancer risk.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03147"
+  ],
+  "stem": "Absolute contraindication for the COC pill is:",
+  "options": {
+   "A": "Diabetes mellitus",
+   "B": "History of thromboembolism",
+   "C": "Hypertension",
+   "D": "Obesity",
+   "E": "Varicose veins"
+  },
+  "answer": "B",
+  "explanation": "A past venous thromboembolism puts the woman in MEC category 4 for oestrogen-containing methods. Controlled hypertension, obesity and varicose veins are relative issues only.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01167"
+  ],
+  "stem": "A woman taking oral contraceptive pills should report to the doctor immediately if she develops:",
+  "options": {
+   "A": "Mild headache",
+   "B": "Nausea and vomiting",
+   "C": "Intermenstrual bleeding",
+   "D": "Severe leg pain",
+   "E": "Diarrhoea or vomiting for more than 24 hours"
+  },
+  "answer": "D",
+  "explanation": "Severe calf or leg pain suggests deep vein thrombosis, a serious pill complication needing urgent assessment. The other symptoms are minor or only affect pill absorption.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01270"
+  ],
+  "stem": "A 20-year-old has missed her contraceptive pill. Her LMP was 15 days ago and her cycle is 28 days. She had intercourse twice this week. What will you advise?",
+  "options": {
+   "A": "Reassurance",
+   "B": "Use condoms for the next 7 days",
+   "C": "Get beta hCG level immediately",
+   "D": "Stop the pill pack and start a new pack",
+   "E": "Take two pills and backup with condoms for 7 days"
+  },
+  "answer": "E",
+  "explanation": "The missed pill is taken as soon as remembered (two tablets that day) and the pack continued, with condoms or abstinence for 7 days because she is mid-cycle.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02055"
+  ],
+  "stem": "A P3 with previous NVDs presents with unprotected intercourse last night. She uses oral contraceptive pills but forgot to take yesterday's pill. Her LMP was 5 days ago. What will you advise?",
+  "options": {
+   "A": "Take the missed pill and continue the rest of the pack",
+   "B": "Take the missed pill, ECP and continue the rest of the pack",
+   "C": "Take ECP and continue the rest of the pack",
+   "D": "ECP and discontinue the rest of the pack",
+   "E": "ECP and start a new pack"
+  },
+  "answer": "A",
+  "explanation": "A single missed pill (less than 24 hours late) does not reduce protection: take it now and continue, with no emergency contraception needed.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02058"
+  ],
+  "stem": "A 32-year-old P2 with a history of DVT presents for contraceptive advice. Which one of the following methods is contraindicated?",
+  "options": {
+   "A": "Progestogen-only pills",
+   "B": "Combined oral contraceptive pills",
+   "C": "Subdermal implant",
+   "D": "Injectable progestogen",
+   "E": "Copper-containing IUCD"
+  },
+  "answer": "B",
+  "explanation": "Oestrogen increases clotting factors and VTE risk, so the COCP is MEC category 4 after a DVT. Progestogen-only methods and the copper IUCD are safe.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00743",
+   "C01330"
+  ],
+  "stem": "A 22-year-old P2 requests contraception. She is overweight and has acne but no other medical history. Her mother had a deep vein thrombosis after childbirth. Which of the following is NOT a suitable method for her?",
+  "options": {
+   "A": "Depo-Provera",
+   "B": "Progestogen-only pill",
+   "C": "LNG-IUS (Mirena)",
+   "D": "Progestogen-only implant",
+   "E": "Combined oral contraceptive pills"
+  },
+  "answer": "E",
+  "explanation": "A first-degree relative with VTE plus obesity makes oestrogen-containing methods unsuitable; progestogen-only methods and the IUS remain safe.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01200"
+  ],
+  "stem": "A 29-year-old P2 seeks contraception. Her BMI is 28, she smokes hookah, has been hypertensive for one year and has a strong family history of stroke. Which of the following methods can she NOT use?",
+  "options": {
+   "A": "Combined oral contraceptives",
+   "B": "Barrier method",
+   "C": "IUCD",
+   "D": "LNG-IUS",
+   "E": "Bilateral tubal ligation"
+  },
+  "answer": "A",
+  "explanation": "Smoking, hypertension and a family history of stroke make oestrogen-containing methods unsafe because of arterial thrombosis risk.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00320",
+   "C01204",
+   "C02922"
+  ],
+  "stem": "A 30-year-old P2 requests contraception for one year. She has PCOS with irregular cycles and hirsutism, and no other medical condition. What would be the best contraceptive option for her?",
+  "options": {
+   "A": "IUD",
+   "B": "Progestogen-only implant",
+   "C": "COCP",
+   "D": "Progestogen-only injection",
+   "E": "LNG-IUS"
+  },
+  "answer": "C",
+  "explanation": "The COCP regularises cycles and, by suppressing LH and ovarian androgens and raising SHBG, improves acne and hirsutism.",
+  "key_note": "Source C02922 was a recall item without options; its answer (COCP) is the same.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00300",
+   "C01408",
+   "C02057"
+  ],
+  "stem": "A 25-year-old P2, whose last childbirth was 2 years ago, has an irregular cycle and no comorbidities. She attends the gynae clinic for contraceptive advice. Which of the following is the most suitable contraception for her?",
+  "options": {
+   "A": "COCPs",
+   "B": "POPs",
+   "C": "Intrauterine device",
+   "D": "Condoms",
+   "E": "Implanon"
+  },
+  "answer": "A",
+  "explanation": "With irregular cycles and no contraindication, the COCP gives reliable contraception plus cycle regulation.",
+  "key_note": "Cluster C00300 held two different questions; this is the first (the 38-year-old hypertensive P4 is a separate item). One paper marked C (LNG-IUS); the printed key says OCPs, which is kept because the COCP regularises irregular cycles.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01876",
+   "C02923"
+  ],
+  "stem": "A patient with idiopathic epilepsy controlled on carbamazepine is referred for contraceptive advice. Which contraception will you advise?",
+  "options": {
+   "A": "COCP half dose",
+   "B": "POP half dose",
+   "C": "COCP double dose",
+   "D": "Injectable progestogen double dose",
+   "E": "Bilateral tubal ligation"
+  },
+  "answer": "D",
+  "explanation": "Carbamazepine is an enzyme inducer that makes the pill and the implant unreliable. Among these options the injectable progestogen is the keyed choice; the Cu-IUCD or LNG-IUS would be ideal.",
+  "key_note": "Paper marked D; the standard DMPA dose is actually unaffected by enzyme inducers, and Cu-IUCD or LNG-IUS are ideal (a recall source answered IUCD). Among these options D is the best.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03148"
+  ],
+  "stem": "The main mode of action of injectable contraceptive (DMPA) is:",
+  "options": {
+   "A": "Thickens cervical mucus",
+   "B": "Stops ovulation",
+   "C": "Prevents ascent of sperm",
+   "D": "Causes endometrial atrophy",
+   "E": "Prevents implantation of the embryo"
+  },
+  "answer": "B",
+  "explanation": "DMPA suppresses the midcycle LH surge and so inhibits ovulation; mucus thickening and endometrial atrophy are secondary.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01297"
+  ],
+  "stem": "A P1+0 wants to use Depo-Provera (medroxyprogesterone acetate). You inform her that it lowers the serum oestrogen level and leads to:",
+  "options": {
+   "A": "Low cholesterol",
+   "B": "Raised blood pressure",
+   "C": "Loss of bone mineral density",
+   "D": "Increase in bone mineral density",
+   "E": "Weight loss"
+  },
+  "answer": "C",
+  "explanation": "DMPA induces a hypo-oestrogenic state with a reversible fall in bone mineral density; weight gain, not loss, is also a side effect.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00307"
+  ],
+  "stem": "A 28-year-old P2L2 wants a long-term reversible method for at least 3 years, has difficulty remembering pills and has no medical risk factors. She is counselled about Implanon. Which of the following statements is most accurate?",
+  "options": {
+   "A": "It provides effective contraception for 3 years by inhibiting ovulation",
+   "B": "It mainly acts by inhibiting progesterone release",
+   "C": "It increases the risk of venous thromboembolism",
+   "D": "Return of fertility is at least 12 months after removal",
+   "E": "It is contraindicated in multiparous women"
+  },
+  "answer": "A",
+  "explanation": "Etonogestrel implant (Implanon) works for 3 years, mainly by inhibiting ovulation; it carries no VTE risk and fertility returns promptly after removal.",
+  "key_note": "One paper's variant (with option A changed to 1 year) marked B (inhibits ovulation); in the standard version A is correct.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01393",
+   "C02056",
+   "C02120"
+  ],
+  "stem": "What is the main mode of action of the copper IUCD?",
+  "options": {
+   "A": "Spermicidal",
+   "B": "Causes thickening of cervical mucus",
+   "C": "Inhibits implantation",
+   "D": "Inflammatory reaction",
+   "E": "Toxic to egg"
+  },
+  "answer": "C",
+  "explanation": "Copper IUCD sets up a sterile inflammatory reaction in the endometrium that is toxic to sperm and ovum and inhibits implantation; the standard exam answer is inhibition of implantation.",
+  "key_note": "One paper marked D (inflammatory reaction in tubes); the standard keyed answer is C.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01317",
+   "C01397"
+  ],
+  "stem": "The most common complication of a copper IUCD is:",
+  "options": {
+   "A": "Perforation",
+   "B": "Expulsion",
+   "C": "Infection",
+   "D": "Heavy menstrual bleeding",
+   "E": "Ectopic pregnancy"
+  },
+  "answer": "B",
+  "explanation": "Expulsion is the commonest complication keyed for IUCD, highest in the first months and in nulliparae; perforation, PID and ectopic are rare.",
+  "key_note": "Heavy periods are also very common with Cu-IUCD; the keyed answer of expulsion is kept.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00033"
+  ],
+  "stem": "A 35-year-old woman with an IUCD in situ presents with 5 weeks of amenorrhoea. Ultrasound shows an intrauterine pregnancy. Because of the IUCD she is at significantly increased risk of:",
+  "options": {
+   "A": "Ectopic pregnancy",
+   "B": "Fetal malformation",
+   "C": "Spontaneous miscarriage",
+   "D": "Septic abortion",
+   "E": "Placental abruption"
+  },
+  "answer": "C",
+  "explanation": "With an IUCD left in place an intrauterine pregnancy has about a 50% miscarriage risk (and some risk of sepsis), so removal of the threads is advised. Ectopic pregnancy is already excluded by the scan.",
+  "key_note": "The paper key marked A (Ectopic pregnancy); since an intrauterine pregnancy is confirmed, the risk is miscarriage (C).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01947"
+  ],
+  "stem": "You are evaluating a 36-year-old P4 for IUCD insertion. Which of the following conditions is a contraindication to IUCD insertion?",
+  "options": {
+   "A": "Polycystic ovarian syndrome",
+   "B": "Anticoagulant therapy",
+   "C": "Active PID",
+   "D": "Cardiac disease",
+   "E": "Diabetes mellitus"
+  },
+  "answer": "C",
+  "explanation": "Active pelvic infection is an absolute contraindication (MEC 4) because insertion can spread infection upward.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01430",
+   "C02329"
+  ],
+  "stem": "A 28-year-old P2A0 comes for removal of her IUCD as she plans another pregnancy. On speculum examination no thread is seen coming through the cervix. The next step in the management will be:",
+  "options": {
+   "A": "Ask her to come during menses",
+   "B": "Pelvic ultrasound for localisation of IUCD",
+   "C": "MRI pelvis for localisation of IUCD",
+   "D": "Diagnostic laparoscopy",
+   "E": "Hysterosalpingogram"
+  },
+  "answer": "B",
+  "explanation": "After excluding pregnancy, pelvic ultrasound is the first investigation for a missing IUCD thread (to confirm whether it is in the uterus, expelled or perforated).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00324",
+   "C01810"
+  ],
+  "stem": "A 28-year-old P2 had regular cycles until 3 months ago and has a copper IUCD in place. Which hormone level is most important to check?",
+  "options": {
+   "A": "Serum FSH",
+   "B": "Beta hCG",
+   "C": "Serum progesterone",
+   "D": "Serum prolactin",
+   "E": "Estrogens"
+  },
+  "answer": "B",
+  "explanation": "Amenorrhoea with an IUCD in situ is pregnancy (including ectopic) until proved otherwise, so beta hCG is first.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00233"
+  ],
+  "stem": "A 30-year-old P5 attends for contraception counselling and an IUCD is inserted. The advantage of the IUCD over the combined pill is that:",
+  "options": {
+   "A": "It decreases the rate of vaginal infection",
+   "B": "Failure rate is very low",
+   "C": "It decreases the rate of ectopic pregnancy",
+   "D": "Patient compliance is good",
+   "E": "It is cheaper than the pill"
+  },
+  "answer": "D",
+  "explanation": "The IUCD is user-independent (no daily action), so compliance and typical-use effectiveness are better than with pills.",
+  "key_note": "One paper marked B (failure rate very low); the Ten Teachers based key is D (compliance).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02177"
+  ],
+  "stem": "A 27-year-old with a previous ectopic pregnancy seeks contraceptive advice. Which of the following methods is contraindicated?",
+  "options": {
+   "A": "Cervical cap",
+   "B": "Combined OCP",
+   "C": "IUCD",
+   "D": "Minipill",
+   "E": "Tubal ligation"
+  },
+  "answer": "C",
+  "explanation": "Traditional teaching holds that an IUCD (and, to a lesser degree, the minipill) raises the relative proportion of ectopic pregnancy, so the IUCD is avoided after a previous ectopic.",
+  "key_note": "Modern WHO and UK MEC allow IUCD (category 1) after ectopic; C is kept as the keyed exam answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00313"
+  ],
+  "stem": "A nulliparous woman with a history of DVT requests contraception. Which method is suitable?",
+  "options": {
+   "A": "IUD"
+  },
+  "answer": "A",
+  "explanation": "With a past DVT oestrogen is contraindicated; a copper IUD (or LNG-IUS) is safe and not linked to VTE.",
+  "key_note": "Options not available in the source; recall question.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00032"
+  ],
+  "stem": "A couple presents to OPD after unprotected intercourse and wants emergency contraception. You inform them that it has to be taken within:",
+  "options": {
+   "A": "72 hours",
+   "B": "24 hours",
+   "C": "48 hours",
+   "D": "1 week",
+   "E": "Before ovulation"
+  },
+  "answer": "A",
+  "explanation": "Levonorgestrel emergency contraception is licensed within 72 hours (best as early as possible); ulipristal and the copper IUCD extend this to 120 hours.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02763",
+   "C00314",
+   "C02208"
+  ],
+  "stem": "A P1 had unprotected intercourse 12 hours ago and requests emergency contraception. Which of the following will you offer?",
+  "options": {
+   "A": "COCP",
+   "B": "Depo-Provera",
+   "C": "Levonorgestrel",
+   "D": "Mirena",
+   "E": "Tubal ligation"
+  },
+  "answer": "C",
+  "explanation": "Levonorgestrel 1.5 mg orally as a single dose is the standard emergency pill; DMPA, Mirena and tubal ligation are not emergency methods.",
+  "key_note": "Both options are acceptable emergency contraceptives; the compiled key marked levonorgestrel and recall options were limited.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01202"
+  ],
+  "stem": "A 22-year-old P1+0 had unprotected intercourse in the proliferative phase 3 days ago. You plan to insert an IUCD as emergency contraception. What is the duration within which it can be inserted and remain effective?",
+  "options": {
+   "A": "5 days",
+   "B": "7 days",
+   "C": "8 days",
+   "D": "9 days",
+   "E": "10 days"
+  },
+  "answer": "A",
+  "explanation": "A copper IUCD works as emergency contraception if inserted within 5 days of unprotected intercourse (or within 5 days of the earliest expected ovulation).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01394",
+   "C01331"
+  ],
+  "stem": "A young lady, P3 with 3 previous caesarean sections, had unprotected intercourse 5 days ago and requests emergency contraception. What will be your first choice?",
+  "options": {
+   "A": "Ulipristal acetate",
+   "B": "Levonorgestrel",
+   "C": "COCP",
+   "D": "Cu IUCD",
+   "E": "POPs"
+  },
+  "answer": "D",
+  "explanation": "The copper IUCD is the most effective emergency contraception and is usable up to 5 days, and it then gives ongoing contraception.",
+  "key_note": "Ulipristal also works up to 120 hours, but the IUCD is the most effective and was keyed.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00745"
+  ],
+  "stem": "A 28-year-old P2 presents with unprotected intercourse 3 days ago and does not want to get pregnant. She also wants long-term contraception. The most appropriate method is:",
+  "options": {
+   "A": "Levonorgestrel IUS",
+   "B": "Oral levonorgestrel 1.5 mg",
+   "C": "Copper intrauterine device",
+   "D": "Sterilisation",
+   "E": "Combined oral contraceptive pills"
+  },
+  "answer": "C",
+  "explanation": "A copper IUCD is the most effective emergency method and continues as long-term contraception; an LNG-IUS is not an emergency method.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00317",
+   "C00373",
+   "C01289",
+   "C02121"
+  ],
+  "stem": "A 34-year-old man undergoes vasectomy. Which of the following is the immediate complication of this procedure?",
+  "options": {
+   "A": "Sperm granuloma formation",
+   "B": "Impotence",
+   "C": "Haematoma formation",
+   "D": "Azoospermia",
+   "E": "Failure of procedure"
+  },
+  "answer": "C",
+  "explanation": "Scrotal haematoma is the commonest early complication; sperm granuloma is late and azoospermia is the intended result. Impotence does not occur.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01201"
+  ],
+  "stem": "A 45-year-old man has decided to go for vasectomy. During counselling you tell him that post-vasectomy semen analysis will be done to check for absence of spermatozoa at:",
+  "options": {
+   "A": "4 weeks",
+   "B": "8 weeks",
+   "C": "10 weeks",
+   "D": "12 weeks",
+   "E": "16 weeks"
+  },
+  "answer": "D",
+  "explanation": "Semen analysis is done about 12 weeks (after around 20 ejaculations) to confirm azoospermia; other contraception is used until then.",
+  "key_note": "Two paper keys marked B (8 weeks); the standard UK (FSRH/Ten Teachers) timing is 12 weeks, and one paper marked D.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02330"
+  ],
+  "stem": "Regarding irreversible methods of contraception, which of the following statements is true?",
+  "options": {
+   "A": "Failure rate of bilateral tubal ligation is 1:100",
+   "B": "Tubal ligation can only be done during caesarean section",
+   "C": "Tubal ligation is safer and quicker compared to vasectomy",
+   "D": "Vasectomy is safer and quicker compared to tubal ligation",
+   "E": "Sterilisation provides optimal protection against STIs"
+  },
+  "answer": "D",
+  "explanation": "Vasectomy is a minor local-anaesthetic procedure and is safer and quicker than tubal occlusion. Tubal failure is about 1:200-500 and neither provides STI protection.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00315"
+  ],
+  "stem": "A woman with 4 children, pulmonary hypertension, obesity and 3 previous caesarean sections wants permanent sterilisation. Which is the better approach?",
+  "options": {
+   "A": "Laparoscopic sterilisation",
+   "B": "Tubal ligation at caesarean section"
+  },
+  "answer": "B",
+  "explanation": "Laparoscopy needs general anaesthesia and pneumoperitoneum (hazardous in pulmonary hypertension and with adhesions from three caesareans), so sterilisation at the time of caesarean is preferable.",
+  "key_note": "Options were limited in the source (only two); keyed B.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00024"
+  ],
+  "stem": "A 24-year-old P2A0 has undergone suction curettage for molar pregnancy. She is stable with decreasing beta-hCG levels and asks about a safe contraceptive option. Which method is most suitable?",
+  "options": {
+   "A": "Barrier methods",
+   "B": "Combined oral contraceptive pills",
+   "C": "Intrauterine contraceptive device",
+   "D": "Progestogen-only pill",
+   "E": "Subdermal implant"
+  },
+  "answer": "B",
+  "explanation": "Once hCG is falling, hormonal methods including the COCP are safe and do not increase the risk of persistent trophoblastic disease; an IUCD is avoided until hCG normalises because of perforation risk.",
+  "key_note": "One paper marked C (IUCD); IUCD insertion is not advised until hCG is normal, so the COCP is the best option here.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00124",
+   "C02207",
+   "C00025",
+   "C00298",
+   "C02356"
+  ],
+  "stem": "A 35-year-old P3 has irregular, heavy menstrual bleeding for 5 months, bleeding for 15 days in a 30-day cycle. She is lactating her 10-month-old child and has peptic ulcer. She wants effective contraception but finds daily pills difficult. The most effective treatment in this case is:",
+  "options": {
+   "A": "Depo-Provera",
+   "B": "Copper-containing IUCD (Cu-T)",
+   "C": "Levonorgestrel intrauterine system",
+   "D": "Tranexamic acid and mefenamic acid",
+   "E": "Subdermal implant (Implanon)"
+  },
+  "answer": "C",
+  "explanation": "LNG-IUS is a highly effective long-acting contraceptive that also reduces menstrual loss by 70-90%, and it needs no daily compliance; NSAIDs are poor in peptic ulcer.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00299",
+   "C02357",
+   "C01198"
+  ],
+  "stem": "A 22-year-old P2, whose last baby is 6 months old, is breastfeeding and has a regular cycle with average loss. She wants a reliable method for at least 3 years. The most suitable method is:",
+  "options": {
+   "A": "POPs",
+   "B": "COCs",
+   "C": "Implanon",
+   "D": "IUCD",
+   "E": "Depo-Provera"
+  },
+  "answer": "C",
+  "explanation": "The etonogestrel implant gives 3 years of highly effective contraception and is safe in lactation; COCs may reduce milk supply.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00300#S2"
+  ],
+  "stem": "A 38-year-old P4, whose last childbirth was 4 years ago, has a regular cycle and hypertension. She attends for long-term contraception. Which is the most suitable contraception for her?",
+  "options": {
+   "A": "COCPs",
+   "B": "POPs",
+   "C": "Intrauterine device",
+   "D": "Condoms",
+   "E": "Implanon"
+  },
+  "answer": "C",
+  "explanation": "Hypertension rules out the COCP, and an IUCD gives reliable long-term contraception without hormones.",
+  "key_note": "Cluster C00300 held two different questions; this is the second (the 25-year-old with irregular cycle is a separate item).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00304"
+  ],
+  "stem": "A 29-year-old P1 requests contraception. She has a history of migraine with aura. Which of the following is the most appropriate method?",
+  "options": {
+   "A": "Combined oral contraceptive pills",
+   "B": "Copper intrauterine device",
+   "C": "Vaginal contraceptive ring",
+   "D": "Transdermal contraceptive patch",
+   "E": "Fertility awareness method"
+  },
+  "answer": "B",
+  "explanation": "Migraine with aura raises stroke risk, so all oestrogen-containing methods (pill, ring, patch) are MEC category 4. The non-hormonal copper IUCD is the keyed best choice.",
+  "key_note": "DMPA is not contraindicated in migraine with aura; B is kept as the keyed answer. Option E (DMPA) was also acceptable in migraine with aura; replaced so that the copper IUCD is the single best answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00323",
+   "C01806"
+  ],
+  "stem": "A 35-year-old P4 is a smoker with poorly controlled diabetes and seeks long-term contraception. She has a history of recurrent vaginal discharge, now resolved after treatment. What is the contraceptive of choice?",
+  "options": {
+   "A": "Condoms with spermicidal jelly",
+   "B": "Low-dose oestrogen pill",
+   "C": "Combined oral contraceptive pill",
+   "D": "Levonorgestrel intrauterine system",
+   "E": "Inj. medroxyprogesterone acetate"
+  },
+  "answer": "D",
+  "explanation": "Oestrogen is unsuitable in a smoker over 35 with poorly controlled diabetes; the LNG-IUS has minimal systemic effect and no vascular risk.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00374",
+   "C02122",
+   "C00616"
+  ],
+  "stem": "A lactating mother presents for contraceptive advice soon after delivery. Which of the following contraceptive methods is contraindicated or not appropriate for her while she is lactating?",
+  "options": {
+   "A": "Barrier method",
+   "B": "COCP",
+   "C": "Intramuscular progestogen",
+   "D": "Progestogen-only pill",
+   "E": "Mirena IUCD"
+  },
+  "answer": "B",
+  "explanation": "Oestrogen-containing pills reduce milk supply and add VTE risk in the early postpartum period; progestogen-only methods and barriers are suitable.",
+  "key_note": "Option D refers to oestrogen-containing oral contraceptives; the progestogen-only pill is acceptable.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00772"
+  ],
+  "stem": "A 35-year-old P3+1 had a spontaneous vaginal delivery one week ago and is breastfeeding. She has headaches and hypertension, and asks about long-term contraception. Which option is most appropriate?",
+  "options": {
+   "A": "Condoms",
+   "B": "Combined contraceptive pills",
+   "C": "Intrauterine contraceptive device",
+   "D": "Lactational amenorrhoea method",
+   "E": "Vaginal diaphragm"
+  },
+  "answer": "C",
+  "explanation": "The combined pill is contraindicated by hypertension and lactation; an IUCD is the long-term option wanted.",
+  "key_note": "Strictly, an IUCD is inserted within 48 hours of delivery or after 4 weeks; keyed C is kept as the best long-term option.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01151"
+  ],
+  "stem": "A para 1 aged 34 presents 40 days after normal vaginal delivery for contraception. She is breastfeeding and wants spacing for one year. The best method is:",
+  "options": {
+   "A": "Cervical cap",
+   "B": "Combined oral contraceptive pills",
+   "C": "Male condom",
+   "D": "Progesterone-only contraceptive pills",
+   "E": "Withdrawal method"
+  },
+  "answer": "D",
+  "explanation": "Progestogen-only pills do not affect lactation and are effective with good compliance, making them the keyed choice here.",
+  "key_note": "Implanon is also suitable; the paper key marked D. Option E (Implanon) was also suitable; replaced to avoid two correct answers.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01199"
+  ],
+  "stem": "A 32-year-old P3 wants to use a long-acting reversible contraceptive method. The most suitable method is:",
+  "options": {
+   "A": "COCP",
+   "B": "Bilateral tubal ligation",
+   "C": "Barrier methods",
+   "D": "Copper IUCD",
+   "E": "Progestogen-only pill"
+  },
+  "answer": "D",
+  "explanation": "LARC methods are IUCD, LNG-IUS, implant and depot injection; tubal ligation is permanent, and pills and barriers are user-dependent.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01332"
+  ],
+  "stem": "A 30-year-old hypertensive, obese patient (BMI 38) with two previous caesarean sections requests contraception. What is the most effective form for her?",
+  "options": {
+   "A": "Laparoscopic sterilisation",
+   "B": "COCPs",
+   "C": "Progestogen-only pill",
+   "D": "Barrier contraception",
+   "E": "Intrauterine device"
+  },
+  "answer": "E",
+  "explanation": "Oestrogen is contraindicated, and laparoscopic sterilisation is risky with obesity and adhesions; an intrauterine device is a highly effective long-term option.",
+  "key_note": "The subdermal implant is also suitable; the papers keyed E. The implant is equally suitable; replaced so the keyed IUD is the best answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01395"
+  ],
+  "stem": "A school teacher, P3 with previous NVDs, wants long-term effective contraception. She suffers from migraine and her elder sister had breast cancer. What is the suitable option?",
+  "options": {
+   "A": "Cu-IUCD",
+   "B": "Combined vaginal ring",
+   "C": "COCP",
+   "D": "POPs",
+   "E": "Barrier method"
+  },
+  "answer": "A",
+  "explanation": "Migraine contraindicates the COCP and a family history of breast cancer makes a non-hormonal method attractive, so the copper IUCD fits best.",
+  "key_note": "LNG-IUS was also acceptable; replaced so Cu-IUCD is the single answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01398"
+  ],
+  "stem": "A 32-year-old P2+0, all NVDs, whose last child is 3 months old, is breastfeeding and wants contraception for 3 years. Which is the contraception of choice?",
+  "options": {
+   "A": "COCP",
+   "B": "IUCD",
+   "C": "Barrier methods",
+   "D": "Progestogen-only pill",
+   "E": "Cervical cap"
+  },
+  "answer": "B",
+  "explanation": "The Cu-IUCD is a long-term, reversible method, compatible with breastfeeding, that provides more than 3 years of protection.",
+  "key_note": "Original distractors Jadelle, Uniplant and Norplant were all implants (also suitable); replaced with unsuitable methods so that the IUCD is the single answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02146"
+  ],
+  "stem": "A 30-year-old P2+0 comes for routine postnatal follow-up at 6 weeks and wants contraception. Her history is not significant and she says that the family is complete. What is the best management?",
+  "options": {
+   "A": "Lactational amenorrhoea method",
+   "B": "Combined oral contraceptive pills",
+   "C": "Injectable progesterone",
+   "D": "Intrauterine contraceptive device",
+   "E": "Progesterone-only pills"
+  },
+  "answer": "D",
+  "explanation": "An IUCD is safe from 4 weeks postpartum, long-acting and reversible, and is the keyed best option at the 6-week visit.",
+  "key_note": "Tubal ligation is also an option for a completed family, but the paper key marked D. Tubal ligation was also defensible for a completed family; replaced so the keyed IUCD is the best answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02147"
+  ],
+  "stem": "A 32-year-old para 6 wants contraception for the next 5 years. She has been diabetic for 2 years and works as a maid. BP is 120/80 mmHg. The best option is:",
+  "options": {
+   "A": "Combined oral contraceptive pills",
+   "B": "Copper IUCD",
+   "C": "Mini-pill",
+   "D": "Famila",
+   "E": "Condoms"
+  },
+  "answer": "B",
+  "explanation": "Cu-IUCD gives 10 years of contraception without hormones; the keyed answer is accepted.",
+  "key_note": "Mirena is also acceptable for 5 years; both papers keyed B. Mirena was also acceptable for 5 years; replaced so the keyed Cu-IUCD is the best answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02148"
+  ],
+  "stem": "A 40-year-old G4P3, all LSCS, at 35 weeks comes for antenatal check and contraceptive advice for the future. She is hypertensive and diabetic. The best contraceptive option is:",
+  "options": {
+   "A": "Bilateral tubal ligation",
+   "B": "Famila 28",
+   "C": "Mirena",
+   "D": "Meliane",
+   "E": "Implanon"
+  },
+  "answer": "A",
+  "explanation": "With four caesareans (high risk of scar complications), age 40 and medical disorders, tubal ligation at caesarean section is the best permanent choice.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02149"
+  ],
+  "stem": "A young woman has had two terminations of unwanted pregnancy because of missed oral contraceptive pills. She is on treatment for recurrent vaginal infection for the last year. Which is the single most suitable form of contraception?",
+  "options": {
+   "A": "Copper-containing IUCD",
+   "B": "Progesterone-only pills",
+   "C": "Barrier method",
+   "D": "Subdermal implant",
+   "E": "Combined oral contraceptive pill"
+  },
+  "answer": "D",
+  "explanation": "A user-independent method is needed because of pill failures, and an IUCD is less suitable with recurrent genital infection; the implant is best.",
+  "key_note": "One paper had no marked answer; the other marked D.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02716"
+  ],
+  "stem": "A 22-year-old delivered a male baby six weeks ago and is breastfeeding. Which contraceptive method is best for her?",
+  "options": {
+   "A": "Combined oral contraceptive pills",
+   "B": "Injectable progesterone",
+   "C": "Barrier method (condom)",
+   "D": "Fertility awareness method",
+   "E": "Tubal ligation"
+  },
+  "answer": "B",
+  "explanation": "Progestogen-only injectables are safe and effective in lactation and are not affected by compliance; oestrogen pills are avoided before 6 months.",
+  "key_note": "The LNG-IUS (D) is also suitable; three papers marked B and one was unmarked. Option D (LNG-IUS) was also suitable; replaced to avoid two correct answers.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02508"
+  ],
+  "stem": "A woman presents for termination of early pregnancy and is medically suitable for medical termination. Which combination is commonly used for medical abortion?",
+  "options": {
+   "A": "Heparin followed by aspirin",
+   "B": "Magnesium sulfate followed by insulin",
+   "C": "Methotrexate followed by oxytocin in every case",
+   "D": "Mifepristone followed by misoprostol",
+   "E": "Oxytocin followed by warfarin"
+  },
+  "answer": "D",
+  "explanation": "Mifepristone (progesterone antagonist) followed 24-48 hours later by misoprostol (PGE1) is the standard medical abortion regimen.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00445"
+  ],
+  "stem": "A 36-year-old G4P3 at 14 weeks of pregnancy has an ultrasound showing an anencephalic fetus. After counselling she decides on termination. Which drug is given first (priming) in the standard regimen for medical termination?",
+  "options": {
+   "A": "Oxytocin",
+   "B": "Misoprostol",
+   "C": "Mifepristone",
+   "D": "Prostaglandin",
+   "E": "Syntometrine"
+  },
+  "answer": "C",
+  "explanation": "Standard second-trimester medical termination is mifepristone priming followed by misoprostol, which sensitises the uterus and softens the cervix.",
+  "key_note": "Original stem asked for the most suitable medication, with both mifepristone and misoprostol offered; the stem now asks for the first drug of the standard regimen, which is mifepristone.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01983",
+   "C03088",
+   "C03011"
+  ],
+  "stem": "A 35-year-old G3P2 is diagnosed with fetal anencephaly at 18 weeks and requests termination. On examination the cervix is pin-point, full length and posterior. Which is the first-line management?",
+  "options": {
+   "A": "Amniotomy",
+   "B": "Mechanical method of induction",
+   "C": "PGE2 tablet",
+   "D": "Oxytocin infusion",
+   "E": "PGE1 tablet (misoprostol)"
+  },
+  "answer": "E",
+  "explanation": "For second-trimester termination with an unfavourable cervix, misoprostol (PGE1) is the first-line agent (preferably after mifepristone); oxytocin and amniotomy are ineffective alone.",
+  "key_note": "One paper marked C (PGE2); misoprostol (PGE1) is the standard and was marked in the other paper. One paper marked C (PGE2); misoprostol (E) is the standard second-trimester method.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01399"
+  ],
+  "stem": "Surgical termination by vacuum aspiration can be done up to:",
+  "options": {
+   "A": "8 weeks",
+   "B": "10 weeks",
+   "C": "12 weeks",
+   "D": "14 weeks",
+   "E": "16 weeks"
+  },
+  "answer": "D",
+  "explanation": "Vacuum aspiration is used up to about 14 weeks; beyond this dilatation and evacuation is needed.",
+  "key_note": "",
+  "figure": ""
+ }
+]

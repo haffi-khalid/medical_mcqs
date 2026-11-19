@@ -1,0 +1,1961 @@
+[
+ {
+  "cids": [
+   "C01111",
+   "C02773"
+  ],
+  "stem": "Embryo can be visualised and measured on transvaginal ultrasound at",
+  "options": {
+   "A": "5-6 weeks",
+   "B": "6 weeks",
+   "C": "4-5 weeks",
+   "D": "5 weeks",
+   "E": "4 weeks"
+  },
+  "answer": "A",
+  "explanation": "The gestational sac is seen at about 4.5-5 weeks and the embryo (fetal pole) with its crown-rump length measurable by 5-6 weeks of amenorrhoea on TVS.",
+  "key_note": "Source marked A (4 weeks); that is when only the gestational sac is seen, the embryo is visible by about 6 weeks, so B is the best answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01359"
+  ],
+  "stem": "Transvaginal ultrasound can detect a pregnancy as early as",
+  "options": {
+   "A": "4 weeks",
+   "B": "5 weeks",
+   "C": "6 weeks",
+   "D": "7 weeks",
+   "E": "8 weeks"
+  },
+  "answer": "B",
+  "explanation": "A gestational sac becomes visible on TVS at about 5 weeks (4.5-5 weeks) of amenorrhoea.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01360"
+  ],
+  "stem": "A normal intrauterine pregnancy can be detected on transvaginal ultrasound once serum beta-hCG reaches about",
+  "options": {
+   "A": "1000 IU/L",
+   "B": "1200 IU/L",
+   "C": "1500 IU/L",
+   "D": "1600 IU/L",
+   "E": "1800 IU/L"
+  },
+  "answer": "C",
+  "explanation": "The discriminatory zone of beta-hCG for TVS is about 1500 IU/L; above this an intrauterine sac should be visible, and its absence suggests ectopic or failing pregnancy.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01235",
+   "C00589",
+   "C02936",
+   "C02187"
+  ],
+  "stem": "An 18-year-old girl, married for 4 months, presents with 4 weeks of amenorrhoea and lower abdominal pain since one day. Which investigation will you advise to confirm pregnancy?",
+  "options": {
+   "A": "Transvaginal ultrasound",
+   "B": "Serum beta hCG (human chorionic gonadotrophin)",
+   "C": "Serum prolactin",
+   "D": "Serum progesterone",
+   "E": "Transabdominal ultrasound"
+  },
+  "answer": "B",
+  "explanation": "At 4 weeks a sac may not yet be visible, so serum beta hCG is the most sensitive confirmatory test.",
+  "key_note": "Two options were bold in one paper; B is the best answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01351",
+   "C01283",
+   "C01089",
+   "C02126",
+   "C02233"
+  ],
+  "stem": "A 30-year-old G3P1+1 presents with 8 weeks of amenorrhoea and vaginal bleeding. The os is closed, the uterus is of 8 weeks size and bleeding is mild. USG shows an intrauterine pregnancy with positive fetal heart. What is your diagnosis?",
+  "options": {
+   "A": "Missed miscarriage",
+   "B": "Incomplete miscarriage",
+   "C": "Threatened miscarriage",
+   "D": "Inevitable miscarriage",
+   "E": "Recurrent miscarriage"
+  },
+  "answer": "C",
+  "explanation": "Closed os, uterus size equal to dates and a viable fetus on scan indicate threatened miscarriage.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00686"
+  ],
+  "stem": "Which of the following should always be considered in the differential diagnosis of threatened abortion?",
+  "options": {
+   "A": "Parental factors",
+   "B": "Ectopic pregnancy",
+   "C": "Minor maternal trauma",
+   "D": "Oral contraceptive use",
+   "E": "Sexually transmitted infection"
+  },
+  "answer": "B",
+  "explanation": "Any woman with early pregnancy bleeding and pain must have an ectopic pregnancy excluded first, as it is life threatening.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00354"
+  ],
+  "stem": "A 24-year-old primigravida with 8 weeks of amenorrhoea presents with lower abdominal discomfort and vaginal bleeding. On examination the cervix is closed and ultrasound shows a single live fetus. What would be the most appropriate treatment?",
+  "options": {
+   "A": "Mifepristone",
+   "B": "Misoprostol",
+   "C": "Progesterone",
+   "D": "Oxytocin",
+   "E": "Estrogen"
+  },
+  "answer": "C",
+  "explanation": "This is threatened miscarriage. Progestogen support (e.g. dydrogesterone) is the accepted option in this exam setting; mifepristone and misoprostol would cause expulsion, and oxytocin and estrogen have no role.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01236"
+  ],
+  "stem": "A primigravida with 12 weeks of amenorrhoea has mild vaginal bleeding for the last 2 days. USG shows a viable pregnancy of 12 weeks. The next step in management should be",
+  "options": {
+   "A": "Reassurance",
+   "B": "Cervical cerclage",
+   "C": "Start progesterone",
+   "D": "Admit and maintain IV line",
+   "E": "Administer hCG"
+  },
+  "answer": "A",
+  "explanation": "A threatened miscarriage with a viable fetus needs reassurance and follow-up; there is no proven benefit from hormones, cerclage or admission.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00056"
+  ],
+  "stem": "A G3P2+0 presents at 6 weeks of gestation with vaginal spotting for 2 days. Transvaginal scan shows an intrauterine pregnancy with positive fetal cardiac activity. Next step in her management is",
+  "options": {
+   "A": "Admit and perform ERPC",
+   "B": "Advise bed rest to patient",
+   "C": "Transfuse blood to the patient",
+   "D": "Perform daily TVS for fetal well being",
+   "E": "Start oral haematinics"
+  },
+  "answer": "B",
+  "explanation": "Threatened miscarriage with a live embryo is managed conservatively with reassurance and rest (bed rest is not proven to help but is the only appropriate option listed). Evacuation or transfusion is not needed.",
+  "key_note": "A student blue-pen tick on D differed from the printed key B; D (daily TVS) is not indicated.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01241"
+  ],
+  "stem": "A 23-year-old primigravida attends at 6 weeks of gestation with slight bleeding for 2 days. Speculum examination shows a closed os with brownish staining. Ultrasound shows an intrauterine gestational sac measuring 18 x 15 mm with no yolk sac or fetal pole. What is the next plan of action?",
+  "options": {
+   "A": "Give misoprostol",
+   "B": "Serial beta hCG",
+   "C": "Evacuation and curettage",
+   "D": "Rescan after 7 days",
+   "E": "Progestogens"
+  },
+  "answer": "D",
+  "explanation": "A small sac without a yolk sac or embryo is of uncertain viability (pregnancy of uncertain viability), so the scan is repeated after 7 days before any intervention.",
+  "key_note": "Some paper keys marked Progestogens; correct is rescan after 7 days, as viability is uncertain and no treatment should precede a repeat scan.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00419",
+   "C01237",
+   "C01258",
+   "C02127",
+   "C02182"
+  ],
+  "stem": "A 20-year-old primigravida presents at 8 weeks of gestation with painless brownish vaginal bleeding for 4 hours. On speculum examination the cervical os is closed. Transvaginal ultrasound shows a single intrauterine pregnancy of 8 weeks with no cardiac activity. What is the most likely diagnosis?",
+  "options": {
+   "A": "Spontaneous miscarriage",
+   "B": "Incomplete miscarriage",
+   "C": "Missed miscarriage",
+   "D": "Inevitable miscarriage",
+   "E": "Threatened miscarriage"
+  },
+  "answer": "C",
+  "explanation": "A closed os with a non-viable embryo that has not been expelled is a missed miscarriage (delayed or silent miscarriage).",
+  "key_note": "Source cluster C00419 held two different questions (missed vs inevitable miscarriage); split into two items. One paper marked E (Inevitable); correct is B (Missed), since the os is closed and the embryo has no cardiac activity.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00419#S2",
+   "C02059"
+  ],
+  "stem": "A 20-year-old primigravida presents at 8 weeks of gestation with fresh red, moderate vaginal bleeding for 4 hours with mild pain. On speculum examination the cervical os is open. Transvaginal ultrasound shows a single live intrauterine pregnancy of 8 weeks. What is this condition called?",
+  "options": {
+   "A": "Threatened miscarriage",
+   "B": "Missed miscarriage",
+   "C": "Inevitable miscarriage",
+   "D": "Incomplete miscarriage",
+   "E": "Spontaneous miscarriage"
+  },
+  "answer": "C",
+  "explanation": "Bleeding with pain and an open cervical os means the miscarriage cannot be stopped (inevitable), even though the fetus is still alive and no tissue has yet passed.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00775",
+   "C02129"
+  ],
+  "stem": "A 25-year-old G5P3+1 presents at 13+ weeks with lower abdominal pain and vaginal bleeding for 3 hours and a history of passage of clots. On USG the uterus is empty with no retained products. The most likely diagnosis is",
+  "options": {
+   "A": "Complete miscarriage",
+   "B": "Incomplete miscarriage",
+   "C": "Miscarriage",
+   "D": "Missed miscarriage",
+   "E": "Recurrent miscarriage"
+  },
+  "answer": "A",
+  "explanation": "Bleeding with passage of tissue and an empty uterus with no retained products on scan is a complete miscarriage.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00058"
+  ],
+  "stem": "A G3P2+0 presents with heavy vaginal bleeding and expulsion of the sac at 12 weeks of gestation. Ultrasound of the pelvis shows an empty uterine cavity. Next step in her management is",
+  "options": {
+   "A": "Perform ERPC",
+   "B": "Admit and start oxytocin infusion",
+   "C": "Rescan after 2 days and then decide accordingly",
+   "D": "Reassure the patient and send her home",
+   "E": "Start injectable antibiotics"
+  },
+  "answer": "D",
+  "explanation": "This is a complete miscarriage with an empty uterus; no evacuation is required and she is reassured with follow-up advice.",
+  "key_note": "A student blue-pen tick on A (ERPC) differed from the printed key D; ERPC is only for retained products.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01287",
+   "C02125"
+  ],
+  "stem": "A G3P2+0 presents with brownish vaginal discharge at 14 weeks of gestation. On speculum examination the cervical os is closed and a small amount of blood is seen coming from the os. Which next investigation will you advise?",
+  "options": {
+   "A": "Reassure the patient",
+   "B": "Perform ultrasound for fetal well being",
+   "C": "Send coagulation profile of patient",
+   "D": "Counsel patient for suction termination of pregnancy",
+   "E": "Inform the patient that the fetus is dead and wait for spontaneous expulsion"
+  },
+  "answer": "B",
+  "explanation": "Bleeding in early second trimester with a closed os is assessed first by ultrasound for fetal viability and placental site before any decision is made.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00242",
+   "C00054",
+   "C00418",
+   "C01954",
+   "C02184"
+  ],
+  "stem": "A 32-year-old G3P1+1 presents with vaginal bleeding for 3 days and passage of tissue yesterday. She now has persistent lower abdominal cramping and heavy bleeding for 1 hour with passage of clots. She is pale, pulse 100/min, BP 100/60 mmHg. The cervical os is open and products of conception are felt in the cervical canal. Ultrasound shows an irregular endometrial cavity with echogenic material. What is the most appropriate management?",
+  "options": {
+   "A": "Reassure and observe, uterus will expel tissue spontaneously",
+   "B": "Administer misoprostol to aid expulsion of retained products",
+   "C": "Perform suction evacuation of the uterus",
+   "D": "Start broad-spectrum antibiotics alone",
+   "E": "Give methotrexate therapy"
+  },
+  "answer": "C",
+  "explanation": "Incomplete miscarriage with heavy ongoing bleeding and early haemodynamic compromise needs prompt surgical evacuation (suction).",
+  "key_note": "Not marked in one source paper; answer by reviewer. One paper copy marked Misoprostol (D) with a handwritten circle on D&C; correct is D&C because she is shocked and bleeding heavily.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00498"
+  ],
+  "stem": "A G3P2 presents in emergency with 6 weeks of amenorrhoea and heavy vaginal bleeding since morning. Her pregnancy test is positive and you diagnose incomplete miscarriage. You proceed with D&C. Which complication are you anticipating in this patient?",
+  "options": {
+   "A": "Sepsis",
+   "B": "Haemorrhage",
+   "C": "Chronic pelvic pain",
+   "D": "DVT",
+   "E": "Pulmonary embolism"
+  },
+  "answer": "B",
+  "explanation": "Haemorrhage (along with uterine perforation) is the commonest immediate complication of surgical evacuation for incomplete miscarriage.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00243",
+   "C00692",
+   "C01259",
+   "C00489",
+   "C02060"
+  ],
+  "stem": "A 30-year-old primigravida at 10 weeks of gestation attends for a routine antenatal check with mild brown vaginal spotting for 2 days but no pain. The uterus is smaller than expected and the cervix is closed. Transvaginal ultrasound shows a gestational sac with a fetal pole measuring 9 weeks but no cardiac activity. No tissue has passed. What is the most appropriate management?",
+  "options": {
+   "A": "Expectant management with surveillance for spontaneous expulsion",
+   "B": "Misoprostol to induce expulsion of retained products",
+   "C": "Suction evacuation of the uterus",
+   "D": "Methotrexate therapy",
+   "E": "Antibiotics and reassess after 2 weeks"
+  },
+  "answer": "B",
+  "explanation": "This is a missed miscarriage in a stable woman; medical evacuation with misoprostol (or expectant or surgical management by choice) is acceptable, and methotrexate has no role.",
+  "key_note": "The compiled answer line marked C (suction evacuation) while the original paper marked B (misoprostol); medical management is accepted in a stable woman so B is kept.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00284"
+  ],
+  "stem": "A 35-year-old G2P1 presents in emergency with mild vaginal bleeding. Her scan shows a 16-week pregnancy with absent cardiac activity. The most appropriate management option for her is",
+  "options": {
+   "A": "Suction termination",
+   "B": "Medical termination with prostaglandin E1",
+   "C": "Medical termination with prostaglandin E2",
+   "D": "Manual vacuum aspiration",
+   "E": "Dilatation and curettage"
+  },
+  "answer": "B",
+  "explanation": "At 16 weeks, a fetal demise is best expelled medically with misoprostol (PGE1) since suction and D&C are hazardous at this size.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01282"
+  ],
+  "stem": "A G4P0+3 presents in antenatal clinic at 8 weeks of gestation. She informs you that she had three miscarriages in the first trimester. Your diagnosis in this case is",
+  "options": {
+   "A": "Threatened miscarriage",
+   "B": "Complete miscarriage",
+   "C": "Inevitable miscarriage",
+   "D": "Incomplete miscarriage",
+   "E": "Recurrent miscarriage"
+  },
+  "answer": "E",
+  "explanation": "Recurrent miscarriage is defined as three or more consecutive pregnancy losses.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00761"
+  ],
+  "stem": "Regarding recurrent miscarriage, which of the following statements is true?",
+  "options": {
+   "A": "Recurrent miscarriage is defined as the loss of three or more consecutive pregnancies",
+   "B": "Recurrent miscarriage affects 10% of couples",
+   "C": "Risk factors for recurrent miscarriage include gestational diabetes and hypothyroidism",
+   "D": "Investigations of recurrent miscarriage include complete blood count and clotting profile",
+   "E": "Aspirin and low dose heparin can effectively treat all cases of recurrent miscarriage"
+  },
+  "answer": "A",
+  "explanation": "RCOG defines recurrent miscarriage as loss of three or more consecutive pregnancies; it affects about 1% of couples, and heparin with aspirin helps only antiphospholipid syndrome.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01358"
+  ],
+  "stem": "The risk of recurrent miscarriage in a couple is about",
+  "options": {
+   "A": "1%",
+   "B": "2%",
+   "C": "3%",
+   "D": "4%",
+   "E": "5%"
+  },
+  "answer": "A",
+  "explanation": "About 1% of couples experience three or more consecutive miscarriages.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00428"
+  ],
+  "stem": "A 30-year-old woman attends for preconception counselling. She has had three previous first trimester miscarriages. Which test will help to find a cause of her recurrent miscarriages?",
+  "options": {
+   "A": "Blood CBC",
+   "B": "Blood sugar",
+   "C": "Viral serology",
+   "D": "Urine RE",
+   "E": "RFTs"
+  },
+  "answer": "B",
+  "explanation": "Poorly controlled diabetes is a recognised cause of recurrent miscarriage and is screened for (glucose or HbA1c); the other listed tests are not part of the standard work-up, which centres on antiphospholipid antibodies, parental karyotype and pelvic scan.",
+  "key_note": "Paper marked D (Urine RE); flawed question, as no option is a core test. Blood sugar is chosen as the only recognised cause among the options.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01285"
+  ],
+  "stem": "A P0+3 woman presents for evaluation of recurrent miscarriage. You suspect uterine pathology. Which investigation will help confirm a uterine structural abnormality?",
+  "options": {
+   "A": "Laparoscopy",
+   "B": "Cystoscopy",
+   "C": "Hysteroscopy",
+   "D": "X-ray pelvis",
+   "E": "Falloposcopy"
+  },
+  "answer": "C",
+  "explanation": "Hysteroscopy allows direct visualisation of the uterine cavity (septum, adhesions, polyps); 3D pelvic ultrasound is the non-invasive alternative.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00693"
+  ],
+  "stem": "Acquired defects that may lead to second trimester recurrent miscarriage include which of the following?",
+  "options": {
+   "A": "Leiomyoma",
+   "B": "Asherman syndrome",
+   "C": "Cervical incompetence",
+   "D": "Hypertension",
+   "E": "Diabetes"
+  },
+  "answer": "C",
+  "explanation": "Acquired cervical weakness (after cone biopsy, forced dilatation or obstetric trauma) causes painless second trimester loss.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00215"
+  ],
+  "stem": "A 29-year-old G3P2 with two previous normal deliveries attends the ER at 22 weeks with lower abdominal discomfort. On speculum examination the cervix is dilated 2 cm with bulging membranes. You suspect inevitable miscarriage. What is the most likely cause?",
+  "options": {
+   "A": "Chromosomal anomaly",
+   "B": "Polyhydramnios",
+   "C": "Abruptio placenta",
+   "D": "Cervical incompetence",
+   "E": "Uterine anomaly"
+  },
+  "answer": "D",
+  "explanation": "Painless cervical dilatation with bulging membranes in the mid-trimester, in a woman with previous normal deliveries, is typical of cervical incompetence.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01234",
+   "C02935"
+  ],
+  "stem": "A 20-year-old G5P1+3 comes to the ER at 13 weeks of gestation with lower abdominal pain for 2 hours. She has had three second trimester losses characterised by painless cervical dilatation and rupture of membranes. Which should be the primary management intervention now?",
+  "options": {
+   "A": "Progestogens",
+   "B": "Cervical cerclage",
+   "C": "hCG",
+   "D": "Corticosteroids",
+   "E": "Reassurance"
+  },
+  "answer": "B",
+  "explanation": "A history of three or more painless second trimester losses indicates cervical insufficiency, treated with elective cervical cerclage at 12-14 weeks.",
+  "key_note": "Options partly given in the source (a margin note also mentions progesterone); cerclage is the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00223"
+  ],
+  "stem": "A 30-year-old woman has a history of three consecutive first trimester miscarriages and one preterm delivery. She is most likely a case of",
+  "options": {
+   "A": "Cervical incompetence",
+   "B": "Acquired thrombophilia",
+   "C": "Antiphospholipid syndrome",
+   "D": "Recurrent miscarriages",
+   "E": "Threatened miscarriages"
+  },
+  "answer": "C",
+  "explanation": "Recurrent early losses with a preterm delivery (usually from pre-eclampsia or placental insufficiency) fit the obstetric criteria for antiphospholipid syndrome.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00701"
+  ],
+  "stem": "The term antiphospholipid syndrome is characterised by",
+  "options": {
+   "A": "Association of anticardiolipin antibodies (aCL) and antinuclear antibodies (ANA)",
+   "B": "Diagnosis is confirmed by positive antibody titres on two occasions 3 weeks apart",
+   "C": "Two or more miscarriages at less than 10 weeks gestation",
+   "D": "Delivery before 36 weeks due to fetal growth retardation or severe pre-eclampsia",
+   "E": "Association of anticardiolipin antibodies (aCL) and lupus anticoagulant (LA)"
+  },
+  "answer": "E",
+  "explanation": "APS is defined by antiphospholipid antibodies (lupus anticoagulant, anticardiolipin, anti-beta2 glycoprotein I) with clinical thrombosis or pregnancy morbidity; antibodies must persist 12 weeks apart, not 3.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00226",
+   "C01962",
+   "C02343",
+   "C02134"
+  ],
+  "stem": "A 28-year-old woman has had 3 consecutive first trimester miscarriages and you want to rule out antiphospholipid syndrome. Which antibody testing will you advise?",
+  "options": {
+   "A": "Lupus anticoagulant",
+   "B": "Anti-nuclear antibody",
+   "C": "Lupus anticoagulant and antiphospholipid antibody",
+   "D": "Rheumatoid factor",
+   "E": "ESR"
+  },
+  "answer": "C",
+  "explanation": "Both lupus anticoagulant and anticardiolipin (antiphospholipid) antibodies should be tested, repeated at least 12 weeks apart if positive.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00225",
+   "C01240",
+   "C00220",
+   "C00221",
+   "C00218",
+   "C00222",
+   "C02135",
+   "C03153",
+   "C01744"
+  ],
+  "stem": "The best treatment option for antiphospholipid syndrome (APS) in pregnancy is",
+  "options": {
+   "A": "Low dose aspirin only",
+   "B": "Unfractionated heparin",
+   "C": "LMWH only",
+   "D": "Aspirin plus unfractionated heparin",
+   "E": "LMWH plus aspirin"
+  },
+  "answer": "E",
+  "explanation": "Low dose aspirin plus prophylactic LMWH from a positive pregnancy test is the standard regimen for obstetric APS and raises live birth rates.",
+  "key_note": "One paper key marked B (Unfractionated heparin); correct is LMWH plus aspirin, the standard regimen. Source stem did not name APS; the answer applies to antiphospholipid syndrome (unexplained recurrent miscarriage has no proven drug therapy). One paper listed E (aspirin plus warfarin) as a second key; warfarin is teratogenic, so A is correct. Some options were garbled in the source (option C wording); all papers marked B.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01325"
+  ],
+  "stem": "Mrs ABC has recurrent miscarriages due to antiphospholipid syndrome. You prescribe low dose aspirin and low dose heparin because it reduces the incidence of miscarriage by about",
+  "options": {
+   "A": "20%",
+   "B": "30%",
+   "C": "40%",
+   "D": "50%",
+   "E": "70%"
+  },
+  "answer": "D",
+  "explanation": "Combined aspirin and heparin reduces pregnancy loss in APS by about 50% (live birth rate rises from about 40-50% to 70-80%).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00426",
+   "C01859",
+   "C02063"
+  ],
+  "stem": "A 30-year-old G2P1 presents in emergency with 5 weeks of amenorrhoea and shock and is diagnosed with ruptured ectopic pregnancy. What is the most common cause (risk factor) of ectopic pregnancy?",
+  "options": {
+   "A": "Previous miscarriages",
+   "B": "Previous laparoscopic surgery",
+   "C": "Previous pelvic inflammatory disease",
+   "D": "Previous use of COCP",
+   "E": "Previous use of barrier method"
+  },
+  "answer": "C",
+  "explanation": "Tubal damage from pelvic inflammatory disease (especially chlamydia) is the commonest identifiable cause of ectopic pregnancy.",
+  "key_note": "Papers disagreed (C circled, D handwritten); C is correct as the IUCD was removed 4 years earlier.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00422",
+   "C01242",
+   "C01870"
+  ],
+  "stem": "A 25-year-old primigravida at 6 weeks of gestation has scanty vaginal bleeding, lower abdominal pain and syncope. Transvaginal ultrasound shows an adnexal mass with no intrauterine gestational sac. What part of the fallopian tube is the most common site of ectopic pregnancy?",
+  "options": {
+   "A": "Ampulla",
+   "B": "Fimbria",
+   "C": "Isthmus",
+   "D": "Intramural",
+   "E": "Ovarian"
+  },
+  "answer": "A",
+  "explanation": "About 70-80% of tubal ectopic pregnancies occur in the ampulla.",
+  "key_note": "Some options were illegible/missing in the source.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01166"
+  ],
+  "stem": "The most common symptom in a patient presenting with ectopic pregnancy is",
+  "options": {
+   "A": "Brownish vaginal discharge",
+   "B": "Abdominal pain",
+   "C": "Nausea and vomiting",
+   "D": "Syncope",
+   "E": "Shoulder tip pain"
+  },
+  "answer": "B",
+  "explanation": "Lower abdominal (usually unilateral) pain is the commonest symptom, followed by amenorrhoea and vaginal bleeding; shoulder tip pain and syncope indicate rupture.",
+  "key_note": "One paper marked A (Brownish vaginal discharge); correct is abdominal pain, the most common symptom.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00246"
+  ],
+  "stem": "A 31-year-old P3+1 complains of moderate lower abdominal pain. She is not sure of her last menstrual date as her periods have been irregular since 3-monthly contraceptive injections 6 months ago. She also has brownish vaginal discharge. You will suspect the following until proved otherwise.",
+  "options": {
+   "A": "Pelvic inflammatory disease",
+   "B": "Ectopic pregnancy",
+   "C": "Hormonal imbalance",
+   "D": "Endometriosis",
+   "E": "Missed miscarriage"
+  },
+  "answer": "B",
+  "explanation": "In a woman of reproductive age with pain, abnormal bleeding or discharge and uncertain dates, ectopic pregnancy must be excluded first, particularly after progestogen-only contraception.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00774"
+  ],
+  "stem": "A 22-year-old G3P2+0 has six weeks of gestational amenorrhoea and vaginal bleeding for one day. Urine pregnancy test is positive. She is non-tender. TVS shows an empty uterus with thick endometrial echo and clear adnexa. There is no free fluid in the pouch of Douglas. What is your next step of management?",
+  "options": {
+   "A": "Admit the patient",
+   "B": "Advise beta hCG",
+   "C": "Give i/v antibiotics",
+   "D": "Give i/m inj methotrexate",
+   "E": "Repeat scan after 48 hours"
+  },
+  "answer": "B",
+  "explanation": "This is a pregnancy of unknown location in a stable woman; serum beta hCG is measured and repeated at 48 hours (a rise of at least 63% suggests viable intrauterine pregnancy). Methotrexate is not given without a confirmed ectopic.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00247"
+  ],
+  "stem": "A 25-year-old primigravida at 5 weeks of gestational amenorrhoea presents with PV spotting and bleeding. BP is 120/80, pulse 72/min, temperature 98 F, abdomen soft and non-tender. TVS shows no intra or extra-uterine pregnancy and beta hCG is 575. What will you do next?",
+  "options": {
+   "A": "Repeat beta hCG after 48 hours",
+   "B": "Laparotomy",
+   "C": "Laparoscopy",
+   "D": "Repeat TVS after 2 weeks",
+   "E": "Repeat beta hCG after 12 hours"
+  },
+  "answer": "A",
+  "explanation": "A stable woman with a pregnancy of unknown location and a low hCG (below the discriminatory zone) needs a repeat serum hCG after 48 hours to determine its behaviour.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00355",
+   "C01238",
+   "C01363"
+  ],
+  "stem": "A 30-year-old G3P2 with two previous caesarean scars attends emergency at 6 weeks of amenorrhoea with severe abdominal pain. She is pale, pulse is 120/min, BP 90/50 mmHg and the abdomen is tender. Her pregnancy test is positive. Which investigation will you perform for definite diagnosis?",
+  "options": {
+   "A": "Serum beta hCG",
+   "B": "Transvaginal ultrasound",
+   "C": "Abdominal ultrasound",
+   "D": "Abdominal tap",
+   "E": "Complete blood count"
+  },
+  "answer": "B",
+  "explanation": "Transvaginal ultrasound is the diagnostic investigation of choice for suspected ectopic pregnancy, showing an adnexal mass and free fluid.",
+  "key_note": "Some textbooks call laparoscopy the definitive test; both papers marked TVS, which is the practical standard.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00632",
+   "C01086",
+   "C01955"
+  ],
+  "stem": "A 24-year-old woman presents in emergency with pain in the left iliac fossa for 4 hours. She had severe pelvic infection 8 months ago. She feels faint, looks pale, BP is 80/50 mmHg and heart rate 130/min. LMP was 6 weeks back and her pregnancy test is positive. Most likely diagnosis is",
+  "options": {
+   "A": "Round ligament stretching",
+   "B": "Ruptured ectopic pregnancy",
+   "C": "Acute appendicitis",
+   "D": "Acute urinary retention",
+   "E": "Ovarian cyst accident"
+  },
+  "answer": "B",
+  "explanation": "Amenorrhoea, a positive pregnancy test, iliac fossa pain and shock after previous PID are classic for ruptured ectopic pregnancy.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01125",
+   "C01625",
+   "C01803"
+  ],
+  "stem": "A 30-year-old non-booked multigravida presents in emergency at ten weeks of gestational amenorrhoea in shock. Ultrasound reveals massive haemoperitoneum and a diagnosis of ruptured ectopic pregnancy is made. She dies despite resuscitation. This maternal death will be classified as",
+  "options": {
+   "A": "Accidental maternal mortality",
+   "B": "Coincidental maternal mortality",
+   "C": "Direct maternal mortality",
+   "D": "Fortuitous maternal death",
+   "E": "Indirect maternal mortality"
+  },
+  "answer": "C",
+  "explanation": "Death from ectopic pregnancy is a direct obstetric death (a complication of pregnancy itself); indirect deaths arise from pre-existing disease aggravated by pregnancy.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00240",
+   "C00237"
+  ],
+  "stem": "A 29-year-old G3P1A1 presents with sudden severe lower abdominal pain and syncope after 7 weeks of amenorrhoea. She is pale, BP 80/50 mmHg, pulse 128/min, respiratory rate 26/min. The abdomen is distended, tender with guarding; the cervix is closed and fornices are tender and full. Urine pregnancy test is positive, Hb 7.8 g/dL. TVS shows an empty uterus with a large amount of free pelvic fluid. What is the most appropriate immediate management?",
+  "options": {
+   "A": "Transvaginal aspiration of haemoperitoneum followed by methotrexate",
+   "B": "Intravenous fluids, cross-match blood, and immediate laparotomy",
+   "C": "High-dose methotrexate IM and close monitoring",
+   "D": "Diagnostic laparoscopy to confirm diagnosis",
+   "E": "Suction evacuation of uterus followed by observation"
+  },
+  "answer": "B",
+  "explanation": "Ruptured ectopic with shock needs simultaneous resuscitation (IV fluids, blood) and emergency laparotomy; delay for diagnostics or medical therapy is dangerous.",
+  "key_note": "Not marked in one source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00055"
+  ],
+  "stem": "A 22-year-old woman presents with secondary amenorrhoea of 6 weeks. Her ultrasound shows an empty uterine cavity and an adnexal mass, and urine pregnancy test is positive. You plan to manage her conservatively. Criteria for conservative management include",
+  "options": {
+   "A": "Hypotension",
+   "B": "Evidence of embryonic cardiac activity",
+   "C": "Size of the adnexal mass less than 5 cm",
+   "D": "Serum beta hCG more than 1500 IU/L",
+   "E": "Abdominal tenderness"
+  },
+  "answer": "C",
+  "explanation": "Conservative (expectant or medical) management needs a stable, minimally symptomatic woman with a small unruptured mass (below 3.5-5 cm), no cardiac activity and a low hCG; hypotension, cardiac activity, tenderness and high hCG are contraindications.",
+  "key_note": "A student blue-pen tick on D (hCG above 1500) differed from the printed key C; high hCG is a contraindication.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00679"
+  ],
+  "stem": "A 28-year-old woman presents in OPD with 8 weeks of amenorrhoea. Ultrasound shows an empty uterus and a right adnexal complex mass measuring 2.5 cm with no free fluid in the cul de sac. She is vitally stable. Her beta hCG is 950 IU/L. What will be the most suitable treatment for her?",
+  "options": {
+   "A": "Laparotomy and right salpingectomy",
+   "B": "Intramuscular methotrexate",
+   "C": "Dilatation and curettage with serial BhCG monitoring",
+   "D": "Laparoscopic salpingectomy",
+   "E": "Conservative management with serial BhCG monitoring"
+  },
+  "answer": "E",
+  "explanation": "A stable, minimally symptomatic woman with a small unruptured ectopic and hCG below 1000-1500 IU/L can be managed expectantly with serial hCG.",
+  "key_note": "One paper marked D (Laparoscopic salpingectomy); expectant management is correct as hCG is low and she is stable. Source cluster C00679 held two different questions (hCG 950 and hCG 2500); split into two items.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00239",
+   "C00776",
+   "C00679#S2",
+   "C00248",
+   "C00762",
+   "C00231",
+   "C02239#S2",
+   "C02064",
+   "C01813"
+  ],
+  "stem": "A 27-year-old G2P1 presents with 6 weeks of amenorrhoea, lower abdominal pain and mild vaginal spotting. She is haemodynamically stable (pulse 90/min, BP 110/70 mmHg). There is right adnexal tenderness without cervical motion tenderness. Serum beta hCG is 1800 mIU/mL, urine pregnancy test positive. TVS shows an empty uterus, right adnexal mass of 2.5 cm and no free fluid. She wishes to preserve fertility. What is the most appropriate next step?",
+  "options": {
+   "A": "Immediate laparotomy with salpingectomy",
+   "B": "Expectant management with follow-up",
+   "C": "Single-dose methotrexate 50 mg/m2 IM",
+   "D": "Suction evacuation of the uterus",
+   "E": "Laparoscopic removal of adnexal mass"
+  },
+  "answer": "C",
+  "explanation": "Methotrexate 50 mg/m2 IM single dose is appropriate for a stable woman with unruptured ectopic below 3.5 cm and hCG below 5000 IU/L, preserving the tube.",
+  "key_note": "Not marked in one source paper; answer by reviewer. A paper key marked A (Expectant management) while a handwritten circle was on C; correct is medical management as hCG is 3000 IU/L. Two papers marked A (Conservative management); correct is medical management since hCG of 2500 IU/L is above the expectant limit.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00236"
+  ],
+  "stem": "A 32-year-old woman has mild lower abdominal pain and minimal vaginal bleeding and is haemodynamically stable. LMP was 6 weeks ago. Serum beta hCG is 3,000 IU/L and TVS shows an empty uterus and a 2.5 cm right adnexal mass with no fetal cardiac activity and minimal free fluid in the pouch of Douglas. She desires fertility and prefers non-surgical management. Which statement regarding her management is most appropriate?",
+  "options": {
+   "A": "She is a candidate for single-dose methotrexate therapy",
+   "B": "Methotrexate is contraindicated as beta hCG is 3,000 IU/L",
+   "C": "Multidose methotrexate regimen is indicated due to adnexal mass size above 2 cm",
+   "D": "Expectant management, as there is no fetal cardiac activity and she is asymptomatic",
+   "E": "Laparoscopic salpingostomy as first-line due to adnexal mass presence"
+  },
+  "answer": "A",
+  "explanation": "Single-dose methotrexate is suitable when hCG is below 5000 IU/L, the mass is below 3.5 cm without cardiac activity and the woman is stable and reliable for follow-up.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00230",
+   "C02178"
+  ],
+  "stem": "A 35-year-old G2P0A1 attends clinic with 6 weeks of amenorrhoea. Ultrasound shows an empty uterus and an adnexal mass of 4 x 5 cm with gestational sac and fetal pole with cardiac activity. There is no free fluid in the pouch of Douglas and the patient is asymptomatic. Which is the best treatment for her?",
+  "options": {
+   "A": "Laparoscopy",
+   "B": "Laparotomy",
+   "C": "Methotrexate",
+   "D": "Hysteroscopy",
+   "E": "Misoprostol"
+  },
+  "answer": "A",
+  "explanation": "A mass above 3.5 cm with fetal cardiac activity is a contraindication to methotrexate, so a stable patient is treated by laparoscopic surgery (salpingectomy or salpingostomy).",
+  "key_note": "One paper annotated C (Methotrexate); this is incorrect as mass size above 3.5 cm and cardiac activity contraindicate methotrexate. Not marked in other papers. Two options were bold in one paper; D (laparoscopy) is correct as methotrexate criteria are not met.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01288",
+   "C01748"
+  ],
+  "stem": "A 25-year-old G3P1+1 presents at 8 weeks of gestation. She had a vaginal delivery 3 years ago and a right salpingectomy for ectopic pregnancy 1 year ago. Ultrasound shows a left-sided ectopic pregnancy with an intact 3 cm gestational sac and no fetal cardiac activity. The treatment option for this patient will be",
+  "options": {
+   "A": "Injection methotrexate",
+   "B": "Laparoscopic salpingectomy",
+   "C": "Laparotomy and salpingectomy",
+   "D": "Expectant management",
+   "E": "Laparoscopic salpingostomy"
+  },
+  "answer": "A",
+  "explanation": "In a woman with a single remaining tube who is stable with no cardiac activity, methotrexate conserves the tube and future fertility; salpingectomy would render her sterile.",
+  "key_note": "Paper key marked A (expectant); methotrexate is preferred at this hCG (value printed '17001U' in source, read as 1700 IU/L).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01350"
+  ],
+  "stem": "A 37-year-old G3P2 comes to ER with 8 weeks of amenorrhoea and severe right-sided abdominal pain. TVS shows an empty uterus with a 55 mm right adnexal mass. Serum beta hCG is 5234 IU/L. How will you manage her?",
+  "options": {
+   "A": "IV analgesics",
+   "B": "Repeat beta hCG after 48 hours",
+   "C": "Immediate laparotomy",
+   "D": "Injection methotrexate",
+   "E": "Repeat USG"
+  },
+  "answer": "C",
+  "explanation": "A large mass above 35 mm, hCG above 5000 IU/L and severe pain exclude medical management and need urgent surgery.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01385"
+  ],
+  "stem": "A 30-year-old P3 with LMP 6 weeks ago has a positive UPT. Ultrasound shows an empty uterine cavity with an adnexal mass of less than 40 mm. Beta hCG is 3000 IU/L, BP 120/80 mmHg, pulse 88/min and the abdomen is soft and non-tender. What will be your management for this case of ectopic pregnancy?",
+  "options": {
+   "A": "Expectant management",
+   "B": "Methotrexate alone",
+   "C": "Methotrexate and folic acid",
+   "D": "Emergency laparotomy",
+   "E": "Laparoscopy"
+  },
+  "answer": "B",
+  "explanation": "Methotrexate is a folate antagonist, so folic acid and folate-containing supplements should be withheld during treatment as they reduce its efficacy.",
+  "key_note": "The printed key marked C (Methotrexate and folic acid) while a red circle was on B; correct is B, as folic acid antagonises methotrexate.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01384"
+  ],
+  "stem": "After medical treatment of ectopic pregnancy, serum beta hCG levels should be measured on the following days",
+  "options": {
+   "A": "Day 1, 3 and 7",
+   "B": "Day 2, 4 and 8",
+   "C": "Day 4, 7 and 11",
+   "D": "Day 5, 9 and 13",
+   "E": "Day 4, 7 and 9"
+  },
+  "answer": "C",
+  "explanation": "Day 1 is the day of methotrexate; hCG is checked on days 4 and 7 (a fall of at least 15% between them indicates success) and then weekly.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01323",
+   "C00232",
+   "C00421",
+   "C00057",
+   "C00245",
+   "C01481",
+   "C02188",
+   "C02240",
+   "C01872",
+   "C02130"
+  ],
+  "stem": "A 28-year-old G3P2 presents with brownish vaginal discharge, passage of vesicles and excessive vomiting. Ultrasound shows a snowstorm appearance in the uterus with no fetus. The most likely diagnosis is",
+  "options": {
+   "A": "Missed miscarriage",
+   "B": "Complete mole",
+   "C": "Partial mole",
+   "D": "Incomplete miscarriage",
+   "E": "Anembryonic pregnancy"
+  },
+  "answer": "B",
+  "explanation": "Passage of vesicles, hyperemesis and a snowstorm uterus without a fetus are typical of complete mole.",
+  "key_note": "A student blue-pen tick on B (Partial mole) differed from the printed key C. The ultrasound image was not available in the scan; options A and D were both 'Incomplete miscarriage' in the source, so D was changed to 'Missed miscarriage'. Paper key B kept.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00291",
+   "C01812"
+  ],
+  "stem": "A 24-year-old woman with two previous pregnancy losses at 6 and 8 weeks (both requiring D&C) presents at 8 weeks of her latest pregnancy with excessive vomiting, vaginal bleeding and a uterine size corresponding to 12 weeks. What is the investigation of choice?",
+  "options": {
+   "A": "Serum beta hCG level",
+   "B": "Karyotyping of parents",
+   "C": "Pelvic ultrasound",
+   "D": "Serum electrolytes",
+   "E": "Complete blood count"
+  },
+  "answer": "C",
+  "explanation": "Uterus larger than dates with bleeding and hyperemesis suggests molar pregnancy, which is confirmed by pelvic ultrasound.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00241",
+   "C00053",
+   "C01284",
+   "C01162",
+   "C00251",
+   "C01482",
+   "C02180"
+  ],
+  "stem": "A 22-year-old primigravida presents at 12 weeks of amenorrhoea with excessive nausea, vomiting and vaginal bleeding. The uterus is equal to 20 weeks size. Serum beta hCG is 100,000 mIU/mL. Ultrasound shows a snowstorm appearance with multiple cystic spaces and no identifiable fetus. What is the most appropriate next step in management?",
+  "options": {
+   "A": "Start methotrexate chemotherapy immediately",
+   "B": "Perform suction evacuation of the uterus",
+   "C": "Perform sharp curettage until uterine cavity is empty",
+   "D": "Misoprostol for medical termination",
+   "E": "Schedule hysterectomy regardless of fertility wishes"
+  },
+  "answer": "B",
+  "explanation": "Suction evacuation under oxytocin cover is the treatment for complete mole; chemotherapy is given only for persistent disease or GTN.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01239",
+   "C00254",
+   "C02874",
+   "C02262"
+  ],
+  "stem": "A 23-year-old P3 was treated for missed miscarriage by evacuation and the histopathology shows a partial mole. What is the most likely genetic make-up of a partial molar pregnancy?",
+  "options": {
+   "A": "46XY",
+   "B": "46YY",
+   "C": "46YYY",
+   "D": "69XXY",
+   "E": "69YYY"
+  },
+  "answer": "D",
+  "explanation": "Partial mole is triploid (69XXY, 69XYY or 69XXX), from fertilisation of one egg by two sperm (dispermy); a complete mole is 46XX, entirely paternal.",
+  "key_note": "Source options varied (69XYY vs 69XXY); both are triploid partial-mole karyotypes. Merged with a recall item (karyotype of partial mole, answer 69XXY). Recall question; options from one source version.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00676",
+   "C00695",
+   "C01324",
+   "C01429",
+   "C01871",
+   "C02929"
+  ],
+  "stem": "A woman undergoes surgical curettage for miscarriage and the histopathology report confirms a partial mole. What should be the next step in her management?",
+  "options": {
+   "A": "Start serial beta hCG monitoring",
+   "B": "Repeat suction and curettage",
+   "C": "Advise COCP",
+   "D": "Prescribe methotrexate",
+   "E": "Reassurance"
+  },
+  "answer": "A",
+  "explanation": "After evacuation of any molar pregnancy, serial hCG is followed until it is normal to detect persistent trophoblastic disease, which occurs in 0.5-1% of partial moles.",
+  "key_note": "One paper marked Reassurance (asterisk) with a handwritten circle on serial hCG; serial hCG monitoring is correct.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01349"
+  ],
+  "stem": "Mrs XYZ attends at 10 weeks of gestation for antenatal booking. In her previous pregnancy two years ago she was treated for a partial mole. USG now shows a normal intrauterine pregnancy. When will you advise hCG after delivery for follow up?",
+  "options": {
+   "A": "6 and 10 weeks",
+   "B": "4 and 10 weeks",
+   "C": "Immediately after delivery",
+   "D": "6 weeks",
+   "E": "3 months after delivery"
+  },
+  "answer": "A",
+  "explanation": "After a previous molar pregnancy, hCG is checked 6 and 10 weeks after the end of any subsequent pregnancy to exclude missed gestational trophoblastic disease.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00252",
+   "C00250"
+  ],
+  "stem": "A 30-year-old woman presents 8 weeks after a medically managed first trimester miscarriage with irregular vaginal bleeding and lower abdominal discomfort. She has breathlessness and pleuritic chest pain. Serum beta hCG is 55,000 IU/L. TVS shows a mildly enlarged uterus with a heterogeneous endometrial lesion and chest X-ray shows multiple cannonball opacities. What is the most likely diagnosis and next step?",
+  "options": {
+   "A": "Retained products of conception; schedule suction curettage",
+   "B": "Invasive mole; repeat uterine evacuation and follow beta hCG trend",
+   "C": "Choriocarcinoma; initiate multi-agent systemic chemotherapy",
+   "D": "Subinvolution of uterus; manage expectantly with close observation",
+   "E": "Pulmonary embolism and unrelated uterine pathology; start anticoagulation"
+  },
+  "answer": "C",
+  "explanation": "High hCG with lung metastases after a pregnancy event is choriocarcinoma (high-risk GTN), treated with multi-agent chemotherapy (EMA-CO).",
+  "key_note": "Not marked in one source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00584"
+  ],
+  "stem": "A woman at 9 weeks of gestation comes to the antenatal clinic for booking with severe nausea and occasional vomiting. Her husband is not ready for any drug therapy. What will you advise her?",
+  "options": {
+   "A": "Drink decaffeinated coffee",
+   "B": "Drink herbal tea",
+   "C": "Early morning walk",
+   "D": "Drink ginger syrup",
+   "E": "Take sweets"
+  },
+  "answer": "D",
+  "explanation": "Ginger and small frequent meals are the non-pharmacological measures with evidence for relieving pregnancy nausea and vomiting.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01063"
+  ],
+  "stem": "Hyperemesis gravidarum is a severe intractable form of nausea and vomiting that affects",
+  "options": {
+   "A": "70-80% of pregnancies",
+   "B": "6-9% of pregnancies",
+   "C": "0.3-2% of pregnancies",
+   "D": "50% of pregnancies",
+   "E": "10% of pregnancies"
+  },
+  "answer": "C",
+  "explanation": "Nausea and vomiting affects 70-80% of pregnancies but hyperemesis gravidarum only about 0.3-2%.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00870",
+   "C01969",
+   "C02362"
+  ],
+  "stem": "A 25-year-old primigravida attends the antenatal clinic with 7 weeks of amenorrhoea and vomiting. To check the severity of vomiting you test her urine for",
+  "options": {
+   "A": "Bilirubin",
+   "B": "Protein",
+   "C": "Blood",
+   "D": "Ketones",
+   "E": "Pus cells"
+  },
+  "answer": "D",
+  "explanation": "Ketonuria from starvation indicates severity and the need for admission and intravenous fluids in hyperemesis gravidarum.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00936"
+  ],
+  "stem": "The commonest complication associated with hyperemesis gravidarum is",
+  "options": {
+   "A": "Dehydration",
+   "B": "Electrolyte imbalance",
+   "C": "Raised haematocrit",
+   "D": "Ketonuria",
+   "E": "Weight loss"
+  },
+  "answer": "A",
+  "explanation": "Persistent vomiting with poor intake leads first to dehydration, which causes the other metabolic changes.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01123"
+  ],
+  "stem": "A 25-year-old pregnant woman has severe vomiting. Her arterial blood gas examination is most likely to show",
+  "options": {
+   "A": "Metabolic acidosis",
+   "B": "Metabolic acidosis and respiratory acidosis",
+   "C": "Metabolic alkalosis and respiratory acidosis",
+   "D": "Metabolic alkalosis and respiratory alkalosis",
+   "E": "Respiratory acidosis"
+  },
+  "answer": "C",
+  "explanation": "Loss of gastric hydrochloric acid causes hypochloraemic metabolic alkalosis with compensatory hypoventilation (respiratory acidosis).",
+  "key_note": "Paper marked A (Metabolic acidosis) while a handwritten circle was on C; vomiting causes metabolic alkalosis, so C is correct.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01403",
+   "C01391"
+  ],
+  "stem": "In the early stages of a normally developing intrauterine pregnancy, beta hCG doubles after every:",
+  "options": {
+   "A": "12 hours",
+   "B": "24 hours",
+   "C": "36 hours",
+   "D": "48 hours",
+   "E": "72 hours"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "In early viable intrauterine pregnancy hCG roughly doubles every 48 hours (a rise of at least about 63% in 48 hours is expected); a slower rise suggests ectopic or failing pregnancy.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02233#S2"
+  ],
+  "stem": "A 36-year-old G4P0A3 presents to the emergency department with 8 weeks of amenorrhoea, lower abdominal discomfort and spotting. On speculum examination the cervical os is closed. A bedside ultrasound shows an intrauterine pregnancy with positive fetal heart. You diagnose miscarriage of the following type:",
+  "options": {
+   "A": "Recurrent",
+   "B": "Inevitable",
+   "C": "Incomplete",
+   "D": "Complete",
+   "E": "Missed"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "With three previous losses she is a case of recurrent miscarriage; the current episode, with a closed os and a live fetus, is a threatened miscarriage in this woman.",
+  "key_note": "Threatened miscarriage is not among the options in this version; the paper key (A, recurrent) is the best available answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02179",
+   "C01811",
+   "C00217",
+   "C02124"
+  ],
+  "stem": "A 25-year-old primigravida presents to OPD at 7 weeks with vaginal spotting for 2 days. Ultrasound shows a gestational sac of 25 mm with no fetal pole. Per speculum examination the cervical os is closed. Her most probable diagnosis is:",
+  "options": {
+   "A": "Complete miscarriage",
+   "B": "Incomplete miscarriage",
+   "C": "Inevitable miscarriage",
+   "D": "Missed miscarriage",
+   "E": "Threatened miscarriage"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A gestational sac with mean diameter of 25 mm or more and no embryo indicates a missed miscarriage (anembryonic pregnancy), and the os is closed.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01404"
+  ],
+  "stem": "A 22-year-old woman at 8 weeks of gestation presents in the labour room with per vaginal bleeding for 2 hours with passage of mild clots. Ultrasound shows retained products of conception with no gestational sac. On examination the os is open with bleeding. You diagnose:",
+  "options": {
+   "A": "Complete miscarriage",
+   "B": "Incomplete miscarriage",
+   "C": "Missed miscarriage",
+   "D": "Inevitable miscarriage",
+   "E": "Threatened miscarriage"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Partial expulsion with retained products in the uterus and an open os is an incomplete miscarriage.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02235"
+  ],
+  "stem": "A 34-year-old G2P1 presents to the emergency department for the first time with 8 weeks of amenorrhoea, lower abdominal discomfort, bleeding and passage of tissue. The cervical os is closed and a bedside ultrasound shows an empty uterus. You diagnose complete miscarriage. Which test will you perform to confirm the diagnosis?",
+  "options": {
+   "A": "Complete blood count",
+   "B": "Serum beta hCG",
+   "C": "Serum HbA1c",
+   "D": "Blood group",
+   "E": "Coagulation profile"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Because an empty uterus could also be an early ectopic pregnancy, a falling or negative hCG confirms that the miscarriage is complete.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02128"
+  ],
+  "stem": "A G2P1+0 presents in OPD with an ultrasound report showing a single intrauterine fetus and absent fetal cardiac activity. Which relevant investigation will you advise?",
+  "options": {
+   "A": "Repeat scan",
+   "B": "Coagulation profile",
+   "C": "Midstream urine for microscopy",
+   "D": "Random blood sugar",
+   "E": "Oral glucose tolerance test"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "A retained dead fetus can cause consumptive coagulopathy, so a coagulation profile is checked before evacuation, particularly if the fetus has been dead for weeks.",
+  "key_note": "Stem is vague (a repeat scan is also reasonable); the paper key B is kept.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02756"
+  ],
+  "stem": "A primigravida at 6 weeks of gestation has an ultrasound showing an intrauterine gestational sac of 26 mm with no fetal pole; a repeat scan after 2 weeks shows the same findings. You decide on medical termination with misoprostol. The dose of misoprostol at this gestation is:",
+  "options": {
+   "A": "200 microgram sublingual",
+   "B": "300 microgram sublingual",
+   "C": "400 microgram sublingual",
+   "D": "600 microgram sublingual",
+   "E": "800 microgram sublingual"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "For medical management of missed miscarriage the standard dose is 800 microgram misoprostol (vaginal, or sublingual/oral), repeated after 24-48 hours if needed.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02234"
+  ],
+  "stem": "A 30-year-old primigravida presents with 8 weeks of amenorrhoea, lower abdominal discomfort and spotting. The os is closed and bedside ultrasound shows an intrauterine pregnancy with no fetal heart; you diagnose missed miscarriage. Which of the following medications is NOT used to treat such cases?",
+  "options": {
+   "A": "Mifepristone",
+   "B": "Misoprostol",
+   "C": "Progesterone",
+   "D": "Prostaglandin",
+   "E": "None of the above"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Mifepristone, misoprostol and other prostaglandins are used to expel a missed miscarriage; progesterone supports a viable pregnancy and has no role here.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01985"
+  ],
+  "stem": "A 24-year-old lady at 14 weeks of gestation presents with per vaginal bleeding for 4 hours. Ultrasound confirms complete miscarriage. Her blood group is B negative and her husband is A positive. Considering her rhesus-negative status, the most suitable management is:",
+  "options": {
+   "A": "Anti-D to be given",
+   "B": "Anti-D is not required",
+   "C": "Anti-D to be given at 28 and 34 weeks in subsequent pregnancy",
+   "D": "Anti-D will be given after delivery in subsequent pregnancy",
+   "E": "Anti-D to be given only if Rh antibodies are positive"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "A sensitising event (miscarriage beyond 12 weeks) in a non-sensitised Rh-negative woman needs anti-D immunoglobulin within 72 hours; prophylaxis in later pregnancies does not replace it.",
+  "key_note": "Source key marked C; correct is A, because anti-D is given now after the sensitising event.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01409"
+  ],
+  "stem": "A 31-year-old woman underwent management of ectopic pregnancy at 6 weeks. She is Rh negative and her husband is Rh positive. What dose of anti-D immunoglobulin should be given?",
+  "options": {
+   "A": "300 IU",
+   "B": "1500 IU",
+   "C": "600 IU",
+   "D": "250 IU",
+   "E": "350 IU"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Anti-D is given after ectopic pregnancy in a Rh-negative woman; 250 IU is the dose before 20 weeks (500 IU after 20 weeks, with a Kleihauer test).",
+  "key_note": "Paper key D (250 IU) kept; some local products use 300 microgram.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01405"
+  ],
+  "stem": "A pregnant woman at 8 weeks presents with mild lower abdominal pain. The abdomen is soft and non tender, BP 120/70, pulse 80, temperature 98 F. Ultrasound shows an 8-week intrauterine pregnancy with a 4.5 cm adnexal cyst. What is the next step?",
+  "options": {
+   "A": "Reassurance",
+   "B": "Conservative management",
+   "C": "Rescan after 1 month",
+   "D": "Doppler USG for cyst",
+   "E": "CA 125"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A simple adnexal cyst in early pregnancy is usually a corpus luteum cyst that regresses by the second trimester, so rescan after an interval is appropriate; CA 125 is unreliable in pregnancy.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02183",
+   "C00228"
+  ],
+  "stem": "A 23-year-old lady had one miscarriage at 9 weeks. She wants to know the cause. The most common cause of first trimester miscarriage is:",
+  "options": {
+   "A": "Thyroid disorder",
+   "B": "Chromosomal abnormalities",
+   "C": "Endometrial defect",
+   "D": "Polycystic ovarian syndrome",
+   "E": "Thrombophilias"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "About 50% of first trimester miscarriages are due to fetal chromosomal abnormalities, mostly trisomies.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02084"
+  ],
+  "stem": "A patient G4P0+3 presents at 8 weeks of gestation with a history of three previous miscarriages at around 18-19 weeks. Which test is recommended for her?",
+  "options": {
+   "A": "Nuchal translucency",
+   "B": "Cervical length",
+   "C": "Karyotyping",
+   "D": "Amniocentesis",
+   "E": "Anomaly scan"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Repeated painless mid-trimester losses suggest cervical insufficiency, so serial cervical length scanning (and consideration of cerclage) is recommended.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02061"
+  ],
+  "stem": "A 35-year-old woman has had three recurrent miscarriages, all in the first trimester. Which is the most appropriate next step in her evaluation?",
+  "options": {
+   "A": "Karyotyping of both partners",
+   "B": "Hepatitis screen",
+   "C": "Pelvic ultrasound",
+   "D": "Thyroid function tests",
+   "E": "GCT"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "RCOG advises antiphospholipid antibodies, pelvic ultrasound for uterine anomaly and karyotype of the products of conception; routine parental karyotyping is not recommended, only if products show an unbalanced rearrangement.",
+  "key_note": "Both marked keys said A (parental karyotyping); per RCOG pelvic ultrasound is the appropriate first step, so C is given.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02920"
+  ],
+  "stem": "In a patient with recurrent miscarriage, cytogenetic analysis of the products of conception showed an unbalanced structural chromosomal abnormality. Which test will be done next?",
+  "options": {
+   "A": "Parental peripheral blood karyotyping",
+   "B": "Blood karyotyping of the patient",
+   "C": "Uterine structural anomaly assessment",
+   "D": "Hysterosalpingography",
+   "E": "Psychological support"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "An unbalanced structural rearrangement may arise from a balanced translocation in a parent, so both parents are karyotyped.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02186"
+  ],
+  "stem": "A 26-year-old P1+4 presents for pre-pregnancy counselling. On work-up for recurrent miscarriage the APTT was prolonged. The most likely cause is:",
+  "options": {
+   "A": "Antiphospholipid antibody syndrome",
+   "B": "Disseminated intravascular coagulation",
+   "C": "Von Willebrand disease",
+   "D": "Haemophilia",
+   "E": "Factor VII deficiency"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "The lupus anticoagulant prolongs APTT in vitro yet is prothrombotic and causes recurrent miscarriage; bleeding disorders do not typically cause recurrent miscarriage.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02236"
+  ],
+  "stem": "A 29-year-old lady has had 3 consecutive first trimester miscarriages. You suspect antiphospholipid syndrome. You counsel her that she should be investigated:",
+  "options": {
+   "A": "Prior to next pregnancy",
+   "B": "During first trimester of next pregnancy",
+   "C": "Immediately after delivery of baby",
+   "D": "At 20 weeks of gestation",
+   "E": "Immediately after next miscarriage"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Recurrent miscarriage work-up, including antiphospholipid antibodies, is done before the next pregnancy so that treatment can be planned from the start.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02237"
+  ],
+  "stem": "A 36-year-old G4P0A3 with three previous missed miscarriages presents with 8 weeks of amenorrhoea, lower abdominal discomfort and spotting. The os is closed and ultrasound shows an intrauterine pregnancy with positive fetal heart. Which medication is NOT indicated?",
+  "options": {
+   "A": "Aspirin",
+   "B": "Clexane",
+   "C": "Progesterone",
+   "D": "Misoprostol",
+   "E": "Folic acid"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Misoprostol expels the pregnancy and is contraindicated in a viable pregnancy; aspirin, LMWH, progesterone and folic acid may all be used in recurrent miscarriage.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02500",
+   "C02176"
+  ],
+  "stem": "A 9-week pregnant woman presents with lower abdominal pain and spotting. Pregnancy test is positive and ultrasound shows no intrauterine gestational sac but a 3 cm adnexal mass. What diagnosis should be suspected most strongly?",
+  "options": {
+   "A": "Cervical pregnancy",
+   "B": "Complete miscarriage",
+   "C": "Ectopic pregnancy",
+   "D": "Molar pregnancy"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A positive pregnancy test, empty uterus and adnexal mass is ectopic pregnancy until proved otherwise.",
+  "key_note": "Some options were illegible/missing in the source.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02239"
+  ],
+  "stem": "A 36-year-old G2P0A1 presents with 6 weeks of amenorrhoea and severe lower abdominal pain and spotting. She has guarding and rigidity. Bedside ultrasound shows no intrauterine pregnancy but a heterogeneous 4x5 cm right adnexal mass with a gestational sac and a fetus with cardiac activity and a lot of free fluid in the peritoneum. She has ectopic pregnancy. She should be managed with:",
+  "options": {
+   "A": "Expectant care",
+   "B": "Methotrexate",
+   "C": "Misoprostol",
+   "D": "Laparoscopy",
+   "E": "Laparotomy"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A symptomatic or ruptured ectopic needs surgery, and laparoscopic salpingectomy is preferred when the patient can be stabilised; laparotomy is for haemodynamic instability.",
+  "key_note": "Laparotomy is the alternative if she is unstable; the paper key D is kept.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02185",
+   "C02133"
+  ],
+  "stem": "A 23-year-old P1 presents with a positive urine pregnancy test at 6 weeks. On transvaginal ultrasound the uterus is empty with a 3x3 cm right adnexal cyst; beta hCG is 700 IU. The best medical treatment is:",
+  "options": {
+   "A": "Methotrexate",
+   "B": "Misoprostol",
+   "C": "Actinomycin D",
+   "D": "Mifepristone",
+   "E": "RU486"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Methotrexate, a folate antagonist, is the medical treatment for tubal ectopic pregnancy.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01745"
+  ],
+  "stem": "A 24-year-old nulliparous woman undergoes surgical management of a tubal ectopic pregnancy. At laparoscopy there is an intact right tubal pregnancy and the contralateral tube is damaged. She is very concerned about future fertility. Which is the single best management option?",
+  "options": {
+   "A": "Bilateral salpingectomy",
+   "B": "Bilateral salpingotomy",
+   "C": "Salpingotomy",
+   "D": "Salpingectomy with conservation of contralateral tube",
+   "E": "Salpingotomy with repair of contralateral tube"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "When the contralateral tube is damaged and fertility is desired, salpingotomy (conserving the affected tube) is advised, accepting a small risk of persistent trophoblast needing hCG follow-up.",
+  "key_note": "Paper key marked D (salpingectomy); correct is C, since removing the only functional tube would leave her dependent on IVF.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01480"
+  ],
+  "stem": "The commonest surgical procedure done in a case of ruptured ectopic pregnancy is:",
+  "options": {
+   "A": "Hysterotomy",
+   "B": "Hysterectomy",
+   "C": "Salpingectomy",
+   "D": "Salpingostomy",
+   "E": "Salpingo-oophorectomy"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "In rupture the tube is usually destroyed and bleeding is brisk, so salpingectomy is the standard procedure.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01386"
+  ],
+  "stem": "The dose of methotrexate in the management of ectopic pregnancy is:",
+  "options": {
+   "A": "40 mg/m2",
+   "B": "30 mg/m2",
+   "C": "50 mg/m2",
+   "D": "60 mg/m2",
+   "E": "70 mg/m2"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "The single-dose regimen is 50 mg/m2 body surface area IM, repeated if the hCG fall between days 4 and 7 is less than 15%.",
+  "key_note": "Printed paper key marked A (40 mg/m2); correct is C, 50 mg/m2.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02132"
+  ],
+  "stem": "A primigravida at 6 weeks of gestation has an intact tubal ectopic pregnancy and you plan medical management. Criteria for medical management include:",
+  "options": {
+   "A": "Unstable patient",
+   "B": "Gestational sac >7 cm",
+   "C": "Beta hCG <3000 IU",
+   "D": "Positive fetal cardiac activity",
+   "E": "Heterotopic pregnancy"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Methotrexate suits stable women with unruptured ectopic, sac under 3.5 cm, no cardiac activity and low hCG (under 3000-5000 IU/L).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01868"
+  ],
+  "stem": "A 23-year-old P3 diagnosed with miscarriage underwent evacuation. The histopathology report shows vesicles and no fetal tissue. What are the most likely genetic features of this pregnancy?",
+  "options": {
+   "A": "47 XX",
+   "B": "46 XXY",
+   "C": "46 XX",
+   "D": "46 XY",
+   "E": "45 XO"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Complete mole is diploid, usually 46XX, with entirely paternal chromosomes; no fetal tissue is seen.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01387"
+  ],
+  "stem": "A 30-year-old G2P1 presents at 14 weeks of gestation with excessive vomiting, abdomen soft and non-tender with fundal height of 20 weeks. Ultrasound shows a complete mole. Regarding complete mole, which is most appropriate?",
+  "options": {
+   "A": "Raised beta hCG",
+   "B": "Diploid in origin 46XY/XX",
+   "C": "Triploid in origin 69XXY",
+   "D": "Two sperm fertilise an empty ovum",
+   "E": "Single sperm fertilises two ova"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Complete mole is diploid (46XX mostly, from duplication of one sperm after fertilising an empty ovum); triploidy 69XXY is partial mole.",
+  "key_note": "Raised hCG (A) and dispermic fertilisation of an empty ovum (D) are also features, but the single chromosomal statement B is the intended answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02241"
+  ],
+  "stem": "A P2+0 underwent evacuation for incomplete miscarriage. The histopathology report shows complete mole. Regarding complete mole which is true?",
+  "options": {
+   "A": "Genetic material is totally paternal",
+   "B": "Chromosome complement is 45XX",
+   "C": "It is 100% malignant",
+   "D": "Chemotherapy is mandatory in all cases",
+   "E": "Follow up is with monthly USG"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Complete mole is androgenetic: all chromosomes are paternal. Only about 15-20% develop persistent GTN, and follow-up is by serial hCG.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01483"
+  ],
+  "stem": "A 39-year-old woman presents with 8 weeks of amenorrhoea, mild bleeding and passage of grape-like vesicles. Ultrasound shows complete mole. Which statement about molar pregnancy is correct?",
+  "options": {
+   "A": "High or low maternal age is a risk factor",
+   "B": "Beta hCG is lower than normal for gestational age",
+   "C": "Some cases can be treated conservatively",
+   "D": "Partial mole can best be treated medically",
+   "E": "Complete mole is more common in European ethnicity"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Risk is raised at both extremes of maternal age (under 20 and over 35-40); hCG is usually higher than expected, treatment is suction evacuation, and mole is more frequent in Asian women.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01388"
+  ],
+  "stem": "The definitive diagnosis of molar pregnancy is made by:",
+  "options": {
+   "A": "Transabdominal ultrasound",
+   "B": "Transvaginal ultrasound",
+   "C": "Beta hCG",
+   "D": "Histological examination of retained products of conception",
+   "E": "History"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Ultrasound and hCG suggest a mole but the diagnosis is confirmed histologically.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01389"
+  ],
+  "stem": "A P3A2 woman treated for gestational trophoblastic disease comes for follow-up 56 days after evacuation. Her beta hCG is within normal range. When will her next follow-up be?",
+  "options": {
+   "A": "6 months from date of conception",
+   "B": "6 months from date of evacuation",
+   "C": "6 months from last beta hCG",
+   "D": "6 months from 1st beta hCG",
+   "E": "6 months from date of evacuation until normalisation of beta hCG"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "If hCG normalises within 56 days of evacuation, follow-up continues for 6 months from the date of evacuation (UK protocol); if it takes longer, 6 months from normalisation.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01390"
+  ],
+  "stem": "A P2A1 woman had D&C for complete molar pregnancy a few days ago. She is vitally stable with decreasing beta hCG. You plan to discharge her. Which contraceptive method is best for her?",
+  "options": {
+   "A": "COCP",
+   "B": "IUCD",
+   "C": "Sub-dermal implants",
+   "D": "Barrier method",
+   "E": "POP"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Barrier methods are safest while hCG is still falling; hormonal methods are used once hCG is normal and an IUCD is avoided until then because of uterine perforation and bleeding risk.",
+  "key_note": "Papers disagreed (D, B and A); D is correct as barrier is the safest while hCG is still falling.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01543"
+  ],
+  "stem": "A patient delivered a full-term baby at 39 weeks uneventfully. Previously she had one miscarriage and one molar pregnancy. What investigation should be done postpartum?",
+  "options": {
+   "A": "Abdominal scan",
+   "B": "Culture and sensitivity of placental tissue",
+   "C": "Histopathology of placenta",
+   "D": "Serum beta hCG",
+   "E": "Transvaginal scan"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "After any pregnancy in a woman with previous molar pregnancy, hCG is checked 6-8 weeks after delivery to exclude choriocarcinoma.",
+  "key_note": "Paper key marked A (abdominal scan); correct is D, serum beta hCG.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01855"
+  ],
+  "stem": "Which clinical scenario is most associated with metastatic gestational trophoblastic disease?",
+  "options": {
+   "A": "After spontaneous abortion of a chromosomally abnormal embryo",
+   "B": "Spontaneously during the childbearing years",
+   "C": "After hydatidiform mole",
+   "D": "After normal pregnancy",
+   "E": "After a second trimester pregnancy termination"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Metastatic GTN most often follows a hydatidiform mole, particularly complete mole, in the usual exam teaching.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01751"
+  ],
+  "stem": "For assessing the type of initial chemotherapy, the risk is highest according to the FIGO prognostic scoring system if metastases in GTN are in the:",
+  "options": {
+   "A": "Brain and liver",
+   "B": "Gastrointestinal tract",
+   "C": "Kidneys",
+   "D": "Lungs",
+   "E": "Spleen"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Brain and liver metastases score 4 (the maximum) in the FIGO score; lung scores 0, spleen/kidney 1, GI tract 2.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02725"
+  ],
+  "stem": "A G2P1+0 presents in antenatal clinic at 10 weeks with vomiting so severe that she cannot tolerate water, and she is dehydrated. The hormone responsible for vomiting in pregnancy is:",
+  "options": {
+   "A": "FSH",
+   "B": "hCG",
+   "C": "LH",
+   "D": "TSH",
+   "E": "Prolactin"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Nausea and vomiting peak with hCG levels at about 9-10 weeks, and are worse with high hCG (twins, mole).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02944"
+  ],
+  "stem": "A patient presents with heavy vomiting, dehydration and loss of 3 kg (hyperemesis gravidarum). This is associated with:",
+  "options": {
+   "A": "Low TSH",
+   "B": "Raised T3",
+   "C": "Raised cortisol",
+   "D": "Raised insulin",
+   "E": "Raised growth hormone"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "hCG has TSH-like activity causing transient gestational thyrotoxicosis with raised thyroid hormones (and suppressed TSH) in hyperemesis.",
+  "key_note": "Low TSH (A) is also found; the paper key B (raised T3) is kept.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02547",
+   "C02597",
+   "C02884",
+   "C02272",
+   "C02648"
+  ],
+  "stem": "A 22-year-old woman at 10 weeks of gestation presents with persistent nausea and vomiting, has lost 3 kg and has ketonuria. What is the most likely diagnosis?",
+  "options": {
+   "A": "Food poisoning",
+   "B": "Hyperemesis gravidarum",
+   "C": "Acute pyelonephritis",
+   "D": "Pulmonary embolism",
+   "E": "Gastroenteritis"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Vomiting with weight loss and ketonuria at 10 weeks is hyperemesis gravidarum.",
+  "key_note": "Recall question; options from one source version.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01608"
+  ],
+  "stem": "A 38-year-old primigravida at 11 weeks, conceived after ovulation induction, has excessive vomiting, cannot tolerate food and has lost weight; you diagnose hyperemesis gravidarum. The most probable cause is:",
+  "options": {
+   "A": "Multiple pregnancy",
+   "B": "Molar pregnancy",
+   "C": "Heterogenous pregnancy",
+   "D": "Partial molar pregnancy",
+   "E": "Ectopic pregnancy"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "High hCG in multiple pregnancy, which is common after ovulation induction, predisposes to hyperemesis (mole must also be excluded by scan).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02785",
+   "C03044"
+  ],
+  "stem": "A 23-year-old woman at 8 weeks of gestation presents with hyperemesis gravidarum, BP 100/70 mmHg, pulse 100/min, and she is severely dehydrated. Which fluid will you use first for resuscitation?",
+  "options": {
+   "A": "5% dextrose",
+   "B": "Dextrose saline",
+   "C": "0.45% saline",
+   "D": "0.9% saline",
+   "E": "3% saline"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Isotonic 0.9% saline (or Hartmann's) is the initial fluid; dextrose can precipitate Wernicke's encephalopathy in thiamine-depleted women.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03127",
+   "C02889",
+   "C02277"
+  ],
+  "stem": "A 32-year-old woman at 12 weeks presents with severe nausea and vomiting for two weeks, weight loss, dehydration and dizziness. She is lethargic, BP 90/50 mmHg, pulse 110/min, afebrile, urine shows ketones, and oral antiemetics for 2 weeks have not helped. Appropriate initial management is:",
+  "options": {
+   "A": "Prescribe oral antiemetics and advise increased fluid intake at home",
+   "B": "Initiate intravenous fluids and provide I/V antiemetics in hospital",
+   "C": "Recommend dietary changes and increased protein intake",
+   "D": "Arrange outpatient follow-up with a nutritionist",
+   "E": "Start corticosteroids to manage nausea and vomiting"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Failure of oral antiemetics with dehydration and ketonuria needs admission, IV fluids with electrolyte replacement and parenteral antiemetics.",
+  "key_note": "Recall question; options from one source version.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02584"
+  ],
+  "stem": "Thiamine deficiency results in which potential maternal complication of hyperemesis gravidarum?",
+  "options": {
+   "A": "Oesophageal rupture",
+   "B": "Renal failure",
+   "C": "Wernicke's encephalopathy",
+   "D": "Hashimoto's encephalopathy",
+   "E": "Hepatic encephalopathy"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Prolonged vomiting depletes thiamine and causes Wernicke's encephalopathy (confusion, ataxia, ophthalmoplegia).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03150"
+  ],
+  "stem": "A primigravida with repeated admissions for hyperemesis is worried about her baby. Which fetal complication can develop?",
+  "options": {
+   "A": "Fetal anaemia",
+   "B": "Low birth weight baby",
+   "C": "Electrolyte imbalance",
+   "D": "Fetal malnutrition",
+   "E": "Fetal structural anomalies"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Severe hyperemesis with poor weight gain is associated with low birth weight and preterm birth; it does not cause structural anomalies.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03004"
+  ],
+  "stem": "An 18-year-old unbooked pregnant woman presents with dull abdominal pain. USG shows a dead intrauterine fetus of 13 weeks. She has had severe thirst and fatigue for 2 days, is dehydrated, confused, has fruity breath, generalised tenderness and a scaphoid abdomen. What is the likely cause?",
+  "options": {
+   "A": "Acute fatty liver of pregnancy",
+   "B": "Acute appendicitis",
+   "C": "Acute cholecystitis",
+   "D": "Diabetic ketoacidosis",
+   "E": "Encephalitis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Thirst, dehydration, confusion and fruity (ketone) breath indicate diabetic ketoacidosis, which causes fetal death.",
+  "key_note": "",
+  "figure": ""
+ }
+]

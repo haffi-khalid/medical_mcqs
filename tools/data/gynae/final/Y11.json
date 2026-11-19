@@ -1,0 +1,896 @@
+[
+ {
+  "cids": [
+   "C01406",
+   "C00046",
+   "C02216"
+  ],
+  "stem": "Gold standard for diagnosis of Endometriosis is",
+  "options": {
+   "A": "TVS",
+   "B": "TAS",
+   "C": "MRI",
+   "D": "Laparoscopy",
+   "E": "CT scan"
+  },
+  "answer": "D",
+  "explanation": "Direct visualisation of the pelvis, ideally with histology of a biopsy, is the gold standard. Ultrasound and MRI help in endometriomas and deep disease but cannot exclude peritoneal disease.",
+  "key_note": "One paper key marked A (Hysteroscopy); correct is B, laparoscopy.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00755"
+  ],
+  "stem": "Which of the following is a risk factor for developing endometriosis?",
+  "options": {
+   "A": "Multiparity",
+   "B": "Transverse vaginal septum",
+   "C": "Prior chemotherapy exposure",
+   "D": "Autoimmune connective tissue disorders",
+   "E": "Nulliparity"
+  },
+  "answer": "E",
+  "explanation": "Nulliparity, early menarche, short cycles and outflow obstruction raise the risk, while pregnancy and multiparity are protective.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01281",
+   "C01340",
+   "C00136"
+  ],
+  "stem": "A 30-year-old woman attends gynae clinic with subfertility, progressive dysmenorrhea and deep dyspareunia. Her most likely diagnosis is",
+  "options": {
+   "A": "PCOS",
+   "B": "Endometriosis",
+   "C": "Tubal vascularity",
+   "D": "Ovarian cyst",
+   "E": "Fibroid uterus"
+  },
+  "answer": "B",
+  "explanation": "Subfertility with progressive dysmenorrhoea and deep dyspareunia is the classic triad of endometriosis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01154"
+  ],
+  "stem": "A 35 years old reports with the complaints of primary sub fertility dysmenorrhoea and dyspareunia. O/ uterus is found normal sized with Irregular tender mass in the right fornix. Most likely diagnosis is",
+  "options": {
+   "A": "Adenomyosis",
+   "B": "Ovarian fibroma",
+   "C": "Endometriosis",
+   "D": "Chronic PID",
+   "E": "Sub-serosal fibroid"
+  },
+  "answer": "C",
+  "explanation": "Primary subfertility, dysmenorrhoea and dyspareunia with a tender irregular fornix mass (endometrioma or nodules) indicate endometriosis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01341"
+  ],
+  "stem": "A 26 years old nulliparous lady presents in OPD with history of worsening dysmenorrhea, dyspareunia, pelvic pain, you suspect her as a case of endometriosis. Which of the following is the most likely finding on bimanual examination",
+  "options": {
+   "A": "Fixed retroverted uterus",
+   "B": "Mobile anteverted uterus",
+   "C": "Cervical excitation",
+   "D": "Nebothian follicles",
+   "E": "Bulky uterus"
+  },
+  "answer": "A",
+  "explanation": "Adhesions and uterosacral nodularity in endometriosis fix the uterus in retroversion, with tender nodules in the posterior fornix.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01460",
+   "C01192"
+  ],
+  "stem": "A 16 year old girl comes with severe worsening dysmenorrhoea. The pain generally starts towards the end of the menstrual bleeding. There is also pain on defecation and off and on hematuria. The most reliable diagnostic tool is:",
+  "options": {
+   "A": "Laparoscopy",
+   "B": "Hysteroscopy",
+   "C": "CT scan pelvis",
+   "D": "Sigmoidoscopy",
+   "E": "Ultrasound pelvis"
+  },
+  "answer": "A",
+  "explanation": "Cyclical dysmenorrhoea with dyschezia and haematuria suggests endometriosis of the bowel and bladder. Laparoscopy is the most reliable diagnostic tool.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00137",
+   "C02257",
+   "C00110",
+   "C00112"
+  ],
+  "stem": "A 28-year-old nulliparous woman presents with chronic pelvic pain, deep dyspareunia, and dysmenorrhea that worsens progressively. On pelvic examination, her uterus is fixed and retroverted, and tender nodules are felt in the posterior fornix. Transvaginal ultrasound reveals a left ovarian cyst with low-level internal echoes (\"ground-glass\" appearance). Which of the following is the most definitive method for confirming the diagnosis?",
+  "options": {
+   "A": "Serum CA-125 measurement",
+   "B": "MRI pelvis",
+   "C": "Diagnostic laparoscopy",
+   "D": "Transvaginal ultrasound",
+   "E": "Empirical trial of hormonal therapy"
+  },
+  "answer": "C",
+  "explanation": "Laparoscopy with histological confirmation is the definitive test. CA-125 is non-specific, and ultrasound or MRI only suggest the diagnosis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00140",
+   "C01964"
+  ],
+  "stem": "A 32-year-old nulliparous woman presents with severe dysmenorrhoea, dyspareunia and infertility. On pelvic examination the uterus is fixed and retroverted, and there are tender nodules in the posterior fornix. Transvaginal ultrasound shows a unilocular cyst with homogeneous low-level internal echoes in the left ovary. What is the most likely diagnosis?",
+  "options": {
+   "A": "Hemorrhagic corpus luteum cyst",
+   "B": "Endometrioma",
+   "C": "Tubo-ovarian abscess",
+   "D": "Dermoid cyst",
+   "E": "Functional follicular cyst"
+  },
+  "answer": "B",
+  "explanation": "A unilocular cyst with homogeneous low-level (ground-glass) echoes, with a fixed retroverted uterus and posterior fornix nodules, is an endometrioma.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00430",
+   "C01272"
+  ],
+  "stem": "32 years old women with severe dysmenorrhea and dyspareunia has a pelvic TVUSS as a part of investigation for primary subfertility. The scan shows bilateral 5cm \"kissing\" ovarian cysts in the pouch of Douglas, both of which contain diffuse, low-level echoes giving a solid \"ground-glass\" appearance. What type of ovarian cysts are these most likely to be",
+  "options": {
+   "A": "Endometriomas",
+   "B": "Tubo-ovarian abscesses",
+   "C": "Hemorrhagic ovarian cysts",
+   "D": "Dermoid cysts",
+   "E": "Serous cystadenomas"
+  },
+  "answer": "A",
+  "explanation": "Bilateral \"kissing\" ovaries in the pouch of Douglas with diffuse low-level ground-glass echoes are typical of endometriomas.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00145"
+  ],
+  "stem": "A 32 years old MF=4years, Nullipara presented with severe dysmenorrhea Subfertility. On ultrasound a 4x4cm solid cystic mass in Right adnexa Which of the following in lonely is diagnosis",
+  "options": {
+   "A": "CA ovary",
+   "B": "Endometriosis",
+   "C": "Subserosal fibroid",
+   "D": "Benign ovarian cyst"
+  },
+  "answer": "B",
+  "explanation": "Severe dysmenorrhoea with subfertility and a complex solid-cystic adnexal mass in a nullipara is most likely an endometrioma, so endometriosis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00229",
+   "C03140"
+  ],
+  "stem": "A 35-year-old para 1 presented with secondary infertility and having recurrent episodes copious vaginal discharge. On USG there is a solid and cystic mass 5x5 cm in right adnexa. Which one of the following is the likely diagnosis.",
+  "options": {
+   "A": "Ca Ovary",
+   "B": "Endometriosis",
+   "C": "Subserous Fibroid",
+   "D": "Benign Ovarian Cyst",
+   "E": "Tubo ovarian mass"
+  },
+  "answer": "E",
+  "explanation": "Secondary infertility with recurrent copious discharge and a solid-cystic adnexal mass points to a tubo-ovarian mass from chronic pelvic infection.",
+  "key_note": "One paper key marked C (Subserous fibroid); correct is E, tubo-ovarian mass.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02217"
+  ],
+  "stem": "A 38-year-old P3 presents with severe abdominal pain. She has regular periods and ultrasound shows a right ovarian cyst of 4x5 cm. Which ultrasound finding is more indicative of malignancy than of an endometriotic cyst?",
+  "options": {
+   "A": "ground glass appearance",
+   "B": "1-4 compartments",
+   "C": "no papillary structures",
+   "D": "papillary structures",
+   "E": "no detectable blood flow"
+  },
+  "answer": "D",
+  "explanation": "Papillary projections (solid vascular components) suggest malignancy. Ground-glass echoes, few locules and absent flow are features of an endometrioma.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02161"
+  ],
+  "stem": "A patient with diagnosis of mild endometriosis presents with complaint of inability to conceive for 3 years. The cause of sub fertility in this case is",
+  "options": {
+   "A": "Bilateral tubal blockage",
+   "B": "Altered tubal motility",
+   "C": "Uterine defects",
+   "D": "Explained Pelvic inflammation",
+   "E": "Ovulation excess"
+  },
+  "answer": "B",
+  "explanation": "In minimal or mild endometriosis the tubes are patent, and subfertility is attributed to peritoneal fluid inflammation and altered tubal motility and gamete function, not to mechanical blockage.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01477"
+  ],
+  "stem": "If endometriosis is diagnosed in a 20 year old girl. The most probable consequence if remained untreated would be:",
+  "options": {
+   "A": "Vaginal implants",
+   "B": "Hydrosalpinx",
+   "C": "Hemoperitoneum",
+   "D": "Chocolate cyst",
+   "E": "Malignancy"
+  },
+  "answer": "D",
+  "explanation": "Untreated ovarian endometriosis progresses to endometriomas (chocolate cysts). Malignant change is rare.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02162"
+  ],
+  "stem": "A 26 years old nullipara married for 3 years presented in OPD with complaints of severe dysmenorrhea & dyspareunia affecting her quality of daily life. On examination her uterus is retroverted & its mobility is restricted, there is tenderness and finding of nodularity in the posterior fornix of vagina. Which one of the following would be the most appropriate management for her pain",
+  "options": {
+   "A": "Uterine nerve ablation",
+   "B": "LNG-IUS",
+   "C": "NSAIDS",
+   "D": "GnRH-Analogues",
+   "E": "progesterone only Pill"
+  },
+  "answer": "C",
+  "explanation": "NSAIDs are the first-line analgesic for endometriosis pain, and hormonal therapy is the next step. Surgery is for failed medical therapy.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01315",
+   "C01402"
+  ],
+  "stem": "A 33years P2+0 presents with history of worsening dysmenorrhoea, & dyspareunia for last 1 year. She does not want to conceive in near future. Best treatment option for her will be",
+  "options": {
+   "A": "Progesterone only pills",
+   "B": "Danazol",
+   "C": "LNG IUS",
+   "D": "GnRH analogues",
+   "E": "Hysterectomy"
+  },
+  "answer": "C",
+  "explanation": "For endometriosis pain in a woman not desiring pregnancy, LNG-IUS gives long-term control with few side effects. GnRH analogues and danazol are second line.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01334"
+  ],
+  "stem": "A young girl is diagnosed as case of endometriosis. you prescribe her combined oral contraceptive pill continuously without pill free interval. She has to take it for minimum period of",
+  "options": {
+   "A": "Two months",
+   "B": "Three months",
+   "C": "Four months",
+   "D": "Six months",
+   "E": "Nine months"
+  },
+  "answer": "B",
+  "explanation": "Continuous COCP without a pill-free interval is used for at least 3 months for symptomatic relief in endometriosis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01277"
+  ],
+  "stem": "A 36 years old patient presents in OPD for follow up visit. She is a case of endometriosis and has gone through laparoscopy. You have ablated endometrial spots but was unable to clear pelvis. Post-operative medication that you will prescribe to this patient is",
+  "options": {
+   "A": "Danazol",
+   "B": "Cyclical progesterone",
+   "C": "GnRh analogues",
+   "D": "NSAIDS",
+   "E": "Continuous unopposed estrogen pills"
+  },
+  "answer": "C",
+  "explanation": "Where residual disease remains after surgery, post-operative GnRH analogue therapy for 3-6 months reduces symptoms and recurrence. Danazol is limited by side effects, and unopposed oestrogen stimulates endometriosis.",
+  "key_note": "Some paper keys marked A (Cyclical progesterone); GnRH analogue is the standard post-operative drug for residual disease.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00138"
+  ],
+  "stem": "A 29-year-old woman presents with dysmenorrhea, deep dyspareunia, and subfertility. Ultrasound shows a 4 cm left ovarian endometrioma. She is keen to conceive. What is the best management option?",
+  "options": {
+   "A": "Continuous combined oral contraceptives",
+   "B": "Laparoscopic cystectomy of the endometrioma",
+   "C": "Oral GnRH agonist therapy",
+   "D": "Levonorgestrel intrauterine device",
+   "E": "Expectant management for 6-12 months"
+  },
+  "answer": "B",
+  "explanation": "For a symptomatic endometrioma of 4 cm or more in a woman wanting to conceive, laparoscopic cystectomy relieves pain and improves spontaneous conception. Medical therapy does not improve fertility.",
+  "key_note": "One paper key marked C (GnRH agonist); correct is B, cystectomy, since hormones do not enhance fertility.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00778",
+   "C00482",
+   "C01183",
+   "C02065"
+  ],
+  "stem": "A 28 year old female, presents to you with history of worsening dysmenorrhea throughout her menstruation, dyspareunia and subfertility for 5 years. On ultrasound pelvis, she has right sided 6x4 cm ovarian cyst with ground glass appearance. The most appropriate treatment for this patient is:",
+  "options": {
+   "A": "Danazole therapy",
+   "B": "GnRH analogues",
+   "C": "Laparoscopic cystectomy",
+   "D": "Laparoscopic oophorectomy",
+   "E": "Laparoscopic hysterectomy"
+  },
+  "answer": "C",
+  "explanation": "A symptomatic 6 cm endometrioma with subfertility is best treated by laparoscopic cystectomy. Medical therapy does not treat the cyst or improve fertility.",
+  "key_note": "Paper key marked B (GnRH analogues); correct is C, laparoscopic cystectomy for a large symptomatic endometrioma with subfertility.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01183#S2"
+  ],
+  "stem": "A 35 years reports with history of p.subfertility and dyspareunia for the last two years.On pelvic examination uterus is found normal in size, fixed and tender.Pelvic scan shows endometriotic cyst of 02 cm in right ovary and bilateral tubal blockage. The most appropriate treatment option is;",
+  "options": {
+   "A": "Aromatase inhibitors",
+   "B": "Laparoscopic cystectomy",
+   "C": "Danazol",
+   "D": "Gn-Rh analogue",
+   "E": "IVF"
+  },
+  "answer": "E",
+  "explanation": "With bilateral tubal blockage, IVF is the appropriate option, as tubal surgery and medical treatment will not restore fertility.",
+  "key_note": "Split from a cluster that mixed two questions; one paper key marked B (cystectomy) but the small cyst plus tubal blockage points to IVF.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01456"
+  ],
+  "stem": "A 30 year old lady has bilateral ovarian cysts, severe pelvic pain and secondary subfertility. On diagnostic laparoscopy findings were consistent with endometriosis. The best treatment option for this patient is:",
+  "options": {
+   "A": "Laparotomy and removal of cysts",
+   "B": "No intervention, refer for assisted conception",
+   "C": "Laparoscopic surgery for cyst removal followed by ovulation induction",
+   "D": "Laparoscopic surgery followed by medical treatment",
+   "E": "Ultrasound guided cyst aspiration"
+  },
+  "answer": "D",
+  "explanation": "Surgery removes the cysts and disease, and post-operative medical therapy reduces recurrence. Aspiration recurs and ovulation induction does not treat the disease.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01469"
+  ],
+  "stem": "A 24 years old nulliparous presents in gynae clinic with history of severe dysmenorrhoea that worsens with menses and deep dyspareunia for 12 months. Her pelvic ultrasound reveals complex adnexal cyst of 6x7 cm on right side. You will manage her with:",
+  "options": {
+   "A": "Ovarian cystectomy",
+   "B": "Oopherectomy",
+   "C": "Danazole tablets",
+   "D": "GnRH analogue",
+   "E": "Cyst aspiration"
+  },
+  "answer": "A",
+  "explanation": "A complex 6-7 cm cyst with symptoms (probable endometrioma) needs laparoscopic cystectomy. Aspiration has a high recurrence rate and gives no histology.",
+  "key_note": "One paper key marked E (Cyst aspiration); correct is A, cystectomy.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00429"
+  ],
+  "stem": "A 42-year-old P1, known case of endometriosis, presents with severe dysmenorrhea and dyspareunia for last 5 years. She has one boy who is 12 years old. The patient is tired of taking Danazol and oral contraceptive pills. She wants a definitive treatment. The suitable option, keeping in mind her wishes and nature of progressive disease, will be:",
+  "options": {
+   "A": "Gonadotrophin releasing hormone agonists",
+   "B": "Diathermic ablation of endometriotic spots",
+   "C": "Hysterectomy and bilateral salpingo oophorectomy",
+   "D": "Total abdominal hysterectomy",
+   "E": "Bilateral salpingo oophorectomy"
+  },
+  "answer": "C",
+  "explanation": "For severe progressive disease in a woman of 42 with completed family and failed medical therapy, definitive treatment is TAH with BSO. Leaving the ovaries risks persistent disease.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00134",
+   "C00151"
+  ],
+  "stem": "A 48-year-old woman is undergoing total abdominal hysterectomy and bilateral salpingo-oophorectomy for severe endometriosis. The right ovary is densely adherent to the pelvic side wall, and is difficult to excise. Which anatomical structure is most vulnerable to injury?",
+  "options": {
+   "A": "Hypogastric nerve plexus",
+   "B": "Right ilioinguinal nerve",
+   "C": "Right internal iliac artery",
+   "D": "Right ureter",
+   "E": "Right uterine artery"
+  },
+  "answer": "D",
+  "explanation": "The ureter lies beneath the ovarian fossa, and dense adhesions of endometriosis distort it, so it is the structure most at risk of injury.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00750"
+  ],
+  "stem": "Regarding the adenomyosis which one of the following statement is true:",
+  "options": {
+   "A": "The patient has increasingly severe primary dysmenorrhea",
+   "B": "Women with adenomyosis are usually nulliparous",
+   "C": "The diagnosis can only be confirmed on histopathology",
+   "D": "The ectopic endometrium is not responsive to cyclical hormones",
+   "E": "The uterus is irregularly enlarged"
+  },
+  "answer": "C",
+  "explanation": "Adenomyosis is confirmed only on histology. The uterus is uniformly (not irregularly) enlarged, patients are usually multiparous, and the glands often respond poorly to cyclical hormones.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00147",
+   "C00045",
+   "C01949",
+   "C02094",
+   "C01153"
+  ],
+  "stem": "A 45-year-old multiparous woman presents with dysmenorrhoea, dyspareunia and menorrhagia for the last 1 year. Pelvic examination shows a tender bulky uterus with clear fornices. The most likely cause is:",
+  "options": {
+   "A": "Endometrial cancer",
+   "B": "Endometriosis",
+   "C": "Adenomyosis",
+   "D": "Fibroid uterus",
+   "E": "Ovarian tumour"
+  },
+  "answer": "C",
+  "explanation": "Menorrhagia, dysmenorrhoea and dyspareunia with a bulky tender uterus and clear fornices are typical of adenomyosis.",
+  "key_note": "One paper highlighted both B and C; most papers marked C, which is correct.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00142"
+  ],
+  "stem": "A 42-year-old multiparous woman presents with progressively worsening menorrhagia and dysmenorrhoea for 8 months. On bimanual examination the uterus is uniformly enlarged, globular and tender. Transvaginal ultrasound shows a heterogeneous myometrium with small myometrial cysts and an ill-defined junctional zone. What is the most likely diagnosis?",
+  "options": {
+   "A": "Endometrial carcinoma",
+   "B": "Leiomyoma (fibroid uterus)",
+   "C": "Adenomyosis",
+   "D": "Endometriosis",
+   "E": "Endometrial hyperplasia"
+  },
+  "answer": "C",
+  "explanation": "A globular tender uterus with myometrial cysts and an ill-defined junctional zone on ultrasound is adenomyosis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00020",
+   "C00795"
+  ],
+  "stem": "A 32-year-old P4 female is undergoing an annual physical examination. Her menstrual cycles are regular with normal flow. On examination there is uniformly bulky mobile uterus with no tenderness and no adnexal pathology. Which one of the following will be the most probable diagnosis?",
+  "options": {
+   "A": "Leiomyoma",
+   "B": "Adenomyosis",
+   "C": "Endometriosis",
+   "D": "Carcinoma",
+   "E": "Normal parous"
+  },
+  "answer": "B",
+  "explanation": "A uniformly enlarged globular uterus in a parous woman, without adnexal pathology, is adenomyosis. Fibroids cause irregular nodular enlargement.",
+  "key_note": "One paper key marked D (Leiomyoma); correct is adenomyosis, as fibroids give irregular, not uniform, enlargement.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00309",
+   "C00305",
+   "C02338",
+   "C02066"
+  ],
+  "stem": "A 39-year-old woman, para 3, presents with severe dysmenorrhoea and heavy menstrual bleeding for 2 years. MRI pelvis shows thickening of the junctional zone (over 12 mm) with small foci of hyperintensity in the myometrium. She wishes to preserve her uterus and does not desire further fertility. What is the most appropriate management?",
+  "options": {
+   "A": "Total abdominal hysterectomy",
+   "B": "LNG-IUS",
+   "C": "Endometrial ablation",
+   "D": "COCP",
+   "E": "Uterine artery embolization"
+  },
+  "answer": "B",
+  "explanation": "MRI features (junctional zone over 12 mm with myometrial foci) indicate adenomyosis. LNG-IUS is first-line when the uterus is to be preserved.",
+  "key_note": "One paper marked multiple options; the single answer is LNG-IUS.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01318"
+  ],
+  "stem": "A 35 years old P3+3 has come with the C/O cyclical heavy menstrual bleeding. On examination uterus is enlarged and tender. Ultrasound gives suspicion of adenomyosis. She wants contraception also. What is the best treatment option for her?",
+  "options": {
+   "A": "COCPS",
+   "B": "Endometrial ablation",
+   "C": "Hysterectomy",
+   "D": "GnRH analogues",
+   "E": "LNG-IUS"
+  },
+  "answer": "E",
+  "explanation": "LNG-IUS controls bleeding in adenomyosis and also gives contraception, so it is the best choice.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01507"
+  ],
+  "stem": "A 25 years old P3A0 c/o severe dysmenorrhoea, and HMB for last 6 months. She is hypertensive and her BMI is 35. She has bulky, soft and tender uterus. On ultrasound, there is suspicion of adenomyosis. What will be the most appropriate treatment for her:",
+  "options": {
+   "A": "Endometrial ablation",
+   "B": "Danazol",
+   "C": "Combined oral contraceptive pill",
+   "D": "Progestogens",
+   "E": "LNG-IUS"
+  },
+  "answer": "E",
+  "explanation": "In a hypertensive obese woman the oestrogen-containing COCP is contraindicated, and ablation is poor for adenomyosis, so LNG-IUS is best.",
+  "key_note": "Paper key marked A (Endometrial ablation); correct is E, LNG-IUS, because ablation is unsuitable in a young woman with adenomyosis.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01314"
+  ],
+  "stem": "A 48 years old nulliparous woman has presented with history of heavy menstrual blood loss & gradually worsening dysmenorrhea for last 1 year. On examination uterus is bulky and tender. Best treatment option for this patient is:",
+  "options": {
+   "A": "COCPs for 6months",
+   "B": "Endometrial ablation",
+   "C": "Uterine artery embolization",
+   "D": "Hysterectomy",
+   "E": "Hysteroscopy & curettage"
+  },
+  "answer": "D",
+  "explanation": "At 48 with severe symptoms and an adenomyotic uterus, hysterectomy is the definitive option. COCP is only a temporary medical measure.",
+  "key_note": "Papers disagree (A, COCPs, versus D); hysterectomy is the definitive answer here, and LNG-IUS would be first-line if it were offered.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02095",
+   "C02218",
+   "C01278"
+  ],
+  "stem": "A 40 yrs old P3 presents to gynae opd with h/o heavy menstrual bleeding for 1 yr. You examine her and find a uniformly enlarged and tender uterus. You diagnose her clinically as a case of adenomyosis. Which of the following you would consider as a definitive treatment in her case",
+  "options": {
+   "A": "LNG-IUS",
+   "B": "GnRH agonist",
+   "C": "Uterine artery embolization",
+   "D": "Endometrial ablation",
+   "E": "Hysterectomy"
+  },
+  "answer": "E",
+  "explanation": "Hysterectomy is the only definitive treatment for adenomyosis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01308"
+  ],
+  "stem": "A 14 years old girl presents in OPD with her mother with ultrasound report showing ovarian cyst measuring 1x1 cm. Your advice for this patient will be",
+  "options": {
+   "A": "Reassurance as it will disappear spontaneously",
+   "B": "Laparoscopic cystectomy",
+   "C": "Prepare for laparotomy as it can rupture",
+   "D": "Advise CA 125",
+   "E": "Advise CT scan"
+  },
+  "answer": "A",
+  "explanation": "A 1 cm cyst in an adolescent is a physiological follicle and needs only reassurance.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01309"
+  ],
+  "stem": "A 46 years old lady presents in OPD for regular gynaecological check-up. On ultrasound pelvis a simple ovarian cyst measuring 3 cm is seen. Next step in her management is",
+  "options": {
+   "A": "Exploratory",
+   "B": "Diagnostic laparoscopy",
+   "C": "Serum CA 125",
+   "D": "Repeat scan after 3 months",
+   "E": "Advise BRCA1 gene"
+  },
+  "answer": "D",
+  "explanation": "A simple 3 cm cyst is usually benign, so follow-up ultrasound is the next step, and CA-125 is not needed.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02036"
+  ],
+  "stem": "A 35 years old P1 came in gynae OPD with irregular menstrual cycle. Pelvic ultrasound showed simple ovarian cyst of 5cm. What is the best treatment option for her?",
+  "options": {
+   "A": "Follow up scan after 4 weeks",
+   "B": "Combined oral contraceptive pill for 3 weeks",
+   "C": "Laparoscopic Cystectomy",
+   "D": "Ultrasound guided cyst aspiration",
+   "E": "Follow up after 12 weeks"
+  },
+  "answer": "E",
+  "explanation": "A simple 5 cm cyst is very likely functional and is observed with a repeat scan in 8-12 weeks. Aspiration and surgery are not first-line.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01462"
+  ],
+  "stem": "A 20 years old unmarried girl has complaint of mild dysmenorrhoea. Ultrasound shows right clear cyst of adnexal 6 cm. The appropriate management option for her is",
+  "options": {
+   "A": "Exploratory laparotomy",
+   "B": "Ultrasound after 8 weeks",
+   "C": "Combined oral contraceptives",
+   "D": "Diagnostic laparoscopy",
+   "E": "Laproscopic cystectomy"
+  },
+  "answer": "B",
+  "explanation": "A simple cyst in a young woman is usually functional, and repeat ultrasound after 6-8 weeks is appropriate before surgery.",
+  "key_note": "Paper key marked E (Laparoscopic cystectomy); repeat scan is the standard first step, with cystectomy only if the cyst persists.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02041"
+  ],
+  "stem": "A 55 years old post menopausal lady comes in antenatal OPD with C/O dysuria pelvic ultrasound showed simple right ovarian cyst of 5cm. Ca-125 level was normal. What is the best treatment option for her?",
+  "options": {
+   "A": "Conservative management and follow up after 4months",
+   "B": "Laparoscopic Cystectomy",
+   "C": "Laparoscopic B/ L Oopherctomy",
+   "D": "Laparoscopic TAH with BSO",
+   "E": "Laparoscopic oopherectomy"
+  },
+  "answer": "A",
+  "explanation": "A simple cyst under 5 cm with normal CA-125 in a postmenopausal woman has a very low malignancy risk, so surveillance is appropriate.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00364"
+  ],
+  "stem": "A 22 years old female presents with gestational amenorrhea of 7 weeks. On USG there is left ovarian clear cyst of 3cm. Which of the following is most appropriate next step in this patient Mx",
+  "options": {
+   "A": "Ovarian cystectomy",
+   "B": "Oophorectomy",
+   "C": "Salpingo oophorectomy",
+   "D": "No additional therapy",
+   "E": "Ovarian wedge resection"
+  },
+  "answer": "D",
+  "explanation": "A small simple cyst in early pregnancy is usually a corpus luteum cyst that regresses by 12-16 weeks, so no treatment is needed.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00146"
+  ],
+  "stem": "A 21 years old patient presents at 15 weeks gestation with right sided ovarian cyst. On USG there is a multilocular, thin walled ovarian cyst with no solid areas, size 6.5cm What is the most likely provisional diagnosis of this patient?",
+  "options": {
+   "A": "Functional tumor",
+   "B": "Serous cyst adenoma",
+   "C": "Mucinous cystadenoma",
+   "D": "Corpus luteal cyst",
+   "E": "Endometrioma"
+  },
+  "answer": "C",
+  "explanation": "A thin-walled multilocular cyst is typical of mucinous cystadenoma, while serous cystadenomas are usually unilocular.",
+  "key_note": "Some paper keys marked B (Serous cystadenoma); the multilocular thin-walled picture favours mucinous cystadenoma.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01764"
+  ],
+  "stem": "A 20 years old patient with a adnexal cyst of 7cm, biloculated thin walled with no solid areas. while counseling you tell her that the percentage of ovarian malignancies in first two decades of life",
+  "options": {
+   "A": "1-2%",
+   "B": "1-5%",
+   "C": "5-10%",
+   "D": "10-15%",
+   "E": "15-20%"
+  },
+  "answer": "B",
+  "explanation": "Most ovarian masses in the first two decades are benign, with malignancy in only about 1-5% of cases.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01544"
+  ],
+  "stem": "An 18-year-old, unmarried girl presented in emergency with severe left iliac fossa pain. Her B.P is 100/60 mm Hg. pulse of 98 beats /minute regular. Her ultrasound revealed 5x6 cm clear adnexal cyst with no free fluid in pouch of Douglas. What is her provisional diagnosis.",
+  "options": {
+   "A": "Corpus luteal cyst",
+   "B": "Endometriotic cyst",
+   "C": "Ectopic pregnancy",
+   "D": "Ovarian cyst torsion",
+   "E": "Ruptured ovarian cyst"
+  },
+  "answer": "D",
+  "explanation": "Sudden severe iliac fossa pain with a 5-6 cm clear cyst and no free fluid suggests torsion of the ovarian cyst.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01963"
+  ],
+  "stem": "A 23 year old, nullipara, presents with severe abdominal pain, vomiting & mild fever. Pelvic examination reveals mild tenderness in right adnexa. Pregnancy test is negative, USG reveals a clear adnexal cyst 7*8 cm, with no blood flow in ovarian stalk on Doppler & mild fluid in pouch of Douglas. What is the management for her?",
+  "options": {
+   "A": "laparoscopic cyst aspiration",
+   "B": "laparoscopic detorsion and cystectomy",
+   "C": "laparoscopic salpingo-oophorectomy",
+   "D": "laparoscopic ovarian biopsy",
+   "E": "laparoscopic cystectomy & contralateral ovary biopsy"
+  },
+  "answer": "B",
+  "explanation": "Absent Doppler flow in the ovarian stalk with pain in a young woman means torsion. Conserve the ovary by detorsion and cystectomy.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01978"
+  ],
+  "stem": "A 23 years old patient presents acute onset of left lower abdomen pain at 16 weeks gestation. Ultrasound reveals a single alive fetus corresponding to dates. There is a 6x5.3cm complex mass in left adnexa with no peripheral flow. Which pathology is most likely to lead to this complication?",
+  "options": {
+   "A": "Follicular cyst",
+   "B": "Mature cystic teratoma",
+   "C": "Endometrioma",
+   "D": "Intramural fibroid",
+   "E": "paraoophoron"
+  },
+  "answer": "B",
+  "explanation": "Dermoid cysts are the commonest to undergo torsion because of their weight and mobile pedicle. Endometriomas are fixed by adhesions.",
+  "key_note": "Paper keys marked C (Endometrioma) or D; correct is B, mature cystic teratoma, the commonest to torse.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01488"
+  ],
+  "stem": "A large cystic ovarian tumor is detected in a woman on routine antenatal examination, the most common complication she can encounter in the post natal period is :",
+  "options": {
+   "A": "Torsion",
+   "B": "Malignant transformation",
+   "C": "Rupture",
+   "D": "Haemorrhage",
+   "E": "Infection"
+  },
+  "answer": "A",
+  "explanation": "After delivery the uterus involutes and the cyst becomes more mobile, so torsion is the commonest complication.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01487",
+   "C02250"
+  ],
+  "stem": "A 22 year old girl comes to your clinic with c/o lower abdominal pain. On ultra sound she has complex ovarian tumor , measuring 8x10 cm. Within the cyst, there is solid echogenic material present ,resembling teeth and hair: What is the most likely type of ovarian cyst she is having?",
+  "options": {
+   "A": "Dermoid cyst",
+   "B": "Haemorrhagic cyst",
+   "C": "Endometriosis",
+   "D": "Tubo ovarian Abscess",
+   "E": "Serous cystadenomas"
+  },
+  "answer": "A",
+  "explanation": "Teeth and hair in a complex cyst indicate a mature cystic teratoma (dermoid).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01834",
+   "C00126"
+  ],
+  "stem": "A seventeen-year-old girl who is not sexually active presents with left iliac fossa pain. An ultrasound scan shows a 5 cm cyst on the left ovary which is complex in nature, with solid, calcified elements and fatty deposits noted on MRI. The likely diagnosis is:",
+  "options": {
+   "A": "Thecal luteal cyst",
+   "B": "Tubo-ovarian abscess",
+   "C": "Serous cystadenoma",
+   "D": "Fibroma",
+   "E": "Dermoid cyst"
+  },
+  "answer": "E",
+  "explanation": "A complex cyst with calcification and fat on MRI is a mature teratoma.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01457"
+  ],
+  "stem": "A 21 years old woman presents with left lower quadrant pain. Ultrasonography confirms complex left adnexal mass with solid components that is also visible on abdominal x-ray. The most probable diagnosis is:",
+  "options": {
+   "A": "Dysgerminoma",
+   "B": "Krukenberg tumour",
+   "C": "Teratoma",
+   "D": "Serous cystadenoma",
+   "E": "Endometrioma"
+  },
+  "answer": "C",
+  "explanation": "Teeth or calcification visible on abdominal X-ray with a complex adnexal mass in a young woman point to teratoma.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02249"
+  ],
+  "stem": "A 30 years old lady presents with mass abdomen measuring 20 cm on abdominal examination. differential diagnosis of this lady includes all Except",
+  "options": {
+   "A": "Pregnancy",
+   "B": "Fibroid uterus",
+   "C": "Ovarian cyst",
+   "D": "Mesenteric cyst",
+   "E": "Lipoma"
+  },
+  "answer": "E",
+  "explanation": "A 20 cm abdominal mass can be pregnancy, fibroid, ovarian cyst or mesenteric cyst, but a lipoma is not a pelvic or abdominal visceral mass.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00235"
+  ],
+  "stem": "A 28-year-old woman presents with sudden-onset lower abdominal pain, nausea and vomiting. She has a history of irregular menstrual cycles but no previous pelvic surgery. On examination the abdomen is tender, especially in the lower right quadrant, with signs of peritonitis. Pelvic ultrasound reveals a large multilocular cyst on the right ovary and Doppler shows reduced or absent blood flow to the ovary. Which is the most likely diagnosis and the next best step in management?",
+  "options": {
+   "A": "Ectopic pregnancy; perform a serum beta-hCG",
+   "B": "Ovarian cyst torsion; urgent laparoscopy",
+   "C": "Acute appendicitis; schedule a laparotomy",
+   "D": "Endometrioma rupture; pelvic MRI",
+   "E": "Ovarian cancer; perform a CT scan of the abdomen and pelvis"
+  },
+  "answer": "B",
+  "explanation": "Sudden pain with vomiting and absent ovarian Doppler flow in a woman with an ovarian cyst is torsion; urgent laparoscopic detorsion (or oophorectomy if non-viable) is needed to save the ovary.",
+  "key_note": "",
+  "figure": ""
+ }
+]

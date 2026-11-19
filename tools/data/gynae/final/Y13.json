@@ -1,0 +1,207 @@
+[
+ {
+  "cids": [
+   "C02029"
+  ],
+  "stem": "A 29-year-old P3 attends the gynae clinic complaining of a lump on the vulva. Examination shows a fluctuant, non-tender, egg-sized swelling distending the posterior and middle part of the labium majus. The cyst contains colourless fluid. The most likely diagnosis is:",
+  "options": {
+   "A": "Mucinous cyst of vestibular gland",
+   "B": "Sebaceous cyst",
+   "C": "Bartholin cyst",
+   "D": "Epidermoid cyst",
+   "E": "Endometriotic cyst"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A cystic swelling in the posterior labium majus at the vaginal opening containing clear mucoid fluid is a Bartholin duct cyst, from duct obstruction.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00183"
+  ],
+  "stem": "A painful, fluctuant vulval swelling is present at the introitus on the posterolateral wall of the vagina. What is the diagnosis?",
+  "options": {
+   "A": "Bartholin abscess",
+   "B": "Bartholin cyst",
+   "C": "Gartner cyst"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "A tender fluctuant posterolateral introital swelling is an infected Bartholin gland, i.e. Bartholin abscess; a cyst is painless and a Gartner cyst lies in the anterolateral vaginal wall.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00181"
+  ],
+  "stem": "A 23-year-old P1 presents with fever, vaginal discharge and swelling of the right labium majus for one week, and a Bartholin abscess is seen. Which organism most commonly affects the Bartholin gland?",
+  "options": {
+   "A": "Streptococcus",
+   "B": "Pseudomonas",
+   "C": "Candida",
+   "D": "Gonorrhoea",
+   "E": "E. coli"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Bartholin abscess is polymicrobial, and E. coli and other gut organisms are now the commonest isolates; Neisseria gonorrhoeae and Chlamydia are less frequent causes.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00117",
+   "C00760",
+   "C01496"
+  ],
+  "stem": "A 28-year-old woman presents with a painless left vulval swelling that has gradually enlarged over 3 months. There is a 3 cm cystic, non-tender, fluctuant swelling in the posterior labium majus near the vestibule, with no signs of infection. What is the most appropriate management?",
+  "options": {
+   "A": "Broad-spectrum antibiotics with sitz baths",
+   "B": "Simple incision and drainage",
+   "C": "Excision of the gland",
+   "D": "Marsupialisation",
+   "E": "Observation only, as it will resolve spontaneously"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A persistent, enlarging symptomatic Bartholin cyst is treated by marsupialisation (or Word catheter), which creates a permanent drainage opening. Simple drainage recurs and excision is reserved for failures.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00499",
+   "C01264",
+   "C01407",
+   "C02225"
+  ],
+  "stem": "A patient presents with a painful vulval lump for five days, and examination shows a red, tender, fluctuant mass in the region of Bartholin's gland (Bartholin abscess). What is the most appropriate treatment?",
+  "options": {
+   "A": "Antibiotic therapy",
+   "B": "Dissection and removal of the affected gland",
+   "C": "Incision and drainage",
+   "D": "Incision and marsupialisation",
+   "E": "Hot fomentation"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Bartholin abscess needs surgical drainage, and incision with marsupialisation (or a Word catheter) prevents the re-closure and recurrence seen after simple incision and drainage. Antibiotics alone are insufficient.",
+  "key_note": "Most paper keys marked D; one marked C (incision and drainage), which is acceptable acutely but recurs, so D is kept. One source did not mark an answer. Paper key marked B (drainage); drainage alone recurs, so marsupialisation is preferred (Word catheter is an equally accepted alternative).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00390",
+   "C00423",
+   "C00177",
+   "C00182",
+   "C00186"
+  ],
+  "stem": "A 57-year-old woman presents with vulval pruritus and soreness. There is whitening with a parchment-paper appearance, fissuring and loss of the labia minora and normal vulval anatomy. What is the most likely diagnosis?",
+  "options": {
+   "A": "Candidiasis",
+   "B": "Herpes simplex II",
+   "C": "Lichen planus",
+   "D": "Lichen sclerosus",
+   "E": "Vulvodynia"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Itching with white, thin, parchment-like skin, fissuring and loss of architecture is the classic picture of lichen sclerosus.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02224"
+  ],
+  "stem": "A 60-year-old postmenopausal woman has pruritus vulvae for 1 year, with thickened white skin around the vulva and perianal area, diagnosed as lichen sclerosus. What is the first-line treatment?",
+  "options": {
+   "A": "Topical corticosteroids",
+   "B": "Tacrolimus",
+   "C": "Podophyllin",
+   "D": "Topical oestrogen",
+   "E": "Pimecrolimus"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Lichen sclerosus is treated with an ultrapotent topical corticosteroid such as clobetasol propionate 0.05%, which relieves symptoms and reduces scarring. Calcineurin inhibitors are second-line.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01423"
+  ],
+  "stem": "A 60-year-old woman has had vulval pruritus and perineal bleeding for 2 years. Examination shows scratch marks and a 3 cm white irregular area on the right labium majus. What is the next step in management?",
+  "options": {
+   "A": "Topical antifungal cream for 6 weeks",
+   "B": "Topical lidocaine",
+   "C": "Topical steroid",
+   "D": "Biopsy of the lesion under anaesthesia",
+   "E": "MRI of pelvic and femoral nodes"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A persistent, irregular white lesion with bleeding in an older woman may be vulval intraepithelial neoplasia or carcinoma, which needs biopsy before any treatment.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02181"
+  ],
+  "stem": "A 42-year-old woman presents with genital ulceration, white papules on the vulva, pruritus, burning and postcoital bleeding. What is your diagnosis?",
+  "options": {
+   "A": "Lichen planus",
+   "B": "Lichen sclerosus",
+   "C": "Seborrhoeic dermatitis",
+   "D": "Candidiasis",
+   "E": "Psoriasis"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "White papules with erosions, burning and postcoital bleeding suggest (erosive) lichen planus, which involves the vagina; lichen sclerosus spares the vagina.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00204"
+  ],
+  "stem": "A 15-year-old girl presents with perineal itching and irritation. The vulval region appears mildly red with no tenderness or discharge. How will you manage her?",
+  "options": {
+   "A": "Advise loose cotton clothing",
+   "B": "Apply 2.5% hydrocortisone topically",
+   "C": "Give a sedative at night",
+   "D": "Apply topical antibacterial",
+   "E": "Apply topical antifungal"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Mild non-specific vulvitis in a young girl is managed conservatively with hygiene measures, loose cotton clothing and avoidance of irritants (soaps, perfumed products), without drugs.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01495"
+  ],
+  "stem": "Benign disorders of the vulva and vagina are described below. Which statement is true?",
+  "options": {
+   "A": "Typical presentation of lichen simplex is with itching and soreness of the labia majora",
+   "B": "Lichen planus can affect hair, nails and mucous membranes as well as the labia",
+   "C": "Vulval carcinoma can develop in 50% of cases of lichen sclerosus",
+   "D": "Vulvodynia is a diagnosis of exclusion",
+   "E": "The use of soaps and perfumed wipes should be discouraged in all forms of vulval/vaginal irritation"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Lichen planus is a mucocutaneous disorder that can involve hair, nails, oral and vaginal mucosa. Lichen sclerosus carries only a 3 to 5% lifetime risk of vulval carcinoma, so C is false.",
+  "key_note": "Paper key marked C (false, the real risk is about 5%); the question has several true options, best answer B.",
+  "figure": ""
+ }
+]

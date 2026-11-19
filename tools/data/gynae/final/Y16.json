@@ -1,0 +1,1024 @@
+[
+ {
+  "cids": [
+   "C00068",
+   "C02039"
+  ],
+  "stem": "While taking a Pap smear, which site must be sampled because it is the area most likely to be affected by dysplasia and cervical cancer?",
+  "options": {
+   "A": "Vaginal fornix",
+   "B": "Internal cervical os",
+   "C": "External cervical os",
+   "D": "Squamo-columnar junction",
+   "E": "Vaginal walls"
+  },
+  "answer": "D",
+  "answer_text": "Squamo-columnar junction",
+  "explanation": "Almost all CIN and cervical cancers arise in the transformation zone at the squamo-columnar junction, so the spatula and brush must sample this area (360 degrees around the external os).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01497"
+  ],
+  "stem": "Which of the following is used to take a Pap smear?",
+  "options": {
+   "A": "Colposcope",
+   "B": "Ayre's spatula",
+   "C": "Laparoscope",
+   "D": "Volsellum",
+   "E": "Tenaculum"
+  },
+  "answer": "B",
+  "answer_text": "Ayre's spatula",
+  "explanation": "The Ayre's spatula (with or without a cytobrush) is used to scrape cells from the transformation zone. A colposcope only magnifies the cervix.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01382",
+   "C00730",
+   "C00496",
+   "C00201",
+   "C01424",
+   "C01763",
+   "C02243"
+  ],
+  "stem": "The commonest cause of cervical cancer and cervical dysplasia is:",
+  "options": {
+   "A": "Early age at first intercourse",
+   "B": "Human papilloma virus 16 and 18",
+   "C": "Multiple sex partners",
+   "D": "Cigarette smoking",
+   "E": "Immunodeficiency"
+  },
+  "answer": "B",
+  "answer_text": "Human papilloma virus 16 and 18",
+  "explanation": "High-risk HPV (mainly types 16 and 18) is found in over 99% of cervical cancers. Early intercourse, multiple partners, smoking and immunosuppression are only cofactors.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00148",
+   "C01940"
+  ],
+  "stem": "Among the many genotypes of HPV, which are the most oncogenic types causing invasive cervical cancer?",
+  "options": {
+   "A": "HPV-16, HPV-18",
+   "B": "HPV-6, HPV-16",
+   "C": "HPV-6, HPV-11",
+   "D": "HPV-11, HPV-16",
+   "E": "HPV-18, HPV-11"
+  },
+  "answer": "A",
+  "answer_text": "HPV-16, HPV-18",
+  "explanation": "HPV 16 and 18 cause about 70% of cervical cancers. Types 6 and 11 cause genital warts and are low risk.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01251",
+   "C01874"
+  ],
+  "stem": "A vaccine is available for the prevention of cervical cancer. It is directed against which HPV type?",
+  "options": {
+   "A": "6",
+   "B": "11",
+   "C": "16",
+   "D": "31",
+   "E": "45"
+  },
+  "answer": "C",
+  "answer_text": "16",
+  "explanation": "HPV vaccines target the high-risk types 16 and 18 (the 9-valent also covers 31, 33, 45, 52, 58). Type 16 is the most oncogenic of the listed options.",
+  "key_note": "Some paper keys marked B (HPV 11); correct is C (HPV 16): type 11 is a low-risk wart type, 16 is the main oncogenic type covered.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01376",
+   "C00495",
+   "C02045",
+   "C00731"
+  ],
+  "stem": "What is the best method to prevent cancer cervix in a young woman or girl (e.g. with a family history of cervical cancer)?",
+  "options": {
+   "A": "Modification of sexual behavior",
+   "B": "HPV vaccine",
+   "C": "Cessation of smoking",
+   "D": "Frequent screening for CIN",
+   "E": "Barrier method of contraception"
+  },
+  "answer": "B",
+  "answer_text": "HPV vaccine",
+  "explanation": "Primary prevention is by HPV vaccination before sexual exposure. Screening detects precancer but does not prevent infection.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01311"
+  ],
+  "stem": "A 30-year-old woman requests HPV vaccination. You inform her that it is most appropriate for:",
+  "options": {
+   "A": "Women of all ages",
+   "B": "Only women with normal Pap smear can receive it",
+   "C": "Girls aged 12-13 years",
+   "D": "Only women with abnormal pap smear can receive it",
+   "E": "Pregnant and lactating women"
+  },
+  "answer": "C",
+  "answer_text": "Girls aged 12-13 years",
+  "explanation": "Vaccination is most effective before sexual debut, so it is routinely offered to girls aged about 9-13 years; efficacy is poor once HPV exposure has occurred.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01431"
+  ],
+  "stem": "Regarding the role of HPV testing in cervical screening, which statement is correct?",
+  "options": {
+   "A": "Its value lies in its extremely low negative predictive power",
+   "B": "High risk HPV testing improves the sensitivity of cervical screening",
+   "C": "HPV testing is carried out routinely on all cervical cytology specimen",
+   "D": "HPV testing can be used as alternate colposcopy in high grade lesion",
+   "E": "HPV negative women are referred for colposcopy"
+  },
+  "answer": "B",
+  "answer_text": "High risk HPV testing improves the sensitivity of cervical screening",
+  "explanation": "High-risk HPV testing is highly sensitive with a high negative predictive value, and is used for triage of low-grade cytology and test of cure. It does not replace colposcopy in high-grade lesions.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00271"
+  ],
+  "stem": "A 33-year-old woman attends for annual examination and has been sexually active for 11 years. What is the most suitable screening method for cervical intraepithelial neoplasia?",
+  "options": {
+   "A": "Inspection of cervix",
+   "B": "Staining with acetic acid",
+   "C": "Papanicolaou smear",
+   "D": "Colposcopy & biopsy",
+   "E": "Wedge biopsy of cervix"
+  },
+  "answer": "C",
+  "answer_text": "Papanicolaou smear",
+  "explanation": "Cervical cytology (Pap smear) is the screening test; colposcopy and biopsy are diagnostic and are reserved for abnormal results.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01552"
+  ],
+  "stem": "Population-based cervical screening should be offered to which age group?",
+  "options": {
+   "A": "15-20 years",
+   "B": "20-25years",
+   "C": "26-49 years",
+   "D": "25-64 years",
+   "E": "30-65 years"
+  },
+  "answer": "D",
+  "answer_text": "25-64 years",
+  "explanation": "In the UK programme screening runs from 25 to 64 years (3-yearly to 49, then 5-yearly to 64).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01328"
+  ],
+  "stem": "A 30-year-old woman had a normal cervical smear last month. How often should it be repeated until the age of 49 years?",
+  "options": {
+   "A": "Annually",
+   "B": "Every two years",
+   "C": "Every three years",
+   "D": "Every four years",
+   "E": "Every five years"
+  },
+  "answer": "C",
+  "answer_text": "Every three years",
+  "explanation": "UK programme: 3-yearly screening from 25 to 49 years, then 5-yearly from 50 to 64.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01464",
+   "C01530"
+  ],
+  "stem": "A 30-year-old woman attends for annual examination, has no medical problems and uses barrier contraception. The Pap smear report is inadequate. What is the most suitable step?",
+  "options": {
+   "A": "Repeat 6 monthly",
+   "B": "Do colposcopy",
+   "C": "Do laparoscopy.",
+   "D": "Repeat pap smear",
+   "E": "Visual inspection of cervix with acetic acid"
+  },
+  "answer": "D",
+  "answer_text": "Repeat pap smear",
+  "explanation": "An inadequate sample cannot be interpreted, so the smear is simply repeated (after about 3 months to allow epithelial regeneration). Colposcopy is not indicated for an inadequate smear alone.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00272"
+  ],
+  "stem": "Which of the following correctly correlates the grade of CIN with its histological features?",
+  "options": {
+   "A": "CIN 1 - Full-thickness involvement of epithelium",
+   "B": "CIN 2 - Lower one-third involvement of epithelium",
+   "C": "CIN 3 - Upper one-third involvement of epithelium",
+   "D": "CIN 2 - Involvement of up to two-thirds of the epithelium",
+   "E": "CIN 1 - Involvement of more than two-thirds of the epithelium"
+  },
+  "answer": "D",
+  "answer_text": "CIN 2 - Involvement of up to two-thirds of the epithelium",
+  "explanation": "CIN 1 involves the lower third of the epithelium, CIN 2 up to two-thirds, and CIN 3 the full thickness (carcinoma in situ).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01956"
+  ],
+  "stem": "A 28-year-old woman has a Pap smear report showing CIN I. CIN type I is labelled when:",
+  "options": {
+   "A": "The deeper 1/3rd of epithelium is involved",
+   "B": "Superficial 2/3rd of epithelium is involved",
+   "C": "Whole cervix is involved",
+   "D": "Cervix and vagina are involved",
+   "E": "Cervix and uterus are involved"
+  },
+  "answer": "A",
+  "answer_text": "The deeper 1/3rd of epithelium is involved",
+  "explanation": "CIN 1 means dysplasia confined to the lower (basal, deeper) third of the epithelium; CIN 2 involves two-thirds and CIN 3 the full thickness.",
+  "key_note": "Paper keys marked B (superficial third/two-thirds); correct is A: CIN 1 involves only the deepest (basal) third of the epithelium.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02136"
+  ],
+  "stem": "A 30-year-old woman has a Pap smear report showing CIN III. What is the risk of progression of CIN III to malignancy?",
+  "options": {
+   "A": "40%",
+   "B": "20 %",
+   "C": "60 %",
+   "D": "70%",
+   "E": "10%"
+  },
+  "answer": "B",
+  "answer_text": "20 %",
+  "explanation": "Untreated CIN 3 progresses to invasive cancer in roughly 20-30% over 10-20 years, so it must always be treated.",
+  "key_note": "Figures vary by source (12-30%); 20% kept as marked in the papers.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00270"
+  ],
+  "stem": "A 35-year-old patient has a Pap smear report showing mild dyskaryosis. What is the next step of management?",
+  "options": {
+   "A": "Colposcopy",
+   "B": "Repeat smear after 6 months",
+   "C": "Cervical biopsy",
+   "D": "LLETZ",
+   "E": "Repeat smear after 2 years"
+  },
+  "answer": "A",
+  "answer_text": "Colposcopy",
+  "explanation": "Mild dyskaryosis that is persistent or HPV positive is referred for colposcopy; this is the usual exam key.",
+  "key_note": "One paper marked B (repeat smear after 6 months); colposcopy (A) is kept as marked by most papers and is current UK practice with HPV triage.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01356"
+  ],
+  "stem": "A 35-year-old P3 woman has a cervical smear showing a low-grade lesion. How will you manage her?",
+  "options": {
+   "A": "Loop diathermy",
+   "B": "LLETZ",
+   "C": "Cone biopsy",
+   "D": "Colposcopy after 6 months",
+   "E": "Trachelectomy"
+  },
+  "answer": "D",
+  "answer_text": "Colposcopy after 6 months",
+  "explanation": "A low-grade lesion is not treated on cytology alone; it is followed up with colposcopy or repeat cytology, not LLETZ, cone or trachelectomy.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00275",
+   "C02309"
+  ],
+  "stem": "Pap smear shows LSIL (low-grade squamous intraepithelial lesion). What is the next step?",
+  "options": {},
+  "answer": null,
+  "answer_text": "Observation (repeat cytology/HPV testing; colposcopy if persistent), no immediate treatment",
+  "explanation": "Most LSIL/CIN 1 regress spontaneously, so observation with repeat cytology or HPV testing (or colposcopy if persistent) is appropriate rather than treatment.",
+  "key_note": "Options not available in the source; recall question.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00100"
+  ],
+  "stem": "A 25-year-old woman has LSIL on Pap smear and colposcopy with biopsy confirms CIN 1. She wishes to preserve fertility. What is the best next step?",
+  "options": {
+   "A": "Immediate LEEP excision",
+   "B": "Hysterectomy",
+   "C": "Repeat cytology after 6 months",
+   "D": "Cold-knife cone biopsy",
+   "E": "Chemoradiotherapy"
+  },
+  "answer": "C",
+  "answer_text": "Repeat cytology after 6 months",
+  "explanation": "CIN 1 usually regresses, so conservative follow-up with repeat cytology is preferred; excision increases the risk of preterm birth in later pregnancies.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01466"
+  ],
+  "stem": "A 45-year-old P4 woman presents with postcoital bleeding for 3 months. The cervix is hyperaemic and the Pap smear shows low-grade squamous intraepithelial lesion. What is the best management?",
+  "options": {
+   "A": "Cryocautry",
+   "B": "Laser Ablation",
+   "C": "Abdominal Hysterectomy",
+   "D": "Colposcopy",
+   "E": "LLETZ"
+  },
+  "answer": "D",
+  "answer_text": "Colposcopy",
+  "explanation": "With symptoms (postcoital bleeding), colposcopy with directed biopsy is needed to exclude a higher-grade lesion or invasion before any treatment.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00269",
+   "C00276",
+   "C00274",
+   "C02308",
+   "C01312",
+   "C00497",
+   "C02038"
+  ],
+  "stem": "A Pap smear report shows a high-grade squamous intraepithelial lesion (HSIL). What is the most appropriate next step?",
+  "options": {
+   "A": "colposcopy and biopsy",
+   "B": "Excision",
+   "C": "HPV vaccination",
+   "D": "Total hysterectomy immediately",
+   "E": "Repeat smear in 6 months"
+  },
+  "answer": "A",
+  "answer_text": "colposcopy and biopsy",
+  "explanation": "HSIL needs colposcopic assessment with directed biopsy to confirm the grade and exclude invasion before treatment; hysterectomy and repeat smears are not appropriate.",
+  "key_note": "Options C (colposcopy) and D (colposcopy directed biopsy) overlap; D kept as marked in the papers.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01965",
+   "C02201",
+   "C00063",
+   "C01247",
+   "C02915",
+   "C01835",
+   "C00486"
+  ],
+  "stem": "A 38-year-old P4 had a cervical smear done for intermenstrual bleeding. It shows severe dyskaryosis. What is the next most appropriate step?",
+  "options": {
+   "A": "HPV testing",
+   "B": "Punch biopsy",
+   "C": "Refer to colposcopy",
+   "D": "Pap smear after 3 months",
+   "E": "Routine recall"
+  },
+  "answer": "C",
+  "answer_text": "Refer to colposcopy",
+  "explanation": "Severe dyskaryosis requires colposcopy; repeat cytology, HPV testing or routine recall are inappropriate.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00437"
+  ],
+  "stem": "A 32-year-old P1+0 presents with postcoital bleeding for 3 months. Pap smear and biopsy report carcinoma in situ. What is the most appropriate management?",
+  "options": {
+   "A": "Colposcopy",
+   "B": "Hysterectomy",
+   "C": "Followup 6 mon",
+   "D": "Trachelectomy",
+   "E": "Repeat pap smear after 3 mon"
+  },
+  "answer": "A",
+  "answer_text": "Colposcopy",
+  "explanation": "Carcinoma in situ (CIN 3) is treated by excision (LLETZ or cone) after colposcopic assessment of the lesion to exclude invasion; hysterectomy is over-treatment in a young woman.",
+  "key_note": "Not marked in the source paper; answer by reviewer. No excision option is offered, so colposcopic assessment is the best choice.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00732",
+   "C01428"
+  ],
+  "stem": "A 45-year-old woman with postcoital bleeding has a hyperaemic cervix. Her Pap smear shows high-grade intraepithelial neoplasia. What is the best management option?",
+  "options": {
+   "A": "Cryocautery",
+   "B": "Laser ablation",
+   "C": "Abdominal hysterectomy",
+   "D": "colposcopy guided biopsy",
+   "E": "LLETZ"
+  },
+  "answer": "D",
+  "answer_text": "colposcopy guided biopsy",
+  "explanation": "Cytology alone does not justify treatment; colposcopy-guided biopsy confirms the lesion and excludes invasion before excision.",
+  "key_note": "Source key marked E (LLETZ); see-and-treat LLETZ is acceptable in some protocols, but standard exam teaching is colposcopy-guided biopsy first, so D is given.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00069"
+  ],
+  "stem": "A patient has a Pap smear showing CIN III and colposcopy is planned. You plan LLETZ at the same time. This treatment is appropriate in patients with:",
+  "options": {
+   "A": "Invasive lesion",
+   "B": "Immunocompromised patients",
+   "C": "Well circumscribed lesion",
+   "D": "Unfit for hysterectomy",
+   "E": "An HIV+ ve patients."
+  },
+  "answer": "C",
+  "answer_text": "Well circumscribed lesion",
+  "explanation": "LLETZ is suitable when the whole lesion is visible on colposcopy, well circumscribed and with no suspicion of invasion; invasive lesions need cone biopsy or radical treatment.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00310",
+   "C00767",
+   "C00099"
+  ],
+  "stem": "A 35-year-old woman has colposcopy-directed biopsy showing CIN III. What is the best treatment?",
+  "options": {
+   "A": "Cryosurgery",
+   "B": "lonization",
+   "C": "LEEP",
+   "D": "LLETZ",
+   "E": "Hysterectomy"
+  },
+  "answer": "D",
+  "answer_text": "LLETZ",
+  "explanation": "CIN 3 is treated by excision of the transformation zone with LLETZ (large loop excision, also called LEEP), which also gives a histology specimen.",
+  "key_note": "In one set LEEP and LLETZ are both listed and are the same procedure; LLETZ kept as marked.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00780"
+  ],
+  "stem": "A 40-year-old woman has recurrent vaginal discharge for a year. Her Pap smear shows moderate to severe dyskaryosis. What is the best treatment option?",
+  "options": {
+   "A": "Cryotherapy",
+   "B": "Hysterectomy",
+   "C": "LLETZ",
+   "D": "Radical hysterectomy",
+   "E": "Trachelectomy"
+  },
+  "answer": "C",
+  "answer_text": "LLETZ",
+  "explanation": "High-grade CIN is treated by LLETZ after colposcopic confirmation; hysterectomy is not first line for CIN.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00765"
+  ],
+  "stem": "A 30-year-old woman with CIN III is to have LLETZ. What is the potential impact of the procedure on future pregnancy?",
+  "options": {
+   "A": "Increased risk of first trimester miscarriage",
+   "B": "Increased risk of still birth in future pregnancy",
+   "C": "Increased risk of second trimester miscarriage and preterm delivery",
+   "D": "Increased risk of Caesarean section due to cervical dystocia",
+   "E": "increased risk of postpartum haemorrhage"
+  },
+  "answer": "C",
+  "answer_text": "Increased risk of second trimester miscarriage and preterm delivery",
+  "explanation": "Excision removes cervical stroma, increasing the risk of second-trimester loss and preterm delivery (rising with the depth of the cone).",
+  "key_note": "One paper marked a rearranged option (stillbirth and preterm delivery); correct is second trimester miscarriage and preterm delivery.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00105",
+   "C00488"
+  ],
+  "stem": "A 30-year-old nulliparous woman has stage IA1 cervical carcinoma. What is the best fertility-preserving surgical option?",
+  "options": {
+   "A": "Cone biopsy",
+   "B": "LLETZ",
+   "C": "Radical hysterectomy",
+   "D": "Simple hysterectomy",
+   "E": "Vaginal brachytherapy"
+  },
+  "answer": "A",
+  "answer_text": "Cone biopsy",
+  "explanation": "Stage IA1 without lymphovascular space invasion is treated by cone biopsy with clear margins, which preserves fertility (LLETZ excision is also used if margins are clear).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01433",
+   "C01498"
+  ],
+  "stem": "A 32-year-old nulliparous woman is diagnosed with a 3 cm stage IB1 squamous carcinoma of the cervix. What fertility-sparing treatment would you recommend?",
+  "options": {
+   "A": "Cold knife cone biopsy",
+   "B": "Large loop excision of transformation zone (LLETZ)",
+   "C": "Radical Trachelectomy with bilateral salpingo-oophrectomy",
+   "D": "Radiotherapy with cisplatin chemotherapy",
+   "E": "Radical trachelectomy with bilateral pelvic lymphadenectomy"
+  },
+  "answer": "E",
+  "answer_text": "Radical trachelectomy with bilateral pelvic lymphadenectomy",
+  "explanation": "Radical trachelectomy with pelvic lymphadenectomy preserves the uterine body in IB1 disease, whereas cone or LLETZ is inadequate for a 3 cm lesion. Oophorectomy is not needed.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01472"
+  ],
+  "stem": "A young woman's mother recently died of cervical carcinoma. The first symptom of cervical cancer is:",
+  "options": {
+   "A": "vulval pruritis",
+   "B": "pain with intercourse",
+   "C": "irregular bleeding",
+   "D": "weight loss.",
+   "E": "Hematuria"
+  },
+  "answer": "C",
+  "answer_text": "irregular bleeding",
+  "explanation": "Early cervical cancer presents with abnormal bleeding (irregular, postcoital or intermenstrual); discharge and weight loss are later features.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01415"
+  ],
+  "stem": "Choose the most common symptom of carcinoma cervix:",
+  "options": {
+   "A": "Menorrhagia",
+   "B": "Polymenorrhea",
+   "C": "Postcoital bleeding",
+   "D": "Foul smelling vaginal discharge",
+   "E": "Polymenorrhagia"
+  },
+  "answer": "C",
+  "answer_text": "Postcoital bleeding",
+  "explanation": "Postcoital bleeding is the classic and most common symptom of cervical cancer.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01416"
+  ],
+  "stem": "The most common histological variety of carcinoma cervix is:",
+  "options": {
+   "A": "Adenocarcinoma",
+   "B": "Squamous cell carcinoma",
+   "C": "Adenocanthoma",
+   "D": "Clear cell CA",
+   "E": "Germ cell tumors"
+  },
+  "answer": "B",
+  "answer_text": "Squamous cell carcinoma",
+  "explanation": "Squamous cell carcinoma accounts for about 80% of cervical cancers; adenocarcinoma is next.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00127",
+   "C00764"
+  ],
+  "stem": "A 38-year-old otherwise healthy P5+0 smoker uses the combined oral contraceptive pill and presents with vaginal discharge and postcoital bleeding. Speculum examination shows an irregular cervix with a fungating growth on the anterior lip. What is the most appropriate next investigation?",
+  "options": {
+   "A": "Pap smear",
+   "B": "Dilatation & curettage",
+   "C": "Cervical biopsy",
+   "D": "High vaginal swab",
+   "E": "Colposcopy"
+  },
+  "answer": "C",
+  "answer_text": "Cervical biopsy",
+  "explanation": "A visible cervical growth is biopsied directly for histological diagnosis; a Pap smear is a screening test and is unreliable for an obvious lesion.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00753"
+  ],
+  "stem": "A 50-year-old P4+0 hukka smoker has postmenopausal bleeding for 4 months. There is a cauliflower-like growth on the cervix. What is the next step?",
+  "options": {
+   "A": "EUA and biopsy of growth",
+   "B": "CT-scan",
+   "C": "USG pelvis",
+   "D": "Trachelectomy",
+   "E": "Hysterectomy"
+  },
+  "answer": "A",
+  "answer_text": "EUA and biopsy of growth",
+  "explanation": "Examination under anaesthesia with biopsy gives the diagnosis and the clinical stage (with cystoscopy and proctoscopy if needed) for a visible cervical growth.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02044",
+   "C01527"
+  ],
+  "stem": "A 39-year-old P6 woman presents with postcoital bleeding for three months. What should be your first investigation?",
+  "options": {
+   "A": "Dilatation and Curettage",
+   "B": "cone biopsy of cervix",
+   "C": "pap smear",
+   "D": "colposcopy",
+   "E": "laparoscopy"
+  },
+  "answer": "C",
+  "answer_text": "pap smear",
+  "explanation": "Speculum examination with cervical cytology is the first-line test for postcoital bleeding, followed by colposcopy and biopsy if abnormal.",
+  "key_note": "Source key (Pap smear) kept per exam teaching.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01414"
+  ],
+  "stem": "A 48-year-old woman has irregular bleeding for 6 months and a Pap smear suspicious for cancer. What will you advise?",
+  "options": {
+   "A": "Repeat Pap smear in 3 months",
+   "B": "Have colposcopy with biopsy",
+   "C": "MRI of abdomen and pelvis",
+   "D": "Pelvic examination under anesthesia",
+   "E": "Have colposcopic examination only."
+  },
+  "answer": "B",
+  "answer_text": "Have colposcopy with biopsy",
+  "explanation": "A smear suspicious for invasion needs colposcopy with directed biopsy for histological diagnosis; repeat smear would delay diagnosis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01432"
+  ],
+  "stem": "A 32-year-old woman with a third marriage has postcoital and intermenstrual bleeding with weight loss for 6 months. Speculum examination shows cervical ectopy with rough surface that bleeds to touch. Which investigation will you perform to diagnose?",
+  "options": {
+   "A": "Pap smear and colposcopy",
+   "B": "biopsy",
+   "C": "ultrasound abdomen and pelvis",
+   "D": "MRI with contrast",
+   "E": "Leptroscopy"
+  },
+  "answer": "A",
+  "answer_text": "Pap smear and colposcopy",
+  "explanation": "Colposcopy with Pap smear and directed biopsy evaluates a suspicious-looking ectopy to exclude carcinoma.",
+  "key_note": "Source key kept; a cervical biopsy is the confirmatory test.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02202"
+  ],
+  "stem": "A 45-year-old P4 has foul discharge and postcoital bleeding. Speculum examination shows a 3 x 4 cm fungating cervical growth; bimanual examination shows an 8-week-size uterus with restricted mobility. What is the most appropriate radiological investigation?",
+  "options": {
+   "A": "CT scan",
+   "B": "MRI",
+   "C": "PET scan",
+   "D": "USG",
+   "E": "CT with PET scan"
+  },
+  "answer": "B",
+  "answer_text": "MRI",
+  "explanation": "MRI is the best imaging for local extent (parametrial invasion, stromal depth, nodes) in cervical cancer; CT is poorer for soft-tissue spread.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01246",
+   "C00066"
+  ],
+  "stem": "A 65-year-old P3 has a cervical biopsy showing invasion greater than 3 mm but not wider than 7 mm. According to FIGO, her stage is:",
+  "options": {
+   "A": "Stage 1A1",
+   "B": "stage 1A2",
+   "C": "Stage 1B1",
+   "D": "Stage 1B 2",
+   "E": "Stage II"
+  },
+  "answer": "B",
+  "answer_text": "stage 1A2",
+  "explanation": "Invasion deeper than 3 mm and up to 5 mm with spread up to 7 mm is stage IA2.",
+  "key_note": "One source had a student tick on A (Ia1); correct is B (Ia2).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01435",
+   "C02939"
+  ],
+  "stem": "What is the FIGO stage of cervical carcinoma with microinvasion of the basement membrane less than 7 mm across, with no lymphovascular space invasion?",
+  "options": {
+   "A": "Stage 1b2",
+   "B": "Stage 3",
+   "C": "Stage 4",
+   "D": "Stage 1A1",
+   "E": "Stage 2A"
+  },
+  "answer": "D",
+  "answer_text": "Stage 1A1",
+  "explanation": "Microscopic invasion up to 3 mm deep and under 7 mm wide without LVSI is stage IA1.",
+  "key_note": "Paper key marked B (Stage 3), which is clearly wrong; correct is D (Stage 1A1).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00781"
+  ],
+  "stem": "A 40-year-old nulliparous woman has postcoital and intermenstrual bleeding. EUA shows a friable fungating 2 cm cervical mass; cystoscopy and rectovaginal examination are normal. What is the clinical stage?",
+  "options": {
+   "A": "Stage IAI",
+   "B": "Stage IA2",
+   "C": "Stage IBI",
+   "D": "Stage IB2",
+   "E": "Stage II"
+  },
+  "answer": "C",
+  "answer_text": "Stage IBI",
+  "explanation": "A visible clinical lesion confined to the cervix and under 4 cm (2 cm here) is stage IB1.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00281"
+  ],
+  "stem": "A 48-year-old woman has postcoital bleeding and a friable exophytic 4.5 cm cervical lesion; biopsy shows squamous carcinoma. What is the FIGO stage and best initial treatment?",
+  "options": {
+   "A": "Stage IB2 - Radical hysterectomy with pelvic lymphadenectomy",
+   "B": "Stage IIA1 - Concurrent chemoradiotherapy",
+   "C": "Stage IIA1 - Radical hysterectomy with lymphadenectomy",
+   "D": "Stage IIB - Neoadjuvant chemotherapy followed by surgery",
+   "E": "Stage IV - Palliative radiotherapy"
+  },
+  "answer": "A",
+  "answer_text": "Stage IB2 - Radical hysterectomy with pelvic lymphadenectomy",
+  "explanation": "A clinically visible lesion larger than 4 cm confined to the cervix is IB2 (2009 FIGO); the other options give the wrong stage for this lesion.",
+  "key_note": "Under 2018 FIGO this lesion is IB3 and chemoradiation is preferred; A is the only option with a consistent stage and is kept as marked.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02189",
+   "C00282",
+   "C01355"
+  ],
+  "stem": "A 55-year-old woman has cervical carcinoma extending beyond the cervix and involving the upper two-thirds of the vagina but not reaching the pelvic side walls. The stage is:",
+  "options": {
+   "A": "Stage IV",
+   "B": "Stage IIa",
+   "C": "Stage IIIa",
+   "D": "Stage IIb",
+   "E": "Stage IIIb"
+  },
+  "answer": "B",
+  "answer_text": "Stage IIa",
+  "explanation": "Upper two-thirds of the vagina without parametrial involvement is IIA; IIIA needs the lower third of the vagina.",
+  "key_note": "One paper marked C (IIB); correct is B (IIA): IIB requires parametrial invasion.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00396",
+   "C01159"
+  ],
+  "stem": "A 60-year-old woman presents with postmenopausal bleeding and a cervical growth extending to the vagina; biopsy shows squamous carcinoma. MRI shows extension to the lower one-third of the vagina with no parametrial invasion and no nodal involvement. What is the FIGO stage?",
+  "options": {
+   "A": "Stage IIA",
+   "B": "Stage IIB",
+   "C": "Stage III A",
+   "D": "Stage III B",
+   "E": "Stage IV A"
+  },
+  "answer": "C",
+  "answer_text": "Stage III A",
+  "explanation": "Involvement of the lower third of the vagina is stage IIIA; IIIB needs pelvic wall extension or hydronephrosis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00197",
+   "C01266"
+  ],
+  "stem": "A 45-year-old multiparous woman has postcoital bleeding and foul discharge for 2 months. A friable ulcerative cervical growth involves the cervix and upper vagina but not the pelvic wall. What is the most appropriate treatment?",
+  "options": {
+   "A": "Total abdominal hysterectomy with bilateral salpingooophorectomy",
+   "B": "Radical hysterectomy with pelvic lymphadenectomy",
+   "C": "Concurrent chemoradiation with cisplatin",
+   "D": "Simple trachelectomy",
+   "E": "Repeat biopsy after 6 months"
+  },
+  "answer": "C",
+  "answer_text": "Concurrent chemoradiation with cisplatin",
+  "explanation": "Locally advanced disease beyond stage IB (here IIA bulky or IIB) is treated by concurrent cisplatin chemoradiation, not surgery.",
+  "key_note": "Concurrent chemoradiation is the current standard; radiotherapy is the best option offered.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02117"
+  ],
+  "stem": "A 67-year-old woman is diagnosed with cervical cancer infiltrating the parametrium. What is the optimal treatment?",
+  "options": {
+   "A": "Total abdominal hysterectomy",
+   "B": "Radical hysterectomy",
+   "C": "Radiotherapy with or without chemotherapy",
+   "D": "Carboplatin chemotherapy",
+   "E": "Surgery with chemotherapy"
+  },
+  "answer": "C",
+  "answer_text": "Radiotherapy with or without chemotherapy",
+  "explanation": "Parametrial invasion is stage IIB and is treated by radiotherapy with concurrent cisplatin; radical surgery is for stage IB to IIA.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01967"
+  ],
+  "stem": "A 46-year-old P4 has irregular and postcoital bleeding. Examination shows a 6-7 cm cauliflower-like lesion replacing the cervix and involving the lower third of the vagina; histopathology shows squamous carcinoma. What is the most appropriate management?",
+  "options": {
+   "A": "Cervical conization",
+   "B": "Chemo radiation",
+   "C": "Radical trachelectomy",
+   "D": "Wertheim hysterectomy",
+   "E": "Trachelectomy"
+  },
+  "answer": "B",
+  "answer_text": "Chemo radiation",
+  "explanation": "Bulky, locally advanced disease (stage IIIA) is treated by concurrent chemoradiation.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01310"
+  ],
+  "stem": "A 45-year-old woman is evaluated for carcinoma cervix and stage IV disease is found. What is the treatment?",
+  "options": {
+   "A": "Total abdominal hysterectomy",
+   "B": "Radiotherapy",
+   "C": "Bilateral oophorectomy",
+   "D": "Cone biopsy",
+   "E": "TAH & BSO"
+  },
+  "answer": "B",
+  "answer_text": "Radiotherapy",
+  "explanation": "Stage IV is not operable; stage IVA is treated with chemoradiation and IVB with palliative chemotherapy or radiotherapy.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00206"
+  ],
+  "stem": "A 70-year-old woman has biopsy-confirmed vulval cancer. What is the most common type of vulval cancer?",
+  "options": {
+   "A": "Squamous cell carcinoma",
+   "B": "Adenocarcinoma",
+   "C": "Melanoma",
+   "D": "Basal cell carcinoma",
+   "E": "Sarcoma"
+  },
+  "answer": "A",
+  "answer_text": "Squamous cell carcinoma",
+  "explanation": "Squamous cell carcinoma accounts for about 90% of vulval cancers; melanoma and adenocarcinoma are rare.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00118"
+  ],
+  "stem": "A 65-year-old woman has itching and a non-healing ulcer on the vulva for 4 months, with an ulcerative lesion on the right labium majus with raised irregular margins, induration and palpable inguinal nodes. What is the next step?",
+  "options": {
+   "A": "Start chemoradiation immediately",
+   "B": "Excisional biopsy of the lesion and nodes",
+   "C": "Wide local excision without lymph node assessment",
+   "D": "Multiple punch biopsies of lesion",
+   "E": "FNAC of inguinal lymph nodes only"
+  },
+  "answer": "D",
+  "answer_text": "Multiple punch biopsies of lesion",
+  "explanation": "Histological diagnosis by punch biopsy of the lesion comes first; definitive surgery and groin management are planned after confirmation.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00187"
+  ],
+  "stem": "A 60-year-old woman has pain and pruritus vulvae with a 2 cm ulcer on the left labium majus and palpable inguinal nodes; biopsy shows squamous cell carcinoma. What is the stage?",
+  "options": {
+   "A": "Stage I",
+   "B": "Stage II a",
+   "C": "Stage II b",
+   "D": "Stage III"
+  },
+  "answer": "D",
+  "answer_text": "Stage III",
+  "explanation": "Spread to inguinofemoral nodes makes the disease stage III regardless of tumour size.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00253"
+  ],
+  "stem": "A 58-year-old woman has a 1 x 1 cm firm left labium majus mass with ipsilateral inguinal lymphadenopathy; biopsy shows poorly differentiated squamous carcinoma confined to the vulva with no distant metastasis. What is the most appropriate management?",
+  "options": {
+   "A": "Radical local excision +lymph node dissection",
+   "B": "Chemotherapy alone",
+   "C": "Radiotherapy to the vulva",
+   "D": "Surgical excision + postoperative radiation",
+   "E": "Conservative management with observation"
+  },
+  "answer": "A",
+  "answer_text": "Radical local excision +lymph node dissection",
+  "explanation": "Treatment is radical local excision with inguinofemoral lymph node dissection (ipsilateral for a lateral lesion), with adjuvant radiotherapy if nodes are positive.",
+  "key_note": "One source did not mark an answer; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02190"
+  ],
+  "stem": "A 65-year-old woman has a 2 cm vulval growth with no stromal invasion and no palpable groin nodes. What is the treatment of choice?",
+  "options": {
+   "A": "Radical wide local excision",
+   "B": "Radical vulvectomy",
+   "C": "Chemotherapy",
+   "D": "Radiotherapy",
+   "E": "Surgery followed by radiotherapy"
+  },
+  "answer": "A",
+  "answer_text": "Radical wide local excision",
+  "explanation": "Early small lesions are treated by radical wide local excision with 1 cm margins; radical vulvectomy is no longer routine.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01372"
+  ],
+  "stem": "The most accurate method of assessing lymph node involvement in vulval cancer is:",
+  "options": {
+   "A": "CT scan",
+   "B": "MRI",
+   "C": "USG",
+   "D": "Sentinel node lymphangiography",
+   "E": "Magnetic resonance lymphangiography"
+  },
+  "answer": "D",
+  "answer_text": "Sentinel node lymphangiography",
+  "explanation": "Sentinel lymph node mapping and biopsy is the most accurate means of assessing groin nodes and avoids the morbidity of full dissection.",
+  "key_note": "",
+  "figure": ""
+ }
+]

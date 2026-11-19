@@ -1,0 +1,1183 @@
+[
+ {
+  "cids": [
+   "C01700",
+   "C02691",
+   "C02722"
+  ],
+  "stem": "A woman in the first trimester has irregular cycles and does not remember her LMP. Gestational age can be assessed most accurately on ultrasound before 13 weeks by measuring:",
+  "options": {
+   "A": "Femur length",
+   "B": "Biparietal diameter",
+   "C": "Crown rump length",
+   "D": "Abdominal circumference",
+   "E": "Head circumference"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Crown-rump length measured at 7-13+6 weeks is the most accurate dating parameter (error about 5-7 days); BPD, HC and FL are used later.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01695",
+   "C01654",
+   "C02797"
+  ],
+  "stem": "A woman with an irregular menstrual cycle and 11 weeks of amenorrhoea has a positive urine pregnancy test. A pelvic ultrasound is advised specifically for:",
+  "options": {
+   "A": "Confirmation of pregnancy",
+   "B": "Exclusion of ectopic pregnancy",
+   "C": "Pregnancy dating",
+   "D": "Fetal viability",
+   "E": "Pelvic pathology"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "With irregular cycles the LMP is unreliable, so the scan is needed to date the pregnancy by crown-rump length. Pregnancy is already confirmed by the urine test.",
+  "key_note": "Paper key marked A (Confirmation of pregnancy); the stem states the scan is for the irregular cycle, so dating (C) is correct.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01095"
+  ],
+  "stem": "Ultrasound in the first trimester has diagnostic and screening benefits. Which one of the following is most important in the management? Choose the best.",
+  "options": {
+   "A": "Accurate dating of the pregnancy",
+   "B": "Number of fetuses",
+   "C": "Viability of the fetus",
+   "D": "Monochorionic placenta",
+   "E": "Molar pregnancy"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Identifying chorionicity matters most because monochorionic twins carry risks (TTTS, selective growth restriction) and need intensive fortnightly surveillance.",
+  "key_note": "Recall question; keyed answer retained by all papers.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01819"
+  ],
+  "stem": "A 37-year-old woman attends for a routine dating scan and asks what information will be obtained. Which of the following will NOT be possible?",
+  "options": {
+   "A": "Accurate dating of the pregnancy",
+   "B": "The detection of placenta praevia",
+   "C": "The early detection of twin pregnancy",
+   "D": "The detection of a failed pregnancy",
+   "E": "The detection of uterine abnormalities"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "The placenta has not yet grown or the lower segment formed at 11-13 weeks, so praevia cannot be reliably diagnosed; it is assessed at the 20-week anomaly scan.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01658"
+  ],
+  "stem": "A G2P1 at 10 weeks has a history of fetal structural anomaly in a previous pregnancy and is booked for an ultrasound. Which structural anomaly can be diagnosed at this gestation?",
+  "options": {
+   "A": "Cardiac abnormality",
+   "B": "Anterior abdominal wall defects",
+   "C": "Renal abnormality",
+   "D": "CNS defects",
+   "E": "Limb defects"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Gross CNS defects such as anencephaly can be recognised in the first trimester; the abdominal wall defects are unreliable before 12 weeks because of physiological gut herniation, and cardiac and renal anomalies need the 18-20 week scan.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02649",
+   "C01110"
+  ],
+  "stem": "A 26-year-old G3P2 with a history of an anomalous baby in her previous pregnancy is advised an anomaly scan at:",
+  "options": {
+   "A": "10 weeks of gestation",
+   "B": "12 weeks of gestation",
+   "C": "14 weeks of gestation",
+   "D": "20 weeks of gestation",
+   "E": "26 weeks"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "The routine fetal anomaly scan is done at 18-20+6 weeks.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03047"
+  ],
+  "stem": "The principal aim of ultrasound in the third trimester is:",
+  "options": {
+   "A": "To assess fetal anomalies",
+   "B": "To assess fetal growth and wellbeing",
+   "C": "To assess fetal weight",
+   "D": "To assess chronicity in twins",
+   "E": "To assess cervical length"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Third-trimester scanning is used chiefly to assess growth, liquor volume, placental site and wellbeing in high-risk pregnancies.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02586",
+   "C02989"
+  ],
+  "stem": "Regarding transabdominal obstetric ultrasound, which of the following is correct?",
+  "options": {
+   "A": "Doppler examination imparts less energy than routine ultrasound",
+   "B": "18-20 weeks of gestation is the optimal time to confirm intrauterine pregnancy",
+   "C": "Cardiac activity is seen at 5 weeks of gestation",
+   "D": "Crown rump length is a useful measurement of gestational age at 10 weeks",
+   "E": "The fetal pole is discernible before cardiac pulsation"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "The fetal pole is seen first and cardiac pulsation follows shortly after. Doppler delivers more acoustic energy than B-mode, and intrauterine pregnancy is confirmed in the first trimester, not at 18-20 weeks.",
+  "key_note": "One paper key marked A (Doppler imparts less energy), which is incorrect; Doppler uses more energy. Option D is also broadly true, but the keyed answer is E.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01820"
+  ],
+  "stem": "Which option is correct regarding diagnostic ultrasound?",
+  "options": {
+   "A": "It employs low-intensity, high-frequency sound waves",
+   "B": "Between 12 and 20 weeks, the crown rump length and femur length are the most reproducible assessments of gestational age",
+   "C": "It can be used to determine chorionicity accurately in twin pregnancy at the 20 week scan",
+   "D": "An increase in nuchal translucency is associated with cardiac defects",
+   "E": "In 6 per cent of pregnancies there will be a serious structural abnormality"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Increased nuchal translucency is associated with aneuploidy and with congenital heart defects. Chorionicity is best determined in the first trimester, and serious structural anomalies occur in about 2%.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01020",
+   "C01134",
+   "C01614",
+   "C02672",
+   "C00464"
+  ],
+  "stem": "A 35-year-old multigravida at 37 weeks presents with reduced fetal movements for 1 day. Her BP is 140/90 mmHg. What is the first step in assessing fetal wellbeing?",
+  "options": {
+   "A": "Cardiotocograph",
+   "B": "Fetal kick count chart",
+   "C": "Biophysical profile",
+   "D": "Fetal heart monitoring by sonicaid for 30 minutes",
+   "E": "Fetal Doppler studies"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "In reduced fetal movements after 28 weeks the fetal heart is confirmed and a CTG is done first to assess fetal wellbeing; ultrasound for liquor and growth follows if indicated.",
+  "key_note": "One paper key marked E (Fetal Doppler studies); CTG is the correct first step. One paper key marked Ultrasound for fetal wellbeing; CTG is the standard first test. Some paper keys marked Obstetric USG (C); CTG is the standard first test. Source had only four options.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00511",
+   "C02838"
+  ],
+  "stem": "A 35-year-old multigravida at 37 weeks presents with reduced fetal movements for 1 day, BP 140/90 mmHg. Sonicaid shows a fetal heart rate of 140/min and CTG shows reduced variability with no accelerations in a 20-minute trace. What is the next step to assess fetal wellbeing?",
+  "options": {
+   "A": "Cardiotocograph",
+   "B": "Fetal kick count chart",
+   "C": "Biophysical profile",
+   "D": "Fetal heart monitoring by sonicaid for 30 minutes",
+   "E": "Fetal Doppler studies"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A suspicious or non-reassuring antenatal CTG should be followed by an ultrasound biophysical profile (liquor volume, movements, tone, breathing) to look for fetal compromise.",
+  "key_note": "This cluster mixed three versions of the stem; this is the CTG-already-done version (keyed C). In the versions without a CTG result, the answer is CTG (A).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02459"
+  ],
+  "stem": "A 27-year-old primigravida presents at 38 weeks with reduced fetal movements. Which is the next best investigation?",
+  "options": {
+   "A": "MRI abdomen",
+   "B": "Serum beta-hCG",
+   "C": "Ultrasound biophysical profile",
+   "D": "X-ray pelvis",
+   "E": "CT scan"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Of the options listed only ultrasound (biophysical profile) is appropriate; imaging with ionising radiation or MRI is not indicated.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02692"
+  ],
+  "stem": "A G3P2 attends antenatal clinic at 36 weeks with reduced fetal movements since morning. What is the first step you will take in fetal assessment?",
+  "options": {
+   "A": "Give her a fetal kick count chart to 10",
+   "B": "Perform cardiotocography",
+   "C": "Perform ultrasound for biophysical profile",
+   "D": "Auscultate the fetal heart with Pinard",
+   "E": "Perform ultrasound for amniotic fluid volume"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "The first step is to confirm the fetus is alive by auscultating the fetal heart; CTG follows. (Modern guidance prefers a handheld Doppler.)",
+  "key_note": "One paper key marked B (CTG); most papers marked D, which is retained.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01599",
+   "C02577"
+  ],
+  "stem": "A 35-year-old G2P1 at 35 weeks reports loss of fetal movements for 4 days. To confirm fetal viability you will order:",
+  "options": {
+   "A": "Cardiotocograph",
+   "B": "Obstetric ultrasound",
+   "C": "Fetal blood sampling",
+   "D": "Amniocentesis",
+   "E": "Chorionic villous sampling"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Real-time ultrasound confirms or excludes fetal cardiac activity, which is the definitive test of viability (IUFD).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00557"
+  ],
+  "stem": "A 34-year-old primigravida at 38+4 weeks has a second episode of decreased fetal movements. Her pregnancy was otherwise uneventful, and a scan a week ago was normal with the baby on the 50th centile. What is the appropriate management?",
+  "options": {
+   "A": "Advise fetal kick chart and review in 2 days",
+   "B": "Advise biophysical profile and if normal reassure",
+   "C": "Consider induction of labour",
+   "D": "Advise CTG and biophysical profile",
+   "E": "Advise CTG and if normal reassure"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A second episode of reduced fetal movements at term is an indication to consider delivery (RCOG), because recurrent episodes carry a risk of stillbirth.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03113"
+  ],
+  "stem": "A 27-year-old G3P2002 at 34 weeks calls on a Saturday night. Yesterday the baby moved once in 2 hours and for the past 6 hours she has felt no movement. She is otherwise healthy. What is the management?",
+  "options": {
+   "A": "Instruct the patient to go to labour and delivery for a contraction stress test",
+   "B": "Reassure the patient that she does not need to worry",
+   "C": "Recommend the patient be admitted for delivery",
+   "D": "Counsel that the baby is probably sleeping, continue to monitor fetal kicks",
+   "E": "Instruct the patient to go to labour and delivery for a CTG"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Absent or markedly reduced movements need same-day assessment with CTG (and ultrasound if indicated), not reassurance.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02439"
+  ],
+  "stem": "A 26-year-old woman at 41 weeks presents with reduced fetal movement. CTG shows variable decelerations. What is the appropriate next step?",
+  "options": {
+   "A": "Administer tocolytics",
+   "B": "Continue monitoring",
+   "C": "Hydration therapy",
+   "D": "Immediate delivery",
+   "E": "Repeat CTG after 6 hours"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "At 41 weeks with an abnormal CTG and reduced movements, expedite delivery rather than observing.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02457"
+  ],
+  "stem": "A 25-year-old woman at 36 weeks is unsure of fetal movements. The cardiotocograph shows moderate variability with accelerations. What is the interpretation?",
+  "options": {
+   "A": "Absent variability",
+   "B": "Early fetal distress",
+   "C": "Late decelerations",
+   "D": "Need for urgent delivery",
+   "E": "Normal reassuring"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Baseline variability of 5-25 bpm with accelerations and no decelerations is a normal (reassuring) CTG.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01655"
+  ],
+  "stem": "A primigravida at 41 weeks has decreased fetal movements and an ultrasound is advised for fetal wellbeing. The most important component of the biophysical profile is:",
+  "options": {
+   "A": "Symphysio fundal height",
+   "B": "Liquor volume",
+   "C": "Partogram",
+   "D": "Cervical dilatation",
+   "E": "Abdominal circumference"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Amniotic fluid volume reflects chronic placental function and is the most important component of the ultrasound BPP; an isolated oligohydramnios is an indication for delivery assessment.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00407",
+   "C00842",
+   "C02974",
+   "C03172",
+   "C00880"
+  ],
+  "stem": "A woman presents with reduced fetal movement and a modified biophysical profile (MBPP), used to identify fetal hypoxia, is advised. Which of the following defines the MBPP?",
+  "options": {
+   "A": "Stress cardiotocography and fetal breathing movements",
+   "B": "Fetal breathing movements and fetal body movements",
+   "C": "Fetal tone and non-stress cardiotocography",
+   "D": "Amniotic fluid volume and non-stress cardiotocography",
+   "E": "Fetal tone and amniotic fluid volume"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "The modified BPP combines the non-stress test (short-term marker) with amniotic fluid volume (long-term marker).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02712"
+  ],
+  "stem": "A biophysical profile of the fetus does NOT include which of the following?",
+  "options": {
+   "A": "Non-stress test",
+   "B": "Fetal tone",
+   "C": "Doppler studies",
+   "D": "Amniotic fluid volume",
+   "E": "Fetal respiratory movements"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "The five BPP components are NST, fetal breathing, gross body movements, tone and amniotic fluid volume; Doppler is a separate test.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01659"
+  ],
+  "stem": "A G2P1 at 40 weeks has reduced fetal movements and an ultrasound biophysical profile is advised. The normal biophysical profile score is:",
+  "options": {
+   "A": "0",
+   "B": "2",
+   "C": "4",
+   "D": "6",
+   "E": "10"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Each of the five components scores 2 if normal, so the maximum normal score is 10 (8-10 is reassuring).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02967"
+  ],
+  "stem": "A 30-minute biophysical profile of a fetus shows no fetal breathing movements, three fetal movements, no episode of limb flexion, largest amniotic pocket 2 cm and a reactive non-stress test. What is the score?",
+  "options": {
+   "A": "2",
+   "B": "4",
+   "C": "5",
+   "D": "6",
+   "E": "8"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Absent breathing (0), three body movements (2), no flexion/tone (0), pocket of at least 2 cm (2) and reactive NST (2) give a score of 6.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02823"
+  ],
+  "stem": "A 29-year-old woman with gestational diabetes on insulin at 36 weeks has a BPP of 6/10: fetal breathing present, tone present, gross body movements absent, amniotic fluid volume normal, NST non-reactive. What is the most appropriate next step?",
+  "options": {
+   "A": "Immediate caesarean section",
+   "B": "Perform umbilical artery Doppler assessment",
+   "C": "Administer corticosteroids and deliver after 48 hours",
+   "D": "Maternal hydration and repeat NST in 30 minutes",
+   "E": "Repeat the full BPP after 24 hours"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "A BPP of 6/10 with normal liquor is equivocal and is repeated within 24 hours (delivery is considered if it stays equivocal or falls, especially near term); it is not an indication for immediate caesarean section.",
+  "key_note": "Paper key marked A (Immediate caesarean section); an equivocal BPP with normal liquor is repeated, so E is the better answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00811"
+  ],
+  "stem": "The fetal vascular structures evaluated to assess fetal health do NOT include which of the following?",
+  "options": {
+   "A": "Middle cerebral artery",
+   "B": "Ductus venosus",
+   "C": "Umbilical artery",
+   "D": "Umbilical vein",
+   "E": "Aorta"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Fetal Doppler assessment uses the umbilical artery, MCA and ductus venosus (and sometimes the aorta); the umbilical vein is not a routine Doppler assessment vessel.",
+  "key_note": "Recall question; keyed answer retained.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02669"
+  ],
+  "stem": "Uterine artery Doppler evaluation is done at:",
+  "options": {
+   "A": "10-12 weeks",
+   "B": "20-24 weeks",
+   "C": "28-30 weeks",
+   "D": "35 weeks",
+   "E": "38 weeks"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Uterine artery Doppler at 20-24 weeks (persistent notch, raised resistance index) predicts pre-eclampsia and FGR.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00806",
+   "C03086"
+  ],
+  "stem": "A 25-year-old G2P1, booked at 20 weeks, attends at 24 weeks. Her previous pregnancy was complicated by oligohydramnios and a small baby. The most appropriate investigation at this gestation is:",
+  "options": {
+   "A": "Umbilical artery Doppler",
+   "B": "Umbilical vein Doppler",
+   "C": "Middle cerebral artery Doppler",
+   "D": "Ductus venosus Doppler",
+   "E": "Uterine artery Doppler"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "At 20-24 weeks uterine artery Doppler identifies women at risk of placental-mediated growth restriction, enabling surveillance and prophylaxis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00518",
+   "C01766",
+   "C00965"
+  ],
+  "stem": "An elderly primigravida at 36 weeks, conceived after treatment and known hypertensive for 5 years, has a fundal height of 32 cm and IUGR is suspected. Which investigation will you advise to confirm the diagnosis?",
+  "options": {
+   "A": "Anomaly scan",
+   "B": "Biophysical profile",
+   "C": "CTG",
+   "D": "Fetal Doppler USG",
+   "E": "Obstetric USG"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Growth restriction is confirmed by ultrasound biometry (estimated fetal weight or abdominal circumference below the 10th centile); Doppler then assesses severity and guides surveillance.",
+  "key_note": "Papers were split between D (Doppler) and E (Obstetric USG); biometry confirms the diagnosis and Doppler assesses severity. Three papers marked B (Umbilical artery Doppler); biometry makes the diagnosis and Doppler assesses placental function, so A is retained.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02654"
+  ],
+  "stem": "A primigravida at 36 weeks has a symphysio-fundal height of 32 weeks. Which of the following can differentiate an intrauterine growth restricted fetus from a small for gestational age fetus?",
+  "options": {
+   "A": "Liquor volume is normal",
+   "B": "Umbilical artery Doppler is normal",
+   "C": "Presence of structural abnormality",
+   "D": "No underlying pathology",
+   "E": "Always normal blood pressure of mother"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "A constitutionally small (SGA) fetus has normal umbilical artery Doppler and liquor, whereas a growth-restricted fetus has abnormal Doppler from placental insufficiency.",
+  "key_note": "Two paper keys marked C (structural abnormality); the keyed answer in most papers, Doppler, is retained.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00873"
+  ],
+  "stem": "A 32-year-old G2P1 at 32 weeks has had an umbilical artery Doppler for IUGR. Which finding is reassuring so that you will continue routine antenatal care?",
+  "options": {
+   "A": "Blood flow in systole only",
+   "B": "Blood flow in systole and diastole",
+   "C": "Absent blood flow in diastole",
+   "D": "Reduced blood flow in diastole",
+   "E": "Reversed blood flow in diastole"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Forward flow throughout the cardiac cycle (systole and diastole) is normal; reduced, absent or reversed end-diastolic flow indicates increasing placental resistance.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01609",
+   "C02982"
+  ],
+  "stem": "A woman at 34-35 weeks has had an umbilical artery Doppler for IUGR. Which finding would be an indication for immediate delivery?",
+  "options": {
+   "A": "Blood flow in systole",
+   "B": "Blood flow in diastole",
+   "C": "Absent blood flow in diastole",
+   "D": "Reduced blood flow in diastole",
+   "E": "Reversed blood flow in diastole"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Reversed end-diastolic flow signifies imminent fetal compromise and is an indication for delivery (steroid cover permitting) at this gestation.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02456"
+  ],
+  "stem": "A 28-year-old primigravida with hypertension undergoes Doppler velocimetry. The umbilical artery shows absent end-diastolic flow. What does this indicate?",
+  "options": {
+   "A": "Fetal compromise requiring delivery",
+   "B": "Maternal dehydration",
+   "C": "Mild fetal distress",
+   "D": "Normal circulation",
+   "E": "Placental lakes"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Absent end-diastolic flow indicates severe placental insufficiency and fetal compromise requiring intensive surveillance and planned delivery.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01566",
+   "C01971"
+  ],
+  "stem": "A 38-year-old primigravida with IUGR has an umbilical artery Doppler showing reversed end-diastolic flow. This has a strong correlation with which fetal outcome?",
+  "options": {
+   "A": "Intrauterine fetal death",
+   "B": "Fetal anaemia",
+   "C": "Fetal thrombocytopenia",
+   "D": "Increased fetal tone",
+   "E": "Fetal macrosomia"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Reversed end-diastolic flow carries a high risk of intrauterine death and neonatal mortality.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01538",
+   "C01615"
+  ],
+  "stem": "A woman at 35 weeks has an increased blood flow velocity in the fetal middle cerebral artery on Doppler. This finding is an indicator of fetal:",
+  "options": {
+   "A": "Infection",
+   "B": "Anaemia",
+   "C": "Death",
+   "D": "Macrosomia",
+   "E": "Normal growth"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Raised MCA peak systolic velocity reflects reduced blood viscosity and increased cardiac output in fetal anaemia (for example Rh isoimmunisation).",
+  "key_note": "One paper key marked D (Macrosomia); correct answer is fetal anaemia.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01051"
+  ],
+  "stem": "A primigravida at 34 weeks attends with BP 130/90 mmHg, pulse 90/min, temperature 98F and SFH 31 cm. Obstetric USG shows reduced liquor. What is the next appropriate investigation?",
+  "options": {
+   "A": "CTG",
+   "B": "BPP",
+   "C": "Umbilical artery Doppler",
+   "D": "Middle cerebral artery Doppler examination",
+   "E": "USG assessment of fetal growth"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Small-for-dates with oligohydramnios suggests FGR from placental insufficiency; umbilical artery Doppler is the next step.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02620"
+  ],
+  "stem": "A 35-year-old woman with type 1 diabetes is 36 weeks pregnant and her fundal height is less than expected. Which is the most appropriate investigation to assess fetal wellbeing?",
+  "options": {
+   "A": "Amniotic fluid index",
+   "B": "Maternal blood glucose",
+   "C": "CTG",
+   "D": "Umbilical artery Doppler",
+   "E": "Fundal height chart"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A small fundal height in a vasculopathic diabetic suggests FGR, so umbilical artery Doppler is the key test of placental function.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00974",
+   "C00975"
+  ],
+  "stem": "A G2P1 at 30 weeks has ultrasound parameters of 28 weeks with no gross anomaly, adequate liquor and normal Doppler. Serial growth scans are advised. How frequently should she have ultrasound?",
+  "options": {
+   "A": "10 days",
+   "B": "30 days",
+   "C": "14 days",
+   "D": "40 days",
+   "E": "21 days"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "In FGR with normal Doppler, growth scans are repeated every 2 weeks (14 days) so that the growth velocity is measured.",
+  "key_note": "Some guidance (RCOG) allows 2-3 weekly intervals; the keyed answer 14 days is retained.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01568"
+  ],
+  "stem": "A booked 25-year-old primigravida at 36 weeks has reduced fetal movements for 2 days. Fundal height is 32 cm, lie longitudinal cephalic, FHR 132/min. Ultrasound parameters correspond to 32 weeks with absent liquor and the CTG is non-reactive. What is the most appropriate management?",
+  "options": {
+   "A": "Wait for spontaneous labour",
+   "B": "Induction of labour stat",
+   "C": "Caesarean section emergency",
+   "D": "Induction at 38 weeks",
+   "E": "Hydration therapy"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Anhydramnios with a non-reactive CTG suggests severe fetal compromise; the fetus is unlikely to tolerate labour, so delivery by emergency caesarean section is indicated.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02695"
+  ],
+  "stem": "A primigravida at 40 weeks is advised a CTG. Regarding CTG, a fetal heart rate acceleration is defined as:",
+  "options": {
+   "A": "Increase in FHR of 15 beats for 15 seconds",
+   "B": "Increase in FHR of 20 beats for 20 seconds",
+   "C": "Increase in FHR of 25 beats for 25 seconds",
+   "D": "Increase in FHR of 30 beats for 30 seconds",
+   "E": "Increase in FHR of 35 beats for 35 seconds"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "An acceleration is a rise of at least 15 bpm above baseline lasting at least 15 seconds (10 x 10 before 32 weeks).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01656"
+  ],
+  "stem": "A G3P2 in labour has a CTG showing reduced beat-to-beat variability. Normal beat-to-beat variability of the fetal heart rate is:",
+  "options": {
+   "A": "5-10 b/min",
+   "B": "10-25 b/min",
+   "C": "10-20 b/min",
+   "D": "20-25 b/min",
+   "E": "30-35 b/min"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Normal variability is 10-25 bpm in classical teaching (NICE accepts 5-25 bpm); below 5 bpm for more than 90 minutes is abnormal.",
+  "key_note": "The NICE range of 5-25 bpm is not among the options; the keyed answer 10-25 b/min is retained.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01668",
+   "C02945"
+  ],
+  "stem": "Fetal bradycardia is defined as a fetal heart rate less than:",
+  "options": {
+   "A": "100 b/min",
+   "B": "110 b/min",
+   "C": "115 b/min",
+   "D": "120 b/min",
+   "E": "130 b/min"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "The normal baseline is 110-160 bpm; below 110 bpm is bradycardia and above 160 bpm is tachycardia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02996"
+  ],
+  "stem": "While commenting on a cardiotocograph of a woman undergoing induction of labour, which of the following is most appropriate regarding the baseline rate?",
+  "options": {
+   "A": "Baseline rate must be noted for at least 4 minutes over any 10-minute segment",
+   "B": "Maternal pulse has no influence on fetal heart rate",
+   "C": "Normal fetal heart baseline rate is between 120-150 beats per minute",
+   "D": "Tachycardia is a baseline rate greater than 160 beats per minute",
+   "E": "There should be at least three accelerations in a 10-minute trace"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Tachycardia is a baseline above 160 bpm (normal 110-160). Maternal fever or tachycardia can raise the fetal rate.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01821"
+  ],
+  "stem": "A CTG is reviewed prior to induction of labour in a multigravida at 39 weeks. Which feature helps reassure that this is a normal trace?",
+  "options": {
+   "A": "The baseline heart rate is 100 beats per minute",
+   "B": "The baseline variability is less than 5 beats per minute",
+   "C": "An acceleration of 15 beats per minute for 15 seconds is present",
+   "D": "There are no significant accelerations over a 30-minute recording",
+   "E": "The tocograph is picking up regular contractions"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Accelerations of at least 15 bpm for 15 seconds are reassuring and indicate an intact fetal autonomic system.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02363"
+  ],
+  "stem": "A 19-year-old at 40 weeks is advised a CTG. Absence of which of the following is considered a feature defining normality in a CTG in early labour?",
+  "options": {
+   "A": "Baseline rate",
+   "B": "Baseline variability",
+   "C": "Accelerations",
+   "D": "Decelerations",
+   "E": "Change of baseline rate"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A normal (reassuring) CTG has a baseline of 110-160, variability 5 or more and no decelerations; accelerations are present.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02651"
+  ],
+  "stem": "A decrease in the fetal heart rate that coincides with a uterine contraction describes which type of deceleration?",
+  "options": {
+   "A": "Late",
+   "B": "Early",
+   "C": "Variable",
+   "D": "Prolonged",
+   "E": "None of them"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Early decelerations are uniform, begin and end with the contraction (nadir coincides with the peak) and are caused by head compression; late decelerations lag behind the contraction.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02260",
+   "C02872"
+  ],
+  "stem": "Delayed (late) decelerations on CTG are:",
+  "options": {
+   "A": "Normal",
+   "B": "Early decelerations",
+   "C": "Variable decelerations",
+   "D": "Pathological"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Repetitive late decelerations indicate uteroplacental insufficiency and are non-reassuring or pathological.",
+  "key_note": "Options not available in one source; recall question.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02775"
+  ],
+  "stem": "Cardiotocography is used for intrapartum fetal monitoring. Which CTG pattern is suggestive of a non-reassuring (suspicious) CTG in a 20-minute trace?",
+  "options": {
+   "A": "Baseline FHR 120-130 bpm, variability above 10 bpm, two accelerations present",
+   "B": "Baseline FHR 100-108 bpm, variability below 10 bpm, no acceleration, variable decelerations",
+   "C": "Baseline FHR below 100 bpm, variability below 10 bpm, repetitive late decelerations",
+   "D": "Baseline FHR above 170 bpm, variability below 10 bpm, no acceleration, single prolonged deceleration of 3 min",
+   "E": "Baseline FHR above 170 bpm, sinusoidal pattern longer than 10 min"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A baseline of 161-180 bpm and a single prolonged deceleration are non-reassuring features; a sinusoidal pattern or repetitive lates with a very low baseline are pathological.",
+  "key_note": "Question is complex; keyed answer retained.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02998"
+  ],
+  "stem": "A 33-year-old multigravida at 39 weeks in active first stage has a fetal heart tracing with baseline 120 bpm, moderate variability and variable decelerations. What category does this trace represent?",
+  "options": {
+   "A": "Normal",
+   "B": "Reactive",
+   "C": "Pathological",
+   "D": "Suspicious",
+   "E": "Non-reactive"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Variable decelerations with normal baseline and variability are a non-reassuring feature, so the trace is suspicious.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02997"
+  ],
+  "stem": "A primigravida in labour has a CTG with reduced variability. Which of the following medications given during labour can cause a transient reduction in variability on CTG?",
+  "options": {
+   "A": "Bupivacaine",
+   "B": "Diclofenac sodium",
+   "C": "Magnesium sulphate",
+   "D": "Paracetamol",
+   "E": "Salbutamol"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Magnesium sulphate (like opioids and sedatives) causes a transient reduction in baseline variability; salbutamol causes tachycardia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03114"
+  ],
+  "stem": "A 26-year-old primigravida has been in labour for 6 hours, with the cervix 6 cm dilated. CTG shows reduced short-term variability. On ARM, grade 1 meconium-stained liquor is seen and fetal scalp blood sampling is performed. An intervention is indicated in which of the following?",
+  "options": {
+   "A": "Fetal scalp pH below 7.25",
+   "B": "Fetal scalp pH below 7.00",
+   "C": "Fetal scalp lactate above 4.8 mmol/L",
+   "D": "Fetal scalp base deficit above 12 mmol/L",
+   "E": "Fetal heart rate acceleration during sampling"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A scalp lactate above 4.8 mmol/L (pH below 7.20) is abnormal and needs delivery; pH 7.21-7.25 or lactate 4.1-4.8 is borderline and repeated within 30 minutes.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02966"
+  ],
+  "stem": "A 26-year-old multigravida with no known risk factors is admitted in early labour. The best method of fetal monitoring in this patient is:",
+  "options": {
+   "A": "Continuous electronic fetal heart rate monitoring",
+   "B": "Biophysical profile",
+   "C": "Fetal scalp blood sampling",
+   "D": "Intermittent auscultation with a fetoscope",
+   "E": "Fetal movement counting"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Low-risk women in labour are monitored by intermittent auscultation (every 15 minutes in first stage, every 5 minutes in second stage); continuous EFM is reserved for high-risk labours.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00408",
+   "C00843"
+  ],
+  "stem": "Which of the following is NOT a form of fetal assessment in labour in a low-risk patient (only indicated in high-risk pregnancies)?",
+  "options": {
+   "A": "Observation of colour of liquor",
+   "B": "Intermittent auscultation",
+   "C": "Continuous fetal monitoring",
+   "D": "Maternal monitoring",
+   "E": "Fetal scalp blood sampling"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Low-risk labour is monitored by intermittent auscultation, liquor colour and maternal monitoring; continuous electronic monitoring is for high-risk labours.",
+  "key_note": "Some paper keys marked Fetal scalp blood sampling (or other options); continuous EFM is the standard answer, though FBS is also not a routine low-risk tool.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00440"
+  ],
+  "stem": "A 39-year-old primigravida who conceived with IVF is in labour at 41 weeks. Which mode of fetal surveillance is indicated in her case?",
+  "options": {
+   "A": "Observation of colour of liquor",
+   "B": "Intermittent auscultation",
+   "C": "Continuous fetal monitoring",
+   "D": "Continuous maternal monitoring",
+   "E": "Fetal scalp blood sampling"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Advanced maternal age, IVF conception and post-term pregnancy make this a high-risk labour needing continuous EFM.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02673"
+  ],
+  "stem": "Indications for continuous electronic fetal heart rate monitoring include:",
+  "options": {
+   "A": "Anaemia",
+   "B": "Meconium-stained amniotic fluid",
+   "C": "Gestational diabetes",
+   "D": "Primiparity",
+   "E": "Spontaneous labour"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Meconium-stained liquor is a high-risk feature that requires continuous EFM (with other indications such as bleeding, oxytocin, epidural, fever, abnormal FHR).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00829"
+  ],
+  "stem": "Indicators of fetal distress include:",
+  "options": {
+   "A": "Maternal tachycardia",
+   "B": "Meconium-stained liquor",
+   "C": "Slow progress of labour",
+   "D": "Maternal acidosis",
+   "E": "Sleep pattern on CTG"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Meconium-stained liquor, abnormal FHR patterns and fetal acidosis indicate fetal distress; the other options are not specific.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01757",
+   "C00554"
+  ],
+  "stem": "Electronic fetal monitoring has:",
+  "options": {
+   "A": "High specificity but low sensitivity",
+   "B": "Low specificity but high sensitivity",
+   "C": "Low specificity and sensitivity",
+   "D": "High specificity and sensitivity",
+   "E": "Moderate sensitivity and specificity"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "EFM detects most hypoxic fetuses (high sensitivity) but many abnormal traces are false alarms (low specificity), which explains the rise in caesarean rates.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00512"
+  ],
+  "stem": "A 33-year-old primigravida is induced at 38 weeks for PIH. She feels electronic fetal monitoring will harm her fetus. How will you counsel her on the benefit of EFM?",
+  "options": {
+   "A": "Reduces the incidence of neonatal seizures",
+   "B": "Reduces the incidence of cerebral palsy",
+   "C": "Reduces the incidence of hypoxic ischaemic encephalopathy",
+   "D": "Improves perinatal mortality",
+   "E": "Reduces the incidence of encephalopathy"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Cochrane evidence shows continuous CTG reduces neonatal seizures but does not reduce cerebral palsy or perinatal mortality, and increases operative delivery.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00530"
+  ],
+  "stem": "A primigravida at 34 weeks reports decreased fetal movements for 24 hours. Admission CTG shows reduced variability, baseline heart rate 180 bpm and variable decelerations. What is the most appropriate management?",
+  "options": {
+   "A": "Repeat CTG after one hour",
+   "B": "Induction of labour with prostaglandin",
+   "C": "Emergency LSCS",
+   "D": "Reassurance",
+   "E": "Fetal Doppler USG"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Tachycardia, reduced variability and decelerations make a pathological CTG signalling hypoxia, requiring urgent delivery.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02818",
+   "C02821",
+   "C02837"
+  ],
+  "stem": "A 29-year-old woman in active labour on oxytocin has repetitive late decelerations with each contraction on CTG, baseline 150 bpm and reduced variability. The cervix is 4 cm dilated and the head is 3 cm above the ischial spines. What is the most appropriate next step?",
+  "options": {
+   "A": "Continue oxytocin and observe for progress",
+   "B": "Stop oxytocin infusion, maternal repositioning and oxygen",
+   "C": "Immediate forceps or vacuum delivery",
+   "D": "Administer intravenous tocolysis",
+   "E": "Reassure the mother as this is a normal finding"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Intrauterine resuscitation comes first: stop oxytocin, left lateral position, correct hypotension and give oxygen, then reassess; delivery follows if it persists.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02820"
+  ],
+  "stem": "A 28-year-old primigravida in active labour at 6 cm develops recurrent variable decelerations on CTG, each lasting 60-80 seconds with rapid fall and recovery, and reduced baseline variability. Amniotic fluid is clear. What is the most appropriate next step?",
+  "options": {
+   "A": "Immediate caesarean section",
+   "B": "Observation and reassess after 30 minutes",
+   "C": "Amnioinfusion",
+   "D": "Cord loop reduction",
+   "E": "Maternal repositioning and oxygen by mask",
+   "F": "Fetal scalp blood sampling"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Recurrent variable decelerations are managed first with conservative measures (change maternal position, stop oxytocin if running, oxygen, fluids); FBS or amnioinfusion are considered if the trace persists.",
+  "key_note": "Paper key marked C (Amnioinfusion); conservative measures come first, so E is the better first step.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02836"
+  ],
+  "stem": "A 27-year-old primigravida at 40 weeks in active labour has a CTG with baseline 170 bpm, variability below 5 bpm, recurrent late decelerations and no accelerations. On vaginal examination the cervix is 1 cm, medium consistency and posterior. What is the most appropriate next step?",
+  "options": {
+   "A": "Continue observation and repeat CTG in 30 minutes",
+   "B": "Administer oxygen, IV fluids, reassess in 15 minutes",
+   "C": "Immediate delivery by emergency caesarean section",
+   "D": "Fetal scalp blood sampling to assess pH",
+   "E": "Stop oxytocin infusion and position mother laterally"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A pathological CTG with a long way to go for vaginal delivery (cervix 1 cm) requires emergency caesarean section.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02822"
+  ],
+  "stem": "A 25-year-old primigravida at 41 weeks in the second stage has been pushing for 40 minutes. CTG shows baseline 170 bpm, absent variability and recurrent late decelerations. Fetal scalp stimulation elicits no acceleration. She is afebrile and there is no uterine hyperstimulation. What is the most appropriate next step?",
+  "options": {
+   "A": "Observe for another 10 minutes",
+   "B": "Fetal scalp blood sampling",
+   "C": "Give intravenous fluids and oxygen",
+   "D": "Expedite delivery with instrument",
+   "E": "Administer tocolytic and reassess"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A pathological CTG with no response to scalp stimulation in the second stage needs expedited instrumental delivery.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02839"
+  ],
+  "stem": "A 30-year-old woman in the second stage of labour has a CTG with baseline 120 bpm, variability 10 bpm and repetitive prolonged decelerations lasting 3 minutes each. She has been pushing for 1 hour. What should be done next?",
+  "options": {
+   "A": "Allow pushing for another 30 minutes",
+   "B": "Administer tocolysis and reassess",
+   "C": "Observe for 10 more minutes",
+   "D": "Continue oxytocin to expedite delivery",
+   "E": "Stop pushing and perform instrumental delivery if feasible"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Repetitive prolonged decelerations in the second stage indicate fetal compromise; delivery should be expedited, by instrument if criteria are met.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02840"
+  ],
+  "stem": "A 35-year-old woman with IUGR is undergoing induction of labour. CTG shows baseline 100 bpm, variability below 5 bpm and recurrent late decelerations. BPP shows a single vertical pool below 1 cm and fetal tone 0. What is the best interpretation and management?",
+  "options": {
+   "A": "Normal CTG, repeat after 1 hour",
+   "B": "Suspicious CTG, admit for observation",
+   "C": "Trace indicates maternal hypotension, change position",
+   "D": "Normal CTG, repeat after 30 minutes",
+   "E": "Pathological CTG, urgent delivery required"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Bradycardia, absent variability and late decelerations form a pathological CTG, supported by a poor BPP, so urgent delivery is required.",
+  "key_note": "",
+  "figure": ""
+ }
+]

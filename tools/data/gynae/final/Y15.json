@@ -1,0 +1,383 @@
+[
+ {
+  "cids": [
+   "C00348"
+  ],
+  "stem": "Among the given options, which has the strongest association with endometrial carcinoma?",
+  "options": {
+   "A": "Obesity",
+   "B": "Nulliparity",
+   "C": "Oestrogen",
+   "D": "Diabetes",
+   "E": "Polycystic ovarian syndrome"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Prolonged unopposed oestrogen (endogenous, as in obesity and anovulation, or exogenous) drives type I endometrial cancer; it is the central causal factor, with obesity acting largely through peripheral oestrogen production.",
+  "key_note": "One paper key marked A (obesity); the majority marked oestrogen, which is retained as the underlying strongest association.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01375"
+  ],
+  "stem": "Which of the following carries the highest risk of type 1 carcinoma of the endometrium?",
+  "options": {
+   "A": "Obesity",
+   "B": "PCOS",
+   "C": "Nulliparity",
+   "D": "Unopposed oestrogen",
+   "E": "Family history of colorectal carcinoma"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Lynch syndrome (hereditary non-polyposis colorectal cancer) carries a 40-60% lifetime risk of endometrial cancer, mostly endometrioid, which is far higher than the relative risk from obesity, PCOS, nulliparity or unopposed oestrogen.",
+  "key_note": "The question is imperfect, as unopposed oestrogen is also a major risk factor; the paper key (family history of colorectal carcinoma, i.e. Lynch syndrome) is retained.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00733"
+  ],
+  "stem": "Which factor increases the risk of type I endometrial cancer?",
+  "options": {
+   "A": "Smoking",
+   "B": "Combined oral contraceptive pills",
+   "C": "Tamoxifen therapy",
+   "D": "Intrauterine devices (Cu-IUD and LNG-IUS)",
+   "E": "Early menopause"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Tamoxifen is an oestrogen agonist on the endometrium and increases the risk of hyperplasia, polyps and endometrial cancer. Smoking, COCP, IUDs and early menopause are protective or neutral.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01942"
+  ],
+  "stem": "A 45-year-old woman wants to know the risk factors for carcinoma of the endometrium. Which of the following is a risk factor?",
+  "options": {
+   "A": "Low BMI",
+   "B": "Multiparity",
+   "C": "Early menopause",
+   "D": "Family history of carcinoma of breast or ovary",
+   "E": "Unopposed progesterone therapy"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A family history of breast, ovarian or colorectal cancer (BRCA, Lynch syndrome) raises the risk. High BMI, nulliparity and late menopause are risks; low BMI, multiparity, early menopause and progestogens are not.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02344"
+  ],
+  "stem": "Which of the following is NOT a risk factor for endometrial carcinoma?",
+  "options": {
+   "A": "Obesity",
+   "B": "Diabetes",
+   "C": "Smoking",
+   "D": "Nulliparity",
+   "E": "Family history"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Smoking is, if anything, weakly protective against endometrial cancer (anti-oestrogenic effect). Obesity, diabetes, nulliparity and family history all increase risk.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00336",
+   "C01452"
+  ],
+  "stem": "A 40-year-old woman with regular menses and no intermenstrual bleeding asks when she should be screened for endometrial cancer after a friend was diagnosed. The most appropriate response is screening with:",
+  "options": {
+   "A": "Pipelle endometrial biopsy",
+   "B": "Ultrasound starting at 40 years",
+   "C": "Ultrasound starting at 50 years",
+   "D": "Screening for endometrial cancer is not recommended",
+   "E": "Yearly CEA and CA-125"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "There is no screening test for endometrial cancer in asymptomatic average-risk women; early symptoms (postmenopausal bleeding) prompt investigation. Screening is considered only in high-risk groups such as Lynch syndrome.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00384",
+   "C00403"
+  ],
+  "stem": "A 50-year-old postmenopausal woman has an ultrasound report showing pyometra and recalls a single episode of vaginal bleeding 6 months back, two years after menopause. Pyometra in a postmenopausal woman strongly suggests the following until proved otherwise:",
+  "options": {
+   "A": "Degenerating myoma",
+   "B": "Diabetes mellitus",
+   "C": "Senile endometritis",
+   "D": "Endometrial malignancy",
+   "E": "Pelvic inflammatory disease"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Pyometra in a postmenopausal woman usually results from obstruction by cervical or endometrial carcinoma (or radiotherapy stenosis), so malignancy must be excluded by biopsy.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00261"
+  ],
+  "stem": "A 62-year-old postmenopausal woman has abnormal vaginal bleeding, pelvic pain and new urinary frequency with constipation. The uterus is enlarged and irregular. What is the most likely diagnosis?",
+  "options": {
+   "A": "Benign endometrial polyp",
+   "B": "Carcinoma of the cervix",
+   "C": "Carcinoma of the endometrium",
+   "D": "Carcinoma of the ovary",
+   "E": "Uterine leiomyoma"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Pressure symptoms (urinary frequency, constipation) with pelvic pain in a postmenopausal woman point to a pelvic mass, ovarian carcinoma in the keyed answer. A polyp or fibroid would not present like this.",
+  "key_note": "The question is ambiguous (endometrial or cervical carcinoma with local spread is also possible); the paper key (ovarian carcinoma) is retained.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00286",
+   "C02306"
+  ],
+  "stem": "A 62-year-old woman has irregular vaginal bleeding, constipation and increased urinary frequency. The diagnosis is:",
+  "options": {
+   "A": "Endometrial carcinoma",
+   "B": "Cervical carcinoma"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Abnormal bleeding with bladder and bowel symptoms suggests locally advanced pelvic malignancy, as in cervical carcinoma invading bladder and rectum.",
+  "key_note": "Recall question with only two options available in the source; the paper key marked cervical carcinoma, which is retained.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01250",
+   "C01873",
+   "C02139",
+   "C00064"
+  ],
+  "stem": "A 54-year-old woman with postmenopausal bleeding has endometrial biopsy showing adenocarcinoma. What is the most appropriate staging investigation?",
+  "options": {
+   "A": "Hysteroscopy",
+   "B": "Chest X-ray",
+   "C": "CT scan of pelvis",
+   "D": "MRI scan of pelvis",
+   "E": "Transabdominal ultrasound"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "MRI of the pelvis is the best imaging modality for local staging of endometrial cancer (myometrial and cervical invasion, nodes). Hysteroscopy and ultrasound do not stage.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01374"
+  ],
+  "stem": "Staging of endometrial carcinoma is most reliably done by:",
+  "options": {
+   "A": "TVS",
+   "B": "MRI",
+   "C": "Histopathology of biopsy",
+   "D": "Surgical staging",
+   "E": "Abdominal ultrasound"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "FIGO staging of endometrial cancer is surgico-pathological (hysterectomy, BSO and nodal assessment). MRI is the best preoperative imaging test but is not as reliable as surgical staging.",
+  "key_note": "Both papers marked B (MRI); correct is D: FIGO staging is surgical. MRI is the best preoperative imaging only.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02115"
+  ],
+  "stem": "A 60-year-old woman has uterine cancer confined to the endometrium without myometrial invasion. The five-year survival rate for this stage is about:",
+  "options": {
+   "A": "16%",
+   "B": "30%",
+   "C": "55%",
+   "D": "75%",
+   "E": "88%"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Stage IA disease has an excellent prognosis with five-year survival of about 85-90%; survival falls to about 15-20% for stage IV.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01249",
+   "C01866",
+   "C01878",
+   "C01941",
+   "C02195",
+   "C02914",
+   "C01443",
+   "C01419"
+  ],
+  "stem": "A 58-year-old P5 with postmenopausal bleeding has endometrial carcinoma. MRI or histology shows invasion of more than half of the myometrium with no lymphovascular or cervical involvement and normal adnexa. What is the stage of the tumour?",
+  "options": {
+   "A": "IA",
+   "B": "IB",
+   "C": "IIA",
+   "D": "IIIA",
+   "E": "IIIB"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "FIGO (2009) stage IA is invasion of less than half the myometrium, IB is half or more. Stage II needs cervical stromal involvement and IIIA serosa or adnexal spread.",
+  "key_note": "One paper key for a similar item marked stage IC (superseded 1988 FIGO category); correct is IB under current FIGO staging.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00290"
+  ],
+  "stem": "A 45-year-old woman has TAH with BSO for endometrial carcinoma. Histology shows tumour invading the myometrium and the cervical stroma but not extending beyond the uterus. What is the stage?",
+  "options": {
+   "A": "Stage IA",
+   "B": "Stage IB",
+   "C": "Stage II",
+   "D": "Stage IIIA",
+   "E": "Stage IIIB"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Invasion of the cervical stroma without extension beyond the uterus is FIGO stage II.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00734",
+   "C00770"
+  ],
+  "stem": "A 65-year-old woman has high grade endometrioid adenocarcinoma. MRI shows tumour involving the uterus and upper vagina with no visible pelvic or para-aortic nodes. According to FIGO, the stage is:",
+  "options": {
+   "A": "Stage IIB",
+   "B": "Stage IIIA",
+   "C": "Stage IIA",
+   "D": "Stage IIIB",
+   "E": "Stage IIIC"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Vaginal and/or parametrial involvement is FIGO stage IIIB. IIIA is serosal or adnexal involvement, and IIIC is nodal disease.",
+  "key_note": "One paper key for a similar item marked stage 4b; correct is IIIB: vaginal extension is stage IIIB and positive washings do not upstage.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01869"
+  ],
+  "stem": "A 67-year-old woman with postmenopausal bleeding has mucinous adenocarcinoma on biopsy. MRI shows a 6x7x8 cm tumour of the uterine body extending to the right ovary with involvement of pelvic lymph nodes. What is the stage?",
+  "options": {
+   "A": "IA",
+   "B": "II",
+   "C": "IIIA",
+   "D": "IIIB",
+   "E": "IIIC"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Pelvic nodal metastasis is stage IIIC1; the highest applicable stage is assigned over adnexal spread (IIIA).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02246"
+  ],
+  "stem": "A 65-year-old woman has staging laparotomy for endometrial carcinoma. Histology shows the carcinoma extended outside the uterus but not outside the true pelvis. The stage is:",
+  "options": {
+   "A": "I",
+   "B": "II",
+   "C": "III",
+   "D": "IV",
+   "E": "IVb"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Local and regional spread beyond the uterus but within the true pelvis (adnexa, vagina, parametrium, pelvic nodes) is stage III.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00283",
+   "C00196",
+   "C01157",
+   "C01186",
+   "C01377",
+   "C00400",
+   "C00393",
+   "C00783",
+   "C02042",
+   "C00389",
+   "C00487"
+  ],
+  "stem": "A 62-year-old postmenopausal woman, obese, diabetic and hypertensive, has painless vaginal bleeding. Endometrial thickness is 16 mm and biopsy shows endometrioid adenocarcinoma, grade II, invading less than half of the myometrium (stage IA). What is the treatment?",
+  "options": {
+   "A": "High-dose progestin therapy",
+   "B": "TAH + BSO",
+   "C": "Pelvic exenteration",
+   "D": "External beam radiotherapy alone",
+   "E": "Chemotherapy with carboplatin and paclitaxel"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Early-stage endometrial cancer is treated surgically: total hysterectomy with bilateral salpingo-oophorectomy (with surgical staging). Adjuvant therapy depends on the histology afterwards.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00279"
+  ],
+  "stem": "A 62-year-old woman has endometrioid adenocarcinoma of the endometrium on biopsy and MRI shows stage II disease. What is the most appropriate management?",
+  "options": {
+   "A": "Total abdominal hysterectomy with bilateral salpingo-oophorectomy",
+   "B": "External beam radiation to the pelvis",
+   "C": "Modified radical hysterectomy",
+   "D": "Brachytherapy",
+   "E": "Total abdominal hysterectomy"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Stage II (cervical stromal involvement) is traditionally managed by modified radical hysterectomy with BSO and nodal assessment, followed by adjuvant radiotherapy as indicated.",
+  "key_note": "One paper key marked A (TAH+BSO); the majority and standard exam teaching favour modified radical hysterectomy for stage II, so C is retained.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00769"
+  ],
+  "stem": "A 60-year-old woman with endometrial cancer, hypertension, diabetes, IHD, BMI 39 and 25 cigarettes a day attends pre-assessment for laparoscopic hysterectomy and BSO. Which statement is NOT correct?",
+  "options": {
+   "A": "She will require a high dependency anaesthetic bed after surgery",
+   "B": "Early mobilisation and antiembolic stockings will be sufficient thromboprophylaxis",
+   "C": "You will arrange a chest X-ray, ECG, urea and electrolytes",
+   "D": "She should be counselled for possible need for laparotomy as part of the surgical consent",
+   "E": "She will be explained the whole surgical procedure and possible complications"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "With cancer, obesity and smoking she is at high risk of VTE and needs pharmacological prophylaxis (LMWH, extended for up to 28 days) as well as mechanical measures; stockings alone are inadequate.",
+  "key_note": "",
+  "figure": ""
+ }
+]

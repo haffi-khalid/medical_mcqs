@@ -1,0 +1,3254 @@
+[
+ {
+  "cids": [
+   "C00939",
+   "C01056",
+   "C02641"
+  ],
+  "stem": "The most common type of anaemia in pregnancy (including in Pakistan) is:",
+  "options": {
+   "A": "Anaemia of chronic disease",
+   "B": "Haemolytic anaemia",
+   "C": "Folate deficiency",
+   "D": "Iron deficiency",
+   "E": "Vitamin B12 deficiency"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Iron deficiency accounts for about 90% of anaemia in pregnancy because of the large demand (about 1000 mg over pregnancy) and low stores. Folate deficiency is the next commonest.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00003",
+   "C02012"
+  ],
+  "stem": "A 35-year-old G9P8A0 attends for her first antenatal check-up in this pregnancy at 34 weeks. She is diagnosed with anaemia. The most probable cause of anaemia in her case is:",
+  "options": {
+   "A": "Folate deficiency",
+   "B": "Iron deficiency",
+   "C": "Pernicious anaemia",
+   "D": "Sickle cell anaemia",
+   "E": "Thalassaemia"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Iron deficiency is by far the commonest cause of anaemia in pregnancy, and grand multiparity with no antenatal supplementation (depleted stores, short birth intervals) makes it even more likely.",
+  "key_note": "Options A and B were partly blurred in the source.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00905"
+  ],
+  "stem": "The commonest cause of iron deficiency anaemia in pregnancy is:",
+  "options": {
+   "A": "Diet poor in iron, e.g. cereals",
+   "B": "Iron taken with milk, tea, coffee",
+   "C": "Defective iron absorption",
+   "D": "Increased blood loss",
+   "E": "Increased iron demand"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Pregnancy needs about 1000 mg extra iron (fetus, placenta, expanded red cell mass), far more than the diet usually provides, so increased demand is the commonest cause.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01680",
+   "C02398"
+  ],
+  "stem": "In the antenatal clinic you see a complete blood count and make a diagnosis of iron deficiency anaemia. This diagnosis is made by noting a fall in MCV below:",
+  "options": {
+   "A": "75 fl",
+   "B": "85 fl",
+   "C": "65 fl",
+   "D": "95 fl",
+   "E": "100 fl"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Iron deficiency causes microcytosis with a low MCV, and because MCV normally rises in pregnancy a value below about 80-85 fl is taken as suggestive.",
+  "key_note": "Every paper marked B (85 fl); the classical textbook cut-off for microcytosis is 80 fl, so 85 fl is accepted here as the exam key.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00007",
+   "C00538",
+   "C01517",
+   "C02693",
+   "C02407"
+  ],
+  "stem": "A 30-year-old pale G5P4A0 presents at 28 weeks with shortness of breath, headache and easy fatigability for 2 weeks. She admits non-compliance with oral iron and calcium supplements. Her haemoglobin is 9 g/dl. The next investigation to be done is:",
+  "options": {
+   "A": "Hb electrophoresis",
+   "B": "Peripheral film",
+   "C": "Red cell indices",
+   "D": "Serum ferritin",
+   "E": "Total iron binding capacity"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Iron deficiency is the likely diagnosis; serum ferritin is the most sensitive and specific test of iron stores in pregnancy (low ferritin, below 15 microgram/L, confirms depletion). Red cell indices are already available from the CBC.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00904",
+   "C00926"
+  ],
+  "stem": "A multigravida at 30 weeks has generalised weakness and shortness of breath. She looks pale, has swelling of the feet and a fundal height smaller than dates. Her Hb is 6 g/dl. Which is the next blood test to find the type of anaemia?",
+  "options": {
+   "A": "Complete blood count",
+   "B": "Red cell indices",
+   "C": "Electrophoresis",
+   "D": "Peripheral blood film",
+   "E": "Stool and urine examination"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Red cell indices (MCV, MCH, MCHC) classify the anaemia as microcytic, normocytic or macrocytic and guide further tests such as ferritin or electrophoresis.",
+  "key_note": "Some teaching would go straight to serum ferritin; paper key B kept since indices are the first classifying test.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00453",
+   "C01094",
+   "C02538"
+  ],
+  "stem": "A 28-year-old G4P3 attends the antenatal clinic at 32 weeks with generalised weakness, fatigue and lack of energy. BP 110/70 mmHg, pulse 92/min, fundal height corresponds with gestation. CBC shows Hb 8.2 g/dl, MCV 70 fl, MCH 27 pg, MCHC 32. The diagnosis is:",
+  "options": {
+   "A": "Iron deficiency",
+   "B": "Folic acid deficiency",
+   "C": "Vitamin B12 deficiency",
+   "D": "Thalassaemia",
+   "E": "Aplastic anaemia"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Low Hb with microcytic hypochromic indices (MCV below 80 fl) in a multipara is iron deficiency until proved otherwise. Folate and B12 deficiency give macrocytosis.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01143",
+   "C01173"
+  ],
+  "stem": "A multigravida at 30 weeks has generalised weakness and shortness of breath. She looks pale with koilonychia and pedal oedema, and her fundal height is smaller than dates. Hb is 6 g/dl, MCH 25 pg, MCHC 26 g/dl and serum ferritin 6 microgram/L. What is the most likely diagnosis?",
+  "options": {
+   "A": "Iron deficiency anaemia",
+   "B": "Beta-thalassaemia minor",
+   "C": "Cardiac disease",
+   "D": "Megaloblastic anaemia",
+   "E": "Sickle cell disease"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Koilonychia with low Hb, hypochromia and a very low ferritin is iron deficiency anaemia; in thalassaemia trait ferritin is normal or high.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00906"
+  ],
+  "stem": "Which of the following tests is the most reliable to differentiate between iron deficiency anaemia and thalassaemia?",
+  "options": {
+   "A": "MCV",
+   "B": "MCH",
+   "C": "RBC count",
+   "D": "Serum iron",
+   "E": "Serum ferritin"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Both give microcytic hypochromic indices, but ferritin is low in iron deficiency and normal or raised in thalassaemia trait; serum iron is affected by recent intake and inflammation.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00454",
+   "C03106",
+   "C03039"
+  ],
+  "stem": "A 24-year-old primigravida at 33 weeks attends with weakness, fatigue and loss of appetite. BP 110/70 mmHg, pulse 92/min, SFH 29 weeks, ultrasound shows a fetus of 29 weeks. Hb 8.2 g/dl, MCV 70 fl, MCH 28 pg, MCHC 35 g/dl, serum ferritin 150 microgram/L. You suspect thalassaemia. Which test will confirm the diagnosis?",
+  "options": {
+   "A": "Peripheral blood film",
+   "B": "Hb electrophoresis",
+   "C": "TIBC",
+   "D": "Bone marrow examination",
+   "E": "Stool examination"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Microcytosis with normal or raised ferritin points away from iron deficiency to a haemoglobinopathy. Haemoglobin electrophoresis (or HPLC) confirms thalassaemia trait by showing raised HbA2 or HbF.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01704"
+  ],
+  "stem": "A 24-year-old primigravida at 14 weeks has thalassaemia minor with Hb 8.5 g/dl. Which one of the following treatments is contraindicated for her?",
+  "options": {
+   "A": "Blood transfusion",
+   "B": "Oral folic acid",
+   "C": "Packed cell transfusion",
+   "D": "Parenteral iron therapy",
+   "E": "Oral iron therapy"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "In thalassaemia minor iron stores are normal or increased, and parenteral iron would cause iron overload, so iron is given only if deficiency is proved; folic acid is advised because of high red cell turnover.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00907",
+   "C02404"
+  ],
+  "stem": "Which is the best form of iron therapy if Hb is 8 g/dl at 30 weeks of gestation in a multigravida with no risk factors?",
+  "options": {
+   "A": "Ferric carboxymaltose by IV infusion",
+   "B": "IM iron sorbitol",
+   "C": "IM iron dextran",
+   "D": "Iron hydroxy sucrose by intravenous infusion",
+   "E": "Oral iron"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Oral iron (ferrous salt 100-200 mg elemental iron daily) is first-line for uncomplicated iron deficiency anaemia. Parenteral iron is reserved for intolerance, malabsorption, non-compliance or late presentation.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01516",
+   "C00455",
+   "C00866",
+   "C00943"
+  ],
+  "stem": "A 30-year-old pregnant woman at 36 weeks presents to the emergency department with dyspnoea. Her Hb is 7 g/dl. What is the most appropriate treatment for correction of her anaemia?",
+  "options": {
+   "A": "Blood transfusion (red cell concentrate)",
+   "B": "Diet rich in iron",
+   "C": "Oral iron",
+   "D": "Parenteral iron",
+   "E": "Diet rich in iron plus oral iron"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Symptomatic severe anaemia at 36 weeks cannot be corrected by iron in time for delivery, so transfusion of red cell concentrate is required.",
+  "key_note": "One paper's version listed 'Packed cell transfusion' as a separate option and marked it; both express the same management (transfusion of red cells).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01506"
+  ],
+  "stem": "A 30-year-old G5P4 attends antenatal care at 33 weeks with pallor and easy fatigability. Iron deficiency anaemia is diagnosed and her Hb is 8 g/dl. How much parenteral iron will she need to correct this, at least?",
+  "options": {
+   "A": "200 mg",
+   "B": "300 mg",
+   "C": "500 mg",
+   "D": "400 mg",
+   "E": "600 mg"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "The iron deficit is roughly 2.4 x weight (kg) x Hb deficit (g/dl) plus 500 mg for stores, giving well over 500 mg at Hb 8 g/dl (commonly about 1000 mg).",
+  "key_note": "Paper key E (600 mg) kept as it is the largest listed dose; the real total dose is usually about 1000 mg.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00934",
+   "C02015"
+  ],
+  "stem": "A G4P3 at 34 weeks had an iron sucrose infusion for iron deficiency anaemia. What investigation shows the earliest response to treatment?",
+  "options": {
+   "A": "Repeat haemoglobin",
+   "B": "Reticulocyte count",
+   "C": "Red cell indices",
+   "D": "Serum ferritin",
+   "E": "TIBC"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "The reticulocyte count rises within 3-5 days of effective iron therapy, peaking at 7-10 days, whereas Hb rises about 1 g/dl per week.",
+  "key_note": "The paper key C (red cell indices) was a handwritten letter and the stem was cropped; reticulocyte count is the earliest marker of response, so D is preferred.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01508"
+  ],
+  "stem": "A 26-year-old G4P2A1 attends antenatal care at 33 weeks with easy fatigability and pallor and is diagnosed with anaemia. Which one of the following is the least likely complication associated with anaemia?",
+  "options": {
+   "A": "Post-term labour",
+   "B": "Postpartum haemorrhage",
+   "C": "Fetal growth restriction",
+   "D": "Preterm labour",
+   "E": "Cardiac failure"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Maternal anaemia is associated with preterm labour, growth restriction, PPH, infection and cardiac failure, but not with post-term pregnancy.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01515"
+  ],
+  "stem": "A 28-year-old pregnant woman is told by her doctor that she has an endocrine disorder in pregnancy. Which is the most common endocrine disorder in pregnancy?",
+  "options": {
+   "A": "Adrenal disorder",
+   "B": "Diabetes mellitus",
+   "C": "Parathyroid disorder",
+   "D": "Pituitary disorder",
+   "E": "Thyroid disorder"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Diabetes mellitus (mainly gestational) is the commonest endocrine disorder of pregnancy, followed by thyroid disease.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01117"
+  ],
+  "stem": "A 32-year-old G3P2 attends the OPD at 28 weeks. Which point in her history suggests that she may have diabetes?",
+  "options": {
+   "A": "Jaundice in previous children",
+   "B": "Twins",
+   "C": "Previous baby with birth weight 4.9 kg",
+   "D": "Husband diabetic",
+   "E": "No family history of diabetes"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A previous macrosomic baby (over 4.5 kg) is a classic marker of undiagnosed or gestational diabetes, an indication for a 75 g OGTT. Diabetes in the husband is not a risk factor.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01518",
+   "C00868"
+  ],
+  "stem": "A 35-year-old G5P2A1 attends at 24 weeks. She delivered two previous babies of more than 4 kg and had a miscarriage due to a fetal neural tube defect. Which investigation will you advise to confirm your diagnosis in view of her history?",
+  "options": {
+   "A": "Complete blood count",
+   "B": "Fasting blood sugar",
+   "C": "Random blood sugar",
+   "D": "Glycosylated haemoglobin",
+   "E": "Oral glucose tolerance test",
+   "F": "Glucose challenge test"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Previous macrosomia and a neural tube defect point to undiagnosed diabetes, and the diagnostic test for GDM at 24-28 weeks is the 75 g OGTT; HbA1c and glucose challenge tests are not diagnostic.",
+  "key_note": "One paper marked D (HbA1c) with the printed asterisk, but its handwriting circled E; the correct answer is the OGTT.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00322"
+  ],
+  "stem": "A 30-year-old G3P2 at 30 weeks presents with polyuria and polydipsia. She had GDM in a previous pregnancy. Her HbA1c is 6.5% and random blood sugar 140 mg/dl. What investigation can be offered to rule out GDM in the current pregnancy?",
+  "options": {
+   "A": "Repeat HbA1c",
+   "B": "Fasting blood sugar",
+   "C": "Oral glucose tolerance test",
+   "D": "Admit the patient and monitor glucose (GBSL)",
+   "E": "Random blood sugar"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "GDM is diagnosed by a 75 g OGTT; HbA1c, fasting or random glucose alone cannot exclude it. Admission with glucose monitoring is not the first step for diagnosis.",
+  "key_note": "Several paper keys printed D (admit and monitor), but a few of the same papers circled C; the correct answer is C, the OGTT.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01511"
+  ],
+  "stem": "A 39-year-old primigravida with BMI 35 kg/m2 attends at 28 weeks. Ultrasound shows polyhydramnios and fetal biometry of 32 weeks. Her fasting blood sugar is 126 mg/dl. Which investigation will you advise?",
+  "options": {
+   "A": "Oral glucose tolerance test",
+   "B": "Glycosylated haemoglobin",
+   "C": "Fasting blood sugar",
+   "D": "Random blood sugar",
+   "E": "Blood sugar profile"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Polyhydramnios and a large fetus in an obese older primigravida suggest GDM; the diagnosis is confirmed with a 75 g OGTT.",
+  "key_note": "Paper key A kept; a fasting value of 126 mg/dl is already at the overt diabetes threshold, so HbA1c would also be reasonable.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00457"
+  ],
+  "stem": "A 37-year-old woman with GDM on insulin attends at 32 weeks. Fundal height is 38 cm with AFI 35. Her glucose record shows high post-prandial levels and HbA1c is 10%. She complains of shortness of breath and inability to lie flat. What is your next step in management?",
+  "options": {
+   "A": "Admit and control blood sugar level",
+   "B": "Admit for amnioreduction and adjust insulin dose",
+   "C": "Admit for emergency caesarean section",
+   "D": "Admit for dexamethasone therapy and adjust insulin"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Poorly controlled diabetes has caused symptomatic polyhydramnios (AFI above 25) with maternal respiratory compromise. Therapeutic amnioreduction gives relief while insulin is intensified; delivery at 32 weeks would be premature.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00535"
+  ],
+  "stem": "Mrs ABC, 30 years old P0+3, has been diabetic for 3 years and comes for pre-pregnancy counselling. Before planning pregnancy she should optimise glycaemic control. What should her HbA1c level be before planning pregnancy?",
+  "options": {
+   "A": "20 mmol/mol",
+   "B": "30 mmol/mol",
+   "C": "35 mmol/mol",
+   "D": "42 mmol/mol",
+   "E": "50 mmol/mol"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Women with diabetes should aim for an HbA1c as near normal as safely possible (below 48 mmol/mol, ideally about 42 mmol/mol or 6%) before conception to lower risk of malformations and miscarriage. Over 86 mmol/mol (10%) should be advised against pregnancy.",
+  "key_note": "Of the listed options 42 mmol/mol is the best fit (NICE: below 48 mmol/mol; Ten Teachers: aim for near normal).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01521"
+  ],
+  "stem": "A 36-year-old woman with type 1 diabetes comes for pre-pregnancy counselling. Which statement is correct regarding pregnancy with diabetes?",
+  "options": {
+   "A": "Optimisation of glycaemic control to achieve an HbA1c of less than 65 mmol/mol",
+   "B": "High dose folic acid 400 microgram to reduce the risk of neural tube defects",
+   "C": "No significant risk of progression of diabetic retinopathy",
+   "D": "Significantly increased risk of worsening of diabetic nephropathy",
+   "E": "Preconception drugs like statins and ACE inhibitors are safe in pregnancy"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Pregnancy can accelerate diabetic nephropathy (and retinopathy), which is why renal function and eyes are assessed pre-pregnancy. The folic acid dose is 5 mg (not 400 microgram), and statins and ACE inhibitors are stopped.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01503"
+  ],
+  "stem": "A 40-year-old G4P3 attends the antenatal clinic at 10 weeks. She has had uncontrolled diabetes for one year before this pregnancy. You inform her that her fetus is at increased risk of the following EXCEPT:",
+  "options": {
+   "A": "Oligohydramnios",
+   "B": "Polyhydramnios",
+   "C": "Neural tube defect",
+   "D": "Missed miscarriage",
+   "E": "Cardiac anomaly"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Maternal hyperglycaemia causes fetal polyuria and polyhydramnios, congenital malformations (NTD, cardiac) and early pregnancy loss; oligohydramnios is not a feature.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01514",
+   "C00539"
+  ],
+  "stem": "A 33-year-old G3P2+0, married for 8 years and a known diabetic, attends at 5 weeks with a fasting blood sugar of 196 mg/dl. She is told that if she conceives with uncontrolled diabetes there is a great risk of:",
+  "options": {
+   "A": "Intrauterine fetal death",
+   "B": "Fetal congenital anomalies",
+   "C": "Intrauterine growth restriction",
+   "D": "Increased risk of caesarean section",
+   "E": "Pre-eclampsia"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Hyperglycaemia during organogenesis (first 8 weeks) is teratogenic and so congenital anomalies are the main risk of uncontrolled diabetes at conception.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00004"
+  ],
+  "stem": "A 36-year-old P2A0 attends for antenatal counselling. She was recently diagnosed with type 2 diabetes mellitus. You tell her that the commonest congenital anomaly associated with poor diabetic control is:",
+  "options": {
+   "A": "Cleft lip and cleft palate",
+   "B": "Diaphragmatic hernia",
+   "C": "Duodenal atresia",
+   "D": "Neural tube defects",
+   "E": "Polycystic kidneys"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Among the options, neural tube defects are the classic malformation of poorly controlled maternal diabetes (cardiac defects are commonest overall, and caudal regression is the most characteristic). Folic acid 5 mg is advised pre-conception.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00653",
+   "C02803"
+  ],
+  "stem": "A 35-year-old G3P2 with insulin-controlled gestational diabetes attends at 38 weeks. Glucose control is moderate. Ultrasound shows an estimated fetal weight above the 95th percentile and mild polyhydramnios. Which is the most likely obstetric complication associated with her condition?",
+  "options": {
+   "A": "Placenta praevia",
+   "B": "Preterm premature rupture of membranes",
+   "C": "Shoulder dystocia during delivery",
+   "D": "Uterine rupture",
+   "E": "Failed induction of labour"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Fetal macrosomia with disproportionate truncal and shoulder fat deposition in diabetes predisposes to shoulder dystocia, and elective delivery or caesarean is considered if EFW is above 4.5 kg.",
+  "key_note": "One paper marked B (neonatal hypoglycaemia), which is also a genuine complication; C is the best fit to the stem and was marked in most sources.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01024"
+  ],
+  "stem": "A 19-year-old primigravida at 32 weeks has gestational diabetes requiring insulin. She is sure of her dates and earlier ultrasounds were normal. Fundal height is 38 cm. What is the most likely explanation for the discrepancy between fundal height and gestational age?",
+  "options": {
+   "A": "Fetal hydrocephaly",
+   "B": "Uterine fibroids",
+   "C": "Polyhydramnios",
+   "D": "Breech presentation",
+   "E": "Twin pregnancy"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Large-for-dates uterus in a diabetic with normal early scans points to polyhydramnios (fetal polyuria from hyperglycaemia) or macrosomia; twins would have been seen on early scans.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01057"
+  ],
+  "stem": "A 32-year-old primigravida with poorly controlled type 2 diabetes for 10 years and nephropathy presents at 22 weeks, concerned about fetal outcome. Which complication is most likely?",
+  "options": {
+   "A": "Macrosomia",
+   "B": "IUGR",
+   "C": "Congenital anomalies",
+   "D": "Shoulder dystocia",
+   "E": "Caudal regression syndrome"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Diabetic nephropathy (vasculopathy) causes placental insufficiency, so IUGR and pre-eclampsia are the likely complications at this stage; macrosomia and shoulder dystocia occur with good renal function and late hyperglycaemia.",
+  "key_note": "One paper's handwriting circled A (macrosomia); the printed keys say B, which is correct for diabetic nephropathy.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01584",
+   "C00819"
+  ],
+  "stem": "The most common complication of diabetes mellitus in the third trimester of pregnancy is:",
+  "options": {
+   "A": "Macrosomia",
+   "B": "Pregnancy-induced hypertension",
+   "C": "Intrapartum stillbirth",
+   "D": "Recurrent infections",
+   "E": "IUGR"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Maternal hyperglycaemia leads to fetal hyperinsulinaemia and macrosomia, the commonest late complication of diabetes.",
+  "key_note": "Stem age was illegible in the source ('9-year-old'), so it is omitted.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01645"
+  ],
+  "stem": "A 30-year-old known diabetic is concerned about pregnancy. She can be assured that which of the following risks is the same for her as for the general population?",
+  "options": {
+   "A": "Pre-eclampsia and eclampsia",
+   "B": "Infection",
+   "C": "Fetal cystic fibrosis",
+   "D": "Postpartum haemorrhage after vaginal delivery",
+   "E": "Hydramnios"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Cystic fibrosis is an autosomal recessive genetic condition unaffected by maternal diabetes, whereas pre-eclampsia, infection, polyhydramnios and PPH are all increased.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01015"
+  ],
+  "stem": "A 32-year-old G4P1A2 presents at 8 weeks of gestation. She is diagnosed as having diabetes for the first time and her HbA1c is 11%. How will you manage her?",
+  "options": {
+   "A": "Termination of pregnancy",
+   "B": "Start oral hypoglycaemic agents",
+   "C": "High dose folic acid",
+   "D": "Whole day sugar profile",
+   "E": "Advise OGTT"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Diabetes first found at 8 weeks with HbA1c 11% (above 10%) means pre-existing diabetes with a very high risk of major malformations and miscarriage, so termination is offered after counselling; the diagnosis is already established and an OGTT adds nothing.",
+  "key_note": "Paper key A kept; ideally she would be counselled on risks and offered insulin if she continues the pregnancy, since oral agents are not appropriate here.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00622"
+  ],
+  "stem": "A 31-year-old primigravida with gestational diabetes delivered a 4 kg baby boy 2 hours ago. You advise screening for type 2 diabetes. Which test will you advise?",
+  "options": {
+   "A": "Blood sugar random",
+   "B": "Blood sugar fasting",
+   "C": "GTT",
+   "D": "GCT",
+   "E": "Urine test for glucose"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Fasting plasma glucose at 6 weeks postpartum is the recommended test (NICE/RCOG), with HbA1c yearly later. A 75 g OGTT is also used in some protocols, but a random sugar, GCT or urine glucose is not adequate.",
+  "key_note": "One paper marked C (GTT), which is accepted in some WHO-based protocols; the majority and NICE answer is fasting blood sugar.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00867"
+  ],
+  "stem": "A 35-year-old primigravida attends at 24 weeks. Her urine shows glucose +1 and she has no previous history of diabetes. What is the next investigation?",
+  "options": {
+   "A": "HbA1c",
+   "B": "Fasting blood glucose",
+   "C": "Random blood glucose",
+   "D": "Post-prandial blood glucose",
+   "E": "Oral glucose tolerance test"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Glycosuria is common in pregnancy because of reduced renal threshold, so it is not diagnostic; at 24 weeks in a woman aged over 35 the 75 g OGTT is the diagnostic test for GDM.",
+  "key_note": "Some paper keys marked random blood glucose (C) or fasting glucose (B); correct is the OGTT (most papers circled E).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00946"
+  ],
+  "stem": "The risk of developing GDM is highest in:",
+  "options": {
+   "A": "BMI of 30 or higher",
+   "B": "Previous child with birth weight of 4.5 kg",
+   "C": "Previous history of GDM",
+   "D": "Family history of diabetes",
+   "E": "South Asian family origin"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A previous history of GDM carries the highest recurrence risk (30-70%), higher than the other recognised risk factors.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00913"
+  ],
+  "stem": "Approximately 50% reduction in insulin sensitivity occurs by the third trimester, chiefly in skeletal muscle, as a result of which placental hormones?",
+  "options": {
+   "A": "Human chorionic gonadotrophin, placental growth hormone, progesterone",
+   "B": "Human placental lactogen, human chorionic gonadotrophin, cortisol",
+   "C": "Human placental lactogen, placental growth hormone, cortisol",
+   "D": "Human placental lactogen, placental growth hormone, human chorionic gonadotrophin",
+   "E": "Progesterone, prolactin, cortisol"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Human placental lactogen, placental growth hormone and cortisol (with TNF-alpha) are the main diabetogenic factors, causing insulin resistance.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00938"
+  ],
+  "stem": "The insulin requirements of a pregnant diabetic woman are greatest during:",
+  "options": {
+   "A": "First half of pregnancy",
+   "B": "Second half of pregnancy",
+   "C": "Immediate postpartum",
+   "D": "Labour",
+   "E": "Week following delivery"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Insulin resistance rises progressively from about 20 weeks and peaks at 28-36 weeks, so doses often double or triple, and fall abruptly after delivery.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00914"
+  ],
+  "stem": "A primigravida undergoes a 75 g oral glucose tolerance test at 24 weeks. Which 2-hour post-load blood sugar level indicates gestational diabetes?",
+  "options": {
+   "A": "95 mg/dl",
+   "B": "100.8 mg/dl",
+   "C": "115 mg/dl",
+   "D": "126 mg/dl",
+   "E": "140 mg/dl"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "The traditional WHO/DIPSI 2-hour 75 g cut-off is 140 mg/dl (7.8 mmol/L) and is the one used in Pakistani exam teaching; IADPSG uses 153 mg/dl (8.5 mmol/L).",
+  "key_note": "Of the options, 140 mg/dl is the only acceptable one; IADPSG/NICE-2015 use 153 mg/dl (8.5 mmol/L), which is not listed.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01677",
+   "C02396"
+  ],
+  "stem": "In women with gestational diabetes, fasting blood glucose should be maintained:",
+  "options": {
+   "A": "Less than 6 mmol/L",
+   "B": "Less than 7 mmol/L",
+   "C": "Less than 8 mmol/L",
+   "D": "Less than 9 mmol/L",
+   "E": "Less than 11 mmol/L"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "The target is a fasting level of about 5.3-5.8 mmol/L or less (NICE: below 5.3), so less than 6 mmol/L is the best option listed.",
+  "key_note": "Source paper marked B (less than 7); the guideline fasting target of 5.3 mmol/L makes A the best option.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01705"
+  ],
+  "stem": "A staff nurse calls you in the labour ward for a labouring woman with gestational diabetes whose glucose levels are high. You instruct her to start a sliding scale of insulin and keep the glucose level between:",
+  "options": {
+   "A": "2-3 mmol/L",
+   "B": "3-4 mmol/L",
+   "C": "4-5 mmol/L",
+   "D": "4-7 mmol/L",
+   "E": "7-8 mmol/L"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "In labour a diabetic woman should be kept between 4 and 7 mmol/L with an IV insulin and dextrose sliding scale to prevent neonatal hypoglycaemia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00915"
+  ],
+  "stem": "A primigravida at 28 weeks has been advised diet modification, exercise and metformin for GDM. Which fasting and 2-hour post-meal blood sugar levels (mg/dl) should be targeted for good control?",
+  "options": {
+   "A": "100.8, 115",
+   "B": "100.8, 140",
+   "C": "95, 115",
+   "D": "95, 126",
+   "E": "95, 140"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Targets are fasting below 5.3 mmol/L (95 mg/dl) and 2-hour post-meal below 6.4 mmol/L (115 mg/dl); 1 hour post-meal below 7.8 mmol/L (140 mg/dl).",
+  "key_note": "One paper's handwriting marked E (95, 140), which fits a 1-hour post-meal target; the printed key and the 2-hour target are C.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00872"
+  ],
+  "stem": "A 32-year-old G2P1 at 28 weeks has GDM managed with diet and exercise. You inform her that which hypoglycaemic medication does not cross the placenta?",
+  "options": {
+   "A": "Insulin",
+   "B": "Metformin",
+   "C": "Glipizide",
+   "D": "Amaryl (glimepiride)",
+   "E": "Heparin"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Insulin is a large polypeptide that does not cross the placenta. Metformin and sulphonylureas cross, which is why insulin is the traditional drug of choice in GDM.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00650"
+  ],
+  "stem": "A 29-year-old G3P1+1 at 26 weeks presents with worsening breathlessness for a week, now with orthopnoea, paroxysmal nocturnal dyspnoea and fatigue at rest. She has rheumatic heart disease with known moderate mitral stenosis. She is distressed, RR 28/min, pulse 120 bpm, BP 100/60 mmHg, with raised JVP, bilateral basal crepitations and pedal oedema. What is the most likely cause of her deterioration?",
+  "options": {
+   "A": "Pulmonary thromboembolism",
+   "B": "Onset of peripartum cardiomyopathy",
+   "C": "Progression to severe mitral stenosis",
+   "D": "Decompensated heart failure",
+   "E": "Exacerbation due to physiological anaemia of pregnancy"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "The increased blood volume and tachycardia of mid-pregnancy shorten diastolic filling across the stenosed mitral valve, raising left atrial pressure and precipitating pulmonary oedema and decompensated heart failure (peak at 28-32 weeks). Peripartum cardiomyopathy is a post-delivery diagnosis and she has a known structural lesion.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00911",
+   "C01522"
+  ],
+  "stem": "The most common valvular heart disease in pregnancy is:",
+  "options": {
+   "A": "Mitral stenosis",
+   "B": "Mitral regurgitation",
+   "C": "Aortic stenosis",
+   "D": "Aortic regurgitation",
+   "E": "Pulmonary stenosis"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Rheumatic mitral stenosis is the commonest valvular lesion in pregnancy in the developing world, and tachycardia and volume load make it the most poorly tolerated.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00933"
+  ],
+  "stem": "Which cardiac disease has the highest maternal mortality in pregnancy?",
+  "options": {
+   "A": "Mitral stenosis",
+   "B": "Mitral regurgitation",
+   "C": "Aortic stenosis",
+   "D": "Aortic regurgitation",
+   "E": "Pulmonary hypertension"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Pulmonary hypertension (including Eisenmenger syndrome) carries maternal mortality of 30-50%, and pregnancy is contraindicated.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00705"
+  ],
+  "stem": "A 32-year-old P1A0 with known mitral stenosis comes for pre-pregnancy counselling. She is comfortable at rest, but minor activity causes fatigue, palpitation or dyspnoea. What is her NYHA functional class?",
+  "options": {
+   "A": "Stage 2 mild",
+   "B": "Stage 3 moderate",
+   "C": "Stage 4 severe",
+   "D": "Stage 5 very severe",
+   "E": "Stage 1 mild"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Comfortable at rest but symptomatic with less than ordinary activity is NYHA class III. Class I has no symptoms, class II has symptoms on ordinary activity, class IV has symptoms at rest.",
+  "key_note": "The source stem was missing its final question; it has been completed as a NYHA classification question.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00540"
+  ],
+  "stem": "A primigravida attends at 11 weeks with congenital heart disease and a valve replacement in childhood. What is the most important aspect of management in this case?",
+  "options": {
+   "A": "Start diuretics",
+   "B": "Continue warfarin",
+   "C": "Start low molecular weight heparin",
+   "D": "Intermittent oxygen therapy",
+   "E": "Low dose aspirin"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Warfarin is teratogenic (embryopathy at 6-12 weeks), so in the first trimester a woman with a mechanical valve is switched to therapeutic LMWH (with anti-Xa monitoring) for anticoagulation. Aspirin and diuretics do not protect the valve.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01523",
+   "C02414"
+  ],
+  "stem": "A 32-year-old G3P1A1 attends at 6 weeks. She had a cardiac valve replacement 2 years ago and is on anticoagulant therapy. Which of the following anticoagulants is contraindicated in pregnancy?",
+  "options": {
+   "A": "Heparin",
+   "B": "Clexane (enoxaparin)",
+   "C": "Aspirin",
+   "D": "Warfarin",
+   "E": "None of the above"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Warfarin crosses the placenta and is teratogenic (warfarin embryopathy at 6-12 weeks), so it is avoided in the first trimester; heparins do not cross the placenta.",
+  "key_note": "Warfarin is only relatively contraindicated (it is sometimes continued in women with mechanical valves who need it), but it is the keyed answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00960"
+  ],
+  "stem": "The most important risk factor for development of heart failure in pregnancy with heart disease is:",
+  "options": {
+   "A": "Anaemia",
+   "B": "Obesity",
+   "C": "Use of corticosteroids",
+   "D": "Tocolytics",
+   "E": "Respiratory infection"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Anaemia increases cardiac output requirement and tachycardia, and is the commonest preventable precipitant of cardiac failure in pregnant women with heart disease. Infection, arrhythmia and tocolytics are other triggers.",
+  "key_note": "Paper key A kept; respiratory infection and beta-agonist tocolytics are also recognised precipitants, but anaemia is the commonest.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00910"
+  ],
+  "stem": "The most important issue to be discussed in pre-pregnancy counselling of a patient with heart disease is:",
+  "options": {
+   "A": "Risk of maternal death",
+   "B": "Risk of preterm labour",
+   "C": "Fetal growth restriction",
+   "D": "Need for intensive fetal and maternal monitoring in labour",
+   "E": "Need for frequent hospital visits and admission"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Pre-pregnancy counselling must start with maternal risk (mWHO class, ejection fraction, pulmonary hypertension), including possible death, as it decides whether pregnancy is advisable.",
+  "key_note": "The paper keyed E (frequent visits and admission); the maternal mortality risk is the most important point to be discussed, so A is the answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00909"
+  ],
+  "stem": "The commonest fetal risk associated with maternal congenital heart disease is:",
+  "options": {
+   "A": "Congenital heart disease",
+   "B": "Fetal growth restriction",
+   "C": "Miscarriage",
+   "D": "Side effects of drug therapy",
+   "E": "Intrauterine fetal demise"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Reduced uteroplacental perfusion, especially in cyanotic or high-risk lesions, causes fetal growth restriction and preterm birth as the commonest fetal complications; recurrence of congenital heart disease is only about 3-5%.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00519"
+  ],
+  "stem": "A 38-year-old G3P2 presents in the emergency department at 37 weeks with stabbing epigastric pain radiating to the back and left arm. What is the most relevant laboratory test to request?",
+  "options": {
+   "A": "Alanine aminotransferase",
+   "B": "Creatine kinase isoenzyme (CK-MB)",
+   "C": "Creatine phosphokinase",
+   "D": "Myoglobin",
+   "E": "Troponin I"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Chest or epigastric pain radiating to the arm in an older gravida suggests myocardial infarction or aortic dissection. Troponin I is the most specific marker of myocardial injury and is not affected by pregnancy or labour.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00919"
+  ],
+  "stem": "A G2P1 with well-managed cardiac disease presents in spontaneous labour. There are persistent variable decelerations at 6 cm dilatation and she undergoes an emergency LSCS. How will you manage her third stage of labour?",
+  "options": {
+   "A": "IM oxytocin",
+   "B": "IM Syntometrine",
+   "C": "IV oxytocin infusion",
+   "D": "IV ergometrine",
+   "E": "Per rectal misoprostol"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "In cardiac disease a slow IV oxytocin infusion is used; ergometrine and Syntometrine cause hypertension and vasoconstriction, and a rapid oxytocin bolus causes hypotension and tachycardia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01519"
+  ],
+  "stem": "Regarding the management of labour in cardiac patients, which of the following statements is correct?",
+  "options": {
+   "A": "Fluid replacement is done in the same way as in non-cardiac patients",
+   "B": "Ergot alkaloids are most effectively used for prevention of PPH",
+   "C": "Avoid regional/epidural anaesthesia as it prolongs the second stage of labour",
+   "D": "Induction of labour at 38 weeks is recommended to avoid stress on the heart",
+   "E": "Keep the second stage short with the help of instrumental vaginal delivery"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Maximal expulsive effort strains the heart, so the second stage is shortened by forceps or ventouse; fluids are restricted, epidural is preferred, ergometrine is avoided, and induction is for obstetric indications.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01091",
+   "C01996"
+  ],
+  "stem": "A G2P1 with known cardiac disease is in active labour (os 4 cm, cervix effaced, vertex at 0 station, membranes intact). You plan to rupture the membranes but want to give analgesia first. What is the best analgesia for her?",
+  "options": {
+   "A": "Saddle block",
+   "B": "Spinal anaesthesia",
+   "C": "Epidural analgesia",
+   "D": "Pudendal nerve block",
+   "E": "Paracetamol"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Epidural analgesia gives good pain relief, reduces catecholamine surges and cardiac workload, and the gradual onset avoids the abrupt hypotension of spinal or saddle block.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01724"
+  ],
+  "stem": "A primigravida with mitral stenosis presents in the labour ward at 39 weeks in active labour. You plan to give injectable antibiotics. The aim of this antibiotic treatment is to prevent:",
+  "options": {
+   "A": "Infection to the baby",
+   "B": "Endometritis",
+   "C": "Maternal infective endocarditis",
+   "D": "Cardiac disease in the baby",
+   "E": "To provide lung maturity in the baby"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Antibiotic prophylaxis at delivery in a woman with valvular heart disease aims to prevent bacterial endocarditis from transient bacteraemia.",
+  "key_note": "Many current guidelines no longer recommend routine prophylaxis for vaginal delivery, but this is the taught exam answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00504",
+   "C01897"
+  ],
+  "stem": "A primigravida attends at 20 weeks with palpitations and tremors off and on for one month. The thyroid is palpable. Which test will you advise to assess thyroid function in pregnancy?",
+  "options": {
+   "A": "Free T4",
+   "B": "Free T3",
+   "C": "Total T3",
+   "D": "Total T4",
+   "E": "Free T4, free T3 and TSH"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Total T3 and T4 rise in pregnancy because of increased binding globulin (TBG), so free hormone levels with TSH are used. TSH, free T4 and free T3 together are needed to diagnose and classify hyperthyroidism.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00818"
+  ],
+  "stem": "A woman attends for booking at 12 weeks. She had Graves disease treated with radioactive iodine years ago and is on thyroid hormone replacement. She is worried this will compromise the fetus. Which is an accurate description of the maternal-fetal thyroid interaction?",
+  "options": {
+   "A": "Maternal thyroid hormones readily cross the placenta",
+   "B": "Maternal thyrotropin easily crosses the placenta",
+   "C": "The thyroid of the fetus is growth retarded at birth",
+   "D": "The fetal thyroid concentrates iodide",
+   "E": "The placenta serves as a barrier to maternal iodine crossing to the fetus"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "The fetal thyroid actively concentrates iodide from about 10-12 weeks. TSH does not cross the placenta, only small amounts of maternal T4 cross, iodide and TSH-receptor antibodies freely cross, and the fetal thyroid is not growth retarded.",
+  "key_note": "One paper marked B (maternal thyrotropin crosses); this is wrong because TSH does not cross the placenta; correct is D.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00707"
+  ],
+  "stem": "Regarding phaeochromocytoma, which of the following statements is NOT correct?",
+  "options": {
+   "A": "Treatment is with alpha and beta blockade (prazosin and atenolol)",
+   "B": "The characteristic feature is paroxysmal hypertension",
+   "C": "It is a rare catecholamine-producing tumour",
+   "D": "It arises from the adrenal cortex",
+   "E": "Diagnosis is confirmed by measurement of 24-hour urinary catecholamines"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Phaeochromocytoma arises from chromaffin cells of the adrenal medulla, not the cortex. Alpha blockade is started first, then beta blockade.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00869"
+  ],
+  "stem": "Radioactive iodine is contraindicated for the treatment of hyperthyroidism in pregnancy because it causes fetal:",
+  "options": {
+   "A": "Hyperthyroidism",
+   "B": "Thyroid cancer",
+   "C": "Thyroid enlargement",
+   "D": "Thyroid obliteration",
+   "E": "Thyroid nodules"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Radioiodine crosses the placenta and is concentrated by the fetal thyroid after about 10-12 weeks, causing ablation (fetal hypothyroidism and cretinism).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00908"
+  ],
+  "stem": "A 35-year-old G2P1 at 18 weeks has weight loss despite good appetite and palpitations, and TFTs confirm hyperthyroidism. While counselling her about the side effects of antithyroid drugs, which is the most serious maternal side effect?",
+  "options": {
+   "A": "Agranulocytosis",
+   "B": "Acute liver failure",
+   "C": "Fetal hypothyroidism",
+   "D": "Choanal atresia",
+   "E": "Aplasia cutis"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Agranulocytosis (about 0.1-0.5%) is the classical serious maternal reaction to carbimazole and propylthiouracil, so patients are told to report sore throat or fever. Choanal atresia and aplasia cutis are fetal effects of carbimazole.",
+  "key_note": "The source stem said 'most common side effect'; mild rash is actually commonest, but agranulocytosis is the keyed answer among the options and the key point taught, so the stem says 'most serious'.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01061",
+   "C01590"
+  ],
+  "stem": "A 23-year-old primigravida at 8 weeks attends for booking. She is a known hypothyroid taking thyroxine 50 microgram once daily and her thyroid function tests are normal. How often will you repeat her TFTs?",
+  "options": {
+   "A": "Weekly",
+   "B": "4 weekly",
+   "C": "Every trimester",
+   "D": "Just at booking visit",
+   "E": "2 weekly"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Thyroxine requirement rises by 25-50% in pregnancy, so TFTs are rechecked each trimester (RCOG/ATA advise about every 4-6 weeks in the first half and at least once around 30 weeks) and the dose adjusted.",
+  "key_note": "Paper key C kept; ATA suggests more frequent checks (4 weekly until mid-pregnancy) but this is not among the common exam keys.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01144"
+  ],
+  "stem": "A 30-year-old primigravida at 27 weeks presents with lethargy and fatigue. TFTs show TSH 10 mU/L and FT4 6 pmol/L despite thyroxine 50 microgram twice a day. She is concerned about her fetus. You tell her the most common risk to the fetus is:",
+  "options": {
+   "A": "Goitre",
+   "B": "Arrhythmias",
+   "C": "Growth restriction",
+   "D": "Premature delivery",
+   "E": "Hyperthyroidism"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Inadequately treated maternal hypothyroidism raises the fetal TSH drive and can cause fetal goitre (also preterm birth, low birth weight and impaired neurodevelopment).",
+  "key_note": "Paper key A kept; premature delivery and neurocognitive impairment are also recognised risks of under-treated hypothyroidism.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01524"
+  ],
+  "stem": "A woman attends for antenatal booking at 7 weeks. She had a partial thyroidectomy for Graves disease 5 years ago. Her TSH is 10 IU/L (normal 1-5) and T4 is 11.4 (normal 6-15). What is the most appropriate management?",
+  "options": {
+   "A": "Repeat thyroid function tests in 6 weeks",
+   "B": "Repeat thyroid function tests in 12 weeks",
+   "C": "Commence carbimazole",
+   "D": "Commence thyroxine",
+   "E": "Commence propylthiouracil"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Raised TSH with a normal T4 in early pregnancy is subclinical hypothyroidism (post-surgical), and treating with levothyroxine is advised, because it is associated with miscarriage and impaired fetal neurodevelopment. Antithyroid drugs would worsen it.",
+  "key_note": "One paper's printed key was B (repeat in 12 weeks), but its handwriting circled D; correct is D, start thyroxine.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01591",
+   "C01620"
+  ],
+  "stem": "A woman at 18-20 weeks is diagnosed with hyperthyroidism in pregnancy. Regarding its treatment, which is true?",
+  "options": {
+   "A": "The aim is to keep T3 and T4 levels in the lowest range",
+   "B": "Carbimazole or propylthiouracil (PTU) are preferably used in the lowest effective dose",
+   "C": "Radioactive iodine can be used",
+   "D": "It requires no treatment at all",
+   "E": "Surgery is the ultimate cure"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Thionamides (propylthiouracil in the first trimester, carbimazole later) are the treatment of choice, titrated to the lowest dose keeping free T4 in the upper normal range. Radioiodine is contraindicated and surgery is reserved for failures.",
+  "key_note": "Option A as written (lowest range) is wrong, as free T4 is kept at the upper normal range, and some variants named only PTU as the preferred drug; the key is the antithyroid drugs.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00466",
+   "C01038",
+   "C01619",
+   "C02576"
+  ],
+  "stem": "What is the treatment of choice for DVT/VTE in pregnancy?",
+  "options": {
+   "A": "Warfarin",
+   "B": "LMWH",
+   "C": "UFH",
+   "D": "Graduated elastic stockings",
+   "E": "Streptokinase"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Low molecular weight heparin does not cross the placenta and is the anticoagulant of choice for treatment of DVT in pregnancy. Warfarin is teratogenic and fetotoxic.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00637",
+   "C01109",
+   "C02510"
+  ],
+  "stem": "A woman at 25 weeks of gestation has a swollen, tender right leg and you suspect deep venous thrombosis. Which investigation will you advise to confirm your suspicion?",
+  "options": {
+   "A": "CT scan",
+   "B": "MRI",
+   "C": "Doppler scan",
+   "D": "X-ray",
+   "E": "Venography"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Compression duplex (Doppler) ultrasound of the leg is the first-line, non-invasive and radiation-free test for DVT in pregnancy.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00665"
+  ],
+  "stem": "A 29-year-old P3 on the 7th postpartum day has swelling and tenderness of the right lower leg, with malaise and fever for 4 days and no previous thromboembolism. DVT is suspected clinically. What is the most appropriate management?",
+  "options": {
+   "A": "Start low molecular weight heparin and Doppler ultrasound of the legs",
+   "B": "Initiate warfarin and schedule Doppler ultrasound in 2 weeks",
+   "C": "Start heparin infusion and immediate CT pulmonary angiography",
+   "D": "Compression stockings and leg elevation, reassess in 48 hours",
+   "E": "Administer broad-spectrum antibiotics and hydration"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "When DVT is clinically suspected, treatment with LMWH is started without waiting for imaging, and compression duplex is then done to confirm. Warfarin is not started alone, and delaying treatment is unsafe.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01142",
+   "C01171"
+  ],
+  "stem": "A 36-year-old para 2 develops dyspnoea and haemoptysis on the second post-operative day after caesarean section. Pulse is 115 bpm, respiratory rate 25, afebrile, with bilateral crepitations on chest auscultation. She is diagnosed with pulmonary embolism. What is the most appropriate management?",
+  "options": {
+   "A": "IV heparin",
+   "B": "Subcutaneous heparin",
+   "C": "LMWH",
+   "D": "Low dose aspirin",
+   "E": "Warfarin"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Acute pulmonary embolism with haemoptysis, tachycardia and tachypnoea needs immediate full-dose anticoagulation with intravenous unfractionated heparin (the preferred route in a haemodynamically significant PE or when thrombolysis/surgery may be needed), later bridged to warfarin or LMWH.",
+  "key_note": "Paper key A kept; RCOG accepts therapeutic LMWH as first line in non-massive PE, with IV UFH reserved for massive PE.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01592"
+  ],
+  "stem": "A 30-year-old woman at 20 weeks presents with pain and swelling of the left leg for two days. Ultrasound confirms proximal deep vein thrombosis. Which is the correct initial treatment?",
+  "options": {
+   "A": "Catheter-directed thrombolysis",
+   "B": "Clexane 1 mg/kg once daily",
+   "C": "Clexane 1 mg/kg twice daily",
+   "D": "Clexane 1.5 mg/kg daily",
+   "E": "Clexane for a minimum of 5 days then switch to warfarin"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Treatment of acute DVT in pregnancy is therapeutic LMWH (enoxaparin 1 mg/kg twice daily, or 1.5 mg/kg once daily), continued through pregnancy and for at least 6 weeks postnatally (minimum 3 months in total). Warfarin is avoided antenatally.",
+  "key_note": "Option D (1.5 mg/kg daily) is also an accepted once-daily regimen, but the standard keyed regimen is 1 mg/kg twice daily.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00580"
+  ],
+  "stem": "You review a G3P2 who is 30 weeks pregnant. She had deep venous thrombosis in her previous pregnancy. For how long should she be given postnatal LMWH prophylaxis?",
+  "options": {
+   "A": "One week",
+   "B": "One month",
+   "C": "Six weeks",
+   "D": "10 weeks",
+   "E": "12 weeks"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "High-risk women (previous VTE) receive LMWH for 6 weeks postnatally (RCOG Green-top 37a); 10 days is used for intermediate-risk women.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00901"
+  ],
+  "stem": "The risk of thromboembolic disease in pregnancy is highest with:",
+  "options": {
+   "A": "Obesity (more than 80 kg)",
+   "B": "Pre-eclampsia",
+   "C": "Sepsis",
+   "D": "Smoking",
+   "E": "Thrombophilia"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Inherited thrombophilia (e.g. antithrombin, protein C or S deficiency, factor V Leiden) carries a much larger relative risk of VTE than obesity, smoking, sepsis or pre-eclampsia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01593"
+  ],
+  "stem": "A 35-year-old woman at 33 weeks presents to the emergency department with pleuritic chest pain and breathlessness for two days. Examination is normal and she has no signs or symptoms of DVT. What is the appropriate investigation?",
+  "options": {
+   "A": "CT pulmonary angiogram",
+   "B": "Deep vein ultrasound of both legs",
+   "C": "MR pulmonary angiogram",
+   "D": "Perfusion scan of the lungs",
+   "E": "Ventilation-perfusion scan of the lungs"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Suspected PE in pregnancy needs imaging; CTPA is the standard exam answer (a V/Q scan is an alternative when the chest X-ray is normal, and leg ultrasound is first only if DVT signs are present).",
+  "key_note": "RCOG also accepts V/Q scanning with a normal chest X-ray; CTPA kept as the paper key.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00902"
+  ],
+  "stem": "A pregnant woman is assessed at 28 weeks of gestation and placed in the intermediate-risk category for thromboembolism on which one of the following risk factors?",
+  "options": {
+   "A": "Obesity",
+   "B": "Smoker",
+   "C": "Prolonged bed rest",
+   "D": "Pre-eclampsia",
+   "E": "Gross varicose veins"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Pre-eclampsia is a recognised risk factor placing the woman in the intermediate-risk category, whereas obesity, smoking and varicose veins are minor factors.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01108"
+  ],
+  "stem": "Which ONE is NOT a risk factor for thromboembolic disease?",
+  "options": {
+   "A": "Maternal age over 35 years",
+   "B": "Obesity (more than 80 kg)",
+   "C": "Pre-eclampsia",
+   "D": "Thyroid dysfunction",
+   "E": "Emergency caesarean section"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Age over 35, obesity, pre-eclampsia and emergency caesarean section all raise VTE risk in pregnancy; thyroid dysfunction is not a recognised risk factor.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00903"
+  ],
+  "stem": "Which one of the following is the most appropriate statement regarding VTE in pregnancy?",
+  "options": {
+   "A": "It is a common cause of maternal mortality",
+   "B": "Its prevalence is high because pregnancy is a hypercoagulable state",
+   "C": "VTE in pregnancy is increased due to venous stasis in the lower limbs",
+   "D": "Risk increases after emergency caesarean section",
+   "E": "Thromboprophylaxis reduces the risk of VTE"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Pregnancy is a hypercoagulable state (raised fibrinogen and factors VII, VIII, X, reduced protein S) and, with stasis and endothelial injury, completes Virchow's triad.",
+  "key_note": "Several other options are also true; the paper key B (hypercoagulability, the underlying mechanism) is kept, but the question is loosely worded.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00958"
+  ],
+  "stem": "A 35-year-old G2P1 at 8 weeks attends for booking. She had a DVT 3 days postpartum in her previous pregnancy for which she received warfarin for 3 months. She is a non-smoker with BMI 35 kg/m2. What is the most appropriate management to prevent VTE?",
+  "options": {
+   "A": "Compression stockings and good hydration",
+   "B": "LMWH once daily commenced now until 6 weeks postpartum",
+   "C": "LMWH once daily commenced after delivery until 6 weeks postpartum",
+   "D": "Thrombophilia screen and review in 2 weeks with results",
+   "E": "Warfarin"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "A single previous VTE (here provoked by the puerperium, with obesity) warrants antenatal LMWH prophylaxis from early pregnancy and continued for 6 weeks postnatally. Warfarin is contraindicated in pregnancy.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00982",
+   "C00623",
+   "C00932"
+  ],
+  "stem": "A 32-year-old radiologist, G2P1, attends for antenatal booking at 18 weeks. She had deep venous thrombosis in her last pregnancy and asks whether she needs thromboprophylaxis in this pregnancy. What is your advice?",
+  "options": {
+   "A": "No need to give thromboprophylaxis",
+   "B": "LMWH 10 days after delivery",
+   "C": "LMWH throughout pregnancy",
+   "D": "LMWH for 6 weeks after delivery only",
+   "E": "LMWH for 6 months"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Previous VTE is an indication for antenatal LMWH prophylaxis (started early in pregnancy), which is continued for 6 weeks postnatally.",
+  "key_note": "One paper marked C (low dose heparin) but its handwriting circled D; correct is LMWH.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01103",
+   "C02759",
+   "C03089"
+  ],
+  "stem": "What is the antidote for LMWH?",
+  "options": {
+   "A": "Oral vitamin K",
+   "B": "Calcium gluconate",
+   "C": "Protamine sulphate",
+   "D": "FFP",
+   "E": "IM vitamin K"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Protamine sulphate neutralises heparin; for LMWH it reverses the anti-IIa activity fully but anti-Xa activity only partially (about 60%).",
+  "key_note": "The stem mixes enoxaparin and unfractionated heparin; protamine is the answer either way.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00581"
+  ],
+  "stem": "A 34-year-old primigravida attends at 11 weeks. She is asthmatic on salbutamol and a steroid inhaler and asks about the effect of pregnancy on her asthma. At what stage of pregnancy are exacerbations of asthma most common?",
+  "options": {
+   "A": "13-20 weeks",
+   "B": "24-36 weeks",
+   "C": "36-40 weeks",
+   "D": "During labour",
+   "E": "In the postpartum period"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Asthma exacerbations peak between 24 and 36 weeks, and are uncommon in labour. Viral infections and non-compliance with inhaled steroids are the usual triggers.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01016"
+  ],
+  "stem": "A 20-year-old primigravida at 30 weeks is a known asthmatic taking salbutamol and beclometasone (Ventide) inhalers. What is the best management plan for her during pregnancy?",
+  "options": {
+   "A": "Stop all drugs",
+   "B": "Start corticosteroids",
+   "C": "Stop salbutamol",
+   "D": "Continue the same drugs",
+   "E": "Stop the Ventide inhaler"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Inhaled beta-agonists and inhaled corticosteroids are safe in pregnancy and should be continued, as uncontrolled asthma is more harmful to the fetus than the drugs.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00465",
+   "C02367"
+  ],
+  "stem": "A primigravida at 28 weeks presents with severe abdominal pain for 2 days, vomiting and high-grade fever. The right side of the abdomen is tender. CBC shows TLC 13,000 with 80% neutrophils. What is the cause of her abdominal pain?",
+  "options": {
+   "A": "Ovarian torsion",
+   "B": "Acute appendicitis",
+   "C": "Renal colic",
+   "D": "Acute gastroenteritis",
+   "E": "Intestinal perforation"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Acute appendicitis is the commonest non-obstetric surgical emergency in pregnancy; fever, vomiting, neutrophil leucocytosis and right-sided tenderness fit, noting that the appendix is displaced upward and laterally in late pregnancy.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01525"
+  ],
+  "stem": "Regarding chronic kidney disease in pregnancy, which of the following statements is correct?",
+  "options": {
+   "A": "CKD is divided into 4 stages based on the level of renal function",
+   "B": "Pregnancies in mothers with CKD have increased risk of post-term delivery",
+   "C": "Pregnancies in mothers with CKD have increased risk of gestational diabetes",
+   "D": "Pregnancies in mothers with CKD have increased risk of pre-eclampsia",
+   "E": "Women with stage 2 disease are at high risk of complications in pregnancy"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "CKD has 5 stages; pregnancy complications (pre-eclampsia, IUGR, preterm birth) rise as renal function falls, and stage 1-2 carries only a modest risk. Pre-eclampsia is the commonest complication.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00912",
+   "C01679",
+   "C02943"
+  ],
+  "stem": "A G3P2 at 34 weeks has severe pruritus on the palms and soles without rash for one week. She had an injection of TT yesterday. She has mild jaundice, raised bile salts and no hepatomegaly. What is the likely diagnosis?",
+  "options": {
+   "A": "Drug reaction",
+   "B": "Obstetric cholestasis",
+   "C": "Gall stones",
+   "D": "Pruritus of pregnancy",
+   "E": "Viral hepatitis"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Itching of palms and soles worse at night without a rash, with raised bile acids, is obstetric cholestasis. Treatment is ursodeoxycholic acid, with weekly LFTs and delivery at 37-38 weeks.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00961"
+  ],
+  "stem": "Which one of the following is a specific feature of acute fatty liver of pregnancy?",
+  "options": {
+   "A": "Coagulopathy",
+   "B": "Hypoglycaemia",
+   "C": "Markedly deranged LFTs",
+   "D": "Raised uric acid and leucocytes",
+   "E": "Usually presents in the third trimester"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Profound hypoglycaemia (with raised ammonia, coagulopathy and DIC) is the feature that distinguishes AFLP from HELLP; coagulopathy and deranged LFTs also occur in HELLP.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00962"
+  ],
+  "stem": "A G3P2 attends the OPD at 28 weeks with pruritus. Liver function tests show a raised alkaline phosphatase level. She is very anxious. What is the next step in management?",
+  "options": {
+   "A": "Repeat alkaline phosphatase",
+   "B": "Repeat liver function tests",
+   "C": "Dexamethasone therapy",
+   "D": "Hepatitis E screening",
+   "E": "Reassure her"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Alkaline phosphatase rises physiologically in pregnancy (placental isoenzyme), so an isolated raised ALP is not abnormal. Pregnancy pruritus with otherwise normal LFTs needs reassurance, though persistent itch should prompt fasting bile acids to exclude cholestasis.",
+  "key_note": "Paper key E kept; if itching is severe or persistent, bile acids and LFTs should be repeated to exclude obstetric cholestasis.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01107"
+  ],
+  "stem": "Women with obstetric cholestasis are normally offered delivery:",
+  "options": {
+   "A": "After 37 weeks",
+   "B": "After 34 weeks",
+   "C": "After 38 weeks",
+   "D": "After 40 weeks",
+   "E": "After 41 weeks"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Because of the risk of sudden stillbirth rising near term, delivery is usually offered at 37-38 weeks (earlier, 35-36 weeks, if bile acids are above 100 micromol/L or there is other pathology).",
+  "key_note": "Paper key A kept; RCOG now suggests 37+0 to 38+0 weeks when bile acids are below 100.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00918",
+   "C01734"
+  ],
+  "stem": "A newly married young woman with epilepsy attends for pre-conception counselling. Which of the following problems are predisposed by epilepsy during pregnancy?",
+  "options": {
+   "A": "Cleft lip and palate, miscarriages, APH, developmental delay",
+   "B": "Neural tube defect, ectopic pregnancy, APH, developmental delay",
+   "C": "NTD, developmental delay, molar pregnancy",
+   "D": "Omphalocele, miscarriages, neonatal seizures",
+   "E": "Renal abnormalities, miscarriages, neonatal haemorrhagic disease"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Antiepileptic drugs increase congenital malformations (clefts, neural tube and cardiac defects), miscarriage, abruption and developmental delay. Option A lists associated risks best; ectopic and molar pregnancy are not associated.",
+  "key_note": "Option A wording was garbled in the source and has been tidied.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01692"
+  ],
+  "stem": "A primigravida at 10 weeks is taking anticonvulsant therapy for epilepsy. The fetus is at risk of which congenital abnormality?",
+  "options": {
+   "A": "Neural tube defects",
+   "B": "GIT defects",
+   "C": "Skeletal defects",
+   "D": "Endocrine defects",
+   "E": "Cardiac defects"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Anticonvulsants, especially valproate and carbamazepine, increase neural tube defects (and also clefts and cardiac defects); folic acid 5 mg is given pre-conception and in the first trimester.",
+  "key_note": "Cardiac defects are also increased with antiepileptics; neural tube defects is the key answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02543"
+  ],
+  "stem": "A woman with pre-existing diabetes is planning pregnancy. Which complication is particularly important to screen for before or early in pregnancy?",
+  "options": {
+   "A": "Appendicitis",
+   "B": "Diabetic retinopathy",
+   "C": "Gallstones only",
+   "D": "Migraine",
+   "E": "Otitis media"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Retinopathy can progress rapidly in pregnancy, so fundoscopy (and renal and thyroid assessment) is done pre-conception or at booking.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02449"
+  ],
+  "stem": "A 28-year-old woman with type 1 diabetes is pregnant. What is the best indicator of glycaemic control?",
+  "options": {
+   "A": "Fasting glucose",
+   "B": "HbA1c",
+   "C": "Postprandial glucose",
+   "D": "Random blood sugar",
+   "E": "Urine glucose"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "HbA1c reflects the preceding 6 to 8 weeks of control and is the standard marker for pre-conception and early pregnancy (aim below 6.5%, ideally 6.1%); daily capillary monitoring is used for day-to-day adjustment.",
+  "key_note": "One paper marked D (random blood sugar); correct is B: HbA1c is the best overall indicator of glycaemic control.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01849"
+  ],
+  "stem": "Most obstetricians screen pregnant women for gestational diabetes around 28 weeks' gestation. The increased risk of developing diabetes in pregnancy is due to which of the following?",
+  "options": {
+   "A": "Decreased fetal glucose requirements",
+   "B": "Decreased free fatty acids in maternal circulation",
+   "C": "Increased maternal glucose requirements",
+   "D": "Peripheral insulin resistance",
+   "E": "Shorter insulin half life"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Placental hormones (hPL, cortisol, progesterone, TNF-alpha) cause progressive peripheral insulin resistance from the second trimester, unmasking GDM in women with limited beta-cell reserve.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01725",
+   "C03067",
+   "C01133",
+   "C01145",
+   "C01583",
+   "C02401"
+  ],
+  "stem": "A G2P1 presents at 28 weeks. Her previous baby weighed 4.5 kg and she has a strong family history of diabetes (obese, both parents diabetic). Her random sugar is normal but you suspect gestational diabetes. Which investigation do you advise?",
+  "options": {
+   "A": "75 g OGTT",
+   "B": "Glucose in urine",
+   "C": "Random blood sugar",
+   "D": "2 hours postprandial glucose",
+   "E": "HbA1c"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "The 75 g two-hour OGTT is the diagnostic test for GDM in at-risk women; random glucose, urine glucose and HbA1c are not sensitive enough.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02745",
+   "C00578",
+   "C01676",
+   "C02423"
+  ],
+  "stem": "A 28-year-old woman at 28 weeks has a BMI of 32 and a strong family history of diabetes. What is the best initial test for gestational diabetes?",
+  "options": {
+   "A": "Random blood sugar",
+   "B": "HbA1c",
+   "C": "75 g oral glucose tolerance test",
+   "D": "Fasting insulin",
+   "E": "Urine dipstick"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Obesity and a family history are risk factors, so a 75 g OGTT at 24 to 28 weeks is the test of choice.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01781",
+   "C02851",
+   "C00456",
+   "C01058",
+   "C00654",
+   "C00005"
+  ],
+  "stem": "A G4P3 attends for antenatal booking at 16 weeks. She had diabetes in her last pregnancy and delivered a 4.5 kg baby boy. What is the most appropriate screening test for her at this gestational age?",
+  "options": {
+   "A": "One hour 50 g OGCT",
+   "B": "One hour 50 g OGTT",
+   "C": "One hour 100 g OGCT",
+   "D": "Two hour 75 g OGCT",
+   "E": "Two hour 75 g OGTT"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "With previous GDM or macrosomia the diagnostic test is the two-hour 75 g OGTT, done early (booking or 16 to 18 weeks) and repeated at 24 to 28 weeks if normal. The 50 g challenge is a screening test, not an OGTT.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02016",
+   "C01681"
+  ],
+  "stem": "A 36-year-old G4P3 attends antenatal clinic at 18 weeks. She gives a history of large babies and a last unexplained fetal death at term. You suspect GDM. At which gestation will you advise the diagnostic test?",
+  "options": {
+   "A": "Immediately",
+   "B": "20 to 22 weeks",
+   "C": "22 to 24 weeks",
+   "D": "24 to 28 weeks",
+   "E": "30 to 34 weeks"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "The standard window for the diagnostic OGTT in at-risk women is 24 to 28 weeks.",
+  "key_note": "Some teaching would test earlier in women with prior stillbirth or GDM; the paper key of 24 to 28 weeks is kept as the standard answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03161"
+  ],
+  "stem": "Which of the following is NOT a risk factor for screening for GDM?",
+  "options": {
+   "A": "Previous GDM",
+   "B": "Previous macrosomia (over 4.5 kg)",
+   "C": "Maternal BMI over 30 kg/m2",
+   "D": "European descent",
+   "E": "Family history (first degree) of diabetes, or women from South Asia"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Risk factors are previous GDM, macrosomia, BMI over 30, a first-degree relative with diabetes and ethnic origin such as South Asian, Black Caribbean and Middle Eastern, not European descent.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02644",
+   "C01702"
+  ],
+  "stem": "A 35-year-old G3P2 comes for an antenatal visit. Which of the following histories should make you suspect diabetes?",
+  "options": {
+   "A": "Spontaneous rupture of membranes in the second trimester in both preceding pregnancies",
+   "B": "Unexplained intrauterine death at 38 weeks in her last pregnancy",
+   "C": "Jaundice in the last trimester of her second pregnancy",
+   "D": "Both preceding infants were premature",
+   "E": "Oligohydramnios in both preceding pregnancies"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Unexplained late intrauterine death (and macrosomia, polyhydramnios, congenital anomalies) is a classic obstetric clue to undiagnosed diabetes. Oligohydramnios, not polyhydramnios, would point away.",
+  "key_note": "One paper marked D (premature infants); correct is B: unexplained late IUD is the recognised association.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02710"
+  ],
+  "stem": "A G2P1 presents in antenatal clinic with a history of a good-sized baby in the previous pregnancy. You screen her for gestational diabetes. Which fasting sugar level confirms that she has diabetes in pregnancy?",
+  "options": {
+   "A": "3 mmol/L",
+   "B": "4 mmol/L",
+   "C": "5 mmol/L",
+   "D": "2 mmol/L",
+   "E": "7 mmol/L"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "A fasting plasma glucose of 7.0 mmol/L or more (126 mg/dl) is diagnostic of diabetes; the other values are normal.",
+  "key_note": "Current GDM thresholds are lower (fasting 5.1 to 5.6 mmol/L) but are not offered here; paper key E kept.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02642"
+  ],
+  "stem": "A 41-year-old woman has a 75 g OGTT in her 4th pregnancy. Fasting plasma glucose is 5.8 mmol/L and the 2-hour value is 9 mmol/L. What is the correct diagnosis?",
+  "options": {
+   "A": "Gestational diabetes mellitus",
+   "B": "Impaired glucose tolerance",
+   "C": "Normal glycaemic control",
+   "D": "Type 2 diabetes",
+   "E": "Inconclusive"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Fasting 5.1 to 6.9 mmol/L or 2-hour 8.5 mmol/L or more meets the criteria for GDM; values of 7.0 fasting or 11.1 2-hour would indicate overt diabetes.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01908"
+  ],
+  "stem": "A 35-year-old G4P2+1 attends the antenatal clinic at 25 weeks. Ultrasound shows polyhydramnios. A fasting blood sugar is 126 mg/dl. What is the next investigation to confirm her GDM?",
+  "options": {
+   "A": "75 g OGTT",
+   "B": "100 g OGTT",
+   "C": "Blood sugar profile",
+   "D": "HbA1c",
+   "E": "Random blood sugar"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A fasting value at the diabetic threshold needs confirmation with a day-long glucose profile before treatment is started.",
+  "key_note": "Papers differ (C in two, A in one); a fasting value of 126 mg/dl already reaches the diagnostic cut-off, so a glucose profile is the practical confirmation and C is kept.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02259",
+   "C02871"
+  ],
+  "stem": "Gestational diabetes can cause which of the following?",
+  "options": {
+   "A": "Oligohydramnios",
+   "B": "IUGR",
+   "C": "Polyhydramnios",
+   "D": "Placenta praevia"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Fetal hyperglycaemia causes osmotic polyuria, so polyhydramnios and macrosomia are typical.",
+  "key_note": "Original recall version had no options (source answer polyhydramnios); only four options in the other version.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01910"
+  ],
+  "stem": "A 35-year-old G3P2 has gestational diabetes. At 36 weeks her sugars are well controlled on metformin 250 mg twice daily and fetal growth is optimal. She asks when she will be delivered. You advise that she can safely wait to deliver by",
+  "options": {
+   "A": "36 weeks",
+   "B": "37 weeks",
+   "C": "38 weeks",
+   "D": "40 weeks",
+   "E": "Beyond 40 weeks"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Well-controlled GDM without macrosomia or other complications may continue to term, with delivery by 40 to 40+6 weeks (NICE: not later than 40+6). Earlier delivery is for poor control or complications.",
+  "key_note": "Some paper keys marked C (38 weeks); well-controlled GDM is allowed to reach term, so D is preferred.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02661"
+  ],
+  "stem": "A primigravida at 28 weeks is diagnosed with gestational diabetes. While counselling you inform her of",
+  "options": {
+   "A": "Increased risk of developing diabetes mellitus later in life",
+   "B": "Decreased risk of operative delivery",
+   "C": "Decreased risk of pre-eclampsia",
+   "D": "Decreased risk of fetal respiratory distress syndrome",
+   "E": "Increased risk of preterm labour"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Up to half of women with GDM develop type 2 diabetes within 10 to 20 years; operative delivery, pre-eclampsia and neonatal RDS risks are increased, not decreased.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02643"
+  ],
+  "stem": "A 35-year-old woman presents at 36 weeks with polyhydramnios and fetal macrosomia and was diagnosed with gestational diabetes. How will you exclude type 2 diabetes after delivery?",
+  "options": {
+   "A": "Fasting glucose 2 to 4 weeks after childbirth",
+   "B": "Fasting glucose 4 to 5 weeks after childbirth",
+   "C": "HbA1c 2 to 4 weeks after childbirth",
+   "D": "HbA1c 6 to 13 weeks after childbirth",
+   "E": "OGTT at 6 weeks after delivery"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "A 75 g OGTT at about 6 weeks postpartum is the classic test to exclude persisting diabetes after GDM; HbA1c is unreliable in the first 3 months after delivery.",
+  "key_note": "Paper key was D (HbA1c at 6 to 13 weeks); changed to E because HbA1c is unreliable before about 3 months postpartum and the OGTT at 6 weeks is the standard teaching.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02392",
+   "C00621"
+  ],
+  "stem": "A 35-year-old P5 delivered a male baby of 4.8 kg last night. You suspect diabetes and want to screen her with an oral glucose tolerance test at",
+  "options": {
+   "A": "2 weeks postpartum",
+   "B": "3 weeks postpartum",
+   "C": "4 weeks postpartum",
+   "D": "5 weeks postpartum",
+   "E": "6 weeks postpartum"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Glucose tolerance is retested at about 6 weeks postpartum, when the pregnancy-induced insulin resistance has resolved.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03092"
+  ],
+  "stem": "A 28-year-old G2P1 diagnosed with gestational diabetes at 27 weeks did not respond to diet and exercise and is started on medication. What is the target 1-hour postprandial capillary plasma glucose (mmol/L)?",
+  "options": {
+   "A": "6.8",
+   "B": "7.8",
+   "C": "8.8",
+   "D": "9.8",
+   "E": "10.8"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "NICE targets: fasting 5.3, 1-hour postprandial 7.8 and 2-hour postprandial 6.4 mmol/L.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02017"
+  ],
+  "stem": "A 32-year-old G2P1 at 28 weeks has GDM treated with diet and exercise, but control is poor. You want to start a hypoglycaemic agent. What is your first choice?",
+  "options": {
+   "A": "Regular insulin",
+   "B": "Metformin",
+   "C": "Glipizide",
+   "D": "Glimepiride (Amaryl)",
+   "E": "NPH insulin"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "If diet and exercise fail, metformin is the preferred first oral agent (NICE, Ten Teachers); insulin is added or substituted if targets are not met. Other sulphonylureas such as glipizide and glimepiride are not preferred.",
+  "key_note": "Insulin remains the traditional first choice in many local protocols; paper key B (metformin) kept.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02842"
+  ],
+  "stem": "A 29-year-old G2P1 at 28 weeks with BMI 31 and a strong family history of type 2 diabetes has a 75 g OGTT: fasting 96 mg/dl, 1-hour 185 mg/dl, 2-hour 162 mg/dl, and is diagnosed with GDM. After 2 weeks of diet and exercise, fasting glucose remains above 95 mg/dl and postprandial above 140 mg/dl. What is the next best step?",
+  "options": {
+   "A": "Diet control only",
+   "B": "Start metformin",
+   "C": "Start insulin therapy",
+   "D": "Check sugar levels through the whole day",
+   "E": "Plan elective induction at 37 weeks"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Failure to reach targets after 1 to 2 weeks of lifestyle measures needs pharmacological treatment; insulin does not cross the placenta and is the standard agent in local practice.",
+  "key_note": "Metformin is an accepted alternative per NICE; all sources marked C (insulin).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02792",
+   "C02542"
+  ],
+  "stem": "A 37-year-old G5P4 at 30 weeks has a fundal height of 34 cm, biometry corresponding to 32 weeks and AFI 29 cm. Her blood sugar is 290 mg/dl. Which of the following do you advise?",
+  "options": {
+   "A": "Acarbose",
+   "B": "Insulin",
+   "C": "Metformin",
+   "D": "Glyburide",
+   "E": "Glibenclamide"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "A random glucose of 290 mg/dl with polyhydramnios needs insulin, which gives rapid, titratable control and does not cross the placenta.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02541"
+  ],
+  "stem": "A 29-year-old woman at 28 weeks has an abnormal OGTT and is diagnosed with gestational diabetes. She is otherwise well. What is an appropriate initial management step?",
+  "options": {
+   "A": "Bed rest until delivery",
+   "B": "Dietary and lifestyle modification with glucose monitoring",
+   "C": "Immediate caesarean section",
+   "D": "Corticosteroids indefinitely",
+   "E": "Stop all carbohydrate intake"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Most women with GDM are managed first with medical nutrition therapy, exercise and self-monitoring of glucose.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02711"
+  ],
+  "stem": "A primigravida at 38 weeks was diagnosed with gestational diabetes in this pregnancy and is on insulin. She now complains of decreased fetal movements and the CTG is non-reassuring. What is your plan?",
+  "options": {
+   "A": "Advise a whole day sugar profile",
+   "B": "Repeat CTG after 20 minutes",
+   "C": "Consider delivery of the baby",
+   "D": "Doppler ultrasound",
+   "E": "Recall the patient after 1 week"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "At term with reduced movements and a non-reassuring CTG in an insulin-treated diabetic, the fetus is at risk of intrauterine death, so delivery should be considered.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03125"
+  ],
+  "stem": "A 35-year-old primigravida with gestational diabetes at 38 weeks has well-controlled sugars on insulin. Ultrasound estimates fetal weight at 4.5 kg. What is the most appropriate next step?",
+  "options": {
+   "A": "Continue monitoring and plan spontaneous vaginal delivery at 41 weeks",
+   "B": "Discuss elective caesarean section because of macrosomia",
+   "C": "Increase insulin dose to prevent further fetal growth",
+   "D": "Doppler ultrasound and biophysical profile",
+   "E": "Switch from insulin to metformin"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "In diabetic pregnancy with an estimated weight of 4.5 kg or more, elective caesarean is offered because of the high risk of shoulder dystocia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02804"
+  ],
+  "stem": "A 31-year-old primigravida with GDM (diagnosed at 28 weeks) is at 39 weeks on insulin, with frequent postprandial values above 160 mg/dl. Ultrasound shows one live fetus, EFW above the 97th centile, normal liquor and reassuring Doppler. What is the most appropriate management?",
+  "options": {
+   "A": "Continue weekly surveillance until spontaneous labour at 40 weeks",
+   "B": "Plan elective induction of labour now, aiming for vaginal delivery",
+   "C": "Admit for elective caesarean section at 39 weeks",
+   "D": "Delay delivery until 41 weeks if Doppler stays normal",
+   "E": "Adjust insulin and plan delivery only if maternal complications arise"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Insulin-treated GDM with a large baby should be delivered at about 38 to 39 weeks; induction is reasonable unless the estimated weight is 4.5 kg or more, when caesarean is discussed.",
+  "key_note": "One paper marked C (elective caesarean); B is kept as the majority key since no weight of 4.5 kg is stated.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01825"
+  ],
+  "stem": "A pregnant woman with gestational diabetes asks about the increased risks to her fetus. You describe all of the following EXCEPT",
+  "options": {
+   "A": "Polycythaemia",
+   "B": "Hypermagnesaemia",
+   "C": "Traumatic delivery",
+   "D": "Neonatal jaundice",
+   "E": "Hypoglycaemia"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Infants of diabetic mothers have polycythaemia, jaundice, birth trauma, hypoglycaemia, hypocalcaemia and hypomagnesaemia; hypermagnesaemia is not a feature.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01778"
+  ],
+  "stem": "A 23-year-old G3P2 on regular insulin has delivered a 4.5 kg baby. The infant is at increased risk of",
+  "options": {
+   "A": "Hyperglycaemia",
+   "B": "Hypercalcaemia",
+   "C": "Hypermagnesaemia",
+   "D": "Hyperbilirubinaemia",
+   "E": "Hyponatraemia"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Infants of diabetic mothers are at risk of hypoglycaemia, hypocalcaemia, polycythaemia and hence hyperbilirubinaemia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03040"
+  ],
+  "stem": "What is the leading cause of perinatal mortality in pregnancies complicated by diabetes?",
+  "options": {
+   "A": "Congenital anomalies",
+   "B": "Hypoglycaemia",
+   "C": "Iatrogenic preterm delivery",
+   "D": "Neonatal sepsis",
+   "E": "Polyhydramnios"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "With modern care, congenital malformations (especially cardiac and neural tube defects) are the leading cause of perinatal death in diabetic pregnancy.",
+  "key_note": "One paper marked E (polyhydramnios), which is a sign not a cause of death; correct is A.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01909"
+  ],
+  "stem": "A 38-year-old G5P3+1 at 20 weeks has a fetal cardiac anomaly on the anomaly scan. Which of the following is associated with an increased risk of this condition?",
+  "options": {
+   "A": "Gestational diabetes",
+   "B": "Diabetes mellitus",
+   "C": "Anaemia",
+   "D": "Folic acid deficiency",
+   "E": "Hypertension"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Pre-existing (pregestational) diabetes with poor periconceptual control raises the risk of congenital heart disease several-fold; GDM, arising later after organogenesis, does not.",
+  "key_note": "Paper keys were split between A (gestational diabetes) and B (diabetes mellitus); correct is B.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01779",
+   "C02847"
+  ],
+  "stem": "A 32-year-old G3P2 with diabetes for three years undergoes an anomaly scan. Which abnormality is most characteristically associated with maternal diabetes?",
+  "options": {
+   "A": "Gastroschisis",
+   "B": "Hydrocephalus",
+   "C": "Microcephaly",
+   "D": "Sacral agenesis",
+   "E": "Spina bifida"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Caudal regression (sacral agenesis) is rare but is the anomaly most specific to maternal diabetes, though congenital heart disease and neural tube defects are commoner overall.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02754"
+  ],
+  "stem": "A 25-year-old woman with type 1 diabetes for 5 years presents at 8 weeks. Her diabetes is uncontrolled and HbA1c three months ago was 10%. Which congenital fetal anomaly is expected?",
+  "options": {
+   "A": "Achondroplasia",
+   "B": "Sacral agenesis",
+   "C": "Tracheo-oesophageal fistula",
+   "D": "Renal agenesis",
+   "E": "Cleft lip and palate"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Poor periconceptual control causes congenital anomalies, with caudal regression (sacral agenesis) the classical one.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03112",
+   "C00406"
+  ],
+  "stem": "A G2P1 at 12 weeks has Hb 10 g/dl; her pre-pregnancy Hb was 11 g/dl. You explain the fall is physiological. What is the cause of physiological anaemia in pregnancy?",
+  "options": {
+   "A": "Decrease in RBC count",
+   "B": "Increase in RBC count and decrease in plasma volume",
+   "C": "Increase in plasma volume with no increase in RBC count",
+   "D": "Increase in plasma volume and decrease in RBC count",
+   "E": "Increase in plasma volume in comparison to RBC mass"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Plasma volume rises about 40 to 50% while red cell mass rises only 20 to 30%, so haemodilution lowers Hb and haematocrit.",
+  "key_note": "Options C, D and E overlap; E is the best textbook phrasing (disproportionate rise of plasma volume).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02411",
+   "C01504"
+  ],
+  "stem": "Anaemia in pregnancy is defined as",
+  "options": {
+   "A": "Hb below 120 g/l in the first trimester, below 105 g/l in the second and third",
+   "B": "Hb below 110 g/l in the first trimester, below 100 g/l in the second and third",
+   "C": "Hb below 110 g/l in the first trimester, below 105 g/l in the second and third",
+   "D": "Hb below 120 g/l in the first trimester, below 110 g/l in the second and third",
+   "E": "Hb below 100 g/l in the first trimester, below 95 g/l in the second and third"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Standard cut-offs (BSH/RCOG, CDC) are Hb below 110 g/l in the first trimester and below 105 g/l in the second and third trimesters.",
+  "key_note": "The WHO cut-off is below 110 g/l in the first and third and below 105 in the second; the printed key C matches the common wording.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02583",
+   "C01505"
+  ],
+  "stem": "Choose the laboratory result characteristic of iron deficiency anaemia:",
+  "options": {
+   "A": "Increased transferrin saturation",
+   "B": "Normochromic normocytic anaemia on peripheral film",
+   "C": "Hyperchromic macrocytic anaemia on peripheral film",
+   "D": "Decreased total iron binding capacity",
+   "E": "Hypochromic microcytic anaemia on peripheral film"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "IDA gives a hypochromic microcytic picture with low ferritin, low iron and saturation, and raised TIBC.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01783",
+   "C02858"
+  ],
+  "stem": "A G5P4 complains of shortness of breath and easy fatigability. Which is the most appropriate first investigation for diagnosis?",
+  "options": {
+   "A": "Complete blood count",
+   "B": "Peripheral film",
+   "C": "Serum ferritin",
+   "D": "Serum iron",
+   "E": "Total iron binding capacity"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "The first step is a CBC, which shows the Hb and red cell indices; ferritin and other tests follow to find the cause.",
+  "key_note": "One paper had a doubtful mark on serum ferritin; CBC is the first-line investigation.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01906"
+  ],
+  "stem": "A 25-year-old G4P3 at 24 weeks complains of easy fatigability, shortness of breath and inability to do daily chores. What are the first two investigations?",
+  "options": {
+   "A": "CBC and serum ferritin",
+   "B": "CBC and serum transferrin",
+   "C": "CBC and Hb electrophoresis",
+   "D": "CBC and urine routine examination",
+   "E": "CBC and serum bilirubin"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "A CBC confirms and grades the anaemia, and serum ferritin confirms iron deficiency, the commonest cause.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02011"
+  ],
+  "stem": "A multigravida presents at about 3? weeks with generalised weakness and shortness of breath. She is pale and her Hb is 8 g/dl. Which second line investigation will you advise to diagnose iron deficiency with a microcytic hypochromic picture?",
+  "options": {},
+  "answer": null,
+  "answer_text": "Peripheral blood film (smear)",
+  "explanation": "A peripheral blood film shows microcytic hypochromic red cells with pencil cells, supporting iron deficiency.",
+  "key_note": "Options were illegible in the source; the handwritten answer was peripheral smear. Recall question.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02014"
+  ],
+  "stem": "A 25-year-old G3P2 attends antenatal clinic at 32 weeks, pale and fatigable, with Hb 9 g/dl. She has not been taking her tonics regularly. What is the best way to treat her?",
+  "options": {
+   "A": "Erythropoietin",
+   "B": "Intravenous iron",
+   "C": "Oral iron",
+   "D": "Whole blood transfusion",
+   "E": "Packed cell transfusion"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Poor compliance in the third trimester is an indication for intravenous iron, which corrects Hb faster than oral therapy.",
+  "key_note": "Oral iron is first-line for compliant women; the paper key B (intravenous) is kept because of poor compliance and advanced gestation.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02799",
+   "C02709",
+   "C02539"
+  ],
+  "stem": "A 28-year-old primigravida at 30 weeks has fatigue and palpitations, Hb 8.2 g/dl, MCV 70 fl and ferritin 8 ng/ml. She has taken oral iron for 6 weeks without improvement. What is the most appropriate next step?",
+  "options": {
+   "A": "Continue oral iron with dietary counselling",
+   "B": "Switch to intravenous iron therapy",
+   "C": "Plan an immediate packed red cell transfusion",
+   "D": "Add folic acid and vitamin B12"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Non-response to a compliant 4 to 6 week trial of oral iron in the third trimester is an indication for intravenous iron.",
+  "key_note": "Only four options were given in the source.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03105",
+   "C03037"
+  ],
+  "stem": "A 29-year-old woman at 28 weeks has fatigue and palpitations, Hb 8.5 g/dl, MCV 68 fl and low ferritin, and a 2-month history of severe gastritis. What is the appropriate management of her anaemia?",
+  "options": {
+   "A": "Oral folic acid",
+   "B": "Intravenous iron infusion",
+   "C": "Oral iron supplementation",
+   "D": "Blood transfusion",
+   "E": "Vitamin B12 injection"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Severe gastritis makes oral iron poorly tolerated and poorly absorbed, so intravenous iron is the best option; transfusion is not needed at Hb 8.5 without decompensation.",
+  "key_note": "One paper also circled D (transfusion); correct is B.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01784"
+  ],
+  "stem": "A G6P5 at 38 weeks has haemoglobin 7.8 g/dl and iron deficiency anaemia on workup. What is the most suitable management?",
+  "options": {
+   "A": "Blood transfusion during labour",
+   "B": "Immediate blood transfusion",
+   "C": "Iron dextran",
+   "D": "Iron sorbitol I/M",
+   "E": "Iron sucrose I/V"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Hb of 7 g/dl or more without decompensation can be treated with intravenous iron sucrose even close to term; transfusion is kept for Hb below 7 or cardiac compromise.",
+  "key_note": "One variant (Hb 6.0 at 39 weeks) marked immediate transfusion, which is correct only for that lower Hb; for Hb 7.8 the answer is intravenous iron sucrose.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01907"
+  ],
+  "stem": "A 28-year-old G5P4 at 34 weeks complains of easy fatigability and breathlessness. CBC shows Hb 8 g/dl with thalassaemia minor. What is the best treatment option?",
+  "options": {
+   "A": "Oral iron three times daily",
+   "B": "Iron-rich diet",
+   "C": "Whole blood transfusion",
+   "D": "Intravenous iron",
+   "E": "Packed cell transfusion"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Thalassaemia minor has normal or raised iron stores, so parenteral iron (and routine oral iron) risks overload and is avoided unless deficiency is proven; symptomatic anaemia near term is corrected with packed red cells.",
+  "key_note": "Paper keys varied (A, D, E); reviewer chose E because IV iron is contraindicated in thalassaemia minor (see the parenteral iron item) and the woman is symptomatic at 34 weeks.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02540"
+  ],
+  "stem": "A 30-year-old pregnant woman has Hb 9.5 g/dl, MCV 65 fl, normal ferritin, and electrophoresis suggesting beta-thalassaemia trait. Which finding most strongly supports this diagnosis?",
+  "options": {
+   "A": "Low reticulocyte count with pancytopenia",
+   "B": "Macrocytosis",
+   "C": "Markedly reduced ferritin",
+   "D": "Raised HbA2",
+   "E": "Severe thrombocytopenia"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Beta-thalassaemia trait is characterised by a raised HbA2 (above 3.5%) with microcytosis and normal iron stores.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03124"
+  ],
+  "stem": "A 26-year-old woman at 12 weeks has Hb 9 g/dl and MCV 68 fl. Iron studies show normal serum iron and raised ferritin, and Hb electrophoresis shows raised HbA2. What is the most likely diagnosis?",
+  "options": {
+   "A": "Iron deficiency anaemia",
+   "B": "Beta-thalassaemia trait",
+   "C": "Alpha-thalassaemia trait",
+   "D": "Folate deficiency anaemia",
+   "E": "Sickle cell trait"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Microcytosis with normal or raised iron stores and elevated HbA2 is diagnostic of beta-thalassaemia trait.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03050"
+  ],
+  "stem": "A 27-year-old with iron deficiency anaemia at 23 weeks seeks dietary counselling. Which of the following taken with a meal reduces iron absorption?",
+  "options": {
+   "A": "Chilli",
+   "B": "Lemon",
+   "C": "Orange juice",
+   "D": "Tea",
+   "E": "Water"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Tannins in tea (and phytates, calcium) bind iron and reduce absorption; vitamin C increases it.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03038",
+   "C02640"
+  ],
+  "stem": "What is the recommended daily dose of folic acid for pregnant women with sickle cell disease?",
+  "options": {
+   "A": "0.4 mg in the first trimester",
+   "B": "0.4 mg throughout pregnancy",
+   "C": "1 mg in the first trimester",
+   "D": "5 mg in the first trimester",
+   "E": "5 mg throughout pregnancy"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Women with sickle cell disease take folic acid 5 mg daily throughout pregnancy because of ongoing haemolysis.",
+  "key_note": "One paper had a mark on D; RCOG advice is 5 mg daily for the whole pregnancy, so E is kept.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03074"
+  ],
+  "stem": "A woman with sickle cell disease early in pregnancy asks about routine iron. What is the best advice?",
+  "options": {
+   "A": "High-dose iron throughout",
+   "B": "Avoid routine iron unless deficiency is documented",
+   "C": "Iron is mandatory to prevent crises",
+   "D": "Iron is contraindicated in pregnancy",
+   "E": "Only parenteral iron is safe"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Iron stores are usually normal or increased in sickle cell disease because of transfusions and haemolysis, so iron is given only for documented deficiency.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02452"
+  ],
+  "stem": "A 29-year-old woman at 30 weeks has palpitations and tremors. TSH is suppressed and free T4 is elevated. What is the diagnosis?",
+  "options": {
+   "A": "Graves' disease",
+   "B": "Hypothyroidism",
+   "C": "Normal pregnancy changes",
+   "D": "Postpartum thyroiditis",
+   "E": "Trophoblastic hyperthyroidism"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Suppressed TSH with raised free T4 in a symptomatic woman is overt hyperthyroidism, most commonly Graves' disease.",
+  "key_note": "Two papers marked C (normal pregnancy changes); this is wrong because symptomatic hyperthyroidism with raised FT4 is pathological. Correct is A.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02721"
+  ],
+  "stem": "A G2P1 presents with a history of hyperthyroidism. What is the drug of choice?",
+  "options": {
+   "A": "Propylthiouracil",
+   "B": "Radioactive iodine",
+   "C": "Beta blockers",
+   "D": "Surgery",
+   "E": "Methyldopa"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Propylthiouracil is preferred in the first trimester (carbimazole is teratogenic); radioiodine is contraindicated.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03075"
+  ],
+  "stem": "A pregnant woman with Graves' disease on propylthiouracil in the first trimester is euthyroid. Which statement is correct?",
+  "options": {
+   "A": "PTU does not cross the placenta",
+   "B": "PTU may cause fetal goitre and hypothyroidism, so use the lowest effective dose",
+   "C": "Thionamides must be stopped once pregnant",
+   "D": "Untreated hyperthyroidism is harmless to the fetus",
+   "E": "PTU is absolutely contraindicated in breastfeeding"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Thionamides cross the placenta and can cause fetal goitre and hypothyroidism, so the lowest dose keeping the mother in the upper normal range is used.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03041"
+  ],
+  "stem": "A 28-year-old G2P1 at 18 weeks has irritability, diarrhoea, palpitations and a goitre. She was prescribed carbimazole but is not taking it for fear of fetal risk. She is at increased risk of",
+  "options": {
+   "A": "Gestational diabetes",
+   "B": "Pre-eclampsia",
+   "C": "Megaloblastic anaemia",
+   "D": "Oligohydramnios",
+   "E": "Pyelonephritis"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Uncontrolled hyperthyroidism increases the risk of pre-eclampsia, preterm labour, IUGR, heart failure and thyroid storm.",
+  "key_note": "One paper marked D (oligohydramnios); correct is B.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02544"
+  ],
+  "stem": "A pregnant woman with hypothyroidism has elevated TSH in early pregnancy. What is the usual treatment?",
+  "options": {
+   "A": "Levothyroxine",
+   "B": "Methimazole in every case",
+   "C": "Oxytocin",
+   "D": "Radioactive iodine",
+   "E": "Warfarin"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Levothyroxine is given, with the dose usually increased by 25 to 50% in pregnancy and TSH monitored every 4 to 6 weeks.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02645"
+  ],
+  "stem": "If a patient is diagnosed with hyperparathyroidism during pregnancy, which is the possible risk for the infant?",
+  "options": {
+   "A": "Hyaline membrane disease",
+   "B": "Neonatal tetany",
+   "C": "Hyperglycaemia",
+   "D": "Malabsorption syndrome",
+   "E": "Respiratory distress syndrome"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Maternal hypercalcaemia suppresses fetal parathyroid tissue, so after birth the neonate develops hypocalcaemia and tetany.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01824"
+  ],
+  "stem": "You review a 33-year-old woman with congenital heart disease in the antenatal clinic. In planning her management, which step is least appropriate?",
+  "options": {
+   "A": "Booking a detailed fetal cardiology scan",
+   "B": "Avoiding anaemia and prescribing iron if necessary",
+   "C": "Prophylactic antibiotics should operative delivery be required",
+   "D": "A birth pool to provide helpful extra analgesia",
+   "E": "May benefit from a shortened second stage of labour"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Water birth is avoided in cardiac disease because of the cardiovascular load and difficulty in monitoring and resuscitation; the other steps are standard.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01797"
+  ],
+  "stem": "A 25-year-old G2P1 with aortic stenosis is in labour. Maternal effort can be reduced by shortening the second stage with the use of",
+  "options": {
+   "A": "Mid-cavity forceps",
+   "B": "Outlet forceps",
+   "C": "Rotational forceps",
+   "D": "Piper's forceps",
+   "E": "Ventouse delivery"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "The second stage is shortened by outlet (low) forceps, the easiest and least traumatic assisted delivery, avoiding maternal pushing.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02774"
+  ],
+  "stem": "A 25-year-old pregnant woman has mitral stenosis, NYHA class III, heart rate 100/min and basal crepitations. What is the correct management?",
+  "options": {
+   "A": "Bed rest, oxygen, beta blockers and diuretics",
+   "B": "Bed rest, oxygen, calcium channel blockers, diuretics",
+   "C": "Light exercise, oxygen, calcium channel blockers, diuretics",
+   "D": "Prednisolone, oxygen, beta blockers, diuretics",
+   "E": "Light exercise, theophylline, diuretics"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Treatment of symptomatic MS is rest, oxygen, a beta blocker to lengthen diastolic filling and diuretics for pulmonary congestion.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02450"
+  ],
+  "stem": "A 32-year-old pregnant woman with known cardiac disease complains of dyspnoea and orthopnoea. What is the best initial management?",
+  "options": {
+   "A": "Bed rest and oxygen",
+   "B": "Blood transfusion",
+   "C": "IV diuretics and digitalis",
+   "D": "Immediate caesarean section",
+   "E": "Amniocentesis"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Initial management is sitting up, bed rest and oxygen with admission; diuretics are then added if pulmonary congestion persists, and delivery is not an emergency.",
+  "key_note": "Option C is also commonly accepted for frank pulmonary oedema; paper key A kept for initial management.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02484"
+  ],
+  "stem": "A 29-year-old woman at term with mitral stenosis is to have a caesarean section. Which anaesthetic technique is safest?",
+  "options": {
+   "A": "Combined spinal-epidural",
+   "B": "Epidural anaesthesia",
+   "C": "General anaesthesia",
+   "D": "Pudendal block",
+   "E": "Spinal anaesthesia"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Slow-onset epidural avoids abrupt vasodilatation and tachycardia, which cause pulmonary oedema in MS; single-shot spinal and the intubation response of GA are riskier.",
+  "key_note": "Papers disagreed (B in two, C in one, one unmarked); epidural is the standard answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03087"
+  ],
+  "stem": "A 32-year-old G2P1 at 8 weeks has been referred by a cardiologist for termination of pregnancy. Which condition is an absolute contraindication to pregnancy?",
+  "options": {
+   "A": "Social grounds",
+   "B": "Rheumatic heart disease",
+   "C": "Eisenmenger syndrome",
+   "D": "CKD stage 3 on dialysis",
+   "E": "Multiple sclerosis"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Eisenmenger syndrome (and pulmonary hypertension) carries maternal mortality of about 30 to 50%, so pregnancy is contraindicated (WHO class IV).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01782",
+   "C02857"
+  ],
+  "stem": "A 28-year-old known epileptic comes for pre-pregnancy review. You may consider withholding anticonvulsant treatment if she has been seizure free for more than",
+  "options": {
+   "A": "1 year",
+   "B": "2 years",
+   "C": "3 years",
+   "D": "4 years",
+   "E": "5 years"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Drug withdrawal may be tried before conception if she has been seizure free for 2 years.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02451"
+  ],
+  "stem": "A 24-year-old woman with epilepsy is planning pregnancy. Which drug is preferred?",
+  "options": {
+   "A": "Carbamazepine",
+   "B": "Lamotrigine",
+   "C": "Phenobarbital",
+   "D": "Phenytoin"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Lamotrigine monotherapy at the lowest effective dose has the lowest teratogenic risk (carbamazepine is the other acceptable option); valproate is avoided.",
+  "key_note": "One paper marked A (carbamazepine), which is also acceptable but carries a higher risk; lamotrigine preferred. Only four options in the source.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02454"
+  ],
+  "stem": "A 33-year-old woman with chronic renal disease becomes pregnant. Which complication is she most at risk for?",
+  "options": {
+   "A": "Gestational diabetes",
+   "B": "Macrosomia",
+   "C": "Polyhydramnios",
+   "D": "Post-term pregnancy",
+   "E": "Preterm labour"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Chronic renal disease causes IUGR, pre-eclampsia and preterm delivery (iatrogenic or spontaneous), often before 37 weeks.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03042",
+   "C03177"
+  ],
+  "stem": "A 35-year-old nulliparous woman had a renal transplant 6 weeks ago for end-stage renal disease and asks about future pregnancy. How long should she avoid pregnancy after transplant?",
+  "options": {
+   "A": "6 months",
+   "B": "1 year",
+   "C": "1.5 years",
+   "D": "2 years",
+   "E": "5 years"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Pregnancy should be deferred for about 2 years after transplant, until graft function is stable on low-dose immunosuppression.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03093"
+  ],
+  "stem": "A 37-year-old woman who had a renal transplant 2 years ago and is on immunosuppressants plans to conceive. Which drug needs to be discontinued?",
+  "options": {
+   "A": "Azathioprine",
+   "B": "Ciclosporin",
+   "C": "Mycophenolate mofetil",
+   "D": "Prednisolone",
+   "E": "Ramipril"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Mycophenolate is teratogenic and must be stopped at least 6 weeks before conception; azathioprine, ciclosporin and prednisolone are safe. ACE inhibitors are also fetotoxic.",
+  "key_note": "Ramipril (ACE inhibitor) should also be stopped; mycophenolate is the immunosuppressant singled out and matches the paper key.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02453"
+  ],
+  "stem": "A 27-year-old woman with asthma has mild wheezing at 28 weeks. What is the safest drug to use?",
+  "options": {
+   "A": "Montelukast",
+   "B": "Prednisolone",
+   "C": "Salbutamol inhaler",
+   "D": "Salmeterol",
+   "E": "Theophylline"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Inhaled salbutamol is the safe first-line reliever; asthma is managed as in the non-pregnant.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01927",
+   "C01726"
+  ],
+  "stem": "A 35-year-old woman, 12 days postpartum, presents with sudden-onset dyspnoea, chest pain, tachycardia and hypoxia. What is the most likely diagnosis?",
+  "options": {
+   "A": "Acute myocardial infarction",
+   "B": "Amniotic fluid embolism",
+   "C": "Pneumonia",
+   "D": "Pulmonary embolism",
+   "E": "Wound sepsis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "The puerperium is a hypercoagulable state; sudden pleuritic pain with hypoxia and tachycardia at 12 days is pulmonary embolism, whereas amniotic fluid embolism occurs in labour or immediately after delivery.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02731"
+  ],
+  "stem": "A 90 kg P3+0 woman with antiphospholipid syndrome delivered by emergency caesarean for obstructed labour. At follow up she has right leg swelling and pain with low-grade fever, is exclusively breastfeeding and has been on antibiotics for 6 days. What is the most likely cause of fever?",
+  "options": {
+   "A": "Breast engorgement",
+   "B": "Deep vein thrombosis",
+   "C": "Endometritis",
+   "D": "Urinary tract infection",
+   "E": "Wound infection"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Obesity, APS and caesarean make DVT likely, and DVT itself can cause low-grade fever; unilateral leg swelling points to it.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02371"
+  ],
+  "stem": "A 36-year-old at 32 weeks has DVT. Which anticoagulant does not cross the placenta?",
+  "options": {
+   "A": "Warfarin sodium",
+   "B": "Unfractionated heparin",
+   "C": "Aspirin",
+   "D": "Streptokinase",
+   "E": "Dipyridamole"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Heparin is a large, highly charged molecule that does not cross the placenta; warfarin, aspirin and dipyridamole do.",
+  "key_note": "LMWH also does not cross the placenta; among the options heparin is the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01986"
+  ],
+  "stem": "A 38-year-old G5P4 develops left femoral vein thrombosis at 37 weeks and is given LMWH. After delivery she converts to warfarin. Which parameter is monitored to stabilise the dose?",
+  "options": {
+   "A": "APTT",
+   "B": "Anti-Xa level",
+   "C": "INR",
+   "D": "Platelet count",
+   "E": "Total leucocyte count"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Warfarin acts on the extrinsic pathway and is monitored by the INR (target 2 to 3).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03014"
+  ],
+  "stem": "A P3 with BMI 34 kg/m2 underwent emergency caesarean for failed induction due to severe pre-eclampsia. Which do you suggest for thromboprophylaxis?",
+  "options": {
+   "A": "Aspirin",
+   "B": "Clopidogrel",
+   "C": "Enoxaparin",
+   "D": "Rivaroxaban",
+   "E": "Warfarin"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Obesity, pre-eclampsia and emergency caesarean are risk factors, so LMWH (enoxaparin) is given for 10 days to 6 weeks according to the risk score.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02694"
+  ],
+  "stem": "A 38-year-old G6P5 at 8 weeks is obese (BMI 32 kg/m2) with a family history of VTE in first-degree relatives and is at high risk of DVT. From when will you consider LMWH prophylaxis?",
+  "options": {
+   "A": "First trimester",
+   "B": "Second trimester",
+   "C": "Third trimester",
+   "D": "First week postpartum",
+   "E": "Third week postpartum"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "With three or more risk factors (age over 35, BMI over 30, parity 3 or more, family history), LMWH starts in the first trimester (RCOG).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02238"
+  ],
+  "stem": "A 35-year-old G5P1+3 at 20 weeks has antiphospholipid syndrome. During pregnancy she is at risk of developing",
+  "options": {
+   "A": "Gestational diabetes",
+   "B": "Polyhydramnios",
+   "C": "Pre-eclampsia",
+   "D": "Deep venous thrombosis",
+   "E": "Anaemia"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "APS is a prothrombotic state with risks of venous thrombosis, miscarriage, early severe pre-eclampsia and growth restriction.",
+  "key_note": "Pre-eclampsia is also a recognised risk; the paper key D (thrombosis) was marked and is the defining feature.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02781"
+  ],
+  "stem": "A 34-year-old G6P3+2 with no living issue is admitted at 34 weeks with bad obstetric history, and undiagnosed SLE is found. She develops DVT. Which thrombophilia is commonly associated with her condition?",
+  "options": {
+   "A": "Antiphospholipid syndrome",
+   "B": "Activated protein C resistance",
+   "C": "Factor V Leiden",
+   "D": "Prothrombin gene mutation",
+   "E": "Protein S deficiency"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "SLE is commonly associated with antiphospholipid antibodies, causing recurrent miscarriage, thrombosis and fetal loss.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02625"
+  ],
+  "stem": "A 30-year-old pregnant woman at 34 weeks presents with severe itching, especially of the palms and soles. Which laboratory test is most helpful for diagnosis?",
+  "options": {
+   "A": "Complete blood count",
+   "B": "Liver function tests and bile acids",
+   "C": "Urine dipstick",
+   "D": "Coagulation profile",
+   "E": "Blood sugar level"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Raised serum bile acids and deranged transaminases confirm obstetric cholestasis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03165"
+  ],
+  "stem": "Obstetric cholestasis affects 0.7% of pregnancies. It normally presents",
+  "options": {
+   "A": "In the first half of pregnancy with pruritus and abnormal LFTs",
+   "B": "In the second half of pregnancy with pruritus and abnormal LFTs",
+   "C": "During labour pain",
+   "D": "24 hours after delivery",
+   "E": "6 weeks after delivery"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "It typically presents after 28 weeks (third trimester) with pruritus and abnormal LFTs, resolving after delivery.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03174"
+  ],
+  "stem": "What is the incidence of obstetric cholestasis?",
+  "options": {
+   "A": "0.2 to 0.3%",
+   "B": "0.7%",
+   "C": "1 to 3%",
+   "D": "2 to 5%",
+   "E": "6 to 8%"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "The UK incidence is about 0.7%, higher in South Asian women (about 1.2 to 1.5%).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02409",
+   "C02671"
+  ],
+  "stem": "A 25-year-old primigravida at 32 weeks has generalised itching without rash. ALT is 70 and AST 78, hepatitis B and C screens are negative and abdominal ultrasound is normal. Which treatment has proven benefit?",
+  "options": {
+   "A": "Cholestyramine",
+   "B": "Antihistamines",
+   "C": "Ursodeoxycholic acid",
+   "D": "Menthol ointments",
+   "E": "Vitamin K supplements"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Ursodeoxycholic acid is the standard treatment for obstetric cholestasis and improves pruritus and LFTs; antihistamines and emollients give only symptomatic relief.",
+  "key_note": "Recent trials (PITCHES) question its benefit for pruritus, but UDCA remains the exam answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03005"
+  ],
+  "stem": "A 29-year-old G2P1 at 20 weeks has fever, epigastric pain, nausea and vomiting and is mildly jaundiced. Hb 10 g/dl, TLC 20 x 10^3/dl, AST 1000 iu/L, ALT 1200 iu/L, bilirubin 4 mg/dl, blood sugar 100 mg/dl. What is the likely cause?",
+  "options": {
+   "A": "Acute viral hepatitis",
+   "B": "Acute fatty liver of pregnancy",
+   "C": "Cholestasis of pregnancy",
+   "D": "Mesenteric ischaemia",
+   "E": "Perforated peptic ulcer"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Fever, jaundice and transaminases in the thousands at 20 weeks fit acute viral hepatitis (e.g. hepatitis E); AFLP occurs in the third trimester with hypoglycaemia and coagulopathy, and cholestasis has a mild enzyme rise.",
+  "key_note": "Stem printed 'AST' twice; read as AST and ALT.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02300",
+   "C02908"
+  ],
+  "stem": "A woman has breathing difficulty with frothy sputum (the rest of the scenario was not recalled). What is the likely diagnosis?",
+  "options": {
+   "A": "Pneumonia",
+   "B": "Bronchitis",
+   "C": "Pulmonary oedema",
+   "D": "Pneumothorax"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Frothy (pink) sputum with breathlessness is the hallmark of acute pulmonary oedema, e.g. cardiac failure in mitral stenosis or pre-eclampsia.",
+  "key_note": "Incomplete recall question; only four options in the source.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03136"
+  ],
+  "stem": "A 35-year-old G3P2 at 36 weeks suddenly becomes breathless with chest pain, cyanosed and collapses. BP 80/50 mmHg, HR 140/min, SpO2 82% on air; ECG shows sinus tachycardia, right axis deviation and S1Q3T3. There is no uterine tenderness or vaginal bleeding and the CTG shows late decelerations. What is the cause of her collapse?",
+  "options": {
+   "A": "Amniotic fluid embolism",
+   "B": "Peripartum cardiomyopathy",
+   "C": "Eclampsia",
+   "D": "Myocardial infarction",
+   "E": "Placental abruption"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Sudden cardiorespiratory collapse with hypoxia and fetal distress in a pregnant woman suggests amniotic fluid embolism; the S1Q3T3 strain pattern is non-specific right heart strain.",
+  "key_note": "Marked answer A is kept, but this picture is equally typical of massive pulmonary embolism, which is not offered as an option; flawed question.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03003"
+  ],
+  "stem": "A surgeon seeks your opinion on a 24-year-old at 10 weeks with acute appendicitis. She is febrile with TLC 19 x 10^9/L and an ultrasound shows a live intrauterine fetus. What is the correct management?",
+  "options": {
+   "A": "Defer surgery till 13 weeks",
+   "B": "Offer termination of pregnancy and proceed with appendicectomy",
+   "C": "Plan appendicectomy after the birth",
+   "D": "Proceed to appendicectomy with progesterone support",
+   "E": "Repeat investigations and reassess after 48 hours"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Appendicitis in pregnancy needs prompt appendicectomy, as delay and perforation raise fetal loss; pregnancy need not be terminated.",
+  "key_note": "Progesterone support is optional supportive care; the principle is not to delay surgery.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03084"
+  ],
+  "stem": "A 24-year-old primigravida at 33 weeks has vomiting and severe right iliac fossa pain, BP 110/70, pulse 100, temperature 37.9 C and localised rigidity. Ultrasound shows an enlarged non-compressible appendix. The surgeon asks about delivery. What is your advice?",
+  "options": {
+   "A": "Caesarean section only if the appendix appears inflamed at operation",
+   "B": "Do appendicectomy and wait for spontaneous onset of labour",
+   "C": "Caesarean section before the appendicectomy",
+   "D": "Caesarean section after the appendicectomy",
+   "E": "Caesarean section at the time of appendicectomy"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Appendicectomy is done as for a non-pregnant woman and delivery is by obstetric indication only; caesarean is not indicated for appendicitis.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02951"
+  ],
+  "stem": "A 28-year-old G2P1 at 32 weeks presents with lower abdominal pain. Ultrasound shows a single intrauterine pregnancy and a large 8 x 8 cm intramural uterine fibroid. The most unlikely cause of the pain is",
+  "options": {
+   "A": "Placental abruption",
+   "B": "Red degeneration of the fibroid",
+   "C": "Preterm labour",
+   "D": "Urinary tract infection",
+   "E": "Torsion of the fibroid"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Torsion occurs only in pedunculated (subserosal) fibroids, so it is the least likely in an intramural one; red degeneration is the commonest cause of pain.",
+  "key_note": "Two papers marked B (red degeneration), which is the most common cause and so cannot answer a 'most unlikely' question; correct is E.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03103",
+   "C03173"
+  ],
+  "stem": "A 28-year-old woman at 24 weeks has acute abdominal pain, a 5 x 5 cm intramural fibroid on ultrasound, low-grade fever and TLC 10,000. What is the most likely diagnosis?",
+  "options": {
+   "A": "Preterm labour",
+   "B": "Torsion of fibroid",
+   "C": "Red degeneration of fibroid",
+   "D": "Infection in fibroid",
+   "E": "Cystitis"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Red degeneration (carneous degeneration) usually occurs in the second trimester with pain, low-grade fever and mild leucocytosis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02397"
+  ],
+  "stem": "A 23-year-old G1P0 at 28 weeks has a 1-hour glucose test of 128, haemoglobin 10.8 and platelets 80,000 two weeks ago. BP is 120/70 with a negative urine dip. She is asymptomatic apart from occasional epistaxis. What treatment should you recommend for the thrombocytopenia?",
+  "options": {
+   "A": "No treatment is necessary",
+   "B": "Stop vitamins",
+   "C": "Oral corticosteroids",
+   "D": "Intravenous immunoglobulin",
+   "E": "Splenectomy"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Mild asymptomatic thrombocytopenia (above 50,000) with normal BP is usually gestational thrombocytopenia or mild ITP and needs only observation; treatment starts below about 30,000 or before delivery if below 50,000.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01026"
+  ],
+  "stem": "A 38-year-old G6P5 at 24 weeks has a BMI of 32 kg/m2 and a normal growth scan. Keeping in view these risk factors, how will you start thromboprophylaxis?",
+  "options": {
+   "A": "From 32 weeks with warfarin",
+   "B": "From 28 weeks with LMWH",
+   "C": "No need of thromboprophylaxis",
+   "D": "From 32 weeks with LMWH",
+   "E": "From 28 weeks with warfarin"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Parity of 3 or more plus BMI of 30 or more gives two risk factors, so LMWH is started from 28 weeks (RCOG); warfarin is avoided in pregnancy.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01976"
+  ],
+  "stem": "A 30-year-old G3P1+1 at 30 weeks has epigastric pain radiating to the back with nausea and vomiting for one day. She has had cholelithiasis for 2 years. She is febrile, tachycardic and tender. Fundal height is 32 cm, FHR present, LFTs deranged, serum amylase 500 U/L and lipase 681 U/L. What is the most likely diagnosis?",
+  "options": {
+   "A": "Acute fatty liver",
+   "B": "Gastritis",
+   "C": "Hepatitis",
+   "D": "Pre-eclampsia",
+   "E": "Acute pancreatitis"
+  },
+  "answer": "E",
+  "explanation": "Pain radiating to the back with gallstones and amylase/lipase elevated well above normal is gallstone pancreatitis.",
+  "key_note": "",
+  "figure": ""
+ }
+]

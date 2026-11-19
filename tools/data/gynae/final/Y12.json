@@ -1,0 +1,1063 @@
+[
+ {
+  "cids": [
+   "C01839"
+  ],
+  "stem": "How do nabothian cysts occur?",
+  "options": {
+   "A": "Wolffian duct remnants",
+   "B": "blockage of crypts in the uterine cervix",
+   "C": "squamous cell debris that causes cervical irritation",
+   "D": "carcinoma",
+   "E": "paramesonephric remnants"
+  },
+  "answer": "B",
+  "explanation": "Nabothian follicles form when squamous epithelium overgrows and blocks the columnar crypts of the transformation zone, so mucus is retained as small benign cysts. They need no treatment.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02037"
+  ],
+  "stem": "A 22 year old lady has come with complaints of post coital and inter menstrual bleeding for 6 months. On speculum examination there is cervical ectopy with regular margins and rough surface which bleeds to touch. She appears to be a very non-compliant patient. In order to diagnose you will perform:",
+  "options": {
+   "A": "Pap smear and colposcopy",
+   "B": "Hysteroscopy and biopsy",
+   "C": "Ultrasound abdomen and pelvis",
+   "D": "MRI with contrast",
+   "E": "Laparoscopy"
+  },
+  "answer": "A",
+  "explanation": "A bleeding ectopic-looking cervix with postcoital bleeding needs cytology and colposcopy to exclude CIN or cancer before the bleeding is blamed on simple ectopy.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02928"
+  ],
+  "stem": "A 30-year-old female came with complaint of an excessive clear odorless mucoid discharge. On per speculum examination, A circular red area surrounding the external cervical os is visible. How will you treat this patient.",
+  "options": {
+   "A": "Estrogen based contraceptive pill",
+   "B": "Cervical amputation",
+   "C": "Colposcopy",
+   "D": "Cervical ablation",
+   "E": "Cone biopsy"
+  },
+  "answer": "D",
+  "explanation": "Symptomatic cervical ectropion with troublesome mucoid discharge is treated by ablation (cautery, cryotherapy or cold coagulation) once a normal smear is confirmed. Oestrogen-containing pills would aggravate it.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01952",
+   "C02112"
+  ],
+  "stem": "A 26 years old lady presents in OPD with history of irregular uterine bleeding. There is history of inter menstrual and post coital bleeding for last 3 months. Her USG pelvis done 6 months back was normal. Which is the most likely causes?",
+  "options": {
+   "A": "Fibroid uterus",
+   "B": "Adenomyosis",
+   "C": "Nabothian follicles",
+   "D": "Cervical polyp",
+   "E": "Cervical stenosis"
+  },
+  "answer": "D",
+  "explanation": "Intermenstrual and postcoital bleeding with a normal earlier ultrasound points to a cervical polyp, a friable pedunculated growth from the endocervix. Fibroids and adenomyosis do not cause postcoital bleeding.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02096"
+  ],
+  "stem": "A 28 years old lady presents in OPD with history of irregular vaginal bleeding for last 2 months. In speculum examination you observe a fleshy 4x4 cm mass protruding from cervix. Your diagnosis in this patient is",
+  "options": {
+   "A": "Endometrial polyp",
+   "B": "Endometriosis",
+   "C": "Endometritis",
+   "D": "Adenomyosis",
+   "E": "Intramural fibroid"
+  },
+  "answer": "A",
+  "explanation": "A fleshy mass protruding through the cervix with irregular bleeding is a polyp; of the options only the endometrial polyp fits, since a large endometrial polyp can prolapse through the os.",
+  "key_note": "Source key (A) kept; a cervical polyp would be equally typical but is not offered.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00362"
+  ],
+  "stem": "A red lesion protruding from the external os is most likely which of the following?",
+  "options": {},
+  "answer": null,
+  "explanation": "A red, soft, pedunculated lesion protruding from the external os is a cervical polyp; it bleeds on contact and is removed by polypectomy.",
+  "key_note": "Options not available in the source; recall question.",
+  "figure": "",
+  "answer_text": "Cervical polyp"
+ },
+ {
+  "cids": [
+   "C00256",
+   "C00262",
+   "C00141"
+  ],
+  "stem": "A 29-year-old P1+0 presents in OPD with history of intermenstrual bleeding for the last 6 months. On speculum examination, a polyp is seen at the cervical os. Management in this case will be:",
+  "options": {
+   "A": "Perform TVS to see the origin of polyp",
+   "B": "Give tranexamic acid to stop bleeding",
+   "C": "Perform polypectomy and diagnostic D & C",
+   "D": "Perform PAP smear of the patient",
+   "E": "Reassess the patient after 1 week"
+  },
+  "answer": "C",
+  "explanation": "A symptomatic cervical polyp is removed with histology, and with intermenstrual bleeding a diagnostic D&C excludes endometrial pathology. Polypectomy alone or a smear alone does not address the whole cause.",
+  "key_note": "Not marked in some papers; answer C is the key shown in the others (standard exam teaching).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01580"
+  ],
+  "stem": "A 34 yrs old nulliparous lady presents with feeling heaviness in lower abdomen .She doesn’t give h/o heavy menstrual bleed and has a regular menstrual cycle. On examination you feel an irregular firm mass arising from the pelvis about 18 weeks size which is non-tender. Which of the following is the most likely cause of mass in her case?",
+  "options": {
+   "A": "Ovarian cyst",
+   "B": "Pregnancy",
+   "C": "Fibroid uterus",
+   "D": "Ectopic pregnancy",
+   "E": "Retention of urine"
+  },
+  "answer": "C",
+  "explanation": "A firm, irregular, non-tender pelvic mass in a nulliparous woman is a fibroid uterus until proven otherwise; pregnancy and retention of urine would be soft or cystic.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02119",
+   "C02099"
+  ],
+  "stem": "A young 26 years old girl presents with heavy menstrual bleeding, mass about 18 weeks size appears to arise from hypogastrium. The most likely diagnosis is",
+  "options": {
+   "A": "Endometriosis",
+   "B": "Adenomyosis",
+   "C": "Pelvic inflammatory disease",
+   "D": "Fibroid uterus",
+   "E": "Ca-endometrium"
+  },
+  "answer": "D",
+  "explanation": "Menorrhagia with an 18-week-size hypogastric mass in a young woman is most likely fibroid uterus.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02197"
+  ],
+  "stem": "A P2 woman married for the last 7 years has come for her subfertility workup. She also complains of abdominal fullness in her lower region with frequency of urine. Her cycles are regular but heavy associated with clots. She is pale. On speculum examination her cervix appears normal. Bimanual examination showed uterus of 12-week size with irregular nodularity, firm in consistency and mobile, there is fullness in posterior fornix. Your most likely diagnosis will be",
+  "options": {
+   "A": "Pelvic inflammatory disease",
+   "B": "Fibroid uterus",
+   "C": "Endometriosis",
+   "D": "Adenomyosis",
+   "E": "Ovarian mass"
+  },
+  "answer": "B",
+  "explanation": "A nodular, firm, mobile enlarged uterus with heavy regular periods, urinary frequency and subfertility is a fibroid uterus.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02192"
+  ],
+  "stem": "A 34 years old mother of one child complains of pain lower abdomen and increased frequency of micturition for 6months. She is having regular menstrual cycle with average flow and she is not practicing any contraception. Her physical examination reveals 20weeks size mass arising from pelvis, firm, mobile, nontender, not separable from uterus. Most likely diagnosis is",
+  "options": {
+   "A": "Adenomyosis",
+   "B": "Endometrioma",
+   "C": "Ovarian cyst",
+   "D": "Endometrial polyp",
+   "E": "Subserous myoma"
+  },
+  "answer": "E",
+  "explanation": "A firm, mobile, non-tender mass not separable from the uterus, with regular normal periods and bladder pressure symptoms, is a subserous fibroid.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01581"
+  ],
+  "stem": "A 36 yrs old nulliparous lady presents with feeling heaviness in lower abdomen .She doesn’t give h/o heavy menstrual bleed and has a regular menstrual cycle. On examination you feel an irregular firm mass arising from the pelvis about 20 weeks size which is non-tender. You diagnose her as a case of fibroid uterus. Which of the following is the most likely Type of fibroid in her case?",
+  "options": {
+   "A": "Submucous",
+   "B": "Intramural",
+   "C": "Pedunculated",
+   "D": "Subserous",
+   "E": "Intracavity"
+  },
+  "answer": "D",
+  "explanation": "Large fibroids causing heaviness and pressure without menstrual disturbance are typically subserous, as they do not distort the endometrial cavity.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00043"
+  ],
+  "stem": "A 32 years old P1+0 presents in OPD with history of heavy cyclical menstrual bleeding. You suspect fibroid uterus in this patient. Which type of fibroid is usually associated with menorrhagia",
+  "options": {
+   "A": "Submucosal",
+   "B": "Intramural",
+   "C": "Pedunculated",
+   "D": "Subserosal",
+   "E": "Cervical"
+  },
+  "answer": "A",
+  "explanation": "Submucous fibroids distort the cavity and enlarge the bleeding surface, so they are the type most associated with menorrhagia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02154"
+  ],
+  "stem": "A 28 years old lady presents in OPD with USG report showing multiple fibroids. The menstrual pattern associated with sub mucous fibroid uterus is",
+  "options": {
+   "A": "Intermenstrual bleeding",
+   "B": "Postcoital bleeding",
+   "C": "Regular heavy bleeding",
+   "D": "Prolonged frequent menstruation",
+   "E": "Scanty menstruation"
+  },
+  "answer": "C",
+  "explanation": "Submucous fibroids classically cause regular heavy periods (menorrhagia), though intermenstrual bleeding can also occur.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01486"
+  ],
+  "stem": "Submucous fibroids are NOT associated with which of the following presentations?",
+  "options": {
+   "A": "Intermenstrual bleeding",
+   "B": "Subfertility",
+   "C": "Pregnancy loss",
+   "D": "Heavy menstrual bleeding",
+   "E": "Pressure sensation"
+  },
+  "answer": "E",
+  "explanation": "Submucous fibroids cause menorrhagia, intermenstrual bleeding, subfertility and pregnancy loss; pressure symptoms come from large subserous or intramural fibroids.",
+  "key_note": "Some papers asked the reverse form (subserous fibroids are associated with); the answer is again pressure sensation.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02100"
+  ],
+  "stem": "A G3P2+0 presents in OPD with history of menorrhagia. On pelvic ultrasound a large 10x12 cm intramural fibroid is diagnosed. This much size of fibroid can lead to",
+  "options": {
+   "A": "Pressure symptoms",
+   "B": "Indigestion",
+   "C": "Referred pain to legs",
+   "D": "Diarrhea",
+   "E": "Backache"
+  },
+  "answer": "A",
+  "explanation": "A 10 x 12 cm fibroid acts as a pelvic mass compressing the bladder and rectum; pressure symptoms are its commonest consequence.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01467"
+  ],
+  "stem": "A 49 years old P4+2 came to OPD with the complaint of heavy menstrual flow for the last 3 years. On examination uterus is 16 weeks size, anteverted, mobile. The first line investigation would be:",
+  "options": {
+   "A": "Pelvic ultrasound",
+   "B": "Computed tomography",
+   "C": "Hysterosonogram",
+   "D": "Magnetic resonance imaging",
+   "E": "Laparoscopic biopsy"
+  },
+  "answer": "A",
+  "explanation": "Pelvic ultrasound is the first-line investigation for an enlarged uterus with heavy bleeding; MRI or CT is reserved for problem solving.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00742"
+  ],
+  "stem": "Leiomyomas account for 2 to 3 percent of infertility cases. Which of the following describes the mechanism by which leiomyomas may disrupt fertility?",
+  "options": {
+   "A": "Decrease the tubal motility",
+   "B": "Decrease the chances of ovulation",
+   "C": "Disruption of implantation",
+   "D": "Thickness of cervical mucous",
+   "E": "Cause cervical stenosis"
+  },
+  "answer": "C",
+  "explanation": "Fibroids, especially submucous and large intramural ones, impair fertility mainly by distorting the endometrial cavity and disrupting implantation; they also may obstruct tubal ostia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01269"
+  ],
+  "stem": "A young nulliparous lady married for three years has come to OPD as a diagnosed case of fibroid. What would be the most likely location of fibroid in view of her subfertility:",
+  "options": {
+   "A": "Subserosal",
+   "B": "Intramural",
+   "C": "Submucosal",
+   "D": "Cervical",
+   "E": "Broad ligament fibroid"
+  },
+  "answer": "C",
+  "explanation": "A submucous fibroid distorts the cavity and interferes with implantation, so it is the type most likely to cause subfertility.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01155"
+  ],
+  "stem": "A 38-year-old P4 presents to the gynaecology OPD with regular heavy menstrual bleeding for the last 5 months. She looks pale, the abdomen is soft and non-tender, and bimanual examination shows a bulky uterus. What is the immediate next step in management?",
+  "options": {
+   "A": "Complete blood picture",
+   "B": "Endometrial sampling",
+   "C": "Hysteroscopy",
+   "D": "Ultrasound pelvis",
+   "E": "Pap's smear"
+  },
+  "answer": "A",
+  "explanation": "A pale woman with heavy regular bleeding needs a full blood count first to assess anaemia; ultrasound and endometrial assessment follow.",
+  "key_note": "Source key (A) kept.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00266",
+   "C01425",
+   "C00935",
+   "C02572"
+  ],
+  "stem": "A 25-year-old G2 P1 at 25 weeks of gestation presents with sudden abdominal pain and fever. The uterus is tender and a uterine fibroid was seen on the anomaly scan. What is the most likely diagnosis?",
+  "options": {
+   "A": "Appendicitis",
+   "B": "Red degeneration of fibroid",
+   "C": "Hyaline degeneration of fibroid",
+   "D": "Diverticulitis",
+   "E": "Ovarian cyst torsion"
+  },
+  "answer": "B",
+  "explanation": "Sudden pain, fever and a tender uterus in mid-pregnancy with a known fibroid is red (carneous) degeneration from haemorrhagic infarction, managed conservatively.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00434",
+   "C01489"
+  ],
+  "stem": "Which type of degeneration of a fibroid is most common during pregnancy?",
+  "options": {
+   "A": "Hyaline degeneration",
+   "B": "Calcified degeneration",
+   "C": "Red degeneration",
+   "D": "Cystic degeneration",
+   "E": "Sarcomatous degeneration"
+  },
+  "answer": "C",
+  "explanation": "Red (carneous) degeneration is the commonest complication of a fibroid in pregnancy, due to venous infarction and haemorrhage within the tumour.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01582"
+  ],
+  "stem": "A 28 yrs old primigravida attends emergency with a h/o 32 weeks pregnancy and severe abdominal pain. On detailed history she gives h/o having a fibroid uterus. You examine her; the uterus is soft but tender on the right uterine wall. You diagnose her as a case degeneration of fibroid. Which of the following is the most suitable treatment of fibroid in her case?",
+  "options": {
+   "A": "Laparotomy",
+   "B": "Myomectomy",
+   "C": "Uterine artery embolization",
+   "D": "Intravenous fluids and analgesia",
+   "E": "Laparoscopic myomectomy"
+  },
+  "answer": "D",
+  "explanation": "Red degeneration is self-limiting and is treated conservatively with rest, hydration and analgesia; surgery is avoided in pregnancy.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02098",
+   "C00268",
+   "C01459",
+   "C01809",
+   "C02193",
+   "C01875",
+   "C01252",
+   "C01271"
+  ],
+  "stem": "A 33 years old lady presents in OPD for her regular gynaecological checkup. Her ultrasound report shows an intramural fibroid of 3x2 cm. But patient is asymptomatic. Your management in this patient will be",
+  "options": {
+   "A": "Combined oral contraceptives for 3 months",
+   "B": "Progestogen only pills for 3 months",
+   "C": "GnRH analogues",
+   "D": "Conservative",
+   "E": "Myomectomy"
+  },
+  "answer": "D",
+  "explanation": "An asymptomatic small intramural fibroid needs no treatment, only reassurance and follow-up.",
+  "key_note": "Not marked in one paper; conservative in the others.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02101"
+  ],
+  "stem": "A nulliparous 28 years old lady presents in OPD with ultrasound report showing 1x1 cm intramural fibroid. She wants to conceive. Your plan of management regarding fibroid in this patient will be",
+  "options": {
+   "A": "Myomectomy",
+   "B": "Dilatation and curettage",
+   "C": "Laparoscopic removal",
+   "D": "Conservative management",
+   "E": "Combined oral contraceptives"
+  },
+  "answer": "D",
+  "explanation": "A 1 cm intramural fibroid does not distort the cavity or impair fertility, so no surgery is needed.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00065",
+   "C01227"
+  ],
+  "stem": "A 35 years old P2+0 presents with ultrasound report showing large fundal fibroid. You plan for myomectomy. To reduce the size of myoma prior to surgery you advise this patient with",
+  "options": {
+   "A": "GnRH analogues",
+   "B": "Tranexamic acid",
+   "C": "NSAID's",
+   "D": "Mefenamic acid",
+   "E": "Progestogens"
+  },
+  "answer": "A",
+  "explanation": "GnRH analogues shrink fibroids and correct anaemia for 3-6 months pre-operatively, easing surgery; tranexamic acid and NSAIDs reduce bleeding but not size.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01739"
+  ],
+  "stem": "A lecturer 34 years of age reports with H/O HMB acne and weight gain for the last one year, on USG she is diagnosed to have a single 08 cms fibroid in the uterus, she is advised myomectomy. She wants operation to be delayed for a month as she has to attend a conference next month but she is worried about HMB. Which one of the following medical treatment is best for her for a month:",
+  "options": {
+   "A": "COC pills",
+   "B": "Danazol",
+   "C": "GnRH- analogue single injection 3.75 mgs S/C",
+   "D": "Progesterone antagonist",
+   "E": "Selective progesterone receptor modulator"
+  },
+  "answer": "C",
+  "explanation": "A single depot GnRH analogue injection quickly stops heavy bleeding and shrinks the fibroid, a good short-term bridge before surgery.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01953"
+  ],
+  "stem": "A 30 years old lady presents with history of heavy menstrual bleeding. Her investigation reveals submucous fibroid of 12 cm. Which of the following medical treatment will be effective in this patient",
+  "options": {
+   "A": "Tranexamic acid",
+   "B": "Mefenamic acid (Ponstan Forte)",
+   "C": "Combined contraceptive pill",
+   "D": "Levonorgestrel intrauterine system",
+   "E": "Gonadotrophin releasing hormone agonist"
+  },
+  "answer": "E",
+  "explanation": "A large submucous fibroid distorts the cavity so LNG-IUS and the COCP are ineffective; a GnRH agonist is the medical option that shrinks the fibroid and controls bleeding.",
+  "key_note": "Source key (E) kept.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00021",
+   "C00725"
+  ],
+  "stem": "A 45 year lady presents with continuous irregular bleeding and is diagnosed as having a small fibroid uterus inside uterine cavity. Her appropriate treatment would be",
+  "options": {
+   "A": "Combined oral contraceptive",
+   "B": "Danazol",
+   "C": "GnRH analogue",
+   "D": "Hysteroscopy",
+   "E": "Total abdominal hysterectomy"
+  },
+  "answer": "D",
+  "explanation": "A small submucous fibroid within the cavity causing irregular bleeding is treated by hysteroscopic resection, the minimally invasive option.",
+  "key_note": "One paper key marked E (total abdominal hysterectomy); correct is D: a small intracavity fibroid is treated by hysteroscopic resection, not hysterectomy.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02097"
+  ],
+  "stem": "A 30 years old nulliparous female presents in OPD with history of cyclical heavy menstrual blood loss. On investigation submucosal fibroid is found. Which procedure will help you to confirm diagnosis and treat her at the same time",
+  "options": {
+   "A": "Pelvic ultrasound",
+   "B": "Hysteroscopy",
+   "C": "Laparoscopy",
+   "D": "Transvaginal scan",
+   "E": "Saline sonography"
+  },
+  "answer": "B",
+  "explanation": "Hysteroscopy both confirms a submucosal fibroid and allows resection at the same sitting, whereas ultrasound or saline sonography are diagnostic only.",
+  "key_note": "Not marked in one paper; hysteroscopy in the others.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00308",
+   "C00257",
+   "C00302"
+  ],
+  "stem": "A 34-year-old woman, para 0, presents with heavy menstrual bleeding, dysmenorrhea, and pelvic pressure for 8 months. Examination reveals a firm, irregular, non-tender mass arising from the pelvis, about 14-week size. Transvaginal ultrasound shows intramural fibroid, the largest measuring 9x8 cm, and endometrial thickness is normal. Hemoglobin is 9 g/dL. She is keen to conceive. What is the most appropriate next step in management?",
+  "options": {
+   "A": "Total abdominal hysterectomy",
+   "B": "Myomectomy",
+   "C": "Uterine artery embolization",
+   "D": "Combined oral contraceptive pills",
+   "E": "GnRH agonist for 6 months"
+  },
+  "answer": "B",
+  "explanation": "A 9 x 8 cm symptomatic intramural fibroid with anaemia in a nulliparous woman wanting to conceive is treated by myomectomy; hysterectomy and UAE compromise fertility and GnRH only gives temporary shrinkage.",
+  "key_note": "Not marked in some papers; answer B in the others.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00087",
+   "C01181"
+  ],
+  "stem": "A nullipara 27 years of age presents with a 24 weeks mass palpable per abdomen. On USG fibroid uterus is diagnosed. The best management for her would be:",
+  "options": {
+   "A": "Abdominal myomectomy",
+   "B": "Uterine artery embolization",
+   "C": "Magnetic resonance guided focused ultrasound myolysis",
+   "D": "Laparoscopic myomectomy",
+   "E": "Endometrial ablation"
+  },
+  "answer": "A",
+  "explanation": "A very large fibroid (24-week size) in a young nullipara is best removed by open abdominal myomectomy, preserving the uterus; a laparoscopic approach is unsuitable for such size, and UAE or MRgFUS are not suitable for bulky fibroids.",
+  "key_note": "One version of this question was keyed D (laparoscopic myomectomy) and another E (GnRH analogue); correct is A, abdominal myomectomy.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01484",
+   "C00800"
+  ],
+  "stem": "A 25 years old unmarried girl comes to outpatient department with heavy menstrual bleeding and feeling of mass in abdomen for last 1 year. On abdominal examination, she has 28 weeks size uterus. On ultrasound she has single fibroid in the anterior wall of the uterus measuring 20x18 x16 cm. The most optimal treatment option for her will be:",
+  "options": {
+   "A": "Uterine artery embolisation",
+   "B": "Tranexamic acid",
+   "C": "Myomectomy",
+   "D": "Total abdominal hysterectomy",
+   "E": "GnRH analogues"
+  },
+  "answer": "C",
+  "explanation": "In a young unmarried woman fertility must be preserved, so a giant fibroid is treated by myomectomy rather than hysterectomy.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02196"
+  ],
+  "stem": "A 35 years old P2 +3presented in OPD with complains of heavy periods and lower abdominal heaviness. On speculum examination cervix is normal looking and pushed anteriorly. Bimanual examination reveals uterus of 16 weeks size with restricted mobility and posterior bulge, ultrasound showed single fibroid in posterior wall. The best management plan for this patient will be:",
+  "options": {
+   "A": "GnRH Analogue",
+   "B": "Depot medroxy progesterone",
+   "C": "Danazol",
+   "D": "Myomectomy",
+   "E": "Hysterectomy"
+  },
+  "answer": "D",
+  "explanation": "A 35-year-old with a single large fibroid and menorrhagia and parity not yet completed is best treated by myomectomy, preserving the uterus.",
+  "key_note": "Source key (D) kept.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02198"
+  ],
+  "stem": "A 28 years old nulliparous lady presents in OPD for evaluation of her sub fertility. Her all investigations are normal except pelvic USG shows a 7x8 cm fundal fibroid obstructing both fallopian tubes. Management of this patient is",
+  "options": {
+   "A": "Conservative treatment",
+   "B": "laparoscopy",
+   "C": "Myomectomy",
+   "D": "Uterine artery embolization",
+   "E": "Intrauterine insemination"
+  },
+  "answer": "C",
+  "explanation": "A large fundal fibroid obstructing the tubes in a subfertile woman is removed by myomectomy to restore fertility.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00391"
+  ],
+  "stem": "A 32-year-old woman undergoes laparoscopic myomectomy. What is its advantage over open surgery?",
+  "options": {
+   "A": "Fertility preservation",
+   "B": "Risk of recurrence increase",
+   "C": "Shorter recovery time",
+   "D": "Lower post op pain"
+  },
+  "answer": "C",
+  "explanation": "Laparoscopic myomectomy gives less pain, shorter hospital stay and faster recovery than open surgery; fertility outcome and recurrence are similar.",
+  "key_note": "Source key (C) kept; lower post-operative pain is also a recognised advantage.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02242",
+   "C01180"
+  ],
+  "stem": "A 28 years old nulliparous lady presents in OPD with history of heavy menstrual blood loss for last 1 year. On investigation an intramural fibroid of 8X9 cm is found. You plan myomectomy for this patient. Most anticipated complication of myomectomy is",
+  "options": {
+   "A": "Haemorrhage",
+   "B": "Uterine perforation",
+   "C": "Ureteric damage",
+   "D": "Pelvic venous thrombosis",
+   "E": "None"
+  },
+  "answer": "A",
+  "explanation": "Haemorrhage, sometimes requiring hysterectomy, is the commonest and most important complication of myomectomy, especially for large intramural fibroids.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01401",
+   "C02200"
+  ],
+  "stem": "A P6 44 yo previous NVDs presented with HMB for 2 years and pressure symptoms for last 6 months. Ultrasound showing multiple fibroids, largest being measured as 6x 7cm on fundal region. Which surgical option is best for her?",
+  "options": {
+   "A": "TAH",
+   "B": "Myomectomy",
+   "C": "TAH+BSO",
+   "D": "Endometrial resection",
+   "E": "Endometrial ablation"
+  },
+  "answer": "A",
+  "explanation": "A 44-year-old of high parity with fibroids, heavy bleeding and pressure symptoms who has completed her family is best treated by total abdominal hysterectomy; ovaries are usually conserved at this age.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00094"
+  ],
+  "stem": "A 36-year-old nulliparous woman has cyclical heavy menstrual bleeding for 2 years. She is otherwise well, Hb is 9 g/dL and ultrasound shows a single solitary fundal fibroid measuring 4 x 4 cm. She wishes to opt for uterine artery embolization (UAE). Regarding UAE, which of the following statements is correct?",
+  "options": {
+   "A": "It involves embolization of one uterine artery",
+   "B": "There are concerns over effects on future fertility",
+   "C": "More patient satisfaction compared with myomectomy",
+   "D": "Less need for further treatment as compared with myomectomy",
+   "E": "UAE is invasive and needs surgery"
+  },
+  "answer": "B",
+  "explanation": "UAE is minimally invasive and does not need laparotomy, but it carries concerns for fertility and pregnancy and has a higher re-intervention rate than myomectomy; it involves embolising both uterine arteries.",
+  "key_note": "Some papers marked E (invasive, needs surgery) and one paper's NOT-true form marked A; correct is B: UAE is minimally invasive, embolises both arteries, and fertility concerns remain.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00746"
+  ],
+  "stem": "Your 48 year old patient presents with complaints of worsening menorrhagia. She has no other medical problems. Three dimensional sonographic evaluation reveals large submucosal fibroid uterus which of the following is not a suitable choice for medical treatment in this patient?",
+  "options": {
+   "A": "Combined oral contraceptives (COC) pills",
+   "B": "Depot medroxyprogesterone acetate (DMPA)",
+   "C": "Gonadotropin releasing hormone (GnRH) agonist",
+   "D": "Levonorgestrel releasing intrauterine system (LNGIUS)",
+   "E": "Danazol"
+  },
+  "answer": "A",
+  "explanation": "A large submucosal fibroid distorting the cavity needs surgical or hysteroscopic management. GnRH agonist, danazol and DMPA can control bleeding medically, whereas the COCP is the option keyed as unsuitable here.",
+  "key_note": "Source key (A) kept; note LNG-IUS is also unsuitable when the cavity is distorted, so this question is debatable.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00782"
+  ],
+  "stem": "A 40 years old lady, P4, presented in gynae OPD with history of heavy menstrual bleeding for the last 6 months, not responding to medical management. On ultrasound examination, there was a anterior wall fibroid measuring 7x6 cm and another 4cm submucosal posterior wall fibroid. She wanted definitive treatment as it was affecting her quality of life. What is the best treatment option for her?",
+  "options": {
+   "A": "Abdominal hysterectomy",
+   "B": "Myomectomy",
+   "C": "Total laparoscopic hysterectomy",
+   "D": "Uterine artery embolization",
+   "E": "Vaginal hysterectomy"
+  },
+  "answer": "D",
+  "explanation": "With multiple large fibroids and failed medical treatment, UAE is a uterus-conserving definitive option for quality of life.",
+  "key_note": "Source key (D) kept; hysterectomy would be the alternative if childbearing is complete, so the question is debatable.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01210"
+  ],
+  "stem": "A 35 years old P2 presents with history of heavy menstruation for the last 2 years. On examination uterus is of 14 weeks size, irregular and mobile, fornixes clear. Pelvic ultrasound reveals submucouosal fibroid of 10x8 cm displacing the endometrial cavity. Her hemoglobin level is 7.8 gm/dl. The most appropriate treatment for this patient is",
+  "options": {
+   "A": "GnRH analogue",
+   "B": "Mefenamic acid",
+   "C": "Uterine artery embolization",
+   "D": "Hysterectomy",
+   "E": "Myomectomy"
+  },
+  "answer": "E",
+  "explanation": "A large submucous fibroid with severe anaemia in a 35-year-old is treated by myomectomy to conserve the uterus, after correcting anaemia (GnRH analogue may precede surgery).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01156"
+  ],
+  "stem": "38 Years old P4 came to gynaeOPDwith complaint of regular heavy menstrual bleeding for the last 06 months On examination abdomenis soft, bimanual examination reveals bulky non- tenderuterus USG shows bulky uterus with endometrial thickness 6mm.what will be first line management in this case?",
+  "options": {
+   "A": "Combined oral contraceptive pills",
+   "B": "Hysterectomy",
+   "C": "Mefenamic Acid",
+   "D": "Mirena",
+   "E": "Oral progesterone pills"
+  },
+  "answer": "D",
+  "explanation": "Levonorgestrel-releasing IUS is the first-line medical treatment for regular heavy menstrual bleeding in a woman needing no pregnancy, with a normal-sized cavity and endometrial thickness.",
+  "key_note": "Paper key marked C (mefenamic acid); correct is D: LNG-IUS (Mirena) is the first-line treatment for heavy menstrual bleeding per NICE/RCOG and Ten Teachers.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00296",
+   "C02359"
+  ],
+  "stem": "An endometrial sampling is likely to be reported as showing endometrial hyperplasia in a woman who is:",
+  "options": {
+   "A": "Postmenopausal",
+   "B": "Obese",
+   "C": "On combined oral contraceptive pills",
+   "D": "Using intrauterine contraceptive device",
+   "E": "Taking progestogens cyclically"
+  },
+  "answer": "B",
+  "explanation": "Endometrial hyperplasia results from unopposed oestrogen; obesity increases peripheral aromatisation of androgens to oestrone. COCP, progestogens and IUCD protect, and the postmenopausal endometrium is usually atrophic.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02764",
+   "C00735"
+  ],
+  "stem": "A 45 years old lady presents with continuous vaginal bleeding for 1 month. On USG endometrial thickness is 22mm(Hyperplasia).The risk of endometrial carcinoma is the highest with the following histological pattern of endometrial hyperplasia:",
+  "options": {
+   "A": "Simple hyperplasia without atypia",
+   "B": "Simple hyperplasia with atypia",
+   "C": "Complex hyperplasia without atypia",
+   "D": "Complex hyperplasia with atypia"
+  },
+  "answer": "D",
+  "explanation": "Atypia is the main determinant of progression to carcinoma; complex atypical hyperplasia carries the highest risk (about 30% or more).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01320"
+  ],
+  "stem": "A 63-year-old woman with a history of postmenopausal bleeding returns for follow-up. Endometrial biopsy shows endometrial hyperplasia without atypia. She asks what her risk of developing cancer is over 20 years.",
+  "options": {
+   "A": "4%",
+   "B": "12%",
+   "C": "15%",
+   "D": "18%",
+   "E": "20%"
+  },
+  "answer": "A",
+  "explanation": "Endometrial hyperplasia without atypia carries a low risk of progression to cancer, quoted as about 4% over 20 years in the source teaching, versus much higher risk with atypia.",
+  "key_note": "Source key (4%) kept; RCOG quotes roughly 1-3% over 20 years, the lowest option is correct either way.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01321"
+  ],
+  "stem": "A 63 years old woman with a history of postmenopausal bleeding has come for follow-up with histopathology report of endometrial biopsy showing endometrial hyperplasia without atypia. What is your first-line treatment plan for her?",
+  "options": {
+   "A": "Reassurance",
+   "B": "Cyclical progestogens",
+   "C": "Continuous progestogens",
+   "D": "COCPs",
+   "E": "Total abdominal hysterectomy"
+  },
+  "answer": "C",
+  "explanation": "Hyperplasia without atypia is treated medically with progestogens, preferably LNG-IUS (first line) or continuous oral progestogen, with follow-up biopsies. Reassurance alone is inadequate in a symptomatic postmenopausal woman.",
+  "key_note": "Source key (C) kept; LNG-IUS is the first choice in current guidelines but is not offered.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00343",
+   "C01805"
+  ],
+  "stem": "The histopathology report from an endometrial sampling performed on a 42-year-old lady for irregular vaginal bleeding shows simple endometrial hyperplasia. What is the next step in her management?",
+  "options": {
+   "A": "GnRH analogues",
+   "B": "Oral Tranexamic acid",
+   "C": "Cyclical progestogens",
+   "D": "Danazole oral treatment",
+   "E": "Nonsteroidal Antiinflammatory drugs"
+  },
+  "answer": "C",
+  "explanation": "Simple hyperplasia without atypia is treated with progestogens (cyclical or LNG-IUS) to oppose oestrogen and reverse the lesion, with follow-up sampling.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02150"
+  ],
+  "stem": "A 45 years old lady has endometrial sampling for heavy menstrual bleeding Histopathology reveal simple hyperplasia. Next step in the management is",
+  "options": {
+   "A": "Reassure the patient",
+   "B": "Total abdominal hysterectomy",
+   "C": "Radical hysterectomy",
+   "D": "Hysterectomy with pelvic node dissection",
+   "E": "Subtotal hysterectomy"
+  },
+  "answer": "A",
+  "explanation": "Simple hyperplasia without atypia has a very low malignant potential; reassurance with follow-up (or progestogen treatment) is appropriate, and hysterectomy is not indicated.",
+  "key_note": "Source key (A) kept as it is the only conservative option offered; progestogen treatment is the usual active option.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00297"
+  ],
+  "stem": "A 38yrs old lady presents to gynae outpatient with a history of heavy menstrual bleeding. She has a cycle of 8/21 days. Her last period was 1 week back. She had a diagnostic curettage showing simple hyperplasia. She wants treatment for her problem and as well as contraception. Which of the following is her best option of treatment",
+  "options": {
+   "A": "Combined oral contraceptive pills",
+   "B": "Cu T device",
+   "C": "LNG-IUS",
+   "D": "Tranexamic acid",
+   "E": "GnRH Analogue"
+  },
+  "answer": "C",
+  "explanation": "A woman with heavy bleeding, simple hyperplasia and a need for contraception is best treated with the levonorgestrel IUS, which treats menorrhagia, reverses hyperplasia and contracepts.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00337",
+   "C01441"
+  ],
+  "stem": "A 46yrs old lady presents to gynae outpatient with a history of heavy menstrual bleeding. She has a cycle of 10/20 days. Her last period was 1 week back. She had a diagnostic curettage showing complex hyperplasia with atypia. Which of the following is her best option of treatment",
+  "options": {
+   "A": "Endometrial ablation",
+   "B": "Endometrial resection",
+   "C": "Uterine artery embolization",
+   "D": "Total abdominal hysterectomy",
+   "E": "Subtotal abdominal hysterectomy"
+  },
+  "answer": "D",
+  "explanation": "Complex hyperplasia with atypia has a high risk of coexisting or progressing to endometrial cancer, so hysterectomy is indicated in a woman with completed family; ablation and UAE are inappropriate.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00392",
+   "C00394"
+  ],
+  "stem": "Female presented with postmenopausal bleeding, endometrial biopsy show complex atypical hyperplasia best treatment?",
+  "options": {
+   "A": "Cyclical progestins",
+   "B": "D&C only",
+   "C": "Hysteroscopic resection",
+   "D": "Total hysterectomy with BSO",
+   "E": "LNG-IUS"
+  },
+  "answer": "D",
+  "explanation": "Complex atypical hyperplasia in a postmenopausal woman is treated by total hysterectomy with bilateral salpingo-oophorectomy, as an occult carcinoma is frequently present.",
+  "key_note": "Not marked in one version; hysterectomy in the other.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02245"
+  ],
+  "stem": "A 48 years old P5+0 presents in OPD with history of heavy menstrual blood loss for 8 months. Her diagnostic curettage was carried out and report was endometrial carcinoma. The next step in her management is",
+  "options": {
+   "A": "Repeat dilatation and curettage after 6 months",
+   "B": "Reassure her that she will be menopausal in 1-2 years",
+   "C": "Perform PAP smear",
+   "D": "Perform CT scan to extent of disease",
+   "E": "Start Hormonal replacement therapy to the patient"
+  },
+  "answer": "D",
+  "explanation": "Once endometrial carcinoma is confirmed, imaging is done to assess extent of disease (spread) before definitive surgery; reassurance, repeat curettage or HRT are wrong.",
+  "key_note": "Source key (D) kept; MRI pelvis is the preferred local staging imaging in current practice but is not offered.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01225",
+   "C01418"
+  ],
+  "stem": "A 30 years old female complains of amenorrhea after evacuation and curettage for retained products of conception two month back in a private clinic. Her past cycle was regular, she denies any other complaint and required no blood transfusion. The most likely diagnosis will be",
+  "options": {
+   "A": "Asherman syndrome",
+   "B": "Pregnancy",
+   "C": "Kallmann syndrome",
+   "D": "Sheehan's syndrome",
+   "E": "Polycystic ovaries"
+  },
+  "answer": "A",
+  "explanation": "Amenorrhoea after curettage is due to intrauterine adhesions (Asherman syndrome); diagnosis is by hysteroscopy or HSG.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00673",
+   "C01463"
+  ],
+  "stem": "A 46-year-old woman, presents with irregular vaginal bleeding over the past 2 months. She has a BMI of 33 kg/m2 and a history of polycystic ovary syndrome (PCOS). Transvaginal ultrasound shows an endometrial thickness of 10 mm. An endometrial biopsy reveals simple endometrial hyperplasia without atypia. What is the most appropriate next step in management?",
+  "options": {
+   "A": "Total abdominal hysterectomy with bilateral salpingo-oophorectomy",
+   "B": "Start continuous combined oral hormone replacement therapy",
+   "C": "Insert a levonorgestrel-releasing intrauterine system",
+   "D": "Repeat endometrial biopsy in 3 months without treatment",
+   "E": "Prescribe cyclic progestogens for 2 months and discharge"
+  },
+  "answer": "C",
+  "explanation": "Hyperplasia without atypia is treated with progestogen, and the LNG-IUS is the preferred first-line option; repeat biopsy at about 6 months is used to confirm regression.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01211"
+  ],
+  "stem": "A 45 years old P3 has come to OPD with the complaint of heavy menstrual bleeding for the last 2 years. Examination is unremarkable and her ultrasound pelvis shows endometrial thickness of 8mm. She had pipelle biopsy which showed complex hyperplasia with atypia. What is the most appropriate management in her case",
+  "options": {
+   "A": "Total abdominal hysterectomy",
+   "B": "Radical hysterectomy",
+   "C": "Total abdominal hysterectomy with bilateral salpingo oophorectomy",
+   "D": "Hysterectomy with pelvic node dissection",
+   "E": "Subtotal hysterectomy"
+  },
+  "answer": "C",
+  "explanation": "Atypical hyperplasia needs hysterectomy; at 45 years bilateral salpingo-oophorectomy is commonly added, whereas radical hysterectomy and node dissection are not indicated.",
+  "key_note": "Source key (TAH with BSO) kept; TAH alone is also acceptable if ovaries are preserved in a premenopausal woman.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01485",
+   "C00435",
+   "C01490"
+  ],
+  "stem": "A 40 years old P6 presented in outpatient department with C/O heavy menstrual bleeding for 6 months. On ultrasound there is suspicion of endometrial polyp measuring 25x15mm. The most appropriate treatment in this patient will be:",
+  "options": {
+   "A": "Total abdominal hysterectomy",
+   "B": "Combined oral contraceptive pills",
+   "C": "Total Laparoscopic hysterectomy",
+   "D": "Dilatation and curettage with polypectomy",
+   "E": "Hysteroscopic guided polypectomy"
+  },
+  "answer": "E",
+  "explanation": "A 25 mm endometrial polyp causing heavy bleeding is removed by hysteroscopic polypectomy; hysterectomy is excessive for a benign polyp.",
+  "key_note": "One paper used a 30-year-old P2 and another a 40-year-old P6; answer is the same.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01884",
+   "C00216"
+  ],
+  "stem": "A 28 years old married female with subfertility for 2 years has an endometrial polyp of 2 cm. What should be the treatment:",
+  "options": {
+   "A": "hysteroscopy and resection",
+   "B": "hysterectomy",
+   "C": "endometrial ablation"
+  },
+  "answer": "A",
+  "explanation": "A polyp in a subfertile woman is removed by hysteroscopic resection, restoring a normal cavity; hysterectomy and ablation would end fertility.",
+  "key_note": "Not marked in one paper; hysteroscopic resection in the other.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00303"
+  ],
+  "stem": "A 45-year-old woman presents with intermenstrual spotting for the past three months. She is not on hormone replacement therapy. Transvaginal ultrasound shows a focal, hyperechoic endometrial lesion with a vascular stalk on Doppler. What is the most appropriate next step in management?",
+  "options": {
+   "A": "Observe and repeat ultrasound in 6 months",
+   "B": "Start combined oral contraceptive pills",
+   "C": "Schedule endometrial biopsy in the outpatient clinic",
+   "D": "Perform saline sonography",
+   "E": "Proceed with hysteroscopic examination"
+  },
+  "answer": "E",
+  "explanation": "A focal vascular-stalk endometrial lesion on ultrasound is an endometrial polyp; hysteroscopy confirms and removes it in one step, whereas blind biopsy or observation may miss or leave it.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01219"
+  ],
+  "stem": "Mrs XYZ has come to OPD with the C/O intermenstrual bleeding for the last 6 months. Her USG shows endometrial thickness is 7 mm with 10x15mm mass at fundus polyp. Which investigation is considered to be the gold standard for the diagnosis of endometrial polyp.",
+  "options": {
+   "A": "CT scan pelvis",
+   "B": "Transvaginal Ultrasound",
+   "C": "Hysteroscopy",
+   "D": "MRI pelvis",
+   "E": "Diagnostic D&C"
+  },
+  "answer": "C",
+  "explanation": "Hysteroscopy with direct visualisation and directed biopsy is the gold standard for diagnosing endometrial polyps; ultrasound screens but cannot confirm.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01182"
+  ],
+  "stem": "Best management of Asherman's syndrome is",
+  "options": {
+   "A": "Dilatation & curettage+IUCD",
+   "B": "Hysteroscopic adhesiolysis +estrogen therapy",
+   "C": "Estrogen therapy+IUCD",
+   "D": "Hysteroscopic adhesiolysis +IUCD",
+   "E": "Hysteroscopic adhesiolysis followed by insertion of IUCD & estrogen therapy for 03 months."
+  },
+  "answer": "E",
+  "explanation": "Asherman syndrome is treated by hysteroscopic adhesiolysis followed by a mechanical barrier (IUCD or balloon) and oestrogen therapy to promote re-epithelialisation.",
+  "key_note": "",
+  "figure": ""
+ }
+]

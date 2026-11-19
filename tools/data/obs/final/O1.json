@@ -1,0 +1,237 @@
+[
+ {
+  "cids": [
+   "C01838"
+  ],
+  "stem": "A healthy adult female of average height (5 ft 6 in) is most likely to have a pelvic inlet of which Caldwell-Moloy type?",
+  "options": {
+   "A": "Android",
+   "B": "Platypelloid",
+   "C": "Anthropoid",
+   "D": "Gynaecoid",
+   "E": "Triangular"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "The gynaecoid pelvis (about 50% of women) has a round inlet and is the typical female pelvis, the most favourable for vaginal delivery.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01638"
+  ],
+  "stem": "A woman in labour at term has an oval-shaped pelvic inlet on clinical pelvimetry, with the anteroposterior diameter smaller than the transverse diameter. The baby is occipitoposterior. What type of pelvis does she most likely have?",
+  "options": {
+   "A": "Gynaecoid pelvis",
+   "B": "Android pelvis",
+   "C": "Anthropoid pelvis",
+   "D": "Platypelloid pelvis",
+   "E": "Androgenous pelvis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A platypelloid pelvis has a flattened inlet with a short anteroposterior and wide transverse diameter. The anthropoid pelvis is the opposite (AP longer than transverse) and favours occipitoposterior positions.",
+  "key_note": "The stem is internally inconsistent (OP position suggests anthropoid); the paper key D follows the stated AP smaller than transverse, i.e. platypelloid.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01098"
+  ],
+  "stem": "Which of the following is the normal transverse diameter of the pelvic inlet?",
+  "options": {
+   "A": "13.5 cm",
+   "B": "10 cm",
+   "C": "11 cm",
+   "D": "12.5 cm",
+   "E": "10.5 cm"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "The transverse diameter is the widest diameter of the inlet (about 13 to 13.5 cm), whereas the obstetric conjugate is about 11 cm.",
+  "key_note": "Textbooks quote 12.5 to 13.5 cm; the paper key 13.5 cm is kept.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03167"
+  ],
+  "stem": "A primigravida has an adequate pelvic outlet, but there may be a problem in the midpelvis as the head is not engaged at 39 weeks. What is the normal interspinous diameter of a gynaecoid pelvis?",
+  "options": {
+   "A": "5 cm",
+   "B": "8-9 cm",
+   "C": "9-11 cm",
+   "D": "12 cm",
+   "E": "Interspinous diameter is not a useful clinical assessment"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "The interspinous diameter (about 10 to 10.5 cm) is the narrowest part of the pelvic cavity; less than 8 cm suggests midpelvic contraction.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03062"
+  ],
+  "stem": "Which of the following is likely to be associated with a contracted pelvis?",
+  "options": {
+   "A": "Marfan's disease",
+   "B": "Long-standing maternal drug use",
+   "C": "Pendulous abdomen in a primigravida",
+   "D": "Morbidly obese multigravida",
+   "E": "Rickets"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Rickets (vitamin D deficiency) causes pelvic deformity, typically a flat platypelloid pelvis. A pendulous abdomen in a primigravida is a sign that may point to contracted pelvis, not a cause of it.",
+  "key_note": "Some paper keys marked C (pendulous abdomen); correct is E: rickets is the classic cause of a contracted pelvis.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01818"
+  ],
+  "stem": "Which best describes the reproductive history of a woman at 12 weeks of gestation with a previous twin delivery and a stillbirth at 27 weeks?",
+  "options": {
+   "A": "G3P3",
+   "B": "G3P4",
+   "C": "G4P4",
+   "D": "G4P3",
+   "E": "G4P2"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Gravidity counts pregnancies (twin pregnancy, stillbirth, current = 3). Parity counts deliveries beyond viability, so strictly she is G3P2; of the options offered, G3P3 is the only one with the correct gravidity.",
+  "key_note": "Strictly G3P2 (a twin birth counts as one parity), which is not offered; paper key G3P3 is kept as the best available option.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01817"
+  ],
+  "stem": "Which statement is correct regarding calculating the expected date of delivery (EDD)?",
+  "options": {
+   "A": "Pregnancy is dated from conception",
+   "B": "The last menstrual period (LMP) is reliable if the cycles are irregular",
+   "C": "The average length of pregnancy is 280 days",
+   "D": "LMP-defined dates are more accurate than those calculated from ultrasound",
+   "E": "Head circumference may be used to date a pregnancy until 25 weeks"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Pregnancy is dated from the LMP and lasts on average 280 days (40 weeks). Early ultrasound (crown-rump length) is more accurate than LMP, and LMP is unreliable with irregular cycles.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01639"
+  ],
+  "stem": "An 18-year-old G2P1 with the first day of her last menstrual period on May 7 presents for her first antenatal visit at 10 weeks. What is her estimated date of delivery?",
+  "options": {
+   "A": "February 10 of the next year",
+   "B": "February 14 of the next year",
+   "C": "December 10 of the same year",
+   "D": "December 14 of the same year",
+   "E": "December 21 of the same year"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Naegele's rule: add 7 days to the first day of the LMP and subtract 3 months (add 9 months), giving May 7 to February 14 of the next year.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01852",
+   "C01118"
+  ],
+  "stem": "A woman has a positive pregnancy test and her LMP was June 30. Her expected date of delivery is approximately:",
+  "options": {
+   "A": "March 23",
+   "B": "April 7",
+   "C": "March 28",
+   "D": "April 23",
+   "E": "March 7"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Naegele's rule: June 30 plus 7 days minus 3 months gives about April 6 to 7.",
+  "key_note": "One paper key marked C (March 7); correct is A (Naegele's rule). Same question as the O1 item for LMP June 30.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02422"
+  ],
+  "stem": "A 28-year-old at 20 weeks of gestation has a fundal height at the umbilicus. What does this indicate?",
+  "options": {
+   "A": "Fetal demise",
+   "B": "Intrauterine growth restriction",
+   "C": "Multiple pregnancy",
+   "D": "Normal growth",
+   "E": "Polyhydramnios"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "The fundus reaches the umbilicus at about 20 to 22 weeks, and fundal height in cm approximates the gestational age in weeks after 20 weeks, so this is normal.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03168"
+  ],
+  "stem": "In a cephalic presentation, the position is determined by the relationship of which fetal part to the maternal pelvis?",
+  "options": {
+   "A": "Mentum",
+   "B": "Sacrum",
+   "C": "Acromion",
+   "D": "Occiput",
+   "E": "Sinciput"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "The denominator of a vertex presentation is the occiput (mentum in face, sacrum in breech, acromion in shoulder).",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03169"
+  ],
+  "stem": "A labouring patient has a cervix 5 cm dilated, intact membranes and an engaged head. Engagement is best defined as:",
+  "options": {
+   "A": "When the presenting part goes through the pelvic inlet",
+   "B": "When the presenting part is at the level of the ischial spines",
+   "C": "When the greatest biparietal diameter of the fetal head passes through the pelvic inlet",
+   "D": "When the greatest biparietal diameter of the head is at the level of the ischial spines",
+   "E": "When the greatest diameter of the presenting part passes through the narrowest part of the pelvis"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "The head is engaged when its widest transverse diameter (biparietal) has passed through the pelvic inlet, usually felt as less than 2/5 palpable per abdomen.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01100"
+  ],
+  "stem": "A 24-year-old pregnant woman attends for an antenatal check-up; her LMP was 3 March 2020. What is her EDD?",
+  "options": {
+   "A": "10-12-2020",
+   "B": "10-1-2020",
+   "C": "7-11-2020",
+   "D": "7-1-2021",
+   "E": "23-12-2020"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Naegele's rule: add 7 days to the LMP and add 9 months (subtract 3 months): 3 March becomes 10 December 2020.",
+  "key_note": "",
+  "figure": ""
+ }
+]

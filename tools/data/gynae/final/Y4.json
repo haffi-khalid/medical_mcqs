@@ -1,0 +1,1037 @@
+[
+ {
+  "cids": [
+   "C01737"
+  ],
+  "stem": "The average (normal) volume of menstrual blood loss per cycle is about:",
+  "options": {
+   "A": "35 ml",
+   "B": "45 ml",
+   "C": "55 ml",
+   "D": "75 ml",
+   "E": "80 ml"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Normal menstrual loss averages about 30-40 ml per cycle. 80 ml is the upper limit used to define heavy menstrual bleeding, not the normal average.",
+  "key_note": "The paper key marked E (80 ml); correct is A: normal average loss is about 35 ml, and 80 ml is the threshold for menorrhagia.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00751",
+   "C01946",
+   "C02152"
+  ],
+  "stem": "Menorrhagia is defined as menstrual blood loss per cycle greater than:",
+  "options": {
+   "A": "40 ml",
+   "B": "50 ml",
+   "C": "60 ml",
+   "D": "70 ml",
+   "E": "80 ml"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Menorrhagia is objectively defined as blood loss over 80 ml per cycle. Clinically, heavy menstrual bleeding is defined by the woman's own perception of excessive loss that interferes with quality of life.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01337"
+  ],
+  "stem": "In the PALM-COEIN classification of abnormal uterine bleeding, the letter E stands for:",
+  "options": {
+   "A": "Endometriosis",
+   "B": "Endometrial carcinoma",
+   "C": "Endocrine disorders",
+   "D": "Endometrial",
+   "E": "Endometrial hyperplasia"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "PALM-COEIN: Polyp, Adenomyosis, Leiomyoma, Malignancy and hyperplasia, Coagulopathy, Ovulatory dysfunction, Endometrial, Iatrogenic, Not yet classified. E denotes a primary endometrial disorder.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01339"
+  ],
+  "stem": "In a woman presenting with heavy menstrual bleeding, clinical assessment of the menstrual blood loss is best done by:",
+  "options": {
+   "A": "History",
+   "B": "CBC",
+   "C": "Pictorial blood loss assessment chart",
+   "D": "Haemoglobin level",
+   "E": "Serum ferritin"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Heavy menstrual bleeding is defined by the woman's own perception, so a careful history is the clinical assessment. Pictorial charts are mainly a research tool and Hb or ferritin only reflect the consequences.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01338"
+  ],
+  "stem": "When taking the history from a woman with heavy menstrual bleeding, which feature is NOT suggestive of a structural or histological abnormality?",
+  "options": {
+   "A": "Age",
+   "B": "Postcoital bleeding",
+   "C": "Intermenstrual bleeding",
+   "D": "Pelvic pain",
+   "E": "Pressure symptoms"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Intermenstrual or postcoital bleeding, pelvic pain and pressure symptoms point to structural or histological pathology (polyp, fibroid, adenomyosis, malignancy). Age alone is not such a feature.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00038",
+   "C01218",
+   "C00334",
+   "C02334",
+   "C02358",
+   "C01470"
+  ],
+  "stem": "A 15-year-old girl is brought by her mother with irregular heavy menstrual bleeding since menarche. The most likely cause of this pattern is:",
+  "options": {
+   "A": "Fibroid uterus",
+   "B": "Hypothyroidism",
+   "C": "Cervical erosion",
+   "D": "Hyperthyroidism",
+   "E": "Anovulation"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Anovulatory cycles from immaturity of the hypothalamic-pituitary-ovarian axis are the commonest cause of irregular heavy bleeding in the years after menarche. Fibroids and cervical lesions are rare at this age.",
+  "key_note": "In one version the paper key marked bleeding disorder; correct is anovulation, the most common cause of irregular heavy menses in adolescents.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00135"
+  ],
+  "stem": "A 43-year-old obese P5 presents with heavy cyclical bleeding for 2 years. She is pale; the cervix looks normal; the uterus is regular, mobile and 10 weeks in size with clear adnexae. The most likely diagnosis is:",
+  "options": {
+   "A": "Endometrial hyperplasia",
+   "B": "Dysfunctional uterine bleeding",
+   "C": "Adenomyosis",
+   "D": "Ovarian pathology",
+   "E": "Pelvic inflammatory disease"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Heavy cyclical bleeding in a multiparous woman in her 40s with a uniformly enlarged (up to about 12 weeks), regular, mobile uterus is typical of adenomyosis. Hyperplasia and DUB give irregular bleeding with a normal-sized uterus.",
+  "key_note": "Several paper keys marked endometrial hyperplasia or DUB; correct is adenomyosis, given cyclical bleeding with a regularly enlarged 10-week uterus.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00267",
+   "C01804"
+  ],
+  "stem": "A 40-year-old obese P5 presents with heavy acyclical bleeding for 4 years. The cervix looks normal and bimanual examination and ultrasound are unremarkable. The most probable diagnosis is:",
+  "options": {
+   "A": "Dysfunctional uterine bleeding",
+   "B": "Endometrial carcinoma",
+   "C": "Endometrial hyperplasia",
+   "D": "Endocervical polyp",
+   "E": "Ovarian pathology"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Irregular (acyclical) heavy bleeding with a normal pelvis and normal imaging is dysfunctional uterine bleeding, usually from anovulation. Hyperplasia or carcinoma would usually show a thickened endometrium on ultrasound.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02074"
+  ],
+  "stem": "A 35-year-old woman has heavy menstrual bleeding for one year with fatigue and dizziness. There is no coagulation disorder; pelvic examination shows an enlarged, irregular, firm uterus; there is no pelvic pain or discharge. The most likely cause is:",
+  "options": {
+   "A": "Fibroid",
+   "B": "Adenomyosis",
+   "C": "Endometriosis",
+   "D": "Pelvic inflammatory disease",
+   "E": "Coagulation disorder"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "An enlarged, irregular, firm uterus with heavy bleeding and no pain is a fibroid uterus. Adenomyosis gives a smooth, globular, tender uterus with dysmenorrhoea.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01454"
+  ],
+  "stem": "A 34-year-old P1 complains of regular heavy periods for six months. Previously her cycles were regular with average flow and she uses no contraception. The most likely diagnosis is:",
+  "options": {
+   "A": "Submucous myoma",
+   "B": "Subserous myoma",
+   "C": "Endometrial hyperplasia",
+   "D": "Endometriosis",
+   "E": "Endometritis"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "New-onset regular heavy bleeding in a woman with previously normal cycles suggests a submucous fibroid, which enlarges the endometrial surface and interferes with uterine contraction. Subserous fibroids usually give pressure symptoms, not menorrhagia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01221",
+   "C02153"
+  ],
+  "stem": "A 42-year-old P2 complains of regular but heavy menstrual bleeding affecting her quality of life. Which investigation is most appropriate at the first visit?",
+  "options": {
+   "A": "TFTs",
+   "B": "Blood group",
+   "C": "Ultrasound pelvis",
+   "D": "CBC",
+   "E": "Pipelle biopsy"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A full blood count is done in every woman with heavy menstrual bleeding to detect anaemia. Other tests are targeted by history and examination.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00724"
+  ],
+  "stem": "A 36-year-old P3 complains of irregular bleeding varying from spotting to heavy periods. She has mild pallor, a bulky uterus with normal adnexae and a negative serum beta-hCG. The next appropriate investigation is:",
+  "options": {
+   "A": "Complete blood count",
+   "B": "Endometrial biopsy",
+   "C": "Hormonal profile",
+   "D": "Pelvic ultrasound",
+   "E": "Serum TSH"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Once pregnancy is excluded, pelvic ultrasound is the first investigation to look for structural causes such as fibroids, adenomyosis or polyps in a woman with a bulky uterus.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01468"
+  ],
+  "stem": "A 43-year-old nullipara has irregular bleeding per vagina for 2 years. Ultrasound shows an endometrial thickness of 8 mm. The appropriate next step is:",
+  "options": {
+   "A": "Abdominal hysterectomy",
+   "B": "Dilatation and curettage",
+   "C": "Medical treatment",
+   "D": "Hysteroscopy and biopsy",
+   "E": "Pipelle endometrial biopsy"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Persistent irregular bleeding in a woman in her 40s needs histological assessment of the endometrium. Outpatient Pipelle sampling is the first, least invasive option.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00480",
+   "C02209"
+  ],
+  "stem": "A 45-year-old P5 has heavy menstrual bleeding for 6 months with clots; she is pale and bleeds 8 days in 30. Ultrasound shows an endometrial thickness of 20 mm. The next step is:",
+  "options": {
+   "A": "Transvaginal ultrasound",
+   "B": "Diagnostic dilatation and curettage",
+   "C": "Pipelle endometrial sampling in OPD",
+   "D": "Counsel for hysterectomy"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A thickened endometrium in a woman over 45 with heavy bleeding needs tissue diagnosis; Pipelle sampling in the clinic is the preferred first step.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01213",
+   "C01879",
+   "C00041"
+  ],
+  "stem": "A 47-year-old nullipara has heavy regular menstrual bleeding. The uterus is normal size, mobile and non-tender with clear fornices. Hb is 7 g/dl and ultrasound is normal. Which investigation is indicated next (NICE)?",
+  "options": {
+   "A": "Hormonal profile",
+   "B": "Endometrial biopsy",
+   "C": "Thyroid function test",
+   "D": "Hysteroscopy",
+   "E": "Serum ferritin"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "In a woman over 45 with heavy menstrual bleeding, endometrial biopsy is indicated to exclude hyperplasia or cancer. Hormonal profile is not routine, and TFTs or ferritin are done only if clinically indicated.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01336"
+  ],
+  "stem": "An obese 44-year-old P3 has regular, heavy, painful periods and occasional postcoital bleeding. The cervix looks normal, the uterus is 6 weeks in size, the adnexae are clear, and a Pap smear 6 months ago was normal. The next investigation is:",
+  "options": {
+   "A": "CT scan",
+   "B": "TVUSS",
+   "C": "Endometrial biopsy",
+   "D": "MRI",
+   "E": "Repeat Pap smear"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "With a normal cervix and recent normal smear, transvaginal ultrasound is the first-line imaging to look for structural causes (polyp, fibroid, adenomyosis) of heavy painful bleeding.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01410"
+  ],
+  "stem": "A 49-year-old P6 has heavy menstrual bleeding for 1 year with irregular prolonged cycles, clots and dysmenorrhoea. The abdomen is soft, the uterus is bulky with clear fornices and the speculum shows no polyp or growth. How will you confirm the diagnosis?",
+  "options": {
+   "A": "Pelvic USG",
+   "B": "CT scan",
+   "C": "CBC",
+   "D": "MRI",
+   "E": "X-ray pelvis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A bulky uterus with heavy painful bleeding in a parous woman suggests adenomyosis. MRI is the most accurate imaging test to confirm it (ultrasound is the first-line screen).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00335",
+   "C00380",
+   "C01357",
+   "C01770"
+  ],
+  "stem": "A 14-year-old girl is brought with heavy menstrual bleeding since menarche one year ago and a history of excessive bleeding from wounds. Which is the first investigation?",
+  "options": {
+   "A": "Ultrasound pelvis",
+   "B": "Hormonal profile",
+   "C": "Laparoscopy",
+   "D": "Complete blood count",
+   "E": "Coagulation profile"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Heavy bleeding since menarche plus excessive bleeding from wounds points to an inherited bleeding disorder such as von Willebrand disease, so a coagulation screen is the key test.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02151"
+  ],
+  "stem": "A mother brings her 16-year-old girl with heavy menstrual bleeding with clots, gum bleeding and epistaxis. The most probable diagnosis is:",
+  "options": {
+   "A": "Iatrogenic",
+   "B": "Ovarian cyst",
+   "C": "Idiopathic thrombocytopenic purpura",
+   "D": "Dysfunctional uterine bleeding",
+   "E": "Thyroid disease"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Mucosal bleeding (gums, nose) with heavy periods suggests a primary haemostatic defect; of the options given, ITP is the one that fits. von Willebrand disease would be the other leading cause.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02073"
+  ],
+  "stem": "An 18-year-old girl with heavy menstrual bleeding has Hb falling from 12 to 9 g/dl and is diagnosed with von Willebrand disease. What is the best option for her?",
+  "options": {
+   "A": "OCPs",
+   "B": "Progestogens",
+   "C": "Tranexamic acid",
+   "D": "Blood transfusion",
+   "E": "Fresh frozen plasma"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Tranexamic acid, an antifibrinolytic, reduces bleeding in von Willebrand disease and is the best of the options given for a haemodynamically stable patient. Desmopressin and hormonal options may be added under haematology advice.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01212",
+   "C00490"
+  ],
+  "stem": "A 32-year-old P5 has heavy menstrual bleeding. She is medically well; the uterus is anteverted, normal sized and mobile with clear fornices. What is the first-line treatment according to NICE?",
+  "options": {
+   "A": "Norethisterone",
+   "B": "LNG-IUS",
+   "C": "COCP",
+   "D": "Endometrial ablation",
+   "E": "Hysterectomy"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "NICE recommends the levonorgestrel intrauterine system as first-line for heavy menstrual bleeding with no structural pathology (or fibroids under 3 cm). Tranexamic acid, NSAIDs or COCP follow if it is unsuitable.",
+  "key_note": "Some paper keys marked norethisterone; correct is LNG-IUS, the NICE first-line treatment.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01335"
+  ],
+  "stem": "A healthy 33-year-old woman with 6 months of heavy menstrual bleeding and a 30-day cycle, LMP 7 days ago, is to start antifibrinolytics. How should it be prescribed?",
+  "options": {
+   "A": "3 days before the onset of menstruation",
+   "B": "Start exactly after 30 days of LMP",
+   "C": "From onset of menstruation",
+   "D": "From day 2 of cycle",
+   "E": "1 day before the onset of menstruation"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Tranexamic acid is taken only during menstruation, starting when bleeding begins, 1 g three to four times daily for up to 4 days, so it does not need pre-cycle dosing.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01215",
+   "C01881",
+   "C01545"
+  ],
+  "stem": "A 30-year-old P1+0 has menorrhagia; investigations show no pathology and she wants to conceive. Which treatment is advised?",
+  "options": {
+   "A": "Tranexamic acid",
+   "B": "Danazol",
+   "C": "GnRH analogue",
+   "D": "COCP",
+   "E": "Mirena"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Non-hormonal treatment (tranexamic acid, or mefenamic acid) is appropriate when pregnancy is desired, as it does not suppress ovulation. Hormonal options, danazol and GnRH analogues prevent conception or are teratogenic.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01275"
+  ],
+  "stem": "A 30-year-old woman has heavy menstrual bleeding for 6 months with normal investigations. Which medical treatment will not affect her ovulation but will treat the heavy bleeding?",
+  "options": {
+   "A": "Tranexamic acid",
+   "B": "COCP",
+   "C": "Danazol",
+   "D": "LNG-IUS",
+   "E": "Gestrinone"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Tranexamic acid is non-hormonal and leaves ovulation untouched. COCP, danazol and gestrinone suppress ovulation, and the LNG-IUS acts mainly locally.",
+  "key_note": "Most paper keys marked A (tranexamic acid) but one marked D (LNG-IUS); LNG-IUS often preserves ovulation too, so the question is imperfect, and tranexamic acid is the best answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02093",
+   "C01276"
+  ],
+  "stem": "A 45-year-old P5+0 has regular cyclical heavy menstrual bleeding for 6 months and also wants reliable, reversible, long-acting contraception. An excellent choice is:",
+  "options": {
+   "A": "GnRH analogue",
+   "B": "Tranexamic acid",
+   "C": "Progesterone only pills",
+   "D": "Injectable progesterone",
+   "E": "Levonorgestrel intrauterine system"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "The LNG-IUS treats heavy menstrual bleeding and provides long-acting reversible contraception for up to 5 years.",
+  "key_note": "One paper key for a similar item marked tranexamic acid; correct is the LNG-IUS: only it combines treatment of heavy bleeding with contraception.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01396"
+  ],
+  "stem": "A 43-year-old P4A2 has heavy menstrual bleeding for 6 months with clots. Hormonal treatment worked at first but failed because of poor compliance. Ultrasound is normal. What is the next suitable option?",
+  "options": {
+   "A": "Oral progesterone for 3 months",
+   "B": "LNG-IUS",
+   "C": "D&C",
+   "D": "TAH",
+   "E": "Depot injection medroxyprogesterone"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Poor compliance with oral treatment favours a long-acting method; the LNG-IUS is first-line and avoids daily dosing. Hysterectomy is reserved for failure of conservative measures.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01400"
+  ],
+  "stem": "A 45-year-old P5 has heavy menstrual bleeding for 1 year with clots. The uterus is bulky; scan shows an endometrial thickness of 4 mm and a 4x5 cm posterior wall fibroid not distorting the cavity. She has uncontrolled diabetes. Which treatment is suitable?",
+  "options": {
+   "A": "COCP",
+   "B": "LNG-IUS",
+   "C": "Medroxyprogesterone injection",
+   "D": "Antifibrinolytics",
+   "E": "GnRH analogue"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "With no cavity distortion, the LNG-IUS is suitable and metabolically neutral. COCP is unsuitable with uncontrolled diabetes, and depot medroxyprogesterone adversely affects glucose control and bone density.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00787"
+  ],
+  "stem": "A 38-year-old P4 hypertensive woman has regular heavy menstrual bleeding and Hb of 3 g/dl. A copper T was inserted 6 months ago. Her family is complete and the uterus is normal sized and non-tender. What is the best treatment option?",
+  "options": {
+   "A": "COCP with 7 days interval",
+   "B": "COCP without any interval",
+   "C": "Norethisterone acetate",
+   "D": "LNG-IUS (Mirena)",
+   "E": "Tranexamic acid"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "The LNG-IUS is the best long-term option: effective in heavy bleeding, suitable for a woman with hypertension and a complete family. COCP is relatively contraindicated in hypertension.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00798"
+  ],
+  "stem": "A 36-year-old P3 has irregular heavy menstrual bleeding for 5 months, bleeding 15 days in 30. She is breastfeeding a 10-month-old, has peptic ulcer, and wants effective contraception but finds it difficult to take daily pills. The most effective treatment is:",
+  "options": {
+   "A": "Progestogens",
+   "B": "Copper containing IUCD",
+   "C": "Levonorgestrel intrauterine system",
+   "D": "Subdermal implant"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "The LNG-IUS gives long-acting contraception and treats heavy bleeding, and suits breastfeeding. A copper IUCD would increase bleeding, and NSAIDs are best avoided with peptic ulcer.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01222"
+  ],
+  "stem": "A 46-year-old nulliparous woman has heavy menstrual bleeding unresponsive to 6 months of cyclical progestogens. What is the next most appropriate step?",
+  "options": {
+   "A": "Endometrial biopsy",
+   "B": "LNG-IUS",
+   "C": "NSAIDs",
+   "D": "Tranexamic acid",
+   "E": "Pelvic ultrasound"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "A woman over 45 with heavy bleeding that fails to respond to treatment needs endometrial sampling to exclude hyperplasia or carcinoma before further treatment.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01223",
+   "C02924"
+  ],
+  "stem": "A 40-year-old woman has regular heavy menstrual bleeding and pharmacological treatment is appropriate. She has already taken tranexamic acid without success. What is the most appropriate next treatment according to NICE?",
+  "options": {
+   "A": "GnRH analogue",
+   "B": "Injectable progestogens",
+   "C": "LNG-IUS",
+   "D": "Norethisterone 15 mg daily for 21 days",
+   "E": "Mefenamic acid"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "NICE puts the LNG-IUS first for heavy menstrual bleeding; if tranexamic acid fails, LNG-IUS (or NSAIDs or COCP) is next. Oral norethisterone (days 5-26) or injectable progestogens are later options.",
+  "key_note": "Some paper keys marked norethisterone 15 mg for 21 days (a later-line NICE option); correct is LNG-IUS, the NICE first-line hormonal treatment not yet tried.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01216",
+   "C00684"
+  ],
+  "stem": "A 42-year-old nullipara has heavy menstrual bleeding for 2 years not responding to mefenamic acid and antifibrinolytics. The next step is:",
+  "options": {
+   "A": "Abdominal hysterectomy",
+   "B": "Start GnRH analogues",
+   "C": "Hysteroscopy",
+   "D": "Start COCPs",
+   "E": "Plan LNG-IUS"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "When non-hormonal drugs fail, the LNG-IUS is the best next step: highly effective, long-acting and fertility-preserving. GnRH analogues are only short term and hysterectomy is last resort.",
+  "key_note": "Paper keys were mixed (COCP, hysteroscopy, GnRH analogues); correct is LNG-IUS, the most effective next medical step.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00375"
+  ],
+  "stem": "A 28-year-old nullipara has menorrhagia and intermenstrual bleeding unresponsive to mefenamic acid and antifibrinolytics. The most appropriate step is:",
+  "options": {
+   "A": "Perform hysterectomy",
+   "B": "Hysteroscopy for endometrial polyp",
+   "C": "Put her on COCP",
+   "D": "Perform thyroid function test",
+   "E": "Reassure her"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Intermenstrual bleeding with menorrhagia suggests an intracavitary lesion such as an endometrial polyp or submucous fibroid; hysteroscopy allows diagnosis and removal.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01220"
+  ],
+  "stem": "A 45-year-old P6 from Murree has heavy menstrual bleeding for 24 months. The uterus is normal sized, ultrasound is normal and biopsy shows secretory endometrium. She wants definitive treatment because regular follow-up is difficult. What is best?",
+  "options": {
+   "A": "Antifibrinolytic agents",
+   "B": "Oral combined pills",
+   "C": "Injectable progesterone",
+   "D": "Total abdominal hysterectomy",
+   "E": "LNG-IUS"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Hysterectomy is the definitive treatment when medical therapy is not wanted or has failed, the family is complete and follow-up is difficult.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00255",
+   "C00752"
+  ],
+  "stem": "Endometrial ablation for menorrhagia is suitable for a woman with a uterus no bigger than:",
+  "options": {
+   "A": "12 weeks size and fibroid less than 4 cm",
+   "B": "10 weeks size and fibroid less than 3 cm",
+   "C": "14 weeks size and fibroid less than 5 cm",
+   "D": "16 weeks size and fibroid less than 4 cm",
+   "E": "18 weeks size and fibroid less than 4 cm"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Endometrial ablation is suitable for a uterus not larger than about 10 weeks with fibroids smaller than 3 cm and no cavity distortion, in a woman who has completed her family.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01948"
+  ],
+  "stem": "A 45-year-old P3+0 has cyclical heavy menstrual bleeding severely affecting her quality of life. The uterus is studded with multiple fibroids and she does not desire fertility. The best treatment is:",
+  "options": {
+   "A": "Combined oral contraceptive pills",
+   "B": "Progestogen only pills",
+   "C": "Hysteroscopic removal of myoma",
+   "D": "GnRH analogue",
+   "E": "Total abdominal hysterectomy"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Multiple fibroids with severe symptoms and completed family are best treated definitively by hysterectomy. Hysteroscopic resection is only for submucous fibroids and GnRH analogues give temporary relief.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00494"
+  ],
+  "stem": "A 28-year-old P2 has worsening heavy bleeding and dysmenorrhoea with deep dyspareunia; scan shows a 6x7 cm posterior intramural fibroid. She wants more children and non-hormonal treatment for 3 months failed. Which treatment will you offer for symptom improvement?",
+  "options": {
+   "A": "Progesterone only pills",
+   "B": "Combined oral contraceptive pills",
+   "C": "MIRENA intrauterine system",
+   "D": "Repeat non-hormonal treatment",
+   "E": "Myomectomy"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "A large symptomatic fibroid in a woman wanting fertility is best treated by myomectomy, which preserves the uterus. Hormonal methods would prevent conception.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00739"
+  ],
+  "stem": "A 24-year-old P2 has irregular heavy bleeding for 6 months with a negative pregnancy test. Ultrasound shows a uniformly thickened endometrium of 16 mm. The most optimal management is:",
+  "options": {
+   "A": "Oral progestogens",
+   "B": "Endometrial biopsy",
+   "C": "Hysteroscopy",
+   "D": "Combined oral contraceptive pills",
+   "E": "Total abdominal hysterectomy"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "At 24 with anovulatory-pattern bleeding and a uniformly thick (proliferative) endometrium, there is no need for biopsy. Cycle control with the COCP is appropriate.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00481",
+   "C02355"
+  ],
+  "stem": "A 42-year-old P6 has heavy menstrual bleeding for 8 months, bleeding 10-25 days in 30, with endometrial thickness 20 mm. Sampling shows simple endometrial hyperplasia. What is the first-line treatment?",
+  "options": {
+   "A": "Oral progesterone for 3 months",
+   "B": "MIRENA intrauterine system",
+   "C": "GnRH analogue",
+   "D": "Hysterectomy"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Simple hyperplasia without atypia is treated medically; the LNG-IUS is first-line (more effective than oral progestogens) with follow-up biopsy.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00738"
+  ],
+  "stem": "A 48-year-old obese nulliparous woman has intermenstrual bleeding for 6 months. Ultrasound shows a uterus of 8x7x6 cm and endometrial thickness 14 mm. Endometrial sampling shows atypical hyperplasia. The most suitable treatment is:",
+  "options": {
+   "A": "Endometrial ablation",
+   "B": "LNG-IUS insertion",
+   "C": "Total abdominal hysterectomy",
+   "D": "Repeat sampling after 6 months",
+   "E": "Progesterone only pills"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Atypical hyperplasia has a high risk of coexisting or progressing to endometrial carcinoma, so hysterectomy is advised in a woman who has completed childbearing.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02927"
+  ],
+  "stem": "A 35-year-old P5+3 has cyclical heavy menstrual bleeding. The uterus is enlarged and tender and ultrasound suggests adenomyosis. She wants contraception too. The best treatment is:",
+  "options": {
+   "A": "COCP",
+   "B": "Endometrial ablation",
+   "C": "GnRH analogues",
+   "D": "Hysterectomy",
+   "E": "LNG-IUS"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "The LNG-IUS reduces bleeding and pain in adenomyosis and provides contraception, avoiding surgery in a young woman.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01208"
+  ],
+  "stem": "A 46-year-old P5 with heavy menstrual bleeding is advised a levonorgestrel intrauterine system. Regarding the LNG-IUS, you counsel her that:",
+  "options": {
+   "A": "There is risk of unpredictable bleeding in the first few months",
+   "B": "It does not provide contraception",
+   "C": "It is not effective for dysmenorrhoea",
+   "D": "It is inserted for 24 months",
+   "E": "It is protective against cancer of the cervix"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Irregular bleeding or spotting is common in the first 3-6 months after insertion. It is also contraceptive, helps dysmenorrhoea, lasts 5 years and does not protect against cervical cancer.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00333",
+   "C00694",
+   "C02332"
+  ],
+  "stem": "A 39-year-old woman has severe breast tenderness and bloating before each menstrual cycle. Which hormone is thought to play a role in her condition (premenstrual syndrome)?",
+  "options": {
+   "A": "FSH",
+   "B": "Progesterone",
+   "C": "Testosterone",
+   "D": "Prolactin",
+   "E": "LH"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Premenstrual syndrome occurs only in ovulatory cycles and is attributed to abnormal response to progesterone (and its metabolites) acting on serotonin and GABA systems; ovulation suppression relieves it.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01361"
+  ],
+  "stem": "A 20-year-old girl has weight gain, bloating, fatigue, headache, irritability and abdominal pain every month before her periods, with mild breast tenderness. According to the history she has:",
+  "options": {
+   "A": "Normal physiological change in menstruation",
+   "B": "Endometriosis",
+   "C": "Premenstrual syndrome",
+   "D": "Fibrocystic breast disease",
+   "E": "Adenomyosis"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Cyclical physical and psychological symptoms in the luteal phase that resolve with menstruation define premenstrual syndrome.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00311"
+  ],
+  "stem": "A 30-year-old woman has mood swings, irritability and bloating in the week before her periods that resolve shortly after menstruation. She is otherwise healthy. What is the first-line treatment for PMS?",
+  "options": {
+   "A": "Combined oral contraceptive pills",
+   "B": "Selective serotonin reuptake inhibitors",
+   "C": "Non-steroidal anti-inflammatory drugs",
+   "D": "Cognitive behavioural therapy",
+   "E": "Lifestyle modifications, including exercise and diet changes"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Mild to moderate PMS is managed first with lifestyle measures (exercise, diet, stress reduction), then CBT, then drugs such as SSRIs or COCP for more severe symptoms.",
+  "key_note": "One paper key marked B (SSRIs); SSRIs are first-line drug treatment for severe PMS, but for this mild picture lifestyle measures come first.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00016",
+   "C00708"
+  ],
+  "stem": "Which of the following drugs can worsen the symptoms of premenstrual syndrome?",
+  "options": {
+   "A": "Combined oral contraceptives",
+   "B": "Danazol",
+   "C": "Fluoxetine",
+   "D": "GnRH analogues",
+   "E": "Progestogens"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Progestogens can reproduce PMS-like symptoms (bloating, mood change) and are not effective treatment. The others suppress ovulation or act on serotonin and so help.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00017",
+   "C00678"
+  ],
+  "stem": "A 23-year-old medical student has severe bloating, fatigue, headache and depression in the luteal phase that affects her studies. SSRI has failed. What is the most appropriate management?",
+  "options": {
+   "A": "Vitamins and minerals",
+   "B": "Fluoxetine and escitalopram",
+   "C": "Hysterectomy plus bilateral salpingo-oophorectomy",
+   "D": "Combined oral contraceptive pills (Yasmin, Yaz)",
+   "E": "GnRH analogues plus add-back therapy"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "For severe PMS not helped by an SSRI, ovulation suppression with a drospirenone-containing COCP is the appropriate next step in a young woman, before GnRH analogues or surgery.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01362"
+  ],
+  "stem": "A 25-year-old with PMS has not improved on SSRIs followed by cyclical suppression and her relationships are affected. What is the next step?",
+  "options": {
+   "A": "Vitamins and minerals",
+   "B": "Healthy lifestyle and cognitive behavioural therapy",
+   "C": "Cognitive behavioural therapy plus transdermal oestradiol",
+   "D": "COCP plus yoga",
+   "E": "GnRH analogue plus HRT"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Refractory severe PMS after SSRIs and hormonal suppression is treated with a GnRH analogue with add-back HRT; surgery (hysterectomy with BSO) is the last resort.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01555"
+  ],
+  "stem": "A 23-year-old unmarried girl has episodic bloating, breast tenderness, irritability, depression and cramps in the last days of her cycle for 2 years. What is the first-line treatment?",
+  "options": {
+   "A": "Bilateral oophorectomy",
+   "B": "COCP",
+   "C": "COCP plus SSRIs",
+   "D": "High dose SSRIs",
+   "E": "GnRH analogues"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "SSRIs (luteal or continuous) are first-line drug treatment for severe PMS or PMDD, with more evidence than hormonal options; oophorectomy and GnRH analogues are later-line.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02067"
+  ],
+  "stem": "A 48-year-old woman with PMS has completed her family and also has heavy bleeding from fibroids with anaemia. Lifestyle changes, SSRIs and hormonal treatments gave minimal relief. What is the most appropriate next step?",
+  "options": {
+   "A": "Hysterectomy",
+   "B": "GnRH analogues",
+   "C": "Bilateral oophorectomy",
+   "D": "TAH+BSO",
+   "E": "Endometrial ablation"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Refractory severe PMS plus fibroid bleeding in a woman with complete family is treated by hysterectomy with bilateral oophorectomy, followed by oestrogen replacement; hysterectomy alone leaves the ovarian cycle intact.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00133"
+  ],
+  "stem": "Which of the following terms describes cyclic menstrual pain with an identifiable associated pathology?",
+  "options": {
+   "A": "Adenomyosis",
+   "B": "Endometriosis",
+   "C": "Menstrual outlet obstruction",
+   "D": "Primary dysmenorrhoea",
+   "E": "Secondary dysmenorrhoea"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Painful menstruation with a demonstrable pelvic cause (endometriosis, adenomyosis, outlet obstruction) is secondary dysmenorrhoea. The others are causes or the opposite term.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02172"
+  ],
+  "stem": "A 28-year-old woman has severe lower abdominal pain radiating to the legs with low backache during menstruation, which starts before menstruation and ends as bleeding starts. Cycles are otherwise normal. The most likely diagnosis is:",
+  "options": {
+   "A": "Pelvic inflammatory disease",
+   "B": "Fibroid uterus",
+   "C": "Endometriosis",
+   "D": "Adenomyosis",
+   "E": "Ectopic pregnancy"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Pain that begins before the period and eases as bleeding starts is congestive dysmenorrhoea, associated with chronic pelvic infection or pelvic congestion.",
+  "key_note": "The papers marked A (PID) with some ambiguity; endometriosis is also plausible, so the question is imperfect and the keyed answer is retained.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00036",
+   "C01214",
+   "C01880",
+   "C01286"
+  ],
+  "stem": "An 18-year-old has severe pain with menstrual periods since menarche with nausea and headache; primary dysmenorrhoea is diagnosed. Initial treatment is with which of the following?",
+  "options": {
+   "A": "Antiprostaglandins (NSAIDs)",
+   "B": "Danazol",
+   "C": "GnRH analogue",
+   "D": "Codeine",
+   "E": "Progesterone"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Primary dysmenorrhoea is caused by excess prostaglandins, so NSAIDs (mefenamic acid, ibuprofen) are first-line. The COCP is second-line, especially if contraception is also wanted.",
+  "key_note": "In a similar item the source copy ticked LNG-IUS; correct is NSAIDs, first-line for primary dysmenorrhoea.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01187"
+  ],
+  "stem": "The first-line management of primary dysmenorrhoea is:",
+  "options": {
+   "A": "Mefenamic acid",
+   "B": "Ibuprofen",
+   "C": "Aspirin",
+   "D": "Acetaminophen",
+   "E": "Diclofenac sodium"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "NSAIDs that inhibit prostaglandin synthesis are first-line, and mefenamic acid is the classical choice in standard exam teaching. Ibuprofen and diclofenac are also effective.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02069"
+  ],
+  "stem": "A 24-year-old medical staff member has severe dysmenorrhoea every month needing 2-3 days off work; simple analgesia gave no relief. What do you advise?",
+  "options": {
+   "A": "LNG-IUS",
+   "B": "COCP",
+   "C": "GnRH analogue",
+   "D": "Androgens",
+   "E": "Antispasmodic"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "When simple analgesia fails (and NSAIDs are inadequate), the COCP suppresses ovulation and endometrial prostaglandin production and is the usual next step.",
+  "key_note": "The paper keys disagreed (one marked A, LNG-IUS, one B, COCP); the COCP is the standard next step in a young woman.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01741"
+  ],
+  "stem": "A 20-year-old unmarried nurse has severe dysmenorrhoea needing 2 days leave each month. Your first advice is to take continuously which drug to cause amenorrhoea?",
+  "options": {
+   "A": "Combined contraceptive pills",
+   "B": "Progestogens",
+   "C": "Danazol",
+   "D": "Aromatase inhibitors",
+   "E": "GnRH analogues"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Continuous (tricycling) COCP suppresses ovulation and menstruation and is the first-line hormonal option, safe in a young woman. Danazol and GnRH analogues have unacceptable side effects for first use.",
+  "key_note": "",
+  "figure": ""
+ }
+]

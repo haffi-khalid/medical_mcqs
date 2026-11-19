@@ -1,0 +1,1228 @@
+[
+ {
+  "cids": [
+   "C00502"
+  ],
+  "stem": "Which of the following cardiovascular parameters does not change in normal pregnancy?",
+  "options": {
+   "A": "Cardiac output",
+   "B": "Central venous pressure",
+   "C": "Heart rate",
+   "D": "Stroke volume",
+   "E": "Systemic vascular resistance"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Cardiac output, stroke volume and heart rate all rise and systemic vascular resistance falls, but central venous pressure stays unchanged despite the increased blood volume.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00964"
+  ],
+  "stem": "A primigravida at 10 weeks of gestation attends for booking. Her BP is 120/70 mmHg and pulse 90/min. The house officer suggests a cardiology consultation, but you explain the normal cardiovascular changes of pregnancy. Which change explains her examination?",
+  "options": {
+   "A": "Decrease in cardiac output",
+   "B": "Increased heart rate",
+   "C": "Increased pulse pressure",
+   "D": "Increased diastolic blood pressure",
+   "E": "Increased systolic blood pressure"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "The heart rate rises by 10 to 20 beats/min from early pregnancy, so a pulse of 90/min is physiological; cardiac output rises and blood pressure tends to fall in the first half.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00871"
+  ],
+  "stem": "A 22-year-old primigravida at 20 weeks of pregnancy has a blood pressure of 110/60 mmHg. In a normal pregnancy the pulse pressure is:",
+  "options": {
+   "A": "Increased",
+   "B": "Decreased",
+   "C": "Relatively increased",
+   "D": "Relatively decreased",
+   "E": "Unchanged"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Diastolic pressure falls more than systolic pressure in mid-pregnancy because of reduced peripheral resistance, so the pulse pressure is relatively increased.",
+  "key_note": "One paper key marked E (Relatively decreased); the majority key and physiology (diastolic falls more) support C.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01081"
+  ],
+  "stem": "A normal pregnancy is associated with a fall in blood pressure, most likely due to:",
+  "options": {
+   "A": "Increase in intravascular volume",
+   "B": "Increase in cardiac output",
+   "C": "Increase in stroke volume",
+   "D": "Decrease in peripheral vascular resistance"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Progesterone-mediated vasodilatation lowers peripheral vascular resistance, which outweighs the rise in cardiac output and so lowers blood pressure in the first and second trimesters.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00817"
+  ],
+  "stem": "Which of the following is never a normal finding in pregnancy?",
+  "options": {
+   "A": "Dyspnoea",
+   "B": "Systolic murmur",
+   "C": "Diastolic murmur",
+   "D": "Exercise intolerance",
+   "E": "Dilutional anaemia"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Ejection systolic flow murmurs are common because of the hyperdynamic circulation, but a diastolic murmur is always pathological and needs cardiac assessment.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01594"
+  ],
+  "stem": "A 28-year-old primigravida at 20 weeks complains that her heart rate has become faster since the start of pregnancy. You explain that the cardiac output increases in pregnancy by about:",
+  "options": {
+   "A": "20%",
+   "B": "30%",
+   "C": "40%",
+   "D": "50%",
+   "E": "60%"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Cardiac output rises by about 30 to 50% (roughly 40%) by the late first or second trimester, through a rise in stroke volume and heart rate.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01697"
+  ],
+  "stem": "Which of the following factors contribute to the increase in cardiac output in pregnancy?",
+  "options": {
+   "A": "Increase in heart rate",
+   "B": "Decrease in blood volume",
+   "C": "Decrease in heart rate",
+   "D": "Increase in ejection fraction",
+   "E": "Decrease in stroke volume"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Cardiac output is stroke volume multiplied by heart rate; both rise in pregnancy (with an increased blood volume), so an increased heart rate contributes.",
+  "key_note": "A paper key marked C (Decrease in heart rate), which is wrong; correct is A.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01698"
+  ],
+  "stem": "Fluid retention is a normal physiological change in pregnancy. It leads to:",
+  "options": {
+   "A": "Increased haemoglobin",
+   "B": "Increased haematocrit",
+   "C": "Increased serum albumin",
+   "D": "Increased stroke volume",
+   "E": "Decreased renal blood flow"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Increased blood volume raises preload and stroke volume, whereas haemoglobin, haematocrit and albumin fall from dilution and renal blood flow rises.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01595"
+  ],
+  "stem": "A 26-year-old primigravida at 8 weeks feels that her blood pressure is low. You explain that blood pressure falls in pregnancy mainly due to a reduction in peripheral resistance of about:",
+  "options": {
+   "A": "20%",
+   "B": "30%",
+   "C": "40%",
+   "D": "70%",
+   "E": "60%"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Systemic vascular resistance falls by roughly 30% (progesterone-mediated vasodilatation), lowering blood pressure to a nadir at 20 to 24 weeks.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01850",
+   "C02570",
+   "C02973"
+  ],
+  "stem": "At which time is the cardiac output highest?",
+  "options": {
+   "A": "In the first trimester",
+   "B": "In the second trimester",
+   "C": "In the third trimester",
+   "D": "During labour",
+   "E": "Immediately postpartum (10-30 minutes)"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Cardiac output peaks immediately after delivery because uterine contraction autotransfuses blood and caval compression is relieved.",
+  "key_note": "Some papers marked 2nd stage of labour or during delivery, and one marked 2nd trimester; the best answer is immediately postpartum.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01696",
+   "C01853"
+  ],
+  "stem": "At 38 weeks of gestation a patient becomes faint while lying supine on the examination table. Using your knowledge of maternal physiology, what do you do?",
+  "options": {
+   "A": "Aromatic ammonia spirit (smelling salts)",
+   "B": "Turn the patient onto her left side",
+   "C": "Oxygen by face mask",
+   "D": "IV drugs to increase blood pressure",
+   "E": "IV saline solution"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Supine hypotension is caused by the gravid uterus compressing the inferior vena cava and reducing venous return; turning her to the left lateral position relieves it.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02415"
+  ],
+  "stem": "A 28-year-old woman at 32 weeks of gestation complains of shortness of breath on exertion. Examination reveals a soft systolic murmur and mild ankle oedema. Which of the following best explains these findings?",
+  "options": {
+   "A": "Anaemia of pregnancy",
+   "B": "Cardiac decompensation",
+   "C": "Mitral valve prolapse",
+   "D": "Physiological cardiovascular changes",
+   "E": "Pulmonary embolism"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Mild exertional dyspnoea, a soft ejection systolic flow murmur and ankle oedema are common physiological features of the hyperdynamic circulation of pregnancy.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02420"
+  ],
+  "stem": "A 32-year-old woman at 34 weeks of gestation has mild hypotension when lying supine. What is the most likely diagnosis?",
+  "options": {
+   "A": "Anaemia",
+   "B": "Dehydration",
+   "C": "Pre-eclampsia",
+   "D": "Supine hypotensive syndrome",
+   "E": "Vasovagal syncope"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "The gravid uterus compresses the inferior vena cava in the supine position, reducing venous return and cardiac output; turning her to the left lateral position relieves it.",
+  "key_note": "One paper key marked E (Vasovagal syncope); correct is D.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02689",
+   "C01694"
+  ],
+  "stem": "A primigravida at 10 weeks of gestation. Which of the following changes occurs in her cardiovascular system?",
+  "options": {
+   "A": "Cardiac output decreases",
+   "B": "Diastolic blood pressure increases",
+   "C": "Heart rate decreases",
+   "D": "Peripheral resistance increases",
+   "E": "Stroke volume increases"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Stroke volume rises from early pregnancy and, with a higher heart rate, raises cardiac output; peripheral resistance and diastolic pressure fall.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03082"
+  ],
+  "stem": "Regarding cardiac physiology in pregnancy, which of the following decreases?",
+  "options": {
+   "A": "Heart rate",
+   "B": "Pulse pressure",
+   "C": "Cardiac output",
+   "D": "Total peripheral resistance",
+   "E": "Stroke volume"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Progesterone-induced vasodilatation lowers total peripheral resistance, while heart rate, stroke volume and cardiac output all rise.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02690"
+  ],
+  "stem": "A 29-year-old G2P1 at 15 weeks has mild exertional shortness of breath and occasional palpitations. Pulse is 88/min, BP 110/70 mmHg and chest auscultation is unremarkable. What is your advice?",
+  "options": {
+   "A": "Arterial blood gases",
+   "B": "Refer to a cardiologist",
+   "C": "Reassurance",
+   "D": "Order an ECG",
+   "E": "Ventilation-perfusion scan"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Mild physiological dyspnoea from hyperventilation with a hyperdynamic circulation needs only reassurance when there are no red flags.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00503"
+  ],
+  "stem": "When does the hypercoagulable state of pregnancy return to normal after delivery?",
+  "options": {
+   "A": "Immediately after delivery",
+   "B": "2 weeks",
+   "C": "3 weeks",
+   "D": "4 weeks",
+   "E": "6 weeks"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Coagulation factors and fibrinolytic activity return towards non-pregnant levels over several weeks postpartum; the paper keys give 4 weeks, although VTE risk is conventionally considered raised for up to 6 weeks.",
+  "key_note": "Paper keys marked 4 weeks; kept per exam teaching, though some texts give 6 weeks.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00545",
+   "C02887"
+  ],
+  "stem": "Pregnancy is a hypercoagulable state, but one component of the coagulation system remains unchanged in an uncomplicated pregnancy. Choose the single best answer.",
+  "options": {
+   "A": "Factor VII",
+   "B": "Fibrinogen",
+   "C": "Platelets",
+   "D": "Factor X",
+   "E": "Von Willebrand factor"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Fibrinogen, factors VII, VIII, X and von Willebrand factor all rise in pregnancy, whereas the platelet count remains essentially unchanged (or falls slightly).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00963"
+  ],
+  "stem": "A G6P4A1 at 14 weeks of gestation discusses her complete blood count. Which entity depicts a normal physiological change of pregnancy?",
+  "options": {
+   "A": "Decreased haemoglobin",
+   "B": "Increased haematocrit",
+   "C": "Decreased ESR",
+   "D": "Decreased TLC",
+   "E": "Markedly raised platelets"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Haemoglobin and haematocrit fall from dilution, ESR rises markedly, and total leucocyte count rises mildly; the platelet count is unchanged or slightly lower.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01649"
+  ],
+  "stem": "A primigravida attends with a complete blood count report. The normal haematocrit during pregnancy is:",
+  "options": {
+   "A": "30-32%",
+   "B": "32-34%",
+   "C": "34-36%",
+   "D": "36-38%",
+   "E": "38-40%"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Haematocrit falls to about 32 to 34% in pregnancy because plasma volume expands more than red cell mass.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02569",
+   "C02972",
+   "C00588",
+   "C00837",
+   "C01970",
+   "C01753",
+   "C02417",
+   "C03078",
+   "C02686"
+  ],
+  "stem": "Physiological anaemia in pregnancy occurs due to:",
+  "options": {
+   "A": "Decrease in RBCs resulting in decreased oxygen-carrying capacity",
+   "B": "Increase in both RBCs and plasma, with plasma increasing in greater proportion",
+   "C": "Increase in the plasma volume while the RBC count does not increase",
+   "D": "Increase in the RBCs while plasma volume does not increase",
+   "E": "Increase in both RBCs and plasma, with RBCs increasing in greater proportion"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Plasma volume rises by about 40-50% and red cell mass by about 20-30%, so the haemoglobin concentration falls although the red cell mass is increased.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02994"
+  ],
+  "stem": "What are the normal physiological changes in the coagulation system during pregnancy?",
+  "options": {
+   "A": "Almost all coagulation factors are increased",
+   "B": "Only fibrinogen levels are raised",
+   "C": "Almost all coagulation factors are decreased",
+   "D": "No changes occur in the coagulation system",
+   "E": "Only antithrombin III levels are increased"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Fibrinogen and factors VII, VIII, IX, X and XII rise while protein S and fibrinolysis fall, producing a hypercoagulable state.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02707"
+  ],
+  "stem": "A G3P2 has a blood picture consistent with folic acid deficiency. Her baby is at increased risk of:",
+  "options": {
+   "A": "Neural tube defects",
+   "B": "Cardiac anomalies",
+   "C": "Renal anomalies",
+   "D": "Skeletal anomalies",
+   "E": "Respiratory anomalies"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Folate deficiency around conception and early pregnancy causes neural tube defects.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00505"
+  ],
+  "stem": "A primigravida at 24 weeks of gestation has off-and-on lower abdominal pain. Speculum examination shows a bluish cervix. What is the reason for this cervical change?",
+  "options": {
+   "A": "Cervical ectropion",
+   "B": "Cervical erosion",
+   "C": "Increased cervical vascularity",
+   "D": "Decreased secretion of cervical glands",
+   "E": "Cervical cancer"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "The bluish discolouration (Chadwick's sign) is due to increased vascularity and venous congestion of the cervix and vagina.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00547"
+  ],
+  "stem": "A primigravida at 28 weeks of gestation complains of severe heartburn and reflux. Which physiological change of pregnancy is responsible?",
+  "options": {
+   "A": "Elevated progesterone level",
+   "B": "Reduced gastrin production",
+   "C": "Decreased gastric acidity",
+   "D": "Elevated oestrogen level",
+   "E": "Decreased stomach volume"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Progesterone relaxes the lower oesophageal sphincter and slows gastric emptying, causing reflux.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00548"
+  ],
+  "stem": "The most important hepatic change in pregnancy is:",
+  "options": {
+   "A": "Increase in absolute hepatic blood flow",
+   "B": "Reduced portal vein pressure",
+   "C": "Increased albumin levels",
+   "D": "Reduced serum alkaline phosphatase",
+   "E": "Increase in clotting factors"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Hepatic synthesis of clotting factors rises, contributing to hypercoagulability; hepatic blood flow is unchanged, albumin falls and alkaline phosphatase rises (placental).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00587",
+   "C01637",
+   "C02688"
+  ],
+  "stem": "A G3P4 has a urine report showing trace glycosuria; all other parameters are normal. What is the most likely cause?",
+  "options": {
+   "A": "The patient has diabetes",
+   "B": "The patient has a urine infection",
+   "C": "Urinalysis is consistent with normal pregnancy",
+   "D": "The urine sample is contaminated",
+   "E": "The patient has kidney disease"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Increased glomerular filtration with reduced tubular reabsorption makes trace glycosuria common in normal pregnancy; persistent or heavy glycosuria needs a glucose test.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01082"
+  ],
+  "stem": "Which physiological renal change in pregnancy predisposes women to ascending urinary tract infection? Choose the best answer.",
+  "options": {
+   "A": "GFR increases by 30-50%",
+   "B": "RPF increases by 30-50%",
+   "C": "Plasma level of urea falls",
+   "D": "Dilation of calyces, renal pelvis and ureters",
+   "E": "Plasma level of creatinine falls"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Progesterone and mechanical compression dilate the collecting system and slow urine flow (urinary stasis), predisposing to ascending infection and pyelonephritis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01650"
+  ],
+  "stem": "A primigravida at 36 weeks has an abdominal ultrasound showing right-sided hydronephrosis. Which statement is correct?",
+  "options": {
+   "A": "Hydronephrosis of pregnancy resolves by 2 weeks postpartum",
+   "B": "Hydronephrosis in pregnancy is due to uterine dextrorotation",
+   "C": "The kidney can increase in size by up to 10 cm in normal pregnancy",
+   "D": "Hydronephrosis in pregnancy decreases the chance of upper urinary tract infection",
+   "E": "Hydronephrosis in pregnancy is due to increased renal blood flow"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "The dextrorotated gravid uterus compresses the right ureter at the pelvic brim, so physiological hydronephrosis is more marked on the right. It predisposes to infection and resolves over weeks.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01083"
+  ],
+  "stem": "A 28-year-old G3P2 at 6 weeks of gestation complains of nausea and vomiting for 2 weeks and is otherwise healthy. You explain that this occurs in pregnancy due to:",
+  "options": {
+   "A": "Beta-hCG",
+   "B": "Urinary tract infection",
+   "C": "Delayed stomach emptying",
+   "D": "Reduced blood sugar level",
+   "E": "Viral hepatitis"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Nausea and vomiting peak with the hCG level at 8 to 12 weeks and usually settle by 16 weeks.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01126"
+  ],
+  "stem": "A 35-year-old G6P4+1 at 30 weeks of gestation has vulval swelling for a few days; examination shows vulval varicosities. What is the most likely cause of these varicosities?",
+  "options": {
+   "A": "Decreased vascular resistance",
+   "B": "Fetal head compression",
+   "C": "Increased plasma volume",
+   "D": "Pressure effect of the gravid uterus",
+   "E": "Reduced venous flow"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Pelvic venous congestion from pressure of the gravid uterus, with progesterone-induced venous relaxation, causes vulval and leg varicosities.",
+  "key_note": "Paper key marked C (Increased plasma volume) but a handwritten correction on another paper showed D; D is the standard answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01567"
+  ],
+  "stem": "A 28-year-old primigravida at 28 weeks complains of breast enlargement. You explain that it is due to deposition of fat around the glandular tissue and an increase in the number of glandular ducts, caused by which hormone?",
+  "options": {
+   "A": "Progesterone",
+   "B": "Oestrogen",
+   "C": "Prolactin",
+   "D": "Human placental lactogen",
+   "E": "Oxytocin"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Oestrogen stimulates ductal proliferation and stromal fat deposition, whereas progesterone drives lobuloalveolar development.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01848"
+  ],
+  "stem": "The uterus enlarges from less than 20 ml to over 5 litres in pregnancy while keeping the ability to contract strongly in labour. The increase in uterine muscle mass is primarily due to:",
+  "options": {
+   "A": "Atypical hyperplasia",
+   "B": "Anaplasia",
+   "C": "Hypertrophy and hyperplasia",
+   "D": "Involution",
+   "E": "Production of new myocytes"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Early pregnancy uterine growth is by hyperplasia and later by marked hypertrophy of myometrial cells under oestrogen and progesterone.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01752"
+  ],
+  "stem": "Regarding pregnancy, which of the following is true?",
+  "options": {
+   "A": "Estradiol is the principal circulating oestrogen",
+   "B": "Blood pressure increases in the first and second trimesters",
+   "C": "Tidal volume is reduced",
+   "D": "In the second half of pregnancy, amniotic fluid is mostly contributed by fetal urine",
+   "E": "Maternal hydroureters should always be taken as a serious pelvic condition"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Fetal urine is the main source of liquor from mid-pregnancy. Oestriol is the principal oestrogen, blood pressure falls early, tidal volume rises and physiological hydroureter is normal.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01892",
+   "C02942"
+  ],
+  "stem": "A primigravida medical student at 36 weeks has an ultrasound showing right-sided hydronephrosis and fears permanent kidney damage. You counsel her that it will return to normal after delivery within:",
+  "options": {
+   "A": "2 weeks",
+   "B": "3 weeks",
+   "C": "4 weeks",
+   "D": "6 weeks",
+   "E": "8 weeks"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Physiological dilatation of the ureters and calyces regresses within about 6 weeks of delivery.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02416"
+  ],
+  "stem": "A 26-year-old primigravida at 24 weeks presents with frequent urination and mild back pain. Urine culture is negative. What is the likely cause?",
+  "options": {
+   "A": "Cystitis",
+   "B": "Gestational diabetes",
+   "C": "Physiological hydroureter",
+   "D": "Renal calculi",
+   "E": "Urinary tract infection"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Urinary frequency and mild loin ache with a sterile urine are explained by the physiological hydroureter and pressure on the bladder; infection is excluded by the negative culture.",
+  "key_note": "One paper key marked B (Gestational diabetes); correct is C.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02418"
+  ],
+  "stem": "A 25-year-old pregnant woman complains of nasal congestion and mild gum bleeding. Examination is unremarkable. What is the cause?",
+  "options": {
+   "A": "Allergic rhinitis",
+   "B": "Hormonal vascular engorgement",
+   "C": "Infection",
+   "D": "Thrombocytopenia",
+   "E": "Vitamin C deficiency"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "High oestrogen causes mucosal oedema and vascular engorgement, giving rhinitis of pregnancy and gingival hyperaemia with bleeding.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02772"
+  ],
+  "stem": "Regarding renal physiology in pregnancy, what is the overall increase in glomerular filtration rate?",
+  "options": {
+   "A": "15%",
+   "B": "30%",
+   "C": "50%",
+   "D": "65%",
+   "E": "80%"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "GFR and renal plasma flow rise by 30-50% (about 50%) from early pregnancy, lowering serum creatinine and urea.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02685"
+  ],
+  "stem": "A 20-year-old at 35 weeks is upset by an increasing number of spidery veins on her abdomen. What is your recommendation?",
+  "options": {
+   "A": "Liver function test",
+   "B": "See a vascular surgeon",
+   "C": "See a dermatologist",
+   "D": "Reassurance that it will resolve spontaneously",
+   "E": "Wear an abdominal support to relieve pressure"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "These are spider naevi from high oestrogen levels, a normal skin change of pregnancy that regresses after delivery.",
+  "key_note": "One paper key marked E (abdominal support); correct is D.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02993",
+   "C02796"
+  ],
+  "stem": "A 34-year-old G3P2 at 36 weeks has dyspnoea but normal Hb, echo, cardiovascular and chest examination. Which statement is correct regarding respiratory changes in pregnancy?",
+  "options": {
+   "A": "Chest wall compliance increases",
+   "B": "Functional residual capacity increases",
+   "C": "Relative respiratory acidosis occurs",
+   "D": "Respiratory rate increases",
+   "E": "Tidal volume increases"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Tidal volume rises by about 40%; FRC falls, the respiratory rate is unchanged and a compensated respiratory alkalosis occurs.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00625"
+  ],
+  "stem": "A primigravida attends for booking at 8 weeks and asks why she must attend regular antenatal visits. What explanation do you give?",
+  "options": {
+   "A": "To optimise pregnancy outcome for both mother and baby",
+   "B": "To be familiar with your doctor",
+   "C": "Best opportunity to chat with other women",
+   "D": "Best time to be free from household responsibilities",
+   "E": "Only way to involve your husband in your care"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "The aim of antenatal care is to optimise outcome for mother and baby by detecting and managing problems early.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01065",
+   "C01973"
+  ],
+  "stem": "Antenatal care should be seen as an opportunity for:",
+  "options": {
+   "A": "Education of the mother",
+   "B": "Screening for chromosomal anomalies",
+   "C": "Reassurance of the mother",
+   "D": "Screening for pregnancy-specific problems",
+   "E": "Education, reassurance and screening for potential problems"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Antenatal care combines education, reassurance and screening for potential problems.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00833"
+  ],
+  "stem": "A G3P2 presents at 24 weeks for antenatal booking. All of the following should be done at every visit except:",
+  "options": {
+   "A": "Urinalysis",
+   "B": "Fetal heart by Sonicaid",
+   "C": "Maternal weight",
+   "D": "Maternal blood pressure",
+   "E": "Real time ultrasound for fetal weight"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Urinalysis, blood pressure, weight, fundal height and fetal heart are routine at each visit; ultrasound for fetal weight is done only when indicated.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01565"
+  ],
+  "stem": "A 32-year-old G3P2 attends the antenatal clinic at 24 weeks with no risk factors. You advise routine antenatal follow-up after:",
+  "options": {
+   "A": "2 weeks",
+   "B": "4 weeks",
+   "C": "6 weeks",
+   "D": "8 weeks",
+   "E": "10 weeks"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "In low-risk women follow-up is every 4 weeks until 28 weeks, then fortnightly to 36 weeks, then weekly.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01686"
+  ],
+  "stem": "A patient at 10 weeks of gestation asks about the number of antenatal visits. The minimum number of contacts recommended by WHO is:",
+  "options": {
+   "A": "5",
+   "B": "8",
+   "C": "10",
+   "D": "12",
+   "E": "14"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "The 2016 WHO antenatal care model recommends a minimum of eight contacts.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01895"
+  ],
+  "stem": "A primigravida at 10 weeks asks about the total number of antenatal visits. What is the number recommended by the NICE guideline?",
+  "options": {
+   "A": "4",
+   "B": "8",
+   "C": "11",
+   "D": "12",
+   "E": "14"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "NICE recommends about 10 visits for a nulliparous woman and 7 for a parous woman with an uncomplicated pregnancy; 8 contacts is the WHO minimum.",
+  "key_note": "NICE figure for a primigravida is 10, which is not offered; the paper key (11) is kept as the nearest option.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01914"
+  ],
+  "stem": "A 20-year-old primigravida at 24 weeks is not convinced about continuing antenatal care. You counsel her that antenatal care is necessary to screen for all the following problems EXCEPT:",
+  "options": {
+   "A": "Anaemia",
+   "B": "Pre-eclampsia",
+   "C": "Gestational diabetes",
+   "D": "Hypertension",
+   "E": "Migraine"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Antenatal screening targets anaemia, hypertensive disorders and gestational diabetes; migraine is not a pregnancy-related problem screened for.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00874"
+  ],
+  "stem": "A 28-year-old G2P1 attends routine antenatal care at 10 weeks of pregnancy. Which investigation is not part of the booking investigations?",
+  "options": {
+   "A": "Blood group",
+   "B": "Complete blood count",
+   "C": "Hepatitis profile",
+   "D": "Random blood sugar",
+   "E": "Urine analysis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Booking tests include blood group and Rh, CBC, urine analysis and infection screen (hepatitis, HIV, syphilis); random blood sugar is done only for risk-based screening, usually at 24 to 28 weeks.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00668"
+  ],
+  "stem": "A 26-year-old primigravida at 12 weeks presents for her first antenatal visit, asymptomatic with no medical history. Which is the most appropriate management plan?",
+  "options": {
+   "A": "Complete blood count and nuchal translucency measurement",
+   "B": "Ultrasound for fetal viability and genetic counselling",
+   "C": "Screening for gestational diabetes and first dose of tetanus toxoid",
+   "D": "Complete blood count, blood group, urine test and dating scan",
+   "E": "Folic acid, lifestyle changes and anomaly scan"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Booking at 12 weeks needs baseline blood (Hb, group and Rh), urine tests and an ultrasound for dating; GDM screening and the anomaly scan come later.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00821"
+  ],
+  "stem": "A 32-year-old G2P1 books at 8 weeks of gestation. Which finding is most worrisome for poor obstetric outcome?",
+  "options": {
+   "A": "Proteinuria on urine dipstick",
+   "B": "Blood pressure of 144/92 mmHg",
+   "C": "Inaudible heart sounds on electronic Doppler",
+   "D": "Maternal height of 4 ft 10 in",
+   "E": "Curdy white vaginal discharge"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Absent fetal heart on Doppler suggests a failing pregnancy, which is the most serious finding of those listed; the others are risk factors needing follow-up.",
+  "key_note": "The stem is partly garbled in the source; paper key C kept.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00570"
+  ],
+  "stem": "A G9P6+2 at 36 weeks has blood group O negative, Hb 9 g/dl, platelets 70,000/mm3 and TLC 15,000. She requests epidural analgesia for labour. Which is a contraindication for epidural in her case?",
+  "options": {
+   "A": "Anaemia",
+   "B": "Multiparity",
+   "C": "Leukocytosis",
+   "D": "Rh negative blood group",
+   "E": "Low platelet count"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Neuraxial block risks spinal haematoma when platelets are below about 80,000/mm3; anaemia, parity and Rh status are not contraindications.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01097"
+  ],
+  "stem": "Which of the following tests is not routinely included in antenatal screening?",
+  "options": {
+   "A": "Hepatitis B",
+   "B": "Syphilis",
+   "C": "Rubella",
+   "D": "HIV",
+   "E": "Hepatitis C"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Hepatitis B, HIV and syphilis are offered to every pregnant woman. Routine rubella susceptibility screening is no longer recommended, as immunity is gained through childhood vaccination.",
+  "key_note": "The paper key marked B (Syphilis), but syphilis is a standard antenatal screening test; best answer by reviewer is Rubella.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02421"
+  ],
+  "stem": "A 22-year-old primigravida comes for her first antenatal visit at 10 weeks. What is the most appropriate initial investigation?",
+  "options": {
+   "A": "CTG",
+   "B": "Full blood count",
+   "C": "LFTs",
+   "D": "Oral glucose tolerance test",
+   "E": "X-ray pelvis"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Booking investigations start with full blood count, blood group and Rh, and urine analysis; CTG and OGTT are not indicated at 10 weeks and an X-ray is avoided.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00921",
+   "C00967",
+   "C02969"
+  ],
+  "stem": "For women of normal BMI, the recommended total weight gain in pregnancy is:",
+  "options": {
+   "A": "10-12 kg",
+   "B": "12-14 kg",
+   "C": "11-16 kg",
+   "D": "12-18 kg",
+   "E": "11-15 kg"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "The IOM recommendation is about 11.5 to 16 kg for women with a normal BMI.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00968"
+  ],
+  "stem": "A G4P0A3 asks how many portions of fruit and vegetables she should take per day in pregnancy.",
+  "options": {
+   "A": "3",
+   "B": "4",
+   "C": "5",
+   "D": "6",
+   "E": "8"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Five portions of fruit and vegetables a day is the standard dietary advice.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02425"
+  ],
+  "stem": "A 20-year-old primigravida asks about folic acid. When should it ideally be started?",
+  "options": {
+   "A": "After 20 weeks",
+   "B": "From conception until 12 weeks (ideally started before conception)",
+   "C": "Only in the last trimester",
+   "D": "Only in the second trimester",
+   "E": "Throughout pregnancy"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Folic acid 400 micrograms daily should start at least 1 month before conception and continue until 12 weeks to prevent neural tube defects.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02552"
+  ],
+  "stem": "A woman planning pregnancy asks which supplement should ideally be started before conception to reduce the risk of neural tube defects. What is the best advice?",
+  "options": {
+   "A": "Calcium",
+   "B": "Folic acid",
+   "C": "Iron only",
+   "D": "Vitamin B12",
+   "E": "Vitamin D only"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Periconceptional folic acid reduces the risk of neural tube defects.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01635"
+  ],
+  "stem": "A woman in the second trimester, born outside Pakistan, has never had routine vaccinations. Which vaccine is contraindicated in pregnancy?",
+  "options": {
+   "A": "Hepatitis A",
+   "B": "Tetanus",
+   "C": "Typhoid",
+   "D": "Hepatitis B",
+   "E": "Measles"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Live attenuated vaccines (measles, MMR, varicella, oral polio) are contraindicated in pregnancy. Tetanus, hepatitis A and B and injectable typhoid vaccines are inactivated or subunit vaccines.",
+  "key_note": "Some paper keys marked C (Typhoid); correct is E: measles is a live vaccine.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02427"
+  ],
+  "stem": "A 30-year-old pregnant woman attends routine antenatal care at 28 weeks. Which immunisation is recommended at this time?",
+  "options": {
+   "A": "Hepatitis A vaccine (only for women with risk factors)",
+   "B": "Influenza vaccine",
+   "C": "MMR vaccine",
+   "D": "Tdap (tetanus, diphtheria, pertussis)",
+   "E": "Varicella vaccine"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Tdap is given in every pregnancy between 27 and 36 weeks to protect the newborn against pertussis; MMR and varicella are live vaccines and contraindicated.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02550"
+  ],
+  "stem": "A woman at 30 weeks requires a chest X-ray for suspected pneumonia. What is the best approach?",
+  "options": {
+   "A": "Delay all imaging until after delivery regardless of severity",
+   "B": "Give methotrexate before imaging",
+   "C": "Perform clinically necessary imaging with appropriate radiation precautions",
+   "D": "Perform CT abdomen instead",
+   "E": "Terminate pregnancy"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A chest X-ray with abdominal shielding delivers a negligible fetal dose and should not be withheld when clinically necessary.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03049"
+  ],
+  "stem": "A 30-year-old woman at 12 weeks asks about vaccination in pregnancy. Which vaccine is contraindicated?",
+  "options": {
+   "A": "COVID vaccine",
+   "B": "Influenza vaccine",
+   "C": "Pertussis vaccine",
+   "D": "Rubella vaccine",
+   "E": "Tetanus toxoid"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Rubella (MMR) is a live attenuated vaccine and is contraindicated in pregnancy; pregnancy should be avoided for 1 month after it.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00543",
+   "C02632"
+  ],
+  "stem": "A 30-year-old primigravida booking at 8 weeks smokes 7-10 cigarettes per day. You counsel her that smoking in pregnancy increases the risk of:",
+  "options": {
+   "A": "Placental abruption",
+   "B": "Congenital abnormality",
+   "C": "Malpresentation",
+   "D": "Macrosomia",
+   "E": "Prolonged pregnancy"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Smoking increases placental abruption, placenta praevia, miscarriage, growth restriction, preterm birth and stillbirth; it reduces rather than increases birth weight.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01822"
+  ],
+  "stem": "A 24-year-old IV drug user who smokes attends the antenatal clinic. She has continued heroin throughout pregnancy but has reduced her smoking. Which complication is she most likely to experience?",
+  "options": {
+   "A": "Placental abruption",
+   "B": "Cervical incompetence",
+   "C": "Neonatal withdrawal syndrome",
+   "D": "Antepartum haemorrhage",
+   "E": "Severe intrauterine growth restriction"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Continued opioid use in pregnancy leads to neonatal abstinence syndrome in most exposed infants.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01915"
+  ],
+  "stem": "A 22-year-old primigravida at 28 weeks attends with lower abdominal pain that resolves with rest. There is no palpable mass or tenderness. What is the most probable cause?",
+  "options": {
+   "A": "Appendicitis",
+   "B": "Renal colic",
+   "C": "Inguinal ligament strain",
+   "D": "Symphysis pubis diastasis",
+   "E": "Cystitis"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Stretching of the round and inguinal ligaments by the enlarging uterus causes transient, activity-related groin pain that eases with rest, with no tenderness or mass.",
+  "key_note": "One paper key marked D (Symphysis pubis diastasis); the majority key C is kept.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01977"
+  ],
+  "stem": "What is the most common non-obstetric condition causing abdominal pain in pregnancy that makes clinical diagnosis challenging because of anatomical changes?",
+  "options": {
+   "A": "Fibroid degeneration",
+   "B": "Ovarian cyst torsion",
+   "C": "Acute appendicitis",
+   "D": "Cystitis",
+   "E": "Gastroenteritis"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Acute appendicitis is the commonest non-obstetric surgical emergency in pregnancy, and its signs are altered as the caecum is displaced upwards by the gravid uterus.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02419"
+  ],
+  "stem": "A 30-year-old woman in her second trimester reports leg cramps at night. What contributes most to this symptom?",
+  "options": {
+   "A": "Calcium deficiency",
+   "B": "Dehydration",
+   "C": "Hypokalaemia",
+   "D": "Magnesium deficiency",
+   "E": "Venous stasis"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Nocturnal leg cramps in pregnancy are classically attributed to altered calcium (and magnesium) balance, relieved by stretching and supplements.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02424"
+  ],
+  "stem": "A 24-year-old woman at 36 weeks has mild ankle oedema and normal blood pressure. What is the best next step?",
+  "options": {
+   "A": "Advise rest and leg elevation",
+   "B": "Admit for observation",
+   "C": "Order 24-hour urine protein",
+   "D": "Perform Doppler ultrasound",
+   "E": "Start antihypertensive therapy"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Dependent ankle oedema with normal BP and no proteinuria is physiological and needs reassurance and leg elevation only.",
+  "key_note": "",
+  "figure": ""
+ }
+]

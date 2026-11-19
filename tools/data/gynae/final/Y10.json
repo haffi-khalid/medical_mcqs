@@ -1,0 +1,1203 @@
+[
+ {
+  "cids": [
+   "C00060",
+   "C00427",
+   "C00741",
+   "C01161",
+   "C02027"
+  ],
+  "stem": "Which is the main support of the uterus and the vaginal vault?",
+  "options": {
+   "A": "Round ligament",
+   "B": "Cardinal ligament",
+   "C": "Uterosacral ligament",
+   "D": "Levator ani",
+   "E": "Broad ligament"
+  },
+  "answer": "B",
+  "explanation": "The cardinal (transverse cervical, Mackenrodt) ligaments, with the uterosacral ligaments, form the chief supports of the cervix and upper vagina (DeLancey level I). Round and broad ligaments only maintain position and give little support.",
+  "key_note": "One paper key (HBS) marked A (Round ligament); correct is B: cardinal ligament.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00349"
+  ],
+  "stem": "According to DeLancey's levels of vaginal support, the first level (apical support) is provided by:",
+  "options": {
+   "A": "Uterosacral ligament",
+   "B": "Pubocervical fascia",
+   "C": "Rectovaginal fascia",
+   "D": "Pubo-urethral ligaments",
+   "E": "Perineal body"
+  },
+  "answer": "A",
+  "explanation": "Level I is the apical suspension by the uterosacral-cardinal ligament complex. Level II is the lateral attachment of the mid-vagina (pubocervical and rectovaginal fascia), and level III is the fusion to the urethra, perineal body and levator ani.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00157"
+  ],
+  "stem": "A 40-year-old P3 has perineal pressure, a lump in the vagina and stress incontinence. There is anterior vaginal wall prolapse, while the cervix is well supported, 2 cm above the hymen. This is usually due to weakness of which structure?",
+  "options": {
+   "A": "Cardinal ligament",
+   "B": "Uterosacral ligament",
+   "C": "Round ligament",
+   "D": "Pubocervical fascia",
+   "E": "Posterior pubourethral ligament"
+  },
+  "answer": "D",
+  "explanation": "The cervix is well supported, so cardinal and uterosacral ligaments are intact; isolated anterior wall descent (cystocele) is due to weakness of the pubocervical fascia.",
+  "key_note": "One paper circled B (Uterosacral); correct is D: pubocervical fascia, since the cervix is well supported.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01767"
+  ],
+  "stem": "Which of the following are aetiological factors for uterovaginal prolapse?",
+  "options": {
+   "A": "Ageing",
+   "B": "Oestrogen deprivation",
+   "C": "Intrinsic collagen abnormalities",
+   "D": "Chronic increase in intra-abdominal pressure",
+   "E": "All of the above"
+  },
+  "answer": "E",
+  "explanation": "Prolapse is multifactorial: childbirth trauma, ageing and menopausal oestrogen deficiency, collagen defects, and raised intra-abdominal pressure (cough, obesity, straining).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02028"
+  ],
+  "stem": "A 30-year-old obese nulliparous woman with asthma presents with second degree cervical descent. What is the most common cause of her prolapse?",
+  "options": {
+   "A": "Chronic straining",
+   "B": "Chronic cough",
+   "C": "Pelvic floor weakness",
+   "D": "Obesity",
+   "E": "Connective tissue disease"
+  },
+  "answer": "C",
+  "explanation": "Prolapse results fundamentally from weakness of the pelvic floor supports; cough, obesity and straining only precipitate it.",
+  "key_note": "Ambiguous question: one copy circled B (Chronic cough) but the handwritten key was C; pelvic floor weakness kept.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02164"
+  ],
+  "stem": "A 45-year-old diabetic, hypertensive woman with asthma for 3 years has involuntary loss of urine on coughing or sneezing. What is the cause of the incontinence in this patient?",
+  "options": {
+   "A": "Hypertension",
+   "B": "Diabetes",
+   "C": "Age",
+   "D": "Asthma",
+   "E": "All of them"
+  },
+  "answer": "D",
+  "explanation": "Chronic cough from asthma repeatedly raises intra-abdominal pressure, which overcomes urethral closure pressure and provokes stress incontinence.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02223"
+  ],
+  "stem": "According to the pelvic organ prolapse quantification (POP-Q) system, stage I prolapse is defined as:",
+  "options": {
+   "A": "Leading edge 1 cm below the hymen",
+   "B": "Leading edge more than 1 cm above the hymen",
+   "C": "Complete eversion of the vagina",
+   "D": "Leading edge 2 cm below the hymen",
+   "E": "Leading edge 2 cm above the hymen"
+  },
+  "answer": "B",
+  "explanation": "POP-Q: stage 0 no prolapse; stage I leading edge more than 1 cm above the hymen; stage II within 1 cm above to 1 cm below the hymen; stage III more than 1 cm below; stage IV complete eversion.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00062",
+   "C01438",
+   "C01260",
+   "C02938",
+   "C01936"
+  ],
+  "stem": "A 55-year-old multiparous woman complains of something coming out of the vagina. On examination the cervix is healthy and lies at the level of the introitus. What is the degree of prolapse?",
+  "options": {
+   "A": "First degree",
+   "B": "Second degree",
+   "C": "Third degree",
+   "D": "Cystocele",
+   "E": "Cystourethrocele"
+  },
+  "answer": "B",
+  "explanation": "Classical grading: first degree, cervix descends within the vagina; second degree, cervix reaches the introitus; third degree, cervix lies outside the introitus (procidentia).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01260#S2"
+  ],
+  "stem": "A 68-year-old P5 has had something coming out of the vagina for 2 years. On examination the cervix is healthy and lies outside the introitus, with a normal-sized uterus. What is the diagnosis?",
+  "options": {
+   "A": "First degree prolapse",
+   "B": "Cystocele",
+   "C": "Cystourethrocele",
+   "D": "Second degree prolapse",
+   "E": "Third degree prolapse"
+  },
+  "answer": "E",
+  "explanation": "Cervix lying outside the introitus is third degree uterovaginal prolapse in the classical grading.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01298",
+   "C00154"
+  ],
+  "stem": "An 80-year-old woman presents with an irreducible lump protruding from the vagina. On examination the vagina is turned inside out and the entire uterus lies outside the introitus. This condition is known as:",
+  "options": {
+   "A": "First degree uterovaginal prolapse",
+   "B": "Second degree uterovaginal prolapse",
+   "C": "Procidentia",
+   "D": "Cystocele",
+   "E": "Enterocele"
+  },
+  "answer": "C",
+  "explanation": "Complete eversion of the vagina with the whole uterus outside the introitus is procidentia (third degree prolapse).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02341"
+  ],
+  "stem": "Regarding uterovaginal prolapse, which statement is true?",
+  "options": {
+   "A": "Anterior vaginal wall prolapse is called rectocele",
+   "B": "Stage I: the prolapse reaches the hymen",
+   "C": "Stage II: the prolapse reaches below the hymen",
+   "D": "When the uterus prolapses wholly outside the introitus it is termed procidentia",
+   "E": "Stage III prolapse is always accompanied by enterocele"
+  },
+  "answer": "D",
+  "explanation": "Anterior wall prolapse is cystocele; rectocele is posterior wall. Complete descent of the uterus outside the introitus is procidentia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00172",
+   "C02351"
+  ],
+  "stem": "A 55-year-old postmenopausal woman presents with something coming out of the vagina. On examination there is a bulge of the upper one third of the posterior vaginal wall. What is the most likely diagnosis?",
+  "options": {
+   "A": "Cystocele",
+   "B": "Urethrocele",
+   "C": "Rectocele",
+   "D": "Enterocele",
+   "E": "Procidentia"
+  },
+  "answer": "D",
+  "explanation": "Upper third of the posterior wall bulges when the pouch of Douglas herniates (enterocele); rectocele affects the lower two thirds.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01326",
+   "C02931"
+  ],
+  "stem": "A woman has had perineal pressure for 2 years. On examination there is descent of the upper two thirds of the anterior vaginal wall, the uterus is of normal size and the cervix is above the ischial spine. What is the most likely diagnosis?",
+  "options": {
+   "A": "Enterocele",
+   "B": "Cystocele",
+   "C": "Urethrocele",
+   "D": "Uterovaginal prolapse",
+   "E": "Rectocele"
+  },
+  "answer": "B",
+  "explanation": "Descent of the upper two thirds of the anterior vaginal wall is cystocele (the lower third is urethrocele).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01326#S2"
+  ],
+  "stem": "A woman has had perineal pressure for 2 years. On examination there is descent of the lower two thirds of the posterior vaginal wall, the uterus is of normal size and the cervix is above the ischial spine. What is the most likely diagnosis?",
+  "options": {
+   "A": "Enterocele",
+   "B": "Cystocele",
+   "C": "Urethrocele",
+   "D": "Uterovaginal prolapse",
+   "E": "Rectocele"
+  },
+  "answer": "E",
+  "explanation": "Lower two thirds of the posterior vaginal wall descends in rectocele (the upper third is enterocele).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01440"
+  ],
+  "stem": "A 50-year-old woman has something coming out of the vagina. On examination the cervix is visible with a moderate-sized cystocele. Which of the following is the least likely symptom?",
+  "options": {
+   "A": "Urinary tract infection",
+   "B": "Retention of urine",
+   "C": "Urinary incontinence",
+   "D": "Faecal incontinence",
+   "E": "Frequency of micturition"
+  },
+  "answer": "D",
+  "explanation": "Cystocele causes frequency, incomplete emptying or retention, recurrent UTI and stress incontinence; faecal incontinence is not a feature (it relates to anal sphincter or posterior compartment problems).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02165"
+  ],
+  "stem": "A 49-year-old parous woman feels something coming out of the vagina for 3 years, with urine loss on coughing and sneezing, occasional urgency and a feeling of incomplete bladder emptying. What would you expect to find on examination?",
+  "options": {
+   "A": "Uterovaginal prolapse",
+   "B": "Cervical polyp",
+   "C": "Haemorrhoids",
+   "D": "Uterine inversion",
+   "E": "Vaginal wall cyst"
+  },
+  "answer": "A",
+  "explanation": "A vaginal lump with stress incontinence and incomplete emptying in a parous woman indicates uterovaginal prolapse with cystocele.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01354"
+  ],
+  "stem": "A 30-year-old P1 has perineal pressure. On examination the cervical descent is above the level of the introitus. What is the first line treatment?",
+  "options": {
+   "A": "Ring pessary",
+   "B": "Sacrospinous fixation",
+   "C": "Sacrocolpopexy",
+   "D": "Pelvic floor exercises",
+   "E": "Burch colposuspension"
+  },
+  "answer": "D",
+  "explanation": "Mild (first degree) prolapse in a young woman is managed conservatively with pelvic floor muscle exercises and lifestyle measures; surgery is reserved for symptomatic failures.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00347"
+  ],
+  "stem": "A 23-year-old G3P2+0 (both vaginal deliveries) at 24 weeks of gestation has second degree cervical descent. What is the most appropriate treatment?",
+  "options": {
+   "A": "Manchester repair",
+   "B": "Ring pessary",
+   "C": "Kegel exercises",
+   "D": "Vaginal packing",
+   "E": "Mesh repair"
+  },
+  "answer": "B",
+  "explanation": "Surgery is deferred in pregnancy; a ring pessary relieves symptoms and is safe until after delivery.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00122",
+   "C01814",
+   "C01244",
+   "C02918",
+   "C01439"
+  ],
+  "stem": "A 60-year-old woman with hypertension and ischaemic heart disease has had a sensation of something coming out of the vagina for 6 months. She has second degree uterine prolapse. What is the best management?",
+  "options": {
+   "A": "Kegel exercises",
+   "B": "Burch colposuspension",
+   "C": "Sacrohysteropexy",
+   "D": "Anterior repair",
+   "E": "Insertion of ring pessary"
+  },
+  "answer": "E",
+  "explanation": "In an elderly woman unfit for surgery, a ring pessary gives effective, low-risk symptom relief. Burch is for stress incontinence, and sacrohysteropexy is major abdominal surgery.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01836"
+  ],
+  "stem": "What is the management of an 89-year-old woman with ischaemic heart disease who is not sexually active and presents with procidentia of the uterus?",
+  "options": {
+   "A": "Shelf pessary",
+   "B": "Pelvic floor exercises",
+   "C": "Vaginal hysterectomy",
+   "D": "Hysteroscopy",
+   "E": "Total vaginal mesh procedure"
+  },
+  "answer": "A",
+  "explanation": "A shelf pessary (or Le Fort colpocleisis) suits an elderly, unfit, sexually inactive woman with complete prolapse; surgery and mesh carry avoidable risk.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00351"
+  ],
+  "stem": "All of the following are indications for the use of a pessary EXCEPT:",
+  "options": {
+   "A": "When future childbearing is intended in the near future",
+   "B": "Refusal of operation by the patient",
+   "C": "As a therapeutic test",
+   "D": "Prolapse in pregnancy",
+   "E": "Non-healing decubitus ulcer"
+  },
+  "answer": "E",
+  "explanation": "A pessary is used for prolapse in pregnancy, patients unfit or unwilling for surgery, to defer surgery, or as a therapeutic test. A decubitus ulcer must heal (with oestrogen cream and a pessary-free interval) before a pessary is used.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02104",
+   "C02628",
+   "C02940"
+  ],
+  "stem": "A 56-year-old woman with second degree uterovaginal prolapse is reluctant to undergo surgery and a vaginal pessary is placed. How often does the pessary need to be replaced?",
+  "options": {
+   "A": "2 months",
+   "B": "4 months",
+   "C": "6 months",
+   "D": "1 year",
+   "E": "2 years"
+  },
+  "answer": "C",
+  "explanation": "Ring pessaries are changed about every 6 months (4 to 6 months), with a vaginal examination to check for ulceration.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00328"
+  ],
+  "stem": "A 58-year-old multiparous woman has symptomatic vaginal prolapse. She is counselled about mesh repair and standard vaginal hysterectomy with native tissue repair. Which is the best counselling statement?",
+  "options": {
+   "A": "Mesh repair guarantees a permanent cure of symptoms",
+   "B": "Mesh repair improves anatomy but not symptom relief compared with standard repair",
+   "C": "Standard vaginal hysterectomy has a higher recurrence rate than mesh repair and more complications",
+   "D": "Symptom relief is always better with mesh repair than standard surgery",
+   "E": "Vaginal hysterectomy should never be offered when mesh is available"
+  },
+  "answer": "B",
+  "explanation": "Trials show vaginal mesh gives a better anatomical result but no better symptom relief than native tissue repair, with added mesh-specific complications (erosion, pain), so routine vaginal mesh is not recommended.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02314"
+  ],
+  "stem": "Which is the preferred treatment for stage II pelvic organ prolapse: mesh repair or ring pessary?",
+  "options": {
+   "A": "Mesh repair",
+   "B": "Ring pessary"
+  },
+  "answer": "B",
+  "explanation": "Stage II prolapse is first managed conservatively; a ring pessary is first-line, whereas vaginal mesh is not recommended for routine primary repair.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01300"
+  ],
+  "stem": "A 78-year-old woman has third degree uterovaginal prolapse and an ulcer on the anterior lip of the cervix. What is the next best step?",
+  "options": {
+   "A": "Biopsy of the ulcer",
+   "B": "Place a pessary",
+   "C": "Prescribe oral oestrogen",
+   "D": "Excision of the ulcer",
+   "E": "Topical vaginal oestrogen cream"
+  },
+  "answer": "A",
+  "explanation": "A cervical ulcer in a prolapsed cervix may be a decubitus ulcer but malignancy must be excluded first by biopsy before treatment.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02166"
+  ],
+  "stem": "A 65-year-old P7 with osteoporosis, hypertension and coronary artery disease has a sensation of heaviness and pressure in the vagina. She has first degree uterine prolapse. What is the next step in management?",
+  "options": {
+   "A": "Reassurance",
+   "B": "Placement of a pessary",
+   "C": "Vaginal hysterectomy",
+   "D": "Anterior repair",
+   "E": "Le Fort procedure"
+  },
+  "answer": "B",
+  "explanation": "She is symptomatic but a poor surgical candidate, so a pessary is appropriate.",
+  "key_note": "One paper copy showed both A and B in bold; B kept as she is symptomatic.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00152",
+   "C01299",
+   "C01261"
+  ],
+  "stem": "A 55-year-old multiparous woman has had a lump coming out of the vagina for 6 months, with difficulty in micturition and occasional constipation. The cervix is seen outside the introitus. What is the most appropriate definitive management?",
+  "options": {
+   "A": "Pelvic floor strengthening exercises",
+   "B": "Pessary insertion with regular follow-up",
+   "C": "Vaginal hysterectomy with pelvic floor repair",
+   "D": "Manchester repair",
+   "E": "Abdominal hysterectomy only"
+  },
+  "answer": "C",
+  "explanation": "Definitive treatment of symptomatic uterine prolapse in a woman who has completed her family is vaginal hysterectomy with repair of the anterior and posterior compartments.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01327"
+  ],
+  "stem": "A 55-year-old widow, P4, has had perineal pressure for 3 years. The uterus is atrophic and the cervix is ulcerated and lies outside the introitus. What is the best surgical treatment?",
+  "options": {
+   "A": "Manchester repair",
+   "B": "Sacrocolpopexy",
+   "C": "Burch colposuspension",
+   "D": "Vaginal hysterectomy",
+   "E": "Ring pessary"
+  },
+  "answer": "D",
+  "explanation": "A postmenopausal woman with completed family and a prolapsed, ulcerated cervix is best treated by vaginal hysterectomy with repair; Manchester repair would leave the diseased cervix.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00165"
+  ],
+  "stem": "A 46-year-old para 4 has dragging pelvic pain, backache and urinary frequency from second degree uterovaginal prolapse. She has completed her family and wants a definitive treatment. What is the most appropriate management?",
+  "options": {
+   "A": "Kegel exercises",
+   "B": "Ring pessary insertion",
+   "C": "Vaginal hysterectomy with pelvic floor repair",
+   "D": "Manchester operation",
+   "E": "Abdominal hysterectomy"
+  },
+  "answer": "C",
+  "explanation": "Definitive management after completed family is vaginal hysterectomy with repair; a pessary or exercises are only temporary.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00103",
+   "C02167"
+  ],
+  "stem": "A 38-year-old woman with second degree uterovaginal prolapse for 5 years wants to preserve future fertility. What is the best treatment of choice?",
+  "options": {
+   "A": "Manchester repair",
+   "B": "Ring pessary insertion",
+   "C": "Sacrohysteropexy",
+   "D": "Vaginal hysterectomy",
+   "E": "Colpocleisis"
+  },
+  "answer": "C",
+  "explanation": "Sacrohysteropexy (mesh suspension of the uterus to the sacral promontory) is the uterus-conserving surgical repair that preserves fertility; hysterectomy and colpocleisis end fertility, and Manchester repair risks cervical incompetence.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02163",
+   "C01301"
+  ],
+  "stem": "A 33-year-old P1+0 has second degree uterovaginal prolapse and her family is incomplete. Which operation would you offer?",
+  "options": {
+   "A": "Le Fort operation",
+   "B": "Vaginal hysterectomy",
+   "C": "Manchester repair",
+   "D": "Abdominal hysterectomy",
+   "E": "Anterior and posterior colporrhaphy"
+  },
+  "answer": "C",
+  "explanation": "Manchester (Fothergill) repair conserves the uterus, so it is the classical choice for a young woman with cervical elongation and incomplete family; Le Fort and hysterectomy end childbearing.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00173",
+   "C02353"
+  ],
+  "stem": "A 32-year-old P2 has perineal pressure and uterine descent with the cervix 3 cm below the hymen. She requests uterus-preserving surgery. Which laparoscopic procedure would you offer?",
+  "options": {
+   "A": "Manchester repair",
+   "B": "Sacrohysteropexy",
+   "C": "Sacrospinous hysteropexy",
+   "D": "Pectineal ligament suspension",
+   "E": "Sacrocolpopexy"
+  },
+  "answer": "B",
+  "explanation": "Sacrohysteropexy can be done laparoscopically; sacrospinous hysteropexy is a vaginal operation, and sacrocolpopexy is for vault prolapse after hysterectomy.",
+  "key_note": "One paper key marked C (Sacrospinous hysteropexy); correct is B, as sacrospinous fixation is not performed laparoscopically.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01549",
+   "C00174"
+  ],
+  "stem": "A young woman with third degree uterovaginal prolapse has a family history of (or symptoms suggesting) a connective tissue disorder, and wants to keep her uterus. What is the best treatment option?",
+  "options": {
+   "A": "Abdominal hysterectomy",
+   "B": "Ring pessary",
+   "C": "Sacrocolpopexy",
+   "D": "Sacrohysteropexy",
+   "E": "Vaginal hysterectomy"
+  },
+  "answer": "D",
+  "explanation": "Native-tissue vaginal repairs fail in connective tissue disorders; abdominal mesh sacrohysteropexy gives durable uterine support while preserving the uterus.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00171"
+  ],
+  "stem": "A 40-year-old P3 has stress incontinence and a moderate cystourethrocele. What is the most appropriate step in her management?",
+  "options": {
+   "A": "Ring pessary",
+   "B": "Sacrohysteropexy",
+   "C": "Pelvic floor exercises",
+   "D": "Burch colposuspension",
+   "E": "Posterior repair"
+  },
+  "answer": "A",
+  "explanation": "The papers keyed a ring pessary for a symptomatic cystourethrocele; pelvic floor muscle training is the other reasonable first step, while surgery is reserved for failed conservative care.",
+  "key_note": "Paper keys marked ring pessary; pelvic floor exercises would also be a reasonable first-line answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01558"
+  ],
+  "stem": "A 52-year-old P7 has had something coming out of the vagina for a year. She has a marked cystocele. What is the most appropriate surgical management?",
+  "options": {
+   "A": "Anterior colporrhaphy",
+   "B": "Posterior colpoperineorrhaphy",
+   "C": "Kelly's suture",
+   "D": "Sacrohysteropexy",
+   "E": "Transvaginal tape"
+  },
+  "answer": "A",
+  "explanation": "Anterior colporrhaphy (anterior repair) is the operation for cystocele; Kelly plication is for stress incontinence and posterior repair is for rectocele.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00758",
+   "C00758#S2"
+  ],
+  "stem": "A 52-year-old woman had total abdominal hysterectomy and BSO 10 years ago. She now has a large vault prolapse beyond the introitus and a deficient perineum. What is the best treatment?",
+  "options": {
+   "A": "Insertion of vaginal pessary",
+   "B": "Colpocleisis",
+   "C": "Abdominal sacrocolpopexy",
+   "D": "Vaginal repair with sacrospinous fixation",
+   "E": "Anteroposterior repair"
+  },
+  "answer": "D",
+  "explanation": "Vault prolapse with a deficient perineum is corrected vaginally, with sacrospinous fixation of the vault plus repair of the perineum.",
+  "key_note": "Abdominal sacrocolpopexy is also a recognised standard; the paper keys favoured vaginal repair with sacrospinous fixation.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00405",
+   "C01305",
+   "C02107",
+   "C02340",
+   "C00059",
+   "C01353",
+   "C01579",
+   "C01365"
+  ],
+  "stem": "A 40-year-old multiparous woman has involuntary loss of urine on coughing, laughing, lifting or standing. The history is most suggestive of:",
+  "options": {
+   "A": "Fistula",
+   "B": "Stress incontinence",
+   "C": "Urge incontinence",
+   "D": "Urethral diverticulum",
+   "E": "Urinary tract infection"
+  },
+  "answer": "B",
+  "explanation": "Leakage precipitated by raised intra-abdominal pressure (cough, laugh, lifting) is stress incontinence; urge incontinence follows a sudden desire to void, and a fistula causes continuous leakage.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01579#S2"
+  ],
+  "stem": "A 35-year-old nulliparous secretary has leakage of urine and cannot control her urine. Her vitals are stable and BMI is 25 kg/m2. What is the most likely type of incontinence?",
+  "options": {
+   "A": "Urge incontinence",
+   "B": "Stress incontinence",
+   "C": "Overflow incontinence",
+   "D": "Urethral incontinence",
+   "E": "None of the above"
+  },
+  "answer": "A",
+  "explanation": "A young nulliparous woman with a normal BMI and inability to hold urine most likely has urge incontinence (overactive bladder) rather than stress incontinence.",
+  "key_note": "The stem gives no trigger for the leakage so the question is ambiguous; the paper key was A (Urge incontinence).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01364"
+  ],
+  "stem": "A 45-year-old P3A2 who delivered good-sized babies has leakage of urine on exertion. What is the most likely cause of her incontinence?",
+  "options": {
+   "A": "Intrinsic sphincter deficiency",
+   "B": "Urethral sphincter weakness",
+   "C": "Detrusor muscle weakness",
+   "D": "Neurogenic bladder",
+   "E": "Functional bladder"
+  },
+  "answer": "A",
+  "explanation": "Leakage on exertion reflects failure of urethral closure, attributed here to sphincter deficiency; neurogenic and detrusor causes give urge or overflow symptoms.",
+  "key_note": "Options A and B overlap; the paper key was A (Intrinsic sphincter deficiency).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02026"
+  ],
+  "stem": "A 60-year-old para 5 with BMI 40 and bronchiectasis has involuntary leakage of urine on coughing. Urodynamic testing shows leakage from the urethra on coughing without detrusor contraction. What is the diagnosis?",
+  "options": {
+   "A": "Overactive bladder",
+   "B": "Stress incontinence",
+   "C": "Urge incontinence",
+   "D": "Mixed incontinence",
+   "E": "Overflow incontinence"
+  },
+  "answer": "B",
+  "explanation": "Leakage with raised abdominal pressure and no detrusor contraction on urodynamics is urodynamic stress incontinence; obesity, parity and chronic cough are risk factors.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01262",
+   "C02930",
+   "C00166",
+   "C02219"
+  ],
+  "stem": "A 50-year-old woman has frequency and increasing urgency for 6 months and is unable to hold urine once she feels the desire. What is the most likely diagnosis?",
+  "options": {
+   "A": "Stress incontinence",
+   "B": "Urge incontinence",
+   "C": "Mixed incontinence",
+   "D": "Overflow incontinence",
+   "E": "Nocturnal enuresis"
+  },
+  "answer": "B",
+  "explanation": "Urgency with inability to defer voiding and leakage on the way to the toilet is urge incontinence (overactive bladder).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00160"
+  ],
+  "stem": "A 63-year-old woman has sudden urges to urinate, sometimes with leakage before reaching the toilet, but no leakage on coughing or sneezing, and no infection. A diagnosis of urge incontinence is made. Which is the most likely contributing risk factor?",
+  "options": {
+   "A": "History of multiple vaginal deliveries",
+   "B": "Oestrogen replacement therapy",
+   "C": "Neurological disorder such as multiple sclerosis",
+   "D": "Use of selective serotonin reuptake inhibitors",
+   "E": "Low fluid intake"
+  },
+  "answer": "C",
+  "explanation": "Neurological disease (MS, stroke, spinal lesions) causes detrusor overactivity; multiple deliveries predispose to stress incontinence.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02222"
+  ],
+  "stem": "A P3+0 has second degree uterovaginal prolapse and urinary incontinence. Which type of incontinence is associated with uterovaginal prolapse?",
+  "options": {
+   "A": "Urge incontinence",
+   "B": "Overflow incontinence",
+   "C": "Stress incontinence",
+   "D": "Retention with overflow",
+   "E": "All of the above"
+  },
+  "answer": "E",
+  "explanation": "Prolapse may be accompanied by stress incontinence (cystocele), urgency, and voiding difficulty with overflow from urethral kinking, so all types occur.",
+  "key_note": "Paper marks conflicted (B, C and E were all marked on one copy); E chosen as all types are described with prolapse.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01437",
+   "C01245",
+   "C00168"
+  ],
+  "stem": "A woman who had a hysterectomy a few weeks ago presents with continuous leakage of urine from the vagina. What is the most likely diagnosis?",
+  "options": {
+   "A": "Urge incontinence",
+   "B": "Stress incontinence",
+   "C": "Overflow incontinence",
+   "D": "Vesicovaginal fistula",
+   "E": "Urethral incontinence"
+  },
+  "answer": "D",
+  "explanation": "Continuous leakage after pelvic surgery, unrelated to effort or urgency, is vesicovaginal fistula from bladder injury.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01307",
+   "C03095"
+  ],
+  "stem": "A 23-year-old woman has continuous leakage of urine for 2 months. She had a caesarean section for obstructed labour. What is the most probable diagnosis?",
+  "options": {
+   "A": "Stress incontinence",
+   "B": "Urge incontinence",
+   "C": "Retention with overflow",
+   "D": "Urinary tract infection",
+   "E": "Fistula formation"
+  },
+  "answer": "E",
+  "explanation": "Continuous incontinence after obstructed labour or its operative delivery suggests a vesicovaginal fistula from pressure necrosis or bladder injury.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01160"
+  ],
+  "stem": "A 60-year-old P6 diabetic woman presents on the tenth postoperative day after hysterectomy with urinary incontinence, burning micturition and dysuria for 5 days. What is the most common cause of her problem?",
+  "options": {
+   "A": "Urinary tract infection",
+   "B": "Diabetic neuropathy",
+   "C": "Atonic bladder",
+   "D": "Vesicovaginal fistula",
+   "E": "Excessive fluid intake"
+  },
+  "answer": "A",
+  "explanation": "Burning micturition and dysuria after catheterisation in a diabetic point to UTI, the commonest postoperative urinary complication.",
+  "key_note": "The source stem was partly garbled and was reconstructed; the paper key was A (UTI).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02339"
+  ],
+  "stem": "What is the most common cause of vesicovaginal fistula in underdeveloped countries?",
+  "options": {
+   "A": "Obstetric injuries",
+   "B": "Pelvic irradiation",
+   "C": "Carcinoma",
+   "D": "Operative injury",
+   "E": "Crohn disease"
+  },
+  "answer": "A",
+  "explanation": "Prolonged obstructed labour causes pressure necrosis of the bladder base and vagina; in developed countries gynaecological surgery is the commonest cause.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01263",
+   "C02932",
+   "C00155",
+   "C01959",
+   "C02221",
+   "C00170",
+   "C01749"
+  ],
+  "stem": "A 55-year-old postmenopausal woman attends with troublesome urinary incontinence for one month. What is the first step in her management?",
+  "options": {
+   "A": "Cystoscopy",
+   "B": "Bladder diary",
+   "C": "Mid-stream urine",
+   "D": "Cystourethrogram",
+   "E": "Intravenous pyelogram"
+  },
+  "answer": "C",
+  "explanation": "Urinalysis and MSU culture first exclude UTI, a common treatable cause of new incontinence, before further investigations.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00162"
+  ],
+  "stem": "A 48-year-old woman has urinary incontinence for 6 months, with leakage on coughing or sneezing and also sudden uncontrollable urges followed by leakage. There is no fever, dysuria or haematuria and no prolapse. What is the first-line investigation?",
+  "options": {
+   "A": "Multichannel urodynamic study",
+   "B": "Cystoscopy",
+   "C": "Urinalysis and urine culture",
+   "D": "Ultrasound KUB",
+   "E": "Intravenous urography"
+  },
+  "answer": "C",
+  "explanation": "Mixed symptoms are first assessed by history, bladder diary and urinalysis with culture; urodynamics is considered only if the diagnosis is uncertain or before surgery.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01366",
+   "C01556"
+  ],
+  "stem": "A 45-year-old P6 with previous normal deliveries has urgency, frequency, nocturia and something coming out of the vagina for a year. She has already tried lifestyle modification and pelvic floor exercises. What investigation is required to diagnose the problem?",
+  "options": {
+   "A": "Mid-stream urine",
+   "B": "USG abdomen and pelvis",
+   "C": "Urodynamic studies",
+   "D": "Urine culture and sensitivity",
+   "E": "Renal function test"
+  },
+  "answer": "C",
+  "explanation": "When conservative treatment fails and symptoms are mixed or a prolapse coexists, urodynamic studies establish the type of incontinence before surgery.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02106"
+  ],
+  "stem": "A 73-year-old woman presents with frequency, urgency and haematuria. What is the immediate management?",
+  "options": {
+   "A": "Urodynamic assessment",
+   "B": "Renal tract USG",
+   "C": "Urgent cystoscopy",
+   "D": "Laparoscopy",
+   "E": "X-ray of the urinary tract"
+  },
+  "answer": "C",
+  "explanation": "Urinary symptoms with visible haematuria in an older woman need urgent cystoscopy to exclude bladder cancer.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00759"
+  ],
+  "stem": "A 52-year-old woman has constant leakage of urine and dysuria 2 weeks after a complicated TAH. A vesicovaginal fistula is suspected. What is the most important test for diagnosis?",
+  "options": {
+   "A": "Triple swab (three-swab dye) test",
+   "B": "Urine culture",
+   "C": "Cystoscopy",
+   "D": "Intravenous pyelogram",
+   "E": "MRI"
+  },
+  "answer": "A",
+  "explanation": "The methylene blue three-swab test confirms a vesicovaginal fistula by staining of the vaginal swabs; cystoscopy and IVU then define the site and ureteric involvement.",
+  "key_note": "Some paper keys marked D (IVP) and one copy marked C (Cystoscopy); IVP checks the ureters but the dye test confirms the fistula, so A.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01564"
+  ],
+  "stem": "A woman who had a hysterectomy 3 months ago has urine leaking from the vagina and a vesicovaginal fistula is suspected. Which radiologic test is the most appropriate in her evaluation?",
+  "options": {
+   "A": "Intravenous pyelography (IVP)",
+   "B": "Voiding cystourethrography (VCUG)",
+   "C": "CT of the pelvis",
+   "D": "Positive pressure urethrography",
+   "E": "MRI of the pelvis"
+  },
+  "answer": "A",
+  "explanation": "IVP is the standard radiologic study because ureterovaginal fistula often coexists with vesicovaginal fistula after hysterectomy; VCUG shows the bladder fistula alone.",
+  "key_note": "Two paper keys marked B (VCUG); IVP kept as the standard exam answer since ureteric injury must be excluded.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00061"
+  ],
+  "stem": "The aim of pelvic floor (Kegel) exercises in stress incontinence is to:",
+  "options": {
+   "A": "Strengthen the abdominal muscles",
+   "B": "Increase blood flow to the perineum",
+   "C": "Improve the tone of muscles surrounding the bladder base and neck",
+   "D": "Prevent denervation of pelvic muscles",
+   "E": "Decrease muscle atrophy"
+  },
+  "answer": "C",
+  "explanation": "Repeated pelvic floor contractions strengthen the levator ani and periurethral muscles, improving urethral closure and support of the bladder neck.",
+  "key_note": "The stem was partly cropped in the source and was reconstructed.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00501"
+  ],
+  "stem": "A 51-year-old woman with two previous vaginal deliveries leaks urine on coughing and sneezing for 3 months, with a normal examination. What would you advise about the number of pelvic floor contractions and frequency of the exercise programme per day?",
+  "options": {
+   "A": "At least four contractions, three times per day",
+   "B": "At least six contractions, three times per day",
+   "C": "At least eight contractions, three times per day",
+   "D": "At least 10 contractions, three times per day"
+  },
+  "answer": "C",
+  "explanation": "NICE advises supervised pelvic floor muscle training of at least eight contractions three times daily for a minimum of 3 months.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00163",
+   "C01559",
+   "C01747"
+  ],
+  "stem": "A 42-year-old multiparous woman leaks urine on coughing, sneezing or lifting for 1 year, with no cystocele, a post-void residual below 20 mL and a normal urine report. What is the most appropriate initial management?",
+  "options": {
+   "A": "Mid-urethral sling surgery",
+   "B": "Anticholinergic medication",
+   "C": "Pelvic floor (Kegel) exercises",
+   "D": "Urethral bulking agent injection",
+   "E": "Oestrogen vaginal cream"
+  },
+  "answer": "C",
+  "explanation": "Pelvic floor muscle training for at least 3 months is first-line for stress incontinence; surgery follows if it fails.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02768"
+  ],
+  "stem": "A 53-year-old para 2 has had urine leakage on sneezing for 12 months. Six months of pelvic floor exercises failed, there is no prolapse and the urine report is normal. What is the most appropriate option?",
+  "options": {
+   "A": "Anterior colporrhaphy",
+   "B": "Paraurethral bulking agent",
+   "C": "Intramural bulking agent",
+   "D": "Antimuscarinic medication",
+   "E": "Mid-urethral tape"
+  },
+  "answer": "E",
+  "explanation": "After failed conservative treatment, a mid-urethral tape (TVT or TOT) is the standard surgery for stress incontinence.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02220"
+  ],
+  "stem": "A 38-year-old P3 has involuntary loss of urine on coughing for one year. Which pharmacological treatment would you offer to improve her condition before surgery?",
+  "options": {
+   "A": "Alpha 1 adrenoreceptor agonist",
+   "B": "Oestrogen",
+   "C": "Tricyclic antidepressant",
+   "D": "Serotonin and noradrenaline reuptake inhibitor (duloxetine)",
+   "E": "Beta adrenoreceptor agonist"
+  },
+  "answer": "D",
+  "explanation": "Duloxetine increases urethral sphincter tone via Onuf nucleus and is the drug for stress incontinence in women who decline or await surgery.",
+  "key_note": "Source marks were unclear (D highlighted, E outlined); D is correct.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02105"
+  ],
+  "stem": "Burch colposuspension is performed to cure:",
+  "options": {
+   "A": "Urge incontinence",
+   "B": "Stress incontinence",
+   "C": "Complete procidentia",
+   "D": "Enterocele",
+   "E": "Rectocele"
+  },
+  "answer": "B",
+  "explanation": "Burch colposuspension elevates the bladder neck by suturing the paravaginal tissue to the ileopectineal ligament to correct stress incontinence.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01306",
+   "C02352"
+  ],
+  "stem": "A 40-year-old P4+1 has stress incontinence. She had prolonged labour and difficult instrumental deliveries and asks about surgical treatment. What is the treatment option?",
+  "options": {
+   "A": "Posterior colporrhaphy",
+   "B": "Tension-free vaginal tape (TVT)",
+   "C": "Vaginal hysterectomy",
+   "D": "Total abdominal hysterectomy",
+   "E": "Sacrohysteropexy"
+  },
+  "answer": "B",
+  "explanation": "TVT, a mid-urethral tape, is the operation of choice for stress incontinence; hysterectomy and prolapse operations do not treat it.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01760"
+  ],
+  "stem": "Bladder training is recommended for:",
+  "options": {
+   "A": "Stress incontinence",
+   "B": "Overactive bladder",
+   "C": "Mixed incontinence",
+   "D": "Urinary tract infection",
+   "E": "Neurogenic bladder"
+  },
+  "answer": "B",
+  "explanation": "Bladder retraining (timed voiding with progressive lengthening of intervals) is the first-line treatment for urge incontinence and overactive bladder.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02767"
+  ],
+  "stem": "A 49-year-old para 1 has frequency and urgency of micturition. Her BMI is 27 and she drinks four cups of coffee daily. Which lifestyle intervention is the most important to improve her symptoms?",
+  "options": {
+   "A": "Lose weight",
+   "B": "Reduce caffeine intake",
+   "C": "Reduce fluid intake",
+   "D": "Stop smoking",
+   "E": "Walk more"
+  },
+  "answer": "B",
+  "explanation": "Caffeine is a bladder irritant and diuretic; reducing intake improves urgency and frequency.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00164"
+  ],
+  "stem": "A 55-year-old woman has sudden uncontrollable urges to void followed by urine loss, passes small amounts frequently and has no leakage on coughing. There is no prolapse, residual urine is 10 mL and urinalysis is normal. What is the most appropriate initial treatment?",
+  "options": {
+   "A": "Pelvic floor muscle training",
+   "B": "Bladder retraining and anticholinergic therapy",
+   "C": "Urethral bulking agent injection",
+   "D": "Vaginal oestrogen cream",
+   "E": "Mid-urethral sling procedure"
+  },
+  "answer": "B",
+  "explanation": "This is urge incontinence due to overactive bladder, treated first with bladder retraining and, if needed, antimuscarinic drugs; sling surgery is for stress incontinence.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00161",
+   "C00167"
+  ],
+  "stem": "A 55-year-old woman has urgency, nocturia and urge incontinence for 8 months, with normal urinalysis and detrusor overactivity on cystometry. Which is the most appropriate first-line treatment?",
+  "options": {
+   "A": "Pelvic floor muscle training",
+   "B": "Antimuscarinic agents (anticholinergics)",
+   "C": "Mid-urethral sling surgery",
+   "D": "Duloxetine therapy",
+   "E": "Intravesical botulinum toxin injection"
+  },
+  "answer": "B",
+  "explanation": "Antimuscarinics (with bladder retraining) are first-line drug treatment for detrusor overactivity; botulinum toxin is second-line, and slings and duloxetine are for stress incontinence.",
+  "key_note": "One paper circled A (Pelvic floor muscle training), which treats stress incontinence; B is the best listed answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01950"
+  ],
+  "stem": "A 66-year-old woman has frequency and urgency and cannot reach the toilet in time. What is the first line drug for this condition?",
+  "options": {
+   "A": "Oxybutynin",
+   "B": "Duloxetine",
+   "C": "Topical oestrogen",
+   "D": "Antibiotics",
+   "E": "Botulinum toxin injection"
+  },
+  "answer": "A",
+  "explanation": "Oxybutynin, an antimuscarinic, is the first-line drug for urge incontinence; duloxetine is for stress incontinence and botulinum toxin is second-line.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00156",
+   "C00159"
+  ],
+  "stem": "A 36-year-old teacher attends clinic with frequent voiding of small amounts of urine. What is the most appropriate treatment?",
+  "options": {
+   "A": "Marshall-Marchetti-Krantz operation",
+   "B": "Burch colposuspension",
+   "C": "Transvaginal tape",
+   "D": "Cephalosporin",
+   "E": "Tolterodine"
+  },
+  "answer": "E",
+  "explanation": "Frequency with small voids and no infection is overactive bladder, treated with an antimuscarinic such as tolterodine; the operations are for stress incontinence.",
+  "key_note": "One paper circled C (Transvaginal tape), which treats stress incontinence; correct is E.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00158"
+  ],
+  "stem": "A 56-year-old woman has urge urinary incontinence confirmed on investigation. Which is the most suitable treatment of those listed?",
+  "options": {
+   "A": "Urethral bulking agent",
+   "B": "Pubovaginal sling",
+   "C": "Mid-urethral tape",
+   "D": "Urinary diversion",
+   "E": "Bladder cystoplasty"
+  },
+  "answer": "E",
+  "explanation": "Of these options, only bladder (clam) cystoplasty treats refractory detrusor overactivity; bulking agents, slings and tapes are for stress incontinence.",
+  "key_note": "One paper marked C (Mid-urethral tape), which treats stress incontinence; correct is E among the options listed.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00757"
+  ],
+  "stem": "A 45-year-old woman has a 5-year history of stress incontinence, urgency and urge incontinence, with a normal BMI and weak pelvic floor muscles. What is the first line of management?",
+  "options": {
+   "A": "Commence oral anticholinergic medication for 8 weeks",
+   "B": "Urodynamic assessment to define the underlying cause",
+   "C": "Supervised pelvic floor exercises and bladder retraining",
+   "D": "Admit for cystoscopy",
+   "E": "Send urine R/E and start antibiotics"
+  },
+  "answer": "C",
+  "explanation": "Mixed incontinence is treated first with supervised pelvic floor muscle training and bladder retraining; drugs, urodynamics and surgery follow if this fails.",
+  "key_note": "",
+  "figure": ""
+ }
+]

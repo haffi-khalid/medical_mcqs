@@ -1,0 +1,756 @@
+[
+ {
+  "cids": [
+   "C00006"
+  ],
+  "stem": "A 22-year-old primigravida at 16 weeks was found to have beta thalassaemia minor during an anaemia work-up. Her husband, who is also her first cousin, has beta thalassaemia trait. What is the chance that their offspring will have thalassaemia major?",
+  "options": {
+   "A": "1:2",
+   "B": "1:3",
+   "C": "1:4",
+   "D": "1:5",
+   "E": "1:6"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Both parents are heterozygous carriers of an autosomal recessive condition, so each pregnancy carries a 25% (1 in 4) risk of an affected child, 50% carrier and 25% normal.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01846"
+  ],
+  "stem": "A 25-year-old primigravida at 20 weeks has a family history of classic haemophilia: her maternal uncle and her brother are affected. Ultrasound shows a male fetus. What is the chance that her son will inherit haemophilia?",
+  "options": {
+   "A": "25%",
+   "B": "50%",
+   "C": "33%",
+   "D": "100%",
+   "E": "Impossible to say"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Her brother is affected, so her mother is an obligate carrier and the patient has a 50% chance of being a carrier. A carrier passes the X-linked gene to a son in 50%, so the risk is 50% x 50% = 25%.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01847"
+  ],
+  "stem": "A mother with blood group AB has an AB child. She wishes to establish paternity by blood typing. Which genotype excludes a male from being the biological father?",
+  "options": {
+   "A": "AA",
+   "B": "BB",
+   "C": "BO",
+   "D": "AO",
+   "E": "OO"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "An AB child must receive A or B from the father along with the other allele from the mother. A man with genotype OO has neither allele and is excluded; the other genotypes carry A or B.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01863"
+  ],
+  "stem": "A simian crease is most closely associated with which of the following?",
+  "options": {
+   "A": "Turner syndrome",
+   "B": "Down syndrome",
+   "C": "Cri du chat syndrome",
+   "D": "Klinefelter syndrome",
+   "E": "Trisomy 13"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "A single transverse palmar crease is a classic feature of Down syndrome (about half of cases), along with sandal gap, hypotonia and flat facies.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00593",
+   "C01898"
+  ],
+  "stem": "A 36-year-old G2P1 books at 8 weeks. A friend has just had a baby with Down syndrome and she is concerned. Which of the following is the risk factor most clearly linked with Down syndrome?",
+  "options": {
+   "A": "Uterine abnormality",
+   "B": "Delayed menarche",
+   "C": "Maternal smoking",
+   "D": "Maternal age more than 35 years",
+   "E": "Assisted reproduction"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Advanced maternal age (nondisjunction in meiosis I) is the established risk factor for trisomy 21; risk rises steeply after 35 years.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01699",
+   "C00840"
+  ],
+  "stem": "A primigravida in the first trimester has a fetal ultrasound showing increased nuchal translucency. This is associated with which of the following?",
+  "options": {
+   "A": "Down syndrome",
+   "B": "Turner syndrome",
+   "C": "Klinefelter syndrome",
+   "D": "Edward syndrome",
+   "E": "Patau syndrome"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Increased nuchal translucency is the commonest first-trimester marker of Down syndrome (trisomy 21), though it is also raised in Edward, Patau and Turner syndromes; Down is the best answer here.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00510"
+  ],
+  "stem": "A 37-year-old primigravida at antenatal booking asks about nuchal translucency scanning. Which statement about this test is correct?",
+  "options": {
+   "A": "It will diagnose structural anomalies of the fetal head and neck",
+   "B": "It will eliminate the need for the anomaly scan at 20 weeks",
+   "C": "It will screen for Turner syndrome because of the webbed neck",
+   "D": "It will screen for Down syndrome",
+   "E": "It is now an obsolete test"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Nuchal translucency (11-13+6 weeks) is a screening marker for Down syndrome and other aneuploidies; it does not replace the anomaly scan and is not diagnostic.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03102"
+  ],
+  "stem": "A primigravida at 13 weeks has an ultrasound report showing nuchal translucency of 1.2 mm; fetal limbs and heart chambers are normal. She has a family history of babies with anomalies. How do you explain this nuchal translucency?",
+  "options": {
+   "A": "Indicative of intrauterine growth restriction",
+   "B": "Abnormal baby might develop trisomy",
+   "C": "Marker of dysplasia and disruptions",
+   "D": "Directing towards genetic syndrome",
+   "E": "Normal, so no need to worry"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "A nuchal translucency below 3.5 mm (or under the 95th centile for the CRL) is considered normal, so 1.2 mm is reassuring.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03128"
+  ],
+  "stem": "A 32-year-old primigravida has a first-trimester ultrasound at 13 weeks showing nuchal translucency of 5 mm. What is the most likely implication?",
+  "options": {
+   "A": "Increased risk of chromosomal abnormalities such as Down syndrome",
+   "B": "Presence of a uterine fibroid affecting fetal development",
+   "C": "Potential for gestational hypertension or pre-eclampsia later in pregnancy",
+   "D": "Confirmation of fetal gender",
+   "E": "Elevated risk of structural anomalies such as congenital heart defects"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "A markedly increased nuchal translucency (3.5 mm or more) mainly indicates aneuploidy, especially trisomy 21.",
+  "key_note": "Option E is also a recognised association; the paper key A (chromosomal abnormality) is the best single answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01754"
+  ],
+  "stem": "Which of the following statements regarding nuchal translucency evaluation is true?",
+  "options": {
+   "A": "It is not effective in multiple gestation",
+   "B": "Used alone it detects 80% of Down syndrome cases",
+   "C": "The highest Down syndrome detection rate occurs when it is applied in the form of an integrated test",
+   "D": "It is performed in the 3rd trimester",
+   "E": "When combined with serum markers in the first trimester, it detects 100% of Down syndrome cases"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Nuchal translucency alone detects roughly 75-80% of Down syndrome cases at a 5% false positive rate. It can be used in twins and is done at 11-13+6 weeks; no screening combination detects 100%.",
+  "key_note": "Option C was circled in one paper and is arguable (integrated test detects about 90-95%); paper printed key B is retained.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01755"
+  ],
+  "stem": "All of the following are 'soft signs' or second-trimester sonographic markers of Down syndrome EXCEPT:",
+  "options": {
+   "A": "Echogenic bowel",
+   "B": "Short femur",
+   "C": "Nasal bone hypoplasia",
+   "D": "Small ventricular septal defect",
+   "E": "Webbed neck at ultrasound"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Echogenic bowel, short femur and nasal bone hypoplasia are soft markers of Down syndrome; a webbed neck is the hallmark of Turner syndrome (cystic hygroma), not a Down soft marker.",
+  "key_note": "Paper key E retained; a VSD is a structural anomaly rather than a soft marker, so the item is imperfect.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01653",
+   "C00552",
+   "C02753"
+  ],
+  "stem": "A primigravida in the first trimester has a sister with a baby with Down syndrome. You plan a nuchal translucency scan. This scan can be done at:",
+  "options": {
+   "A": "6-8 weeks",
+   "B": "11-13 weeks",
+   "C": "15-19 weeks",
+   "D": "19-22 weeks",
+   "E": "22-24 weeks"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Nuchal translucency is measured between 11 and 13+6 weeks when the CRL is 45-84 mm; outside this window the fetal neck fluid normally resolves.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01688"
+  ],
+  "stem": "A 40-year-old primigravida at 8 weeks has a family history of babies with Down syndrome. At what gestation can she be offered screening for Down syndrome?",
+  "options": {
+   "A": "10 weeks",
+   "B": "16 weeks",
+   "C": "20 weeks",
+   "D": "34 weeks",
+   "E": "36 weeks"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Combined first-trimester screening (PAPP-A and free beta-hCG from about 10 weeks, with NT at 11-13+6) is the earliest screening; the other options are far too late.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00883"
+  ],
+  "stem": "A 20-year-old primigravida at 10 weeks is worried because her cousin had a baby with Down syndrome and wants a screening test. Which screening test is suitable?",
+  "options": {
+   "A": "Triple test",
+   "B": "Serum AFP",
+   "C": "Quadruple test",
+   "D": "PAPP-A level",
+   "E": "Ultrasound for nuchal translucency"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Nuchal translucency ultrasound is the first-trimester screening test; the triple and quadruple tests are second-trimester (15-20 weeks) and AFP alone is not a Down screen.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03138"
+  ],
+  "stem": "A 29-year-old primigravida at 11 weeks with no significant history asks about early tests for Down syndrome. What is the most appropriate screening test to offer from the options?",
+  "options": {
+   "A": "Maternal serum triple test",
+   "B": "Cell-free fetal DNA testing",
+   "C": "Nuchal translucency measurement at 14 weeks",
+   "D": "Chorionic villus sampling",
+   "E": "Amniocentesis"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Cell-free fetal DNA (NIPT) from 10 weeks is a highly sensitive screening test for trisomy 21. CVS and amniocentesis are diagnostic, the triple test is second-trimester, and NT at 14 weeks is outside the window.",
+  "key_note": "Combined test (NT plus PAPP-A and hCG) is the standard first-line screen but is not offered; of the options, B is best.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01059"
+  ],
+  "stem": "A 39-year-old woman at 16 weeks, worried about Down syndrome after a friend's baby was affected, asks for screening. Which test can be offered at this gestation?",
+  "options": {
+   "A": "Combined test",
+   "B": "USG for NT",
+   "C": "Quadruple test",
+   "D": "Integrated test",
+   "E": "Triple test"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "At 16 weeks the first-trimester combined test and NT window have passed (11-13+6), so the second-trimester quadruple test (AFP, uE3, hCG, inhibin A, 15-20 weeks) is the best option; it is more sensitive than the triple test.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03096"
+  ],
+  "stem": "A 30-year-old woman at 11 weeks is offered combined screening. What does the combined test include?",
+  "options": {
+   "A": "NIPT and NT alone",
+   "B": "PAPP-A, free beta-hCG and NT",
+   "C": "Amniocentesis and NT",
+   "D": "Nuchal thickness and crown-rump length",
+   "E": "Quadruple test"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "The combined test at 11-13+6 weeks comprises maternal age, nuchal translucency and the serum markers free beta-hCG and PAPP-A.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02897",
+   "C02286",
+   "C02289"
+  ],
+  "stem": "A patient at 11 weeks is offered a screening test that includes PAPP-A, nuchal translucency, beta-hCG and AFP. Which screening test is this?",
+  "options": {
+   "A": "Quadruple test",
+   "B": "Anomaly scan",
+   "C": "Triple test",
+   "D": "First-trimester combined screening"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "PAPP-A, free beta-hCG and nuchal translucency at 11-13+6 weeks together form the first-trimester combined screening test.",
+  "key_note": "Two source copies were incomplete recalls without options; answer taken from the third copy.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01652"
+  ],
+  "stem": "Maternal serum alpha-fetoprotein assay is performed mainly to detect:",
+  "options": {
+   "A": "Chromosomal abnormality",
+   "B": "Fetal sex",
+   "C": "Inborn error of metabolism",
+   "D": "Open neural tube defect",
+   "E": "Fetal cardiac defects"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Raised maternal serum AFP (15-20 weeks) screens mainly for open neural tube defects and abdominal wall defects; low AFP is only a minor marker of Down syndrome.",
+  "key_note": "Paper keys marked A (chromosomal abnormality); correct is D, open neural tube defect is the main purpose of AFP.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02551"
+  ],
+  "stem": "A new antenatal test is evaluated in 1,000 women. Of 100 women who truly have the disease, 90 test positive. What is the sensitivity of the test?",
+  "options": {
+   "A": "10%",
+   "B": "50%",
+   "C": "90%",
+   "D": "95%",
+   "E": "99%"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Sensitivity = true positives / all diseased = 90/100 = 90%.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00509",
+   "C00884",
+   "C00969"
+  ],
+  "stem": "A 38-year-old primigravida at 11 weeks wants a definitive test to rule out trisomy 21 in her fetus because her sister has Down syndrome. Which test will you advise?",
+  "options": {
+   "A": "Amniocentesis",
+   "B": "Chorionic villus sampling",
+   "C": "Nuchal translucency",
+   "D": "Cordocentesis",
+   "E": "Triple test"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "At 11-13 weeks the diagnostic test is chorionic villus sampling (karyotype from trophoblast); amniocentesis is done from 15 weeks, and NT and triple test are only screening tests.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00971"
+  ],
+  "stem": "A couple books at 16 weeks; their previous child had Down syndrome and they are extremely anxious. Which prenatal investigation should you advise to exclude Down syndrome in this baby?",
+  "options": {
+   "A": "Chorionic villus sampling",
+   "B": "Quadruple test",
+   "C": "Amniocentesis",
+   "D": "Triple test",
+   "E": "Nuchal translucency"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "To exclude trisomy 21 a diagnostic karyotype is needed, and at 16 weeks this is amniocentesis (CVS is done at 11-13 weeks). Quadruple, triple and NT are screening tests that cannot exclude it.",
+  "key_note": "Paper key marked B (quadruple test); screening cannot exclude Down syndrome, so correct is C amniocentesis.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01691"
+  ],
+  "stem": "A 40-year-old woman at 6 weeks with a family history of Down syndrome is advised chorionic villus sampling. What is the recommended gestational age for CVS?",
+  "options": {
+   "A": "6 weeks",
+   "B": "11 weeks",
+   "C": "20 weeks",
+   "D": "25 weeks",
+   "E": "30 weeks"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "CVS is performed from 11 weeks (usually 11-13 weeks); earlier sampling is linked with limb reduction defects.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00885"
+  ],
+  "stem": "The commonest indication for chorionic villus sampling in Pakistan is:",
+  "options": {
+   "A": "Haemoglobinopathies",
+   "B": "Duchenne muscular dystrophy",
+   "C": "Inborn error of metabolism",
+   "D": "Trisomy 21",
+   "E": "Cystic fibrosis"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Beta thalassaemia major is highly prevalent in Pakistan, so prenatal diagnosis of haemoglobinopathies by CVS is the commonest indication.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00886"
+  ],
+  "stem": "The commonest immediate complication of CVS is:",
+  "options": {
+   "A": "Pain",
+   "B": "Bleeding",
+   "C": "Subchorionic haematoma",
+   "D": "Membrane puncture",
+   "E": "Miscarriage"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Cramping pain and minor spotting are the commonest immediate effects of CVS; the procedure-related miscarriage risk is about 0.5-1%.",
+  "key_note": "Vaginal spotting is also very common; paper key A (pain) retained.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03098",
+   "C02879",
+   "C02267"
+  ],
+  "stem": "A woman at 11 weeks is a carrier of a genetic disorder and wants an early invasive diagnostic test. Which procedure is appropriate at this gestation?",
+  "options": {
+   "A": "Amniocentesis",
+   "B": "Percutaneous umbilical blood sampling",
+   "C": "Chorionic villus sampling",
+   "D": "Fetoscopy",
+   "E": "Triple test"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "CVS can be performed from 11 weeks and gives DNA for single-gene disorders; amniocentesis (15+ weeks) and cordocentesis (18+ weeks) are later.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02670",
+   "C01102",
+   "C01422",
+   "C01693",
+   "C02798"
+  ],
+  "stem": "A primigravida at 10 weeks and her partner both have thalassaemia trait. Which of the following is recommended for the couple?",
+  "options": {
+   "A": "Amniocentesis",
+   "B": "Chorionic villus sampling",
+   "C": "Cordocentesis",
+   "D": "Triple test",
+   "E": "Quadruple test"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Both parents are carriers (25% risk), so offer early diagnostic testing by CVS, which also allows earlier termination if the fetus is affected.",
+  "key_note": "One paper marked A (amniocentesis); correct is C because CVS gives an earlier diagnosis.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00652"
+  ],
+  "stem": "A 34-year-old woman at 20 weeks has an anomaly scan showing nuchal translucency of 4 mm, hypoplastic nasal bones and mild ventriculomegaly, and a family history of Down syndrome. What is the most appropriate next step to confirm trisomy 21?",
+  "options": {
+   "A": "Amniocentesis for fetal karyotyping",
+   "B": "Chorionic villus sampling",
+   "C": "Triple marker screening",
+   "D": "Cordocentesis for fetal karyotyping",
+   "E": "Repeat ultrasound in 2 weeks"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "After 15 weeks the standard diagnostic test is amniocentesis with karyotype; CVS is done earlier, triple test is only screening, and cordocentesis carries a higher loss rate.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02426"
+  ],
+  "stem": "A 27-year-old woman at 18 weeks has a positive double marker test. What is the next step?",
+  "options": {
+   "A": "Amniocentesis (diagnostic procedure)",
+   "B": "Chorionic villus sampling",
+   "C": "CTG monitoring",
+   "D": "Repeat test in 2 weeks",
+   "E": "Ultrasound anomaly scan"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "A positive screening test must be followed by a diagnostic test, which at 18 weeks is amniocentesis for karyotyping; CVS is done in the first trimester.",
+  "key_note": "Papers disagreed (E, B and A marked); amniocentesis is the correct diagnostic follow-up after a positive screen at 18 weeks.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02956",
+   "C02819"
+  ],
+  "stem": "A 37-year-old primigravida at 11 weeks has a fetus with nuchal translucency of 2.9 mm on ultrasound. What is the next step in management?",
+  "options": {
+   "A": "Consider termination of pregnancy if morally acceptable",
+   "B": "Repeat USG in two weeks",
+   "C": "Offer chorionic villus sampling",
+   "D": "Consider amniocentesis",
+   "E": "Wait until 15 weeks and send a quadruple test"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "With age 37 and NT 2.9 mm the combined risk is high enough to offer an invasive test, and at 11 weeks that is CVS; termination is never offered before a diagnosis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02588",
+   "C01684",
+   "C03151"
+  ],
+  "stem": "A 35-year-old primigravida at 14 weeks is concerned about fetal normality. At what time will you advise a detailed fetal anomaly scan?",
+  "options": {
+   "A": "22-24 weeks",
+   "B": "14-16 weeks",
+   "C": "16-18 weeks",
+   "D": "18-22 weeks",
+   "E": "12-14 weeks"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "The routine detailed anomaly scan is performed at 18-22 weeks when fetal organs can be well visualised.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02553"
+  ],
+  "stem": "A healthy pregnant woman attends a routine visit at 20 weeks. Which investigation is most useful at this stage for assessing fetal structural abnormalities?",
+  "options": {
+   "A": "Nuchal translucency",
+   "B": "Dating scan",
+   "C": "Detailed anomaly ultrasound",
+   "D": "Cardiotocography",
+   "E": "Non-stress test"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "The detailed (level II) anomaly scan at 18-22 weeks is the investigation for structural abnormalities; NT is a first-trimester test and CTG/NST assess wellbeing.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00651"
+  ],
+  "stem": "A woman at 18 weeks has a routine anomaly scan showing a lemon-shaped skull and banana sign with a normal fetal spine, normal liquor and no other malformations. Which is the most likely diagnosis?",
+  "options": {
+   "A": "Anencephaly",
+   "B": "Holoprosencephaly",
+   "C": "Arnold-Chiari malformation",
+   "D": "Dandy-Walker malformation",
+   "E": "Cleft lip and palate"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "The lemon and banana signs result from the Arnold-Chiari II malformation that accompanies open spina bifida (cerebellar tonsillar herniation).",
+  "key_note": "Stem says the spine is normal, which is odd, but the answer C is correct for lemon and banana signs.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02548"
+  ],
+  "stem": "A 'lemon-shaped' skull on antenatal ultrasound is classically associated with:",
+  "options": {
+   "A": "Anencephaly",
+   "B": "Encephalocele",
+   "C": "Holoprosencephaly",
+   "D": "Spina bifida",
+   "E": "Tetralogy of Fallot"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "The lemon sign (frontal bossing with scalloped frontal bones) is due to Arnold-Chiari II malformation in open spina bifida.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00970"
+  ],
+  "stem": "A 27-year-old primigravida at 20 weeks has an ultrasound showing herniation of the anterior abdominal wall covered by a membrane, with the cord inserted at the apex of the sac, a stomach bubble within it, and increased liquor. What is your diagnosis?",
+  "options": {
+   "A": "Exomphalos",
+   "B": "Gastroschisis",
+   "C": "Hirschsprung disease",
+   "D": "Duodenal atresia",
+   "E": "Diaphragmatic hernia"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Exomphalos (omphalocele) is a midline defect covered by a membrane with the cord inserting into the sac; gastroschisis lies to the right of the cord and has no covering membrane.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02549"
+  ],
+  "stem": "On ultrasound, an omphalocele is characterised by:",
+  "options": {
+   "A": "Herniation of abdominal contents into the base of the umbilical cord, covered by a membrane",
+   "B": "Herniation of bowel through a defect lateral to the umbilicus without a covering membrane",
+   "C": "Protrusion of the diaphragm into the thoracic cavity",
+   "D": "Protrusion of the urinary bladder through the anterior abdominal wall",
+   "E": "Meningomyelocele"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Omphalocele is herniation through the umbilical ring covered by peritoneum and amnion, and is often associated with chromosomal anomalies; option B describes gastroschisis.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02680"
+  ],
+  "stem": "A G2P1 has an ultrasound showing fetal anencephaly. Which maternal medical disease can result in this anomaly?",
+  "options": {
+   "A": "Hypertension",
+   "B": "Cardiac disease",
+   "C": "Diabetes",
+   "D": "Asthma",
+   "E": "Renal disease"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Pregestational diabetes (with poor control) increases the risk of neural tube defects, including anencephaly, several-fold; folic acid deficiency is the other classic cause.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02681"
+  ],
+  "stem": "A primigravida at 11 weeks has a family history of congenital anomalies. Which anomaly can be diagnosed by ultrasound at this gestation?",
+  "options": {
+   "A": "Cardiac",
+   "B": "Skeletal",
+   "C": "Neural tube defects",
+   "D": "Cerebral palsy",
+   "E": "Gastroschisis"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Anencephaly (a neural tube defect) can be diagnosed at the 11-13 week scan, as the cranial vault is absent; cardiac and skeletal defects need the 18-22 week scan, and cerebral palsy is not an antenatal sonographic diagnosis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02812"
+  ],
+  "stem": "A 22-year-old primigravida has a 12-week ultrasound showing absent cranial vault with exposed brain tissue and the 'frog-eye' sign, consistent with anencephaly. What is the most appropriate management?",
+  "options": {
+   "A": "Continue pregnancy with routine antenatal care until term",
+   "B": "Offer termination of pregnancy after counselling the parents",
+   "C": "Plan caesarean section at 37 weeks to prevent birth trauma",
+   "D": "Serial growth scans and delivery at 40 weeks",
+   "E": "Immediate dilatation and curettage"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Anencephaly is uniformly lethal, so after confirmation and counselling the parents should be offered termination (subject to local law); caesarean section is not indicated for a lethal anomaly.",
+  "key_note": "One paper marked C; correct is B.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02615"
+  ],
+  "stem": "A 27-year-old primigravida at 22 weeks has an anomaly scan showing spina bifida. What is the most appropriate next step in management?",
+  "options": {
+   "A": "Reassurance and repeat scan at 28 weeks",
+   "B": "Termination of pregnancy without counselling",
+   "C": "Referral to a fetal medicine specialist",
+   "D": "Administer corticosteroids",
+   "E": "Immediate caesarean delivery"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Confirm the level and associated anomalies and counsel the parents through a fetal medicine specialist, who discusses options including in-utero repair or termination where permitted.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02301",
+   "C02909"
+  ],
+  "stem": "A pregnant woman at 28 weeks is found to have a fetus with spina bifida. What is the management?",
+  "options": {
+   "A": "No follow up",
+   "B": "Repeat scan and counselling regarding options",
+   "C": "Iron therapy",
+   "D": "Wait for labour"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "A confirmed neural tube defect needs a detailed repeat scan and counselling about prognosis and options; it should not be ignored, and no medical therapy changes the defect.",
+  "key_note": "Source stem was an incomplete recall; reworded, and counselling and referral to fetal medicine is the sensible answer.",
+  "figure": ""
+ }
+]

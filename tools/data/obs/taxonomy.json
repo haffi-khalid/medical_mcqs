@@ -1,0 +1,79 @@
+{
+ "sections": [
+  {
+   "code": "S1",
+   "title": "Obstetrics (Ten Teachers Obstetrics, 20th ed.)",
+   "chapters": [
+    [
+     "O1",
+     "Obstetric history and examination (incl. pelvis anatomy, obstetric anatomy)"
+    ],
+    [
+     "O2",
+     "Antenatal care (physiology of pregnancy, booking, screening, nutrition, drugs in pregnancy)"
+    ],
+    [
+     "O3",
+     "Normal fetal development and growth (placenta, liquor, cord, fetal circulation, IUGR, macrosomia)"
+    ],
+    [
+     "O4",
+     "Assessment of fetal wellbeing (CTG, Doppler, BPP, kick count, ultrasound)"
+    ],
+    [
+     "O5",
+     "Prenatal diagnosis (screening, amniocentesis, CVS, chromosomal and genetic disorders)"
+    ],
+    [
+     "O6",
+     "Antenatal obstetric complications (APH, placenta praevia, abruption, PROM, hyperemesis, polyhydramnios, oligohydramnios, malpresentation, post-term, Rh isoimmunisation, stillbirth)"
+    ],
+    [
+     "O7",
+     "Multiple pregnancy"
+    ],
+    [
+     "O8",
+     "Preterm labour"
+    ],
+    [
+     "O9",
+     "Hypertensive disorders of pregnancy (pre-eclampsia, eclampsia, HELLP)"
+    ],
+    [
+     "O10",
+     "Medical complications of pregnancy (diabetes, cardiac, anaemia, thyroid, renal, liver, epilepsy, asthma, VTE, obstetric cholestasis, autoimmune)"
+    ],
+    [
+     "O11",
+     "Perinatal infections (TORCH, HIV, hepatitis, GBS, malaria, UTI in pregnancy, COVID)"
+    ],
+    [
+     "O12",
+     "Labour, normal and abnormal (mechanism, stages, partograph, induction, augmentation, analgesia, obstructed and prolonged labour, malposition)"
+    ],
+    [
+     "O13",
+     "Operative delivery (instrumental delivery, caesarean section, VBAC, episiotomy, perineal tears)"
+    ],
+    [
+     "O14",
+     "Obstetric emergencies (PPH, shock, cord prolapse, shoulder dystocia, uterine rupture, amniotic fluid embolism, uterine inversion, collapse)"
+    ],
+    [
+     "O15",
+     "The puerperium (normal puerperium, breastfeeding and lactation, puerperal sepsis, postnatal depression, postpartum contraception)"
+    ],
+    [
+     "O16",
+     "The neonate (neonatal examination, resuscitation, jaundice, neonatal infection, birth injuries)"
+    ],
+    [
+     "OX",
+     "Other obstetric topics not in the contents list (obstetric ethics, maternal mortality and statistics, miscellaneous obstetrics)"
+    ]
+   ]
+  }
+ ],
+ "notes": "Routing rules (Ten Teachers): 1) Ectopic pregnancy, miscarriage (all types), molar pregnancy/GTD, hyperemesis gravidarum, early pregnancy USS -> Y5 (Gynae book ch5), not Obs. 2) Contraception (COCP, POP, IUCD, implant, depot, emergency) and medical or surgical termination of pregnancy, sterilisation -> Y6. 3) Postpartum contraception and lactational amenorrhoea -> Y6 unless the point is breastfeeding physiology -> O15. 4) Antepartum haemorrhage (praevia, abruption, vasa praevia), PROM/PPROM, polyhydramnios, oligohydramnios, malpresentation in late pregnancy, post-term, Rh isoimmunisation, stillbirth/IUFD -> O6. 5) PPH (all types), cord prolapse, shoulder dystocia, uterine rupture, amniotic fluid embolism, inversion, maternal collapse, shock in obstetrics -> O14. 6) Preterm labour, tocolytics, antenatal steroids, magnesium for neuroprotection -> O8; PPROM goes to O6. 7) Pre-eclampsia, eclampsia, HELLP, MgSO4 regimen, gestational hypertension, chronic hypertension in pregnancy -> O9. 8) Diabetes, cardiac disease, anaemia, thyroid, epilepsy, renal, liver, VTE, SLE/APS, asthma in pregnancy -> O10 (recurrent miscarriage due to APS: Y5). 9) TORCH, HIV, HBV/HCV, GBS, malaria, syphilis, varicella, UTI in pregnancy -> O11; STIs and PID in the non-pregnant -> Y9. 10) Partograph, stages of labour, mechanism, induction, augmentation, analgesia, malposition, obstructed or prolonged labour, breech delivery, twins in labour -> O12 (twin pregnancy antenatal: O7). 11) Forceps, ventouse, caesarean, VBAC, episiotomy, perineal tears -> O13. 12) Neonatal resuscitation, neonatal jaundice, neonatal sepsis, birth injuries, APGAR -> O16. 13) Puerperal sepsis, postnatal depression, lactation, breastfeeding drugs -> O15. 14) Normal pelvis anatomy, female genital tract embryology and Mullerian anomalies, DSD, Turner, testicular feminisation -> Y1; bony pelvis in obstetrics (pelvic types, diameters, engagement) -> O1. 15) Primary and secondary amenorrhoea, PCOS, hirsutism, hyperprolactinaemia, puberty, menstrual cycle physiology -> Y3; HMB, dysmenorrhoea, PMS -> Y4. 16) Fibroids, endometrial polyp, hyperplasia -> Y12; endometriosis, adenomyosis, benign ovarian cysts, PID sequelae, chronic pelvic pain -> Y11; endometrial cancer -> Y15; ovarian cancer and tumour markers -> Y14; cervical screening, CIN, HPV, cervical/vulval/vaginal cancer -> Y16. 17) Prolapse, incontinence, fistulae -> Y10; menopause, HRT, osteoporosis, postmenopausal bleeding -> Y8. 18) Subfertility, IVF, ovulation induction, OHSS -> Y7. 19) Hysterectomy, laparoscopy complications, perioperative care, gynae drugs, radiotherapy -> Y17. 20) Use OX/YX for real O&G topics outside the list (ethics, statistics, maternal mortality); use OM/YM only for junk or if nothing fits."
+}

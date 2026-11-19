@@ -1,0 +1,880 @@
+[
+ {
+  "cids": [
+   "C00395",
+   "C01761",
+   "C02321",
+   "C02793"
+  ],
+  "stem": "The average age of the menopause in women is:",
+  "options": {
+   "A": "50 years",
+   "B": "49 years",
+   "C": "51 years",
+   "D": "52 years",
+   "E": "55 years"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "The mean age of natural menopause is about 51 years (Ten Teachers 20th ed.), with a normal range of roughly 45-55 years.",
+  "key_note": "Not marked in one paper; the other papers and the compiled key give 51 years.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00363",
+   "C01771",
+   "C02256",
+   "C02843",
+   "C02212",
+   "C00360"
+  ],
+  "stem": "A 50-year-old woman presents with amenorrhoea of six months. To label her condition as menopause she must have amenorrhoea for:",
+  "options": {
+   "A": "1 year",
+   "B": "2 years",
+   "C": "6 months",
+   "D": "4 months",
+   "E": "1.5 years"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Menopause is diagnosed retrospectively after 12 consecutive months of amenorrhoea (permanent cessation of menses due to loss of ovarian follicular activity).",
+  "key_note": "Merged with a similar question asking the duration of amenorrhoea that defines menopause; same answer, 1 year.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01742"
+  ],
+  "stem": "Which of the following characterises the early menopausal transition?",
+  "options": {
+   "A": "AMH and inhibin start decreasing, but oestrogen level is normal",
+   "B": "FSH constantly above 25 IU/L",
+   "C": "Low AMH",
+   "D": "Low oestrogen",
+   "E": "Low inhibin"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "In the early transition, falling AMH and inhibin B precede changes in oestradiol and FSH, which stay near normal with variable cycles. Persistently raised FSH (>25 IU/L) and low oestrogen mark the late transition.",
+  "key_note": "The paper key marked B (FSH constantly above 25 IU/L), which describes the late transition (STRAW); A fits the early transition.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00722"
+  ],
+  "stem": "Regarding the hormonal changes that accompany the menopause, which of the following is true?",
+  "options": {
+   "A": "As ovarian function fails, serum FSH levels increase",
+   "B": "12 months after the LMP, serum testosterone levels are close to zero",
+   "C": "Progesterone levels are undetectable in the perimenopause",
+   "D": "Oestrogen levels are undetectable in the perimenopause",
+   "E": "As ovarian function declines, serum prolactin levels increase"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Loss of inhibin and oestrogen negative feedback causes FSH (then LH) to rise. Testosterone persists (ovarian stroma), perimenopausal oestrogen and progesterone are variable not absent, and prolactin does not rise.",
+  "key_note": "Two versions with slightly different options merged; the answer is the same.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01229",
+   "C01343",
+   "C02076"
+  ],
+  "stem": "A 49-year-old P5 has amenorrhoea of 13 months, hot flushes and irritability for 6 months. You suspect she has reached the menopause. Which hormone will you advise to confirm the diagnosis?",
+  "options": {
+   "A": "Serum testosterone",
+   "B": "FSH:LH ratio",
+   "C": "Serum FSH",
+   "D": "Serum progesterone",
+   "E": "Serum oestrogen"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A persistently raised serum FSH (above about 30 IU/L) confirms ovarian failure. Clinically, menopause is diagnosed by 12 months of amenorrhoea in women over 45 and hormone tests are rarely needed.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01184"
+  ],
+  "stem": "A 49-year-old woman has amenorrhoea for 1 year, urinary frequency, irritability, poor concentration, hot flushes and vaginal dryness. Examination is normal, serum FSH is 30 IU/L and AMH is low. What is your diagnosis?",
+  "options": {
+   "A": "Menopausal transition",
+   "B": "Menopause",
+   "C": "Urinary tract infection",
+   "D": "Psychiatric illness",
+   "E": "Hypothyroidism"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Twelve months of amenorrhoea with vasomotor symptoms, a raised FSH and low AMH establish menopause. Perimenopause would still have occasional periods.",
+  "key_note": "One scanned copy appeared to mark C (UTI); this was a marking error and B is correct.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02020"
+  ],
+  "stem": "A 52-year-old woman who has been menopausal for 2 years presents with hot flushes, night sweats and mood swings. What is the cause of the hot flushes?",
+  "options": {
+   "A": "Increased oestrogen",
+   "B": "Increased FSH",
+   "C": "Decreased FSH",
+   "D": "Decreased oestrogen",
+   "E": "Increased LH"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Hot flushes result from oestrogen withdrawal affecting the hypothalamic thermoregulatory centre, with a narrowed thermoneutral zone. FSH rises as a consequence, not a cause.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00382",
+   "C00388",
+   "C02335"
+  ],
+  "stem": "Which of the following is a (serious) long-term effect of the menopause?",
+  "options": {
+   "A": "Vaginal dryness",
+   "B": "Osteoporosis",
+   "C": "Hot flushes",
+   "D": "Mood swings",
+   "E": "Urogenital prolapse"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Osteoporosis (with fracture risk) and cardiovascular disease are the major long-term consequences of oestrogen deficiency. Hot flushes and mood swings are short-term and vaginal dryness is an intermediate problem.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02213"
+  ],
+  "stem": "A 55-year-old menopausal woman is concerned about cardiovascular disease. Cardiovascular disease in postmenopausal women is due to:",
+  "options": {
+   "A": "High oestrogen:progesterone ratio",
+   "B": "High progesterone:oestrogen ratio",
+   "C": "Male-type HDL",
+   "D": "Male-type HDL:LDL ratio",
+   "E": "Low progesterone"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Loss of oestrogen lowers HDL and raises LDL, so the lipid profile (HDL:LDL ratio) becomes male-pattern and coronary risk rises.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01185"
+  ],
+  "stem": "A banker aged 55, para 4, smokes 1-2 cigarettes daily and has been menopausal for the last 14 years. Her thyroid reports show goitre, and she has osteoporosis of the long bones. What is the most likely cause of the osteoporosis?",
+  "options": {
+   "A": "Premature menopause",
+   "B": "Hyperthyroidism",
+   "C": "Cigarette smoking",
+   "D": "Multiparity",
+   "E": "Lack of exercise"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Menopause at about 41 years means a long period of oestrogen deficiency, the commonest cause of osteoporosis in this setting.",
+  "key_note": "Papers disagree (A, B and C were marked or circled) and the stem is partly garbled; A is kept as the best answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00401"
+  ],
+  "stem": "A 52-year-old woman who has been menopausal for 2 years has hot flushes and body aches. After a detailed history you examine her. Which is the most important system to examine?",
+  "options": {
+   "A": "Cardiovascular system",
+   "B": "Breast examination",
+   "C": "Reflexes",
+   "D": "Chest auscultation",
+   "E": "Abdomen for visceromegaly"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Before offering HRT, breast examination (with mammography as indicated) is essential because breast cancer is a contraindication and HRT slightly raises risk.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00202"
+  ],
+  "stem": "The first-line treatment for mild postmenopausal symptoms is:",
+  "options": {
+   "A": "Evening primrose oil",
+   "B": "Lifestyle modification",
+   "C": "Antidepressants",
+   "D": "Oestrogen only",
+   "E": "Tibolone"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Mild symptoms are managed first by lifestyle measures (cooler environment, layered clothing, weight loss, avoiding triggers, exercise, stopping smoking). Hormonal treatment is reserved for troublesome symptoms.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00125",
+   "C02337"
+  ],
+  "stem": "A 52-year-old postmenopausal woman has mood swings and hot flushes. You counsel her that the most effective treatment is:",
+  "options": {
+   "A": "Acupuncture",
+   "B": "Ginseng",
+   "C": "Phytoestrogens",
+   "D": "Dehydroepiandrosterone",
+   "E": "Low-dose combined HRT"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "HRT is the most effective treatment for vasomotor symptoms. Complementary therapies such as phytoestrogens, ginseng and acupuncture have little or inconsistent evidence. A woman with a uterus needs combined HRT.",
+  "key_note": "One paper's answer line (C) belonged to a different sub-question; E is correct.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00131",
+   "C02075",
+   "C02313"
+  ],
+  "stem": "A 52-year-old woman, menopausal for 2 years, has flushes. Her past medical and surgical history is unremarkable and her uterus is intact. What is the best choice of HRT?",
+  "options": {
+   "A": "Oral oestrogen",
+   "B": "Combined oestrogen and progesterone",
+   "C": "Placebo pills",
+   "D": "Evening primrose oil",
+   "E": "Raloxifene"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "A woman with an intact uterus needs progestogen added to oestrogen to protect the endometrium from hyperplasia and cancer.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00703"
+  ],
+  "stem": "A college teacher suffers vasomotor symptoms at the age of 46 which affect her work. Her BMI is 26 and she has no comorbidities. What will you prescribe?",
+  "options": {
+   "A": "Tibolone",
+   "B": "Lifestyle modification",
+   "C": "Diet with phyto-soya",
+   "D": "Oestrogen and progesterone HRT",
+   "E": "Raloxifene"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Troublesome vasomotor symptoms with no contraindication are best treated with HRT; with a uterus and ongoing periods, sequential or combined oestrogen plus progestogen is used. Tibolone is used only after 12 months of amenorrhoea.",
+  "key_note": "The paper key marked A (tibolone), but tibolone is not suitable in the perimenopause or at this age; D is correct.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00386",
+   "C02361"
+  ],
+  "stem": "A 53-year-old postmenopausal woman has severe hot flushes and night sweats which are debilitating. She has a positive family history of carcinoma of the breast. What is the best treatment option?",
+  "options": {
+   "A": "Oestrogen",
+   "B": "Progesterone",
+   "C": "Phytoestrogens",
+   "D": "Evening primrose oil",
+   "E": "Clonidine"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "The keyed answer is clonidine, a non-hormonal option for debilitating flushes when oestrogen is best avoided because of a strong family history of breast cancer (SSRIs/SNRIs such as venlafaxine are alternatives). Evening primrose oil and phytoestrogens lack good evidence.",
+  "key_note": "Paper key E (clonidine) retained as the exam answer; note that a family history alone is not a strict contraindication to HRT (see the related item on a 56-year-old with family history, where oestrogen is the best option offered).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00432"
+  ],
+  "stem": "A 56-year-old woman has hot flushes, irritability, joint pains and lack of sleep. She has a family history of breast cancer. What is the most appropriate treatment?",
+  "options": {
+   "A": "Progesterone preparation",
+   "B": "Vitamin supplementation",
+   "C": "Oestrogen preparations",
+   "D": "Phytoestrogens",
+   "E": "Selective oestrogen receptor modulator"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Oestrogen-based HRT remains the most effective treatment, and a family history of breast cancer alone is not a contraindication (a personal history is). SERMs do not relieve vasomotor symptoms and may worsen them.",
+  "key_note": "The HBS key marked E (SERM), but SERMs can aggravate hot flushes; oestrogen (with progestogen if the uterus is present) is the best answer. The other options (progesterone, vitamins, phytoestrogens) are weaker.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02214",
+   "C00129"
+  ],
+  "stem": "A 52-year-old postmenopausal woman has hot flushes, palpitations and night sweats and a previous history of DVT. Which of the following is safe for her to use?",
+  "options": {
+   "A": "Premarin",
+   "B": "Progesterone",
+   "C": "Clonidine",
+   "D": "Oestrogen",
+   "E": "Levonorgestrel"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Clonidine is a non-hormonal treatment and does not raise thrombotic risk; oral oestrogens such as Premarin increase VTE risk and are best avoided.",
+  "key_note": "The scan showed a purple letter c but a red circle on E; clonidine (C) is the pharmacologically sound answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02021"
+  ],
+  "stem": "A 55-year-old woman who had a hysterectomy 5 years ago has hot flashes and vaginal dryness. She wants HRT but fears venous thromboembolism. Which form of HRT is least likely to increase her VTE risk?",
+  "options": {
+   "A": "Oral oestrogen-only therapy",
+   "B": "Oral combined HRT",
+   "C": "Transdermal oestrogen",
+   "D": "Tibolone",
+   "E": "Testosterone implant"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Transdermal oestrogen avoids first-pass hepatic metabolism and does not raise clotting factors, so VTE risk is not increased at standard doses.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02215"
+  ],
+  "stem": "A 56-year-old postmenopausal woman is on HRT. Unopposed use of which drug increases her risk of endometrial cancer?",
+  "options": {
+   "A": "Progesterone",
+   "B": "Oestrogen",
+   "C": "Testosterone",
+   "D": "Prolactin",
+   "E": "Tibolone"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Unopposed oestrogen causes endometrial hyperplasia and carcinoma; progestogen opposition removes this risk.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02312"
+  ],
+  "stem": "What is the HRT regimen if the woman has had a TAH plus BSO?",
+  "options": {},
+  "answer": null,
+  "answer_text": "Oestrogen-only therapy (no progestogen needed).",
+  "explanation": "With no uterus there is no endometrium to protect, so oestrogen alone is used.",
+  "key_note": "Options not available in the source; recall question.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01451"
+  ],
+  "stem": "A 35-year-old woman has hot flushes, mood swings and bony aches and pains. She had a total abdominal hysterectomy for placenta accreta 3 years ago. What is the best treatment for her bony aches and pains?",
+  "options": {
+   "A": "Hormone replacement therapy",
+   "B": "Vitamin D3",
+   "C": "Calcium carbonate",
+   "D": "Alfacalcidol",
+   "E": "Calcium gluconate"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Her symptoms suggest oestrogen deficiency (presumably with ovarian failure after hysterectomy), so HRT treats the vasomotor symptoms and protects bone until about the natural age of menopause. Oestrogen alone is enough as she has no uterus.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01344"
+  ],
+  "stem": "A woman is diagnosed with premature ovarian failure and has severe backache for 6 months. Which treatment is most beneficial to prevent osteoporosis?",
+  "options": {
+   "A": "Daily walk for 30 minutes",
+   "B": "Increased intake of dairy products",
+   "C": "Progestogens",
+   "D": "Combined HRT",
+   "E": "Oestrogens"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Women with premature ovarian insufficiency need hormone replacement until about the age of natural menopause for bone and cardiovascular protection; combined HRT (or the combined pill) is used with a uterus.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00111"
+  ],
+  "stem": "A 60-year-old patient has joint pain and body ache. Her BMD shows severe osteopenia. What is the best treatment option?",
+  "options": {
+   "A": "Oral oestrogen",
+   "B": "Combined oestrogen and progesterone",
+   "C": "Raloxifene",
+   "D": "Bisphosphonate",
+   "E": "Tibolone"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Raloxifene, a SERM, prevents bone loss and vertebral fracture and does not stimulate the endometrium or breast, and was the keyed answer in most papers. Bisphosphonates are the usual first-line drug when osteoporosis is established.",
+  "key_note": "One paper highlighted D (bisphosphonate); most keys marked C. Option E was garbled in one source.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01164"
+  ],
+  "stem": "A 50-year-old thin, non-smoker postmenopausal woman has been prescribed HRT. While counselling her, you tell her the commonest side effect is:",
+  "options": {
+   "A": "Abnormal uterine bleeding",
+   "B": "Coronary heart disease"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Breakthrough or irregular vaginal bleeding is the commonest side effect of HRT, especially in the first months of use.",
+  "key_note": "Only two options were available in the source.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00706"
+  ],
+  "stem": "A 52-year-old woman has hot flushes, irritability and vaginal dryness. She has a family history of myocardial infarction and Alzheimer disease. Which is an indication for HRT at the time of menopause?",
+  "options": {
+   "A": "Prevention of endometrial cancer",
+   "B": "Prevention of Alzheimer disease",
+   "C": "Cardiovascular protection",
+   "D": "Vasomotor symptoms",
+   "E": "Osteoporosis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "The main indication for HRT is relief of vasomotor and urogenital symptoms. HRT is not recommended for primary prevention of cardiovascular disease or dementia.",
+  "key_note": "The printed key marked C (cardiovascular protection), but a handwritten circle was on D; D is correct.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01743"
+  ],
+  "stem": "Combined oestrogen and progesterone is contraindicated for control of irregular menstrual bleeding during the perimenopause because of:",
+  "options": {
+   "A": "Poor compliance",
+   "B": "Irregular bleeding may be due to endometrial carcinoma",
+   "C": "Risk of myocardial infarction in women over 35 years",
+   "D": "The pill causes mood swings and depression, aggravating the symptoms of menopausal transition",
+   "E": "Risk of carcinoma of the breast"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "The paper key cites cardiovascular (arterial and venous thrombotic) risk of the combined pill in older women, especially smokers or those with risk factors.",
+  "key_note": "The question is flawed: healthy non-smokers over 35 can use the combined pill, but the keyed answer C is retained as the best option.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02336"
+  ],
+  "stem": "Which one of the following is NOT a contraindication to hormone replacement therapy (HRT)?",
+  "options": {
+   "A": "Suspected pregnancy",
+   "B": "Primary infertility",
+   "C": "Breast cancer",
+   "D": "Endometrial cancer",
+   "E": "Active liver disease"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Pregnancy, breast and endometrial cancer, active liver disease, undiagnosed vaginal bleeding and acute thromboembolism are contraindications. Primary infertility is not.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00132"
+  ],
+  "stem": "A 50-year-old nulliparous teacher with a small uterine fibroid and early menopause has hot flushes and dyspareunia, and you plan continuous combined HRT. She has a past history of jaundice and her sister has breast cancer. Which one of the following is an absolute contraindication to HRT?",
+  "options": {
+   "A": "Uterine fibroids",
+   "B": "Chronic stable liver disease",
+   "C": "Migraine",
+   "D": "Suspicion of breast cancer",
+   "E": "Unconfirmed VTE"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Current or suspected oestrogen-dependent cancer such as breast cancer is an absolute contraindication. Fibroids, stable chronic liver disease, migraine without aura and unconfirmed VTE are not absolute.",
+  "key_note": "The stem was incomplete in some papers ('her sister has'); completed from the version that includes the question.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02019"
+  ],
+  "stem": "A 50-year-old woman has severe hot flushes, night sweats and mood swings and wants HRT. You take a history to exclude an absolute contraindication to HRT. Which is the contraindication?",
+  "options": {
+   "A": "Known thrombophilia",
+   "B": "Hypertension",
+   "C": "Chronic liver disease",
+   "D": "Family history of breast cancer",
+   "E": "Migraine without aura"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Known thrombophilia (or previous VTE) is a strong contraindication to oral HRT. Hypertension, a family history of breast cancer and migraine without aura are not contraindications.",
+  "key_note": "Chronic liver disease is a contraindication only if active; A is the keyed and best answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00185"
+  ],
+  "stem": "A 70-year-old P3+0 presents with vaginal dryness, vulval itching and light vaginal spotting. What is the most probable cause?",
+  "options": {
+   "A": "Endometrial carcinoma",
+   "B": "Cervical carcinoma",
+   "C": "Atrophic vaginitis",
+   "D": "Genital trauma",
+   "E": "Lichen sclerosus"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Oestrogen deficiency thins the vaginal epithelium causing dryness, itching, dyspareunia and spotting (atrophic vaginitis). Persistent bleeding still needs exclusion of cancer.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00330",
+   "C00763",
+   "C00721",
+   "C01342"
+  ],
+  "stem": "A 70-year-old frail woman has vaginal discharge and dysuria. After evaluation, the diagnosis is atrophic vaginitis. She has no other medical or surgical history. What is the best treatment?",
+  "options": {
+   "A": "Metronidazole cream",
+   "B": "Lactobacillus pessary",
+   "C": "Topical oestrogen cream",
+   "D": "Clotrimazole pessary",
+   "E": "Clindamycin cream"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Atrophic vaginitis (genitourinary syndrome of menopause) is treated with local vaginal oestrogen, which has minimal systemic absorption. Antimicrobials are for infective causes.",
+  "key_note": "In a similar version the printed key marked clindamycin; local oestrogen is correct.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00047",
+   "C01230",
+   "C01935",
+   "C02917",
+   "C02157",
+   "C00433",
+   "C00704"
+  ],
+  "stem": "A 60-year-old woman has a single episode of postmenopausal bleeding. What is the most common cause of postmenopausal bleeding?",
+  "options": {
+   "A": "Atrophic vaginitis (atrophic endometrium)",
+   "B": "Endometrial polyp",
+   "C": "Cervical polyp",
+   "D": "Endometritis",
+   "E": "Cervical carcinoma"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Atrophy of the vagina and endometrium is the commonest cause of postmenopausal bleeding (about 60-80%), followed by HRT use, polyps and hyperplasia. Endometrial cancer accounts for about 10%, but must always be excluded.",
+  "key_note": "Six similar versions of this question merged; all keyed atrophic vaginitis.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02244"
+  ],
+  "stem": "A 54-year-old postmenopausal woman has postmenopausal bleeding for 1 week and has been taking medication for menopausal symptoms. Which medication is most relevant in causing the bleeding?",
+  "options": {
+   "A": "NSAID",
+   "B": "Hormone replacement therapy",
+   "C": "Calcium supplement",
+   "D": "Iron supplement",
+   "E": "Tranexamic acid"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "HRT (especially sequential or after starting) commonly causes breakthrough bleeding and must be distinguished from pathology.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02762",
+   "C03141",
+   "C01292",
+   "C00128",
+   "C02160",
+   "C01228",
+   "C00397"
+  ],
+  "stem": "A 55-year-old P3 presents with postmenopausal bleeding. What is the first investigation you will advise?",
+  "options": {
+   "A": "Colposcopy",
+   "B": "Pap smear",
+   "C": "Transvaginal scan",
+   "D": "Endometrial sampling",
+   "E": "Hysteroscopy"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Transvaginal ultrasound to measure endometrial thickness is the first-line test; thickness above 4 mm (3 mm in some units) needs endometrial sampling.",
+  "key_note": "One version keyed A (biopsy) and another listed both TVS and USS pelvis as options; transvaginal scan is the standard first investigation.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00048",
+   "C01279",
+   "C01319",
+   "C00273",
+   "C01934",
+   "C02211",
+   "C01546"
+  ],
+  "stem": "A 55-year-old woman presents with postmenopausal bleeding. Transvaginal scan shows an endometrial thickness of 5-6 mm. What is the next step in her management?",
+  "options": {
+   "A": "Total abdominal hysterectomy",
+   "B": "Endometrial sampling",
+   "C": "Start COCPs",
+   "D": "Repeat USG after 3 months",
+   "E": "Reassurance"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "PMB with endometrial thickness above 4 mm needs endometrial sampling (Pipelle or hysteroscopy-guided) to exclude hyperplasia and carcinoma. Hysterectomy comes only after histology.",
+  "key_note": "Three near-identical versions merged (5 mm and 6 mm thickness); all keyed endometrial sampling.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00431"
+  ],
+  "stem": "A 56-year-old postmenopausal woman has mild irregular vaginal bleeding on and off for 2 weeks. Transvaginal scan shows an endometrial thickness of 4 mm. What is the most appropriate management?",
+  "options": {
+   "A": "Total abdominal hysterectomy",
+   "B": "Pipelle biopsy",
+   "C": "Hysteroscopic biopsy",
+   "D": "Reassurance and follow-up",
+   "E": "Reassurance and colposcopy"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Recurrent bleeding with an endometrial thickness at the 4 mm threshold warrants outpatient endometrial sampling (Pipelle) before attributing it to atrophy.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00387"
+  ],
+  "stem": "A 60-year-old woman attends with postmenopausal bleeding and has no positive findings on pelvic examination. Which endometrial thickness on ultrasound requires immediate endometrial biopsy to exclude malignancy?",
+  "options": {
+   "A": "1 mm",
+   "B": "2 mm",
+   "C": "3 mm",
+   "D": "4 mm",
+   "E": "2 cm"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "An endometrial thickness above 4 mm in PMB is the threshold requiring biopsy. A thickness of 2 cm would obviously also need immediate biopsy.",
+  "key_note": "Papers mostly key 4 mm (D); one paper circled 2 cm. The 4 mm threshold is the keyed answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01442"
+  ],
+  "stem": "A 65-year-old woman on HRT presents with postmenopausal bleeding and you request an ultrasound for endometrial thickness. Which endometrial thickness is most reassuring in her case?",
+  "options": {
+   "A": "5 mm",
+   "B": "6 mm",
+   "C": "7 mm",
+   "D": "8 mm",
+   "E": "9 mm"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "In women on HRT the threshold is a thickness of 5 mm or less, above which sampling is advised.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00342",
+   "C00130"
+  ],
+  "stem": "A 65-year-old woman on combined HRT presents with irregular vaginal bleeding. What is the most appropriate next step in evaluation?",
+  "options": {
+   "A": "Endometrial biopsy and TVS",
+   "B": "Pap smear",
+   "C": "Colposcopy and cervical biopsy",
+   "D": "Hysteroscopy and D&C",
+   "E": "Abdominopelvic MRI"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Transvaginal scan and endometrial sampling are the first-line evaluation of abnormal bleeding on HRT; hysteroscopy is used if bleeding persists or sampling is inconclusive.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00385",
+   "C00404",
+   "C01455"
+  ],
+  "stem": "A 50-60-year-old P2 woman, menopausal for 8-10 years, presents with vaginal bleeding for 2-3 weeks. The uterus is enlarged (8-12 weeks size) with restricted mobility and the adnexa are clear. The diagnostic investigation is:",
+  "options": {
+   "A": "Transvaginal ultrasound",
+   "B": "Endometrial biopsy",
+   "C": "Magnetic resonance imaging",
+   "D": "Serum CA 125",
+   "E": "Computerised tomography"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "PMB with an enlarged, fixed uterus suggests endometrial carcinoma. Histological diagnosis by endometrial biopsy is the definitive investigation; imaging and CA 125 only assist staging.",
+  "key_note": "Three similar versions merged; all keyed endometrial biopsy.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01188"
+  ],
+  "stem": "A 65-year-old woman, menopausal for 10 years, has irregular vaginal bleeding for 2 months. The cervix looks normal and the uterus is bulky, soft and mobile with clear adnexa. It is essential to exclude:",
+  "options": {
+   "A": "Carcinoma cervix in situ",
+   "B": "Endometrial carcinoma",
+   "C": "Fibroid uterus",
+   "D": "Endometritis",
+   "E": "Pyometra"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "PMB with a bulky uterus and a normal cervix requires exclusion of endometrial carcinoma first.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00383"
+  ],
+  "stem": "A 57-year-old P9+0 diabetic woman on tamoxifen for breast carcinoma presents with postmenopausal bleeding. Ultrasound shows an endometrial thickness of 6-7 mm. What is the most probable diagnosis?",
+  "options": {
+   "A": "Endometrial carcinoma",
+   "B": "Carcinoma of cervix",
+   "C": "Recurrence of breast cancer",
+   "D": "Endometrial hyperplasia",
+   "E": "Endometrial atrophy"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Tamoxifen has an oestrogen-agonist effect on the endometrium and increases the risk of polyps, hyperplasia and endometrial carcinoma; in a high-risk woman with a thickened endometrium cancer must be excluded by biopsy.",
+  "key_note": "Most papers marked A; one marked or circled D (hyperplasia), which is also plausible. Biopsy decides.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01280"
+  ],
+  "stem": "A 56-year-old woman presents with postmenopausal bleeding while taking tamoxifen. Ultrasound shows a thick, irregular, cystic endometrium. What is the next step in management?",
+  "options": {
+   "A": "Pap smear",
+   "B": "Hysteroscopy and endometrial sampling",
+   "C": "Reassurance",
+   "D": "Abdominal hysterectomy",
+   "E": "Vaginal hysterectomy"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Tamoxifen-associated bleeding with an abnormal endometrium requires hysteroscopy with directed biopsy to exclude polyps, hyperplasia and carcinoma.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00756"
+  ],
+  "stem": "A 51-year-old woman, menopausal for 4 years, has episodes of heavy vaginal bleeding. The uterus is normal in size with clear adnexa and ultrasound shows an endometrial thickness of 10 mm. What is the most probable diagnosis?",
+  "options": {
+   "A": "Endometrial hyperplasia",
+   "B": "Atrophic endometritis",
+   "C": "Uterine fibroid",
+   "D": "Adenomyosis",
+   "E": "Ovarian tumour"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "A thickened endometrium with heavy postmenopausal bleeding suggests endometrial hyperplasia from unopposed oestrogen (carcinoma must be excluded by biopsy).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00716"
+  ],
+  "stem": "A 62-year-old woman presents with postmenopausal bleeding. A tender mass of 14 weeks size arises from the pelvis and ultrasound shows an enlarged uterus with fluid in the cavity. What must you do urgently?",
+  "options": {
+   "A": "Pap smear",
+   "B": "Hysteroscopy",
+   "C": "Hysteroscopy and biopsy",
+   "D": "Laparoscopy",
+   "E": "Laparoscopy and biopsy"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "An enlarged uterus with intracavitary fluid (pyometra or haematometra) suggests endometrial malignancy; hysteroscopy with biopsy establishes the diagnosis and drains the collection.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00224"
+  ],
+  "stem": "A 50-year-old banker presents with mood swings and loss of libido. Her cycle is 1-2 days every 60-90 days with normal flow, and her medical and surgical history is unremarkable. The best treatment option is:",
+  "options": {
+   "A": "Oral oestrogen",
+   "B": "Tibolone",
+   "C": "Testosterone gel",
+   "D": "Evening primrose oil",
+   "E": "Combined oestrogen plus progestogen"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Tibolone has oestrogenic, progestogenic and androgenic actions, improving mood and libido.",
+  "key_note": "Tibolone is strictly for women more than 12 months postmenopausal, so cyclical combined HRT is the usual choice in a perimenopausal woman; the papers keyed tibolone and that key is kept.",
+  "figure": ""
+ }
+]

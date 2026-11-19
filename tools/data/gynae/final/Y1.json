@@ -1,0 +1,729 @@
+[
+ {
+  "cids": [
+   "C00072"
+  ],
+  "stem": "The uterus and fallopian tubes of the female genital tract are formed by the fusion of which structure?",
+  "options": {
+   "A": "Wolffian duct",
+   "B": "Mullerian duct",
+   "C": "Cloaca",
+   "D": "Urogenital sinus",
+   "E": "Urogenital ridge"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "The paired Mullerian (paramesonephric) ducts fuse in the midline to form the uterus, cervix and upper vagina, while their unfused upper parts form the fallopian tubes. The Wolffian ducts regress in the female.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01540"
+  ],
+  "stem": "Which of the following structures develops from the Mullerian ducts?",
+  "options": {
+   "A": "Fallopian tubes, uterus and upper vagina",
+   "B": "Fallopian tubes and uterus",
+   "C": "Lower vagina and vestibule",
+   "D": "Ovaries, fallopian tubes and uterus",
+   "E": "Uterus and upper vagina"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "The Mullerian ducts give the tubes, uterus, cervix and upper vagina. The lower vagina and vestibule come from the urogenital sinus, and the ovaries from the genital ridge.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01371"
+  ],
+  "stem": "Which part of the vagina develops from the paired Mullerian ducts?",
+  "options": {
+   "A": "Upper one third",
+   "B": "Middle one third",
+   "C": "Lower one third",
+   "D": "Upper two thirds",
+   "E": "Lower two thirds"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "The upper two thirds of the vagina is Mullerian in origin; the lower third arises from the urogenital sinus (sinovaginal bulbs).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00114"
+  ],
+  "stem": "The lower part of the vagina is formed by the:",
+  "options": {
+   "A": "Mullerian duct",
+   "B": "Wolffian duct",
+   "C": "Urogenital sinus",
+   "D": "Cloacal plate",
+   "E": "Mesodermal plate"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "The lower third of the vagina is derived from the urogenital sinus via the sinovaginal bulbs and vaginal plate; the upper two thirds is Mullerian.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00071",
+   "C01845"
+  ],
+  "stem": "Failure of complete fusion of the Mullerian ducts results in which of the following?",
+  "options": {
+   "A": "Normal uterus",
+   "B": "Uterus didelphys",
+   "C": "Bicornuate uterus",
+   "D": "Absent uterus",
+   "E": "Arcuate uterus"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Complete non-fusion of the two Mullerian ducts gives two uteri, two cervices and often a double vagina (uterus didelphys). Partial fusion gives bicornuate uterus and failure of development gives an absent uterus.",
+  "key_note": "Some paper keys marked C (bicornuate uterus), which results from partial fusion; for complete lack of fusion the answer is B (didelphys).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01931"
+  ],
+  "stem": "A 17-year-old girl presents with cyclical pain and primary amenorrhoea. The vagina is absent and scan shows bilateral adnexal masses. This defect is due to abnormal development of:",
+  "options": {
+   "A": "Mesonephric duct",
+   "B": "Paramesonephric duct",
+   "C": "Sinovaginal bulb",
+   "D": "Urorectal septum",
+   "E": "Urogenital sinus"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Vaginal agenesis with functioning uterine tissue arises from failure of the sinovaginal bulbs to canalise the vaginal plate. The lower vagina is formed from these urogenital sinus derivatives.",
+  "key_note": "Question is ambiguous (bilateral adnexal masses); paper keys agree on C, kept.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01367"
+  ],
+  "stem": "The epithelial lining of the vagina is:",
+  "options": {
+   "A": "Squamous epithelium",
+   "B": "Stratified squamous epithelium",
+   "C": "Stratified squamous keratinised epithelium",
+   "D": "Squamous non-keratinised epithelium",
+   "E": "Simple columnar epithelium"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "The vagina is lined by non-keratinised stratified squamous epithelium, which is oestrogen-sensitive and glycogen-rich. It has no glands.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01539"
+  ],
+  "stem": "An adult non-pregnant uterus weighs approximately:",
+  "options": {
+   "A": "70 g",
+   "B": "150 g",
+   "C": "250 g",
+   "D": "500 g",
+   "E": "1000 g"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "The normal non-pregnant uterus is about 7.5 cm long and weighs 50 to 80 g, so 70 g is the best option.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01316"
+  ],
+  "stem": "During pelvic examination of a young woman, the fundus of the uterus is palpable in the rectouterine pouch. What is this position most accurately called?",
+  "options": {
+   "A": "Anteverted and anteflexed",
+   "B": "Anteverted and retroflexed",
+   "C": "Retroverted",
+   "D": "Retroverted and anteflexed",
+   "E": "Retroverted and retroflexed"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "When the fundus lies in the pouch of Douglas the whole uterus is tilted backwards (retroverted) and the body is bent back on the cervix (retroflexed).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02140"
+  ],
+  "stem": "Which of the following statements is true about the round ligament?",
+  "options": {
+   "A": "The round ligament lies posterior to the uterus",
+   "B": "The round ligament lies anterior to the uterus",
+   "C": "The round ligament supports the fundus of the uterus",
+   "D": "The round ligament is a vestigial structure",
+   "E": "The round ligament contains the vascular supply to the uterus"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "The round ligament arises just anterior and inferior to the tubal attachment and runs forwards to the deep inguinal ring, keeping the uterus anteverted. It is a minor support, and the uterine vessels run in the broad and cardinal ligaments.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02142"
+  ],
+  "stem": "Which of the following pelvic structures is not covered by peritoneum?",
+  "options": {
+   "A": "Uterus",
+   "B": "Ovary",
+   "C": "Fallopian tubes",
+   "D": "Urinary bladder",
+   "E": "Broad ligament"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "The ovary is the only pelvic organ not covered by peritoneum; it is covered by germinal (cuboidal) epithelium and is attached to the broad ligament by the mesovarium.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01841"
+  ],
+  "stem": "In a female, which of the following best describes the urogenital diaphragm?",
+  "options": {
+   "A": "It includes the fascial covering of the deep transverse perineal muscle",
+   "B": "It encloses the ischiorectal fossa",
+   "C": "It is synonymous with the pelvic diaphragm",
+   "D": "It is located in the anal triangle",
+   "E": "It envelops Bartholin's gland"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "The urogenital diaphragm lies in the anterior (urogenital) triangle and consists of the deep transverse perineal muscle with its superior and inferior fascial layers. It is distinct from the pelvic diaphragm (levator ani).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01843"
+  ],
+  "stem": "Which of the following best describes the normal lining of the fallopian tube?",
+  "options": {
+   "A": "Squamous epithelium",
+   "B": "Transitional epithelium",
+   "C": "Cuboidal epithelium",
+   "D": "Columnar epithelium with cilia",
+   "E": "Fibrous connective tissue"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "The tubal mucosa is a single layer of ciliated columnar cells with secretory (peg) cells, which helps ovum transport. It is the site damaged by chlamydial infection.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01844"
+  ],
+  "stem": "The ovaries are covered by a thin layer of epithelium called germinal epithelium. Why is it called germinal epithelium?",
+  "options": {
+   "A": "The germ cells arise from it during fetal life",
+   "B": "It produces germ cells throughout menstrual life",
+   "C": "It protects the ova from bacteria",
+   "D": "It was thought to produce germ cells",
+   "E": "It is made up of germ cells"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "The name is historical: the surface epithelium was once believed to give rise to oocytes. Germ cells in fact arise from the yolk sac and migrate to the gonadal ridge.",
+  "key_note": "Some paper keys marked A; the name reflects an old belief, so D is correct.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02348"
+  ],
+  "stem": "Regarding the surgical anatomy of the pelvis, which of the following statements is correct?",
+  "options": {
+   "A": "Uterine arteries arise from the aorta and renal artery",
+   "B": "The sigmoid colon runs along the right side wall of the abdomen",
+   "C": "Ovarian arteries arise from the aorta and renal artery",
+   "D": "Ovarian arteries arise from the internal iliac artery",
+   "E": "The ovarian artery runs 1 cm above and lateral to the ureter at the level of the internal os"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "The ovarian arteries arise directly from the abdominal aorta just below the renal arteries (occasionally from the renal artery). The uterine artery is a branch of the internal iliac artery.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01369"
+  ],
+  "stem": "The maximum number of primordial follicles is reached at:",
+  "options": {
+   "A": "8 weeks",
+   "B": "10 weeks",
+   "C": "15 weeks",
+   "D": "20 weeks",
+   "E": "22 weeks"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Oogonia reach a peak of about 6 to 7 million at around 20 weeks of gestation, after which atresia reduces the number.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01370"
+  ],
+  "stem": "The number of primordial follicles present at birth is:",
+  "options": {
+   "A": "1-2 million",
+   "B": "2-3 million",
+   "C": "3-4 million",
+   "D": "4-5 million",
+   "E": "5-6 million"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Atresia reduces the follicle pool from about 6-7 million at 20 weeks to 1-2 million at birth and about 300,000-400,000 at puberty.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01291"
+  ],
+  "stem": "A 30-year-old woman presents for infertility evaluation and is found to have a bicornuate uterus. Additional evaluation is needed because she is at increased risk of congenital anomalies in the:",
+  "options": {
+   "A": "Skeletal system",
+   "B": "Renal system",
+   "C": "Central nervous system",
+   "D": "Respiratory system",
+   "E": "Cardiovascular system"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "The Mullerian and urinary tracts develop together, so uterine anomalies are associated with renal anomalies such as unilateral agenesis, and the renal tract should be imaged.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02062"
+  ],
+  "stem": "A 35-year-old woman with two second-trimester miscarriages is found to have a unicornuate uterus. Which of the following is a potentially serious complication of this anomaly?",
+  "options": {
+   "A": "Preterm labour",
+   "B": "Cervical insufficiency",
+   "C": "Uterine rupture during labour",
+   "D": "Malpresentation",
+   "E": "Intrauterine growth restriction"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Unicornuate uterus carries an increased risk of cervical insufficiency with second-trimester loss, as well as preterm labour, malpresentation and ectopic pregnancy in a rudimentary horn. Given the history of second-trimester losses, B fits best.",
+  "key_note": "One paper key marked C (uterine rupture); the history of mid-trimester losses points to cervical insufficiency, so B is correct.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02311"
+  ],
+  "stem": "A woman with a septate uterus has had three recurrent pregnancy losses. What is the treatment?",
+  "options": {},
+  "answer": null,
+  "answer_text": "Hysteroscopic septum resection (metroplasty)",
+  "explanation": "A septum is poorly vascularised and predisposes to recurrent miscarriage, so hysteroscopic resection (metroplasty) is the treatment.",
+  "key_note": "Options not available in the source; recall question.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00541"
+  ],
+  "stem": "A 30-year-old woman presents with three second-trimester miscarriages and a uterine anomaly is suspected. Which investigation will you advise initially to confirm the diagnosis?",
+  "options": {
+   "A": "Transvaginal ultrasound",
+   "B": "CT scan",
+   "C": "MRI",
+   "D": "Hysterosalpingogram",
+   "E": "X-ray pelvis"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Pelvic ultrasound, ideally 3D transvaginal, is the first-line non-invasive test for uterine anomalies as it shows the external fundal contour as well as the cavity. HSG and MRI are second-line.",
+  "key_note": "Most paper keys marked D (HSG); transvaginal (3D) ultrasound is the usual first test, with HSG or MRI used to confirm if needed.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00019",
+   "C02324",
+   "C00376",
+   "C00365",
+   "C00793"
+  ],
+  "stem": "A 14-year-old girl presents with cyclical lower abdominal pain and failure to establish menstruation. She has normal stature and secondary sexual characteristics. On perineal inspection there is a tense bluish bulging membrane at the introitus. What is the most likely diagnosis?",
+  "options": {
+   "A": "Asherman's syndrome",
+   "B": "Hyperprolactinaemia",
+   "C": "Imperforate hymen",
+   "D": "Polycystic ovaries",
+   "E": "Premature ovarian failure"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Cyclical pain with a bulging bluish membrane is haematocolpos behind an imperforate hymen, from retained menstrual blood. Asherman's and endocrine causes do not cause a bluish bulge.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01267",
+   "C00379",
+   "C00690",
+   "C00749"
+  ],
+  "stem": "A 15-year-old girl has primary amenorrhoea and a one-year history of recurrent lower abdominal pain lasting 5 to 6 days at monthly intervals, now worsening. What is the most likely diagnosis?",
+  "options": {
+   "A": "Rokitansky syndrome",
+   "B": "Turner syndrome",
+   "C": "Imperforate hymen",
+   "D": "Kallmann syndrome",
+   "E": "Septate uterus"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Cryptomenorrhoea with monthly cyclical pain and primary amenorrhoea in a girl with normal development is typical of an outflow obstruction, most commonly imperforate hymen.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00715"
+  ],
+  "stem": "A 14-year-old girl attends the gynaecology clinic with absent menarche. She is of normal stature with developed secondary sexual characteristics and has had cyclical abdominal pain for a year. Her primary amenorrhoea is most likely due to absence or obstruction of the:",
+  "options": {
+   "A": "Uterus",
+   "B": "Fallopian tubes",
+   "C": "Vagina",
+   "D": "Cervix",
+   "E": "Ovaries"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Cyclical pain means a functioning endometrium, so the problem is outflow obstruction, most commonly at the hymen or vagina. Absent uterus would not cause cyclical pain.",
+  "key_note": "Paper key marked A (uterus); the question is poorly framed, but with cyclical pain the obstruction is in the vagina, so C is the best answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00367"
+  ],
+  "stem": "A 15-year-old girl presents with primary amenorrhoea and cyclical abdominal pain. On examination a bluish membrane is visible at the introitus and you diagnose imperforate hymen. What is the treatment?",
+  "options": {
+   "A": "Marsupialisation",
+   "B": "Hymenectomy",
+   "C": "Cervical dilatation",
+   "D": "Posterior repair",
+   "E": "Hymenorrhaphy"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Treatment is surgical hymenectomy (cruciate incision and excision of the membrane) to drain the haematocolpos, done under anaesthesia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01445",
+   "C01253",
+   "C02047"
+  ],
+  "stem": "An 18-year-old unmarried girl presents with primary amenorrhoea and cyclical lower abdominal pain. Her secondary sexual characters are well developed and local examination shows a bulging bluish membrane. What is the most appropriate first-line investigation?",
+  "options": {
+   "A": "Thyroid function test",
+   "B": "Pelvic ultrasound",
+   "C": "Karyotype",
+   "D": "Serum prolactin",
+   "E": "Serum progesterone"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Pelvic ultrasound confirms haematocolpos or haematometra and the state of the uterus. Hormonal tests and karyotyping are not needed first.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00366"
+  ],
+  "stem": "A 14-year-old girl presents with primary amenorrhoea and no abdominal pain. On examination a blind vagina is seen. What is your diagnosis?",
+  "options": {
+   "A": "Imperforate hymen",
+   "B": "Imperforate anus",
+   "C": "Vaginal atresia",
+   "D": "Cervical atresia",
+   "E": "Absent uterus"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "A blind-ending short vagina without pain suggests Mullerian agenesis (MRKH), where the uterus is absent or rudimentary so there is no haematometra to cause pain.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00014"
+  ],
+  "stem": "A 17-year-old girl with primary amenorrhoea has normal height and secondary sexual characteristics and is diagnosed with Mayer-Rokitansky-Kuster-Hauser (MRKH) syndrome. What is the most likely karyotype?",
+  "options": {
+   "A": "45,XO",
+   "B": "46,XX",
+   "C": "46,XY",
+   "D": "47,XXX",
+   "E": "47,XXY"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "MRKH is Mullerian agenesis in a 46,XX woman with normal ovaries and normal hormonal development.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00681",
+   "C02083"
+  ],
+  "stem": "A 17-year-old girl has failed to establish menstruation. She has normal height, secondary sexual characteristics and external genitalia. Ultrasound shows an absent uterus and karyotype is 46,XX. The most probable diagnosis is:",
+  "options": {
+   "A": "Asherman's syndrome",
+   "B": "Kallmann's syndrome",
+   "C": "Rokitansky syndrome",
+   "D": "Mullerian defects",
+   "E": "Sheehan's syndrome"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Absent uterus with a 46,XX karyotype and normal ovarian function is Mayer-Rokitansky-Kuster-Hauser (Rokitansky) syndrome.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00691"
+  ],
+  "stem": "MRKH syndrome occurs in approximately 1 in 5000 to 1 in 40,000 girls. The ovaries function normally, but the patient fails to conceive because of:",
+  "options": {
+   "A": "Absent uterus",
+   "B": "Anovulation",
+   "C": "Absent vagina",
+   "D": "Cervical stenosis",
+   "E": "Uterus didelphys"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Ovarian function is normal in MRKH, so ovulation occurs; infertility is due to absence of a functional uterus. Genetic children are possible by surrogacy.",
+  "key_note": "Paper key marked B (anovulation); ovaries are normal in MRKH so the correct answer is A.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01368",
+   "C01735"
+  ],
+  "stem": "A girl of 17 to 18 years has primary amenorrhoea with normal height and secondary sexual characteristics. Ultrasound shows an absent uterus. Which investigation gives the definitive diagnosis?",
+  "options": {
+   "A": "Buccal smear for chromatin pattern",
+   "B": "Laparoscopy",
+   "C": "Serum gonadotrophins",
+   "D": "Karyotyping",
+   "E": "Serum oestradiol"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Absent uterus with normal breast development is either MRKH (46,XX) or complete androgen insensitivity (46,XY); karyotyping separates them.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00378"
+  ],
+  "stem": "A 17-year-old girl presents with primary amenorrhoea. She has normal breast development but scanty pubic and axillary hair. Ultrasound shows a blind vaginal pouch and absent uterus. What is the likely diagnosis?",
+  "options": {
+   "A": "Congenital adrenal hyperplasia",
+   "B": "Hypogonadotropic hypogonadism",
+   "C": "Turner syndrome",
+   "D": "Complete androgen insensitivity syndrome (CAIS)"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Normal breasts with scanty pubic and axillary hair, a blind vagina and no uterus in a phenotypic female indicate CAIS (46,XY): testes produce AMH, and androgen receptors are non-functional.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02048"
+  ],
+  "stem": "An 18-year-old girl with primary amenorrhoea is tall with normal breast development and absent pubic hair. There is a blind vaginal pouch, ultrasound confirms absent uterus and intra-abdominal gonads, and karyotype is 46,XY. What is the most important point in counselling?",
+  "options": {
+   "A": "She needs gonadectomy",
+   "B": "She needs vaginoplasty",
+   "C": "She will be able to have a biological child",
+   "D": "Sex change operation is recommended for her",
+   "E": "She needs no hormonal treatment"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "This is CAIS; the intra-abdominal testes carry a malignancy risk (gonadoblastoma), so gonadectomy is advised after puberty, followed by oestrogen replacement. She is raised as female and is infertile.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00377"
+  ],
+  "stem": "A girl with short stature and a webbed neck has Turner syndrome. What is the chromosomal abnormality?",
+  "options": {
+   "A": "45,X",
+   "B": "46,XY",
+   "C": "47,XXY",
+   "D": "47,XY"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Turner syndrome is monosomy X (45,X) or a mosaic variant.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00369",
+   "C00714",
+   "C01190",
+   "C01177"
+  ],
+  "stem": "A 16-year-old girl has primary amenorrhoea, short stature, a webbed neck and widely spaced nipples. Breast development is Tanner stage I and pubic hair Tanner stage IV. FSH and LH are raised with low oestradiol, and ultrasound shows streak gonads with a small uterus. What is the most likely diagnosis?",
+  "options": {
+   "A": "Androgen insensitivity syndrome",
+   "B": "Mullerian agenesis",
+   "C": "Turner syndrome",
+   "D": "Constitutional delay of puberty",
+   "E": "Kallmann syndrome"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Short stature, webbing, streak gonads and hypergonadotropic hypogonadism with a small uterus define Turner syndrome (45,X).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00368"
+  ],
+  "stem": "A 16-year-old girl attends the gynae clinic with primary amenorrhoea. She is short with a wide carrying angle and is diagnosed with Turner's syndrome. Her amenorrhoea is due to absence of:",
+  "options": {
+   "A": "Hypothalamus",
+   "B": "Pituitary",
+   "C": "Uterus",
+   "D": "Vagina",
+   "E": "Ovaries"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "In Turner syndrome the gonads are streak ovaries with no functioning follicles, so oestrogen is low and gonadotrophins are high. The uterus and vagina are present but small.",
+  "key_note": "One paper key marked C (uterus); the defect is streak ovaries (gonadal dysgenesis), so E is correct.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02204"
+  ],
+  "stem": "A 14-year-old girl presents with primary amenorrhoea. She is short, with a wide chest, no breast development and a wide carrying angle. The vulva, vagina and cervix look normal. What is the significant finding on pelvic ultrasound?",
+  "options": {
+   "A": "Present uterus",
+   "B": "Absent uterus",
+   "C": "Present ovaries",
+   "D": "Absent ovaries",
+   "E": "Polycystic ovaries"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "In Turner syndrome the ovaries are fibrous streaks that are usually not visible on ultrasound, whereas a small uterus is present.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00370"
+  ],
+  "stem": "A 20-year-old girl has primary amenorrhoea, short stature, a webbed neck, shield chest, wide carrying angle and absent secondary sexual characteristics. What is the next step in investigation?",
+  "options": {
+   "A": "FSH/LH ratio",
+   "B": "FSH/LH levels",
+   "C": "Serum prolactin",
+   "D": "Karyotyping",
+   "E": "Ultrasound pelvis to check the uterus"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "The phenotype is Turner syndrome, and karyotyping confirms the diagnosis and detects any Y material, which carries a gonadoblastoma risk.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00754"
+  ],
+  "stem": "Congenital adrenal hyperplasia leads to virilisation of a female fetus. It is most commonly due to deficiency of:",
+  "options": {
+   "A": "21-hydroxylase",
+   "B": "17-hydroxyprogesterone",
+   "C": "Oestradiol",
+   "D": "Testosterone",
+   "E": "Alpha-reductase"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Over 90% of CAH is 21-hydroxylase deficiency, which diverts steroid synthesis towards androgens and virilises the female fetus. 17-hydroxyprogesterone accumulates but is the substrate, not the deficient enzyme.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02911",
+   "C02303"
+  ],
+  "stem": "A woman with Turner syndrome asks about conception. Which statement is true?",
+  "options": {
+   "A": "She can conceive naturally",
+   "B": "She needs a surrogate or donor eggs",
+   "C": "She has normal ovarian function",
+   "D": "Spontaneous pregnancy is likely"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Most Turner patients have streak ovaries and ovarian failure, so pregnancy needs donor oocytes with a uterus primed by hormone replacement (cardiac screening is vital beforehand).",
+  "key_note": "Only four options were available in the source. Source options were incomplete (only two seen); answer by reviewer.",
+  "figure": ""
+ }
+]

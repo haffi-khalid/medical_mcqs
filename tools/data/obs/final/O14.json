@@ -1,0 +1,2001 @@
+[
+ {
+  "cids": [
+   "C00740",
+   "C01663",
+   "C01900"
+  ],
+  "stem": "Post partum haemorrhage is defined, after normal vaginal delivery, as a blood loss of",
+  "options": {
+   "A": ">500 ml",
+   "B": "<500 ml",
+   "C": "<400 ml",
+   "D": "<300 ml",
+   "E": "<200 ml"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Primary PPH is blood loss of more than 500 ml in the first 24 hours after vaginal delivery (more than 1000 ml after caesarean section); the options with a '<' sign are the opposite of the definition.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00950"
+  ],
+  "stem": "PPH is considered to be major if the blood loss is more than",
+  "options": {
+   "A": "500ml",
+   "B": "750ml",
+   "C": "1000ml",
+   "D": "1500ml",
+   "E": "2000ml"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Major PPH is blood loss of more than 1000 ml (minor 500-1000 ml); major PPH is further divided into moderate (1000-2000 ml) and severe (more than 2000 ml).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00890"
+  ],
+  "stem": "Secondary PPH is defined as PPH occuring between:-",
+  "options": {
+   "A": "12 hours to 3 weeks postnatally",
+   "B": "24 hours to 3 weeks postnatally",
+   "C": "12 hours to 7 days postnatally",
+   "D": "24 hours to 7 weeks postnatally",
+   "E": "24 hours to 12 weeks postnatally"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Secondary PPH is abnormal bleeding from 24 hours after delivery up to 12 weeks postpartum (RCOG/WHO); the commonest causes are retained products and endometritis.",
+  "key_note": "Another paper marked 24 hours to 2 weeks; correct per RCOG/WHO is 24 hours to 12 weeks.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01829"
+  ],
+  "stem": "Which of the following is not a factor classically implicated in postpartum haemorrhage?",
+  "options": {
+   "A": "Tone",
+   "B": "Trauma",
+   "C": "Tamponade",
+   "D": "Thrombin",
+   "E": "Tissue"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "The classical four Ts of PPH are Tone, Trauma, Tissue and Thrombin; tamponade is a treatment (balloon), not a cause.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00810",
+   "C01168",
+   "C01575"
+  ],
+  "stem": "Which of the following is the most common cause of postpartum hemorrhage?",
+  "options": {
+   "A": "Uterine atony",
+   "B": "Lacerations",
+   "C": "Retained placenta",
+   "D": "Coagulopathy",
+   "E": "Endometritis"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Uterine atony is the commonest cause of PPH (about 70-80%); lacerations, retained tissue and coagulopathy are less common.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00339",
+   "C02465",
+   "C02558"
+  ],
+  "stem": "A 28-year-old woman delivers a healthy 3.6 kg baby after an induced labour with prolonged oxytocin infusion. Within 10 minutes of delivery she develops heavy vaginal bleeding. The uterus feels soft, enlarged and relaxed. What is the most likely cause?",
+  "options": {
+   "A": "Retained placental tissue",
+   "B": "Genital tract trauma",
+   "C": "Coagulopathy",
+   "D": "Uterine atony",
+   "E": "Uterine rupture"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A soft, enlarged, relaxed uterus after a prolonged oxytocin infusion and a large baby points to atony, the commonest cause of primary PPH.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00450",
+   "C00521"
+  ],
+  "stem": "A 39yrs old G3P2 has delivered a 4.0 kg baby normally after delivery of placenta the patient starts to bleed heavily. The most probable cause o PPH in her case would be",
+  "options": {
+   "A": "Cervical tear",
+   "B": "Atony",
+   "C": "Placental tissue",
+   "D": "Coagulation defect",
+   "E": "None of the above"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Grand multiparity and a macrosomic baby predispose to atony, the commonest cause of PPH after delivery of the placenta.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00887",
+   "C00983"
+  ],
+  "stem": "A G8 P7 was admitted at 40 weeks of gestation with labour pains for the last 8 hours. She had vaginal delivery followed immediately by massive PPH. What is the most likely cause of PPH in this patient:-",
+  "options": {
+   "A": "Perineal tears.",
+   "B": "Retained placenta.",
+   "C": "Uterine atony",
+   "D": "Disseminated intravascular coagulopathy.",
+   "E": "Cervical tears"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "High parity is a classical risk factor for atony, which causes immediate massive PPH after delivery.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01526",
+   "C01999"
+  ],
+  "stem": "A 28 year old G4P3 known diabetic delivered a male baby of 4.1 kg one hour back. She also had history of prolong labor. After delivery she had PPH. What is the most probable cause of PPH in this patient?",
+  "options": {
+   "A": "Retained placenta",
+   "B": "Vaginal trauma",
+   "C": "Uterine rupture",
+   "D": "Cervical tear",
+   "E": "Uterine atony"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Diabetes with macrosomia and prolonged labour are risk factors for atony.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01666",
+   "C01903",
+   "C01905"
+  ],
+  "stem": "A P2+0 with uncontrolled diabetes and polyhydramnios delivered a baby and started to bleed profusely after delivery of placenta. The most likely cause of bleeding in this case is",
+  "options": {
+   "A": "Retained placenta",
+   "B": "Vaginal laceration",
+   "C": "Uterine atony",
+   "D": "Uterine inversion",
+   "E": "Ruptured uterus"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Polyhydramnios overdistends the uterus, so atony is the most likely cause of profuse bleeding after delivery of the placenta.",
+  "key_note": "Two copies of this question were recall versions without options (answer: uterine atony).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00150",
+   "C01731"
+  ],
+  "stem": "A 32-year-old P3 presents in OPD 3 weeks after normal vaginal delivery with lower abdominal pain and passage of clots. On bimanual examination the uterus is 16 weeks size, soft and mildly tender. What is the most probable cause of her bleeding?",
+  "options": {
+   "A": "Endometriosis",
+   "B": "Retained products of conception",
+   "C": "Uterine fibroids",
+   "D": "Bleeding disorders",
+   "E": "Cervicitis"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Bleeding with a subinvoluted, soft, tender uterus 3 weeks after delivery is secondary PPH, most often due to retained products of conception (with or without infection).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01069"
+  ],
+  "stem": "Which of the following causes of postpartum haemorrhage should be ruled out first?",
+  "options": {
+   "A": "Previous Caesarian section",
+   "B": "Genital tract laceration",
+   "C": "Bleeding disorders",
+   "D": "Uterine Atony",
+   "E": "DIC"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Tone is the first of the four Ts and the commonest cause, so it is excluded first (by feeling the uterus).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01070"
+  ],
+  "stem": "Regarding PPH, the risk of uterine atony is NOT usually associated with",
+  "options": {
+   "A": "Macrosomia",
+   "B": "Multiple pregnancy",
+   "C": "Prolonged labor",
+   "D": "IOL",
+   "E": "Oligo-hydramnios"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Overdistension (macrosomia, multiple pregnancy, polyhydramnios), prolonged labour and induction or augmentation predispose to atony; oligohydramnios does not.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01612",
+   "C02991"
+  ],
+  "stem": "A 28-year-old G2P1 has had an outlet forceps delivery of a 3.2 kg baby girl with a good Apgar score. After delivery of the placenta she starts to bleed heavily. The most probable cause of PPH in her case is",
+  "options": {
+   "A": "Atony of uterus",
+   "B": "Trauma to the genital tract",
+   "C": "Retained part of placenta",
+   "D": "Coagulation defect",
+   "E": "Full bladder"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Uterine atony causes about 70-80% of primary PPH; the other causes (trauma, tissue, thrombin) are less common.",
+  "key_note": "Another copy of this question was keyed B (genital tract trauma); atony is the commonest cause of primary PPH even after instrumental delivery with a normal-weight baby, so A is kept.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01577"
+  ],
+  "stem": "A 21-year-old primigravida has just delivered after induction of labour for postdates. After placental delivery she continues to bleed excessively. Which is the most important physiological haemostatic mechanism in combating postpartum haemorrhage?",
+  "options": {
+   "A": "contraction of interlacing uterine muscle bundles",
+   "B": "fibrinolysis inhibition",
+   "C": "increased blood-clotting factors in pregnancy",
+   "D": "intramyometrial vascular coagulation due to vasoconstriction",
+   "E": "markedly decreased blood pressure in the uterine venules"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "The interlacing (living ligature) myometrial fibres compress the vessels running between them, the main physiological haemostatic mechanism after placental separation.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00460",
+   "C00984",
+   "C02434"
+  ],
+  "stem": "You receive a call from the labour room that a patient is bleeding heavily after delivery. You examine her abdomen and the uterus is relaxed. What is the first step in management?",
+  "options": {
+   "A": "Inj. syntometrine I/M",
+   "B": "B-Lynch suture",
+   "C": "Uterine massage",
+   "D": "Hysterectomy",
+   "E": "Uterine packing"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "The first step for a relaxed uterus is to rub up a contraction (uterine massage) while calling for help and giving uterotonics.",
+  "key_note": "A stray 'KEY: A' also appeared in one paper; the correct first step is uterine massage (C).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00523",
+   "C00888",
+   "C02559"
+  ],
+  "stem": "You are called to review a patient who delivered vaginally 15 minutes previously and is bleeding moderately. On examination the uterus is boggy. Which is the first uterotonic agent you will administer?",
+  "options": {
+   "A": "5 units I/M Oxytocin",
+   "B": "40 units oxytocin in 100 ml normal saline over 4 hours",
+   "C": "Ergometrine 500microgram i/m stat",
+   "D": "Carboprost 0.25 mg I/M stat",
+   "E": "Misoprostol 800 microgram per rectal"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Oxytocin is the first-line uterotonic for atony (IV or IM), before ergometrine, carboprost or misoprostol.",
+  "key_note": "One paper circled B (bimanual compression); with this wording (drug management) the key is IV syntocinon.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00605"
+  ],
+  "stem": "You performed LSCS at 37 weeks for severe pre-eclampsia. At the end of the operation the uterus is poorly contracted and the vagina is full of clots. The patient is already receiving 40 U oxytocin in 100 ml normal saline. What would be your next pharmacological option?",
+  "options": {
+   "A": "5 units I/M oxytocin",
+   "B": "40 units oxytocin in 100 ml normal saline over 4 hours",
+   "C": "Ergometrine 500 microgram I/M stat",
+   "D": "Carboprost 0.25 mg I/M stat",
+   "E": "Misoprostol 800 microgram per rectal"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "With severe pre-eclampsia ergometrine is contraindicated, so after oxytocin the next uterotonic is misoprostol (carboprost is the alternative).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00671"
+  ],
+  "stem": "A 30-year-old woman, 1 hour postpartum after vaginal delivery, is experiencing heavy vaginal bleeding. On examination, her uterus is soft and enlarged, and her heart rate is 110 bpm. Her blood pressure is 90/50 mmHg. What is the most appropriate immediate management for this patient?",
+  "options": {
+   "A": "Administer oxytocin intravenously and perform bimanual uterine massage",
+   "B": "Start intravenous fluids and prepare for an emergency hysterectomy",
+   "C": "Insert a Foley catheter and monitor urine output to guide fluid resuscitation",
+   "D": "Administer misoprostol and perform uterine curettage",
+   "E": "Perform manual removal of RPOC's and start intravenous antibiotics"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Atony is treated by bimanual massage together with oxytocin, with resuscitation; hysterectomy and curettage are later or inappropriate steps.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00606",
+   "C00562",
+   "C02627",
+   "C02704"
+  ],
+  "stem": "A 24-year-old P5 delivered normally 20 minutes ago with active management of the third stage. Heavy vaginal bleeding is noticed and the uterus is lax. Her ABC is secured and cross-matched blood has been requested. What is the next step?",
+  "options": {
+   "A": "Prostaglandin F2 alpha",
+   "B": "Transfuse uncross matched O negative blood",
+   "C": "B-lynch suture",
+   "D": "Bimanual uterine massage",
+   "E": "Laparotomy and step wise devascularization"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "After ABC and cross-matching, bimanual compression and massage is the next step for a lax uterus, before further uterotonics and surgery.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00985"
+  ],
+  "stem": "A35 years old multigravida bleeding profusely after delivery of her 5th baby. You suspect uterine atony and uterine massage was done. While rubbing you notice a palpable mass in lower abdomen. On inquiring staff told you that she emptied her bladder 2hrs ago What should be your next step?",
+  "options": {
+   "A": "10 unit oxytocin.",
+   "B": "Continuing uterine massage",
+   "C": "Repeat ergometrine",
+   "D": "Empty the bladder",
+   "E": "Give fibrinolytics"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A full bladder prevents uterine contraction; emptying it is the next step when a suprapubic mass is felt.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00949",
+   "C02739"
+  ],
+  "stem": "A 36 year old primigravida underwent forceps delivery after prolonged labour followed by PPH. Injection syntocinon was given along with uterine massage. Uterus became well contracted but she continued to bleed. What will be the next step of management:",
+  "options": {
+   "A": "EUA for any tears",
+   "B": "Evacuation and curettage",
+   "C": "B-lynch",
+   "D": "Uterine artery embolization",
+   "E": "Blood transfusion"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "If the uterus is well contracted but bleeding continues, trauma is likely, so examine under anaesthesia for tears before surgery.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00524"
+  ],
+  "stem": "A 30 years old P3 has delivered 30 minutes ago with active management of third stage of labour. Your duty nurse informed you that she is having heavy vaginal bleeding. On examination her uterus is lax. You tried bimanual uterine massage but it was not successful. You shifted her to operation theatre for stepwise devascularization. Which vessel you will ligate initially",
+  "options": {
+   "A": "Uterine artery",
+   "B": "Internal iliac ligation",
+   "C": "Ovarian artery",
+   "D": "Internal iliac vein",
+   "E": "External iliac artery"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Stepwise devascularisation starts with the uterine arteries (unilateral then bilateral), then the utero-ovarian anastomosis and finally the internal iliac arteries.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00294"
+  ],
+  "stem": "A patient undergoing peripartum hysterectomy had severe intraoperative blood loss. In addition to Red cell concentrate which of the following will most likely be necessary",
+  "options": {
+   "A": "Albumin concentrate",
+   "B": "Cryo precipitate",
+   "C": "Fresh-frozen plasma",
+   "D": "Plate let concentrate",
+   "E": "Recombinant activated factor VII"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Massive transfusion of red cells dilutes clotting factors, so FFP is needed alongside; cryoprecipitate and platelets follow guided by fibrinogen and platelet counts.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00807"
+  ],
+  "stem": "A 37 year old G3P3 has delivered a 3.8 kg female baby after a prolonged labor and augmentation. After delivery of the placenta you found out that she had second degree perineal laceration. After repair of the laceration, the patient continues to bleed heavily, about 350 cc blood loss. You assess for uterine tone and do which of the following?",
+  "options": {
+   "A": "Inspect the cervix and upper vagina for trauma",
+   "B": "Do manual exploration of uterine cavity for retained products of conception",
+   "C": "Do an ultrasound to rule out retained products",
+   "D": "Uterine packing under anesthesia",
+   "E": "Examination under anesthesia"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Persisting bleeding after repair of a tear, with a prolonged labour, needs reassessment of the 4 Ts: exploration of the uterine cavity for retained tissue is the keyed step, with cervical and vaginal inspection if the uterus is firm.",
+  "key_note": "Question is incomplete in the source; the paper key was B (a firm uterus would favour option A, inspection for trauma).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00999"
+  ],
+  "stem": "A primigravida after delivery starts having profuse bleeding. On examination placenta is still retained and patient is in hypovolemic shock. You immediately shift her to OT for manual removal. Which of the following analgesia is suitable for this lady",
+  "options": {
+   "A": "Cervical block",
+   "B": "Epidural anesthesia",
+   "C": "Spinal anesthesia",
+   "D": "General anesthesia",
+   "E": "Nitrous oxide"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "In a hypovolaemic woman, regional block risks profound hypotension, so general anaesthesia is used for manual removal of placenta.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01012",
+   "C03057"
+  ],
+  "stem": "A P5 woman after massive postpartum haemorrhage is prone to develop Sheehan's syndrome. What would be the earliest specific problem you expect?",
+  "options": {
+   "A": "Absence of menstruation",
+   "B": "Absence of axillary hairs",
+   "C": "Absence of lactation",
+   "D": "Absence of pubic hairs",
+   "E": "Intolerance to cold"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Sheehan's syndrome (pituitary necrosis after PPH) first presents as failure of lactation due to prolactin deficiency; amenorrhoea develops later.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01562"
+  ],
+  "stem": "A 32-year-old P2 had an instrumental delivery with episiotomy and a massive postpartum haemorrhage 25 days back. She now presents with failure to initiate lactation despite repeated efforts. The most likely cause is",
+  "options": {
+   "A": "Cushing's syndrome",
+   "B": "Sheehan's syndrome",
+   "C": "Addison's syndrome",
+   "D": "Myofascial syndrome",
+   "E": "Potter's syndrome"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Failure of lactation after massive PPH indicates pituitary infarction (Sheehan's syndrome).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01017"
+  ],
+  "stem": "A primigravida having mitral stenosis after delivery started bleeding profusely. You diagnose uterine atony. Which drug you will avoid in this lady",
+  "options": {
+   "A": "Prostaglandin F2 alpha",
+   "B": "Ergometrine",
+   "C": "Misoprostol",
+   "D": "Oxytocin",
+   "E": "Antifibrinolytic"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Ergometrine causes vasoconstriction and raises preload and blood pressure, which is dangerous in mitral stenosis and hypertension.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00564",
+   "C02563",
+   "C02633"
+  ],
+  "stem": "After delivery of the placenta in a primigravida, a globular mass is noticed in the vagina, with BP 90/70 mmHg and pulse 105/min. What is the most likely diagnosis?",
+  "options": {
+   "A": "Endometrial polyp",
+   "B": "Cervical polyp",
+   "C": "Inverted uterus",
+   "D": "Gartner's duct cyst",
+   "E": "Bartholin cyst."
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A globular mass in the vagina with shock after delivery of the placenta (neurogenic shock out of proportion to blood loss) is acute uterine inversion.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01536"
+  ],
+  "stem": "A 36yrs old G4P2A1 previous normal deliveries is in labor at Term. She progresses and delivers a 3.5kg baby and third stage is delayed for 40 min. After delivery of placenta the patient starts to bleed heavily. The midwife informs you the patient is in shock. You suspect uterine inversion. Which of the following clinical finding is associated with this condition?",
+  "options": {
+   "A": "Palpable uterine fundus",
+   "B": "Incomplete placenta",
+   "C": "Soft mass protruding through the introitus",
+   "D": "Well-contracted uterine fundus",
+   "E": "None of the above"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "In inversion the fundus is not palpable abdominally and a soft mass protrudes through the introitus.",
+  "key_note": "Some options were partly garbled in the source; intended answer is the protruding mass.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01537",
+   "C02760",
+   "C02815",
+   "C03060"
+  ],
+  "stem": "A38yrs old G3P2 is laboring at term she progresses and delivers a 3.8kg baby. After that the midwife calls you as the patient has gone into shock and the placenta has not delivered. You suspect uterine inversion. What is the first step in managing this patient?",
+  "options": {
+   "A": "Remove the placenta",
+   "B": "Keep the placenta and manual replacement of uterus",
+   "C": "Hydrostatic replacement of uterus",
+   "D": "Incision of the constriction ring",
+   "E": "None of the above"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Leave the placenta in place (removal increases bleeding), correct shock and replace the uterus manually (Johnson), then remove the placenta.",
+  "key_note": "Some teaching favours replacement under anaesthesia if the immediate attempt fails; the paper key A is kept.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00462"
+  ],
+  "stem": "A primigravida after had instrumental deliver of baby due to poor maternal effort. She had uterine inversion which was managed successfully. Most common cause of this complication is",
+  "options": {
+   "A": "Inexperienced obstetrician",
+   "B": "Instrumental delivery",
+   "C": "Manual removal of placenta",
+   "D": "Uterine atony"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Mismanagement of the third stage (cord traction without contraction, manual removal of placenta) is the classic cause; manual removal is the keyed answer here.",
+  "key_note": "The other paper's options included cord traction without uterine contraction, which is also taught as the commonest cause.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01071"
+  ],
+  "stem": "The risk of uterine inversion is less likely in",
+  "options": {
+   "A": "Second stage C/S",
+   "B": "Mal presentation",
+   "C": "Prolonged second stage",
+   "D": "Hyper stimulated uterus",
+   "E": "EILSCS"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Risk factors for inversion include fundal placenta, cord traction, short cord and manual removal; the keyed answer here is EILSCS (emergency caesarean in labour).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01634"
+  ],
+  "stem": "A 22-year-old G1P0 has just undergone a spontaneous vaginal delivery. As the placenta is being delivered, a red fleshy mass is noted to be protruding out from behind the placenta. Which of the following is the best next step in management of this patient?",
+  "options": {
+   "A": "Begin intravenous oxytocin infusion",
+   "B": "Call for immediate assistance from other medical personnel",
+   "C": "Continue to remove the placenta manually",
+   "D": "Have the anesthesiologist administer magnesium sulfate",
+   "E": "replace the placenta back into the uterus"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "A fleshy mass behind the placenta suggests a retained succenturiate lobe; call for help and explore the uterus rather than pulling or replacing the placenta.",
+  "key_note": "One paper marked E (replace the placenta); best answer is B.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01529"
+  ],
+  "stem": "Umbilical cord protruding from vagina of laboring patient after ruptured membranes and is more common with which of the following condition",
+  "options": {
+   "A": "Breech presentation",
+   "B": "Cephalopelvic disproportion",
+   "C": "Multiple pregnancy",
+   "D": "Cephalic presentation",
+   "E": "Polyhydramnios"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Polyhydramnios, malpresentation and a high presenting part predispose to cord prolapse when membranes rupture.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00930"
+  ],
+  "stem": "Risk of cord prolapse is maximum in which of the following presentations",
+  "options": {
+   "A": "Brow",
+   "B": "Shoulder",
+   "C": "Face",
+   "D": "Extended breech",
+   "E": "Footling"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Transverse lie (shoulder) has the highest risk of cord prolapse because the presenting part does not fill the pelvis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00452",
+   "C01129",
+   "C02562",
+   "C00987"
+  ],
+  "stem": "A 30-year-old G5P4 with polyhydramnios is in active labour and has spontaneous rupture of membranes. She is 8 cm dilated and the umbilical cord is in front of the fetal head. What is the first step of management?",
+  "options": {
+   "A": "Manually replace the cord back in the uterus",
+   "B": "Elevate the presenting part to avoid further compression on cord",
+   "C": "Empty the bladder with help of indwelling catheter",
+   "D": "Place the mother in squatting position",
+   "E": "Outlet forceps delivery"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Immediate management is to relieve cord compression by elevating the presenting part (manually, with knee-chest or left lateral position and bladder filling) while preparing for caesarean section.",
+  "key_note": "The paper key was B (prepare for emergency LSCS), which is the definitive plan rather than the first step.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00604"
+  ],
+  "stem": "A G4P3 at 39 weeks with polyhydrominos has come to ER at 5cm of dilatation. Your house officer told you that spontaneous rupture of membranes has occurred and there is cord prolapse. What is your first step in of management",
+  "options": {
+   "A": "Call for senior help",
+   "B": "Prepare Operation Theater",
+   "C": "Perform speculum or digital examination",
+   "D": "Elevate presenting part",
+   "E": "Place mother in left lateral position"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "The first step in cord prolapse is to call for senior help, then relieve pressure on the cord and arrange emergency caesarean section.",
+  "key_note": "Two papers with 'suspect cord prolapse' keyed C (speculum or digital examination with FHR monitoring).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01723"
+  ],
+  "stem": "While attending G4P3 in labour at 7cm you observed that amniotic membranes ruptured and umbilical cord comes out. Your immediate step will be",
+  "options": {
+   "A": "Emergency LSCS",
+   "B": "Call Paeditrician",
+   "C": "Fill bladder with saline to reduce pressure on cord",
+   "D": "Apply instrument to deliver the baby",
+   "E": "Firmly compress the cord"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Filling the bladder lifts the presenting part off the cord while the patient is prepared for emergency caesarean section.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00940",
+   "C00852",
+   "C02281",
+   "C02892",
+   "C02616",
+   "C02814"
+  ],
+  "stem": "A G5P4 at 39 weeks of gestation has reported in active phase of labour. O/E cervix is 6cm, head is at -1 with cord prolapse and cord pulsations are felt. What will be your immediate action",
+  "options": {
+   "A": "Counselling",
+   "B": "Call to paeds",
+   "C": "Left lateral position and oxygen inhalation",
+   "D": "Shift to ot for emergency LSCS",
+   "E": "Wait for spontaneous onset of labour"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A prolapsed pulsating cord at 6 cm with a live fetus needs immediate delivery by emergency caesarean section.",
+  "key_note": "Recall question; one source option read 'push it back up and prepare for C section', an alternative wording of the same management.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00826",
+   "C02631"
+  ],
+  "stem": "A 30-year-old G4P3 reports in the labour room. By dates she is 38 weeks and fundal height is 42 cm. She has been fully dilated for the last hour. The antenatal record shows deranged blood sugar levels. She is at risk of",
+  "options": {
+   "A": "Forceps delivery",
+   "B": "Vacuum delivery",
+   "C": "Abdominal delivery",
+   "D": "Shoulder dystocia",
+   "E": "Deep Transverse Arrest"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Diabetes and a large fundal height predict macrosomia and hence shoulder dystocia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01533"
+  ],
+  "stem": "Regarding shoulder dystocia which of the following statement is true:",
+  "options": {
+   "A": "Pre eclampsia is a risk factor for shoulder dystocia.",
+   "B": "Maternal obesity is a risk factor for shoulder dystocia.",
+   "C": "Instrumental delivery ensures prevention of shoulder dystocia",
+   "D": "Shoulder dystocia can only occur in diabetic mothers with macrosomia.",
+   "E": "Shoulder dystocia has recurrence rate of 50% in the next pregnancy."
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Obesity, diabetes, macrosomia and previous shoulder dystocia are risk factors; it can occur in non-diabetics and instrumental delivery does not prevent it.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01722"
+  ],
+  "stem": "You are attending a G5 P4 +0 in labour after delivery of head the chin of baby recedes back firmly on the perineum and you are not able to visualize the neck of the baby. And face of baby starts turning blue this condition is seen in",
+  "options": {
+   "A": "Obstructed labour",
+   "B": "Ruptured uterus",
+   "C": "Normal Labour",
+   "D": "Shoulder dystocia",
+   "E": "Secondary arrest of labour"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "The chin retracting against the perineum (turtle sign) after head delivery indicates shoulder dystocia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00851"
+  ],
+  "stem": "In shoulder dystocia the anterior shoulder of the fetus is stuck",
+  "options": {
+   "A": "below the symphysis pubis",
+   "B": "above the symphysis pubis",
+   "C": "under the symphysis pubis",
+   "D": "below the sacrum",
+   "E": "behind the sacrum"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "In shoulder dystocia the anterior shoulder is impacted behind/above the symphysis pubis.",
+  "key_note": "One paper circled 'under the symphysis'; the standard keyed answer is above.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01532"
+  ],
+  "stem": "In the management of shoulder dystocia the aim is to deliver the baby within",
+  "options": {
+   "A": "1 minute of diagnosis",
+   "B": "2 minute of diagnosis",
+   "C": "3 minute of diagnosis",
+   "D": "4 minute of diagnosis",
+   "E": "5 minute of diagnosis"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Hypoxic injury risk rises with the head-to-body interval, so delivery is aimed within about 5 minutes of diagnosis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00986"
+  ],
+  "stem": "You are delivering 26 years old non booked G3P2+0 at 40 weeks. She has history of two previous uncomplicated vaginal deliveries. After 15 minutes of pushing, the baby's head delivers spontaneously, but then retracts back against perineum. As you apply gentle downward traction to the head, the baby's anterior shoulder fails to deliver. What should be your first step",
+  "options": {
+   "A": "Call for help",
+   "B": "Zavanelli maneuver",
+   "C": "Symphysiotomy",
+   "D": "Cleidotomy",
+   "E": "Wood's screw manoeuvre"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "The first action in shoulder dystocia is to call for help (obstetrician, midwife, neonatologist, anaesthetist), then perform McRoberts.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00451",
+   "C01665",
+   "C01902",
+   "C01926",
+   "C01531",
+   "C00565",
+   "C00461",
+   "C01066",
+   "C01148",
+   "C02663",
+   "C02561",
+   "C02747",
+   "C02830",
+   "C02410",
+   "C02703",
+   "C01128"
+  ],
+  "stem": "A 32-year-old G4P3 is in the second stage of labour. After delivery of the head there is difficulty in delivering the shoulders. What is the first manoeuvre to relieve this problem?",
+  "options": {
+   "A": "Wood screw manoeuvre",
+   "B": "McRoberts manoeuvre",
+   "C": "Rubin's manoeuvre",
+   "D": "Reverse wood screw manoeuvre",
+   "E": "Suprapubic pressure"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "McRoberts manoeuvre is the first-line manoeuvre; suprapubic pressure is added if it fails, and the rotational manoeuvres follow.",
+  "key_note": "One paper keyed episiotomy (A); correct is McRoberts.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00563"
+  ],
+  "stem": "A primigravida comes for first antenatal visit at 34 weeks of gestation. On inquiry she gives history of myomectomy 3 years ago in periphery. Which is the most likely complication in her case if you allow her to deliver vaginally",
+  "options": {
+   "A": "Primary arrest",
+   "B": "Secondary arrest",
+   "C": "Arrest in second stage of labour",
+   "D": "Rupture uterus",
+   "E": "Postpartum hemorrhage"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Myomectomy scars (especially full-thickness or with cavity entry) carry a risk of uterine rupture in labour.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00853",
+   "C01923"
+  ],
+  "stem": "Mrs TH, G6P5, is in labour and contracting strongly on oxytocin infusion at 8 cm dilatation. Suddenly she has severe excruciating abdominal pain and the contractions stop. You diagnose",
+  "options": {
+   "A": "abruptio placenta",
+   "B": "uterine exhaustion",
+   "C": "hypotonia of uterus",
+   "D": "rupture uterus",
+   "E": "antepartum hemorrhage"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Strong contractions on oxytocin in a grand multipara followed by severe pain and cessation of contractions indicates uterine rupture.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00889"
+  ],
+  "stem": "A G10 P9 at 39 weeks of gestation with previous 1 C.section has come to emergency with severe pain lower abdomen and vaginal bleeding. On examination patient is hypotensive with pulse of 110 beats/min. Abdominal examination reveals tender abdomen, fetal parts palpable but absent fetal heart sounds. The most likely diagnosis in this case is",
+  "options": {
+   "A": "Placental Abruption",
+   "B": "Placenta Praevia",
+   "C": "Uterine rupture",
+   "D": "Cervical tears",
+   "E": "Perineal tears"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Scar tenderness, shock, bleeding, palpable fetal parts and absent fetal heart in a woman with a previous caesarean indicate rupture.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00669",
+   "C03107"
+  ],
+  "stem": "A 30-year-old woman, 36 weeks pregnant, collapses suddenly while in the waiting room of the antenatal clinic. She is unconscious, with no palpable pulse or respiratory effort. She has a history of preeclampsia in her previous pregnancy, and her current pregnancy has been uncomplicated. What is the most appropriate immediate step in the management of this patient?",
+  "options": {
+   "A": "Chest compressions + 100% oxygen, followed by IV fluids and defibrillation if needed",
+   "B": "Rapid sequence induction (RSI) for intubation, followed cesarean delivery",
+   "C": "Place patient in left lateral position+ monitor fetal heart rate",
+   "D": "Intravenous fluids+ Oxygen + Catheterize",
+   "E": "Call for help+ Assess airway and breathing + initiate CPR"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Collapse with no pulse or breathing: call for help, check airway and breathing and start CPR (with left uterine displacement beyond 20 weeks).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01800",
+   "C02867"
+  ],
+  "stem": "A 35yrs old G4P3+0 ,suddenly develops breathlessness and chest pain two hours after delivery.On examination, there is cyanosis, rapid breathing and increased jugular venous pressure. The most probable cause is:",
+  "options": {
+   "A": "Hysteria",
+   "B": "Myocardial infarction",
+   "C": "Pleural effusion",
+   "D": "Pulmonary embolism",
+   "E": "Uterine rupture"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Sudden breathlessness, chest pain, cyanosis and raised JVP after delivery suggest pulmonary embolism.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01720"
+  ],
+  "stem": "A patient suddenly becomes unresponsive during labour and amniotic fluid embolism is diagnosed. The absolute diagnosis of amniotic fluid embolism is made by",
+  "options": {
+   "A": "Presence of consumptive coagulopathy",
+   "B": "Chest pain",
+   "C": "Chest X Ray",
+   "D": "Amniotic debris in pulmonary circulation",
+   "E": "ECG"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "AFE is a clinical diagnosis; the definite proof is fetal squames or debris in the maternal pulmonary circulation (usually at autopsy).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01854"
+  ],
+  "stem": "An unconscious obstetric patient is admitted to the emergency department in the eighth month of pregnancy with a BP of 60/20 mmHg and a pulse of 120 per minute. If there has been no vaginal bleeding, which diagnosis may be excluded?",
+  "options": {
+   "A": "abruptio placentae",
+   "B": "placenta previa",
+   "C": "premature rupture of membranes with septic shock",
+   "D": "eclampsia",
+   "E": "amniotic fluid embolism"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Placenta praevia causes bleeding, so with no vaginal bleeding it can be excluded; concealed abruption, eclampsia, septic shock and AFE remain possible.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01729"
+  ],
+  "stem": "A G3P1+1 has labour pains for 14 hours. On examination she is 10 cm dilated, cervix fully effaced, station -1. After ARM you tell the house officer that the attitude is well flexed because the presenting diameter is",
+  "options": {
+   "A": "Occipitofrontal",
+   "B": "Submento bregmatic",
+   "C": "Suboccipito bregmatic",
+   "D": "Occipito mental",
+   "E": "Mentovertical"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A well-flexed vertex presents the suboccipitobregmatic diameter (9.5 cm).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02413",
+   "C01528"
+  ],
+  "stem": "A primigravida has a postpartum haemorrhage 30 minutes after caesarean section. To be considered PPH, the estimated blood loss after a caesarean section should be:",
+  "options": {
+   "A": "<500 ml",
+   "B": ">500 ml",
+   "C": ">600 ml",
+   "D": ">1000 ml",
+   "E": "<800 ml"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Blood loss of more than 500 ml is PPH after vaginal birth, whereas after caesarean section the usual threshold is more than 1000 ml because routine operative loss is higher.",
+  "key_note": "The paper key marked B (>500 ml), which is the vaginal-delivery definition; for caesarean section the accepted cut-off is >1000 ml.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02629"
+  ],
+  "stem": "A 38-year-old P3+0 (all SVD) delivers an alive male baby with episiotomy and bleeds heavily immediately after delivery of the placenta. She has marked pallor, BP 90/60 mmHg, pulse 110/min, a soft boggy uterus and severe vaginal bleeding. What is the most likely diagnosis?",
+  "options": {
+   "A": "Amniotic fluid embolism",
+   "B": "Postpartum haemorrhage",
+   "C": "Placenta praevia",
+   "D": "Abruption",
+   "E": "Cord accident"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Heavy bleeding after delivery of the placenta with a boggy uterus and hypovolaemia is primary postpartum haemorrhage (atonic).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02743",
+   "C01119",
+   "C01721",
+   "C00809",
+   "C02000"
+  ],
+  "stem": "A 35-year-old woman, 1 hour post-delivery, presents with continued heavy vaginal bleeding despite a firm uterus. What is the most likely cause?",
+  "options": {
+   "A": "Uterine atony",
+   "B": "Cervical laceration",
+   "C": "Retained placenta",
+   "D": "Uterine rupture",
+   "E": "Coagulopathy"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Bleeding with a firm, contracted uterus indicates trauma, most commonly a cervical or vaginal laceration.",
+  "key_note": "Stem had missing words in the source; reconstructed.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02740",
+   "C02265",
+   "C02877"
+  ],
+  "stem": "A midwife conducts a delivery. The placenta was delivered with difficulty, after which she notices heavy vaginal bleeding. The most probable diagnosis is:",
+  "options": {
+   "A": "Coagulation defect",
+   "B": "Uterine atony",
+   "C": "Uterine inversion",
+   "D": "Endometrial fibroid",
+   "E": "Retained placental tissue"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "A placenta delivered with difficulty (often piecemeal) suggests retained cotyledons or membranes, which prevent effective uterine contraction and cause bleeding.",
+  "key_note": "Recall question; the stem is incomplete and the answer (retained placenta) is taken from the student-compiled book.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02630"
+  ],
+  "stem": "A 35-year-old P7 presents with severe vaginal bleeding immediately after delivery of the placenta and the uterus is atonic. What is the most appropriate initial step in management?",
+  "options": {
+   "A": "Call for help",
+   "B": "Empty the bladder",
+   "C": "Documentation of events",
+   "D": "Negative counselling of partner",
+   "E": "Uterotonic drug administration"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "In PPH the first action is to call for help (multidisciplinary team) while resuscitation and uterine massage with uterotonics start together.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02466"
+  ],
+  "stem": "A 24-year-old primigravida continues to bleed after delivery of the placenta despite uterine massage and oxytocin infusion. What is the next step?",
+  "options": {
+   "A": "Administer ergometrine",
+   "B": "Observe only",
+   "C": "Perform uterine artery ligation",
+   "D": "Proceed to hysterectomy",
+   "E": "Start tranexamic acid"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "In the stepwise approach, ergometrine (if not hypertensive) is the next uterotonic after oxytocin, before carboprost, tranexamic acid and surgery.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02560"
+  ],
+  "stem": "A woman develops major postpartum haemorrhage 20 minutes after delivery. In addition to uterotonics and resuscitation, which medication should be given early when appropriate?",
+  "options": {
+   "A": "Aspirin",
+   "B": "Heparin",
+   "C": "Methotrexate",
+   "D": "Tranexamic acid",
+   "E": "Warfarin"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Tranexamic acid 1 g IV within 3 hours of delivery reduces death from bleeding (WOMAN trial; WHO recommendation).",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03055"
+  ],
+  "stem": "A 38-year-old P5 starts to bleed profusely 10 minutes after delivery of the placenta and the uterus is atonic. Which fluid will you use for initial resuscitation?",
+  "options": {
+   "A": "Dextrose saline",
+   "B": "Dextrose water",
+   "C": "Gelafundin",
+   "D": "Normal saline",
+   "E": "Salt-poor albumin"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Isotonic crystalloid (normal saline or Hartmann's) is the first-line resuscitation fluid in PPH; dextrose solutions are inappropriate.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03133",
+   "C01574",
+   "C02468",
+   "C02788"
+  ],
+  "stem": "A 35-year-old G4P3 has an uncomplicated vaginal delivery at 39 weeks. Thirty minutes later she has heavy vaginal bleeding with a relaxed uterus. Massage and oxytocin have not controlled the bleeding. BP is 90/60 mmHg and pulse 110/min. What is the next step?",
+  "options": {
+   "A": "Balloon tamponade",
+   "B": "Start 80 IU oxytocin infusion",
+   "C": "Vaginal packing",
+   "D": "Perform a hysterectomy",
+   "E": "Immediate transfusion of blood products"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "After massage and oxytocin fail, a tamponade balloon is the next step; vaginal packing is not recommended and hysterectomy is the last resort.",
+  "key_note": "One paper keyed B (B-Lynch) and the hand-circle was on A; balloon tamponade first is current RCOG/WHO practice.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02001",
+   "C03094"
+  ],
+  "stem": "A G2P1 has an emergency caesarean section after prolonged labour. The uterus fails to contract and PPH follows with no response to medical treatment. The most appropriate surgical treatment is:",
+  "options": {
+   "A": "B-Lynch suture",
+   "B": "Hysterectomy",
+   "C": "Internal iliac ligation",
+   "D": "EUA to rule out vaginal tears",
+   "E": "Unilateral uterine artery ligation"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "At laparotomy for atony unresponsive to drugs, a compression (B-Lynch) suture is the preferred conservative step in a young woman, with hysterectomy if it fails.",
+  "key_note": "The paper marked B (hysterectomy), which is the last resort; B-Lynch is the standard first surgical step.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02477"
+  ],
+  "stem": "During caesarean section the obstetrician notes profuse bleeding from the placental bed due to a low-lying placenta. What is the immediate management?",
+  "options": {
+   "A": "Administer oxytocin",
+   "B": "Apply haemostatic sutures",
+   "C": "Manual compression only",
+   "D": "Perform hysterectomy",
+   "E": "Uterine artery ligation"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "The lower segment contracts poorly, so bleeding from the praevia bed is controlled with haemostatic (figure-of-eight) sutures over the bleeding sinuses.",
+  "key_note": "One paper marked A (oxytocin); oxytocin is already given routinely and does not control lower segment bleeding.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02467"
+  ],
+  "stem": "A 32-year-old woman has postpartum bleeding with retained placental fragments. What is the management?",
+  "options": {
+   "A": "Bimanual compression",
+   "B": "Hysterectomy",
+   "C": "Manual removal under anaesthesia",
+   "D": "Observation",
+   "E": "Oxytocin only"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Retained tissue prevents contraction and must be removed (manual removal or evacuation under anaesthesia) with antibiotic cover.",
+  "key_note": "One paper marked D (observation); retained fragments with bleeding need removal.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02478"
+  ],
+  "stem": "A 30-year-old woman in obstructed labour undergoes caesarean delivery. Postoperatively she develops tachycardia, hypotension and abdominal distension. What is the most likely complication?",
+  "options": {
+   "A": "Bladder injury",
+   "B": "Broad ligament haematoma",
+   "C": "Internal haemorrhage",
+   "D": "Pulmonary embolism",
+   "E": "Uterine rupture"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Shock with a distending abdomen after caesarean indicates concealed intraperitoneal haemorrhage (from the uterine incision, angle extension or slipped ligature).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02705",
+   "C00533",
+   "C02533"
+  ],
+  "stem": "A P3 had a normal vaginal delivery 10 days ago at a local hospital. She was well until day 10 when she began having vaginal bleeding with mild lower abdominal pain. What is your diagnosis?",
+  "options": {
+   "A": "Primary postpartum haemorrhage",
+   "B": "Secondary postpartum haemorrhage",
+   "C": "Disseminated intravascular coagulation",
+   "D": "Von Willebrand disease",
+   "E": "Menorrhagia"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Secondary PPH is abnormal bleeding from 24 hours to 12 weeks after delivery, usually from retained tissue or endometritis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02469"
+  ],
+  "stem": "A 27-year-old woman develops secondary PPH 2 weeks after delivery. The uterus is tender. What is the most probable cause?",
+  "options": {
+   "A": "Coagulopathy",
+   "B": "Endometritis",
+   "C": "Retained products",
+   "D": "Subinvolution",
+   "E": "Uterine rupture"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "A tender uterus with secondary PPH points to endometritis (often with retained tissue), for which antibiotics are the mainstay.",
+  "key_note": "Another paper marked C (retained products); the tender uterus favours endometritis, as in Ten Teachers.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03170"
+  ],
+  "stem": "Secondary PPH most commonly occurs on:",
+  "options": {
+   "A": "2-3 days",
+   "B": "8-14 days",
+   "C": "7-10 days",
+   "D": "Within 24 hours after delivery",
+   "E": "Within 48 hours after delivery"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Secondary PPH (24 hours to 12 weeks) most often presents in the second week after delivery.",
+  "key_note": "Options B and C overlap; B is the paper key and the classic 'second week' teaching.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02684"
+  ],
+  "stem": "Uterine inversion is a complication of which of the following?",
+  "options": {
+   "A": "Prolonged latent phase",
+   "B": "Induction of labour",
+   "C": "Instrumental vaginal delivery",
+   "D": "Third stage of labour",
+   "E": "Macrosomia"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Inversion occurs in the third stage, typically from cord traction on an atonic uterus or fundal pressure before separation.",
+  "key_note": "One paper marked C (instrumental delivery); inversion is a third-stage complication.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03134"
+  ],
+  "stem": "A 29-year-old G2P1 has a forceps-assisted delivery. As the placenta is delivered she develops severe bleeding and hypotension, a bulbous mass protrudes through the vagina and the uterus is not palpable abdominally. Which of the following is a risk factor for uterine inversion?",
+  "options": {
+   "A": "Prolonged labour",
+   "B": "Use of forceps",
+   "C": "Traction on the umbilical cord",
+   "D": "Good size baby",
+   "E": "Precipitate labour"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Mismanaged third stage (cord traction on a fundally attached placenta, or fundal pressure) is the main cause of inversion.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02591",
+   "C02683"
+  ],
+  "stem": "Which risk factor has the highest association with uterine rupture in a woman with a previous caesarean section?",
+  "options": {
+   "A": "Spontaneous onset of labour",
+   "B": "Use of oxytocin in labour",
+   "C": "Prostaglandin E2 induction of labour",
+   "D": "Prolonged latent phase",
+   "E": "Severe backache"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Prostaglandin induction carries the highest rupture risk in a scarred uterus, higher than oxytocin augmentation or spontaneous labour.",
+  "key_note": "One paper marked B (oxytocin); prostaglandin E2 is the higher-risk agent.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03100",
+   "C02564",
+   "C02270",
+   "C02882"
+  ],
+  "stem": "A 34-year-old woman with two prior caesarean deliveries is in active labour at 36 weeks. Suddenly she has severe abdominal pain, fetal heart rate decelerations and loss of uterine contractions. What is the most likely diagnosis?",
+  "options": {
+   "A": "Abruptio placentae",
+   "B": "Uterine rupture",
+   "C": "Cord prolapse",
+   "D": "Placenta praevia",
+   "E": "Obstructed labour"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Multiple scars, sudden pain, fetal heart changes and loss of contractions indicate rupture of the uterine scar.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02002"
+  ],
+  "stem": "A G2P1 with one previous caesarean section is in advanced labour with strong contractions 4 in 10 minutes. She is screaming in pain but during examination suddenly relaxes and starts bleeding vaginally with haematuria in the urine bag. Pulse is 92/min and BP 90/70 mmHg. CTG shows prolonged deceleration and persistent severe bradycardia. What is the most likely diagnosis?",
+  "options": {
+   "A": "Maternal collapse",
+   "B": "Antepartum haemorrhage",
+   "C": "Uterine rupture",
+   "D": "Vasa praevia",
+   "E": "Urinary tract infection"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Sudden relief of pain, bleeding, haematuria (bladder involvement) and fetal bradycardia in a scarred uterus is uterine rupture.",
+  "key_note": "The paper marked D (vasa praevia); haematuria and a previous scar make uterine rupture correct.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02437"
+  ],
+  "stem": "A 25-year-old woman in the second stage of labour complains of severe pain and vaginal bleeding after a loud pop sound. The fetal head has receded. What is the likely diagnosis?",
+  "options": {
+   "A": "Abruptio placentae",
+   "B": "Cervical tear",
+   "C": "Placenta praevia",
+   "D": "Uterine rupture",
+   "E": "Vasa praevia"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A sudden pop, pain, bleeding and recession of the head signify uterine rupture.",
+  "key_note": "One paper marked E (vasa praevia); the others marked D (uterine rupture), which is correct.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02751"
+  ],
+  "stem": "A non-booked G2P1 at 39 weeks had a caesarean section in her last pregnancy for fetal distress 1 year ago and a trial of labour at home by a dai. About 30 minutes ago she had severe pain which then subsided. Pulse 100/min, BP 90/50 mmHg, fetal parts are palpable abdominally, there is no fetal heart on CTG and the presenting part is not felt on vaginal examination. What is your diagnosis?",
+  "options": {
+   "A": "Scar dehiscence",
+   "B": "Uterine rupture",
+   "C": "Scar rupture",
+   "D": "Uterine atony",
+   "E": "Uterine inertia"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Sudden pain then relief, palpable fetal parts, absent fetal heart and a lost presenting part are features of complete uterine rupture.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02634"
+  ],
+  "stem": "A 32-year-old G2P1 with a previous caesarean section is brought to ER in shock after induction of labour at a private clinic with vaginal tablet and injections and sudden severe abdominal pain. Pulse 120/min, BP 80/60 mmHg, marked pallor, uterine contour lost, fetal parts palpable, fetal bradycardia and blood-stained urine in the catheter. What is the most likely diagnosis?",
+  "options": {
+   "A": "Uterine inversion",
+   "B": "Ruptured uterus",
+   "C": "PPH",
+   "D": "Thromboembolism",
+   "E": "Myocardial infarction"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Prostaglandin and oxytocin induction in a scarred uterus with shock, lost uterine contour and haematuria is uterine rupture.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02866",
+   "C01799"
+  ],
+  "stem": "A grand multiparous woman is brought in shock after a difficult home delivery of a large baby, during which fundal pressure was applied. Severe abdominal pain has persisted after the baby was born. What is the most probable cause of her shock?",
+  "options": {
+   "A": "Vaginal tear",
+   "B": "Uterine atony",
+   "C": "Cervical tear",
+   "D": "Uterine rupture",
+   "E": "Retained placenta"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Grand multiparity, a big baby, fundal pressure and persistent pain with shock indicate uterine rupture.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02992"
+  ],
+  "stem": "A 37-year-old G3P2 is brought to emergency in labour at 38 weeks in a collapsed state, after being managed in a small clinic on an oxytocin infusion for 8 hours. She is pale, pulse 120/min, BP 80/40 mmHg, there are no palpable uterine contractions, no fetal heart and she is bleeding vaginally. What is the most probable diagnosis?",
+  "options": {
+   "A": "Amniotic fluid embolism",
+   "B": "Eclampsia",
+   "C": "Uterine rupture",
+   "D": "Inverted uterus",
+   "E": "Obstructed labour"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Prolonged oxytocin use, shock, cessation of contractions and absent fetal heart indicate uterine rupture.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02789"
+  ],
+  "stem": "A 27-year-old G2P1 delivers at 39 weeks. The midwife notices she has gone into shock, BP 70/40 mmHg and pulse 120/min. She is in intense pain, her clothes are soaked with blood and the uterus is not palpable abdominally. What is the most likely diagnosis?",
+  "options": {
+   "A": "Uterine rupture",
+   "B": "Uterine inversion",
+   "C": "Vulval haematoma",
+   "D": "Supralevator haematoma",
+   "E": "Urinary retention"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Intense pain, torrential bleeding and loss of the uterine outline suggest rupture of the uterus.",
+  "key_note": "Uterine inversion also presents with an impalpable fundus; the paper key (rupture) is kept given the intense pain and heavy bleeding.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02988"
+  ],
+  "stem": "A 35-year-old P5 with one previous caesarean section delivered normally in the morning. She complains of severe abdominal pain and excessive vaginal bleeding since delivery 2 hours ago. What is the most likely diagnosis?",
+  "options": {
+   "A": "Uterine atony",
+   "B": "Uterine dehiscence",
+   "C": "Cervical tear",
+   "D": "Vaginal tear",
+   "E": "Placental tissue"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Severe abdominal pain with bleeding after vaginal birth in a woman with a caesarean scar points to scar dehiscence or rupture; atony is usually painless.",
+  "key_note": "The paper marked A (atony); severe pain with a previous scar favours scar dehiscence, though the question is somewhat ambiguous.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03061",
+   "C00628",
+   "C01664",
+   "C01894"
+  ],
+  "stem": "A 35-year-old G6P5 presents after a trial of labour at home. BP 90/45 mmHg, pulse 100/min, respiratory rate 20/min, temperature 37 C. SFH is 39 cm, longitudinal lie, absent fetal heart and absent uterine contractions. On vaginal examination she is 7 cm dilated and the presenting part seems to have retracted. How will you manage her?",
+  "options": {
+   "A": "Fluid resuscitation, IV antibiotics and move to OT for laparotomy",
+   "B": "Fluid resuscitation, IV antibiotics and reassess after 2 hours",
+   "C": "Fluid resuscitation, IV antibiotics and oxytocin infusion for 2 hours",
+   "D": "Fluid resuscitation, IV antibiotics and vacuum delivery in OT",
+   "E": "Fluid resuscitation, IV antibiotics, await full dilatation and apply midcavity forceps"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Suspected uterine rupture needs resuscitation and urgent laparotomy to deliver and repair or remove the uterus; oxytocin or vaginal delivery is dangerous.",
+  "key_note": "Not marked in one paper; other copies keyed E.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02971"
+  ],
+  "stem": "Shoulder dystocia is anticipated in all of the following conditions EXCEPT:",
+  "options": {
+   "A": "Diabetic mother",
+   "B": "Obesity BMI > 35",
+   "C": "Prolonged pregnancy",
+   "D": "Preterm breech presentation",
+   "E": "Instrumental vaginal delivery"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Macrosomia-related factors (diabetes, obesity, post-dates, instrumental delivery) predispose to shoulder dystocia, whereas a small preterm baby does not.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02274",
+   "C02886"
+  ],
+  "stem": "McRoberts manoeuvre is used in the management of which of the following?",
+  "options": {
+   "A": "Cord prolapse",
+   "B": "Breech",
+   "C": "Fetal distress",
+   "D": "Shoulder dystocia"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "McRoberts position (hyperflexion and abduction of the maternal thighs) straightens the lumbosacral angle and is the first manoeuvre for shoulder dystocia.",
+  "key_note": "Recall question from a student-compiled book; stem reconstructed and answer taken from that source.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03058"
+  ],
+  "stem": "A 37-year-old G6P5 is in the second stage of labour. The head delivers and retracts against the perineum. Gentle axial traction fails and the fetal face becomes plethoric. You place her in McRoberts position. What will you do next?",
+  "options": {
+   "A": "Apply fundal pressure",
+   "B": "Apply suprapubic pressure",
+   "C": "Perform cleidotomy",
+   "D": "Perform perineal massage",
+   "E": "Start oxytocin infusion"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Suprapubic pressure is added to McRoberts position to dislodge the anterior shoulder; fundal pressure worsens impaction.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02003"
+  ],
+  "stem": "A grand multipara with polyhydramnios is in spontaneous labour at term. She suddenly starts leaking per vaginum and the CTG shows prolonged variable decelerations. She is contracting 3 in 10 minutes, pulse 90/min and BP 100/70 mmHg. What is the most likely diagnosis?",
+  "options": {
+   "A": "Uterine rupture",
+   "B": "Cord prolapse",
+   "C": "Urinary incontinence",
+   "D": "Abruptio placentae",
+   "E": "Vasa praevia"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Polyhydramnios and high parity predispose to cord prolapse when the membranes rupture, giving sudden variable or prolonged decelerations.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03059"
+  ],
+  "stem": "A 23-year-old G2P1 in labour has cord prolapse after amniotomy at 5 cm. How will you transfer her to OT?",
+  "options": {
+   "A": "Dorsal with head elevated on stretcher",
+   "B": "Knee-chest position, prone on stretcher",
+   "C": "Supine with head elevated on stretcher",
+   "D": "Sitting upright in a wheelchair",
+   "E": "Walk to OT to hasten delivery"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Knee-chest (or exaggerated Sims, head-down) position lets gravity lift the presenting part off the cord during transfer.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02665",
+   "C02004",
+   "C02904"
+  ],
+  "stem": "A 38-year-old G5P4 suddenly experiences chest pain, breathlessness and light-headedness after artificial rupture of membranes. What is your diagnosis?",
+  "options": {
+   "A": "Myocardial infarction",
+   "B": "Hypotension",
+   "C": "Amniotic fluid embolism",
+   "D": "Uterine rupture",
+   "E": "Uterine inversion"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Sudden cardiorespiratory collapse around membrane rupture or delivery is amniotic fluid embolism.",
+  "key_note": "Not marked in the source paper; answer by reviewer. The stem was partly illegible in the source and has been reconstructed.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02752"
+  ],
+  "stem": "A 38-year-old G4P3 undergoes caesarean section under regional anaesthesia. Immediately after delivery of the placenta she has seizure activity with profound hypoxia and hypotension and is intubated. Massive haemorrhage from the surgical site starts despite uterotonics and blood products. What is the most likely cause of her collapse?",
+  "options": {
+   "A": "Amniotic fluid embolism",
+   "B": "Uterine atony",
+   "C": "Drug reaction",
+   "D": "Severe pre-eclampsia with HELLP",
+   "E": "High spinal anaesthesia"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Sudden hypoxia, hypotension, seizures and then DIC with massive haemorrhage are the classic sequence of amniotic fluid embolism.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02907"
+  ],
+  "stem": "A woman at 37 weeks of gestation develops sudden breathing difficulty and is diagnosed with amniotic fluid embolism. What is the appropriate management?",
+  "options": {
+   "A": "Give antibiotics",
+   "B": "Wait",
+   "C": "Antihistamines",
+   "D": "Oxygen and resuscitation"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Treatment is supportive: oxygen, airway and circulatory support, and correction of coagulopathy; there is no specific antidote.",
+  "key_note": "Recall question from a student-compiled book; stem reconstructed and answer taken from that source.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02594"
+  ],
+  "stem": "Regarding amniotic fluid embolism, which of the following statements is correct?",
+  "options": {
+   "A": "Can be associated with maternal mortality of 80%",
+   "B": "Has an incidence of 1 in 2000 pregnancies",
+   "C": "Is an uncommon cause of peripartum death",
+   "D": "More common in teenage primigravidas",
+   "E": "Only presents during labour or caesarean"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Amniotic fluid embolism is rare (about 1 in 20,000 or fewer) but carries a very high mortality, classically quoted up to 80%; it is commoner in older multiparae and can present after delivery.",
+  "key_note": "One paper marked C; the classic textbook statement of high (up to 80%) mortality is kept as correct.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02595"
+  ],
+  "stem": "A 38-year-old G8P7 presents to the emergency room at 37 weeks with sudden onset severe chest pain. She is a known case of DVT in the right leg. Pulse 96/min, BP 90/60 mmHg, afebrile, BMI 38, oxygen saturation 88%; she is tachypnoeic and restless. What is the most likely cause?",
+  "options": {
+   "A": "Amniotic fluid embolism",
+   "B": "Eclampsia",
+   "C": "Pulmonary embolism",
+   "D": "Cardiomyopathy",
+   "E": "Myocardial infarction"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Known DVT, obesity, sudden pleuritic chest pain, hypoxia and tachypnoea indicate pulmonary embolism.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02605"
+  ],
+  "stem": "A 33-year-old woman at 37 weeks has sudden onset difficulty in breathing. Her oxygen saturation is 86% and she has frothy sputum. What is the most likely diagnosis?",
+  "options": {
+   "A": "Pulmonary embolism",
+   "B": "Amniotic fluid embolism",
+   "C": "Pneumonia",
+   "D": "Acute pulmonary oedema",
+   "E": "Asthma attack"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Frothy sputum with hypoxia is the hallmark of acute pulmonary oedema.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02005",
+   "C01067"
+  ],
+  "stem": "A 39-year-old obese P4 delivered normally 4 hours ago and complains of shortness of breath, sweating and palpitations, and suddenly collapses. What is your immediate step of management?",
+  "options": {
+   "A": "Call for help",
+   "B": "Give IV fluids",
+   "C": "Send ABGs",
+   "D": "Give O2 inhalation",
+   "E": "Catheterisation"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "In maternal collapse the first action is to call for help (the team), then ABC assessment and resuscitation.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02790",
+   "C03064"
+  ],
+  "stem": "A 35-year-old G4P3 collapses in the emergency room at 38 weeks. CPR is started promptly but she is not revived after 4 minutes. What should be the next step?",
+  "options": {
+   "A": "Continue CPR and perform perimortem caesarean section in ER",
+   "B": "Continue CPR and shift to OT for perimortem caesarean section",
+   "C": "Discontinue CPR and confirm fetal viability before perimortem caesarean section",
+   "D": "Withhold CPR and perform perimortem caesarean section in ER",
+   "E": "Withhold CPR and shift to OT for perimortem caesarean section"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Perimortem caesarean is done at the site of arrest within 4-5 minutes while CPR continues, as emptying the uterus relieves aortocaval compression.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02567"
+  ],
+  "stem": "A pregnant woman is involved in a road traffic accident and becomes unconscious. What is the first priority in her assessment?",
+  "options": {
+   "A": "Airway, breathing and circulation",
+   "B": "Establish IV access and begin fluid resuscitation",
+   "C": "Fetal ultrasound before maternal assessment",
+   "D": "Perform an emergency caesarean section",
+   "E": "Determine gestational age and assess uterine contractions"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Maternal resuscitation (ABC) comes first, since saving the mother is the best way to save the fetus.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02568"
+  ],
+  "stem": "A woman at 34 weeks pregnant becomes hypotensive while lying flat after trauma. Which positioning is helpful to reduce aortocaval compression?",
+  "options": {
+   "A": "Left lateral tilt",
+   "B": "Prone position",
+   "C": "Sitting position",
+   "D": "Supine completely flat",
+   "E": "Trendelenburg only"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Left lateral tilt (15-30 degrees) or manual uterine displacement relieves IVC compression and restores venous return.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02835"
+  ],
+  "stem": "A 34-year-old G4P3 at 37 weeks with two previous caesarean sections and placenta praevia is admitted for elective section. After delivery of the baby the placenta fails to separate and gentle attempts at removal provoke torrential bleeding. The placenta appears to invade through the myometrium into the bladder wall. What is the most appropriate immediate management?",
+  "options": {
+   "A": "Continue manual removal of the placenta with uterotonic infusion",
+   "B": "Perform subtotal or total hysterectomy without attempting further placental separation",
+   "C": "Compress the uterus with B-Lynch sutures and continue oxytocin",
+   "D": "Ligate the internal iliac arteries and leave the placenta in situ",
+   "E": "Attempt sharp curettage to remove adherent placental tissue"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Invasive placenta (percreta) with torrential bleeding needs hysterectomy without forcible separation of the placenta.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00808"
+  ],
+  "stem": "A 38-year-old G2P1 in spontaneous labour at 40 weeks delivers a male baby of 3.5 kg one hour after admission. She then develops profound shock and respiratory distress, is cyanosed, the uterus is poorly contracted and she bleeds torrentially. The most likely cause of collapse is:",
+  "options": {
+   "A": "Cerebral haemorrhage",
+   "B": "Ruptured uterus",
+   "C": "Pulmonary embolism",
+   "D": "Postpartum haemorrhage",
+   "E": "Amniotic fluid embolism"
+  },
+  "answer": "E",
+  "explanation": "Sudden collapse with respiratory distress, cyanosis, hypotension and coagulopathy around delivery is amniotic fluid embolism; the torrential bleeding is from DIC.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03109"
+  ],
+  "stem": "A 30-year-old woman, G3P2, has just delivered a healthy baby via spontaneous vaginal delivery at 40 weeks gestation. After the delivery of the baby, 30 minutes pass without the delivery of the placenta. The uterus feels soft and boggy on palpation. The patient starts to experience heavy vaginal bleeding, and her vital signs show tachycardia and a drop in blood pressure to 80/50 mmHg. On vaginal examination cervical Os is open. Oxytocin has already been administered. Next step in her management is",
+  "options": {
+   "A": "Manual removal of the placenta",
+   "B": "Administer additional oxytocin",
+   "C": "Perform an emergency hysterectomy",
+   "D": "Give sublingual misoprostol",
+   "E": "Perform ultrasound to confirm placental position"
+  },
+  "answer": "A",
+  "explanation": "Retained placenta with significant bleeding and an open os needs urgent manual removal under anaesthesia with resuscitation. More oxytocin or misoprostol will not expel it quickly enough.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02706"
+  ],
+  "stem": "A 21 years old Primigravida, a known case of gestational diabetes presented in labour room at 37 weeks of gestation at 5 cm dilatation. Her CTG is reassuring. During vaginal examination amniotic membranes ruptured spontaneously and umbilical cord prolapsed. The next immediate step of management will be:",
+  "options": {
+   "A": "Continuous CTG monitoring",
+   "B": "Shift her to O T",
+   "C": "Expedite vaginal delivery",
+   "D": "Knee-Chest position",
+   "E": "Left Lateral"
+  },
+  "answer": "D",
+  "explanation": "Cord prolapse with a live fetus: relieve compression by knee-chest or left lateral head-down position, elevate the presenting part and prepare for urgent delivery.",
+  "key_note": "Left lateral is also acceptable; paper key kept.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03135"
+  ],
+  "stem": "A G3P2 presents at 38 weeks in labour. On vaginal examination cervical os is fully dilated and membranes are bulging with presenting part high up. You decide to rupture the membranes to precipitate delivery. On rupturing the membranes umbilical cord comes out of vagina. You immediately check for fetal heart its +ve. On vaginal examination presenting part is + 2 station cx fully dilated and cord is lying outside the vagina. Your management in this case will be",
+  "options": {
+   "A": "Start oxytocin infusion",
+   "B": "Encourage the patient to push",
+   "C": "Perform episiotomy to facilitate delivery",
+   "D": "Proceed instrumental delivery",
+   "E": "Proceed EM LSCS"
+  },
+  "answer": "D",
+  "explanation": "Cord prolapse at full dilatation with the head at +2: expedite vaginal delivery by instrumental delivery.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00988",
+   "C00522",
+   "C02664"
+  ],
+  "stem": "A 39-week G2P1, previous LSCS for failure to progress 11 months ago, is 9 cm dilated after 4 hours of established labour and suddenly develops severe constant lower abdominal pain over the scar. FHR is 46/min. What is the likely diagnosis?",
+  "options": {
+   "A": "Uterine hyperstimulation",
+   "B": "Uterine rupture",
+   "C": "Impacted head",
+   "D": "Fetal distress",
+   "E": "Uterine inversion"
+  },
+  "answer": "B",
+  "explanation": "Sudden constant scar pain with fetal bradycardia in labour on a previous scar is uterine rupture until proved otherwise.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01146"
+  ],
+  "stem": "A G2P1 with a previous LSCS and a small fibroid, at 38 weeks, is 4 cm dilated at -2 station. Four hours later she develops sweating and generalised abdominal pain, BP 80/50 mmHg, pulse 115/min. Fetal parts are palpable per abdomen and there is fresh vaginal bleeding. What is the most likely diagnosis?",
+  "options": {
+   "A": "Uterine rupture",
+   "B": "Placental abruption",
+   "C": "Amniotic fluid embolism",
+   "D": "Air embolism",
+   "E": "Red degeneration of fibroid"
+  },
+  "answer": "A",
+  "explanation": "Shock, abdominal pain, loss of presenting part and palpable fetal parts in a woman labouring on a scar indicate uterine rupture.",
+  "key_note": "",
+  "figure": ""
+ }
+]

@@ -1,0 +1,1274 @@
+[
+ {
+  "cids": [
+   "C00683"
+  ],
+  "stem": "Infertility is defined as failure of a couple to conceive after:",
+  "options": {
+   "A": "10 months of regular unprotected intercourse",
+   "B": "12 months of regular unprotected intercourse",
+   "C": "14 months of regular unprotected intercourse",
+   "D": "18 months of regular unprotected intercourse",
+   "E": "24 months of regular unprotected intercourse"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Subfertility is failure to conceive after 12 months of regular unprotected intercourse, since about 85% of couples conceive within a year.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00331"
+  ],
+  "stem": "In a single menstrual cycle, what is the chance of conception (fecundability) for a healthy couple with frequent intercourse?",
+  "options": {
+   "A": "14-16%",
+   "B": "15-17%",
+   "C": "16-18%",
+   "D": "18-20%",
+   "E": "20-22%"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Monthly fecundability in a normal couple is about 20% per cycle, giving roughly 85% cumulative conception in one year.",
+  "key_note": "One paper key marked C (16-18%); correct is D, as normal fecundability is about 20% per cycle.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01383"
+  ],
+  "stem": "Sperm can survive in the female reproductive tract for:",
+  "options": {
+   "A": "12 hours",
+   "B": "24 hours",
+   "C": "36 hours",
+   "D": "48 hours",
+   "E": "72 hours"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Sperm remain viable in cervical mucus for up to 72 hours or more (the fertile window is about 5 days before ovulation), whereas the ovum survives about 12-24 hours.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03144"
+  ],
+  "stem": "Which is the most important factor affecting fertility?",
+  "options": {
+   "A": "Male age over 50 years",
+   "B": "Female age over 36 years",
+   "C": "BMI",
+   "D": "Smoking or alcohol",
+   "E": "Frequency and timing of coitus"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Female age is the single most important determinant of fertility; fecundability and oocyte quality fall steeply after the mid-30s.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03145"
+  ],
+  "stem": "The most common cause of female subfertility is:",
+  "options": {
+   "A": "Tubal blockage",
+   "B": "Uterine disorders",
+   "C": "Ovulatory disorders",
+   "D": "Endometriosis",
+   "E": "Medical disorders (DM, thyroid, epilepsy)"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Ovulatory disorders (mainly PCOS) are the commonest identifiable female cause, followed by tubal disease.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02327",
+   "C03142"
+  ],
+  "stem": "The commonest cause of anovulatory infertility in women is:",
+  "options": {
+   "A": "Pituitary dysfunction",
+   "B": "Polycystic ovarian syndrome",
+   "C": "Hyperprolactinaemia",
+   "D": "Thyroid dysfunction",
+   "E": "Hypothalamic disorders"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "PCOS accounts for the large majority of anovulatory infertility.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00685",
+   "C00797",
+   "C00031"
+  ],
+  "stem": "The most common cause of secondary infertility in a woman is:",
+  "options": {
+   "A": "Tubal disease",
+   "B": "Male factor",
+   "C": "Hyperprolactinaemia",
+   "D": "Chromosomal anomaly",
+   "E": "Oestrogen deficiency"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Acquired tubal damage (pelvic infection, previous surgery, post-abortal or puerperal sepsis) is the commonest cause of secondary subfertility.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00095"
+  ],
+  "stem": "A 32-year-old woman attends OPD for subfertility. Her periods come every 3 months, and she gives a history of weight gain, facial hirsutism and acne. The most probable site of her subfertility is:",
+  "options": {
+   "A": "Vaginal",
+   "B": "Cervical",
+   "C": "Uterine",
+   "D": "Tubal",
+   "E": "Ovarian"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Oligomenorrhoea with hirsutism, acne and obesity is PCOS, causing anovulation (ovarian factor).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02158"
+  ],
+  "stem": "A 30-year-old midwife has been unable to conceive for 3 years. She has oligomenorrhoea, weight gain and hirsutism. Her husband's semen analysis is normal. The most likely cause of her subfertility is:",
+  "options": {
+   "A": "Endometriosis",
+   "B": "Hyperprolactinaemia",
+   "C": "Pelvic inflammatory disease",
+   "D": "Polycystic ovarian disease",
+   "E": "Thyroid disease"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Oligomenorrhoea, weight gain and hirsutism point to PCOS with anovulation.",
+  "key_note": "One paper had two options in bold (D and E); correct is D, PCOS.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00011"
+  ],
+  "stem": "A 26-year-old woman has been unable to conceive for 3 years. She is a known case of mild endometriosis. The cause of subfertility in this case is:",
+  "options": {
+   "A": "Abnormal motility of sperms",
+   "B": "Altered tubal motility",
+   "C": "Bilateral blocked tubes",
+   "D": "Pelvic inflammation",
+   "E": "Uterine factors"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "In mild endometriosis the tubes are patent, and subfertility is attributed to the inflammatory peritoneal environment (cytokines, macrophages) impairing sperm, oocyte and embryo function.",
+  "key_note": "Only one paper marked, and the question is weak; answer kept as the pelvic inflammatory milieu of endometriosis.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02143"
+  ],
+  "stem": "A 30-year-old woman married for 5 years presents with primary subfertility. She was operated on for a chocolate cyst. The most likely cause of her subfertility is:",
+  "options": {
+   "A": "Endometriosis",
+   "B": "Adenomyosis",
+   "C": "Tuberculosis",
+   "D": "Pelvic inflammatory disease",
+   "E": "Ovarian carcinoma"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "A chocolate cyst is an endometrioma, which indicates endometriosis, a recognised cause of subfertility through adhesions and a hostile peritoneal environment.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00096"
+  ],
+  "stem": "A 36-year-old woman attends OPD for subfertility. Her cycles are regular but blood loss is only spotting. She gives a history of diagnostic curettage 2 years ago. The most probable site of her subfertility is:",
+  "options": {
+   "A": "Vaginal",
+   "B": "Cervical",
+   "C": "Uterine",
+   "D": "Tubal",
+   "E": "Ovarian"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Scanty menstruation after curettage indicates intrauterine adhesions (Asherman syndrome), a uterine cause of subfertility; treatment is hysteroscopic adhesiolysis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00483"
+  ],
+  "stem": "A P0+1 woman has secondary subfertility. She had a missed miscarriage 1 year ago treated by dilatation and curettage. HSG shows adhesions suggesting Asherman syndrome. Which symptom do you expect?",
+  "options": {
+   "A": "Dysmenorrhoea",
+   "B": "Menorrhagia",
+   "C": "Intermenstrual bleeding",
+   "D": "Secondary amenorrhoea"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Asherman syndrome typically presents with hypomenorrhoea or secondary amenorrhoea with normal hormonal profile, because the basal endometrium is destroyed.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01864"
+  ],
+  "stem": "You are counselling a couple about factors affecting fertility. Which of the following adversely affects spermatogenesis?",
+  "options": {
+   "A": "Swimming",
+   "B": "Exposure to cold",
+   "C": "Febrile illness",
+   "D": "Boxer shorts",
+   "E": "Weekly intercourse"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Fever raises testicular temperature and transiently suppresses spermatogenesis for about 3 months; cold, swimming and loose underwear are not harmful.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00680",
+   "C01195"
+  ],
+  "stem": "A couple married for 2 years attends OPD with oligospermia on semen analysis. The male partner gives a childhood history of prolonged fever with painful swelling of the parotid glands and right testis. What is the most probable cause of the oligospermia?",
+  "options": {
+   "A": "PUO",
+   "B": "Mumps",
+   "C": "Herpes",
+   "D": "Influenza",
+   "E": "Epididymitis"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Parotitis with orchitis is mumps; mumps orchitis can cause testicular atrophy and impaired spermatogenesis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03143"
+  ],
+  "stem": "Which of the following is NOT a cause of tubal blockage?",
+  "options": {
+   "A": "PID (chlamydial infection)",
+   "B": "Endometriosis",
+   "C": "Previous pelvic surgery",
+   "D": "Previous abdominal surgery",
+   "E": "Thyroid disorders"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Tubal damage follows infection, endometriosis and adhesions from surgery; thyroid disease causes ovulatory disturbance, not tubal blockage.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01295"
+  ],
+  "stem": "A 25-year-old nulliparous woman evaluated for primary subfertility has been on antidepressants for a year. Antidepressants raise prolactin levels, leading to:",
+  "options": {
+   "A": "Tubal adhesion",
+   "B": "Anovulation",
+   "C": "Increased thickness of cervical mucus",
+   "D": "Uterine adhesions",
+   "E": "Ovarian failure"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Hyperprolactinaemia suppresses pulsatile GnRH, causing anovulation and oligo or amenorrhoea.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01968"
+  ],
+  "stem": "A 34-year-old man is being worked up for subfertility. He is 180 cm tall and has small testes. Which genotype is most likely?",
+  "options": {
+   "A": "46XX",
+   "B": "46XY",
+   "C": "46XXY",
+   "D": "47XXY",
+   "E": "47XY+21"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Tall stature with small firm testes and infertility is Klinefelter syndrome (47XXY), causing hypergonadotropic hypogonadism and azoospermia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00372",
+   "C01205",
+   "C01882"
+  ],
+  "stem": "A couple presents to OPD with primary subfertility. The first investigation to advise is:",
+  "options": {
+   "A": "Hormonal profile of female",
+   "B": "Hormonal profile of male",
+   "C": "Semen analysis of male",
+   "D": "Ultrasound pelvis of female",
+   "E": "Testicular ultrasound"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Semen analysis is the first, simplest, non-invasive and cheapest investigation, and male factor contributes about 30-40% of cases.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01450"
+  ],
+  "stem": "A 30-year-old woman married for 10 years has primary subfertility. Her cycle is 1-3 days every 45-65 days. Husband's semen analysis is normal. She has weight gain and hirsutism, and fasting blood sugar is 99 mg/dl. The next investigation is:",
+  "options": {
+   "A": "Pelvic ultrasonography",
+   "B": "Fasting serum insulin",
+   "C": "Serum FSH/LH",
+   "D": "Serum prolactin",
+   "E": "Fasting blood sugar"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "The picture is PCOS; pelvic ultrasound is the next step to confirm polycystic ovarian morphology (Rotterdam criteria), as the blood sugar is already known.",
+  "key_note": "Only one paper source; answer accepted as marked.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00028"
+  ],
+  "stem": "Characteristics of normal semen include:",
+  "options": {
+   "A": "Volume of 1 ml",
+   "B": "2% normal sperm morphology",
+   "C": "5% progressive sperm motility",
+   "D": "Sperm count of 35 million per ml",
+   "E": "Agglutination"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A count of 35 million/ml is above the WHO lower reference limit of 15 million/ml; the other options are below the limits (volume 1.5 ml, morphology 4%, progressive motility 32%) or abnormal.",
+  "key_note": "Question is loosely worded; the paper answer D is kept as the only option within normal limits.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00073"
+  ],
+  "stem": "According to WHO parameters for semen analysis, which one of the following is correct?",
+  "options": {
+   "A": "Sperm concentration 10 million/ml",
+   "B": "Progressive motility 10%",
+   "C": "Normal morphology 4%",
+   "D": "Semen volume 1 ml",
+   "E": "pH 4.5"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "WHO 2010 lower reference limits: volume 1.5 ml, concentration 15 million/ml, progressive motility 32%, normal forms 4%, pH 7.2 or more; only 4% morphology is stated correctly.",
+  "key_note": "One variant asked for the NOT correct statement and a pen mark fell on option E; the answer here is C for the 'correct' form.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00010",
+   "C00696",
+   "C01196",
+   "C01380"
+  ],
+  "stem": "According to WHO criteria (2010), the lower reference limit for sperm concentration in normal semen is:",
+  "options": {
+   "A": "5 million/ml",
+   "B": "12 million/ml",
+   "C": "15 million/ml",
+   "D": "20 million/ml",
+   "E": "30 million/ml"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "WHO 2010 lower reference limit for sperm concentration is 15 million/ml (total count 39 million per ejaculate). The older 1999 limit was 20 million/ml.",
+  "key_note": "Some papers keyed 20 million (older WHO 1999 value); WHO 2010 value of 15 million is the current standard and was keyed by most.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02205"
+  ],
+  "stem": "A 30-year-old man attends with his partner for subfertility. Which of the following is an abnormal parameter according to WHO criteria?",
+  "options": {
+   "A": "Count 50 million per ml",
+   "B": "Motility 10%",
+   "C": "WBC 1-2 per HPF",
+   "D": "Volume 3 ml",
+   "E": "Abnormal forms less than 1%"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Progressive motility of 10% is below the WHO lower limit of 32%; the other values are normal.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00086"
+  ],
+  "stem": "A couple with primary subfertility has a husband's semen analysis showing asthenospermia. This means:",
+  "options": {
+   "A": "Decreased sperm count",
+   "B": "Decreased sperm motility",
+   "C": "Decreased number of normal morphological sperms",
+   "D": "Increased number of abnormal sperms",
+   "E": "Increased number of normal sperms"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Asthenozoospermia is reduced sperm motility; oligozoospermia is low count and teratozoospermia is abnormal morphology.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00030",
+   "C02087"
+  ],
+  "stem": "To confirm ovulation in a woman with a regular 28-day cycle, serum progesterone is measured on which day of the cycle?",
+  "options": {
+   "A": "Day 3",
+   "B": "Day 7",
+   "C": "Day 14",
+   "D": "Day 21",
+   "E": "Day 28"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Mid-luteal progesterone (day 21 of a 28-day cycle, 7 days before the expected period) above 30 nmol/L confirms ovulation; in longer cycles it is timed 7 days before the expected menses.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00097"
+  ],
+  "stem": "A 32-year-old woman with primary subfertility has a cycle of 5/45-60 days. Which investigation should be done specifically on day 2 of her cycle?",
+  "options": {
+   "A": "Serum FSH, LH",
+   "B": "Serum progesterone",
+   "C": "Serum testosterone",
+   "D": "Serum TSH",
+   "E": "Serum prolactin"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Basal FSH and LH are measured in the early follicular phase (days 2-5); progesterone is mid-luteal, while TSH, prolactin and testosterone can be done at any time.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00790",
+   "C01833"
+  ],
+  "stem": "Which hormone is the best measure of ovarian reserve?",
+  "options": {
+   "A": "FSH",
+   "B": "Oestradiol",
+   "C": "LH",
+   "D": "Inhibin",
+   "E": "Anti-Mullerian hormone (AMH)"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "AMH, from granulosa cells of small antral follicles, is stable through the cycle and is the best single marker of ovarian reserve, together with antral follicle count.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01293"
+  ],
+  "stem": "A 40-year-old nulliparous woman with secondary amenorrhoea for 6 months seeks assisted conception. Her serum FSH is more than 10 IU/L. This level indicates that:",
+  "options": {
+   "A": "The ovary has adequate reserve",
+   "B": "The ovary will respond to ovulation induction",
+   "C": "The ovary will respond poorly to ovulation induction",
+   "D": "The patient will develop OHSS",
+   "E": "The ovaries are sensitised"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A raised basal FSH (above about 10 IU/L) indicates diminished ovarian reserve and poor response to stimulation.",
+  "key_note": "Source stem merged two questions; rewritten to the FSH question that the options answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00101",
+   "C02088"
+  ],
+  "stem": "A woman with primary infertility is to have a hysterosalpingogram (HSG) to assess tubal patency. When in the menstrual cycle should it be done?",
+  "options": {
+   "A": "Day 1",
+   "B": "Between day 6 and day 10 of the cycle",
+   "C": "At ovulation (day 14)",
+   "D": "Day 21",
+   "E": "Day 26"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "HSG is done in the early proliferative phase after bleeding stops and before ovulation (days 6-10), when the endometrium is thin and pregnancy is excluded.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01255"
+  ],
+  "stem": "HSG is advised for assessing tubal patency. Its sensitivity is about:",
+  "options": {
+   "A": "99%",
+   "B": "85%",
+   "C": "75%",
+   "D": "65%",
+   "E": "50%"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "HSG has a sensitivity of about 65% and a specificity of about 83% for tubal occlusion, which is why laparoscopy and dye test remains the reference standard.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01163"
+  ],
+  "stem": "A 26-year-old woman with primary subfertility and irregular bleeding for 3 months is advised HSG. Which condition is diagnosed in addition to tubal patency on HSG?",
+  "options": {
+   "A": "Endometriosis",
+   "B": "Ovarian cyst",
+   "C": "Pelvic adhesions",
+   "D": "Pelvic tuberculosis",
+   "E": "Submucous fibroids"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "HSG outlines the uterine cavity and shows filling defects from submucous fibroids and polyps; the irregular bleeding points to this.",
+  "key_note": "Intrauterine adhesions and hydrosalpinx can also be seen on HSG; E fits the bleeding history and was marked in the source.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02326"
+  ],
+  "stem": "What is the most suitable test for tubal patency?",
+  "options": {
+   "A": "Hysteroscopy",
+   "B": "Transvaginal ultrasound",
+   "C": "Hysterosalpingogram (HSG)",
+   "D": "Laparotomy",
+   "E": "MRI"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "In a woman with no history suggesting pelvic pathology, HSG (or HyCoSy) is the first-line test of tubal patency; laparoscopy and dye is reserved for suspected pelvic disease.",
+  "key_note": "Source marked C; HyCoSy is an equally accepted first-line alternative.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01296"
+  ],
+  "stem": "A nulliparous woman in the early follicular phase is evaluated for infertility. Which test assesses tubal patency with ultrasound in OPD?",
+  "options": {
+   "A": "Hysteroscopy",
+   "B": "Laparoscopy",
+   "C": "HyCoSy (hysterosalpingo-contrast sonography)",
+   "D": "Hysterosalpingography",
+   "E": "Falloposcopy"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "HyCoSy uses ultrasound with a contrast medium instilled through the cervix to demonstrate tubal patency as an outpatient procedure.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00076",
+   "C01254",
+   "C01178",
+   "C00675",
+   "C02323"
+  ],
+  "stem": "A 32-year-old woman and her partner are assessed for subfertility. Semen analysis is normal; hormonal profile and ovarian reserve are normal. She has progressive dysmenorrhoea and dyspareunia, and TVUSS shows a 3 cm complex right ovarian cyst. What is the most suitable test for tubal patency?",
+  "options": {
+   "A": "Hysteroscopy",
+   "B": "HyCoSy",
+   "C": "HSG",
+   "D": "Laparoscopy and dye test",
+   "E": "MRI"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Features of endometriosis (endometrioma, dysmenorrhoea, dyspareunia) call for laparoscopy with dye test, which assesses the tubes, pelvis and allows treatment.",
+  "key_note": "One paper listed B and D as marked; correct is D. One paper marked A (HSG); correct is C. Source C02323 was a stem-less fragment of this question.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00081"
+  ],
+  "stem": "A 29-year-old woman has primary infertility for 3 years with regular cycles. Her partner's semen analysis is normal. Which investigation is the gold standard for tubal patency and pelvic pathology?",
+  "options": {
+   "A": "Hysterosalpingography (HSG)",
+   "B": "Saline infusion sonography (SIS)",
+   "C": "HyCoSy",
+   "D": "Laparoscopy with dye test",
+   "E": "Hysteroscopy alone"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Laparoscopy with chromopertubation is the gold standard because it shows both tubal patency and pelvic pathology such as endometriosis and adhesions.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00098"
+  ],
+  "stem": "A 36-year-old P1+1 woman with secondary subfertility has a cycle of 5/35 days. Which investigation is performed to both see and treat her tubal patency problem?",
+  "options": {
+   "A": "Hysterosalpingography",
+   "B": "Sonohysterography",
+   "C": "HyCoSy",
+   "D": "Laparoscopy",
+   "E": "Hysteroscopy"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Laparoscopy with dye test is both diagnostic and therapeutic (adhesiolysis, ablation of endometriosis, salpingostomy).",
+  "key_note": "One paper marked A (HSG); correct is D since the question requires treatment as well.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01294"
+  ],
+  "stem": "A 35-year-old woman is evaluated for infertility. Tubal patency testing shows bilateral tubal blockage. Confirmation of this finding can be done by:",
+  "options": {
+   "A": "Saline sonography",
+   "B": "HSG",
+   "C": "Hysteroscopy",
+   "D": "Laparoscopy",
+   "E": "Falloposcopy"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Apparent proximal blockage on HSG can be spasm; laparoscopy with dye test confirms true tubal occlusion.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00074",
+   "C02051"
+  ],
+  "stem": "A 34-year-old man with a normal beard and normal external genitalia has azoospermia on semen analysis. Which investigation do you perform next to find the cause?",
+  "options": {
+   "A": "FSH",
+   "B": "LH",
+   "C": "Testosterone",
+   "D": "Testicular ultrasound",
+   "E": "Testicular biopsy"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Serum FSH is the first step: a normal FSH with normal testicular size suggests obstruction, whereas raised FSH indicates testicular failure.",
+  "key_note": "Some papers marked D (testicular biopsy); the usual first test is FSH (with LH and testosterone), and biopsy is reserved for later.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00077"
+  ],
+  "stem": "A 35-year-old man with primary subfertility has azoospermia. Which of the following investigations rules out a testicular cause of his azoospermia?",
+  "options": {
+   "A": "Serum FSH, LH",
+   "B": "Serum testosterone",
+   "C": "Karyotyping",
+   "D": "Testicular biopsy",
+   "E": "Testicular ultrasound"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Testicular biopsy is the definitive test showing whether spermatogenesis is present, thus distinguishing testicular failure from obstruction.",
+  "key_note": "One paper marked A (FSH, LH); FSH is only a screening test, correct is D as most papers marked.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01883",
+   "C02919"
+  ],
+  "stem": "A man has no sperm in the ejaculate. Secondary sexual characteristics are normal. FSH is raised and testosterone is low. What is the diagnosis?",
+  "options": {
+   "A": "Testicular obstruction",
+   "B": "Failed spermatogenesis",
+   "C": "Hypogonadotrophic hypogonadism",
+   "D": "Hypergonadotrophic hypogonadism"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "High FSH with low testosterone indicates primary testicular failure, which is hypergonadotrophic hypogonadism (low gonadotrophin would indicate a central cause).",
+  "key_note": "One source offered 'testicular failure' as a separate option, which is the same entity.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02317"
+  ],
+  "stem": "A 30-year-old man has soft non-tender testes, elevated FSH and LH and low testosterone. What is the next best step in management?",
+  "options": {},
+  "answer": null,
+  "answer_text": "Karyotyping (to exclude Klinefelter syndrome).",
+  "explanation": "Primary testicular failure: karyotyping to look for Klinefelter syndrome is the next step; sperm retrieval with ICSI or donor sperm is discussed later.",
+  "key_note": "Options not available in the source; recall question.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01736",
+   "C02086",
+   "C02144",
+   "C02316",
+   "C00791"
+  ],
+  "stem": "A 35-year-old woman has primary subfertility for 2 years. Her husband's semen analysis shows a sperm count of 10 million/cu mm. You advise the husband:",
+  "options": {
+   "A": "Repeat semen analysis after 3 months",
+   "B": "Detailed history including age and occupation",
+   "C": "History of any drug use",
+   "D": "General physical examination",
+   "E": "Local examination"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "An abnormal semen analysis should be repeated after about 3 months (the spermatogenic cycle) before further tests or treatment.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00089"
+  ],
+  "stem": "A couple has primary subfertility for 2 years. The husband's semen analysis shows a sperm count of below 5 million/ml with motility 60%. Female evaluation is normal. What is your next step?",
+  "options": {
+   "A": "Repeat test after 3 months",
+   "B": "Advise FSH, LH and testosterone levels",
+   "C": "Advise karyotyping",
+   "D": "Plan intrauterine insemination (IUI)",
+   "E": "Plan ICSI"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Severe oligozoospermia (under 5 million/ml) needs endocrine evaluation (FSH, LH, testosterone, prolactin) and genetic tests to find the cause.",
+  "key_note": "One paper circled D (IUI) but its printed key was B; correct is B.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00088"
+  ],
+  "stem": "A couple married for 1 year attends the subfertility clinic. The husband's semen shows a count of 16 million/ml with more than 50% motile sperm; evaluation of the female partner is normal. What is your next step?",
+  "options": {
+   "A": "Repeat test after 3 months",
+   "B": "Advise hormonal profile",
+   "C": "Advise karyotyping",
+   "D": "Refer to a urologist",
+   "E": "Plan IUI"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "The semen result is within normal limits (count over 15 million/ml), so no treatment is indicated yet; repeat testing and expectant management for up to 2 years are appropriate.",
+  "key_note": "One paper marked E (IUI); correct is A since the semen is normal and the couple has tried for only 1 year.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00079"
+  ],
+  "stem": "A couple married for 1 year presents. Semen: volume 2.8 ml, pH 7.8, concentration 10 million/ml, total motility 40%, progressive motility 28%, vitality 70%. Serum testosterone, LH and FSH are normal. What is the most appropriate next step?",
+  "options": {
+   "A": "Empirical testosterone replacement therapy",
+   "B": "Lifestyle modification and antioxidant supplementation",
+   "C": "Immediate referral for testicular sperm extraction",
+   "D": "Empirical use of clomiphene citrate",
+   "E": "Proceed directly to IVF"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Mild abnormalities with normal hormones are managed by lifestyle change (stop smoking, lose weight, reduce heat) and repeat analysis; empirical hormonal therapy and surgical sperm retrieval are not indicated.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00484"
+  ],
+  "stem": "A couple married for 6 years wishes to conceive. The man is 32, BMI 30 and a smoker. The woman is 28 with regular cycles, normal hormones and patent tubes on HSG. His semen shows oligospermia with 10-12 pus cells. The next step is:",
+  "options": {
+   "A": "Offer IUI to the couple",
+   "B": "Lifestyle modification of male and repeat semen analysis",
+   "C": "Give gonadotrophins to male partner for 3 months",
+   "D": "Weight loss, quit smoking, oral antibiotic and repeat semen analysis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Pyospermia suggests genital tract infection, so treat it along with correctable risk factors (obesity, smoking) and repeat the semen analysis before assisted conception.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00008",
+   "C03149",
+   "C00082",
+   "C02091",
+   "C00777"
+  ],
+  "stem": "A 28-year-old woman has primary infertility. Tubes are patent and semen analysis is normal. Day 12 scan shows polycystic ovaries with no mature follicle. What is the first-line drug for this type of infertility?",
+  "options": {
+   "A": "Aromatase inhibitors",
+   "B": "Bromocriptine",
+   "C": "Clomiphene",
+   "D": "Gonadotrophins",
+   "E": "Metformin"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Clomiphene citrate is the first-line drug for ovulation induction in PCOS anovulation (after weight loss); letrozole is an increasingly used alternative.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00029"
+  ],
+  "stem": "A 25-year-old obese woman has anovulatory infertility with a raised LH:FSH ratio and polycystic ovaries. What is the initial preferred method for ovulation induction?",
+  "options": {
+   "A": "Metformin and weight loss",
+   "B": "Human menopausal gonadotrophins",
+   "C": "Pulsatile GnRH",
+   "D": "Bromocriptine",
+   "E": "Injection hCG"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "In obese PCOS women, weight loss and lifestyle measures (with metformin if needed) come first, followed by clomiphene; gonadotrophins are second-line.",
+  "key_note": "Source key was A; accepted, with clomiphene as the first drug once weight loss is started.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00091",
+   "C01381",
+   "C02052"
+  ],
+  "stem": "A 28-year-old woman with PCOS and irregular menses wishes to conceive. Her husband's semen analysis is normal and HSG shows bilateral patent tubes. What treatment do you offer?",
+  "options": {
+   "A": "Ovulation induction",
+   "B": "IUI",
+   "C": "IVF",
+   "D": "ICSI",
+   "E": "Laparoscopic ovarian drilling"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "With patent tubes and normal semen, anovulation is the problem, so ovulation induction (clomiphene or letrozole) is first-line.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01958"
+  ],
+  "stem": "A 31-year-old woman has oligomenorrhoea and anovulation with normal hormones, patent tubes and normal semen. She has had 6 cycles of clomiphene and 6 of letrozole without conception. What is the next treatment?",
+  "options": {
+   "A": "IUI",
+   "B": "IVF",
+   "C": "Metformin",
+   "D": "Ovarian drilling",
+   "E": "Pioglitazone"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Clomiphene-resistant PCOS is treated with gonadotrophins or laparoscopic ovarian drilling; of the options, drilling is the next step.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00688"
+  ],
+  "stem": "A woman treated for infertility with clomiphene citrate presents with sudden abdominal pain, distension and ascites. The probable cause is:",
+  "options": {
+   "A": "Ovarian hyperstimulation syndrome",
+   "B": "Uterine rupture",
+   "C": "Ruptured ectopic pregnancy",
+   "D": "Multifetal pregnancy",
+   "E": "Molar pregnancy"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Ovarian hyperstimulation syndrome presents with abdominal distension, pain and ascites from raised vascular permeability; it is far commoner with gonadotrophins than clomiphene.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02054"
+  ],
+  "stem": "A couple with subfertility for 4 years is planning IVF. What is the most significant risk of IVF?",
+  "options": {
+   "A": "OHSS",
+   "B": "Multiple pregnancy",
+   "C": "Miscarriage",
+   "D": "Ectopic pregnancy",
+   "E": "Premature delivery"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Multiple pregnancy is the commonest and most significant complication of IVF, with high maternal and perinatal morbidity; limiting embryo transfer reduces it.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02328"
+  ],
+  "stem": "In IVF the fertilised zygote or embryo is transferred into the:",
+  "options": {
+   "A": "Fallopian tube",
+   "B": "Uterus",
+   "C": "Cervix",
+   "D": "Ovary",
+   "E": "Vagina"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "In IVF-ET the embryo is placed in the uterine cavity, usually at cleavage or blastocyst stage; transfer to the tube is GIFT or ZIFT.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02145",
+   "C01194",
+   "C01943"
+  ],
+  "stem": "Intrauterine insemination (IUI) is indicated in:",
+  "options": {
+   "A": "Severe male factor subfertility",
+   "B": "Mild male factor subfertility",
+   "C": "Blocked fallopian tubes",
+   "D": "Bicornuate uterus",
+   "E": "Premature ovarian failure"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "IUI is used for mild male factor, unexplained subfertility, cervical factor and sexual dysfunction, provided tubes are patent.",
+  "key_note": "One variant marked D (IUI) when option order differed; correct answer is IUI. One paper had A, B and C in bold; correct is A.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01193"
+  ],
+  "stem": "A couple unable to conceive for 4 years: cycle 4/28, day 11 follicle 17 mm, husband's count 45 million/ml, motility 40%, morphology 50%. IUI is planned. What is the indication for IUI in this case?",
+  "options": {
+   "A": "Oligospermia",
+   "B": "Anovulation",
+   "C": "Unexplained infertility",
+   "D": "Asthenospermia",
+   "E": "Teratospermia"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "The semen parameters and ovulation are essentially normal, so IUI here is for unexplained subfertility (or mild male factor).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00013",
+   "C00120",
+   "C01379"
+  ],
+  "stem": "A couple with primary subfertility has had both partners investigated with no obvious cause (unexplained subfertility). What initial treatment do you offer?",
+  "options": {
+   "A": "IVF",
+   "B": "ICSI",
+   "C": "IUI",
+   "D": "Ovulation induction",
+   "E": "Folic acid supplements"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "In unexplained subfertility, expectant management or IUI (usually with mild ovarian stimulation) is the initial treatment, with IVF reserved for failure.",
+  "key_note": "Some paper keys marked D or E; most exam teaching is IUI as first-line, with IVF if that fails.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01268"
+  ],
+  "stem": "A couple aged 32 have tried to conceive for over 10 years, with a diagnosis of unexplained subfertility. What treatment do you offer?",
+  "options": {
+   "A": "IUI",
+   "B": "ICSI",
+   "C": "GIFT",
+   "D": "IVF",
+   "E": "Surrogacy"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Long-standing unexplained subfertility, or failed simpler treatment, is treated by IVF.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00009",
+   "C00682",
+   "C02141"
+  ],
+  "stem": "Which of the following treatments can help a woman conceive if both her fallopian tubes are blocked?",
+  "options": {
+   "A": "Ovulation induction",
+   "B": "Gonadotrophins",
+   "C": "In vitro fertilisation",
+   "D": "Intrauterine insemination",
+   "E": "Laparoscopy"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "IVF bypasses the tubes and is the treatment for bilateral tubal blockage not amenable to surgery.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00012"
+  ],
+  "stem": "A couple has been trying to conceive for 3 years. The woman has blocked tubes and the husband has a sperm count of 3 million/ml and 5% motility. What is the best treatment option?",
+  "options": {
+   "A": "Gonadotrophins",
+   "B": "Intracytoplasmic sperm injection",
+   "C": "Intrauterine insemination",
+   "D": "In vitro fertilisation",
+   "E": "Ovulation induction"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "With both tubal disease and severe male factor, IVF with ICSI is needed.",
+  "key_note": "Paper key marked IVF (D); answer ICSI (as IVF-ICSI) is preferred because the count and motility are severely reduced.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02053"
+  ],
+  "stem": "A 36-year-old woman with 6 years of infertility had a laparotomy for ruptured appendix. HSG shows right complete tubal block and restricted flow on the left; AMH is low and semen is normal. What is the best option?",
+  "options": {
+   "A": "Timed intercourse with ovulation induction",
+   "B": "IUI",
+   "C": "IVF",
+   "D": "Laparoscopic tubal surgery",
+   "E": "Clomiphene"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Tubal damage, age and low ovarian reserve together make IVF the best option.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01461"
+  ],
+  "stem": "A 21-year-old woman with subfertility has regular cycles and BMI 25. HSG shows right tubal obstruction and a patent left tube with free spill. Semen analysis is normal. The next most appropriate step is:",
+  "options": {
+   "A": "Ovulation induction",
+   "B": "Re-anastomosis of right tube",
+   "C": "IUI",
+   "D": "ICSI",
+   "E": "IVF"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Both source papers keyed IVF.",
+  "key_note": "Source keys marked E (IVF); note that with one patent tube, expectant management or IUI is also reasonable, so this question is debatable.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00092"
+  ],
+  "stem": "A 39-year-old nulliparous woman married for 10 years has irregular cycles, severe dysmenorrhoea and dyspareunia. HSG shows a blocked tube. (Husband's semen result not given in the source.) What option do you give?",
+  "options": {
+   "A": "IVF",
+   "B": "Ovulation induction",
+   "C": "ICSI",
+   "D": "IUI",
+   "E": "Adoption"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Age, long duration and tubal blockage with probable endometriosis make IVF the treatment of choice.",
+  "key_note": "Stem incomplete in the source (semen result missing); answer as marked.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01329",
+   "C02206"
+  ],
+  "stem": "A 35-year-old nulliparous woman with endometriosis wishes to conceive. The treatment of choice is:",
+  "options": {
+   "A": "IUI",
+   "B": "ICSI",
+   "C": "IVF",
+   "D": "Ovulation induction",
+   "E": "GIFT"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "In endometriosis with subfertility at age 35, IVF is the treatment of choice, after surgery if indicated.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00479"
+  ],
+  "stem": "A 30-year-old nulliparous woman married for 4 years has a normal hormonal profile and a 5 x 5 cm fundal subserous fibroid. Her cycle is regular and HSG shows a normal cavity with patent tubes. The next step is:",
+  "options": {
+   "A": "Myomectomy",
+   "B": "Husband's semen analysis",
+   "C": "Ovulation induction",
+   "D": "Diagnostic laparoscopy"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Subserous fibroids rarely cause subfertility, and the male factor has not yet been assessed; semen analysis comes first.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02921"
+  ],
+  "stem": "A 28-year-old woman married for 2 years presents with primary subfertility and intermenstrual bleeding. Pelvic USG shows a 2 cm endometrial polyp. What is her management?",
+  "options": {
+   "A": "Endometrial biopsy",
+   "B": "MRI",
+   "C": "Laparoscopy",
+   "D": "Hysteroscopy and resection",
+   "E": "HSG"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Hysteroscopic polypectomy treats the polyp and improves fertility.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00689",
+   "C01197",
+   "C02325",
+   "C00075",
+   "C03146",
+   "C02050",
+   "C00080",
+   "C00078",
+   "C00485",
+   "C00085",
+   "C02320"
+  ],
+  "stem": "A couple has had subfertility for several years. The woman has a normal hormonal profile, ultrasound and HSG. Husband's semen shows a very low count (2-6 million/ml) and motility of 10-20%. What is the most suitable treatment?",
+  "options": {
+   "A": "IVF (conventional)",
+   "B": "IUI",
+   "C": "ICSI",
+   "D": "Ovulation induction",
+   "E": "Donor insemination"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Severe oligoasthenozoospermia is treated by IVF with ICSI, injecting a single sperm into each oocyte. IUI is ineffective and ovulation induction is not needed.",
+  "key_note": "Papers variably keyed IVF, IUI or IVF and ICSI; all refer to IVF with ICSI. Options reworded to remove the overlapping combined option.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00121"
+  ],
+  "stem": "A 42-year-old man is diagnosed with obstructive azoospermia. The most suitable management is:",
+  "options": {
+   "A": "Gonadotrophin injections",
+   "B": "IUI",
+   "C": "Donor sperm",
+   "D": "ICSI",
+   "E": "Subzonal insemination"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Spermatogenesis is normal in obstructive azoospermia, so sperm retrieved from the epididymis or testis are used for ICSI.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00084",
+   "C02318"
+  ],
+  "stem": "A 28-year-old woman has a normal 28-day cycle, the man has normal sperm, and the couple has been infertile for 2 years. What is the best next management?",
+  "options": {},
+  "answer": null,
+  "answer_text": "Assess tubal patency (HSG, or laparoscopy and dye test); if normal, treat as unexplained subfertility.",
+  "explanation": "With ovulation and semen normal, the next step is to assess tubal patency (HSG or laparoscopy and dye test); if tubes are normal it is unexplained subfertility, treated with IUI or IVF.",
+  "key_note": "Options not available in the source; recall question.",
+  "figure": ""
+ }
+]

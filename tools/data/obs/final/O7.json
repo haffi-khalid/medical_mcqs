@@ -1,0 +1,470 @@
+[
+ {
+  "cids": [
+   "C00801"
+  ],
+  "stem": "A 28-year-old G3P2 at 13 weeks has a booking scan confirming multiple pregnancy and is concerned about the risks. Which of the following information is most appropriate?",
+  "options": {
+   "A": "The incidence of dizygotic twins is constant",
+   "B": "The perinatal mortality rate is five times higher in monochorionic twins than in dichorionic twins",
+   "C": "The incidence of monozygotic twin pregnancy is associated with increasing maternal age",
+   "D": "The incidence of cerebral palsy is not increased in twin pregnancies compared with singletons",
+   "E": "Twin-to-twin transfusion is more common in dichorionic twins than in monochorionic twin pregnancy"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Monochorionic twins have a markedly higher perinatal mortality (3-5 fold) because of TTTS, selective growth restriction and shared circulation. Dizygotic twinning varies with age, race and ART, monozygotic rate is constant, cerebral palsy is increased, and TTTS occurs only in monochorionic twins.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00841",
+   "C02080"
+  ],
+  "stem": "A 29-year-old woman has an anomaly scan showing conjoined twins. Conjoined twinning occurs when cleavage of the embryo happens after:",
+  "options": {
+   "A": "5 days",
+   "B": "7 days",
+   "C": "9 days",
+   "D": "11 days",
+   "E": "13 days"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Division before day 3 gives dichorionic diamniotic, days 4-8 monochorionic diamniotic, days 8-12 monochorionic monoamniotic, and after day 13 conjoined twins.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02968"
+  ],
+  "stem": "A 24-year-old woman at 16 weeks has an ultrasound showing two intrauterine fetuses separated by a thin membrane. The division of the zygote most likely occurred on day:",
+  "options": {
+   "A": "6-7",
+   "B": "8-10",
+   "C": "More than 14",
+   "D": "12-14",
+   "E": "None"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "A thin membrane (no chorion between the sacs) indicates a monochorionic diamniotic pregnancy, from division at about day 4-8; division at 0-3 days gives dichorionic twins with a thick membrane.",
+  "key_note": "One paper marked B (8-10); day 8-12 division gives monoamniotic twins with no membrane, so A fits a thin-membrane pregnancy better.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02960"
+  ],
+  "stem": "A woman at term delivers twins of different genders. The most likely typing of these twins is:",
+  "options": {
+   "A": "Monochorionic monoamniotic",
+   "B": "Dichorionic monoamniotic",
+   "C": "Dichorionic diamniotic",
+   "D": "Monochorionic diamniotic",
+   "E": "Monozygotic"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Twins of different sex must be dizygotic, and dizygotic twins are always dichorionic diamniotic.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00805"
+  ],
+  "stem": "In mothers carrying multiple pregnancies:",
+  "options": {
+   "A": "Dichorionic twins are at higher risk of complications than monochorionic twins",
+   "B": "IVF has dramatically increased the incidence of monochorionic twins",
+   "C": "Twin-twin transfusion only affects dichorionic twins",
+   "D": "Identical twins are more common in those with a family history",
+   "E": "The incidence of hyperemesis gravidarum is increased"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Higher hCG levels in multiple pregnancy increase hyperemesis. Monochorionic twins carry higher risk, IVF mainly increases dizygotic twins, TTTS affects monochorionic twins, and a family history raises dizygotic (not monozygotic) twinning.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00804"
+  ],
+  "stem": "Regarding maternal adaptations in multifetal pregnancy, which of the following is unchanged compared with a singleton pregnancy?",
+  "options": {
+   "A": "Blood loss at delivery",
+   "B": "Blood volume increase",
+   "C": "Pulmonary function tests",
+   "D": "Extent of maternal anaemia",
+   "E": "Incidence of hyperemesis increases"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Blood volume expansion, anaemia, hyperemesis and blood loss at delivery are all greater in twins, whereas pulmonary function tests are essentially unchanged.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00945"
+  ],
+  "stem": "A 35-year-old primigravida who conceived with clomifene citrate presents at 20 weeks with a history of hyperemesis in the first trimester. Symphysiofundal height is 26 cm. What is the most probable diagnosis?",
+  "options": {
+   "A": "Pregnancy with fibroid",
+   "B": "Hydatidiform mole",
+   "C": "Polyhydramnios",
+   "D": "Twin pregnancy",
+   "E": "Mistaken dates"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Ovulation induction, hyperemesis and uterus larger than dates (26 cm at 20 weeks) point to twin pregnancy; a mole would not usually persist to 20 weeks with a fetus.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02618",
+   "C02511",
+   "C02302",
+   "C02910"
+  ],
+  "stem": "A 31-year-old woman at 32 weeks has a twin pregnancy. Ultrasound shows a single placenta and two amniotic sacs. What is the chorionicity of this pregnancy?",
+  "options": {
+   "A": "Dichorionic diamniotic",
+   "B": "Monochorionic monoamniotic",
+   "C": "Monochorionic diamniotic",
+   "D": "Monoamniotic dichorionic",
+   "E": "Dichorionic monoamniotic"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "One placenta (one chorion) with two amniotic sacs is monochorionic diamniotic twinning, from division at days 4-8.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00415",
+   "C00849",
+   "C02081",
+   "C00594"
+  ],
+  "stem": "A 30-year-old woman at 12-14 weeks has an ultrasound showing dichorionic twins. Which sign helps to diagnose dichorionic chorionicity on ultrasound?",
+  "options": {
+   "A": "T sign",
+   "B": "Lambda sign",
+   "C": "Lemon sign",
+   "D": "Banana sign",
+   "E": "Double bubble sign"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "The lambda (twin peak) sign is a triangle of chorionic tissue projecting into the base of the intertwin membrane, seen in dichorionic twins; the T sign is seen in monochorionic twins.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02984"
+  ],
+  "stem": "A woman at 14 weeks has an ultrasound showing monochorionic twins. Which sign helps to diagnose this chorionicity on ultrasound?",
+  "options": {
+   "A": "T sign",
+   "B": "Lambda sign",
+   "C": "Lemon sign",
+   "D": "Banana sign",
+   "E": "Double bubble sign"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "In monochorionic diamniotic twins the thin intertwin membrane meets the placenta at a right angle, giving the T sign; the lambda sign indicates dichorionic twins.",
+  "key_note": "One paper marked B (lambda sign), but that sign denotes dichorionicity; the stem asks for monochorionic, so correct is A.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00897"
+  ],
+  "stem": "DCDA twins are diagnosed with great accuracy by:",
+  "options": {
+   "A": "Presence of lambda sign in first trimester",
+   "B": "Different fetal sex",
+   "C": "Presence of two placentae",
+   "D": "Membrane thickness between two sacs",
+   "E": "Presence of lambda sign plus different fetal sex"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Different fetal sex proves dizygosity (hence DCDA) and the lambda sign in the first trimester is highly accurate; together they are the most reliable. Two placentae alone can still occur with a fused or monochorionic arrangement.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00896"
+  ],
+  "stem": "Which one of the following statements about monochorionic twins is most appropriate?",
+  "options": {
+   "A": "Perinatal mortality is higher than in dichorionic twins",
+   "B": "Uncomplicated MCDA twins should be delivered between 36-37 weeks of gestation",
+   "C": "Diagnosed with great accuracy in the first trimester",
+   "D": "Sex and genotype of both twins is always the same",
+   "E": "Risk of FFTS is higher"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Monochorionic twins are monozygotic and therefore of the same sex and genotype (rare exceptions aside).",
+  "key_note": "Several other options are also true; paper key D is retained as the statement unique to monochorionic twins.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01039",
+   "C01064",
+   "C00476",
+   "C01140",
+   "C00925",
+   "C00553"
+  ],
+  "stem": "Chorionicity of twins is determined most accurately at which gestation?",
+  "options": {
+   "A": "8-10 weeks",
+   "B": "11-14 weeks",
+   "C": "15-16 weeks",
+   "D": "20 weeks",
+   "E": "7-8 weeks"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Chorionicity is best established at the 11-14 week scan using the lambda or T sign and membrane thickness; accuracy falls after 14 weeks as the signs disappear.",
+  "key_note": "Some paper keys marked A (9-10 weeks); the best option is B as the scan is done at 11-14 weeks.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02667"
+  ],
+  "stem": "A G2P1 at 30 weeks has an ultrasound showing a twin pregnancy. This patient is at risk of:",
+  "options": {
+   "A": "Prolonged pregnancy",
+   "B": "Eclampsia",
+   "C": "Macrosomia",
+   "D": "Fetal growth restriction",
+   "E": "Uterine inversion"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Twins are prone to growth restriction, preterm birth and pre-eclampsia; they are not prone to prolonged pregnancy or macrosomia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03154"
+  ],
+  "stem": "Which of the following pregnancy complications is NOT increased in incidence in multiple pregnancy?",
+  "options": {
+   "A": "Pre-eclampsia",
+   "B": "Obstetric cholestasis",
+   "C": "Preterm delivery",
+   "D": "Macrosomia",
+   "E": "FGR"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Twins have higher rates of pre-eclampsia, cholestasis, preterm delivery and growth restriction, but individual fetal macrosomia is not a feature.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01823"
+  ],
+  "stem": "Which of the following is not an increased risk in multiple pregnancy?",
+  "options": {
+   "A": "Placenta praevia",
+   "B": "Diabetes mellitus",
+   "C": "Pre-eclampsia",
+   "D": "Malpresentation",
+   "E": "Intrauterine growth restriction (IUGR)"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Pre-eclampsia, malpresentation, IUGR and gestational diabetes are well-recognised excess risks in twins; placenta praevia is the least consistently emphasised in standard teaching.",
+  "key_note": "Flawed item: placenta praevia is also slightly increased in twins; paper key A retained as the least typical association.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01096"
+  ],
+  "stem": "Obstetric ultrasound has an important role in monitoring twin pregnancy. In which condition do about 80% of fetuses not survive if it is left untreated?",
+  "options": {
+   "A": "IUGR",
+   "B": "TTTS",
+   "C": "Fetal anomalies",
+   "D": "Cervical length",
+   "E": "Polyhydramnios"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Severe twin-to-twin transfusion syndrome presenting before 26 weeks has a perinatal mortality of 80-90% if untreated, because of extreme prematurity and haemodynamic compromise.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02512",
+   "C02746",
+   "C02786"
+  ],
+  "stem": "A woman with monochorionic diamniotic twins has discordant amniotic fluid volumes, with one twin having severe oligohydramnios and the other polyhydramnios. Which complication is suspected?",
+  "options": {
+   "A": "Selective fetal growth restriction",
+   "B": "Twin reversed arterial perfusion",
+   "C": "Twin-to-twin transfusion syndrome",
+   "D": "Twin anaemia polycythaemia sequence",
+   "E": "Placental insufficiency"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "TTTS is diagnosed in monochorionic twins by oligohydramnios (DVP under 2 cm) in the donor and polyhydramnios (DVP over 8 cm) in the recipient.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01040",
+   "C03156"
+  ],
+  "stem": "What is the best treatment option for twin-to-twin transfusion syndrome?",
+  "options": {
+   "A": "Amnioreduction",
+   "B": "Septostomy",
+   "C": "Selective feticide",
+   "D": "Fetoscopic laser ablation",
+   "E": "Amnioinfusion"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Fetoscopic laser ablation of the placental anastomoses treats the cause and has the best survival and neurological outcomes (stage II-IV, 16-26 weeks); amnioreduction is only palliative.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00955"
+  ],
+  "stem": "A 30-year-old primigravida with MCDA twins and mild TTTS presents at 32 weeks with dyspnoea. Both fetuses are discordant, with polyhydramnios in one and no fetal anomaly. What is the most suitable treatment?",
+  "options": {
+   "A": "Expectant management",
+   "B": "Amnioreduction plus steroids",
+   "C": "Amnioreduction alone",
+   "D": "Laser ablation of communicating anastomoses",
+   "E": "Septostomy"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Beyond 26 weeks laser is not generally offered, so amnioreduction relieves maternal dyspnoea and, with steroids for fetal lung maturity (preterm delivery is likely), is the best option.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00515"
+  ],
+  "stem": "A woman at 22 weeks has a diamniotic dichorionic twin pregnancy and is counselled that vaginal delivery is possible. What is the most common pattern of fetal presentation in twin pregnancy?",
+  "options": {
+   "A": "Cephalic/breech",
+   "B": "Breech/cephalic",
+   "C": "Cephalic/cephalic",
+   "D": "Breech/breech",
+   "E": "Cephalic/transverse"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Both twins present by the head in about 40-50% of twin pregnancies, followed by cephalic/non-cephalic.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00991",
+   "C00414"
+  ],
+  "stem": "A G2P1 with a previous normal delivery has a diamniotic dichorionic twin pregnancy at 22 weeks and is worried she will need a caesarean. What is the most important factor in deciding the mode of delivery?",
+  "options": {
+   "A": "Liquor volume",
+   "B": "Presentation of the first twin",
+   "C": "Cervical length",
+   "D": "Gestational age",
+   "E": "Weight of the fetuses"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "If the first (presenting) twin is cephalic, vaginal delivery can be offered; a non-cephalic first twin generally needs caesarean section.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02733"
+  ],
+  "stem": "A G2P1 at 37 weeks with a twin pregnancy has the first twin transverse and the second cephalic. What is your decision on mode of delivery?",
+  "options": {
+   "A": "Spontaneous vertex delivery",
+   "B": "Caesarean section",
+   "C": "Forceps delivery",
+   "D": "Ventouse delivery",
+   "E": "Assisted vaginal delivery"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "A non-cephalic first twin is delivered by caesarean section, as vaginal delivery is not possible with a transverse lie.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00559"
+  ],
+  "stem": "A 35-year-old G3P2 with uncomplicated monochorionic diamniotic twins at 35 weeks is given antenatal corticosteroids because delivery is planned. When will you plan delivery?",
+  "options": {
+   "A": "35 weeks",
+   "B": "36 weeks",
+   "C": "37 weeks",
+   "D": "38 weeks",
+   "E": "40 weeks"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Uncomplicated MCDA twins are delivered electively at 36+0 to 36+6 weeks (DCDA at 37 weeks) because of the late stillbirth risk.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00990",
+   "C03155",
+   "C02811"
+  ],
+  "stem": "A woman with monochorionic monoamniotic twins is booked at 20-26 weeks and elective caesarean is planned. When should it be done?",
+  "options": {
+   "A": "28-30 weeks",
+   "B": "34-36 weeks",
+   "C": "30-32 weeks",
+   "D": "36-38 weeks",
+   "E": "32-34 weeks"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "MCMA twins are delivered by elective caesarean at 32-34 weeks because of cord entanglement and the high risk of sudden intrauterine death.",
+  "key_note": "",
+  "figure": ""
+ }
+]

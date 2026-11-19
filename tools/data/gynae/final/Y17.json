@@ -1,0 +1,365 @@
+[
+ {
+  "cids": [
+   "C00402"
+  ],
+  "stem": "The principal purpose of pre-operative counselling is:",
+  "options": {
+   "A": "To clarify the indication to the patient",
+   "B": "To establish a trusting relationship with the patient",
+   "C": "To explain the expected outcome of the procedure",
+   "D": "To explain risks, benefits and treatment options",
+   "E": "To inform about alternative procedures"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Pre-operative counselling exists to obtain informed consent, which requires explaining the risks, benefits and the treatment options available.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00258"
+  ],
+  "stem": "A 52-year-old otherwise healthy woman is scheduled for elective abdominal hysterectomy for symptomatic fibroids. Which is an essential component of her preoperative preparation?",
+  "options": {
+   "A": "Full mechanical bowel preparation the night before surgery",
+   "B": "Intravenous broad-spectrum antibiotic prophylaxis before surgery",
+   "C": "Insertion of a nasogastric tube 6 hours preoperatively",
+   "D": "Routine use of low molecular weight heparin starting 12 hours post-op only",
+   "E": "Crossmatching 4 units of blood in all patients regardless of haemoglobin level"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "A single dose of IV antibiotic prophylaxis at induction reduces post-hysterectomy infection. Routine bowel preparation, nasogastric tubes and blanket blood crossmatching are not required.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00295"
+  ],
+  "stem": "A 43-year-old woman with BMI 32 kg/m2 and no medical problems has undergone total abdominal hysterectomy. Which technique for prevention of deep vein thrombosis is most suitable?",
+  "options": {
+   "A": "Elastic stockings",
+   "B": "Low-dose heparin",
+   "C": "Standard heparin",
+   "D": "External pneumatic compression",
+   "E": "Optimal fluid replacement post-operatively"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Intermittent pneumatic compression gives effective mechanical prophylaxis without bleeding risk after major pelvic surgery. Pharmacological prophylaxis (LMWH) is added in higher-risk patients.",
+  "key_note": "Paper keys marked D; RCOG also supports adding LMWH in obese patients, but D is the intended answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00144",
+   "C00259"
+  ],
+  "stem": "A 44-year-old woman undergoes hysterectomy for symptomatic fibroids and both ovaries appear healthy. What is the best decision regarding her ovaries?",
+  "options": {
+   "A": "Bilateral oophorectomy to prevent future ovarian cysts",
+   "B": "Bilateral oophorectomy to reduce the risk of ovarian cancer",
+   "C": "Conservation of ovaries to maintain endogenous hormonal function",
+   "D": "Removal of only one ovary to reduce hormonal fluctuations",
+   "E": "Routine salpingo-oophorectomy to prevent endometriosis recurrence"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Healthy ovaries should be conserved in a premenopausal woman to avoid surgical menopause and its cardiovascular and bone effects.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00439"
+  ],
+  "stem": "A 40-year-old P5 presents with heavy menstrual bleeding and you proceed to abdominal hysterectomy. Which pedicle is cut first?",
+  "options": {
+   "A": "Broad ligament",
+   "B": "Uterine artery",
+   "C": "Cardinal ligament",
+   "D": "Round ligament",
+   "E": "Uterosacral ligament"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "In abdominal hysterectomy the round ligaments are clamped and cut first, then the broad ligament is opened and the ovarian pedicles or utero-ovarian ligaments are taken.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01243"
+  ],
+  "stem": "During abdominal hysterectomy, which ligament is the ureter most liable to be injured while cutting?",
+  "options": {
+   "A": "Round ligament",
+   "B": "Cardinal ligament",
+   "C": "Broad ligament",
+   "D": "Pubocervical ligament",
+   "E": "Infundibulopelvic ligament"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "The ureter runs about 1.5 to 2 cm lateral to the cervix beneath the uterine artery in the base of the broad ligament (cardinal ligament), so clamping the cardinal ligament and uterine vessels puts it at risk.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02347"
+  ],
+  "stem": "A 56-year-old woman with endometrial cancer is planned for laparoscopic hysterectomy and bilateral salpingo-oophorectomy. She is obese (BMI 39), hypertensive, hyperlipidaemic, has ischaemic heart disease and smokes 25 cigarettes a day. Which statement is NOT correct?",
+  "options": {
+   "A": "She will require a high dependency bed after surgery",
+   "B": "Early mobilisation and antiembolic stockings will be sufficient thromboprophylaxis",
+   "C": "You will arrange a chest X-ray, ECG and urea and electrolytes",
+   "D": "She should be counselled about possible conversion to laparotomy",
+   "E": "She will be discharged next day if the postoperative period is uneventful"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "With cancer, obesity and multiple risk factors she is at high risk of VTE and needs LMWH, often extended, plus mechanical prophylaxis; mobilisation and stockings alone are inadequate.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00109"
+  ],
+  "stem": "A 32-year-old woman undergoes laparoscopic myomectomy. What is the main advantage of the laparoscopic approach compared with open surgery?",
+  "options": {
+   "A": "Decreased risk of recurrence",
+   "B": "Higher success in fertility restoration",
+   "C": "Lower complication rate",
+   "D": "Shorter recovery time and reduced postoperative pain",
+   "E": "Zero risk of conversion to laparotomy"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Minimal access surgery gives less pain, shorter hospital stay and faster recovery, but recurrence and fertility outcomes are similar to open myomectomy.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01550"
+  ],
+  "stem": "A 26-year-old nulliparous woman underwent myomectomy for a fibroid uterus through a Pfannenstiel incision. What is the best time for removal of the skin sutures?",
+  "options": {
+   "A": "5th day",
+   "B": "8th day",
+   "C": "10th day",
+   "D": "12th day",
+   "E": "14th day"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Skin sutures on a transverse lower abdominal incision are usually removed at about 7 to 10 days once the wound has healed, so 10th day is the best of the options given.",
+  "key_note": "Paper key marked D (12th day); standard teaching is removal at 7 to 10 days, so C (10th day) is chosen. The option set is imperfect (8th day is also close).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00106"
+  ],
+  "stem": "A 38-year-old woman undergoing diagnostic laparoscopy for infertility suddenly develops hypotension and tachycardia, with a rapid fall in haemoglobin and suspected intra-abdominal bleeding. What is the most likely cause?",
+  "options": {
+   "A": "Bladder injury during Veress needle insertion",
+   "B": "Bowel perforation during trocar placement",
+   "C": "Haemorrhage from injury to major blood vessels",
+   "D": "Pelvic abscess formation after the procedure",
+   "E": "Pneumonia due to prolonged anaesthesia"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Sudden haemodynamic collapse during laparoscopy points to injury to a major retroperitoneal vessel (aorta, iliac vessels) at entry. Bowel and bladder injuries do not cause acute shock.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00293"
+  ],
+  "stem": "A 38-year-old woman is scheduled for laparoscopic ovarian cystectomy. Which is the most serious/common complication specifically associated with laparoscopic entry (trocar insertion)?",
+  "options": {
+   "A": "Bladder injury",
+   "B": "Deep vein thrombosis",
+   "C": "Port-site hernia",
+   "D": "Injury to bowel or major blood vessels",
+   "E": "Shoulder tip pain"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Most laparoscopic entry complications are bowel and major vessel injuries from the Veress needle or primary trocar; shoulder tip pain and port-site hernia occur afterwards and are not entry injuries.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01417"
+  ],
+  "stem": "A 32-year-old P2 had a diagnostic laparoscopy for chronic pelvic pain. After surgery she has severe shoulder tip pain. What is the most likely cause?",
+  "options": {
+   "A": "Intraperitoneal haematoma",
+   "B": "Injury to bladder",
+   "C": "Carbon dioxide-induced phrenic nerve irritation",
+   "D": "Visceral injury",
+   "E": "Allergic reaction"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Residual CO2 under the diaphragm irritates the phrenic nerve (C3 to C5), causing referred shoulder tip pain that settles with mobilisation and analgesia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02035",
+   "C02023"
+  ],
+  "stem": "A consultant gynaecologist performs abdominal myomectomy on a 35-year-old nulliparous woman with a single 6x4 cm intramural fibroid. What is the most common complication of myomectomy?",
+  "options": {
+   "A": "Haemorrhage",
+   "B": "Infection",
+   "C": "Pelvic adhesions",
+   "D": "Pelvic vein thrombosis",
+   "E": "Recurrence"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Myomectomy is a bloody operation because fibroids are vascular, and haemorrhage (needing transfusion or conversion to hysterectomy) is the commonest complication; adhesions and recurrence come later.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00289"
+  ],
+  "stem": "A 46-year-old woman undergoes radical hysterectomy for stage IB cervical cancer. Postoperatively she cannot pass urine despite adequate hydration and has a distended bladder, likely from neuronal damage during surgery. What is the most appropriate management?",
+  "options": {
+   "A": "Indwelling Foley catheter for 6 weeks",
+   "B": "Immediate suprapubic cystostomy",
+   "C": "Intermittent self-catheterisation until bladder tone returns",
+   "D": "Intravenous furosemide to stimulate urination",
+   "E": "Ureteric stenting to relieve obstruction"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Radical hysterectomy damages the pelvic autonomic nerves to the bladder, causing atony; clean intermittent catheterisation allows complete emptying until function recovers.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00438"
+  ],
+  "stem": "A 47-year-old woman underwent total abdominal hysterectomy yesterday. On rounds she is pale, BP 100/60 mmHg, pulse 106/min, dizzy and complains of unusual left-sided abdominal pain. Her urine output was 350 mL in 24 hours. What is the most appropriate management?",
+  "options": {
+   "A": "Reassurance, adequate analgesia, IV fluids",
+   "B": "Send urine R/E and commence antibiotics",
+   "C": "Close monitoring of vitals and review in the evening",
+   "D": "Arrange an urgent CBC and pelvic ultrasound for free fluid",
+   "E": "Start thromboprophylaxis with low molecular weight heparin"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Pallor, tachycardia, falling BP and flank pain on day 1 suggest reactionary haemorrhage or retroperitoneal haematoma, so urgent haemoglobin and imaging for free fluid are needed before return to theatre.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01352"
+  ],
+  "stem": "A 38-year-old woman had a difficult laparoscopically assisted vaginal hysterectomy with 600 mL blood loss. Four hours later she has flank pain, abdominal distension and generalised tenderness, BP 60/20 mmHg, pulse 120/min and altered consciousness. What is the most likely cause?",
+  "options": {
+   "A": "Intraperitoneal bleeding",
+   "B": "Ureteric injury",
+   "C": "Small bowel injury",
+   "D": "Spinal injury",
+   "E": "Rectal injury"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Early shock with distension and a rapidly falling BP after surgery is due to ongoing intra-abdominal (reactionary) haemorrhage; ureteric or bowel injuries present later.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02022"
+  ],
+  "stem": "During abdominal hysterectomy the surgeon notices a small, clean perforation of bowel. What is the next best course of action?",
+  "options": {
+   "A": "Layered closure of the bowel using absorbable sutures",
+   "B": "Resection and anastomosis of the affected part of the bowel",
+   "C": "Inspect the area carefully to confirm the injury and assess its extent",
+   "D": "Broad-spectrum antibiotics to prevent infection",
+   "E": "Stoma formation"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "The first step is to inspect and define the extent of the injury, after which a small clean perforation is repaired primarily in layers, with a general surgeon's help if needed.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02025",
+   "C01378"
+  ],
+  "stem": "A 35-year-old P5 had a D&C 3 days ago at a local clinic and now has abdominal distension, pain, vomiting and faecal-smelling vaginal discharge. Which complication is probable?",
+  "options": {
+   "A": "Bowel injury",
+   "B": "PID",
+   "C": "Retained products of conception",
+   "D": "Pelvic abscess",
+   "E": "Uterine adhesions"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Faecal-smelling vaginal discharge after curettage means a uterine perforation with bowel injury and a communication between the bowel and genital tract.",
+  "key_note": "One source did not mark an answer; the other marked A.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00399"
+  ],
+  "stem": "The most common postoperative pulmonary complication is:",
+  "options": {
+   "A": "Atelectasis",
+   "B": "Pneumothorax",
+   "C": "Pulmonary oedema",
+   "D": "Bronchopneumonia",
+   "E": "Bronchitis"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Atelectasis from poor ventilation and retained secretions is the commonest postoperative pulmonary complication, causing fever on days 1 to 2.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01551"
+  ],
+  "stem": "A 27-year-old P2 presents on the 5th postoperative day after total abdominal hysterectomy with fever and swelling around the stitch line. She is febrile (100 F), pulse 106/min, BP 120/80 mmHg, with a bluish tender swelling at the upper wound margin and blood-stained discharge. Hb is 6 g/dL and TLC 15,000. What is your provisional diagnosis?",
+  "options": {
+   "A": "Broad ligament haematoma",
+   "B": "Intraperitoneal bleeding",
+   "C": "Peritonitis",
+   "D": "Wound infection",
+   "E": "Wound haematoma"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Fever, tender swelling and leucocytosis on day 5 indicate wound infection, often seeded in a wound haematoma.",
+  "key_note": "Paper key marked D; wound haematoma (E) is a close alternative, D kept.",
+  "figure": ""
+ }
+]

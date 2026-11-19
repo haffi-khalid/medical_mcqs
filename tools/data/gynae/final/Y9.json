@@ -1,0 +1,1274 @@
+[
+ {
+  "cids": [
+   "C02291",
+   "C02899"
+  ],
+  "stem": "What is the normal pH of the vagina in a woman of reproductive age?",
+  "options": {
+   "A": "2.0 to 3.0",
+   "B": "3.5 to 4.5",
+   "C": "4.5 to 5.5",
+   "D": "5.5 to 6.5",
+   "E": "6.5 to 7.5"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Lactobacilli convert glycogen to lactic acid and keep the vaginal pH at 3.5 to 4.5. A pH above 4.5 suggests bacterial vaginosis (about 5 to 6) or trichomoniasis, whereas candidiasis keeps the pH normal.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01257",
+   "C01347",
+   "C01815",
+   "C00332",
+   "C01474",
+   "C01449"
+  ],
+  "stem": "A woman presents with thin, clear or watery, odourless vaginal discharge without itching or soreness. The amount increases around mid-cycle (ovulation) or around menstruation. What is the most likely cause?",
+  "options": {
+   "A": "Bacterial vaginosis",
+   "B": "Trichomoniasis",
+   "C": "Gonococcal infection",
+   "D": "Candidiasis",
+   "E": "Physiological discharge"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Cervical mucus becomes copious, clear and stretchy under oestrogen at mid-cycle. Discharge that is odourless, non-irritating and cyclical is physiological and needs no treatment.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00727",
+   "C02168",
+   "C02937"
+  ],
+  "stem": "A young woman (15 to 16 years old) presents with mucoid, clear or white, odourless vaginal discharge that is not itchy and increases at mid-cycle. What is the most appropriate management?",
+  "options": {
+   "A": "Take a high vaginal swab for culture",
+   "B": "Start oral antibiotics",
+   "C": "Prescribe a vaginal antibacterial cream or clotrimazole pessary",
+   "D": "Do a whiff test",
+   "E": "Reassure her that it is physiological"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Clear mucoid, odourless, non-pruritic discharge that varies with the cycle is physiological. Investigation or antimicrobials are not indicated; reassurance is enough.",
+  "key_note": "Source variants had slightly different option sets (e.g. random blood sugar, metronidazole); all agree on reassurance.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01762",
+   "C00398"
+  ],
+  "stem": "Which of the following is the mainstay of treatment of non-specific vulvovaginitis in prepubertal children?",
+  "options": {
+   "A": "Antibiotics",
+   "B": "Antifungal cream",
+   "C": "Hygiene measures",
+   "D": "Topical oestrogen",
+   "E": "Antiallergic cream"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Most childhood vulvovaginitis is non-specific, due to poor hygiene, a hypo-oestrogenic thin vaginal epithelium and irritants. Hygiene advice, avoiding irritants and cotton underwear settle most cases; specific antibiotics only for an identified pathogen.",
+  "key_note": "One source variant had garbled options (organism names) and a key of D; the clean version marks C, which is correct.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00301"
+  ],
+  "stem": "A mother brings her 9-year-old daughter with excessive purulent vaginal discharge and itching for 2 weeks. She is of normal stature and build for her age. On examination there is vulval soreness and purulent discharge. What is the most likely cause?",
+  "options": {
+   "A": "Bacterial vaginosis",
+   "B": "Foreign body",
+   "C": "Sarcoma botryoides",
+   "D": "Candida albicans",
+   "E": "Ascaris lumbricoides"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "In prepubertal girls, persistent purulent, sometimes blood-stained, offensive discharge suggests a vaginal foreign body (classically toilet paper). Examination under anaesthesia and vaginoscopy remove it. Sarcoma botryoides presents with a grape-like mass and bleeding.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00049",
+   "C00712",
+   "C02933",
+   "C01886",
+   "C01890",
+   "C02171",
+   "C00189",
+   "C02030",
+   "C00424",
+   "C01937",
+   "C01478"
+  ],
+  "stem": "A P2+0 woman presents with thin, white, offensive fishy-smelling vaginal discharge. The smell increases around the time of menstruation. On speculum examination there is copious discharge as if milk had been poured into the vagina. What is the most likely diagnosis?",
+  "options": {
+   "A": "Trichomoniasis",
+   "B": "Candidiasis",
+   "C": "Gonorrhoea",
+   "D": "Physiological discharge",
+   "E": "Bacterial vaginosis"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "A thin, homogeneous, milky-white discharge with a fishy odour that worsens after menses or intercourse (alkaline blood and semen release amines) is bacterial vaginosis. There is no inflammation, so no itching or soreness.",
+  "key_note": "Two source entries had no options (recall items); all marked keys agree with bacterial vaginosis.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00207",
+   "C01426"
+  ],
+  "stem": "A woman presents with profuse vaginal discharge with fishy odour, and wet preparation of the discharge shows clue cells. Bacterial vaginosis is diagnosed. Which organism is most commonly associated with this condition?",
+  "options": {
+   "A": "Gardnerella vaginalis",
+   "B": "Candida albicans",
+   "C": "Trichomonas vaginalis",
+   "D": "Chlamydia trachomatis",
+   "E": "Neisseria gonorrhoeae"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Bacterial vaginosis is a polymicrobial imbalance in which lactobacilli are replaced by Gardnerella vaginalis, anaerobes (Bacteroides, Mobiluncus) and Mycoplasma hominis. Clue cells are vaginal epithelial cells studded with Gardnerella.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00195",
+   "C02227"
+  ],
+  "stem": "Which of the following is part of Amsel's criteria for the diagnosis of bacterial vaginosis?",
+  "options": {
+   "A": "Presence of Trichomonas on wet mount",
+   "B": "Abundant lactobacilli on Gram stain",
+   "C": "Clue cells comprising more than 20% of epithelial cells",
+   "D": "Thick curd-like discharge with vaginal erythema",
+   "E": "Vaginal pH below 3"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Amsel's criteria need three of four: thin homogeneous discharge, vaginal pH above 4.5, positive whiff test, and clue cells (more than 20% of epithelial cells) on microscopy. Gram-stain scoring (Nugent) is the other standard method.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01421",
+   "C00321",
+   "C01772",
+   "C01768"
+  ],
+  "stem": "A 29-year-old woman on combined oral contraceptive pills has had a thin, greyish-white vaginal discharge with a slight fishy odour for 2 weeks and no itching. On examination the vulva is normal, there is copious thin white discharge adherent to the vaginal walls, vaginal pH is 5.5 and the cervix is not inflamed. Which is the next step to confirm the diagnosis?",
+  "options": {
+   "A": "High vaginal swab",
+   "B": "Endocervical swab",
+   "C": "Wet smear",
+   "D": "Pap smear",
+   "E": "KOH (whiff) test"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "The picture is bacterial vaginosis; a fishy odour on adding 10% KOH to the discharge (positive whiff test) is the quick bedside confirmatory test, along with pH and clue cells.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01588"
+  ],
+  "stem": "A 25-year-old woman with three previous miscarriages presents with an offensive fishy-smelling vaginal discharge. A Gram-stained vaginal smear shows many mixed Gram-positive and Gram-negative organisms with few lactobacilli. If she becomes pregnant, which complication is she at greatest risk of?",
+  "options": {
+   "A": "Subfertility",
+   "B": "Preterm delivery",
+   "C": "Pelvic inflammatory disease",
+   "D": "Sexually transmitted infections",
+   "E": "Amenorrhoea"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Bacterial vaginosis in pregnancy is associated with late miscarriage, preterm labour, PPROM and chorioamnionitis. It also raises the risk of PID after instrumentation, but the classic exam association is preterm delivery.",
+  "key_note": "Stem reworded lightly: the original said only 'cocci' on the smear.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00327",
+   "C02934",
+   "C01887",
+   "C01891",
+   "C00200",
+   "C02110"
+  ],
+  "stem": "A 24-year-old P2+0 woman has thin white offensive fishy-smelling vaginal discharge that worsens around menstruation. A diagnosis of bacterial vaginosis is made. What is the treatment?",
+  "options": {
+   "A": "Metronidazole",
+   "B": "Ciprofloxacin",
+   "C": "Streptomycin",
+   "D": "Fluconazole",
+   "E": "Ketoconazole"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Bacterial vaginosis is treated with oral metronidazole 400 to 500 mg twice daily for 7 days (or 2 g single dose); alternatives are clindamycin cream or oral clindamycin. Antifungals are for candidiasis.",
+  "key_note": "Some source entries had only 'metronidazole vs clindamycin' or no options (recall); both drugs are effective but metronidazole was marked and is first line.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02900",
+   "C02292"
+  ],
+  "stem": "A single oral dose of metronidazole used to treat trichomoniasis (and acceptable for bacterial vaginosis) is:",
+  "options": {
+   "A": "200 mg",
+   "B": "400 mg",
+   "C": "1 g",
+   "D": "2 g",
+   "E": "4 g"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "The single-dose regimen is metronidazole 2 g orally; the alternative is 400 to 500 mg twice daily for 5 to 7 days. Partners must be treated simultaneously in trichomoniasis.",
+  "key_note": "Source stem was only 'dose of metronidazole' (one entry without options); reworded to the single-dose regimen with the marked key 2 g.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00175",
+   "C00184",
+   "C00709",
+   "C01939",
+   "C02174",
+   "C00785",
+   "C00211",
+   "C01816",
+   "C01475",
+   "C00726",
+   "C00208",
+   "C00203",
+   "C01885",
+   "C01889",
+   "C00199"
+  ],
+  "stem": "A woman presents with profuse, frothy, yellow-green, foul-smelling vaginal discharge with vulval itching and soreness. On speculum examination the cervix shows red 'strawberry' spots. What is the most likely diagnosis?",
+  "options": {
+   "A": "Bacterial vaginosis",
+   "B": "Trichomoniasis",
+   "C": "Candidiasis",
+   "D": "Herpes simplex",
+   "E": "Chlamydial infection"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Frothy yellow-green offensive discharge with a strawberry cervix (punctate colpitis) is characteristic of Trichomonas vaginalis, a flagellated protozoan. Vaginal pH is above 5.",
+  "key_note": "Key letters differ between papers only because option orders differ; two papers marked Candidiasis for the yellow irritating discharge variants and one marked Candidiasis for a 'most common cause' variant; correct is trichomoniasis.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00090",
+   "C00717",
+   "C01769",
+   "C01165"
+  ],
+  "stem": "A woman presents with irritating, frothy yellow-green offensive vaginal discharge, dyspareunia and lower abdominal discomfort. Strawberry cervix is seen on speculum examination and motile organisms are seen on saline wet mount. What is the most likely causative organism?",
+  "options": {
+   "A": "Neisseria gonorrhoeae",
+   "B": "Treponema pallidum",
+   "C": "Trichomonas vaginalis",
+   "D": "Candida albicans",
+   "E": "Human papillomavirus"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Trichomonas vaginalis is a motile flagellated protozoan, seen as pear-shaped organisms with jerky movement in a drop of saline. It is sexually transmitted and the partner must also be treated.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02031"
+  ],
+  "stem": "A 24-year-old woman presents with frothy greenish-yellow vaginal discharge and trichomoniasis is suspected. Which specific finding on speculum examination supports this?",
+  "options": {
+   "A": "Copious greenish discharge",
+   "B": "Strawberry cervix",
+   "C": "Hypertrophied cervix",
+   "D": "Cervix that bleeds to touch",
+   "E": "Inflamed cervix"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Punctate haemorrhages on the cervix and upper vagina ('strawberry cervix') are the specific sign, seen in about 2 to 5% by naked eye and more often on colposcopy.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02173"
+  ],
+  "stem": "A 29-year-old P2 woman presents with copious yellowish vaginal discharge with smell and itching for 3 weeks. Speculum examination shows a homogeneous yellow discharge and a 'strawberry' cervix. What is the initial investigation to reach the diagnosis?",
+  "options": {
+   "A": "Endocervical swab",
+   "B": "High vaginal swab",
+   "C": "KOH test",
+   "D": "Pap smear",
+   "E": "Wet smear (saline wet mount)"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "A saline wet mount in the clinic shows motile flagellated Trichomonas vaginalis immediately and is the quickest initial test. NAAT is the most sensitive confirmatory test.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01444"
+  ],
+  "stem": "A 35-year-old married woman presents with vaginal discharge, deep dyspareunia and itching. Examination shows greenish-yellow discharge and an inflamed vaginal wall. Which investigation would you order next?",
+  "options": {
+   "A": "Pap smear",
+   "B": "Urine routine examination",
+   "C": "High vaginal swab",
+   "D": "Ultrasound pelvis",
+   "E": "Wet mount"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A high vaginal swab (with wet mount) is the usual next test in suspected vaginitis due to trichomonas or other organisms.",
+  "key_note": "Marked key C (high vaginal swab); wet mount is also acceptable and is the quickest bedside test, so this question is slightly ambiguous.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00188",
+   "C01322"
+  ],
+  "stem": "Which of the following infections can be diagnosed on wet mount microscopy?",
+  "options": {
+   "A": "Candidiasis",
+   "B": "Gonorrhoea",
+   "C": "Chlamydia",
+   "D": "Trichomonas vaginalis",
+   "E": "Bacterial vaginosis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Trichomonas vaginalis is identified by motile flagellates on a saline wet mount. Chlamydia and gonorrhoea need NAAT, and candidiasis is best shown with KOH.",
+  "key_note": "Papers disagree because option sets differ (one marked Bacterial vaginosis for clue cells, one marked Trichomoniasis); the Ten Teachers-based key marks Trichomonas, which is retained.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00205"
+  ],
+  "stem": "A 30-year-old woman complains of irritating greenish-yellow vaginal discharge. What is the gold standard (most sensitive) test for the likely cause?",
+  "options": {
+   "A": "Wet mount",
+   "B": "Endocervical swab",
+   "C": "NAAT",
+   "D": "Gram staining",
+   "E": "Clue cell microscopy"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "The discharge is typical of trichomoniasis. Wet mount is quick but only about 50 to 60% sensitive; NAAT is now the most sensitive and specific test.",
+  "key_note": "Papers were split between A (wet mount) and C (NAAT); NAAT is the true gold standard, while wet mount is the first-line bedside test.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00194",
+   "C02169"
+  ],
+  "stem": "A 28-year-old woman with a new partner has a 1-week history of frothy yellow-green vaginal discharge, itching and dysuria. The cervix has a punctate strawberry appearance and the vaginal pH is 6.0. What is the most appropriate next step in management?",
+  "options": {
+   "A": "Oral fluconazole 150 mg single dose",
+   "B": "Oral metronidazole 2 g single dose",
+   "C": "Intravaginal clotrimazole for 7 days",
+   "D": "High vaginal swab for Candida culture",
+   "E": "Empirical doxycycline for 7 days"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "This is trichomoniasis (frothy discharge, strawberry cervix, pH above 4.5). Treat with oral metronidazole (2 g single dose or 400 to 500 mg twice daily for 5 to 7 days) and treat the partner.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01476"
+  ],
+  "stem": "A 32-year-old well-educated woman has had recurrent yellow vaginal discharge for 2 years in spite of treatment many times. What is the most probable cause of treatment failure?",
+  "options": {
+   "A": "Wrong treatment",
+   "B": "Poor drug compliance",
+   "C": "Non-treatment of the partner",
+   "D": "Poor hygiene of the patient",
+   "E": "Immunocompromised patient"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "In sexually transmitted vaginitis (especially trichomoniasis) the untreated partner re-infects the woman, a ping-pong effect. Simultaneous partner treatment is essential.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01345",
+   "C02109"
+  ],
+  "stem": "Which of the following organisms or infections is NOT a sexually transmitted infection?",
+  "options": {
+   "A": "Treponema pallidum (syphilis)",
+   "B": "Neisseria gonorrhoeae (gonorrhoea)",
+   "C": "Chlamydia trachomatis",
+   "D": "Candida albicans (candidiasis)",
+   "E": "Trichomonas vaginalis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Vulvovaginal candidiasis is an endogenous overgrowth of a commensal yeast, favoured by diabetes, pregnancy, antibiotics and immunosuppression, and is not classed as an STI.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01231",
+   "C01233",
+   "C02175",
+   "C01832",
+   "C02108",
+   "C02226",
+   "C01493",
+   "C00176"
+  ],
+  "stem": "A woman presents with vulval itching, soreness and a thick, white, curdy vaginal discharge. Speculum examination shows white plaques adherent to the vaginal wall. What is the most likely diagnosis?",
+  "options": {
+   "A": "Bacterial vaginosis",
+   "B": "Trichomoniasis",
+   "C": "Candidiasis",
+   "D": "Gonococcal infection",
+   "E": "Chlamydial infection"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Curdy 'cottage cheese' discharge with adherent white plaques, vulval itching and erythema is vulvovaginal candidiasis (Candida albicans). The vaginal pH stays normal at 4 to 4.5.",
+  "key_note": "Key letters differ between papers only because option orders differ; all marked keys agree on candidiasis.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00264",
+   "C01447",
+   "C01420"
+  ],
+  "stem": "A woman with diabetes presents with vulval itching, soreness and curdy white vaginal discharge (vaginal pH 4 to 4.5; a smear shows budding yeast cells with pseudohyphae). What is the most likely causative organism?",
+  "options": {
+   "A": "Neisseria gonorrhoeae",
+   "B": "Treponema pallidum",
+   "C": "Candida albicans",
+   "D": "Trichomonas vaginalis",
+   "E": "Chlamydia trachomatis"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Candida albicans causes about 80 to 90% of vulvovaginal candidiasis; diabetes, pregnancy, antibiotics, steroids and immunosuppression are predisposing factors. Budding yeast with pseudohyphae are seen on KOH wet mount or Pap smear.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00180",
+   "C00674",
+   "C00179"
+  ],
+  "stem": "A 27-year-old woman has intense vulvar itching, soreness and a thick curdy white vaginal discharge (pH 4.0 to 4.2). A KOH wet mount shows budding yeast cells with pseudohyphae. What is the best initial management?",
+  "options": {
+   "A": "Oral doxycycline for 7 days",
+   "B": "Oral metronidazole for 7 days",
+   "C": "Oral fluconazole 150 mg single dose",
+   "D": "High-dose corticosteroid cream",
+   "E": "Vaginal clindamycin cream"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Uncomplicated vulvovaginal candidiasis is treated with a single oral fluconazole 150 mg dose or a clotrimazole vaginal pessary (500 mg stat). Metronidazole and clindamycin are for trichomoniasis and bacterial vaginosis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00198",
+   "C01554"
+  ],
+  "stem": "Recurrent vulvovaginal candidiasis is defined as at least how many symptomatic episodes per year?",
+  "options": {
+   "A": "2",
+   "B": "3",
+   "C": "4",
+   "D": "5",
+   "E": "6"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Recurrent vulvovaginal candidiasis means four or more episodes in 12 months. Treatment is an induction course of fluconazole 150 mg on days 1, 4 and 7, then weekly for 6 months.",
+  "key_note": "One variant wrongly listed 'at least 3 episodes per 6 months'; the accepted definition is 4 or more per year.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00192"
+  ],
+  "stem": "A 30-year-old woman presents with curdy white vaginal discharge, intense itching and vulval excoriation for the fourth time this year. What is the most appropriate treatment?",
+  "options": {
+   "A": "Oral fluconazole (induction then maintenance regimen)",
+   "B": "Vaginal fluconazole",
+   "C": "Oral metronidazole",
+   "D": "Vaginal metronidazole",
+   "E": "Oral cephalosporin"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Four or more episodes a year is recurrent candidiasis. Confirm with a swab, check glucose, and give oral fluconazole 150 mg on days 1, 4 and 7 followed by weekly maintenance for 6 months.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00153"
+  ],
+  "stem": "A 28-year-old woman at 24 weeks of pregnancy presents with vulval itching, thick white curd-like vaginal discharge and soreness. Microscopy confirms Candida albicans. What is the most appropriate treatment?",
+  "options": {
+   "A": "Oral fluconazole 150 mg single dose",
+   "B": "Clotrimazole vaginal pessary for 7 days",
+   "C": "Oral ketoconazole 200 mg daily for 5 days",
+   "D": "Topical steroid cream only",
+   "E": "Metronidazole vaginal gel for 5 days"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "In pregnancy use topical imidazoles (clotrimazole pessary or cream) for 7 days. Oral azoles are avoided because of possible fetal effects.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00500"
+  ],
+  "stem": "A 35-year-old G4P3 at 30 weeks has severe vulvovaginal itching with thick white discharge coating the vulva and vagina. She has gestational diabetes with deranged sugars and has had six episodes in 8 months. What is the best treatment?",
+  "options": {
+   "A": "Fluconazole 150 mg orally, 3 doses at 72-hour intervals",
+   "B": "Fluconazole 150 mg orally, 2 doses stat",
+   "C": "Boric acid 600 mg pessary for 2 weeks",
+   "D": "Clotrimazole 500 mg pessary stat then 100 mg pessary daily for 6 days with 1% clotrimazole cream locally"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Oral azoles and boric acid are avoided in pregnancy, so recurrent candidiasis is treated with a prolonged course of topical clotrimazole, while glycaemic control is optimised.",
+  "key_note": "Original had only four options.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00191",
+   "C00050"
+  ],
+  "stem": "A 38-year-old woman attends the OPD with mucopurulent vaginal discharge, dysuria and arthritis. What is the most likely diagnosis?",
+  "options": {
+   "A": "Gonorrhoea",
+   "B": "Syphilis",
+   "C": "Bacterial vaginosis",
+   "D": "Trichomoniasis",
+   "E": "Herpes simplex"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Disseminated gonococcal infection causes arthritis (often with tenosynovitis and skin pustules) following mucopurulent cervicitis and urethritis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02138"
+  ],
+  "stem": "A P1+0 woman presents with vaginal discharge and gonococcal infection is suspected. Which part of the genital tract does the infection primarily affect?",
+  "options": {
+   "A": "Upper genital tract",
+   "B": "Lower genital tract",
+   "C": "Upper urinary tract",
+   "D": "Lower urinary tract",
+   "E": "Gastrointestinal tract"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Neisseria gonorrhoeae primarily infects the columnar epithelium of the endocervix, urethra, Skene's and Bartholin's glands, and then ascends to cause PID in about 10 to 20% of cases.",
+  "key_note": "Source paper marked A (upper genital tract); correct is B because gonorrhoea is primarily a lower genital tract infection that may ascend.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00477"
+  ],
+  "stem": "A P2+0 woman has mucopurulent vaginal discharge, lower abdominal pain and post-coital bleeding for 1 week. She now has fever and painful red swelling of both knee joints. Gonococcal infection is suspected. Which drug from the list is effective treatment?",
+  "options": {
+   "A": "Metronidazole",
+   "B": "Ciprofloxacin",
+   "C": "Erythromycin",
+   "D": "Clindamycin"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Of these options only ciprofloxacin has gonococcal activity. Current practice for disseminated gonococcal infection is ceftriaxone, because quinolone resistance is now widespread.",
+  "key_note": "Marked key B (ciprofloxacin) retained because the other options do not treat gonorrhoea; modern first line is ceftriaxone.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01750"
+  ],
+  "stem": "What is the current first-line treatment for uncomplicated gonorrhoea?",
+  "options": {
+   "A": "Azithromycin 1 g orally as a single dose",
+   "B": "Cefixime 400 mg orally three times daily for 14 days",
+   "C": "Ceftriaxone intramuscularly as a single dose",
+   "D": "Erythromycin 500 mg four times daily for 14 days",
+   "E": "Penicillin 1.2 g intramuscularly as a single dose"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Resistance has removed penicillins, quinolones and macrolide monotherapy; a single IM dose of ceftriaxone (250 to 500 mg in older/CDC regimens, 1 g in current RCOG/BASHH) is first line, and chlamydia co-infection is treated with doxycycline.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00190"
+  ],
+  "stem": "A 32-year-old woman presents with altered vaginal discharge and mild abdominal pain. Examination shows profuse mucopurulent discharge from an inflamed cervix. What is the appropriate management?",
+  "options": {
+   "A": "Treat with cephalosporin for presumed gonorrhoeal infection",
+   "B": "Perform NAAT testing, treat presumptively with a wide-spectrum antibiotic",
+   "C": "Treat with penicillin and test for other STIs",
+   "D": "Treat with cephalosporin and azithromycin and perform NAAT only if unresponsive",
+   "E": "Perform NAAT testing and culture, test for other STIs and treat with cephalosporin and azithromycin"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Mucopurulent cervicitis is due to gonorrhoea or chlamydia until proven otherwise. Take NAAT (with culture and sensitivity for gonorrhoea), screen for other STIs and treat for both organisms (ceftriaxone plus azithromycin or doxycycline).",
+  "key_note": "One paper (Ten Teachers answer line) marked B; the majority of papers marked E, the fuller option, which is retained.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01256"
+  ],
+  "stem": "A 28-year-old P2 woman presents with vaginal discharge and lower abdominal pain for 3 months. Examination shows profuse mucopurulent discharge and an inflamed cervix. What is the confirmatory test?",
+  "options": {
+   "A": "ZN staining",
+   "B": "Wet mount",
+   "C": "Gram staining",
+   "D": "NAAT",
+   "E": "High vaginal swab"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "NAAT on an endocervical (or vulvovaginal) swab is the most sensitive and specific test for Chlamydia trachomatis and Neisseria gonorrhoeae.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01938"
+  ],
+  "stem": "Nucleic acid amplification tests (NAATs) are the test of choice for which of the following genital tract infections?",
+  "options": {
+   "A": "Herpes",
+   "B": "Candidiasis",
+   "C": "Trichomoniasis",
+   "D": "Bacterial vaginosis",
+   "E": "Gonorrhoea"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "NAAT is the diagnostic test of choice for gonorrhoea and chlamydia (and is also the most sensitive for trichomonas). Candidiasis is diagnosed by microscopy or culture and bacterial vaginosis by Amsel or Nugent criteria.",
+  "key_note": "In one source variant chlamydia was also listed as an option; here only gonorrhoea was kept as the single answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01548"
+  ],
+  "stem": "Swabs for Chlamydia trachomatis should be taken from which site?",
+  "options": {
+   "A": "Ectocervix",
+   "B": "Endocervix",
+   "C": "Endometrial cavity",
+   "D": "Lower vagina",
+   "E": "Posterior vaginal fornix"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Chlamydia infects the columnar epithelium, so the endocervical swab (or a self-taken vulvovaginal swab for NAAT) is used; the ectocervix is squamous.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02231"
+  ],
+  "stem": "A 38-year-old woman has mucopurulent vaginal discharge and is diagnosed with Chlamydia. What is the single-dose drug of choice?",
+  "options": {
+   "A": "Penicillin",
+   "B": "Azithromycin",
+   "C": "Cefuroxime",
+   "D": "Metronidazole",
+   "E": "Vibramycin (doxycycline)"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Azithromycin 1 g orally as a single dose is the single-dose treatment for chlamydia; the alternative is doxycycline 100 mg twice daily for 7 days, which is preferred in current guidelines but not a single dose.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00493"
+  ],
+  "stem": "A couple receiving treatment for chlamydial infection ask how long they must avoid intercourse. What do you advise?",
+  "options": {
+   "A": "5 days from the start of treatment",
+   "B": "7 days from the start of treatment",
+   "C": "5 days after the end of treatment",
+   "D": "7 days after the end of treatment",
+   "E": "2 weeks after the end of treatment"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Abstain until both partners have completed treatment (7 days after starting azithromycin, or until a 7 day doxycycline course is finished) to prevent re-infection. Partners of the previous 6 months should be screened.",
+  "key_note": "Marked key B retained; some guidelines say abstain until 7 days after treatment starts (single dose) or until completed (doxycycline).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00102",
+   "C01302",
+   "C01960",
+   "C02232"
+  ],
+  "stem": "During diagnostic laparoscopy for subfertility, 'violin-string' adhesions are seen between the liver capsule and the anterior abdominal wall. Which organism is most commonly responsible?",
+  "options": {
+   "A": "Escherichia coli",
+   "B": "Lactobacillus",
+   "C": "Pseudomonas",
+   "D": "Chlamydia trachomatis",
+   "E": "Listeria monocytogenes"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Perihepatitis (Fitz-Hugh-Curtis syndrome) follows ascending Chlamydia (or gonococcal) infection with spread along the paracolic gutter. It causes right upper quadrant pain and violin-string adhesions.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00139"
+  ],
+  "stem": "A 28-year-old woman with chronic pelvic pain, infertility and repeated pelvic infections has thin fibrous 'violin-string' adhesions between the liver capsule and the anterior abdominal wall at laparoscopy. What is the most likely diagnosis?",
+  "options": {
+   "A": "Chronic cholecystitis",
+   "B": "Fitz-Hugh-Curtis syndrome",
+   "C": "Perihepatic tuberculosis",
+   "D": "Endometriosis involving the liver capsule",
+   "E": "Post-hepatic abscess adhesions"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Fitz-Hugh-Curtis syndrome is perihepatitis complicating PID, typically from Chlamydia trachomatis or Neisseria gonorrhoeae.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00115"
+  ],
+  "stem": "A 24-year-old woman presents with painful genital ulcers and dysuria for 3 days, low-grade fever and bilateral tender inguinal lymphadenopathy. This is her first episode. Multiple shallow vesicular lesions with erythematous bases are seen on the vulva. What is the most appropriate initial management?",
+  "options": {
+   "A": "Topical acyclovir for 5 days",
+   "B": "Reassurance and symptomatic care only",
+   "C": "Oral acyclovir and offer STI screening",
+   "D": "Admit for intravenous antivirals and catheterisation",
+   "E": "Delay treatment until HSV PCR results are available"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Primary genital herpes should be treated early with oral aciclovir (400 mg three times daily for 5 days) without waiting for results, with analgesia, saline bathing and a full STI screen. Topical antivirals are ineffective.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02766",
+   "C02666",
+   "C02229"
+  ],
+  "stem": "A 48-year-old woman presents with vesicular lesions of the vulva, dysuria and painful enlarged inguinal lymph nodes. What is the most likely causative organism?",
+  "options": {
+   "A": "HPV infection",
+   "B": "Syphilis",
+   "C": "Lymphogranuloma venereum",
+   "D": "Genital herpes",
+   "E": "Molluscum contagiosum"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Grouped painful vesicles that rupture into shallow ulcers with tender inguinal nodes and dysuria are typical of primary genital herpes (HSV-2 more than HSV-1).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00052",
+   "C01303",
+   "C02230"
+  ],
+  "stem": "A woman presents with painless genital ulcers on the vulva or vagina with enlarged non-tender inguinal lymph nodes. What is the most likely diagnosis?",
+  "options": {
+   "A": "Herpes infection",
+   "B": "Syphilis",
+   "C": "Genital warts",
+   "D": "Genital tuberculosis",
+   "E": "Chancroid"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "A single painless indurated ulcer (chancre) with painless regional lymphadenopathy is primary syphilis caused by Treponema pallidum. Chancroid and herpes ulcers are painful.",
+  "key_note": "Variants had different distractors (HIV, HPV, gonorrhoea, arthritis with discharge); all marked keys agree on syphilis.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02111"
+  ],
+  "stem": "A woman has painless genital ulcers with inguinal lymphadenopathy and syphilis is suspected. Which investigation will help confirm the diagnosis?",
+  "options": {
+   "A": "Swab from the ulcer",
+   "B": "Histology of the ulcer",
+   "C": "Heaf test",
+   "D": "Treponema pallidum haemagglutination (TPHA) test",
+   "E": "Mantoux test"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Syphilis is confirmed by treponemal serology (TPHA, FTA-ABS, EIA) together with non-treponemal tests (VDRL, RPR); dark-field microscopy of ulcer exudate is also possible. Heaf and Mantoux tests are for tuberculosis.",
+  "key_note": "Stem used 'in above mentioned scenario'; rewritten using the preceding syphilis (painless ulcer) scenario.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01491"
+  ],
+  "stem": "Syphilis is an infection caused by:",
+  "options": {
+   "A": "Treponema pallidum",
+   "B": "Clostridium botulinum",
+   "C": "Chlamydia trachomatis",
+   "D": "Neisseria gonorrhoeae",
+   "E": "Plasmodium falciparum"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Syphilis is caused by the spirochaete Treponema pallidum.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00643"
+  ],
+  "stem": "A 21-year-old woman has multiple painless skin-coloured papules under 5 mm on the vulva and perianal area, with a few raised cauliflower-shaped clusters. Which HPV type most likely caused this?",
+  "options": {
+   "A": "HPV-1",
+   "B": "HPV-6 and 11",
+   "C": "HPV-16",
+   "D": "HPV-18",
+   "E": "HPV-45"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Genital warts (condylomata acuminata) are caused by low-risk HPV types 6 and 11 in about 90% of cases. Types 16 and 18 are high-risk oncogenic types.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01494"
+  ],
+  "stem": "Regarding genital tract infections, which statement is correct?",
+  "options": {
+   "A": "Genital herpes is caused by human papillomavirus 6 and 11",
+   "B": "Genital warts are caused by herpes simplex virus",
+   "C": "Genital warts are treated with a course of antiviral therapy (aciclovir)",
+   "D": "Genital herpes is treated by ablative therapy such as liquid nitrogen or cautery",
+   "E": "Genital warts are treated with topical therapies such as podophyllotoxin and imiquimod"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Genital warts (HPV 6 and 11) are treated with topical podophyllotoxin or imiquimod, or ablation with cryotherapy, cautery or trichloroacetic acid. Genital herpes (HSV) is treated with aciclovir.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00789",
+   "C02765"
+  ],
+  "stem": "A 45-year-old woman has intermenstrual spotting for 2 years and a fixed retroverted uterus with a pelvis that is firmly fixed. Endometrial biopsy shows giant cells and granuloma formation (caseous necrosis). What is the most likely cause?",
+  "options": {
+   "A": "Chlamydial infection",
+   "B": "Gonorrhoea",
+   "C": "Syphilis",
+   "D": "Tuberculosis",
+   "E": "Trichomoniasis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Caseating granulomas with Langhans giant cells on endometrial biopsy are diagnostic of genital tuberculosis; the fixed pelvis reflects adhesions.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01189"
+  ],
+  "stem": "A 30-year-old nulliparous woman has low-grade fever, weight loss, fatigue and lower abdominal pain for 6 months, with BMI 18 kg/m2. Genital tuberculosis is suspected. What is the most common presentation of this condition?",
+  "options": {
+   "A": "Chronic pelvic pain",
+   "B": "Intermenstrual bleeding",
+   "C": "Secondary amenorrhoea",
+   "D": "Subfertility",
+   "E": "Tubo-ovarian mass"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Genital TB mainly involves the fallopian tubes (nearly 100%) and endometrium, and subfertility is the commonest presentation, followed by menstrual disturbance and pelvic pain.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02033"
+  ],
+  "stem": "A 32-year-old nulliparous bartender has had thick vaginal discharge and vulval itching for 1 month. On examination there is no vulval soreness, and thick mucopurulent discharge is seen at the cervix. What is the most likely diagnosis?",
+  "options": {
+   "A": "Candidiasis",
+   "B": "Bacterial vaginosis",
+   "C": "Herpes simplex",
+   "D": "Trichomoniasis",
+   "E": "Chlamydial infection"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Mucopurulent cervicitis without vulval soreness or inflammation points to Chlamydia trachomatis, often with an at-risk sexual history. Candidiasis produces vulval redness, soreness and curdy discharge on the vaginal walls rather than a mucopurulent cervical exudate.",
+  "key_note": "Paper keys were split (A and E); the stem is internally mixed, and E is chosen because of the mucopurulent cervical discharge with no vulval soreness.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01840"
+  ],
+  "stem": "Pelvic inflammatory disease occurs in women because of which of the following features of the fallopian tube?",
+  "options": {
+   "A": "It is a conduit from the peritoneal space to the uterine cavity",
+   "B": "It lies in the utero-ovarian ligament",
+   "C": "It has five separate parts",
+   "D": "It is attached to the ipsilateral ovary by the mesosalpinx",
+   "E": "It is entirely extraperitoneal"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "The fallopian tube opens into the peritoneal cavity at its fimbrial end and into the uterine cavity at the other end, so organisms ascend from the cervix through the uterus and tube into the pelvis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01961",
+   "C02342"
+  ],
+  "stem": "Regarding pelvic inflammatory disease, which statement is correct?",
+  "options": {
+   "A": "Infection most commonly reaches the uterus by the haematogenous route",
+   "B": "Three to five days of antibiotic cover is sufficient to treat PID",
+   "C": "Treatment is started after the culture and sensitivity (HVS) report",
+   "D": "Diagnosis is most commonly made by laparoscopy",
+   "E": "There is ascending infection from the endocervix to the higher reproductive tract"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "PID results from canalicular ascent of organisms (Chlamydia, gonococci, anaerobes) from the endocervix to the endometrium, tubes and pelvis. Diagnosis is clinical, and treatment is empirical for 14 days.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00420",
+   "C01492"
+  ],
+  "stem": "Which organism is the most frequent cause of pelvic inflammatory disease in sexually active women?",
+  "options": {
+   "A": "Klebsiella pneumoniae",
+   "B": "Pseudomonas aeruginosa",
+   "C": "Chlamydia trachomatis",
+   "D": "Treponema pallidum",
+   "E": "Mycoplasma genitalium"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Chlamydia trachomatis (with Neisseria gonorrhoeae and anaerobes) is the commonest identified cause of PID, and often causes silent tubal damage. Neisseria gonorrhoeae was listed instead of Treponema in some variants.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01479",
+   "C01547",
+   "C01346",
+   "C01860",
+   "C01589"
+  ],
+  "stem": "A young woman presents with acute lower abdominal pain and fever (101 F) for 2 days. Examination shows yellowish foul-smelling or mucopurulent cervical discharge, an inflamed cervix and an extremely tender uterus with clear fornices. What is the most likely diagnosis?",
+  "options": {
+   "A": "Pelvic inflammatory disease",
+   "B": "Ectopic pregnancy",
+   "C": "Urinary tract infection",
+   "D": "Acute appendicitis",
+   "E": "Cervical cancer"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Lower abdominal pain, fever, mucopurulent cervicitis and uterine or adnexal tenderness with cervical excitation make the diagnosis of PID.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00718"
+  ],
+  "stem": "A 22-year-old woman has excessive vaginal discharge, lower abdominal pain, tenderness and fever of 38 C. You plan intravenous antibiotics for the likely diagnosis of pelvic inflammatory disease. What is the gold standard to diagnose her condition?",
+  "options": {
+   "A": "Hysteroscopy",
+   "B": "Laparoscopy",
+   "C": "Colposcopy",
+   "D": "High vaginal swab",
+   "E": "Pap smear"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Laparoscopy (visualising tubal erythema, oedema and purulent exudate) is the gold standard for PID, but it is invasive and the diagnosis is usually clinical.",
+  "key_note": "Paper key marked D (high vaginal swab); correct is laparoscopy, as a swab only identifies organisms.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00710",
+   "C01951"
+  ],
+  "stem": "A young woman is diagnosed with pelvic inflammatory disease (lower abdominal pain, vaginal discharge, intermenstrual bleeding) and asks about the consequences. What is the most common complication she is at risk of?",
+  "options": {
+   "A": "Subfertility",
+   "B": "Endometriosis",
+   "C": "Incontinence",
+   "D": "Heavy menstrual bleeding",
+   "E": "Uterine fibroids"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Tubal damage after PID causes tubal factor subfertility (about 10 to 20% after one episode, rising with repeated episodes), ectopic pregnancy and chronic pelvic pain.",
+  "key_note": "One paper marked C (incontinence) on a variant with different options; correct is subfertility.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00178",
+   "C00193",
+   "C02350",
+   "C01471"
+  ],
+  "stem": "A 32-year-old woman attends the gynaecology clinic with excessive vaginal discharge, lower abdominal pain and dyspareunia. She has a fever of 39 C. Which treatment is most appropriate?",
+  "options": {
+   "A": "Oral doxycycline and metronidazole",
+   "B": "Intravenous cephalosporin and metronidazole",
+   "C": "Intravenous penicillin and metronidazole",
+   "D": "Oral cephalosporin and metronidazole",
+   "E": "Oral azithromycin and metronidazole"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "High fever indicates severe PID, which needs admission and parenteral treatment (cephalosporin, such as ceftriaxone, with doxycycline and metronidazole) with a switch to oral therapy after 24 hours of clinical improvement.",
+  "key_note": "One paper key marked A (oral doxycycline and metronidazole), which is regimen for mild to moderate PID; correct is B for a febrile patient.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00209"
+  ],
+  "stem": "A 36-year-old P3 woman presents in casualty with pelvic pain, fever and vaginal discharge. She has nausea and vomiting and cannot tolerate liquids. You admit her. What is the most appropriate antibiotic regimen?",
+  "options": {
+   "A": "Doxycycline 100 mg twice daily for 14 days",
+   "B": "Clindamycin 450 mg IV 8-hourly plus gentamicin 1 mg/kg followed by 1 mg/kg 12-hourly",
+   "C": "Ceftriaxone 250 mg IM plus doxycycline 100 mg orally twice daily for 14 days",
+   "D": "Ofloxacin 400 mg orally twice daily plus metronidazole 500 mg orally twice daily for 14 days",
+   "E": "Intravenous ceftriaxone 2 g, doxycycline 100 mg twice daily and metronidazole 500 mg twice daily"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Vomiting prevents oral therapy, so IV treatment covering gonococci, chlamydia and anaerobes is needed: ceftriaxone, doxycycline and metronidazole. Quinolones are no longer recommended because of gonococcal resistance.",
+  "key_note": "Most paper keys marked D (oral ofloxacin plus metronidazole), which is oral therapy unsuitable for a vomiting patient; one marked E; correct is E.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02032"
+  ],
+  "stem": "A 26-year-old woman with a new partner and no condom use is diagnosed with pelvic inflammatory disease after lower abdominal pain and unusual vaginal discharge. What is the most appropriate treatment?",
+  "options": {
+   "A": "Oral broad-spectrum antibiotics",
+   "B": "Injectable antibiotics for 4 weeks",
+   "C": "Pain management with analgesics",
+   "D": "Bed rest and IV fluids",
+   "E": "Antipyretics"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Mild to moderate PID is treated as an outpatient with oral broad-spectrum antibiotics (for example ceftriaxone IM stat plus doxycycline and metronidazole for 14 days).",
+  "key_note": "The stem does not state severity; the marked key (oral antibiotics) is retained for uncomplicated PID.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02034",
+   "C00119",
+   "C02278",
+   "C02890"
+  ],
+  "stem": "A 30-year-old woman has severe pelvic pain, high-grade fever and vomiting after unprotected intercourse with a new partner. She has marked lower abdominal and bilateral adnexal tenderness and a negative pregnancy test. What is the most appropriate next step in management?",
+  "options": {
+   "A": "Immediate laparoscopy",
+   "B": "Oral antibiotics and follow up",
+   "C": "Injectable antibiotics and hospital admission",
+   "D": "Urine and blood cultures",
+   "E": "Cervical and high vaginal swabs"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Severe PID (high fever, vomiting, marked tenderness) requires admission and parenteral antibiotics without delay; swabs can be taken but should not delay treatment.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00478",
+   "C00051"
+  ],
+  "stem": "A P1 woman presents with purulent vaginal discharge and low-grade fever for 2 weeks. Pulse is 100/min, temperature 99 F, the lower abdomen is tender and ultrasound shows a right tubo-ovarian mass of 5 x 5 cm. What is your management?",
+  "options": {
+   "A": "Advise investigations and recall with reports",
+   "B": "Advise investigations and send home on oral medication",
+   "C": "Admit, investigations and diagnostic laparoscopy",
+   "D": "Admit, IV fluids and injectable antibiotics"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A tubo-ovarian mass with fever and tachycardia is an abscess or complex: admit, give IV fluids and broad-spectrum IV antibiotics, and reassess at 48 to 72 hours before considering drainage.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00213",
+   "C02170",
+   "C00212",
+   "C00083"
+  ],
+  "stem": "A 32-year-old woman has low-grade fever, pelvic pain and lower abdominal fullness for 2 weeks, with a history of PID 6 months ago. There is a tender left adnexal mass, and transvaginal ultrasound shows a 6 x 5 cm thick-walled complex cyst with internal echoes and free fluid, consistent with a tubo-ovarian abscess. She is haemodynamically stable. What is the most appropriate initial management?",
+  "options": {
+   "A": "Immediate surgical drainage of the abscess",
+   "B": "High-dose oral antibiotics for 14 days",
+   "C": "Admit, give IV antibiotics and reassess after 48 hours",
+   "D": "Diagnostic laparoscopy",
+   "E": "Ultrasound-guided drainage under antibiotic cover"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Most tubo-ovarian abscesses under 7 cm respond to IV antibiotics within 48 to 72 hours; drainage is reserved for non-response or larger abscesses.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00318"
+  ],
+  "stem": "A 32-year-old P3+0 woman presents in gynaecology OPD with fever, chills and rigors. Her temperature is 99 F and speculum examination shows foul-smelling yellow vaginal discharge. What will be your immediate step?",
+  "options": {
+   "A": "Pass an IV line and send blood culture",
+   "B": "Start antibiotics",
+   "C": "Supportive therapy",
+   "D": "Admit the patient"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A febrile woman with rigors and offensive discharge may be septic (PID or retained products), so she is admitted first, then IV access, cultures, fluids and IV antibiotics follow.",
+  "key_note": "Source papers conflicted (A in one, D in two, one key E for a non-existent option); the question is ambiguous, and D (admit) is retained as the majority answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00169"
+  ],
+  "stem": "A 46-year-old woman presents to the OPD with lower abdominal pain, dysuria, increased frequency and urgency. Urine routine examination shows 8 to 10 WBC/HPF. What is the first-line management?",
+  "options": {
+   "A": "Oral anticholinergic medication",
+   "B": "Plenty of fluids and antispasmodics",
+   "C": "Pelvic floor exercises for 8 weeks",
+   "D": "Beta-3 agonist",
+   "E": "Oral antibiotics and analgesics for 3 to 5 days"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Dysuria, frequency and urgency with pyuria are acute cystitis, treated with a short course of oral antibiotics (nitrofurantoin, trimethoprim or fosfomycin), fluids and analgesia. Anticholinergics and beta-3 agonists are for overactive bladder after infection is excluded.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01557"
+  ],
+  "stem": "A 50-year-old P5 woman presents with dysuria, increased frequency and urgency of micturition, and occasional leakage of urine for 1 week. What is the first investigation?",
+  "options": {
+   "A": "Blood CP",
+   "B": "Urine R/E",
+   "C": "Urine C/S",
+   "D": "Cystometry",
+   "E": "Cystoscopy"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Urine routine examination (dipstick and microscopy for pus cells, nitrites) is the first and quickest test; culture follows if abnormal or recurrent, and urodynamics only after infection is excluded.",
+  "key_note": "",
+  "figure": ""
+ }
+]

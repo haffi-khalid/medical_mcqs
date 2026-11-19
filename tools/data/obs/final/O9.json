@@ -1,0 +1,1002 @@
+[
+ {
+  "cids": [
+   "C02412"
+  ],
+  "stem": "A nurse asks you about the degrees of hypertension in pregnancy. Which of the following statements is correct?",
+  "options": {
+   "A": "Mild: diastolic BP 90-99 mmHg, systolic BP 150-159 mmHg",
+   "B": "Moderate: diastolic BP 90-99 mmHg, systolic BP 150-159 mmHg",
+   "C": "Severe: diastolic BP 110-120 mmHg, systolic BP 180-189 mmHg",
+   "D": "Moderate: diastolic BP 100-109 mmHg, systolic BP 160-179 mmHg",
+   "E": "Mild: diastolic BP 90-99 mmHg, systolic BP 140-149 mmHg"
+  },
+  "answer": "E",
+  "explanation": "Per NICE/RCOG: mild is 140-149/90-99, moderate 150-159/100-109, and severe is 160/110 or above. The other options mix up the bands.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00865"
+  ],
+  "stem": "A 39-year-old primigravida attends the antenatal clinic at 33 weeks. Her blood pressure is 140/90 mmHg. To diagnose pre-eclampsia, the raised BP should be recorded on 2 different occasions at least how far apart?",
+  "options": {
+   "A": "2 hours",
+   "B": "4 hours",
+   "C": "6 hours",
+   "D": "8 hours",
+   "E": "10 hours"
+  },
+  "answer": "B",
+  "explanation": "Hypertension is confirmed by two readings at least 4 hours apart in a woman previously normotensive.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03035",
+   "C02009"
+  ],
+  "stem": "Regarding pre-eclampsia, significant proteinuria is defined as:",
+  "options": {
+   "A": "100 mg/24 hours",
+   "B": "150 mg/24 hours",
+   "C": "200 mg/24 hours",
+   "D": "250 mg/24 hours",
+   "E": "300 mg/24 hours"
+  },
+  "answer": "E",
+  "explanation": "Significant proteinuria is 300 mg or more in 24 hours (equivalent to a protein:creatinine ratio of 30 mg/mmol or more).",
+  "key_note": "One paper's stem said 'eclampsia'; the intended label is pre-eclampsia (eclampsia means seizures).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00001",
+   "C02442",
+   "C02596",
+   "C02400",
+   "C02870",
+   "C02258"
+  ],
+  "stem": "A 25-year-old G2P1 comes to the OPD at 30 weeks with headache and foot oedema for 2 weeks. BP is 150/105 mmHg, reflexes are normal, and urine dipstick shows 2+ proteinuria. What is the most likely diagnosis?",
+  "options": {
+   "A": "Chronic hypertension",
+   "B": "Eclampsia",
+   "C": "Gestational hypertension",
+   "D": "HELLP syndrome",
+   "E": "Pre-eclampsia"
+  },
+  "answer": "E",
+  "explanation": "New hypertension after 20 weeks with significant proteinuria is pre-eclampsia. No fits means not eclampsia; no haemolysis or low platelets means not HELLP.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02718"
+  ],
+  "stem": "A 24-year-old primigravida presents in the OPD at 31 weeks with raised BP for 2 days. BP is 150/100 mmHg, and 4 hours later it is 140/95 mmHg. Dipstick proteinuria is negative. This is a case of:",
+  "options": {
+   "A": "Pre-eclampsia",
+   "B": "Chronic hypertension",
+   "C": "Essential hypertension",
+   "D": "Pregnancy-induced hypertension",
+   "E": "Chronic hypertension with superimposed pre-eclampsia"
+  },
+  "answer": "D",
+  "explanation": "New hypertension after 20 weeks without proteinuria is gestational (pregnancy-induced) hypertension.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02447"
+  ],
+  "stem": "A 36-year-old multipara with chronic hypertension develops proteinuria at 34 weeks. What is this called?",
+  "options": {
+   "A": "Eclampsia",
+   "B": "Gestational hypertension",
+   "C": "Secondary hypertension",
+   "D": "Superimposed pre-eclampsia",
+   "E": "White coat hypertension"
+  },
+  "answer": "D",
+  "explanation": "New proteinuria (or other organ dysfunction) after 20 weeks in a woman with pre-existing hypertension is superimposed pre-eclampsia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03034",
+   "C01911"
+  ],
+  "stem": "A 31-year-old primigravida attends the antenatal clinic at 22 weeks. She booked 4 weeks ago with no medical history and takes no medication. Today her BP is 145/95 mmHg with no proteinuria. What is the next step in her care?",
+  "options": {
+   "A": "Advise weekly antenatal clinic visits",
+   "B": "Arrange daily home BP checks",
+   "C": "Follow up after 4 weeks in the antenatal clinic",
+   "D": "Immediately admit and treat hypertension",
+   "E": "Repeat the BP check in the antenatal clinic after 4 hours"
+  },
+  "answer": "E",
+  "explanation": "A single raised reading must be confirmed by repeating after about 4 hours before labelling hypertension; there is no urgency at 145/95 without proteinuria.",
+  "key_note": "Some paper keys marked A (start antihypertensive); correct is B, confirm the BP by a repeat reading first.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01054"
+  ],
+  "stem": "Which one of the following is NOT useful for the treatment or prevention of pre-eclampsia?",
+  "options": {
+   "A": "Hydralazine",
+   "B": "Aspirin",
+   "C": "Labetalol",
+   "D": "Methyldopa",
+   "E": "Ranitidine"
+  },
+  "answer": "E",
+  "explanation": "Hydralazine, labetalol and methyldopa treat hypertension and aspirin prevents pre-eclampsia in high-risk women; ranitidine plays no role.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01053"
+  ],
+  "stem": "What is the incidence of pre-eclampsia?",
+  "options": {
+   "A": "2-3%",
+   "B": "25%",
+   "C": "10%",
+   "D": "5-7%",
+   "E": "18%"
+  },
+  "answer": "A",
+  "explanation": "Pre-eclampsia complicates a small minority of pregnancies, about 2-3% in the standard teaching key used here.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01055"
+  ],
+  "stem": "Which of the following is NOT a risk factor for developing pre-eclampsia?",
+  "options": {
+   "A": "Chronic kidney disease",
+   "B": "Autoimmune disease such as SLE",
+   "C": "Chronic hypertension",
+   "D": "Thyroid disease",
+   "E": "Multiple pregnancy"
+  },
+  "answer": "D",
+  "explanation": "Renal disease, SLE, chronic hypertension and multiple pregnancy are recognised risk factors; thyroid disease is not.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01605",
+   "C03162"
+  ],
+  "stem": "A 36-year-old primigravida attends the antenatal clinic at 34 weeks. Her BP is 150/100 mmHg and her urine shows protein. In pre-eclampsia, the proteinuria is due to:",
+  "options": {
+   "A": "Glomerulonephritis",
+   "B": "High glomerular filtration rate",
+   "C": "Increased plasma oncotic pressure",
+   "D": "Glomerular nephritic condition",
+   "E": "Glomerular endotheliosis"
+  },
+  "answer": "E",
+  "explanation": "The renal lesion of pre-eclampsia is glomerular endotheliosis (swollen endothelial cells), which makes the filter leaky and reduces GFR.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00546",
+   "C01896"
+  ],
+  "stem": "While teaching about pregnancy-induced hypertension you mention that physiological renal changes of pregnancy can be differentiated from those due to hypertension. Which test is reliable to assess the effect on renal function in PIH?",
+  "options": {
+   "A": "GFR",
+   "B": "Renal Doppler",
+   "C": "Renal ultrasound",
+   "D": "Plasma creatinine",
+   "E": "Glycosuria"
+  },
+  "answer": "D",
+  "explanation": "Normal pregnancy lowers plasma creatinine (below about 70 micromol/L); a creatinine at non-pregnant levels signals renal involvement, so it is the practical test.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01913"
+  ],
+  "stem": "A 30-year-old G2P1 attends the antenatal clinic at 20 weeks. She had pregnancy-induced hypertension in her first pregnancy. Which investigation helps to predict pre-eclampsia in the present pregnancy at this gestation?",
+  "options": {
+   "A": "Umbilical artery Doppler",
+   "B": "Uterine artery Doppler",
+   "C": "Middle cerebral artery Doppler",
+   "D": "Ductus venosus Doppler",
+   "E": "Ductus arteriosus Doppler"
+  },
+  "answer": "B",
+  "explanation": "Abnormal uterine artery Doppler (notching, high resistance) reflects failed trophoblast invasion and predicts pre-eclampsia and IUGR.",
+  "key_note": "One paper key marked C (middle cerebral artery Doppler); correct is B, uterine artery Doppler.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01106",
+   "C00002",
+   "C03160"
+  ],
+  "stem": "A 29-year-old G2P1+0 at her booking visit at 10 weeks previously delivered at 32 weeks for severe pre-eclampsia. What is the most appropriate decision at this time?",
+  "options": {
+   "A": "Anomaly scan at 20 weeks",
+   "B": "FBC",
+   "C": "MSU analysis",
+   "D": "75 mg aspirin daily",
+   "E": "Call her after one month"
+  },
+  "answer": "D",
+  "explanation": "Previous early-onset severe pre-eclampsia is a high-risk factor, so start low-dose aspirin from 12 weeks until delivery.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03129"
+  ],
+  "stem": "A 26-year-old primigravida attends a routine antenatal visit at 28 weeks. She has a history of hypertension and no symptoms. Her BP is 140/110 mmHg. What is the most appropriate next step?",
+  "options": {
+   "A": "Schedule an elective caesarean section",
+   "B": "Initiate a medication regimen to control hypertension",
+   "C": "Immediate CTG to assess fetal wellbeing",
+   "D": "Advise home BP monitoring",
+   "E": "Recommend a high sodium diet"
+  },
+  "answer": "B",
+  "explanation": "A diastolic BP of 110 mmHg or more needs antihypertensive treatment (labetalol first line); elective caesarean, home monitoring alone or extra salt are inappropriate.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00474",
+   "C02394",
+   "C01014"
+  ],
+  "stem": "A primigravida presents to the OPD at 24-32 weeks with a BP of 140-150/95-100 mmHg. Which antihypertensive is the drug of choice (first line) in pregnancy?",
+  "options": {
+   "A": "Hydralazine",
+   "B": "Labetalol",
+   "C": "Nifedipine",
+   "D": "Methyldopa",
+   "E": "Atenolol"
+  },
+  "answer": "B",
+  "explanation": "Labetalol is the first-line oral agent in pregnancy (NICE/RCOG); nifedipine or methyldopa are alternatives, and atenolol is avoided because of fetal growth restriction.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01512"
+  ],
+  "stem": "A 34-year-old G3P2 attends the antenatal clinic at 30 weeks. Her BP is 150/100 mmHg on two occasions 4 hours apart and she has pedal oedema. Which medication is NOT advisable in her treatment?",
+  "options": {
+   "A": "Hydralazine",
+   "B": "Spironolactone",
+   "C": "Methyldopa",
+   "D": "Nifedipine",
+   "E": "Labetalol"
+  },
+  "answer": "B",
+  "explanation": "Diuretics such as spironolactone are avoided in pre-eclampsia because plasma volume is already contracted; spironolactone is also anti-androgenic to a male fetus.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02742"
+  ],
+  "stem": "A non-booked G2P1 comes to the OPD at 28 weeks. She has chronic hypertension and takes atenolol. What is the most likely fetal complication?",
+  "options": {
+   "A": "Cardiac defects",
+   "B": "Growth restriction",
+   "C": "Neural tube defects",
+   "D": "Skeletal defects",
+   "E": "Urogenital defects"
+  },
+  "answer": "B",
+  "explanation": "Beta-blockers, particularly atenolol, are associated with fetal growth restriction, and chronic hypertension itself impairs placental perfusion.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01703"
+  ],
+  "stem": "A G3P2 presents to the OPD at 24 weeks with BP 160/110 mmHg and 2+ proteinuria. In the course of this pregnancy the fetus is at risk of:",
+  "options": {
+   "A": "Macrosomia",
+   "B": "IUGR",
+   "C": "Cardiac defects",
+   "D": "Skeletal defects",
+   "E": "Anaemia"
+  },
+  "answer": "B",
+  "explanation": "Poor placentation in pre-eclampsia causes uteroplacental insufficiency and fetal growth restriction.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01513"
+  ],
+  "stem": "A 21-year-old primigravida at 32 weeks has had raised BP since 20 weeks. BP is 140/90 mmHg, oedema +1, fundal height 28 cm, longitudinal cephalic with FHR 136/min. What is the most probable cause of fundal height less than dates?",
+  "options": {
+   "A": "Mistaken dates",
+   "B": "Congenital abnormality",
+   "C": "Intrauterine growth restriction",
+   "D": "Abnormal lie",
+   "E": "Oligohydramnios"
+  },
+  "answer": "C",
+  "explanation": "Hypertensive disease reduces uteroplacental flow causing growth restriction; the lie is longitudinal and no other cause is suggested.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00959"
+  ],
+  "stem": "A 29-year-old G4P3 at 36 weeks has gestational hypertension controlled on methyldopa and no proteinuria. Ultrasound shows an SGA fetus with absent end-diastolic flow in the umbilical artery. Delivery is planned. What is the next step?",
+  "options": {
+   "A": "Administer corticosteroids",
+   "B": "Administer magnesium sulphate for fetal neuroprotection",
+   "C": "Commence intravenous antibiotics",
+   "D": "Commence additional antihypertensives",
+   "E": "Commence oral antibiotics"
+  },
+  "answer": "A",
+  "explanation": "With delivery planned for severe fetal compromise, antenatal corticosteroids are given for lung maturity; magnesium neuroprotection is for under 30-32 weeks and antibiotics are not indicated.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00583"
+  ],
+  "stem": "A 36-year-old primigravida attends the antenatal clinic at 26 weeks. Her BP is 140/100 mmHg. Which test will you advise immediately to exclude pre-eclampsia?",
+  "options": {
+   "A": "CBC",
+   "B": "SGOT",
+   "C": "Serum uric acid",
+   "D": "Urine for protein",
+   "E": "Protein creatinine ratio"
+  },
+  "answer": "D",
+  "explanation": "Pre-eclampsia is defined by hypertension plus proteinuria, so a urine protein test is done first (dipstick, then quantification).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01013",
+   "C01502"
+  ],
+  "stem": "A primigravida presents at 32-34 weeks with BP 150/100 mmHg and 1-2+ proteinuria. Which next investigation will you advise?",
+  "options": {
+   "A": "Random blood glucose",
+   "B": "Cystoscopy",
+   "C": "Intravenous urography (IVU)",
+   "D": "24-hour urinary protein",
+   "E": "Serum uric acid"
+  },
+  "answer": "D",
+  "explanation": "Dipstick proteinuria is quantified, classically by a 24-hour urine collection (a spot protein:creatinine ratio is the modern quicker alternative).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03036"
+  ],
+  "stem": "A 32-year-old G3P1+1 is admitted with BP 170/115 mmHg and 3+ proteinuria on dipstick. What is the quickest and most convenient method to quantify her proteinuria?",
+  "options": {
+   "A": "24-hour urinary protein collection",
+   "B": "Urinary protein:creatinine ratio",
+   "C": "Urine dipstick twice daily",
+   "D": "Boiling urine to assess proteinuria",
+   "E": "6-hour protein estimation"
+  },
+  "answer": "B",
+  "explanation": "A spot protein:creatinine ratio (30 mg/mmol or more is significant) is quick and correlates well with 24-hour excretion.",
+  "key_note": "One paper marked both B and C; correct is B.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01776",
+   "C02850"
+  ],
+  "stem": "Which symptom in a woman with pregnancy-induced hypertension is most worrisome?",
+  "options": {
+   "A": "Blurring of vision",
+   "B": "Exertional dyspnoea",
+   "C": "Heartburn",
+   "D": "Nocturia",
+   "E": "Swollen ankles"
+  },
+  "answer": "A",
+  "explanation": "Visual disturbance, severe headache and epigastric pain are warning symptoms of impending eclampsia; ankle oedema, nocturia and heartburn are common in normal pregnancy.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01678",
+   "C02720"
+  ],
+  "stem": "A primigravida presents in the emergency department at 32 weeks with BP 170/120 mmHg and headache. She is at risk of:",
+  "options": {
+   "A": "Placental abruption",
+   "B": "Cord prolapse",
+   "C": "Increased blood sugar levels",
+   "D": "Subdural haematoma",
+   "E": "Pulmonary embolism"
+  },
+  "answer": "A",
+  "explanation": "Severe hypertension predisposes to placental abruption (and eclampsia, stroke and HELLP); the other options are unrelated.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02719",
+   "C02403"
+  ],
+  "stem": "A 25-year-old primigravida at 34 weeks is brought in with blurring of vision and headache. BP is 160/110 mmHg, oedema ++ and reflexes brisk. SFH corresponds to dates, lie longitudinal, FHR 145/min. Which complication do you anticipate?",
+  "options": {
+   "A": "Eclampsia",
+   "B": "HELLP syndrome",
+   "C": "Intrauterine fetal demise",
+   "D": "Placental abruption",
+   "E": "Preterm labour"
+  },
+  "answer": "A",
+  "explanation": "Headache, visual symptoms and brisk reflexes herald imminent eclampsia (seizures); there are no haemolysis, liver or bleeding features.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02535"
+  ],
+  "stem": "A woman at 34 weeks has BP 170/115 mmHg, severe headache and visual disturbance. Urine dipstick shows 2+ protein. What is the immediate concern?",
+  "options": {
+   "A": "Eclampsia",
+   "B": "Mild gestational hypertension",
+   "C": "Normal physiological change",
+   "D": "Chronic hypertension",
+   "E": "Severe pre-eclampsia"
+  },
+  "answer": "E",
+  "explanation": "BP of 160/110 or more with proteinuria and symptoms is severe pre-eclampsia, which carries a risk of imminent eclampsia.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01121",
+   "C01683"
+  ],
+  "stem": "Eclampsia is defined as pregnancy with hypertension complicated by:",
+  "options": {
+   "A": "Grand mal seizures",
+   "B": "Hyper-reflexia",
+   "C": "Right hypochondrial pain",
+   "D": "Severe headache",
+   "E": "Visual scotomata"
+  },
+  "answer": "A",
+  "explanation": "Eclampsia is the occurrence of generalised tonic-clonic seizures in a woman with pre-eclampsia; the other features are warning signs.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00941"
+  ],
+  "stem": "Eclampsia occurs most commonly during:",
+  "options": {
+   "A": "The 2nd trimester",
+   "B": "The 3rd trimester",
+   "C": "Labour",
+   "D": "Within 24 hours after delivery",
+   "E": "From 24 hours to 10 days after delivery"
+  },
+  "answer": "B",
+  "explanation": "Most eclamptic fits are antepartum (about half, in the third trimester), with roughly 20% intrapartum and 25-30% postpartum.",
+  "key_note": "Source paper marked D (within 24 hours after delivery); correct is B, as antepartum fits are the commonest.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00626"
+  ],
+  "stem": "A 40-year-old nulliparous woman is 4 hours postnatal after a vaginal delivery at 39 weeks. She had PIH, 3+ proteinuria and BP 150/90 mmHg. While changing her baby she collapses with generalised tonic-clonic seizures. The cause is:",
+  "options": {
+   "A": "Pulmonary embolism",
+   "B": "Hypoglycaemia",
+   "C": "Epilepsy",
+   "D": "Eclampsia",
+   "E": "Vasovagal syncope"
+  },
+  "answer": "D",
+  "explanation": "Seizures in a woman with pre-eclampsia are eclampsia until proven otherwise, and it may occur postnatally.",
+  "key_note": "Not marked on one copy; other copies marked D.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01085"
+  ],
+  "stem": "A 35-year-old G4P3 at 32+5 weeks has epigastric pain, headache and absent fetal movements. She had PIH in a previous pregnancy. Scan shows reduced liquor and absent cardiac activity. BP is 190/120 mmHg and urine protein ++. The most likely cause of IUFD is:",
+  "options": {
+   "A": "Pre-eclampsia",
+   "B": "HELLP syndrome",
+   "C": "Viral infection",
+   "D": "Congenital anomaly",
+   "E": "Oligohydramnios"
+  },
+  "answer": "A",
+  "explanation": "Severe pre-eclampsia causes placental insufficiency and fetal death; oligohydramnios is a result, not the cause.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01606"
+  ],
+  "stem": "A 22-year-old primigravida at 34 weeks has high BP. Investigations show elevated liver enzymes and low platelets. What is the third factor in the triad to diagnose HELLP?",
+  "options": {
+   "A": "Haemolysis",
+   "B": "Haemorrhage",
+   "C": "High uric acid",
+   "D": "High creatinine",
+   "E": "High urea"
+  },
+  "answer": "A",
+  "explanation": "HELLP stands for Haemolysis, Elevated Liver enzymes, Low Platelets.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02446"
+  ],
+  "stem": "A 32-year-old woman with pre-eclampsia develops sudden epigastric pain and right upper quadrant tenderness. What complication is suspected?",
+  "options": {
+   "A": "Acute fatty liver",
+   "B": "Eclampsia",
+   "C": "HELLP syndrome",
+   "D": "Placental abruption",
+   "E": "Renal failure"
+  },
+  "answer": "C",
+  "explanation": "Epigastric or RUQ pain in pre-eclampsia reflects hepatic involvement and should prompt a search for HELLP.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00475",
+   "C02885",
+   "C02273",
+   "C02748"
+  ],
+  "stem": "A 32-year-old G2P1 at 36 weeks presents with epigastric pain. Her first pregnancy was complicated by pre-eclampsia. BP is 160/120 mmHg, pulse 80/min, afebrile, abdomen soft with mild epigastric tenderness. Investigations: Hb 8 g/dl, platelets 40 x 10^9/L, ALT 170 IU/L, urine protein +++. What is the most probable diagnosis?",
+  "options": {
+   "A": "Pre-eclampsia",
+   "B": "Eclampsia",
+   "C": "HELLP syndrome",
+   "D": "Acute fatty liver of pregnancy",
+   "E": "Placental abruption"
+  },
+  "answer": "C",
+  "explanation": "Hypertension and proteinuria with anaemia (haemolysis), raised ALT and thrombocytopenia is HELLP syndrome.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01774",
+   "C02848",
+   "C01975"
+  ],
+  "stem": "A primigravida at 35 weeks presents with headache. BP is 160/100 mmHg with 3+ proteinuria. SGOT 80 IU/l, SGPT 100 IU/l, bilirubin 0.2 mg/dl, glucose 90 mg/dl, Hb 12 g/dl, platelets 120,000/cmm. What is the most likely diagnosis?",
+  "options": {
+   "A": "Acute fatty liver",
+   "B": "Acute hepatitis",
+   "C": "HELLP syndrome",
+   "D": "Obstetric cholestasis",
+   "E": "Pre-eclampsia"
+  },
+  "answer": "E",
+  "explanation": "Hypertension with proteinuria and only mildly raised transaminases, normal Hb and platelets above 100,000 is pre-eclampsia, not yet HELLP (which needs haemolysis and platelets below 100,000).",
+  "key_note": "One paper key marked A (HELLP syndrome); correct is pre-eclampsia, since platelets and Hb are normal.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03085"
+  ],
+  "stem": "A 35-year-old G3P1+1 at 30 weeks presents with jaundice, headache, nausea, vomiting, epigastric pain and disorientation. BP is 140/100 mmHg, urine dipstick ++, ALT 1157 IU/ml, AST 1262 IU/ml, blood sugar 45 mg/dl, INR 4. Ultrasound shows a single live fetus with fundal placenta and adequate liquor. Most likely diagnosis?",
+  "options": {
+   "A": "Acute fatty liver",
+   "B": "Cholecystitis",
+   "C": "Placental abruption",
+   "D": "Pre-eclampsia",
+   "E": "Peptic ulcer"
+  },
+  "answer": "A",
+  "explanation": "Jaundice, hypoglycaemia, coagulopathy (INR 4), encephalopathy and very high transaminases with only mild hypertension indicate acute fatty liver of pregnancy.",
+  "key_note": "Paper marked D (pre-eclampsia); correct is A, acute fatty liver of pregnancy, given hypoglycaemia, INR 4 and marked hepatic failure.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00536",
+   "C01775",
+   "C02849",
+   "C00822",
+   "C02294",
+   "C02902"
+  ],
+  "stem": "Mrs XYZ is brought to the ER at 35 weeks with blurring of vision and altered consciousness. BP is 160/120 mmHg with brisk reflexes. What is the drug of choice according to NICE guidelines for control of BP?",
+  "options": {
+   "A": "Nifedipine",
+   "B": "Hydralazine",
+   "C": "Labetalol",
+   "D": "Methyldopa",
+   "E": "Frusemide"
+  },
+  "answer": "C",
+  "explanation": "NICE recommends labetalol as first-line treatment for severe hypertension in pregnancy (nifedipine or hydralazine are alternatives).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00820"
+  ],
+  "stem": "Which of the following statements accurately describes the use of magnesium sulphate in pre-eclampsia?",
+  "options": {
+   "A": "Phenytoin is equivalent to magnesium sulphate in preventing eclampsia",
+   "B": "Only women who have had an eclamptic seizure should receive this medication",
+   "C": "Women with non-severe disease should receive magnesium sulphate during labour",
+   "D": "Magnesium sulphate reduces the risk of eclampsia by 58% in women with severe pre-eclampsia",
+   "E": "The antidote of magnesium sulphate is sodium bicarbonate"
+  },
+  "answer": "D",
+  "explanation": "The Magpie trial showed about 58% reduction in eclampsia with magnesium sulphate; it is superior to phenytoin, is given for severe disease, and calcium gluconate is the antidote.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01509",
+   "C01912",
+   "C02603",
+   "C00537",
+   "C02536",
+   "C01777",
+   "C02613",
+   "C02283",
+   "C02894"
+  ],
+  "stem": "A 29-year-old primigravida attends the emergency department at 35 weeks with headache, blurring of vision and epigastric pain. BP is 170/110 mmHg with hyper-reflexia. Which medication should be given immediately to prevent deterioration (fits)?",
+  "options": {
+   "A": "Diazepam",
+   "B": "Calcium gluconate",
+   "C": "Sodium valproate",
+   "D": "Phenytoin",
+   "E": "Magnesium sulphate"
+  },
+  "answer": "E",
+  "explanation": "Severe pre-eclampsia with neurological symptoms needs magnesium sulphate immediately to prevent eclampsia, along with BP control.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02537"
+  ],
+  "stem": "A woman at 37 weeks has severe pre-eclampsia despite appropriate stabilisation. Which definitive treatment is generally required?",
+  "options": {
+   "A": "Antibiotics alone",
+   "B": "Bed rest until 42 weeks",
+   "C": "Continue pregnancy indefinitely",
+   "D": "Delivery after maternal stabilisation",
+   "E": "Oral iron alone"
+  },
+  "answer": "D",
+  "explanation": "Delivery of the placenta is the only cure; at 37 weeks with severe disease the woman is stabilised and then delivered.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03122"
+  ],
+  "stem": "A 26-year-old primigravida at 36 weeks has severe pre-eclampsia: BP 170/110 mmHg, 3+ proteinuria, headaches and visual disturbances since morning. Which is the most appropriate initial management of the options given?",
+  "options": {
+   "A": "Administer corticosteroids and plan for delivery",
+   "B": "Give furosemide to manage her blood pressure",
+   "C": "Start labetalol to control blood pressure",
+   "D": "Give aspirin to reduce the risk of progression",
+   "E": "Proceed to emergency caesarean section"
+  },
+  "answer": "C",
+  "explanation": "Severe hypertension is treated urgently with labetalol to prevent stroke; steroids are not needed at 36 weeks, diuretics are harmful, and aspirin is preventive only.",
+  "key_note": "Magnesium sulphate (also indicated) is not among the options; the marked answer, labetalol, is the best of those offered.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01682"
+  ],
+  "stem": "You are about to deliver a woman whose BP is 160/100 mmHg. Which of the following medications should NOT be given?",
+  "options": {
+   "A": "Oxytocin",
+   "B": "MgSO4",
+   "C": "Ergometrine",
+   "D": "Labetalol",
+   "E": "Hydralazine"
+  },
+  "answer": "C",
+  "explanation": "Ergometrine causes vasoconstriction and can precipitate a hypertensive crisis; oxytocin is used for the third stage in hypertensive women.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02007",
+   "C00916",
+   "C02445"
+  ],
+  "stem": "A woman is receiving magnesium sulphate for eclampsia. What is the earliest clinical sign of magnesium toxicity?",
+  "options": {
+   "A": "Absent patellar (deep tendon) reflex",
+   "B": "Cardiac arrest",
+   "C": "Decreased respiratory rate",
+   "D": "Decreased heart rate",
+   "E": "Reduced urine output"
+  },
+  "answer": "A",
+  "explanation": "Loss of patellar reflexes appears first (at about 8-10 mmol/L), before respiratory depression and cardiac arrest, so reflexes are checked hourly.",
+  "key_note": "One paper key marked dyspnoea; correct is loss of deep tendon reflexes.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02008"
+  ],
+  "stem": "Mrs XYZ at 35 weeks with BP 160/120 mmHg and brisk reflexes is started on MgSO4. What is the antidote for magnesium toxicity?",
+  "options": {
+   "A": "Diazepam",
+   "B": "Calcium chloride",
+   "C": "Calcium gluconate",
+   "D": "Protamine sulphate",
+   "E": "Naloxone"
+  },
+  "answer": "C",
+  "explanation": "10 ml of 10% calcium gluconate IV over 10 minutes reverses magnesium toxicity.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02791"
+  ],
+  "stem": "A 27-year-old G2P1 who is receiving IV magnesium for eclampsia goes into apnoea. What will you do next?",
+  "options": {
+   "A": "Continue magnesium, send magnesium level and give calcium gluconate",
+   "B": "Continue magnesium, give frusemide",
+   "C": "Stop magnesium and give calcium gluconate",
+   "D": "Stop magnesium and start theophylline infusion",
+   "E": "Stop magnesium, start ambu bagging and give calcium gluconate"
+  },
+  "answer": "E",
+  "explanation": "Apnoea from magnesium toxicity needs immediate stopping of the infusion, ventilatory support (ambu bag) and IV calcium gluconate.",
+  "key_note": "Paper marked C (stop magnesium and give calcium gluconate); E is better as it also secures ventilation.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02802"
+  ],
+  "stem": "A 23-year-old primigravida at 34 weeks is admitted with eclampsia after a generalised tonic-clonic seizure. Which is the correct standard IV regimen of magnesium sulphate?",
+  "options": {
+   "A": "4 g IV bolus then 1 g/hour IV infusion for 24 hours",
+   "B": "4 g IV bolus then 2 g/hour IV infusion for 24 hours",
+   "C": "6 g IV bolus then 2 g/hour IV infusion for 24 hours",
+   "D": "10 g IV bolus then 1 g/hour IV infusion for 12 hours",
+   "E": "5 g IV bolus plus 5 g IV every 8 hours for 48 hours"
+  },
+  "answer": "A",
+  "explanation": "The Magpie/NICE regimen is a 4 g IV loading dose over 5-10 minutes then 1 g/hour for 24 hours after the last seizure.",
+  "key_note": "One paper key marked B (2 g/hour); the standard maintenance is 1 g/hour.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02444"
+  ],
+  "stem": "A 29-year-old woman with pre-eclampsia on magnesium sulphate has urine output below 30 ml/hour. What is the next step?",
+  "options": {
+   "A": "Increase IV fluids",
+   "B": "Induce labour",
+   "C": "Perform caesarean section",
+   "D": "Start a diuretic",
+   "E": "Stop magnesium sulphate"
+  },
+  "answer": "E",
+  "explanation": "Magnesium is excreted by the kidney, so oliguria risks toxicity; the infusion is stopped or reduced and the level checked. Fluids are restricted in pre-eclampsia to avoid pulmonary oedema.",
+  "key_note": "Some paper keys marked A (increase IV fluids) or C; correct is E.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01607",
+   "C02443",
+   "C03097",
+   "C01643",
+   "C01068",
+   "C01105",
+   "C02006",
+   "C02282",
+   "C02893"
+  ],
+  "stem": "A primigravida with BP 160-170/110 mmHg develops tonic-clonic convulsions (eclampsia). Which drug is given first to control the convulsions?",
+  "options": {
+   "A": "Phenytoin",
+   "B": "Magnesium sulphate",
+   "C": "Diazepam",
+   "D": "Paraldehyde",
+   "E": "Magnesium gluconate"
+  },
+  "answer": "B",
+  "explanation": "Magnesium sulphate is the anticonvulsant of choice for eclampsia, superior to diazepam and phenytoin.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01150"
+  ],
+  "stem": "A 30-year-old primigravida at 39 weeks presents with generalised tonic-clonic seizures for the last 2 hours. BP is 170/120 mmHg and urine protein 3+. What is the first step of management?",
+  "options": {
+   "A": "Anticonvulsant drugs",
+   "B": "Antihypertensive drugs",
+   "C": "Counselling attendants about a high-risk case",
+   "D": "Immediate delivery of the fetus",
+   "E": "Maintenance of airway, breathing and circulation"
+  },
+  "answer": "E",
+  "explanation": "The first step in any emergency is ABC, then anticonvulsant (MgSO4), BP control and planned delivery.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02638"
+  ],
+  "stem": "A 36-year-old G3P2 at 34+2 weeks with PIH, non-compliant with antihypertensives, is brought to ER in seizures with BP 210/140 mmHg. The ER staff call for help and start the obstetric emergency algorithm. What is the next appropriate step?",
+  "options": {
+   "A": "Turn to left lateral",
+   "B": "Treat the hypertension",
+   "C": "Start CPR",
+   "D": "Confirm fetal heart",
+   "E": "Shift for caesarean section"
+  },
+  "answer": "A",
+  "explanation": "In an eclamptic fit, first protect the airway and position the woman in the left lateral position to avoid aortocaval compression and aspiration, then give magnesium and treat BP.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02393",
+   "C00670",
+   "C02610"
+  ],
+  "stem": "A G2P1 is brought to ER at 34 weeks unconscious with tonic-clonic convulsions. BP is 160/100 mmHg. What is the next step in management?",
+  "options": {
+   "A": "Admit and observe the patient",
+   "B": "Maintain IV line and start MgSO4 and labetalol",
+   "C": "Send investigations and observe her",
+   "D": "Start hydralazine and wait till she regains consciousness",
+   "E": "Perform USG for fetal wellbeing"
+  },
+  "answer": "B",
+  "explanation": "Eclampsia needs IV access with magnesium sulphate to stop fits and an antihypertensive for BP control; observation alone is dangerous.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03123"
+  ],
+  "stem": "A 30-year-old G4P3 at 36 weeks is received unconscious after a tonic-clonic seizure at home. Pre-eclampsia was diagnosed 2 weeks ago. BP is 175/110 mmHg, Bishop score is 2 and ultrasound is normal. What is the most appropriate initial management?",
+  "options": {
+   "A": "Immediate induction of labour",
+   "B": "Give inj labetalol and steroids",
+   "C": "Stabilise the mother and proceed to emergency LSCS",
+   "D": "Maintain IV line and send baseline investigations",
+   "E": "Perform an urgent caesarean section"
+  },
+  "answer": "C",
+  "explanation": "After an eclamptic seizure, stabilise (airway, magnesium sulphate, BP control) and then deliver; with an unfavourable cervix (Bishop 2) caesarean is the route.",
+  "key_note": "Magnesium sulphate is not listed among the options; the marked answer is kept as best of those offered.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02800"
+  ],
+  "stem": "A 35-year-old G3P2 at 30 weeks has persistent severe frontal headache and sudden visual disturbances. BP is 174/116 mmHg, proteinuria +2, hyperreflexia with clonus. Ultrasound shows a live fetus with absent end-diastolic flow in the umbilical artery. What is the single best next step?",
+  "options": {
+   "A": "IV labetalol and continue the pregnancy with close surveillance",
+   "B": "Corticosteroids for lung maturity and reassess in 48 hours",
+   "C": "Start magnesium sulphate infusion and arrange for delivery",
+   "D": "Elective caesarean at 37 weeks if the maternal condition stabilises",
+   "E": "Observe for neurological deterioration before deciding on delivery"
+  },
+  "answer": "C",
+  "explanation": "Severe pre-eclampsia with neurological signs and AEDF requires magnesium sulphate and delivery after stabilisation.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02801"
+  ],
+  "stem": "A 29-year-old primigravida at 36 weeks with eclampsia on magnesium sulphate and antihypertensives has a cardiorespiratory arrest. CPR is started and after 3 minutes there is no return of spontaneous circulation. What is the single best next step?",
+  "options": {
+   "A": "Continue maternal CPR and await the anaesthesia team for possible intubation",
+   "B": "Start inotropes while continuing compressions and reassess after 5 minutes",
+   "C": "Perform perimortem caesarean section immediately at the bedside",
+   "D": "Call the obstetric team to start laparotomy within 5 minutes of arrest",
+   "E": "Terminate resuscitation after 4 minutes if no response"
+  },
+  "answer": "C",
+  "explanation": "In maternal arrest at 20 weeks or more, perimortem caesarean should start by 4 minutes and deliver by 5 minutes to relieve aortocaval compression and aid resuscitation.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02448"
+  ],
+  "stem": "A 25-year-old woman with pre-eclampsia has a BP of 150/90 mmHg 24 hours postpartum. What is the next best step?",
+  "options": {
+   "A": "Continue monitoring",
+   "B": "Discharge the patient",
+   "C": "Give a diuretic",
+   "D": "Perform CTG",
+   "E": "Start antihypertensive therapy"
+  },
+  "answer": "A",
+  "explanation": "Postnatal antihypertensive treatment is started at 150/100 mmHg or higher (NICE); at 150/90 continue monitoring.",
+  "key_note": "Keys differed (E in one, A in others); A is kept since 150/90 is below the 150/100 treatment threshold.",
+  "figure": ""
+ }
+]

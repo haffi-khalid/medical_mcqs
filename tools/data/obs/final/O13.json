@@ -1,0 +1,978 @@
+[
+ {
+  "cids": [
+   "C00823"
+  ],
+  "stem": "Elective caesarean deliveries are increasingly being performed for what indication?",
+  "options": {
+   "A": "Prevention of pelvic floor injury",
+   "B": "Placental abruption",
+   "C": "Maternal request",
+   "D": "Fetal distress",
+   "E": "Eclampsia"
+  },
+  "answer": "C",
+  "explanation": "The rising elective caesarean rate is driven largely by maternal request; abruption, fetal distress and eclampsia are emergency indications.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01828"
+  ],
+  "stem": "Which of the following reasons for performing caesarean section contributes least to the total caesarean section rate?",
+  "options": {
+   "A": "Malpresentation",
+   "B": "Placenta praevia",
+   "C": "Previous caesarean section",
+   "D": "Dystocia",
+   "E": "Suspected fetal compromise"
+  },
+  "answer": "B",
+  "explanation": "Placenta praevia is uncommon, so it contributes least; repeat section, dystocia and fetal compromise are the biggest contributors.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01690"
+  ],
+  "stem": "A G2P1 has one previous classical caesarean section. Which of the following is a possible indication for a classical caesarean section?",
+  "options": {
+   "A": "Preterm delivery with a well-formed lower segment",
+   "B": "Rupture of membranes at term",
+   "C": "Transverse lie with the back inferior",
+   "D": "Large fundal fibroid",
+   "E": "Severe adhesions involving the fundus of the uterus"
+  },
+  "answer": "C",
+  "explanation": "A classical (vertical upper segment) incision is used when the lower segment is inaccessible or poorly formed, e.g. transverse lie with the back down, where a transverse lower segment incision would not allow safe delivery.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00292",
+   "C00448"
+  ],
+  "stem": "Which is the preferred skin incision for a primary caesarean section?",
+  "options": {
+   "A": "Lanz incision",
+   "B": "McBurney incision",
+   "C": "Pfannenstiel incision",
+   "D": "Rutherford Morrison incision",
+   "E": "Midline incision"
+  },
+  "answer": "C",
+  "explanation": "The Pfannenstiel (transverse suprapubic) incision gives better cosmesis, less pain and fewer wound complications and hernias than a midline incision.",
+  "key_note": "One source variant with option C missing was marked E (Midline); correct is C: Pfannenstiel is the usual incision for primary section.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00590"
+  ],
+  "stem": "During an LSCS your junior asks why the incision is made in the lower uterine segment. What is the best explanation?",
+  "options": {
+   "A": "Easily accessible part",
+   "B": "Less vascular",
+   "C": "Easy to stitch",
+   "D": "Most muscular part",
+   "E": "Less chance of adhesion formation"
+  },
+  "answer": "B",
+  "explanation": "The lower segment is thin and relatively avascular, so there is less blood loss, easier healing and a stronger scar than the contractile upper segment.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03051"
+  ],
+  "stem": "A patient at 38 weeks gestation is undergoing caesarean section for breech presentation. Which uterine incision should be given?",
+  "options": {
+   "A": "Curvilinear (transverse) incision in the lower uterine segment",
+   "B": "Inverted T incision in the lower uterine segment",
+   "C": "Vertical incision in the lower uterine segment",
+   "D": "Transverse incision at the junction of the upper and lower uterine segment",
+   "E": "Vertical incision in the upper segment"
+  },
+  "answer": "A",
+  "explanation": "At 38 weeks the lower segment is well formed, so the standard low transverse (curvilinear) lower segment incision is used even for breech.",
+  "key_note": "Sources conflict (one marked A, another D); correct is A, the routine low transverse lower segment incision.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03052"
+  ],
+  "stem": "A G3P2 is undergoing caesarean section for fetal distress. Which suture will you use to close the uterine incision?",
+  "options": {
+   "A": "Chromic catgut 0",
+   "B": "Chromic catgut 1-0",
+   "C": "Polypropylene 1",
+   "D": "Polyglactin 1",
+   "E": "Silk 1"
+  },
+  "answer": "D",
+  "explanation": "A delayed-absorbable synthetic suture such as polyglactin (Vicryl) 1 is preferred for uterine closure; silk and permanent sutures are not used.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00672"
+  ],
+  "stem": "A 34-year-old G2P1 is scheduled for elective caesarean section at 38 weeks for placenta praevia under spinal anaesthesia. Her last meal was 3 hours ago. Which is the most appropriate pharmacological measure to reduce the risk of aspiration?",
+  "options": {
+   "A": "Prescribe oral domperidone 1 hour before surgery",
+   "B": "Administer IV metoclopramide pre-operatively",
+   "C": "Avoid fluids pre-operatively and proceed without medications",
+   "D": "Administer oral ranitidine the night before only",
+   "E": "Administer IV omeprazole after surgery"
+  },
+  "answer": "B",
+  "explanation": "Aspiration prophylaxis comprises an antacid or H2 blocker plus a prokinetic such as IV metoclopramide given pre-operatively; of the options, B is the only appropriate one.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02482"
+  ],
+  "stem": "During caesarean section under spinal anaesthesia, the patient complains of shoulder pain and breathlessness. What is the likely cause?",
+  "options": {
+   "A": "Anxiety",
+   "B": "Aspiration",
+   "C": "High spinal block",
+   "D": "Hypotension",
+   "E": "Pulmonary embolism"
+  },
+  "answer": "C",
+  "explanation": "A high spinal block affects the cervical segments and respiratory muscles, causing dyspnoea and shoulder or arm symptoms; it needs airway support.",
+  "key_note": "One duplicate scan marked E (Pulmonary embolism); correct is C, high spinal block.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02483"
+  ],
+  "stem": "A patient develops severe headache after spinal anaesthesia, worse on sitting up. What is the probable cause?",
+  "options": {
+   "A": "Hypotension",
+   "B": "Intracranial bleed",
+   "C": "Meningitis",
+   "D": "Migraine",
+   "E": "Post-dural puncture headache"
+  },
+  "answer": "E",
+  "explanation": "Postural headache relieved on lying flat after dural puncture is typical of CSF leak (post-dural puncture headache).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02813"
+  ],
+  "stem": "A 27-year-old undergoes an uncomplicated LSCS under spinal anaesthesia and is stable. Which is the most appropriate component of routine postoperative care to reduce maternal morbidity?",
+  "options": {
+   "A": "Keep the patient nil per oral for 24 hours",
+   "B": "Early mobilisation and prophylactic low-molecular-weight heparin",
+   "C": "Routine antibiotic therapy for 10 days after surgery",
+   "D": "Delay breastfeeding until the wound has healed",
+   "E": "Remove urinary catheter after 72 hours to prevent urinary retention"
+  },
+  "answer": "B",
+  "explanation": "Early mobilisation with thromboprophylaxis reduces VTE; early feeding, early breastfeeding and early catheter removal (about 12-24 h) are encouraged, and routine prolonged antibiotics are not needed.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02479"
+  ],
+  "stem": "A 28-year-old woman undergoes caesarean section for fetal distress. On postoperative day 3 she presents with fever and wound discharge. What is the most likely diagnosis?",
+  "options": {
+   "A": "Endometritis",
+   "B": "Pelvic abscess",
+   "C": "Sepsis",
+   "D": "UTI",
+   "E": "Wound infection"
+  },
+  "answer": "E",
+  "explanation": "Fever with wound discharge around day 3-5 indicates surgical site infection; endometritis would present with uterine tenderness and offensive lochia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00989"
+  ],
+  "stem": "A 40-year-old G6P5 at 41 weeks with obstructed labour and BMI 37 kg/m2 undergoes emergency LSCS. Which postoperative condition is she most likely to develop given her risk factors?",
+  "options": {
+   "A": "Puerperal blues",
+   "B": "Sciatica",
+   "C": "Breast engorgement",
+   "D": "Urinary tract infection",
+   "E": "Venous thromboembolism"
+  },
+  "answer": "E",
+  "explanation": "Age over 35, high parity, obesity, emergency caesarean and prolonged labour are all major VTE risk factors, so thromboprophylaxis is mandatory.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00876",
+   "C02990"
+  ],
+  "stem": "What is the most common organ damaged in repeat caesarean sections?",
+  "options": {
+   "A": "Uterus",
+   "B": "Bladder",
+   "C": "Ureter",
+   "D": "Bowel",
+   "E": "Omentum"
+  },
+  "answer": "B",
+  "explanation": "Adhesions pull the bladder up over the lower segment, so the bladder is the organ most often injured at repeat section.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03131"
+  ],
+  "stem": "A 32-year-old G2P1 in labour has an emergency caesarean section; her previous section was for fetal distress. At surgery there are significant adhesions between the bladder and lower uterine segment. After catheter removal she has lower abdominal pain and continuous dribbling of urine. What is the diagnosis?",
+  "options": {
+   "A": "Uretero-vaginal fistula",
+   "B": "Vesico-vaginal fistula",
+   "C": "Urinary tract infection",
+   "D": "Retained placental tissue",
+   "E": "Endometritis"
+  },
+  "answer": "B",
+  "explanation": "Bladder injury at difficult dissection of adhesions, presenting after catheter removal with continuous leakage, points to a vesico-vaginal fistula.",
+  "key_note": "One source also had handwritten (A) Uretero-vaginal fistula; B fits bladder adhesions best.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02841"
+  ],
+  "stem": "A woman has had five previous LSCS and now has an anterior placenta. During pre-operative counselling, which point is most essential to discuss?",
+  "options": {
+   "A": "Possibility of needing blood transfusion only",
+   "B": "Need for spinal anaesthesia only",
+   "C": "Potential for bladder injury, hysterectomy and longer operative time",
+   "D": "Likelihood of neonatal respiratory distress",
+   "E": "Postpartum contraception options"
+  },
+  "answer": "C",
+  "explanation": "Multiple repeat sections with an anterior placenta carry a risk of morbidly adherent placenta, so counselling must cover bladder or bowel injury, hysterectomy, haemorrhage and prolonged surgery.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01611"
+  ],
+  "stem": "A 34-year-old G4P3 with three previous caesarean sections attends at 37 weeks to discuss mode of delivery. You advise that her delivery will be:",
+  "options": {
+   "A": "Vaginal",
+   "B": "Forceps",
+   "C": "Vacuum",
+   "D": "Elective caesarean section",
+   "E": "Emergency caesarean section"
+  },
+  "answer": "D",
+  "explanation": "With multiple previous sections the risk of scar rupture and placenta accreta rises, so planned repeat caesarean is advised.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02677"
+  ],
+  "stem": "A 38-year-old G2P1 at 36 weeks had an emergency LSCS one year ago for fetal distress; the baby died after 6 hours due to meconium aspiration. What is your advice?",
+  "options": {
+   "A": "Elective lower segment caesarean section at 39 weeks",
+   "B": "Elective lower segment caesarean section at 40 weeks",
+   "C": "Wait for spontaneous onset of labour till dates",
+   "D": "Elective induction at 40 weeks",
+   "E": "Wait for spontaneous onset of labour until 41 weeks"
+  },
+  "answer": "A",
+  "explanation": "Short interdelivery interval, advanced age and a previous perinatal loss favour planned repeat section at 39 weeks, which avoids labour on a recent scar.",
+  "key_note": "Answer follows the paper key; of the options offered, planned repeat section at 39 weeks is the safest choice.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02749"
+  ],
+  "stem": "A woman with one previous lower-segment caesarean section and no other risk factors wishes to attempt vaginal birth. What is the most appropriate advice?",
+  "options": {
+   "A": "VBAC is contraindicated in all cases",
+   "B": "Recommend elective repeat caesarean",
+   "C": "Trial of labour after caesarean is safe with monitoring",
+   "D": "Induce labour with prostaglandins",
+   "E": "VBAC only for breech presentations"
+  },
+  "answer": "C",
+  "explanation": "With one previous low transverse section and no other risk factors, TOLAC succeeds in about 70-75% and is reasonably safe with continuous monitoring in a unit able to do emergency section.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02555"
+  ],
+  "stem": "A woman with one previous lower-segment caesarean section wishes to attempt vaginal birth. Which factor is particularly important when assessing whether VBAC is appropriate?",
+  "options": {
+   "A": "Availability of emergency caesarean facilities",
+   "B": "Availability of fresh frozen plasma",
+   "C": "Availability of continuous fetal heart rate monitoring",
+   "D": "Availability of blood products",
+   "E": "Ultrasound examination every hour"
+  },
+  "answer": "A",
+  "explanation": "Uterine rupture is the main risk, so TOLAC must be done where immediate emergency caesarean section is available.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01862"
+  ],
+  "stem": "What is the most favourable clinical scenario for a successful trial of labour after caesarean birth?",
+  "options": {
+   "A": "Only one previous caesarean delivery",
+   "B": "Anaesthesia immediately available",
+   "C": "A previous vaginal delivery",
+   "D": "Clear amniotic fluid",
+   "E": "Carefully induced labour between 39 and 40.5 weeks' gestation"
+  },
+  "answer": "C",
+  "explanation": "A previous vaginal birth is the strongest predictor of successful VBAC (success about 85-90%).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02609",
+   "C03101",
+   "C02905",
+   "C02261",
+   "C02297",
+   "C02873"
+  ],
+  "stem": "Which of the following is an absolute contraindication to VBAC?",
+  "options": {
+   "A": "One prior caesarean with transverse incision",
+   "B": "Breech presentation",
+   "C": "Previous classical caesarean scar",
+   "D": "Diabetes in pregnancy",
+   "E": "Maternal age over 35 years"
+  },
+  "answer": "C",
+  "explanation": "A previous classical (vertical upper segment) scar or previous uterine rupture carries a high risk of rupture, so repeat caesarean is advised.",
+  "key_note": "Some sources marked or suggested breech presentation; correct is previous classical scar. Breech is an obstetric indication for section, not a scar contraindication to VBAC.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01127"
+  ],
+  "stem": "The most important prerequisite for a forceps delivery is:",
+  "options": {
+   "A": "Completely dilated cervix",
+   "B": "A known station of the presenting part",
+   "C": "An empty bladder",
+   "D": "Ruptured membranes",
+   "E": "The vertex in the occipitoanterior position"
+  },
+  "answer": "A",
+  "explanation": "The cervix must be fully dilated; applying forceps to an incompletely dilated cervix risks severe cervical and uterine trauma.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02557"
+  ],
+  "stem": "Before performing vacuum delivery, which condition must be fulfilled?",
+  "options": {
+   "A": "Cervix must be fully dilated",
+   "B": "Fetal head must be unengaged",
+   "C": "Maternal bladder must be full",
+   "D": "Membranes must be intact",
+   "E": "Presentation must be transverse lie"
+  },
+  "answer": "A",
+  "explanation": "Prerequisites include full dilatation, ruptured membranes, engaged head, known position, empty bladder and vertex presentation.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03077"
+  ],
+  "stem": "Criteria for safe forceps or vacuum delivery include all EXCEPT:",
+  "options": {
+   "A": "Fully dilated cervix",
+   "B": "Ruptured membranes",
+   "C": "Known fetal head position",
+   "D": "Head at or below +2 station",
+   "E": "Uncertain presentation"
+  },
+  "answer": "E",
+  "explanation": "The presentation and position must be known with certainty before applying any instrument.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02678"
+  ],
+  "stem": "A primigravida is in the second stage of labour for one hour and CTG shows variable decelerations. You decide on instrumental delivery. Which is a prerequisite?",
+  "options": {
+   "A": "Membranes should be intact",
+   "B": "Head should be at or below the ischial spines",
+   "C": "Spinal anaesthesia is mandatory",
+   "D": "Head is 4/5th palpable per abdomen",
+   "E": "Urinary bladder should be filled"
+  },
+  "answer": "B",
+  "explanation": "The head must be engaged (not more than 1/5 palpable) and at or below the spines, with ruptured membranes and an empty bladder.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03132"
+  ],
+  "stem": "A 26-year-old primigravida at 34 weeks has been pushing for 1 hour without progress. FHR baseline is 140 bpm with occasional late decelerations; the head is at +2 and she is exhausted. You decide to apply the vacuum. What is the main indication for vacuum in this case?",
+  "options": {
+   "A": "Prolonged second stage of labour",
+   "B": "Maternal exhaustion",
+   "C": "Fetal head above +2 station",
+   "D": "Cephalic presentation",
+   "E": "Unknown vertex presentation"
+  },
+  "answer": "B",
+  "explanation": "Maternal exhaustion is the stated indication for assisted delivery here; cephalic presentation and +2 station are prerequisites, not indications.",
+  "key_note": "Gestation of 34 weeks is borderline for vacuum; answer follows the paper key.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02726"
+  ],
+  "stem": "You attend a primigravida in the second stage and decide on ventouse delivery for fetal distress. Regarding ventouse delivery:",
+  "options": {
+   "A": "Delivery must be completed in 15 minutes",
+   "B": "Scalp should descend with each pull",
+   "C": "Ventouse cup can be applied 4 times",
+   "D": "If ventouse fails then forceps should be tried",
+   "E": "Baby under 34 weeks should always be delivered by ventouse"
+  },
+  "answer": "A",
+  "explanation": "Vacuum delivery should be completed within about 15-20 minutes, with no more than 3 pulls and 2 pop-offs; failure means caesarean or very careful sequential use, and ventouse is avoided below 34 weeks.",
+  "key_note": "Option B (descent with each pull) is also a valid principle; answer follows the paper key (A).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02741"
+  ],
+  "stem": "A woman with a delayed second stage is tiring and consents to assisted vaginal delivery. In which situation would a ventouse delivery be contraindicated?",
+  "options": {
+   "A": "One-fifth of the fetal head palpable abdominally",
+   "B": "Prematurity (gestation less than 34 weeks)",
+   "C": "The fetus is in occipito-posterior position",
+   "D": "The mother is HIV positive",
+   "E": "The presence of fetal caput"
+  },
+  "answer": "B",
+  "explanation": "Ventouse is contraindicated below 34 weeks because of the risk of cephalhaematoma and intracranial haemorrhage in the soft preterm skull.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00875"
+  ],
+  "stem": "A 32-year-old primigravida is in the second stage of labour, exhausted, and you apply a ventouse. The cup is applied on the fetal skull at the:",
+  "options": {
+   "A": "Extension point",
+   "B": "Flexion point",
+   "C": "Anterior fontanelle",
+   "D": "Posterior fontanelle",
+   "E": "Occiput"
+  },
+  "answer": "B",
+  "explanation": "The cup centre is placed over the flexion point, about 3 cm anterior to the posterior fontanelle on the sagittal suture, to promote flexion and descent.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00824"
+  ],
+  "stem": "With vacuum extraction, a metal cup compared with a soft cup is associated with significantly higher rates of which of the following?",
+  "options": {
+   "A": "Cephalhaematoma",
+   "B": "Birth canal trauma",
+   "C": "Low Apgar scores",
+   "D": "Chignon",
+   "E": "Failure"
+  },
+  "answer": "D",
+  "explanation": "Rigid metal cups create a larger chignon (artificial caput), whereas soft cups fail more often to deliver.",
+  "key_note": "Paper key marked D (Chignon); one reader circled A (Cephalhaematoma). Soft cups are the ones with more failures.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00825"
+  ],
+  "stem": "Compared with forceps delivery, vacuum extraction is associated with lower rates of which of the following?",
+  "options": {
+   "A": "Neonatal jaundice",
+   "B": "Cephalhaematoma",
+   "C": "Third degree laceration",
+   "D": "Neonatal retinal haemorrhage",
+   "E": "Chignon"
+  },
+  "answer": "C",
+  "explanation": "Vacuum causes less maternal perineal trauma (third and fourth degree tears) but more cephalhaematoma, retinal haemorrhage and jaundice.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03054"
+  ],
+  "stem": "A woman at 33 weeks with cephalic presentation has been in the second stage for one hour, is exhausted and the CTG is non-reassuring. Which feature makes her a more suitable candidate for forceps versus vacuum delivery?",
+  "options": {
+   "A": "Cephalic presentation",
+   "B": "Fully dilated cervix",
+   "C": "Fetal distress",
+   "D": "Prematurity",
+   "E": "Station at +2"
+  },
+  "answer": "D",
+  "explanation": "In preterm fetuses (under 34 weeks) forceps are preferred because vacuum risks cephalhaematoma and intracranial bleeding; the other features apply to both instruments.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02556"
+  ],
+  "stem": "A woman in the second stage has prolonged pushing and a low fetal head, with a concerning CTG. The cervix is fully dilated and the prerequisites for operative vaginal delivery are satisfied. What may be appropriate?",
+  "options": {
+   "A": "Fundal pressure",
+   "B": "Immediate hysterectomy",
+   "C": "Operative vaginal delivery",
+   "D": "Emergency LSCS",
+   "E": "Wait for 3 hours"
+  },
+  "answer": "C",
+  "explanation": "With a low head, full dilatation and prerequisites met, assisted vaginal delivery is the quickest safe way to deliver.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00459",
+   "C00544",
+   "C00878",
+   "C01925",
+   "C02475",
+   "C02787"
+  ],
+  "stem": "A primigravida at 38 weeks has been in the second stage for 2 hours. CTG shows late (type 2) decelerations, the presenting part is 2 cm below the ischial spines with grade 3 meconium, and she cannot push due to exhaustion. What is your management?",
+  "options": {
+   "A": "Start oxytocin infusion",
+   "B": "Give episiotomy to facilitate delivery",
+   "C": "Apply forceps for delivery of baby",
+   "D": "Proceed to caesarean section",
+   "E": "Give epidural and reassure the patient"
+  },
+  "answer": "C",
+  "explanation": "A low head (+2) with fetal compromise and exhaustion calls for immediate assisted vaginal delivery; caesarean at this station would be slower and riskier.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00828"
+  ],
+  "stem": "A primigravida is fully dilated with vertex presentation. The head is well rotated at +2 station and there is late deceleration on fetal heart monitoring. If the pelvis is adequate, the most appropriate management is:",
+  "options": {
+   "A": "Waiting for spontaneous delivery",
+   "B": "Kielland forceps delivery",
+   "C": "Vacuum extraction",
+   "D": "Caesarean section",
+   "E": "Midcavity forceps delivery"
+  },
+  "answer": "C",
+  "explanation": "A rotated head at +2 is suitable for assisted delivery; Kielland and midcavity forceps are unnecessary, and vacuum is the simplest option among those listed.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01789",
+   "C02859",
+   "C01924"
+  ],
+  "stem": "A primigravida at 38 weeks has been in the second stage for 2 hours. The head is occipitoanterior at +2, cervix fully dilated, membranes ruptured, no fetal distress. Which is the most appropriate delivery option?",
+  "options": {
+   "A": "Caesarean section",
+   "B": "Kielland's forceps",
+   "C": "Mid-cavity forceps",
+   "D": "Outlet forceps",
+   "E": "Ventouse extraction"
+  },
+  "answer": "D",
+  "explanation": "An OA head at +2 can be delivered with low (outlet) forceps; Kielland's is for rotation and caesarean is not needed.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02728"
+  ],
+  "stem": "A primigravida at 38 weeks has been in the second stage for 2 hours. The head is OA at +1, cervix fully dilated, membranes ruptured, no fetal distress. Which is the most appropriate option for delivery?",
+  "options": {
+   "A": "Outlet forceps",
+   "B": "Mid-cavity forceps",
+   "C": "Urgent caesarean section",
+   "D": "Ventouse extraction",
+   "E": "Wait for delivery"
+  },
+  "answer": "D",
+  "explanation": "At +1 the head is above outlet level, so outlet forceps are not applicable; ventouse is a reasonable, less traumatic instrument for assisted delivery.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02727"
+  ],
+  "stem": "A booked primigravida in preterm labour at 32 weeks becomes fully dilated despite tocolysis. CTG shows variable decelerations and the head is at +2 with no caput or moulding. What is the next most appropriate step?",
+  "options": {
+   "A": "Ask the mother to bear down",
+   "B": "Apply ventouse",
+   "C": "Apply outlet forceps",
+   "D": "Emergency LSCS",
+   "E": "Fundal pressure"
+  },
+  "answer": "C",
+  "explanation": "Vacuum is avoided below 34 weeks, so a low head with fetal compromise is delivered with outlet forceps.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01671"
+  ],
+  "stem": "A primigravida is in the second stage for 2 hours. The head is 2 cm below the ischial spines in occipito-posterior position and CTG shows fetal bradycardia. What is the next step?",
+  "options": {
+   "A": "Perform LSCS",
+   "B": "Perform instrumental delivery",
+   "C": "Increase dose of oxytocin",
+   "D": "Keep her left lateral and wait for 1 hour",
+   "E": "Reassure the patient and give IV fluids"
+  },
+  "answer": "B",
+  "explanation": "A low head (+2) with fetal bradycardia needs immediate instrumental delivery.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00531"
+  ],
+  "stem": "A 34-year-old primigravida has been in the second stage for 2 hours and is exhausted. The station is -1 and the head is occipitoposterior. Which is the most appropriate action?",
+  "options": {
+   "A": "Trial of forceps in theatre",
+   "B": "Trial of vacuum in theatre",
+   "C": "Emergency LSCS",
+   "D": "Increase syntocinon",
+   "E": "Wait for one more hour"
+  },
+  "answer": "C",
+  "explanation": "A head above the spines in OP position after 2 hours of pushing is unsuitable for instruments, so caesarean section is indicated.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00827"
+  ],
+  "stem": "A 30-year-old full-term primigravida has been fully dilated for 2 hours with cephalic presentation at 0 station. What would be the next option?",
+  "options": {
+   "A": "Outlet forceps delivery",
+   "B": "Kielland forceps delivery",
+   "C": "Vacuum delivery",
+   "D": "Emergency LSCS",
+   "E": "Push and deliver with episiotomy"
+  },
+  "answer": "C",
+  "explanation": "After 2 hours in the second stage in a primigravida, delivery must be assisted; outlet forceps need a visible low head, so a trial of vacuum is the reasonable choice at 0 station.",
+  "key_note": "The paper key marked E (push with episiotomy), which is inappropriate after a prolonged second stage; the stem is under-specified, answer chosen by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02581"
+  ],
+  "stem": "A 25-year-old primigravida is in the second stage for 2 hours with optimal contractions and normal FHR. She is fully dilated, station 0 to +1, and the head is in right occipito-transverse position. What is the best management?",
+  "options": {
+   "A": "Outlet forceps delivery",
+   "B": "Mid-cavity forceps",
+   "C": "Kielland's forceps",
+   "D": "Lower segment caesarean section",
+   "E": "Ventouse delivery"
+  },
+  "answer": "C",
+  "explanation": "An occipito-transverse head needs rotation, which Kielland's forceps achieve in skilled hands; outlet forceps cannot be used at this station and position.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01796",
+   "C02861"
+  ],
+  "stem": "A G2P1 at 38 weeks is being induced for gestational diabetes with estimated fetal weight 4 kg. She has been in the second stage for 1 hour; CTG shows early decelerations; the vertex is at 0 station with caput 2+. What is the most suitable plan?",
+  "options": {
+   "A": "Mid-cavity forceps delivery",
+   "B": "Ventouse delivery",
+   "C": "Proceed to caesarean section",
+   "D": "Rotational forceps delivery",
+   "E": "Wait for one more hour"
+  },
+  "answer": "C",
+  "explanation": "A macrosomic baby with a high head at 0 station and increasing caput suggests cephalopelvic disproportion, so instrumental delivery is unsafe and caesarean is indicated.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02824"
+  ],
+  "stem": "A 30-year-old primigravida at 41 weeks, second stage 2.5 hours with epidural, has a fully dilated cervix, head OA at +2, reassuring CTG. Vacuum extraction with three pulls over 12 minutes gives no descent and one pop-off. What is the most appropriate next step?",
+  "options": {
+   "A": "Reapply the vacuum and attempt two more pulls",
+   "B": "Switch to forceps for assisted delivery",
+   "C": "Continue traction for another contraction",
+   "D": "Give oxytocin infusion and allow further descent",
+   "E": "Proceed to caesarean section"
+  },
+  "answer": "E",
+  "explanation": "Failure of descent after three pulls or a pop-off means the vacuum must be abandoned; with no descent, caesarean is the safe option.",
+  "key_note": "Some experts allow careful sequential forceps; the paper keys and standard teaching favour caesarean.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02862"
+  ],
+  "stem": "A 25-year-old G2P1 with known aortic stenosis is in labour. To reduce maternal effort, the second stage is to be shortened. Which instrument is most appropriate?",
+  "options": {
+   "A": "Rotational forceps",
+   "B": "Ventouse delivery",
+   "C": "Piper's forceps",
+   "D": "Outlet forceps",
+   "E": "Midcavity forceps"
+  },
+  "answer": "D",
+  "explanation": "Cardiac lesions need a short, low-effort second stage with an easy low-cavity operation; outlet (low) forceps are least traumatic and reliable.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02783"
+  ],
+  "stem": "A 25-year-old primigravida is fully dilated with fetal bradycardia and the head at +2. You are about to proceed with forceps delivery. Which analgesia is used?",
+  "options": {
+   "A": "Combined epidural-spinal anaesthesia",
+   "B": "Epidural anaesthesia",
+   "C": "Perineal infiltration with lignocaine",
+   "D": "IV pethidine with dimenhydrinate",
+   "E": "Total intravenous anaesthesia with fentanyl"
+  },
+  "answer": "B",
+  "explanation": "Regional anaesthesia is preferred for instrumental delivery, and epidural is the best of those offered; IV opioids and general anaesthesia add neonatal and maternal risk.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03053"
+  ],
+  "stem": "A 23-year-old primigravida is fully dilated for 2 hours, head 0/5 palpable and at +2 station, with persistent bradycardia, and outlet forceps are planned. Which analgesia will you offer?",
+  "options": {
+   "A": "Epidural anaesthesia",
+   "B": "Intravenous nalbuphine",
+   "C": "Perineal infiltration",
+   "D": "Saddle block",
+   "E": "Spinal anaesthesia"
+  },
+  "answer": "D",
+  "explanation": "For an urgent low-cavity forceps delivery, a quick-onset saddle (low spinal) block gives adequate perineal anaesthesia; epidural takes too long to establish.",
+  "key_note": "Source marks were conflicting (C vs D); answer follows the paper key D.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01827",
+   "C02384"
+  ],
+  "stem": "What is the main advantage of a medio-lateral episiotomy?",
+  "options": {
+   "A": "Less blood loss",
+   "B": "Reduced incidence of dyspareunia",
+   "C": "Less anal sphincter damage",
+   "D": "Less pain in the postpartum period",
+   "E": "It is easier to repair"
+  },
+  "answer": "C",
+  "explanation": "The oblique cut directs extension away from the anal sphincter, reducing third and fourth degree tears, but it is harder to repair and bleeds more.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03117"
+  ],
+  "stem": "G3P1 has delivered a 4.5 kg baby after an episiotomy. What is the best analgesia to stitch the episiotomy?",
+  "options": {
+   "A": "Perineal infiltration",
+   "B": "Pudendal block",
+   "C": "Epidural analgesia",
+   "D": "Spinal anaesthesia",
+   "E": "Combined spinal epidural analgesia"
+  },
+  "answer": "A",
+  "explanation": "Local infiltration of the perineum with lignocaine is simple and adequate for repair when no regional block is in place.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01787",
+   "C02863",
+   "C00917",
+   "C03033",
+   "C02679",
+   "C01861"
+  ],
+  "stem": "A primigravida delivers a 3.5 kg baby boy and sustains a tear involving skin, vaginal mucosa and perineal muscles. The anal sphincter is intact. Which type of perineal tear is this?",
+  "options": {
+   "A": "First degree",
+   "B": "Second degree",
+   "C": "Third degree a",
+   "D": "Third degree b",
+   "E": "Fourth degree"
+  },
+  "answer": "B",
+  "explanation": "Second degree tear involves perineal muscles without the anal sphincter.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00586"
+  ],
+  "stem": "A primigravida just had a forceps delivery. There is a perineal tear involving the muscles and less than 50% of the external anal sphincter. What is your diagnosis?",
+  "options": {
+   "A": "First degree perineal tear",
+   "B": "Second degree perineal tear",
+   "C": "Third degree a perineal tear",
+   "D": "Third degree b perineal tear",
+   "E": "Fourth degree perineal tear"
+  },
+  "answer": "C",
+  "explanation": "RCOG 3a: less than 50% of the EAS thickness torn; 3b: more than 50%; 3c: EAS and IAS torn.",
+  "key_note": "One variant in this cluster described a tear with the sphincter intact (second degree, B) and was folded into the other second degree items; for this stem the answer is 3a.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00836",
+   "C01631",
+   "C02385",
+   "C02708"
+  ],
+  "stem": "A tear after episiotomy or delivery extends through the anal sphincter but the rectal mucosa is intact. How is this injury classified?",
+  "options": {
+   "A": "First degree",
+   "B": "Second degree",
+   "C": "Third degree",
+   "D": "Fourth degree",
+   "E": "None of the above"
+  },
+  "answer": "C",
+  "explanation": "Third degree: anal sphincter complex torn with the rectal mucosa intact; fourth degree includes the mucosa.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00624"
+  ],
+  "stem": "A woman sustained a third degree perineal tear after an instrumental delivery and now, on follow-up, has no urinary or bowel incontinence. What will you advise for her next delivery?",
+  "options": {
+   "A": "Elective caesarean section",
+   "B": "Avoid prolonged second stage eliminates risk of third degree tear",
+   "C": "Epidural anaesthesia reduces the risk of third degree tear",
+   "D": "Prophylactic episiotomy reduces the risk of third degree tear",
+   "E": "Vaginal delivery is safely achievable"
+  },
+  "answer": "E",
+  "explanation": "If she is asymptomatic, vaginal delivery is reasonable; elective caesarean is offered only if symptomatic or if anal manometry or endoanal ultrasound is abnormal.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02383"
+  ],
+  "stem": "You performed a forceps delivery on a 20-year-old G1 at 40 weeks for maternal exhaustion with a second degree episiotomy. Eight hours later she cannot void and has severe pain. There is a large fluctuant purple mass inside the vagina. What is the best management?",
+  "options": {
+   "A": "Apply an ice pack to the perineum",
+   "B": "Embolise the internal iliac artery",
+   "C": "Drainage of the haematoma",
+   "D": "Dilation and curettage to remove retained placenta",
+   "E": "Place a vaginal pack for 24 hours"
+  },
+  "answer": "C",
+  "explanation": "A large symptomatic vulvovaginal haematoma is evacuated, the bleeding vessel ligated and the cavity closed.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00636"
+  ],
+  "stem": "A G2P1 with one previous caesarean section presents at 40 weeks with BP 120/80 mmHg, a longitudinal cephalic fetus and a reactive CTG. The cervix is closed and thick. She asks about induction of labour. You counsel her that:",
+  "options": {
+   "A": "She may be induced with PGE1",
+   "B": "Her chance of successful VBAC is very high",
+   "C": "Prior caesarean delivery is a contraindication to induction of labour",
+   "D": "Successful VBAC may not be possible due to a poor Bishop score",
+   "E": "Her unfavourable cervical exam does not affect her chance of VBAC"
+  },
+  "answer": "D",
+  "explanation": "An unripe cervix lowers the success of induction and of VBAC; prostaglandins (including misoprostol/PGE1) are avoided with a uterine scar because of rupture risk, though induction is not absolutely contraindicated.",
+  "key_note": "The paper stems omitted the previous caesarean (it appears in the options, so added here); one paper marked A (PGE1), which is unsafe with a scar.",
+  "figure": ""
+ }
+]

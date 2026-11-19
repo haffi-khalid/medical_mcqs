@@ -1,0 +1,83 @@
+{
+ "sections": [
+  {
+   "code": "S2",
+   "title": "Gynaecology (Ten Teachers Gynaecology, 20th ed.)",
+   "chapters": [
+    [
+     "Y1",
+     "Development and anatomy of the female sexual organs and pelvis (congenital anomalies, Mullerian anomalies, DSD)"
+    ],
+    [
+     "Y2",
+     "Gynaecological history, examination and investigations (USS, hysteroscopy, laparoscopy, HSG, biopsy)"
+    ],
+    [
+     "Y3",
+     "Hormonal control of the menstrual cycle and hormonal disorders (puberty, amenorrhoea, PCOS, hirsutism, hyperprolactinaemia, premature ovarian insufficiency)"
+    ],
+    [
+     "Y4",
+     "Disorders of menstrual bleeding (HMB, dysmenorrhoea, PMS, intermenstrual bleeding, DUB)"
+    ],
+    [
+     "Y5",
+     "Implantation and early pregnancy (miscarriage, ectopic pregnancy, molar pregnancy and GTD, hyperemesis, pregnancy of unknown location)"
+    ],
+    [
+     "Y6",
+     "Contraception and abortion (all contraceptive methods, sterilisation, emergency contraception, termination of pregnancy)"
+    ],
+    [
+     "Y7",
+     "Subfertility (male and female factors, investigations, ovulation induction, IVF and ART, OHSS)"
+    ],
+    [
+     "Y8",
+     "The menopause and postreproductive health (HRT, osteoporosis, postmenopausal bleeding)"
+    ],
+    [
+     "Y9",
+     "Genitourinary problems (STIs, PID, vaginal discharge, bacterial vaginosis, candidiasis, trichomoniasis, genital tuberculosis, urinary tract problems)"
+    ],
+    [
+     "Y10",
+     "Urogynaecology and pelvic floor problems (prolapse, urinary incontinence, fistulae, pessaries)"
+    ],
+    [
+     "Y11",
+     "Benign conditions of the ovary and pelvis (ovarian cysts and tumours benign, endometriosis, adenomyosis, chronic pelvic pain, adhesions)"
+    ],
+    [
+     "Y12",
+     "Benign conditions of the uterus, cervix and endometrium (fibroids, polyps, endometrial hyperplasia, cervical ectropion)"
+    ],
+    [
+     "Y13",
+     "Benign conditions of the vulva and vagina, psychosexual disorders and FGM (lichen sclerosus, Bartholin, dyspareunia, vaginismus)"
+    ],
+    [
+     "Y14",
+     "Malignant disease of the ovary"
+    ],
+    [
+     "Y15",
+     "Malignant disease of the uterus (endometrial cancer, sarcoma)"
+    ],
+    [
+     "Y16",
+     "Premalignant and malignant disease of the lower genital tract (CIN, cervical cancer, screening, HPV, VIN, vulval and vaginal cancer)"
+    ],
+    [
+     "Y17",
+     "Gynaecological surgery and therapeutics (hysterectomy, operations, complications, pre- and post-operative care, drugs, radiotherapy)"
+    ],
+    [
+     "YX",
+     "Other gynaecology topics not in the contents list (miscellaneous gynaecology, ethics, paediatric gynaecology not elsewhere)"
+    ]
+   ]
+  }
+ ],
+ "notes": "Routing rules (Ten Teachers): 1) Ectopic pregnancy, miscarriage (all types), molar pregnancy/GTD, hyperemesis gravidarum, early pregnancy USS -> Y5 (Gynae book ch5), not Obs. 2) Contraception (COCP, POP, IUCD, implant, depot, emergency) and medical or surgical termination of pregnancy, sterilisation -> Y6. 3) Postpartum contraception and lactational amenorrhoea -> Y6 unless the point is breastfeeding physiology -> O15. 4) Antepartum haemorrhage (praevia, abruption, vasa praevia), PROM/PPROM, polyhydramnios, oligohydramnios, malpresentation in late pregnancy, post-term, Rh isoimmunisation, stillbirth/IUFD -> O6. 5) PPH (all types), cord prolapse, shoulder dystocia, uterine rupture, amniotic fluid embolism, inversion, maternal collapse, shock in obstetrics -> O14. 6) Preterm labour, tocolytics, antenatal steroids, magnesium for neuroprotection -> O8; PPROM goes to O6. 7) Pre-eclampsia, eclampsia, HELLP, MgSO4 regimen, gestational hypertension, chronic hypertension in pregnancy -> O9. 8) Diabetes, cardiac disease, anaemia, thyroid, epilepsy, renal, liver, VTE, SLE/APS, asthma in pregnancy -> O10 (recurrent miscarriage due to APS: Y5). 9) TORCH, HIV, HBV/HCV, GBS, malaria, syphilis, varicella, UTI in pregnancy -> O11; STIs and PID in the non-pregnant -> Y9. 10) Partograph, stages of labour, mechanism, induction, augmentation, analgesia, malposition, obstructed or prolonged labour, breech delivery, twins in labour -> O12 (twin pregnancy antenatal: O7). 11) Forceps, ventouse, caesarean, VBAC, episiotomy, perineal tears -> O13. 12) Neonatal resuscitation, neonatal jaundice, neonatal sepsis, birth injuries, APGAR -> O16. 13) Puerperal sepsis, postnatal depression, lactation, breastfeeding drugs -> O15. 14) Normal pelvis anatomy, female genital tract embryology and Mullerian anomalies, DSD, Turner, testicular feminisation -> Y1; bony pelvis in obstetrics (pelvic types, diameters, engagement) -> O1. 15) Primary and secondary amenorrhoea, PCOS, hirsutism, hyperprolactinaemia, puberty, menstrual cycle physiology -> Y3; HMB, dysmenorrhoea, PMS -> Y4. 16) Fibroids, endometrial polyp, hyperplasia -> Y12; endometriosis, adenomyosis, benign ovarian cysts, PID sequelae, chronic pelvic pain -> Y11; endometrial cancer -> Y15; ovarian cancer and tumour markers -> Y14; cervical screening, CIN, HPV, cervical/vulval/vaginal cancer -> Y16. 17) Prolapse, incontinence, fistulae -> Y10; menopause, HRT, osteoporosis, postmenopausal bleeding -> Y8. 18) Subfertility, IVF, ovulation induction, OHSS -> Y7. 19) Hysterectomy, laparoscopy complications, perioperative care, gynae drugs, radiotherapy -> Y17. 20) Use OX/YX for real O&G topics outside the list (ethics, statistics, maternal mortality); use OM/YM only for junk or if nothing fits."
+}

@@ -1,0 +1,701 @@
+[
+ {
+  "cids": [
+   "C00506"
+  ],
+  "stem": "Which hormone during pregnancy inhibits the let-down reflex of milk?",
+  "options": {
+   "A": "Oestrogen",
+   "B": "Prolactin",
+   "C": "Progesterone",
+   "D": "Oxytocin",
+   "E": "Human placental lactogen"
+  },
+  "answer": "A",
+  "explanation": "High oestrogen and progesterone of pregnancy block the action of prolactin on the breast, so copious lactation starts only after delivery of the placenta, when their levels fall.",
+  "key_note": "Both oestrogen and progesterone suppress lactation in pregnancy; the keyed answer is oestrogen.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02386",
+   "C01632"
+  ],
+  "stem": "A 38-year-old G3P2 begins to breastfeed her 5-day-old infant. The baby latches on appropriately and begins to suckle. In the mother, which of the following is a response to suckling?",
+  "options": {
+   "A": "Decrease of oxytocin",
+   "B": "Increase of prolactin-inhibiting factor",
+   "C": "Increase in dopamine",
+   "D": "Increase in prolactin",
+   "E": "Increase in luteinising hormone releasing factor"
+  },
+  "answer": "D",
+  "explanation": "Suckling stimulates the nipple, which suppresses hypothalamic dopamine (prolactin-inhibiting factor) and raises serum prolactin, and also releases oxytocin for milk let-down.",
+  "key_note": "One paper's version marked 'increase of hypothalamic prolactin'; the correct response is a rise in serum prolactin.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00549"
+  ],
+  "stem": "A P1 attends OPD unable to establish lactation. She had severe postpartum haemorrhage after a home delivery 3 weeks ago. Deficiency of which hormone is expected to cause the failure of milk production?",
+  "options": {
+   "A": "Oestrogen",
+   "B": "Prolactin",
+   "C": "Progesterone",
+   "D": "Oxytocin",
+   "E": "Human placental lactogen"
+  },
+  "answer": "B",
+  "explanation": "Sheehan syndrome (pituitary necrosis after PPH) causes failure of lactation through loss of anterior pituitary prolactin.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00446"
+  ],
+  "stem": "A 34-year-old P3 delivered 20 days ago by instrumental delivery and had PPH. She now presents with failure to establish lactation. The most likely cause is:",
+  "options": {
+   "A": "Addison syndrome",
+   "B": "Sheehan syndrome",
+   "C": "Cushing syndrome",
+   "D": "Potter syndrome",
+   "E": "Myofascial syndrome"
+  },
+  "answer": "B",
+  "explanation": "Hypovolaemic necrosis of the enlarged pituitary after PPH (Sheehan syndrome) presents first with failure of lactation, later amenorrhoea and hypopituitarism.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00577"
+  ],
+  "stem": "A multigravida had a difficult instrumental delivery followed by PPH and presents 3 weeks later with inability to establish lactation. You suspect Sheehan syndrome. Which area is damaged?",
+  "options": {
+   "A": "Hypothalamus",
+   "B": "Pons",
+   "C": "Anterior pituitary",
+   "D": "Posterior pituitary",
+   "E": "Cerebellum"
+  },
+  "answer": "C",
+  "explanation": "The hypertrophied anterior pituitary of pregnancy is vulnerable to ischaemia after severe haemorrhage.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02390"
+  ],
+  "stem": "A 22-year-old P1 on postpartum day 2 is bottle-feeding and complains of very engorged, tender breasts. She wants something to relieve it. Which is recommended?",
+  "options": {
+   "A": "Breast binder",
+   "B": "Bromocriptine",
+   "C": "Oestrogen-containing contraceptive pills",
+   "D": "Pump her breasts and encourage breastfeeding",
+   "E": "Oral antibiotics"
+  },
+  "answer": "A",
+  "explanation": "In a woman who is not breastfeeding, engorgement settles with a supportive binder or bra, ice packs and analgesia; expressing milk or suckling perpetuates lactation. Bromocriptine and oestrogen are no longer recommended.",
+  "key_note": "Paper key marked D; correct is A, because pumping and breastfeeding stimulate lactation in a woman who has chosen to bottle-feed.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00576"
+  ],
+  "stem": "A P1 has delivered vaginally and mother and baby are discharged after 6 hours. You advise postnatal visits on the 3rd and 7th days. Which examination should be performed at every postnatal visit?",
+  "options": {
+   "A": "Maternal blood pressure",
+   "B": "Maternal breast examination",
+   "C": "Vaginal examination",
+   "D": "Record of temperature",
+   "E": "Fundal height measurement"
+  },
+  "answer": "A",
+  "explanation": "Blood pressure is checked at every postnatal contact to detect postpartum pre-eclampsia and haemorrhage or sepsis; other examinations are guided by symptoms.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02987"
+  ],
+  "stem": "A 28-year-old P2 delivered normally this morning and has no comorbidities. She is lying comfortably in the postnatal ward. Which examination is NOT indicated?",
+  "options": {
+   "A": "Breast",
+   "B": "Uterus",
+   "C": "Legs",
+   "D": "Abdominal",
+   "E": "Vaginal"
+  },
+  "answer": "E",
+  "explanation": "The routine postnatal check (BUBBLE-HE) includes breasts, uterine involution, bladder, bowels, lochia by inspection of the pad, episiotomy and calves; digital vaginal examination is not routinely indicated.",
+  "key_note": "Paper key marked B (uterus); but palpating the uterus is part of routine postnatal examination, so routine vaginal examination is the best answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00617"
+  ],
+  "stem": "A G2P1 delivered by outlet forceps and lives 6 hours away. She asks when she must come for a formal postnatal examination. The answer is:",
+  "options": {
+   "A": "At 2 weeks after childbirth",
+   "B": "After 4 weeks",
+   "C": "After 6 weeks",
+   "D": "After 8 weeks",
+   "E": "After 12 weeks"
+  },
+  "answer": "C",
+  "explanation": "The formal postnatal check is at about 6 weeks, when involution is complete and contraception and long-term issues are reviewed.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02388"
+  ],
+  "stem": "A 21-year-old G2P1 calls 7 days postpartum worried about vaginal bleeding. It is light pink to bright red, lighter than in the first days, with no fever or cramping. She is afebrile, the uterus is appropriately sized and non-tender, the vagina contains about 10 cc of old dark blood and the cervix is closed. What is the most appropriate treatment?",
+  "options": {
+   "A": "Antibiotics for endometritis",
+   "B": "High-dose antifibrinolytic",
+   "C": "Oxytocin for uterine atony",
+   "D": "Suction dilatation and curettage for retained placenta",
+   "E": "Reassurance"
+  },
+  "answer": "E",
+  "explanation": "Lochia rubra gives way to serosa over the first weeks, so light, diminishing bleeding with a normal uterus is physiological.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02391"
+  ],
+  "stem": "A 25-year-old P1 attends 6 weeks after an uncomplicated vaginal delivery for a routine postnatal check. On bimanual examination the uterus is irregular, firm, non-tender and 18-week size. What is the most likely cause?",
+  "options": {
+   "A": "Subinvolution of the uterus",
+   "B": "Appropriate size for 6 weeks",
+   "C": "Fibroid uterus",
+   "D": "Adenomyosis",
+   "E": "Endometritis"
+  },
+  "answer": "C",
+  "explanation": "By 6 weeks the uterus is back to near normal size; a firm, irregular, enlarged non-tender uterus indicates fibroids, whereas subinvolution is boggy and tender.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02389"
+  ],
+  "stem": "On the postnatal round you see a 23-year-old P1 on postpartum day 2 after an uncomplicated vaginal delivery. She is crying and cannot help it, denies sadness or anxiety, and has slept poorly from breastfeeding every 2-3 hours. Which is the most appropriate recommendation?",
+  "options": {
+   "A": "Time and reassurance, because this condition is self-limited",
+   "B": "Referral to psychiatry for counselling and antidepressant therapy",
+   "C": "Referral to psychiatry for admission",
+   "D": "A sleep aid and help from family",
+   "E": "Referral to a psychiatrist who can administer electroconvulsive therapy"
+  },
+  "answer": "A",
+  "explanation": "Postpartum blues occur in up to 50-80% of mothers around day 3-5, resolve within 2 weeks and need only reassurance and support.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03032",
+   "C01050"
+  ],
+  "stem": "A previously energetic woman begins crying, with loss of appetite, poor sleep and low self-worth about 3 days after a normal vaginal delivery. The feelings persist for about 1 week and then fade. What is the best term for her symptoms?",
+  "options": {
+   "A": "Blues",
+   "B": "Manic depression",
+   "C": "Neurosis",
+   "D": "Psychosis",
+   "E": "Schizoaffective disorder"
+  },
+  "answer": "A",
+  "explanation": "Self-limiting tearfulness and low mood starting 3-5 days after delivery and settling within 2 weeks is postpartum blues.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02489"
+  ],
+  "stem": "A 29-year-old woman presents 3 weeks postpartum with persistent depression and difficulty bonding with her baby. What is the likely diagnosis?",
+  "options": {
+   "A": "Anxiety disorder",
+   "B": "Baby blues",
+   "C": "Postpartum depression",
+   "D": "Postpartum psychosis",
+   "E": "Sleep deprivation"
+  },
+  "answer": "C",
+  "explanation": "Depressed mood and poor bonding persisting beyond 2 weeks is postpartum depression; psychosis is marked by hallucinations, delusions and confusion, and blues resolve within 2 weeks.",
+  "key_note": "Two papers marked D (postpartum psychosis); correct is C, as there are no psychotic features.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00534",
+   "C00447",
+   "C00863"
+  ],
+  "stem": "A P1 is brought to the emergency department on the 5th day after delivery with insomnia and confusion. She is hardly sleeping or eating and believes her partner is trying to kill the baby. What is the most likely diagnosis?",
+  "options": {
+   "A": "Postnatal depression",
+   "B": "Puerperal psychosis",
+   "C": "Anxiety",
+   "D": "Postpartum blues",
+   "E": "Bipolar disorder"
+  },
+  "answer": "B",
+  "explanation": "Acute onset in the first 2 weeks with insomnia, confusion and delusions is puerperal psychosis, a psychiatric emergency with a risk of infanticide and suicide.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02534"
+  ],
+  "stem": "A woman becomes severely confused and develops hallucinations within days of delivery. Which condition requires urgent psychiatric assessment?",
+  "options": {
+   "A": "Bipolar disorder",
+   "B": "Major depressive disorder",
+   "C": "Normal postpartum adjustment",
+   "D": "Depression",
+   "E": "Postpartum psychosis"
+  },
+  "answer": "E",
+  "explanation": "Postpartum psychosis is an emergency requiring urgent psychiatric assessment and usually admission, ideally to a mother and baby unit.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03099"
+  ],
+  "stem": "A 26-year-old woman presents 1 week postpartum with agitation, confusion and auditory hallucinations. What is the most appropriate step?",
+  "options": {
+   "A": "Reassure and monitor",
+   "B": "Prescribe SSRIs",
+   "C": "Immediate psychiatric referral",
+   "D": "Start oral antipsychotics at home",
+   "E": "Admit to the medical ward"
+  },
+  "answer": "C",
+  "explanation": "Postpartum psychosis needs immediate psychiatric referral and usually admission, because of the risk of harm to mother and baby.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01830"
+  ],
+  "stem": "Which statement is true regarding mental illness in pregnancy and the puerperium?",
+  "options": {
+   "A": "The majority of women with postpartum psychiatric disorders have pre-existing mental illness",
+   "B": "In women with pre-existing psychiatric disorders, these usually improve during pregnancy",
+   "C": "The incidence of admission with puerperal psychosis is approximately 2 per cent",
+   "D": "Panic attacks should not be considered a feature of normal pregnancy",
+   "E": "Psychotropic drug therapies should be discontinued during pregnancy"
+  },
+  "answer": "D",
+  "explanation": "Panic attacks are not a normal feature of pregnancy and need assessment. Puerperal psychosis affects about 1-2 per 1000 births, and psychotropics are not routinely stopped but reviewed for risk and benefit.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00924"
+  ],
+  "stem": "Puerperal pyrexia is defined as a temperature of 38 C or higher:",
+  "options": {
+   "A": "On the first 5 days postpartum, exclusive of the first 12 hours",
+   "B": "On the first 10 days postpartum, exclusive of the first 24 hours",
+   "C": "On the first 15 days postpartum, exclusive of the first 36 hours",
+   "D": "On the first 20 days postpartum, exclusive of the first 48 hours",
+   "E": "On the first 25 days postpartum, exclusive of the first 72 hours"
+  },
+  "answer": "B",
+  "explanation": "Puerperal pyrexia is a temperature of 38 C or more on any two of the first 10 days after delivery, excluding the first 24 hours.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00816"
+  ],
+  "stem": "Most persistent fevers after childbirth are caused by which of the following?",
+  "options": {
+   "A": "Breast engorgement",
+   "B": "Pyelonephritis",
+   "C": "Atelectasis",
+   "D": "Genital tract infection",
+   "E": "DVT"
+  },
+  "answer": "D",
+  "explanation": "Genital tract infection (puerperal sepsis, mainly endometritis) is the commonest cause of persisting postpartum fever; engorgement fever is short-lived.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01049"
+  ],
+  "stem": "The most common Gram-positive organism causing puerperal sepsis is:",
+  "options": {
+   "A": "Beta-haemolytic streptococcus",
+   "B": "Staphylococcus aureus",
+   "C": "Staphylococcus epidermidis",
+   "D": "Streptococcus faecalis",
+   "E": "Enterococci"
+  },
+  "answer": "A",
+  "explanation": "Beta-haemolytic streptococci (group A and B) are the most important Gram-positive pathogens in puerperal sepsis, and group A causes the most severe, epidemic disease.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02264",
+   "C02876"
+  ],
+  "stem": "A postpartum woman has fever and foul-smelling lochia. Which organism most likely caused it?",
+  "options": {
+   "A": "E. coli",
+   "B": "Staphylococcus aureus",
+   "C": "Klebsiella",
+   "D": "Candida"
+  },
+  "answer": "A",
+  "explanation": "Puerperal endometritis is polymicrobial from ascending vaginal flora; of the options, E. coli is the commonest cause, with anaerobes.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02750"
+  ],
+  "stem": "A 25-year-old woman on day 5 postpartum complains of fever, pelvic pain and foul-smelling lochia. What is the most likely causative organism?",
+  "options": {
+   "A": "E. coli",
+   "B": "Chlamydia",
+   "C": "Klebsiella",
+   "D": "Group A Streptococcus",
+   "E": "Bacteroides"
+  },
+  "answer": "D",
+  "explanation": "Puerperal sepsis is polymicrobial; group A beta-haemolytic streptococcus is the classic and most virulent cause, usually early (days 2-5), whereas chlamydia causes late-onset endometritis.",
+  "key_note": "The papers disagreed (D in one, B chlamydia in another); D is kept as the classic exam answer, although E. coli and anaerobes also commonly contribute.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01928",
+   "C02488",
+   "C02624",
+   "C02474",
+   "C03130",
+   "C02531",
+   "C00338",
+   "C00794",
+   "C01561"
+  ],
+  "stem": "A 24-year-old woman presents 4 days after a normal vaginal delivery with fever, foul-smelling lochia and suprapubic tenderness. What is the most likely diagnosis?",
+  "options": {
+   "A": "Endometritis",
+   "B": "Mastitis",
+   "C": "Pelvic haematoma",
+   "D": "Urinary tract infection",
+   "E": "Wound infection"
+  },
+  "answer": "A",
+  "explanation": "Fever, offensive lochia and a tender uterus in the first week postpartum is puerperal endometritis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03121"
+  ],
+  "stem": "A 34-year-old G3P3 is 4 days postpartum after caesarean with fever, tachycardia and lower abdominal pain. The uterus is tender and palpable above the umbilicus, lochia is purulent, and she has chills and malaise. WBC is 18000 with raised CRP. What is the most appropriate next step?",
+  "options": {
+   "A": "Send high vaginal swab and start broad-spectrum antibiotics",
+   "B": "Perform ultrasound and proceed to MVA to control the infection",
+   "C": "Order a pelvic MRI",
+   "D": "Admit her and send baseline investigations with monitoring",
+   "E": "Administer intravenous fluids and analgesics"
+  },
+  "answer": "A",
+  "explanation": "Treat suspected endometritis promptly with cultures and IV broad-spectrum antibiotics (for example clindamycin plus gentamicin, or co-amoxiclav with metronidazole); imaging or evacuation is for non-response.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02810",
+   "C03139"
+  ],
+  "stem": "A 24-year-old woman on day 5 after normal vaginal delivery has fever of 38.8 C, a tender subinvoluted uterus, foul-smelling lochia, Hb 9 g/dL and TLC 20,000/mm3. Which is the most appropriate investigation to establish the diagnosis?",
+  "options": {
+   "A": "Endometrial biopsy with culture",
+   "B": "Blood culture and complete blood count",
+   "C": "High vaginal swab for culture and sensitivity",
+   "D": "Transvaginal ultrasound to assess the uterine cavity",
+   "E": "C-reactive protein (CRP) level"
+  },
+  "answer": "C",
+  "explanation": "Endometritis is a clinical diagnosis; the microbiological investigation is high vaginal and endocervical swab culture (with blood cultures if septic), which guides antibiotic choice. Ultrasound is for suspected retained products or collection.",
+  "key_note": "The papers were split between C (high vaginal swab) and D (transvaginal ultrasound); C is kept as the test that establishes the infection.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03030"
+  ],
+  "stem": "A 40-year-old multiparous woman returns 2 days after discharge, 7 days after elective caesarean, with temperature 38.6 C, pulse 120/min and BP 90/45 mmHg. There is no focus of infection on examination. Which test suggests sepsis?",
+  "options": {
+   "A": "Blood urea of 30 mg/dl (normal 5-20)",
+   "B": "Blood sugar of 140 mg/dl (normal 90-110)",
+   "C": "C-reactive protein of 46 mg/l (normal below 10)",
+   "D": "Serum lactate 1.5 mmol/L (normal 0.5-2.2)",
+   "E": "White cell count 12 x 10^9/L (normal 4-11)"
+  },
+  "answer": "C",
+  "explanation": "A markedly raised CRP supports sepsis; lactate here is normal and a WBC of 12 is within the expected range after surgery.",
+  "key_note": "Normal lactate range in the source was misprinted as 5-22; corrected to 0.5-2.2.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01929"
+  ],
+  "stem": "A 30-year-old woman presents on day 6 postpartum with high-grade fever, tachycardia, hypotension, foul-smelling lochia and abdominal distension. What is the next best step in management?",
+  "options": {
+   "A": "Broad-spectrum IV antibiotics",
+   "B": "Discharge on oral antibiotics",
+   "C": "Immediate hysterectomy",
+   "D": "Oral analgesics only",
+   "E": "Stop breastfeeding"
+  },
+  "answer": "A",
+  "explanation": "Puerperal sepsis with haemodynamic compromise requires urgent resuscitation and IV broad-spectrum antibiotics (sepsis six); surgery is only for failure or collection.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02582"
+  ],
+  "stem": "A woman has had a recent uncomplicated vaginal delivery and has developed significant postpartum pyrexia and tachycardia. She is breastfeeding and allergic to penicillin. You suspect puerperal sepsis and want to start treatment before investigations return. Which is the safest antibiotic regime?",
+  "options": {
+   "A": "Cefuroxime plus metronidazole",
+   "B": "Clindamycin plus metronidazole",
+   "C": "Co-amoxiclav plus metronidazole",
+   "D": "Tetracycline plus metronidazole",
+   "E": "Amoxicillin plus metronidazole"
+  },
+  "answer": "B",
+  "explanation": "In penicillin allergy avoid beta-lactams; clindamycin (usually with gentamicin) plus metronidazole covers streptococci, coliforms and anaerobes and is compatible with breastfeeding. Tetracycline is contraindicated in lactation.",
+  "key_note": "One paper marked A (cefuroxime), which carries cross-reactivity risk in penicillin allergy; B is kept.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02387",
+   "C01633"
+  ],
+  "stem": "A 32-year-old P2 develops fever and uterine tenderness 2 days after emergency caesarean section and is put on IV penicillin and gentamicin. After 48 hours she remains febrile with uterine tenderness. Which bacterium is resistant to these antibiotics and most likely responsible?",
+  "options": {
+   "A": "Proteus mirabilis",
+   "B": "Bacteroides fragilis",
+   "C": "Escherichia coli",
+   "D": "Alpha-haemolytic streptococci",
+   "E": "Anaerobic streptococci"
+  },
+  "answer": "B",
+  "explanation": "Penicillin plus gentamicin do not cover Bacteroides fragilis, the commonest anaerobe in postpartum endometritis; adding clindamycin or metronidazole corrects the failure.",
+  "key_note": "One paper's marks fell on E. coli and anaerobic streptococci; the other marked B. B is correct, as gentamicin covers E. coli and penicillin covers anaerobic streptococci.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01232"
+  ],
+  "stem": "A 25-year-old woman develops a wound infection after elective LSCS. What is the single most likely causative organism?",
+  "options": {
+   "A": "Escherichia coli",
+   "B": "Haemophilus influenzae",
+   "C": "Pseudomonas",
+   "D": "Methicillin-resistant Staphylococcus aureus",
+   "E": "Staphylococcus aureus"
+  },
+  "answer": "E",
+  "explanation": "Staphylococcus aureus (skin flora) is the commonest cause of caesarean wound infection; MRSA is less common in elective cases.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01998"
+  ],
+  "stem": "A 38-year-old P4 presents 10 days postpartum after emergency LSCS following prolonged labour and PROM. She has fever, altered sensorium and focal fits. What is the most likely diagnosis?",
+  "options": {
+   "A": "Cerebral venous sinus thrombosis",
+   "B": "Intracranial haemorrhage",
+   "C": "Cerebral aneurysm",
+   "D": "Meningitis",
+   "E": "Septicaemia"
+  },
+  "answer": "A",
+  "explanation": "Focal seizures with fever and altered consciousness in the puerperium indicate cerebral venous sinus thrombosis (septic in this setting): the hypercoagulable puerperium, caesarean and infection are risk factors.",
+  "key_note": "Paper key marked E (septicaemia), with a question mark in the margin; septicaemia does not explain focal fits, so A is chosen as best answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02611",
+   "C02266",
+   "C02878",
+   "C02532"
+  ],
+  "stem": "A 30-year-old postpartum woman presents 4 days after delivery with breast pain, erythema and fever. What is the most likely diagnosis?",
+  "options": {
+   "A": "Breast engorgement",
+   "B": "Plugged duct",
+   "C": "Mastitis",
+   "D": "Breast abscess",
+   "E": "Cellulitis"
+  },
+  "answer": "C",
+  "explanation": "A tender, red, warm breast with fever in a lactating woman is mastitis; abscess implies a fluctuant collection, and engorgement is bilateral without erythema.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01675"
+  ],
+  "stem": "A P1+0 presents on the 4th postnatal day with fever, rigors, chills, pain and engorgement of the right breast. You diagnose mastitis. The most common infecting organism is:",
+  "options": {
+   "A": "Staphylococcus aureus",
+   "B": "Streptococcus pneumoniae",
+   "C": "Klebsiella",
+   "D": "Proteus",
+   "E": "Pseudomonas"
+  },
+  "answer": "A",
+  "explanation": "Staphylococcus aureus from the infant's nose and mouth entering through nipple fissures is the usual organism in lactational mastitis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03031"
+  ],
+  "stem": "A 30-year-old P2 presents to the labour ward with mastalgia, fever and flu-like symptoms. Her breasts are engorged, swollen and erythematous. Which antibiotic will you advise empirically until culture and sensitivity are awaited?",
+  "options": {
+   "A": "Ampicillin",
+   "B": "Amikacin",
+   "C": "Linezolid",
+   "D": "Flucloxacillin",
+   "E": "Metronidazole"
+  },
+  "answer": "D",
+  "explanation": "Flucloxacillin covers penicillinase-producing Staphylococcus aureus, the usual cause; erythromycin or clindamycin if penicillin-allergic.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03073",
+   "C02486"
+  ],
+  "stem": "A 4-day postpartum woman has severe unilateral breast pain, erythema and fever of 38.5 C while breastfeeding. What is the best initial management?",
+  "options": {
+   "A": "Stop breastfeeding and start broad IV antibiotics",
+   "B": "Continue breastfeeding and start appropriate oral antibiotics",
+   "C": "Incision and drainage immediately",
+   "D": "High-dose steroids",
+   "E": "Wean the baby and observe only"
+  },
+  "answer": "B",
+  "explanation": "Mastitis is managed with oral antibiotics and continued, frequent breastfeeding or expression, which prevents abscess formation; the milk is safe for the baby.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00664",
+   "C01930"
+  ],
+  "stem": "A 28-year-old woman, 3 weeks postpartum and breastfeeding, has a painful, red, swollen right breast with fever for 2 days, a fluctuant mass in the upper outer quadrant, erythematous skin and no nipple discharge. What is the most likely diagnosis and next step?",
+  "options": {
+   "A": "Acute mastitis; recommend frequent breastfeeding and antibiotics",
+   "B": "Breast abscess; start antibiotics and arrange drainage",
+   "C": "Engorgement; advise warm compresses and manual expression",
+   "D": "Galactocele; perform aspiration of the mass",
+   "E": "Fibroadenoma; refer for biopsy"
+  },
+  "answer": "B",
+  "explanation": "A fluctuant tender mass with systemic signs is a breast abscess: antibiotics plus drainage (needle aspiration or incision), with breastfeeding continued from the unaffected side.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02485"
+  ],
+  "stem": "A 25-year-old woman 10 days postpartum presents with fever, calf pain and swelling of the left leg. What is the most likely diagnosis?",
+  "options": {
+   "A": "Cellulitis",
+   "B": "Deep vein thrombosis",
+   "C": "Endometritis",
+   "D": "Mastitis",
+   "E": "Pulmonary embolism"
+  },
+  "answer": "B",
+  "explanation": "Unilateral calf pain and swelling in the puerperium (a hypercoagulable state) is DVT until proved otherwise.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02487"
+  ],
+  "stem": "A woman develops severe breathlessness 2 weeks after delivery following DVT. What is the most likely diagnosis?",
+  "options": {
+   "A": "Amniotic fluid embolism",
+   "B": "Cardiac failure",
+   "C": "Pleural effusion",
+   "D": "Pneumonia",
+   "E": "Pulmonary embolism"
+  },
+  "answer": "E",
+  "explanation": "Breathlessness after DVT is pulmonary embolism from embolisation of the thrombus; amniotic fluid embolism occurs during or immediately after delivery.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00210"
+  ],
+  "stem": "A 35-year-old P4 presents 3 weeks after delivery with lower abdominal pain and fever of 100-102 F. On speculum examination there is foul-smelling vaginal discharge. On bimanual examination the uterus is 14 weeks size and soft. What is the most important investigation to find the cause?",
+  "options": {
+   "A": "Blood CP",
+   "B": "Urine R.E",
+   "C": "HVS for C/S",
+   "D": "USG of fetus",
+   "E": "Blood for C/S"
+  },
+  "answer": "C",
+  "explanation": "This is secondary postpartum endometritis with subinvolution and retained products; a high vaginal swab for culture and sensitivity identifies the causative organism and guides antibiotics.",
+  "key_note": "",
+  "figure": ""
+ }
+]

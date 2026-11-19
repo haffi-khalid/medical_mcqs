@@ -1,0 +1,237 @@
+[
+ {
+  "cids": [
+   "C00877"
+  ],
+  "stem": "The number of maternal deaths in a given period per 100,000 women of reproductive age during the same time period is known as the:",
+  "options": {
+   "A": "Maternal mortality",
+   "B": "Maternal mortality ratio",
+   "C": "Maternal mortality rate",
+   "D": "Average maternal mortality",
+   "E": "Maternal mortality survey"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "The maternal mortality rate uses women of reproductive age as the denominator, whereas the maternal mortality ratio uses live births.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03048"
+  ],
+  "stem": "The maternal mortality ratio (MMR) is the number of maternal deaths per:",
+  "options": {
+   "A": "100,000 maternities",
+   "B": "100,000 pregnancies",
+   "C": "100,000 stillbirths",
+   "D": "100,000 live births",
+   "E": "100,000 total births"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "MMR is expressed per 100,000 live births.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01685"
+  ],
+  "stem": "Early neonatal death is defined as death of the baby during:",
+  "options": {
+   "A": "The 1st week after birth",
+   "B": "The 2nd week after birth",
+   "C": "The 3rd week after birth",
+   "D": "The 4th week after birth",
+   "E": "The 5th week after birth"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Early neonatal death is death in the first 7 days of life; late neonatal death is from day 7 to 28.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00249"
+  ],
+  "stem": "A 30-year-old woman at 7 weeks of gestation presents with severe right iliac fossa pain, pulse 120/min, BP 80/50 mmHg and abdominal guarding. Ultrasound shows an empty uterus, a complex left adnexal mass and free fluid in the pouch of Douglas. She dies on the operating table during laparotomy. How is this maternal death classified?",
+  "options": {
+   "A": "Coincidental",
+   "B": "Fortuitous",
+   "C": "Indirect",
+   "D": "Accidental",
+   "E": "Direct"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Death from ectopic pregnancy is a direct obstetric death, arising from a complication of pregnancy itself. Indirect deaths are due to pre-existing or newly developed disease aggravated by pregnancy.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02490"
+  ],
+  "stem": "Which of the following is the leading direct cause of maternal mortality in developing countries?",
+  "options": {
+   "A": "Embolism",
+   "B": "Haemorrhage (PPH)",
+   "C": "Hypertensive disorders",
+   "D": "Sepsis",
+   "E": "Unsafe abortion"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Obstetric haemorrhage, mainly postpartum, is the leading direct cause of maternal death in low-resource settings.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00579"
+  ],
+  "stem": "A hypertensive multigravida with a BMI of 45 has a complicated labour, undergoes emergency caesarean section for fetal distress and dies shortly after delivery. Which cause of maternal mortality is independent of her BMI?",
+  "options": {
+   "A": "Amniotic fluid embolism",
+   "B": "Anaesthetic complication",
+   "C": "Pre-eclampsia",
+   "D": "Sepsis",
+   "E": "Venous thromboembolism"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Obesity increases the risk of anaesthetic (difficult airway) complications, hypertensive disease, thromboembolism and infection, whereas amniotic fluid embolism has no established link with BMI.",
+  "key_note": "The paper key marked D (Sepsis); obesity is also a recognised risk factor for sepsis and wound infection, so A is the best answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01851"
+  ],
+  "stem": "Worldwide, which of the following is the most common medical problem during pregnancy?",
+  "options": {
+   "A": "Diabetes",
+   "B": "Pre-eclampsia",
+   "C": "Heart disease",
+   "D": "Urinary tract infection",
+   "E": "Iron-deficiency anaemia"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Iron-deficiency anaemia is the commonest medical disorder of pregnancy worldwide, especially in developing countries.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01130"
+  ],
+  "stem": "Which of the following is common in teenage pregnancy?",
+  "options": {
+   "A": "A genetically abnormal conceptus",
+   "B": "Fetal death",
+   "C": "Low birth weight",
+   "D": "Premature delivery",
+   "E": "Uterine dysfunction"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Low birth weight is the characteristic outcome in adolescent pregnancy, linked to poor nutrition, immaturity and late booking.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02494",
+   "C03111"
+  ],
+  "stem": "According to WHO, which intervention most effectively reduces maternal mortality globally?",
+  "options": {
+   "A": "Home delivery with midwives only",
+   "B": "Increased caesarean rate",
+   "C": "Routine ultrasound screening",
+   "D": "Skilled birth attendance and emergency obstetric care",
+   "E": "Widespread contraception"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Skilled attendance at birth with access to emergency obstetric care is the key proven strategy for reducing maternal deaths.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02493"
+  ],
+  "stem": "A patient with eclampsia dies due to delayed referral. How is this delay classified under the Three Delays Model?",
+  "options": {
+   "A": "Delay in diagnosis",
+   "B": "Delay in decision to seek care",
+   "C": "Delay in follow-up",
+   "D": "Delay in reaching care",
+   "E": "Delay in receiving adequate care"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "The three delays are: deciding to seek care, reaching a facility, and receiving adequate care at the facility. Delayed referral and treatment within the health system is the third delay.",
+  "key_note": "One paper key marked D (Delay in reaching care); E is preferred as referral delay at facility level falls under receiving adequate care.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02491"
+  ],
+  "stem": "A hospital is introducing maternal death audits. What is the main objective of this process?",
+  "options": {
+   "A": "Document statistics only",
+   "B": "Identify preventable factors and improve care",
+   "C": "Notify public health authorities",
+   "D": "Punish negligent staff",
+   "E": "Assign legal responsibility"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Maternal death review is a non-punitive process aimed at identifying avoidable factors and improving quality of care.",
+  "key_note": "One paper key marked A (Document statistics only); correct is B.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02492"
+  ],
+  "stem": "During a busy labour ward shift, a nurse mistakenly gives a 20 U oxytocin IV bolus and the patient collapses. What immediate system improvement is recommended?",
+  "options": {
+   "A": "Reduce oxytocin use",
+   "B": "Remove oxytocin from the ward",
+   "C": "Train staff on safe drug handling",
+   "D": "Use handwritten drug orders",
+   "E": "Avoid electronic records"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Medication errors are addressed by systems measures such as staff training, standard protocols and checks, not by removing essential drugs.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00542"
+  ],
+  "stem": "As coordinator of the final year clerkship you want to assess students' history taking and examination skills. Which assessment tool is most appropriate?",
+  "options": {
+   "A": "Case based discussion",
+   "B": "Objective structured clinical examination",
+   "C": "Mini-CEX",
+   "D": "Team observation",
+   "E": "Skill sessions"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "The mini clinical evaluation exercise (mini-CEX) is a workplace-based tool in which a student is observed taking a history and examining a real patient.",
+  "key_note": "",
+  "figure": ""
+ }
+]

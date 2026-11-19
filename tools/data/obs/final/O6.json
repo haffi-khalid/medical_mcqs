@@ -1,0 +1,2549 @@
+[
+ {
+  "cids": [
+   "C00413",
+   "C02954"
+  ],
+  "stem": "A 28-year-old G2P1 attends the antenatal clinic at 30 weeks. Her symphysiofundal height is 36 cm and you suspect polyhydramnios. Polyhydramnios is defined as an amniotic fluid index (AFI) of more than:",
+  "options": {
+   "A": "5cm",
+   "B": "10cm",
+   "C": "15 cm",
+   "D": "20 cm",
+   "E": "25 cm"
+  },
+  "answer": "E",
+  "explanation": "Polyhydramnios is an AFI above 24-25 cm (or a deepest vertical pool above 8 cm). An AFI below 5 cm defines oligohydramnios.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01618",
+   "C01610"
+  ],
+  "stem": "Oligohydramnios is defined as an amniotic fluid index (AFI) of less than:",
+  "options": {
+   "A": "2 cm",
+   "B": "5 cm",
+   "C": "8 cm",
+   "D": "9 cm",
+   "E": "10 cm"
+  },
+  "answer": "B",
+  "explanation": "Oligohydramnios is an AFI below 5 cm (or a deepest vertical pool below 2 cm); AFI 5-8 cm is borderline low.",
+  "key_note": "One paper's different option set (AFI <14, <10, <12, <11, <15 cm) had no correct cut-off and keyed <10 cm; the standard definition is below 5 cm.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01501"
+  ],
+  "stem": "A 35-year-old G2P1 with regular antenatal care attends at 30 weeks. Her symphysiofundal height is 34 cm. Which investigation will you request immediately to find the reason for the large fundal height?",
+  "options": {
+   "A": "Anomaly ultrasound",
+   "B": "Dating ultrasound",
+   "C": "75g OGTT",
+   "D": "Obstetric ultrasound",
+   "E": "Fasting blood sugar"
+  },
+  "answer": "D",
+  "explanation": "Fundal height 4 cm above dates suggests polyhydramnios, macrosomia, multiple pregnancy or wrong dates. An obstetric scan (liquor volume, number, biometry, presentation) answers these at once; OGTT follows if indicated.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01034"
+  ],
+  "stem": "Which ONE of the following does NOT cause polyhydramnios?",
+  "options": {
+   "A": "Diabetes",
+   "B": "Multiple gestation",
+   "C": "Duodenal atresia",
+   "D": "Anencephaly",
+   "E": "Renal agenesis"
+  },
+  "answer": "E",
+  "explanation": "Diabetes, multiple pregnancy and fetal swallowing defects (duodenal atresia, anencephaly) cause polyhydramnios. Renal agenesis causes oligohydramnios or anhydramnios because there is no fetal urine.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00634"
+  ],
+  "stem": "A patient attends for routine antenatal checkup at 32 weeks. Fundal height is 37 cm and laboratory investigations are normal. Ultrasound shows an AFI of 30 cm and a frog-like appearance of the fetal eyes. Which is the most likely cause of the polyhydramnios?",
+  "options": {
+   "A": "Duodenal atresia",
+   "B": "Renal atresia",
+   "C": "Pulmonary hypoplasia",
+   "D": "Anencephaly",
+   "E": "Hydrocephalus"
+  },
+  "answer": "D",
+  "explanation": "Bulging orbits (frog-like eyes) are the classic scan sign of anencephaly, which causes polyhydramnios through impaired swallowing. Duodenal atresia gives the double bubble sign.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00655"
+  ],
+  "stem": "A 34-year-old G2P1 presents at 30 weeks for a routine scan. Fundal height is 35 cm. Ultrasound shows a single live fetus with appropriate weight, normal anatomy and an AFI of 28 cm. Her random glucose at booking was 9 mmol/L. What is the most appropriate next step?",
+  "options": {
+   "A": "Reassure and schedule routine follow-up",
+   "B": "Repeat ultrasound in one week to monitor AFI",
+   "C": "Offer OGTT to screen gestational diabetes",
+   "D": "Arrange amnioreduction to relieve symptoms",
+   "E": "Initiate antenatal corticosteroids for risk of preterm labour"
+  },
+  "answer": "C",
+  "explanation": "Polyhydramnios with a normal anatomy scan and a raised random glucose points to maternal diabetes, so OGTT is the next step. Amnioreduction is only for symptomatic cases.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01060"
+  ],
+  "stem": "A 37-year-old pregnant woman with poorly controlled diabetes presents with shortness of breath and abdominal discomfort. BP 100/70 mmHg, pulse 82/min, temperature 98 F. Ultrasound shows an AFI of 27 cm. What is the next step in management?",
+  "options": {
+   "A": "Control BSL",
+   "B": "Amnioreduction",
+   "C": "Anomaly scan",
+   "D": "IOL",
+   "E": "Dexa cover"
+  },
+  "answer": "B",
+  "explanation": "Symptomatic (dyspnoeic, uncomfortable) polyhydramnios is treated by therapeutic amnioreduction, together with tight glycaemic control.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01712",
+   "C02736"
+  ],
+  "stem": "A G2P1 presents at 39 weeks. Ultrasound shows an AFI of 25 cm. Which obstetric emergency is associated with this condition?",
+  "options": {
+   "A": "Shoulder Dystocia",
+   "B": "Uterine Inversion",
+   "C": "Cord Prolapse",
+   "D": "Ruptured Uterus",
+   "E": "Retained placenta"
+  },
+  "answer": "C",
+  "explanation": "Polyhydramnios gives a high, unstable presenting part and malpresentation, so cord prolapse (and abruption after sudden rupture) is the classic emergency.",
+  "key_note": "The paper key marked A (shoulder dystocia), but an annotated copy circled cord prolapse; shoulder dystocia goes with macrosomia, not polyhydramnios.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01033"
+  ],
+  "stem": "Which ONE of the following does NOT cause oligohydramnios/anhydramnios?",
+  "options": {
+   "A": "Renal Agenesis",
+   "B": "Multicystic kidneys",
+   "C": "FGR",
+   "D": "Maternal drugs",
+   "E": "GDM"
+  },
+  "answer": "E",
+  "explanation": "Gestational diabetes causes polyhydramnios. Renal agenesis, multicystic kidneys, FGR (low renal perfusion) and drugs such as ACE inhibitors or NSAIDs cause oligohydramnios.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00550",
+   "C00977",
+   "C00847",
+   "C03163",
+   "C02574"
+  ],
+  "stem": "An unbooked elderly primigravida presents at 26 weeks with an ultrasound showing anhydramnios. What is the most likely cause?",
+  "options": {
+   "A": "Gestational diabetes",
+   "B": "Fetal renal agenesis",
+   "C": "Fetal cleft lip & palate",
+   "D": "Fetal duodenal atresia",
+   "E": "Fetal esophageal atresia"
+  },
+  "answer": "B",
+  "explanation": "After 16 weeks the liquor is mainly fetal urine, so bilateral renal agenesis (Potter sequence) gives anhydramnios. Oesophageal and duodenal atresia cause polyhydramnios.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00834"
+  ],
+  "stem": "A 35-year-old G6P2+3, 28 weeks by LMP but 21 weeks by ultrasound, has a symphysiofundal height of 22 cm. Ultrasound shows an enlarged fetal bladder, hydroureter and severe oligohydramnios (AFI zero). What is the most likely underlying diagnosis?",
+  "options": {
+   "A": "Tracheo-esophageal fistula",
+   "B": "IUGR",
+   "C": "Bladder out flow obstruction",
+   "D": "Antiphospholipid syndrome",
+   "E": "Spina bifida"
+  },
+  "answer": "C",
+  "explanation": "A distended bladder with hydroureter and absent liquor means fetal urine cannot leave the bladder, for example posterior urethral valves.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00633",
+   "C01052",
+   "C01025"
+  ],
+  "stem": "A 32-year-old primigravida with known hypertension controlled on labetalol attends at 21 weeks. BP is 140/100 mmHg, fundal height 16 cm and ultrasound shows an AFI of 3 cm. Which fetal complication is most likely?",
+  "options": {
+   "A": "Skeletal dysplasia",
+   "B": "Pulmonary hypoplasia",
+   "C": "Microcephaly",
+   "D": "Limb hypoplasia",
+   "E": "Intrauterine fetal death"
+  },
+  "answer": "B",
+  "explanation": "Severe oligohydramnios in the second trimester prevents lung expansion and growth, causing pulmonary hypoplasia, the main cause of death in Potter sequence.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01709",
+   "C03104"
+  ],
+  "stem": "A booked primigravida at 34+4 weeks has a fundal height of 32 cm. Ultrasound shows a single live fetus of 32 weeks with an AFI of 5 cm. What is the next step in management?",
+  "options": {
+   "A": "Biophysical profile",
+   "B": "Cardiotocography",
+   "C": "Detailed anomaly scan",
+   "D": "Fetal Doppler",
+   "E": "Reassessment after 10 days"
+  },
+  "answer": "D",
+  "explanation": "A fetus smaller than dates with low liquor suggests growth restriction from placental insufficiency; umbilical artery Doppler is the key surveillance test.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00944"
+  ],
+  "stem": "What is the most likely cause of malpresentation in a multigravida?",
+  "options": {
+   "A": "Macrosomia",
+   "B": "Fibroid uterus",
+   "C": "Polyhydramnios",
+   "D": "Decreased abdominal muscle tone",
+   "E": "Placenta previa"
+  },
+  "answer": "D",
+  "explanation": "A lax abdominal wall and uterus in the multiparous woman allow the fetus to lie unstably or in a malpresentation.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00861"
+  ],
+  "stem": "A 39-year-old G8P7 had a cephalic presentation at 35 weeks and now at 37 weeks she has a breech presentation. This is called:",
+  "options": {
+   "A": "Transverse lie",
+   "B": "Unstable lie",
+   "C": "Oblique lie",
+   "D": "Longitudinal lie",
+   "E": "Stable lie"
+  },
+  "answer": "B",
+  "explanation": "A lie that keeps changing late in pregnancy is an unstable lie; it is typical of grand multiparity (lax uterus) or polyhydramnios.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00860"
+  ],
+  "stem": "A 28-year-old G2P0A1 presents at 37 weeks with a transverse lie. This presentation is usually associated with the following EXCEPT:",
+  "options": {
+   "A": "Polyhydramnios",
+   "B": "Placenta previa",
+   "C": "Uterine abnormalities",
+   "D": "Oligohydramnios",
+   "E": "Fibroid in the lower segment"
+  },
+  "answer": "D",
+  "explanation": "Polyhydramnios, praevia, fibroids and uterine anomalies prevent engagement or allow free fetal movement and favour transverse lie. Oligohydramnios restricts movement and is not a cause.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00573"
+  ],
+  "stem": "A primigravida in early labour at 38 weeks has a fundal height of 34 cm and the head in the right iliac fossa. She has moderate contractions. On vaginal examination she is 3 cm dilated and no fetal part is palpable. What is the most likely presentation?",
+  "options": {
+   "A": "Breech presentation",
+   "B": "Shoulder presentation",
+   "C": "Brow presentation",
+   "D": "Face presentation",
+   "E": "Cephalic presentation"
+  },
+  "answer": "B",
+  "explanation": "Head in the iliac fossa means transverse lie, and an empty pelvis on vaginal examination fits a shoulder presentation.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00660"
+  ],
+  "stem": "A 32-year-old G3P2 at 37 weeks has the fetal head in the left flank and the buttocks in the right flank. Ultrasound confirms a transverse lie with no contraindication to vaginal delivery. What is the most appropriate next step?",
+  "options": {
+   "A": "Offer External cephalic version",
+   "B": "Elective caesarean section today",
+   "C": "Corticosteroid therapy for fetus",
+   "D": "Wait for spontaneous correction of fetal lie",
+   "E": "Induction of labour at 38 weeks"
+  },
+  "answer": "A",
+  "explanation": "A transverse lie at term without contraindications should be offered ECV; caesarean is planned if it fails or the lie becomes unstable.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01136",
+   "C00862",
+   "C02526",
+   "C02554",
+   "C02737"
+  ],
+  "stem": "A G3P2 with previous vaginal deliveries presents at 37 weeks with BP 140/90 mmHg. Ultrasound shows a normal fetus in transverse lie and the cervix is 5 cm dilated. What is the best option?",
+  "options": {
+   "A": "Caesarean section",
+   "B": "Internal podalic version",
+   "C": "External podalic version",
+   "D": "Watch for spontaneous progress of labour",
+   "E": "I/v fluids"
+  },
+  "answer": "A",
+  "explanation": "Transverse lie in established labour needs caesarean section. Internal podalic version is reserved for the second twin; external version is not used in labour.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01630"
+  ],
+  "stem": "A 24-year-old G3P2 at 40 weeks has a fetus in transverse lie. Which is the most appropriate procedure?",
+  "options": {
+   "A": "External version",
+   "B": "Internal version",
+   "C": "Midforceps rotation",
+   "D": "Low transverse cesarean section",
+   "E": "Classic cesarean section"
+  },
+  "answer": "D",
+  "explanation": "Transverse lie at term is delivered by lower segment caesarean section. A classical incision is reserved for special cases such as a poorly formed lower segment.",
+  "key_note": "The printed key marked E (classical caesarean) but an annotated copy circled D; the low transverse incision is the standard choice.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01009"
+  ],
+  "stem": "A primigravida has an ultrasound at 37 weeks showing breech presentation. What is the incidence of breech presentation at term?",
+  "options": {
+   "A": "3-4%",
+   "B": "1-2%",
+   "C": "5-6%",
+   "D": "7-8%",
+   "E": "8-10%"
+  },
+  "answer": "A",
+  "explanation": "Breech presents in about 3-4% of term pregnancies, but in about 20-25% at 28-32 weeks, because most babies turn spontaneously.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01046"
+  ],
+  "stem": "Which ONE of the following is NOT a predisposing factor for breech presentation?",
+  "options": {
+   "A": "Fibroid",
+   "B": "Multiple gestation",
+   "C": "Placenta Previa",
+   "D": "Prematurity",
+   "E": "Esophageal atresia"
+  },
+  "answer": "E",
+  "explanation": "Fibroids, multiple pregnancy, placenta praevia and prematurity all predispose to breech. Oesophageal atresia causes polyhydramnios, not breech.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01602",
+   "C01714"
+  ],
+  "stem": "A 28-year-old G2P1 attends antenatal clinic at 32 weeks and has a breech presentation. Ultrasound shows an average-sized fetus, a fundal placenta and normal liquor. What is the most appropriate plan?",
+  "options": {
+   "A": "External cephalic version",
+   "B": "Elective C section",
+   "C": "Emergency c section",
+   "D": "Wait till 37 weeks",
+   "E": "Wait till 35 weeks"
+  },
+  "answer": "D",
+  "explanation": "Breech is common before 36 weeks and most babies turn spontaneously, so no intervention is needed at 32 weeks. Reassess at 36-37 weeks and offer ECV if still breech.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00532",
+   "C02263",
+   "C02875"
+  ],
+  "stem": "A G2P1 attends antenatal clinic at 32 weeks with breech presentation. She asks when external cephalic version would be performed. When should it be done?",
+  "options": {
+   "A": "34 weeks",
+   "B": "35 weeks",
+   "C": "36 weeks",
+   "D": "37 weeks",
+   "E": "In latent phase of labour"
+  },
+  "answer": "D",
+  "explanation": "ECV is offered from 36 weeks in nulliparae and from 37 weeks in multiparae (as here). Earlier attempts are not done because most babies turn spontaneously and reversion is common.",
+  "key_note": "Recall question; 36 weeks (primigravida) is also quoted by RCOG, but the source key is 37 weeks.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00859"
+  ],
+  "stem": "A 29-year-old G3P1A1 with a previous caesarean section attends antenatal clinic at 35 weeks and has a breech presentation. You inform her that she can be safely delivered at 38 weeks by:",
+  "options": {
+   "A": "Vaginal delivery",
+   "B": "Elective cesarean section",
+   "C": "Emergency cesarean section",
+   "D": "Vacuum extraction",
+   "E": "Breech extraction"
+  },
+  "answer": "B",
+  "explanation": "Term breech with a uterine scar is delivered by planned caesarean section at 38-39 weeks; vaginal breech delivery is avoided with a scar.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01047"
+  ],
+  "stem": "A pregnant woman at 36 weeks with breech presentation agrees to ECV. What is the most common complication of ECV?",
+  "options": {
+   "A": "Placental abruption",
+   "B": "Cord accident",
+   "C": "Premature rupture of the membranes",
+   "D": "Fetal bradycardia",
+   "E": "Uterine rupture"
+  },
+  "answer": "D",
+  "explanation": "Transient fetal bradycardia is the commonest complication of ECV, which is why CTG is done before and after. Abruption, cord accident, PROM and uterine rupture are rarer.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00835"
+  ],
+  "stem": "Recognized complications of external cephalic version are all EXCEPT:",
+  "options": {
+   "A": "True knot in cord",
+   "B": "Fetal bradycardia",
+   "C": "Placental abruption",
+   "D": "Transient maternal hypertension",
+   "E": "Premature rupture of the membrane"
+  },
+  "answer": "A",
+  "explanation": "ECV can cause fetal bradycardia, placental abruption, PROM and cord entanglement. A true knot forms early in pregnancy and is not produced by ECV.",
+  "key_note": "Paper key (true knot) kept; the option 'transient maternal hypertension' is also debatable.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01093"
+  ],
+  "stem": "Regarding the diagnosis of prolonged pregnancy, which part of the assessment will help you most accurately?",
+  "options": {
+   "A": "Last menstrual period",
+   "B": "Regularity of periods",
+   "C": "Early Ultrasound",
+   "D": "Past H/O of prolonged pregnancy",
+   "E": "Family h/o prolonged pregnancy"
+  },
+  "answer": "C",
+  "explanation": "A first-trimester scan (crown-rump length) dates a pregnancy more accurately than LMP and prevents wrongly labelling a pregnancy as post-term.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01027"
+  ],
+  "stem": "A primigravida presents in OPD with a post-dates pregnancy. Which risk is associated with this condition?",
+  "options": {
+   "A": "Uterine Atony",
+   "B": "Vasa Praevia",
+   "C": "Still Birth",
+   "D": "IUGR",
+   "E": "Placental Abruption"
+  },
+  "answer": "C",
+  "explanation": "Post-term placental ageing raises the risk of stillbirth and perinatal death, meconium aspiration and oligohydramnios.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01092"
+  ],
+  "stem": "Prolonged pregnancy is defined as a pregnancy beyond 42 completed weeks. Choose the single best option that can lead to MATERNAL morbidity:",
+  "options": {
+   "A": "Decrease in placental function &Intra uterine fetal death",
+   "B": "Decrease in liquor volume & fetal distress in labour",
+   "C": "Shoulder dystocia & birth trauma",
+   "D": "Meconium aspiration syndrome & Low Apgar Score",
+   "E": "Prolonged labour & increased risk of CS"
+  },
+  "answer": "E",
+  "explanation": "Maternal morbidity of post-term pregnancy comes from prolonged labour, operative delivery and caesarean section; the other options are fetal or neonatal risks.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01120"
+  ],
+  "stem": "Which of the following is the most important indicator of fetal demise in the biophysical profile for risk assessment of a post-term fetus?",
+  "options": {
+   "A": "Amniotic fluid volume",
+   "B": "Contraction stress test",
+   "C": "Fetal body movement",
+   "D": "Fetal breathing movement",
+   "E": "Fetal tone"
+  },
+  "answer": "C",
+  "explanation": "Fetal gross body movement (with tone) is the last BPP variable to be lost, so its absence signals severe hypoxia and imminent demise.",
+  "key_note": "Both source keys marked fetal body movement; note that liquor volume is the best chronic marker in post-term pregnancy.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00978"
+  ],
+  "stem": "A 28-year-old primigravida attends at 41 weeks after an uneventful pregnancy. Abdominal examination shows a singleton cephalic fetus, 3/5 palpable above the brim. Bishop score is 2. What is the management?",
+  "options": {
+   "A": "Follow up after 3 days",
+   "B": "Follow up after 1 week",
+   "C": "Doppler ultrasound",
+   "D": "Emergency LSCS",
+   "E": "Induction of labour"
+  },
+  "answer": "E",
+  "explanation": "From 41 weeks the woman should be offered induction (membrane sweep first; vaginal prostaglandin when the Bishop score is low) to reduce stillbirth risk.",
+  "key_note": "The paper key marked B (follow up after 1 week); current RCOG and Ten Teachers advice is to offer induction between 41+0 and 42+0 weeks.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01035",
+   "C02957"
+  ],
+  "stem": "A 20-year-old primigravida at 42 weeks has BP 120/70 mmHg, pulse 80/min and temperature 98 F. SFH is 36 cm, longitudinal lie, cephalic, head 2/5 palpable. On vaginal examination the os is 1 cm dilated, soft and 30% effaced. CTG is reactive. What is the next step?",
+  "options": {
+   "A": "EmLSCS",
+   "B": "ElLSCS",
+   "C": "IOL with prostin E2",
+   "D": "Sweeping membranes and call after 1 week",
+   "E": "IOL with Syntocinon infusion"
+  },
+  "answer": "C",
+  "explanation": "Post-term with an unfavourable cervix (low Bishop score) is induced with vaginal prostaglandin E2 for cervical ripening. Oxytocin alone is for a favourable cervix.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01786",
+   "C02845"
+  ],
+  "stem": "A primigravida at 41 weeks had a membrane sweep 2 days ago. You discussed the risks of prolonged pregnancy and she declines induction of labour. The best fetal monitoring option for her is:",
+  "options": {
+   "A": "Daily umbilical artery Doppler and estimation of liquor volume",
+   "B": "No increased antenatal monitoring required",
+   "C": "Once weekly umbilical artery Doppler and estimation of liquor volume",
+   "D": "Twice weekly fetal cardiotocograph and estimation of liquor volume"
+  },
+  "answer": "D",
+  "explanation": "Women who decline induction after 42 weeks are offered twice-weekly CTG and ultrasound assessment of liquor volume.",
+  "key_note": "One source option read 'twice daily' on one page and 'twice weekly' on the next; twice weekly is the recommended schedule.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01780",
+   "C02846"
+  ],
+  "stem": "A 24-year-old G2P0+1 at 39 weeks has an ultrasound showing an AFI of 6 cm and complains of decreased fetal movements for 3 days. Her admission CTG is reactive. The most appropriate management is:",
+  "options": {
+   "A": "Admit for Induction of Labor",
+   "B": "Admit for fetal surveillance",
+   "C": "Perform Lower Segment Cesarean Section",
+   "D": "Send home with short follow up",
+   "E": "Wait till expected date for spontaneous labor"
+  },
+  "answer": "A",
+  "explanation": "Reduced fetal movements with low liquor at term suggest placental insufficiency; delivery by induction is preferred even with a reactive CTG.",
+  "key_note": "Admission for surveillance (D) is also defensible; paper key E retained.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00845",
+   "C02364"
+  ],
+  "stem": "Which of the following is NOT considered a risk factor for placental abruption?",
+  "options": {
+   "A": "Hypertension",
+   "B": "Smoking",
+   "C": "Cocaine use",
+   "D": "Polyhydramnios",
+   "E": "Anaemia"
+  },
+  "answer": "E",
+  "explanation": "Hypertension, smoking, cocaine and polyhydramnios (sudden decompression) are recognised risk factors. Anaemia is not a classic one.",
+  "key_note": "One paper keyed polyhydramnios, but polyhydramnios is a recognised risk factor for abruption. Polyhydramnios is also a recognised risk factor; paper key E (anaemia) is the weakest association and is kept.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01801",
+   "C02854"
+  ],
+  "stem": "A primigravida at 27 weeks presents with sudden abdominal pain and vaginal bleeding and is diagnosed with placental abruption. Which one of the following is a predisposing risk factor?",
+  "options": {
+   "A": "Asthma",
+   "B": "Cocaine abuse",
+   "C": "Macrosomia",
+   "D": "Multiparity",
+   "E": "Obstetric cholestasis"
+  },
+  "answer": "B",
+  "explanation": "Cocaine causes intense vasoconstriction of decidual vessels and is a strong risk factor for abruption. Asthma, macrosomia and cholestasis are not associated.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00409"
+  ],
+  "stem": "A 38-year-old G3P2 attends emergency at 34 weeks with vaginal bleeding. Her uterus is hard and tender and the fetal heart is not audible. There is mild vaginal bleeding. You diagnose placental abruption, which is associated with a deficiency of:",
+  "options": {
+   "A": "Vitamin D",
+   "B": "Folic acid",
+   "C": "Magnesium",
+   "D": "Iron",
+   "E": "Calcium"
+  },
+  "answer": "B",
+  "explanation": "Folate deficiency is a recognised association of abruption, along with hypertension, smoking, trauma and cocaine.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01596",
+   "C02365"
+  ],
+  "stem": "Which of the following is NOT considered a risk factor for placenta praevia?",
+  "options": {
+   "A": "Multiple gestation",
+   "B": "Previous caesarean section",
+   "C": "Previous diagnostic curettage",
+   "D": "Uterine structural anomaly",
+   "E": "Assisted conception"
+  },
+  "answer": "C",
+  "explanation": "Multiple pregnancy, previous caesarean section, uterine anomalies and assisted conception are accepted risks of praevia. Diagnostic curettage is the least accepted of the options.",
+  "key_note": "Paper key kept; uterine instrumentation is listed as a weak risk factor in some texts. Flawed question: all listed items are recognised risk factors (uterine instrumentation included); paper key C kept as the weakest association.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01660"
+  ],
+  "stem": "A G3P1+1 presents with painless vaginal bleeding at 38 weeks. On ultrasound the placenta covers the internal os. This is placenta praevia type:",
+  "options": {
+   "A": "I",
+   "B": "II",
+   "C": "III",
+   "D": "IV",
+   "E": "V"
+  },
+  "answer": "D",
+  "explanation": "Placenta covering the os centrally/completely is type IV (major). Type III covers it partially, type II reaches the os margin and type I lies in the lower segment.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01802",
+   "C02855"
+  ],
+  "stem": "A G4P1 presents in emergency with heavy vaginal bleeding at 34 weeks. Ultrasound shows an anterior placenta partially covering the os. The most probable cause of the haemorrhage is:",
+  "options": {
+   "A": "Type I previa",
+   "B": "Type II previa",
+   "C": "Type III previa",
+   "D": "Type IV previa",
+   "E": "Vasa previa"
+  },
+  "answer": "C",
+  "explanation": "Placenta partially covering the os is type III praevia; type IV completely covers it.",
+  "key_note": "Stem reworded lightly (original asked for the 'cause of the haemorrhage'); paper key E (type III).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00410"
+  ],
+  "stem": "A 28-year-old G3P2 with two previous caesarean sections attends emergency at 32 weeks with painless vaginal bleeding. You suspect placenta praevia. Which abdominal examination finding is associated with this condition?",
+  "options": {
+   "A": "Tense abdomen",
+   "B": "Tender abdomen",
+   "C": "Absent fetal heart",
+   "D": "Engaged presenting part",
+   "E": "High presenting part"
+  },
+  "answer": "E",
+  "explanation": "Praevia keeps the presenting part high with a soft, non-tender uterus. A tense, tender abdomen and absent fetal heart point to abruption.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01534"
+  ],
+  "stem": "A 38-year-old G3P1A1, known hypertensive, presents at 35 weeks with severe abdominal pain and vaginal bleeding. You suspect abruptio placentae. Which abdominal examination finding is associated with this condition?",
+  "options": {
+   "A": "Soft abdomen",
+   "B": "High presenting part",
+   "C": "Non tender abdomen",
+   "D": "Fetal heart present",
+   "E": "Fetal heart absent"
+  },
+  "answer": "E",
+  "explanation": "Severe abruption gives a tense, tender, woody uterus and the fetal heart may be absent. A high presenting part and soft non-tender abdomen suggest praevia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01029",
+   "C01030",
+   "C01176",
+   "C00882",
+   "C01510",
+   "C01727",
+   "C02461",
+   "C02499",
+   "C02573",
+   "C02601",
+   "C02999",
+   "C03068"
+  ],
+  "stem": "A 30-year-old primigravida at 32 weeks presents to emergency with abdominal pain, fresh vaginal bleeding and decreased fetal movements. She is anxious and pale, pulse 100/min, BP 100/50 mmHg, with a tense, tender uterus. What is the possible cause of the bleeding?",
+  "options": {
+   "A": "Placenta Previa",
+   "B": "Placental Abruption",
+   "C": "Vasa Previa",
+   "D": "Vaginal Trauma",
+   "E": "Ca Cervix"
+  },
+  "answer": "B",
+  "explanation": "Pain, a tense tender (woody) uterus, shock out of proportion to visible loss and reduced fetal movements are classic for placental abruption.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00881"
+  ],
+  "stem": "Which is the most common cause of vaginal bleeding in term labour among the following?",
+  "options": {
+   "A": "Cervical polyp",
+   "B": "Cervicitis",
+   "C": "Placenta abruption",
+   "D": "Placenta previa",
+   "E": "Vasa previa"
+  },
+  "answer": "C",
+  "explanation": "Of the pathological causes listed, abruption is the commonest at term; praevia usually declares itself earlier. Simple 'show' is the commonest cause overall.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01794",
+   "C01170",
+   "C01573",
+   "C00517",
+   "C01028",
+   "C01002",
+   "C01535",
+   "C02464",
+   "C02497",
+   "C02864",
+   "C02978"
+  ],
+  "stem": "A 34-year-old booked G2P1 presents at 38 weeks with labour pains for 6 hours. The abdomen is soft and non-tender. Immediately after ARM she starts having moderate vaginal bleeding and the CTG shows bradycardia. The most probable cause is:",
+  "options": {
+   "A": "Abruption placenta",
+   "B": "Undiagnosed placenta praevia",
+   "C": "Trauma to cervix",
+   "D": "Vasa praevia",
+   "E": "Trauma to fetal scalp"
+  },
+  "answer": "D",
+  "explanation": "Bleeding with fetal bradycardia right after ARM is classic for vasa praevia: the fetus is losing its own blood. Placental abruption would be painful with a tender uterus.",
+  "key_note": "Paper key marked A (placenta praevia); the sequence of rupture, bleeding and fetal bradycardia with a soft non-tender abdomen is vasa praevia.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01572",
+   "C01597"
+  ],
+  "stem": "A 28-year-old G2P1 with a previous caesarean section, booked, attends emergency at 32 weeks with painless vaginal bleeding. Vitals are stable, the abdomen is soft and non-tender, the fetal heart is present and bleeding is mild. Which is the first investigation you will do?",
+  "options": {
+   "A": "Complete blood count",
+   "B": "Blood group and rh factor",
+   "C": "Obstetric ultrasound",
+   "D": "Coagulation profile",
+   "E": "MRI"
+  },
+  "answer": "C",
+  "explanation": "Painless APH needs ultrasound to locate the placenta before any vaginal examination; digital examination is forbidden until praevia is excluded.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01628",
+   "C00973",
+   "C02501",
+   "C02977"
+  ],
+  "stem": "A 34-year-old G2P1 at 31 weeks with known placenta praevia presents with vaginal bleeding. Vitals are normal, FHR 140/min with accelerations and no decelerations, no uterine contractions and moderate bleeding. What is the best next step?",
+  "options": {
+   "A": "Administer intramuscular terbutaline",
+   "B": "Administer methylergonovine",
+   "C": "Admit and stabilize the patient",
+   "D": "Perform cesarean delivery",
+   "E": "Induction of labor"
+  },
+  "answer": "C",
+  "explanation": "A stable woman with a reassuring fetal heart should be admitted, resuscitated, given steroids and monitored; delivery is reserved for heavy bleeding or fetal compromise.",
+  "key_note": "The paper key marked B (discharge and reassure); this is unsafe, as women with praevia and bleeding should be admitted. Not marked in the source paper; answer by reviewer. Observation (C) is also part of care, but the paper key E (corticosteroids) is the preferred answer under 34 weeks.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01661"
+  ],
+  "stem": "A patient with placenta praevia at 32 weeks starts to bleed heavily. Which is the appropriate next step in management?",
+  "options": {
+   "A": "Administer injection dexamethasone for fetal lung maturity",
+   "B": "Arrange four units of packed red cells",
+   "C": "Arrange for ultrasonography",
+   "D": "Perform per speculum examination",
+   "E": "Keep foot end of bed low"
+  },
+  "answer": "B",
+  "explanation": "Heavy bleeding in praevia is a resuscitation problem: IV access, crossmatched blood early and then delivery. Per speculum or vaginal examination is avoided.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00657",
+   "C02462"
+  ],
+  "stem": "A 36-year-old G4P3 at 32 weeks presents to ED with painless heavy vaginal bleeding. She has three previous caesarean sections. She is stable with a normal fetal heart rate. Transabdominal ultrasound shows a low-lying placenta covering the cervical os. What is the most appropriate management?",
+  "options": {
+   "A": "Immediate caesarean section",
+   "B": "Admit for observation and corticosteroid administration",
+   "C": "Discharge with outpatient follow-up",
+   "D": "Plan for vaginal delivery with close monitoring",
+   "E": "Perform vaginal examination to assess cervical dilation"
+  },
+  "answer": "A",
+  "explanation": "Heavy bleeding from a major praevia with multiple scars can quickly become life-threatening, so delivery by caesarean section is indicated after resuscitation.",
+  "key_note": "One paper circled B (admit, observe, steroids) although its printed key was A; B is the answer only if bleeding is light and she remains stable.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00951"
+  ],
+  "stem": "A patient with major placenta praevia and a history of bleeding should be admitted and managed as an inpatient from what gestation?",
+  "options": {
+   "A": "32weeks",
+   "B": "34 weeks",
+   "C": "35 weeks",
+   "D": "36 weeks",
+   "E": "37weeks"
+  },
+  "answer": "B",
+  "explanation": "Women with major praevia who have bled are admitted from about 34 weeks (earlier if bleeding recurs) until delivery.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01131",
+   "C01169"
+  ],
+  "stem": "A G3P2 with a previous caesarean section followed by vaginal delivery has been admitted since 32 weeks with vaginal bleeding. Ultrasound at 32 weeks showed major placenta praevia, confirmed at 35 weeks. She has had no further bleeding. What is the most appropriate management?",
+  "options": {
+   "A": "Emergency Cesarean section",
+   "B": "Expectant management",
+   "C": "Elective cesarean section at 37 weeks",
+   "D": "Elective cesarean section at 39weeks",
+   "E": "Maternal blood transfusion"
+  },
+  "answer": "C",
+  "explanation": "Major praevia with a prior bleed needs planned caesarean at 37 weeks (36-37 in high-risk cases), before spontaneous labour precipitates haemorrhage.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01569",
+   "C02805",
+   "C02778",
+   "C02949"
+  ],
+  "stem": "A booked primigravida at 36 weeks presents after a fall with severe abdominal pain, loss of fetal movements and vaginal bleeding. Pulse is 110/min, BP 100/60 mmHg, the abdomen is tense and tender, fundal height 38 cm and the fetal heart is audible. After securing an IV line the next most appropriate step is:",
+  "options": {
+   "A": "Immediate cesarean section",
+   "B": "Ultrasound for fetomaternal wellbeing",
+   "C": "Start blood transfusions",
+   "D": "Expectant management",
+   "E": "Steroid cover"
+  },
+  "answer": "A",
+  "explanation": "Severe abruption with maternal compromise and a live term-ish fetus needs resuscitation and immediate caesarean delivery, with blood replacement in parallel.",
+  "key_note": "Paper key B kept; if she were fully dilated or the fetus already dead, vaginal delivery would be considered.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01116"
+  ],
+  "stem": "A G3P2+0 presents with heavy vaginal bleeding at 37 weeks. After stabilising her you perform emergency LSCS and find a Couvelaire uterus. It is a complication of:",
+  "options": {
+   "A": "Placenta praevia",
+   "B": "Vasa praevia",
+   "C": "Abruptio placenta",
+   "D": "Placenta accreta",
+   "E": "Placenta increta"
+  },
+  "answer": "C",
+  "explanation": "Couvelaire uterus is retroplacental blood extravasating into the myometrium and serosa in abruption; it gives a purple, bruised uterus.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01901",
+   "C01904"
+  ],
+  "stem": "A woman at 32 weeks of gestation presents with heavy vaginal bleeding. What is the key management step?",
+  "options": {},
+  "answer": null,
+  "explanation": "At 32 weeks, heavy APH needs resuscitation, and the source answer is to give betamethasone to mature the fetal lungs in case of preterm delivery.",
+  "key_note": "Options not available in the source; recall question.",
+  "figure": "",
+  "answer_text": "Give betamethasone to mature the fetal lungs (with resuscitation)"
+ },
+ {
+  "cids": [
+   "C00585",
+   "C01019"
+  ],
+  "stem": "A non-booked G4P3 with all previous caesarean sections presents at 38 weeks and ultrasound shows an anterior placenta. How will you exclude abnormal placentation?",
+  "options": {
+   "A": "CT scan",
+   "B": "X-ray pelvis",
+   "C": "TVS",
+   "D": "Doppler ultrasound",
+   "E": "MRI"
+  },
+  "answer": "D",
+  "explanation": "Ultrasound with colour Doppler is the first-line test for placenta accreta spectrum; MRI is an adjunct for equivocal or posterior cases.",
+  "key_note": "One paper keyed C (TVS); the others and standard practice favour Doppler ultrasound.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01687"
+  ],
+  "stem": "A G2P1 with one previous LSCS attends at 34 weeks. An obstetric ultrasound shows placental tissue invading the myometrium. This condition is called:",
+  "options": {
+   "A": "Placenta praevia",
+   "B": "Placental abruption",
+   "C": "Placenta accreta",
+   "D": "Placenta increta",
+   "E": "Placenta percreta"
+  },
+  "answer": "D",
+  "explanation": "Accreta attaches to the myometrium, increta invades into it and percreta penetrates the serosa and may reach adjacent organs.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00631"
+  ],
+  "stem": "A G6P5 presents at 36 weeks with ultrasound showing placenta covering the internal os. She had two previous caesarean sections. Doppler shows placental penetration up to the serosa, and you diagnose placenta percreta. She is at risk of:",
+  "options": {
+   "A": "Uterine inversion at time of caesarean",
+   "B": "Caesarean hysterectomy",
+   "C": "Cord prolapse during labour",
+   "D": "Precipitate labour",
+   "E": "Post-partum hemorrhage"
+  },
+  "answer": "B",
+  "explanation": "Placenta percreta cannot separate, and attempts to remove it cause torrential bleeding, so caesarean hysterectomy is often required.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01640",
+   "C00601"
+  ],
+  "stem": "A 32-year-old G2P1 at 28 weeks presents with vaginal bleeding, vitals normal, no contractions and normal fetal movements. Ultrasound shows an anterior placenta completely covering the internal os. Which of the following would most increase her risk for hysterectomy?",
+  "options": {
+   "A": "Desire for sterilization",
+   "B": "Adherent placenta",
+   "C": "PPH",
+   "D": "Placenta praevia",
+   "E": "Abruptio placenta"
+  },
+  "answer": "B",
+  "explanation": "Placenta accreta spectrum (adherent placenta) is the commonest reason for hysterectomy in praevia.",
+  "key_note": "One paper keyed D (placenta praevia, already the diagnosis); the HBS copy circled B, and adherent placenta is correct.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00831"
+  ],
+  "stem": "A primigravida at 32 weeks gives a history of sudden gush of vaginal discharge (PPROM). Which one of the following is NOT advocated for diagnosis?",
+  "options": {
+   "A": "Sterile speculum examination",
+   "B": "Fetal fibronectin",
+   "C": "Ultrasonography",
+   "D": "Digital examination",
+   "E": "Nitrazine test"
+  },
+  "answer": "D",
+  "explanation": "Digital examination introduces infection and shortens the latency period; use sterile speculum (pooling, nitrazine), ultrasound for liquor and biochemical tests.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00602",
+   "C01792"
+  ],
+  "stem": "A 30-year-old primigravida presents at 34 weeks with lower abdominal pain and PV leakage for 3 hours. How will you confirm PPROM?",
+  "options": {
+   "A": "Fetal fibronectin test",
+   "B": "Ultrasound",
+   "C": "Speculum examination",
+   "D": "History",
+   "E": "C-reactive protein"
+  },
+  "answer": "C",
+  "explanation": "Sterile speculum examination showing pooling of liquor in the posterior fornix is the best confirmation of ruptured membranes.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00993",
+   "C00894",
+   "C02868"
+  ],
+  "stem": "A woman presents with vaginal leakage at 32 weeks and you suspect premature rupture of membranes. What is the most important examination finding that confirms the diagnosis?",
+  "options": {
+   "A": "Pooling of amniotic fluid in posterior fornix of vagina",
+   "B": "raised temperature",
+   "C": "Abdominal tenderness",
+   "D": "fetal bradycardia",
+   "E": "Raised pulse"
+  },
+  "answer": "A",
+  "explanation": "Visible pooling of liquor in the posterior fornix on speculum examination is diagnostic; fever, tenderness and tachycardia suggest infection instead.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00937"
+  ],
+  "stem": "A woman at 34 weeks with confirmed PPROM has a normal live cephalic fetus on ultrasound. Which investigation will you advise next?",
+  "options": {
+   "A": "Blood CP",
+   "B": "C Reactive Proteins",
+   "C": "ESR",
+   "D": "High Vaginal Swab",
+   "E": "Urine RE"
+  },
+  "answer": "D",
+  "explanation": "A high vaginal swab (with GBS screening) is taken to identify infection that may lead to chorioamnionitis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01598",
+   "C01788",
+   "C01141",
+   "C02077",
+   "C02699",
+   "C02853"
+  ],
+  "stem": "A 34-year-old primigravida at 32 weeks is diagnosed with premature rupture of membranes. Which antibiotic will you prescribe as evidence-based practice?",
+  "options": {
+   "A": "Ampicillin",
+   "B": "Augmentin",
+   "C": "Erythromycin",
+   "D": "Ciproxin",
+   "E": "Metronidazole"
+  },
+  "answer": "C",
+  "explanation": "Oral erythromycin reduces chorioamnionitis and neonatal infection in PPROM; co-amoxiclav is avoided because of the risk of necrotising enterocolitis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00468"
+  ],
+  "stem": "A PG at 33 weeks presents with PPROM for 2 hours. BP 100/70 mmHg, pulse 73/min, temperature 98 F, abdomen soft and non-tender, SFH 32 cm, cephalic presentation. What is the next step of management?",
+  "options": {
+   "A": "Dexa cover +immediate c/s",
+   "B": "Dexa cover+ Tab erythromycin",
+   "C": "Dexa cover+ IOL",
+   "D": "Dexa cover+ amnioinfusion",
+   "E": "Dexa cover+ watch for progress of labour"
+  },
+  "answer": "B",
+  "explanation": "With PPROM before 34 weeks and no infection, give corticosteroids for lung maturity and erythromycin, and manage expectantly.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01785",
+   "C02852",
+   "C02514"
+  ],
+  "stem": "A primigravida with prelabour rupture of membranes at 33 weeks has decreased liquor on ultrasound; fetal parameters correspond to dates and she received steroids 4 days ago. Which is the most appropriate management?",
+  "options": {
+   "A": "Conservative approach",
+   "B": "Induction of labor stat",
+   "C": "Induction of labor after 24hours",
+   "D": "Plan caesarean section",
+   "E": "Start tocolysis"
+  },
+  "answer": "A",
+  "explanation": "Before 34-36 weeks without infection or fetal compromise, expectant management with antibiotics and surveillance is preferred; deliver at 34-37 weeks per unit protocol.",
+  "key_note": "Some guidelines (RCOG) advise delivery at 34 weeks, but paper key C is retained. Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00599"
+  ],
+  "stem": "A G2P1 comes to ER at 34 weeks with lower abdominal pain and per vaginal leakage for 6 hours. She has regular uterine contractions and pooling of liquor on speculum. Vitals are stable, TLC is 19000, and ultrasound shows oligohydramnios with a cephalic fetus at 34 weeks. What is the next step of management?",
+  "options": {
+   "A": "Induction of Labour",
+   "B": "Start Tocolysis",
+   "C": "Place a Cervical Cerclage",
+   "D": "Start Antibiotics",
+   "E": "Emergency LSCS"
+  },
+  "answer": "D",
+  "explanation": "PPROM in early labour needs prompt antibiotics (erythromycin) to treat/prevent infection; tocolysis and cerclage are contraindicated.",
+  "key_note": "One corrected paper marked induction of labour; most papers key antibiotics, which is correct as the first step.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00416"
+  ],
+  "stem": "A 24-year-old G1P0 at 32 weeks has had PPROM for ten days. She has lower abdominal pain, fever with rigors and chills and purulent vaginal discharge. What is the most likely diagnosis?",
+  "options": {
+   "A": "Pyrexia of unknown origin",
+   "B": "Puerperal pyrexia",
+   "C": "Preterm labour",
+   "D": "Chorioamnionitis",
+   "E": "Antepartum haemorrhage"
+  },
+  "answer": "D",
+  "explanation": "Prolonged membrane rupture with fever, tender uterus and purulent discharge is chorioamnionitis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00803"
+  ],
+  "stem": "Which route of bacterial inoculation causes most cases of chorioamnionitis?",
+  "options": {
+   "A": "Direct spread through the fallopian tubes",
+   "B": "Hematogenous spread from maternal blood",
+   "C": "Ascending from the lower reproductive tract",
+   "D": "Needle inoculation during intramniotic procedures",
+   "E": "Lymphatic spread"
+  },
+  "answer": "C",
+  "explanation": "Most cases arise from vaginal and cervical organisms ascending through ruptured or even intact membranes.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01576"
+  ],
+  "stem": "A G5P3+1 with three preterm deliveries between 28 and 30 weeks presents at 30 weeks with ruptured membranes for 3 days. What is the most reliable clinical indicator of chorioamnionitis?",
+  "options": {
+   "A": "Leukocytosis",
+   "B": "Fever",
+   "C": "Fetal tachycardia",
+   "D": "Positive cervical or vaginal cultures",
+   "E": "Abdominal tenderness"
+  },
+  "answer": "B",
+  "explanation": "Maternal fever is the most reliable clinical sign; leucocytosis, fetal tachycardia and tenderness are supportive but less specific.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01758"
+  ],
+  "stem": "A 34-year-old woman at 34 weeks has had confirmed PPROM for 6 days. She is pyrexial (38.4 C) with fetal tachycardia of 180/min, a reactive CTG with good variability and a closed cervix. The most appropriate action is:",
+  "options": {
+   "A": "Corticosteroids",
+   "B": "Intravenous broad spectrum antibiotics, CTG and deliver",
+   "C": "Oral Erythromycin, continuous CTG and deliver",
+   "D": "Emergency caesarean section",
+   "E": "Prostaglandin pessaries"
+  },
+  "answer": "B",
+  "explanation": "Fever with fetal tachycardia is clinical chorioamnionitis, treated by IV broad-spectrum antibiotics and delivery, not oral erythromycin.",
+  "key_note": "The paper key marked C (oral erythromycin and deliver); IV broad-spectrum antibiotics are the correct treatment of established chorioamnionitis.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01773",
+   "C02844"
+  ],
+  "stem": "A G2P1 at 37 weeks has had vaginal leakage for 2 days and loss of fetal movements for 1 day. BP 110/70 mmHg, pulse 110/min, temperature 101 F. SFH 34 cm, the uterus is tender, the fetal heart is absent and the Bishop score is 4. What is the next most appropriate management?",
+  "options": {
+   "A": "Elective lower segment caesarean segment",
+   "B": "Emergency lower segment caesarean section",
+   "C": "Admit and treat with antibiotics",
+   "D": "Give intravenous fluids and antipyretics",
+   "E": "Induction of labour with antibiotic cover"
+  },
+  "answer": "E",
+  "explanation": "This is chorioamnionitis with intrauterine death; give IV antibiotics and induce vaginal delivery rather than caesarean, which adds sepsis risk.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00812"
+  ],
+  "stem": "A 26-year-old G2P1 has spontaneous rupture of membranes at 19 weeks. Twenty-four hours later she has a temperature of 39 C and WBC 15,000/mm3. The cervix is 2 cm dilated with no contractions. Which management is associated with the least morbidity?",
+  "options": {
+   "A": "Perform a hysterectomy",
+   "B": "Induce labor with oxytocin",
+   "C": "Perform suction and evacuation",
+   "D": "Perform a hysterotomy",
+   "E": "Wait for spontaneous expulsion after giving her antibiotics"
+  },
+  "answer": "B",
+  "explanation": "Previable rupture with chorioamnionitis needs antibiotics and prompt uterine evacuation; expectant management risks sepsis. Induction (or D&E) is preferred over hysterectomy or hysterotomy.",
+  "key_note": "The source asterisked both B and E (green circle on E); expectant management with fever is unsafe, so B is the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00598",
+   "C00641",
+   "C01084",
+   "C02913"
+  ],
+  "stem": "A primigravida is diagnosed with intrauterine fetal demise at 17 weeks but refuses termination. After 5 weeks she has occasional spotting. This patient is at increased risk for:",
+  "options": {
+   "A": "Future infertility",
+   "B": "Sepsis",
+   "C": "Consumptive coagulopathy",
+   "D": "Ectopic pregnancy",
+   "E": "Recurrent miscarriage"
+  },
+  "answer": "C",
+  "explanation": "A retained dead fetus releases thromboplastin, causing hypofibrinogenaemia and DIC, usually after about 4 weeks.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01730"
+  ],
+  "stem": "A 32-year-old G2P1 at 32 weeks has decreased fetal movements; fetal heart is not detected and ultrasound confirms IUD. She wants expectant management. You counsel her that the risk of coagulopathy increases after:",
+  "options": {
+   "A": "2 weeks",
+   "B": "3 weeks",
+   "C": "4 weeks",
+   "D": "5 weeks",
+   "E": "6 weeks"
+  },
+  "answer": "C",
+  "explanation": "DIC risk rises about 4 weeks after fetal death, so coagulation is checked weekly.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01600"
+  ],
+  "stem": "A 38-year-old G3P2 at 36 weeks has had loss of fetal movement for 5 days; ultrasound shows overlapping of the skull bones. What is this sign called?",
+  "options": {
+   "A": "Spalding sign",
+   "B": "Banana sign",
+   "C": "Lemon sign",
+   "D": "Double bubble sign",
+   "E": "Choroid cyst"
+  },
+  "answer": "A",
+  "explanation": "Overlapping of skull bones is Spalding sign, a late sign of fetal death; Banana and lemon signs are for spina bifida, double bubble for duodenal atresia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00814"
+  ],
+  "stem": "You monitor contractions in a primigravida at term with intrauterine fetal death. For two hours the Bishop score is unchanged despite 2-3 moderate contractions in 10 minutes. Her cervix is 3 cm dilated, full length, posterior, membranes intact and the presenting part is high. The best management option is:",
+  "options": {
+   "A": "Augment with ARM and syntocinon",
+   "B": "Augment with vaginal prostaglandin E2",
+   "C": "Augment with vaginal prostaglandin E1",
+   "D": "Start syntocinon infusion",
+   "E": "Analgesia and mobilization"
+  },
+  "answer": "A",
+  "explanation": "With established contractions and slow progress, augmentation with ARM and oxytocin is appropriate; prostaglandins are for the unfavourable, non-contracting cervix.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00802"
+  ],
+  "stem": "A 40-year-old woman has just delivered a dead fetus. Immediately after delivery she cries loudly that she wants to hold her baby. The best course of action is:",
+  "options": {
+   "A": "Refuse mother and hand over the baby to staff",
+   "B": "Give mother a chance to see her baby at a glance",
+   "C": "Allow mother to hold and see her baby",
+   "D": "Defer her request and allow her to see the baby after some time",
+   "E": "She can see the photographs afterwards"
+  },
+  "answer": "C",
+  "explanation": "Parents should be given the chance to see and hold their stillborn baby when they wish; this aids grieving.",
+  "key_note": "The source key marked D (defer her request); current bereavement care (RCOG, Ten Teachers) supports letting her hold her baby.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00513",
+   "C01621",
+   "C01104"
+  ],
+  "stem": "A primigravida presents to OPD at 20 weeks and her blood group is A negative. What is the next investigation you will advise?",
+  "options": {
+   "A": "Rh antibody titres",
+   "B": "Rh antibody screening",
+   "C": "Husband's blood group",
+   "D": "Direct Coombs test",
+   "E": "Indirect Coombs test"
+  },
+  "answer": "C",
+  "explanation": "An Rh-negative woman's husband must be typed: if he is Rh-negative, the fetus is Rh-negative and no further action is needed.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00848"
+  ],
+  "stem": "A primigravida Rh-negative patient presents at 20 weeks and informs you her husband is also Rh-negative. The next step in management is:",
+  "options": {
+   "A": "Perform Rh-antibody titre of patient",
+   "B": "Check fetal blood group",
+   "C": "Give prophylactic immunoglobulin to patient",
+   "D": "No treatment is needed",
+   "E": "Perform middle cerebral artery doppler"
+  },
+  "answer": "D",
+  "explanation": "Both parents Rh-negative means the fetus is Rh-negative, so no isoimmunisation risk and no anti-D is needed.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00898"
+  ],
+  "stem": "A Rh-negative primigravida reports at 30 weeks. Her husband is B-positive with genotype CDE/CDE. The probability of her children being Rh-positive is:",
+  "options": {
+   "A": "25 %",
+   "B": "50 %",
+   "C": "75 %",
+   "D": "100 %",
+   "E": "125%"
+  },
+  "answer": "D",
+  "explanation": "A homozygous Rh-positive father passes D to every child, so all children are Rh-positive.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00514",
+   "C02600"
+  ],
+  "stem": "A primigravida at 20 weeks is A negative and her husband is A positive. You counsel her about antenatal prophylaxis with anti-D. According to guidelines, at which gestation do you advise prophylaxis?",
+  "options": {
+   "A": "20 and 24 weeks",
+   "B": "28 and 32 weeks",
+   "C": "28 and 34 weeks",
+   "D": "32 and 36 weeks",
+   "E": "32 and 37 weeks"
+  },
+  "answer": "C",
+  "explanation": "Routine antenatal anti-D prophylaxis is given as two doses at 28 and 34 weeks (or a single larger dose at 28 weeks).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00957"
+  ],
+  "stem": "Routine antenatal anti-D prophylaxis at 28 and 34 weeks is recommended for all Rhesus-negative pregnant women with an Rh-positive husband:",
+  "options": {
+   "A": "APH occurs",
+   "B": "External cephalic version is done",
+   "C": "Irrespective of any sensitivity event",
+   "D": "Patient goes into preterm labour",
+   "E": "Undergone PND procedures"
+  },
+  "answer": "C",
+  "explanation": "Routine antenatal anti-D prophylaxis is given irrespective of any sensitising event; additional anti-D is given after specific events.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00956"
+  ],
+  "stem": "The risk of Rh sensitization is maximum during:",
+  "options": {
+   "A": "Amniocentesis",
+   "B": "delivery",
+   "C": "External cephalic version",
+   "D": "Massive placental abruption",
+   "E": "Ruptured ectopic pregnancy"
+  },
+  "answer": "D",
+  "explanation": "The risk is related to the volume of fetomaternal haemorrhage, which is largest in massive abruption.",
+  "key_note": "Ambiguous; delivery is the commonest time overall, but the paper key (massive abruption, largest transplacental bleed) is kept.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00596",
+   "C03116"
+  ],
+  "stem": "A 23-year-old G3P1+1 attends for antenatal follow up. She had a caesarean after failed ECV 3 years ago and her daughter is Rh-negative. One year ago she had elective termination by curettage at 12 weeks. Her blood group is B negative and her husband's is B positive. She has a positive anti-D titre and denies receiving anti-D. Failure to give anti-D at which time is the most likely cause of sensitisation?",
+  "options": {
+   "A": "After elective termination of pregnancy",
+   "B": "At the time of caesarean delivery",
+   "C": "At the time of external cephalic version",
+   "D": "At 28 weeks of first pregnancy",
+   "E": "Within 3 days of delivery of Rh-negative fetus"
+  },
+  "answer": "A",
+  "explanation": "Her daughter is Rh-negative, so delivery and ECV in that pregnancy could not sensitise her. The termination (Rh-positive fetus) without anti-D is the likely cause.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01101"
+  ],
+  "stem": "A 23-year-old pregnant woman at 11 weeks has CVS for prenatal diagnosis of Down syndrome. She is Rh-negative and her husband is Rh-positive. What dose of anti-D should be given?",
+  "options": {
+   "A": "1500 IU",
+   "B": "250 IU",
+   "C": "500 IU",
+   "D": "1000 IU",
+   "E": "No need of anti D"
+  },
+  "answer": "B",
+  "explanation": "Before 20 weeks, 250 IU (50 mcg) is enough for a sensitising event; at or after 20 weeks give 500 IU plus a Kleihauer test.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00981"
+  ],
+  "stem": "A non-sensitized Rh-negative woman is admitted at 24 weeks with vaginal bleeding for 3 hours. Vitals are stable, the abdomen is soft and the fetal heart is positive. Her husband is Rh-positive. What dose of anti-D will you advise?",
+  "options": {
+   "A": "100 IU",
+   "B": "200 IU",
+   "C": "250 IU",
+   "D": "500 IU",
+   "E": "750 IU"
+  },
+  "answer": "D",
+  "explanation": "After 20 weeks, a sensitising event requires 500 IU anti-D, with a Kleihauer test to check whether more is needed.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00555",
+   "C00979",
+   "C01662",
+   "C02405"
+  ],
+  "stem": "A 30-year-old A-negative primigravida delivers a baby boy who is B positive. She gives a history of a fall on the way to hospital and you advise a Kleihauer test. Why have you advised this test?",
+  "options": {
+   "A": "To assess IgG antibodies in maternal blood",
+   "B": "To assess fetal blood cells in maternal circulation",
+   "C": "To assess fetal antigens in maternal circulation",
+   "D": "To assess IgM antibodies in maternal circulation",
+   "E": "To assess fetal hemolysis"
+  },
+  "answer": "B",
+  "explanation": "The Kleihauer-Betke acid-elution test detects fetal red cells in maternal blood, quantifying fetomaternal haemorrhage to dose anti-D.",
+  "key_note": "Stem was partly cropped in the source; the end of the question was reconstructed.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01711",
+   "C02509"
+  ],
+  "stem": "A non-booked primigravida at 38 weeks in labour is B negative and her husband is A positive. You advise your resident to give anti-D after delivery (if the baby is Rh-positive). When should it be given?",
+  "options": {
+   "A": "Immediately",
+   "B": "Within 24 hours",
+   "C": "Within 6 hours",
+   "D": "Within 72 hours",
+   "E": "Within 12 hours"
+  },
+  "answer": "D",
+  "explanation": "Anti-D is given as soon as possible, and within 72 hours of delivery, to prevent sensitisation from fetomaternal haemorrhage.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01037",
+   "C01114",
+   "C00900",
+   "C00899",
+   "C01972",
+   "C02298",
+   "C02906",
+   "C02780"
+  ],
+  "stem": "Which of the following tests is best for the diagnosis of fetal anaemia in an Rh-immunised woman?",
+  "options": {
+   "A": "Amniocentesis",
+   "B": "MCA PSV",
+   "C": "Cordocentesis",
+   "D": "Umbilical artery Doppler",
+   "E": "USG"
+  },
+  "answer": "B",
+  "explanation": "Raised middle cerebral artery peak systolic velocity (over 1.5 MoM) detects fetal anaemia non-invasively, so invasive cordocentesis is reserved for treatment.",
+  "key_note": "Some paper keys marked fetal blood sampling or Rh-D antibody level; MCA Doppler is the accepted answer. Recall question; the stem and answer appeared together in the source.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02368"
+  ],
+  "stem": "The amniotic fluid volume is an important ultrasound parameter of fetal wellbeing. A single deepest pool of liquor is termed oligohydramnios if it is less than:",
+  "options": {
+   "A": "3 cm",
+   "B": "4 cm",
+   "C": "6 cm",
+   "D": "8 cm",
+   "E": "10 cm"
+  },
+  "answer": "A",
+  "explanation": "Oligohydramnios is a single deepest pool below 2 cm (older texts use under 3 cm) or an AFI below 5 cm; 3 cm is the nearest option.",
+  "key_note": "One paper key was changed to B (4 cm); the standard cut-off is a deepest pool under 2 cm (older definitions under 3 cm), so 3 cm is the best option and 4 cm is not supported.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02271",
+   "C02279",
+   "C02598",
+   "C02883",
+   "C02504"
+  ],
+  "stem": "A woman presents at 28 weeks of gestation. The amniotic fluid index on ultrasound is 5 cm. What is the most likely diagnosis?",
+  "options": {
+   "A": "Polyhydramnios",
+   "B": "Oligohydramnios",
+   "C": "Normal pregnancy",
+   "D": "Preterm labour",
+   "E": "Intrauterine growth restriction"
+  },
+  "answer": "B",
+  "explanation": "An AFI of 5 cm or less is taken as oligohydramnios (normal about 8-18 cm; 5-8 cm is borderline low).",
+  "key_note": "A recalled answer book gave 'normal pregnancy'; the papers with marked keys chose oligohydramnios, which is the accepted answer (some texts use under 5 cm as the cut-off, making 5 cm borderline). Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02637"
+  ],
+  "stem": "A 30-year-old G2P1 at 20 weeks of gestation attends for her anomaly scan. Ultrasound shows bilateral renal agenesis. What other finding do you expect on her ultrasound?",
+  "options": {
+   "A": "Polyhydramnios",
+   "B": "Oligohydramnios",
+   "C": "Absent bladder",
+   "D": "Enlarged bladder",
+   "E": "Cardiac defect"
+  },
+  "answer": "B",
+  "explanation": "No fetal urine is produced, so liquor is markedly reduced (oligo/anhydramnios) and the bladder is not seen. Oligohydramnios is the finding asked for.",
+  "key_note": "Absent bladder (C) is also a true finding in bilateral renal agenesis; paper keys agree on B as the expected answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02078"
+  ],
+  "stem": "A 35-year-old G4P3 with no comorbidities presents with an ultrasound report showing a single live intrauterine pregnancy at 35 weeks. AFI is 5 cm. What is the most common cause of oligohydramnios?",
+  "options": {
+   "A": "Preterm labour",
+   "B": "Placental haemangioma",
+   "C": "Preterm premature rupture of membranes",
+   "D": "Diabetes mellitus",
+   "E": "Rh incompatibility"
+  },
+  "answer": "C",
+  "explanation": "Among the options, leakage of liquor (PPROM) is the commonest cause of oligohydramnios; others are placental insufficiency/IUGR, renal anomalies and post-term pregnancy. Diabetes and Rh disease cause polyhydramnios.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03008"
+  ],
+  "stem": "A 26-year-old unbooked primigravida presents at 32 weeks with fever for 2 days. Symphysiofundal height is 28 cm. Ultrasound biometry (BPD, HC, AC, FL) corresponds to 32 weeks, AFI is 2.2 cm and umbilical artery Doppler is normal. What is the most likely cause of the oligohydramnios?",
+  "options": {
+   "A": "Type 1 diabetes mellitus",
+   "B": "Hypothyroidism",
+   "C": "Intrauterine growth restriction",
+   "D": "Placental insufficiency",
+   "E": "Preterm prelabour rupture of membranes"
+  },
+  "answer": "E",
+  "explanation": "Normal growth and Doppler exclude placental insufficiency/IUGR; with fever and a small SFH, leaking liquor (PPROM) with possible infection is the cause.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02953"
+  ],
+  "stem": "A 28-year-old primigravida at 32 weeks presents to OPD with abdominal pain. Symphysiofundal height is 38 cm and fetal poles are difficult to palpate. What is the most probable diagnosis?",
+  "options": {
+   "A": "Twin pregnancy",
+   "B": "Placental abruption",
+   "C": "Polyhydramnios",
+   "D": "Pregnancy with fibroid",
+   "E": "Ascites"
+  },
+  "answer": "C",
+  "explanation": "A uterus large for dates, tense, with fetal parts difficult to feel (fluid thrill) indicates polyhydramnios.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02655",
+   "C02757",
+   "C01617",
+   "C02505"
+  ],
+  "stem": "A 19-year-old primigravida attends at 32 weeks. Her pregnancy is complicated by gestational diabetes requiring insulin, with poor compliance. Ultrasounds at 20 and 28 weeks were normal. Fundal height is 38 cm. What is the most likely explanation for the discrepancy between fundal height and gestational age?",
+  "options": {
+   "A": "Fetal hydrocephaly",
+   "B": "Uterine fibroids",
+   "C": "Polyhydramnios",
+   "D": "Breech presentation",
+   "E": "Undiagnosed twin gestation"
+  },
+  "answer": "C",
+  "explanation": "Poorly controlled diabetes causes fetal hyperglycaemia and polyuria, giving polyhydramnios (and macrosomia); twins would have been seen on earlier scans.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01980"
+  ],
+  "stem": "A G3P2 at 31 weeks is otherwise low risk. Fundal height is 36 cm; ultrasound shows a single active fetus of 30 weeks with AFI 35 cm and a normal anomaly scan. What is the most common cause of polyhydramnios in this setting?",
+  "options": {
+   "A": "Good sized baby",
+   "B": "Diabetes mellitus",
+   "C": "Hydrops fetalis",
+   "D": "Omphalocele",
+   "E": "Idiopathic"
+  },
+  "answer": "E",
+  "explanation": "About 50-60% of polyhydramnios is idiopathic; diabetes is the commonest identifiable cause, but in a low-risk woman with a normal anomaly scan and normally grown fetus idiopathic is most likely.",
+  "key_note": "Paper key marked B (diabetes); idiopathic is the commonest cause overall and fits a low-risk woman with a normal scan.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03009"
+  ],
+  "stem": "A G5P4 attends OPD with an anomaly scan showing a normal fetus of 26 weeks with an AFI of 26 cm. Which biochemical investigation will you request to help find the cause?",
+  "options": {
+   "A": "Blood CP",
+   "B": "Blood sugar levels",
+   "C": "Liver function tests",
+   "D": "Renal function tests",
+   "E": "Urine R/E"
+  },
+  "answer": "B",
+  "explanation": "With a normal anomaly scan, maternal diabetes is the commonest treatable cause of polyhydramnios, so a glucose tolerance test/blood sugar is requested.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02656",
+   "C03137"
+  ],
+  "stem": "A G3P2 has an ultrasound for symphysiofundal height more than expected for dates. It shows severe polyhydramnios and the sonologist cannot see one fetal organ. Which organ is most likely missing from the scan?",
+  "options": {
+   "A": "Fetal bladder",
+   "B": "Fetal kidneys",
+   "C": "Fetal ureters",
+   "D": "Fetal stomach",
+   "E": "Fetal oesophagus"
+  },
+  "answer": "D",
+  "explanation": "In oesophageal atresia the fetus cannot swallow liquor, so the stomach bubble is not seen and polyhydramnios develops; the oesophagus itself is not normally imaged.",
+  "key_note": "Some paper keys marked E (oesophagus); the organ not seen on ultrasound is the stomach (absent stomach bubble). Flawed question: the scan describes oesophageal atresia, which is not listed; paper key C (maternal diabetes) is not supported by the scan findings, so the best available option is E.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02079",
+   "C02575"
+  ],
+  "stem": "A 39-year-old G6P3A2 with no comorbidities has an ultrasound showing a single live intrauterine pregnancy at 34 weeks with AFI 25 cm. Blood sugar and anomaly scan are normal. Which drug can be used in the treatment of polyhydramnios (before 34 weeks)?",
+  "options": {
+   "A": "Methyldopa",
+   "B": "Mifepristone",
+   "C": "Indomethacin",
+   "D": "Salbutamol",
+   "E": "Terbutaline"
+  },
+  "answer": "C",
+  "explanation": "Indomethacin (a prostaglandin synthetase inhibitor) reduces fetal urine output and is used for severe symptomatic polyhydramnios before 32-34 weeks, with monitoring for ductus arteriosus constriction.",
+  "key_note": "Not marked in one source; the other papers marked indomethacin.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02807"
+  ],
+  "stem": "A 28-year-old multiparous woman at 38 weeks is admitted with polyhydramnios (AFI 32 cm). The fetus is in a transverse lie, with variable lie at previous visits. Membranes are intact and there are no contractions. What is the most appropriate management?",
+  "options": {
+   "A": "External cephalic version followed by induction of labour",
+   "B": "Expectant management with surveillance until spontaneous labour",
+   "C": "External cephalic version and induction at 40 weeks",
+   "D": "Immediate induction of labour with oxytocin",
+   "E": "Elective lower segment caesarean section"
+  },
+  "answer": "E",
+  "explanation": "Unstable lie at term with polyhydramnios carries a high risk of cord prolapse and obstructed labour on rupture of membranes; ECV is unlikely to hold, so elective caesarean is chosen.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02758"
+  ],
+  "stem": "A G3P2 attends OPD at 28 weeks with ultrasound showing a hydropic fetus. Which of the following is a risk factor associated with hydrops fetalis?",
+  "options": {
+   "A": "Gestational diabetes",
+   "B": "Maternal cocaine abuse",
+   "C": "Maternal BMI above 40",
+   "D": "Pre-eclampsia",
+   "E": "Parvovirus infection"
+  },
+  "answer": "E",
+  "explanation": "Parvovirus B19 causes fetal aplastic anaemia leading to non-immune hydrops; other causes are alloimmunisation, cardiac anomalies and chromosomal disorders.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02498",
+   "C02463",
+   "C02771",
+   "C00972"
+  ],
+  "stem": "A woman at 37 weeks presents with major antepartum haemorrhage and signs of maternal shock. What is the immediate priority?",
+  "options": {
+   "A": "Establish maternal resuscitation and assess fetal status",
+   "B": "Arrange immediate caesarean delivery to control haemorrhage",
+   "C": "Perform a sterile speculum examination to identify the source of bleeding",
+   "D": "CTG monitoring before commencing intravenous fluid therapy",
+   "E": "Wait for ultrasound confirmation"
+  },
+  "answer": "A",
+  "explanation": "Resuscitate the mother first (ABC, two large-bore cannulae, crossmatch, fluids/blood), then assess the fetus and plan delivery.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02496"
+  ],
+  "stem": "A woman with suspected placenta praevia presents with vaginal bleeding. Which examination should be avoided until placenta praevia has been excluded?",
+  "options": {
+   "A": "Abdominal palpation",
+   "B": "Digital vaginal examination",
+   "C": "Speculum examination",
+   "D": "Transvaginal ultrasound",
+   "E": "Ultrasound examination"
+  },
+  "answer": "B",
+  "explanation": "Digital examination can dislodge the placenta and cause torrential haemorrhage; transvaginal ultrasound is safe.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03000"
+  ],
+  "stem": "Placenta praevia is best diagnosed by:",
+  "options": {
+   "A": "Transabdominal ultrasound",
+   "B": "Transvaginal ultrasound",
+   "C": "X-ray",
+   "D": "Laparoscopy",
+   "E": "CT scan"
+  },
+  "answer": "B",
+  "explanation": "Transvaginal ultrasound is more accurate than transabdominal scanning for locating the placental edge relative to the internal os and is safe.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02617"
+  ],
+  "stem": "A 35-year-old multigravida at 24 weeks is diagnosed with placenta praevia on ultrasound. She is asymptomatic. What is the most appropriate advice?",
+  "options": {
+   "A": "Admit for delivery planning",
+   "B": "Immediate caesarean section",
+   "C": "Avoid vaginal intercourse and monitor",
+   "D": "Repeat scan at 32 weeks",
+   "E": "Start corticosteroids immediately"
+  },
+  "answer": "D",
+  "explanation": "Most low-lying placentas at 20-24 weeks migrate as the lower segment develops; an asymptomatic woman is rescanned at 32 weeks.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02976"
+  ],
+  "stem": "A 32-year-old primigravida at 36 weeks has an ultrasound showing placenta praevia type 2. Which of the following is the commonest or strongest risk factor for placenta praevia?",
+  "options": {
+   "A": "Multiple gestation",
+   "B": "Previous caesarean section",
+   "C": "Previous diagnostic curettage",
+   "D": "Uterine structural anomaly",
+   "E": "Assisted conception"
+  },
+  "answer": "B",
+  "explanation": "Previous caesarean scar and increasing parity/age are the strongest risk factors, and risk rises with the number of caesareans.",
+  "key_note": "Not marked in the source paper (a margin note says all are risk factors); answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02650",
+   "C00630",
+   "C01728",
+   "C01570",
+   "C02460",
+   "C02495",
+   "C03002"
+  ],
+  "stem": "A 35-year-old G4P3A0 presents at 36 weeks with copious painless vaginal bleeding 2 hours ago. BP 110/80 mmHg, pulse 88/min. The uterus is soft and non-tender, fetal heart is 140/min and regular, the head is 5/5 palpable and there is no sign of ruptured membranes. What is the most likely diagnosis?",
+  "options": {
+   "A": "Carcinoma of cervix",
+   "B": "Placenta praevia",
+   "C": "Placental abruption",
+   "D": "Vasa praevia",
+   "E": "Haematuria"
+  },
+  "answer": "B",
+  "explanation": "Painless bleeding, soft uterus, normal fetal heart and a high free-floating head (5/5 palpable) are typical of placenta praevia.",
+  "key_note": "One paper keyed C (placental abruption); abruption would be painful with a tense, tender uterus.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02587"
+  ],
+  "stem": "A 32-year-old G4P3 with three previous caesarean sections has major placenta praevia. Doppler ultrasound raises suspicion of placenta percreta with vessels invading the bladder wall. Which imaging modality best confirms this?",
+  "options": {
+   "A": "CT scan",
+   "B": "MRI",
+   "C": "Radioisotope study",
+   "D": "X-ray pelvis",
+   "E": "Barium studies"
+  },
+  "answer": "B",
+  "explanation": "MRI is the best adjunct to ultrasound for assessing depth of invasion and involvement of the bladder and parametrium in placenta accreta spectrum.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02777"
+  ],
+  "stem": "A 35-year-old G4P2+1 at 33 weeks presents with moderate PV bleeding after heavy weight lifting. Bleeding has settled. Ultrasound shows the placenta in the lower segment near the cervical os. The abdomen is soft, BP 110/60 mmHg and pulse 90/min. What is the next step in management?",
+  "options": {
+   "A": "Dexamethasone cover",
+   "B": "IV antibiotics",
+   "C": "Shift to OT",
+   "D": "Tocolysis",
+   "E": "Perform caesarean section"
+  },
+  "answer": "A",
+  "explanation": "Bleeding has stopped and the mother is stable, so manage expectantly with admission and antenatal corticosteroids; immediate caesarean is for uncontrolled bleeding or instability.",
+  "key_note": "Paper key marked E (caesarean section); with settled bleeding and a stable mother at 33 weeks, steroid cover with expectant management is correct.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02652",
+   "C03001",
+   "C02948"
+  ],
+  "stem": "What is the mode of delivery in a patient with type IV (major) placenta praevia at term?",
+  "options": {
+   "A": "Vaginal delivery",
+   "B": "Forceps delivery",
+   "C": "Lower segment caesarean section",
+   "D": "Ventouse delivery",
+   "E": "Upper segment caesarean section"
+  },
+  "answer": "C",
+  "explanation": "Major degrees of praevia (type III and IV) are delivered by lower segment caesarean section.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02970"
+  ],
+  "stem": "A G5P4 at 38+6 weeks is in labour with SFH 32 cm and a transverse lie on ultrasound. She has a gush of clear fluid per vagina and the fetal heart rate drops from 145 to 100 bpm. What is the cause of the fetal bradycardia?",
+  "options": {
+   "A": "Placenta praevia",
+   "B": "Vasa praevia",
+   "C": "Cord prolapse",
+   "D": "Placental abruption",
+   "E": "Uterine rupture"
+  },
+  "answer": "C",
+  "explanation": "A transverse lie keeps the presenting part away from the pelvis, so rupture of membranes with a gush of liquor can wash down the cord, causing bradycardia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02975"
+  ],
+  "stem": "Which of the following is a risk factor for placental abruption?",
+  "options": {
+   "A": "Hypotension",
+   "B": "Smoking (hookah)",
+   "C": "Intact membranes",
+   "D": "Oligohydramnios",
+   "E": "Polyhydramnios"
+  },
+  "answer": "B",
+  "explanation": "Smoking, hypertension, cocaine, trauma and previous abruption are established risk factors.",
+  "key_note": "Polyhydramnios (sudden decompression) is also a risk factor; paper key B (smoking) is the clearest answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03115",
+   "C02268",
+   "C02880",
+   "C01974",
+   "C02697"
+  ],
+  "stem": "A 25-year-old primigravida at 36 weeks presents with severe lower abdominal pain, dark red vaginal bleeding and a rigid, tender uterus; fetal monitoring shows distress. What clinical sign is most characteristic of placental abruption?",
+  "options": {
+   "A": "Dark red vaginal bleeding",
+   "B": "Severe abdominal pain with uterine rigidity",
+   "C": "Slow onset of mild bleeding and discomfort",
+   "D": "Pain and bleeding following rupture of membranes",
+   "E": "Fetal heart rate abnormalities"
+  },
+  "answer": "B",
+  "explanation": "Constant pain with a hard, woody, tender uterus is the hallmark; the amount of visible bleeding may under-represent concealed loss.",
+  "key_note": "One annotated copy highlighted B; the correct answer is C (painful bleeding with a hard tender uterus).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02696"
+  ],
+  "stem": "A G2P1 with a previous caesarean section presents at 39 weeks in labour ward with BP 160/100 mmHg, sudden abdominal pain and vaginal bleeding. The cervix is 2 cm dilated and full length with intact membranes. What is the most likely diagnosis?",
+  "options": {
+   "A": "Placenta praevia",
+   "B": "Vasa praevia",
+   "C": "Ruptured cervical vessel",
+   "D": "Abruptio placentae",
+   "E": "Ruptured uterus"
+  },
+  "answer": "D",
+  "explanation": "Hypertension with sudden pain and bleeding, intact membranes and an early-labour cervix points to abruption; scar rupture usually occurs in established labour with fetal distress and loss of station.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03065",
+   "C02776",
+   "C03171"
+  ],
+  "stem": "A 37-year-old G4P3 at 36 weeks fell from a motorbike and presents in shock: BP 90/50 mmHg, HR 105/min, a tense and tender uterus and no audible fetal heart. What is the most likely diagnosis?",
+  "options": {
+   "A": "Aortic dissection",
+   "B": "Premature rupture of membranes",
+   "C": "Preterm labour",
+   "D": "Placental abruption",
+   "E": "Rupture of liver"
+  },
+  "answer": "D",
+  "explanation": "Blunt abdominal trauma causes shearing of the placenta, giving abruption with a tense, tender uterus and fetal death.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02950"
+  ],
+  "stem": "A primigravida at 36 weeks with painful vaginal bleeding is diagnosed with abruption. The fetus is dead and she is not in labour. What is the best management plan?",
+  "options": {
+   "A": "Immediate caesarean section",
+   "B": "Caesarean section at 38 weeks",
+   "C": "Induction of labour after stabilisation",
+   "D": "Wait for spontaneous onset of labour",
+   "E": "Immediate induction of labour"
+  },
+  "answer": "C",
+  "explanation": "With a dead fetus and a stable mother, resuscitate, correct coagulopathy and induce for vaginal delivery, which has lower morbidity than caesarean.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02513"
+  ],
+  "stem": "A woman at 30 weeks presents with spontaneous rupture of membranes and clear fluid leakage but no contractions. What is the diagnosis?",
+  "options": {
+   "A": "Normal term rupture of membranes",
+   "B": "Placenta praevia",
+   "C": "PPROM",
+   "D": "Uterine rupture",
+   "E": "Vasa praevia"
+  },
+  "answer": "C",
+  "explanation": "Rupture of membranes before 37 weeks without labour is preterm prelabour rupture of membranes (PPROM).",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02734"
+  ],
+  "stem": "A 28-year-old primigravida at 34 weeks with confirmed ruptured membranes is advised injectable antibiotics. Antibiotics are given to reduce the risk of:",
+  "options": {
+   "A": "Neonatal respiratory distress",
+   "B": "Neonatal enterocolitis",
+   "C": "Neonatal jaundice",
+   "D": "Chorioamnionitis",
+   "E": "Neonatal skin infection"
+  },
+  "answer": "D",
+  "explanation": "Prophylactic antibiotics in PPROM reduce chorioamnionitis and neonatal infection and prolong latency.",
+  "key_note": "Antibiotics also reduce neonatal infection; paper key D (chorioamnionitis) is the intended answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01988"
+  ],
+  "stem": "A 23-year-old primigravida has PPROM at 32 weeks. You plan induction of labour for suspected chorioamnionitis. Which drug will you administer to the mother to reduce the risk of cerebral palsy in the infant?",
+  "options": {
+   "A": "Alpha-methyldopa",
+   "B": "Amlodipine",
+   "C": "Mannitol",
+   "D": "Magnesium sulphate",
+   "E": "Nifedipine"
+  },
+  "answer": "D",
+  "explanation": "Magnesium sulphate given when delivery is imminent before 32-34 weeks is neuroprotective and reduces the risk of cerebral palsy.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02472"
+  ],
+  "stem": "A 26-year-old primigravida presents with premature rupture of membranes and fever. Which organism is most commonly responsible?",
+  "options": {
+   "A": "Chlamydia trachomatis",
+   "B": "Escherichia coli",
+   "C": "Group B Streptococcus",
+   "D": "Listeria monocytogenes",
+   "E": "Toxoplasma gondii"
+  },
+  "answer": "C",
+  "explanation": "Ascending infection with Group B Streptococcus is the leading organism emphasised in PROM and chorioamnionitis (E. coli and anaerobes are also common).",
+  "key_note": "Papers disagreed (some marked B, E. coli); chorioamnionitis is polymicrobial, and GBS is the usual exam answer for PROM with fever.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02614"
+  ],
+  "stem": "A 29-year-old woman at 39 weeks complains of leaking fluid for 24 hours. She is afebrile and the cervix is 2 cm dilated. What is the next best step?",
+  "options": {
+   "A": "Admit and start antibiotics",
+   "B": "Immediate induction of labour",
+   "C": "Wait and watch for 24 hours",
+   "D": "Start magnesium sulphate",
+   "E": "Perform caesarean section"
+  },
+  "answer": "B",
+  "explanation": "At term, prelabour rupture of membranes for 24 hours carries a rising infection risk, so induction is offered.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02622",
+   "C00442",
+   "C02525"
+  ],
+  "stem": "A 28-year-old primigravida at 38 weeks has a breech presentation confirmed on ultrasound and is not in labour. What is the most appropriate management option?",
+  "options": {
+   "A": "External cephalic version",
+   "B": "Vaginal breech delivery",
+   "C": "Elective caesarean section without attempt",
+   "D": "Tocolysis",
+   "E": "Repeat scan at 40 weeks"
+  },
+  "answer": "A",
+  "explanation": "ECV is offered at term to reduce non-cephalic birth and caesarean rates; elective caesarean follows if it fails or is declined.",
+  "key_note": "Keyed B (ECV); a handwritten note on the source says 37 weeks, so ECV is timed at 36-37 weeks, not immediately at 35. Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02738"
+  ],
+  "stem": "A G2P1 undergoes external cephalic version at 37 weeks in OPD and is admitted to labour ward for observation. CTG shows severe fetal bradycardia. What is the management?",
+  "options": {
+   "A": "Induction with prostaglandin",
+   "B": "Start oxytocin infusion",
+   "C": "Keep under observation",
+   "D": "Prepare for emergency LSCS",
+   "E": "Proceed to vaginal examination"
+  },
+  "answer": "D",
+  "explanation": "Persistent severe bradycardia after ECV suggests abruption or cord compromise and requires emergency caesarean.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02379"
+  ],
+  "stem": "A 34-year-old primigravida attends at 37 weeks and has a transverse fetal lie. Which of the following is NOT associated with this presentation?",
+  "options": {
+   "A": "Polyhydramnios",
+   "B": "Placenta praevia",
+   "C": "Arcuate uterus",
+   "D": "Abruptio placentae",
+   "E": "Multiple pregnancy"
+  },
+  "answer": "D",
+  "explanation": "Transverse lie is associated with polyhydramnios, praevia, uterine anomalies, multiple pregnancy and high parity; abruption is not a cause.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01982"
+  ],
+  "stem": "A 42-year-old G2P1 presents with an intrauterine gestation of 42 weeks or more. Which term correctly defines her gestational age?",
+  "options": {
+   "A": "Early term",
+   "B": "Late term",
+   "C": "Post dates",
+   "D": "Post-term",
+   "E": "Advanced term"
+  },
+  "answer": "D",
+  "explanation": "Post-term is 42 completed weeks or more; late term is 41+0 to 41+6 weeks.",
+  "key_note": "Source answer was handwritten as 'post term'.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02506"
+  ],
+  "stem": "A woman at 41+5 weeks has an uncomplicated singleton pregnancy and asks about induction of labour. What is the main reason induction is considered at this stage?",
+  "options": {
+   "A": "To prevent complications associated with placental insufficiency alone",
+   "B": "To prevent caesarean sections",
+   "C": "To reduce risk of operative delivery",
+   "D": "To reduce risks associated with prolonged pregnancy",
+   "E": "To prevent fetal macrosomia"
+  },
+  "answer": "D",
+  "explanation": "Perinatal mortality (stillbirth, meconium aspiration) rises after 41-42 weeks, so induction is offered to reduce the risks of prolonged pregnancy.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03012"
+  ],
+  "stem": "A 31-year-old primigravida at 38 weeks has a normal routine visit with cephalic presentation, adequate liquor and an appropriately grown fetus. She wants to await spontaneous labour. At what gestation will you plan induction if labour does not start?",
+  "options": {
+   "A": "39 weeks",
+   "B": "40 weeks",
+   "C": "41 weeks",
+   "D": "42 weeks",
+   "E": "43 weeks"
+  },
+  "answer": "C",
+  "explanation": "Induction is offered between 41+0 and 42+0 weeks in uncomplicated pregnancies (NICE/RCOG).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03010"
+  ],
+  "stem": "A 25-year-old nulliparous woman at 40 weeks asks why she has not gone into labour. What is the best first-line management?",
+  "options": {
+   "A": "Emergency caesarean section",
+   "B": "Elective caesarean section",
+   "C": "Induction of labour",
+   "D": "Membrane sweep",
+   "E": "Artificial rupture of membranes"
+  },
+  "answer": "D",
+  "explanation": "Membrane sweeping at 40 weeks in a nullipara is offered first to promote spontaneous labour; induction is offered from 41 weeks.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02370"
+  ],
+  "stem": "A 32-year-old G2P1 attends antenatal clinic at 30 weeks. Her blood group is O negative and her husband's is B positive. To prevent Rh isoimmunisation you counsel her for anti-D injection, which acts as:",
+  "options": {
+   "A": "Antimicrobial",
+   "B": "Active immunity",
+   "C": "Passive immunity",
+   "D": "Antiviral",
+   "E": "Natural immunity"
+  },
+  "answer": "C",
+  "explanation": "Anti-D is ready-made IgG antibody (passive immunisation) that clears fetal Rh-positive cells before the mother can mount her own response.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02700"
+  ],
+  "stem": "If an Rh-negative mother delivers an Rh-positive baby, what will happen to the mother?",
+  "options": {
+   "A": "She would not be able to conceive again",
+   "B": "She becomes sensitised to Rh antigen unless she receives anti-D",
+   "C": "She would immediately need blood transfusion",
+   "D": "She would develop Rh antigen",
+   "E": "She can develop haemolytic anaemia"
+  },
+  "answer": "B",
+  "explanation": "Fetomaternal haemorrhage at delivery sensitises an Rh-negative mother; anti-D within 72 hours prevents this and protects later pregnancies.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02284",
+   "C02285",
+   "C02287",
+   "C02288",
+   "C02895",
+   "C02896"
+  ],
+  "stem": "A woman at about 30 weeks is Rh negative and her husband is Rh positive. No doses of anti-D have been given yet and there has been no sensitising event. What is the management?",
+  "options": {
+   "A": "Give anti-D immediately",
+   "B": "Do nothing",
+   "C": "Kleihauer test",
+   "D": "Give anti-D at delivery only"
+  },
+  "answer": "A",
+  "explanation": "Routine antenatal anti-D prophylaxis is due at 28 weeks (or 28 and 34 weeks) in unsensitised Rh-negative women, followed by a further dose within 72 hours of delivery of an Rh-positive baby; after confirming no antibodies, it should be given now if missed.",
+  "key_note": "Recalled answer book and one paper marked 'give anti-D at delivery'; correct practice is to give routine antenatal prophylaxis now as well as after delivery.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02639",
+   "C02717",
+   "C01710"
+  ],
+  "stem": "A non-booked G2P1 attends at 34 weeks with a previous home delivery. Her blood group is B negative and her husband's is A positive. What is the next relevant investigation?",
+  "options": {
+   "A": "Obstetric ultrasound",
+   "B": "Anti-D antibody level",
+   "C": "Indirect Coombs test",
+   "D": "Direct Coombs test",
+   "E": "Kleihauer-Betke test"
+  },
+  "answer": "C",
+  "explanation": "The indirect Coombs test detects maternal anti-D antibodies and is the screening test for sensitisation; a titre follows only if it is positive. The direct Coombs test is done on the baby's cells.",
+  "key_note": "Some paper keys marked B (antibody titre/level); the screening test is the indirect Coombs, with titration afterwards if positive. One annotated copy circled E (Kleihauer count) next to the printed key B. The same scenario (B negative, previous home delivery) was keyed B (antibody level) in another paper; indirect Coombs is the antibody screening test and the titre follows if positive.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03013"
+  ],
+  "stem": "In which of the following conditions is there an increased risk of sensitisation for an Rh-negative pregnant woman?",
+  "options": {
+   "A": "External cephalic version",
+   "B": "Maternal thyrotoxicosis",
+   "C": "Multiple pregnancy",
+   "D": "Preterm labour",
+   "E": "Severe maternal anaemia"
+  },
+  "answer": "A",
+  "explanation": "ECV, abdominal trauma, APH, miscarriage and invasive procedures cause fetomaternal haemorrhage, so anti-D is given after them.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03018",
+   "C02515"
+  ],
+  "stem": "A 40-year-old G6P1+4 at 34 weeks presents with no fetal movement for one week and symphysiofundal height of 30 cm. Ultrasound shows dilated immobile cardiac chambers and biometry of 30 weeks. What is the diagnosis?",
+  "options": {
+   "A": "Anomalous fetus",
+   "B": "Intrauterine death",
+   "C": "Intrauterine growth restriction",
+   "D": "Mistaken dates",
+   "E": "Miscarriage"
+  },
+  "answer": "B",
+  "explanation": "Immobile dilated heart with no motion indicates intrauterine death; biometry lags because growth stopped about 4 weeks earlier.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02516"
+  ],
+  "stem": "A woman with intrauterine fetal death is RhD negative and unsensitised. What additional consideration is important?",
+  "options": {
+   "A": "Anti-D prophylaxis",
+   "B": "Avoidance of delivery",
+   "C": "Methotrexate therapy",
+   "D": "Routine chemotherapy",
+   "E": "Warfarin therapy"
+  },
+  "answer": "A",
+  "explanation": "Anti-D is still given within 72 hours of the fetal death or delivery, as fetomaternal haemorrhage can sensitise the mother.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02701",
+   "C02769"
+  ],
+  "stem": "A 29-year-old unbooked woman at 26 weeks presents with loss of fetal movements for one week. Fetal heart is not detected by sonic aid and fetal demise is confirmed by ultrasound. What is the most important initial investigation?",
+  "options": {
+   "A": "75 g OGTT",
+   "B": "Serum ALT",
+   "C": "TSH",
+   "D": "Coagulation profile",
+   "E": "TORCH screening"
+  },
+  "answer": "D",
+  "explanation": "A retained dead fetus can cause consumptive coagulopathy (DIC), so a coagulation profile (with fibrinogen) is the key initial test before delivery.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02399"
+  ],
+  "stem": "A 28-year-old G2P1+0 presents at 24 weeks with a history of unexplained stillbirth at 36 weeks in her previous pregnancy. Which test is essential for her management?",
+  "options": {
+   "A": "Cervical smear",
+   "B": "Glucose tolerance test",
+   "C": "Serum fibrinogen levels",
+   "D": "Platelet count",
+   "E": "High vaginal swab"
+  },
+  "answer": "B",
+  "explanation": "Unexplained stillbirth warrants screening for diabetes (and other causes such as thrombophilia, hypertension, infection); GTT is the essential test among the options.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01992"
+  ],
+  "stem": "A 34-year-old G3P2 presents at 35 weeks with reduced fetal movements for two days. You cannot hear fetal heart sounds with a Pinard fetoscope. What will you do next?",
+  "options": {
+   "A": "Check with hand-held Doppler",
+   "B": "Give patient fetal kick count chart",
+   "C": "Perform cardiotocography",
+   "D": "Perform ultrasound scan",
+   "E": "Schedule fetal Doppler the next day"
+  },
+  "answer": "D",
+  "explanation": "If the heart cannot be heard, fetal viability must be confirmed immediately with real-time ultrasound; a hand-held Doppler may be tried first, but CTG is not appropriate when no heartbeat has been detected.",
+  "key_note": "Paper key marked C (CTG); the next step is immediate ultrasound confirmation of fetal cardiac activity (hand-held Doppler is acceptable first).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02366"
+  ],
+  "stem": "Which of the following is a possible obstetric cause of abdominal pain in pregnancies of less than 24 weeks?",
+  "options": {
+   "A": "Ligament stretching",
+   "B": "Placental abruption",
+   "C": "Fibroid degeneration",
+   "D": "Ovarian cyst torsion",
+   "E": "Acute cystitis"
+  },
+  "answer": "A",
+  "explanation": "Round ligament stretching is the obstetric (pregnancy-related) cause; the others are non-obstetric causes or occur later.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02981"
+  ],
+  "stem": "A 38-year-old G3P2 attends emergency at 34 weeks with sudden severe abdominal pain, nausea and vomiting. Pulse 90/min, fetal heart 140/min, the uterus is tender and there is no vaginal bleeding. Her last ultrasound showed a 7 x 8 cm subserosal fundal fibroid. What is the most likely diagnosis?",
+  "options": {
+   "A": "Placental abruption",
+   "B": "Degeneration of fibroid",
+   "C": "Chorioamnionitis",
+   "D": "Preterm labour",
+   "E": "Pyelonephritis"
+  },
+  "answer": "B",
+  "explanation": "Red degeneration of a large fibroid causes localised pain, mild fever and vomiting with a normal fetal condition and no bleeding.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00953"
+  ],
+  "stem": "A second gravida with a previous normal vaginal delivery reports at 32 weeks with watery vaginal discharge for 2 days and labour pains for 4 hours. There is foul-smelling vaginal discharge, the os is 3 cm dilated and there is fetal tachycardia. What is the immediate management?",
+  "options": {
+   "A": "Strict maternal and fetal monitoring",
+   "B": "IV antibiotics",
+   "C": "Wait for spontaneous onset of labour",
+   "D": "IV antibiotics and urgent caesarean section",
+   "E": "Tocolysis"
+  },
+  "answer": "D",
+  "explanation": "Prolonged membrane rupture with foul discharge and fetal tachycardia is chorioamnionitis: give IV antibiotics and expedite delivery; tocolysis and expectant care are contraindicated.",
+  "key_note": "Keyed D by all papers; chorioamnionitis itself does not mandate caesarean (route depends on obstetric factors), but delivery must be expedited.",
+  "figure": ""
+ }
+]

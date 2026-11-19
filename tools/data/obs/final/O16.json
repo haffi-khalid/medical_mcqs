@@ -1,0 +1,166 @@
+[
+ {
+  "cids": [
+   "C01831"
+  ],
+  "stem": "The components of the Apgar score include all except:",
+  "options": {
+   "A": "Appearance",
+   "B": "Pulse rate",
+   "C": "Good eye opening",
+   "D": "Activity",
+   "E": "Respiratory effort"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "The Apgar score has five components: appearance (colour), pulse, grimace (reflex irritability), activity (tone) and respiration. Eye opening belongs to the Glasgow Coma Scale, not Apgar.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01112"
+  ],
+  "stem": "After the delivery of term infant with a Apgar score of 6 at one minute and 9 at ten minutes, The baby was examined by neonatologist, he was examining the umbilical cord and told the students that umbilical arteries carry which of the following:",
+  "options": {
+   "A": "Deoxygenated blood from the placenta",
+   "B": "Deoxygenated blood to placenta",
+   "C": "Nutrients from placental",
+   "D": "Oxygenated blood from placenta",
+   "E": "Oxygenated blood to the placenta"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "The two umbilical arteries carry deoxygenated blood from the fetus to the placenta; the single umbilical vein carries oxygenated blood to the fetus.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01793"
+  ],
+  "stem": "A G3P2A0 had an emergency Caesarean section at 34 weeks due to previous 02 scars. Within first few hours of birth, baby develops respiratory difficulty with tachypnoea and cyanosis. Which one of the following is the most likely diagnosis?",
+  "options": {
+   "A": "Congenital pneumonia",
+   "B": "Diaphragmatic hernia",
+   "C": "Pulmonary hypoplasia",
+   "D": "Respiratory distress syndrome",
+   "E": "Transient Tachypnoea of newborn"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Preterm birth at 34 weeks with respiratory distress and cyanosis within hours is respiratory distress syndrome from surfactant deficiency; transient tachypnoea is milder and more typical of term caesarean babies.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01641"
+  ],
+  "stem": "A 26-year-old G1 at 37 weeks presents to the hospital in active labor. She has no medical problems and has a normal prenatal course except for fetal growth restriction. She undergoes an uncomplicated vaginal delivery of a female infant weighing 1950 g The infant is at risk for which of the following complications?",
+  "options": {
+   "A": "Hyperglycemia",
+   "B": "Hypothermia",
+   "C": "Hypertension",
+   "D": "Anemia",
+   "E": "Hypoxia"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "A growth-restricted neonate has little subcutaneous fat and glycogen stores, so hypothermia (and hypoglycaemia) are the major risks; polycythaemia, not anaemia, is the haematological risk.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02406"
+  ],
+  "stem": "A 24 year old primigravida with type 1 diabetes mellitus delivers a 3800 g newborn at 38 weeks gestation. The pregnancy was complicated by poor control of her diabetes. The labour lasted 4 hours. The most appropriate neonatal blood test in the first 30 minutes after birth is:",
+  "options": {
+   "A": "Determination of blood group & Rh",
+   "B": "Measurement of hematocrit",
+   "C": "Measurement of PH",
+   "D": "Measurement of serum bilirubin level",
+   "E": "Measurement of serum glucose level"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Babies of diabetic mothers have fetal hyperinsulinism, so hypoglycaemia is the major early risk and blood glucose is checked within the first 30 minutes.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02856"
+  ],
+  "stem": "A 23-year-old G3P2 patient on regular insulin delivers a 4.5 kg infant. This newborn is at an increased risk of developing which condition?",
+  "options": {
+   "A": "Hyponatremia",
+   "B": "Hypercalcemia",
+   "C": "Hyperbilirubinemia",
+   "D": "Hypermagnesemia",
+   "E": "Hyperglycemia"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Infants of diabetic mothers are macrosomic and at risk of hypoglycaemia, hypocalcaemia, hypomagnesaemia, polycythaemia and hyperbilirubinaemia; hyperglycaemia, hypercalcaemia and hypermagnesaemia are not typical.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02825",
+   "C01018"
+  ],
+  "stem": "A 26-year-old primigravida delivers a male infant by vacuum extraction after a prolonged second stage. The procedure involved four pulls over 15 minutes, with one cup detachment. Apgar scores are 7 and 8 at 1 and 5 minutes. Two hours after birth, the baby develops a fluctuant swelling over the parietal area that does not crosses the midline, and his hemoglobin drops from 15 \\text{ g/dL} to 10 \\text{ g/dL}. What is the most likely diagnosis?",
+  "options": {
+   "A": "Caput succedaneum",
+   "B": "Cephalohematoma",
+   "C": "Subgaleal hemorrhage",
+   "D": "Intracranial hemorrhage",
+   "E": "Skull fracture"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "A fluctuant parietal swelling that does not cross the midline or suture lines is a cephalohaematoma (subperiosteal). Subgaleal haemorrhage crosses sutures and gives a boggy diffuse swelling.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01689",
+   "C03110"
+  ],
+  "stem": "After a forceps-assisted delivery, a neonate has facial asymmetry with inability to close the right eye and diminished movement of the right side of the mouth when crying. The most likely cause is:",
+  "options": {
+   "A": "Brachial plexus injury",
+   "B": "Facial nerve palsy",
+   "C": "Subdural haemorrhage",
+   "D": "Skull fracture",
+   "E": "Cephalohaematoma"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Forceps pressure on the facial nerve causes facial nerve palsy: asymmetric crying face with inability to close the eye on the affected side. It usually recovers spontaneously.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03152"
+  ],
+  "stem": "During delivery of a G3P2 shoulder dystocia is encountered. After the manoeuvre the baby is delivered and the right arm hangs limply at the side with the forearm extended and internally rotated. What is the most likely diagnosis?",
+  "options": {
+   "A": "Erb's palsy",
+   "B": "Klumpke's paralysis",
+   "C": "Humeral fracture",
+   "D": "Clavicular fracture",
+   "E": "Radial fracture"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Waiter's tip posture with C5-C6 injury is Erb's palsy, the commonest brachial plexus injury in shoulder dystocia.",
+  "key_note": "",
+  "figure": ""
+ }
+]

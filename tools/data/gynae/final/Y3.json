@@ -1,0 +1,1203 @@
+[
+ {
+  "cids": [
+   "C00018",
+   "C00687"
+  ],
+  "stem": "A 12-year-old girl is brought by her mother, who is concerned that she has not shown any signs of puberty. You tell the mother that the first sign of the onset of puberty is:",
+  "options": {
+   "A": "Axillary hair growth",
+   "B": "Breast budding (thelarche)",
+   "C": "Height gain",
+   "D": "Menarche",
+   "E": "Pubic hair growth"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Thelarche (breast budding, Tanner stage 2) is normally the first sign of puberty, at about 10-11 years, followed by pubarche, the growth spurt and then menarche about 2 years after thelarche.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01191"
+  ],
+  "stem": "The sequence of physical changes occurring in puberty is:",
+  "options": {
+   "A": "Growth spurt, thelarche, adrenarche, menarche",
+   "B": "Adrenarche, thelarche, growth spurt, menarche",
+   "C": "Thelarche, adrenarche, growth spurt, menarche",
+   "D": "Menarche, thelarche, growth spurt, adrenarche",
+   "E": "Thelarche, growth spurt, adrenarche, menarche"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "The usual order is thelarche, then adrenarche (pubic and axillary hair), then the peak growth spurt, with menarche a late event about 2 years after thelarche.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00697"
+  ],
+  "stem": "Menarche usually occurs at the age of:",
+  "options": {
+   "A": "8-10 years",
+   "B": "11-13 years",
+   "C": "14-16 years",
+   "D": "17-18 years",
+   "E": "18 years and above"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "The mean age of menarche is about 12-13 years, with a normal range of 11-14 years.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00698"
+  ],
+  "stem": "Which of the following pubertal events occurs even in the absence of ovarian oestrogen production?",
+  "options": {
+   "A": "Thelarche",
+   "B": "Menarche",
+   "C": "Pubarche",
+   "D": "Skeletal growth",
+   "E": "Vaginal cornification"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Pubarche (adrenarche) is driven by adrenal androgens, so pubic and axillary hair appear even in gonadal dysgenesis. Thelarche, menarche and vaginal cornification all need ovarian oestrogen.",
+  "key_note": "The paper key marked D (skeletal growth); pubarche (C) is the better answer because it is adrenal in origin, whereas the pubertal growth spurt and epiphyseal maturation depend on oestrogen.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01541"
+  ],
+  "stem": "The maximum number of primordial follicles is present at which week of gestation?",
+  "options": {
+   "A": "10 weeks",
+   "B": "15 weeks",
+   "C": "20 weeks",
+   "D": "25 weeks",
+   "E": "28 weeks"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Oocyte number peaks at about 6-7 million at 20 weeks of gestation, then falls by atresia to about 1-2 million at birth and about 400,000 at puberty.",
+  "key_note": "The paper asterisk marked D (25 weeks) but a pen mark was on C; correct is C (20 weeks).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00035"
+  ],
+  "stem": "A 19-year-old girl has regular menstrual cycles. Which type of endometrium is present in the luteal phase of her cycle?",
+  "options": {
+   "A": "Proliferative endometrium",
+   "B": "Secretory endometrium",
+   "C": "Hypertrophied endometrium",
+   "D": "Atrophic endometrium",
+   "E": "Smooth endometrium"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "After ovulation the corpus luteum secretes progesterone, which converts the proliferative endometrium to a secretory one with tortuous glands and vacuolation.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00326",
+   "C01206"
+  ],
+  "stem": "In a young woman with a regular 28-day menstrual cycle, the luteal phase is fixed at approximately:",
+  "options": {
+   "A": "21 days",
+   "B": "19 days",
+   "C": "16 days",
+   "D": "14 days",
+   "E": "10 days"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "The luteal phase is the constant part of the cycle, about 14 days, because the corpus luteum has a fixed lifespan. Variation in cycle length is due to the follicular phase.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01207",
+   "C01877"
+  ],
+  "stem": "A 25-year-old woman with regular 28-day cycles asks about her cycle. The follicular phase is characterised by high levels of which hormone?",
+  "options": {
+   "A": "Luteinising hormone",
+   "B": "Progesterone",
+   "C": "Oestrogen",
+   "D": "Oxytocin",
+   "E": "Prolactin"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "During the follicular phase growing follicles secrete increasing oestradiol, which causes endometrial proliferation. Progesterone dominates the luteal phase.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00329"
+  ],
+  "stem": "A 24-year-old woman with regular 28-day cycles presents on day 14 with mild lower abdominal pain. Which hormonal event is occurring at this time?",
+  "options": {
+   "A": "Fall in LH surge",
+   "B": "LH surge with ovulation",
+   "C": "Peak in progesterone",
+   "D": "Decline in FSH",
+   "E": "Rise in inhibin B"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Mid-cycle pain (mittelschmerz) coincides with the oestrogen-triggered LH surge, with ovulation about 36 hours later. Progesterone peaks in the mid-luteal phase.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00325",
+   "C00747",
+   "C02331"
+  ],
+  "stem": "Menstruation is the cyclical bleeding in females in the absence of conception. Which of the following statements is correct?",
+  "options": {
+   "A": "During menstruation, stratum basalis is shed",
+   "B": "During menstruation, stratum compositum is shed",
+   "C": "During menstruation, fibrinolysis is enhanced",
+   "D": "Endometrial regeneration begins after ovulation",
+   "E": "Vasodilatation of spiral arterioles precedes menstruation"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Progesterone withdrawal causes spiral arteriolar vasoconstriction, ischaemia and shedding of the functional layer; enhanced local fibrinolysis keeps menstrual blood fluid. The basal layer is retained and regeneration begins during menstruation under oestrogen.",
+  "key_note": "Some paper keys marked B ('stratum compositum', not a standard term and probably a garbled 'compactum'); correct is C, as the other options are clearly false and fibrinolysis is a recognised feature of menstruation.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00771"
+  ],
+  "stem": "During the normal menstrual cycle, which layer constitutes about 25% of the endometrium and remains throughout menstruation?",
+  "options": {
+   "A": "Stratum basalis",
+   "B": "Stratum compactum",
+   "C": "Stratum functionalis",
+   "D": "Stratum corneum",
+   "E": "Stratum spongiosum"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "The basal layer (about one quarter of the thickness) is not shed and regenerates the functional layer. The functionalis consists of the compactum and spongiosum and is shed at menstruation.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01333"
+  ],
+  "stem": "During a discussion with students about the normal menstrual cycle you tell them that menstruation is the shedding of the:",
+  "options": {
+   "A": "Stratum basalis",
+   "B": "Stratum compactum",
+   "C": "Stratum spongiosum",
+   "D": "Serosal layer",
+   "E": "Upper one third of the myometrium"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Menstruation sheds the functional layer of the endometrium (compact and spongy layers) and spares the basalis.",
+  "key_note": "Question is flawed: both compactum and spongiosum are parts of the shed functionalis; the papers keyed B (compactum).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01542"
+  ],
+  "stem": "Which hormone(s) are produced by the corpus luteum?",
+  "options": {
+   "A": "Oestrogen only",
+   "B": "Progesterone only",
+   "C": "Oestrogen and progesterone",
+   "D": "Oestrogen, progesterone and inhibin",
+   "E": "Inhibin and relaxin"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "The corpus luteum secretes progesterone mainly, with oestradiol, inhibin A and relaxin (in pregnancy).",
+  "key_note": "The paper asterisk marked B (progesterone only) but a pen mark was on D; D is the most complete option and is correct.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00027",
+   "C00792",
+   "C00356",
+   "C01917",
+   "C02254",
+   "C02354"
+  ],
+  "stem": "A mother brings her daughter who has not started to menstruate. Primary amenorrhoea is defined as failure to menstruate by the age of:",
+  "options": {
+   "A": "12 years",
+   "B": "14 years",
+   "C": "16 years",
+   "D": "18 years",
+   "E": "20 years"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Primary amenorrhoea is failure of menarche by 16 years in the presence of secondary sexual characteristics (14 years if they are absent).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01217",
+   "C01867",
+   "C01888"
+  ],
+  "stem": "A 32-year-old P1 presents with amenorrhoea. You label her as having secondary amenorrhoea when there is absence of menstruation, not due to pregnancy, lactation or menopause, for more than:",
+  "options": {
+   "A": "24 months",
+   "B": "18 months",
+   "C": "12 months",
+   "D": "8 months",
+   "E": "6 months"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Secondary amenorrhoea is cessation of menstruation for 6 months or more (3 months in a woman who was previously irregular) after established menses.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02333"
+  ],
+  "stem": "Regarding precocious puberty, which of the following statements is correct?",
+  "options": {
+   "A": "It is defined as onset of puberty before the age of 8 years in a boy",
+   "B": "It is defined as onset of puberty before the age of 8 years in a girl",
+   "C": "It is defined as onset of puberty before the age of 9 years in a girl",
+   "D": "Peripheral precocious puberty is gonadotrophin dependent",
+   "E": "Central precocious puberty is gonadotrophin independent"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Precocious puberty is onset of secondary sexual development before 8 years in girls (9 years in boys). Central (true) precocity is gonadotrophin dependent; peripheral is independent.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00039",
+   "C00353",
+   "C00748",
+   "C00492",
+   "C00729"
+  ],
+  "stem": "A 30-year-old P2+0 presents with secondary amenorrhoea of 2 months. The first investigation you will advise is:",
+  "options": {
+   "A": "Serum beta hCG",
+   "B": "Serum FSH",
+   "C": "Serum LH",
+   "D": "Serum prolactin",
+   "E": "Serum testosterone"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Pregnancy is the commonest cause of secondary amenorrhoea in a woman of reproductive age and must be excluded first.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01413"
+  ],
+  "stem": "The most common cause of secondary amenorrhoea is:",
+  "options": {
+   "A": "PCOS",
+   "B": "Premature ovarian failure",
+   "C": "Pregnancy",
+   "D": "Tuberculosis",
+   "E": "Chemotherapy"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Pregnancy is the commonest cause of secondary amenorrhoea in the reproductive years; always exclude it first.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01932"
+  ],
+  "stem": "A 14-year-old ballet dancer is brought by her mother because menarche has not occurred. She practises 4 hours daily and is dieting. The most likely cause of her delayed menarche is:",
+  "options": {
+   "A": "Eugonadotrophic hypogonadism",
+   "B": "Hypogonadotrophic hypogonadism",
+   "C": "Hypergonadotrophic hypogonadism",
+   "D": "Hypergonadotrophic hypergonadism",
+   "E": "Hypogonadotrophic hypergonadism"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Strenuous exercise and low energy availability suppress hypothalamic GnRH pulsatility, giving low FSH, LH and oestrogen (functional hypothalamic amenorrhoea).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02046"
+  ],
+  "stem": "A 14-year-old girl of average height presents for evaluation of onset of menses. She had a growth spurt at 11 years and has normal pubic and axillary hair and breast development. There is no cyclical abdominal pain, and abdominal and pelvic examinations are normal. What is the most appropriate next step?",
+  "options": {
+   "A": "Hormonal profile",
+   "B": "Pelvic scan",
+   "C": "Reassurance and follow-up",
+   "D": "Karyotyping",
+   "E": "Serum progesterone"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Normal pubertal development with normal examination at 14 years is constitutional delay; primary amenorrhoea is only diagnosed at 16 years when secondary sexual characteristics are present.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02049"
+  ],
+  "stem": "A 16-year-old girl has primary amenorrhoea with well-developed secondary sexual characteristics and normal local examination. After a progesterone challenge test she has her first period. The most likely cause of her amenorrhoea is:",
+  "options": {
+   "A": "Constitutional delay in menarche",
+   "B": "Turner syndrome",
+   "C": "Hypo-oestrogenism",
+   "D": "Hypogonadotrophic hypogonadism",
+   "E": "Hypergonadotrophic hypogonadism"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Withdrawal bleeding after progesterone shows a patent outflow tract and an oestrogen-primed endometrium, with delayed maturation of the axis (constitutional delay).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02068"
+  ],
+  "stem": "A 13-year-old girl has irregular light periods 2-3 months apart since menarche 1 year ago. She is otherwise healthy, her BMI is 18 and examination is normal. The most likely cause is:",
+  "options": {
+   "A": "Polycystic ovarian syndrome",
+   "B": "Primary ovarian insufficiency",
+   "C": "Thyroid function disorder",
+   "D": "Immature hypothalamic-pituitary-ovarian axis",
+   "E": "Hyperprolactinaemia"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Anovulatory irregular cycles are normal in the first 2 years after menarche because the positive feedback mechanism is immature.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02203",
+   "C00677",
+   "C00702"
+  ],
+  "stem": "A 16-year-old girl presents with primary amenorrhoea. She is tall and has secondary sexual characteristics. The first investigation you would order is:",
+  "options": {
+   "A": "FSH",
+   "B": "LH",
+   "C": "Prolactin",
+   "D": "Karyotyping",
+   "E": "Transvaginal ultrasound"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Normal secondary sexual characteristics suggest a structural cause such as Mullerian agenesis; ultrasound of the uterus and ovaries comes first.",
+  "key_note": "Only one paper marked this item (E).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00026"
+  ],
+  "stem": "A girl presents with primary amenorrhoea at the age of 16 years. She has normal height, normal secondary sexual characteristics and an intact uterus and ovaries. A possible cause of her primary amenorrhoea is:",
+  "options": {
+   "A": "Turner syndrome",
+   "B": "Rokitansky syndrome",
+   "C": "Gonadal agenesis",
+   "D": "Gonadal dysgenesis",
+   "E": "Constitutional delay"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "With normal height, secondary sexual characteristics and intact uterus and ovaries, the remaining cause is constitutional delay of puberty.",
+  "key_note": "Top of the stem was cropped in the source paper; answer as keyed.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00015"
+  ],
+  "stem": "A 20-year-old girl with primary amenorrhoea is tall and thin (BMI 16), with no breast development and normal external genitalia. She has had anosmia since childhood. The most likely diagnosis is:",
+  "options": {
+   "A": "Kallmann syndrome",
+   "B": "Klinefelter syndrome",
+   "C": "Mayer-Rokitansky-Kuster-Hauser syndrome",
+   "D": "Swyer syndrome",
+   "E": "Turner syndrome"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Anosmia with hypogonadotropic hypogonadism (absent puberty, low FSH and LH) is Kallmann syndrome, caused by failed migration of GnRH neurons with olfactory bulb hypoplasia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00371"
+  ],
+  "stem": "A cause of abnormal or absent sperms, deficient olfactory sense and hypogonadism in males, inherited as a genetic disorder, is:",
+  "options": {
+   "A": "Klippel-Feil syndrome",
+   "B": "Klinefelter syndrome",
+   "C": "Kallmann syndrome",
+   "D": "Kartagener syndrome",
+   "E": "Turner syndrome"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Kallmann syndrome is isolated GnRH deficiency with anosmia. Kartagener syndrome causes immotile sperm but is associated with situs inversus and bronchiectasis, not anosmia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00381"
+  ],
+  "stem": "A 16-year-old unmarried girl presents with primary amenorrhoea. She has short stature and absent secondary sexual characteristics. What is the first investigation you should order?",
+  "options": {
+   "A": "Serum FSH/LH",
+   "B": "Pelvic ultrasound",
+   "C": "17-hydroxyprogesterone",
+   "D": "Karyotype",
+   "E": "Serum prolactin"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Short stature with absent secondary sexual characteristics suggests Turner syndrome (45,X) with streak gonads, confirmed by karyotype.",
+  "key_note": "Some paper copies ticked pelvic ultrasound or FSH/LH; the keyed answer in most sources is karyotype, which is accepted here.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02085"
+  ],
+  "stem": "A 16-year-old girl with primary amenorrhoea brings an ultrasound report showing a uterus 7.5 cm long, 5 cm wide and 3 cm thick, cervix 3 cm long and ovarian size 1.5 cm. She is anxious about the report. Which of the following is true?",
+  "options": {
+   "A": "Uterus is normal in size",
+   "B": "Hypoplastic uterus",
+   "C": "Short cervix",
+   "D": "Rudimentary ovaries",
+   "E": "Normal ovaries"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "A uterus of about 7.5 x 5 x 3 cm and a cervix of 3 cm are normal adult dimensions, so the report is reassuring for the uterus.",
+  "key_note": "Most paper copies bolded D (rudimentary ovaries) but one marked A; the uterine dimensions given are clearly normal, so A is chosen as the true statement (question is poorly framed).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01944",
+   "C02089"
+  ],
+  "stem": "A 38-year-old woman presents for evaluation of subfertility. Her FSH is 80 mIU/ml (normal below 10) and LH is 60 mIU/ml (normal below 25). What is the likely cause?",
+  "options": {
+   "A": "Late-onset congenital adrenal hyperplasia",
+   "B": "Premature ovarian insufficiency",
+   "C": "Polycystic ovarian syndrome",
+   "D": "Kallmann syndrome",
+   "E": "Sheehan syndrome"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Very high FSH and LH indicate hypergonadotropic hypogonadism from ovarian failure; Kallmann and Sheehan syndromes give low gonadotrophins.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00023",
+   "C00788",
+   "C00711",
+   "C02926",
+   "C02349",
+   "C00214"
+  ],
+  "stem": "A 28-year-old P3+0 presents with secondary amenorrhoea since an evacuation and curettage done 6 months ago for incomplete miscarriage. Examination is normal and the urine pregnancy test is negative. The most probable cause is:",
+  "options": {
+   "A": "Premature ovarian failure",
+   "B": "Asherman syndrome",
+   "C": "Polycystic ovarian disease",
+   "D": "Pregnancy",
+   "E": "Menopause"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Amenorrhoea after uterine curettage with normal examination and normal hormones points to intrauterine adhesions (Asherman syndrome); the endometrium cannot respond to hormones.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00219",
+   "C01807",
+   "C02090"
+  ],
+  "stem": "A P1+1 woman has secondary amenorrhoea for 6 months. Her last pregnancy ended in a miscarriage 6 months ago, managed by evacuation and curettage. Bimanual examination is normal and the urine pregnancy test is negative. What is the most appropriate next step to reach a definitive diagnosis?",
+  "options": {
+   "A": "Serum FSH/LH",
+   "B": "Hysteroscopy",
+   "C": "Diagnostic curettage",
+   "D": "Serum prolactin",
+   "E": "Hysterosalpingography"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Asherman syndrome is suspected; hysteroscopy is the gold standard for diagnosis and allows adhesiolysis at the same sitting. Blind curettage is not advised.",
+  "key_note": "Not marked in one source paper; two others marked B.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00361",
+   "C00044"
+  ],
+  "stem": "A 35-year-old P2+1 woman has been diagnosed with Asherman syndrome after evaluation for secondary amenorrhoea. The best management is:",
+  "options": {
+   "A": "Dilatation and curettage",
+   "B": "Adhesiolysis",
+   "C": "Oestrogen therapy",
+   "D": "Hysteroscopic adhesiolysis",
+   "E": "Hysteroscopic adhesiolysis plus insertion of an IUCD"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Adhesions are divided under direct hysteroscopic vision, then an IUCD or balloon is placed and oestrogen given to prevent recurrence.",
+  "key_note": "One paper copy handwrote D (hysteroscopic adhesiolysis alone); E is the fuller and standard answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00357",
+   "C01179"
+  ],
+  "stem": "A 25-year-old P2, 6 months after delivery, presents with secondary amenorrhoea. She had a postpartum haemorrhage and failed to lactate. The most probable cause is:",
+  "options": {
+   "A": "Sheehan syndrome",
+   "B": "Asherman syndrome",
+   "C": "Fitz-Hugh-Curtis syndrome",
+   "D": "Rokitansky syndrome",
+   "E": "Lactational amenorrhoea"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Severe PPH causes ischaemic necrosis of the anterior pituitary; failure of lactation (low prolactin) and amenorrhoea (low gonadotrophins) are the earliest features.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01453"
+  ],
+  "stem": "A 28-year-old woman has secondary subfertility for 3 years. She has two children, previously regular cycles that have been prolonged for the last year, and a white nipple discharge for 6 months. The next investigation is:",
+  "options": {
+   "A": "MRI pituitary",
+   "B": "Serum prolactin and TSH",
+   "C": "Serum FSH/LH",
+   "D": "Breast ultrasound",
+   "E": "Adrenal ultrasound for adenoma"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Galactorrhoea with menstrual disturbance suggests hyperprolactinaemia; check prolactin and TSH (hypothyroidism raises prolactin) before imaging.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02070",
+   "C02210"
+  ],
+  "stem": "A 30-year-old woman has secondary amenorrhoea for 5 months after regular cycles. Her BMI is 26, and she has occasional mild acne, headaches and galactorrhoea. A home pregnancy test is negative. The most likely cause is:",
+  "options": {
+   "A": "Pregnancy",
+   "B": "Polycystic ovary syndrome",
+   "C": "Hyperprolactinaemia",
+   "D": "Thyroid dysfunction",
+   "E": "Premature ovarian insufficiency"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Galactorrhoea with headaches and amenorrhoea points to hyperprolactinaemia, possibly from a pituitary adenoma.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01738"
+  ],
+  "stem": "The most common presentation of hyperprolactinaemia is:",
+  "options": {
+   "A": "Visual field defects",
+   "B": "Subfertility",
+   "C": "Secondary amenorrhoea",
+   "D": "Galactorrhoea",
+   "E": "Amenorrhoea with galactorrhoea"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Galactorrhoea is the keyed presenting feature; the classical syndrome is amenorrhoea with galactorrhoea.",
+  "key_note": "Ambiguous question (menstrual disturbance and galactorrhoea are both common); the paper key D is retained.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00700",
+   "C01224",
+   "C02925"
+  ],
+  "stem": "A 38-year-old P2 presents with secondary amenorrhoea, hot flushes, irritability, loss of sleep and excessive sweating. The most probable cause is:",
+  "options": {
+   "A": "Sheehan syndrome",
+   "B": "Kallmann syndrome",
+   "C": "Turner syndrome",
+   "D": "Premature ovarian failure",
+   "E": "Asherman syndrome"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Amenorrhoea with vasomotor symptoms before 40 years indicates premature ovarian insufficiency (low oestrogen, raised FSH).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01412"
+  ],
+  "stem": "A 30-year-old woman had chemotherapy 2 years ago for stage II invasive ductal carcinoma of the breast. She now has amenorrhoea of 1 year and her serum FSH is 30 IU/L. The diagnosis is:",
+  "options": {
+   "A": "Premature ovarian failure",
+   "B": "Menopause",
+   "C": "PCOS",
+   "D": "Pregnancy"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Alkylating chemotherapy damages the follicle pool, causing premature ovarian insufficiency (amenorrhoea with raised FSH under 40 years).",
+  "key_note": "Only four options were available in the source.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00779"
+  ],
+  "stem": "A 40-year-old woman has cessation of menstruation. She has no menopausal symptoms but her FSH is 30 mIU/ml. She has a strong family history of osteoporosis. The most appropriate treatment is:",
+  "options": {
+   "A": "Bisphosphonates",
+   "B": "Combined oral contraceptive pills",
+   "C": "Progesterone-only pills",
+   "D": "Psychotherapy",
+   "E": "Tibolone"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "This is premature ovarian insufficiency; replacing oestrogen (HRT or COCP) until the age of natural menopause protects bone and the cardiovascular system. Bisphosphonates are not first-line in young women.",
+  "key_note": "The paper key marked A (bisphosphonates); correct is B, as sex steroid replacement is the standard treatment of POI.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01411"
+  ],
+  "stem": "A 19-year-old unmarried girl has had oligomenorrhoea for 6 months. Menarche was at 13 years, with previously regular 7/28 cycles. She has lost much weight through dietary restriction (weight 49 kg). There is no hirsutism, thyroid symptom or nipple discharge. How will you manage her?",
+  "options": {
+   "A": "Start COCP",
+   "B": "Dietary advice and support",
+   "C": "Start a dopamine agonist",
+   "D": "Give myoinositol",
+   "E": "Metformin"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "This is functional hypothalamic amenorrhoea from weight loss; treatment is nutritional rehabilitation and psychological support, not hormones.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01152",
+   "C00022",
+   "C00728",
+   "C00319",
+   "C00352",
+   "C01808",
+   "C02155",
+   "C00796",
+   "C00346",
+   "C02319",
+   "C02092"
+  ],
+  "stem": "A 35-year-old obese woman has secondary amenorrhoea of 4 months and increased facial hair. Pelvic ultrasound shows multiple small follicles in both ovaries and a normal-sized uterus. The most appropriate diagnosis is:",
+  "options": {
+   "A": "Androgen-secreting ovarian tumour",
+   "B": "Hyperprolactinaemia",
+   "C": "Hypothyroidism",
+   "D": "Premature ovarian failure",
+   "E": "Polycystic ovarian syndrome"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Obesity, hirsutism, oligo-amenorrhoea and polycystic ovaries on ultrasound make PCOS the diagnosis; an androgen-secreting tumour would give rapid virilisation and a unilateral mass.",
+  "key_note": "Options not available in the source; recall question.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00093"
+  ],
+  "stem": "A 32-year-old woman has primary subfertility for 6 years, weight gain, hirsutism and acne. Her last period was 3 months ago and the pregnancy test is negative. The most probable diagnosis is PCOS. According to the Rotterdam criteria, which ultrasound finding must she have?",
+  "options": {
+   "A": "Fewer than 8 follicles measuring 2-9 mm",
+   "B": "Fewer than 9 follicles measuring 9-10 mm",
+   "C": "More than 10 follicles measuring 9-10 mm",
+   "D": "More than 12 follicles measuring 2-9 mm",
+   "E": "More than 18 follicles measuring 9-10 mm"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Rotterdam criteria define polycystic ovaries as 12 or more follicles of 2-9 mm in an ovary and/or ovarian volume above 10 mL.",
+  "key_note": "One paper key marked C (more than 10 follicles of 9-10 mm), but the other papers and the Rotterdam definition support D.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00344",
+   "C00345"
+  ],
+  "stem": "A 24-year-old woman has irregular cycles since menarche, progressive facial hair and weight gain (BMI 31), with enlarged ovaries with peripheral follicles, raised LH/FSH ratio and mildly raised testosterone. According to the Rotterdam criteria, which is required for the diagnosis of PCOS?",
+  "options": {
+   "A": "Polycystic ovarian morphology on ultrasound",
+   "B": "Oligo- or anovulation",
+   "C": "Clinical or biochemical hyperandrogenism",
+   "D": "Any two of the three criteria in the absence of other causes",
+   "E": "Elevated LH/FSH ratio"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "No single feature is essential: any two of oligo-anovulation, hyperandrogenism and polycystic ovaries after excluding other causes. LH/FSH ratio is not a criterion.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01226"
+  ],
+  "stem": "With regard to polycystic ovarian syndrome, which of the following is NOT a part of the Rotterdam criteria?",
+  "options": {
+   "A": "Anovulation",
+   "B": "Oligomenorrhoea",
+   "C": "10-12 peripherally arranged follicles",
+   "D": "Hyperandrogenism",
+   "E": "Obesity"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "The Rotterdam criteria are oligo-anovulation, hyperandrogenism and polycystic ovaries; obesity is a common association but not a criterion.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00358"
+  ],
+  "stem": "A 20-year-old woman has prolonged amenorrhoea followed by prolonged periods, with facial acne and hirsutism. You diagnose PCOS. Which ultrasound report helped you reach the diagnosis?",
+  "options": {
+   "A": "Normal uterus, normal ovaries, fluid in the pouch of Douglas",
+   "B": "Normal uterus, enlarged ovaries, multiple small peripheral follicles",
+   "C": "Normal uterus, enlarged ovaries, a single small central follicle",
+   "D": "Enlarged uterus, enlarged ovaries, a single peripheral follicle",
+   "E": "Enlarged uterus, enlarged ovaries, no follicles"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "PCOS ultrasound shows normal uterus and enlarged ovaries with multiple small peripheral follicles (string of pearls) and increased central stroma.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00720"
+  ],
+  "stem": "With regard to polycystic ovarian syndrome (PCOS), which one of the following statements is true?",
+  "options": {
+   "A": "PCOS is a rare cause of anovulation in Asia",
+   "B": "Ultrasonic evidence of polycystic ovary is sufficient to make the diagnosis",
+   "C": "Affected individuals are at increased risk of developing type 1 diabetes",
+   "D": "PCOS is associated with acanthosis nigricans",
+   "E": "Only biochemical evidence of hyperandrogenism confirms the diagnosis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Insulin resistance in PCOS causes acanthosis nigricans and a raised risk of type 2 (not type 1) diabetes. PCOS is the commonest cause of anovulation and needs two Rotterdam criteria.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01209",
+   "C02102"
+  ],
+  "stem": "A 22-year-old P1 has amenorrhoea for 6 months, weight gain and increased facial hair, after previously normal cycles. You suspect PCOS. Which of the following is consistent with your diagnosis?",
+  "options": {
+   "A": "Decreased LH",
+   "B": "Decreased testosterone",
+   "C": "Decreased fasting insulin level",
+   "D": "Decreased oestradiol",
+   "E": "Decreased sex hormone binding globulin"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Hyperinsulinaemia suppresses hepatic SHBG, increasing free androgens; LH, testosterone and fasting insulin are raised.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00713"
+  ],
+  "stem": "A 23-year-old unmarried girl has irregular cycles, excessive facial hair and a BMI of 31. You diagnose PCOS. Which hormonal change is responsible for these changes?",
+  "options": {
+   "A": "Increase in FSH",
+   "B": "Increase in oestrogen",
+   "C": "Increase in progesterone",
+   "D": "Decrease in TSH",
+   "E": "Decrease in LH"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Of the options given, raised oestrogen (peripheral aromatisation of excess androgens in fat) is the best fit; unopposed oestrogen drives the cycle disturbance.",
+  "key_note": "Flawed question: PCOS is mainly driven by raised LH, androgens and insulin; the paper key B is retained as the best of the given options.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01273"
+  ],
+  "stem": "A 30-year-old P1+0 woman has polycystic ovarian disease with a high fasting insulin level. You prescribe metformin. Its effect is to:",
+  "options": {
+   "A": "Increase sensitivity of tissues to insulin",
+   "B": "Increase glucose secretion",
+   "C": "Decrease sensitivity of tissues to insulin",
+   "D": "Decrease glucose secretion",
+   "E": "Increase insulin secretion"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Metformin is an insulin sensitiser: it reduces hepatic gluconeogenesis and increases peripheral insulin sensitivity, lowering insulin and androgen levels.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01274"
+  ],
+  "stem": "A 35-year-old woman with oligomenorrhoea is diagnosed with polycystic ovarian disease. You explain that oligomenorrhoea in PCOS is predominantly related to:",
+  "options": {
+   "A": "Anovulation",
+   "B": "Ovulation",
+   "C": "Tubal blockage",
+   "D": "Hyperandrogenism",
+   "E": "Hyperinsulinaemia"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Chronic anovulation is the direct cause of the menstrual irregularity; androgens and insulin act upstream.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00723"
+  ],
+  "stem": "A 35-year-old woman with a BMI of 28 has oligomenorrhoea and hirsutism. The investigation of choice is:",
+  "options": {
+   "A": "Serum FSH",
+   "B": "Serum LH",
+   "C": "Serum insulin",
+   "D": "Ultrasound pelvis",
+   "E": "Serum AMH"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Pelvic ultrasound showing polycystic ovaries is the key investigation for PCOS; FSH only helps to exclude ovarian failure.",
+  "key_note": "The paper asterisk was on FSH (A) but a pen mark was on D; answer D by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00699"
+  ],
+  "stem": "A 42-year-old woman with oligomenorrhoea and hirsutism presents with a prolonged episode of vaginal bleeding. Her BMI is 40 kg/m2, and ultrasound shows a thickened endometrium with bilateral polycystic ovaries. She is hypertensive. What further investigation is required?",
+  "options": {
+   "A": "Pregnancy test",
+   "B": "Serum cholesterol",
+   "C": "Endometrial biopsy",
+   "D": "LH and FSH ratio",
+   "E": "MRI pelvis"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Chronic anovulation with obesity causes unopposed oestrogen and a risk of endometrial hyperplasia or carcinoma; a thick endometrium with prolonged bleeding needs histology.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00359"
+  ],
+  "stem": "A 23-year-old woman has prolonged amenorrhoea followed by prolonged periods, with facial acne and hirsutism. You diagnose PCOS. Which of the following is a short-term complication of this condition?",
+  "options": {
+   "A": "Endometrial hyperplasia",
+   "B": "Endometrial cancer",
+   "C": "Diabetes mellitus",
+   "D": "Insulin resistance",
+   "E": "Acanthosis nigricans"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Unopposed oestrogen from chronic anovulation produces endometrial hyperplasia early; cancer, diabetes and cardiovascular disease are long-term sequelae.",
+  "key_note": "Not clearly marked in the source papers (one marked E, one D); answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00113",
+   "C00719"
+  ],
+  "stem": "A 26-year-old woman attends the gynaecology clinic with irregular periods and is diagnosed with PCOS. Which one of the following is NOT a long-term complication of polycystic ovarian disease?",
+  "options": {
+   "A": "Type 2 diabetes mellitus",
+   "B": "Cervical carcinoma",
+   "C": "Hypertension",
+   "D": "Hyperlipidaemia and ischaemic heart disease",
+   "E": "Endometrial carcinoma"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Long-term risks of PCOS are type 2 diabetes, hypertension, dyslipidaemia, cardiovascular disease and endometrial cancer; cervical cancer is HPV related.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00306",
+   "C00312",
+   "C02290",
+   "C02898"
+  ],
+  "stem": "A 24-year-old woman has oligomenorrhoea, hirsutism and acne. BMI is 32 kg/m2 and ultrasound shows multiple small follicles with mildly raised testosterone. She is not planning pregnancy. What is the most appropriate first-line management?",
+  "options": {
+   "A": "Clomiphene citrate",
+   "B": "Combined oral contraceptive pills",
+   "C": "Metformin monotherapy",
+   "D": "Ovarian drilling",
+   "E": "Progestin-only intrauterine device"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "COCP regulates cycles, protects the endometrium and reduces androgens (hirsutism and acne) when pregnancy is not desired. Clomiphene is for ovulation induction.",
+  "key_note": "Options were absent or garbled in the sources (option D read 'co-op'); the intended answer is COCP.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00037",
+   "C01448",
+   "C02072"
+  ],
+  "stem": "A 20-year-old girl has weight gain, prolonged cycles and increased facial hair, and is diagnosed with PCOS. Which medication can regulate her cycle and improve hirsutism?",
+  "options": {
+   "A": "Tranexamic acid",
+   "B": "Danazol",
+   "C": "Dianette",
+   "D": "Metformin",
+   "E": "GnRH analogues"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Dianette (cyproterone acetate with ethinylestradiol) is a COCP with anti-androgenic action that regulates the cycle and improves hirsutism. Metformin does not reliably do both.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01563",
+   "C01945"
+  ],
+  "stem": "A patient with polycystic ovarian disease is at increased risk of which pathology?",
+  "options": {
+   "A": "Type 1 diabetes mellitus",
+   "B": "Type 2 diabetes mellitus",
+   "C": "Osteoporosis",
+   "D": "Ovarian malignancy",
+   "E": "Fibroid uterus"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Insulin resistance in PCOS predisposes to impaired glucose tolerance and type 2 diabetes.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02103"
+  ],
+  "stem": "A 30-year-old woman has polycystic ovarian disease. A possible late sequela of the disease is:",
+  "options": {
+   "A": "Endometrial cancer",
+   "B": "Stroke",
+   "C": "Hyperthyroidism",
+   "D": "Hypoglycaemia",
+   "E": "Cervical cancer"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Chronic anovulation with unopposed oestrogen predisposes to endometrial hyperplasia and endometrial carcinoma.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02156"
+  ],
+  "stem": "A 23-year-old woman has irregular prolonged cycles, weight gain and increased facial hair, and ultrasound shows multiple follicles in both ovaries. Which hormone is most likely raised on day 2 of the cycle?",
+  "options": {
+   "A": "17-hydroxyprogesterone",
+   "B": "FSH",
+   "C": "LH",
+   "D": "TSH",
+   "E": "Prolactin"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "PCOS typically shows a raised LH (high LH:FSH ratio) in the early follicular phase, with raised androgens.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02071"
+  ],
+  "stem": "A 30-year-old obese diabetic woman has secondary amenorrhoea for 4 months with significant acne and hirsutism. Which investigation is most appropriate to confirm the diagnosis (PCOS)?",
+  "options": {
+   "A": "Fasting blood sugar",
+   "B": "Serum insulin levels",
+   "C": "LH and FSH levels",
+   "D": "Anti-Mullerian hormone",
+   "E": "Serum oestradiol levels"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Raised AMH reflects the increased antral follicle count and can substitute for ultrasound in diagnosing PCOS; fasting glucose and insulin assess metabolic status only.",
+  "key_note": "Paper marks conflict between C (circle) and D (handwritten); D chosen by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01740"
+  ],
+  "stem": "A 20-year-old unmarried girl with PCOS is worried about her hirsutism and oligomenorrhoea. What will be your initial management?",
+  "options": {
+   "A": "Bariatric surgery",
+   "B": "COCP",
+   "C": "Change of lifestyle and weight reduction",
+   "D": "Metformin",
+   "E": "Laparoscopic ovarian drilling"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Lifestyle modification and weight loss are the first step in all overweight women with PCOS; COCP is then added for cycle control and hirsutism.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01746"
+  ],
+  "stem": "An obese 35-year-old woman has primary subfertility and mild hirsutism. Her fasting insulin level is raised and her blood sugar is 130 mg/dl. The best initial medical therapy is:",
+  "options": {
+   "A": "Anti-androgens",
+   "B": "Oral hypoglycaemic (metformin)",
+   "C": "Gonadotrophins",
+   "D": "Inositol",
+   "E": "Clomiphene citrate"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Hyperinsulinaemia and glucose intolerance in PCOS are first treated with an insulin sensitiser (metformin) before ovulation induction.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00040"
+  ],
+  "stem": "A 32-year-old woman has amenorrhoea for 8 months and occasional milky nipple discharge. She takes no medication. Serum prolactin is elevated and MRI of the head is normal. The medication you will prescribe is:",
+  "options": {
+   "A": "Bromocriptine",
+   "B": "COCP",
+   "C": "GnRH analogues",
+   "D": "Cyproterone acetate",
+   "E": "Thyroxine"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Idiopathic hyperprolactinaemia with a normal MRI is treated with a dopamine agonist (bromocriptine or cabergoline).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00042"
+  ],
+  "stem": "A 24-year-old unmarried woman has milky discharge from the breasts for a year, with headache and diplopia. Which hormonal profile will confirm your diagnosis?",
+  "options": {
+   "A": "FSH/LH level",
+   "B": "Testosterone",
+   "C": "Serum prolactin",
+   "D": "TSH",
+   "E": "T3 and T4"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Galactorrhoea with headache and visual disturbance suggests a prolactinoma compressing the optic chiasm; serum prolactin confirms it.",
+  "key_note": "",
+  "figure": ""
+ }
+]

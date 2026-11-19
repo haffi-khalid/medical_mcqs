@@ -1,0 +1,166 @@
+[
+ {
+  "cids": [
+   "C00104",
+   "C00107"
+  ],
+  "stem": "A 34-year-old woman presents with secondary infertility. The gynaecologist plans an outpatient hysteroscopy to evaluate the uterine cavity. Which instrument is most appropriate in this setting?",
+  "options": {
+   "A": "Diagnostic laparoscopy",
+   "B": "Flexible hysteroscope",
+   "C": "Hysterosalpingography",
+   "D": "Rigid hysteroscope",
+   "E": "Sonohysterography"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Outpatient (office) diagnostic hysteroscopy is usually done with a narrow flexible hysteroscope, which is well tolerated without anaesthesia. The rigid scope is preferred when the cavity must be seen through bleeding or for operative work.",
+  "key_note": "Paper keys marked B; rigid scopes are also used in outpatient practice, but B is the intended answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00108",
+   "C00340"
+  ],
+  "stem": "A 40-year-old woman presents with abnormal uterine bleeding. The gynaecologist decides on hysteroscopy. Which instrument is most appropriate, as it allows visualisation of the uterine cavity even in the presence of bleeding because of continuous flow of circulating fluid?",
+  "options": {
+   "A": "Colposcope",
+   "B": "Flexible hysteroscope",
+   "C": "Hysterosalpingography",
+   "D": "Rigid hysteroscope",
+   "E": "Sonohysterography"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "The rigid hysteroscope has a larger channel and continuous-flow irrigation that clears blood and debris, giving a clear view in a bleeding uterus. A flexible scope has a narrow channel and is easily obscured.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01553"
+  ],
+  "stem": "What is the usual distension medium used for operative hysteroscopy?",
+  "options": {
+   "A": "CO2",
+   "B": "Dextrose saline",
+   "C": "Glycine",
+   "D": "Hartmann's solution",
+   "E": "Oxygen"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Operative hysteroscopy needs a clear, non-conducting liquid medium when monopolar diathermy is used, classically 1.5% glycine (saline with bipolar systems). CO2 is used only for diagnostic hysteroscopy, and fluid overload with glycine causes hyponatraemia.",
+  "key_note": "The paper key marked B (dextrose saline); correct is C (glycine), the standard medium for operative hysteroscopy.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02199"
+  ],
+  "stem": "A 40-year-old P4 undergoes hysteroscopy for heavy menstrual bleeding and dysmenorrhoea. While taking consent you tell her that hysteroscopy can diagnose:",
+  "options": {
+   "A": "Adenomyosis",
+   "B": "Endometriosis",
+   "C": "Endometrial polyp",
+   "D": "Ovarian cyst",
+   "E": "Subserous fibroid"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Hysteroscopy directly visualises the endometrial cavity, so intracavitary lesions such as polyps and submucous fibroids are seen. Adenomyosis, endometriosis, ovarian cysts and subserous fibroids lie outside the cavity.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02137"
+  ],
+  "stem": "Which of the following conditions can be diagnosed with the help of a laparoscope?",
+  "options": {
+   "A": "Endometrial polyp",
+   "B": "Cervical polyp",
+   "C": "Asherman's syndrome",
+   "D": "Ectopic pregnancy",
+   "E": "Submucous fibroid"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Laparoscopy views the pelvic organs from outside, so ectopic pregnancy is seen. Endometrial polyps, Asherman's syndrome and submucous fibroids are intracavitary and need hysteroscopy; cervical polyp is seen on speculum examination.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01957"
+  ],
+  "stem": "A 64-year-old woman has an endometrial thickness of 10 mm. Which complication can occur during hysteroscopic-guided endometrial biopsy?",
+  "options": {
+   "A": "Infection",
+   "B": "Uterine perforation",
+   "C": "Adhesion formation",
+   "D": "Cervical stenosis",
+   "E": "Injury to bladder"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Uterine perforation is the commonest serious complication of hysteroscopy, and the risk is higher in a postmenopausal atrophic uterus with a stenosed cervix.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00491"
+  ],
+  "stem": "A 35-year-old P1 presents with irregular bleeding for 6 months. She is a known case of PCOS and you suspect endometrial pathology. What is the first-line investigation you will offer?",
+  "options": {
+   "A": "Office hysteroscopy",
+   "B": "Hysteroscopy under GA",
+   "C": "Hysteroscopy plus biopsy",
+   "D": "Pipelle biopsy",
+   "E": "Curettage under GA"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "In PCOS with anovulatory bleeding the concern is endometrial hyperplasia, and an outpatient Pipelle endometrial sample is the simple first-line test. Hysteroscopy and curettage under GA are reserved for failed or inadequate sampling or focal lesions.",
+  "key_note": "Paper key marked A (office hysteroscopy); Pipelle sampling is the standard first-line test, though office hysteroscopy with biopsy is an acceptable alternative.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01933"
+  ],
+  "stem": "A 32-year-old P1 presents to the subfertility clinic and is advised hysterosalpingography (HSG). Which of the following is true about HSG?",
+  "options": {
+   "A": "The test involves the use of ultrasound",
+   "B": "It is performed in the follicular phase of the menstrual cycle",
+   "C": "It is performed under anaesthesia",
+   "D": "It is the confirmatory test for assessment of tubal patency",
+   "E": "It can be performed in the presence of pelvic infection"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "HSG is done in the early follicular phase (after bleeding stops, before ovulation) to avoid irradiating an early pregnancy and to give a clear view. It uses X-ray with radio-opaque dye, needs no anaesthesia, and is contraindicated in active pelvic infection; laparoscopy with dye is the confirmatory test.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01837"
+  ],
+  "stem": "The procedure most suitable for the investigation of pelvic pain is:",
+  "options": {
+   "A": "Cystoscopy",
+   "B": "Hysteroscopy",
+   "C": "Hysterosalpingogram",
+   "D": "Laparoscopy",
+   "E": "Hysterectomy"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Laparoscopy allows direct inspection of the pelvis and is the investigation of choice for chronic pelvic pain, finding endometriosis, adhesions and pelvic inflammatory disease.",
+  "key_note": "",
+  "figure": ""
+ }
+]

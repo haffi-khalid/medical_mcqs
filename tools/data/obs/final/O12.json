@@ -1,0 +1,3343 @@
+[
+ {
+  "cids": [
+   "C00929"
+  ],
+  "stem": "The relationship of the presenting part of the fetus to the maternal pelvis is called:",
+  "options": {
+   "A": "Attitude",
+   "B": "Lie",
+   "C": "Position",
+   "D": "Presentation",
+   "E": "Station"
+  },
+  "answer": "C",
+  "explanation": "Position is the relation of the denominator (e.g. occiput) to the quadrants of the maternal pelvis. Attitude is the relation of fetal parts to each other, lie is the relation of the long axis of the fetus to that of the mother, and presentation is the part lying over the pelvic inlet.",
+  "key_note": "Source marked A (Attitude); correct is C: attitude describes fetal parts relative to each other, not to the pelvis.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01001"
+  ],
+  "stem": "A 30-year-old unbooked primigravida presents in early labour and the head is not engaged. Engagement is said to have occurred when the presenting part has crossed which landmark?",
+  "options": {
+   "A": "Pelvic inlet",
+   "B": "Ischial spine",
+   "C": "Symphysis pubis",
+   "D": "Ischial tuberosity",
+   "E": "Sacral promontory"
+  },
+  "answer": "A",
+  "explanation": "Engagement means the widest presenting diameter (biparietal) has passed through the pelvic inlet; clinically the head is 2/5 or less palpable abdominally.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00527"
+  ],
+  "stem": "A woman has been in labour for 14 hours. On vaginal examination she is 8 cm dilated, station -2, occipito-anterior. Which landmark is used to assess descent of the head on vaginal examination?",
+  "options": {
+   "A": "Promontory of sacrum",
+   "B": "2nd and 3rd sacral segments",
+   "C": "Ischial spines",
+   "D": "Ischial tuberosity",
+   "E": "Distance of head from symphysis pubis"
+  },
+  "answer": "C",
+  "explanation": "Station is the level of the presenting part in relation to the ischial spines (0 station), measured in cm above (minus) or below (plus).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00927"
+  ],
+  "stem": "On vaginal examination the vertex is about 1 cm above the maternal ischial spines. What is the station?",
+  "options": {
+   "A": "-2",
+   "B": "-1",
+   "C": "0",
+   "D": "+1",
+   "E": "+2"
+  },
+  "answer": "B",
+  "explanation": "Station is measured in centimetres relative to the ischial spines: 1 cm above is -1, at the spines 0, 1 cm below +1.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00813"
+  ],
+  "stem": "Moulding of the fetal head:",
+  "options": {
+   "A": "Usually causes brain damage",
+   "B": "Becomes progressively easier as gestational age increases",
+   "C": "Increases the difficulty of delivery",
+   "D": "Does not have time to occur in breech delivery",
+   "E": "Does not happen when the maternal pelvis is adequate"
+  },
+  "answer": "D",
+  "explanation": "Moulding is overlapping of the skull bones under labour pressure; in breech delivery the aftercoming head is delivered quickly and has no time to mould, which is why it is more vulnerable. Moulding occurs even in an adequate pelvis, becomes harder with advancing gestation as the bones ossify, and is usually harmless unless excessive.",
+  "key_note": "Source marked E; correct is D, since moulding occurs normally even with an adequate pelvis, while the breech head has no time to mould.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01135"
+  ],
+  "stem": "A woman has been in labour for 14 hours. On vaginal examination she is 8 cm dilated and the vertex is at the level of the ischial spines. You notice overriding of the fetal skull bones. This phenomenon is called:",
+  "options": {
+   "A": "Cephalhaematoma",
+   "B": "Subdural haematoma",
+   "C": "Hydrocephalus",
+   "D": "Moulding",
+   "E": "Caput succedaneum"
+  },
+  "answer": "D",
+  "explanation": "Moulding is overlapping of the skull bones at the sutures. Caput is a soft oedematous swelling of the scalp that crosses suture lines.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [],
+  "stem": "A G3P2 woman has been in labour for 4 hours. On vaginal examination she is 8 cm dilated and the vertex is at the level of the ischial spines. You notice a soft swelling on the fetal skull. This is called:",
+  "options": {
+   "A": "Cephalhaematoma",
+   "B": "Subdural haematoma",
+   "C": "Hydrocephalus",
+   "D": "Moulding",
+   "E": "Caput succedaneum"
+  },
+  "answer": "E",
+  "explanation": "Caput succedaneum is an oedematous swelling of the presenting scalp from cervical pressure; it crosses suture lines and resolves within days, unlike cephalhaematoma which is subperiosteal and limited by sutures.",
+  "key_note": "Split from C01135 (different point: soft swelling versus overriding bones).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00529"
+  ],
+  "stem": "A primigravida at 38 weeks has been in labour for 8 hours. She is 7 cm dilated, station +1, and the head is well flexed, presenting with the suboccipitobregmatic diameter. This diameter measures:",
+  "options": {
+   "A": "9.5 cm",
+   "B": "10 cm",
+   "C": "11.5 cm",
+   "D": "12 cm",
+   "E": "13 cm"
+  },
+  "answer": "A",
+  "explanation": "The suboccipitobregmatic diameter (9.5 cm) presents in a well flexed vertex; occipitofrontal (11.5 cm) presents when the head is deflexed.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00528"
+  ],
+  "stem": "A primigravida at 38 weeks has been in labour for 5 hours. On vaginal examination she is 7 cm dilated, station -1, 50% effaced, with a well flexed occipito-anterior position. What is the presenting diameter?",
+  "options": {
+   "A": "Suboccipitobregmatic",
+   "B": "Occipitofrontal",
+   "C": "Submentobregmatic",
+   "D": "Occipitomental",
+   "E": "Occipitobregmatic"
+  },
+  "answer": "A",
+  "explanation": "A well flexed vertex presents the suboccipitobregmatic diameter of 9.5 cm, the smallest possible, which favours normal delivery.",
+  "key_note": "Options were garbled in several papers (Submentobregmatic repeated, some papers marked E); the correct answer is the suboccipitobregmatic diameter. Brow and face versions of this stem are covered in the separate items.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00443"
+  ],
+  "stem": "A 32-year-old primigravida is in labour. On examination you diagnose brow presentation. The diameter presenting in this case is the:",
+  "options": {
+   "A": "Occipitofrontal",
+   "B": "Submentobregmatic",
+   "C": "Submentovertical",
+   "D": "Mentovertical",
+   "E": "Suboccipitobregmatic"
+  },
+  "answer": "D",
+  "explanation": "In brow presentation the head is partly extended and the mentovertical diameter (about 13.5 to 14 cm), the longest diameter of the head, presents; hence engagement is usually impossible at term.",
+  "key_note": "One paper's variant asked about face presentation and marked B (submentobregmatic), which is right for face; the brow version is answered D. A similar paper version listed 'occipitomental' for brow and was keyed D.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00928"
+  ],
+  "stem": "Which is the presenting diameter of the fetal head in face presentation?",
+  "options": {
+   "A": "Mentovertical",
+   "B": "Occipitofrontal",
+   "C": "Submentobregmatic",
+   "D": "Suboccipitofrontal",
+   "E": "Submentovertical"
+  },
+  "answer": "C",
+  "explanation": "In face presentation the head is fully extended and the submentobregmatic diameter (9.5 cm) presents, so vaginal delivery is possible if the chin is anterior.",
+  "key_note": "Combined with the face-presentation versions of the 'presenting diameter in a primigravida at 7 cm' question (keyed submentobregmatic).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01587"
+  ],
+  "stem": "The mechanism of labour with vertex presentation involves:",
+  "options": {
+   "A": "Flexion, internal rotation, extension, restitution, external rotation",
+   "B": "Internal rotation, extension, restitution, external rotation, flexion",
+   "C": "Extension, restitution, external rotation, internal rotation, flexion",
+   "D": "Flexion, extension, internal rotation, restitution, external rotation",
+   "E": "External rotation, flexion, restitution, internal rotation"
+  },
+  "answer": "A",
+  "explanation": "The cardinal movements are engagement, descent, flexion, internal rotation, extension, restitution and external rotation, followed by expulsion.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00856"
+  ],
+  "stem": "A 28-year-old G2P1 with a previous normal delivery attends in labour. She is contracting regularly 3 in 10 minutes and is 4 cm dilated. She is in which phase of labour?",
+  "options": {
+   "A": "Latent",
+   "B": "Active",
+   "C": "False",
+   "D": "Prolonged",
+   "E": "Precipitate"
+  },
+  "answer": "B",
+  "explanation": "Active phase is regular painful contractions with cervical dilatation of 4 cm or more (the partograph alert line starts at 4 cm); latent phase is below 4 cm.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01000",
+   "C01586"
+  ],
+  "stem": "A primigravida is in active labour at 5 cm dilatation and the partogram is started. What is the expected normal rate of cervical dilatation?",
+  "options": {
+   "A": "0.5 cm per hour",
+   "B": "1 cm per hour",
+   "C": "1.5 cm per hour",
+   "D": "2 cm per hour",
+   "E": "3 cm per hour"
+  },
+  "answer": "B",
+  "explanation": "The partograph alert line assumes 1 cm per hour dilatation in active labour; slower progress crosses the alert line.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00857"
+  ],
+  "stem": "A 32-year-old G3P2 with previous normal deliveries is 6 cm dilated, head at zero station, contracting regularly. You start a partogram. She is expected to be fully dilated in approximately:",
+  "options": {
+   "A": "4 hours",
+   "B": "6 hours",
+   "C": "8 hours",
+   "D": "10 hours",
+   "E": "12 hours"
+  },
+  "answer": "A",
+  "explanation": "At 1 cm per hour the remaining 4 cm take about 4 hours (multiparae are often faster).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00858",
+   "C01601"
+  ],
+  "stem": "A 34-year-old primigravida is fully dilated with the head at zero station and is on epidural analgesia. What is the normal upper limit of the duration of the second stage in her case?",
+  "options": {
+   "A": "1 hour",
+   "B": "2 hours",
+   "C": "3 hours",
+   "D": "4 hours",
+   "E": "5 hours"
+  },
+  "answer": "C",
+  "explanation": "In a nullipara the second stage is allowed up to 2 hours, extended to 3 hours with epidural analgesia; beyond this it is a prolonged second stage.",
+  "key_note": "Some paper keys marked B (2 hours); with epidural the accepted limit for a primigravida is 3 hours.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01858"
+  ],
+  "stem": "A 34-year-old primigravida is fully dilated with the head at zero station and is not on epidural. What is the normal upper limit of the duration of the second stage?",
+  "options": {
+   "A": "1 hour",
+   "B": "2 hours",
+   "C": "3 hours",
+   "D": "4 hours",
+   "E": "5 hours"
+  },
+  "answer": "B",
+  "explanation": "In a nulliparous woman without epidural the second stage should not exceed 2 hours (1 hour in a parous woman); delay needs assessment for assisted delivery.",
+  "key_note": "Split from C00858 (no epidural version).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01023"
+  ],
+  "stem": "A primigravida came to ER with labour pains for the last 8 hours. The cervix was 6 cm dilated, 50% effaced, station -2, CTG reactive. After 4 hours she is at full dilatation and effacement, station 0. What is your diagnosis?",
+  "options": {
+   "A": "Primary arrest",
+   "B": "Secondary arrest",
+   "C": "Cervical dystocia",
+   "D": "Poor progress in second stage of labour",
+   "E": "Normal progress of labour"
+  },
+  "answer": "E",
+  "explanation": "Dilatation from 6 cm to 10 cm in 4 hours is 1 cm per hour with descent, i.e. normal progress along the partograph.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01113"
+  ],
+  "stem": "A 25-year-old primigravida at 39 weeks is in the second stage of labour for the last 2 hours. The cervix is fully dilated, the vertex is at +1 station in occipito-transverse position, and the CTG shows early decelerations. What is your next management?",
+  "options": {
+   "A": "Emergency caesarean section",
+   "B": "Manual rotation",
+   "C": "Forceps delivery",
+   "D": "Vacuum delivery",
+   "E": "Wait for spontaneous progress of labour"
+  },
+  "answer": "C",
+  "explanation": "Delay in the second stage with a low transverse head needs assisted delivery; rotational (Kielland) or non-rotational forceps after rotation is the usual teaching. Early decelerations are benign head compression.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00572",
+   "C01669",
+   "C01719",
+   "C01795",
+   "C02860",
+   "C02809",
+   "C02817"
+  ],
+  "stem": "A primigravida came to ER with labour pains for the last 8 hours. The cervix was 6 cm dilated, 50% effaced, station -2 and CTG reactive. After 4 hours the cervix is 7 cm, 60% effaced, station -2 with intact membranes. What is the next step?",
+  "options": {
+   "A": "Reassess after 4 hours",
+   "B": "Augment with syntocinon",
+   "C": "Artificial rupture of membranes",
+   "D": "Emergency caesarean section",
+   "E": "ARM and syntocinon"
+  },
+  "answer": "C",
+  "explanation": "Progress of 1 cm in 4 hours is slow (beyond the action line); the first step is ARM, then reassess in 2 hours before adding oxytocin.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00574"
+  ],
+  "stem": "A primigravida with slow progress (6 cm to 7 cm over 4 hours, station -2) has an artificial rupture of membranes with clear liquor. When will you reassess her?",
+  "options": {
+   "A": "One hour",
+   "B": "Two hours",
+   "C": "Three hours",
+   "D": "Four hours",
+   "E": "Five hours"
+  },
+  "answer": "B",
+  "explanation": "After ARM reassess vaginally after 2 hours; if progress is still inadequate, start oxytocin.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00575"
+  ],
+  "stem": "A primigravida with slow progress (6 cm to 7 cm over 4 hours, station -2) had ARM with clear liquor. After 2 hours the findings are unchanged. What is the next step?",
+  "options": {
+   "A": "Augment with syntocinon",
+   "B": "Reassurance",
+   "C": "Emergency caesarean section",
+   "D": "Rehydrate",
+   "E": "Mobilise"
+  },
+  "answer": "A",
+  "explanation": "No progress 2 hours after ARM with a normal CTG indicates inadequate contractions: start oxytocin augmentation and reassess in 4 hours.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [],
+  "stem": "A primigravida came to ER with labour pains. The cervix was 6 cm dilated, station -2, CTG reactive. After 4 hours it was 7 cm. ARM and syntocinon augmentation were done, but after 4 more hours the cervix is 8 cm with station still -2. What is the next step?",
+  "options": {
+   "A": "Augment with syntocinon",
+   "B": "Reassurance",
+   "C": "Emergency caesarean section",
+   "D": "Rehydrate",
+   "E": "Mobilise"
+  },
+  "answer": "C",
+  "explanation": "Failure to progress and no descent despite adequate augmentation suggests obstruction or cephalopelvic disproportion; deliver by caesarean section.",
+  "key_note": "Split from C00575 (augmentation already done).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00473",
+   "C00645",
+   "C03158"
+  ],
+  "stem": "A G3P1A1 woman in labour has a cephalic fetus, reactive CTG, and the cervix 6 cm dilated with intact membranes. After 2 hours the findings are the same despite adequate contractions (2 moderate and 2 severe in 10 minutes). What is your next course of action?",
+  "options": {
+   "A": "Do ARM and start oxytocin",
+   "B": "Do ARM and repeat examination after 2 hours",
+   "C": "Proceed to emergency LSCS",
+   "D": "Give analgesics and wait for 2 hours",
+   "E": "Wait another 2 hours"
+  },
+  "answer": "B",
+  "explanation": "With delay and intact membranes, do ARM first and reassess after 2 hours; oxytocin is added only if there is still no progress and contractions are inadequate.",
+  "key_note": "Merged with a version that asked 'ARM' versus 'ARM plus oxytocin' in a primigravida at 7 cm; ARM alone first is the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00609",
+   "C01003"
+  ],
+  "stem": "A 30-year-old primigravida at 39 weeks is in labour. At 4 hours she is 4 cm dilated, 2 cm long, station -2, membranes intact, CTG reactive. After 2 hours she is 6 cm dilated, 1 cm long, station -1. What should be your further management?",
+  "options": {
+   "A": "Augment with syntocinon",
+   "B": "Artificial rupture of membranes",
+   "C": "Reassess after 2 hours",
+   "D": "Emergency LSCS",
+   "E": "ARM followed by augmentation with syntocinon"
+  },
+  "answer": "C",
+  "explanation": "Dilatation of 2 cm in 2 hours is 1 cm per hour, which is normal progress, so no intervention is needed; continue the partogram and reassess.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00920"
+  ],
+  "stem": "A low risk primigravida admitted with labour pains at 4 cm dilatation is re-examined 4 hours later. She had 2 contractions of 20 seconds in 10 minutes, SFH 36 cm, long cephalic, head 1/5 palpable, normal CTG and the cervix is 5 cm. What is the best treatment?",
+  "options": {
+   "A": "Re-examine in 2 hours",
+   "B": "Artificial rupture of membranes",
+   "C": "ARM and oxytocin",
+   "D": "Vacuum delivery",
+   "E": "Emergency LSCS"
+  },
+  "answer": "C",
+  "explanation": "Dilatation of 1 cm in 4 hours with weak, infrequent contractions is hypotonic dysfunction with a normal CTG: correct it with ARM and oxytocin.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01074",
+   "C01004",
+   "C02381"
+  ],
+  "stem": "A primigravida has been in the first stage of labour for 6 hours with mild contractions 2 in 10 minutes lasting about 25 seconds. The os is 5 cm, cervix effaced, vertex at -1, CTG reactive. The partogram shows the same findings 3 hours ago. What is the next step?",
+  "options": {
+   "A": "Wait another hour",
+   "B": "Give sedation",
+   "C": "Emergency LSCS",
+   "D": "Instrumental delivery",
+   "E": "Augment with oxytocin infusion"
+  },
+  "answer": "E",
+  "explanation": "No progress for 3 hours with weak contractions and a normal CTG indicates hypotonic uterine action; augment with oxytocin.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01073"
+  ],
+  "stem": "A primigravida at 38 weeks has had labour pains for 4 hours. BP 110/70 mmHg, pulse 82/min, SFH 36 cm, head 1/5 palpable, contractions 3 in 10 minutes of moderate intensity. PV: os 2 cm, cervix 1.5 cm, soft, central, vertex -1, liquor clear, CTG reactive. What is the best plan?",
+  "options": {
+   "A": "Rehydration",
+   "B": "Analgesia",
+   "C": "Record vitals",
+   "D": "Fetal monitoring",
+   "E": "Reassess after 4 hours"
+  },
+  "answer": "E",
+  "explanation": "This is the latent phase (os under 4 cm); the next vaginal examination is due 4 hours later, with routine observations meanwhile.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01022"
+  ],
+  "stem": "A 37-year-old primigravida conceived after IVF. At 38 weeks she presents with irregular contractions; admission CTG is reactive. PV: cervix 3 cm dilated, 50% effaced, station -3, membranes intact. What would you do next?",
+  "options": {
+   "A": "Admit and reassess after 4 hours",
+   "B": "Emergency LSCS",
+   "C": "Augment with syntocinon",
+   "D": "Artificial rupture of membranes",
+   "E": "Reassurance and send her home"
+  },
+  "answer": "A",
+  "explanation": "She is in early (latent) labour with a normal CTG; observe and reassess vaginally after 4 hours. IVF alone is not an indication for caesarean.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00441",
+   "C02636"
+  ],
+  "stem": "A 32-year-old G3P2 at 39 weeks presents with ruptured membranes, 4 cm dilated, with two prior vaginal deliveries. Over the next 2 hours she progresses to 7 cm. Four hours later she remains 7 cm despite adequate uterine contractions. Which labour abnormality best describes this?",
+  "options": {
+   "A": "Prolonged latent phase",
+   "B": "Protracted active phase dilatation",
+   "C": "Hypertonic dysfunction",
+   "D": "Secondary arrest of dilatation",
+   "E": "Primary dysfunction"
+  },
+  "answer": "D",
+  "explanation": "Active phase dilatation that was progressing and then stops for 4 hours or more despite adequate contractions is secondary arrest of dilatation, in contrast to primary dysfunction where progress is slow from the start.",
+  "key_note": "Most paper versions said 'two hours later'; the 4-hour wording matches the usual definition of arrest.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01603",
+   "C01604"
+  ],
+  "stem": "A 26-year-old primigravida is in labour at term. The partogram shows the cervix dilating slower than expected and contractions 2 in 10 minutes. You diagnose primary dysfunctional labour. To correct it you will start:",
+  "options": {
+   "A": "Amoxicillin",
+   "B": "Metronidazole",
+   "C": "Syntocinon",
+   "D": "Prostaglandin E2",
+   "E": "Misoprostol"
+  },
+  "answer": "C",
+  "explanation": "Primary dysfunctional labour is hypotonic uterine action, corrected by oxytocin (syntocinon) once obstruction is excluded.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00662"
+  ],
+  "stem": "A 26-year-old primigravida at 40 weeks has labour with irregular, weak, infrequent contractions. The cervix is 4 cm dilated with no significant change over the past 4 hours. What is the most likely diagnosis and appropriate next step?",
+  "options": {
+   "A": "Secondary uterine inertia; initiate oxytocin infusion",
+   "B": "Primary dysfunctional labour; consider amniotomy",
+   "C": "Cephalopelvic disproportion; proceed to caesarean section",
+   "D": "Prolonged latent phase; monitor for 6 more hours",
+   "E": "Early active phase; administer antibiotics"
+  },
+  "answer": "B",
+  "explanation": "Weak, infrequent contractions with slow progress from the start is primary dysfunctional labour; amniotomy (with oxytocin if still inadequate) is the first measure.",
+  "key_note": "One paper stated 'no change over 12 hours', others 4 hours; 4 hours used.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01124",
+   "C01626"
+  ],
+  "stem": "Prolonged labour or dystocia of labour in a multigravida is commonly due to:",
+  "options": {
+   "A": "Dehydration",
+   "B": "Hypoglycaemia",
+   "C": "Ineffective uterine contractions",
+   "D": "Malposition",
+   "E": "Epidural analgesia"
+  },
+  "answer": "C",
+  "explanation": "In multiparae, inefficient uterine action is the commonest cause of delay in labour; obstruction must be excluded first.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01048"
+  ],
+  "stem": "A 26-year-old primigravida at 40 weeks in labour has os 7 cm, 90% effaced, station -1. After 2 hours the PV findings are the same despite adequate uterine contractions. What is the most common cause of non-progress of labour?",
+  "options": {
+   "A": "Brow presentation",
+   "B": "Face presentation",
+   "C": "Tight loop of cord around the neck",
+   "D": "Cephalopelvic disproportion",
+   "E": "Persistent occipito-posterior position"
+  },
+  "answer": "E",
+  "explanation": "Persistent OP position is the commonest cause of slow progress despite adequate contractions; the deflexed head is a poor dilator and descends slowly.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01075"
+  ],
+  "stem": "A G3P2 (both NVD) at 37 weeks is in active labour for 6 hours with 3 strong contractions per 10 minutes. The os is 7 cm; after 2 hours it is unchanged and you clearly feel the anterior fontanelle. What is the cause of prolonged labour?",
+  "options": {
+   "A": "Occipito-anterior",
+   "B": "Occipito-posterior",
+   "C": "Occipito-transverse",
+   "D": "Hyperextended head",
+   "E": "Mild deflexed head"
+  },
+  "answer": "B",
+  "explanation": "Feeling the anterior fontanelle easily means the head is deflexed with the occiput posterior; OP position causes prolonged labour and back pain.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01010",
+   "C02715"
+  ],
+  "stem": "A G2P1 is in the active stage of labour for 8 hours. On vaginal examination the fetus is in occipito-posterior position. What is the most likely complication?",
+  "options": {
+   "A": "Prolonged labour",
+   "B": "Fetal distress",
+   "C": "Late rupture of membranes",
+   "D": "Cord prolapse",
+   "E": "Precipitate labour"
+  },
+  "answer": "A",
+  "explanation": "Occipito-posterior position gives a deflexed head with a larger presenting diameter, so labour is slow and prolonged.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01713",
+   "C02831"
+  ],
+  "stem": "A primigravida is admitted in labour with the os 5 cm dilated. A diagnosis of occipito-posterior position is made. What is the next step?",
+  "options": {
+   "A": "Maintain partogram and watch for progress",
+   "B": "Prepare patient for LSCS",
+   "C": "Augment labour with oxytocin",
+   "D": "Augment with tablet PGE2",
+   "E": "Call for help as this is an obstetric emergency"
+  },
+  "answer": "A",
+  "explanation": "Most OP positions rotate to anterior during labour; observe on the partogram and intervene only if progress is poor.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01718"
+  ],
+  "stem": "A primigravida at 38 weeks is in the second stage for 2 hours and a diagnosis of deep transverse arrest is made. Which type of pelvis predisposes to this?",
+  "options": {
+   "A": "Gynaecoid",
+   "B": "Android",
+   "C": "Platypelloid",
+   "D": "Anthropoid",
+   "E": "None of these"
+  },
+  "answer": "B",
+  "explanation": "The android pelvis (funnel-shaped, narrow forepelvis, prominent spines) predisposes to deep transverse arrest.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01072"
+  ],
+  "stem": "A 30-year-old primigravida in the second stage for 3 hours has adequate contractions. PV: fully dilated, vertex at the level of the ischial spines in transverse position with caput ++. What is the likely cause of failure to progress?",
+  "options": {
+   "A": "Insufficient uterine contractions",
+   "B": "Maternal dehydration",
+   "C": "Occipito-posterior position",
+   "D": "Deep transverse arrest",
+   "E": "Resistant perineum"
+  },
+  "answer": "D",
+  "explanation": "A head arrested at the spines in the transverse diameter with good contractions is deep transverse arrest, from failure of internal rotation.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01076"
+  ],
+  "stem": "A primigravida at 38 weeks in labour is fully dilated with the head at -1 station and 0/5 palpable. You order an emergency caesarean section because this malposition is incompatible with vaginal delivery:",
+  "options": {
+   "A": "Deep transverse arrest",
+   "B": "Occipito-anterior",
+   "C": "Occipito-posterior",
+   "D": "Mento-anterior",
+   "E": "Well flexed head"
+  },
+  "answer": "A",
+  "explanation": "Deep transverse arrest with a high head usually needs caesarean section (rotational forceps only if low); OA, mento-anterior and a flexed head deliver vaginally.",
+  "key_note": "The question is loosely worded; the paper key (deep transverse arrest) is retained.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00627",
+   "C02626",
+   "C02755"
+  ],
+  "stem": "A 35-year-old G2P1 at 38 weeks has had labour pains for 6 hours with 2 moderate and 2 severe contractions in 10 minutes and a Bandl's ring visible on the abdomen. CTG is reactive. PV: os 8 cm, presenting part at the ischial spines, membranes absent, occiput transverse with caput ++. What is the best management?",
+  "options": {
+   "A": "Wait for another 2 hours",
+   "B": "Ventouse vaginal delivery",
+   "C": "Mid-cavity forceps delivery",
+   "D": "Start oxytocin infusion",
+   "E": "Proceed to emergency caesarean section"
+  },
+  "answer": "E",
+  "explanation": "A pathological retraction (Bandl's) ring with caput and arrest in the transverse position signals obstructed labour with impending uterine rupture; oxytocin and instruments are dangerous, so deliver by caesarean section.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00663"
+  ],
+  "stem": "A 30-year-old G2P1 at 41 weeks is in the second stage with the fetal head 2 cm above the ischial spines in transverse position. Despite strong contractions there has been no descent for 4 hours. FHR 140. What is the next step?",
+  "options": {
+   "A": "Hydrate and wait for 2 more hours",
+   "B": "Proceed to emergency caesarean section",
+   "C": "Attempt manual rotation of the fetal head",
+   "D": "Mobilise and reassess after 1 hour",
+   "E": "Give analgesia and apply forceps"
+  },
+  "answer": "B",
+  "explanation": "A high head with no descent despite good contractions means obstruction; instrumental delivery is unsafe above the spines.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00463"
+  ],
+  "stem": "A primigravida at term has been in labour for 16 hours. The cervix has been 9 cm dilated for 3 hours, vertex occipito-posterior with moulding +++. On CTG late decelerations are seen. Management in this case will be:",
+  "options": {
+   "A": "Augment with oxytocin",
+   "B": "Hydrate and wait for another hour",
+   "C": "Give epidural and apply mid-cavity forceps",
+   "D": "Proceed to lower segment caesarean section"
+  },
+  "answer": "D",
+  "explanation": "Arrest at 9 cm with gross moulding and fetal compromise (late decelerations) is obstructed labour from malposition and disproportion; deliver by caesarean section.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01629"
+  ],
+  "stem": "A 24-year-old primigravida at term has been in labour for 16 hours and dilated to 9 cm for 3 hours. The vertex is in right occiput posterior position, at +1 station, and moulded. There have been mild late decelerations for 30 minutes. Fetal scalp pH was 7.27 twenty minutes ago and is now 7.20. Select the most appropriate procedure.",
+  "options": {
+   "A": "External version",
+   "B": "Internal version",
+   "C": "Mid-forceps rotation",
+   "D": "Low transverse caesarean section",
+   "E": "Classic caesarean section"
+  },
+  "answer": "D",
+  "explanation": "Arrest in the first stage, moulding and a falling scalp pH (7.27 to 7.20) mean fetal compromise with obstructed labour; low transverse caesarean section is correct.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01132"
+  ],
+  "stem": "A 26-year-old primigravida at 40 weeks presents with mild labour pains. SFH 36 cm, breech presentation confirmed on ultrasound, FHR 136/min, cervix 1 cm dilated. How will you manage her?",
+  "options": {
+   "A": "ECV",
+   "B": "Emergency LSCS",
+   "C": "Induction of labour",
+   "D": "Wait for spontaneous progress of labour",
+   "E": "Elective caesarean section"
+  },
+  "answer": "B",
+  "explanation": "A primigravida with a term breech in labour is delivered by emergency caesarean section; ECV is not done in labour.",
+  "key_note": "One garbled variant marked E (elective); since she is in labour, emergency section is the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01670",
+   "C03026"
+  ],
+  "stem": "While doing a vaginal examination you feel the fetal orbital ridges and the bridge of the nose. The presentation is:",
+  "options": {
+   "A": "Face",
+   "B": "Brow",
+   "C": "Breech",
+   "D": "Shoulder",
+   "E": "Vertex"
+  },
+  "answer": "B",
+  "explanation": "In brow presentation the orbital ridges, nasal bridge and anterior fontanelle are felt, but not the mouth or chin; in face presentation the mouth and chin are felt.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01008"
+  ],
+  "stem": "A G3P2 at 38 weeks in labour is 4 cm dilated; fetal nose, mouth and eyes are felt, suggesting face presentation. Which landmark will you feel to assess the position of the head and decide the mode of delivery?",
+  "options": {
+   "A": "Mouth",
+   "B": "Nose",
+   "C": "Chin",
+   "D": "Ears",
+   "E": "Vertex"
+  },
+  "answer": "C",
+  "explanation": "The denominator of a face presentation is the mentum (chin); mento-anterior can deliver vaginally, persistent mento-posterior cannot.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01560",
+   "C02378"
+  ],
+  "stem": "A 28-year-old G2P1 is in labour with a face presentation; the denominator is the fetal mentum. At full dilatation she can deliver vaginally if the position is:",
+  "options": {
+   "A": "Mento-posterior",
+   "B": "Mento-anterior",
+   "C": "Mento-transverse",
+   "D": "Left mento-oblique",
+   "E": "Right mento-oblique"
+  },
+  "answer": "B",
+  "explanation": "Only mento-anterior allows the neck to extend beneath the symphysis; mento-posterior face is obstructed because the short neck cannot span the sacral curve.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00612",
+   "C02380"
+  ],
+  "stem": "A primigravida has a 6 cm dilated cervix, station -2, CTG reactive. After 4 hours she is at full dilatation and effacement, station 0, with a face presentation and a reactive CTG. How will you deliver her?",
+  "options": {
+   "A": "Outlet forceps delivery",
+   "B": "Vacuum delivery",
+   "C": "Kielland forceps delivery",
+   "D": "Emergency LSCS",
+   "E": "Vaginal delivery"
+  },
+  "answer": "E",
+  "explanation": "Face presentation (mento-anterior) progressing normally is delivered vaginally; vacuum is contraindicated in face presentation.",
+  "key_note": "The source does not state the mento-anterior position; the answer assumes it since progress was normal.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01715"
+  ],
+  "stem": "A G2P1 presents in the active phase of labour. A diagnosis of face presentation with the mentum posterior is made. Your management is:",
+  "options": {
+   "A": "Proceed for C section",
+   "B": "Augment labour with oxytocin",
+   "C": "Prepare for instrumental delivery",
+   "D": "Give her epidural analgesia",
+   "E": "Monitor for spontaneous progress of labour"
+  },
+  "answer": "E",
+  "explanation": "Many mento-posterior faces rotate to mento-anterior, so with good progress and a normal CTG observe; caesarean section is needed if the mentum stays posterior or progress stops.",
+  "key_note": "Compare with the persistent mento-posterior item, which needs caesarean section.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00471",
+   "C01716"
+  ],
+  "stem": "A G2P1 is in labour. The partogram shows slow progress in the active phase, CTG is reactive. On vaginal examination membranes are absent, the cervix is 6 cm, and the presenting part is face with the chin directed posteriorly. Your management will be:",
+  "options": {
+   "A": "Augmentation with oxytocin",
+   "B": "Watch for progress of labour",
+   "C": "Consider epidural analgesia",
+   "D": "Proceed to emergency LSCS",
+   "E": "Give inhalational analgesia"
+  },
+  "answer": "D",
+  "explanation": "Persistent mento-posterior face presentation with slow progress is mechanically obstructed; deliver by caesarean section.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00571",
+   "C02832"
+  ],
+  "stem": "A primigravida at 38 weeks is in labour and at full dilatation, station -1, with a brow presentation. What will be your management?",
+  "options": {
+   "A": "Reassess after 1 hour",
+   "B": "Outlet forceps delivery",
+   "C": "Vacuum delivery",
+   "D": "Emergency LSCS",
+   "E": "Kielland forceps"
+  },
+  "answer": "D",
+  "explanation": "Persistent brow presentation (mentovertical diameter) cannot deliver vaginally with a term-sized fetus: caesarean section.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00947"
+  ],
+  "stem": "A G9P8 with GDM presents in labour at 36 weeks. SFH is 37 cm, head 4/5 palpable with normal cardiac activity, os 5 cm, with brow presentation. What is the most likely cause of the malpresentation?",
+  "options": {
+   "A": "Prematurity",
+   "B": "Polyhydramnios",
+   "C": "Uterine anomaly",
+   "D": "Multiple pregnancy",
+   "E": "Relative CPD"
+  },
+  "answer": "E",
+  "explanation": "Brow presentation is associated with a contracted pelvis or fetopelvic disproportion, and also with multiparity and prematurity; the keyed answer is relative CPD.",
+  "key_note": "Several causes are listed in textbooks (prematurity, CPD, multiparity); the paper key (relative CPD) is retained.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00458",
+   "C00647"
+  ],
+  "stem": "A primigravida, unbooked, presents in labour at 38 to 39 weeks. Abdominal examination shows a longitudinal lie with breech presentation (flexed breech on scan) and PV shows the cervix 2 to 3 cm dilated with intact membranes. What is the best method of delivery?",
+  "options": {
+   "A": "Perform ECV and deliver vaginally",
+   "B": "Hydrate the patient and watch for progress",
+   "C": "Do ARM and start oxytocin infusion",
+   "D": "Give epidural and watch for progress",
+   "E": "Proceed to emergency caesarean section"
+  },
+  "answer": "E",
+  "explanation": "A primigravida with breech presentation in labour is delivered by caesarean section (added weight if the estimated fetal weight is about 4 kg); ECV is not done in labour.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00472"
+  ],
+  "stem": "A G3P2 at 38 weeks presents with an extended (frank) breech, 2 moderate and 2 severe contractions per 10 minutes, reactive CTG. The cervix is fully dilated, membranes absent, buttocks 1 cm below the ischial spines. Your management will be:",
+  "options": {
+   "A": "Start oxytocin infusion and proceed with vaginal delivery",
+   "B": "Proceed to emergency caesarean section",
+   "C": "Watch for progress and prepare for delivery",
+   "D": "Give epidural and proceed to caesarean section"
+  },
+  "answer": "C",
+  "explanation": "A multipara with frank breech at full dilatation, buttocks on the perineum and good contractions is expected to deliver vaginally; prepare for assisted breech delivery.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00661",
+   "C01717",
+   "C02476"
+  ],
+  "stem": "A 28-year-old woman at 37 weeks with confirmed breech has an uncomplicated pregnancy and no contraindication to vaginal delivery. She is in labour, os 8 cm, presenting part below the ischial spines, membranes absent, CTG type 1 (early) decelerations. What is the most appropriate next step?",
+  "options": {
+   "A": "Attempt ECV",
+   "B": "Await spontaneous version",
+   "C": "Elective caesarean section",
+   "D": "Proceed with vaginal breech delivery",
+   "E": "Proceed with vacuum delivery"
+  },
+  "answer": "D",
+  "explanation": "Advanced labour with the breech well down is too late for caesarean section or ECV; early decelerations are benign, so allow assisted vaginal breech delivery.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01627",
+   "C00931"
+  ],
+  "stem": "A woman with a previous caesarean section presents at 38 to 39 weeks with a breech presentation. How will you manage her?",
+  "options": {
+   "A": "Wait for spontaneous onset of labour",
+   "B": "Induction of labour at 40 weeks",
+   "C": "Elective LSCS at 39 weeks",
+   "D": "ECV",
+   "E": "Elective LSCS at 40 weeks"
+  },
+  "answer": "C",
+  "explanation": "Breech with a uterine scar is delivered by planned caesarean section at 39 weeks; ECV and vaginal breech delivery carry an unacceptable rupture risk.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00613",
+   "C01011",
+   "C01674",
+   "C02608",
+   "C02295",
+   "C02903"
+  ],
+  "stem": "A primigravida in early labour, 3 cm dilated, has one foot of the baby palpable on vaginal examination. What is the most appropriate management?",
+  "options": {
+   "A": "Observe for progress of labour",
+   "B": "Augment with syntocinon",
+   "C": "Offer external cephalic version",
+   "D": "Emergency caesarean section",
+   "E": "Plan internal podalic version on further dilatation"
+  },
+  "answer": "D",
+  "explanation": "A footling breech through an incompletely dilated cervix risks cord prolapse and head entrapment; emergency caesarean section is indicated.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00614"
+  ],
+  "stem": "A primigravida in early labour is 3 cm dilated with one foot of the baby palpable on vaginal examination. What is the most likely complication of this presentation?",
+  "options": {
+   "A": "Fetal distress",
+   "B": "Risk of instrumental delivery",
+   "C": "Delivery through an incompletely dilated cervix",
+   "D": "Cord prolapse",
+   "E": "Hip dislocation"
+  },
+  "answer": "D",
+  "explanation": "A footling breech fits the pelvis poorly, leaving space for the cord to prolapse once membranes rupture.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01647"
+  ],
+  "stem": "A 25-year-old G1 at 37 weeks in labour has gross rupture of membranes with clear liquor. The cervix is 4 cm dilated, the presenting part is soft and felt to be the fetal buttock; ultrasound shows breech with both hips flexed and knees extended. What type of breech is this?",
+  "options": {
+   "A": "Frank",
+   "B": "Incomplete",
+   "C": "Single footling",
+   "D": "Complete",
+   "E": "Double footling"
+  },
+  "answer": "A",
+  "explanation": "Frank (extended) breech: hips flexed and knees extended, the commonest type at term.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01672",
+   "C02784",
+   "C02602"
+  ],
+  "stem": "A G6P5 presents in labour with labour pains for 4 hours. On abdominal examination the lie is transverse. PV shows the cervix 2 cm dilated with ruptured membranes. What is the next appropriate step?",
+  "options": {
+   "A": "Perform LSCS",
+   "B": "Perform ARM and maintain partogram",
+   "C": "Do not perform ARM and reassess after 2 hours",
+   "D": "Perform external cephalic version",
+   "E": "Perform internal podalic version"
+  },
+  "answer": "A",
+  "explanation": "A transverse lie in labour with ruptured membranes in a grand multipara risks cord prolapse and uterine rupture; deliver by caesarean section.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00922"
+  ],
+  "stem": "A G3P2 with previous vaginal deliveries presents at 39 weeks with per vaginal leaking for 2 hours. The cervix is 2 cm dilated, membranes are absent with clear liquor draining, and the presentation is footling breech. What will be your next step?",
+  "options": {
+   "A": "Dexamethasone therapy followed by elective caesarean section",
+   "B": "Wait for spontaneous onset of labour",
+   "C": "Elective caesarean section",
+   "D": "Emergency caesarean section",
+   "E": "Induction with prostaglandin E2"
+  },
+  "answer": "D",
+  "explanation": "Footling breech with ruptured membranes carries a high risk of cord prolapse; emergency caesarean section is the safest option.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00638"
+  ],
+  "stem": "A primigravida with a twin pregnancy has labour pains for 4 hours; the first baby is breech and CTGs of both are reactive. PV: os 3 cm, cervical length 1.5 cm, presenting part 3 cm above the ischial spines and membranes absent. Your management will be:",
+  "options": {
+   "A": "Augment with oxytocin",
+   "B": "Do not augment with oxytocin; maintain partogram",
+   "C": "Hydrate and give epidural analgesia",
+   "D": "Give epidural analgesia and watch for progress",
+   "E": "Proceed to emergency caesarean section"
+  },
+  "answer": "E",
+  "explanation": "If the first twin is not cephalic, delivery is by caesarean section because of the risk of locked or collided twins.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00558",
+   "C01987",
+   "C02959",
+   "C02269",
+   "C02881"
+  ],
+  "stem": "A 32-year-old G3P2 with twins, both cephalic, is in labour with normal CTG. The first twin is delivered uneventfully and the second twin is found to be lying transverse. What is the best immediate action?",
+  "options": {
+   "A": "Breech extraction",
+   "B": "Caesarean section",
+   "C": "External cephalic version",
+   "D": "Rupture of membranes and commence syntocinon",
+   "E": "Wait for 30 minutes"
+  },
+  "answer": "C",
+  "explanation": "After delivery of the first twin, a transverse second twin is corrected promptly by external cephalic version (or internal podalic version with breech extraction if ECV fails or there is fetal distress) while the cervix is open.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00639"
+  ],
+  "stem": "A G3P2 at 37 weeks with twin pregnancy is in labour, 6 cm dilated, first twin cephalic. The first twin is delivered but the cervix closes; the second twin is also cephalic with a reactive heart. After 30 minutes the second twin is not delivered. Your next step is:",
+  "options": {
+   "A": "Start oxytocin infusion to dilate cervix",
+   "B": "Insert intracervical catheter for dilatation",
+   "C": "Place prostaglandin vaginally",
+   "D": "Wait another 30 minutes with hydration",
+   "E": "Proceed to emergency caesarean section"
+  },
+  "answer": "A",
+  "explanation": "If contractions have stopped after the first twin, start an oxytocin infusion (with ARM) to restart contractions and bring the head down, provided the fetal heart is reassuring.",
+  "key_note": "One paper keyed E (caesarean); oxytocin infusion is the first step with a reassuring fetal heart rate.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01791",
+   "C02865"
+  ],
+  "stem": "A G2P1 at 37 weeks with twins is admitted at 9 cm dilatation. After delivery of the first twin there is brisk vaginal bleeding with bradycardia of the second twin, which has a transverse lie. What is the most appropriate management?",
+  "options": {
+   "A": "Emergency caesarean section",
+   "B": "External cephalic version",
+   "C": "Internal podalic version and breech extraction",
+   "D": "Fetal breech extraction without version",
+   "E": "Instrumental delivery"
+  },
+  "answer": "C",
+  "explanation": "Bleeding with fetal bradycardia after the first twin needs the fastest delivery: internal podalic version with breech extraction through the fully dilated cervix; ECV takes too long.",
+  "key_note": "Source marked B (ECV); that is too slow with bleeding and fetal bradycardia, so internal podalic version and breech extraction is correct. A duplicate version keyed emergency caesarean; merged, internal podalic version with breech extraction retained as the quickest route with the cervix fully dilated.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00568"
+  ],
+  "stem": "A G3P2 attends antenatal clinic at 40+6 weeks. Cervix is 2 cm dilated, 2 cm long, medium consistency, posterior, with station -3. What is the total Bishop score?",
+  "options": {
+   "A": "2",
+   "B": "3",
+   "C": "4",
+   "D": "5",
+   "E": "6"
+  },
+  "answer": "B",
+  "explanation": "Dilatation 1 to 2 cm = 1, length 2 cm = 1, medium consistency = 1, posterior position = 0, station -3 = 0; total 3, an unfavourable cervix.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00610"
+  ],
+  "stem": "A primigravida at 41+2 weeks attends with off-and-on lower abdominal pain. The cervix is 4 cm dilated, 1 cm long, soft, central, station -2. What is the total Bishop score?",
+  "options": {
+   "A": "3",
+   "B": "4",
+   "C": "5",
+   "D": "6",
+   "E": "7"
+  },
+  "answer": "E",
+  "explanation": "Dilatation 3 to 4 cm = 2, length 1 cm = 2, soft = 2, central position = 1, station -2 = 1; the sum is high (about 7 to 8), a favourable cervix.",
+  "key_note": "Papers keyed E (7); by the commonly used table the sum may be 8, so the question is table-dependent and E is the nearest option offered. By the standard Bishop table this scores 8 if station -2 is scored 1; the source key 7 is kept as the nearest offered option.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01045",
+   "C02713",
+   "C02369"
+  ],
+  "stem": "When measuring the Bishop score you will not consider:",
+  "options": {
+   "A": "Cervical dilatation",
+   "B": "Cervical length",
+   "C": "Interspinous distance",
+   "D": "Station of head",
+   "E": "Cervical effacement"
+  },
+  "answer": "C",
+  "explanation": "Bishop score components: dilatation, effacement (length), consistency, position of the cervix and station of the head; pelvic measurements are not included.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00923",
+   "C01036"
+  ],
+  "stem": "Which of the following is an absolute contraindication to induction of labour?",
+  "options": {
+   "A": "Contracted pelvis",
+   "B": "Major degree of placenta praevia",
+   "C": "Previous caesarean section",
+   "D": "History of rectovaginal fistula repair",
+   "E": "Fetal growth restriction"
+  },
+  "answer": "B",
+  "explanation": "Major placenta praevia (like transverse lie or vasa praevia) precludes vaginal delivery, so induction is contraindicated; a previous caesarean is only a relative contraindication.",
+  "key_note": "Merged with a paper version with options pre-eclampsia, praevia, IUD, post-term, PROM; keyed praevia in both. Contracted pelvis is also an absolute contraindication in many texts, but praevia is the keyed answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01006",
+   "C02658",
+   "C02955",
+   "C02827"
+  ],
+  "stem": "A primigravida at 42 weeks is to be induced. Her cervix is firm, posterior, full length, os closed, station -3. Which is the preferable method of induction?",
+  "options": {
+   "A": "Amniotomy",
+   "B": "Oxytocin infusion",
+   "C": "Prostaglandin F2 alpha",
+   "D": "Membrane sweeping",
+   "E": "Prostaglandin E2"
+  },
+  "answer": "E",
+  "explanation": "With an unfavourable cervix (low Bishop score) ripen with prostaglandin E2 (or misoprostol); amniotomy and oxytocin need a favourable cervix.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00620",
+   "C02018"
+  ],
+  "stem": "A known asthmatic attends the antenatal clinic at 41 weeks and you plan induction of labour. Which method is contraindicated?",
+  "options": {
+   "A": "Misoprostol",
+   "B": "Prostaglandin E2",
+   "C": "Foley catheter",
+   "D": "Amniotomy",
+   "E": "Prostaglandin F2 alpha"
+  },
+  "answer": "E",
+  "explanation": "PGF2 alpha (carboprost) causes bronchospasm and is contraindicated in asthma; PGE2 is bronchodilating, and Foley catheter and amniotomy are safe.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00635"
+  ],
+  "stem": "A 22-year-old G2P1 at 39 weeks attends for check-up. BP 120/70 mmHg, fundal height 36 cm, longitudinal cephalic, head 2/5 palpable. PV: os 1 cm, soft, central, vertex 3 cm above the ischial spines, reactive CTG. She complains of off-and-on reduced fetal movements. Ultrasound shows AFI 6. What is the next step?",
+  "options": {
+   "A": "Emergency LSCS",
+   "B": "Elective LSCS next day",
+   "C": "Induction of labour with prostin E2 the same day",
+   "D": "Sweeping of membranes and call after 1 week",
+   "E": "Induction of labour with syntocinon infusion"
+  },
+  "answer": "C",
+  "explanation": "Reduced fetal movements with borderline liquor at term warrant induction; with an unripe cervix (low Bishop score) use prostaglandin E2 first, not oxytocin.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00980"
+  ],
+  "stem": "A 23-year-old primigravida at 40+2 weeks is induced with prostaglandin E2 tablets and develops 5 contractions in 10 minutes, each 50 to 60 seconds, with a CTG showing early decelerations. You suspect hyperstimulation. Which drug will you advise to relax her uterus?",
+  "options": {
+   "A": "Terbutaline",
+   "B": "Nifedipine",
+   "C": "Magnesium sulphate",
+   "D": "Ritodrine",
+   "E": "Hydralazine"
+  },
+  "answer": "A",
+  "explanation": "Uterine hyperstimulation is treated with a quick-acting beta-agonist tocolytic such as subcutaneous terbutaline, after stopping the inducing agent.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01007"
+  ],
+  "stem": "A primigravida was induced with prostaglandin E2 and an oxytocin infusion was started at 5 cm. She now has 5 contractions of 55 to 60 seconds in 10 minutes. What will be your management?",
+  "options": {
+   "A": "Increase oxytocin dose",
+   "B": "Give beta-2 agonist",
+   "C": "Give oxygen",
+   "D": "Left lateral position",
+   "E": "Start spasmolytic infusion"
+  },
+  "answer": "B",
+  "explanation": "Tachysystole is managed by stopping oxytocin and giving a tocolytic (terbutaline), with left lateral position and oxygen if the fetal heart rate is affected; of the options listed the beta-2 agonist is the keyed answer.",
+  "key_note": "Stopping oxytocin is also essential but is not among the options; the tocolytic is keyed.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00830"
+  ],
+  "stem": "A 39-year-old G3P2 at 39 weeks with a gush of fluid has labour augmented with syntocinon. She is having a contraction every minute lasting about 1 minute with almost no rest, and the fetal heart rate falls to the 80s. The cervix is 6 cm. The most appropriate next step is:",
+  "options": {
+   "A": "Discontinue oxytocin",
+   "B": "Start magnesium sulphate",
+   "C": "Perform forceps assisted vaginal delivery",
+   "D": "Perform vacuum assisted vaginal delivery",
+   "E": "Emergency caesarean section"
+  },
+  "answer": "A",
+  "explanation": "This is oxytocin hyperstimulation: stop the infusion first, give left lateral position and oxygen, and tocolyse if needed; caesarean section only if bradycardia persists.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00629"
+  ],
+  "stem": "A 23-year-old G1P0 at 41 weeks is receiving intravenous oxytocin for induction. She has very painful, nearly continuous contractions, is 7 cm dilated with the vertex at +1 station. The fetal heart rate tracing shows decelerations consistent with fetal head compression. What CTG pattern is expected?",
+  "options": {
+   "A": "Persistent fetal bradycardia",
+   "B": "Persistent fetal tachycardia",
+   "C": "Type 1 (early) decelerations",
+   "D": "Type 2 (late) decelerations",
+   "E": "Variable decelerations"
+  },
+  "answer": "C",
+  "explanation": "Head compression gives early (type 1) decelerations, mirroring contractions with onset and recovery in step; they are benign, unlike late decelerations of uteroplacental insufficiency.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00569"
+  ],
+  "stem": "A 30-year-old primigravida at 39 weeks is admitted with labour pains for 4 hours; cervix 4 cm dilated, 2 cm long, station -2, membranes intact. What should be the first step to assess fetal wellbeing?",
+  "options": {
+   "A": "Auscultation of fetal heart",
+   "B": "Cardiotocogram",
+   "C": "Fetal scalp blood sampling",
+   "D": "Biophysical profile",
+   "E": "Fetal Doppler USG"
+  },
+  "answer": "A",
+  "explanation": "In low risk labour the first and routine method is intermittent auscultation of the fetal heart (Pinard or hand-held Doppler); CTG is reserved for high risk labour or if auscultation is abnormal.",
+  "key_note": "Two papers marked B (CTG); auscultation is the first step in a low risk woman.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01005"
+  ],
+  "stem": "A primigravida has been in labour for 4 hours with the cervix 3 cm dilated. You advise your trainee to monitor fetal wellbeing. Which is the best method of fetal monitoring at this stage?",
+  "options": {
+   "A": "CTG",
+   "B": "Fetal scalp blood sampling",
+   "C": "Fetal kick count",
+   "D": "Biophysical profile",
+   "E": "Fetal Doppler"
+  },
+  "answer": "A",
+  "explanation": "Of the options listed, cardiotocography is the intrapartum monitor; FBS is only for an abnormal CTG, and kick counts, BPP and Doppler are antenatal tests.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01078"
+  ],
+  "stem": "A 25-year-old primigravida at 40+5 weeks is admitted with labour pain. SFH 38 cm, longitudinal cephalic, head 4/5 palpable; PV: os 2 cm, cervix 1 cm, vertex -1, membranes intact. Regarding fetal assessment, what will be your plan?",
+  "options": {
+   "A": "Start partogram",
+   "B": "Intermittent auscultation",
+   "C": "Intermittent CTG",
+   "D": "FBS",
+   "E": "Continuous CTG"
+  },
+  "answer": "C",
+  "explanation": "Exam teaching favours an admission CTG with intermittent CTG monitoring in a post-dates woman.",
+  "key_note": "One paper marked B (intermittent auscultation), which is the standard for a truly low risk woman; keyed C retained as the majority key.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01079"
+  ],
+  "stem": "A 32-year-old G5P4 at 37 weeks admitted in the first stage of labour has pregnancy-induced hypertension, ruptured membranes with clear liquor, and AFI 7 cm. Your plan for fetal assessment will be:",
+  "options": {
+   "A": "FBS",
+   "B": "Intermittent auscultation",
+   "C": "Partogram",
+   "D": "Continuous CTG",
+   "E": "Umbilical artery Doppler"
+  },
+  "answer": "D",
+  "explanation": "A high risk labour (hypertension, borderline liquor, grand multiparity) needs continuous electronic fetal monitoring.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00608"
+  ],
+  "stem": "A primigravida in the active first stage of labour has been given epidural analgesia. How will you monitor fetal wellbeing?",
+  "options": {
+   "A": "Fetal kick count chart",
+   "B": "Intermittent CTG",
+   "C": "Biophysical profile",
+   "D": "Continuous CTG",
+   "E": "Fetal scalp blood sampling"
+  },
+  "answer": "D",
+  "explanation": "Epidural analgesia can cause maternal hypotension and fetal heart rate changes, so continuous CTG is the keyed practice.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00350"
+  ],
+  "stem": "A G3P2 (all SVDs) admitted in the labour room has uterine contractions 3 in 10 minutes and is 8 cm dilated. The nurse observes variable decelerations on CTG. What is the best action at this time?",
+  "options": {
+   "A": "Apply an oxygen mask",
+   "B": "Change the woman's position to left side lying",
+   "C": "Make her walk around",
+   "D": "Move her to the delivery room",
+   "E": "Confirm fetal monitoring"
+  },
+  "answer": "B",
+  "explanation": "Variable decelerations indicate cord compression; changing to the left lateral position relieves pressure on the cord and improves oxygenation.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01137"
+  ],
+  "stem": "A 30-year-old primigravida at 40 weeks in labour has a cervix 5 cm dilated, vertex -2, and the CTG shows variable decelerations for more than 30 minutes. What is the best management option?",
+  "options": {
+   "A": "Augmentation with syntocinon",
+   "B": "Emergency caesarean section",
+   "C": "Expectant management",
+   "D": "Forceps delivery",
+   "E": "Oxygenation"
+  },
+  "answer": "C",
+  "explanation": "Variable decelerations alone are a suspicious feature; change maternal position, correct hypotension and continue monitoring. Section is for persisting pathological patterns or bradycardia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01648",
+   "C01708"
+  ],
+  "stem": "A 27-year-old primigravida at 38 weeks is in labour for 6 hours, cervix 6 cm dilated, membranes absent with grade I meconium. CTG shows loss of variability and late decelerations for more than 30 minutes. What will be your next step?",
+  "options": {
+   "A": "Repeat CTG",
+   "B": "Fetal blood sampling",
+   "C": "Immediate caesarean section",
+   "D": "Left lateral position",
+   "E": "Oxygen inhalation"
+  },
+  "answer": "B",
+  "explanation": "A pathological CTG (reduced variability with late decelerations) without acute bradycardia calls for fetal scalp blood sampling (pH below 7.20 means delivery) when facilities allow.",
+  "key_note": "One paper marked C (immediate caesarean) for this stem; FBS is the standard next step.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00470"
+  ],
+  "stem": "A 23-year-old primigravida at 41 weeks is in labour with adequate contractions. PV: os 6 cm, 90% effaced, head at -1, membranes bulging; ARM done and the liquor is stained with grade 2 meconium; CTG shows prolonged late decelerations. What is your next step in management?",
+  "options": {
+   "A": "Fetal scalp blood sampling",
+   "B": "Emergency LSCS",
+   "C": "Instrumental delivery",
+   "D": "Repeat CTG after 30 minutes",
+   "E": "Watch for progress of labour"
+  },
+  "answer": "B",
+  "explanation": "Prolonged late decelerations with meconium in the first stage indicate fetal hypoxia and the head is high, so deliver by emergency caesarean section.",
+  "key_note": "Three papers marked A (FBS); with persistent late decelerations and meconium, emergency caesarean is the majority key and the safer answer.",
+  "figure": ""
+ },
+ {
+  "cids": [],
+  "stem": "A 30-year-old G4P3 at 41 weeks in labour has adequate contractions. The cervix is fully dilated, the fetal head is 1 cm below the ischial spines, membranes bulging; ARM done with grade 2 meconium; CTG shows prolonged late decelerations. What is your next step?",
+  "options": {
+   "A": "Fetal scalp blood sampling",
+   "B": "Emergency LSCS",
+   "C": "Instrumental delivery",
+   "D": "Repeat CTG after 30 minutes",
+   "E": "Watch for progress of labour"
+  },
+  "answer": "C",
+  "explanation": "In a multipara fully dilated with the head below the spines, the quickest safe route to deliver a compromised fetus is instrumental delivery.",
+  "key_note": "Split from C00470 (fully dilated, multiparous version).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00832"
+  ],
+  "stem": "A G2P1+0 presents with labour pains for 8 hours, 3 moderate contractions in 10 minutes, FHR 120/min. The cervix is 6 cm dilated, 1.5 cm long, vertex -2, membranes absent, and she is passing grade III meconium. What is the most appropriate next step?",
+  "options": {
+   "A": "Augmentation with oxytocin",
+   "B": "Instrumental delivery",
+   "C": "Emergency lower segment caesarean section",
+   "D": "Sedate and hydrate",
+   "E": "Continue trial of labour"
+  },
+  "answer": "C",
+  "explanation": "Thick (grade III) meconium in the first stage with an unengaged head is treated in exam teaching as fetal distress and delivered by caesarean section.",
+  "key_note": "Thick meconium with a normal heart rate may also be managed with continuous CTG; the paper key is retained.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01673"
+  ],
+  "stem": "In a G2P1 you do ARM and observe grade 2 meconium-stained liquor but the CTG is reactive. Your next step will be:",
+  "options": {
+   "A": "Observation",
+   "B": "Fetal scalp blood sampling",
+   "C": "Augment labour",
+   "D": "Proceed LSCS",
+   "E": "Repeat CTG"
+  },
+  "answer": "A",
+  "explanation": "Meconium with a reactive CTG needs only continued observation with continuous electronic monitoring; scalp sampling is for a pathological CTG.",
+  "key_note": "Three papers marked B (FBS); with a normal CTG FBS is not indicated.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00815"
+  ],
+  "stem": "Which one mechanism is known to cause meconium passage by the fetus?",
+  "options": {
+   "A": "Vagal stimulation",
+   "B": "Fetal hyperglycaemia",
+   "C": "Immature gastrointestinal peristalsis",
+   "D": "Increased gastrointestinal hyperosmolar load",
+   "E": "Fetal hypoglycaemia"
+  },
+  "answer": "A",
+  "explanation": "Hypoxia stimulates the vagus, increasing gut peristalsis and relaxing the anal sphincter, so meconium is passed.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00854",
+   "C01149",
+   "C02304",
+   "C02480",
+   "C02523"
+  ],
+  "stem": "A primigravida wants a pain-free labour. What is the best option for her?",
+  "options": {
+   "A": "Entonox",
+   "B": "Epidural",
+   "C": "Spinal",
+   "D": "Acupuncture",
+   "E": "Opioids"
+  },
+  "answer": "B",
+  "explanation": "Epidural analgesia gives the most complete pain relief in labour; spinal is single-shot and short-acting, and opioids and Entonox give only partial relief.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00855"
+  ],
+  "stem": "A 36-year-old G3P2 in labour is taking Entonox for pain relief. Entonox is a mixture of:",
+  "options": {
+   "A": "Nitrous oxide and oxygen",
+   "B": "Carbon dioxide and nitrogen oxide",
+   "C": "Halothane",
+   "D": "Nitrous oxide only",
+   "E": "Helium and oxygen"
+  },
+  "answer": "A",
+  "explanation": "Entonox is a 50:50 mixture of nitrous oxide and oxygen, self-administered during contractions.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01090"
+  ],
+  "stem": "A 26-year-old primigravida at 39 weeks in the latent phase (os 2 cm, cervix effaced, membranes intact) asks for analgesia. Which of the following will you advise (choose the best)?",
+  "options": {
+   "A": "Rehydrate the patient",
+   "B": "IV analgesic",
+   "C": "One-to-one support",
+   "D": "Antibiotics",
+   "E": "Allow one relative to be with her"
+  },
+  "answer": "B",
+  "explanation": "The paper key is an IV analgesic for pain in the latent phase; non-drug support is also recommended.",
+  "key_note": "Choice between B and C is debatable; the paper key B is kept.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00646"
+  ],
+  "stem": "A primigravida at 40 weeks has had labour pains for 5 hours; os is 4 cm, cervix 1 cm, soft, central, presenting part at the spines, membranes intact. You plan ARM but want to give analgesia first. The best analgesia is:",
+  "options": {
+   "A": "Saddle block",
+   "B": "Spinal anaesthesia",
+   "C": "Epidural analgesia",
+   "D": "Pudendal nerve block",
+   "E": "IV paracetamol"
+  },
+  "answer": "C",
+  "explanation": "Epidural is the most effective analgesia for the pain of active labour including that of ARM; pudendal block is for the second stage.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00998"
+  ],
+  "stem": "A primigravida in the first stage of labour requests a painless delivery. In counselling regarding epidural analgesia, which effect should you specifically mention?",
+  "options": {
+   "A": "Prolonged first stage of labour",
+   "B": "Long-term backache",
+   "C": "Prolonged second stage of labour",
+   "D": "Lower limb weakness",
+   "E": "Respiratory distress in the baby"
+  },
+  "answer": "C",
+  "explanation": "Epidural analgesia prolongs the second stage (and increases the need for instrumental delivery); it does not cause long-term backache.",
+  "key_note": "Source marked A (prolonged first stage); the classic counselling point is a longer second stage and more instrumental delivery.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01667",
+   "C02941"
+  ],
+  "stem": "A primigravida 3 cm dilated, with the presenting part 1 cm above the ischial spines, is given epidural analgesia. It is frequently associated with:",
+  "options": {
+   "A": "Fetal tachycardia",
+   "B": "Maternal bradycardia",
+   "C": "Precipitate labour",
+   "D": "Increased chance of instrumental delivery",
+   "E": "Primary dysfunctional labour"
+  },
+  "answer": "D",
+  "explanation": "Epidural reduces pushing urge and pelvic floor tone, lengthening the second stage and increasing instrumental delivery rates.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00611"
+  ],
+  "stem": "A 19-year-old primigravida in early labour wants to avoid operative vaginal delivery. Which of the following is most likely to increase her chance of spontaneous vaginal delivery?",
+  "options": {
+   "A": "Commence pushing as soon as she is fully dilated",
+   "B": "Continuous support in labour",
+   "C": "Documenting progress on partogram",
+   "D": "Lying in a supine position during labour",
+   "E": "Use of epidural for analgesia in labour"
+  },
+  "answer": "B",
+  "explanation": "Continuous one-to-one support in labour reduces analgesia use and instrumental and caesarean delivery; epidural and supine position increase instrumental delivery.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01122"
+  ],
+  "stem": "Which of the following is a common complication of epidural analgesia in pregnant women?",
+  "options": {
+   "A": "Dural puncture",
+   "B": "Drug reaction",
+   "C": "Epidural haematoma",
+   "D": "Hypotension",
+   "E": "Respiratory arrest"
+  },
+  "answer": "D",
+  "explanation": "Sympathetic blockade causes hypotension in a significant number of women; the other complications are rare.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00659"
+  ],
+  "stem": "A 29-year-old woman in active labour receives epidural analgesia with bupivacaine and fentanyl. Thirty minutes later she has dizziness and nausea, BP 85/50 mmHg and the fetal heart rate tracing shows a prolonged deceleration. What is the most likely cause?",
+  "options": {
+   "A": "Local anaesthetic toxicity",
+   "B": "High spinal block",
+   "C": "Supine hypotensive syndrome",
+   "D": "Epidural-induced hypotension",
+   "E": "Amniotic fluid embolism"
+  },
+  "answer": "D",
+  "explanation": "Epidural sympathetic blockade causes vasodilatation and hypotension, which can reduce uteroplacental flow and cause fetal bradycardia; treat with fluids, left tilt and a vasopressor.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00942"
+  ],
+  "stem": "A 26-year-old primigravida at 38 weeks with twin pregnancy in active labour is lying supine and receives epidural analgesia. After the test dose of bupivacaine her BP is 80/48 mmHg and pulse 90/min. What is the most likely cause of hypotension?",
+  "options": {
+   "A": "Anaphylaxis",
+   "B": "Aorto-caval compression",
+   "C": "Concealed abruption",
+   "D": "Dehydration",
+   "E": "Intrathecal injection of local anaesthetic"
+  },
+  "answer": "B",
+  "explanation": "Lying supine in late pregnancy with twins, the gravid uterus compresses the inferior vena cava and aorta, reducing venous return; the sympathetic block unmasks it. Treat with left lateral tilt.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00607"
+  ],
+  "stem": "You are administering epidural anaesthesia in a labouring patient. Suddenly she becomes unconscious and her BP falls to 60 mmHg systolic. What is the most likely cause?",
+  "options": {
+   "A": "Thromboembolism",
+   "B": "Total spinal anaesthesia",
+   "C": "Anaphylactic reaction",
+   "D": "Drug toxicity",
+   "E": "Intracranial haemorrhage"
+  },
+  "answer": "B",
+  "explanation": "Inadvertent intrathecal injection of the epidural dose causes a high spinal block with hypotension, apnoea and loss of consciousness, requiring airway support, ventilation, fluids and vasopressors.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00525"
+  ],
+  "stem": "A postgraduate trainee in anaesthesia is being taught spinal anaesthesia. In which interspace should the drug be administered?",
+  "options": {
+   "A": "L1-L2",
+   "B": "T12-L1",
+   "C": "L3-L4",
+   "D": "L5-S1",
+   "E": "S1-S2"
+  },
+  "answer": "C",
+  "explanation": "The spinal cord ends at L1 to L2, so lumbar puncture is done at L3-L4 (or L4-L5), below the cord.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00526"
+  ],
+  "stem": "While giving epidural anaesthesia, identification of the epidural space is necessary. The position of the catheter is confirmed by which sign?",
+  "options": {
+   "A": "Restricted movement of catheter",
+   "B": "CSF coming through the needle",
+   "C": "Blood coming through the needle",
+   "D": "No blood or CSF coming through the needle",
+   "E": "Immediate loss of sensation in the lower limbs"
+  },
+  "answer": "D",
+  "explanation": "A correctly placed epidural catheter aspirates neither CSF (subarachnoid) nor blood (intravascular).",
+  "key_note": "Question is loosely worded; keyed D is retained.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01613"
+  ],
+  "stem": "A 26-year-old primigravida delivers and you are doing active management of the third stage of labour. Which medication do you administer at delivery of the anterior shoulder to prevent PPH?",
+  "options": {
+   "A": "Methergine",
+   "B": "Ergometrine",
+   "C": "Syntocinon",
+   "D": "Misoprostol",
+   "E": "Prostaglandin F2 alpha"
+  },
+  "answer": "C",
+  "explanation": "AMTSL uses oxytocin 10 IU IM with delivery of the anterior shoulder (or immediately after delivery), followed by controlled cord traction.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00567"
+  ],
+  "stem": "You are called to the postoperative ward for a post-caesarean patient on day 1. She complains of frontal headache with neck stiffness, aggravated on sitting. What is the most likely diagnosis?",
+  "options": {
+   "A": "Meningitis",
+   "B": "Tension headache",
+   "C": "Sleep deprivation",
+   "D": "Spinal (post-dural puncture) headache",
+   "E": "Migraine"
+  },
+  "answer": "D",
+  "explanation": "Headache that is worse upright and relieved by lying flat after spinal anaesthesia is a post-dural puncture headache from CSF leak; neck stiffness can accompany it.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00566"
+  ],
+  "stem": "Which drug is added to local anaesthetic for epidural painless labour?",
+  "options": {
+   "A": "Paracetamol",
+   "B": "Adrenaline",
+   "C": "Fentanyl",
+   "D": "Ventolin",
+   "E": "Atracurium"
+  },
+  "answer": "C",
+  "explanation": "A low-dose opioid such as fentanyl is combined with dilute bupivacaine to give good analgesia with minimal motor block.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00449"
+  ],
+  "stem": "A primigravida has been in the second stage of labour for 2 hours; the head is at +1 station. Despite adequate contractions she is unable to push because of exhaustion. What is the next step?",
+  "options": {
+   "A": "Wait for another hour",
+   "B": "Hydrate with IV fluids",
+   "C": "Emergency caesarean section",
+   "D": "Instrumental delivery",
+   "E": "Arrange epidural analgesia"
+  },
+  "answer": "D",
+  "explanation": "Delay in the second stage (2 hours in a nullipara) with a low head and maternal exhaustion calls for assisted delivery by forceps or vacuum.",
+  "key_note": "One paper marked B (hydrate); fluids alone do not solve the problem at 2 hours of second stage.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00615"
+  ],
+  "stem": "A primigravida is in the second stage of labour for the last 2 hours. CTG is reactive. On vaginal examination the station is -1 and the occiput is at the 3 o'clock position. What is the next step?",
+  "options": {
+   "A": "Wait for another hour",
+   "B": "Outlet forceps delivery",
+   "C": "Vacuum delivery",
+   "D": "Emergency caesarean section",
+   "E": "Augment with syntocinon"
+  },
+  "answer": "D",
+  "explanation": "A high head (-1) after 2 hours of second stage in transverse position is arrest or obstruction; instrumental delivery above +1 is unsafe, so caesarean section.",
+  "key_note": "One paper version with bradycardia and station +2 was keyed B (outlet forceps); that is a different scenario and is not separately listed.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01138"
+  ],
+  "stem": "A 28-year-old unbooked G3P2 at 38 weeks with two normal vaginal deliveries presents with labour pains for 6 hours. The head is 0/5 palpable, longitudinal lie. On vaginal examination the cervix is fully dilated with mento-anterior position at +2 station. What will be your next step?",
+  "options": {
+   "A": "Emergency caesarean section",
+   "B": "Forceps delivery",
+   "C": "Episiotomy",
+   "D": "Wait for spontaneous normal delivery",
+   "E": "IV fluids"
+  },
+  "answer": "D",
+  "explanation": "Mento-anterior face presentation at a low station in a multipara usually delivers spontaneously; avoid instruments and watch.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02521"
+  ],
+  "stem": "A woman at term has regular painful contractions with progressive cervical dilatation and descent of the presenting part. Which process is occurring?",
+  "options": {
+   "A": "Ectopic pregnancy",
+   "B": "Normal labour",
+   "C": "Placental abruption",
+   "D": "Puerperal sepsis",
+   "E": "Uterine inversion"
+  },
+  "answer": "B",
+  "explanation": "Regular painful contractions with progressive cervical dilatation and descent of the presenting part define labour.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01918",
+   "C02428"
+  ],
+  "stem": "A 25-year primigravida at 39 weeks presents in spontaneous labour. On vaginal examination, the cervix is 5 cm dilated, fully effaced, and contractions are strong and regular. What stage of labour is this?",
+  "options": {
+   "A": "Active phase of first stage.",
+   "B": "Latent phase of first stage.",
+   "C": "Passive second stage of labor",
+   "D": "Second stage of labour.",
+   "E": "Third stage of labour"
+  },
+  "answer": "A",
+  "explanation": "Active phase of the first stage starts at about 5 cm (WHO; Ten Teachers uses 4 cm) with regular strong contractions and a fully effaced cervix. The latent phase is slower and ends before this.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02522"
+  ],
+  "stem": "During normal labour, the woman reaches full cervical dilatation and begins active pushing. Which stage of labour has begun?",
+  "options": {
+   "A": "First stage",
+   "B": "Fourth stage",
+   "C": "Latent antenatal stage",
+   "D": "Second stage",
+   "E": "Third stage"
+  },
+  "answer": "D",
+  "explanation": "The second stage begins at full cervical dilatation (10 cm) and ends with delivery of the baby.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01919"
+  ],
+  "stem": "A 28-year woman delivers her baby vaginally. Ten minutes later, she has uterine contractions and a gush of blood, followed by lengthening of the cord. What stage of labour is this?",
+  "options": {
+   "A": "First stage",
+   "B": "Second stage",
+   "C": "Third stage",
+   "D": "Fourth stage",
+   "E": "Latent phase"
+  },
+  "answer": "C",
+  "explanation": "The third stage runs from delivery of the baby to delivery of the placenta. A gush of blood, cord lengthening and a contracted uterus are the signs of placental separation.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02676"
+  ],
+  "stem": "During spontaneous vertex delivery after the head delivers through the vulva it immediately aligns with the shoulders. This movement of the head is called",
+  "options": {
+   "A": "Extension",
+   "B": "External rotation",
+   "C": "Descent",
+   "D": "Restitution",
+   "E": "Flexion"
+  },
+  "answer": "D",
+  "explanation": "After delivery of the head, the occiput turns back to the position it had before internal rotation so that the head realigns with the shoulders. This is restitution; external rotation follows as the shoulders rotate to the anteroposterior diameter.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02433"
+  ],
+  "stem": "A 30-year-old woman is in labour with strong contractions every 3 minutes, cervix fully dilated, vertex at +2 station. What should be done?",
+  "options": {
+   "A": "Administer epidural",
+   "B": "Artificial rupture of membranes",
+   "C": "Encourage pushing",
+   "D": "Perform cesarean section",
+   "E": "Start oxytocin"
+  },
+  "answer": "C",
+  "explanation": "Fully dilated with the head at +2 station and strong contractions means the second stage has begun; the woman should be encouraged to push with contractions.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02429"
+  ],
+  "stem": "A 29-year-old primigravida in labour has fetal head crowning. What is the next step?",
+  "options": {
+   "A": "Apply forceps.",
+   "B": "Episiotomy if required",
+   "C": "Perform cesarean section",
+   "D": "Wait for placenta delivery",
+   "E": "Administer oxytocin"
+  },
+  "answer": "B",
+  "explanation": "At crowning the head is delivered in a controlled manner with the hands, and episiotomy is done only if indicated. Forceps are not applied to a spontaneously crowning head.",
+  "key_note": "Some paper keys marked A (Apply forceps); correct is B: controlled delivery with episiotomy only if required.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02662",
+   "C02714"
+  ],
+  "stem": "Regarding fetal surveillance in second stage of labour",
+  "options": {
+   "A": "Continuous CTG is recommended",
+   "B": "There is no role for fetal blood sampling",
+   "C": "Accelerations on CTG are commonly present",
+   "D": "Late decelerations on CTG are normal",
+   "E": "Early decelerations are common"
+  },
+  "answer": "E",
+  "explanation": "Early decelerations are common in the second stage because of head compression and are benign. Continuous CTG is not routinely required in low-risk labour and fetal blood sampling still has a role.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02430"
+  ],
+  "stem": "A 31 y/o woman is in second stage of labour. The fetal heart rate drops to 90 bpm for 2 minutes. What should be done next?",
+  "options": {
+   "A": "Administered epidural",
+   "B": "Continue monitoring",
+   "C": "Expedite delivery (Abnormal CTG, indicated fetal distress)",
+   "D": "Give tocolytics",
+   "E": "Start oxytocin"
+  },
+  "answer": "C",
+  "explanation": "A fetal heart rate of 90 bpm for 2 minutes in the second stage is a prolonged deceleration (bradycardia), so delivery should be expedited (instrumental or caesarean). Oxytocin would worsen fetal compromise.",
+  "key_note": "One paper key marked E (Start oxytocin); correct is C: expedite delivery.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02431"
+  ],
+  "stem": "A 22-year old primigravida has just delivered the baby. What is the first step is the active management of the third stage?",
+  "options": {
+   "A": "Administration of uterotonic",
+   "B": "Cord clamping",
+   "C": "Controlled cord traction",
+   "D": "Massage uterus",
+   "E": "Placenta delivery"
+  },
+  "answer": "A",
+  "explanation": "WHO and Ten Teachers: active management begins with a uterotonic (oxytocin 10 IU IM) within one minute of birth, followed by delayed cord clamping and controlled cord traction.",
+  "key_note": "One paper key marked C (controlled cord traction); correct is A: the uterotonic comes first.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02432"
+  ],
+  "stem": "A 25-year-old woman delivers and placenta expulsion occurs within 5 minutes. What type of placental delivery is this?",
+  "options": {
+   "A": "Manual removal",
+   "B": "Matthews Duncan mechanism",
+   "C": "Mixed type",
+   "D": "Partial separation",
+   "E": "Schultze mechanism"
+  },
+  "answer": "E",
+  "explanation": "Separation from the centre with the shiny fetal surface presenting (Schultze, about 80%) is the usual pattern and is quicker; in Matthews Duncan the edge separates first and the maternal surface presents.",
+  "key_note": "Paper key kept; the stem is incomplete and Matthews Duncan is a close alternative.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02589"
+  ],
+  "stem": "After delivery of the fetus, the placenta should be removed by:",
+  "options": {
+   "A": "Fundal pressure.",
+   "B": "Manual removal.",
+   "C": "Evacuation and curettage",
+   "D": "Controlled cord traction",
+   "E": "Suction evacuation"
+  },
+  "answer": "D",
+  "explanation": "After the uterotonic and signs of separation, the placenta is delivered by controlled cord traction with counter-pressure above the pubis. Fundal pressure risks inversion; manual removal is only for retained placenta.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03076"
+  ],
+  "stem": "In a normal labour, which mechanism best explains placental separation and haemostas in the third stage?",
+  "options": {
+   "A": "Maternal clotting factor surge",
+   "B": "Constriction of placental villi",
+   "C": "Retraction and contraction of upper uterine segment muscle bundles",
+   "D": "Cervical spasm",
+   "E": "Fall in progesterone at delivery"
+  },
+  "answer": "C",
+  "explanation": "Contraction and retraction of the upper segment muscle shear the placenta off, and the interlacing fibres (living ligatures) occlude the spiral arteries, giving haemostasis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03023"
+  ],
+  "stem": "While conducting delivery of a 34 years old G3P4, active management of third stage of labor is done by giving intramuscular oxytocin and new born has apgar score of 8/10 at birth. When will you clamp the baby's cord?",
+  "options": {
+   "A": "As soon as baby is born",
+   "B": "Within 1 minute of birth",
+   "C": "Between 1 and 3 minutes of birth",
+   "D": "Between 2 and 5 minutes of birth",
+   "E": "When the umbilical cord pulsation ceases"
+  },
+  "answer": "C",
+  "explanation": "WHO and NICE advise delayed cord clamping, not earlier than 1 minute and usually within 1-3 minutes, in vigorous babies.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03056"
+  ],
+  "stem": "A G6P5, presents at 37 weeks with B.P of 160/100 & proteinuria of +2. She has twin pregnancy with first twin in cephalic presentation. She is in active labor and progressing well. Which of the following is the recommended for active management of 3rd stage of labor?",
+  "options": {
+   "A": "Ergometrine 0.4 mg I/M",
+   "B": "Misoprostol 800 mg orally",
+   "C": "Misoprostol 800 mg P/R",
+   "D": "Oxytocin 5IU I/M",
+   "E": "Syntrometrine 10 IU I/M"
+  },
+  "answer": "D",
+  "explanation": "In pre-eclampsia ergometrine and Syntometrine are contraindicated because of hypertension. Oxytocin is the uterotonic of choice (5 IU slow IV/IM; 10 IU IM in WHO schedules).",
+  "key_note": "Paper key (oxytocin) kept; ergometrine and Syntometrine are contraindicated in hypertension.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03022"
+  ],
+  "stem": "A 29- year- old, PG, at 37 weeks is in labor. She is 4 cm dilated at 8 a.m. Her labor is monitored using the WHO labor care guide. She is 6 cm dilated at 11a.m. What is your impression regarding her labor?",
+  "options": {
+   "A": "Augmentation with oxytocin required",
+   "B": "Continuous CTG monitoring indicated",
+   "C": "Normal progress of labor",
+   "D": "Slow progress in active phase of first stage of labor",
+   "E": "Vaginal examination repeated too early"
+  },
+  "answer": "C",
+  "explanation": "The WHO labour care guide expects at least about 0.5 cm/hour in active labour; 2 cm in 3 hours is acceptable.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02983"
+  ],
+  "stem": "A 26 yrs Primigravida woman is in labour at 39 weeks. You have initiated a partogram which shows that the cervix dilated from 4 cm to 5cm in 4hrs and uterine contractions are 2 in 10 min each of 30 sec. You diagnose her as Primary dysfunctional labour. What is the most common cause of this dysfunction?",
+  "options": {
+   "A": "Power",
+   "B": "Passage",
+   "C": "Passenger",
+   "D": "Partner",
+   "E": "Position"
+  },
+  "answer": "A",
+  "explanation": "Primary dysfunctional labour in a primigravida is most commonly due to inefficient uterine action (the 3 Ps: power, passage, passenger); power is the commonest cause.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02529"
+  ],
+  "stem": "A woman in labour has poor uterine contractions and slow cervical dilatation. There is no evidence of obstruction and the fetus is well. Which problem is most likely?",
+  "options": {
+   "A": "Cord prolapse",
+   "B": "Hypotonic uterine action",
+   "C": "Placenta previa",
+   "D": "Shoulder dystocia",
+   "E": "Uterine inversion"
+  },
+  "answer": "B",
+  "explanation": "Poor contractions with slow dilatation, no obstruction and a well fetus is hypotonic (inefficient) uterine action, treated with ARM and oxytocin.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02530"
+  ],
+  "stem": "A woman develops painful, frequent but poorly coordinated uterine contractions with little cervical progress. Which abnormality is most consistent with this presentation?",
+  "options": {
+   "A": "Hypertonic/incoordinate uterine activity",
+   "B": "Normal second stage",
+   "C": "Placental abruption",
+   "D": "Puerperal sepsis",
+   "E": "Secondary postpartum haemorrhage"
+  },
+  "answer": "A",
+  "explanation": "Painful, frequent, poorly coordinated contractions with little cervical progress is hypertonic or incoordinate uterine action, often in the latent phase of primigravidae. Treat with analgesia and rest.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02607"
+  ],
+  "stem": "A 26-year-old G2P1 is admitted in labor. She progresses from 4 to 6 cm in 8 hours despite adequate contractions. What is the most likely cause of this slow progress",
+  "options": {
+   "A": "Dysfunctional labour",
+   "B": "Inefficient uterine contractions",
+   "C": "Occipito-anterior position",
+   "D": "Uterine rupture",
+   "E": "Polyhydramnios"
+  },
+  "answer": "A",
+  "explanation": "Slow progress (4 to 6 cm in 8 hours) despite adequate contractions is dysfunctional labour; if the contractions were inefficient it would be uterine inertia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03157"
+  ],
+  "stem": "A 32 year old G3P1A1 presents in labour room. On abdominal examination lie of baby is longitudinal and cephalic presentation. CTG is reactive. On vaginal examination cervix is 6 cm dilated with absent membranes. You maintain partogram and observe after 2 hours same vaginal findings in spite of 2 moderate and 2 severe contractions in 10 min. What is this abnormality of labour termed",
+  "options": {
+   "A": "Prolonged latent phase",
+   "B": "Prolonged active phase",
+   "C": "Active phase arrest",
+   "D": "Latent phase arrest",
+   "E": "Prolonged second stage"
+  },
+  "answer": "C",
+  "explanation": "No cervical change for 2 hours in the active phase (6 cm) with adequate contractions is secondary arrest, or active phase arrest.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02606"
+  ],
+  "stem": "A 30-year-old woman PG, is in active labor at 39 weeks. On vaginal exam, she is fully dilated for more than 2 hours, but the head is not descending despite strong contractions. What is the most appropriate diagnosis",
+  "options": {
+   "A": "Prolonged latent phase",
+   "B": "Obstructed labor",
+   "C": "Second stage arrest",
+   "D": "Uterine rupture",
+   "E": "Cord prolapse"
+  },
+  "answer": "C",
+  "explanation": "Full dilatation for more than 2 hours with no descent despite strong contractions is arrest of the second stage. Obstructed labour needs clinical evidence such as moulding, caput and a retraction ring.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01920"
+  ],
+  "stem": "A 24-year primigravida has been in labour for 16 hours. She has strong contractions, but the cervix remains 7 cm dilated for the last 4 hours with no further progress. On examination, the fetal head is high, and caput formation is present. What is the most likely diagnosis?",
+  "options": {
+   "A": "Cephalopelvic disproportion",
+   "B": "Obstructed labour",
+   "C": "Precipitate labour",
+   "D": "Prolonged latent phase",
+   "E": "Secondary arrest of dilatation"
+  },
+  "answer": "A",
+  "explanation": "Strong contractions with no progress at 7 cm for 4 hours, a high head and caput indicate arrest due to cephalopelvic disproportion.",
+  "key_note": "One paper key marked E (Secondary arrest of dilatation); that describes the partograph finding, whereas the high head with caput points to CPD as the cause.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02435"
+  ],
+  "stem": "A 30-year-old primigravida in labour for 18 hours has cervix dilated 6 cm with no progress for 4 hours. Uterine contractions are strong. What is the likely diagnosis?",
+  "options": {
+   "A": "Cervical dystocia",
+   "B": "Normal labour",
+   "C": "Obstructed labour",
+   "D": "Prolonged latent phase",
+   "E": "Uterine inertia"
+  },
+  "answer": "C",
+  "explanation": "Prolonged labour with strong contractions and no progress for 4 hours at 6 cm suggests obstruction (CPD). Prolonged latent phase is wrong since 6 cm is already active phase.",
+  "key_note": "One paper key marked D (Prolonged latent phase); that is wrong because 6 cm is active phase.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03120"
+  ],
+  "stem": "A 32-year-old woman, G2P1, is in labor at 39 weeks gestation. She was admitted to the labor ward 8 hours ago and has been in active labor for 6 hours with the cervix dilated to 6 cm with absent membranes. Her contractions are occurring every 3 minutes and are 45 seconds in duration. Despite the contractions, her cervical dilation has remained at 6 cm for last 2 hours. CTG is reactive, and the fetal head is engaged in the pelvis. The maternal vital signs are stable What is the most appropriate next step in management for this patient?",
+  "options": {
+   "A": "Administer an oxytocin infusion to augment labour",
+   "B": "Perform a cesarean section immediately due to failed labor progress",
+   "C": "Increase the frequency of vaginal examinations to monitor progress",
+   "D": "Apply an epidural anesthesia to reduce maternal stress and potentially facilitate labor",
+   "E": "Give antibiotics and reassess after 2 hours"
+  },
+  "answer": "A",
+  "explanation": "Active labour with no change for 2 hours, absent membranes and a reactive CTG is delay in the first stage; after excluding obstruction, augment with oxytocin.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03029"
+  ],
+  "stem": "A 34 years old G4P3 is in labour for last 6 hours. SFH=38 cm, EFBW=3.5kg. Two hours back she was 6 cm dilated with head at occipito transverse position & at 0 station. She had spontaneous rupture of membranes the night before. She is 7 cm dilated now, head is at 0 station in occipitoant position. She is having 3 moderate contractions /10 min FHR =130/min with variability of 10 bpm, there are no accelrations or dececlerations on CTG trace. What will be most appropriate line of management for her?",
+  "options": {
+   "A": "Category I LSCS",
+   "B": "Category II LSCS",
+   "C": "Give Intravenous Nalbain",
+   "D": "Oxytocin infusion",
+   "E": "Reassess after 2 hours"
+  },
+  "answer": "E",
+  "explanation": "Progress from 6 to 7 cm in 2 hours with a normal CTG and moderate contractions is acceptable (delay is less than 2 cm in 4 hours); continue and reassess in 2 hours.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03027"
+  ],
+  "stem": "A G2P1 at 39 weeks gestation is in spontaneous labor. Her partogram shows adequate uterine contractions and normal fetal heart rate. There is slow progress of labor with cervical dilatation remaining at 7cm for the last 2 hours. Re-assessment on vaginal examination confirms occipito-posterior position. Which of the following is the most appropriate management?",
+  "options": {
+   "A": "Hand knee position",
+   "B": "Emergency caesarean section",
+   "C": "Early rupture of membranes",
+   "D": "Start oxytocin infusion",
+   "E": "Wait and watch for progress of labor"
+  },
+  "answer": "E",
+  "explanation": "Occipitoposterior position with adequate contractions and only 2 hours without change: allow time, since many rotate spontaneously. Oxytocin is for inadequate contractions.",
+  "key_note": "Paper keys differed (wait and watch vs oxytocin); with adequate contractions oxytocin is not required.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03072"
+  ],
+  "stem": "A primigravida at 40 weeks has been 6 cm dilated for 3 hours with no change. Intrauterine pressure catheter shows 3 contractions/10 min, each 40 mmHg (120 Montevideo units). FHR is normal. Best next step?",
+  "options": {
+   "A": "Caesarean section for CPD",
+   "B": "oxytocin augmentation",
+   "C": "Therapeutic rest and discharge",
+   "D": "Immediate forceps delivery",
+   "E": "ARM and await progress without oxytocin"
+  },
+  "answer": "B",
+  "explanation": "Fewer than 200 Montevideo units (here 120) means inadequate contractions; after excluding CPD, augment with oxytocin.",
+  "key_note": "Paper key marked E (ARM and await progress without oxytocin); with 120 Montevideo units contractions are inadequate so oxytocin is the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03028"
+  ],
+  "stem": "A 26 years old Primigravida at 40 weeks gestation presents with labour pains. On Abdominal Examination: 1 mild palpable contraction of 15 sec. She is 1 cm dilated with 50% effaced cervix. Vertex is at -2 station. CTG is reactive. Two hours later, the pelvic findings are same. She is having two contraction each per 10 minutes 15 sec. What will be most appropriate line of management for her?",
+  "options": {
+   "A": "Amniotomy & Oxytocin Infusion",
+   "B": "Analgesia, Hydration & reassurance",
+   "C": "Induction of labour with Prostaglandin",
+   "D": "Induction of labour with cervical Folleys",
+   "E": "Caesarean section"
+  },
+  "answer": "B",
+  "explanation": "Cervix 1 cm with infrequent mild contractions is the latent phase, not established labour. Analgesia, hydration and reassurance are appropriate; augmentation is for established labour with delay.",
+  "key_note": "Paper keys differed; amniotomy with oxytocin is not indicated in the latent phase.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02507"
+  ],
+  "stem": "A woman requires induction of labour and has an unfavourable cervix. Which scoring system is commonly used to assess cervical favourability?",
+  "options": {
+   "A": "Apgar score",
+   "B": "Bishop score",
+   "C": "Friedman curve",
+   "D": "Ballard score",
+   "E": "Robson score"
+  },
+  "answer": "B",
+  "explanation": "The Bishop score (dilatation, effacement, consistency, position, station) assesses cervical favourability for induction.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01856"
+  ],
+  "stem": "A 21-year-old primigravida at 39 weeks' gestation presents to labor and delivery with complaints of uterine contractions since 5 AM that day. She is seen for a routine clinic visit at 3 PM and her cervix is found to be 2 cm dilated, 50% effaced, mid position, and moderate in consistency, with the fetal vertex at 0 station. Reexamination on labor and delivery at 7 PM shows no significant cervical change. Fetal heart tones are reassuring. She begs you to admit and augment her because she is tired of being pregnant. You explain that she and the fetus are doing well and that her Bishop's score predicts the likelihood of a successful labor augmentation. What is her Bishop score?",
+  "options": {
+   "A": "8, cervix unripe",
+   "B": "4, cervix unripe",
+   "C": "2, cervix ripening",
+   "D": "6, cervix ripening",
+   "E": "9, cervix ripe"
+  },
+  "answer": "D",
+  "explanation": "2 cm = 1, 50% effacement = 1, station 0 = 2, moderate consistency = 1, mid position = 1: total 6.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02675"
+  ],
+  "stem": "The most common reason for induction of labour is",
+  "options": {
+   "A": "Post -Term Pregnancy",
+   "B": "PPROM",
+   "C": "Hypertension",
+   "D": "Twin pregnancy",
+   "E": "Maternal request"
+  },
+  "answer": "A",
+  "explanation": "Post-term pregnancy is the commonest indication for induction of labour.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01984"
+  ],
+  "stem": "A 31-year-old primigravida with a low-risk pregnancy presents at 38 weeks and 6 days to discuss her birth plan. Ultrasound shows cephalic presentation, AFI 10 cm, an appropriately grown fetus and a posterior placenta. The unit protocol is to induce at 41 weeks. If she does not go into spontaneous labour, at what gestation will you plan induction?",
+  "options": {
+   "A": "39 weeks of gestation",
+   "B": "40 weeks of gestation",
+   "C": "41 weeks of gestation",
+   "D": "42 weeks of gestation",
+   "E": "43 weeks of gestation"
+  },
+  "answer": "C",
+  "explanation": "Per unit protocol and NICE, low-risk women are offered induction between 41+0 and 42+0 weeks, so plan induction at 41 weeks.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01857"
+  ],
+  "stem": "A relative contraindication for induction of labor includes which of the following?",
+  "options": {
+   "A": "prolonged pregnancy",
+   "B": "severe pre-eclampsia",
+   "C": "intrauterine growth restriction",
+   "D": "previous myomectomy entering the uterine cavity at the fundus",
+   "E": "prolonged rupture of membranes without labor"
+  },
+  "answer": "D",
+  "explanation": "A previous myomectomy that entered the uterine cavity carries a risk of scar rupture, so induction is avoided and caesarean is advised. Prolonged pregnancy, IUGR, severe pre-eclampsia and prolonged ROM are indications.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01981"
+  ],
+  "stem": "A 25 years old PG undergoes IOL at 41 weeks gestation. After discussion with the patient you choose misoprostol for labour induction. What type of prostaglandin analogue is it?",
+  "options": {
+   "A": "PGE1",
+   "B": "PGE2",
+   "C": "PGF2a",
+   "D": "PG I2",
+   "E": "PG D2"
+  },
+  "answer": "A",
+  "explanation": "Misoprostol is a synthetic prostaglandin E1 analogue; dinoprostone is PGE2.",
+  "key_note": "One source key marked B (PGE2); correct is A: misoprostol is a PGE1 analogue.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02657"
+  ],
+  "stem": "A primigravida at 41 weeks, postdates, has satisfactory fetal movements and BPP 8/10. Her cervix is closed, medium consistency, 2 cm long, central, with the vertex at -3. You decide to induce labour with vaginal PGE2. How will you give it?",
+  "options": {
+   "A": "2 doses 4 hours apart",
+   "B": "2 doses 6 hours apart",
+   "C": "2 doses 8 hours apart",
+   "D": "2 doses 10 hours apart",
+   "E": "2 doses 12 hours apart"
+  },
+  "answer": "B",
+  "explanation": "Vaginal PGE2 gel or tablet can be repeated after 6 hours (maximum two doses); the pessary is left for 24 hours.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02599"
+  ],
+  "stem": "A 36-year-old G4P3 woman presents at 38 weeks of gestation for induction of labor due to poorly controlled gestational diabetes. Her bishop score is 3. Which of the following is the most appropriate method for the induction of labour?",
+  "options": {
+   "A": "Oxytocin infusion",
+   "B": "Amniotomy",
+   "C": "prostaglandins",
+   "D": "Misoprostol orally",
+   "E": "intracervical Foleys catheter"
+  },
+  "answer": "C",
+  "explanation": "Bishop 3 in a multiparous woman needs cervical ripening with prostaglandin (vaginal PGE2). Oxytocin or ARM alone would fail with an unripe cervix.",
+  "key_note": "Options C and D are both prostaglandins; paper key (vaginal prostaglandin) kept, though oral misoprostol is also acceptable.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02659"
+  ],
+  "stem": "A G5P4 at 40 weeks present in outpatient department with complain of labor pains. CTG reactive, on ultrasound AFI is 16cm, on vaginal examination cervix is 5cm dilated, soft in consistency, central,2cm long with vertex high. Plan is controlled ARM. Anticipated complication on performing ARM will be",
+  "options": {
+   "A": "Uterine hyper stimulation",
+   "B": "Limb prolapse",
+   "C": "Cord prolapse",
+   "D": "Cervical inertia",
+   "E": "Amniotic fluid embolism"
+  },
+  "answer": "C",
+  "explanation": "ARM with a high presenting part and polyhydramnios (AFI 16 cm) risks cord prolapse; do it in a controlled manner.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02761"
+  ],
+  "stem": "A PG presents in labour at 41 weeks with ruptured membranes for last 12 hours. On examination grade 4 meconium is noted. Cervix is 3 cm dilated and presenting part is 2 cm above ischial spine. What is the best management in this case",
+  "options": {
+   "A": "Augment labour with oxytocin",
+   "B": "Give epidural and watch for progress",
+   "C": "Start oxytocin and maintain partogram",
+   "D": "Give epidural and proceed emergency caesarean",
+   "E": "Proceed emergency caesarean section"
+  },
+  "answer": "E",
+  "explanation": "Thick (grade 4) meconium with ruptured membranes, a high head and only 3 cm dilatation means vaginal delivery is not imminent, so emergency caesarean protects the fetus.",
+  "key_note": "Stem lacks CTG detail; paper key kept.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01842"
+  ],
+  "stem": "The anatomy of the spinal cord and dural space is important when giving regional spinal anesthesia. At what approximate spinal level do the dural space and the spinal cord, respectively, end?",
+  "options": {
+   "A": "T10, T8",
+   "B": "L2, T10",
+   "C": "L5, T12",
+   "D": "S2, L2",
+   "E": "S5, S2"
+  },
+  "answer": "D",
+  "explanation": "In adults the spinal cord ends at about L1-L2 and the dural sac at S2, which is why lumbar puncture and spinal anaesthesia are safe at L3-L4.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02579",
+   "C01995",
+   "C03024"
+  ],
+  "stem": "Regarding non pharmacological methods as analgesia in labour, which of the following statement is correct:",
+  "options": {
+   "A": "TENS is effective in reducing pain scores in established labour.",
+   "B": "Homeopathy can reduce the need of conventional methods of analgesia.",
+   "C": "Acupuncture is associated with significant reduction in pain scores.",
+   "D": "One to one care has been shown to reduce the need for analgesia.",
+   "E": "Relaxation and breathing exercise can lead to dizziness and acidosis."
+  },
+  "answer": "D",
+  "explanation": "Continuous one-to-one support reduces the need for analgesia; TENS is not effective in established labour, and acupuncture and homeopathy are not proven.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02376"
+  ],
+  "stem": "A 26yrs old primi is in labor, on examination she is 2 cm dilated, station of head at -2 membranes intact Her CTG is reactive showing one contraction of 20 sec every 20 min. She is afraid of labour pains. At this dilatation she's a candidate for",
+  "options": {
+   "A": "Epidural",
+   "B": "Spinal",
+   "C": "Entonox",
+   "D": "Intravenous tramadol",
+   "E": "Reassurance"
+  },
+  "answer": "A",
+  "explanation": "Epidural analgesia can be offered on maternal request at any stage of labour and is not withheld because of early dilatation.",
+  "key_note": "Paper key kept; reassurance is also acceptable at this early stage.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02377"
+  ],
+  "stem": "A 34yrs old G3P2 is in labor on examination she's 8cm dilated head at -1 membranes ruptured clear liquor. Her CTG is reactive showing one contraction of 40 sec every 2 min. At this dilatation she's a candidate for",
+  "options": {
+   "A": "Epidural",
+   "B": "Spinal",
+   "C": "Entonox",
+   "D": "Intravenous tramadol",
+   "E": "Reassurance"
+  },
+  "answer": "E",
+  "explanation": "At 8 cm with strong contractions every 2 minutes she is near full dilatation and progressing fast, so reassurance with support (or Entonox) is reasonable.",
+  "key_note": "Paper key kept; epidural is not formally contraindicated and Entonox is also reasonable.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02619"
+  ],
+  "stem": "A 29-year-old primigravida is in active labor. She requests pain relief and is hesitant about the side effects of regional anesthesia. Which of the following is the most appropriate initial pain management option",
+  "options": {
+   "A": "Epidural anesthesia",
+   "B": "General anesthesia",
+   "C": "Entonox inhalation",
+   "D": "Spinal anesthesia",
+   "E": "Paracervical block"
+  },
+  "answer": "C",
+  "explanation": "Entonox (50% nitrous oxide in oxygen) is a safe, short-acting first-line option for a woman who is hesitant about regional anaesthesia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01899"
+  ],
+  "stem": "A primigravida at 38 weeks presented in labour room in latent phase of labour she wants painless delivery which one of the following is the absolute contraindication of epidural analgesia.",
+  "options": {
+   "A": "Diabetes mellitus",
+   "B": "Anaemia",
+   "C": "First pregnancy",
+   "D": "Bleeding disorder",
+   "E": "Gynaecoid pelvis"
+  },
+  "answer": "D",
+  "explanation": "Coagulopathy risks epidural haematoma and is an absolute contraindication; diabetes, anaemia and nulliparity are not contraindications.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02580"
+  ],
+  "stem": "Regarding contraindications of epidural analgesia which of the following statement is correct:",
+  "options": {
+   "A": "Contraindicated in high risk operative interventions.",
+   "B": "Contraindicated in multiple pregnancy",
+   "C": "Contraindicated in maternal cardiac disease",
+   "D": "Contraindicated in maternal hypertensive disorders.",
+   "E": "Contraindicated in local or systemic sepsis"
+  },
+  "answer": "E",
+  "explanation": "Systemic or local infection at the injection site, coagulopathy, hypovolaemia and patient refusal are contraindications to epidural. Multiple pregnancy, hypertension and cardiac disease are not absolute contraindications.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02481"
+  ],
+  "stem": "A 30-year-old primigravida receives epidural anaesthesia. Ten minutes later, she develops hypotension. What is the next best step?",
+  "options": {
+   "A": "Administer IV fluids and vasopressors",
+   "B": "Increase epidural dose",
+   "C": "Observe only",
+   "D": "Start oxytocin",
+   "E": "Turn to supine position"
+  },
+  "answer": "A",
+  "explanation": "Hypotension after epidural is due to sympathetic blockade and vasodilatation. Treat with IV fluids, vasopressors, left lateral tilt and oxygen.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02524"
+  ],
+  "stem": "A woman receiving epidural analgesia develops hypotension shortly afterward. What is a recognized mechanism?",
+  "options": {
+   "A": "Acute iron deficiency",
+   "B": "Decreased cardiac output",
+   "C": "Fetal hyperglycemia",
+   "D": "Increased red cell mass",
+   "E": "Sympathetic blockade causing vasodilation"
+  },
+  "answer": "E",
+  "explanation": "Epidural causes sympathetic blockade, vasodilatation and a fall in preload, with hypotension.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02674"
+  ],
+  "stem": "Regarding Epidural analgesia which of the following is true",
+  "options": {
+   "A": "Increase Caesarean Section rate",
+   "B": "Shortens the second stage of labour",
+   "C": "Reduce instrumental delivery rate",
+   "D": "Ideal in early labour",
+   "E": "Continuous CTG"
+  },
+  "answer": "E",
+  "explanation": "After epidural, continuous CTG is recommended because of the risk of hypotension and fetal bradycardia. Epidural may lengthen the second stage and raise the instrumental delivery rate, and it should not be given too early.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01921",
+   "C02527"
+  ],
+  "stem": "A 27-year primigravida is in the second stage of labour. Vaginal examination shows the fetal head is well flexed, occiput directed towards the maternal sacrum. Labour is prolonged and the patient complains of severe backache. What is the most likely diagnosis?",
+  "options": {
+   "A": "Brow presentation",
+   "B": "Face presentation",
+   "C": "Occipito-posterior position",
+   "D": "Occipito-transverse position",
+   "E": "Shoulder presentation"
+  },
+  "answer": "C",
+  "explanation": "A well-flexed head with the occiput toward the sacrum, prolonged labour and severe backache is the classic occipitoposterior position.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02682"
+  ],
+  "stem": "A primigravida is in first stage of labour for 6 hours. During pelvic examination anterior fontanelle is felt under the symphysis pubis. Which of the following is true",
+  "options": {
+   "A": "Occipitoposterior position",
+   "B": "Occipitoanterior",
+   "C": "Occipitotransverse",
+   "D": "Brow",
+   "E": "Face presentation"
+  },
+  "answer": "A",
+  "explanation": "The anterior fontanelle felt behind the symphysis pubis means the occiput is posterior (OP).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02440",
+   "C03080"
+  ],
+  "stem": "A 29-year-old G2P1 is in active labour is found to have persistent occipitoposterior position. She has been fully dilated for 2 hrs with head at +2 station. What is the recommended management?",
+  "options": {
+   "A": "Cesarean section",
+   "B": "Forceps rotation",
+   "C": "Manual rotation",
+   "D": "Vacuum extraction",
+   "E": "Wait and watch"
+  },
+  "answer": "C",
+  "explanation": "In persistent OP, manual rotation to OA (or instrumental rotation) is the recommended management before considering caesarean.",
+  "key_note": "Some paper keys marked A (Cesarean section); rotation or assisted delivery is attempted first.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02623"
+  ],
+  "stem": "A 27-year-old G2P1 woman is being assessed in labor. The fetus is in occipito-posterior position, station -2, and the cervix is 8 cm dilated. What is the most likely outcome",
+  "options": {
+   "A": "Spontaneous vaginal delivery",
+   "B": "Cesarean section in the second stage",
+   "C": "Vacuum delivery",
+   "D": "Shoulder dystocia",
+   "E": "Obstructed labor"
+  },
+  "answer": "E",
+  "explanation": "OP position with the head still at -2 despite 8 cm dilatation suggests obstruction, with arrest likely.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02528"
+  ],
+  "stem": "A woman has persistent deep transverse arrest with failure of descent despite adequate contractions. What is the underlying problem?",
+  "options": {
+   "A": "Abnormal fetal head position",
+   "B": "Cord prolapse",
+   "C": "Placenta previa",
+   "D": "Rh isoimmunization",
+   "E": "Uterine inversion"
+  },
+  "answer": "A",
+  "explanation": "Deep transverse arrest results from a persistent occipitotransverse position with failure to rotate and descend.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03176"
+  ],
+  "stem": "You are called to attend G4P3 in labour ward. Her partogram shows normal progress of labour during first stage of labour. Her second stage is prolonged. She is fully dilated for last 2 hours. CTG is reactive. On abdominal examination she is having 4 uterine contractions of moderate to severe intensity in 10 min. On vaginal examination membranes are absent and vertex is 1 cm below ischial spines and occiput is directed posteriorly. Your management in this case will be",
+  "options": {
+   "A": "Proceed EM LSCS",
+   "B": "Give epidural analgesia and wait for another 1 hour",
+   "C": "Start I/V oxytocin and wait for another 1 hour",
+   "D": "Proceed for instrumental delivery",
+   "E": "Give inhalational analgesia and reassure the patient"
+  },
+  "answer": "D",
+  "explanation": "Prolonged second stage with OP, head below the spines and adequate contractions: assisted vaginal delivery is appropriate.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02816"
+  ],
+  "stem": "A 26-year-old primigravida at 39 weeks is in the second stage of labor. She has been pushing for 2 hours with good effort. Fetal head is at +2 station, occipito-anterior position, membranes ruptured, and the cervix is fully dilated. The cardiotocograph shows variable decelerations. Which is the most appropriate next step in management?",
+  "options": {
+   "A": "Continue maternal pushing for another 30 minutes",
+   "B": "Perform vacuum-assisted vaginal delivery",
+   "C": "Give epidural and continue pushing",
+   "D": "Proceed to emergency caesarean section",
+   "E": "Administer oxytocin infusion to augment contractions"
+  },
+  "answer": "B",
+  "explanation": "Prolonged second stage at +2 with variable decelerations and an OA head: assisted delivery with vacuum to shorten the second stage.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02382"
+  ],
+  "stem": "A Primigravida is in second stage of labour for past 2 hours. She is fully dilated and the vertex is at +1 station, with no caput and no moulding. She is having adequate uterine contraction. Now CTG shows fetal heart decelerations (Late deceleration). Select the most appropriate treatment for above clinical situation.",
+  "options": {
+   "A": "Epidural block",
+   "B": "vacuum delivery",
+   "C": "Oxytocin intravenously",
+   "D": "Midforceps delivery",
+   "E": "Cesarean section"
+  },
+  "answer": "B",
+  "explanation": "Primigravida in the second stage for 2 hours with late decelerations and a +1 head: expedite delivery by vacuum.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02441",
+   "C03081"
+  ],
+  "stem": "A 33-year-old primigravida at 39 weeks is in labour. She is fully dilated for for 2 hrs but the head remains at -2 station inspite of good contractions. What is the best management?",
+  "options": {
+   "A": "Cesarean section",
+   "B": "Forceps delivery",
+   "C": "Trial of labour",
+   "D": "Vacuum extraction",
+   "E": "Augmentation with oxytocin"
+  },
+  "answer": "A",
+  "explanation": "Failure of descent despite good contractions with a high head means CPD: caesarean section. Instrumental delivery or oxytocin is dangerous.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02566"
+  ],
+  "stem": "A Primigravida has adequate uterine contractions, full cervical dilation and no descent of fetal head. Severe moulding develops. Which is most likely underlying cause?",
+  "options": {
+   "A": "Continue pushing indefinitely",
+   "B": "Delay delivery for 24 hours",
+   "C": "Precipitate labor",
+   "D": "Cephalopelvic disproportion",
+   "E": "Perform fundal pressure"
+  },
+  "answer": "D",
+  "explanation": "Good contractions, full dilatation, no descent and severe moulding indicate cephalopelvic disproportion.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02565"
+  ],
+  "stem": "A woman has prolonged labour with severe caput and moulding, failure of descent and increasing maternal exhaustion. What diagnosis should be considered?",
+  "options": {
+   "A": "Prolonged labour",
+   "B": "Normal labour",
+   "C": "Obstructed labour",
+   "D": "Fetal distress",
+   "E": "Cephalopelvic disproportion"
+  },
+  "answer": "C",
+  "explanation": "Prolonged labour with caput, moulding, failure of descent and maternal exhaustion means obstructed labour.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02593"
+  ],
+  "stem": "The pathological retraction ring of Bandle is associated with:",
+  "options": {
+   "A": "Preterm labour",
+   "B": "Precipitate labour",
+   "C": "Induced labour",
+   "D": "Obstructed labour",
+   "E": "Augmented labour"
+  },
+  "answer": "D",
+  "explanation": "Bandl ring is a pathological retraction ring at the junction of the upper and lower segments in obstructed labour and signals impending uterine rupture.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02592",
+   "C02834"
+  ],
+  "stem": "A 30year G5P4 lady comes in emergency room with obstructed labour. She is severely dehydrated, with intra uterine fetal demise and cephalic presentation, cx dilated to 8 cm and head is at -2 station. What will be the most appropriate management option?",
+  "options": {
+   "A": "Augment with syntocinon and watch for descent of head.",
+   "B": "Do lower segment caesarean section under senior supervision",
+   "C": "Apply mid cavity forceps",
+   "D": "Try ventouse delivery",
+   "E": "Do episiotomy and coduct vaginal delivery"
+  },
+  "answer": "B",
+  "explanation": "Obstructed labour with IUFD in a dehydrated grand multipara: resuscitate then deliver by caesarean (craniotomy only where skilled); oxytocin or instruments risk rupture.",
+  "key_note": "No craniotomy option; paper key kept.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03063"
+  ],
+  "stem": "As regards Obstructed labor which of the following statements is true?",
+  "options": {
+   "A": "C T pelvimetry predicts cephalo-pelvic disproportion in a primigravida.",
+   "B": "Diagnosed only after the cervix is fully dilated in labor.",
+   "C": "More common in developed countries.",
+   "D": "Mento-posterior position could be a cause.",
+   "E": "Predictable usually before the onset of labor"
+  },
+  "answer": "D",
+  "explanation": "Mentoposterior face presentation cannot deliver vaginally and causes obstructed labour. Obstruction is more common in developing countries, can be recognised in the first stage, and pelvimetry does not predict CPD.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02635"
+  ],
+  "stem": "A 29 years old primigravida non booked, presented in ER with a referral letter from a private hospital. She is at 37+8 weeks gestation and h/o prolonged labour and oxytocin infusions. Her letter shows patient is fully dilated and station - 1 since last 3 hours of pushing and caput+++. On exam: vitals normal, SFH =40cm, long/cephalic, palpable 4/10 each 40 seconds, estimated fetal weight 4.5 kg. fetal heart 100 bpm, on p/v: OS fully dilated, station - 1, caput+++. What is the most likely diagnosis in this case",
+  "options": {
+   "A": "Primary Arrest",
+   "B": "Poor Progress",
+   "C": "Failure of Induction",
+   "D": "Obstructed Labour",
+   "E": "Active 2nd stage"
+  },
+  "answer": "D",
+  "explanation": "Fully dilated, head at -1 after 3 hours of pushing with caput +++, a large baby (4.5 kg) and fetal bradycardia: obstructed labour.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02436",
+   "C03079"
+  ],
+  "stem": "A 28y/o woman in labour has contractions every 1 minute lasting 90 seconds. Fetal distress is noted. What is the most likely cause?",
+  "options": {
+   "A": "Cord Prolapse (presents with sudden, severe fetal distress- not associated with contractions)",
+   "B": "Hyperstimulation from oxytocin",
+   "C": "Obstructed Labour (not associated with pattern of contractions)",
+   "D": "Placental Abruption (associated with painful bleeding etc.)",
+   "E": "Uterine Rupture (presents with pain and cessation of contractions)"
+  },
+  "answer": "B",
+  "explanation": "Excessive oxytocin causes tachysystole or hypertonus with fetal heart rate abnormalities. Treat by stopping the infusion, left lateral position and a tocolytic if needed.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02438"
+  ],
+  "stem": "A 35-year-old multiparous woman with polyhydramnios presents in labour with fetal hand felt alongside the head. What is the likely presentation?",
+  "options": {
+   "A": "Breech presentation",
+   "B": "Compound presentation",
+   "C": "Face presentation",
+   "D": "Shoulder presentation",
+   "E": "Brow presentation"
+  },
+  "answer": "B",
+  "explanation": "A fetal hand or limb alongside the presenting part, with polyhydramnios and multiparity, is a compound presentation.",
+  "key_note": "Some paper keys marked A (Breech presentation); correct is B: compound presentation.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01922"
+  ],
+  "stem": "A 30-year multipara at 38 weeks presents in labour. On abdominal examination, the fetal head is felt in the fundus, the breech is in the pelvis, and the fetal heart is heard higher up in the maternal abdomen. Vaginal examination reveals the buttocks as the presenting part. What is the most likely presentation?",
+  "options": {
+   "A": "Breech presentation",
+   "B": "Compound presentation",
+   "C": "Face presentation",
+   "D": "Shoulder presentation",
+   "E": "Vertex presentation"
+  },
+  "answer": "A",
+  "explanation": "Head in the fundus, buttocks in the pelvis, heart heard high and buttocks felt vaginally: breech presentation.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03025",
+   "C03091"
+  ],
+  "stem": "A 27 year old G2P1 is at 36 weeks of gestation. Her USG reveals breech presentation, liquor adequate & baby is structurally normal. You are discussing with her, management options. Which of the following is an absolute contraindication of assisted vaginal breech delivery?",
+  "options": {
+   "A": "Anteriorly placed placenta",
+   "B": "Footling breech",
+   "C": "Fetal weight 3 kg",
+   "D": "Nuchal Arm",
+   "E": "Non proteinuric hypertension"
+  },
+  "answer": "B",
+  "explanation": "Footling breech is a contraindication to vaginal breech delivery (cord prolapse risk), along with hyperextended neck, estimated weight more than 3.8 kg and low placenta. Anterior placenta and 3 kg weight are not contraindications.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02828"
+  ],
+  "stem": "A 26-year-old primigravida at 39 weeks presents in spontaneous labour. The fetal heart is heard above the umbilicus. Vaginal examination shows the cervix 6 cm dilated, membranes ruptured and a soft irregular mass; on re-examination the buttocks with sacrum anterior and both legs extended toward the head are identified. The fetal head is flexed on ultrasound, contractions are good, the fetal heart is reassuring and fetal weight is 3 kg. What is the most appropriate next step?",
+  "options": {
+   "A": "Watch for progress with careful surveillance",
+   "B": "Immediate cesarean section",
+   "C": "Start oxytocin augmentation",
+   "D": "Perform external cephalic version",
+   "E": "Apply forceps to deliver the after-coming head"
+  },
+  "answer": "A",
+  "explanation": "Frank breech with good contractions, a flexed head, normal fetal heart and 3 kg estimated weight: vaginal breech delivery can proceed with careful watch.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02829"
+  ],
+  "stem": "A 28-year-old multiparous woman at 40 weeks gestation presents in second stage of labour. The fetus is in frank breech presentation. The buttocks are visible at the introitus, and she is having good uterine contractions. The fetal heart rate is 140 bpm and regular. The breech delivers spontaneously up to the umbilicus, but then progress arrests. On inspection, the arms are extended above the head and there is no descent of the shoulders with the next contraction. What is the most appropriate next step for delivery of baby?",
+  "options": {
+   "A": "Perform Burns-Marshall manoeuvre",
+   "B": "Apply Piper's forceps to deliver head",
+   "C": "Perform Lovset manoeuvre to deliver extended arms",
+   "D": "Give tocolytics and attempt internal podalic version",
+   "E": "Perform Mauriceau-Smellie-Veit manoeuvre"
+  },
+  "answer": "C",
+  "explanation": "Arrested breech delivery with extended arms above the head is managed by Lovset manoeuvre (rotating the body through 180 degrees) to bring down the arms; Pinard is for extended legs and Burns-Marshall, Piper's forceps and Mauriceau-Smellie-Veit are for the head.",
+  "key_note": "Source option C read 'Pinard manoeuvre'; the intended answer is the manoeuvre for extended arms (Lovset), so the option was corrected.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02729"
+  ],
+  "stem": "A non-booked primigravida admitted in labour. On examination there is malpresentation of fetus. She insists for vaginal delivery. You will counsel her that mode of delivery will be decided after initial evaluation because safe vaginal delivery can be anticipated in:",
+  "options": {
+   "A": "Face presentation",
+   "B": "Shoulder presentation",
+   "C": "Cord presentation",
+   "D": "Footling breech presentation",
+   "E": "Brow presentation"
+  },
+  "answer": "A",
+  "explanation": "Of the malpresentations given, mentoanterior face presentation can deliver vaginally; shoulder, brow, cord presentation and footling breech cannot.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03175",
+   "C02833"
+  ],
+  "stem": "You attend a patient in labour ward. Duty nurse informs you that patient is in active phase of labour. On vaginal examination cervical os is 5cm, membranes are absent, presenting part is face with chin directed anteriorly. CTG is reactive. Your plan for this patient will be",
+  "options": {
+   "A": "Proceed EMLSCS",
+   "B": "Augment with oxytocin",
+   "C": "Prepare for instrumental delivery",
+   "D": "Watch for progress of labour",
+   "E": "Give epidural and watch for progress"
+  },
+  "answer": "D",
+  "explanation": "Face with the chin anterior and a reactive CTG: allow labour to progress with careful monitoring; caesarean only if mentoposterior or no progress.",
+  "key_note": "Paper key marked E (Give epidural and watch for progress); the essential step is watching progress.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01997"
+  ],
+  "stem": "A 32 year old G3P2 is in labour at 37 weeks. She is 7 cm dilated for last 3 hours. Bregma is felt anteriorly. What is measurement of presenting part?",
+  "options": {
+   "A": "9.5 cm",
+   "B": "10.5 cm",
+   "C": "11cm",
+   "D": "12cm",
+   "E": "13cm"
+  },
+  "answer": "E",
+  "explanation": "The mentovertical diameter of a brow presentation is about 13 cm, the largest presenting diameter, and it obstructs vaginal delivery.",
+  "key_note": "Stem is unclear (bregma felt anteriorly); the paper key for brow (13 cm) is kept.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03118"
+  ],
+  "stem": "A G6P5 presents in labour ward at 39 weeks of gestation. On abdominal examination lie of baby is transverse with head in left lumber region. On ultrasound fetal biometry is according to gestation but AFI is 28 cm. On vaginal examination cervical os is 8 cm with intact membranes and presenting part is not felt vaginally. Your plan of management in this case will be",
+  "options": {
+   "A": "Perform controlled ARM and watch for progress",
+   "B": "Perform ARM and start oxytocin infusion",
+   "C": "Start oxytocin infusion and maintain partogram",
+   "D": "Proceed emergency caesarean section",
+   "E": "Hydrate the patient and watch for progress"
+  },
+  "answer": "D",
+  "explanation": "Transverse lie with polyhydramnios in labour: ARM risks cord and arm prolapse, so caesarean section is needed.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03016"
+  ],
+  "stem": "You are delivering a G3 P2 with dichorionic diamniotic twins. First twin delivers. Second is transverse. Fetal heart is 140/min with type 1 deceleration. Membranes rupture and liquor has a tinge of meconium. What should be your line of management?",
+  "options": {
+   "A": "External Cephalic Version",
+   "B": "Internal podalic version & breech extraction",
+   "C": "Move to OT for Category I Caesarean section",
+   "D": "Reassess after 1 hour,await spontaneous version",
+   "E": "Start oxytocin infusion"
+  },
+  "answer": "B",
+  "explanation": "Second twin transverse with ruptured membranes and meconium: ECV is hard after membrane rupture, so IPV with breech extraction is quick.",
+  "key_note": "Paper keys marked both ECV and IPV; with ruptured membranes IPV is preferred.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03159"
+  ],
+  "stem": "32 year old G3P2 at 36 weeks presented in labour room,she has DCDA twins.Twin 1 has delivered cephalic,twin 2 is high in the pelvis with transverse lie and back upward,membrans are intect.there are decelerations on CTG.what you will do for delivery of 2nd twin?",
+  "options": {
+   "A": "ECV",
+   "B": "Internal podalic version",
+   "C": "Breech delivery",
+   "D": "EmLSCS",
+   "E": "Forceps delivery"
+  },
+  "answer": "B",
+  "explanation": "Second twin transverse with decelerations needs rapid delivery: IPV with breech extraction by a skilled operator.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03066"
+  ],
+  "stem": "A 28 years old women G3 P2+0 at 38+4 weeks gestation with twin pregnancy is admitted to the labour room having mild to moderate regular uterine contraction. On examination Os 5cm dilated Her membrane are intact both twins are cephalic Two hours after her initial vaginal EX. Os is 5.5cm What would be your next plan of management.",
+  "options": {
+   "A": "ARM",
+   "B": "Caesarean section",
+   "C": "I/V antibiotics",
+   "D": "Keep under observation",
+   "E": "Continue Fetal heart monitoring"
+  },
+  "answer": "A",
+  "explanation": "Twin labour with slow progress (0.5 cm in 2 hours), intact membranes and cephalic twins: ARM to augment progress.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02826"
+  ],
+  "stem": "A 32-year-old multiparous woman at 39 weeks gestation is in active labour. Her partogram shows that the cervical dilatation curve has reached the action line. She has been on oxytocin infusion for 4 hours with good contractions (4-5 in 10 minutes, each lasting 45 seconds). Fetal heart rate is 170 bpm, cervix is 6 cm dilated and the liquor is thick meconium stained. What is the most appropriate management at this stage?",
+  "options": {
+   "A": "Continue oxytocin and observe for 1 more hour",
+   "B": "Perform amnioinfusion",
+   "C": "Give tocolytic and reassess fetal condition",
+   "D": "Proceed to immediate cesarean section",
+   "E": "Perform instrumental delivery"
+  },
+  "answer": "D",
+  "explanation": "Fetal tachycardia of 170 bpm with thick meconium and failure to progress despite 4 hours of oxytocin (action line crossed) indicates fetal compromise and failed augmentation: immediate caesarean section.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03108"
+  ],
+  "stem": "A 30-year-old woman, G3P2, is admitted to the labor ward with a diagnosis of obstructed labor. The fetal head is engaged at +1 station, but there has been no progress in the descent for 3 hours despite adequate contractions and caput 3+. The cervix is fully dilated, and the patient is experiencing significant fetal distress with a non-reassuring heart rate pattern. Your management in this case will be",
+  "options": {
+   "A": "Perform a trial of vacuum-assisted delivery",
+   "B": "Administer tocolytics to relax the uterus",
+   "C": "Perform an emergency cesarean section",
+   "D": "Increase the dose of oxytocin to augment labor",
+   "E": "Attempt manual rotation of the fetus"
+  },
+  "answer": "C",
+  "explanation": "Obstructed labour with caput 3+ and a non-reassuring fetal heart rate: emergency caesarean. Vacuum, more oxytocin or tocolysis are unsafe or ineffective.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00444"
+  ],
+  "stem": "A 28-year-old G2P1 attends antenatal clinic at 41 weeks. SFH is 36 cm, longitudinal lie, cephalic, 2/5 palpable, fetal heart present. On vaginal examination she is 4 cm dilated, cervical length is 0.5 cm, the head is at -1 and the cervix is soft and anterior. Which is the most suitable medication for induction or augmentation of labour?",
+  "options": {
+   "A": "Prostaglandin",
+   "B": "Oxytocin",
+   "C": "Misoprostol",
+   "D": "Mifepristone",
+   "E": "Syntometrine"
+  },
+  "answer": "B",
+  "explanation": "With a favourable cervix (4 cm, soft, effaced, low station) oxytocin, after amniotomy, is used. Prostaglandins and misoprostol are for ripening an unfavourable cervix.",
+  "key_note": "Two papers marked A (prostaglandin), one noting 'to initiate contractions'; for a favourable cervix oxytocin is correct.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01021"
+  ],
+  "stem": "A 32-year-old G3P2 in labour at 37 weeks with twins has a cephalic first twin and a footling breech second twin. After the first twin is delivered vaginally, what is the best option for the second twin?",
+  "options": {
+   "A": "Breech extraction",
+   "B": "Rupture of membranes and commence syntocinon",
+   "C": "Caesarean section",
+   "D": "External cephalic version",
+   "E": "Wait for 30 minutes"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "With a stable second twin, ECV (or breech extraction) allows vaginal delivery; waiting for long or caesarean are not routine.",
+  "key_note": "Breech extraction is an equally accepted option; paper key D retained.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01646"
+  ],
+  "stem": "You have just delivered a 2.5 kg infant at 39 weeks from a twin pregnancy. A second sac is bulging through a fully dilated cervix, a small part is presenting, and the fetal heart is 60 beats per minute. What is the most appropriate procedure?",
+  "options": {
+   "A": "External version",
+   "B": "Internal podalic version",
+   "C": "Midforceps rotation",
+   "D": "Low transverse caesarean section",
+   "E": "Classical caesarean section"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "With a fully dilated cervix, intact membranes and fetal bradycardia, internal podalic version with breech extraction is the quickest way to deliver the second twin.",
+  "key_note": "Paper key marked D (caesarean); the classical teaching answer is B for an emergency second twin with bradycardia.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03015"
+  ],
+  "stem": "Interlocking twins is associated with which of the following presentations?",
+  "options": {
+   "A": "Breech-breech",
+   "B": "Breech-cephalic",
+   "C": "Cephalic-cephalic",
+   "D": "Cephalic-breech",
+   "E": "Transverse-cephalic"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Interlocking occurs when the chin of the first (breech) twin locks with the chin of the second (cephalic) twin; it is a rare complication of breech-cephalic presentation.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03119"
+  ],
+  "stem": "A 25-year-old primigravida in labour at 34 weeks has fundal height appropriate for gestation and a reactive CTG. On vaginal examination she is 6 cm dilated and fully effaced, with the fetal nose and mouth palpable and the chin pointing towards the maternal left hip. This is an example of:",
+  "options": {
+   "A": "Deep transverse arrest",
+   "B": "Face presentation",
+   "C": "Occipito-transverse position",
+   "D": "Brow presentation",
+   "E": "Vertex presentation"
+  },
+  "answer": "B",
+  "explanation": "Palpable nose, mouth and chin indicates a face presentation (extended head); chin to the left hip is a mento-lateral position.",
+  "key_note": "",
+  "figure": ""
+ }
+]
