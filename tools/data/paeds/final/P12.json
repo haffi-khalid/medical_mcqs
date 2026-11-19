@@ -1,0 +1,612 @@
+[
+ {
+  "cids": [
+   "C00346",
+   "C00496"
+  ],
+  "stem": "A child comes to OPD with 4 softer stools a day for the last 2 days. How do you define this diarrhoea?",
+  "options": {
+   "A": "Acute diarrhoea",
+   "B": "Chronic diarrhoea",
+   "C": "Persistent diarrhoea",
+   "D": "Dysentery"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Acute diarrhoea is 3 or more loose or watery stools per day lasting less than 14 days. Persistent diarrhoea lasts 14 days or more, and dysentery means visible blood in the stool.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00200",
+   "C00457"
+  ],
+  "stem": "A 10-month-old develops watery diarrhoea (no blood or mucus) and vomiting. What is the most likely causative organism?",
+  "options": {
+   "A": "Rotavirus",
+   "B": "Shigella",
+   "C": "EHEC",
+   "D": "Giardia"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Rotavirus is the commonest cause of acute watery diarrhoea with vomiting in infants. Shigella and EHEC cause bloody stools.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00829"
+  ],
+  "stem": "Rotavirus infection typically affects nearly all children by what age?",
+  "options": {
+   "A": "6 months",
+   "B": "1 year",
+   "C": "2 years",
+   "D": "8 years",
+   "E": "Adolescence"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Rotavirus is the leading cause of severe diarrhoea in young children and almost every child has been infected by about 2 years of age.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00467"
+  ],
+  "stem": "A child who travelled from Thailand presents with greasy, foul-smelling diarrhoea with no blood. What is the most likely organism?",
+  "options": {
+   "A": "Rotavirus",
+   "B": "Shigella",
+   "C": "Giardia",
+   "D": "E. coli",
+   "E": "Entamoeba histolytica"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Giardia lamblia causes greasy, foul stools, bloating and malabsorption, and is common in travellers and with contaminated water.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00107",
+   "C01050"
+  ],
+  "stem": "A 10-month-old infant presents with fever of 103 F, acute diarrhoea with blood and a generalised seizure. What is the most likely pathogen?",
+  "options": {
+   "A": "Giardia lamblia",
+   "B": "Pseudomonas",
+   "C": "Rotavirus",
+   "D": "Salmonella",
+   "E": "Shigella"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Shigella causes bloody diarrhoea with high fever, and febrile or neurotoxin-mediated seizures are a recognised early feature in young children.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00347",
+   "C00497",
+   "C00894"
+  ],
+  "stem": "A 9-month-old boy has had watery stools for one day. He drinks eagerly, is restless with sunken eyes, and the skin pinch goes back slowly. How do you categorise his dehydration?",
+  "options": {
+   "A": "No dehydration",
+   "B": "Some dehydration",
+   "C": "Severe dehydration",
+   "D": "Very severe dehydration"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Restless or irritable, sunken eyes, drinking eagerly and a slow skin pinch (less than 2 seconds) are signs of some dehydration. Severe dehydration needs lethargy or unconsciousness, inability to drink and a very slow pinch (over 2 seconds).",
+  "key_note": "One paper marked C (Severe dehydration); correct is B: with restlessness, thirst and a slow (not very slow) pinch this is some dehydration by WHO/IMCI.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00667"
+  ],
+  "stem": "What is the management of acute watery diarrhoea in a well-hydrated 3-year-old who is feeding well?",
+  "options": {
+   "A": "Advise fluids and feeding and send home (Plan A)",
+   "B": "ORS 75 ml/kg over 4 hours (Plan B)",
+   "C": "IV Ringer lactate (Plan C)",
+   "D": "Start oral antibiotics",
+   "E": "Admit and give zinc only"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "With no signs of dehydration, Plan A applies: extra fluids, ORS after each loose stool, continued feeding, zinc for 10-14 days and advice on danger signs. Antibiotics are not indicated for watery diarrhoea.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00719",
+   "C00201"
+  ],
+  "stem": "A 9-month-old child has 10-12 loose watery stools in 12 hours. The anterior fontanelle is slightly depressed and the skin pinch goes back slowly. According to WHO guidelines, what is the next step?",
+  "options": {
+   "A": "Set up an IV line and start rehydrating",
+   "B": "Prescribe ORS and send the child home",
+   "C": "Rehydrate with ORS under supervision (75 ml/kg over 4 hours)",
+   "D": "Give no treatment and send home",
+   "E": "Start IV antibiotics"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "This is some dehydration, treated with Plan B: ORS 75 ml/kg over 4 hours under supervision, then reassess and classify.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00183",
+   "C00452"
+  ],
+  "stem": "A 1-year-old child is on Plan B ORS for some dehydration. After 2 hours he passes a large watery stool and vomits once, and the skin pinch is slow with sunken eyes. What is the management?",
+  "options": {
+   "A": "Stop Plan B and switch to IV fluids (Plan C)",
+   "B": "Continue Plan B but replace ongoing losses with extra ORS after each stool or vomit",
+   "C": "Continue Plan B without any change",
+   "D": "Stop oral fluids for 1 hour and reassess",
+   "E": "Reassess after 4 hours without adjusting ORS volume"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Ongoing losses during Plan B are replaced by giving extra ORS after each stool or vomit, and the child is reassessed. A switch to Plan C is needed only if severe dehydration develops.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00010",
+   "C01087",
+   "C01110",
+   "C00833"
+  ],
+  "stem": "A 2-year-old child has had loose stools for 2 days. He is lethargic, unable to drink, with sunken eyes and a skin pinch lasting more than 2 seconds. Which plan of rehydration will you follow according to IMNCI?",
+  "options": {
+   "A": "Admit and send investigations",
+   "B": "Plan A",
+   "C": "Plan B",
+   "D": "Plan C",
+   "E": "Reassure and send home"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Lethargy, inability to drink, sunken eyes and a very slow pinch define severe dehydration, which needs Plan C: immediate IV Ringer lactate.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00056"
+  ],
+  "stem": "The total fluid required in Plan C for severe dehydration according to WHO is:",
+  "options": {
+   "A": "50 ml/kg",
+   "B": "75 ml/kg",
+   "C": "100 ml/kg",
+   "D": "150 ml/kg"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Plan C gives 100 ml/kg of Ringer lactate: in infants 30 ml/kg in the first hour then 70 ml/kg over 5 hours; in older children 30 ml/kg in 30 minutes then 70 ml/kg over 2.5 hours.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00163"
+  ],
+  "stem": "An 8-month-old boy has had loose motions and vomiting for 2 days. He is lethargic, unable to drink ORS, and the skin pinch takes 3 seconds to return. What is the best treatment?",
+  "options": {
+   "A": "Admit and give 100 ml/kg IV Ringer lactate in 6 hours",
+   "B": "Admit and give 75 ml/kg IV Ringer lactate in 4 hours",
+   "C": "Admit and give 75 ml/kg ORS via NG tube in 4 hours",
+   "D": "Admit and give intravenous antibiotics",
+   "E": "Admit and give probiotics and zinc supplementation"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "This is severe dehydration. Plan C in an infant is 100 ml/kg Ringer lactate over 6 hours (30 ml/kg in the first hour, 70 ml/kg in the next 5 hours).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00348",
+   "C00498",
+   "C00632"
+  ],
+  "stem": "What is the fluid of choice for intravenous rehydration in a severely dehydrated child with diarrhoea?",
+  "options": {
+   "A": "5% dextrose",
+   "B": "10% dextrose",
+   "C": "N/2 in 5% dextrose",
+   "D": "Ringer lactate",
+   "E": "Plasma expander"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "WHO recommends Ringer lactate (or normal saline if unavailable) because it replaces extracellular fluid losses and corrects acidosis. Dextrose-only solutions do not replace sodium.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00749"
+  ],
+  "stem": "A 2-year-old child with severe dehydration has cold extremities, poor skin turgor, delayed capillary refill and drowsiness (shock). Which fluid is used for the initial rapid volume bolus?",
+  "options": {
+   "A": "5% dextrose",
+   "B": "10% dextrose",
+   "C": "0.9% normal saline",
+   "D": "0.45% saline in 5% dextrose",
+   "E": "ORS by nasogastric tube"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "In dehydration with shock, an isotonic crystalloid bolus of 20 ml/kg (0.9% saline, or Ringer lactate) restores intravascular volume rapidly. Dextrose-containing fluids are hypotonic and inappropriate.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00417",
+   "C00941"
+  ],
+  "stem": "A 5-month-old bottle-fed baby has had prolonged diarrhoea due to E. coli infection. He is now afebrile but still has diarrhoea. What will you advise the mother?",
+  "options": {
+   "A": "Give oral antibiotics",
+   "B": "Give oral antidiarrhoeals",
+   "C": "Give lactose-free milk",
+   "D": "Introduce weaning",
+   "E": "Stop milk and give semi-solid foods only"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Mucosal injury causes transient secondary lactase deficiency after prolonged diarrhoea, so a lactose-free formula is given. Antidiarrhoeals and antibiotics have no role.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00615",
+   "C00712",
+   "C00858"
+  ],
+  "stem": "A 1-year-old child has bloody diarrhoea without dehydration. What is the most appropriate management?",
+  "options": {
+   "A": "Send home on Plan A without antibiotics",
+   "B": "Start oral antibiotics and continue fluids and feeding",
+   "C": "IV Ringer lactate (Plan C)",
+   "D": "Give an oral antimotility drug",
+   "E": "Admit and give metronidazole"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Bloody diarrhoea is treated as shigellosis: an oral antibiotic (such as ciprofloxacin or azithromycin) for 3-5 days, along with ORS, zinc and continued feeding.",
+  "key_note": "One paper marked 'send home on Plan A'; correct is oral antibiotics, as dysentery needs antimicrobial treatment in addition to fluids. Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00849"
+  ],
+  "stem": "A 1-year-old child presents with abdominal pain and bloody diarrhoea. What is the initial investigation?",
+  "options": {
+   "A": "Stool culture",
+   "B": "Serum electrolytes",
+   "C": "Abdominal ultrasound",
+   "D": "Barium enema",
+   "E": "Colonoscopy"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Stool culture identifies the pathogen (Shigella, Salmonella, Campylobacter, EHEC) and its antibiotic sensitivity.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00357",
+   "C00507"
+  ],
+  "stem": "A 4-year-old boy has intermittent crampy abdominal pain with malodorous stools, flatulence and bloating, but no vomiting, weight loss or fever. He eats raw vegetables and drinks unboiled tube-well water. What is the most probable diagnosis?",
+  "options": {
+   "A": "Coeliac disease",
+   "B": "Worm infestation",
+   "C": "Giardiasis",
+   "D": "Inflammatory bowel disease"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Faeco-oral spread through raw vegetables and unboiled water, with bloating and foul stools, points to giardiasis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00384",
+   "C00557"
+  ],
+  "stem": "A 4-year-old child has had loose stools for 3 weeks that are foul-smelling and greasy with no blood, along with anorexia, abdominal cramps and distension. His mother uses tap water. Stool examination shows cysts. What is the most likely cause?",
+  "options": {
+   "A": "Amoebiasis",
+   "B": "Coeliac disease",
+   "C": "Giardiasis",
+   "D": "Irritable bowel disease",
+   "E": "Ulcerative colitis"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Chronic greasy, foul stools with cysts on microscopy are diagnostic of Giardia lamblia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00022"
+  ],
+  "stem": "What is the treatment of choice for a patient with giardiasis in OPD?",
+  "options": {
+   "A": "Metronidazole",
+   "B": "Nitazoxanide",
+   "C": "Oral rehydration only",
+   "D": "Reassurance",
+   "E": "Albendazole"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Metronidazole (15 mg/kg/day in 3 divided doses for 5-7 days) is the standard exam answer; tinidazole and nitazoxanide are alternatives.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00351",
+   "C00501"
+  ],
+  "stem": "The parents of a 3-year-old child with enteric fever ask about the causative organism. What is it?",
+  "options": {
+   "A": "Entamoeba histolytica",
+   "B": "Campylobacter jejuni",
+   "C": "Salmonella typhi",
+   "D": "Streptococcus pneumoniae"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Enteric fever is caused by Salmonella enterica serotype Typhi (and paratyphi A, B), spread by the faeco-oral route.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00007",
+   "C01079"
+  ],
+  "stem": "A 6-year-old boy has had fever of 104 F for a week with a relative bradycardia, a white-coated tongue and palpable lymph nodes, and enteric fever is diagnosed. In which week of illness do abdominal pain, rash and hepatosplenomegaly appear?",
+  "options": {
+   "A": "1st week",
+   "B": "2nd week",
+   "C": "3rd week",
+   "D": "4th week"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "In the second week of typhoid, rose spots, splenomegaly, abdominal pain and hepatomegaly appear. The 3rd week brings complications such as perforation and haemorrhage.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00617",
+   "C00859"
+  ],
+  "stem": "A 12-year-old boy has 2 weeks of fever with diarrhoea and constipation and a palpable rash (rose spots) on the trunk. What is the likely diagnosis?",
+  "options": {
+   "A": "Dengue fever",
+   "B": "Enteric fever",
+   "C": "Measles",
+   "D": "Infectious mononucleosis",
+   "E": "Malaria"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Stepwise fever, abdominal symptoms alternating between diarrhoea and constipation, hepatosplenomegaly and rose spots on the trunk characterise typhoid.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00312"
+  ],
+  "stem": "An 8-year-old boy has had fever with anorexia for a week, and the examination is unremarkable. He took oral erythromycin for 3 days at an inadequate dose. Which investigation is best to rule out enteric fever?",
+  "options": {
+   "A": "Blood culture and sensitivity",
+   "B": "Complete blood picture",
+   "C": "Typhidot",
+   "D": "Urine culture and sensitivity",
+   "E": "Widal test"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Blood culture is the gold standard and is positive in most patients in the first week, but partial treatment reduces its yield (bone marrow culture remains positive longer). Widal and Typhidot are unreliable.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00721",
+   "C00810"
+  ],
+  "stem": "A 9-year-old boy has had fever and abdominal pain for 7 days, and blood culture grows Salmonella typhi. He then develops vomiting, abdominal distension and severe abdominal pain with tenderness. Which complication has occurred?",
+  "options": {
+   "A": "Enteric hepatitis",
+   "B": "Hepatosplenomegaly",
+   "C": "Duodenal atresia",
+   "D": "Intestinal perforation",
+   "E": "Acute gastroenteritis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Sudden severe abdominal pain, distension and guarding in the 2nd to 3rd week point to ileal perforation, the commonest serious complication of typhoid.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00006",
+   "C00059",
+   "C00224",
+   "C00620"
+  ],
+  "stem": "Nocturnal perianal pruritus that contaminates the child's fingers and results in autoinfection is a feature of which worm infestation?",
+  "options": {
+   "A": "Ascaris lumbricoides",
+   "B": "Ancylostoma duodenale",
+   "C": "Enterobius vermicularis",
+   "D": "Diphyllobothrium latum",
+   "E": "Strongyloides stercoralis"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Enterobius (pinworm): the gravid female lays eggs on perianal skin at night, causing itching, scratching and faeco-oral autoinfection. Diagnosis is by the Scotch tape test.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00410",
+   "C00934"
+  ],
+  "stem": "A father brings his 2 sons with perianal and perineal pruritus, and a Scotch tape test is positive for pinworm ova. In which age group is this infection most common?",
+  "options": {
+   "A": "Neonates",
+   "B": "Infants",
+   "C": "Toddlers",
+   "D": "School-age children",
+   "E": "Teenagers"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Enterobiasis is commonest in school-age children, owing to close contact and poor hand hygiene, and spreads within families.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00223"
+  ],
+  "stem": "A child passes white worms in the stool and vomits a long white worm. What is the parasite?",
+  "options": {
+   "A": "Ascaris lumbricoides",
+   "B": "Enterobius vermicularis",
+   "C": "Ancylostoma duodenale",
+   "D": "Trichuris trichiura",
+   "E": "Taenia saginata"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Ascaris is a large roundworm (15-35 cm) that can be passed in stool or vomited.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00091"
+  ],
+  "stem": "Which of the following helminths is the longest?",
+  "options": {
+   "A": "Hookworm",
+   "B": "Ascaris lumbricoides",
+   "C": "Enterobius vermicularis",
+   "D": "Schistosoma"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Adult Ascaris measures 15-35 cm, whereas hookworm is about 1 cm, pinworm 0.5-1 cm and schistosomes 1-2 cm.",
+  "key_note": "Option C was garbled in the source ('Echinococcus enterobius'); reviewed as Enterobius vermicularis.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00419",
+   "C00943"
+  ],
+  "stem": "A 4-year-old undernourished boy plays barefoot in soil and has persistent vomiting, abdominal pain and constipation for 2 days, with a history of passing long pink worms a week ago. The abdomen is distended with exaggerated bowel sounds. Which complication has most likely occurred?",
+  "options": {
+   "A": "Anaemia",
+   "B": "Gastritis",
+   "C": "Hepatitis",
+   "D": "Intestinal obstruction",
+   "E": "Loeffler syndrome"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A heavy Ascaris load forms a bolus that obstructs the ileum, causing colicky pain, vomiting, distension and active bowel sounds.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01017"
+  ],
+  "stem": "A 7-year-old child presents with abdominal pain and vomiting. Which worm is the most likely cause of intestinal obstruction?",
+  "options": {
+   "A": "Ancylostoma duodenale",
+   "B": "Ascaris lumbricoides",
+   "C": "Enterobius vermicularis",
+   "D": "Hymenolepis nana",
+   "E": "Necator americanus"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Ascaris lumbricoides, with its large size and high worm burden, is the helminth that classically causes intestinal obstruction.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00358",
+   "C00508"
+  ],
+  "stem": "A 6-year-old child has abdominal pain, diarrhoea and progressive pallor, and lives in poor hygienic conditions. Stool examination shows hookworm eggs. What is the most likely organism?",
+  "options": {
+   "A": "Enterobius vermicularis",
+   "B": "Ancylostoma duodenale",
+   "C": "Ascaris lumbricoides",
+   "D": "Entamoeba histolytica"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Hookworm attaches to the small bowel mucosa and causes chronic blood loss, leading to iron-deficiency anaemia. Larvae penetrate bare feet.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [],
+  "stem": "A child drinks 4-5 packs of fruit juice every day and develops loose stools. What type of diarrhoea is this?",
+  "options": {
+   "A": "Osmotic diarrhoea",
+   "B": "Secretory diarrhoea",
+   "C": "Inflammatory diarrhoea",
+   "D": "Intestinal hypermotility (irritable bowel)",
+   "E": "Malabsorption due to coeliac disease"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Large amounts of poorly absorbed sugars (fructose, sorbitol) in juice draw water into the gut lumen, causing osmotic diarrhoea that settles when the juice is stopped.",
+  "key_note": "Options written by reviewer; the source gave only the answer. The source was a one-line recall fragment.",
+  "figure": ""
+ }
+]

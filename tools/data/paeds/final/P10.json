@@ -1,0 +1,325 @@
+[
+ {
+  "cids": [
+   "C00954"
+  ],
+  "stem": "Which enzyme is responsible for the enterohepatic circulation of bilirubin?",
+  "options": {
+   "A": "UDP-glucuronyl transferase",
+   "B": "Biliverdin reductase",
+   "C": "Beta-glucuronidase",
+   "D": "Heme oxygenase",
+   "E": "Alkaline phosphatase"
+  },
+  "answer": "C",
+  "explanation": "Intestinal beta-glucuronidase deconjugates bilirubin diglucuronide so that unconjugated bilirubin is reabsorbed; this is increased in neonates and contributes to physiological jaundice.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00900"
+  ],
+  "stem": "Jaundice is most likely to be physiological in a term infant in which of the following situations?",
+  "options": {
+   "A": "Serum bilirubin rising by less than 5 mg/dl/24 hours, appearing on days 2 to 4",
+   "B": "Jaundice appearing within the first 24 hours of life",
+   "C": "Direct bilirubin more than 2 mg/dl",
+   "D": "Jaundice persisting beyond 3 weeks",
+   "E": "Bilirubin rising by more than 0.5 mg/dl/hour"
+  },
+  "answer": "A",
+  "explanation": "Physiological jaundice appears after 24 hours, peaks on days 3 to 5 with a rise under 5 mg/dl/day, stays unconjugated and resolves within 1 to 2 weeks in term babies.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00730",
+   "C00590"
+  ],
+  "stem": "A 3-day-old term baby is feeding well and is active, with jaundice and an indirect bilirubin of 12.5 mg/dl. What is the most likely diagnosis?",
+  "options": {
+   "A": "Physiological jaundice",
+   "B": "ABO incompatibility",
+   "C": "Rh incompatibility",
+   "D": "Neonatal sepsis",
+   "E": "Biliary atresia"
+  },
+  "answer": "A",
+  "explanation": "Onset after 24 hours, a modest unconjugated level in a well, feeding baby fits physiological jaundice (term babies peak at up to 12-13 mg/dl around days 3 to 5).",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00069"
+  ],
+  "stem": "A 5-day-old exclusively breastfed infant has a bilirubin of 16 mg/dl. The infant has lost 12% of birth weight and has decreased urine output. What is the most likely diagnosis?",
+  "options": {
+   "A": "Breastfeeding jaundice",
+   "B": "Breast milk jaundice",
+   "C": "Biliary atresia",
+   "D": "Crigler-Najjar syndrome",
+   "E": "Physiological jaundice"
+  },
+  "answer": "A",
+  "explanation": "Poor milk intake with excess weight loss and low urine output causes breastfeeding (lactation failure) jaundice by reduced gut clearance and increased enterohepatic circulation. Breast milk jaundice occurs in a thriving baby and peaks in the second week.",
+  "key_note": "Paper circled D (Crigler-Najjar); correct is A: weight loss and oliguria point to inadequate intake. Option E added by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00377",
+   "C00551"
+  ],
+  "stem": "A 1-day-old term baby presents with jaundice and phototherapy is started. Investigations show Hb 15 g/dl, baby's blood group A positive, mother's blood group O positive and blood glucose 78 mg/dl. What is the cause of the jaundice?",
+  "options": {
+   "A": "ABO incompatibility",
+   "B": "Breast milk jaundice",
+   "C": "Neonatal sepsis",
+   "D": "Physiological jaundice",
+   "E": "Rh incompatibility"
+  },
+  "answer": "A",
+  "explanation": "Jaundice in the first 24 hours is pathological; a group O mother with a group A baby (both Rh positive) gives ABO haemolytic disease from maternal IgG anti-A.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00131",
+   "C00879",
+   "C00917",
+   "C01117"
+  ],
+  "stem": "A 3-day-old baby weighing 2.8 kg is brought with yellow discoloration of the body. He is breastfed, feeding well, active, with jaundice extending to the legs. Serum bilirubin is 18 mg/dl with indirect bilirubin 16.5 mg/dl. The mother's blood group is AB negative. What is the most likely diagnosis?",
+  "options": {
+   "A": "Physiological jaundice",
+   "B": "Rh incompatibility",
+   "C": "ABO incompatibility",
+   "D": "Neonatal sepsis",
+   "E": "Breast milk jaundice"
+  },
+  "answer": "B",
+  "explanation": "An AB mother has no anti-A or anti-B antibodies, so ABO haemolytic disease is impossible; a Rh-negative mother with a Rh-positive baby causes early severe unconjugated hyperbilirubinaemia. The level is too high for physiological jaundice.",
+  "key_note": "Several papers marked ABO incompatibility (and one version gave mother B negative); ABO disease needs a group O mother, so Rh incompatibility is correct. Stem unified to the AB-negative version; the A negative mother with an O positive baby version also gave Rh.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00098"
+  ],
+  "stem": "Which of the following is NOT true regarding haemolytic disease of the newborn due to Rh incompatibility?",
+  "options": {
+   "A": "The infant is Rh positive",
+   "B": "Severe anaemia",
+   "C": "Hydrops fetalis",
+   "D": "It is less severe than ABO incompatibility",
+   "E": "Direct Coombs test is positive"
+  },
+  "answer": "D",
+  "explanation": "Rh disease is usually more severe than ABO disease: it may cause hydrops fetalis, severe anaemia and early jaundice, and the baby is Rh positive with a positive direct Coombs test.",
+  "key_note": "Option E added by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00133",
+   "C00592",
+   "C00733",
+   "C00919"
+  ],
+  "stem": "A newborn boy born at home by SVD is brought on day 7 with lethargy and yellow discoloration for 2 days. He is lethargic, hypotonic with poor reflexes and deeply jaundiced up to the soles. The anterior fontanelle is flat. What is the most likely diagnosis?",
+  "options": {
+   "A": "Kernicterus",
+   "B": "Neonatal sepsis",
+   "C": "Intracranial bleed",
+   "D": "Hypothyroidism",
+   "E": "Birth asphyxia"
+  },
+  "answer": "A",
+  "explanation": "Deep jaundice with lethargy, hypotonia and poor reflexes indicates acute bilirubin encephalopathy; a flat fontanelle and absence of fever argue against meningitis or bleed.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01009"
+  ],
+  "stem": "A 2-day-old baby is admitted to NICU with lethargy and posturing for the last 6 hours. His serum bilirubin is 25 mg/dl and his blood group is AB positive. The most likely diagnosis is:",
+  "options": {
+   "A": "Birth asphyxia",
+   "B": "Kernicterus",
+   "C": "Meningitis",
+   "D": "Physiological jaundice",
+   "E": "Neonatal sepsis"
+  },
+  "answer": "B",
+  "explanation": "Very high unconjugated bilirubin with lethargy and posturing (opisthotonus) is acute bilirubin encephalopathy (kernicterus); this is an emergency needing exchange transfusion.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00130",
+   "C00589",
+   "C01014",
+   "C00627",
+   "C00711"
+  ],
+  "stem": "A 2-day-old baby is brought to the emergency department with breathing and feeding difficulty for 1 day. He is lethargic, febrile and tachypnoeic with a respiratory rate of 70/min and subcostal and intercostal recessions. Cardiovascular examination is unremarkable. What is the most likely diagnosis?",
+  "options": {
+   "A": "Congenital heart disease",
+   "B": "Respiratory distress syndrome",
+   "C": "Congenital pneumonia",
+   "D": "Meconium aspiration syndrome",
+   "E": "Transient tachypnoea of newborn"
+  },
+  "answer": "C",
+  "explanation": "Fever, lethargy and respiratory distress within the first days of life indicate congenital (early-onset) pneumonia, usually from ascending or intrapartum infection.",
+  "key_note": "Another paper's key marked RDS for an afebrile 3-day-old version; congenital pneumonia kept as correct.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00888",
+   "C00233"
+  ],
+  "stem": "A full term 2-day-old infant is brought with fever and reluctance to feed, and the mother had premature rupture of membranes. He is slow and lethargic. Blood picture shows Hb 17 g/dl, Hct 55%, WBC 3000/mm3 and platelets 40000/mm3. What is the most likely diagnosis?",
+  "options": {
+   "A": "Neonatal sepsis",
+   "B": "Polycythaemia",
+   "C": "Physiological jaundice",
+   "D": "Transient tachypnoea of newborn",
+   "E": "Haemorrhagic disease of the newborn"
+  },
+  "answer": "A",
+  "explanation": "Fever or temperature instability, poor feeding and lethargy with leucopenia and thrombocytopenia indicate neonatal sepsis; the Hb and Hct are normal for a newborn.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00171"
+  ],
+  "stem": "A 5-day-old baby, born by LSCS for failed induction of labour to a mother with URTI, presents with poor feeding, lethargy and seizures. What is the likely causative organism?",
+  "options": {
+   "A": "E. coli",
+   "B": "Streptococcus pneumoniae",
+   "C": "Staphylococcus aureus",
+   "D": "Pseudomonas",
+   "E": "Klebsiella"
+  },
+  "answer": "B",
+  "explanation": "Both papers marked Streptococcus pneumoniae, linking the maternal respiratory infection with neonatal meningitis.",
+  "key_note": "Option E added by reviewer. The answer is the paper key and rests on the maternal URTI clue; E. coli and group B streptococcus are the commonest neonatal meningitis organisms overall.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00236"
+  ],
+  "stem": "A 5-day-old neonate has seizures and poor feeding. The mother had a urinary tract infection and the WBC count is 2800/mm3. What is the likely causative organism?",
+  "options": {
+   "A": "Group B streptococcus",
+   "B": "E. coli",
+   "C": "Staphylococcus aureus",
+   "D": "Klebsiella",
+   "E": "Listeria monocytogenes"
+  },
+  "answer": "B",
+  "explanation": "A maternal UTI is a source of E. coli, a leading cause of neonatal sepsis and meningitis; leucopenia indicates overwhelming sepsis.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00129",
+   "C00878",
+   "C01013",
+   "C00588"
+  ],
+  "stem": "A 3-day-old baby is admitted to NICU with reluctance to feed and seizures for 1 day. The mother had premature rupture of membranes for 18 hours before delivery. The baby is lethargic, febrile and posturing was observed. Which investigation is most helpful to reach the diagnosis?",
+  "options": {
+   "A": "Lumbar puncture",
+   "B": "Cranial USG",
+   "C": "Arterial blood gases",
+   "D": "CT scan brain",
+   "E": "Complete blood count"
+  },
+  "answer": "A",
+  "explanation": "Fever, lethargy and seizures with PROM suggest neonatal meningitis, which is confirmed by CSF examination and culture; do LP once the baby is stable.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00320"
+  ],
+  "stem": "A 3-day-old full term infant has poor feeding and 2 generalized tonic fits. He is irritable with a bulging anterior fontanelle and sluggish reflexes. CSF is turbid with WBC 2300/mm3, glucose 24 mg/dl and protein 101 mg/dl. What is the most appropriate management?",
+  "options": {
+   "A": "Ampicillin + gentamicin",
+   "B": "Ampicillin + amphotericin B",
+   "C": "Ampicillin + clindamycin",
+   "D": "Ceftriaxone + amikacin",
+   "E": "Linezolid + amikacin"
+  },
+  "answer": "A",
+  "explanation": "This is early-onset bacterial meningitis (group B streptococcus, E. coli, Listeria); empirical ampicillin plus an aminoglycoside covers these. Ceftriaxone is avoided in neonates because of hyperbilirubinaemia and calcium interactions.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00614",
+   "C00851"
+  ],
+  "stem": "A 5-month-old child is microcephalic, has an absent red reflex and hepatosplenomegaly. What is the likely diagnosis?",
+  "options": {
+   "A": "Congenital toxoplasmosis",
+   "B": "Congenital rubella",
+   "C": "Congenital syphilis",
+   "D": "Neonatal herpes simplex",
+   "E": "Congenital varicella"
+  },
+  "answer": "B",
+  "explanation": "Microcephaly, cataract (absent red reflex) and hepatosplenomegaly are features of congenital rubella syndrome, along with sensorineural deafness and patent ductus arteriosus.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00951"
+  ],
+  "stem": "A term baby has a rapidly enlarging head, jaundice, hepatosplenomegaly and intracranial calcifications. What is the most likely diagnosis?",
+  "options": {
+   "A": "Congenital toxoplasmosis",
+   "B": "Congenital CMV infection",
+   "C": "Congenital rubella",
+   "D": "Congenital syphilis",
+   "E": "Neonatal herpes simplex"
+  },
+  "answer": "A",
+  "explanation": "Hydrocephalus (enlarging head), chorioretinitis and diffuse intracranial calcifications are the classic toxoplasmosis triad, with jaundice and hepatosplenomegaly. CMV usually gives microcephaly with periventricular calcification.",
+  "key_note": "Source answer was congenital CMV; toxoplasmosis fits an enlarging head better, since CMV causes microcephaly. Options written by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00211"
+  ],
+  "stem": "A 7-year-old boy presents with writhing movements of the hands that increase with stress and decrease at night, with slurred speech. His past history is significant for neonatal jaundice treated with phototherapy. Most likely diagnosis?",
+  "options": {
+   "A": "Wilson's disease",
+   "B": "Sydenham's chorea",
+   "C": "Kernicterus (bilirubin encephalopathy sequelae)",
+   "D": "Huntington's disease"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Athetoid movements, dysarthria and a history of severe neonatal jaundice indicate chronic bilirubin encephalopathy (dyskinetic cerebral palsy).",
+  "key_note": "",
+  "figure": ""
+ }
+]

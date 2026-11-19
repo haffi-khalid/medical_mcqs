@@ -1,0 +1,448 @@
+[
+ {
+  "cids": [
+   "C00709"
+  ],
+  "stem": "Which of the following defines the neonatal period?",
+  "options": {
+   "A": "First 7 days after birth",
+   "B": "First 14 days after birth",
+   "C": "First 21 days after birth",
+   "D": "First 28 days after birth",
+   "E": "First 42 days after birth"
+  },
+  "answer": "D",
+  "explanation": "The neonatal period is the first 28 completed days of life; the early neonatal period is the first 7 days.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00697"
+  ],
+  "stem": "A baby is born at 33 weeks of gestation due to fetal distress and weighs 1.3 kg. According to weight, this baby is:",
+  "options": {
+   "A": "Low birth weight",
+   "B": "Very low birth weight",
+   "C": "Extremely low birth weight",
+   "D": "Normal birth weight",
+   "E": "Micro-premature"
+  },
+  "answer": "B",
+  "explanation": "LBW is <2.5 kg, VLBW is <1.5 kg and ELBW is <1 kg, so 1.3 kg is VLBW.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00689"
+  ],
+  "stem": "A 25-year-old lady has delivered a baby girl at full term by caesarean section. Which one of the following is the first step in neonatal resuscitation?",
+  "options": {
+   "A": "Apply a cord clamp",
+   "B": "Dry and wrap the baby",
+   "C": "Stimulate the baby",
+   "D": "Suction of mouth",
+   "E": "Suction of nose"
+  },
+  "answer": "B",
+  "explanation": "The initial steps are to provide warmth, dry and wrap the baby to prevent hypothermia, then position, clear the airway only if needed, and stimulate.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00240",
+   "C00736",
+   "C00835",
+   "C00885",
+   "C00920"
+  ],
+  "stem": "A newborn has a heart rate of 120/min, regular respiration with a good cry, active reflexes and good muscle tone, and a pink body with blue hands and feet (acrocyanosis). What is the Apgar score?",
+  "options": {
+   "A": "6",
+   "B": "7",
+   "C": "8",
+   "D": "9",
+   "E": "10"
+  },
+  "answer": "D",
+  "explanation": "Pulse, respiration, tone and reflex irritability each score 2, and colour scores 1 for acrocyanosis (body pink, extremities blue), giving 9.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00948"
+  ],
+  "stem": "A newborn has a heart rate above 100/min, a good cry, good muscle tone, only a grimace in response to stimulation, and acrocyanosis. What is the Apgar score?",
+  "options": {
+   "A": "6",
+   "B": "7",
+   "C": "8",
+   "D": "9",
+   "E": "10"
+  },
+  "answer": "C",
+  "explanation": "Pulse 2, respiration 2, tone 2, grimace 1 and colour 1 (acrocyanosis) give 8.",
+  "key_note": "Stem reconstructed from the source explanation; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00188",
+   "C00473"
+  ],
+  "stem": "A newborn is limp with laboured breathing, no cry, peripheral cyanosis and a heart rate of 60/min. What is the Apgar score?",
+  "options": {
+   "A": "1",
+   "B": "2",
+   "C": "3",
+   "D": "4",
+   "E": "5"
+  },
+  "answer": "C",
+  "explanation": "Tone 0, reflex (no cry) 0, heart rate <100 scores 1, laboured respiration scores 1 and peripheral cyanosis scores 1, so the total is 3.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00126",
+   "C00585",
+   "C00624",
+   "C00876"
+  ],
+  "stem": "A newborn is delivered to a primigravida mother at 39 weeks of gestation by emergency LSCS for a poorly reactive CTG. The baby did not cry, and is limp and cyanosed. The paediatrician positioned and suctioned the baby. After stimulation the baby still has no spontaneous breathing and the heart rate is 80/min. What is the next step of management?",
+  "options": {
+   "A": "Continue tactile stimulation",
+   "B": "Give bag and mask ventilation",
+   "C": "Start PPV with endotracheal intubation",
+   "D": "Maintain an IV line and give volume expanders",
+   "E": "Start chest compressions"
+  },
+  "answer": "B",
+  "explanation": "After warming, positioning, suction and stimulation, apnoea or a heart rate below 100/min needs positive pressure ventilation with bag and mask. Intubation is considered if this fails, and compressions are started if the rate stays below 60/min despite 30 seconds of effective ventilation.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00187",
+   "C00237"
+  ],
+  "stem": "You are called to the delivery of a baby at 42 weeks with thick meconium-stained fluid and type II decelerations. The baby is hypotonic, cyanotic, apnoeic and bradycardic. The most appropriate action is to:",
+  "options": {
+   "A": "Intubate and provide positive pressure ventilation",
+   "B": "Stimulate the infant to breathe",
+   "C": "Administer epinephrine",
+   "D": "Intubate and apply suction",
+   "E": "Provide positive pressure bag and mask ventilation"
+  },
+  "answer": "A",
+  "explanation": "A non-vigorous meconium-stained baby who is apnoeic and bradycardic needs the airway secured and ventilation started without delay.",
+  "key_note": "Both source papers marked A. Current NRP starts PPV by face mask first and intubates for tracheal suction only if the airway is obstructed; A is kept as the standard exam answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00470",
+   "C00949"
+  ],
+  "stem": "You are asked to receive a newborn in the delivery room. The baby has passed thick meconium, and when delivered is flat and floppy with no spontaneous respiration and is stained with thick meconium. What is the immediate step?",
+  "options": {
+   "A": "Give baby oxygen with head box",
+   "B": "IV adrenaline",
+   "C": "Immediately pass an ETT and do tracheal suction to remove meconium",
+   "D": "Ambu bag ventilation and chest massage",
+   "E": "Call your senior for help"
+  },
+  "answer": "C",
+  "explanation": "A non-vigorous baby born through thick meconium needs direct laryngoscopy and tracheal suction to clear the airway before ventilation.",
+  "key_note": "Current NRP no longer mandates routine tracheal suction and favours starting PPV; the paper key (C) reflects standard exam teaching and is kept.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00378",
+   "C00552"
+  ],
+  "stem": "A 3-day-old baby with pneumothorax suddenly collapsed and resuscitation is started. What is the ideal ratio of chest compressions to ventilations?",
+  "options": {
+   "A": "15:1",
+   "B": "15:2",
+   "C": "30:2",
+   "D": "3:1",
+   "E": "10:2"
+  },
+  "answer": "D",
+  "explanation": "In neonatal resuscitation the compression to ventilation ratio is 3:1 (90 compressions and 30 breaths per minute), because the primary cause of arrest is usually respiratory.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00125",
+   "C00584",
+   "C00819"
+  ],
+  "stem": "A neonate is born to a primigravida mother at 32 weeks of gestation via LSCS with immediate cry and a good Apgar score. Two hours after birth the baby develops grunting and breathing difficulty. His RR is 70/min with intercostal and subcostal retractions. What is the most likely diagnosis?",
+  "options": {
+   "A": "Respiratory distress syndrome",
+   "B": "Congenital pneumonia",
+   "C": "Pleural effusion",
+   "D": "Pneumothorax",
+   "E": "Bronchiolitis"
+  },
+  "answer": "A",
+  "explanation": "Prematurity, onset within hours of birth with grunting, tachypnoea and retractions indicate RDS from surfactant deficiency.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01116",
+   "C00239"
+  ],
+  "stem": "A 34-weeker in NICU has respiratory distress and is not maintaining saturation. ABG shows metabolic acidosis and the CXR shows a ground glass appearance of the lung fields. What is your diagnosis?",
+  "options": {
+   "A": "Hypoxic ischaemic encephalopathy",
+   "B": "Bronchopulmonary dysplasia",
+   "C": "Necrotizing enterocolitis",
+   "D": "Pneumonia",
+   "E": "Respiratory distress syndrome"
+  },
+  "answer": "E",
+  "explanation": "A preterm infant with early respiratory distress and a ground glass, reticulogranular CXR with air bronchograms has RDS.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01008"
+  ],
+  "stem": "A 2-day-old premature baby has breathing difficulty, tachypnoea and a ground glass appearance on chest X-ray. What is the most appropriate treatment?",
+  "options": {
+   "A": "Intravenous antibiotics",
+   "B": "Intravenous immunoglobulin",
+   "C": "Mechanical ventilation",
+   "D": "Oxygen inhalation",
+   "E": "Surfactant administration"
+  },
+  "answer": "E",
+  "explanation": "This is RDS due to surfactant deficiency; exogenous surfactant given via the endotracheal tube (or LISA) is the specific treatment.",
+  "key_note": "Source stem said 'most likely diagnosis' but the options were treatments; stem reworded to match the options.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00083",
+   "C00777"
+  ],
+  "stem": "A 35-weeker with grade 2 RDS is given surfactant and ventilated. After 10 hours the baby suddenly deteriorates with decreased air entry and an obvious bulge on the right side of the chest, and saturations do not improve despite maximum FiO2. What is the likely complication?",
+  "options": {
+   "A": "Dislodgement of the endotracheal tube",
+   "B": "Blockage of the endotracheal tube",
+   "C": "Pneumothorax",
+   "D": "Pleural effusion",
+   "E": "Empyema"
+  },
+  "answer": "C",
+  "explanation": "Sudden deterioration on a ventilator with unilateral hyperresonance, reduced air entry, a bulging hemithorax (and mediastinal shift) is a tension pneumothorax; confirm by transillumination or CXR and drain it.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00128",
+   "C00587",
+   "C00626",
+   "C00877",
+   "C01012",
+   "C00828"
+  ],
+  "stem": "A baby is born to a G3P2 mother at 32 weeks of gestation. Birth weight is 1.5 kg and he is started on oxygen and NG feeding. On the 4th day of life he becomes lethargic with vomiting and abdominal distension. What is the most likely diagnosis?",
+  "options": {
+   "A": "Neonatal sepsis",
+   "B": "Acute gastroenteritis",
+   "C": "Malrotation",
+   "D": "Intestinal obstruction",
+   "E": "Necrotizing enterocolitis"
+  },
+  "answer": "E",
+  "explanation": "Prematurity and enteral feeding with lethargy, vomiting, abdominal distension (and often blood in stool) is NEC; KUB shows pneumatosis intestinalis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00321"
+  ],
+  "stem": "A 1400 g female baby is born by SVD at 32 weeks after premature rupture of membranes with PV leaking for 46 hours. On the 2nd day she has vomiting and abdominal distension with absent bowel sounds. CBC shows Hb 16 g/dl, TLC 19000, platelets 28000 and CRP is positive. What is the most likely diagnosis?",
+  "options": {
+   "A": "Achalasia cardia",
+   "B": "Hypertrophic pyloric stenosis",
+   "C": "Malrotation of gut",
+   "D": "Necrotizing enterocolitis",
+   "E": "Paralytic ileus"
+  },
+  "answer": "D",
+  "explanation": "A preterm baby with abdominal distension, ileus, thrombocytopenia and raised CRP has NEC with sepsis; thrombocytopenia is a marker of severity.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00127",
+   "C00586",
+   "C00625"
+  ],
+  "stem": "A 3 kg newborn is delivered by SVD at 40 weeks after prolonged labour, with CTG showing bradycardia and late decelerations. He cried weakly and was shifted to NICU after resuscitation. He is lethargic and hypotonic with a weak Moro reflex and constricted pupils, and has no seizures. What is your assessment of hypoxic ischaemic encephalopathy?",
+  "options": {
+   "A": "No signs of HIE",
+   "B": "Stage I HIE",
+   "C": "Stage II HIE",
+   "D": "Stage III HIE",
+   "E": "Needs further evaluation"
+  },
+  "answer": "C",
+  "explanation": "Sarnat stage II (moderate) shows lethargy, hypotonia, weak Moro, miosis and possible seizures; stage I is hyperalert with mydriasis and stage III is stuporous and flaccid.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00181",
+   "C00229",
+   "C00955"
+  ],
+  "stem": "A 3-day-old male born to a primigravida mother with Apgar scores of 1 and 2 at 1 and 5 minutes has hyperactive deep tendon reflexes and mydriasis. What is the diagnosis?",
+  "options": {
+   "A": "Stage I hypoxic ischaemic encephalopathy",
+   "B": "Stage II hypoxic ischaemic encephalopathy",
+   "C": "Stage III hypoxic ischaemic encephalopathy"
+  },
+  "answer": "A",
+  "explanation": "Hyperalertness with exaggerated reflexes and mydriasis (sympathetic overactivity) defines Sarnat stage I. Stage II has lethargy and miosis, and stage III has stupor, flaccidity and depressed reflexes.",
+  "key_note": "Two sources marked stage III; stage I is correct per the Sarnat classification (one source also gave stage I).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01007"
+  ],
+  "stem": "A male baby born at 38 weeks has an Apgar score of 3/10 at 1 minute and 5/10 at 5 minutes. On examination he has poor reflexes, unequal pupils and is flaccid. What is the most likely diagnosis?",
+  "options": {
+   "A": "Hypoxic ischaemic encephalopathy",
+   "B": "Kernicterus",
+   "C": "Intraventricular haemorrhage",
+   "D": "Meningitis",
+   "E": "Neonatal sepsis"
+  },
+  "answer": "A",
+  "explanation": "A low Apgar score with flaccidity, poor reflexes and abnormal pupils in a term baby indicates severe (stage III) perinatal asphyxia with HIE.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00071"
+  ],
+  "stem": "Which of the following is the current standard treatment for moderate to severe hypoxic ischaemic encephalopathy to reduce brain injury?",
+  "options": {
+   "A": "High dose corticosteroids",
+   "B": "Hyperbaric oxygen therapy",
+   "C": "Therapeutic hypothermia (whole body cooling)",
+   "D": "Immediate exchange transfusion",
+   "E": "Prophylactic phenobarbitone"
+  },
+  "answer": "C",
+  "explanation": "Cooling to 33.5 degrees C for 72 hours, started within 6 hours of birth in babies of 36 weeks or more, reduces death and disability.",
+  "key_note": "Paper marked B (hyperbaric oxygen); correct is C, therapeutic hypothermia. Option E added by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00185",
+   "C00242"
+  ],
+  "stem": "A full term baby after prolonged labour has peripheral cyanosis at birth, irregular respiration and slightly decreased activity, with normal tone. The baby can develop:",
+  "options": {
+   "A": "Hypoglycaemia",
+   "B": "Hypoxic ischaemic encephalopathy",
+   "C": "No complications",
+   "D": "Pneumonia",
+   "E": "RDS"
+  },
+  "answer": "C",
+  "explanation": "Peripheral cyanosis and a brief irregular respiratory effort with normal tone are normal transitional signs; this baby is not asphyxiated.",
+  "key_note": "One source marked hypoglycaemia; the baby is vigorous with normal tone, so no complication is expected.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00463"
+  ],
+  "stem": "A baby boy weighing 4.9 kg is born at term by SVD to a diabetic mother. The Moro reflex is normal on the left, but there is little movement of the right arm, and hand grasp is present bilaterally. What is the diagnosis?",
+  "options": {
+   "A": "Bell palsy",
+   "B": "Erb palsy",
+   "C": "Facial palsy",
+   "D": "Klumpke palsy",
+   "E": "Phrenic nerve palsy"
+  },
+  "answer": "B",
+  "explanation": "Macrosomia and shoulder dystocia injure C5-C6, giving an absent Moro on the affected side with preserved grasp (waiter's tip). Klumpke (C8-T1) would lose the grasp.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00675"
+  ],
+  "stem": "A postmature neonate born through meconium-stained liquor has respiratory distress. What is the initial management?",
+  "options": {
+   "A": "Suction the mouth and nasopharynx",
+   "B": "Intubate and suction below the cords in every case",
+   "C": "Start chest compressions",
+   "D": "Give IV adrenaline",
+   "E": "Give prophylactic surfactant"
+  },
+  "answer": "A",
+  "explanation": "Post-term babies are prone to meconium aspiration, and clearing the mouth and nasopharynx is the first measure. Tracheal suction is reserved for a non-vigorous baby with an obstructed airway.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [],
+  "stem": "A newborn has peripheral cyanosis of the hands and feet at 5 minutes of life, with all other components of the Apgar score normal. What is the interpretation?",
+  "options": {
+   "A": "Birth asphyxia",
+   "B": "Cyanotic congenital heart disease",
+   "C": "Meconium aspiration",
+   "D": "Normal finding, no complication (acrocyanosis)",
+   "E": "Neonatal sepsis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Acrocyanosis (blue hands and feet) with pink trunk, good tone, heart rate and cry is a normal finding in the first hours and needs no treatment. Central cyanosis of the tongue and lips would be abnormal.",
+  "key_note": "Options written by reviewer; the source gave only the answer. The source was a garbled recall fragment ('5Y' + peripheral cyanosis); stem interpreted as a newborn at 5 minutes.",
+  "figure": ""
+ },
+ {
+  "cids": [],
+  "stem": "A newborn born through meconium-stained liquor has aspirated meconium and has respiratory distress. What is the diagnosis?",
+  "options": {
+   "A": "Meconium aspiration syndrome",
+   "B": "Transient tachypnoea of the newborn",
+   "C": "Respiratory distress syndrome",
+   "D": "Congenital diaphragmatic hernia",
+   "E": "Neonatal pneumonia"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Inhalation of meconium-stained liquor causes meconium aspiration syndrome: airway obstruction, chemical pneumonitis and air trapping, typically in term or post-term babies.",
+  "key_note": "Options written by reviewer; the source gave only the answer. The source was a one-line recall fragment.",
+  "figure": ""
+ }
+]

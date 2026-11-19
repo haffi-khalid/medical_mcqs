@@ -1,0 +1,239 @@
+[
+ {
+  "cids": [
+   "C00329"
+  ],
+  "stem": "A 4-year-old boy is brought to the emergency department by his mother, who says he fell from the bed. He has multiple bruises of varying ages on the back and upper arms and a spiral fracture of the right humerus. He is withdrawn and avoids eye contact. What is the most appropriate next step?",
+  "options": {
+   "A": "Ask the parents to bring the child back in a week",
+   "B": "Assume accidental trauma and report only if more injuries occur",
+   "C": "Discharge with painkillers and advice on better supervision",
+   "D": "Document findings, treat the fracture and send the child home with parental counselling",
+   "E": "Order a skeletal survey and contact child protective services for evaluation"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Bruises of different ages, a spiral fracture and a history that does not fit suggest non-accidental injury; the child must be protected, a skeletal survey is done and child protection is informed.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00388",
+   "C00562"
+  ],
+  "stem": "A 2-year-old child is brought to the ER with a fracture of the right radius following a fall 2 days ago. He also has multiple bruises of different colours over the body. What is the most probable diagnosis?",
+  "options": {
+   "A": "Child abuse",
+   "B": "Idiopathic thrombocytopenic purpura",
+   "C": "Rickets",
+   "D": "Scurvy",
+   "E": "Achondroplasia"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Fractures and bruises at different stages of healing with a delayed, inconsistent history point to non-accidental injury.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00356",
+   "C00506"
+  ],
+  "stem": "An orphan child is brought to the emergency department, pale and malnourished, with multiple bruises over the body and a lacerated ear lobule. He is frightened during the examination. X-ray shows a fracture of the right fibula. What is the most likely reason for his injuries?",
+  "options": {
+   "A": "Fall from height",
+   "B": "Child abuse",
+   "C": "Child neglect",
+   "D": "Parent death"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Multiple bruises, a lacerated ear (pinching or pulling) and a long bone fracture in a frightened child indicate physical abuse (with associated neglect).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00330"
+  ],
+  "stem": "A 6-year-old boy is brought by his teacher because of behaviour concerns. He is fearful, avoids eye contact, flinches when adults raise their voices and calls himself stupid and worthless. His mother calls him lazy and good for nothing and punishes him by isolating him in a dark room. There are no injuries. What is the most likely diagnosis?",
+  "options": {
+   "A": "Attention-deficit hyperactivity disorder",
+   "B": "Autism spectrum disorder",
+   "C": "Generalised anxiety disorder",
+   "D": "Oppositional defiant disorder",
+   "E": "Psychological (emotional) abuse"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Persistent belittling, isolating and terrorising behaviour by the caregiver and a fearful child with low self-worth define emotional abuse.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00762"
+  ],
+  "stem": "What type of child abuse involves hurtful words and actions that damage a child's feelings and self-esteem?",
+  "options": {
+   "A": "Physical abuse",
+   "B": "Emotional (verbal) abuse",
+   "C": "Sexual abuse",
+   "D": "Neglect",
+   "E": "Munchausen syndrome by proxy"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Emotional abuse damages psychological well-being through rejection, humiliation, threats and verbal abuse.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00723"
+  ],
+  "stem": "Which form of child abuse is known to cause intellectual disability?",
+  "options": {
+   "A": "Shaken baby syndrome",
+   "B": "Abused baby syndrome",
+   "C": "Battered baby syndrome",
+   "D": "Damaged infant syndrome",
+   "E": "Neglected baby syndrome"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Violent shaking causes subdural and retinal haemorrhages and diffuse brain injury, leaving cognitive impairment, cerebral palsy and blindness.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00669"
+  ],
+  "stem": "Which of the following is a danger sign in a 2-month-old baby with respiratory illness?",
+  "options": {
+   "A": "Mild cough",
+   "B": "Nasal blockage",
+   "C": "Severe chest indrawing",
+   "D": "Sneezing",
+   "E": "Mild fever alone"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "In a young infant, severe chest indrawing (with fast breathing 60/min or more, cyanosis) indicates possible serious bacterial infection and needs referral.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00901"
+  ],
+  "stem": "Which respiratory rate is a danger sign of severe disease in a young infant below 2 months of age?",
+  "options": {
+   "A": "30 per minute",
+   "B": "40 per minute",
+   "C": "50 per minute",
+   "D": "60 per minute or more",
+   "E": "20 per minute"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Fast breathing in a young infant is 60 breaths/min or more; for 2 to 12 months it is 50 or more and for 1 to 5 years 40 or more.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01019"
+  ],
+  "stem": "A 10-month-old infant has fast breathing. What respiratory rate is considered fast breathing according to IMCI?",
+  "options": {
+   "A": "60 breaths/min",
+   "B": "50 breaths/min",
+   "C": "40 breaths/min",
+   "D": "30 breaths/min",
+   "E": "20 breaths/min"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "IMCI fast breathing cut-offs: 60 or more under 2 months, 50 or more for 2 to 11 months, 40 or more for 1 to 5 years.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00868"
+  ],
+  "stem": "A 12-month-old boy has cough and fever, no chest indrawing and a respiratory rate of 35/min. How is he classified according to the WHO ARI guidelines?",
+  "options": {
+   "A": "No pneumonia (cough or cold)",
+   "B": "Pneumonia",
+   "C": "Severe pneumonia",
+   "D": "Very severe disease",
+   "E": "Bronchiolitis"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Fast breathing at 12 months is 40 or more per minute; he has none and no chest indrawing, so he has only a cough or cold.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00340",
+   "C00490",
+   "C00522",
+   "C01077"
+  ],
+  "stem": "A 7-month-old girl has had fever and cough for 2 days with reluctance to feed. On examination she has chest indrawing and a respiratory rate of 75/min. How would you classify her illness according to IMNCI?",
+  "options": {
+   "A": "Common cold",
+   "B": "No pneumonia",
+   "C": "Pneumonia",
+   "D": "Severe pneumonia"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Chest indrawing (and inability to feed) is classified as severe pneumonia in IMNCI and needs urgent referral and injectable antibiotics.",
+  "key_note": "Two compiled answer-only files gave 7-month and 9-month versions with the same answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00443"
+  ],
+  "stem": "A 2-year-old girl has loose stools for 2 days and you assess her as having some dehydration. Which sign did you look for according to IMNCI?",
+  "options": {
+   "A": "Lethargic",
+   "B": "Skin pinch goes back very slowly",
+   "C": "Eager to drink (drinks eagerly, thirsty)",
+   "D": "Depressed anterior fontanelle",
+   "E": "Unable to drink"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "IMNCI some dehydration signs are restless or irritable, sunken eyes, drinks eagerly and skin pinch going back slowly; lethargy, inability to drink and very slow pinch mean severe dehydration.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00136"
+  ],
+  "stem": "A 6-year-old child is brought to the paediatric emergency by neighbours with epistaxis for 1 hour. She had fever 5 days ago. Examination shows a few bruises on the back of the thighs, and fundoscopy reveals retinal haemorrhages. What is the most likely cause of these findings?",
+  "options": {
+   "A": "Acute lymphoblastic leukaemia",
+   "B": "Von Willebrand disease",
+   "C": "Idiopathic thrombocytopenic purpura",
+   "D": "Child abuse",
+   "E": "Carbon monoxide poisoning"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Bruises on the back of the thighs, retinal haemorrhages and an unrelated adult carer raise suspicion of non-accidental injury. A full blood count and coagulation screen are still needed to exclude bleeding disorders.",
+  "key_note": "One paper left this unmarked; answer by reviewer, matching the marked paper.",
+  "figure": ""
+ }
+]

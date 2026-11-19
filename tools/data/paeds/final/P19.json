@@ -1,0 +1,823 @@
+[
+ {
+  "cids": [
+   "C00706"
+  ],
+  "stem": "Normal adult haemoglobin (HbA) contains which of the following polypeptide chains?",
+  "options": {
+   "A": "Two alpha and two gamma chains",
+   "B": "Two alpha and two beta chains",
+   "C": "Two beta and two delta chains",
+   "D": "Two alpha and two delta chains",
+   "E": "Four beta chains"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "HbA is alpha2 beta2 (about 97% of adult Hb). HbA2 is alpha2 delta2 (2-3%) and HbF is alpha2 gamma2.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00787"
+  ],
+  "stem": "What is the major storage form of iron in the body?",
+  "options": {
+   "A": "Transferrin",
+   "B": "Haemosiderin",
+   "C": "Ferritin",
+   "D": "Haemoglobin",
+   "E": "Myoglobin"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Ferritin is the main storage form of iron; haemosiderin is a smaller, insoluble storage form, and transferrin is the transport protein.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00420"
+  ],
+  "stem": "Which of the following anaemias is characterised by normochromic, normocytic red blood cells?",
+  "options": {
+   "A": "Alpha thalassaemia major",
+   "B": "Beta thalassaemia minor",
+   "C": "Glucose-6-phosphate dehydrogenase deficiency",
+   "D": "Iron deficiency",
+   "E": "Vitamin B12 deficiency"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "G6PD deficiency causes haemolytic anaemia that is normocytic and normochromic (with reticulocytosis), while thalassaemias and iron deficiency are microcytic hypochromic and B12 deficiency is macrocytic.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00003",
+   "C00531",
+   "C00975",
+   "C00944",
+   "C00796"
+  ],
+  "stem": "A 1.5-year-old child presents with irritability, anorexia and pallor. He has been on cow's milk since birth with a poor weaning history, and the blood picture shows low Hb with low MCV. What is the most likely diagnosis?",
+  "options": {
+   "A": "Beta thalassaemia",
+   "B": "Iron deficiency anaemia",
+   "C": "Folate deficiency",
+   "D": "Vitamin B12 deficiency",
+   "E": "Anaemia of chronic disease"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Cow's milk is poor in bioavailable iron, can cause occult gut blood loss and displaces iron-rich foods, so prolonged milk feeding without weaning is the classic cause of microcytic hypochromic iron deficiency anaemia in toddlers.",
+  "key_note": "One paper marked C (Folate deficiency); correct is B: cow's milk feeding with poor weaning and microcytosis points to iron deficiency.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00186",
+   "C00249",
+   "C00965",
+   "C00110",
+   "C00896",
+   "C01053",
+   "C00635",
+   "C00292",
+   "C00532"
+  ],
+  "stem": "A 2-year-old child with pallor drinks 6 bottles of milk per day. Hb is 6 g/dL, reticulocyte count is low, MCV, MCH and MCHC are reduced and the film shows hypochromic microcytic cells. Which investigation will confirm the diagnosis?",
+  "options": {
+   "A": "Coombs test",
+   "B": "Folic acid level",
+   "C": "G6PD level",
+   "D": "Serum ferritin",
+   "E": "Vitamin B12 level"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Heavy bottle-milk intake with hypochromic microcytic anaemia and low reticulocytes is iron deficiency, confirmed by low serum ferritin.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00374",
+   "C00548"
+  ],
+  "stem": "A child presents with pallor. Hb is 7 g/dL, TIBC is increased, reticulocytes are normal and transferrin saturation is decreased. What is the diagnosis?",
+  "options": {
+   "A": "Anaemia of chronic disease",
+   "B": "Copper deficiency",
+   "C": "Lead poisoning",
+   "D": "Iron deficiency anaemia",
+   "E": "Thalassaemia"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Raised TIBC with low transferrin saturation and low ferritin is the iron deficiency pattern; in anaemia of chronic disease TIBC is low or normal.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00641",
+   "C00786"
+  ],
+  "stem": "A 2-year-old child with poor appetite, irritability and pica, taking mainly milk, is pale with poor growth. Which peripheral blood film finding is expected?",
+  "options": {
+   "A": "Macrocytes and hypersegmented neutrophils",
+   "B": "Target cells with basophilic stippling only",
+   "C": "Microcytosis and hypochromia",
+   "D": "Spherocytes",
+   "E": "Sickle cells"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Iron deficiency produces microcytic hypochromic red cells with anisopoikilocytosis (pencil cells).",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00800",
+   "C00115",
+   "C00907",
+   "C01058",
+   "C00648"
+  ],
+  "stem": "A 10-month-old boy has increasing pallor. He is on goat's milk and weaning has not been started. CBC shows Hb 6 g/dL and MCV 102 fl. What is the most likely diagnosis?",
+  "options": {
+   "A": "Iron deficiency anaemia",
+   "B": "Folic acid deficiency anaemia",
+   "C": "Beta thalassaemia",
+   "D": "Anaemia of chronic disease",
+   "E": "Aplastic anaemia"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Macrocytosis in an infant fed goat's milk without weaning indicates megaloblastic anaemia from folate deficiency.",
+  "key_note": "Paper keys for the goat's milk variants disagreed (some marked iron deficiency or vitamin B12 deficiency); correct is folic acid deficiency, the classic goat's milk anaemia teaching.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00996"
+  ],
+  "stem": "A 10-month-old presents with failure to gain weight. He is on exclusive diluted goat's milk and weaning has not been started. He is malnourished, irritable and pale, and systemic examination is unremarkable. Investigations: Hb 5.6 g/dL, MCV 100, WBC 4500, platelets 200,000. Which investigation will confirm the diagnosis?",
+  "options": {
+   "A": "Vitamin B12 levels",
+   "B": "Folic acid levels",
+   "C": "Ferritin levels",
+   "D": "Total iron binding capacity",
+   "E": "Vitamin D levels"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Macrocytic anaemia with isolated red cell involvement in an infant on diluted goat's milk is due to folate deficiency, confirmed by serum or red cell folate.",
+  "key_note": "The source key marked A (Vitamin B12 levels); correct is B (folic acid levels), as goat's milk is classically folate deficient.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00842"
+  ],
+  "stem": "A 3-year-old boy with a poor diet lacking animal-source foods has Hb 5.0 g/dL, MCV 112 fl and MCH 30 pg. What is the most likely diagnosis?",
+  "options": {
+   "A": "Iron deficiency anaemia",
+   "B": "Vitamin B12 deficiency",
+   "C": "Thalassaemia trait",
+   "D": "Lead poisoning",
+   "E": "Anaemia of chronic disease"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Macrocytic anaemia with a diet deficient in animal-source foods suggests B12 deficiency (folate deficiency is the main alternative when the diet lacks vegetables).",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00533",
+   "C01126"
+  ],
+  "stem": "A 7-year-old boy with epilepsy on phenytoin for 4 years presents with progressive pallor and lethargy. Hb is 8 g/dL, TLC 5,000, platelets 400,000 and MCV 110 fl. What drug-related complication has he developed?",
+  "options": {
+   "A": "Anaemia of chronic illness",
+   "B": "Malnutrition",
+   "C": "Diamond-Blackfan anaemia",
+   "D": "Megaloblastic anaemia",
+   "E": "Septicaemia"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Phenytoin impairs folate absorption and metabolism, producing macrocytic megaloblastic anaemia that responds to folic acid.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00114",
+   "C01057",
+   "C00902"
+  ],
+  "stem": "A 6-year-old boy has dark-coloured urine for two days. One week earlier he had fever treated with chloroquine. He is very pale and jaundiced with no hepatosplenomegaly. Which is the most appropriate investigation to make the diagnosis?",
+  "options": {
+   "A": "Haemoglobin level",
+   "B": "Haemoglobin electrophoresis",
+   "C": "Glucose-6-phosphate dehydrogenase level",
+   "D": "Pyruvate kinase level",
+   "E": "Serum ferritin"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Acute intravascular haemolysis (dark urine, pallor, jaundice) after an oxidant drug in a boy is G6PD deficiency (X-linked); confirm with G6PD assay, ideally after the acute phase.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00643"
+  ],
+  "stem": "A 7-year-old boy has marked pallor and jaundice following fever and antimalarial therapy. What is the most likely diagnosis?",
+  "options": {
+   "A": "G6PD deficiency",
+   "B": "Hereditary spherocytosis",
+   "C": "Beta thalassaemia major",
+   "D": "Iron deficiency anaemia",
+   "E": "Aplastic anaemia"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Oxidant drugs such as primaquine and sulphonamides precipitate haemolysis in G6PD deficiency.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00633"
+  ],
+  "stem": "A 4-year-old child develops jaundice after treatment with trimethoprim-sulfamethoxazole. What is the likely aetiology?",
+  "options": {
+   "A": "G6PD deficiency",
+   "B": "Biliary atresia",
+   "C": "Hepatitis A",
+   "D": "Hereditary spherocytosis",
+   "E": "Gilbert syndrome"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Sulphonamides are oxidant drugs that trigger haemolysis in G6PD-deficient individuals, producing jaundice and anaemia.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01037"
+  ],
+  "stem": "A 3-year-old boy is brought with irritability, poor feeding and an enlarged abdomen. He is underweight with mild pallor and has hepatosplenomegaly. Hb is 9 g/dL and the peripheral smear shows microcytic hypochromic anaemia. What is the most likely diagnosis?",
+  "options": {
+   "A": "Thalassaemia",
+   "B": "Iron deficiency anaemia",
+   "C": "Sickle cell anaemia",
+   "D": "G6PD deficiency",
+   "E": "Haemophilia"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Microcytic hypochromic anaemia with hepatosplenomegaly (extramedullary haematopoiesis) points to thalassaemia rather than iron deficiency.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00803"
+  ],
+  "stem": "An 8-month-old boy has progressive pallor and poor appetite with hepatosplenomegaly. CBC shows Hb 6 g/dL and MCV 52 fl. Which investigation will confirm the diagnosis?",
+  "options": {
+   "A": "Serum ferritin",
+   "B": "Haemoglobin electrophoresis",
+   "C": "Coombs test",
+   "D": "Bone marrow aspiration",
+   "E": "G6PD level"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Microcytic anaemia with hepatosplenomegaly in an infant suggests beta thalassaemia major, confirmed by haemoglobin electrophoresis (or HPLC).",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00976",
+   "C00841"
+  ],
+  "stem": "A 6-year-old child on regular blood transfusions has pallor, frontal bossing, a prominent maxilla and hepatosplenomegaly. Which haemoglobin electrophoresis pattern is expected?",
+  "options": {
+   "A": "Normal: HbA1 above 95%, HbA2 2-3%, HbF below 1%",
+   "B": "Absent HbA1, HbA2 raised (up to about 10%), HbF above 90%",
+   "C": "HbS above 80% with HbF below 20%",
+   "D": "HbA1 20-40%, HbA2 below 2%, HbF 1%",
+   "E": "Hb Barts and HbH only"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Transfusion dependence with bony changes (thalassaemic facies) and hepatosplenomegaly is beta thalassaemia major, where HbA is absent or minimal, HbF predominates and HbA2 is variable or raised.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00380",
+   "C01111"
+  ],
+  "stem": "Interpret the haemoglobin electrophoresis: HbA1 20-40%, HbA2 elevated (above 3.5%), HbF 60-80%. What is the likely diagnosis?",
+  "options": {
+   "A": "Alpha thalassaemia major",
+   "B": "Alpha thalassaemia intermedia",
+   "C": "Beta thalassaemia minor",
+   "D": "Beta thalassaemia intermedia",
+   "E": "Beta thalassaemia major"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "In beta thalassaemia major HbA1 is absent (or under about 10%) and HbF is above 90%; residual HbA1 of 20-40% with HbF 60-80% indicates the milder intermedia phenotype.",
+  "key_note": "One variant marked E (Beta thalassaemia major); correct is D (intermedia) as HbA1 is absent in the major form.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00818"
+  ],
+  "stem": "A 22-month-old baby of consanguineous parents has hepatosplenomegaly, anaemia and abnormal haemoglobin electrophoresis, with a milder course than transfusion-dependent disease. What is the diagnosis?",
+  "options": {
+   "A": "Beta thalassaemia major",
+   "B": "Beta thalassaemia intermedia",
+   "C": "Beta thalassaemia minor",
+   "D": "Hereditary spherocytosis",
+   "E": "Iron deficiency anaemia"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Intermedia causes organomegaly and anaemia with a milder, largely transfusion-independent course, in contrast to major which presents in the first year and is transfusion dependent.",
+  "key_note": "Options written by reviewer; the source gave only the answer. The stem is vague; answer follows the source.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00112",
+   "C00886",
+   "C01055"
+  ],
+  "stem": "A 12-month-old girl with thalassaemia major presents in OPD with pallor. There is a history of two blood transfusions in the last six months. What is the most appropriate next step of management?",
+  "options": {
+   "A": "Blood transfusion",
+   "B": "Folic acid supplementation",
+   "C": "Iron supplementation",
+   "D": "Intravenous desferrioxamine",
+   "E": "Splenectomy"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Folic acid is given routinely in thalassaemia major because of increased red cell turnover. Chelation is started only after about 10-20 transfusions or ferritin above 1000 ng/mL, iron must be avoided, and splenectomy is delayed.",
+  "key_note": "Flawed question: paper keys marked B (folic acid) while a compiled summary gave A (transfusion) and an AI note D (desferrioxamine). Folic acid is kept as the paper key; transfusion is also defensible if Hb is low.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00118",
+   "C01061"
+  ],
+  "stem": "A 7-year-old girl with thalassaemia major has had repeated blood transfusions and serum ferritin above 1300 ng/mL. Which is the most appropriate medication for chelation?",
+  "options": {
+   "A": "Ascorbic acid",
+   "B": "Deferoxamine",
+   "C": "Hydroxyurea",
+   "D": "Penicillamine",
+   "E": "Zinc sulphate"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Deferoxamine (subcutaneous or IV infusion) is the standard chelator; deferasirox is the oral alternative. Penicillamine chelates copper, and hydroxyurea raises HbF.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00213",
+   "C00813"
+  ],
+  "stem": "A 9-year-old girl with thalassaemia major, on repeated transfusions, presents with pallor and hepatosplenomegaly. What is the definitive treatment?",
+  "options": {
+   "A": "Iron chelation therapy",
+   "B": "Allogeneic bone marrow (stem cell) transplantation",
+   "C": "Splenectomy",
+   "D": "Hydroxyurea",
+   "E": "Regular folic acid"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Haematopoietic stem cell transplantation from an HLA-matched donor is the only curative treatment; transfusion and chelation are supportive.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00294"
+  ],
+  "stem": "A 12-month-old child has pallor, irritability and hepatosplenomegaly. Hb is 7.9 g/dL with hypochromic microcytic anaemia, and electrophoresis shows HbA 4%, HbA2 2.5% and HbF 91%. What is the best long-term management strategy?",
+  "options": {
+   "A": "Start regular red cell concentrate transfusions",
+   "B": "Start platelet transfusion",
+   "C": "Start oral B12 with folic acid",
+   "D": "Start long-term corticosteroids",
+   "E": "Start oral iron supplementation"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "This is beta thalassaemia major; management is regular transfusion to keep pre-transfusion Hb above about 9-10 g/dL, with chelation and folic acid. Oral iron is contraindicated.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00670",
+   "C00698",
+   "C00855",
+   "C00932",
+   "C01091"
+  ],
+  "stem": "A couple with a child with thalassaemia major, on monthly transfusions, are expecting another baby. Both parents carry the thalassaemia trait. What is the chance that the next child has thalassaemia major?",
+  "options": {
+   "A": "0%",
+   "B": "10%",
+   "C": "25%",
+   "D": "50%",
+   "E": "100%"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Thalassaemia major is autosomal recessive: two carrier parents have a 25% risk of an affected child in every pregnancy (50% carrier, 25% normal), independent of previous children.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00339"
+  ],
+  "stem": "In severe haemophilia A, circulating factor VIII activity is:",
+  "options": {
+   "A": "Less than 1%",
+   "B": "1-2%",
+   "C": "2-5%",
+   "D": "5-30%",
+   "E": "More than 30%"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Severe haemophilia has factor activity below 1% (spontaneous bleeds), moderate 1-5% and mild above 5%.",
+  "key_note": "Some papers listed only four options; options were revised by the reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00214"
+  ],
+  "stem": "What is the most serious (life-threatening) complication of haemophilia?",
+  "options": {
+   "A": "Intracranial haemorrhage",
+   "B": "Recurrent haemarthrosis",
+   "C": "Chronic haemarthrosis"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Haemarthrosis is the commonest bleed and cause of crippling arthropathy, but intracranial haemorrhage is the leading cause of death in haemophilia.",
+  "key_note": "Source stem asked for 'definitive complications' and gave only three options; reworded to the most serious complication.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00688",
+   "C00928"
+  ],
+  "stem": "A 3-year-old boy presents with a swollen, painful elbow joint after a fall. He has had easy bruising since he started walking, and a maternal uncle had prolonged bleeding after minor cuts. What is the most likely diagnosis?",
+  "options": {
+   "A": "Connective tissue disorder",
+   "B": "Haemophilia A",
+   "C": "Leukaemia",
+   "D": "Platelet function disorder",
+   "E": "Von Willebrand disease"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "X-linked recessive inheritance through the maternal line with haemarthrosis and bruising on starting to walk indicates haemophilia A.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01102",
+   "C00251"
+  ],
+  "stem": "A 4-year-old boy presents with recurrent bleeding and a swollen left knee without trauma. He had severe bleeding after circumcision. Bleeding time and PT are normal and APTT is prolonged. What is the likely diagnosis?",
+  "options": {
+   "A": "Haemophilia A",
+   "B": "Haemophilia B",
+   "C": "Von Willebrand disease",
+   "D": "DIC",
+   "E": "ITP"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Haemarthrosis with isolated prolonged APTT and normal PT and bleeding time in a boy is haemophilia (A is about 80-85%, B is Christmas disease). Normal bleeding time and PT exclude vWD, DIC and ITP.",
+  "key_note": "Haemophilia A was marked; haemophilia B has an identical coagulation profile and needs factor assay to separate.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00644",
+   "C00795"
+  ],
+  "stem": "A 2-year-old boy has easy bruising and prolonged bleeding after circumcision and is diagnosed with haemophilia. What is the most indicative laboratory finding?",
+  "options": {
+   "A": "Prolonged prothrombin time",
+   "B": "Prolonged activated partial thromboplastin time",
+   "C": "Prolonged bleeding time",
+   "D": "Low platelet count",
+   "E": "Prolonged thrombin time"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Haemophilia A and B affect the intrinsic pathway, giving isolated prolonged APTT with normal PT, platelet count and bleeding time.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00295"
+  ],
+  "stem": "A 7-year-old boy has recurrent knee swelling and pain after minor trauma and bled for long after circumcision. APTT is prolonged with normal PT and platelet count. What is the most appropriate next step to confirm the diagnosis?",
+  "options": {
+   "A": "Give vitamin K and repeat the coagulation profile after 24 hours",
+   "B": "Order a liver function panel",
+   "C": "Perform bleeding time to differentiate haemophilia A from von Willebrand disease",
+   "D": "Perform factor VIII and factor IX assays",
+   "E": "Perform platelet aggregation studies"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Prolonged APTT with normal PT and platelets in a boy with haemarthrosis suggests haemophilia; specific factor VIII and IX assays identify the deficient factor and severity.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00113",
+   "C00895",
+   "C01056",
+   "C00853"
+  ],
+  "stem": "A 10-year-old boy with haemophilia presents with haemarthrosis of the right knee. What is the next step of management?",
+  "options": {
+   "A": "Packed cell transfusion",
+   "B": "Fresh frozen plasma transfusion",
+   "C": "Factor VIII infusion",
+   "D": "Intranasal desmopressin",
+   "E": "Intravenous antibiotics"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Haemarthrosis in haemophilia A needs prompt factor VIII replacement, with rest, ice, compression and elevation. FFP gives inadequate factor levels and desmopressin is only for mild disease.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00990"
+  ],
+  "stem": "A boy with haemophilia has a bleeding problem. What is the mode of inheritance of haemophilia?",
+  "options": {
+   "A": "Autosomal dominant",
+   "B": "Autosomal recessive",
+   "C": "X-linked recessive",
+   "D": "X-linked dominant",
+   "E": "Y-linked"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Haemophilia A and B are X-linked recessive, so males are affected and females are usually carriers.",
+  "key_note": "Source stem was incomplete ('car accident victim has bleeding problems'); reworded to the haemophilia inheritance point it tests.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00064"
+  ],
+  "stem": "A patient with suspected von Willebrand disease has mucocutaneous bleeding, prolonged bleeding time and prolonged APTT. Which coagulation factor level is reduced?",
+  "options": {
+   "A": "Factor VII",
+   "B": "Factor VIII",
+   "C": "Factor IX",
+   "D": "Factor XI",
+   "E": "Factor XII"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "von Willebrand factor carries and stabilises factor VIII, so its deficiency lowers factor VIII and prolongs the APTT in addition to impairing platelet adhesion.",
+  "key_note": "The paper marked D (Factor XI); correct is B (Factor VIII).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00111",
+   "C00891",
+   "C00366",
+   "C01054"
+  ],
+  "stem": "A 2-year-old boy is diagnosed with von Willebrand disease. What is the mode of inheritance?",
+  "options": {
+   "A": "Autosomal dominant",
+   "B": "Autosomal recessive",
+   "C": "X-linked dominant",
+   "D": "X-linked recessive",
+   "E": "Y-linked"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Most vWD (types 1 and 2) is autosomal dominant; only type 3, the severe form, is autosomal recessive.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00653",
+   "C00929",
+   "C01038"
+  ],
+  "stem": "A 9-year-old girl has easy bruising, epistaxis and prolonged bleeding after a dental extraction. APTT is prolonged. What is the most likely diagnosis?",
+  "options": {
+   "A": "Aplastic anaemia",
+   "B": "G6PD deficiency",
+   "C": "Haemophilia A",
+   "D": "Immune thrombocytopenic purpura",
+   "E": "Von Willebrand disease"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Mucocutaneous bleeding with prolonged APTT in a girl (autosomal inheritance) indicates vWD, the commonest inherited bleeding disorder. ITP would have a low platelet count and normal APTT.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00252"
+  ],
+  "stem": "A child with von Willebrand disease develops worsening thrombocytopenia after DDAVP. Which type is this?",
+  "options": {
+   "A": "Type 1",
+   "B": "Type 2A",
+   "C": "Type 2B",
+   "D": "Type 2N",
+   "E": "Type 3"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "In type 2B vWD the abnormal vWF binds platelets spontaneously, and DDAVP releases more of it, worsening thrombocytopenia; DDAVP is therefore avoided.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00116",
+   "C01059",
+   "C00977",
+   "C00854",
+   "C00797"
+  ],
+  "stem": "A 4-year-old girl presents with petechiae and bruises all over the body after a recent upper respiratory tract infection, with no hepatosplenomegaly. Hb is 10 g/dL and platelet count is 30,000/mm3. What is the most likely diagnosis?",
+  "options": {
+   "A": "Acute leukaemia",
+   "B": "Iron deficiency anaemia",
+   "C": "Immune thrombocytopenic purpura",
+   "D": "Haemophilia",
+   "E": "Henoch-Schonlein purpura"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Sudden petechiae and bruising in a well child after a viral illness with isolated thrombocytopenia and no organomegaly is acute ITP. HSP has a normal platelet count, and leukaemia gives organomegaly and other cytopenias.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01093"
+  ],
+  "stem": "ITP is best described as which type of disorder?",
+  "options": {
+   "A": "Autosomal recessive",
+   "B": "Autosomal dominant",
+   "C": "X-linked dominant",
+   "D": "Autoimmune disorder",
+   "E": "X-linked recessive"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "ITP is an acquired autoimmune disease in which antiplatelet antibodies cause platelet destruction in the spleen; it is not inherited.",
+  "key_note": "Source stem asked for the 'mode of transmission'; reworded.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00449",
+   "C00464",
+   "C00250"
+  ],
+  "stem": "A 3-year-old girl presents with sudden-onset petechiae and bruising on her legs after a recent URI. She looks well, is afebrile and has no lymphadenopathy or hepatosplenomegaly. What is the treatment?",
+  "options": {
+   "A": "Immediate platelet transfusion",
+   "B": "Bone marrow biopsy",
+   "C": "Intravenous immunoglobulin or corticosteroids",
+   "D": "Splenectomy",
+   "E": "Observation only"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Acute ITP is treated with prednisolone or IVIG when bleeding is significant or platelets are very low; platelets are given only for life-threatening bleeding, and splenectomy is for chronic refractory ITP.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00645"
+  ],
+  "stem": "A 4-year-old with a viral illness and petechiae is diagnosed with ITP. Bone marrow examination is warranted if which feature is present?",
+  "options": {
+   "A": "Isolated thrombocytopenia",
+   "B": "Normal haemoglobin",
+   "C": "Hepatosplenomegaly",
+   "D": "Recent viral illness",
+   "E": "Mucosal bleeding"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Organomegaly, lymphadenopathy, bone pain or other cytopenias are atypical for ITP and suggest leukaemia or marrow failure, needing marrow examination.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00293"
+  ],
+  "stem": "A 6-year-old boy has persistent thrombocytopenia for 12 months refractory to steroids and IVIG (chronic ITP) and is being considered for splenectomy. What is the most appropriate preoperative requirement?",
+  "options": {
+   "A": "Completion of hepatitis B vaccination",
+   "B": "Vaccination against encapsulated bacteria",
+   "C": "Bone marrow biopsy to exclude acute leukaemia",
+   "D": "Long-term daily cefixime prophylaxis",
+   "E": "Screening for folate deficiency and starting folic acid"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Splenectomy predisposes to overwhelming infection by encapsulated organisms, so pneumococcal, Hib and meningococcal vaccines are given at least 2 weeks beforehand, with penicillin prophylaxis afterwards.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00595"
+  ],
+  "stem": "A child presents with nosebleeds, bruising and retinal haemorrhages. What is the most likely cause?",
+  "options": {
+   "A": "Acute lymphoblastic leukaemia",
+   "B": "Haemophilia A",
+   "C": "Von Willebrand disease",
+   "D": "Henoch-Schonlein purpura",
+   "E": "Vitamin K deficiency"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Bleeding with retinal haemorrhages reflects marked thrombocytopenia and anaemia from marrow infiltration in acute leukaemia.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00654",
+   "C01039"
+  ],
+  "stem": "A 10-year-old girl has fever and bruises for two weeks. She is pale with no lymphadenopathy or hepatosplenomegaly. Hb is 6 g/dL, TLC 2,700 and platelets 90,000. What is the most appropriate investigation to clinch the diagnosis?",
+  "options": {
+   "A": "Bone marrow aspiration",
+   "B": "Bleeding time",
+   "C": "Factor VIII assay",
+   "D": "Reticulocyte count",
+   "E": "PT and APTT"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Pancytopenia in a child suggests aplastic anaemia or leukaemia, and marrow aspiration and biopsy establish the diagnosis.",
+  "key_note": "",
+  "figure": ""
+ }
+]

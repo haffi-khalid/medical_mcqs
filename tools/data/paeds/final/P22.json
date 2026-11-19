@@ -1,0 +1,669 @@
+[
+ {
+  "cids": [
+   "C00143",
+   "C00602",
+   "C00703"
+  ],
+  "stem": "A 4-year-old boy presents with short stature. He is proportionately short and his height is below the 5th centile for age. X-ray of the wrist suggests a bone age of 2 years 6 months. What is the most appropriate next investigation?",
+  "options": {
+   "A": "Thyroid stimulating hormone",
+   "B": "Growth hormone stimulation test",
+   "C": "Vitamin D level",
+   "D": "Serum parathyroid hormone",
+   "E": "17-hydroxyprogesterone level"
+  },
+  "answer": "B",
+  "explanation": "Proportionate short stature with markedly delayed bone age suggests growth hormone deficiency, confirmed by provocative GH stimulation testing (insulin, clonidine or glucagon). Vitamin D and PTH levels are for rickets or calcium disorders, which give disproportionate or skeletal changes.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00076"
+  ],
+  "stem": "Which of the following is NOT an indication for growth hormone therapy?",
+  "options": {
+   "A": "Constitutional short stature",
+   "B": "Chronic kidney disease",
+   "C": "Turner syndrome",
+   "D": "Panhypopituitarism",
+   "E": "Growth hormone deficiency"
+  },
+  "answer": "A",
+  "explanation": "GH is licensed for GH deficiency, panhypopituitarism, Turner syndrome and chronic kidney disease (also Prader-Willi, SGA). Constitutional delay is a normal variant that catches up by itself.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00391"
+  ],
+  "stem": "A four-year-old girl is brought with short stature. Which one of the following tests will NOT be part of her evaluation?",
+  "options": {
+   "A": "Growth hormone level",
+   "B": "Insulin stimulation test",
+   "C": "Thyroid function test",
+   "D": "X-ray knee joint",
+   "E": "X-ray wrist joint"
+  },
+  "answer": "D",
+  "explanation": "Bone age is assessed on an X-ray of the left hand and wrist, not the knee. GH level, stimulation tests and thyroid function are standard in evaluating short stature.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00798"
+  ],
+  "stem": "A 4-year-old boy is small for his age and you want to know his bone age. Which skeletal radiograph do you request?",
+  "options": {
+   "A": "Left hand and wrist",
+   "B": "Right knee",
+   "C": "Lateral skull",
+   "D": "Pelvis",
+   "E": "Lumbar spine"
+  },
+  "answer": "A",
+  "explanation": "Bone age is assessed from a radiograph of the left hand and wrist (Greulich and Pyle or Tanner-Whitehouse), comparing ossification centres with standards.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00429"
+  ],
+  "stem": "Which of the following endocrinopathies is an example of disproportionate short stature?",
+  "options": {
+   "A": "Cushing syndrome",
+   "B": "Diabetes mellitus",
+   "C": "Hypothyroidism",
+   "D": "Hypoparathyroidism",
+   "E": "Growth hormone deficiency"
+  },
+  "answer": "C",
+  "explanation": "Hypothyroidism retards skeletal growth with a relatively large upper segment (infantile proportions), so it gives disproportionate short stature. Growth hormone deficiency gives proportionate short stature.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00173",
+   "C00468",
+   "C00263"
+  ],
+  "stem": "A 10-year-old girl presents with short stature. Her bone age corresponds to her chronological age. What is the most likely diagnosis?",
+  "options": {
+   "A": "Constitutional delay",
+   "B": "Hypothyroidism",
+   "C": "Growth hormone deficiency",
+   "D": "Familial short stature"
+  },
+  "answer": "D",
+  "explanation": "Normal bone age with short stature and a normal growth velocity is typical of familial (genetic) short stature. Constitutional delay, hypothyroidism and GH deficiency all have delayed bone age.",
+  "key_note": "Both papers marked A (Constitutional delay); correct is D: bone age equal to chronological age points to familial short stature, since constitutional delay has a delayed bone age.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00367",
+   "C00541",
+   "C00145",
+   "C00604",
+   "C00661",
+   "C00390",
+   "C00563",
+   "C00305",
+   "C00802"
+  ],
+  "stem": "A 10-year-old boy is evaluated for short stature. His height is 125 cm and bone age is 8 years. He is developmentally normal with a normal past medical history. His father began puberty at 14 years, completed growth at 19 years and is 6 feet tall. What is the likely diagnosis?",
+  "options": {
+   "A": "Achondroplasia",
+   "B": "Constitutional short stature",
+   "C": "Familial short stature",
+   "D": "Growth hormone deficiency",
+   "E": "Hypothyroidism"
+  },
+  "answer": "B",
+  "explanation": "Delayed bone age with a family history of late puberty and late growth cessation, and normal development, is constitutional delay. He will catch up and reach a normal adult height.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00141",
+   "C00600"
+  ],
+  "stem": "A neonate with lethargy and constipation is worked up for congenital hypothyroidism on the 5th day of life, with TSH above 50 IU. What is the most common cause of congenital hypothyroidism?",
+  "options": {
+   "A": "Thyroid dysgenesis",
+   "B": "Iodine deficiency",
+   "C": "Dyshormonogenesis",
+   "D": "Defective iodine intake",
+   "E": "Maternal drug intake"
+  },
+  "answer": "A",
+  "explanation": "Thyroid dysgenesis (agenesis, hypoplasia or ectopic gland) accounts for about 80-85% of sporadic congenital hypothyroidism. Dyshormonogenesis is responsible for roughly 10-15%.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00428"
+  ],
+  "stem": "You are examining a newborn and suspect hypothyroidism. Which of the following signs would you NOT expect?",
+  "options": {
+   "A": "Coarse facies",
+   "B": "Protruded tongue",
+   "C": "Myxoedema",
+   "D": "Umbilical hernia",
+   "E": "Small, closed anterior fontanelle"
+  },
+  "answer": "E",
+  "explanation": "Congenital hypothyroidism gives a large anterior fontanelle with wide open posterior fontanelle, along with coarse facies, macroglossia and umbilical hernia. A small or closed fontanelle is not a feature.",
+  "key_note": "Source option E was garbled ('Closed open Fontella'); reworded as a small, closed fontanelle.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00302"
+  ],
+  "stem": "A 6-week-old infant is brought with constipation, jaundice and excessive sleepiness. He has a large tongue, wide open anterior and posterior fontanelles, coarse dry skin, umbilical hernia and hypotonia. X-ray of the knee shows no ossification centre. What is the most likely cause?",
+  "options": {
+   "A": "Autoimmune thyroiditis",
+   "B": "Ectopic thyroid",
+   "C": "Peroxidase deficiency",
+   "D": "Pituitary hormone deficiency",
+   "E": "Thyroid agenesis"
+  },
+  "answer": "E",
+  "explanation": "Absent distal femoral epiphysis at birth indicates severe intrauterine hypothyroidism, which is typical of thyroid agenesis. Ectopic gland and dyshormonogenesis usually give milder disease.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00144",
+   "C00603",
+   "C00660",
+   "C00967"
+  ],
+  "stem": "A 4-month-old infant presents with constipation for two weeks. On examination he is lethargic with coarse facies and an umbilical hernia. Which investigation will you order to confirm the diagnosis?",
+  "options": {
+   "A": "Thyroid stimulating hormone (with T4)",
+   "B": "Growth hormone",
+   "C": "Serum cortisol",
+   "D": "Serum aldosterone",
+   "E": "Serum calcium"
+  },
+  "answer": "A",
+  "explanation": "The picture is congenital hypothyroidism; confirmation is by raised TSH with low free T4. Start levothyroxine without delay.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00203",
+   "C00459"
+  ],
+  "stem": "A 3-month-old infant has constipation, jaundice, macroglossia and hypotonia. TSH is above 100 and T4 is low. What is the long-term complication if treatment is delayed?",
+  "options": {
+   "A": "Intellectual disability",
+   "B": "Hypoglycaemia",
+   "C": "Cardiomyopathy",
+   "D": "Cerebral palsy",
+   "E": "Short stature"
+  },
+  "answer": "A",
+  "explanation": "Thyroid hormone is essential for brain myelination in the first 2-3 years; untreated congenital hypothyroidism leads to irreversible intellectual disability (cretinism). Growth is largely recoverable.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00247"
+  ],
+  "stem": "What is the primary goal of treatment in congenital hypothyroidism?",
+  "options": {
+   "A": "Prevent permanent intellectual disability by early thyroxine replacement",
+   "B": "Improve final adult height only",
+   "C": "Resolve constipation",
+   "D": "Reduce size of the thyroid gland",
+   "E": "Prevent hypoglycaemia"
+  },
+  "answer": "A",
+  "explanation": "Levothyroxine started early (ideally within the first 2 weeks) normalises T4 and TSH and protects neurodevelopment.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00389",
+   "C00564"
+  ],
+  "stem": "A two-year-old girl is brought with short stature, developmental delay and constipation. You expect a raised level of which one of the following?",
+  "options": {
+   "A": "Free T3",
+   "B": "Growth hormone",
+   "C": "Thyroid stimulating hormone",
+   "D": "T4",
+   "E": "Cortisol"
+  },
+  "answer": "C",
+  "explanation": "Short stature, developmental delay and constipation indicate hypothyroidism; in primary hypothyroidism TSH is raised while T4 is low.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01113"
+  ],
+  "stem": "A 9-year-old developmentally normal boy has short stature, pallor, coarse facies and intermittent constipation for a year. His height is 100 cm and bone age is 3 years. What is the likely diagnosis?",
+  "options": {
+   "A": "Constitutional short stature",
+   "B": "Familial short stature",
+   "C": "Hypothyroidism",
+   "D": "Hypopituitarism",
+   "E": "Growth hormone deficiency"
+  },
+  "answer": "C",
+  "explanation": "Coarse facies, constipation and a grossly delayed bone age (far more than in GH deficiency) point to hypothyroidism.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00291"
+  ],
+  "stem": "A 9-year-old boy presents with chronic fatigue, salt craving, recurrent vomiting and diffuse hyperpigmentation, especially in sun-exposed areas. Blood pressure is 60/40 mmHg and labs show hyponatraemia with hyperkalaemia. Which explanation best accounts for these findings?",
+  "options": {
+   "A": "Aldosterone deficiency leads to sodium loss and potassium retention",
+   "B": "Cortisol deficiency alone leads to sodium loss and potassium retention",
+   "C": "Cortisol excess leads to dilutional hyponatraemia",
+   "D": "Growth hormone deficiency leads to a salt-wasting crisis",
+   "E": "Renin deficiency leads to reduced sodium reabsorption"
+  },
+  "answer": "A",
+  "explanation": "In Addison disease, loss of aldosterone prevents distal tubular sodium reabsorption and potassium excretion; high ACTH from low cortisol causes the pigmentation.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00077"
+  ],
+  "stem": "A 5-year-old child is brought to the emergency with fever and loose stools. He is a known case of congenital adrenal hypoplasia. What electrolyte imbalance is expected?",
+  "options": {
+   "A": "Hyponatraemia and hyperkalaemia",
+   "B": "Hypernatraemia and hypokalaemia",
+   "C": "Hypoglycaemia and hypercalcaemia",
+   "D": "Hypokalaemia with hypocalcaemia",
+   "E": "Hypernatraemia and hyperkalaemia"
+  },
+  "answer": "A",
+  "explanation": "Adrenal insufficiency causes aldosterone deficiency, giving hyponatraemia and hyperkalaemia, and cortisol deficiency, giving hypoglycaemia, worsened by diarrhoea.",
+  "key_note": "One paper marked 'Hypoglycaemia, hyperkalaemia' (a mixed option); the expected electrolyte pattern is hyponatraemia with hyperkalaemia.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00950"
+  ],
+  "stem": "What is the likely diagnosis in a 3-week-old infant with hypoglycaemia, hyperkalaemia and lethargy?",
+  "options": {
+   "A": "Congenital adrenal hyperplasia (salt-wasting)",
+   "B": "Congenital hypothyroidism",
+   "C": "Neonatal sepsis",
+   "D": "Galactosaemia",
+   "E": "Hypopituitarism"
+  },
+  "answer": "A",
+  "explanation": "Salt-wasting 21-hydroxylase deficiency presents at 1-3 weeks with vomiting, lethargy, hyponatraemia, hyperkalaemia and hypoglycaemia.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00430"
+  ],
+  "stem": "You are examining a neonate with ambiguous genitalia. Which screening test will help reach the diagnosis?",
+  "options": {
+   "A": "Progesterone",
+   "B": "17-hydroxyprogesterone",
+   "C": "Oestrogen",
+   "D": "Serum electrolytes",
+   "E": "Ultrasound KUB"
+  },
+  "answer": "B",
+  "explanation": "The commonest cause is 21-hydroxylase deficiency (CAH), diagnosed by a raised 17-hydroxyprogesterone. Electrolytes guide salt-wasting but do not make the diagnosis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00304"
+  ],
+  "stem": "A 10-year-old asthmatic boy on long-term medication presents with weight gain over six months. His weight is 60 kg (above 95th centile), height 135 cm (25th centile), blood pressure 140/90 mmHg and random blood sugar 310 mg/dl. He is plethoric with purplish abdominal striae. Which investigation will you carry out to diagnose the condition?",
+  "options": {
+   "A": "Glucose tolerance test",
+   "B": "Renal function tests",
+   "C": "Serum cortisol levels",
+   "D": "Serum renin levels",
+   "E": "Thyroid function tests"
+  },
+  "answer": "C",
+  "explanation": "Obesity with hypertension, striae and hyperglycaemia is Cushing syndrome (here likely from steroids); cortisol assessment is the diagnostic test. Exogenous obesity usually accompanies normal or tall stature, whereas Cushing causes growth retardation.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00262"
+  ],
+  "stem": "A boy has type 1 diabetes mellitus. Which feature classifies it as autoimmune?",
+  "options": {
+   "A": "Positive islet cell autoantibodies (anti-GAD65, IA-2)",
+   "B": "Low serum insulin",
+   "C": "Raised HbA1c",
+   "D": "Presence of glycosuria",
+   "E": "Obesity at presentation"
+  },
+  "answer": "A",
+  "explanation": "Type 1A diabetes is defined by autoantibodies against islet cells, GAD65, IA-2 or insulin. Low insulin shows deficiency but not its cause.",
+  "key_note": "Source gave 'Low insulin'; the distinguishing autoimmune marker is islet autoantibodies. Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00142",
+   "C00601",
+   "C00659",
+   "C00704",
+   "C00883",
+   "C00264",
+   "C00425"
+  ],
+  "stem": "A 6-year-old girl is brought to the emergency with vomiting and breathing difficulty for one day. She is drowsy and severely dehydrated. Her mother says she has had type 1 diabetes for one year and is on insulin with poor compliance. Her random blood sugar is 318 mg/dl. What is the most likely complication of diabetes in this patient?",
+  "options": {
+   "A": "Hypoglycaemia",
+   "B": "Metabolic alkalosis",
+   "C": "Diabetes insipidus",
+   "D": "Diabetic ketoacidosis",
+   "E": "Hypocalcaemia"
+  },
+  "answer": "D",
+  "explanation": "Poor insulin compliance with vomiting, Kussmaul breathing, dehydration and drowsiness is diabetic ketoacidosis from absolute insulin deficiency, with metabolic acidosis, not alkalosis.",
+  "key_note": "Merged with two other DKA diagnosis items; one had an incomplete stem (glucose and ketones, no acidosis), so DKA is expected only when acidosis is present.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00368",
+   "C00542"
+  ],
+  "stem": "A 6-year-old child presents with weight loss over two weeks and nocturnal enuresis, and is increasingly confused for a few hours. His breath smells fruity. Blood pressure is 90/60 mmHg, heart rate 130/min, mucous membranes are dry and respiration is rapid and deep. Which laboratory findings are expected?",
+  "options": {
+   "A": "Blood sugar 120 mg/dl, pH < 7.25, HCO3 up to 30 mEq/L",
+   "B": "Blood sugar > 250 mg/dl, pH < 7.2, HCO3 up to 15 mEq/L",
+   "C": "Blood sugar > 150 mg/dl, pH > 7.5, HCO3 > 25 mEq/L",
+   "D": "Blood sugar > 500 mg/dl, pH < 7.1, HCO3 < 20 mEq/L",
+   "E": "Blood sugar 300 mg/dl, pH < 7.35, HCO3 < 10 mEq/L"
+  },
+  "answer": "B",
+  "explanation": "ISPAD criteria for DKA are glucose above 200 mg/dl (11 mmol/L), venous pH below 7.3 and/or HCO3 below 15 mEq/L with ketonaemia; option B fits best.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00204"
+  ],
+  "stem": "Which electrolyte disturbance is a recognised cause of sudden cardiac arrest in a child with diabetic ketoacidosis?",
+  "options": {
+   "A": "Hyperkalaemia",
+   "B": "Hyperglycaemia",
+   "C": "Respiratory acidosis",
+   "D": "Hypernatraemia",
+   "E": "Hypocalcaemia"
+  },
+  "answer": "A",
+  "explanation": "Acidosis and insulin lack shift potassium out of cells, so serum potassium may be dangerously high at presentation and cause arrhythmia and arrest.",
+  "key_note": "Flawed question: hypokalaemia during insulin therapy is also a classic cause of arrest in DKA; of the options listed, hyperkalaemia is the best answer. Source stem only said 'DKA scenario'; question rewritten.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00303"
+  ],
+  "stem": "A 6-year-old girl is brought to the emergency with respiratory difficulty and depressed consciousness for six hours. Her mother reports polyuria and polydipsia for one week. She has rapid deep breathing, heart rate 140/min, blood pressure 90/60 mmHg and blood glucose 500 mg/dl. What is the fluid of choice for resuscitation?",
+  "options": {
+   "A": "0.18% saline",
+   "B": "0.45% saline",
+   "C": "0.9% saline (isotonic)",
+   "D": "5% dextrose in 0.45% saline",
+   "E": "5% dextrose in 0.9% saline"
+  },
+  "answer": "C",
+  "explanation": "Resuscitation in DKA is with isotonic (0.9%) saline, 10-20 ml/kg over the first hour; dextrose is added only once glucose falls to about 250 mg/dl.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00427"
+  ],
+  "stem": "A 5-year-old known case of insulin-dependent diabetes is brought to the emergency with acidotic breathing and blood glucose 450 mg/dl. You suspect diabetic ketoacidosis. How will you manage the child?",
+  "options": {
+   "A": "Start insulin infusion at 0.1 unit/kg/hr immediately",
+   "B": "Give normal saline bolus 10-20 ml/kg in the first hour",
+   "C": "Give normal saline bolus and start insulin in the first hour",
+   "D": "Calculate total fluid requirement and start fluids with insulin infusion",
+   "E": "Give total corrected deficit from the first hour with insulin"
+  },
+  "answer": "B",
+  "explanation": "Initial management is fluid resuscitation with 10-20 ml/kg isotonic saline over the first hour; insulin infusion (0.05-0.1 U/kg/hr) is started after this, with the deficit replaced over 24-48 hours.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00686"
+  ],
+  "stem": "A 5-year-old known case of type 1 diabetes for 2 years presents with vomiting, abdominal pain and fever for 2 days and breathing difficulty for 1 day. His blood sugar is 496 mg/dl and blood gas pH is 7.16. What is the most appropriate treatment plan?",
+  "options": {
+   "A": "Insulin infusion alone",
+   "B": "Intravenous antibiotics",
+   "C": "Intravenous steroids",
+   "D": "Normal saline and insulin infusion",
+   "E": "One-fifth saline and injection insulin"
+  },
+  "answer": "D",
+  "explanation": "This is DKA; treat with isotonic saline resuscitation and rehydration plus a continuous low-dose insulin infusion. Hypotonic fluids risk cerebral oedema.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00248"
+  ],
+  "stem": "In diabetic ketoacidosis, after initial fluid resuscitation, how is insulin given?",
+  "options": {
+   "A": "Continuous intravenous infusion of 0.05-0.1 unit/kg/hr",
+   "B": "Intravenous bolus of 0.5 unit/kg",
+   "C": "Subcutaneous once daily dose",
+   "D": "Intramuscular bolus every 6 hours",
+   "E": "Subcutaneous sliding scale only"
+  },
+  "answer": "A",
+  "explanation": "Regular insulin is given as a continuous IV infusion at 0.1 U/kg/hr (ISPAD 0.05-0.1), started about one hour after fluids; avoid boluses, which increase the risk of cerebral oedema.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00815"
+  ],
+  "stem": "A 3-year-old girl stabilised after diabetic ketoacidosis requires 24 units/day of insulin. What is the most appropriate regimen?",
+  "options": {
+   "A": "Two-thirds in the morning and one-third before dinner, each as a mix of intermediate and short-acting insulin",
+   "B": "Whole dose as a single morning injection of intermediate insulin",
+   "C": "Equal doses of 12 units morning and 12 units evening",
+   "D": "One-third in the morning and two-thirds before dinner",
+   "E": "Whole dose as short-acting insulin before dinner"
+  },
+  "answer": "A",
+  "explanation": "The conventional split regimen gives two-thirds of the daily dose before breakfast and one-third before the evening meal, each about two-thirds intermediate (NPH) and one-third short-acting.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00426",
+   "C00962"
+  ],
+  "stem": "A 4-year-old child is a diagnosed case of type 1 diabetes, on insulin with good compliance. Which test should be performed to check glycaemic control?",
+  "options": {
+   "A": "Oral glucose tolerance test",
+   "B": "Fasting plasma glucose",
+   "C": "Haemoglobin A1c",
+   "D": "Random glucose test",
+   "E": "Proinsulin levels"
+  },
+  "answer": "C",
+  "explanation": "HbA1c reflects average glycaemia over the previous 2-3 months and is the standard test for long-term control.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00690"
+  ],
+  "stem": "A 7-year-old girl with type 1 diabetes for 3 years attends for follow-up with her HbA1c report. Which HbA1c suggests good metabolic control in this patient?",
+  "options": {
+   "A": "5-5.9%",
+   "B": "6-7.9%",
+   "C": "8-9.9%",
+   "D": "10-10.9%",
+   "E": "More than 11%"
+  },
+  "answer": "B",
+  "explanation": "A HbA1c of about 6-7.5% (listed band 6-7.9%) is the target for children with type 1 diabetes; 8-9.9% is fair and above 10% is poor control.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00392",
+   "C00565",
+   "C00630"
+  ],
+  "stem": "A 6-year-old boy presents with polyuria and polydipsia for two months. His random blood sugar is 278 mg/dl and HbA1c is 8.5%. Which medicine will you prescribe?",
+  "options": {
+   "A": "Biguanides",
+   "B": "Diuretics",
+   "C": "Insulin",
+   "D": "Steroids",
+   "E": "Sulfonylureas"
+  },
+  "answer": "C",
+  "explanation": "Childhood diabetes is nearly always type 1 and requires insulin; oral hypoglycaemic agents are ineffective in absolute insulin deficiency.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00605",
+   "C00662",
+   "C00869",
+   "C00146"
+  ],
+  "stem": "A 9-year-old child presents with polyuria, polydipsia and increased appetite. Random blood sugar is 208 mg/dl. What is the next investigation?",
+  "options": {
+   "A": "Serum amylase",
+   "B": "HbA1c",
+   "C": "Serum cortisol",
+   "D": "Thyroid function tests",
+   "E": "Serum calcium"
+  },
+  "answer": "B",
+  "explanation": "HbA1c confirms diabetes (6.5% or more) and gives baseline glycaemic control.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00043",
+   "C00119",
+   "C00834",
+   "C01062"
+  ],
+  "stem": "A child presents with delayed growth, frontal bossing, bowing of the legs and widening of the wrists. The family lives in a rural area with limited access to sunlight. Labs show low calcium, low phosphate and raised alkaline phosphatase. What is the most likely cause?",
+  "options": {
+   "A": "Calcium overdose",
+   "B": "Phosphorus deficiency",
+   "C": "Vitamin C deficiency",
+   "D": "Vitamin D deficiency",
+   "E": "Vitamin A deficiency"
+  },
+  "answer": "D",
+  "explanation": "Lack of sunlight with this clinical and biochemical picture is nutritional rickets from vitamin D deficiency; ALP is raised due to osteoblast activity.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00166",
+   "C01092",
+   "C00471",
+   "C00966"
+  ],
+  "stem": "An 18-month-old child presents with delayed walking, bowed legs and widened wrists. There is frontal bossing. Labs show low calcium, low phosphate and high ALP. What is the most likely diagnosis?",
+  "options": {
+   "A": "Hyperphosphataemic rickets",
+   "B": "Hypoparathyroidism",
+   "C": "Nutritional rickets",
+   "D": "Osteogenesis imperfecta",
+   "E": "Scurvy"
+  },
+  "answer": "C",
+  "explanation": "Low Ca and phosphate with high ALP and typical skeletal signs is nutritional (vitamin D deficiency) rickets. Hypoparathyroidism gives low Ca with high phosphate and normal ALP.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00044",
+   "C00253"
+  ],
+  "stem": "A 2-year-old child has muscle weakness and bone pain. There is craniotabes and a rachitic rosary. Investigations reveal low 25-hydroxyvitamin D, hypocalcaemia and hypophosphataemia. Which is the most appropriate initial treatment?",
+  "options": {
+   "A": "Low potassium diet",
+   "B": "Magnesium supplementation",
+   "C": "Phosphate-rich diet",
+   "D": "Vitamin C supplementation",
+   "E": "Vitamin D and calcium supplementation"
+  },
+  "answer": "E",
+  "explanation": "This is vitamin D deficiency rickets; treat with vitamin D (stoss or daily) with calcium to prevent hungry bone hypocalcaemia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00691"
+  ],
+  "stem": "A 2-day-old newborn is brought with failure to pass stool since birth. He is sluggish, deeply jaundiced, with coarse facial features and an umbilical hernia. What is the most likely diagnosis?",
+  "options": {
+   "A": "Physiological jaundice",
+   "B": "Neonatal sepsis",
+   "C": "Storage disorder",
+   "D": "Hypothyroidism",
+   "E": "Hirschsprung disease"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Prolonged jaundice, lethargy, coarse facies, umbilical hernia and delayed meconium are the features of congenital hypothyroidism. Hirschsprung disease causes delayed meconium but not the coarse facies or hernia.",
+  "key_note": "",
+  "figure": ""
+ }
+]

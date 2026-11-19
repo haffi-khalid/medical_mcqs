@@ -1,0 +1,1321 @@
+[
+ {
+  "cids": [
+   "C00313",
+   "C00713",
+   "C01002"
+  ],
+  "stem": "A 1-year-old unvaccinated child is brought to emergency with 3 days of fever, noisy breathing and breathlessness. On examination there is a bull neck, the throat is markedly congested and there is a dirty white pharyngeal membrane adherent to the mucosa. What is the most likely clinical diagnosis?",
+  "options": {
+   "A": "Diphtheria",
+   "B": "Epiglottitis",
+   "C": "Foreign body in bronchus",
+   "D": "Scarlet fever",
+   "E": "Viral croup"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "An adherent greyish membrane that bleeds on attempted removal, with bull neck (cervical lymphadenopathy and oedema) in an unvaccinated child is diphtheria. Epiglottitis and croup have no membrane.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00009",
+   "C00553"
+  ],
+  "stem": "You have diagnosed a case of diphtheria in the ER. Diphtheria antitoxin should be given:",
+  "options": {
+   "A": "Intramuscularly within 48 hours of illness",
+   "B": "Intramuscularly after 48 hours of illness",
+   "C": "Intravenously within 48 hours of illness",
+   "D": "Intravenously after 48 hours of illness",
+   "E": "Subcutaneously within 48 hours of illness"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Equine antitoxin neutralises only circulating toxin, so it is given as early as possible (ideally within 48 hours) and by the intravenous route in moderate to severe disease, after a test dose for sensitivity. It does not neutralise toxin already fixed to tissue.",
+  "key_note": "Two papers marked A (IM within 48 hours); correct is C: IV is the preferred route, and benefit falls steeply after 48 hours.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00317"
+  ],
+  "stem": "A 3-year-old unvaccinated child presented in emergency with difficulty in swallowing. Examination showed the posterior pharyngeal wall covered with greyish white membrane. His parents refused admission and took him home without treatment. Two days later he was brought dead to the emergency. Which complication of the most likely diagnosis caused his death?",
+  "options": {
+   "A": "Acute kidney injury",
+   "B": "Acute liver failure",
+   "C": "Bronchopneumonia",
+   "D": "Toxic cardiomyopathy",
+   "E": "Toxic neuropathy"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Diphtheria toxin causes myocarditis (toxic cardiomyopathy) with arrhythmias and heart block, the commonest cause of death after the airway obstruction phase. Neuropathy occurs later (weeks) and is rarely fatal.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00315"
+  ],
+  "stem": "An 11-month-old unvaccinated infant is admitted with one week of low-grade fever and runny nose, and cough for the last day. The cough occurs in paroxysms lasting several minutes, exhausts the baby and ends with terminal vomiting. The baby is otherwise active and feeding well. Which leucocyte count favours the most probable diagnosis?",
+  "options": {
+   "A": "WBC 6000 with 80% lymphocytes",
+   "B": "WBC 10,000 with 90% neutrophils",
+   "C": "WBC 18,000 with 85% neutrophils",
+   "D": "WBC 30,000 with 80% lymphocytes",
+   "E": "WBC 13,000 with 10% eosinophils"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Pertussis toxin (lymphocytosis-promoting factor) causes marked leucocytosis (often 20,000-50,000) with absolute lymphocytosis in the catarrhal and paroxysmal stages.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00462",
+   "C00231"
+  ],
+  "stem": "A child's sibling (or a 2-week-old neonate in the household) is exposed to a case of pertussis. What is the post-exposure prophylaxis for the exposed child?",
+  "options": {
+   "A": "Oral erythromycin (macrolide)",
+   "B": "Pertussis vaccine only",
+   "C": "Isolation only",
+   "D": "Intravenous penicillin",
+   "E": "Observation without treatment"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Close contacts of pertussis, especially infants, receive a macrolide for 14 days (erythromycin in Pakistani texts; azithromycin is preferred in neonates because erythromycin carries a risk of pyloric stenosis). Vaccine alone is too slow in the youngest infants.",
+  "key_note": "Options for the 2-week-old version were not given in the source; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00472",
+   "C00176",
+   "C00241"
+  ],
+  "stem": "A baby delivered at home presents at 6 days of age with poor feeding, irritability and spasms triggered by touch. What is the most appropriate immediate management?",
+  "options": {
+   "A": "Anticonvulsant therapy (benzodiazepine for spasm control)",
+   "B": "Immediate vaccine",
+   "C": "CSF examination",
+   "D": "Isolation",
+   "E": "Continue mother's feed only"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "This is neonatal tetanus (home delivery, onset around day 6, trismus and stimulus-triggered spasms). Immediate priorities are control of spasms with diazepam, quiet environment, tetanus immunoglobulin, penicillin or metronidazole and airway protection; lumbar puncture would provoke spasms.",
+  "key_note": "The source marked C (CSF examination) in one paper and no answer elsewhere; correct is A, since spasm control is the immediate step in neonatal tetanus. Options in two papers were not given; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00316"
+  ],
+  "stem": "A 2-year-old female presented with four days of high grade intermittent fever and runny nose. The fever settled last night and she then developed a pinkish red maculopapular rash, first on the chest and now spreading to the face and extremities. The rash is non-itchy and the child seems clinically well. Most likely diagnosis?",
+  "options": {
+   "A": "Enteric fever",
+   "B": "Measles",
+   "C": "Roseola infantum",
+   "D": "Rubella",
+   "E": "Scarlet fever"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Roseola (HHV-6): 3-5 days of high fever that resolves abruptly, followed by a rash as the child becomes well.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00309"
+  ],
+  "stem": "A 3-year-old unvaccinated male child presented with fits and altered sensorium for one day. He has high grade fever, runny nose, sticky red eyes and a generalised erythematous maculopapular rash. What complication has he most likely developed?",
+  "options": {
+   "A": "Aseptic meningitis",
+   "B": "Cerebral malaria",
+   "C": "Measles encephalitis",
+   "D": "Meningococcaemia",
+   "E": "Tuberculous meningitis"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Fever, coryza, conjunctivitis and rash in an unvaccinated child with convulsions and altered sensorium indicate acute measles encephalitis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00381",
+   "C00554"
+  ],
+  "stem": "A 10-month-old boy presented with high grade fever and conjunctivitis followed by a maculopapular rash starting from the forehead and proceeding downwards. Measles is diagnosed. Which vitamin should be given?",
+  "options": {
+   "A": "Vitamin A",
+   "B": "Vitamin B",
+   "C": "Vitamin C",
+   "D": "Vitamin D",
+   "E": "Vitamin E"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Vitamin A reduces morbidity and mortality of measles by protecting epithelium and immunity; it is given to every child with measles.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00524"
+  ],
+  "stem": "What is the vitamin A supplementation schedule for a 10-month-old child with measles?",
+  "options": {
+   "A": "50,000 IU orally once",
+   "B": "100,000 IU orally on day 1 and day 2",
+   "C": "200,000 IU orally on day 1 and day 2",
+   "D": "200,000 IU intramuscularly once",
+   "E": "25,000 IU orally daily for 5 days"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "WHO schedule: 50,000 IU under 6 months, 100,000 IU at 6-11 months, 200,000 IU at 12 months and above, on two consecutive days (with a third dose after 2-4 weeks if eye signs).",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00523"
+  ],
+  "stem": "According to the IMCI classification, a child with measles who has mouth ulcers and pus draining from the eye is classified as:",
+  "options": {
+   "A": "Complicated measles",
+   "B": "Measles with eye or mouth complications",
+   "C": "Measles with severe complications",
+   "D": "Uncomplicated measles",
+   "E": "Severe pneumonia"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "IMCI classes: severe complicated measles (clouding of cornea, deep or extensive mouth ulcers, pneumonia, stridor etc.); measles with eye or mouth complications (pus draining from the eye or mouth ulcers); measles.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00537",
+   "C01083"
+  ],
+  "stem": "Which of the following is a fatal late complication occurring years after measles?",
+  "options": {
+   "A": "Measles encephalitis",
+   "B": "Giant cell pneumonia",
+   "C": "Subacute sclerosing panencephalitis",
+   "D": "Acute disseminated encephalomyelitis",
+   "E": "Otitis media"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "SSPE is a progressive, fatal slow virus disease occurring 6-8 years after measles (earlier if measles occurred under 2 years), with myoclonus and dementia.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00359",
+   "C00509"
+  ],
+  "stem": "A child comes to OPD with severe abdominal pain and vomiting. He is dehydrated and has left hypochondrial tenderness. There was swelling of the left side of the face that he developed 3 days back and is now subsiding. What is the most likely explanation?",
+  "options": {
+   "A": "Pancreatitis (complication of mumps)",
+   "B": "Hepatitis",
+   "C": "Gastritis",
+   "D": "Intestinal obstruction"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Parotitis followed by epigastric or left upper quadrant pain and vomiting suggests mumps pancreatitis (raised serum amylase and lipase).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00536"
+  ],
+  "stem": "What is the most common complication of mumps in children?",
+  "options": {
+   "A": "Meningoencephalitis",
+   "B": "Orchitis",
+   "C": "Pancreatitis",
+   "D": "Sensorineural deafness",
+   "E": "Oophoritis"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "CNS involvement (aseptic meningitis or meningoencephalitis) is the commonest complication in children; orchitis is the commonest in post-pubertal males.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00314"
+  ],
+  "stem": "A 4-year-old child was brought to OPD with fever and a vesicular rash on the abdomen and back in different crops. Most likely causative organism?",
+  "options": {
+   "A": "Coxsackie virus",
+   "B": "Herpes simplex virus",
+   "C": "Measles virus",
+   "D": "Adenovirus",
+   "E": "Varicella zoster virus"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Centripetal vesicular rash in successive crops (papule, vesicle, crust at different stages) is chickenpox, caused by varicella zoster virus.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00382",
+   "C00555"
+  ],
+  "stem": "A recently diagnosed nephrotic syndrome patient on full dose steroids presents to OPD having already developed chickenpox. How will you treat?",
+  "options": {
+   "A": "Acyclovir only",
+   "B": "Antibiotics only",
+   "C": "Acyclovir and antibiotics both",
+   "D": "Acyclovir and varicella zoster immunoglobulin both",
+   "E": "Varicella zoster immunoglobulin only"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Immunosuppressed children with established varicella need (intravenous) acyclovir promptly. VZIG is for post-exposure prophylaxis before disease develops and does not treat established infection.",
+  "key_note": "Two papers marked D (acyclovir plus VZIG); correct is A, since VZIG has no role once varicella has developed (though some local teaching accepts D). Another paper (child with nephrotic syndrome on steroids who develops chickenpox) marked acyclovir plus VZIG; A is kept because VZIG is post-exposure prophylaxis and has no role in established varicella (acyclovir, IV in immunosuppressed children).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00535"
+  ],
+  "stem": "A child on long-term steroids for nephrotic syndrome is exposed to a patient with chickenpox but has no disease yet. What is the appropriate advice?",
+  "options": {
+   "A": "No treatment and reassure",
+   "B": "Give varicella vaccine now",
+   "C": "Give VZIG",
+   "D": "Give oral antibiotics",
+   "E": "Stop steroids abruptly"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Immunosuppressed non-immune contacts need varicella zoster immunoglobulin as soon as possible (ideally within 96 hours, up to 10 days); live vaccine is contraindicated.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00198",
+   "C00458"
+  ],
+  "stem": "Regarding malaria: which is the most common organism causing symptomatic (and severe) malaria?",
+  "options": {
+   "A": "Plasmodium vivax",
+   "B": "Plasmodium malariae",
+   "C": "Plasmodium ovale",
+   "D": "Plasmodium falciparum"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "P. falciparum is the commonest cause of severe and fatal malaria worldwide and accounts for most cerebral malaria and complications.",
+  "key_note": "Marked D in the source; kept. Note that in Pakistan P. vivax causes the larger share of all cases, but falciparum causes most severe disease. Stem is vague; one version had no options.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00360",
+   "C00510",
+   "C01004"
+  ],
+  "stem": "A 7-year-old child admitted with malaria on IV quinine therapy passes dark cola-coloured urine with decreased urine output one morning. He is afebrile, markedly pale and has splenomegaly. What complication has most likely developed?",
+  "options": {
+   "A": "Blackwater fever",
+   "B": "Disseminated intravascular coagulation",
+   "C": "Nephrotic syndrome",
+   "D": "Circulatory collapse"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Massive intravascular haemolysis with haemoglobinuria (blackwater fever), classically in falciparum malaria after quinine, causes dark urine, pallor and acute kidney injury.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00350",
+   "C00500",
+   "C00804"
+  ],
+  "stem": "A 5-year-old boy presents to OPD with low-grade fever, cough, weight loss and night sweats of 1 month. CXR shows pulmonary infiltrates with hilar lymphadenopathy. What is your provisional diagnosis?",
+  "options": {
+   "A": "Asthma",
+   "B": "Bronchiolitis",
+   "C": "Empyema",
+   "D": "Pulmonary tuberculosis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Chronic constitutional symptoms with hilar lymphadenopathy on CXR is primary pulmonary tuberculosis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00060"
+  ],
+  "stem": "The most common complication of primary TB in children is:",
+  "options": {
+   "A": "Pleural effusion",
+   "B": "Lymph node enlargement causing bronchial obstruction",
+   "C": "Cavitary disease",
+   "D": "Haemoptysis"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Pleural effusion is the answer favoured in the source; cavitation and haemoptysis are features of adult-type disease.",
+  "key_note": "Marked A in the source and kept; note that lymph node enlargement with bronchial compression is also a common complication, so the question is open to debate.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00094",
+   "C00805"
+  ],
+  "stem": "A 5-year-old child is brought to OPD with unexplained fever for the last 1 month. His grandfather has pulmonary TB and has been on ATT for two months. A Mantoux test is advised. What induration is considered positive in this child?",
+  "options": {
+   "A": "Induration > 5 mm",
+   "B": "Induration > 10 mm",
+   "C": "Induration > 15 mm",
+   "D": "Induration < 5 mm"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Standard (NTP Pakistan) cut-off for a positive tuberculin test is 10 mm or more; 5 mm applies to HIV or severe malnutrition/immunosuppression.",
+  "key_note": "Marked B and kept. Some guidelines (AAP) use 5 mm for close contacts.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00307",
+   "C00651"
+  ],
+  "stem": "A 10-year-old boy with pulmonary TB on the intensive phase of treatment (HRZE with vitamin B6) presents with blurring of vision and change in colour vision. Which drug is most likely responsible?",
+  "options": {
+   "A": "Ethambutol",
+   "B": "Isoniazid",
+   "C": "Pyrazinamide",
+   "D": "Rifampicin",
+   "E": "Vitamin B6"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Ethambutol causes dose-related optic neuritis, with loss of red-green colour discrimination and reduced acuity; stop the drug and check vision at baseline.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00310"
+  ],
+  "stem": "A 5-year-old girl diagnosed with pulmonary TB was started on four-drug ATT. After 15 days her mother brings her with orange-coloured urine. What advice will you give?",
+  "options": {
+   "A": "Advise renal function tests",
+   "B": "Change the regimen of ATT",
+   "C": "Continue ATT",
+   "D": "Decrease the dose of ATT",
+   "E": "Stop ATT"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Rifampicin colours urine, tears and sweat orange-red harmlessly; reassure and continue.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00061"
+  ],
+  "stem": "An ascitic tap in a 10-year-old male child shows high protein (>2.5 g/dl) and lymphocyte predominance. What is the likely diagnosis?",
+  "options": {
+   "A": "Cirrhotic ascites",
+   "B": "Tuberculous peritonitis",
+   "C": "Nephrotic syndrome",
+   "D": "Heart failure"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Exudative, lymphocytic ascites suggests tuberculous peritonitis; cirrhosis and nephrosis give transudates.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00409",
+   "C00582"
+  ],
+  "stem": "An eight-year-old girl presents with sore throat and fever, and a throat culture is positive for group A beta haemolytic streptococcus. Antibiotic treatment will prevent which complication?",
+  "options": {
+   "A": "Guillain-Barre syndrome",
+   "B": "Idiopathic thrombocytopenic purpura",
+   "C": "Post-streptococcal glomerulonephritis",
+   "D": "Reactive arthritis",
+   "E": "Rheumatic fever"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Timely antibiotics prevent rheumatic fever, but do not reliably prevent post-streptococcal glomerulonephritis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00437"
+  ],
+  "stem": "Which of the following is NOT included in the major Jones criteria?",
+  "options": {
+   "A": "Migratory arthritis",
+   "B": "ASO titres",
+   "C": "Sydenham chorea",
+   "D": "Erythema marginatum",
+   "E": "Carditis"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Major criteria: carditis, polyarthritis, chorea, erythema marginatum, subcutaneous nodules. Raised ASO titre is evidence of preceding streptococcal infection, not a major criterion.",
+  "key_note": "Original option E read 'Indolent carditis'; rewritten as carditis for clarity.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00370",
+   "C00544",
+   "C00273",
+   "C00821",
+   "C00914",
+   "C00727"
+  ],
+  "stem": "A 6-year-old girl presents with pain in the right knee joint, which then shifts to the left ankle. She was taking syrup brufen at home. On examination there is no joint swelling. There is a history of throat infection 2 weeks back. What is the likely diagnosis?",
+  "options": {
+   "A": "Juvenile rheumatoid arthritis",
+   "B": "Reactive arthritis",
+   "C": "Rheumatic heart disease",
+   "D": "Rheumatic fever",
+   "E": "Systemic lupus erythematosus"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Migratory large joint arthritis 2 weeks after a streptococcal sore throat that responds to NSAIDs is acute rheumatic fever (one major criterion plus evidence of GAS infection).",
+  "key_note": "Stem is brief; infective endocarditis is a possible alternative. Paper marked answer A kept.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00311"
+  ],
+  "stem": "A 5-year-old school-going child has 3 days of severe pain in the right knee. A week back he had severe pain in the left ankle which improved with aspirin. The ankle is now normal but the knee is red, swollen, hot and severely painful. Which organism do you suspect?",
+  "options": {
+   "A": "Group A beta haemolytic streptococci",
+   "B": "Haemophilus influenzae",
+   "C": "Neisseria meningitidis",
+   "D": "Staphylococcus aureus",
+   "E": "Streptococcus pneumoniae"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Migratory arthritis responding to salicylates is rheumatic fever, caused by an immune response to group A streptococci.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00161"
+  ],
+  "stem": "A 10-year-old boy presents with high grade fever and joint pain. Two weeks ago he had a sore throat treated for 2 days by a GP. His right knee is swollen and tender, with a blowing pansystolic murmur at the apex. ESR and CRP are elevated and ASO titre is >200. What is the most appropriate next step?",
+  "options": {
+   "A": "Begin penicillin and anti-inflammatory treatment",
+   "B": "Immediate surgical repair of the mitral valve",
+   "C": "Cardiac catheterisation to assess pressures",
+   "D": "Reassure and follow up in 2 weeks",
+   "E": "Start corticosteroids and discontinue antibiotics"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Acute rheumatic fever with carditis: eradicate GAS with penicillin and give anti-inflammatory therapy (aspirin; steroids if significant carditis), then secondary prophylaxis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00139",
+   "C00598"
+  ],
+  "stem": "A 10-year-old female with repeated throat infections presents with involuntary hand and face movements and mild weakness. The diagnosis is Sydenham chorea (a major criterion). What is the drug of choice?",
+  "options": {
+   "A": "Aspirin",
+   "B": "Prednisone",
+   "C": "Haloperidol",
+   "D": "Phenobarbitone",
+   "E": "Diazepam"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Mild to moderate Sydenham chorea is treated with phenobarbitone (or valproate); haloperidol is reserved for severe chorea because of extrapyramidal side effects. Penicillin prophylaxis is also started.",
+  "key_note": "Papers disagreed: one marked C (haloperidol), one marked D (phenobarbitone). Chosen D for mild chorea; haloperidol is the alternative in severe cases.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00178",
+   "C00193",
+   "C00478"
+  ],
+  "stem": "What is the drug of choice for secondary prophylaxis of acute rheumatic fever in an asymptomatic patient?",
+  "options": {
+   "A": "Aspirin daily",
+   "B": "Prednisolone daily",
+   "C": "Penicillin G benzathine 1.2 million units IM every 3-4 weeks",
+   "D": "Oral amoxicillin once weekly",
+   "E": "Ceftriaxone monthly"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Benzathine penicillin IM every 3-4 weeks (every 3 weeks in high-risk patients) is the most effective regimen; oral penicillin V twice daily or sulfadiazine are alternatives, and erythromycin if allergic.",
+  "key_note": "Options written by reviewer; the source gave only the answer (stem repeated in three papers).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00337",
+   "C00488"
+  ],
+  "stem": "A 9-year-old female child presented with pain and swelling of the left knee, after earlier swelling of the right knee that resolved. She is diagnosed with rheumatic fever and cardiac evaluation is normal. How long will she need penicillin prophylaxis?",
+  "options": {
+   "A": "5 years",
+   "B": "10 years",
+   "C": "Until 21 years of age",
+   "D": "Lifelong"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Rheumatic fever without carditis: prophylaxis for 5 years or until 21 years of age, whichever is longer. With carditis and residual disease it is much longer.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00400",
+   "C00573"
+  ],
+  "stem": "A 9-year-old boy has fever and joint pains, first the right wrist, then the left wrist and right ankle, after tonsillitis 2 weeks ago. Temperature is 38.7 C, there is a pansystolic murmur at the mitral area, ESR is 95 mm/hr and ECG shows a PR interval of 0.26 seconds. He will need prophylactic benzathine penicillin for:",
+  "options": {
+   "A": "10 years",
+   "B": "5 years",
+   "C": "Dental and urogenital surgery",
+   "D": "Up to the age of 21",
+   "E": "Whole life"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Rheumatic fever with carditis and residual valvular disease needs prolonged prophylaxis (at least 10 years or to age 40, often lifelong in persistent valve disease).",
+  "key_note": "Papers marked E and it is kept; some guidelines state 10 years since the last attack or until age 40, whichever is longer. A near-identical stem (fever, joint pain, prolonged PR, ESR 95, no murmur stated) was keyed up to 21 years in another paper; merged here with the carditis version keyed whole life.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00393"
+  ],
+  "stem": "A previously healthy 8-year-old boy has a 3-week history of fever, night sweats, malaise, fatigue, weight loss and headache. He is febrile with a heart murmur, petechiae and splenomegaly. Blood culture is positive and echocardiography shows vegetations. Most common causative organism?",
+  "options": {
+   "A": "Enterococci",
+   "B": "H. influenzae",
+   "C": "Staphylococcus aureus",
+   "D": "Staphylococcus epidermidis",
+   "E": "Streptococcus viridans"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Subacute infective endocarditis in a child with presumed underlying heart lesion is classically due to viridans streptococci.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00096"
+  ],
+  "stem": "How is dengue fever transmitted?",
+  "options": {
+   "A": "By Aedes mosquito",
+   "B": "By sand fly",
+   "C": "Airborne",
+   "D": "By any mosquito"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Dengue virus is transmitted by Aedes aegypti (and albopictus), day-biting mosquitoes.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00282"
+  ],
+  "stem": "A 10-year-old boy presents with a 2-day history of fever, headache and a rash on his palms and soles. Most likely diagnosis?",
+  "options": {
+   "A": "Measles",
+   "B": "Chickenpox",
+   "C": "Hand, foot and mouth disease",
+   "D": "Rocky Mountain spotted fever"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Vesicular lesions on palms and soles with fever and oral ulcers is hand, foot and mouth disease (coxsackie A16, enterovirus 71).",
+  "key_note": "Stem is brief; Rocky Mountain spotted fever is rare locally. Marked C kept.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01018"
+  ],
+  "stem": "A 10-year-old boy with a sore throat, fever, and enlarged tonsils with exudates should be treated with which of the following oral medications?",
+  "options": {
+   "A": "Amoxicillin",
+   "B": "Benzylpenicillin",
+   "C": "Ciprofloxacin",
+   "D": "Metronidazole",
+   "E": "Tetracycline"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Group A streptococcal pharyngitis is treated with oral penicillin V or amoxicillin for 10 days (or a single IM dose of benzathine penicillin). Benzylpenicillin is parenteral and not an oral drug; tetracycline and ciprofloxacin are not recommended in children.",
+  "key_note": "The source answer came from a ChatGPT-generated section; amoxicillin is acceptable and kept.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01118",
+   "C00067"
+  ],
+  "stem": "What is the primary prevention of acute rheumatic fever?",
+  "options": {
+   "A": "Appropriate antibiotic started before the 9th day of acute GAS pharyngitis",
+   "B": "Reassurance",
+   "C": "Appropriate antibiotic started after the 10th day of acute GAS pharyngitis",
+   "D": "Single IM injection of benzathine penicillin till 5 years of age",
+   "E": "Single IM injection of benzathine penicillin till 10 years of age"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Adequate antibiotic treatment of GAS pharyngitis within 9 days of onset prevents the first attack of rheumatic fever (primary prevention); monthly benzathine penicillin after an attack is secondary prevention.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00629"
+  ],
+  "stem": "A boy has migratory arthritis, fever, and a systolic murmur. Which investigation best supports the diagnosis?",
+  "options": {
+   "A": "Elevated antistreptolysin O (ASO) titre",
+   "B": "Positive rheumatoid factor",
+   "C": "Positive blood culture",
+   "D": "Raised uric acid",
+   "E": "Positive ANA"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Migratory arthritis with a murmur suggests acute rheumatic fever; evidence of preceding group A streptococcal infection (raised or rising ASO or anti-DNase B titre) is required for diagnosis.",
+  "key_note": "Options written by reviewer; the source gave only the answer. ",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00906"
+  ],
+  "stem": "A 7-year-old child has fever for 5 days, severe pain and a hot, red, swollen right knee, intermittent palpitations, and an upper respiratory infection 2-3 weeks ago. He is diagnosed with acute rheumatic fever. What is the most likely finding on investigation?",
+  "options": {
+   "A": "Prolonged PR interval on ECG",
+   "B": "Positive rheumatoid factor",
+   "C": "Low C3",
+   "D": "ST elevation in all leads",
+   "E": "Left axis deviation with deep Q waves"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "A prolonged PR interval (first-degree heart block) is the commonest ECG change in rheumatic fever and is a minor criterion; it does not by itself indicate carditis.",
+  "key_note": "Options written by reviewer; the source gave only the answer. ",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00816"
+  ],
+  "stem": "A 9-year-old girl has a generalised sandpaper-like rash, sore throat, fever, and submandibular lymphadenopathy. What is the diagnosis?",
+  "options": {
+   "A": "Measles",
+   "B": "Rubella",
+   "C": "Scarlet fever",
+   "D": "Kawasaki disease",
+   "E": "Drug rash"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A fine blanching sandpaper rash with exudative pharyngitis, strawberry tongue and circumoral pallor is scarlet fever, due to group A streptococcal erythrogenic toxin.",
+  "key_note": "Options written by reviewer; the source gave only the answer. ",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01006",
+   "C00817",
+   "C00013"
+  ],
+  "stem": "A child presents with cough for 3 days with bouts of coughing, bluish discoloration of the face, and post-tussive vomiting. What is the most likely diagnosis?",
+  "options": {
+   "A": "Asthma",
+   "B": "Bronchiolitis",
+   "C": "Diphtheria",
+   "D": "Pertussis",
+   "E": "Pneumonia"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Paroxysmal coughing bouts with cyanosis and post-tussive vomiting are characteristic of pertussis; infants may have apnoea instead of a whoop, and unimmunised infants are at highest risk.",
+  "key_note": "Another paper asked this for an unimmunised 5-month-old with paroxysmal cough and cyanosis; merged.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00612",
+   "C00758",
+   "C00848"
+  ],
+  "stem": "A 5-month-old boy has a persistent cough with bouts, post-tussive vomiting and cyanosis, and the blood count shows lymphocytosis. What is the most likely causative organism?",
+  "options": {
+   "A": "Bordetella pertussis",
+   "B": "Haemophilus influenzae",
+   "C": "Respiratory syncytial virus",
+   "D": "Streptococcus pneumoniae",
+   "E": "Mycoplasma pneumoniae"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Paroxysmal cough with post-tussive vomiting and marked absolute lymphocytosis (leucocytosis from lymphocytosis-promoting factor) in an infant is whooping cough due to Bordetella pertussis.",
+  "key_note": "Options written by reviewer; the source gave only the answer. ",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00639",
+   "C00814"
+  ],
+  "stem": "A 9-month-old infant has mild cough and fever for a few days, which has progressed to a loud whooping cough with vomiting episodes; the CBC shows leucocytosis with lymphocytosis. What is the most appropriate antimicrobial therapy?",
+  "options": {
+   "A": "Amoxicillin",
+   "B": "Clarithromycin",
+   "C": "Ciprofloxacin",
+   "D": "Cotrimoxazole",
+   "E": "Gentamicin"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Macrolides (erythromycin, clarithromycin, azithromycin) are the treatment of choice for pertussis; they shorten the infectious period but modify the paroxysms only if given early (catarrhal stage).",
+  "key_note": "Options written by reviewer; the source gave only the answer. A second paper asked the same for a 4-year-old with conjunctival haemorrhages; merged.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00722"
+  ],
+  "stem": "A 10-day-old neonate presents with excessive crying, irritability, and posturing (arching of the back) with spasms occurring at intervals. The mother did not receive antenatal vaccination. What is the most likely diagnosis?",
+  "options": {
+   "A": "Neonatal sepsis",
+   "B": "Birth asphyxia",
+   "C": "Neonatal tetanus",
+   "D": "Infantile spasms",
+   "E": "Congenital brain malformation"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Onset at 5-14 days with inability to suck, irritability, trismus, opisthotonos and spasms triggered by stimuli in a baby of an unimmunised mother is neonatal tetanus (typically via an unclean cord stump).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01000"
+  ],
+  "stem": "A 3-day-old baby boy is brought to the ER with excessive crying, poor feeding, clenched fists, and neck retraction. The most likely organism responsible for this condition is:",
+  "options": {
+   "A": "Clostridium botulinum",
+   "B": "Clostridium difficile",
+   "C": "Clostridium tetani",
+   "D": "Neisseria gonorrhoeae",
+   "E": "Neisseria meningitidis"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Neonatal tetanus is caused by Clostridium tetani spores contaminating the umbilical stump. (Neonatal tetanus classically appears after day 3, usually 5-7; the question is accepted as written.)",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01081"
+  ],
+  "stem": "A 3-year-old child comes to the OPD with trismus. He had a fall on the road 5 days ago which caused a wound on his right foot. What is the prognosis of this child?",
+  "options": {
+   "A": "Good prognosis",
+   "B": "Poor prognosis",
+   "C": "Fair prognosis",
+   "D": "No prognostic significance"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "A short incubation period (under 7 days) and a short period of onset (trismus to spasms) with a distal wound predict severe tetanus and a poor prognosis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00839"
+  ],
+  "stem": "Management of tetanus involves:",
+  "options": {
+   "A": "Antibiotic, antitoxin (human tetanus immunoglobulin), and sedation",
+   "B": "Antibiotic only",
+   "C": "Antitoxin only",
+   "D": "Sedation only",
+   "E": "Tetanus toxoid only"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Treatment of tetanus is combined: human tetanus immunoglobulin to neutralise unbound toxin, metronidazole or penicillin, wound debridement, benzodiazepine sedation and muscle relaxation, a quiet dark room and airway or nutritional support, followed by active immunisation.",
+  "key_note": "Options written by reviewer; the source gave only the answer. ",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01003",
+   "C00640",
+   "C00799",
+   "C00860",
+   "C00020",
+   "C00095",
+   "C00271"
+  ],
+  "stem": "A 5-year-old boy presents with high-grade fever, coryza and cough for 2 days. He is toxic-appearing, has red eyes, and a maculopapular rash starting behind the ears. What is the most likely diagnosis?",
+  "options": {
+   "A": "Chickenpox",
+   "B": "Erythema multiforme",
+   "C": "Measles",
+   "D": "Rubella",
+   "E": "Scarlet fever"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "The three Cs (cough, coryza, conjunctivitis), Koplik spots, and a maculopapular rash starting behind the ears and spreading downward after 3-4 days of prodrome is measles.",
+  "key_note": "Stem is brief and non-specific (rubella is a possible alternative); the paper's marked answer A is kept.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00808"
+  ],
+  "stem": "An 18-month-old unvaccinated child has a generalised maculopapular rash and low-grade fever. Which other diagnosis should be considered, besides measles?",
+  "options": {
+   "A": "Rubella",
+   "B": "Chickenpox",
+   "C": "Scarlet fever",
+   "D": "Impetigo",
+   "E": "Kawasaki disease"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Rubella (German measles) gives a milder maculopapular rash that also begins on the face and spreads, with low-grade fever and postauricular and suboccipital lymphadenopathy.",
+  "key_note": "Options written by reviewer; the source gave only the answer. ",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00809"
+  ],
+  "stem": "A 10-year-old girl has myoclonic jerks and altered behaviour, with a history of fever, rash and cough at 1 year of age. What is the most likely diagnosis?",
+  "options": {
+   "A": "Subacute sclerosing panencephalitis",
+   "B": "Herpes simplex encephalitis",
+   "C": "Tuberculous meningitis",
+   "D": "Juvenile myoclonic epilepsy",
+   "E": "Wilson disease"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Behavioural change followed by myoclonus and progressive neurological deterioration years after early-childhood measles is SSPE; EEG shows periodic complexes and CSF shows raised measles antibody.",
+  "key_note": "Options written by reviewer; the source gave only the answer. ",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00811"
+  ],
+  "stem": "A 2.5-year-old child has fever, vomiting, earache, and a unilateral soft, tender swelling near the jaw. What is the most likely diagnosis?",
+  "options": {
+   "A": "Mumps",
+   "B": "Cervical lymphadenitis",
+   "C": "Parotid abscess",
+   "D": "Mastoiditis",
+   "E": "Dental abscess"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "A tender parotid swelling that fills the angle of the jaw and lifts the ear lobe, with fever and earache, is mumps parotitis (unilateral in about 25% initially).",
+  "key_note": "Options written by reviewer; the source gave only the answer. ",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01001"
+  ],
+  "stem": "A 2-year-old boy presents with swelling of both sides of the face and pain while chewing for the last 3 days, followed by scrotal swelling. Which infection can lead to this complication?",
+  "options": {
+   "A": "Chickenpox",
+   "B": "Diphtheria",
+   "C": "Measles",
+   "D": "Mumps",
+   "E": "Tetanus"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Mumps causes parotitis with orchitis (scrotal swelling), meningitis, pancreatitis and oophoritis; orchitis is mainly a post-pubertal complication.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00618"
+  ],
+  "stem": "A 4-year-old girl presents with abdominal pain and swelling on both sides of the jaw. Which investigation best confirms the abdominal complication?",
+  "options": {
+   "A": "Serum lipase",
+   "B": "Liver function tests",
+   "C": "Plain abdominal X-ray",
+   "D": "Stool examination",
+   "E": "Urine for ketones"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Bilateral parotid swelling with abdominal pain suggests mumps with pancreatitis; raised serum lipase confirms pancreatic involvement (amylase is also raised from the parotids and is less specific).",
+  "key_note": "Options written by reviewer; the source gave only the answer. ",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01105"
+  ],
+  "stem": "A 5-year-old child is brought with fever for 3 days followed by itchy water-filled vesicles starting on the abdomen and spreading over the body. There are a few crusted lesions and some new vesicles. What is the diagnosis?",
+  "options": {
+   "A": "Rubella",
+   "B": "Measles",
+   "C": "Chickenpox",
+   "D": "Streptococcal pustules",
+   "E": "Scabies"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Centripetal itchy vesicles in successive crops, with lesions at different stages (vesicles, pustules, crusts) at the same time, is chickenpox (varicella).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01104",
+   "C01122",
+   "C00011",
+   "C00373",
+   "C00547",
+   "C00285"
+  ],
+  "stem": "A 4-year-old boy presents with fever followed by asymmetric flaccid paralysis of the right lower limb. The limb has reduced bulk and absent reflexes, but sensation is intact. What is the diagnosis?",
+  "options": {
+   "A": "Transverse myelitis",
+   "B": "Guillain-Barre syndrome",
+   "C": "Poliomyelitis",
+   "D": "UMN hemiplegia",
+   "E": "Basal ganglia lesion"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Acute asymmetric flaccid paralysis with fever, areflexia and intact sensation in an unimmunised child is poliomyelitis (anterior horn cell). GBS is symmetric with sensory features; transverse myelitis has a sensory level and sphincter involvement.",
+  "key_note": "Another paper's variant (sudden weakness of one lower limb with diminished tone, power and reflexes in a conscious 3-year-old) asked the same diagnosis; merged.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00771"
+  ],
+  "stem": "A 6-year-old child with incomplete immunisation presents with fever and acute flaccid weakness. What is the key investigation?",
+  "options": {
+   "A": "Two stool samples, 24-48 hours apart, for poliovirus",
+   "B": "CSF culture",
+   "C": "Blood culture",
+   "D": "Nerve conduction study only",
+   "E": "MRI spine"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Any child under 15 with acute flaccid paralysis needs two stool specimens at least 24 hours apart within 14 days of onset for poliovirus isolation (AFP surveillance).",
+  "key_note": "Options written by reviewer; the source gave only the answer. ",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01029",
+   "C00744"
+  ],
+  "stem": "A 7-year-old child is brought to the OPD with cough and night sweats for the last two months. Chest X-ray reveals prominent hilar lymph nodes and consolidation in the right upper lung field. What is the probable diagnosis?",
+  "options": {
+   "A": "Community-acquired pneumonia",
+   "B": "Miliary TB",
+   "C": "Primary Ghon complex",
+   "D": "Tuberculous cavitation",
+   "E": "Tuberculous lymphadenitis"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Parenchymal focus (Ghon focus) with enlarged hilar nodes is the primary TB complex, the usual form in children; cavitation and miliary TB are post-primary or disseminated forms.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00999"
+  ],
+  "stem": "A 13-year-old girl presents with low-grade fever, abdominal pain, loss of 2 kg over 2 months and intermittent diarrhoea and constipation. She is pale, weighs 20 kg, has a distended abdomen with periumbilical tenderness and shifting dullness, without visceromegaly. She is from a poor socioeconomic background, unimmunised and malnourished. What is the likely diagnosis?",
+  "options": {
+   "A": "Abdominal tuberculosis",
+   "B": "Celiac disease",
+   "C": "Chronic liver disease",
+   "D": "Inflammatory bowel disease",
+   "E": "Leishmaniasis"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Low-grade fever, weight loss, alternating bowel habit and ascites with tenderness in a malnourished child from a poor background is tuberculous peritonitis (abdominal TB); chronic liver disease and visceral leishmaniasis would show organomegaly.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00734",
+   "C00843"
+  ],
+  "stem": "A woman on antituberculous therapy gives birth to a healthy baby. What is the most appropriate step to prevent tuberculosis in the baby?",
+  "options": {
+   "A": "Give the baby isoniazid prophylaxis",
+   "B": "Give BCG only and nothing else",
+   "C": "Stop breastfeeding and separate the baby from the mother completely",
+   "D": "Give rifampicin alone",
+   "E": "No treatment is needed"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "A newborn of a mother with active TB receives isoniazid chemoprophylaxis after excluding active disease, then Mantoux or BCG after completing prophylaxis; breastfeeding should continue with the mother on treatment.",
+  "key_note": "Source key was 'isoniazid for three months'; current WHO and national programme guidance gives 6 months, so the duration was left out of the options.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01068"
+  ],
+  "stem": "Which of the following is a side effect of isoniazid?",
+  "options": {
+   "A": "Peripheral neuropathy",
+   "B": "Orange discoloration of body secretions",
+   "C": "Gout",
+   "D": "Ototoxicity"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Isoniazid causes peripheral neuropathy (prevented with pyridoxine) and hepatitis. Orange discolouration of secretions is due to rifampicin, gout to pyrazinamide, and ototoxicity to streptomycin.",
+  "key_note": "Source option A read \"Optic neuritis\" (only a rare isoniazid effect); reworded to the classic peripheral neuropathy, answer letter unchanged.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01089"
+  ],
+  "stem": "A 5-year-old child is brought with high-grade fever with chills and rigors for the last 4 days that does not improve with antibiotics. The malaria parasite smear is positive. Which phase of the malarial parasite is responsible for the fever and chills?",
+  "options": {
+   "A": "Sporozoites",
+   "B": "Trophozoites",
+   "C": "Merozoites",
+   "D": "Schizonts"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Paroxysms of fever and rigors coincide with rupture of infected red cells at the end of erythrocytic schizogony, releasing merozoites, haemozoin and pyrogenic cytokines.",
+  "key_note": "The source marked Merozoites; some texts attribute the paroxysm to rupture of schizonts. The marked answer is kept as the release phase; source spelling 'Shizonts' corrected.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00806"
+  ],
+  "stem": "A 7-year-old child has had alternate-day high-grade fever for 4 days, and the blood smear shows Plasmodium species. What is the typical febrile pattern?",
+  "options": {
+   "A": "Fever every 24 hours",
+   "B": "Fever every 48 hours",
+   "C": "Fever every 72 hours",
+   "D": "Continuous fever without remission",
+   "E": "Irregular fever only"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Alternate-day (tertian) fever, i.e. paroxysms every 48 hours, is typical of P. vivax and P. ovale; P. malariae causes quartan (72-hour) fever, and P. falciparum is often irregular.",
+  "key_note": "Options written by reviewer; the source gave only the answer. ",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00807"
+  ],
+  "stem": "A 4-year-old child with chronic malaria has a Plasmodium vivax infection. What is the most effective treatment regimen?",
+  "options": {
+   "A": "Chloroquine plus primaquine",
+   "B": "Chloroquine alone",
+   "C": "Primaquine alone",
+   "D": "Quinine alone",
+   "E": "Artemether-lumefantrine alone"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Chloroquine clears the blood stages and primaquine for 14 days eradicates the dormant hypnozoites in the liver to prevent relapse (after excluding G6PD deficiency).",
+  "key_note": "Options written by reviewer; the source gave only the answer. Primaquine is deferred in children under 6 months and checked against G6PD deficiency.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00980"
+  ],
+  "stem": "A 9-year-old girl presents with fever, rigors, headache and convulsions. CSF shows normal sugar and low cell count. Which is the most specific test for diagnosis?",
+  "options": {
+   "A": "CT scan head",
+   "B": "Widal test",
+   "C": "Blood culture",
+   "D": "Thick and thin blood film",
+   "E": "Dengue NS1 antigen"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Fever with convulsions and normal CSF in an endemic area suggests cerebral malaria; thick and thin blood films identify and quantify the parasite and the species.",
+  "key_note": "Options written by reviewer; the source gave only the answer. ",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01030",
+   "C00861",
+   "C00979",
+   "C00012",
+   "C01115",
+   "C00745"
+  ],
+  "stem": "A 5-year-old girl is brought to the ER with fever, convulsions, and unconsciousness of one-day duration. On examination she is pale, GCS is 12, and there are no signs of meningeal irritation and no focal neurological signs. What is the most likely diagnosis?",
+  "options": {
+   "A": "Cerebral malaria",
+   "B": "Pyogenic meningitis",
+   "C": "Tetanus",
+   "D": "Tuberculous meningitis",
+   "E": "Viral encephalitis"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Fever with convulsions and impaired consciousness without meningeal signs, with pallor (haemolysis) in a malaria-endemic area, is cerebral malaria due to P. falciparum; confirm with a blood film.",
+  "key_note": "Variants (7-year-old with fever, seizures, jaundice and splenomegaly) asked the same diagnosis; merged.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00974",
+   "C00737"
+  ],
+  "stem": "A 7-year-old boy has high-grade fever, tonic-clonic seizures, jaundice and splenomegaly, and cerebral malaria is diagnosed. What is the most appropriate treatment?",
+  "options": {
+   "A": "IV quinine sulphate",
+   "B": "Oral chloroquine",
+   "C": "Oral primaquine",
+   "D": "Oral artemether-lumefantrine",
+   "E": "IV ceftriaxone"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Severe falciparum malaria needs parenteral antimalarial therapy: IV quinine (with dextrose monitoring) in the source teaching, and IV artesunate is now the WHO-preferred first choice; oral drugs are inadequate in a child who is convulsing.",
+  "key_note": "Options written by reviewer; the source gave only the answer. A 5-year-old with fever, rigors and splenomegaly asked the same drug (IV quinine); merged. IV artesunate is WHO preferred but was not offered.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01005",
+   "C01114"
+  ],
+  "stem": "A 12-year-old boy presents with high fever for 5 days, epistaxis, retro-orbital pain, and multiple petechiae. What is the likely diagnosis?",
+  "options": {
+   "A": "Dengue fever",
+   "B": "Enteric fever",
+   "C": "Leishmaniasis",
+   "D": "Malaria",
+   "E": "Measles"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Abrupt high fever with retro-orbital pain, myalgia and arthralgia, bleeding manifestations (petechiae, epistaxis) and thrombocytopenia suggests dengue; blood culture and malaria tests are negative.",
+  "key_note": "Another paper (3-year-old, retro-orbital pain, arthralgia, thrombocytopenia, negative blood culture) asked the same; merged.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00812"
+  ],
+  "stem": "A 10-year-old boy with fever, severe headache, retro-orbital pain, petechiae and thrombocytopenia is suspected to have dengue. What confirms the diagnosis?",
+  "options": {
+   "A": "Widal test",
+   "B": "Blood culture",
+   "C": "Malaria antigen test",
+   "D": "Dengue antibody (IgM/IgG) serology",
+   "E": "Weil-Felix test"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Dengue is confirmed by NS1 antigen or PCR in the first 5 days and by dengue IgM/IgG serology thereafter.",
+  "key_note": "Options written by reviewer; the source gave only the answer. ",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00856"
+  ],
+  "stem": "A 7-year-old girl presents with fever, myalgias, rash, and a low platelet count, and dengue fever is suspected. What is the first step in management?",
+  "options": {
+   "A": "IV or oral fluids",
+   "B": "Platelet transfusion",
+   "C": "Intravenous antibiotics",
+   "D": "Aspirin",
+   "E": "Corticosteroids"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Management of dengue is supportive: early adequate oral or IV fluids with monitoring of haematocrit and platelets; prophylactic platelet transfusion and aspirin or NSAIDs are avoided.",
+  "key_note": "Options written by reviewer; the source gave only the answer. ",
+  "figure": ""
+ }
+]

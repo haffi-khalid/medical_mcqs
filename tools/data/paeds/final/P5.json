@@ -1,0 +1,56 @@
+[
+ {
+  "cids": [
+   "C00702"
+  ],
+  "stem": "A 6-year-old child is constantly distracted, impulsively hits other children and cannot sit still. What is the most likely diagnosis?",
+  "options": {
+   "A": "Autism spectrum disorder",
+   "B": "Traumatic brain injury",
+   "C": "Attention deficit hyperactivity disorder",
+   "D": "Hearing impairment",
+   "E": "Oppositional defiant disorder"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Inattention, hyperactivity and impulsivity in two or more settings for over 6 months define ADHD.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00277"
+  ],
+  "stem": "A 5-year-old child is diagnosed with attention deficit hyperactivity disorder (ADHD). What is the most appropriate initial treatment?",
+  "options": {
+   "A": "Behavioural therapy",
+   "B": "Methylphenidate",
+   "C": "Cognitive-behavioural therapy",
+   "D": "Family therapy"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "In preschool children (4 to 5 years) parent training and behavioural therapy come first; stimulants are used from 6 years or when behaviour therapy fails.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00701",
+   "C00756"
+  ],
+  "stem": "A 4-year-old boy presents with delayed speech. He cannot speak in sentences, repeats words, lacks social interaction, plays repetitively and does not respond when his name is called. What is the most likely diagnosis?",
+  "options": {
+   "A": "Cerebral palsy",
+   "B": "Global developmental delay",
+   "C": "Autism spectrum disorder",
+   "D": "Hearing impairment",
+   "E": "Specific language disorder"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Impaired social communication with echolalia and repetitive behaviour is autism spectrum disorder; hearing should still be tested.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ }
+]

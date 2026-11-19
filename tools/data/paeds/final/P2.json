@@ -1,0 +1,358 @@
+[
+ {
+  "cids": [
+   "C01015"
+  ],
+  "stem": "At what age do most normal infants achieve neck holding (head control)?",
+  "options": {
+   "A": "3 months",
+   "B": "6 months",
+   "C": "9 months",
+   "D": "10 months",
+   "E": "12 months"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Head control is achieved at about 3 months (steady head when held sitting); a head lag beyond 4 months is abnormal.",
+  "key_note": "The source key came from an AI-generated section; 3 months is the standard answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00099"
+  ],
+  "stem": "A 6-month-old infant comes to your clinic for evaluation. What should he be able to achieve at this age?",
+  "options": {
+   "A": "Can crawl",
+   "B": "Can sit with support",
+   "C": "Can sit without support",
+   "D": "Can walk with one hand held"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "At 6 months an infant sits with support, rolls over and transfers objects. Sitting without support comes at about 8 to 9 months and crawling at 9 months.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00720",
+   "C00898"
+  ],
+  "stem": "A boy can lift his head and chest off the pillow, sits with support, has a palmar grasp and transfers objects from one hand to the other. What is his developmental age?",
+  "options": {
+   "A": "3 months",
+   "B": "5 months",
+   "C": "6 months",
+   "D": "9 months",
+   "E": "1 year"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Sitting with support, palmar grasp and hand to hand transfer are 6-month milestones; at 3 months there is only head control and at 9 months he sits alone and has a pincer grasp.",
+  "key_note": "One paper key marked B (5 months); the other source gave 6 months, which is correct since hand to hand transfer is a 6-month milestone.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00844",
+   "C00884"
+  ],
+  "stem": "An infant rolls over, sits with minimal support and reaches out for toys, but has no pincer grasp. What is the developmental age?",
+  "options": {
+   "A": "3 months",
+   "B": "4 months",
+   "C": "6 months",
+   "D": "9 months",
+   "E": "12 months"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Rolling over, sitting with support and reaching for objects are typical of 6 months; the pincer grasp appears at 9 months.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00055",
+   "C01016"
+  ],
+  "stem": "A baby can sit without support, transfers objects from hand to hand and babbles. What is the most likely developmental age?",
+  "options": {
+   "A": "2 months",
+   "B": "4 months",
+   "C": "6 months",
+   "D": "9 months",
+   "E": "12 months"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Per the standard Pakistani milestone chart, sitting without support is reached at about 9 months (with support at 6 months). The other features are consistent with 6 to 9 months.",
+  "key_note": "An AI-generated key marked 6 months (its own explanation said 'sit with support'); the paper that marked an answer chose 9 months, which is kept. Sitting alone is expected between 6 and 9 months in different charts.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00124",
+   "C00583",
+   "C00832"
+  ],
+  "stem": "An 8-month-old infant is brought to the OPD with delayed milestones. What should he be able to do by this age?",
+  "options": {
+   "A": "Climb up the stairs",
+   "B": "Sit with support",
+   "C": "Sit without support",
+   "D": "Stand",
+   "E": "Walk straight"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "By 8 to 9 months an infant sits without support. Sitting with support is a 6-month skill, standing is about 10 to 12 months and walking and stairs are 12 to 15 months.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01108",
+   "C00154"
+  ],
+  "stem": "A baby girl can sit without support, crawl, pick up a pellet between index finger and thumb and play peek-a-boo. What is her age?",
+  "options": {
+   "A": "3 months",
+   "B": "6 months",
+   "C": "9 months",
+   "D": "12 months",
+   "E": "18 months"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Sitting alone, crawling, pincer grasp and peek-a-boo are classic 9-month milestones.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00260",
+   "C00455"
+  ],
+  "stem": "A 12-month-old baby stands with support, waves bye-bye, plays peek-a-boo and holds small objects, but cannot walk and does not speak a meaningful word. In which domain is the delay most obvious?",
+  "options": {
+   "A": "Gross motor",
+   "B": "Fine motor",
+   "C": "Social",
+   "D": "Language"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Social, fine motor skills and standing with support are age appropriate; walking alone (12 to 15 months) is the gross motor item that is lagging. Speech at 12 months is only one or two words so it is borderline.",
+  "key_note": "A second paper asked the same for a 12-month-old with delayed walking and speech with the same marked answer (gross motor delay).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00228"
+  ],
+  "stem": "A baby sits without support, responds to his name and walks like a bear (on hands and feet). What is his developmental age?",
+  "options": {
+   "A": "6 months",
+   "B": "9 months",
+   "C": "12 months",
+   "D": "18 months",
+   "E": "24 months"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Bear walking (on hands and feet), sitting and responding to name belong to about 12 months, just before independent walking.",
+  "key_note": "Options written by reviewer; the source gave only an answer of 18 months, which is too late for bear walking; 12 months is the standard answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00649",
+   "C00924"
+  ],
+  "stem": "A 13-month-old child speaks two words, walks with support and shows stranger anxiety. What is the most appropriate next step?",
+  "options": {
+   "A": "Refer for hearing assessment",
+   "B": "Refer for speech therapy",
+   "C": "Do thyroid function tests",
+   "D": "Order a brain MRI",
+   "E": "Child is normal, reassure the parents"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Two words, walking with support and stranger anxiety are all normal for 13 months; no investigation is needed.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00652",
+   "C00925"
+  ],
+  "stem": "Which of the following is a normal developmental milestone?",
+  "options": {
+   "A": "Picks up objects with a pincer grasp at 9 months",
+   "B": "Walks alone at 6 months",
+   "C": "Social smile at 6 months",
+   "D": "Sits without support at 3 months",
+   "E": "Speaks in 3-word sentences at 12 months"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "The pincer grasp appears at about 9 months. The social smile is at 6 to 8 weeks, sitting alone at 8 to 9 months, walking at 12 to 15 months and 3-word sentences at about 3 years.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00122",
+   "C01067",
+   "C01065",
+   "C00926"
+  ],
+  "stem": "A mother brings her child for growth and developmental assessment. The child rides a tricycle, can draw a circle but cannot draw a triangle. What is the most likely developmental age?",
+  "options": {
+   "A": "1 year",
+   "B": "2 years",
+   "C": "3 years",
+   "D": "4 years",
+   "E": "5 years"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Tricycle riding and copying a circle are 3-year skills; a cross is drawn at 4 years and a triangle at 5.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00153"
+  ],
+  "stem": "A 3-year-old child is brought for developmental assessment. What gross motor milestone should the child have achieved by this age?",
+  "options": {
+   "A": "Can climb a tree",
+   "B": "Cannot walk on tiptoe",
+   "C": "Rides a tricycle using pedals",
+   "D": "Walks down stairs with alternating feet",
+   "E": "Walks like a bear"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A 3-year-old rides a tricycle with pedals. Going down stairs with alternating feet is a 4-year skill.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00016",
+   "C00376",
+   "C00423",
+   "C01130",
+   "C00550"
+  ],
+  "stem": "A young boy can walk upstairs with alternating feet and downstairs with two feet per step, builds a tower of 9 to 10 cubes, counts up to 10 and can pull his pants down and up. What is his age?",
+  "options": {
+   "A": "1 year",
+   "B": "2 years",
+   "C": "3 years",
+   "D": "4 years",
+   "E": "5 years"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Upstairs alternating, downstairs both feet per step and a 9-cube tower are 3-year features (6 cubes at 2 years, going down alternating at 4).",
+  "key_note": "A compiled answer-only file gave 5 years; this is incorrect, 3 years is correct and was marked in the original papers.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01075",
+   "C01124"
+  ],
+  "stem": "A young child can walk downstairs with alternating feet, builds steps with six cubes, uses scissors to cut pictures and gives his full name and home address. What is the age of this child?",
+  "options": {
+   "A": "2 years",
+   "B": "3 years",
+   "C": "4 years",
+   "D": "5 years",
+   "E": "6 years"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Going down stairs with alternating feet, scissors and giving name and address are 4-year skills.",
+  "key_note": "One paper (Test 3) marked 5 years; the same question in another paper was marked 4 years, which fits standard milestone charts and is kept.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00284"
+  ],
+  "stem": "A 2-year-old child presents with delayed speech and language development only. What is the most likely diagnosis?",
+  "options": {
+   "A": "Autism spectrum disorder",
+   "B": "Language disorder",
+   "C": "Hearing loss",
+   "D": "Global developmental delay"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Isolated delay in speech with other domains normal suggests a primary language disorder; hearing must still be tested to exclude deafness, and ASD or global delay would show other domain deficits.",
+  "key_note": "The stem in the source had no question sentence; it was completed by the reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00735"
+  ],
+  "stem": "What is the expected weight of a healthy infant at 6 months of age?",
+  "options": {
+   "A": "4 kg",
+   "B": "6 kg",
+   "C": "8 kg",
+   "D": "10 kg",
+   "E": "12 kg"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Birth weight doubles by about 5 to 6 months (median about 7 to 8 kg at 6 months) and triples by 1 year.",
+  "key_note": "Options written by reviewer; the source gave only the answer (8 kg) with a muddled stem about a 12-month-old not gaining weight.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00865"
+  ],
+  "stem": "A 12-year-old boy presents with short stature. His height is at the 5th centile, systemic examination is normal and wrist X-ray shows delayed bone age corresponding to his height age. What is the most likely cause?",
+  "options": {
+   "A": "Constitutional short stature (growth delay)",
+   "B": "Familial short stature",
+   "C": "Growth hormone deficiency",
+   "D": "Hypothyroidism",
+   "E": "Turner syndrome"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Bone age delayed to the height age, normal examination and later catch-up growth are typical of constitutional delay.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00968"
+  ],
+  "stem": "A 14-year-old boy has short stature, a normal examination and a family history of delayed growth and late puberty (father). What is the most likely diagnosis?",
+  "options": {
+   "A": "Constitutional growth delay",
+   "B": "Growth hormone deficiency",
+   "C": "Hypothyroidism",
+   "D": "Coeliac disease",
+   "E": "Klinefelter syndrome"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "A late bloomer with a family history of delayed puberty and normal examination has constitutional growth delay; he will catch up later.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ }
+]

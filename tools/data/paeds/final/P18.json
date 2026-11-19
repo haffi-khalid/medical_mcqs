@@ -1,0 +1,286 @@
+[
+ {
+  "cids": [
+   "C00953"
+  ],
+  "stem": "A hypotonic neonate has poor reflexes and an open (wide) fontanelle. What is the most likely diagnosis?",
+  "options": {
+   "A": "Spinal muscular atrophy type 1",
+   "B": "Congenital myotonic dystrophy",
+   "C": "Prader-Willi syndrome",
+   "D": "Infant botulism",
+   "E": "Congenital hypothyroidism"
+  },
+  "answer": "E",
+  "explanation": "Hypotonia, lethargy, poor feeding and a wide anterior (and posterior) fontanelle suggest congenital hypothyroidism, a treatable cause of a floppy infant that should be screened for.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00278"
+  ],
+  "stem": "A 2-year-old child presents with a history of delayed walking and weakness in the legs. What is the most likely diagnosis?",
+  "options": {
+   "A": "Muscular dystrophy",
+   "B": "Cerebral palsy",
+   "C": "Spinal muscular atrophy",
+   "D": "Guillain-Barre syndrome"
+  },
+  "answer": "B",
+  "explanation": "Delayed motor milestones with leg involvement from early life, non-progressive, is most commonly cerebral palsy (spastic diplegia).",
+  "key_note": "Vague stem; paper key B (cerebral palsy) retained, though Duchenne dystrophy is the main alternative if weakness is progressive.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00045"
+  ],
+  "stem": "A 5-year-old child has intermittent double vision and difficulty holding up his head, worse as the day progresses. Parents note drooping eyelids by evening. Examination shows bilateral ptosis and fatigable muscle weakness. Which test is most likely to confirm myasthenia gravis?",
+  "options": {
+   "A": "Anti-MuSK antibodies",
+   "B": "Electromyography",
+   "C": "MRI of the brain",
+   "D": "Nerve conduction studies",
+   "E": "Serum acetylcholine receptor antibodies"
+  },
+  "answer": "E",
+  "explanation": "Anti-acetylcholine receptor antibodies are positive in most generalised myasthenia and are the confirmatory serological test. EMG (repetitive stimulation) supports but is less specific.",
+  "key_note": "One paper key marked B (EMG); the compiled key and standard teaching give E (AChR antibodies).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00046"
+  ],
+  "stem": "A 7-year-old girl has progressive weakness starting in the face and neck muscles, worse through the day and better with rest, with difficulty swallowing and holding up her head. A Tensilon (edrophonium) test is positive. What is the most appropriate initial treatment?",
+  "options": {
+   "A": "Interferon",
+   "B": "Intravenous immunoglobulin",
+   "C": "Pyridostigmine",
+   "D": "Plasma exchange",
+   "E": "Steroids"
+  },
+  "answer": "C",
+  "explanation": "Pyridostigmine, an acetylcholinesterase inhibitor, is first line therapy for myasthenia gravis. IVIG and plasma exchange are reserved for crises.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00047"
+  ],
+  "stem": "A 10-year-old child with myasthenia gravis presents with difficulty in breathing and swallowing. What is the most appropriate immediate management?",
+  "options": {
+   "A": "Administration of anticholinesterase inhibitors",
+   "B": "Intravenous immunoglobulin",
+   "C": "Oral prednisolone alone",
+   "D": "Splenectomy",
+   "E": "Thymectomy"
+  },
+  "answer": "B",
+  "explanation": "This is myasthenic crisis: secure the airway and ventilate if needed, and give IVIG or plasma exchange for rapid immunomodulation. Thymectomy is elective.",
+  "key_note": "Paper key B (IVIG) retained; plasmapheresis is equally accepted (removed as an option) and airway support comes first.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00048",
+   "C01041",
+   "C00466",
+   "C00741"
+  ],
+  "stem": "A 4-year-old boy has difficulty running and frequent falls. He pushes on his thighs to rise from the floor (Gower sign) and has calf muscle hypertrophy. What is the most likely diagnosis?",
+  "options": {
+   "A": "Becker muscular dystrophy",
+   "B": "Congenital myopathy",
+   "C": "Duchenne muscular dystrophy",
+   "D": "Myasthenia gravis",
+   "E": "Spinal muscular atrophy"
+  },
+  "answer": "C",
+  "explanation": "Gower sign with calf pseudohypertrophy and a waddling gait in a young boy is Duchenne muscular dystrophy; Becker presents later and milder.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00049"
+  ],
+  "stem": "A 5-year-old boy has difficulty climbing stairs and frequent falls, with calf hypertrophy, positive Gower sign and markedly raised creatine kinase. Which genetic mutation is responsible?",
+  "options": {
+   "A": "Collagen gene",
+   "B": "Delta F508 (CFTR) gene",
+   "C": "Dystrophin gene",
+   "D": "Myelin protein gene",
+   "E": "SMN1 gene"
+  },
+  "answer": "C",
+  "explanation": "Duchenne muscular dystrophy results from a mutation (usually a deletion) of the dystrophin gene at Xp21. SMN1 mutation causes spinal muscular atrophy.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00225"
+  ],
+  "stem": "A boy has a positive Gower sign and suspected Duchenne muscular dystrophy. Which is the confirmatory test?",
+  "options": {
+   "A": "Serum CK",
+   "B": "Muscle biopsy",
+   "C": "Genetic testing (dystrophin gene mutation)",
+   "D": "Electromyography",
+   "E": "Nerve conduction studies"
+  },
+  "answer": "C",
+  "explanation": "Molecular genetic testing (deletion or duplication analysis) confirms the diagnosis; CK is a sensitive screen but not specific, and biopsy is needed only if genetics is negative.",
+  "key_note": "Options extended to five by reviewer; paper key C retained.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00289"
+  ],
+  "stem": "A 2-year-old boy has difficulty standing from squatting, cannot climb stairs, and has a waddling gait, calf hypertrophy, positive Gower sign and markedly raised CPK. Which complication can occur in this child?",
+  "options": {
+   "A": "Amyloidosis",
+   "B": "Cardiomyopathy",
+   "C": "Cerebral atrophy",
+   "D": "Liver cirrhosis",
+   "E": "Renal failure"
+  },
+  "answer": "B",
+  "explanation": "Duchenne dystrophy involves cardiac muscle, causing dilated cardiomyopathy, and death is usually from respiratory or cardiac failure.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00050"
+  ],
+  "stem": "A 4-year-old boy is clumsy with frequent falls, calf hypertrophy, waddling gait and Gower sign. His maternal uncle had a similar condition. What is the inheritance pattern of Duchenne muscular dystrophy?",
+  "options": {
+   "A": "Autosomal dominant",
+   "B": "Autosomal recessive",
+   "C": "Mitochondrial inheritance",
+   "D": "X-linked recessive",
+   "E": "X-linked dominant"
+  },
+  "answer": "D",
+  "explanation": "The dystrophin gene lies on the X chromosome; males are affected and carrier females are usually asymptomatic. Affected maternal uncles are typical.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00606",
+   "C00845",
+   "C00731",
+   "C00147"
+  ],
+  "stem": "A 4-year-old boy with calf hypertrophy, Gower sign and elevated CPK has Duchenne muscular dystrophy. Which statement about the inheritance is correct?",
+  "options": {
+   "A": "The mother is the carrier",
+   "B": "The father is the carrier",
+   "C": "Both parents are carriers",
+   "D": "Neither parent carries the gene, since it is always a new mutation",
+   "E": "The disease is autosomal recessive"
+  },
+  "answer": "A",
+  "explanation": "Duchenne dystrophy is X-linked recessive; the mother is usually the carrier (about two thirds of cases) and a father cannot transmit an X-linked gene to his son.",
+  "key_note": "One paper key (answer text 'Both the parents are carriers') is wrong; a father cannot be an X-linked carrier of an affected son. Options written by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00189",
+   "C00474"
+  ],
+  "stem": "What is the most common cause of sudden onset weakness of both lower limbs in a child?",
+  "options": {
+   "A": "Guillain-Barre syndrome",
+   "B": "Poliomyelitis",
+   "C": "Transverse myelitis",
+   "D": "Spinal cord tumour",
+   "E": "Periodic paralysis"
+  },
+  "answer": "A",
+  "explanation": "Guillain-Barre syndrome is the commonest cause of acute flaccid paralysis, now that polio is nearly eliminated.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01026",
+   "C00757",
+   "C00850",
+   "C00959",
+   "C00679"
+  ],
+  "stem": "A 12-year-old girl develops progressive weakness of the lower limbs and cannot walk. She had diarrhoea for three days two weeks ago. There is marked hypotonia, power 2/5 bilaterally, absent knee and ankle reflexes, and normal sensation. What is the most likely diagnosis?",
+  "options": {
+   "A": "Guillain-Barre syndrome",
+   "B": "Myasthenia gravis",
+   "C": "Poliomyelitis",
+   "D": "Spinal tumour",
+   "E": "Transverse myelitis"
+  },
+  "answer": "A",
+  "explanation": "Post-infectious (often Campylobacter) ascending symmetrical flaccid weakness with areflexia is Guillain-Barre syndrome.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00680",
+   "C00780"
+  ],
+  "stem": "A 7-year-old has had progressive bilateral leg weakness for 5 days, then breathing difficulty. Power is 2/5 in the legs and 3/5 in the arms with areflexia and no Babinski sign. Which investigation is diagnostic?",
+  "options": {
+   "A": "MRI spine",
+   "B": "Electromyographic studies",
+   "C": "CSF study",
+   "D": "MRI brain",
+   "E": "Nerve conduction studies"
+  },
+  "answer": "C",
+  "explanation": "CSF shows albuminocytological dissociation (high protein, normal cells) in Guillain-Barre syndrome; nerve conduction studies support but CSF is the classic diagnostic test in this setting.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00540",
+   "C01084"
+  ],
+  "stem": "A 9-year-old girl has sudden weakness of one side of the face with inability to close the left eye, drooling, excessive tearing and loss of taste on the anterior two thirds of the tongue. Which cranial nerve is affected?",
+  "options": {
+   "A": "5th cranial nerve",
+   "B": "7th cranial nerve",
+   "C": "8th cranial nerve",
+   "D": "10th cranial nerve",
+   "E": "11th cranial nerve"
+  },
+  "answer": "B",
+  "explanation": "The facial nerve supplies the muscles of facial expression, taste to the anterior two thirds of the tongue and lacrimation and salivation; this is Bell palsy.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01106"
+  ],
+  "stem": "A 6-year-old child has facial asymmetry while crying and drooling from the right side of the mouth. On smiling the face deviates to the left, and there is wrinkling of the forehead on the left side only. Facial nerve palsy is diagnosed. At what level is the nerve damaged?",
+  "options": {
+   "A": "Facial nerve above the level of the pons, right side",
+   "B": "Facial nerve below the level of the pons, left side",
+   "C": "Facial nerve nuclei in the cerebrum",
+   "D": "Chronic otitis externa of the left ear",
+   "E": "Facial nerve below the level of the pons, right side"
+  },
+  "answer": "E",
+  "explanation": "Forehead wrinkling is lost on the affected right side, indicating a lower motor neurone (infranuclear) lesion of the right facial nerve; in upper motor neurone lesions the forehead is spared.",
+  "key_note": "",
+  "figure": ""
+ }
+]

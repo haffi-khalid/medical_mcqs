@@ -1,0 +1,37 @@
+[
+ {
+  "cids": [
+   "C00269"
+  ],
+  "stem": "A 2-year-old boy presents with recurrent infections, including pneumonia and skin abscesses. His absolute neutrophil count is persistently very low on periodic testing. What is the most likely diagnosis?",
+  "options": {
+   "A": "Chronic granulomatous disease",
+   "B": "Leukocyte adhesion deficiency",
+   "C": "Severe combined immunodeficiency",
+   "D": "Cyclic neutropenia"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Cyclic neutropenia (ELANE mutation) causes recurrent pyogenic infections with a low neutrophil count, classically recurring about every 21 days. In CGD the neutrophil count is normal, in LAD it is very high, and in SCID the lymphocytes are low.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00708"
+  ],
+  "stem": "Allergic reactions are frequently associated with an increase in which of the following cells?",
+  "options": {
+   "A": "Eosinophils",
+   "B": "Neutrophils",
+   "C": "Basophils only",
+   "D": "Monocytes",
+   "E": "Plasma cells"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Eosinophilia is typical of allergic disease such as asthma, allergic rhinitis and atopic eczema, driven by Th2 cytokines (IL-5). Neutrophilia points to bacterial infection.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ }
+]

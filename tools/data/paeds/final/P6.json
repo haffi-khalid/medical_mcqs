@@ -1,0 +1,631 @@
+[
+ {
+  "cids": [
+   "C00526",
+   "C01086"
+  ],
+  "stem": "How many kilocalories are provided by 1 g of carbohydrate, protein and fat respectively?",
+  "options": {
+   "A": "4 kcal, 5 kcal, 7 kcal",
+   "B": "5 kcal, 6 kcal, 9 kcal",
+   "C": "4 kcal, 4 kcal, 9 kcal",
+   "D": "4 kcal, 9 kcal, 4 kcal",
+   "E": "9 kcal, 4 kcal, 4 kcal"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Carbohydrate and protein yield 4 kcal/g each, fat 9 kcal/g (alcohol 7 kcal/g).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00525"
+  ],
+  "stem": "What is the approximate daily caloric requirement of a 6-month-old infant weighing 6 kg?",
+  "options": {
+   "A": "300 kcal",
+   "B": "600 kcal",
+   "C": "900 kcal",
+   "D": "1200 kcal",
+   "E": "1500 kcal"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Infants need about 100 kcal/kg/day in the first year, so 6 kg x 100 = 600 kcal.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00152"
+  ],
+  "stem": "A mother brings her 2-week-old neonate who is breast fed every 1-2 hours and wets frequent diapers. She is worried that her milk is not enough. What advice will you give?",
+  "options": {
+   "A": "Advise giving water between feeds to prevent dehydration",
+   "B": "Advise urine R/E as the child may have a urinary tract infection",
+   "C": "Reassure about adequate feeding and enough wet diapers",
+   "D": "Recommend switching to formula feed for better nutrition",
+   "E": "Suggest limiting breastfeeding sessions to avoid overfeeding"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Frequent feeds with 6 or more wet diapers a day indicate adequate intake; water and formula are unnecessary and undermine exclusive breastfeeding.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00151"
+  ],
+  "stem": "A 20-day-old exclusively breast-fed neonate has had loose motions since day 2 of life. Stools are of small volume and passed after every feed. The baby is active, well hydrated and gaining weight. What will you advise the mother?",
+  "options": {
+   "A": "Add formula feed as the child may get dehydrated",
+   "B": "Do a work-up for possible neonatal sepsis",
+   "C": "It is a physiological phenomenon and no treatment is required",
+   "D": "Prescribe a third-generation cephalosporin",
+   "E": "Stop breastfeeding as it is causing diarrhoea"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Frequent loose stools after each feed (gastrocolic reflex) in a thriving, well-hydrated breast-fed infant are normal; no treatment or cessation of breastfeeding is needed.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00331",
+   "C00889"
+  ],
+  "stem": "Which of the following is an absolute contraindication to breastfeeding?",
+  "options": {
+   "A": "Chronic maternal illness",
+   "B": "Cleft lip or palate",
+   "C": "Maternal intake of drugs",
+   "D": "Phenylketonuria",
+   "E": "Classic galactosaemia in the infant"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Classic galactosaemia (inability to metabolise galactose from lactose) is the true absolute contraindication; in PKU partial breastfeeding with phenylalanine monitoring is possible, and most maternal drugs are compatible with breastfeeding.",
+  "key_note": "Some paper keys marked D (Phenylketonuria) or C (Maternal drugs); the correct answer is galactosaemia (option E, added by reviewer, as in the explained key), since PKU is only a relative contraindication.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00349",
+   "C00499"
+  ],
+  "stem": "A mother brings her 3-month-old baby for a routine check-up and asks the appropriate age to start weaning. What is your answer?",
+  "options": {
+   "A": "3 to 4 months",
+   "B": "4 to 6 months",
+   "C": "7 to 8 months",
+   "D": "9 to 10 months",
+   "E": "12 months"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Complementary feeding is introduced at about 4-6 months (not before 4 months) when breast milk alone no longer meets needs; current WHO advice is exclusive breastfeeding to 6 months.",
+  "key_note": "Options added by reviewer where the source listed fewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00001",
+   "C00341",
+   "C00491",
+   "C00527"
+  ],
+  "stem": "A 9-year-old malnourished boy (weight 17 kg) complains of difficulty seeing in the dark, but sees normally during the day. Deficiency of which vitamin is the cause?",
+  "options": {
+   "A": "Vitamin A",
+   "B": "Vitamin B complex",
+   "C": "Vitamin C",
+   "D": "Vitamin D",
+   "E": "Vitamin E"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Vitamin A is needed for rhodopsin in rod cells; night blindness (nyctalopia) is the earliest symptom of its deficiency.",
+  "key_note": "Options added by reviewer where the source listed fewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00801"
+  ],
+  "stem": "A 3-year-old child has pallor, recurrent diarrhoea and recurrent chest infections, with dry skin and dry eyes. What is the earliest sign of vitamin A deficiency?",
+  "options": {
+   "A": "Night blindness",
+   "B": "Bitot spots",
+   "C": "Corneal xerosis",
+   "D": "Keratomalacia",
+   "E": "Corneal scarring"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Night blindness (XN) precedes conjunctival xerosis, Bitot spots, corneal xerosis and keratomalacia in the WHO xerophthalmia classification.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00946"
+  ],
+  "stem": "A 5-year-old child develops gradual loss of vision with keratomalacia and corneal scarring, eventually leading to blindness. Which vitamin deficiency is most likely responsible?",
+  "options": {
+   "A": "Vitamin A",
+   "B": "Vitamin B1",
+   "C": "Vitamin C",
+   "D": "Vitamin D",
+   "E": "Vitamin E"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Keratomalacia and corneal scarring are late xerophthalmia and vitamin A deficiency is the leading cause of preventable childhood blindness.",
+  "key_note": "Options added by reviewer where the source listed fewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01074"
+  ],
+  "stem": "What is the daily requirement of vitamin A in a child?",
+  "options": {
+   "A": "500 IU/day",
+   "B": "1000 IU/day",
+   "C": "1500 IU/day",
+   "D": "2000 IU/day",
+   "E": "5000 IU/day"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Paper key kept; requirement is roughly 1000-2000 IU/day (300-600 micrograms retinol equivalent) depending on age.",
+  "key_note": "Question does not give age, so the options are only approximate; the paper key C (1500 IU/day) is kept. Option E added by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00528"
+  ],
+  "stem": "What is the main source of vitamin D in humans?",
+  "options": {
+   "A": "Skin synthesis on sunlight exposure",
+   "B": "Egg yolk",
+   "C": "Fortified milk",
+   "D": "Fish liver oil",
+   "E": "Cereals"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "7-dehydrocholesterol in the skin is converted by UVB to cholecalciferol, supplying most of the body's vitamin D.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00165"
+  ],
+  "stem": "A 3-year-old child presents with red, cracked mucosa at the angle of the mouth (cheilosis) for 2 weeks. Deficiency of which vitamin is likely?",
+  "options": {
+   "A": "Folic acid",
+   "B": "Niacin",
+   "C": "Riboflavin",
+   "D": "Thiamine",
+   "E": "Vitamin B12"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Angular stomatitis and cheilosis are classic of riboflavin (B2) deficiency, along with glossitis and seborrhoeic dermatitis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00529"
+  ],
+  "stem": "Deficiency of vitamin C leads to which condition?",
+  "options": {
+   "A": "Rickets",
+   "B": "Scurvy",
+   "C": "Beriberi",
+   "D": "Pellagra",
+   "E": "Night blindness"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Ascorbic acid is needed for collagen hydroxylation; deficiency causes bleeding gums, perifollicular haemorrhages, poor wound healing and subperiosteal bleeding.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00168"
+  ],
+  "stem": "A 4-year-old picky eater has bleeding gums, petechiae and joint pain. Which deficiency is most likely?",
+  "options": {
+   "A": "Vitamin A",
+   "B": "Vitamin B6",
+   "C": "Vitamin C",
+   "D": "Vitamin D",
+   "E": "Vitamin K"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Vitamin C deficiency impairs collagen synthesis, causing gum bleeding, petechiae and painful joints from subperiosteal haemorrhage.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00002",
+   "C01073"
+  ],
+  "stem": "A young girl presents with swollen, spongy, bleeding gums, poor wound healing and leg pain. X-ray of long bones shows ground-glass appearance and cortical thinning. What is the diagnosis?",
+  "options": {
+   "A": "Acute lymphoblastic leukaemia",
+   "B": "Dengue fever",
+   "C": "Rickets",
+   "D": "Scurvy",
+   "E": "Idiopathic thrombocytopenic purpura"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Spongy bleeding gums with ground-glass osteopenia and thin cortices are classic of scurvy; leukaemia and ITP do not give this radiological picture.",
+  "key_note": "Options added by reviewer where the source listed fewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00332",
+   "C00483"
+  ],
+  "stem": "A 4-year-old boy presents with pallor, legs held in a cross-leg (frog) position, prominent costochondral junctions, petechial haemorrhages in skin and mucous membranes, and a pencil-thin cortex on long bone X-ray. What is the underlying vitamin deficiency?",
+  "options": {
+   "A": "Vitamin B complex",
+   "B": "Vitamin C",
+   "C": "Vitamin D",
+   "D": "Vitamin E",
+   "E": "Vitamin K"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Subperiosteal haemorrhage causing pseudoparalysis, scorbutic rosary and mucosal petechiae with thin cortex indicate vitamin C deficiency (scurvy).",
+  "key_note": "Option E added by reviewer where the source listed four options.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00995"
+  ],
+  "stem": "A 6-year-old malnourished, irritable child has low-grade fever, severe bone pain, swollen gums, petechiae, leg tenderness and a rosary at the costochondral junctions. There is no lymphadenopathy or hepatosplenomegaly. CBC shows microcytic hypochromic anaemia without blasts, and alkaline phosphatase is normal. Which investigation will you do to reach the diagnosis?",
+  "options": {
+   "A": "Ultrasound of long bones",
+   "B": "X-ray of long bones",
+   "C": "Bone marrow biopsy",
+   "D": "CT scan",
+   "E": "MRI scan"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "The picture is scurvy (normal ALP argues against rickets, no blasts excludes leukaemia); X-ray of long bones shows the white line of Frankel, Wimberger ring and subperiosteal haemorrhage.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00123",
+   "C01066"
+  ],
+  "stem": "A 4-year-old child presents with poor wound healing and swollen, bleeding gums, without petechiae or bruises. What radiological finding do you expect?",
+  "options": {
+   "A": "Widening of wrists and ankles",
+   "B": "Metaphyseal fraying",
+   "C": "Cupping of long bones",
+   "D": "Absence of femoral epiphysis",
+   "E": "White line at the end of the tibia"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "In scurvy the zone of provisional calcification is dense, giving the white line of Frankel at the metaphysis; widening, fraying and cupping are features of rickets.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01127"
+  ],
+  "stem": "Which supplement should young women take before and in early pregnancy to reduce the risk of neural tube defects in the fetus?",
+  "options": {
+   "A": "Calcium supplements",
+   "B": "Folate supplements",
+   "C": "Vitamin A supplements",
+   "D": "Vitamin B12 supplements",
+   "E": "Zinc supplements"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Periconceptional folic acid (0.4 mg daily, 4-5 mg if a previous pregnancy was affected) reduces neural tube defects by about 70%.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00673",
+   "C00840"
+  ],
+  "stem": "Deficiency of which micronutrient is associated with diarrhoea and increases its severity in children?",
+  "options": {
+   "A": "Iron",
+   "B": "Copper",
+   "C": "Zinc",
+   "D": "Selenium",
+   "E": "Iodine"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Zinc deficiency impairs gut mucosal repair and immunity; zinc 20 mg/day for 10-14 days reduces the duration and severity of diarrhoea.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00421"
+  ],
+  "stem": "A 4-year-old boy with height and weight at the 50th percentile attends for a check-up. He eats lots of junk food and drinks 4 bottles of milk a day. Examination is normal except marked pallor. What is the most likely diagnosis?",
+  "options": {
+   "A": "Folate deficiency",
+   "B": "Iron deficiency",
+   "C": "Thalassaemia minor",
+   "D": "Vitamin B12 deficiency",
+   "E": "Vitamin B6 deficiency"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Excess cow's milk displaces iron-rich foods, is itself a poor source of iron and may cause occult GI blood loss, producing nutritional iron deficiency anaemia in a well-grown child.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00444"
+  ],
+  "stem": "A 5-year-old girl with coeliac disease diagnosed at age 2, now on a normal diet, presents with weakness, weight loss, falls at night and frequent diarrhoea. Which deficiencies are expected?",
+  "options": {
+   "A": "Vitamin B complex",
+   "B": "Zinc deficiency leading to diarrhoea",
+   "C": "Vitamins A, D, E and iron deficiency",
+   "D": "Malnutrition due to coeliac disease",
+   "E": "Protein calorie malnutrition"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Untreated coeliac disease causes fat malabsorption with deficiency of fat-soluble vitamins (night blindness from vitamin A explains the falls at night) plus iron deficiency from proximal small bowel damage.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00947"
+  ],
+  "stem": "A lethargic, pale 2-year-old child is on a strictly vegetable-only (vegan) diet. Which laboratory value is likely to be elevated?",
+  "options": {
+   "A": "Haemoglobin",
+   "B": "Red blood cell mean corpuscular volume (MCV)",
+   "C": "Serum ferritin",
+   "D": "Platelet count",
+   "E": "Serum vitamin B12"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "A diet without animal products causes vitamin B12 deficiency and megaloblastic anaemia with raised MCV.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00530"
+  ],
+  "stem": "Which parameter is assessed in the Gomez classification of malnutrition?",
+  "options": {
+   "A": "Weight for age",
+   "B": "Weight for height",
+   "C": "Height for age",
+   "D": "Mid upper arm circumference",
+   "E": "Head circumference"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Gomez grades malnutrition by weight as a percentage of the expected weight for age: 1st degree 75-90%, 2nd degree 60-75%, 3rd degree below 60%.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00004",
+   "C01078"
+  ],
+  "stem": "A 1-year-old infant with signs of malnutrition weighs 5.5 kg; the expected weight at this age is about 10 kg (below 60%). How will you classify the malnutrition by the Gomez classification?",
+  "options": {
+   "A": "No malnutrition (normal)",
+   "B": "1st degree",
+   "C": "2nd degree",
+   "D": "3rd degree",
+   "E": "4th degree"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Gomez: 75-90% of expected weight is grade 1, 60-75% grade 2, below 60% grade 3 (severe); 5.5/10 = 55%.",
+  "key_note": "Some source options were garbled; the option set was reconstructed by the reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01021"
+  ],
+  "stem": "A 12-month-old infant on cow's milk who has not started weaning presents with poor weight gain. Which clinical sign is characteristic of marasmus?",
+  "options": {
+   "A": "Oedema",
+   "B": "Flaky paint dermatitis",
+   "C": "Hair changes",
+   "D": "Loss of subcutaneous fat",
+   "E": "Puffy face"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Marasmus is energy deficiency with severe wasting and loss of subcutaneous fat; oedema, flaky paint skin and hair changes belong to kwashiorkor.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01107"
+  ],
+  "stem": "A 2-year-old child presents with fever, irritability and diarrhoea. His weight is 7 kg with marked muscle wasting and length 70 cm. What is the likely diagnosis?",
+  "options": {
+   "A": "Acute weight loss",
+   "B": "Chronic weight loss with normal height",
+   "C": "Marasmus",
+   "D": "Kwashiorkor",
+   "E": "Normal weight and height"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Severe wasting with loss of muscle and fat without oedema is marasmus.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00093",
+   "C00823",
+   "C01063"
+  ],
+  "stem": "A 2-year-old boy is brought with irritability and reluctance to feed. He has an apathetic look and pitting oedema of both feet, and his weight is on the 25th centile. What is the provisional diagnosis?",
+  "options": {
+   "A": "Protein allergy",
+   "B": "Kwashiorkor",
+   "C": "Marasmus",
+   "D": "Nephrotic syndrome",
+   "E": "Coeliac disease"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Bilateral pitting oedema with irritability or apathy in a malnourished child is kwashiorkor; weight may be deceptively near normal because of oedema.",
+  "key_note": "Option E added by reviewer where the source listed four options.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00169"
+  ],
+  "stem": "A 10-month-old child is brought with visible wasting, oedema of both feet and irritability. Mid-upper arm circumference is 11 cm. How should he be classified under IMCI?",
+  "options": {
+   "A": "Moderate acute malnutrition",
+   "B": "No malnutrition",
+   "C": "Obesity",
+   "D": "Severe acute malnutrition",
+   "E": "Underweight"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Bilateral pitting oedema, visible severe wasting or MUAC below 11.5 cm each define severe acute malnutrition.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00121",
+   "C01064"
+  ],
+  "stem": "A 2-year-old child presents with loose stools on and off for 2 months. She is lethargic with bilateral pitting oedema and MUAC below 110 mm. What is the most immediate management step?",
+  "options": {
+   "A": "Start feeding",
+   "B": "Prepare for discharge",
+   "C": "Stimulate emotional development",
+   "D": "Plan catch-up growth",
+   "E": "Correct hypoglycaemia"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "In severe acute malnutrition, hypoglycaemia and hypothermia are corrected first (10% dextrose or feed), before feeding, catch-up growth and stimulation.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00375",
+   "C00005",
+   "C00549"
+  ],
+  "stem": "A 2-year-old girl presents with growth retardation, protuberant abdomen, dry eyes and oral mucosa. Her weight is 7 kg, height 57 cm, MUAC 10 cm, temperature 96.5 F and heart rate 80/min. A diagnosis of marasmus is made. Which three things must be treated in the emergency management of this condition?",
+  "options": {
+   "A": "Anaemia, electrolyte imbalance, infection",
+   "B": "Dehydration, electrolyte imbalance, anaemia",
+   "C": "Hypothermia, hypoglycaemia, dehydration",
+   "D": "Infection, hypothermia, sensory stimulation",
+   "E": "Micronutrient deficiency, anaemia, dehydration"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "WHO stabilisation of severe malnutrition prioritises hypoglycaemia, hypothermia and dehydration (with early antibiotics); anaemia, micronutrients and stimulation come later.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00174"
+  ],
+  "stem": "A 15-month-old child with MUAC 10.5 cm has diarrhoea and is lethargic with sunken eyes, poor capillary refill and weak pulses. What is the appropriate treatment?",
+  "options": {
+   "A": "Rehydration with IV saline",
+   "B": "Rehydration with dextrose",
+   "C": "Rehydration with ReSoMal",
+   "D": "ORS every 4 hours",
+   "E": "Rehydration with nasogastric milk feeds"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Lethargy with weak pulses and poor capillary refill in severe malnutrition is shock and needs IV fluid (15 ml/kg over the first hour); ReSoMal is for dehydration without shock.",
+  "key_note": "Paper key A kept; WHO prefers Ringer's lactate with 5% dextrose or half-strength saline with 5% dextrose, but IV fluid is the point of the question. Option E added by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00333",
+   "C00484"
+  ],
+  "stem": "A 3-year-old boy is under emergency (stabilisation) treatment of severe malnutrition. When will he be shifted to nutritional rehabilitation?",
+  "options": {
+   "A": "When able to tolerate semisolid foods",
+   "B": "When gaining weight more than 5 g/kg/day",
+   "C": "When taking at least 3 feeds per day",
+   "D": "When he has had no hypoglycaemic episodes",
+   "E": "When oedema has completely resolved"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "The paper key is kept: once metabolically stable with returned appetite and weight gain (over about 5 g/kg/day), rapid catch-up feeding starts.",
+  "key_note": "Option E added by reviewer where the source listed four options.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00120"
+  ],
+  "stem": "A 2-year-old girl, the youngest of six siblings, has irritability and pallor for 6 months. She takes diluted cow's milk and no solids. She is oedematous with thin sparse hair, angular cheilosis and a perianal rash. What is the most likely diagnosis?",
+  "options": {
+   "A": "Kwashiorkor",
+   "B": "Marasmus",
+   "C": "Ponderal retardation",
+   "D": "Nephrotic syndrome",
+   "E": "Acrodermatitis enteropathica"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Oedema with sparse hair, skin changes and mucosal lesions on a low-protein diet is kwashiorkor; nephrotic syndrome lacks the dietary and skin features.",
+  "key_note": "",
+  "figure": ""
+ }
+]

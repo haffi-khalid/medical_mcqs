@@ -1,0 +1,56 @@
+[
+ {
+  "cids": [
+   "C00092"
+  ],
+  "stem": "What is the daily maintenance fluid requirement of a 20 kg child?",
+  "options": {
+   "A": "1000 ml",
+   "B": "2000 ml",
+   "C": "2500 ml",
+   "D": "1500 ml",
+   "E": "1200 ml"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Holliday-Segar: 100 ml/kg for the first 10 kg (1000 ml) plus 50 ml/kg for the next 10 kg (500 ml) = 1500 ml/day.",
+  "key_note": "Not marked in the source paper; answer by reviewer. Option E added by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00693"
+  ],
+  "stem": "A 6-year-old girl presents with acute watery diarrhoea for 3 days. She is dehydrated and has been anuric for the last 12 hours. Her renal function tests are markedly deranged. Which complication is most likely to develop?",
+  "options": {
+   "A": "Metabolic acidosis",
+   "B": "Hypokalaemia",
+   "C": "Hypoglycaemia",
+   "D": "Hypercalcaemia",
+   "E": "Metabolic alkalosis"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Diarrhoeal stool bicarbonate loss plus acute kidney injury (failure to excrete acid) gives metabolic acidosis; with anuria potassium is retained, so hyperkalaemia rather than hypokalaemia is the danger.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00631"
+  ],
+  "stem": "A child develops abdominal distension after rehydration for acute diarrhoea. Which electrolyte abnormality is most likely?",
+  "options": {
+   "A": "Hypernatraemia",
+   "B": "Hyponatraemia",
+   "C": "Hypocalcaemia",
+   "D": "Hypokalaemia",
+   "E": "Hyperkalaemia"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Potassium is lost in stool and urine and shifts into cells as acidosis is corrected; hypokalaemia causes paralytic ileus and abdominal distension.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ }
+]

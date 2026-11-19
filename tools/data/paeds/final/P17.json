@@ -1,0 +1,725 @@
+[
+ {
+  "cids": [
+   "C00089"
+  ],
+  "stem": "What is the EEG finding in absence seizures?",
+  "options": {
+   "A": "Hypsarrhythmia",
+   "B": "3-Hz spike and wave discharges",
+   "C": "Focal epileptiform discharges",
+   "D": "High amplitude slow waves",
+   "E": "Burst suppression pattern"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Absence seizures show generalised 3-Hz spike and wave activity, provoked by hyperventilation. Hypsarrhythmia belongs to infantile spasms (West syndrome).",
+  "key_note": "Option E added by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00782",
+   "C00847"
+  ],
+  "stem": "A 6-year-old girl has brief episodes of staring with flickering of the eyelids lasting 15-30 seconds, with no post-ictal confusion. What is the diagnosis?",
+  "options": {
+   "A": "Complex partial seizure",
+   "B": "Generalised tonic-clonic seizure",
+   "C": "Absence seizure",
+   "D": "Day-dreaming only",
+   "E": "Infantile spasms"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Brief staring spells with eyelid flutter and immediate recovery are typical of absence (petit mal) seizures, often triggered by hyperventilation. Complex partial seizures last longer and have post-ictal confusion.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00379",
+   "C00961",
+   "C00609",
+   "C00752",
+   "C00790",
+   "C00150"
+  ],
+  "stem": "A 6-year-old girl has staring spells with flickering of the eyelids lasting 15 to 30 seconds. Afterwards she continues as before but looks momentarily puzzled. She has no other neurological symptoms and her school work has not deteriorated. What is the most appropriate anticonvulsant?",
+  "options": {
+   "A": "Phenobarbitone",
+   "B": "Phenytoin",
+   "C": "Valproic acid",
+   "D": "Ethosuximide",
+   "E": "Carbamazepine"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "This is childhood absence epilepsy; ethosuximide is the drug of choice (valproate if generalised tonic-clonic seizures coexist), while carbamazepine and phenytoin can worsen absences.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00451"
+  ],
+  "stem": "A 10-year-old presents with seizures with sudden loss of awareness, staring, lip smacking and automatisms. What type of seizure is this?",
+  "options": {
+   "A": "Absence seizure",
+   "B": "Complex partial seizure",
+   "C": "Generalised tonic-clonic seizure",
+   "D": "Simple febrile seizure",
+   "E": "Atonic seizure"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Impaired awareness with oral automatisms such as lip smacking is a complex partial (focal impaired awareness) seizure, usually from the temporal lobe. Absence seizures are shorter and show 3-Hz spike and wave.",
+  "key_note": "Option E added by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00227"
+  ],
+  "stem": "A 15-year-old has jerks of both arms in the morning, drops cups at breakfast, and had one generalised tonic-clonic seizure last month. What is the most likely diagnosis?",
+  "options": {
+   "A": "Juvenile myoclonic epilepsy",
+   "B": "Absence epilepsy",
+   "C": "Benign rolandic epilepsy",
+   "D": "Infantile spasms",
+   "E": "Tic disorder"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Morning myoclonic jerks with occasional generalised tonic-clonic seizures in an adolescent are classic for juvenile myoclonic epilepsy, which responds to sodium valproate.",
+  "key_note": "Options written by reviewer; the source gave only the answer. Age added by reviewer so the stem stands alone.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00957"
+  ],
+  "stem": "A child has salivatory noises and facial twitching during sleep with preserved consciousness. Which investigation is most useful for the diagnosis?",
+  "options": {
+   "A": "CT scan brain",
+   "B": "MRI brain",
+   "C": "Lumbar puncture",
+   "D": "EEG",
+   "E": "Nerve conduction study"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "This is benign rolandic (centrotemporal) epilepsy, which is diagnosed clinically with an EEG showing centrotemporal spikes that increase in sleep.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00288"
+  ],
+  "stem": "A 5-month-old infant has repeated brief episodes of head nodding and flexion of arms and legs. EEG shows hypsarrhythmia. Which is the first choice of treatment?",
+  "options": {
+   "A": "Corticosteroids (ACTH or prednisolone)",
+   "B": "Clonazepam",
+   "C": "Ethosuximide",
+   "D": "Phenobarbitone",
+   "E": "Valproic acid"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "This is infantile spasms (West syndrome). Hormonal therapy with ACTH or oral steroids is first-line (vigabatrin is the choice in tuberous sclerosis).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00149",
+   "C00608",
+   "C00740",
+   "C01024"
+  ],
+  "stem": "A 1-year-old boy presents with a 5-minute fit with fever of 104 F. A similar event occurred 3 months ago and his mother had fits with fever in childhood. Examination shows right otitis media. Which statement about this child is true?",
+  "options": {
+   "A": "He will not have any neurological sequelae",
+   "B": "He may develop hearing deficit",
+   "C": "Focal signs will be found on neurological examination",
+   "D": "He will have an abnormal EEG",
+   "E": "He will develop epilepsy later on"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "This is a simple febrile seizure with a positive family history; the prognosis is benign and permanent neurological deficit is not expected. The risk of later epilepsy is only about 2-4%, so it cannot be assumed.",
+  "key_note": "Variants differed on whether option E said 'will' or 'will not' develop epilepsy; the question is built on the standard version.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00448"
+  ],
+  "stem": "A 2-year-old child with cough and flu for 3 days has a seizure at home lasting 5 minutes with a fever of 39 C. What is the most likely diagnosis?",
+  "options": {
+   "A": "Complex febrile seizure",
+   "B": "Epilepsy",
+   "C": "Febrile status epilepticus",
+   "D": "Meningitis",
+   "E": "Simple febrile seizure"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "A single generalised seizure under 15 minutes with fever in a child aged 6 months to 5 years, without recurrence in 24 hours, is a simple febrile seizure.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00781",
+   "C00960",
+   "C00766",
+   "C01025"
+  ],
+  "stem": "A 2-year-old boy is brought with fever and a fit. He is conscious and febrile, the throat is congested, there are no meningeal signs and the rest of the examination is unremarkable. A similar episode occurred earlier. What is the most likely diagnosis?",
+  "options": {
+   "A": "Cerebral abscess",
+   "B": "Cerebral malaria",
+   "C": "Meningitis",
+   "D": "Febrile seizure",
+   "E": "Sepsis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A fit with fever from a minor infection, without meningeal or focal signs and with recovery of consciousness, is a febrile seizure. Recurrence with later febrile illnesses is common.",
+  "key_note": "One paper key marked C (meningitis) for this scenario; correct is D, febrile seizure, as there are no signs of CNS infection.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00763"
+  ],
+  "stem": "Which statement about complex febrile seizures in a 3-year-old child is correct?",
+  "options": {
+   "A": "They carry an increased risk of later epilepsy",
+   "B": "They never recur",
+   "C": "They are always followed by hearing loss",
+   "D": "They need long-term phenobarbitone",
+   "E": "They carry no increase in epilepsy risk compared with simple febrile seizures"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Complex febrile seizures (focal, prolonged over 15 minutes, or recurrent within 24 hours) carry a higher risk of later epilepsy than simple ones. Continuous prophylaxis is not recommended.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00175"
+  ],
+  "stem": "A 5-year-old child has been seizing continuously for 8 minutes with tonic-clonic movements. He had fever earlier, this is his first seizure, temperature is 39 C, oxygen is given and IV access is secured. What is the next step in management?",
+  "options": {
+   "A": "Midazolam",
+   "B": "IV mannitol",
+   "C": "Phenytoin",
+   "D": "Diazepam",
+   "E": "Rectal paracetamol"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Status epilepticus is treated first with a benzodiazepine; midazolam is the keyed answer. Phenytoin is second line and mannitol is not indicated.",
+  "key_note": "Midazolam and diazepam are both first-line benzodiazepines; the source key was midazolam. Option E added by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00677"
+  ],
+  "stem": "A 3-year-old known case of cerebral palsy on anti-seizure drugs presents with generalised tonic-clonic fits. Which is the first-line drug for his active fits?",
+  "options": {
+   "A": "Intravenous phenytoin",
+   "B": "Intravenous phenobarbitone",
+   "C": "Intravenous diazepam",
+   "D": "Carbamazepine",
+   "E": "Valproate sodium"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Active seizures are first treated with an IV benzodiazepine such as diazepam or lorazepam. Phenytoin and phenobarbitone are second-line, carbamazepine is oral maintenance.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00354",
+   "C00504"
+  ],
+  "stem": "A 4-year-old boy presents with high-grade fever, headache and seizures. There is neck stiffness with positive Kernig's and Brudzinski's signs. What is the first diagnostic test?",
+  "options": {
+   "A": "Blood culture",
+   "B": "Complete blood count",
+   "C": "ECG",
+   "D": "Lumbar puncture",
+   "E": "Chest X-ray"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Lumbar puncture with CSF analysis is the key test for meningitis, provided there is no raised ICP or focal sign. Blood culture is taken but does not establish the diagnosis alone.",
+  "key_note": "Option E added by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00272"
+  ],
+  "stem": "A 2-year-old child is brought to the emergency department with seizures and fever. The child is lethargic and has a stiff neck. What is the most likely diagnosis?",
+  "options": {
+   "A": "Febrile seizure",
+   "B": "Meningitis",
+   "C": "Encephalitis",
+   "D": "Epilepsy",
+   "E": "Brain abscess"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Fever, seizures, lethargy and neck stiffness indicate meningitis until proven otherwise; febrile seizures do not cause lethargy or meningism.",
+  "key_note": "Option E added by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00270",
+   "C00170",
+   "C00446"
+  ],
+  "stem": "A 10-year-old boy has a 2-day history of fever, headache and a petechial rash on the lower limbs. CSF shows Gram-negative diplococci. What is the organism?",
+  "options": {
+   "A": "Neisseria meningitidis",
+   "B": "Streptococcus pneumoniae",
+   "C": "Haemophilus influenzae",
+   "D": "Listeria monocytogenes",
+   "E": "Escherichia coli"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Gram-negative diplococci in CSF with a petechial rash indicate meningococcal meningitis. Pneumococcus is a Gram-positive diplococcus.",
+  "key_note": "Option E added by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00286"
+  ],
+  "stem": "A 2-year-old child has one day of fits and high-grade fever. GCS is 11/15, there is a purpuric rash all over the body, he is febrile with poor perfusion and received 50 mg paracetamol before arrival. What is the most likely diagnosis?",
+  "options": {
+   "A": "Cerebral malaria",
+   "B": "Dengue fever",
+   "C": "Drug reaction",
+   "D": "Measles encephalitis",
+   "E": "Meningococcaemia"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Fever, purpura, shock and altered consciousness point to meningococcaemia with meningitis; it is a medical emergency needing immediate ceftriaxone.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00232"
+  ],
+  "stem": "Which organisms most commonly cause bacterial meningitis in a 7-year-old child?",
+  "options": {
+   "A": "Group B streptococcus",
+   "B": "Escherichia coli",
+   "C": "Haemophilus influenzae type b",
+   "D": "Streptococcus pneumoniae and Neisseria meningitidis",
+   "E": "Listeria monocytogenes"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Beyond early childhood, pneumococcus and meningococcus are the usual causes. Group B streptococcus and E. coli are neonatal pathogens.",
+  "key_note": "Options written by reviewer; the source gave only the answer. Stem had no question; written as the standard age-group fact.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00765"
+  ],
+  "stem": "CSF culture in a child with meningitis shows Gram-positive diplococci. What is the most likely organism?",
+  "options": {
+   "A": "Neisseria meningitidis",
+   "B": "Haemophilus influenzae",
+   "C": "Streptococcus pneumoniae",
+   "D": "Escherichia coli",
+   "E": "Listeria monocytogenes"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Streptococcus pneumoniae is a Gram-positive lancet-shaped diplococcus; Neisseria is Gram-negative.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00775"
+  ],
+  "stem": "A 10-year-old child has fever and fits. CSF is turbid with a high neutrophil count, low sugar and high protein. What is the most likely diagnosis?",
+  "options": {
+   "A": "Bacterial meningitis",
+   "B": "Viral meningitis",
+   "C": "Tuberculous meningitis",
+   "D": "Encephalitis",
+   "E": "Febrile seizure"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Turbid CSF with neutrophil predominance, low glucose and raised protein is pyogenic bacterial meningitis.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00716"
+  ],
+  "stem": "A 9-year-old girl is admitted with suspected bacterial meningitis and is given IV dexamethasone with antibiotics. Which complication is prevented by steroids?",
+  "options": {
+   "A": "Convulsions",
+   "B": "Hearing impairment",
+   "C": "Hydrocephalus",
+   "D": "Optic atrophy",
+   "E": "Squint"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Dexamethasone given before or with the first antibiotic dose reduces sensorineural hearing loss, especially in Hib meningitis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00779"
+  ],
+  "stem": "A 1-year-old improving from bacterial meningitis develops seizures and head enlargement. What is the most likely cause?",
+  "options": {
+   "A": "Brain abscess",
+   "B": "Hydrocephalus",
+   "C": "Cerebral infarct",
+   "D": "Recurrent meningitis",
+   "E": "Subdural effusion"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Subdural effusion is a common complication of Hib and pneumococcal meningitis in infants, causing fever, fits and an enlarging head.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01128",
+   "C00184",
+   "C00287"
+  ],
+  "stem": "An unvaccinated 4-year-old boy has a one-month history of fever and weight loss, irritability and fits for 2 days, and belongs to a poor socioeconomic class. CSF shows TLC 350 cells/mm3, predominantly lymphocytes, protein 2000 mg/dl and glucose 40 mg/dl. What is the diagnosis?",
+  "options": {
+   "A": "Bacterial meningitis",
+   "B": "Cerebral malaria",
+   "C": "Encephalitis",
+   "D": "Tuberculous meningitis",
+   "E": "Viral meningitis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Chronic febrile illness with weight loss, lymphocytic CSF, very high protein and low glucose is tuberculous meningitis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00148",
+   "C00607",
+   "C00753",
+   "C00846"
+  ],
+  "stem": "A 5-year-old girl has 2 weeks of fever and headache and one day of generalised tonic-clonic seizures. She is drowsy but vitally stable. Her elder sister is on treatment for pulmonary tuberculosis. Which CSF finding is consistent with the most likely diagnosis?",
+  "options": {
+   "A": "Slightly increased neutrophilic cell count",
+   "B": "High glucose",
+   "C": "Positive Gram stain",
+   "D": "High protein with low glucose",
+   "E": "Numerous red blood cells"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "TB contact with subacute meningitis points to tuberculous meningitis, whose CSF shows lymphocytes, high protein and low glucose.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00984"
+  ],
+  "stem": "A 3-year-old unvaccinated child has low-grade fever and lethargy for 15 days. Last night he had tonic-clonic seizures followed by right-sided weakness. His grandfather has had chronic cough for 2 years. Examination shows an upper motor neuron lesion on the right side. What is the most likely diagnosis?",
+  "options": {
+   "A": "Pyogenic meningitis",
+   "B": "Brain abscess",
+   "C": "Encephalitis",
+   "D": "Tuberculous meningitis",
+   "E": "Cerebral malaria"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A prolonged prodrome, TB contact, seizures and focal deficit (from tuberculous vasculitis and infarction) indicate tuberculous meningitis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00978"
+  ],
+  "stem": "A 3-year-old unvaccinated child has fever and lethargy for 15 days, then a tonic-clonic seizure followed by right-sided weakness, with a grandfather who has chronic cough. Which investigation should be done to confirm the complication?",
+  "options": {
+   "A": "Chest X-ray only",
+   "B": "Blood culture",
+   "C": "EEG",
+   "D": "CT scan brain with contrast",
+   "E": "Serum electrolytes"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "With a focal deficit, neuroimaging (contrast CT or MRI) is needed to show basal exudates, hydrocephalus, infarcts or tuberculoma, and to exclude raised ICP before lumbar puncture.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00097"
+  ],
+  "stem": "All of the following are therapies for raised intracranial pressure EXCEPT:",
+  "options": {
+   "A": "Intubation and mechanical ventilation",
+   "B": "Elevation of the head end",
+   "C": "Phenobarbitone infusion",
+   "D": "Corticosteroids",
+   "E": "Mannitol or hypertonic saline"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Steroids are not useful in raised ICP from infection, trauma or hypoxia (they help vasogenic oedema of tumours only). Head elevation, ventilation, osmotherapy and barbiturate coma are used.",
+  "key_note": "Not marked in the source paper; answer by reviewer. Option E added by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00276"
+  ],
+  "stem": "A 10-year-old boy presents with sudden onset severe headache, vomiting and altered mental status. What is the most likely diagnosis?",
+  "options": {
+   "A": "Migraine",
+   "B": "Tension headache",
+   "C": "Raised intracranial pressure",
+   "D": "Meningitis",
+   "E": "Cluster headache"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Severe headache with vomiting and altered sensorium indicates raised intracranial pressure; migraine and tension headache do not alter consciousness.",
+  "key_note": "Question is nonspecific (meningitis is also possible); source key C kept. Option E added by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00767",
+   "C01028"
+  ],
+  "stem": "A 7-year-old boy has one day of fever, generalised fits and cold sores around the mouth. He is drowsy with GCS 11/15 and viral encephalitis is suspected. Which is the drug of choice?",
+  "options": {
+   "A": "Acyclovir",
+   "B": "Ceftriaxone",
+   "C": "Dexamethasone",
+   "D": "Mannitol",
+   "E": "Quinine sulfate"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Herpes simplex encephalitis is treated with IV acyclovir started empirically without waiting for confirmation.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00958"
+  ],
+  "stem": "What is the most likely diagnosis in a child with fever, seizures, rash and upgoing plantar responses?",
+  "options": {},
+  "answer": null,
+  "answer_text": "Viral encephalitis",
+  "explanation": "Fever with seizures, altered state and pyramidal signs suggest viral encephalitis, though a rash should also prompt exclusion of meningococcal disease.",
+  "key_note": "Options not available in the source; recall question. Source key: viral encephalitis; the stem is vague.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00761",
+   "C00825",
+   "C00768",
+   "C00912"
+  ],
+  "stem": "A 4-year-old child with unrepaired Tetralogy of Fallot presents with fever, headache, vomiting and focal seizures or hemiparesis. What is the most likely diagnosis?",
+  "options": {
+   "A": "Brain abscess",
+   "B": "Bacterial meningitis",
+   "C": "Cerebral infarct",
+   "D": "Viral encephalitis",
+   "E": "Subarachnoid haemorrhage"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Right-to-left shunting bypasses pulmonary filtration of bacteria, and chronic hypoxaemia with polycythaemia adds risk; fever, headache and focal signs suggest brain abscess.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00290",
+   "C00226"
+  ],
+  "stem": "A 2-year-old girl, born prematurely, has developmental delay with normal intellect. She is microcephalic, has scissoring of the lower limbs with power better in the arms than the legs, and generalised hyperreflexia. What is the likely diagnosis?",
+  "options": {
+   "A": "Extrapyramidal cerebral palsy",
+   "B": "Mixed cerebral palsy",
+   "C": "Spastic diplegic cerebral palsy",
+   "D": "Spastic hemiplegic cerebral palsy",
+   "E": "Spastic quadriplegic cerebral palsy"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Prematurity (periventricular leukomalacia) with legs more affected than arms, scissoring and normal intellect is spastic diplegia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00793",
+   "C00952",
+   "C00611"
+  ],
+  "stem": "An infant has delayed development, persistent hypertonia, brisk reflexes and scissoring of the lower limbs. What is the likely diagnosis?",
+  "options": {
+   "A": "Cerebral palsy",
+   "B": "Muscular dystrophy",
+   "C": "Spinal muscular atrophy",
+   "D": "Hypothyroidism",
+   "E": "Down syndrome"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Delay with spasticity, brisk reflexes and scissoring indicates an upper motor neuron lesion; cerebral palsy is the commonest cause.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00773"
+  ],
+  "stem": "What is the most common type of cerebral palsy?",
+  "options": {
+   "A": "Athetoid",
+   "B": "Ataxic",
+   "C": "Spastic",
+   "D": "Hypotonic",
+   "E": "Mixed"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Spastic cerebral palsy accounts for about 70-80% of cases.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00778"
+  ],
+  "stem": "Which type of cerebral palsy is most often associated with recurrent aspiration and bronchopneumonia?",
+  "options": {
+   "A": "Spastic diplegia",
+   "B": "Spastic hemiplegia",
+   "C": "Spastic quadriplegia",
+   "D": "Ataxic cerebral palsy",
+   "E": "Mild athetoid cerebral palsy"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Spastic quadriplegia has the most severe bulbar and pseudobulbar involvement, causing poor swallowing, aspiration and recurrent chest infections.",
+  "key_note": "Source stem was garbled; rewritten around the source answer, spastic quadriplegia. Options written by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00760"
+  ],
+  "stem": "A 2-year-old has gross developmental delay, choreoathetoid movements and seizures, with a history of neonatal jaundice requiring exchange transfusion. What is the diagnosis?",
+  "options": {
+   "A": "Cerebral palsy from perinatal asphyxia",
+   "B": "Kernicterus (bilirubin encephalopathy sequelae)",
+   "C": "Wilson disease",
+   "D": "Sydenham chorea",
+   "E": "Huntington disease"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Severe neonatal hyperbilirubinaemia damages basal ganglia and auditory nuclei, producing athetoid cerebral palsy with deafness and gaze palsy.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00453"
+  ],
+  "stem": "A 7-year-old boy has writhing movements of the hands that increase with stress and decrease at night. What is the likely diagnosis?",
+  "options": {
+   "A": "Wilson disease",
+   "B": "Sydenham chorea",
+   "C": "Kernicterus",
+   "D": "Huntington disease",
+   "E": "Tourette syndrome"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Sydenham chorea, a manifestation of rheumatic fever, causes involuntary choreiform movements that worsen with stress and disappear in sleep.",
+  "key_note": "Option E added by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00539"
+  ],
+  "stem": "Which of the following cause ataxia in children?",
+  "options": {
+   "A": "Ataxia telangiectasia",
+   "B": "Wilson disease",
+   "C": "Leukodystrophies",
+   "D": "All of the above",
+   "E": "None of the above"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Ataxia telangiectasia, Wilson disease and leukodystrophies can all cause childhood ataxia.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00259"
+  ],
+  "stem": "A 7-year-old boy has involuntary writhing movements of the arms and face that worsen with stress and disappear in sleep, slurred speech and abnormal tongue movements causing feeding difficulty. Motor power is preserved with no spasticity, and he had neonatal jaundice. Which type of cerebral palsy is this?",
+  "options": {
+   "A": "Spastic quadriplegia",
+   "B": "Spastic diplegia",
+   "C": "Athetoid (dyskinetic) cerebral palsy",
+   "D": "Ataxic cerebral palsy",
+   "E": "Hypotonic cerebral palsy"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Kernicterus damages the basal ganglia and causes dyskinetic (athetoid) cerebral palsy with preserved power and no spasticity.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ }
+]

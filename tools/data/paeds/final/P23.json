@@ -1,0 +1,128 @@
+[
+ {
+  "cids": [
+   "C00041"
+  ],
+  "stem": "A 6-month-old infant is brought with failure to thrive and muscle weakness. Examination shows hepatomegaly. Blood tests reveal hypoglycaemia with no rise in blood glucose after glucagon administration. What is the most likely diagnosis?",
+  "options": {
+   "A": "Congenital hypothyroidism",
+   "B": "Glycogen storage disease",
+   "C": "Galactosaemia",
+   "D": "Maple syrup urine disease",
+   "E": "Phenylketonuria"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Fasting hypoglycaemia, hepatomegaly and failure to rise after glucagon mean glycogen cannot be mobilised from the liver, as in glycogen storage disease. Galactosaemia gives hypoglycaemia only after milk feeds, with jaundice and cataracts.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00042"
+  ],
+  "stem": "An 8-month-old infant presents with failure to thrive and irritability. He has doll-like facies and hepatomegaly, and blood tests reveal hypoglycaemia. Which investigation confirms the diagnosis?",
+  "options": {
+   "A": "Abdominal CT scan",
+   "B": "Abdominal ultrasound",
+   "C": "Creatine phosphokinase",
+   "D": "Liver biopsy",
+   "E": "Serum transaminase levels"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Doll-like facies, massive hepatomegaly and fasting hypoglycaemia suggest glycogen storage disease type I (von Gierke). Liver biopsy with enzyme assay is the classical confirmatory test in exam teaching (molecular genetic testing is now increasingly used).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00038"
+  ],
+  "stem": "A 4-year-old boy presents with developmental delay, frequent respiratory infections and joint stiffness. He has coarse facial features with a broad nose, thick lips and a prominent forehead, a distended abdomen and reduced mobility of the fingers. X-ray of the spine shows anterior beaking of vertebrae in the thoracolumbar region. What is the most likely underlying pathology?",
+  "options": {
+   "A": "Abnormal lipid storage within the lysosomes",
+   "B": "Defective collagen synthesis affecting connective tissue",
+   "C": "Impaired glucose metabolism leading to glycogen accumulation",
+   "D": "Lysosomal enzyme deficiency leading to glycosaminoglycan accumulation",
+   "E": "Mitochondrial dysfunction resulting in reduced energy production"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Coarse facies, stiff joints, hepatosplenomegaly and anterior beaking of vertebrae (dysostosis multiplex) indicate a mucopolysaccharidosis, a lysosomal enzyme deficiency with glycosaminoglycan accumulation.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00039"
+  ],
+  "stem": "A 5-year-old boy has developmental delay, coarse facial features, recurrent upper respiratory infections and joint stiffness. He has a large head, flat nasal bridge, thick lips, an enlarged abdomen and bilateral corneal clouding. Urine shows increased dermatan sulfate and heparan sulfate. What is the most likely diagnosis?",
+  "options": {
+   "A": "Hurler syndrome",
+   "B": "Hunter syndrome",
+   "C": "Homocystinuria",
+   "D": "Hypothyroidism",
+   "E": "Phenylketonuria"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Corneal clouding with urinary dermatan and heparan sulfate is Hurler syndrome (MPS I, alpha-L-iduronidase deficiency). Hunter syndrome (MPS II) is X-linked and has clear corneas.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00040"
+  ],
+  "stem": "A 2-year-old boy has developmental delay, holding his neck at 12 months and still unable to sit unsupported. He has generalised tonic-clonic seizures, fair skin, blond hair and a musty odour. What is the most appropriate dietary modification?",
+  "options": {
+   "A": "Gluten-free diet",
+   "B": "High-protein diet",
+   "C": "High-carbohydrate diet",
+   "D": "Low-fat diet",
+   "E": "Low-phenylalanine diet"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Fair skin, blond hair, musty (mousy) odour, seizures and delay indicate phenylketonuria. Treatment is a phenylalanine-restricted diet started early to prevent irreversible brain damage.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00634"
+  ],
+  "stem": "A boy has deteriorating school performance, jaundice and Kayser-Fleischer rings. Which test is the gold standard to confirm the diagnosis?",
+  "options": {
+   "A": "Serum ceruloplasmin only",
+   "B": "Raised hepatic copper content on liver biopsy",
+   "C": "Serum alpha-fetoprotein",
+   "D": "Serum ferritin",
+   "E": "Anti-smooth muscle antibody titre"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "This is Wilson disease (ATP7B mutation), with copper deposition in liver, brain and cornea. Quantitative hepatic copper (above 250 micrograms/g dry weight) on liver biopsy is the diagnostic gold standard; ceruloplasmin is low but can be normal in some patients.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00827"
+  ],
+  "stem": "A 5-year-old boy with progressive abdominal distension, jaundice and hepatomegaly, born to consanguineous parents, has a sibling with a similar illness. Wilson disease is suspected. What is the best initial screening test?",
+  "options": {
+   "A": "Serum ceruloplasmin",
+   "B": "Serum ferritin",
+   "C": "Serum alpha-1 antitrypsin",
+   "D": "Hepatitis B surface antigen",
+   "E": "Serum amylase"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Low serum ceruloplasmin (with raised 24-hour urinary copper) is the usual first test in suspected Wilson disease. It is not perfectly specific; liver copper quantification is the confirmatory gold standard.",
+  "key_note": "Source called ceruloplasmin the most specific test; reviewer reworded to initial screening test since hepatic copper is the gold standard. Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ }
+]

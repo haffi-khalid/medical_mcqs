@@ -1,0 +1,39 @@
+[
+ {
+  "cids": [
+   "C00344",
+   "C00494"
+  ],
+  "stem": "You are examining a newborn in the nursery. When you place your finger in the palm of the infant's hand, he rapidly flexes his fingers around your finger and maintains a grip. Name the reflex.",
+  "options": {
+   "A": "Glabellar reflex",
+   "B": "Grasp reflex",
+   "C": "Moro reflex",
+   "D": "Plantar reflex",
+   "E": "Rooting reflex"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "The palmar grasp reflex is present at birth and disappears by about 3 to 6 months; its persistence beyond this suggests a neurological problem.",
+  "key_note": "Fifth option added by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00674"
+  ],
+  "stem": "What is the normal heart rate of a healthy newborn at rest?",
+  "options": {
+   "A": "40 to 60 beats/min",
+   "B": "60 to 80 beats/min",
+   "C": "80 to 100 beats/min",
+   "D": "120 to 160 beats/min",
+   "E": "200 to 240 beats/min"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "The normal neonatal heart rate is about 120 to 160/min (it may fall to 100 during sleep and rise above 160 with crying). Rates fall steadily with age.",
+  "key_note": "Options written by reviewer; the source gave only the answer. The source answer was 140 to 180/min (AI-generated explanation); the standard range is 120 to 160/min.",
+  "figure": ""
+ }
+]

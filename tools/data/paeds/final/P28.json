@@ -1,0 +1,208 @@
+[
+ {
+  "cids": [
+   "C00068"
+  ],
+  "stem": "A 2-year-old is brought to the emergency room 30 minutes after swallowing an unknown amount of kerosene. The child is currently asymptomatic. What is the most appropriate next step?",
+  "options": {
+   "A": "Immediate gastric lavage",
+   "B": "Administer activated charcoal",
+   "C": "Induce vomiting",
+   "D": "Observe for 4-6 hours and take a chest X-ray",
+   "E": "Give prophylactic antibiotics and discharge"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Gastric emptying (lavage or emesis) is contraindicated in hydrocarbon ingestion because of aspiration risk; observe for respiratory symptoms and obtain a chest X-ray.",
+  "key_note": "Option E added by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00199",
+   "C00456",
+   "C00352",
+   "C00502"
+  ],
+  "stem": "A 2-year-old child ingests kerosene and develops cough and difficulty in breathing. Chest X-ray shows right lower lobe infiltrates. What is the diagnosis?",
+  "options": {
+   "A": "Pulmonary embolism",
+   "B": "Aspiration pneumonitis",
+   "C": "Bacterial pneumonia",
+   "D": "Cardiac failure",
+   "E": "Pulmonary tuberculosis"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Kerosene is a low-viscosity hydrocarbon that is aspirated, causing chemical pneumonitis, usually with basal (right lower lobe) infiltrates; it is not primarily infective.",
+  "key_note": "Option E added by reviewer where the source listed four options.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00326",
+   "C00755"
+  ],
+  "stem": "A 3-year-old boy accidentally ingested kerosene. He initially coughed but later developed respiratory distress with wheeze and decreased breath sounds. Chest X-ray shows bilateral infiltrates. What is the most appropriate next step in management?",
+  "options": {
+   "A": "Administer activated charcoal",
+   "B": "Induce vomiting",
+   "C": "Perform gastric lavage",
+   "D": "Provide supportive care with oxygen",
+   "E": "Start broad-spectrum antibiotics"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Management of hydrocarbon pneumonitis is supportive (oxygen, ventilation if needed); decontamination is contraindicated and antibiotics and steroids are not routinely indicated.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00135",
+   "C00594",
+   "C00794"
+  ],
+  "stem": "A 10-year-old child presents with vomiting and abdominal pain 12 hours after ingesting paracetamol at a dose above 200 mg/kg. What is the most important step in management?",
+  "options": {
+   "A": "Activated charcoal",
+   "B": "IV or oral N-acetylcysteine",
+   "C": "Urinary alkalinisation",
+   "D": "Injection atropine",
+   "E": "Gastric lavage"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "N-acetylcysteine replenishes glutathione and is the antidote for paracetamol toxicity; it is effective even late, but best within 8-10 hours, so at 12 hours charcoal and lavage no longer help.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00328"
+  ],
+  "stem": "A 2-year-old boy is brought to the emergency department 6 hours after ingesting a full bottle of paracetamol syrup. He appears drowsy. What is the most appropriate next step in management?",
+  "options": {
+   "A": "Administer activated charcoal",
+   "B": "Check serum paracetamol level",
+   "C": "Discharge the child",
+   "D": "Induce vomiting",
+   "E": "Start N-acetylcysteine immediately"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "With a massive or uncertain ingestion and symptoms, NAC should not be delayed; a 4-hour level can be plotted on the nomogram but treatment is started early and stopped if the level is safe.",
+  "key_note": "Defensible alternative is B (check level); the paper key E is kept as NAC should not be delayed in a symptomatic large ingestion.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00327"
+  ],
+  "stem": "A 2-year-old child is brought to the emergency department after ingesting multiple iron tablets. He has vomiting and abdominal pain, and is now lethargic and tachycardic with metabolic acidosis. What is the most appropriate treatment?",
+  "options": {
+   "A": "Activated charcoal to prevent further iron absorption",
+   "B": "Deferoxamine therapy for severe toxicity",
+   "C": "Intravenous calcium gluconate to stabilise cardiac function",
+   "D": "Sodium bicarbonate to correct metabolic acidosis",
+   "E": "Whole bowel irrigation to remove unabsorbed iron"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Symptomatic iron poisoning with shock or acidosis needs IV deferoxamine as the chelator; charcoal does not bind iron.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00336",
+   "C00487"
+  ],
+  "stem": "A 2-year-old boy presents with diarrhoea, haematemesis and abdominal pain. He had been on regular medication for one month and his mother found an empty bottle in his room. What is the likely agent?",
+  "options": {
+   "A": "Acetaminophen poisoning",
+   "B": "Aspirin poisoning",
+   "C": "Iron poisoning",
+   "D": "Organophosphate poisoning",
+   "E": "Carbon monoxide poisoning"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Iron causes corrosive gastrointestinal injury with vomiting, haematemesis, diarrhoea and abdominal pain in the first phase.",
+  "key_note": "Option E added by reviewer where the source listed four options.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00335",
+   "C00486"
+  ],
+  "stem": "A 3-year-old girl presents with vomiting, fever and hyperventilation. Her mother found an empty medicine bottle but cannot recall the name. What is the likely agent?",
+  "options": {
+   "A": "Acetaminophen poisoning",
+   "B": "Aspirin poisoning",
+   "C": "Iron poisoning",
+   "D": "Organophosphate poisoning",
+   "E": "Carbon monoxide poisoning"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Salicylate stimulates the respiratory centre (hyperventilation), uncouples oxidative phosphorylation (fever) and causes vomiting with metabolic acidosis.",
+  "key_note": "Option E added by reviewer where the source listed four options.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00759"
+  ],
+  "stem": "A 3-year-old child presents with seizures, bradycardia and constricted pupils, without fever. What is the most likely diagnosis?",
+  "options": {
+   "A": "Organophosphorus poisoning",
+   "B": "Atropine poisoning",
+   "C": "Iron poisoning",
+   "D": "Aspirin poisoning",
+   "E": "Hydrocarbon poisoning"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Cholinergic excess gives miosis, bradycardia, salivation, bronchorrhoea and seizures.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01098"
+  ],
+  "stem": "What is the antidote for organophosphorus poisoning?",
+  "options": {
+   "A": "Adenosine",
+   "B": "Adrenaline",
+   "C": "N-acetylcysteine",
+   "D": "Atropine",
+   "E": "Vitamin K"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Atropine blocks muscarinic effects and is the first-line antidote, titrated to drying of secretions.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00764"
+  ],
+  "stem": "In a 2-year-old with organophosphorus poisoning, which drug is given to regenerate acetylcholinesterase?",
+  "options": {
+   "A": "Pralidoxime",
+   "B": "Atropine",
+   "C": "N-acetylcysteine",
+   "D": "Deferoxamine",
+   "E": "Naloxone"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Pralidoxime reactivates phosphorylated cholinesterase (before enzyme ageing) and is given alongside atropine, which treats the muscarinic symptoms.",
+  "key_note": "Options written by reviewer; the source gave only the answer. Stem reworded to ask for the enzyme reactivator, since atropine is the first-line antidote.",
+  "figure": ""
+ }
+]

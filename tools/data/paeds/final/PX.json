@@ -1,0 +1,23 @@
+[
+ {
+  "cids": [
+   "C00281",
+   "C00196",
+   "C00481",
+   "C00197",
+   "C00482"
+  ],
+  "stem": "A 2-year-old child presents with a history of recurrent ear infections and hearing loss. What is the most likely diagnosis?",
+  "options": {
+   "A": "Otitis media",
+   "B": "Otitis externa",
+   "C": "Mastoiditis",
+   "D": "Cholesteatoma"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Recurrent otitis media with persistent middle-ear effusion is the commonest cause of conductive hearing loss in toddlers. Cholesteatoma and mastoiditis are complications, not the usual first diagnosis.",
+  "key_note": "Source had only 4 options. The cids of two recall dumps (C00196/C00481 and C00197/C00482) are attached here; their parts are written as separate items.",
+  "figure": ""
+ }
+]

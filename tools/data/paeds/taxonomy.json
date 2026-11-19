@@ -1,0 +1,131 @@
+{
+ "sections": [
+  {
+   "code": "S1",
+   "title": "Paediatrics (Pervez Akbar Khan, Basis of Pediatrics 10th ed.)",
+   "chapters": [
+    [
+     "P1",
+     "History taking and physical examination (incl. neonatal reflexes)"
+    ],
+    [
+     "P2",
+     "Growth and development (milestones, red flags, puberty and Tanner stages, growth charts)"
+    ],
+    [
+     "P3",
+     "Immunization (EPI schedule, each vaccine, cold chain, contraindications)"
+    ],
+    [
+     "P4",
+     "Social and preventive paediatrics (Pakistan statistics, child rights, abuse, neglect, child labour, IMCI)"
+    ],
+    [
+     "P5",
+     "Behavioural and psychiatric disorders (enuresis, encopresis, ADHD, autism, pica, tics, eating disorders)"
+    ],
+    [
+     "P6",
+     "Paediatric nutrition and nutritional disorders (breastfeeding, weaning, vitamins, minerals, malnutrition, obesity)"
+    ],
+    [
+     "P7",
+     "Fluid and electrolyte disorders (dehydration, sodium, potassium, acid-base)"
+    ],
+    [
+     "P8",
+     "Acutely ill child (anaphylaxis, shock, burns, foreign body, drowning, head trauma)"
+    ],
+    [
+     "P9",
+     "Neonatology 1: newborn care, prematurity, birth asphyxia, neonatal resuscitation, respiratory distress (RDS, MAS, TTN), apnoea, NEC, IVH, birth injuries"
+    ],
+    [
+     "P10",
+     "Neonatology 2: neonatal sepsis, TORCH and congenital infections, neonatal jaundice, neonatal conjunctivitis"
+    ],
+    [
+     "P11",
+     "Neonatology 3: neonatal hypoglycaemia, hypocalcaemia, infant of diabetic mother, SGA/LGA/post-term, neonatal seizures, haemorrhagic disease, neonatal anaemia and polycythaemia"
+    ],
+    [
+     "P12",
+     "Infectious diseases 1: diarrhoea, cholera, dysentery, giardiasis, amoebiasis, typhoid, worm infestations"
+    ],
+    [
+     "P13",
+     "Infectious diseases 2: polio, diphtheria, pertussis, tetanus, measles, mumps, varicella, malaria, tuberculosis, rheumatic fever, dengue, leishmaniasis, rabies, HIV in children"
+    ],
+    [
+     "P14",
+     "Respiratory disorders (croup, epiglottitis, bronchiolitis, pneumonia, asthma, cystic fibrosis, foreign body, pleural disease)"
+    ],
+    [
+     "P15",
+     "Gastrointestinal and liver disorders (GERD, chronic diarrhoea, coeliac, IBD, hepatitis, liver failure, cirrhosis, pancreatitis)"
+    ],
+    [
+     "P16",
+     "Cardiovascular disorders (congenital heart disease, heart failure, endocarditis, myocarditis, arrhythmias, Kawasaki)"
+    ],
+    [
+     "P17",
+     "Neurologic disorders (meningitis, encephalitis, seizures and epilepsy, headache, hydrocephalus, cerebral palsy, neurocutaneous syndromes)"
+    ],
+    [
+     "P18",
+     "Neuromuscular disorders (Duchenne, myasthenia, floppy infant, SMA, GBS, Bell palsy)"
+    ],
+    [
+     "P19",
+     "Haematologic disorders (anaemias, thalassaemia, sickle cell, aplastic anaemia, bleeding disorders, ITP, transfusion)"
+    ],
+    [
+     "P20",
+     "Neoplastic diseases (leukaemia, lymphoma, solid tumours, histiocytosis, lymphadenopathy, splenomegaly)"
+    ],
+    [
+     "P21",
+     "Immunologic disorders (immunodeficiency syndromes, HIV/AIDS, allergy)"
+    ],
+    [
+     "P22",
+     "Endocrine disorders and rickets (growth hormone, thyroid, adrenal, diabetes mellitus, DKA, diabetes insipidus, rickets, puberty disorders)"
+    ],
+    [
+     "P23",
+     "Metabolic diseases (inborn errors of metabolism, glycogen storage, mucopolysaccharidoses, lysosomal)"
+    ],
+    [
+     "P24",
+     "Genetics and syndromes (chromosomal disorders, Down, Turner, inheritance patterns, named syndromes)"
+    ],
+    [
+     "P25",
+     "Nephrology and urinary tract (nephrotic and nephritic syndromes, UTI, AKI, CKD, hypertension, tubular disorders, HUS, HSP)"
+    ],
+    [
+     "P26",
+     "Dermatology (skin infections, eczema, scabies, SJS)"
+    ],
+    [
+     "P27",
+     "Paediatric surgery (cleft, atresias, intussusception, Hirschsprung, hernia, undescended testis, neural tube defects)"
+    ],
+    [
+     "P28",
+     "Poisoning and toxicology"
+    ],
+    [
+     "P29",
+     "Bone, joint and rheumatology (septic arthritis, osteomyelitis, DDH, JIA, SLE, skeletal dysplasias, Marfan)"
+    ],
+    [
+     "PX",
+     "Other paediatric topics not in the contents list or miscellaneous (ethics, statistics, general medicine, junk rows)"
+    ]
+   ]
+  }
+ ],
+ "notes": "Routing rules: 1) Neonatal topics: P9 (resuscitation, asphyxia, prematurity, RDS, MAS, TTN, NEC, IVH, apnoea, birth trauma), P10 (sepsis, TORCH, jaundice, conjunctivitis), P11 (hypoglycaemia, IDM, SGA/LGA, seizures, HDN/vitamin K bleeding, polycythaemia). 2) Vaccine schedule and each vaccine -> P3 even when the disease is also in P13; the disease itself (clinical features, complications, treatment) -> P12 or P13. 3) Diarrhoea and WHO dehydration plans -> P12; sodium/potassium/acid-base disturbances -> P7. 4) Malnutrition, vitamins, breastfeeding -> P6; rickets -> P22. 5) Kawasaki -> P16; rheumatic fever -> P13 unless the question is about carditis or valvular disease -> P16. 6) Nephrotic/nephritic, HUS, HSP, UTI, hypertension -> P25. 7) JIA, SLE, dermatomyositis -> P29. 8) Febrile convulsions, epilepsy, meningitis -> P17; cerebral malaria -> P13. 9) Congenital cardiac lesions -> P16. 10) Anaemias incl. thalassaemia and sickle cell -> P19; childhood cancers -> P20. 11) Down syndrome, Turner, chromosomal disorders -> P24; congenital hypothyroidism and CAH -> P22. 12) Poisonings -> P28. 13) Intussusception, pyloric stenosis, Hirschsprung, atresias -> P27. 14) IMCI classification and child rights -> P4. 15) Use PX only if nothing fits."
+}

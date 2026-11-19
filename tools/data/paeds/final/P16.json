@@ -1,0 +1,872 @@
+[
+ {
+  "cids": [
+   "C00837"
+  ],
+  "stem": "Which is the most common congenital heart defect?",
+  "options": {
+   "A": "Ventricular septal defect",
+   "B": "Atrial septal defect",
+   "C": "Patent ductus arteriosus",
+   "D": "Tetralogy of Fallot",
+   "E": "Coarctation of the aorta"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "VSD accounts for about 25-30% of all congenital heart disease and is the commonest lesion overall; the commonest cyanotic lesion beyond infancy is tetralogy of Fallot.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00395",
+   "C00568"
+  ],
+  "stem": "A baby with acyanotic congenital heart disease has a loud, harsh pansystolic murmur at the left lower sternal edge and needs echocardiography. Which factor will most likely determine symptoms in such children?",
+  "options": {
+   "A": "Age of the baby",
+   "B": "Direction of shunt",
+   "C": "Sex of the baby",
+   "D": "Size of the defect",
+   "E": "Time of intervention"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "In VSD the size of the defect determines the volume of left-to-right shunt and hence heart failure and pulmonary hypertension; small defects are asymptomatic with a loud murmur.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00394",
+   "C00567"
+  ],
+  "stem": "The most common form of ASD is the ostium secundum defect. Where is it located?",
+  "options": {
+   "A": "Anterior leaflet of the mitral valve",
+   "B": "High in the atrial septum",
+   "C": "In the atrioventricular septum",
+   "D": "In the mid-portion of the atrial septum",
+   "E": "Low in the atrial septum"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Ostium secundum ASD lies at the fossa ovalis in the mid-septum. High defects are sinus venosus type and low defects are ostium primum (AV septal) type.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00433",
+   "C00882"
+  ],
+  "stem": "A 7-year-old child has an ejection systolic murmur with wide, fixed splitting of the second heart sound. What is the most likely lesion?",
+  "options": {
+   "A": "Atrial septal defect",
+   "B": "Ventricular septal defect",
+   "C": "Patent ductus arteriosus",
+   "D": "Tetralogy of Fallot",
+   "E": "Coarctation of the aorta"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Left-to-right flow across the ASD overloads the right heart and delays pulmonary valve closure, giving wide fixed splitting of S2 independent of respiration.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01082"
+  ],
+  "stem": "What are the ECG findings in a patient with atrial septal defect?",
+  "options": {
+   "A": "Right atrial hypertrophy",
+   "B": "Right ventricular hypertrophy",
+   "C": "Left atrial hypertrophy",
+   "D": "Left ventricular hypertrophy",
+   "E": "Left axis deviation"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "ASD volume-loads the right ventricle, giving RSR' in V1 (incomplete RBBB), right axis deviation and RVH. Ostium primum ASD is the type with left axis deviation.",
+  "key_note": "Fifth option added by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00434"
+  ],
+  "stem": "A 1-year-old with otherwise normal vital signs has a loud systolic murmur with a thrill and a parasternal heave at the lower left sternal edge. What is the grade of the murmur?",
+  "options": {
+   "A": "Grade 2",
+   "B": "Grade 3",
+   "C": "Grade 4",
+   "D": "Grade 5",
+   "E": "Grade 6"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Grade 4 is a loud murmur with a palpable thrill. Grade 5 is audible with the stethoscope only partly touching the chest, and grade 6 is audible without the stethoscope.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00724",
+   "C00897",
+   "C00909"
+  ],
+  "stem": "An 8-month-old infant has a large VSD with Qp:Qs of 2:1 and has been on anti-failure treatment for 4 months, but growth is below the 3rd centile. What is the best treatment option?",
+  "options": {
+   "A": "No treatment is needed",
+   "B": "Continue anti-failure treatment",
+   "C": "Repeat echocardiography after 6 months",
+   "D": "Pulmonary arterial banding",
+   "E": "Surgical closure of VSD"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "A large VSD with failure to thrive despite adequate medical therapy needs surgical closure, ideally in infancy before irreversible pulmonary vascular disease. Banding is reserved for those unfit for bypass.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00646"
+  ],
+  "stem": "A 6-year-old with a long-standing VSD develops cyanosis, and echocardiography shows a right-to-left shunt. What is the most likely complication?",
+  "options": {
+   "A": "Infective endocarditis",
+   "B": "Eisenmenger syndrome",
+   "C": "Congestive cardiac failure",
+   "D": "Tet spell",
+   "E": "Brain abscess"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Long-standing left-to-right shunting raises pulmonary vascular resistance until the shunt reverses, producing cyanosis (Eisenmenger syndrome).",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00160"
+  ],
+  "stem": "A 2-week-old infant with poor weight gain has a continuous machinery murmur at the left infraclavicular or upper left sternal border. What would an echocardiogram most likely reveal?",
+  "options": {
+   "A": "Atrial septal defect",
+   "B": "Patent ductus arteriosus",
+   "C": "Tetralogy of Fallot",
+   "D": "Truncus arteriosus",
+   "E": "Ventricular septal defect"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "A continuous machinery murmur is the hallmark of PDA (classically heard at the left infraclavicular or upper left sternal area).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00726",
+   "C00903",
+   "C00913"
+  ],
+  "stem": "A 5-day-old preterm infant in NICU has a loud murmur over the precordium, bounding pulses and a wide pulse pressure, with increased pulmonary vascularity on chest X-ray. What is the most likely diagnosis?",
+  "options": {
+   "A": "Patent ductus arteriosus",
+   "B": "Ventricular septal defect",
+   "C": "Tetralogy of Fallot",
+   "D": "Coarctation of the aorta",
+   "E": "Transposition of the great arteries"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Preterm infants often have a persistent ductus as pulmonary resistance falls; run-off into the lungs causes bounding pulses, wide pulse pressure and plethoric lung fields.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00982"
+  ],
+  "stem": "A preterm baby treated for respiratory distress syndrome improves for 3 days, then develops apnoeic spells and inability to maintain saturation. He has a hyperactive precordium and a continuous machinery murmur at the upper left sternal border. What is the most likely chest X-ray finding?",
+  "options": {
+   "A": "Blunting of costophrenic angles",
+   "B": "Decreased pulmonary vascular markings",
+   "C": "Increased pulmonary markings",
+   "D": "Bat-wing appearance",
+   "E": "Normal-sized heart"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "This is a haemodynamically significant PDA; left-to-right shunting increases pulmonary blood flow, so lung markings are increased and the heart is enlarged.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00399",
+   "C00572",
+   "C00435",
+   "C01022",
+   "C00642",
+   "C00881"
+  ],
+  "stem": "A preterm baby in NICU is diagnosed with patent ductus arteriosus. Which drug will close the defect?",
+  "options": {
+   "A": "Digoxin",
+   "B": "Dopamine",
+   "C": "Furosemide",
+   "D": "Indomethacin",
+   "E": "Prostaglandin E1"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Prostaglandin synthesis inhibitors (indomethacin, ibuprofen) close a PDA in the preterm baby, whereas prostaglandin E1 keeps the duct open in duct-dependent lesions.",
+  "key_note": "Another paper listed ibuprofen (equally valid) among its options; indomethacin retained here.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00714"
+  ],
+  "stem": "A 1-year-old girl with PDA presents with poor feeding, lethargy, tachypnoea, tachycardia and hepatomegaly. What is the most likely diagnosis?",
+  "options": {
+   "A": "Congestive cardiac failure",
+   "B": "Pneumonia",
+   "C": "Infective endocarditis",
+   "D": "Eisenmenger syndrome",
+   "E": "Sepsis"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "A large left-to-right shunt causes pulmonary overcirculation and heart failure: feeding difficulty, tachypnoea, tachycardia and hepatomegaly.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00985"
+  ],
+  "stem": "A 12-year-old boy has a systolic blood pressure more than 20 mmHg higher in the arms than in the legs, diminished femoral pulses and radio-femoral delay. This acyanotic lesion can also present in the neonatal period because the timing of presentation depends on which factor?",
+  "options": {
+   "A": "Gestational age of the baby",
+   "B": "Maternal history of diabetes",
+   "C": "Maternal history of drug intake",
+   "D": "Severity of obstruction",
+   "E": "Site of defect"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "This is coarctation of the aorta; severe obstruction presents with heart failure and shock in the neonate (when the duct closes), mild obstruction presents later with hypertension.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00017",
+   "C00656",
+   "C00923",
+   "C00179",
+   "C00194",
+   "C00479"
+  ],
+  "stem": "A 2-year-old child presents with cyanosis, clubbing and blue discolouration of the lips and nails, with an ejection systolic murmur at the left sternal border. What is the most likely diagnosis?",
+  "options": {
+   "A": "Atrial septal defect",
+   "B": "Tetralogy of Fallot",
+   "C": "Ventricular septal defect",
+   "D": "Patent ductus arteriosus",
+   "E": "Coarctation of the aorta"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "TOF is the commonest cyanotic lesion beyond infancy; the ejection systolic murmur is due to right ventricular outflow obstruction. ASD, VSD and PDA are acyanotic unless Eisenmenger syndrome develops.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00647"
+  ],
+  "stem": "A 3-month-old male has cyanosis and decreased pulmonary blood flow. What is the most likely diagnosis?",
+  "options": {
+   "A": "Transposition of the great arteries",
+   "B": "Truncus arteriosus",
+   "C": "Total anomalous pulmonary venous drainage",
+   "D": "Tetralogy of Fallot",
+   "E": "Large VSD"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "TOF (VSD, overriding aorta, pulmonary stenosis, RVH) causes cyanosis with oligaemic lung fields.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00159"
+  ],
+  "stem": "An 8-month-old infant with central cyanosis is to undergo echocardiography for suspected tetralogy of Fallot. Which of the following is a component of tetralogy of Fallot?",
+  "options": {
+   "A": "Atrial septal defect",
+   "B": "Left ventricular hypertrophy",
+   "C": "Overriding pulmonary artery",
+   "D": "Patent ductus arteriosus",
+   "E": "Pulmonary stenosis"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "The four components are VSD, pulmonary (right ventricular outflow) stenosis, overriding aorta (not pulmonary artery) and right ventricular hypertrophy.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00432"
+  ],
+  "stem": "A patient with tetralogy of Fallot attends OPD. Which of the following is NOT a component of tetralogy of Fallot?",
+  "options": {
+   "A": "Overriding of the aorta",
+   "B": "Atrial septal defect",
+   "C": "Right ventricular hypertrophy",
+   "D": "Ventricular septal defect",
+   "E": "Pulmonary stenosis"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "The tetrad is VSD, pulmonary stenosis, overriding aorta and RVH. ASD plus TOF is called pentalogy of Fallot.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00397",
+   "C00570",
+   "C01023"
+  ],
+  "stem": "A 1.5-year-old infant has episodes of cyanosis and breathlessness after vigorous crying, worse on waking in the morning and relieved by squatting. Chest X-ray shows a normal-sized heart, uplifted apex, oligaemic lung fields and a concavity in the pulmonary segment. Which congenital heart disease is most likely?",
+  "options": {
+   "A": "Atrial septal defect",
+   "B": "Hypoplastic left heart",
+   "C": "Patent ductus arteriosus",
+   "D": "Tetralogy of Fallot",
+   "E": "Transposition of the great vessels"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Tet spells with squatting, a boot-shaped heart (RVH uplifting the apex), absent pulmonary bay (concave pulmonary segment) and oligaemic lungs are typical of TOF.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00728",
+   "C00915",
+   "C00890"
+  ],
+  "stem": "A 6-month-old child has cyanosis on crying with SpO2 75% in room air and an ejection systolic murmur at the upper left sternal edge, with a clear chest. What is the most likely chest X-ray finding?",
+  "options": {
+   "A": "Boot-shaped heart",
+   "B": "Egg-on-side appearance",
+   "C": "Snowman sign",
+   "D": "Box-shaped heart",
+   "E": "Rib notching"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "TOF gives a boot-shaped heart (coeur en sabot) from RVH lifting the apex with a concave pulmonary segment, and oligaemic lung fields.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00739",
+   "C00911"
+  ],
+  "stem": "A 1-year-old child has a Tet spell. In tetralogy of Fallot, which factor is most important in determining the clinical presentation with cyanosis?",
+  "options": {
+   "A": "Degree of right ventricular outflow tract obstruction",
+   "B": "Size of the ventricular septal defect",
+   "C": "Degree of aortic override",
+   "D": "Age of the child",
+   "E": "Presence of a patent ductus arteriosus"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "The VSD is non-restrictive, so the severity of RVOT obstruction determines the right-to-left shunt and hence the age and degree of cyanosis.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00431"
+  ],
+  "stem": "What is the first step in the management of a Tet spell?",
+  "options": {
+   "A": "Oxygen inhalation",
+   "B": "Knee-chest position",
+   "C": "Morphine",
+   "D": "Propranolol",
+   "E": "Intubation"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "The knee-chest position (with calming and oxygen) raises systemic vascular resistance and increases venous return pooling in the legs; drug therapy (morphine, propranolol, bicarbonate, fluids) follows if the spell persists.",
+  "key_note": "Some sources list oxygen first; the keyed answer of knee-chest position is the usual first step in Pakistani teaching.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00078"
+  ],
+  "stem": "What is the physiological mechanism of a Tet spell?",
+  "options": {
+   "A": "Increased systemic resistance and increased pulmonary resistance",
+   "B": "Decreased systemic resistance and decreased pulmonary resistance",
+   "C": "Increased systemic resistance and decreased pulmonary vascular resistance",
+   "D": "Decreased systemic resistance and increased pulmonary vascular resistance",
+   "E": "Increased load on the left ventricle"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Infundibular spasm and a fall in SVR increase the right-to-left shunt across the VSD, causing sudden hypoxaemia; treatment aims to do the opposite.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00162",
+   "C00638",
+   "C00922"
+  ],
+  "stem": "A 2-year-old child with tetralogy of Fallot turns blue and irritable on exertion but recovers after squatting. Which mechanism best explains the improvement with squatting?",
+  "options": {
+   "A": "Decrease in venous return to the right atrium",
+   "B": "Decrease in systemic vascular resistance reducing the left-to-right shunt",
+   "C": "Increase in pulmonary vascular resistance",
+   "D": "Reduction in cardiac preload, improving contractility",
+   "E": "Increase in systemic vascular resistance, reducing right-to-left shunting"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Squatting kinks the femoral vessels, raising SVR, so less blood shunts right to left across the VSD and more goes to the lungs.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00072",
+   "C00180",
+   "C00195",
+   "C00480",
+   "C00238"
+  ],
+  "stem": "A newborn with severe cyanosis shortly after birth does not improve with 100% oxygen. What is the most likely diagnosis?",
+  "options": {
+   "A": "Tetralogy of Fallot",
+   "B": "Transposition of the great arteries",
+   "C": "Ventricular septal defect",
+   "D": "Atrial septal defect",
+   "E": "Persistent fetal pulmonary hypertension"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Failure of cyanosis to improve with 100% oxygen (hyperoxia test) indicates a fixed right-to-left or parallel-circulation lesion; TGA is the commonest cause of cyanosis in the first days of life.",
+  "key_note": "Persistent pulmonary hypertension (distractor) can also fail the hyperoxia test, but TGA is the intended answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00079",
+   "C00353",
+   "C00503",
+   "C00243",
+   "C00899"
+  ],
+  "stem": "A cyanotic newborn has a chest X-ray showing a narrow vascular pedicle and egg-on-side appearance of the heart. What is the diagnosis?",
+  "options": {
+   "A": "Atrial septal defect",
+   "B": "Transposition of the great arteries",
+   "C": "Tetralogy of Fallot",
+   "D": "Ventricular septal defect",
+   "E": "Truncus arteriosus"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "The narrow pedicle (aorta and pulmonary artery lie anteroposterior) and a thymic-poor, oval cardiac silhouette give the egg-on-side sign of TGA.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00398",
+   "C00571"
+  ],
+  "stem": "A full-term baby weighing 3.8 kg, born to a diabetic mother, develops cyanosis soon after birth. Which chest X-ray finding do you expect?",
+  "options": {
+   "A": "Boot-shaped heart",
+   "B": "Box-shaped heart",
+   "C": "Egg-on-side appearance",
+   "D": "Figure-of-three sign",
+   "E": "Snowman sign"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Infants of diabetic mothers have more TGA (and cardiomyopathy); TGA gives egg-on-side. Boot shape is TOF, snowman is supracardiac TAPVC, box-shaped is Ebstein anomaly and figure of three is coarctation.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00396",
+   "C00569"
+  ],
+  "stem": "A child with which congenital heart defect will not survive the neonatal period without a patent ductus arteriosus?",
+  "options": {
+   "A": "Atrial septal defect",
+   "B": "Coarctation of the aorta",
+   "C": "Tetralogy of Fallot",
+   "D": "Transposition of the great arteries",
+   "E": "Ventricular septal defect"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "In TGA the two circulations run in parallel and mixing occurs only through the PDA/foramen ovale, so prostaglandin E1 is life-saving until atrial septostomy or the arterial switch.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00450"
+  ],
+  "stem": "A 3-day-old baby girl born at home is brought to OPD with dusky colour since birth. What is the most likely diagnosis?",
+  "options": {
+   "A": "Patent ductus arteriosus",
+   "B": "Persistent pulmonary hypertension",
+   "C": "Transposition of the great arteries",
+   "D": "Ventricular septal defect",
+   "E": "Atrial septal defect"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Central cyanosis from birth in a well-grown term infant is most often TGA; PDA, VSD and ASD are acyanotic at this age.",
+  "key_note": "Stem is incomplete in the source; answer as marked.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00983"
+  ],
+  "stem": "A newborn develops central cyanosis soon after birth with an increased left ventricular impulse and a holosystolic murmur. Echocardiography shows tricuspid atresia. Which is the most likely ECG finding?",
+  "options": {
+   "A": "Biventricular hypertrophy",
+   "B": "Left axis deviation and left ventricular hypertrophy",
+   "C": "Right axis deviation and left ventricular hypertrophy",
+   "D": "RSR' pattern",
+   "E": "ST segment elevation"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Tricuspid atresia is the cyanotic lesion with a superior (left) axis and LVH, because the right ventricle is hypoplastic.",
+  "key_note": "Source key marked C (right axis deviation); correct is B: tricuspid atresia classically shows left axis deviation with LVH.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00158"
+  ],
+  "stem": "A 6-month-old child with congestive cardiac failure is being treated with furosemide. Which electrolyte abnormality must be closely monitored?",
+  "options": {
+   "A": "Hypercalcaemia",
+   "B": "Hypermagnesaemia",
+   "C": "Hypernatraemia",
+   "D": "Hyponatraemia",
+   "E": "Hypokalaemia"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Loop diuretics waste potassium; hypokalaemia also potentiates digoxin toxicity, so potassium is monitored or spironolactone added.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00369",
+   "C00543"
+  ],
+  "stem": "A 2-year-old child with a known large ventricular septal defect presents with apathy, tachypnoea, wheezes and crackles on the chest, and hepatomegaly, and is diagnosed with congestive cardiac failure. What is the drug of choice (as keyed in the exam)?",
+  "options": {
+   "A": "Frusemide",
+   "B": "Digoxin",
+   "C": "Dopamine",
+   "D": "Dobutamine",
+   "E": "Epinephrine"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Papers key digoxin as the drug for CCF in VSD, with diuretics and ACE inhibitors used alongside; digoxin improves contractility and slows the heart rate.",
+  "key_note": "Furosemide is the first-line symptomatic drug in modern practice, but the exam keys consistently mark digoxin, so it is kept.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01101"
+  ],
+  "stem": "A 2-year-old with a large VSD presents to ER with failure to thrive, tachypnoea, wheezes and crackles, hepatomegaly and pitting oedema. What is the diagnosis and treatment?",
+  "options": {
+   "A": "Bronchiolitis: oxygen and nebulisers",
+   "B": "Pneumonia: oxygen, nebulisers and antibiotics",
+   "C": "Immediate corrective surgery for VSD",
+   "D": "Failure to thrive: give albumin",
+   "E": "Congestive cardiac failure: diuretics and digoxin"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Large left-to-right shunt causes pulmonary overcirculation with heart failure; this is stabilised medically (diuretics, digoxin, ACE inhibitors) before elective repair.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00887"
+  ],
+  "stem": "A 2-month-old infant presents with breathing difficulty and fever for 2 days. Respiratory rate is 70/min and heart rate 170/min, the liver is 6 cm below the costal margin, and he is sweaty and pale. Chest X-ray shows gross cardiomegaly. What is the most important step in management?",
+  "options": {
+   "A": "Give antibiotics alone",
+   "B": "Give nebulised salbutamol",
+   "C": "Give diuretics (IV furosemide) with oxygen and supportive anti-failure treatment",
+   "D": "Give a rapid 20 mL/kg saline bolus",
+   "E": "Observe and repeat the X-ray tomorrow"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "This is acute heart failure (tachypnoea, tachycardia, hepatomegaly, cardiomegaly); diuretics reduce preload and inotropes are added if perfusion is poor. A fluid bolus would worsen failure.",
+  "key_note": "Options written by reviewer; the source gave only the answer (diuretics and inotropes).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00910",
+   "C00870"
+  ],
+  "stem": "A 2-month-old infant presents with breathing difficulty and fever, with respiratory rate 70/min, hepatomegaly and cardiomegaly on chest X-ray. What is the most likely diagnosis?",
+  "options": {
+   "A": "Congestive cardiac failure",
+   "B": "Severe pneumonia",
+   "C": "Bronchiolitis",
+   "D": "Transient tachypnoea of the newborn",
+   "E": "Neonatal sepsis"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Gross cardiomegaly with a large tender liver and tachycardia point to heart failure (underlying CHD or myocarditis); pneumonia does not enlarge the heart.",
+  "key_note": "The source answer was 'Severe pneumonia' (from an unreliable compiled file); corrected to congestive cardiac failure, consistent with the sister question on the same scenario. Options written by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00244",
+   "C00461"
+  ],
+  "stem": "A 7-day-old baby has a respiratory rate of 60/min with subcostal recession, a pansystolic murmur, wheeze and hepatomegaly. What is the most likely diagnosis?",
+  "options": {
+   "A": "Congestive cardiac failure",
+   "B": "Congenital pneumonia",
+   "C": "Transient tachypnoea of the newborn",
+   "D": "Infective endocarditis",
+   "E": "Viral myocarditis"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Respiratory distress with a pansystolic murmur and hepatomegaly in a neonate indicates heart failure from a VSD or similar lesion as pulmonary resistance falls.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00836",
+   "C00436"
+  ],
+  "stem": "A 5-year-old child with a known ventricular septal defect presents in the emergency department with respiratory distress, bilateral pedal oedema, hepatomegaly, a gallop rhythm and basal crackles. What is the cause of the current condition?",
+  "options": {
+   "A": "Pulmonary failure",
+   "B": "Patent ductus arteriosus",
+   "C": "Pulmonary hypertension",
+   "D": "Congestive cardiac failure",
+   "E": "Sepsis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Tachypnoea, tachycardia, raised JVP, oedema, hepatomegaly and basal crepitations with a gallop indicate biventricular failure.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01090"
+  ],
+  "stem": "A young girl is being treated with digoxin for heart failure and digoxin toxicity is suspected. Which ECG finding is specific for digoxin toxicity?",
+  "options": {
+   "A": "Long QT interval",
+   "B": "Prolonged PR interval",
+   "C": "Short PR interval",
+   "D": "Tall tented T waves",
+   "E": "Wide QRS complex"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Digoxin slows AV conduction, so PR prolongation (first-degree block) is the usual early ECG sign; ST scooping is the digoxin effect, not toxicity.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00140",
+   "C00599"
+  ],
+  "stem": "An 8-year-old known case of rheumatic heart disease presents with breathing difficulty and rheumatic carditis is suspected. Rheumatic carditis usually presents with murmurs and which clinical sign?",
+  "options": {
+   "A": "Chest pain",
+   "B": "Tachypnoea",
+   "C": "Tachycardia",
+   "D": "Syncope",
+   "E": "Feeble pulses"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Sleeping tachycardia out of proportion to fever is characteristic of rheumatic carditis; chest pain is unusual unless pericarditis is present.",
+  "key_note": "One paper marked A (Chest pain); correct is C, persistent tachycardia.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00258",
+   "C00210",
+   "C00454"
+  ],
+  "stem": "A 9-year-old girl has fatigue, breathlessness and palpitations; a year ago she had a sore throat followed by fever and joint pains that resolved. Pulse is 110/min, BP 100/60, with a pansystolic murmur at the apex radiating to the axilla. What is the diagnosis?",
+  "options": {
+   "A": "Atrial septal defect",
+   "B": "Ventricular septal defect",
+   "C": "Mitral stenosis",
+   "D": "Mitral regurgitation",
+   "E": "Innocent flow murmur"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Prior rheumatic fever with an apical pansystolic murmur radiating to the axilla is rheumatic mitral regurgitation, the commonest valve lesion in children.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00191",
+   "C00476"
+  ],
+  "stem": "What is the diagnostic investigation for infective endocarditis?",
+  "options": {
+   "A": "ESR",
+   "B": "Three consecutive blood cultures",
+   "C": "Chest X-ray",
+   "D": "ASO titre",
+   "E": "Urine routine examination"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "At least three blood culture sets taken before antibiotics, with echocardiography, confirm endocarditis; ESR and urinalysis are non-specific.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00538"
+  ],
+  "stem": "Which of the following is a major Duke criterion for infective endocarditis?",
+  "options": {
+   "A": "Positive blood cultures with typical organisms and echocardiographic evidence of endocardial involvement",
+   "B": "Fever above 38 C",
+   "C": "Splenomegaly",
+   "D": "Roth spots",
+   "E": "Predisposing heart lesion"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "The two major criteria are positive blood cultures with a typical organism and evidence of endocardial involvement on echocardiography (vegetation, abscess, new regurgitation). Fever, vascular and immunological signs and predisposition are minor criteria.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00566"
+  ],
+  "stem": "An 8-year-old boy with fever, a heart murmur, petechiae and splenomegaly has a positive blood culture and vegetations on echocardiography. What is the most likely organism?",
+  "options": {
+   "A": "Staphylococcus aureus",
+   "B": "Enterococcus",
+   "C": "Candida albicans",
+   "D": "Pseudomonas aeruginosa",
+   "E": "Streptococcus viridans"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Viridans streptococci cause most subacute endocarditis on previously damaged valves; Staph aureus causes acute endocarditis on normal valves.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00981"
+  ],
+  "stem": "A 13-year-old boy has occasional shortness of breath, dizziness and chest pain on exercise, and once lost consciousness while playing football. His grandfather died suddenly at 37. Chest X-ray shows cardiomegaly. What is the most likely diagnosis?",
+  "options": {
+   "A": "Atrial septal defect",
+   "B": "Hypertrophic cardiomyopathy",
+   "C": "Congestive cardiac failure",
+   "D": "Infective endocarditis",
+   "E": "Myocarditis"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Exertional syncope, chest pain and a family history of sudden death in a young person suggest HCM, an autosomal dominant sarcomere disorder.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00986"
+  ],
+  "stem": "Which of the following best describes the pathophysiology of dilated cardiomyopathy?",
+  "options": {
+   "A": "Atrial dilatation",
+   "B": "Endocardial dysfunction",
+   "C": "Myocardial dysfunction and ventricular dilatation",
+   "D": "Pericardial dysfunction",
+   "E": "Ventricular hypertrophy"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "DCM is dilated ventricles with impaired systolic contraction, giving heart failure; it is the commonest cardiomyopathy in children.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00283"
+  ],
+  "stem": "A 5-year-old child is diagnosed with Kawasaki disease. What is the most appropriate treatment?",
+  "options": {
+   "A": "Aspirin",
+   "B": "IVIG",
+   "C": "Corticosteroids",
+   "D": "Antibiotics",
+   "E": "Paracetamol"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Intravenous immunoglobulin (2 g/kg) within 10 days of fever cuts the risk of coronary aneurysm from about 25% to under 5%; aspirin is given alongside but IVIG is the key treatment.",
+  "key_note": "Fifth option added by reviewer.",
+  "figure": ""
+ }
+]

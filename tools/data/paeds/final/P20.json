@@ -1,0 +1,209 @@
+[
+ {
+  "cids": [
+   "C00681"
+  ],
+  "stem": "A 4-year-old child presents with low-grade fever for 3 weeks, pallor, fatigue and bone pains. He is febrile and anaemic, with weight below the 10th percentile and height at the 50th percentile. There is hepatosplenomegaly and bone tenderness, with no rash or joint swelling. What is the most likely diagnosis?",
+  "options": {
+   "A": "Infectious mononucleosis",
+   "B": "Juvenile idiopathic arthritis",
+   "C": "Acute lymphoblastic leukaemia",
+   "D": "Enteric fever",
+   "E": "Systemic lupus erythematosus"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Fever, pallor, bone pain and hepatosplenomegaly without joint swelling point to marrow infiltration by acute lymphoblastic leukaemia, the commonest childhood cancer.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01129",
+   "C00534",
+   "C00989",
+   "C01040",
+   "C00931",
+   "C00655"
+  ],
+  "stem": "A 3-year-old boy has had intermittent high-grade fever, drenching night sweats, weight loss and bone pains for 1 month, without improvement on antibiotics. He has petechiae, bruises, marked pallor and bone tenderness. CBC shows TLC 100 x 10^3/ul, Hb 5 g/dl, platelets 14 x 10^3/ul, with blast cells on the peripheral film. What is the probable diagnosis?",
+  "options": {
+   "A": "Acute lymphoblastic leukaemia",
+   "B": "Aplastic anaemia",
+   "C": "Immunodeficiency",
+   "D": "Idiopathic thrombocytopenic purpura",
+   "E": "Nutritional anaemia"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Blasts on the film with bone pain, bleeding and cytopenias indicate acute leukaemia, ALL being commonest in this age group; aplastic anaemia and ITP have no blasts or organ infiltration.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00117",
+   "C01060",
+   "C00930"
+  ],
+  "stem": "A 10-year-old girl has had fever and bone pains for 3 weeks. She has petechiae, bruises and hepatosplenomegaly. WBC is 35,000, Hb 7 g/dl, platelets 75,000, and the peripheral film shows 80% blast cells. What is the most appropriate next investigation to confirm the diagnosis?",
+  "options": {
+   "A": "Bone marrow biopsy",
+   "B": "Liver biopsy",
+   "C": "Reticulocyte count",
+   "D": "Serum iron and total iron binding capacity",
+   "E": "Folic acid level"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Blasts on the film suggest acute leukaemia; the diagnosis is confirmed by bone marrow aspiration/biopsy showing 25% or more blasts, with immunophenotyping.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00324"
+  ],
+  "stem": "A 5-year-old boy with trisomy 21 presents with high-grade fever, lassitude, pallor and petechiae and bruises. CBC shows anaemia, thrombocytopenia and leucopenia. What is the most likely diagnosis?",
+  "options": {
+   "A": "Acute lymphoblastic leukaemia",
+   "B": "Aplastic anaemia",
+   "C": "Fanconi anaemia",
+   "D": "Immune thrombocytopenic purpura",
+   "E": "Iron-deficiency anaemia"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Children with Down syndrome have a 10-20 fold higher risk of acute leukaemia (ALL, and AML in infancy); pancytopenia with systemic symptoms suggests marrow infiltration.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00296"
+  ],
+  "stem": "A 6-year-old boy has had fever for 3 weeks, bruises and persistent headache. He is pale with hepatosplenomegaly and cervical lymphadenopathy. CBC shows Hb 7.2 g/dl, platelets 45,000 and WBC 65,000/uL. Bone marrow confirms acute lymphoblastic leukaemia. Which of the following is the worst prognostic factor in this child?",
+  "options": {
+   "A": "Age between 1 and 10 years at diagnosis",
+   "B": "Hyperdiploidy on cytogenetics",
+   "C": "CNS involvement at diagnosis",
+   "D": "Rapid remission with induction chemotherapy",
+   "E": "WBC count less than 100,000/mm3 at presentation"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "CNS disease at diagnosis is an adverse feature; age 1-10 years, hyperdiploidy, WBC below 50,000 and early remission are favourable.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00682"
+  ],
+  "stem": "A 3-year-old child is diagnosed with acute lymphoblastic leukaemia on bone marrow examination. Which of the following is a poor prognostic factor for response to therapy?",
+  "options": {
+   "A": "Normal WBC count at diagnosis",
+   "B": "T-cell leukaemia",
+   "C": "Hyperdiploidy",
+   "D": "Remission at 8 weeks of therapy",
+   "E": "No chromosomal abnormality"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "T-cell ALL (with high WBC, age under 1 or over 10 years, Philadelphia chromosome, CNS disease, slow response) carries a worse prognosis; hyperdiploidy is favourable.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00422",
+   "C00945"
+  ],
+  "stem": "A 10-year-old boy developed painless swelling on the left side of his neck one month ago, gradually increasing in size. There are 3 discrete left anterior cervical lymph nodes of 2-4 cm, non-tender, rubbery and freely mobile. The rest of the examination is normal. What is the most likely diagnosis?",
+  "options": {
+   "A": "Acute lymphoblastic leukaemia",
+   "B": "Cytomegalovirus infection",
+   "C": "Hodgkin disease",
+   "D": "Lymphadenitis",
+   "E": "Tuberculosis"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Painless, firm, rubbery, discrete cervical nodes in an older child without systemic signs are typical of Hodgkin lymphoma; TB nodes tend to be matted and may be associated with fever.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00297",
+   "C00683"
+  ],
+  "stem": "A 12-year-old boy has painless neck swelling, intermittent fever, night sweats and weight loss for 2 months. The cervical nodes are firm, rubbery and non-tender, and the chest X-ray shows a mediastinal mass. What is the gold standard investigation for confirming the diagnosis?",
+  "options": {
+   "A": "Bone marrow biopsy",
+   "B": "Excisional biopsy of the affected lymph node for histopathology",
+   "C": "Fine-needle aspiration cytology of the cervical lymph node",
+   "D": "PET-CT scan",
+   "E": "Peripheral smear for atypical lymphocytes"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Lymphoma needs excision biopsy to preserve nodal architecture and show Reed-Sternberg cells; FNAC is inadequate and imaging only stages the disease.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00279"
+  ],
+  "stem": "A 10-year-old boy presents with a 2-week history of fever, weight loss and night sweats. What is the most likely diagnosis?",
+  "options": {
+   "A": "Tuberculosis",
+   "B": "Lymphoma",
+   "C": "Leukaemia",
+   "D": "Infectious mononucleosis",
+   "E": "Typhoid fever"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Fever, weight loss and night sweats are classic constitutional features of tuberculosis, the commonest cause in Pakistan; lymphoma and leukaemia are considered when there is lymphadenopathy, organomegaly or cytopenia.",
+  "key_note": "Stem is brief and could also suggest lymphoma; the paper key A (tuberculosis) is kept as the commonest cause in this setting.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00034"
+  ],
+  "stem": "A 4-year-old child is diagnosed with Wilms tumour. What is the most common presenting feature?",
+  "options": {
+   "A": "Abdominal mass",
+   "B": "Fever",
+   "C": "Haematuria",
+   "D": "Hypertension",
+   "E": "Weight loss"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Wilms tumour most often presents as an asymptomatic, smooth, firm flank mass that does not cross the midline; haematuria and hypertension are less common.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00254"
+  ],
+  "stem": "A 14-year-old girl presents with a 2-week non-productive cough that is worse at night. Two weeks later she develops neck swelling. Examination shows non-tender enlarged anterior cervical lymph nodes and CXR shows a large mediastinal mass. What is the likely diagnosis?",
+  "options": {
+   "A": "Hodgkin's lymphoma",
+   "B": "T cell ALL",
+   "C": "B cell ALL",
+   "D": "Tuberculosis",
+   "E": "Thymoma"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Painless cervical lymphadenopathy with a large mediastinal mass and cough in an adolescent is typical of Hodgkin lymphoma; T cell ALL is the main alternative but usually presents with high counts and rapid illness.",
+  "key_note": "Stem is only moderately specific; marked answer A kept.",
+  "figure": ""
+ }
+]

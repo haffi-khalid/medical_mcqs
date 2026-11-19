@@ -1,0 +1,337 @@
+[
+ {
+  "cids": [
+   "C00021",
+   "C00345",
+   "C00495",
+   "C01020"
+  ],
+  "stem": "Parents bring their newborn for BCG vaccination and ask about the route of administration. What will be your answer?",
+  "options": {
+   "A": "Intradermal",
+   "B": "Intramuscular",
+   "C": "Intravenous",
+   "D": "Subcutaneous",
+   "E": "Oral"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "BCG is given strictly intradermally (0.05 ml under 1 year) over the left deltoid; subcutaneous injection causes abscess.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01076",
+   "C00718"
+  ],
+  "stem": "What is the route of administration of measles vaccine?",
+  "options": {
+   "A": "Intradermal",
+   "B": "Intramuscular",
+   "C": "Intravenous",
+   "D": "Subcutaneous",
+   "E": "Oral"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Measles vaccine is a live attenuated vaccine given 0.5 ml subcutaneously in the right upper arm at 9 months and 15 months in the Pakistan EPI.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01069"
+  ],
+  "stem": "Which of the following is a live vaccine?",
+  "options": {
+   "A": "BCG",
+   "B": "Injectable polio vaccine",
+   "C": "DPT",
+   "D": "Pneumococcal vaccine",
+   "E": "Tetanus toxoid"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "BCG is live attenuated; IPV, DPT, pneumococcal conjugate and tetanus toxoids are killed or toxoid vaccines.",
+  "key_note": "Fifth option added by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00729",
+   "C00826",
+   "C00916"
+  ],
+  "stem": "A 6-week-old healthy baby comes for routine EPI immunization. Which vaccines will be given at this visit?",
+  "options": {
+   "A": "Pentavalent, pneumococcal, OPV and rotavirus",
+   "B": "Pentavalent, pneumococcal, OPV and IPV",
+   "C": "BCG, pentavalent and OPV",
+   "D": "Measles, pneumococcal, OPV and IPV",
+   "E": "Pentavalent and IPV only"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "In the current Pakistan EPI schedule the 6-week visit gives Penta-1, PCV-1, OPV-1 and Rota-1; IPV is given at 14 weeks.",
+  "key_note": "One paper key marked Pentavalent, pneumococcal, OPV and IPV, and another listed Penta, pneumo, OPV only (older schedule); current Pakistan EPI includes rotavirus and gives IPV only at 14 weeks. Options written by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00905"
+  ],
+  "stem": "A 10-week-old baby is brought for the second dose of DPT (pentavalent) and polio vaccine. When is the next scheduled vaccination visit?",
+  "options": {
+   "A": "12 weeks",
+   "B": "14 weeks",
+   "C": "16 weeks",
+   "D": "6 months",
+   "E": "9 months"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "The EPI doses are at 6, 10 and 14 weeks, so the third dose is due at 14 weeks.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00155"
+  ],
+  "stem": "A 3-month-old baby who has never been vaccinated is brought to you. Which vaccines will you advise as per the national schedule?",
+  "options": {
+   "A": "BCG, Pentavalent 1, Rotavirus 1, OPV, Pneumococcal 1",
+   "B": "Measles, Pentavalent 1, OPV, BCG",
+   "C": "Pentavalent 1, OPV, Pneumococcal 1, Rotavirus 1",
+   "D": "Pentavalent 1, Pneumococcal 1, BCG, OPV",
+   "E": "Pneumococcal 2, Pentavalent 2, OPV"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "A completely unimmunized infant under 1 year still needs BCG, and starts the 6-week schedule (Penta-1, PCV-1, OPV-1, Rota-1; rotavirus dose 1 is allowed up to 15 weeks).",
+  "key_note": "The paper key marked C, which leaves out BCG; since the baby is totally unimmunized, A, which includes BCG, is the complete answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00008",
+   "C01109",
+   "C00104",
+   "C01047",
+   "C01072",
+   "C00738",
+   "C00921"
+  ],
+  "stem": "A newborn is born to an HBsAg positive mother. What will you advise for the baby?",
+  "options": {
+   "A": "Hepatitis B immunoglobulin alone within 12 hours",
+   "B": "Hepatitis B vaccine only",
+   "C": "Hepatitis B vaccine and immunoglobulin within 12 hours of birth at different sites",
+   "D": "Hepatitis B vaccine and immunoglobulin at the same site",
+   "E": "Reassurance only"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Both HBIG and the first vaccine dose are given as soon as possible (within 12 hours) but at separate injection sites so that the antibody does not neutralise the vaccine antigen locally.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00465"
+  ],
+  "stem": "At delivery the mother's HBsAg status is unknown and her result will be available in 24 hours. What is the best plan for the newborn?",
+  "options": {
+   "A": "Give HBIG only and no vaccine",
+   "B": "Wait for the result before giving any hepatitis B vaccine",
+   "C": "Give hepatitis B vaccine within 12 hours of birth and HBIG as soon as possible if the mother tests positive",
+   "D": "Give HBIG and vaccine to all such babies regardless of the result",
+   "E": "No vaccine is needed until 6 weeks"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "The birth dose must not be delayed, so vaccinate within 12 hours; HBIG is added once the mother is found positive (best within 12 to 24 hours, up to 7 days).",
+  "key_note": "The source marked 'vaccine and HBIG within 12 hours'; the standard approach is vaccine at once and HBIG only if the mother is positive. Options written by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00705"
+  ],
+  "stem": "A baby born at home to a hepatitis B positive mother received neither vaccine nor immunoglobulin and at 1 year has positive hepatitis B serology. Which marker suggests chronic infection?",
+  "options": {
+   "A": "Anti-HBs positive",
+   "B": "Anti-HBc IgM positive only",
+   "C": "HBsAg positive for more than 6 months",
+   "D": "Anti-HBe positive only",
+   "E": "Anti-HBs and anti-HBc IgG positive"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Persistence of HBsAg for more than 6 months defines chronic hepatitis B; perinatal infection becomes chronic in over 90%.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00085"
+  ],
+  "stem": "In children who receive hepatitis B vaccination, immunity is confirmed by the presence of",
+  "options": {
+   "A": "Anti-HBc antibodies",
+   "B": "Anti-HBs antibodies",
+   "C": "HBs antigen",
+   "D": "Anti-HBe antibodies"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Anti-HBs (at least 10 mIU/ml) is the only marker of vaccine-induced immunity; the vaccine contains HBsAg only so anti-HBc does not appear.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00156"
+  ],
+  "stem": "A 10-week-old child comes for routine vaccination. There is a history of convulsions 2 days after the previous vaccination. Which vaccine is contraindicated?",
+  "options": {
+   "A": "Measles vaccine",
+   "B": "Pertussis (DPT/pentavalent) vaccine",
+   "C": "Rotavirus vaccine",
+   "D": "Typhoid vaccine",
+   "E": "Hepatitis B vaccine"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Seizures soon after a dose is a precaution against further pertussis (whole-cell) component, which is the vaccine linked to convulsions and encephalopathy.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00616"
+  ],
+  "stem": "A 5-year-old girl, post renal transplant, is on immunosuppressants. Which vaccine is contraindicated?",
+  "options": {
+   "A": "Inactivated polio vaccine",
+   "B": "Hepatitis B vaccine",
+   "C": "Pneumococcal conjugate vaccine",
+   "D": "Measles, mumps and rubella vaccine",
+   "E": "Tetanus toxoid"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Live vaccines (MMR, BCG, OPV, varicella) are contraindicated in immunosuppressed patients because of risk of uncontrolled replication.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01095"
+  ],
+  "stem": "Measles vaccine is contraindicated in",
+  "options": {
+   "A": "Chronic liver disease",
+   "B": "Chronic kidney disease",
+   "C": "Immunocompromised state",
+   "D": "Asthma",
+   "E": "Mild upper respiratory infection"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Measles is a live vaccine and is contraindicated in severe immunodeficiency (and pregnancy); mild illness, asthma and chronic organ disease are not contraindications.",
+  "key_note": "Fifth option added by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00182",
+   "C00447",
+   "C00230"
+  ],
+  "stem": "A 10-month-old boy was vaccinated and 12 hours later developed fever of 102 F, vomiting and reluctance to feed. What is the diagnosis?",
+  "options": {
+   "A": "Post-vaccine measles infection",
+   "B": "Post-vaccine febrile illness (minor vaccine reaction)",
+   "C": "Wild measles infection",
+   "D": "Bacterial sepsis",
+   "E": "Meningitis"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Fever within hours of vaccination is a common minor reaction and settles with paracetamol; measles vaccine fever occurs 5 to 12 days later.",
+  "key_note": "Options 3 to 5 added by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00613"
+  ],
+  "stem": "A 2-week-old boy has no scar at the site of BCG vaccination. What should be done?",
+  "options": {
+   "A": "Repeat BCG immediately",
+   "B": "Perform a Mantoux test",
+   "C": "Start isoniazid prophylaxis",
+   "D": "Reassure the parents",
+   "E": "Refer for HIV testing"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "The BCG papule appears at 2 to 6 weeks and the scar later; at 2 weeks nothing is expected and no action is needed.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00207"
+  ],
+  "stem": "The mother of a 12-year-old girl brings her for HPV vaccination. What is the main purpose of HPV vaccine?",
+  "options": {
+   "A": "Prevention of genital warts",
+   "B": "Prevention of cervical cancer",
+   "C": "Prevention of genital herpes",
+   "D": "Prevention of HIV infection",
+   "E": "Prevention of syphilis"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "HPV vaccine (types 16 and 18) is given before sexual exposure mainly to prevent cervical cancer; the quadrivalent vaccine also covers warts.",
+  "key_note": "Options 3 to 5 added by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00725"
+  ],
+  "stem": "An 11-year-old boy sustains a dirty abrasion after a fall while playing. He completed his childhood vaccines including a DPT booster at age 5. What is the appropriate immunization now?",
+  "options": {
+   "A": "Tetanus toxoid",
+   "B": "Adult tetanus and diphtheria toxoid (Td)",
+   "C": "DPT booster",
+   "D": "Tetanus toxoid and tetanus immune globulin",
+   "E": "No immunization"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "A fully immunised child with a dirty wound and last dose more than 5 years ago needs a toxoid booster only (Td at this age); TIG is reserved for incompletely or unimmunised patients.",
+  "key_note": "The paper key marked D (toxoid plus immune globulin); TIG is not needed in a fully immunised child. Plain tetanus toxoid (A) is accepted in older teaching, Td is preferred now.",
+  "figure": ""
+ },
+ {
+  "cids": [],
+  "stem": "What is the most effective measure for the prevention of diphtheria in children?",
+  "options": {
+   "A": "Immunisation with diphtheria toxoid (DPT/pentavalent)",
+   "B": "Isolation of contacts only",
+   "C": "Antibiotic prophylaxis for all children",
+   "D": "Diphtheria antitoxin to all children",
+   "E": "Improved nutrition alone"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Diphtheria is prevented by toxoid vaccination: three primary doses at 6, 10 and 14 weeks with boosters. Vaccination prevents toxin-mediated disease.",
+  "key_note": "Options written by reviewer; the source gave only the answer. The source fragment said only 'Diphtheria in kid = vaccination'; interpreted as prevention.",
+  "figure": ""
+ }
+]

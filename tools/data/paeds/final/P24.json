@@ -1,0 +1,223 @@
+[
+ {
+  "cids": [
+   "C00751",
+   "C00268"
+  ],
+  "stem": "An infant has hypotonia, a poor Moro reflex, upslanting palpebral fissures, epicanthal folds and a single transverse palmar crease. What is the most likely diagnosis?",
+  "options": {
+   "A": "Down syndrome",
+   "B": "Edwards syndrome",
+   "C": "Turner syndrome",
+   "D": "Congenital hypothyroidism",
+   "E": "Patau syndrome"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Hypotonia, upslanting palpebral fissures, epicanthic folds and a simian crease are the classical features of Down syndrome (trisomy 21). Congenital hypothyroidism can mimic hypotonia but lacks the dysmorphism.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00383",
+   "C00556"
+  ],
+  "stem": "Parents bring their 9-month-old baby with abnormal facies: upslanting eyes with epicanthal folds, low-set ears and simian creases. What is the expected karyotype result?",
+  "options": {
+   "A": "Monosomy 13",
+   "B": "Monosomy 21",
+   "C": "Trisomy 18",
+   "D": "Trisomy 19",
+   "E": "Trisomy 21"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "These are the features of Down syndrome, which is due to trisomy 21 (about 95% from meiotic non-disjunction). Trisomy 18 is Edwards syndrome.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00343",
+   "C00493"
+  ],
+  "stem": "A mother brings her 2-year-old boy with developmental delay. He is microcephalic with upslanting palpebral fissures, a large protruding tongue and small low-set ears. Down syndrome is suspected. How will you confirm the diagnosis?",
+  "options": {
+   "A": "Clinical features",
+   "B": "Echocardiography for suggestive cardiac lesions",
+   "C": "Karyotyping of the child",
+   "D": "Karyotyping of the parents"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Diagnosis is confirmed by karyotyping of the child, which shows trisomy 21 and also identifies translocation or mosaic forms. Parental karyotyping is only needed if a translocation is found.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00873"
+  ],
+  "stem": "What is the most common congenital cardiac defect in Down syndrome?",
+  "options": {
+   "A": "Atrioventricular septal defect (AVSD)",
+   "B": "Isolated atrial septal defect",
+   "C": "Tetralogy of Fallot",
+   "D": "Patent ductus arteriosus",
+   "E": "Coarctation of the aorta"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "About 40-50% of children with Down syndrome have a congenital heart defect, most often AVSD (endocardial cushion defect), followed by VSD. Coarctation of the aorta is the typical lesion of Turner syndrome.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00053"
+  ],
+  "stem": "A 40-year-old woman comes for antenatal screening for Down syndrome. The triple test includes all of the following EXCEPT:",
+  "options": {
+   "A": "Estriol",
+   "B": "Alpha-fetoprotein",
+   "C": "Human chorionic gonadotropin",
+   "D": "Estradiol"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "The triple test measures maternal serum AFP, hCG and unconjugated estriol (uE3). Estradiol is not part of it; inhibin A is added in the quadruple test.",
+  "key_note": "The source option D was worded 'unconjugated estradiol' (slightly unclear); the mark was faint and read as D.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00754"
+  ],
+  "stem": "Which pattern of maternal triple screen suggests a Down syndrome pregnancy?",
+  "options": {
+   "A": "High hCG, low estriol, low alpha-fetoprotein",
+   "B": "Low hCG, low estriol, low alpha-fetoprotein",
+   "C": "High hCG, high estriol, high alpha-fetoprotein",
+   "D": "Low hCG, high estriol, high alpha-fetoprotein",
+   "E": "Normal hCG, low estriol, high alpha-fetoprotein"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "In Down syndrome maternal serum hCG is raised while AFP and unconjugated estriol are low. In Edwards syndrome all three are low.",
+  "key_note": "Options written by reviewer; the source gave only the answer. The source wrote 'estradiol'; the test measures estriol.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00700",
+   "C00872",
+   "C00322"
+  ],
+  "stem": "A 13-year-old girl presents with primary amenorrhoea and short stature on the 5th centile, with a shield chest, widely spaced nipples, low hairline and webbed neck. Karyotyping is advised. What is the most expected result?",
+  "options": {
+   "A": "46,XX",
+   "B": "45,XO",
+   "C": "47,XXY",
+   "D": "47,XXX",
+   "E": "46,XY"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "This is Turner syndrome, due to monosomy X (45,X). It is the chromosomal abnormality classically associated with short stature in a girl.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00054"
+  ],
+  "stem": "The most common presenting feature of Turner syndrome in adolescents is:",
+  "options": {
+   "A": "Obesity",
+   "B": "Primary amenorrhoea",
+   "C": "Hyperthyroidism",
+   "D": "Secondary amenorrhoea"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Streak ovaries cause gonadal dysgenesis, so adolescents present with absent puberty and primary amenorrhoea along with short stature.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00355",
+   "C00505"
+  ],
+  "stem": "You examine a developmentally delayed girl who is short with an increased carrying angle. Echocardiography shows coarctation of the aorta. What is your diagnosis?",
+  "options": {
+   "A": "Down syndrome",
+   "B": "Fanconi syndrome",
+   "C": "Noonan syndrome",
+   "D": "Turner syndrome"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Short stature, increased carrying angle and left-sided lesions such as coarctation indicate Turner syndrome. Noonan syndrome (normal karyotype) typically has pulmonary stenosis and occurs in both sexes.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00323",
+   "C01125"
+  ],
+  "stem": "A female neonate delivered by SVD has swollen hands and feet, a webbed neck and a low posterior hairline. Which cardiac lesion would you suspect?",
+  "options": {
+   "A": "Atrial septal defect",
+   "B": "Coarctation of the aorta",
+   "C": "Mitral valve prolapse",
+   "D": "Patent ductus arteriosus",
+   "E": "Tetralogy of Fallot"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Lymphoedema of hands and feet with webbed neck suggests Turner syndrome, in which left-sided obstructive lesions occur: bicuspid aortic valve is commonest overall and coarctation is the classic exam answer.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00192",
+   "C00477"
+  ],
+  "stem": "A child has short stature and hypoplastic thumbs. Karyotype with chromosome breakage studies is requested. What is the most likely diagnosis?",
+  "options": {
+   "A": "Fanconi anaemia",
+   "B": "Turner syndrome",
+   "C": "Klinefelter syndrome",
+   "D": "Down syndrome",
+   "E": "Edwards syndrome"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Fanconi anaemia presents with short stature, radial ray defects (hypoplastic or absent thumb), skin pigmentation and later pancytopenia. Diagnosis is by chromosomal breakage with DEB or mitomycin C.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00137",
+   "C00596"
+  ],
+  "stem": "A one-month-old baby is diagnosed with Down syndrome and karyotyping shows a translocation (21;21). What is the recurrence risk of another baby with Down syndrome in this couple?",
+  "options": {
+   "A": "5 to 7%",
+   "B": "2 to 3%",
+   "C": "100%",
+   "D": "Less than 1%",
+   "E": "10%"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "If a parent carries a 21;21 (Robertsonian) translocation all surviving gametes carry two chromosome 21 copies, so every viable conception is affected (100%).",
+  "key_note": "",
+  "figure": ""
+ }
+]

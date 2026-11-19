@@ -1,0 +1,856 @@
+[
+ {
+  "cids": [
+   "C01034",
+   "C00275",
+   "C00657",
+   "C01080"
+  ],
+  "stem": "A 2-year-old boy is brought to the emergency department with noisy breathing, chest retractions, nasal flaring and a barking cough. He has had a mild upper respiratory infection with low-grade fever for two days. What is the most likely diagnosis?",
+  "options": {
+   "A": "Asthma",
+   "B": "Bronchiolitis",
+   "C": "Epiglottitis",
+   "D": "Foreign body bronchus",
+   "E": "Viral croup"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Barking cough, hoarseness and inspiratory stridor after a coryzal prodrome in a toddler is viral croup (laryngotracheobronchitis), usually parainfluenza. Epiglottitis is toxic with drooling and no barking cough.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00218"
+  ],
+  "stem": "Barking cough, hoarseness and inspiratory stridor in a young child are most often caused by:",
+  "options": {
+   "A": "Parainfluenza virus",
+   "B": "Haemophilus influenzae",
+   "C": "Streptococcus"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Croup is a subglottic viral infection, most commonly parainfluenza types 1 and 2. H. influenzae type b causes epiglottitis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00058"
+  ],
+  "stem": "Which symptom helps to differentiate epiglottitis from croup?",
+  "options": {
+   "A": "Fever",
+   "B": "Stridor",
+   "C": "Drooling",
+   "D": "Cough"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Drooling with inability to swallow in a toxic child points to epiglottitis; stridor, fever and cough occur in both, and a barking cough is typical of croup.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00401",
+   "C00574"
+  ],
+  "stem": "A 3-year-old boy presents with fever and cough. Your differential diagnosis is croup versus epiglottitis. Which one of the following is the most helpful in differentiating croup from epiglottitis?",
+  "options": {
+   "A": "Fever",
+   "B": "Barking cough",
+   "C": "Stridor",
+   "D": "Drooling",
+   "E": "Lateral neck X-ray"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "The lateral neck film shows the thumb sign in epiglottitis and the steeple (subglottic narrowing) sign in croup, which is the answer expected in the exam.",
+  "key_note": "A compiled key marked B (Barking cough); the paper marked E, which is kept as the exam answer, although barking cough and drooling are the bedside clues and epiglottitis should not be delayed for imaging.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00306",
+   "C00748"
+  ],
+  "stem": "A 4-year-old fully vaccinated child presents with fever of 102.5 F, sore throat, irritability and refusal to eat or drink since this morning. He looks toxic and exhausted, leans forward and drools. Which sign on the lateral neck X-ray is diagnostic for the most probable diagnosis?",
+  "options": {
+   "A": "Air fluid level",
+   "B": "Irregularity of tracheal air column",
+   "C": "Narrowing of airway",
+   "D": "Steeple sign",
+   "E": "Thumb print sign"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "This is acute epiglottitis; the swollen epiglottis appears as the thumb sign on lateral neck X-ray. Steeple sign is croup.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01036",
+   "C00637",
+   "C01070",
+   "C00361",
+   "C00511"
+  ],
+  "stem": "A 4-year-old child who has had a cold and fever for two days is very distressed. He is febrile (40.2 C), flushed, sitting upright in a tripod position with open mouth and saliva drooling from the corners. He is short of breath with inspiratory stridor. What is the most likely diagnosis?",
+  "options": {
+   "A": "Angioedema",
+   "B": "Croup",
+   "C": "Epiglottitis",
+   "D": "Laryngitis",
+   "E": "Pharyngitis"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Tripod posture, drooling, high fever and stridor are classic for epiglottitis, an airway emergency needing senior anaesthetic or ENT airway control before any examination or investigation.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00408",
+   "C00581",
+   "C00442",
+   "C01085",
+   "C00516"
+  ],
+  "stem": "A 3.5-year-old child has runny nose and low-grade fever for 2 days. He has respiratory distress with stridor, and the X-ray neck shows the steeple sign. Which treatment will you advise?",
+  "options": {
+   "A": "Cough suppressants",
+   "B": "Epinephrine nebulization",
+   "C": "Intravenous antibiotics",
+   "D": "Oral antihistamines",
+   "E": "Salbutamol nebulization"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Steeple sign means croup. Nebulised adrenaline (epinephrine) rapidly reduces subglottic oedema in moderate to severe croup, with dexamethasone given alongside.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00774"
+  ],
+  "stem": "A 2-year-old child has a barking cough and inspiratory stridor but is not in distress at rest. What is the treatment of choice?",
+  "options": {
+   "A": "Dexamethasone",
+   "B": "Nebulised salbutamol",
+   "C": "Oral amoxicillin",
+   "D": "Codeine cough syrup",
+   "E": "Intravenous ceftriaxone"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Mild croup is treated with a single dose of oral dexamethasone (0.15 to 0.6 mg/kg) to reduce airway inflammation.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00699"
+  ],
+  "stem": "What is the most common cause of chronic inspiratory stridor in infants?",
+  "options": {
+   "A": "Laryngomalacia",
+   "B": "Foreign body",
+   "C": "Epiglottitis",
+   "D": "Bronchiolitis",
+   "E": "Asthma"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Laryngomalacia (floppy supraglottic structures) is the commonest congenital laryngeal anomaly and cause of stridor in infants; it is usually benign and resolves by 12 to 18 months.",
+  "key_note": "Options written by reviewer; the source gave only the answer. The stem was vague (Stridor is characteristic of?) and was reworded.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00407",
+   "C00580"
+  ],
+  "stem": "A 5-year-old child came with a 2-day history of sore throat and high-grade fever. Throat examination reveals follicular tonsillitis. He should be treated with oral penicillin for a minimum period of:",
+  "options": {
+   "A": "5 days",
+   "B": "7 days",
+   "C": "10 days",
+   "D": "14 days",
+   "E": "21 days"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Group A streptococcal pharyngitis needs 10 days of penicillin V to eradicate the organism and prevent rheumatic fever.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00018",
+   "C00338",
+   "C00489",
+   "C00776",
+   "C00172",
+   "C00769"
+  ],
+  "stem": "A 1-year-old child presents with breathing difficulty and cough and is diagnosed with bronchiolitis. What is the most common causative agent?",
+  "options": {
+   "A": "Adenovirus",
+   "B": "Mycoplasma",
+   "C": "Parainfluenza virus",
+   "D": "Respiratory syncytial virus",
+   "E": "Influenza virus"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "RSV causes the majority of bronchiolitis in infants under 2 years, with peaks in winter.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00023",
+   "C00518",
+   "C00334",
+   "C00485",
+   "C00402",
+   "C00575",
+   "C00082",
+   "C01033",
+   "C00747",
+   "C00864"
+  ],
+  "stem": "A 10-month-old infant has rapid shallow respiration (RR 70/min), nasal flaring, accessory muscle use with subcostal and intercostal recessions and expiratory wheeze. Percussion is hyper-resonant and the chest X-ray shows hyperinflation with prominent bronchovascular markings. What is your diagnosis?",
+  "options": {
+   "A": "Bronchiolitis",
+   "B": "Common cold",
+   "C": "Empyema",
+   "D": "Pleural effusion"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Tachypnoea, wheeze, hyper-resonance and hyperinflation in an infant (usually RSV) indicate bronchiolitis due to small airway obstruction.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00217"
+  ],
+  "stem": "A 6-month-old infant presents with cough, fever, nasal flaring, chest indrawing and diffuse wheeze. Which chest X-ray finding is expected?",
+  "options": {
+   "A": "Ground-glass appearance",
+   "B": "Hyperinflation",
+   "C": "Lobar consolidation",
+   "D": "Pleural effusion"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Bronchiolitis causes air trapping, so the X-ray shows hyperinflation with flattened diaphragms and peribronchial thickening.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00676"
+  ],
+  "stem": "Which of the following viruses does NOT cause bronchiolitis?",
+  "options": {
+   "A": "Respiratory syncytial virus",
+   "B": "Rhinovirus",
+   "C": "Human metapneumovirus",
+   "D": "Parainfluenza virus",
+   "E": "Mumps virus"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Bronchiolitis is caused by RSV, rhinovirus, human metapneumovirus, parainfluenza and adenovirus; mumps virus does not cause it.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01031",
+   "C00770",
+   "C00862"
+  ],
+  "stem": "A 4-month-old boy is hospitalized with difficulty in breathing and tachypnoea that worsens during feeds. His oxygen saturation is 84% with persistent bilateral wheeze unresponsive to standard doses of nebulised beta-agonist. He appears tired. What is the best approach to the management of his current respiratory symptoms?",
+  "options": {
+   "A": "Add a mast cell stabilizer",
+   "B": "Administer IV ceftriaxone",
+   "C": "Administer nebulized ribavirin",
+   "D": "Administer oxygen and check blood gases",
+   "E": "Increase dose of beta-agonist"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "This is hypoxic bronchiolitis: oxygen is the key treatment, and a tired infant needs blood gases to detect impending respiratory failure. Bronchodilators, antibiotics and ribavirin are not routinely useful.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00157"
+  ],
+  "stem": "A 4-month-old child presents with 4 days of cough and runny nose. Respiratory rate is 32 breaths/min, temperature is normal and there is no chest indrawing. How will you classify the illness according to IMNCI?",
+  "options": {
+   "A": "Cough and cold",
+   "B": "Pneumonia",
+   "C": "Severe pneumonia",
+   "D": "Streptococcal sore throat",
+   "E": "Very severe pneumonia"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "No fast breathing (cut-off 50/min at 2 to 12 months), no indrawing and no danger signs classify as cough or cold (no pneumonia): home care.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00025",
+   "C00904"
+  ],
+  "stem": "A 3-month-old child presents with fever and cough for 2 days, chest indrawing, RR 75/min and not tolerating feeds since night. How would you classify his illness according to IMNCI?",
+  "options": {
+   "A": "Common cold",
+   "B": "No pneumonia",
+   "C": "Pneumonia",
+   "D": "Severe pneumonia"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Chest indrawing with inability to feed (a danger sign) is severe pneumonia in IMNCI: refer for hospital care, oxygen and injectable antibiotics.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00438",
+   "C00216",
+   "C00866",
+   "C00517"
+  ],
+  "stem": "You are treating a child with lobar pneumonia. What is the most likely organism responsible?",
+  "options": {
+   "A": "Streptococcus pneumoniae",
+   "B": "Staphylococcus aureus",
+   "C": "Mycoplasma pneumoniae",
+   "D": "Haemophilus influenzae",
+   "E": "Influenza virus"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Streptococcus pneumoniae is the commonest cause of lobar pneumonia in children beyond infancy.",
+  "key_note": "A compiled key marked Haemophilus influenzae B for a variant of this question; correct is Streptococcus pneumoniae.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01032",
+   "C00746",
+   "C00863"
+  ],
+  "stem": "A 5-year-old boy is brought with cough and fever for 5 days. He is ill-looking with a temperature of 39 C and tachypnoea. There is decreased breath sounds on the right side with a dull percussion note, bronchial breathing over the right middle chest and increased vocal resonance. What is the most likely pathology on the right side?",
+  "options": {
+   "A": "Empyema lung",
+   "B": "Foreign body chest",
+   "C": "Lobar consolidation",
+   "D": "Pleural effusion",
+   "E": "Pneumothorax"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Dullness with bronchial breathing and increased vocal resonance indicates consolidation; effusion gives stony dullness with reduced vocal resonance and absent breath sounds.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00404",
+   "C00577"
+  ],
+  "stem": "A 6-year-old boy presents with fever and cough for three days. He is tachypnoeic with reduced chest movement on the left, decreased breath sounds in the left lower chest and increased vocal resonance. Which finding do you expect on chest X-ray?",
+  "options": {
+   "A": "Consolidation",
+   "B": "Fibrosis",
+   "C": "Ground glass appearance",
+   "D": "Pleural effusion",
+   "E": "Pneumothorax"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Increased vocal resonance with bronchial type signs means consolidated lung, seen as a homogeneous opacity on X-ray.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00696"
+  ],
+  "stem": "A 7-year-old child presents to the paediatric emergency with fever, cough and breathing difficulty for the last 2 days. He has a fever of 102 F and bilateral crackles on chest examination. What is the most likely causative organism?",
+  "options": {
+   "A": "Respiratory syncytial virus",
+   "B": "E. coli",
+   "C": "Staphylococcus aureus",
+   "D": "Group B streptococcus",
+   "E": "Mycoplasma pneumoniae"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Bilateral crackles with gradual onset in a school-age child suggest atypical pneumonia due to Mycoplasma pneumoniae.",
+  "key_note": "The paper marked C (Staphylococcus aureus) but its own explanation says Mycoplasma; correct is E, Mycoplasma pneumoniae.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00772"
+  ],
+  "stem": "A 1-year-old child has severe pneumonia with consolidation and low oxygen saturation. What is the best management?",
+  "options": {
+   "A": "Oral amoxicillin at home",
+   "B": "Nebulised salbutamol and oral steroids",
+   "C": "Oxygen, IV antibiotics and supportive care with IV fluids if unable to feed",
+   "D": "Antitussives and steam inhalation",
+   "E": "Chest physiotherapy alone"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Hypoxic or severe pneumonia needs admission, oxygen, parenteral antibiotics (ampicillin or ceftriaxone) and supportive care; fluids are given cautiously to avoid overload.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00678"
+  ],
+  "stem": "A 3-year-old child developed high-grade fever 5 days ago with cough and fast breathing. He was started on oral antibiotics and antipyretics but did not improve, and now has breathing difficulty for 1 day. Examination of the chest shows dullness on percussion and diminished breath sounds on the right side. What is the most likely diagnosis?",
+  "options": {
+   "A": "Bronchiolitis",
+   "B": "Lobar pneumonia",
+   "C": "Pleural effusion",
+   "D": "Lung abscess",
+   "E": "Intrathoracic mass"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Failure to respond to antibiotics with stony dullness and reduced breath sounds indicates parapneumonic effusion or empyema.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00215"
+  ],
+  "stem": "A girl with pneumonia develops a pleural effusion. What is the next step?",
+  "options": {
+   "A": "Oral antibiotics",
+   "B": "Chest ultrasound and drainage",
+   "C": "Home care",
+   "D": "IV fluids"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Parapneumonic effusion is confirmed by ultrasound, and fluid is sampled or drained (with IV antibiotics) if it is large or purulent.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00439"
+  ],
+  "stem": "All of the following are causes of exudative pleural effusion EXCEPT:",
+  "options": {
+   "A": "Lung carcinoma",
+   "B": "Systemic lupus erythematosus",
+   "C": "Juvenile idiopathic arthritis",
+   "D": "Nephrotic syndrome",
+   "E": "Disseminated tuberculosis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Nephrotic syndrome causes a transudate through low oncotic pressure; malignancy, SLE, JIA and tuberculosis cause exudates.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01071"
+  ],
+  "stem": "A 3-year-old boy presents with sudden onset of breathing difficulty. Examination shows decreased breath sounds and a hyper-resonant percussion note on the right side of the chest, with the trachea shifted to the left. What is the likely diagnosis?",
+  "options": {
+   "A": "Right-sided lung collapse",
+   "B": "Right-sided tension pneumothorax",
+   "C": "Left-sided tension pneumothorax",
+   "D": "Right pleural effusion"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Hyper-resonance with absent breath sounds and the trachea pushed away from the affected side is tension pneumothorax. Collapse pulls the trachea toward the lesion.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00715",
+   "C00991"
+  ],
+  "stem": "According to the GINA guidelines, how would you classify a child with daytime symptoms more than twice per week and night-time symptoms more than twice per month?",
+  "options": {
+   "A": "Intermittent asthma",
+   "B": "Mild persistent asthma",
+   "C": "Moderate persistent asthma",
+   "D": "Severe persistent asthma"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Symptoms more than twice a week but less than daily, with night symptoms more than twice a month, is mild persistent asthma.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00342",
+   "C00492"
+  ],
+  "stem": "A 5-year-old girl presents with cough and breathing difficulty for 2 days without night symptoms. She had similar complaints 6 months back and her father has similar symptoms. On examination she is tachypnoeic with suprasternal recessions and expiratory wheeze. What is the asthma severity in this patient?",
+  "options": {
+   "A": "Intermittent asthma",
+   "B": "Mild persistent asthma",
+   "C": "Moderate persistent asthma",
+   "D": "Severe persistent asthma"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Severity is graded on the interval symptom frequency: infrequent episodes and no night symptoms is intermittent asthma, even if the present attack is troublesome.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00867"
+  ],
+  "stem": "A 10-year-old girl with asthma has nocturnal symptoms twice weekly and uses daily asthma medication. What is the severity?",
+  "options": {
+   "A": "Intermittent",
+   "B": "Mild persistent",
+   "C": "Moderate persistent",
+   "D": "Severe persistent",
+   "E": "Exercise-induced only"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Daily symptoms or reliever use with night symptoms more than once a week (but not nightly) is moderate persistent asthma.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00266"
+  ],
+  "stem": "A 10-year-old child has seasonal exacerbations of asthma every few months. Currently he has had cough and difficulty breathing for 1 day. His PEFR is more than 80% of predicted. How is this episode classified?",
+  "options": {
+   "A": "Controlled asthma",
+   "B": "Mild exacerbation of asthma",
+   "C": "Moderate exacerbation of asthma",
+   "D": "Severe exacerbation of asthma"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "PEFR above 80% of predicted denotes a mild exacerbation; 60 to 80% is moderate and below 60% is severe.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01119"
+  ],
+  "stem": "A 5-year-old known asthmatic boy presents with breathlessness at rest, talks in phrases, is agitated and in respiratory distress with a loud wheeze. PEF is approximately 50%. How do you characterize the severity of this attack?",
+  "options": {
+   "A": "Mild asthma",
+   "B": "Moderate asthma",
+   "C": "No asthma",
+   "D": "Severe asthma",
+   "E": "Respiratory arrest"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "A PEF of about 40 to 69% with the child still able to talk in phrases is a moderate attack as classified in the textbook; below 40% or inability to speak means severe.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00405",
+   "C00578"
+  ],
+  "stem": "A 4-year-old child presents with nocturnal cough and breathing difficulty and wheeze when playing. Which is the best investigation to confirm his diagnosis?",
+  "options": {
+   "A": "Chest X-ray",
+   "B": "ECG",
+   "C": "Echocardiography",
+   "D": "Peak expiratory flow rate",
+   "E": "Spirometry"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Asthma is confirmed by demonstrating reversible airflow obstruction on spirometry (FEV1 rise of 12% or more after bronchodilator); PEFR is a simpler monitoring tool.",
+  "key_note": "One paper marked D (PEFR) while the other paper and the compiled key gave E (Spirometry); spirometry is the confirmatory test.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00308"
+  ],
+  "stem": "A 4-year-old girl is brought to the ER with sudden onset of wheezing and respiratory distress. There is no past history of recurrent wheeze. She is fond of eating dry fruits. What is the most probable explanation for the wheezing?",
+  "options": {
+   "A": "Anaphylaxis",
+   "B": "Bronchial asthma",
+   "C": "Bronchiolitis",
+   "D": "Croup",
+   "E": "Foreign body aspiration"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Abrupt first-time wheeze in a toddler or preschooler who eats nuts is foreign body aspiration until proved otherwise.",
+  "key_note": "The paper marked A (Anaphylaxis); no urticaria, angioedema or allergen exposure is described, so foreign body aspiration (E) is the best answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00386",
+   "C00559",
+   "C00015",
+   "C00062",
+   "C00992",
+   "C01088",
+   "C00219",
+   "C00685"
+  ],
+  "stem": "A 6-year-old asthmatic child presents with cough and breathing difficulty. Respiratory rate is 58/min, he is using accessory muscles and has bilateral rhonchi. What is the best initial treatment?",
+  "options": {
+   "A": "IV aminophylline",
+   "B": "IV steroids",
+   "C": "Leukotriene antagonists",
+   "D": "O2 inhalation, nebulize with salbutamol and injection adrenaline",
+   "E": "O2 inhalation, nebulize with salbutamol for 15 minutes at intervals of 20 minutes for 3 times"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Initial treatment of an acute attack is oxygen and three doses of nebulised salbutamol at 20-minute intervals, followed by reassessment; steroids are then added.",
+  "key_note": "The paper marked D (Salbutamol and steroid inhalation); an oxygen-driven salbutamol nebuliser (C) is the best immediate treatment in a hypoxic child.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00202",
+   "C00205"
+  ],
+  "stem": "A 7-year-old child with a history of asthma has an asthma attack (SpO2 88%, tachypnoea and tachycardia but no cyanosis). What is the immediate treatment according to IMNCI?",
+  "options": {
+   "A": "IV corticosteroids",
+   "B": "Salbutamol nebulizer, oxygen therapy and corticosteroids",
+   "C": "IV theophylline",
+   "D": "IV terbutaline"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Immediate treatment is oxygen plus nebulised salbutamol, with a corticosteroid added; IV theophylline and terbutaline are second-line.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00080"
+  ],
+  "stem": "A 5-year-old presents to the ER with respiratory distress. His GCS is 4/15 with central cyanosis and a silent chest. What will be the immediate step of management?",
+  "options": {
+   "A": "Oxygen inhalation",
+   "B": "Salbutamol nebulization",
+   "C": "Systemic steroids",
+   "D": "Intubation and ventilation",
+   "E": "Subcutaneous adrenaline"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A silent chest, cyanosis and coma indicate impending respiratory arrest and need immediate airway control by intubation and ventilation.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00274"
+  ],
+  "stem": "A 5-year-old child is diagnosed with asthma and started on inhaled corticosteroids. What is the most common side effect of this treatment?",
+  "options": {
+   "A": "Weight gain",
+   "B": "Growth suppression",
+   "C": "Oral thrush",
+   "D": "Hoarseness"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Local oropharyngeal candidiasis is the commonest side effect, reduced by using a spacer and rinsing the mouth; growth suppression is small and uncommon at low doses.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00081"
+  ],
+  "stem": "The purpose of using a spacer with a metered dose inhaler is:",
+  "options": {
+   "A": "To provide a stronger dosage of medication",
+   "B": "To lengthen the time span of medication",
+   "C": "To enhance inhalation of medication in those who cannot coordinate with the metered dose inhaler alone",
+   "D": "To shorten the time span of medication",
+   "E": "To decrease the side effects of medication"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A spacer removes the need to synchronise actuation with inhalation, increases lung deposition and reduces oropharyngeal deposition.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00406",
+   "C00579"
+  ],
+  "stem": "An 8-year-old boy presents with cough and difficulty in breathing when playing cricket. Which medicine will you advise him to take before exercise?",
+  "options": {
+   "A": "Antihistamines",
+   "B": "Beta-2 agonist",
+   "C": "Decongestants",
+   "D": "Leukotriene inhibitor",
+   "E": "Oral steroids"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Exercise-induced bronchoconstriction is prevented by an inhaled short-acting beta-2 agonist 10 to 15 minutes before exercise.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00440",
+   "C00658",
+   "C00750",
+   "C01035"
+  ],
+  "stem": "What is the mode of inheritance of cystic fibrosis?",
+  "options": {
+   "A": "Autosomal dominant",
+   "B": "Autosomal recessive",
+   "C": "X-linked dominant",
+   "D": "X-linked recessive",
+   "E": "Environmental factors"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Cystic fibrosis is an autosomal recessive CFTR gene disorder (chromosome 7, commonest mutation delta F508); each pregnancy of carrier parents has a 25% risk.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00014",
+   "C01121",
+   "C00560",
+   "C00469",
+   "C00220",
+   "C00820",
+   "C00063"
+  ],
+  "stem": "A 2-year-old boy presents with recurrent chest infections and 3 to 4 bulky greasy stools daily. He is malnourished with height and weight below the 5th centile and a sibling died in the first year of life. His parents notice a salty taste when they kiss the child. What is the most likely diagnosis?",
+  "options": {
+   "A": "Celiac disease",
+   "B": "Cystic fibrosis",
+   "C": "Inflammatory bowel disease",
+   "D": "Cow's milk protein allergy",
+   "E": "Primary malnutrition"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Recurrent chest infections, steatorrhoea, failure to thrive, salty sweat and an affected sibling make cystic fibrosis the diagnosis; confirm by sweat chloride test.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00403",
+   "C00576"
+  ],
+  "stem": "A 5-year-old child presents with poor growth, fatty stools and frequent pulmonary infections. He also has rectal prolapse and had a laparotomy in the neonatal period for meconium ileus. Which investigation will confirm your diagnosis?",
+  "options": {
+   "A": "Chest X-ray",
+   "B": "Intestinal biopsy",
+   "C": "Stool routine examination",
+   "D": "Sweat chloride test",
+   "E": "Tuberculin skin test"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Meconium ileus with malabsorption and chest disease is cystic fibrosis; the sweat chloride test (pilocarpine iontophoresis) is the diagnostic test.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00441"
+  ],
+  "stem": "As cystic fibrosis progresses, which organism is most commonly isolated from the lungs?",
+  "options": {
+   "A": "Haemophilus influenzae",
+   "B": "Pseudomonas aeruginosa",
+   "C": "Adenovirus",
+   "D": "Streptococcus pneumoniae",
+   "E": "Mycobacterium"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Staphylococcus aureus and H. influenzae infect early, but chronic colonisation with mucoid Pseudomonas aeruginosa dominates later and drives lung decline.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00684"
+  ],
+  "stem": "A 2-year-old child with chronic diarrhoea and recurrent chest infections is diagnosed with cystic fibrosis. Which of the following is the most likely metabolic feature of this condition?",
+  "options": {
+   "A": "Hypernatraemia",
+   "B": "Hyperkalaemia",
+   "C": "Metabolic alkalosis",
+   "D": "Hyperchloraemia",
+   "E": "Metabolic acidosis"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Salt loss in sweat produces hyponatraemic, hypochloraemic, hypokalaemic metabolic alkalosis (pseudo-Bartter syndrome), mostly in hot weather or with diarrhoea.",
+  "key_note": "The paper marked D (Hyperchloraemia); serum chloride is low in CF, and the classic abnormality is hypochloraemic metabolic alkalosis (C). Sweat chloride is high, which may have caused the confusion.",
+  "figure": ""
+ },
+ {
+  "cids": [],
+  "stem": "A boy with acute asthma has been given salbutamol with no improvement. What is the next step in emergency management?",
+  "options": {
+   "A": "A single dose of IV hydrocortisone",
+   "B": "Oral amoxicillin",
+   "C": "Codeine linctus",
+   "D": "Chest physiotherapy",
+   "E": "IV diazepam"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Failure to respond to bronchodilators in an acute exacerbation needs a systemic corticosteroid (IV hydrocortisone or oral prednisolone) early, alongside continued salbutamol and ipratropium. Antibiotics are not routinely indicated.",
+  "key_note": "Options written by reviewer; the source gave only the answer. ",
+  "figure": ""
+ }
+]

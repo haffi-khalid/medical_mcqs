@@ -1,0 +1,77 @@
+[
+ {
+  "cids": [
+   "C00138",
+   "C00597"
+  ],
+  "stem": "A 10-year-old child presents to the emergency department with fever for 3 days, fits for 1 day and altered consciousness for 6 hours. He withdraws his limbs to stimulus, opens his eyes to voice and his speech is confused. What is his Glasgow Coma Scale score?",
+  "options": {
+   "A": "14/15",
+   "B": "11/15",
+   "C": "10/15",
+   "D": "9/15",
+   "E": "7/15"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Eyes open to voice E3, confused speech V4, withdrawal from pain M4: total 11/15.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00610",
+   "C00717"
+  ],
+  "stem": "A 2-month-old infant is brought with irritability and lethargy after falling off a bed. The anterior fontanelle is full and tense. What is the most important initial diagnostic study?",
+  "options": {
+   "A": "Analysis of cerebrospinal fluid",
+   "B": "Cranial CT scan",
+   "C": "EEG",
+   "D": "Full septic work-up",
+   "E": "Serum calcium, phosphorus and alkaline phosphatase"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Trauma with raised intracranial pressure signs needs urgent neuroimaging (CT) for intracranial haemorrhage or fracture; lumbar puncture is dangerous with raised ICP.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00385",
+   "C00558"
+  ],
+  "stem": "A 3-year-old child is admitted with high-grade fever for 4 days not improving on first-line antibiotics. He now has a flushed face, poor pulses and poor perfusion, and has developed fits with persisting high fever. What do these features indicate?",
+  "options": {
+   "A": "Cardiogenic shock",
+   "B": "Hypovolaemic shock",
+   "C": "Neurogenic shock",
+   "D": "Septic shock",
+   "E": "Meningitis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Fever with flushed face and poor peripheral perfusion is warm septic shock; meningitis alone does not explain the circulatory failure.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00668"
+  ],
+  "stem": "A toddler suddenly develops cough, difficulty in breathing and cyanosis while playing with small objects. What is the most likely diagnosis?",
+  "options": {
+   "A": "Foreign body inhalation",
+   "B": "Acute bronchiolitis",
+   "C": "Acute epiglottitis",
+   "D": "Bronchial asthma",
+   "E": "Pneumonia"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Abrupt onset of choking, cough and respiratory distress in a toddler without prodrome is foreign body aspiration until proven otherwise.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ }
+]

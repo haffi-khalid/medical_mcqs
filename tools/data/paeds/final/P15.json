@@ -1,0 +1,852 @@
+[
+ {
+  "cids": [
+   "C00057"
+  ],
+  "stem": "The intestinal biopsy finding in coeliac disease is:",
+  "options": {
+   "A": "Villous hypertrophy",
+   "B": "Villous atrophy with crypt hyperplasia",
+   "C": "Granulomas",
+   "D": "Ulceration",
+   "E": "Normal villi with eosinophilic infiltration"
+  },
+  "answer": "B",
+  "explanation": "Coeliac disease shows subtotal villous atrophy, crypt hyperplasia and increased intraepithelial lymphocytes in the proximal small bowel. Granulomas point to Crohn disease.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00106",
+   "C01049",
+   "C00164",
+   "C00619",
+   "C00672",
+   "C01094",
+   "C00831"
+  ],
+  "stem": "A 4-year-old girl has had recurrent diarrhoea since 6 months of age. Stools are bulky, greasy and foul smelling. Multiple antibiotics have not helped. She is pale and emaciated, height and weight are on the 5th centile, and the abdomen is distended without visceromegaly or ascites. What is the most likely diagnosis?",
+  "options": {
+   "A": "Antibiotic associated diarrhoea",
+   "B": "Coeliac disease",
+   "C": "Crohn disease",
+   "D": "Lactose intolerance",
+   "E": "Toddler's diarrhoea"
+  },
+  "answer": "B",
+  "explanation": "Steatorrhoea (bulky, greasy, foul stools), growth failure and anaemia with onset after weaning point to coeliac disease. Lactose intolerance gives watery acidic stools, not greasy ones.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00998"
+  ],
+  "stem": "A 3-year-old presents with loose stools and vomiting since weaning was started. She is pale, short and has a distended abdomen. What is the pathophysiology of her symptoms?",
+  "options": {
+   "A": "Gliadin damages the small intestine",
+   "B": "Lactase enzyme is deficient",
+   "C": "Bacterial overgrowth",
+   "D": "Decrease in bowel surface area",
+   "E": "Pancreatic insufficiency"
+  },
+  "answer": "A",
+  "explanation": "In coeliac disease the gliadin fraction of gluten triggers an immune mediated injury of the small intestinal mucosa, causing villous atrophy and malabsorption. Reduced surface area is the consequence, not the primary mechanism.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00412",
+   "C00936"
+  ],
+  "stem": "A 2-year-old child presents with failure to thrive and loose stools for one and a half years. His jejunal biopsy shows villous atrophy. What is the most likely diagnosis?",
+  "options": {
+   "A": "Crohn disease",
+   "B": "Cystic fibrosis",
+   "C": "Gluten sensitivity (coeliac disease)",
+   "D": "Hirschsprung disease",
+   "E": "Intestinal tuberculosis"
+  },
+  "answer": "C",
+  "explanation": "Villous atrophy on small bowel biopsy with failure to thrive is the hallmark of coeliac disease.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00208"
+  ],
+  "stem": "In a child with a clinical picture of coeliac disease, which is the most sensitive serological test?",
+  "options": {
+   "A": "Anti-tissue transglutaminase (IgA) antibody",
+   "B": "Anti-gliadin antibody",
+   "C": "Anti-endomysial antibody",
+   "D": "Anti-reticulin antibody",
+   "E": "Anti-smooth muscle antibody"
+  },
+  "answer": "A",
+  "explanation": "IgA anti-tTG is the most sensitive screening test (about 95%); anti-endomysial antibody is the most specific. Measure total IgA as well to exclude IgA deficiency.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00993",
+   "C00221",
+   "C00830"
+  ],
+  "stem": "An 18-month-old girl has had diarrhoea for 6 months, 5 to 6 stools per day that are difficult to flush. She was breastfed and weaning began with wheat at 8 months. She is pale and her height and weight are well below the 5th centile. What is the most reliable test for diagnosis?",
+  "options": {
+   "A": "Intestinal biopsy",
+   "B": "CBC and blood culture",
+   "C": "Anti-transglutaminase IgA antibodies",
+   "D": "Stool R/E",
+   "E": "Gene Xpert"
+  },
+  "answer": "A",
+  "explanation": "The clinical picture is coeliac disease; small intestinal biopsy showing villous atrophy remains the gold standard confirmatory test, with anti-tTG IgA the best screening test.",
+  "key_note": "The source key marked C (anti-tTG IgA, the best screening test); biopsy is the traditional gold standard confirmation, so A is given here.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00019",
+   "C00424"
+  ],
+  "stem": "Parents of a child with coeliac disease ask how long histological repair of the intestine will take on a gluten-free diet. The best answer is:",
+  "options": {
+   "A": "3 months",
+   "B": "6 months",
+   "C": "3-6 months",
+   "D": "3-12 months"
+  },
+  "answer": "C",
+  "explanation": "Symptoms improve within weeks, while mucosal healing in children takes several months, usually quoted as 3-6 months.",
+  "key_note": "Options C and D overlap; paper key C (3-6 months) retained.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00363",
+   "C00513"
+  ],
+  "stem": "A child is newly diagnosed with coeliac disease. What is the most important dietary advice?",
+  "options": {
+   "A": "Avoid all dairy products",
+   "B": "Avoid wheat only",
+   "C": "Avoid wheat, rye and barley",
+   "D": "Avoid sugary foods",
+   "E": "Avoid all cereals including rice"
+  },
+  "answer": "C",
+  "explanation": "Lifelong strict gluten-free diet excluding wheat, rye and barley (oats are usually avoided initially because of contamination). Rice, maize and potato are safe.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00665"
+  ],
+  "stem": "What is the management of coeliac disease in a 2-year-old child?",
+  "options": {
+   "A": "Gluten-free diet",
+   "B": "Lactose-free diet",
+   "C": "Oral corticosteroids",
+   "D": "Pancreatic enzyme supplements",
+   "E": "Antibiotics"
+  },
+  "answer": "A",
+  "explanation": "Lifelong strict gluten-free diet is the only treatment and leads to clinical and histological recovery.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00415",
+   "C00939"
+  ],
+  "stem": "A 12-month-old girl with failure to thrive is fussy, spits up after feeds and has two loose foul smelling stools a day. Serum tissue transglutaminase antibody is elevated. Which food can she safely eat?",
+  "options": {
+   "A": "Barley",
+   "B": "Oats",
+   "C": "Rice",
+   "D": "Rye",
+   "E": "Wheat"
+  },
+  "answer": "C",
+  "explanation": "Wheat, barley and rye contain gluten; rice, maize and potato are gluten-free. Oats are usually avoided initially because of gluten contamination.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00650"
+  ],
+  "stem": "A 12-year-old girl with coeliac disease develops paraesthesias and megaloblastic anaemia. What is the likely deficiency?",
+  "options": {
+   "A": "Iron deficiency",
+   "B": "Folate deficiency alone",
+   "C": "Vitamin B6 deficiency",
+   "D": "Vitamin E deficiency",
+   "E": "Vitamin B12 deficiency"
+  },
+  "answer": "E",
+  "explanation": "Neurological features with megaloblastic anaemia point to vitamin B12 deficiency (malabsorption); folate deficiency alone does not cause neuropathy.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00789",
+   "C00792"
+  ],
+  "stem": "What is the life-threatening complication of non-compliance with a gluten-free diet in coeliac disease?",
+  "options": {
+   "A": "Hepatocellular carcinoma",
+   "B": "Gastric ulcer",
+   "C": "Colonic adenocarcinoma",
+   "D": "Intestinal lymphoma",
+   "E": "Pancreatitis"
+  },
+  "answer": "D",
+  "explanation": "Persistent gluten exposure increases the risk of enteropathy-associated T-cell lymphoma and small bowel carcinoma.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00109",
+   "C01052"
+  ],
+  "stem": "A previously well 12-month-old infant had diarrhoea and vomiting. Vomiting settled after 2 days but diarrhoea has persisted for 3 weeks. Examination is unremarkable. Stool shows acidic pH, no pathogens, and reducing substances are positive. What is the underlying cause?",
+  "options": {
+   "A": "Coeliac disease",
+   "B": "Cystic fibrosis",
+   "C": "Immunodeficiency",
+   "D": "Primary lactose intolerance",
+   "E": "Secondary lactose intolerance"
+  },
+  "answer": "E",
+  "explanation": "Gastroenteritis damages the brush border and temporarily reduces lactase, so unabsorbed lactose gives acidic stool with reducing substances. Primary lactase deficiency is rare in infancy.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00084"
+  ],
+  "stem": "Which of the following is NOT usually classed as an organic cause of chronic diarrhoea?",
+  "options": {
+   "A": "Giardiasis",
+   "B": "Toddler's diarrhoea",
+   "C": "Coeliac disease",
+   "D": "Ulcerative colitis",
+   "E": "Crohn disease"
+  },
+  "answer": "B",
+  "explanation": "Toddler's diarrhoea (chronic nonspecific diarrhoea) is a functional condition in a thriving child, unlike the other organic causes.",
+  "key_note": "Flawed original stem (all listed conditions can present with chronic diarrhoea); paper key B (toddler's diarrhoea) retained and the stem reworded.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00411",
+   "C00935"
+  ],
+  "stem": "A 10-year-old girl presents with weight loss and 7-8 stools per day containing blood for 6 months. Barium enema may show pseudopolyps. Which is the most likely diagnosis?",
+  "options": {
+   "A": "Coeliac disease",
+   "B": "Gastro-oesophageal reflux disease",
+   "C": "Inflammatory bowel disease",
+   "D": "Peptic ulcer disease",
+   "E": "Worm infestation"
+  },
+  "answer": "C",
+  "explanation": "Chronic bloody diarrhoea with weight loss in a school-age child suggests inflammatory bowel disease, most likely ulcerative colitis when the colon is diffusely involved.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00852",
+   "C00871"
+  ],
+  "stem": "A 10-year-old girl has chronic bloody diarrhoea, fever, weight loss and poor growth. What is the likely diagnosis?",
+  "options": {
+   "A": "Ulcerative colitis",
+   "B": "Coeliac disease",
+   "C": "Intestinal tuberculosis",
+   "D": "Giardiasis",
+   "E": "Irritable bowel syndrome"
+  },
+  "answer": "A",
+  "explanation": "Bloody diarrhoea with systemic symptoms and growth failure is typical of ulcerative colitis, which starts in the rectum and spreads proximally.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00788"
+  ],
+  "stem": "An 8-year-old has chronic abdominal symptoms, weight loss and finger clubbing. What is the likely diagnosis?",
+  "options": {
+   "A": "Coeliac disease",
+   "B": "Cystic fibrosis",
+   "C": "Inflammatory bowel disease",
+   "D": "Chronic giardiasis",
+   "E": "Hirschsprung disease"
+  },
+  "answer": "C",
+  "explanation": "Clubbing, weight loss and chronic abdominal symptoms suggest inflammatory bowel disease (clubbing is commoner in Crohn disease). Cystic fibrosis would also cause clubbing but with respiratory features.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00623"
+  ],
+  "stem": "A 12-year-old has Crohn disease. Which feature is more suggestive of Crohn disease than ulcerative colitis?",
+  "options": {
+   "A": "Continuous rectal involvement",
+   "B": "Strictures and fistulas",
+   "C": "Mucosal inflammation limited to the colon",
+   "D": "Frequent gross bloody diarrhoea",
+   "E": "Toxic megacolon as the characteristic complication"
+  },
+  "answer": "B",
+  "explanation": "Crohn disease is transmural and skip-lesioned, so strictures, fistulas and perianal disease are typical; ulcerative colitis is mucosal and continuous from the rectum.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00416",
+   "C00940"
+  ],
+  "stem": "An 11-year-old girl has had bloody diarrhoea, tenesmus, abdominal pain and weight loss for a year. She is pale and under the 5th centile for weight, with raised ESR, hypochromic microcytic anaemia and hypoalbuminaemia. Double contrast barium enema shows diffuse colonic lesions with pseudopolyps. What is the best treatment?",
+  "options": {
+   "A": "Antibiotics",
+   "B": "Antifungals",
+   "C": "Antivirals",
+   "D": "Chemotherapy",
+   "E": "Corticosteroids"
+  },
+  "answer": "E",
+  "explanation": "This is ulcerative colitis; corticosteroids induce remission in moderate to severe disease, with aminosalicylates for maintenance.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00445"
+  ],
+  "stem": "Which is the most common cause of ulcerative colitis related mortality?",
+  "options": {
+   "A": "Colonic adenocarcinoma",
+   "B": "Toxic megacolon",
+   "C": "Perforated colon",
+   "D": "Colonic infarction",
+   "E": "Uncontrollable diarrhoea"
+  },
+  "answer": "B",
+  "explanation": "Toxic megacolon (with perforation and sepsis) is the major life-threatening acute complication of ulcerative colitis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00167",
+   "C00222"
+  ],
+  "stem": "A 5-year-old child has had frequent hard stools, abdominal pain and soiling of underwear for 3 months. The abdomen is distended but soft, with no neurological deficit. What is the most likely diagnosis?",
+  "options": {
+   "A": "Acute gastroenteritis",
+   "B": "Chronic diarrhoea",
+   "C": "Functional constipation",
+   "D": "Hirschsprung disease",
+   "E": "Iron deficiency anaemia"
+  },
+  "answer": "C",
+  "explanation": "Hard infrequent stools with overflow soiling (encopresis) in a child with normal development and neurology is functional constipation with faecal impaction.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00088"
+  ],
+  "stem": "A 4-year-old child has had difficulty passing stools for 8 months. He likes junk food and is afraid of going to the toilet; stools were normal since birth. There are streaks of blood on the surface of the stool. What is the likely diagnosis?",
+  "options": {
+   "A": "Functional constipation",
+   "B": "Constipation due to lack of fibre in the diet",
+   "C": "Hirschsprung disease",
+   "D": "Painful defecation due to fistula",
+   "E": "Anal atresia"
+  },
+  "answer": "A",
+  "explanation": "Fear of painful defecation leads to stool withholding and functional constipation; surface blood streaks suggest a fissure. Hirschsprung disease presents from birth with delayed meconium passage.",
+  "key_note": "Paper key marked B (lack of fibre); the best answer is functional constipation (stool withholding), of which diet is only one contributor.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00418",
+   "C00942"
+  ],
+  "stem": "A thriving 4-year-old girl has had constipation for 2 years, passing stools once every 5 days with straining. Lactulose gave little relief. Recently there is fresh blood on the toilet tissue. Which complication has most likely occurred?",
+  "options": {
+   "A": "Anal fissure",
+   "B": "Haemorrhoids",
+   "C": "Intestinal perforation",
+   "D": "Rectal polyp",
+   "E": "Rectal prolapse"
+  },
+  "answer": "A",
+  "explanation": "Passage of hard stools causes a posterior anal fissure, which produces bright red blood on the tissue and pain that perpetuates withholding.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00387",
+   "C00561"
+  ],
+  "stem": "A 5-year-old child presents with low grade fever, vomiting and pain in the right hypochondrium for 3 days. He has tender hepatomegaly (span 10 cm) and icteric eyes. What is the likely cause?",
+  "options": {
+   "A": "Acute gastroenteritis",
+   "B": "Bacterial hepatitis",
+   "C": "Epstein-Barr virus hepatitis",
+   "D": "Hepatitis A virus",
+   "E": "Hepatitis B virus"
+  },
+  "answer": "D",
+  "explanation": "Hepatitis A is the commonest cause of acute icteric hepatitis in young children in Pakistan, with a prodrome of fever, vomiting and tender hepatomegaly.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00413",
+   "C00937"
+  ],
+  "stem": "An 11-year-old child has yellow eyes, nausea and vomiting for 2 days; a cousin had similar complaints 10 days ago. What will serology show?",
+  "options": {
+   "A": "Anti-HCV antibody",
+   "B": "Hepatitis A virus IgG",
+   "C": "Hepatitis A virus IgM",
+   "D": "Hepatitis B surface antibody",
+   "E": "Hepatitis B surface antigen"
+  },
+  "answer": "C",
+  "explanation": "A faeco-orally transmitted cluster of acute hepatitis suggests hepatitis A; anti-HAV IgM indicates acute infection, while IgG indicates past infection or immunity.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00687",
+   "C00997",
+   "C00209"
+  ],
+  "stem": "A 5-year-old child has nausea, vomiting and anorexia for 3 days and is jaundiced with right hypochondrial tenderness; hepatitis A IgM is positive. What is the most appropriate management?",
+  "options": {
+   "A": "Ribavirin",
+   "B": "IV antibiotics",
+   "C": "Subcutaneous interferon",
+   "D": "Supportive management",
+   "E": "No treatment, discharge without advice"
+  },
+  "answer": "D",
+  "explanation": "Hepatitis A is self-limiting, so management is supportive: hydration, diet and monitoring for fulminant failure. Antivirals and antibiotics have no role.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00824"
+  ],
+  "stem": "A child with acute hepatitis A is infectious through faecal excretion of the virus. For how long after onset of jaundice is the virus excreted in stool?",
+  "options": {
+   "A": "1 day",
+   "B": "About 10 days",
+   "C": "About 3 months",
+   "D": "About 6 months",
+   "E": "Lifelong"
+  },
+  "answer": "B",
+  "explanation": "HAV excretion peaks before jaundice and falls rapidly, ceasing about 1-2 weeks after onset of jaundice, so isolation beyond that is unnecessary.",
+  "key_note": "Options written by reviewer; the source gave only the answer (10 days).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00621",
+   "C00875"
+  ],
+  "stem": "An 11-year-old boy has lethargy and jaundice. Serology shows positive anti-HBc IgG, anti-HBs and anti-HBe, with negative HBsAg and HBeAg. What is the interpretation?",
+  "options": {
+   "A": "Acute hepatitis B",
+   "B": "Chronic hepatitis B with replication",
+   "C": "Resolved infection",
+   "D": "Vaccination only",
+   "E": "Window period"
+  },
+  "answer": "C",
+  "explanation": "Anti-HBc IgG with anti-HBs and anti-HBe and no HBsAg or HBeAg means past infection with immunity; vaccination alone would give anti-HBs only. His jaundice therefore needs another cause.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00666"
+  ],
+  "stem": "Which serological marker is positive in resolved hepatitis B infection?",
+  "options": {
+   "A": "Anti-HBs",
+   "B": "HBsAg",
+   "C": "HBeAg",
+   "D": "Anti-HBc IgM",
+   "E": "HBV DNA"
+  },
+  "answer": "A",
+  "explanation": "Anti-HBs indicates immunity after recovery (or vaccination); HBsAg appears only in active infection.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00784"
+  ],
+  "stem": "A neonate has jaundice, pale stools and a high direct bilirubin. What is the likely diagnosis?",
+  "options": {
+   "A": "Physiological jaundice",
+   "B": "Breast milk jaundice",
+   "C": "ABO incompatibility",
+   "D": "Biliary atresia",
+   "E": "Crigler-Najjar syndrome"
+  },
+  "answer": "D",
+  "explanation": "Conjugated hyperbilirubinaemia with acholic stools beyond 2 weeks indicates obstructive cholestasis, most commonly biliary atresia, which needs early Kasai portoenterostomy.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00414",
+   "C00938"
+  ],
+  "stem": "A 6-week-old boy has persistent jaundice since 2 weeks of age. He is breastfed and thriving. His urine is dark but stools are pale, and he has hepatosplenomegaly. What will liver function tests most likely show?",
+  "options": {
+   "A": "Normal ALT and raised direct bilirubin",
+   "B": "Raised ALP and normal ALT",
+   "C": "Raised ALT and raised direct bilirubin",
+   "D": "Raised ALT and raised indirect bilirubin",
+   "E": "Raised ALT but normal ALP"
+  },
+  "answer": "C",
+  "explanation": "Pale stools and dark urine mean conjugated hyperbilirubinaemia from cholestasis; hepatocellular injury also raises ALT.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00103",
+   "C00707",
+   "C00710",
+   "C01046"
+  ],
+  "stem": "A 2-year-old girl diagnosed with biliary atresia at 4 months had no surgery. She is jaundiced with ascites, an ataxic gait and absent deep tendon reflexes, and receives no nutritional supplements. What is the most likely cause of the neurological deficit?",
+  "options": {
+   "A": "Vitamin A deficiency",
+   "B": "Vitamin B deficiency",
+   "C": "Vitamin C deficiency",
+   "D": "Vitamin D deficiency",
+   "E": "Vitamin E deficiency"
+  },
+  "answer": "E",
+  "explanation": "Chronic cholestasis causes fat-soluble vitamin malabsorption; vitamin E deficiency produces ataxia, areflexia and neuropathy.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00245"
+  ],
+  "stem": "A child with Wilson disease later develops tremors and poor school performance. Which manifestation usually appears earlier?",
+  "options": {
+   "A": "Hepatic involvement",
+   "B": "Kayser-Fleischer ring only",
+   "C": "Renal failure",
+   "D": "Haemolytic crisis only",
+   "E": "Psychosis"
+  },
+  "answer": "A",
+  "explanation": "In children Wilson disease usually presents first with hepatic disease; neuropsychiatric features follow in the second decade.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01100",
+   "C00261"
+  ],
+  "stem": "A 10-year-old boy has difficulty in speech, abnormal posturing and falling school performance. Slit lamp shows Kayser-Fleischer rings, HBV, HCV and HDV serology are negative, serum ceruloplasmin is low and 24-hour urinary copper is raised. What is the likely diagnosis?",
+  "options": {
+   "A": "Acute viral hepatitis",
+   "B": "Alpha-1 antitrypsin deficiency",
+   "C": "Autoimmune hepatitis",
+   "D": "Wilson disease",
+   "E": "Indian childhood cirrhosis"
+  },
+  "answer": "D",
+  "explanation": "Neuropsychiatric signs, Kayser-Fleischer rings, low ceruloplasmin and high urinary copper establish Wilson disease.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00874"
+  ],
+  "stem": "A 5-year-old girl with jaundice and hepatosplenomegaly is diagnosed with Wilson disease. Which laboratory finding is indicative?",
+  "options": {
+   "A": "Elevated urinary copper excretion",
+   "B": "Elevated serum ceruloplasmin",
+   "C": "Low urinary copper",
+   "D": "Raised serum ferritin",
+   "E": "Low serum alpha-1 antitrypsin"
+  },
+  "answer": "A",
+  "explanation": "Wilson disease gives low serum ceruloplasmin, raised 24-hour urinary copper and high hepatic copper.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00086"
+  ],
+  "stem": "Which is the definitive diagnostic test for Wilson disease?",
+  "options": {
+   "A": "Kayser-Fleischer ring",
+   "B": "Liver biopsy with hepatic copper quantification",
+   "C": "Urinary copper after penicillamine challenge",
+   "D": "Serum ceruloplasmin",
+   "E": "24-hour urine protein"
+  },
+  "answer": "B",
+  "explanation": "Hepatic copper above about 250 microgram/g dry weight is the diagnostic gold standard. The KF ring and low ceruloplasmin support but are not definitive.",
+  "key_note": "Paper marked A (KF ring), weakly; liver biopsy copper is the definitive test.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00066"
+  ],
+  "stem": "Which dietary items should be strictly restricted in Wilson disease?",
+  "options": {
+   "A": "Leafy vegetables",
+   "B": "Shellfish and liver",
+   "C": "Milk and dairy products",
+   "D": "Refined sugar",
+   "E": "Rice"
+  },
+  "answer": "B",
+  "explanation": "Copper-rich foods (shellfish, liver, chocolate, nuts, mushrooms) are restricted.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00969"
+  ],
+  "stem": "A 10-year-old girl with jaundice, hepatomegaly and ascites is diagnosed with Wilson disease. What is the treatment?",
+  "options": {
+   "A": "Prednisolone",
+   "B": "Lamivudine",
+   "C": "Ursodeoxycholic acid",
+   "D": "D-penicillamine",
+   "E": "Ribavirin"
+  },
+  "answer": "D",
+  "explanation": "Copper chelation with D-penicillamine (or trientine) plus zinc is the treatment of Wilson disease.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00622"
+  ],
+  "stem": "A 7-year-old girl has fever, jaundice, confusion and deranged liver function with prolonged PT. What is the likely diagnosis?",
+  "options": {
+   "A": "Acute viral hepatitis without complication",
+   "B": "Chronic hepatitis",
+   "C": "Fulminant hepatic failure",
+   "D": "Biliary atresia",
+   "E": "Cholangitis"
+  },
+  "answer": "C",
+  "explanation": "Jaundice with encephalopathy and coagulopathy developing rapidly in a previously healthy child is acute (fulminant) liver failure.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00521"
+  ],
+  "stem": "A 12-year-old child with liver failure is drowsy and behaves inappropriately. Which stage of hepatic encephalopathy is this?",
+  "options": {
+   "A": "Stage 1",
+   "B": "Stage 2",
+   "C": "Stage 3",
+   "D": "Stage 4",
+   "E": "Stage 0"
+  },
+  "answer": "B",
+  "explanation": "Stage 1: mood change, altered sleep; stage 2: drowsiness, inappropriate behaviour, asterixis; stage 3: stupor but rousable, marked confusion; stage 4: coma.",
+  "key_note": "Source answer was Stage 3; drowsiness with inappropriate behaviour fits stage 2 in the usual grading.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00065"
+  ],
+  "stem": "A 10-year-old boy with acute liver failure develops seizures and needs sedation. Which agent is the safest?",
+  "options": {
+   "A": "Diazepam",
+   "B": "Lorazepam",
+   "C": "Propofol",
+   "D": "Haloperidol",
+   "E": "Chlorpromazine"
+  },
+  "answer": "C",
+  "explanation": "Benzodiazepines and other long-acting sedatives accumulate and worsen encephalopathy; short acting propofol is preferred.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00783"
+  ],
+  "stem": "An 8-year-old with chronic liver disease has ascites and haematemesis. What is the likely complication?",
+  "options": {
+   "A": "Hepatic encephalopathy",
+   "B": "Portal hypertension",
+   "C": "Hepatorenal syndrome",
+   "D": "Hepatocellular carcinoma",
+   "E": "Peptic ulcer"
+  },
+  "answer": "B",
+  "explanation": "Ascites with variceal haematemesis reflects portal hypertension.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00024",
+   "C00087",
+   "C00519"
+  ],
+  "stem": "Portal hypertension is defined as portal venous pressure above:",
+  "options": {
+   "A": "2 mmHg",
+   "B": "4 mmHg",
+   "C": "6 mmHg",
+   "D": "10-12 mmHg",
+   "E": "20 mmHg"
+  },
+  "answer": "D",
+  "explanation": "Normal portal pressure is 5-10 mmHg; portal hypertension is a pressure above 10-12 mmHg (portal pressure gradient above 5).",
+  "key_note": "Merged variants differed in options; one paper listed more than 12 mmHg as the key, equivalent.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01120"
+  ],
+  "stem": "A known case of portal hypertension presents with massive bleeding from oesophageal varices. What is the first step in management?",
+  "options": {
+   "A": "Endoscopic sclerotherapy or variceal ligation",
+   "B": "Fluid resuscitation with crystalloid followed by blood transfusion",
+   "C": "Octreotide infusion",
+   "D": "Oral propranolol",
+   "E": "Selective venous embolisation"
+  },
+  "answer": "B",
+  "explanation": "Resuscitation (ABC, volume replacement) comes first, then vasoactive drugs such as octreotide and endoscopic therapy.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00520"
+  ],
+  "stem": "Which of the following is part of the management of massive oesophageal variceal bleeding in Budd-Chiari syndrome?",
+  "options": {
+   "A": "Fluid resuscitation and packed red cell transfusion",
+   "B": "Variceal banding or ligation",
+   "C": "Sengstaken-Blakemore tube tamponade",
+   "D": "TIPS or embolisation in refractory bleeding",
+   "E": "All of the above"
+  },
+  "answer": "E",
+  "explanation": "Management combines resuscitation, endoscopic ligation, balloon tamponade for failures, and TIPS or embolisation as rescue.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00636"
+  ],
+  "stem": "A child has prolonged bloody diarrhoea, abdominal pain and fever. What is the most likely diagnosis?",
+  "options": {
+   "A": "Acute gastroenteritis",
+   "B": "Giardiasis",
+   "C": "Intussusception",
+   "D": "Inflammatory bowel disease",
+   "E": "Rotavirus infection"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Chronic or recurrent bloody diarrhoea with abdominal pain and systemic features suggests inflammatory bowel disease.",
+  "key_note": "Options written by reviewer; the source gave only the answer. Vague stem; persistent infectious dysentery should be excluded.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00108",
+   "C01051"
+  ],
+  "stem": "A 7-year-old girl has had fever, diarrhoea and vomiting for a week. She is febrile at 102 F with hepatomegaly. Hb is 10 g/dl, TLC 6000/ul (45% lymphocytes, 43% neutrophils), platelets 150,000/ul and ALT 700 IU/L. What is the most likely diagnosis?",
+  "options": {
+   "A": "Acute viral hepatitis",
+   "B": "Dengue fever",
+   "C": "Malaria",
+   "D": "Rheumatic fever",
+   "E": "Scarlet fever"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Fever, vomiting, hepatomegaly and a markedly raised ALT with a normal platelet count point to acute viral hepatitis (hepatitis A in this age group). Dengue would give thrombocytopenia and haemoconcentration.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00671"
+  ],
+  "stem": "An 8-year-old child presents with fits, unconsciousness, jaundice and splenomegaly, and has a history of a sibling death. What is the most likely diagnosis?",
+  "options": {
+   "A": "Wilson disease",
+   "B": "Reye syndrome",
+   "C": "Hepatitis A",
+   "D": "Autoimmune hepatitis",
+   "E": "Galactosaemia"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Hepatic disease with splenomegaly, neurological features and a familial history of early death is Wilson disease (copper metabolism, ATP7B); check serum ceruloplasmin and look for Kayser-Fleischer rings.",
+  "key_note": "Options written by reviewer; the source gave only the answer. The source stem was a fragment; the rival of cerebral malaria was deliberately not offered.",
+  "figure": ""
+ }
+]

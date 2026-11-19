@@ -1,0 +1,661 @@
+[
+ {
+  "cids": [
+   "C00052"
+  ],
+  "stem": "The classic tetrad of nephrotic syndrome includes:",
+  "options": {
+   "A": "Haematuria, oedema, hypertension and oliguria",
+   "B": "Proteinuria, hypoalbuminaemia, oedema and hyperlipidaemia",
+   "C": "Proteinuria, haematuria, anaemia and hypertension",
+   "D": "Oedema, haematuria, fever and oliguria"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Nephrotic syndrome is heavy proteinuria (over 40 mg/m2/h), hypoalbuminaemia (under 2.5 g/dl), oedema and hyperlipidaemia. Haematuria and hypertension suggest nephritic syndrome.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00280",
+   "C00256"
+  ],
+  "stem": "A 5-year-old child is diagnosed with nephrotic syndrome. What is the most common cause?",
+  "options": {
+   "A": "Minimal change disease",
+   "B": "Focal segmental glomerulosclerosis",
+   "C": "Membranous nephropathy",
+   "D": "IgA nephropathy"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Minimal change disease causes about 80-85% of nephrotic syndrome in children under 10 years and responds to steroids.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01099"
+  ],
+  "stem": "A 2-year-old girl has periorbital puffiness for 1 month with decreased urine output. Urine protein/creatinine ratio is above 2.0 and dipstick is 3+. What is the likely diagnosis?",
+  "options": {
+   "A": "Acute glomerulonephritis",
+   "B": "SLE",
+   "C": "Nephrotic syndrome",
+   "D": "IgA nephropathy",
+   "E": "Chronic renal failure"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A urine protein/creatinine ratio above 2 (over 200 mg/mmol) with oedema is nephrotic-range proteinuria.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00027"
+  ],
+  "stem": "A 4-year-old boy has one week of generalised swelling that began around the eyes, decreased urine output, pitting oedema and scrotal and abdominal wall oedema. Which single investigation gives the strongest clue to the diagnosis?",
+  "options": {
+   "A": "Serum cholesterol",
+   "B": "Serum total protein and albumin",
+   "C": "Serum urea and creatinine",
+   "D": "Urinary protein-creatinine ratio",
+   "E": "Urine routine examination"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "The urinary protein/creatinine ratio quantifies nephrotic-range proteinuria, the defining feature. Albumin and cholesterol are supportive.",
+  "key_note": "Debatable (urine R/E or serum albumin are also useful); the paper key D is kept.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00663"
+  ],
+  "stem": "A 7-year-old girl has ankle oedema, ascites and 3+ proteinuria. Which test best quantifies her protein loss?",
+  "options": {
+   "A": "24-hour urine protein",
+   "B": "Serum creatinine",
+   "C": "Renal biopsy",
+   "D": "ASO titre",
+   "E": "Ultrasound KUB"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Quantifying proteinuria (24-hour collection, or spot protein/creatinine ratio) confirms nephrotic-range proteinuria.",
+  "key_note": "Source stem was incomplete; rewritten around the source answer (24-hour urine protein). Options written by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00664",
+   "C01043"
+  ],
+  "stem": "What is the best initial treatment for a 4 to 5-year-old child with generalised swelling and heavy proteinuria (minimal change nephrotic syndrome)?",
+  "options": {
+   "A": "Furosemide alone",
+   "B": "Albumin infusions",
+   "C": "Cyclophosphamide",
+   "D": "Oral antibiotics",
+   "E": "Oral prednisolone (steroids)"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Minimal change disease is steroid-sensitive; oral prednisolone 2 mg/kg/day for 6 weeks then alternate days is the first-line treatment.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00102",
+   "C01045"
+  ],
+  "stem": "A 5-year-old boy with nephrotic syndrome presents with fever and abdominal pain. The abdomen is tender and distended and ascitic tap shows cloudy fluid. Which organism is most likely on culture?",
+  "options": {
+   "A": "Haemophilus influenzae",
+   "B": "Streptococcus pneumoniae",
+   "C": "Salmonella paratyphi",
+   "D": "Salmonella typhi",
+   "E": "Shigella"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Nephrotic children have low IgG and complement deficiency, so spontaneous bacterial peritonitis is mainly due to Streptococcus pneumoniae.",
+  "key_note": "One paper key marked E (Shigella); correct is B, pneumococcus.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00029"
+  ],
+  "stem": "A 7-year-old with nephrotic syndrome presents with sudden abdominal pain and swelling of the left leg. Examination shows an oedematous tender calf. Which complication has he developed?",
+  "options": {
+   "A": "Hypertension",
+   "B": "Hyperlipidaemia",
+   "C": "Hypovolaemia",
+   "D": "Thrombosis (renal vein or deep vein thrombosis)",
+   "E": "Spontaneous bacterial peritonitis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Nephrotic syndrome is hypercoagulable (urinary loss of antithrombin III), causing venous thrombosis such as renal vein or deep vein thrombosis.",
+  "key_note": "One paper key marked E (spontaneous bacterial peritonitis); correct is thrombosis, which fits the calf swelling. Option D reworded to cover deep vein thrombosis.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00267",
+   "C00371",
+   "C00545",
+   "C01112"
+  ],
+  "stem": "A 7-year-old boy has sudden onset haematuria, proteinuria and hypertension. He had a sore throat 2 weeks ago. What is the diagnosis?",
+  "options": {
+   "A": "Minimal change disease",
+   "B": "IgA nephropathy",
+   "C": "Post-streptococcal glomerulonephritis",
+   "D": "Membranous nephropathy"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A latent period of 1-3 weeks after pharyngitis (3-6 weeks after skin infection) followed by nephritic syndrome is post-streptococcal glomerulonephritis. IgA nephropathy follows infection within 1-2 days.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00964"
+  ],
+  "stem": "A 5-year-old boy has periorbital puffiness, decreased urine output, fever and a sore throat 2 weeks ago. Which finding is expected on urine routine examination?",
+  "options": {
+   "A": "Pus cells",
+   "B": "Glucose",
+   "C": "Ketones",
+   "D": "Red blood cells",
+   "E": "Crystals"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Post-streptococcal glomerulonephritis shows haematuria with RBC casts and mild proteinuria.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00036"
+  ],
+  "stem": "A 4-year-old has cola-coloured urine and periorbital puffiness with raised BP and a history of pyoderma 3 weeks ago, consistent with post-streptococcal glomerulonephritis. Which antibody titre best shows recent streptococcal infection?",
+  "options": {
+   "A": "Anti-streptolysin O",
+   "B": "Anti-DNase B",
+   "C": "Anti-hyaluronidase",
+   "D": "Anti-streptokinase",
+   "E": "Anti-streptozyme"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "After skin infection (pyoderma) the ASO response is poor, whereas anti-DNase B rises after both pharyngeal and skin infection.",
+  "key_note": "Both source papers marked A (ASO); changed to B because the history is pyoderma, where anti-DNase B is the recommended test.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00257",
+   "C00298"
+  ],
+  "stem": "A 4-year-old has facial puffiness and cola-coloured urine. Which of the following supports the diagnosis of acute post-streptococcal glomerulonephritis most specifically?",
+  "options": {
+   "A": "ASO titre",
+   "B": "Decreased serum C3",
+   "C": "Urine analysis",
+   "D": "Urine culture"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Transient low C3 (returning to normal by 6-8 weeks) is the hallmark of PSGN; ASO only shows recent streptococcal exposure.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00032"
+  ],
+  "stem": "A 7-year-old boy passes cola-coloured urine for 5 days, with a sore throat 2 weeks ago. Which clinical sign is most important to monitor to prevent complications?",
+  "options": {
+   "A": "Abdominal tenderness",
+   "B": "Blood pressure",
+   "C": "Congested throat",
+   "D": "Fever",
+   "E": "Periorbital puffiness"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Hypertension drives the major complications (encephalopathy, heart failure) of acute glomerulonephritis, so BP must be monitored closely.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00101",
+   "C01044"
+  ],
+  "stem": "A 6-year-old boy has periorbital puffiness and cola-coloured urine, with a sore throat 2 weeks back. BP is 140/90 mmHg and urine shows haematuria and red cell casts. What is the most common complication of this condition?",
+  "options": {
+   "A": "Congestive cardiac failure",
+   "B": "Hypertensive encephalopathy",
+   "C": "Bronchopneumonia",
+   "D": "Urinary tract infection",
+   "E": "Renal stones"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Salt and water retention causes circulatory congestion and cardiac failure, the commonest complication of acute glomerulonephritis; hypertensive encephalopathy is the most serious.",
+  "key_note": "Some paper keys marked B (hypertensive encephalopathy); the two keyed versions of the full question marked A, which is kept.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00970"
+  ],
+  "stem": "A child has cola-coloured urine, mild periorbital puffiness and raised blood pressure after a respiratory tract infection. Which serious complication of the hypertension should be suspected?",
+  "options": {
+   "A": "Congenital heart disease",
+   "B": "Hypertensive encephalopathy",
+   "C": "Nephrolithiasis",
+   "D": "Hepatic failure",
+   "E": "Meningitis"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Severe hypertension in acute glomerulonephritis can cause hypertensive encephalopathy (headache, vomiting, fits, visual disturbance).",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00028",
+   "C00299"
+  ],
+  "stem": "A 2-year-old has sudden pallor for 1 day, no urine for 12 hours and one generalised tonic-clonic fit, with loose motions 3 days earlier. He is severely anaemic with rashes. Hb is 5 g/dl, TLC 6000/cumm, platelets low on film and blood urea 250 mg/dl. What is the most likely diagnosis?",
+  "options": {
+   "A": "Acute glomerulonephritis",
+   "B": "Henoch-Schonlein purpura",
+   "C": "Haemolytic uraemic syndrome",
+   "D": "Idiopathic thrombocytopenia",
+   "E": "Sepsis with DIC"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "The triad of microangiopathic haemolytic anaemia, thrombocytopenia and acute renal failure after diarrhoea is haemolytic uraemic syndrome.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00235",
+   "C00628",
+   "C00908",
+   "C01027"
+  ],
+  "stem": "A 3 to 5-year-old child has abdominal distension, joint pain with knee arthritis, purpura over the legs and buttocks and haematuria. What is the likely diagnosis?",
+  "options": {
+   "A": "Immune thrombocytopenic purpura",
+   "B": "Systemic lupus erythematosus",
+   "C": "Henoch-Schonlein purpura",
+   "D": "Post-streptococcal glomerulonephritis",
+   "E": "Meningococcaemia"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Palpable purpura, arthritis, abdominal pain and renal involvement (haematuria) form the HSP tetrad.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00177"
+  ],
+  "stem": "A baby has classic Henoch-Schonlein purpura (palpable purpura with arthritis and abdominal pain). Which additional finding indicates renal involvement?",
+  "options": {
+   "A": "Haematuria",
+   "B": "Thrombocytopenia",
+   "C": "Prolonged PT",
+   "D": "Hepatomegaly",
+   "E": "Lymphadenopathy"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Renal involvement in HSP presents as haematuria with or without proteinuria and determines long-term prognosis.",
+  "key_note": "Source stem was vague; rewritten around the source answer, haematuria. Options written by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00090"
+  ],
+  "stem": "A 3-year-old toilet-trained girl has bed wetting for 1 week with urgency and frequency of urine. What is your clinical impression?",
+  "options": {
+   "A": "Cystitis",
+   "B": "Pyelonephritis",
+   "C": "Renal stones",
+   "D": "Nephritis"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "New wetting with urgency and frequency in a toilet-trained child is lower UTI (cystitis); confirm with urine culture.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01042"
+  ],
+  "stem": "What is the initial investigation for an 8-year-old boy with fever and increased urinary frequency?",
+  "options": {
+   "A": "CT abdomen",
+   "B": "MCUG",
+   "C": "Renal biopsy",
+   "D": "Serum creatinine",
+   "E": "Urine routine examination"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Urine routine examination (with culture) is the first test to screen for UTI.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00972"
+  ],
+  "stem": "What is the most common causative organism of urinary tract infection in a 4-year-old with daytime urinary incontinence and abdominal pain?",
+  "options": {
+   "A": "Klebsiella",
+   "B": "Escherichia coli",
+   "C": "Proteus",
+   "D": "Pseudomonas",
+   "E": "Staphylococcus saprophyticus"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "E. coli causes 80-90% of childhood UTI.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00301"
+  ],
+  "stem": "A 4-year-old boy has three days of high-grade fever, vomiting and left flank pain. He is toxic and dehydrated with tenderness in the left lumbar region. Urine shows 18-20 pus cells and WBC casts. What is the most likely diagnosis?",
+  "options": {
+   "A": "Cystitis",
+   "B": "Hydronephrosis",
+   "C": "PUV junction obstruction",
+   "D": "Pyelonephritis",
+   "E": "Urinary lithiasis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Fever, flank pain and WBC casts indicate renal parenchymal infection, acute pyelonephritis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00026"
+  ],
+  "stem": "A 3-year-old has one week of low-grade fever, morning periorbital puffiness, decreased oral intake and abdominal pain. Urine R/E shows albumin ++, RBC 10-15/HPF, WBC 10-15/HPF, nitrite positive and epithelial casts. What is the most likely diagnosis?",
+  "options": {
+   "A": "Acute glomerulonephritis",
+   "B": "IgA nephropathy",
+   "C": "Nephrotic syndrome",
+   "D": "Orthostatic proteinuria",
+   "E": "Urinary tract infection"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Fever, abdominal pain, pyuria and positive nitrite indicate UTI; the mild proteinuria and haematuria accompany infection.",
+  "key_note": "One paper key marked A (acute glomerulonephritis); correct is E, because nitrite positivity and pyuria point to infection.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00035",
+   "C00791"
+  ],
+  "stem": "A 4-year-old uncircumcised boy has multiple febrile UTIs and poor urinary stream since birth. Which is the most relevant next investigation to find the cause?",
+  "options": {
+   "A": "DMSA scan",
+   "B": "Micturating cystourethrogram",
+   "C": "Renal function tests",
+   "D": "Ultrasound KUB",
+   "E": "Urine culture"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "A weak stream in a boy with recurrent UTI suggests posterior urethral valves or reflux; MCUG shows urethral anatomy and reflux.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00030"
+  ],
+  "stem": "The commonest cause of acute renal failure in children is:",
+  "options": {
+   "A": "Haemolytic uraemic syndrome",
+   "B": "Nephritic syndrome",
+   "C": "Nephrolithiasis",
+   "D": "Severe dehydration",
+   "E": "Urinary tract infection"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Prerenal failure from dehydration is the commonest cause overall; HUS is the commonest intrinsic cause in young children.",
+  "key_note": "One paper marked A (HUS); both are taught, but prerenal azotaemia from dehydration is overall commonest, so D is kept.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00265",
+   "C00190",
+   "C00475",
+   "C00963"
+  ],
+  "stem": "A 5-year-old child has 3 days of diarrhoea, vomiting and fever, then anuria for 12 hours. He is severely dehydrated with urea 70 mg/dl and creatinine 3.5 mg/dl. What is the diagnosis or complication?",
+  "options": {
+   "A": "Post-infectious glomerulonephritis",
+   "B": "Acute kidney injury (acute renal failure)",
+   "C": "Haemolytic uraemic syndrome",
+   "D": "Renal tubular acidosis"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Anuria with raised urea and creatinine after gastroenteritis and dehydration is prerenal acute kidney injury. HUS would need anaemia and thrombocytopenia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00212"
+  ],
+  "stem": "A 10-year-old boy is treated for septic shock and diarrhoea with IV fluids. After 24 hours he has decreased urine output, facial puffiness, pedal oedema and protein in urine. What is the appropriate management?",
+  "options": {
+   "A": "Stop IV fluids and give furosemide",
+   "B": "Continue IV fluids",
+   "C": "Give albumin infusion",
+   "D": "Give dopamine infusion",
+   "E": "Start dialysis immediately"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Oliguria with oedema after resuscitation indicates fluid overload, so stop further fluids and give a furosemide challenge.",
+  "key_note": "Options written by reviewer; the source gave only the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00073"
+  ],
+  "stem": "Which electrolyte abnormality is most dangerous and requires urgent treatment in a patient with AKI?",
+  "options": {
+   "A": "Hypernatraemia",
+   "B": "Hyperkalaemia",
+   "C": "Hypocalcaemia",
+   "D": "Hypermagnesaemia"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Hyperkalaemia causes fatal arrhythmias in oliguric AKI and is treated urgently with calcium gluconate, insulin-dextrose and salbutamol.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00971"
+  ],
+  "stem": "Which of the following is NOT an indication for dialysis in a 2-year-old with dehydration, vomiting and kidney dysfunction?",
+  "options": {
+   "A": "Refractory hyperkalaemia",
+   "B": "Severe metabolic acidosis",
+   "C": "Fluid overload unresponsive to diuretics",
+   "D": "Hypocalcaemia",
+   "E": "Uraemic encephalopathy or pericarditis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Dialysis is indicated for refractory hyperkalaemia, acidosis, fluid overload and uraemic complications; hypocalcaemia is corrected with calcium.",
+  "key_note": "Stem reworded as an EXCEPT question around the source answer, hypocalcaemia. Options written by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00372",
+   "C00546"
+  ],
+  "stem": "A 7-year-old girl is a known case of chronic kidney disease. What metabolic derangements are expected?",
+  "options": {
+   "A": "Metabolic alkalosis with hypokalaemia",
+   "B": "Metabolic alkalosis with hypophosphataemia",
+   "C": "Metabolic acidosis with hyperkalaemia",
+   "D": "Metabolic acidosis with hypercalcaemia",
+   "E": "Mixed acidosis"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Failing kidneys retain acid and potassium, giving metabolic acidosis and hyperkalaemia (with hyperphosphataemia and hypocalcaemia).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00037"
+  ],
+  "stem": "A 6-year-old girl with chronic kidney disease has raised serum potassium. Which dietary modification should be recommended?",
+  "options": {
+   "A": "Decrease rice, eggs and beans",
+   "B": "Encourage whole grains",
+   "C": "Increase leafy green vegetables",
+   "D": "Increase animal protein intake",
+   "E": "Reduce consumption of bananas, tomatoes and oranges"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Potassium-rich fruits and vegetables such as bananas, tomatoes and oranges should be restricted in hyperkalaemic CKD.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00031"
+  ],
+  "stem": "A 5-year-old boy has fever, painful micturition and frequency for 5 days. He has grade IV vesicoureteric reflux with a nonfunctioning kidney. Hb is 8 g/dl with normal MCV, MCH and MCHC, urea 60 mg/dl and creatinine 3 mg/dl. What is the most likely cause of anaemia?",
+  "options": {
+   "A": "Vitamin B12 deficiency",
+   "B": "Bone marrow aplasia",
+   "C": "Decreased erythropoietin",
+   "D": "Haemolysis",
+   "E": "Iron deficiency"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Normocytic normochromic anaemia in chronic kidney disease results from reduced renal erythropoietin production.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00300",
+   "C00973"
+  ],
+  "stem": "An 11-year-old girl with chronic kidney disease is markedly pale with Hb 7 g/dl and a normocytic picture. Which is the most appropriate treatment for her anaemia?",
+  "options": {
+   "A": "Recombinant erythropoietin",
+   "B": "Folic acid",
+   "C": "Iron",
+   "D": "Red cell concentrates",
+   "E": "Vitamin B12"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Anaemia of CKD is due to erythropoietin deficiency and is treated with recombinant erythropoietin (with iron supplementation if deficient).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00033"
+  ],
+  "stem": "A 10-year-old boy with chronic kidney disease stopped his medications 5 days ago and presents with shortness of breath for 4-7 hours, vomiting and decreased urine output. The chest is clear and there is no pedal oedema. Which drug will relieve his shortness of breath?",
+  "options": {
+   "A": "Calcium gluconate",
+   "B": "Furosemide",
+   "C": "Oxygen",
+   "D": "Proton pump inhibitor",
+   "E": "Sodium bicarbonate"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Breathlessness with a clear chest and no oedema is Kussmaul (acidotic) breathing from uraemic metabolic acidosis, relieved by sodium bicarbonate.",
+  "key_note": "One AI-generated key marked B (furosemide); correct is E, as there is no sign of fluid overload.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00460"
+  ],
+  "stem": "A child with CKD missed dialysis and has raised potassium, urea and creatinine, with tall T waves and broad QRS on ECG. What is the immediate treatment?",
+  "options": {
+   "A": "Calcium gluconate",
+   "B": "Urgent dialysis",
+   "C": "Oral salbutamol",
+   "D": "Oral antibiotics",
+   "E": "Furosemide alone"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "IV calcium gluconate stabilises the myocardial membrane within minutes in hyperkalaemia with ECG changes; dialysis follows.",
+  "key_note": "Options written by reviewer to cover the two options given in the source.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00692"
+  ],
+  "stem": "A 7-year-old girl presents with fever and abdominal pain for 5 days and is diagnosed with a urinary tract infection. Which investigation is diagnostic?",
+  "options": {
+   "A": "Urine routine examination",
+   "B": "Complete blood count",
+   "C": "Urine culture and sensitivity",
+   "D": "Renal function tests",
+   "E": "Ultrasound abdomen and pelvis"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Urine culture with colony count is the definitive test for UTI; urinalysis only supports it.",
+  "key_note": "",
+  "figure": ""
+ }
+]

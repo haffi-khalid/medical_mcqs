@@ -1,0 +1,204 @@
+[
+ {
+  "cids": [
+   "C00695"
+  ],
+  "stem": "A neonatal examination shows positive Ortolani and Barlow tests, and developmental dysplasia of the hip is suspected. What is the investigation of choice?",
+  "options": {
+   "A": "X-ray hip joint",
+   "B": "Ultrasound hip joints",
+   "C": "CT pelvis",
+   "D": "Bone scan",
+   "E": "Serum calcium levels"
+  },
+  "answer": "B",
+  "explanation": "Ultrasound is the investigation of choice for DDH in infants under about 4-6 months because the femoral head is still largely cartilaginous. X-ray becomes useful after ossification of the femoral head epiphysis.",
+  "key_note": "",
+  "answer_text": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00051"
+  ],
+  "stem": "A 4-year-old child has disproportionate short stature. Which of the following is the most likely diagnosis?",
+  "options": {
+   "A": "Achondroplasia",
+   "B": "Growth hormone deficiency",
+   "C": "Hypothyroidism",
+   "D": "Constitutional delay of growth",
+   "E": "Familial short stature"
+  },
+  "answer": "A",
+  "explanation": "Achondroplasia (FGFR3 mutation) gives short limbs with a normal trunk and large head, i.e. disproportionate short stature. GH deficiency, constitutional delay and familial short stature are proportionate.",
+  "key_note": "Fifth option added by reviewer.",
+  "answer_text": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00134",
+   "C00593"
+  ],
+  "stem": "A 7-year-old child presents with painful swelling of the small joints of both hands for 2 months, with limitation of movement and no rash. CVS examination and ECG are normal. ANA is negative, ESR and CRP are raised. What is the most likely diagnosis?",
+  "options": {
+   "A": "Reactive arthritis",
+   "B": "Rheumatic fever",
+   "C": "Juvenile idiopathic arthritis",
+   "D": "Haemophilia",
+   "E": "Acute lymphoblastic leukaemia"
+  },
+  "answer": "C",
+  "explanation": "Arthritis lasting more than 6 weeks in a child under 16 with raised inflammatory markers is JIA (here seronegative polyarticular). Rheumatic fever gives migratory, transient arthritis with carditis, and reactive arthritis is self-limiting.",
+  "key_note": "",
+  "answer_text": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00255"
+  ],
+  "stem": "A 12-year-old girl has had symmetrical swelling of the metacarpophalangeal joints, proximal interphalangeal joints, wrists and knees for 4 months, with morning stiffness. RF and anti-CCP are positive and ESR is 60 mm/hr. What is the most likely subtype of JIA?",
+  "options": {
+   "A": "Systemic onset JIA",
+   "B": "Polyarticular JIA",
+   "C": "Oligoarticular JIA",
+   "D": "Septic arthritis",
+   "E": "Reactive arthritis"
+  },
+  "answer": "B",
+  "explanation": "Five or more joints with symmetrical small joint involvement and RF/anti-CCP positivity is polyarticular RF-positive JIA, which resembles adult rheumatoid arthritis.",
+  "key_note": "",
+  "answer_text": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00325"
+  ],
+  "stem": "A 6-year-old girl has had morning stiffness, joint swelling and reduced range of motion in both knees for 3 months, with intermittent fever and a rash that worsens with fever spikes. She has hepatosplenomegaly, anaemia, leucocytosis and a raised ESR. What is the most likely diagnosis?",
+  "options": {
+   "A": "Acute rheumatic fever",
+   "B": "Kawasaki disease",
+   "C": "Septic arthritis",
+   "D": "Systemic juvenile idiopathic arthritis",
+   "E": "Systemic lupus erythematosus"
+  },
+  "answer": "D",
+  "explanation": "Quotidian spiking fever, evanescent salmon-pink rash, arthritis, hepatosplenomegaly and neutrophilic leucocytosis characterise systemic-onset JIA (Still disease).",
+  "key_note": "",
+  "answer_text": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01103"
+  ],
+  "stem": "A 4-year-old girl presents with a limp and a swollen left knee and fingers with spindle-shaped swelling of finger joints. She complains of decreasing visual acuity and discomfort in both eyes, and examination shows iridocyclitis. ANA is positive. What is the likely diagnosis?",
+  "options": {
+   "A": "SLE",
+   "B": "Polyarticular onset JIA",
+   "C": "Oligoarticular onset JIA",
+   "D": "Systemic onset JIA",
+   "E": "Reactive arthritis"
+  },
+  "answer": "C",
+  "explanation": "Young girl, ANA positive, few joints and chronic anterior uveitis is the classic picture of oligoarticular JIA.",
+  "key_note": "",
+  "answer_text": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00074"
+  ],
+  "stem": "A 6-year-old girl with oligoarticular JIA is at highest risk of developing which complication?",
+  "options": {
+   "A": "Glomerulonephritis",
+   "B": "Anterior uveitis",
+   "C": "Pericarditis",
+   "D": "Pulmonary fibrosis",
+   "E": "Amyloidosis"
+  },
+  "answer": "B",
+  "explanation": "Chronic asymptomatic anterior uveitis occurs in up to 20-30% of ANA-positive oligoarticular JIA, so regular slit-lamp screening is needed. Pericarditis belongs to systemic-onset JIA.",
+  "key_note": "The paper marked C (Pericarditis); correct is B: anterior uveitis is the characteristic complication of oligoarticular JIA. Fifth option added by reviewer.",
+  "answer_text": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00364",
+   "C00514",
+   "C00100"
+  ],
+  "stem": "A 12-year-old girl presents with photosensitivity and arthralgia, with normal joints and systemic examination. She has an erythematous rash over both cheeks crossing the bridge of the nose. What is the most likely diagnosis?",
+  "options": {
+   "A": "Juvenile rheumatoid arthritis",
+   "B": "Systemic lupus erythematosus",
+   "C": "Henoch Schonlein purpura",
+   "D": "Kawasaki disease",
+   "E": "Dermatomyositis"
+  },
+  "answer": "B",
+  "explanation": "A malar rash with photosensitivity and arthralgia in an adolescent girl suggests SLE.",
+  "key_note": "Fifth option added by reviewer.",
+  "answer_text": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00365",
+   "C00515"
+  ],
+  "stem": "A 12-year-old girl with photosensitivity, arthralgia and a malar rash is suspected to have SLE. Which is the best screening investigation?",
+  "options": {
+   "A": "ANA",
+   "B": "Rheumatoid factor",
+   "C": "Anti-dsDNA",
+   "D": "ESR",
+   "E": "Anti-Smith antibody"
+  },
+  "answer": "A",
+  "explanation": "ANA is the most sensitive test (over 95%) and is the screening test; a negative ANA virtually excludes SLE. Anti-dsDNA and anti-Smith are specific and are used for confirmation, and anti-dsDNA also tracks activity.",
+  "key_note": "Papers marked Anti-dsDNA; the compiled key and standard teaching give ANA as the screening test, anti-dsDNA being a specific confirmatory test. Fifth option added by reviewer.",
+  "answer_text": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00075"
+  ],
+  "stem": "A 14-year-old girl presents with a photosensitive rash, oral ulcers, arthritis and proteinuria. Which antibody is most specific for the diagnosis of SLE?",
+  "options": {
+   "A": "Anti-dsDNA",
+   "B": "ANA",
+   "C": "Anti-Smith antibody",
+   "D": "Anti-histone antibody",
+   "E": "Anti-Ro (SSA) antibody"
+  },
+  "answer": "C",
+  "explanation": "Anti-Smith is the most specific antibody for SLE, though present in only about 30% of patients. Anti-dsDNA is also highly specific and correlates with nephritis; ANA is sensitive but not specific; anti-histone is typical of drug-induced lupus.",
+  "key_note": "The paper marked A (Anti-dsDNA), which is also highly specific; most specific per standard teaching is anti-Smith. Fifth option added by reviewer.",
+  "answer_text": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00988"
+  ],
+  "stem": "A 7-year-old girl has fever, malaise and weight loss for a month, with painful swelling of the knuckles of both hands. She is pale, has a malar butterfly rash and symmetrical small-joint polyarthritis. ESR, ANA and anti-dsDNA are raised. What treatment should be given?",
+  "options": {
+   "A": "Corticosteroids and hydroxychloroquine",
+   "B": "Cytotoxic drugs",
+   "C": "Antibiotics",
+   "D": "Chemotherapy",
+   "E": "Stem cell transplantation"
+  },
+  "answer": "A",
+  "explanation": "Mild to moderate SLE is treated with corticosteroids plus hydroxychloroquine; cytotoxics such as cyclophosphamide are reserved for severe organ-threatening disease such as class IV nephritis.",
+  "key_note": "",
+  "answer_text": "",
+  "figure": ""
+ }
+]

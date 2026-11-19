@@ -1,0 +1,95 @@
+[
+ {
+  "cids": [
+   "C01096"
+  ],
+  "stem": "What is the risk of recurrence of cleft palate in the next pregnancy if two siblings are already affected?",
+  "options": {
+   "A": "2%",
+   "B": "5%",
+   "C": "7%",
+   "D": "10%",
+   "E": "20%"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Recurrence risk for cleft lip/palate is about 4% with one affected sibling and roughly 9-10% with two affected siblings; it is about 17% if a parent and a sibling are affected. Inheritance is multifactorial.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01097"
+  ],
+  "stem": "A newborn presents on the 2nd day of life with bilious vomiting and no abdominal distension. X-ray shows a double bubble sign. What is the most likely diagnosis?",
+  "options": {
+   "A": "Intestinal obstruction (non-specific)",
+   "B": "Necrotising enterocolitis",
+   "C": "Duodenal atresia",
+   "D": "Meconium ileus",
+   "E": "Jejunal atresia"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "The double bubble sign (dilated stomach and proximal duodenum) with bilious vomiting and a scaphoid or non-distended abdomen is duodenal atresia; associated with Down syndrome. Jejunal atresia shows multiple air-fluid levels and distension.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01123",
+   "C00987"
+  ],
+  "stem": "A 1-year-old boy is brought to the ER with episodes of excessive crying and drawing up of the knees to the chest, lethargic in between. He has passed bloody stools and is pale, with a sausage-shaped mass palpable in the abdomen. What is the diagnosis?",
+  "options": {
+   "A": "Dysentery",
+   "B": "Hirschsprung disease",
+   "C": "Intestinal perforation",
+   "D": "Intussusception",
+   "E": "Meckel's diverticulum"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Intermittent colicky pain with drawing up of legs, lethargy between episodes, redcurrant-jelly stool and a sausage-shaped mass is classic ileocolic intussusception (peak 3-12 months). Ultrasound shows the target sign; air or saline enema is both diagnostic and therapeutic.",
+  "key_note": "Another paper (5-year-old after an URTI, colicky pain, bilious vomiting, sausage-shaped mass, positive stool occult blood) asked the same diagnosis; merged.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00105",
+   "C01048"
+  ],
+  "stem": "A developmentally normal 10-month-old infant presents with constipation and a history of delayed passage of meconium. The abdomen is distended with audible bowel sounds, and multiple laxatives have given minimal relief. What is the most likely cause?",
+  "options": {
+   "A": "Congenital hypothyroidism",
+   "B": "Functional constipation",
+   "C": "Hirschsprung disease",
+   "D": "Hyperparathyroidism",
+   "E": "Paralytic ileus"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Delayed passage of meconium (beyond 48 hours) followed by chronic constipation unresponsive to laxatives and abdominal distension points to Hirschsprung disease (aganglionosis). Functional constipation does not cause delayed meconium; a normally developing infant makes congenital hypothyroidism unlikely.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00362",
+   "C00512"
+  ],
+  "stem": "A newborn has not passed stool for 3 days after birth. The abdomen is distended and the rectal ampulla is empty on per rectal examination. Which investigation confirms the suspected diagnosis of Hirschsprung disease?",
+  "options": {
+   "A": "Barium enema",
+   "B": "Rectal manometry",
+   "C": "Rectosigmoidoscopy",
+   "D": "Rectal biopsy",
+   "E": "Plain abdominal X-ray"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Full-thickness or suction rectal biopsy showing absent ganglion cells with hypertrophied nerve trunks is the gold standard for Hirschsprung disease. Barium enema (transition zone) only suggests the diagnosis.",
+  "key_note": "One paper's tick marked A (Barium enema); correct is D: rectal biopsy is the confirmatory test. Source had 4 options; option E added by reviewer.",
+  "figure": ""
+ }
+]
