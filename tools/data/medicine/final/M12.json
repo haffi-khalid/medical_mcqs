@@ -1,0 +1,698 @@
+[
+ {
+  "cids": [
+   "C00636"
+  ],
+  "stem": "The pH of body fluids is stabilised by buffer systems. Which of the following is the most important (most effective) buffer system in the extracellular fluid at physiological pH?",
+  "options": {
+   "A": "Bicarbonate",
+   "B": "Phosphate",
+   "C": "Protein",
+   "D": "Chloride",
+   "E": "Carbon dioxide"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "The bicarbonate-carbonic acid system is the most important extracellular buffer because it is present in high concentration and is 'open', with the lungs removing CO2 and the kidneys regenerating bicarbonate. Phosphate has a pKa nearer 7.4 but its concentration is too low.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00638"
+  ],
+  "stem": "The greatest buffering capacity at physiological pH would be provided by a protein rich in which of the following amino acids?",
+  "options": {
+   "A": "Lysine",
+   "B": "Histidine",
+   "C": "Aspartic acid",
+   "D": "Leucine"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "The imidazole side chain of histidine has a pKa of about 6-7, close to physiological pH, so it accepts and releases H+ most effectively. Haemoglobin is rich in histidine, which is why it is an excellent buffer.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00637"
+  ],
+  "stem": "Which of the following laboratory results indicates compensated metabolic alkalosis?",
+  "options": {
+   "A": "Low pCO2, normal bicarbonate and high pH",
+   "B": "Low pCO2, low bicarbonate and low pH",
+   "C": "High pCO2, normal bicarbonate and low pH",
+   "D": "High pCO2, high bicarbonate and high pH",
+   "E": "Low pCO2, low bicarbonate and high pH"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Primary metabolic alkalosis raises bicarbonate, and the respiratory compensation is hypoventilation, which raises pCO2. Only option D has both raised, with pH still on the alkaline side.",
+  "key_note": "Only D has the raised bicarbonate with compensatory raised pCO2 that characterises metabolic alkalosis.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00036"
+  ],
+  "stem": "A 17-year-old girl with a history of polyuria and polydipsia presents with reduced consciousness and apparent shortness of breath. Blood gases show pH 7.28, PO2 15.7 kPa, PCO2 2.5 kPa and bicarbonate 14 mmol/L. (Reference: PO2 >11.0 kPa, PCO2 4.6-6.0 kPa, bicarbonate 22-28 mmol/L, pH 7.35-7.45.) What is the likely acid-base diagnosis?",
+  "options": {
+   "A": "Fully compensated metabolic acidosis",
+   "B": "Fully compensated respiratory acidosis",
+   "C": "Metabolic acidosis",
+   "D": "Respiratory acidosis",
+   "E": "Type I respiratory failure"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Low pH with low bicarbonate is metabolic acidosis (this is diabetic ketoacidosis). The low PCO2 and deep breathing (Kussmaul) is respiratory compensation, but the pH is still acidaemic so it is not fully compensated.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00631",
+   "C02896"
+  ],
+  "stem": "A patient presents with shortness of breath. Labs show pH 7.1, bicarbonate 13 mmol/L, serum sodium 134 mmol/L and chloride 91 mmol/L. What is the anion gap?",
+  "options": {
+   "A": "13",
+   "B": "23",
+   "C": "30",
+   "D": "35",
+   "E": "78"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Anion gap = Na - (Cl + HCO3) = 134 - (91 + 13) = 30 mmol/L (normal about 8-12), a high anion gap metabolic acidosis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00632"
+  ],
+  "stem": "A 21-year-old man with a history of renal stones presents with shortness of breath. Labs: pH 7.0, bicarbonate 12 mmol/L, sodium 138 mmol/L, chloride 99 mmol/L, PCO2 27 mmHg. What is the acid-base disorder?",
+  "options": {
+   "A": "High anion gap metabolic acidosis",
+   "B": "Normal anion gap metabolic acidosis",
+   "C": "Metabolic alkalosis with respiratory acidosis",
+   "D": "Metabolic acidosis with respiratory alkalosis",
+   "E": "Respiratory acidosis with metabolic alkalosis"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Anion gap = 138 - (99 + 12) = 27, so it is high anion gap metabolic acidosis. Expected PCO2 by Winter's formula is 1.5 x 12 + 8 = 26 (+/-2), so the measured 27 is appropriate compensation and there is no second disorder.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00629"
+  ],
+  "stem": "A person is admitted in a coma. Arterial blood gas shows PCO2 36 mmHg, HCO3 5 mmol/L and pH 7.1. What is the underlying acid-base disorder?",
+  "options": {
+   "A": "Metabolic acidosis",
+   "B": "Metabolic alkalosis",
+   "C": "Respiratory acidosis",
+   "D": "Respiratory alkalosis",
+   "E": "Metabolic and respiratory acidosis"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Low pH with a very low bicarbonate is metabolic acidosis, and the PCO2 is not raised, so the primary disorder is metabolic.",
+  "key_note": "Paper keys disagree: the compiled copy marked E (metabolic and respiratory acidosis), most paper copies marked metabolic acidosis. Strictly, the PCO2 is higher than the compensation expected for HCO3 5, but metabolic acidosis is the standard exam answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00317"
+  ],
+  "stem": "A young woman is found comatose after taking an unknown number of sleeping pills at an unknown time. An arterial sample shows pH 6.90, HCO3 13 mEq/L and PaCO2 68 mmHg. Her acid-base status is most accurately described as:",
+  "options": {
+   "A": "Uncompensated metabolic acidosis",
+   "B": "Uncompensated respiratory acidosis",
+   "C": "Respiratory and metabolic acidosis",
+   "D": "Respiratory acidosis with partial renal compensation",
+   "E": "Metabolic alkalosis"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "PaCO2 is high (respiratory acidosis from sedative-induced hypoventilation) and HCO3 is low (metabolic acidosis, here lactic from hypoperfusion). Both push pH down, giving a severe mixed acidosis; in pure respiratory acidosis HCO3 would be normal or raised.",
+  "key_note": "Some paper copies marked B or A; correct is C, mixed respiratory and metabolic acidosis, because PaCO2 is high and HCO3 is low together.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00633",
+   "C00634",
+   "C00635"
+  ],
+  "stem": "During abdominal surgery it was necessary to aspirate the contents of the upper gastrointestinal tract. Afterwards arterial blood shows pH 7.55, PCO2 42 mmHg and HCO3 40 mmol/L. What is the underlying disorder?",
+  "options": {
+   "A": "Metabolic acidosis",
+   "B": "Metabolic alkalosis",
+   "C": "Respiratory acidosis",
+   "D": "Respiratory alkalosis",
+   "E": "Metabolic and respiratory alkalosis"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Loss of gastric HCl leaves excess bicarbonate: high pH, high HCO3 and a near-normal PCO2 is metabolic alkalosis. Respiratory compensation in alkalosis is limited and unreliable.",
+  "key_note": "Paper keys disagree: most copies marked B, the compiled copy and one paper marked E (metabolic and respiratory alkalosis). B is the standard answer. The pH was printed as 7.38 in one copy; 7.58 is used as in the other copies.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00639"
+  ],
+  "stem": "Causes of metabolic alkalosis include all of the following EXCEPT:",
+  "options": {
+   "A": "Mineralocorticoid deficiency",
+   "B": "Hypokalaemia",
+   "C": "Thiazide diuretic therapy",
+   "D": "Recurrent vomiting",
+   "E": "Overuse of antacids"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Mineralocorticoid excess (not deficiency) causes metabolic alkalosis with hypokalaemia; deficiency causes hyperkalaemia and mild acidosis. Vomiting, diuretics and alkali ingestion all cause alkalosis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00640"
+  ],
+  "stem": "Causes of lactic acidosis include all of the following EXCEPT:",
+  "options": {
+   "A": "Cardiogenic shock",
+   "B": "Hypoxia",
+   "C": "Circulatory failure",
+   "D": "Infections",
+   "E": "Metformin"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Lactic acidosis results from tissue hypoperfusion or hypoxia, or impaired lactate clearance (metformin). Infection by itself is not a cause unless it progresses to septic shock.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01308"
+  ],
+  "stem": "In a patient with renal failure, which acid-base disorder is seen?",
+  "options": {
+   "A": "Metabolic acidosis",
+   "B": "Metabolic alkalosis",
+   "C": "Respiratory acidosis",
+   "D": "Respiratory alkalosis",
+   "E": "Normal pH"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Failing kidneys cannot excrete H+ or regenerate bicarbonate, giving a normal or high anion gap metabolic acidosis.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02632",
+   "C02859"
+  ],
+  "stem": "A young woman with severe anxiety develops severe shortness of breath and perioral numbness for 1 hour. She is tachypnoeic, tachycardic and restless. ABG: pH 7.52, PaCO2 28 mmHg, HCO3 23 mmol/L. What is the acid-base disorder?",
+  "options": {
+   "A": "High anion gap metabolic acidosis",
+   "B": "Low anion gap metabolic acidosis",
+   "C": "Metabolic alkalosis",
+   "D": "Respiratory acidosis",
+   "E": "Respiratory alkalosis"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "High pH with low PaCO2 and near-normal bicarbonate is acute respiratory alkalosis from hyperventilation; alkalosis increases albumin binding of calcium, lowering ionised calcium and causing the numbness and tingling.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00954"
+  ],
+  "stem": "Which of the following is found on examination of the pulse in dehydration?",
+  "options": {
+   "A": "Bounding pulse",
+   "B": "High volume pulse",
+   "C": "Pulsus bigeminus",
+   "D": "Tachycardia",
+   "E": "Bradycardia"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Volume depletion lowers stroke volume, so heart rate rises to maintain cardiac output; the pulse is fast and low volume.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01021",
+   "C01559"
+  ],
+  "stem": "A 27-year-old man presents with profuse watery diarrhoea. Which of the following signs indicates dehydration?",
+  "options": {
+   "A": "Bradycardia",
+   "B": "Hypertension",
+   "C": "Oliguria",
+   "D": "Profuse sweating",
+   "E": "Polyuria"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Dehydration reduces renal perfusion and activates ADH and aldosterone, so urine output falls. The patient will also have tachycardia and hypotension rather than bradycardia or hypertension.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00467"
+  ],
+  "stem": "A 50-year-old woman presents with severe diarrhoea. She is drowsy and lethargic with blood pressure 80/60 mmHg, pulse 110/min and serum sodium 125 mmol/L. What is the best management?",
+  "options": {
+   "A": "Normal saline infusion",
+   "B": "Dialysis",
+   "C": "3% saline",
+   "D": "Dextrose water",
+   "E": "Water restriction"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "This is hypovolaemic hyponatraemia from GI losses with circulatory compromise. Isotonic saline restores volume, switches off ADH and corrects sodium; hypertonic saline is reserved for severe symptoms such as seizures, and water restriction is for euvolaemic SIADH.",
+  "key_note": "Serum sodium was printed as 125 mmHg in the source; read as mmol/L. One copy marked dialysis (unclear mark); correct is normal saline.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00230"
+  ],
+  "stem": "A 35-year-old man with a head injury after a road traffic accident develops seizures in ICU. Serum sodium is 108 mmol/L and potassium 4 mEq/L. What is the most likely diagnosis?",
+  "options": {
+   "A": "Renal failure",
+   "B": "SIADH",
+   "C": "Cushing's syndrome",
+   "D": "Addison's disease",
+   "E": "Hypopituitarism"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Head injury is a classic cause of SIADH, giving euvolaemic hyponatraemia. Normal potassium argues against Addison's disease, and seizures reflect cerebral oedema from the profound hyponatraemia.",
+  "key_note": "Sodium was printed in mg/dl in the source; read as mmol/L.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00562",
+   "C02779"
+  ],
+  "stem": "A 59-year-old smoker with newly diagnosed small cell lung carcinoma presents with altered mentation, weakness and lethargy. Sodium is 123 mmol/L, potassium 3.8 mmol/L, BP 135/90 mmHg, pulse 79/min and he is euvolaemic. What is the cause of the hyponatraemia?",
+  "options": {
+   "A": "Congestive heart failure",
+   "B": "Diarrhoea",
+   "C": "Diuretics",
+   "D": "Syndrome of inappropriate ADH secretion (SIADH)",
+   "E": "Vomiting"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Small cell lung cancer ectopically secretes ADH, causing euvolaemic hyponatraemia with inappropriately concentrated urine. Heart failure, diarrhoea, vomiting and diuretics would give hypervolaemic or hypovolaemic states.",
+  "key_note": "The urine sodium value was garbled in the source and has been replaced by 'raised'.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02663",
+   "C02865"
+  ],
+  "stem": "A 71-year-old diabetic woman is found confused with productive cough, fever and right-sided consolidation. She is drowsy and has a tonic-clonic seizure. Serum Na+ is 112 mmol/L. What is the most appropriate management?",
+  "options": {
+   "A": "Demeclocycline",
+   "B": "Fluid restriction",
+   "C": "Hypertonic saline",
+   "D": "Isotonic saline",
+   "E": "Lithium therapy"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Severe symptomatic hyponatraemia (seizure, reduced consciousness) is an emergency treated with cautious hypertonic (3%) saline, aiming for a rise of no more than 8-10 mmol/L in 24 hours to avoid osmotic demyelination. Fluid restriction and demeclocycline are for chronic asymptomatic SIADH.",
+  "key_note": "One paper marked C (hypertonic saline); the other copy had no key. Answer confirmed by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00556"
+  ],
+  "stem": "A 78-year-old known hypertensive and diabetic man has advanced renal disease. His ECG shows tall T waves. What is the likely diagnosis?",
+  "options": {
+   "A": "Hyperkalaemia",
+   "B": "Hypocalcaemia",
+   "C": "Hypernatraemia",
+   "D": "Pericarditis",
+   "E": "Ventricular aneurysm"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Tall, peaked T waves are the earliest ECG sign of hyperkalaemia, which is common in advanced renal disease, especially with diabetes and ACE inhibitor use.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02138"
+  ],
+  "stem": "A 65-year-old man with stage 3 chronic kidney disease, diabetes and hypertension is receiving enalapril. What should be monitored?",
+  "options": {
+   "A": "Digoxin toxicity",
+   "B": "Serum potassium elevation",
+   "C": "Serum sodium depletion",
+   "D": "Serum calcium elevation"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "ACE inhibitors reduce aldosterone, causing potassium retention, and the risk is greatest in CKD and diabetes. Check potassium and creatinine after starting or changing the dose.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00349",
+   "C02564"
+  ],
+  "stem": "What is the ECG finding of hypokalaemia?",
+  "options": {
+   "A": "Tall T wave",
+   "B": "Sine wave",
+   "C": "U wave",
+   "D": "ST elevation",
+   "E": "Shortened QT interval"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Hypokalaemia causes T wave flattening, prominent U waves, ST depression and a prolonged QT(U) interval. Tall T waves and a sine wave are seen in hyperkalaemia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02973"
+  ],
+  "stem": "A patient with profuse watery diarrhoea and vomiting complains of weakness in the limbs. His ECG shows flattened T waves, prominent U waves and ST depression. The ECG changes are most likely secondary to:",
+  "options": {
+   "A": "Hypokalaemia",
+   "B": "Hyperkalaemia",
+   "C": "Hyponatraemia",
+   "D": "Hypocalcaemia",
+   "E": "Hypernatraemia"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "GI losses cause hypokalaemia with muscle weakness; flattened T waves, prominent U waves and ST depression are the characteristic ECG changes.",
+  "key_note": "Source ECG (wide QRS) fits hyperkalaemia better; ECG description corrected by reviewer to hypokalaemic changes. Key A unchanged.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01325"
+  ],
+  "stem": "Which of the following ECG findings is NOT consistent with hyperkalaemia?",
+  "options": {
+   "A": "Tall T waves",
+   "B": "Widening of QRS complexes",
+   "C": "Sine wave pattern",
+   "D": "Prolongation of PR interval",
+   "E": "Prominent U waves"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Prominent U waves occur in hypokalaemia. Hyperkalaemia gives tall T waves, PR prolongation, P wave flattening, QRS widening and a sine wave.",
+  "key_note": "Original option E (small P waves) is also a hyperkalaemia feature, so the question had no true answer; option replaced by reviewer with U waves (hypokalaemia).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01798"
+  ],
+  "stem": "A 60-year-old man with acute on chronic renal failure has serum potassium 6.5 mEq/L. The most likely ECG abnormality is:",
+  "options": {
+   "A": "Prolonged QT interval",
+   "B": "ST depression",
+   "C": "Tall tented T waves",
+   "D": "T wave inversions"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Tall, narrow, peaked (tented) T waves are the first ECG change of hyperkalaemia, followed by PR prolongation and QRS widening.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00327"
+  ],
+  "stem": "A 60-year-old woman presents to the ER with acute gastroenteritis. Pulse is 200/min regular, BP 110/70 mmHg. ECG shows a broad complex tachycardia with no obvious P waves but occasional P waves seen. Serum potassium is 2.0 mEq/L. The most likely arrhythmia is:",
+  "options": {
+   "A": "Atrioventricular re-entrant tachycardia",
+   "B": "Right bundle branch block",
+   "C": "Left bundle branch block",
+   "D": "Ventricular tachycardia",
+   "E": "Wolff-Parkinson-White syndrome"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A regular broad complex tachycardia with occasional P waves (AV dissociation) is ventricular tachycardia, here provoked by severe hypokalaemia from GI losses. Bundle branch blocks are conduction patterns, not tachycardias.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00273",
+   "C00348",
+   "C02408",
+   "C02134"
+  ],
+  "stem": "A patient with chronic renal failure on dialysis has an arrhythmia (premature ventricular complexes) and an ECG showing a prolonged PR interval, widened QRS and peaked T waves, with serum potassium about 7 mEq/L. Which is the initial intravenous treatment of choice?",
+  "options": {
+   "A": "Calcium gluconate",
+   "B": "Ringer's lactate infusion",
+   "C": "Spironolactone",
+   "D": "Heparin infusion",
+   "E": "Magnesium"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "In hyperkalaemia with ECG changes, intravenous calcium gluconate comes first: it stabilises the myocardial membrane within minutes but does not lower potassium. Insulin with glucose, salbutamol and dialysis then lower or remove potassium.",
+  "key_note": "Glucose-insulin infusion is also a standard measure, but IV calcium is the first priority with ECG changes.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00312",
+   "C00474",
+   "C01322"
+  ],
+  "stem": "A 68-year-old man with chronic renal insufficiency presents with weakness, paraesthesias and palpitations for 4 days. Potassium is 7.2 mEq/L and the ECG shows peaked T waves. Which is the best initial management among the options?",
+  "options": {
+   "A": "Intravenous magnesium",
+   "B": "Intravenous glucose and insulin",
+   "C": "Intravenous sodium bicarbonate",
+   "D": "Renal transplant",
+   "E": "Intravenous potassium"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Insulin with glucose drives potassium into cells within 15-30 minutes. Calcium gluconate (to protect the heart) is the first step when ECG changes are present, but it is not offered here.",
+  "key_note": "All papers marked glucose and insulin; calcium gluconate would normally be given first for ECG changes but is not among the options.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01416",
+   "C01459"
+  ],
+  "stem": "A patient with chronic renal failure misses a haemodialysis session and presents with palpitations and apprehension. Serum potassium is 6 mEq/L and the ECG shows tall tented T waves. Which of the following would you administer?",
+  "options": {
+   "A": "Beta agonist inhalation (salbutamol)",
+   "B": "Beta blockers inhalation",
+   "C": "Oral beta blockers",
+   "D": "Potassium sparing diuretics",
+   "E": "IV Ringer's lactate infusion"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Nebulised salbutamol activates beta-2 receptors and Na-K ATPase, moving potassium into cells. Beta blockers, potassium-sparing diuretics and potassium supplements worsen hyperkalaemia.",
+  "key_note": "One copy marked 'Beta blockers inhalation'; correct is the beta agonist (salbutamol), since beta blockers raise potassium.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01801"
+  ],
+  "stem": "A 38-year-old woman is admitted to ICU with septic shock. ABG shows pH 7.1 and serum potassium is 6.8 mEq/L. What is the most important immediate step in management?",
+  "options": {
+   "A": "IV glucose and insulin",
+   "B": "IV sodium bicarbonate",
+   "C": "Give antibiotics",
+   "D": "Start dopamine infusion"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Insulin with glucose is the most effective rapid potassium-lowering treatment (calcium first if ECG changes). Bicarbonate has a smaller effect and is only an adjunct in severe acidosis.",
+  "key_note": "Paper copies disagree: one marked IV glucose and insulin, another marked IV sodium bicarbonate; glucose and insulin is the standard answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01039"
+  ],
+  "stem": "Which of the following is NOT a feature of hypercalcaemia?",
+  "options": {
+   "A": "Polyuria",
+   "B": "Diarrhoea",
+   "C": "Depression",
+   "D": "Anorexia",
+   "E": "Peptic ulceration"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Hypercalcaemia causes 'bones, stones, moans and groans': polyuria, constipation (not diarrhoea), nausea, anorexia, peptic ulcer, depression and confusion.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01564"
+  ],
+  "stem": "A woman has been self-medicating with calcium supplements for a prolonged period. Which of the following clinical features can be seen in hypercalcaemia?",
+  "options": {
+   "A": "Polyuria",
+   "B": "Diarrhoea",
+   "C": "Carpopedal spasm",
+   "D": "Hyperreflexia",
+   "E": "Positive Chvostek's sign"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Hypercalcaemia causes nephrogenic diabetes insipidus, so polyuria and polydipsia are typical; constipation rather than diarrhoea occurs. Carpopedal spasm and a positive Chvostek's sign are signs of hypocalcaemia.",
+  "key_note": "Options written by reviewer; the source gave a garbled option list (one blank) and several of its options (anorexia, peptic ulceration) are also true features. Polyuria was the marked answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00619",
+   "C01246"
+  ],
+  "stem": "Which of the following is a clinical sign of hypocalcaemia?",
+  "options": {
+   "A": "Schamroth's sign",
+   "B": "Chvostek's sign",
+   "C": "Postural hypotension",
+   "D": "Pulsus paradoxus",
+   "E": "Dizziness"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Chvostek's sign (facial twitching on tapping the facial nerve) and Trousseau's sign (carpopedal spasm on cuff inflation) are signs of latent tetany in hypocalcaemia. Schamroth's sign is clubbing.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03166",
+   "C00453",
+   "C01327"
+  ],
+  "stem": "A young girl presents with twisting of the hands and twitching, and has a positive Chvostek's sign. The likely deficiency is:",
+  "options": {
+   "A": "Iron",
+   "B": "Protein",
+   "C": "Calcium",
+   "D": "Phosphorus",
+   "E": "Glucose"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Carpopedal spasm, twitching and Chvostek's sign are signs of tetany from low ionised calcium.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00440"
+  ],
+  "stem": "A 50-year-old patient presents in the ER with carpopedal spasm. What is the appropriate management?",
+  "options": {
+   "A": "Sodium bicarbonate IV",
+   "B": "Calcium gluconate IV",
+   "C": "Oral sodium bicarbonate",
+   "D": "Oral calcium gluconate",
+   "E": "Potassium chloride IV"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Acute symptomatic hypocalcaemic tetany needs slow IV calcium gluconate (10 ml of 10%) with ECG monitoring; oral calcium is too slow for an acute presentation.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02551"
+  ],
+  "stem": "Which of the following ECG changes occurs in hypercalcaemia?",
+  "options": {
+   "A": "Absent P wave",
+   "B": "Tall tented T wave",
+   "C": "Wide PR interval",
+   "D": "Wide QRS complex",
+   "E": "Short QT interval"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Hypercalcaemia shortens the ST segment and hence the QT interval, whereas hypocalcaemia prolongs it. Absent P waves, tall T waves and wide QRS are features of hyperkalaemia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01737"
+  ],
+  "stem": "A 72-year-old man with known lung cancer and bone metastases presents with abdominal pain, vomiting and new confusion. Calcium is 3.7 mmol/L (2.2-2.7). What is the most important first-line treatment?",
+  "options": {
+   "A": "Dexamethasone 8 mg orally",
+   "B": "Intravenous 0.9% saline",
+   "C": "Intravenous calcitonin",
+   "D": "Intravenous pamidronate",
+   "E": "Radiotherapy to the spine"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Hypercalcaemia of malignancy causes dehydration through nephrogenic diabetes insipidus, so aggressive IV 0.9% saline rehydration is first. A bisphosphonate (pamidronate or zoledronate) follows once he is rehydrated.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02629"
+  ],
+  "stem": "A 25 year female medical student who is overweight with BMI of 35. She regularly takes NSAIDS for headaches and binges on fast food, soft drinks and coffee regularly. Lately she is complaining of severe epigastric discomfort. One of her friend gave her a white syrup that helped with the pain and she took it again and again to help with epigastric discomfort. 3 days later she developed abdominal pain. Her ABGs are shown below (pH: 7.52, PaCO₂: 47 mmHg, HCO₃: 38 mmol/L). What is the acid-base disorder?",
+  "options": {
+   "A": "High anion gap metabolic acidosis",
+   "B": "Low anion gap metabolic acidosis",
+   "C": "Metabolic alkalosis",
+   "D": "Respiratory Acidosis",
+   "E": "Respiratory Alkalosis"
+  },
+  "answer": "C",
+  "explanation": "Repeated antacid (milk-alkali) intake with pH 7.52, raised HCO3 and compensatory raised PaCO2 is metabolic alkalosis.",
+  "key_note": "",
+  "figure": ""
+ }
+]

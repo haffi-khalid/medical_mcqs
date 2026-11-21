@@ -1,0 +1,4526 @@
+[
+ {
+  "cids": [
+   "C00489"
+  ],
+  "stem": "A 28-year-old woman has had heartburn, regurgitation and dysphagia for 6 months, with cough associated with regurgitation, worse after eating and lying down. Upper GI endoscopy is normal. The best test for diagnosis is:",
+  "options": {
+   "A": "CT chest",
+   "B": "Barium follow-through",
+   "C": "Urea breath test",
+   "D": "Chest X-ray",
+   "E": "24-hour pH monitoring"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Endoscopy-negative reflux disease with typical and extra-oesophageal symptoms is confirmed by ambulatory 24-hour oesophageal pH monitoring. Urea breath test looks for H. pylori, not reflux.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00902",
+   "C03042",
+   "C03223"
+  ],
+  "stem": "Which of the following is NOT a predisposing factor for gastro-oesophageal reflux disease?",
+  "options": {
+   "A": "High fatty food intake",
+   "B": "Cholinergic drugs",
+   "C": "Caffeine",
+   "D": "Nicotine",
+   "E": "Gastric outlet obstruction"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Fat, caffeine, nicotine and delayed gastric emptying lower LOS tone or raise gastric pressure. Cholinergic drugs increase LOS tone, whereas anticholinergics, nitrates and calcium-channel blockers promote reflux.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01521",
+   "C02436"
+  ],
+  "stem": "A 52-year-old man presents with a 3-month history of progressive dysphagia and weight loss. The most likely diagnosis is:",
+  "options": {
+   "A": "Achalasia",
+   "B": "Benign stricture",
+   "C": "Carcinoma of the oesophagus",
+   "D": "Oesophageal candidiasis",
+   "E": "Oesophageal varices"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Short, progressive dysphagia (solids then liquids) with weight loss in an older patient is carcinoma of the oesophagus until proved otherwise. Achalasia is longer in course with regurgitation.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00537",
+   "C00999"
+  ],
+  "stem": "A 55-year-old woman with a history of iron deficiency anaemia has had intermittent difficulty swallowing solids for the past few years. Serum iron is 40 ug/dL (normal 50-175) and TIBC 500 ug/dL (normal 350-460). Which is the most likely diagnosis?",
+  "options": {
+   "A": "Achalasia",
+   "B": "Barrett's oesophagus",
+   "C": "Oesophageal carcinoma",
+   "D": "Mallory-Weiss tear",
+   "E": "Plummer-Vinson syndrome"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Iron deficiency anaemia with dysphagia for solids due to an upper oesophageal web is Plummer-Vinson (Paterson-Brown-Kelly) syndrome; iron is low and TIBC high.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00903",
+   "C03224"
+  ],
+  "stem": "Which is the most common cause of oesophageal perforation?",
+  "options": {
+   "A": "Iatrogenic causes (instrumentation)",
+   "B": "Trauma",
+   "C": "Boerhaave's syndrome",
+   "D": "Foreign body",
+   "E": "Tumour"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Endoscopy, dilatation and other instrumentation account for most oesophageal perforations. Boerhaave's syndrome (spontaneous rupture after vomiting) is much less common.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01002"
+  ],
+  "stem": "A pregnant woman is referred from the gynaecology department with hyperemesis gravidarum and haematemesis. The likely cause of haematemesis is:",
+  "options": {
+   "A": "Oesophageal stricture",
+   "B": "Gastric outlet obstruction",
+   "C": "Coagulation disorder",
+   "D": "Mallory-Weiss tear",
+   "E": "Autoimmune gastritis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Repeated forceful retching causes a mucosal tear at the gastro-oesophageal junction, with haematemesis after non-bloody vomiting.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00457"
+  ],
+  "stem": "A 43-year-old man has had mid-epigastric pain and nausea for 2 months. Examination is normal. Upper GI endoscopy shows a solitary, sharply demarcated, shallow 2-cm gastric antral ulcer. Which laboratory finding is most likely in this man?",
+  "options": {
+   "A": "Elevated serum gastrin",
+   "B": "Increased plasma cortisol",
+   "C": "Positive urea breath test",
+   "D": "Positive serology for antinuclear antibody",
+   "E": "Decreased serum iron"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A single benign-looking antral ulcer is most often due to H. pylori, so the urea breath test is likely positive. Raised gastrin suggests Zollinger-Ellison syndrome, which causes multiple or distal ulcers.",
+  "key_note": "One paper key marked elevated serum gastrin; correct is a positive urea breath test (H. pylori), as marked in the other papers.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00482"
+  ],
+  "stem": "A 60-year-old man with no past medical history has dyspepsia that is worse after eating. Endoscopy and biopsy show inflammation predominantly in the gastric antrum. Which is the most likely cause?",
+  "options": {
+   "A": "Spicy foods",
+   "B": "Alcohol abuse",
+   "C": "Cigarette smoking",
+   "D": "Infection (Helicobacter pylori)",
+   "E": "Iatrogenic (drugs)"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Antral-predominant chronic gastritis is typically caused by H. pylori infection. Spicy food has no proven causal role.",
+  "key_note": "Paper key marked A (spicy foods); correct is infection (H. pylori), the commonest cause of antral gastritis.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01020",
+   "C01434"
+  ],
+  "stem": "A 45-year-old man is found to have a condition in which the parietal cells of the stomach have been destroyed by an autoimmune mechanism. This condition is often associated with which of the following?",
+  "options": {
+   "A": "Pernicious anaemia",
+   "B": "Gastric ulceration",
+   "C": "Steatorrhoea",
+   "D": "Protein deficiency",
+   "E": "Hypersplenism"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Autoimmune (type A) gastritis destroys parietal cells, so intrinsic factor is lost and vitamin B12 deficiency (pernicious anaemia) follows; achlorhydria and raised gastrin accompany it.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01522"
+  ],
+  "stem": "The following is a risk factor for peptic ulcer disease:",
+  "options": {
+   "A": "Escherichia coli",
+   "B": "Giardiasis",
+   "C": "Entamoeba histolytica",
+   "D": "Helicobacter pylori",
+   "E": "Shigella"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "H. pylori infection is the main cause of duodenal and gastric ulcers, together with NSAIDs.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00897"
+  ],
+  "stem": "Which statement is FALSE regarding peptic ulcer disease?",
+  "options": {
+   "A": "H. pylori is found in more duodenal ulcers than gastric ulcers",
+   "B": "NSAIDs cause more ulcers than H. pylori",
+   "C": "The relapse rate of peptic ulceration if treated with H2 antagonists alone is about 80%",
+   "D": "NSAIDs cause more gastric ulcers than duodenal ulcers",
+   "E": "Omeprazole heals ulcers more quickly than H2 antagonists"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "H. pylori is present in about 95% of duodenal and 70-80% of gastric ulcers and causes more ulcers overall than NSAIDs. The other statements are correct.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00472",
+   "C00479"
+  ],
+  "stem": "A 34-year-old man presents with epigastric pain, burning and post-prandial fullness for 2 months. Pain is aggravated by food and relieved by antacids. His stool H. pylori antigen is positive. The most appropriate first-line treatment is:",
+  "options": {
+   "A": "PPI + bismuth + metronidazole for 10 days",
+   "B": "PPI + amoxicillin + clarithromycin for 14 days",
+   "C": "PPI + antacids + prokinetics for 14 days",
+   "D": "PPI + azithromycin + levofloxacin for 5 days",
+   "E": "PPI + antacids for 6 weeks"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Standard triple therapy is a PPI with amoxicillin and clarithromycin for 14 days; it cures H. pylori and heals the ulcer. Antacids and prokinetics do not eradicate the organism.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00536"
+  ],
+  "stem": "A 64-year-old man has persistent epigastric pain and nausea. Endoscopy shows a 4-cm mass in the gastric body; histology is low-grade MALT lymphoma. Which factor is most likely involved in the pathogenesis?",
+  "options": {
+   "A": "Cigarette smoking",
+   "B": "Frequent NSAID use",
+   "C": "Helicobacter pylori infection",
+   "D": "Pernicious anaemia",
+   "E": "Salt-preserved foods"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Gastric MALT lymphoma arises from chronic H. pylori-driven lymphoid proliferation, and early disease often regresses with eradication therapy.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00535"
+  ],
+  "stem": "A 52-year-old woman has recurrent vomiting, abdominal discomfort and 15 lb weight loss over a year. The physician places a stethoscope over the upper abdomen and rocks the patient back and forth at the hips. This manoeuvre is most helpful in diagnosing which condition?",
+  "options": {
+   "A": "Chronic pancreatitis",
+   "B": "Oesophageal cancer",
+   "C": "Gastric outlet obstruction",
+   "D": "Mesenteric ischaemia",
+   "E": "Ulcerative colitis"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A succussion splash heard in the epigastrium more than 3 hours after a meal indicates fluid retained in a dilated stomach, i.e. gastric outlet obstruction.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00812"
+  ],
+  "stem": "A 55-year-old man presents with severe abdominal pain, worse after eating, with no vomiting. He has a recurrent duodenal ulcer not responding to proton pump inhibitor therapy. The likely diagnosis is:",
+  "options": {
+   "A": "Glucagonoma",
+   "B": "Gastrinoma",
+   "C": "Insulinoma",
+   "D": "Somatostatinoma",
+   "E": "VIPoma"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Refractory or recurrent peptic ulceration despite a PPI suggests Zollinger-Ellison syndrome from a gastrin-secreting tumour.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01019"
+  ],
+  "stem": "A 65-year-old woman presents with epigastric pain, weight loss, anaemia and osteoporosis. The most appropriate step for diagnosis is:",
+  "options": {
+   "A": "Barium enema",
+   "B": "Metronidazole 400 mg four times a day for 10 days",
+   "C": "Upper GI endoscopy with biopsy",
+   "D": "Lactose breath test",
+   "E": "Stool examination"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Alarm features (age over 55, weight loss, anaemia) need urgent upper GI endoscopy with biopsy to exclude gastric cancer; osteoporosis may reflect malabsorption (e.g. coeliac disease, for which duodenal biopsy also helps).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00891",
+   "C02091",
+   "C03049"
+  ],
+  "stem": "Which is the first-line pharmacological agent in upper GI bleeding from oesophageal varices?",
+  "options": {
+   "A": "H2 antagonists",
+   "B": "Vasopressin",
+   "C": "Octreotide",
+   "D": "Proton pump inhibitors",
+   "E": "Antacids"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A splanchnic vasoconstrictor (octreotide, or terlipressin) given before endoscopy reduces portal pressure and controls variceal bleeding. Acid suppression has no role in varices.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01526"
+  ],
+  "stem": "The treatment of choice for bleeding oesophageal varices is:",
+  "options": {
+   "A": "Balloon tamponade",
+   "B": "Sclerotherapy",
+   "C": "Band ligation",
+   "D": "Vasoconstrictor infusion alone",
+   "E": "Pro-coagulant therapy"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Endoscopic band ligation is the preferred endoscopic therapy for bleeding oesophageal varices; sclerotherapy is second choice and balloon tamponade is a temporary bridge.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00462",
+   "C01435"
+  ],
+  "stem": "A 60-year-old man with chronic liver disease presented with haematemesis. He underwent endoscopic variceal banding and is being discharged after a week. Which medication is indicated to prevent re-bleeding from oesophageal varices?",
+  "options": {
+   "A": "Amlodipine",
+   "B": "Furosemide",
+   "C": "Irbesartan",
+   "D": "Propranolol",
+   "E": "Ramipril"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Non-selective beta-blockers (propranolol, carvedilol) lower portal pressure and, with repeat banding, are standard secondary prophylaxis. Furosemide, calcium-channel blockers and ACE inhibitors or ARBs do not do this, and ACE inhibitors or ARBs are harmful in cirrhosis.",
+  "key_note": "One paper key marked furosemide in a variant of this question; correct is propranolol (non-selective beta-blocker).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00900",
+   "C03040"
+  ],
+  "stem": "Which of the following therapies is proven to reduce mortality and morbidity in bleeding peptic ulcers?",
+  "options": {
+   "A": "Endoscopic haemostasis procedures",
+   "B": "H2 antagonists",
+   "C": "Proton pump inhibitors",
+   "D": "Octreotide",
+   "E": "Antacids"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Endoscopic therapy (injection, clips, thermal) of a bleeding ulcer with stigmata reduces re-bleeding, surgery and mortality; PPIs given after endoscopic therapy help but the endoscopic procedure is the proven intervention in this question.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00895"
+  ],
+  "stem": "Which of the following has been shown to be of benefit in the emergency department in upper GI bleeding due to duodenal ulceration?",
+  "options": {
+   "A": "Antacids",
+   "B": "Proton pump inhibitors",
+   "C": "H2 antagonists",
+   "D": "Octreotide",
+   "E": "None of the above"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "The source key is none of the above: pre-endoscopy acid suppression has not been shown to improve hard outcomes, and endoscopic therapy is what matters.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00901",
+   "C03041"
+  ],
+  "stem": "Which is the most common cause of lower GI bleeding under 50 years of age?",
+  "options": {
+   "A": "Anal fissures",
+   "B": "Benign polyps",
+   "C": "Haemorrhoids",
+   "D": "Inflammatory bowel disease",
+   "E": "Diverticulosis"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Haemorrhoids are the commonest cause of fresh rectal bleeding in the young; diverticulosis is more common in the elderly.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00892"
+  ],
+  "stem": "What is the most common cause of large bowel obstruction?",
+  "options": {
+   "A": "Adhesions",
+   "B": "Neoplasms",
+   "C": "Volvulus",
+   "D": "Diverticulitis",
+   "E": "Foreign body"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Colorectal carcinoma is the commonest cause of large bowel obstruction; adhesions are the commonest cause in the small bowel.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01202"
+  ],
+  "stem": "A 22-year-old woman presents with chronic diarrhoea, weight loss and generalised weakness. Chronic diarrhoea is defined as diarrhoea lasting more than:",
+  "options": {
+   "A": "1 year",
+   "B": "1 week",
+   "C": "40 days",
+   "D": "2 weeks",
+   "E": "2 years"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Chronic diarrhoea is defined as diarrhoea lasting more than 4 weeks; 40 days is the only option that fits (2-4 weeks is persistent diarrhoea).",
+  "key_note": "Paper key marked 2 weeks; standard adult definition of chronic diarrhoea is more than 4 weeks, so 40 days is correct.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00807"
+  ],
+  "stem": "A patient presents to the emergency department with profuse watery diarrhoea and vomiting. Pulse is 100 beats/min and blood pressure is 90/50 mmHg. The most important step in management is:",
+  "options": {
+   "A": "Start antiviral therapy",
+   "B": "Oral rehydration",
+   "C": "Intravenous fluids",
+   "D": "Anti-emetics",
+   "E": "IV steroids"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "With tachycardia and hypotension the patient is volume-depleted and unable to rely on oral intake; resuscitate with intravenous fluids first.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00815"
+  ],
+  "stem": "A young male presents with profuse watery diarrhoea for one day. All of the following findings help to assess dehydration EXCEPT:",
+  "options": {
+   "A": "Tachycardia",
+   "B": "Postural hypotension",
+   "C": "Respiratory rate",
+   "D": "Skin turgor",
+   "E": "Urine output"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Pulse, postural blood pressure, skin turgor and urine output are the standard bedside markers of volume depletion; respiratory rate is not.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00810",
+   "C03045"
+  ],
+  "stem": "The danger signs of diarrhoea include which of the following?",
+  "options": {
+   "A": "More than 3 stools per day",
+   "B": "Severe hypotension",
+   "C": "Vomiting",
+   "D": "Fever",
+   "E": "Abdominal cramps"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Severe hypotension (shock) indicates severe dehydration and is a danger sign needing urgent IV fluids; stool frequency, vomiting, fever and cramps alone are not.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01141"
+  ],
+  "stem": "A 55-year-old gentleman who was treated for pneumonia with broad-spectrum antibiotics a few days back presents with bloody diarrhoea, fever and abdominal pain since last night. The most probable diagnosis is:",
+  "options": {
+   "A": "Bacillary dysentery",
+   "B": "Amoebic dysentery",
+   "C": "Inflammatory bowel disease",
+   "D": "Colonic carcinoma",
+   "E": "Clostridium difficile diarrhoea"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Antibiotic-associated colitis from C. difficile follows broad-spectrum antibiotic use, with fever, abdominal pain and diarrhoea (pseudomembranous colitis).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00899"
+  ],
+  "stem": "Which statement is FALSE?",
+  "options": {
+   "A": "Enterohaemorrhagic E. coli gastroenteritis is associated with haemolytic uraemic syndrome",
+   "B": "Giardia lamblia is usually treated with norfloxacin in adults",
+   "C": "Salmonella gastroenteritis in children can cause osteomyelitis and meningitis",
+   "D": "Campylobacter gastroenteritis has been associated with reactive arthritis",
+   "E": "Campylobacter gastroenteritis has been associated with Guillain-Barre syndrome"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Giardiasis is treated with metronidazole or tinidazole, not a quinolone. The other associations are correct.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00808"
+  ],
+  "stem": "A patient presents with loose watery stools on and off for the last 4 weeks, with blood and mucus. The most likely cause is:",
+  "options": {
+   "A": "Rotavirus diarrhoea",
+   "B": "Coeliac disease",
+   "C": "Malabsorption",
+   "D": "Lactose intolerance",
+   "E": "Inflammatory bowel disease"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Relapsing diarrhoea for more than 4 weeks with blood and mucus points to inflammatory bowel disease; viral, coeliac and lactose causes do not give blood.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01001"
+  ],
+  "stem": "A young student presents with diarrhoea without blood or mucus for 6 months and no weight loss. Baseline investigations, ultrasound abdomen and thyroid function tests are normal. The likely diagnosis is:",
+  "options": {
+   "A": "Crohn's disease",
+   "B": "Irritable bowel syndrome",
+   "C": "Ulcerative colitis",
+   "D": "Coeliac disease",
+   "E": "Thyrotoxicosis"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Chronic diarrhoea without alarm features (no blood, no weight loss) and normal investigations is functional: irritable bowel syndrome.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01523"
+  ],
+  "stem": "A 30-year-old male presents with a 3-month history of episodic diarrhoea alternating with constipation. There is no fever or weight loss, and his blood picture and liver function tests are normal. What is the diagnosis?",
+  "options": {
+   "A": "Irritable bowel syndrome",
+   "B": "Ulcerative colitis",
+   "C": "Chronic pancreatitis",
+   "D": "Coeliac disease",
+   "E": "Amoebiasis"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Alternating bowel habit without alarm features is irritable bowel syndrome, a diagnosis made by the Rome criteria.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00814"
+  ],
+  "stem": "The Rome II criteria are used for the diagnosis of which of the following diseases?",
+  "options": {
+   "A": "Inflammatory bowel disease",
+   "B": "Irritable bowel syndrome",
+   "C": "Chronic liver disease",
+   "D": "Chronic renal disease",
+   "E": "Chronic airway disease"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "The Rome criteria are symptom-based criteria for functional GI disorders, notably irritable bowel syndrome.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00456",
+   "C00480",
+   "C02345"
+  ],
+  "stem": "A 25-year-old man complains of chronic, foul-smelling, non-bloody diarrhoea and weight loss for the past year. Quantitative stool fat is 10 g/day. Duodenal biopsies show absence of villi and hyperplastic crypts. The most appropriate treatment is:",
+  "options": {
+   "A": "Segmental duodenal resection",
+   "B": "Gluten-free diet",
+   "C": "Selective vagotomy",
+   "D": "Corticosteroids",
+   "E": "Antibiotics"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Villous atrophy with crypt hyperplasia and steatorrhoea is coeliac disease, treated by lifelong gluten-free diet; steroids are reserved for refractory disease.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00811"
+  ],
+  "stem": "Which of the following is true for coeliac disease?",
+  "options": {
+   "A": "A gluten-free diet is to be started",
+   "B": "Villous hypertrophy",
+   "C": "Usually presents in old age",
+   "D": "Massive hepatomegaly",
+   "E": "Responds to corticosteroids"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "The treatment is a lifelong gluten-free diet. The mucosal lesion is villous atrophy, not hypertrophy, and steroids are only for refractory cases.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00476"
+  ],
+  "stem": "A 32-year-old lady presented with chronic abdominal discomfort and loose stools for the past 4 years. The gold standard test for diagnosis of coeliac disease is:",
+  "options": {
+   "A": "IgG anti-gliadin antibody",
+   "B": "Genetic testing for HLA-DQ2/DQ8",
+   "C": "Upper endoscopy with small bowel biopsy",
+   "D": "IgA anti-tTG antibody",
+   "E": "IgG anti-DGP antibody"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Duodenal biopsy showing villous atrophy, crypt hyperplasia and intra-epithelial lymphocytosis (on a gluten-containing diet) remains the gold standard. Serology (IgA anti-tTG) is the best screening test and HLA typing mainly excludes disease.",
+  "key_note": "Some paper keys marked HLA-DQ2/DQ8 or IgA anti-tTG; the gold standard is small bowel biopsy.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00469"
+  ],
+  "stem": "A 32-year-old woman with 4 years of chronic abdominal discomfort, bloating and loose stools has normal endoscopy and colonoscopy done 3 months ago. She started a gluten-free diet herself with marked improvement and wants to remain on it. She asks whether she has coeliac disease. Which test can best settle the diagnosis now?",
+  "options": {
+   "A": "Anti-tTG IgA antibody",
+   "B": "Anti-gliadin antibody",
+   "C": "Anti-DGP IgG antibody",
+   "D": "Genetic testing for HLA-DQ2/DQ8",
+   "E": "Upper endoscopy with small bowel biopsy"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "On a gluten-free diet serology and biopsy become falsely negative, so HLA-DQ2/DQ8 is used: its absence effectively excludes coeliac disease (presence only keeps it possible).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00998"
+  ],
+  "stem": "Removal of the entire colon would be expected to cause:",
+  "options": {
+   "A": "Megaloblastic anaemia",
+   "B": "Iron deficiency anaemia",
+   "C": "Decreased urinary urobilinogen",
+   "D": "Death",
+   "E": "Steatorrhoea"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Urobilinogen is formed by colonic bacterial reduction of bilirubin; without the colon its enterohepatic circulation and urinary excretion fall.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00746"
+  ],
+  "stem": "A 20-year-old woman at 14 weeks of gestation presents with exertional breathlessness and pallor; Hb is 9.3 g/dL and MCV 62 fL. She is started on oral ferrous sulphate. In which part of the gastrointestinal tract is iron absorbed?",
+  "options": {
+   "A": "Fundus of the stomach",
+   "B": "Pylorus of the stomach",
+   "C": "Duodenum",
+   "D": "Ileum",
+   "E": "Colon"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Dietary and oral iron is absorbed mainly in the duodenum and proximal jejunum.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00471",
+   "C00488",
+   "C02343",
+   "C02846"
+  ],
+  "stem": "Inflammatory bowel disease is associated with extra-intestinal manifestations. Which of the following is strongly associated with ulcerative colitis?",
+  "options": {
+   "A": "Blepharitis",
+   "B": "Primary sclerosing cholangitis",
+   "C": "Psoriasis",
+   "D": "Pyoderma gangrenosum",
+   "E": "Renal calculi"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "About 70% of patients with PSC have ulcerative colitis, making PSC the strongest association; pyoderma and uveitis occur but are less specific.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00460"
+  ],
+  "stem": "A 39-year-old man with diarrhoea for 2 weeks is a diagnosed case of primary sclerosing cholangitis. The disease most commonly associated with PSC is:",
+  "options": {
+   "A": "Irritable bowel syndrome",
+   "B": "Rheumatoid arthritis",
+   "C": "Systemic sclerosis",
+   "D": "Thyroid disorder",
+   "E": "Ulcerative colitis"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "PSC is associated with inflammatory bowel disease in most patients, usually ulcerative colitis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00486",
+   "C00561"
+  ],
+  "stem": "A middle-aged lady presents with crampy abdominal pain, bloody diarrhoea and red eye (uveitis). She is a smoker. The feature more suggestive of ulcerative colitis than Crohn's disease is:",
+  "options": {
+   "A": "Perianal disease",
+   "B": "Absence of gross bleeding",
+   "C": "Sparing of the rectum",
+   "D": "Sparing of the small bowel",
+   "E": "Presence of fistula"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Ulcerative colitis is confined to the colon (rectum always involved), whereas Crohn's disease can affect any part of the gut including the small bowel and causes fistulae and perianal disease.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00458"
+  ],
+  "stem": "A 54-year-old man with acute severe ulcerative colitis becomes acutely unwell with sweating and shortness of breath. Pulse is 110/min, BP 120/68 mmHg, temperature 37.7 C, respiratory rate 28/min, oxygen saturation 94% on air. Which investigation is most appropriate to lead to the diagnosis?",
+  "options": {
+   "A": "Chest X-ray",
+   "B": "CT pulmonary angiography",
+   "C": "Echocardiogram",
+   "D": "Electrocardiogram",
+   "E": "Troponin I"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Active colitis is a prothrombotic state, and acute dyspnoea with tachycardia, tachypnoea and borderline hypoxia suggests pulmonary embolism, which is confirmed by CT pulmonary angiography. A chest X-ray is a useful first test but cannot diagnose PE.",
+  "key_note": "Two papers marked chest X-ray and one marked CT pulmonary angiography; the diagnostic investigation for suspected PE is CTPA.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00478"
+  ],
+  "stem": "A 35-year-old woman has loose bloody stools; colonoscopy and rectal biopsy confirm ulcerative colitis. Which of the following can exacerbate ulcerative colitis?",
+  "options": {
+   "A": "Consumption of alcohol",
+   "B": "Smoking cigarettes",
+   "C": "Upper respiratory infection",
+   "D": "Consumption of dairy products",
+   "E": "An emotional and stressful life event"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Psychological stress is a recognised trigger of relapse. Smoking is, paradoxically, protective in ulcerative colitis (but harmful in Crohn's disease).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00470"
+  ],
+  "stem": "A 65-year-old man is diagnosed with ulcerative proctitis with four bloody motions daily; colonoscopy shows inflammation of the rectum and distal sigmoid colon. He refuses an enema and will take only a tablet. Which therapy should be recommended?",
+  "options": {
+   "A": "Prednisolone 20 mg daily",
+   "B": "Azathioprine 2 mg/kg daily",
+   "C": "Controlled-release oral 5-ASA 2-4 g/day",
+   "D": "Budesonide 9 mg daily",
+   "E": "Infliximab infusion"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Mild to moderate distal colitis is treated with 5-aminosalicylates; oral mesalazine is the choice when topical therapy is refused. Steroids, azathioprine and biologics are for non-response or severe disease.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01433"
+  ],
+  "stem": "A 29-year-old woman with ulcerative colitis has 5 days of abdominal cramps and 3-4 loose stools a day. She is vitally stable with mild abdominal tenderness; blood count and CRP are normal. What management do you suggest?",
+  "options": {
+   "A": "Arrange and transfuse blood",
+   "B": "Urgent surgical consultation for acute abdomen",
+   "C": "Omeprazole",
+   "D": "5-aminosalicylic acid",
+   "E": "Reassure and discharge without treatment"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A mild relapse of ulcerative colitis is treated by starting or optimising 5-ASA.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01524"
+  ],
+  "stem": "Which of the following is the best clinical marker of systemic toxicity (severity) in ulcerative colitis?",
+  "options": {
+   "A": "Number of motions per day",
+   "B": "Rectal bleeding",
+   "C": "Resting pulse",
+   "D": "Haemoglobin",
+   "E": "Weight loss"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "In the Truelove and Witts classification, a resting pulse above 90 beats/min (with fever, anaemia and raised ESR) marks systemic toxicity and severe colitis, whereas stool frequency and bleeding grade the bowel disease itself.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00898"
+  ],
+  "stem": "Which statement is FALSE regarding inflammatory bowel disease?",
+  "options": {
+   "A": "Crohn's disease has transmural inflammation",
+   "B": "Ulcerative colitis is mucosal inflammation only",
+   "C": "Neoplasia is more common with ulcerative colitis than Crohn's disease",
+   "D": "Total proctocolectomy is curative in both ulcerative colitis and Crohn's disease",
+   "E": "Ulcerative colitis always involves the rectum, Crohn's disease does not"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Proctocolectomy cures ulcerative colitis, but Crohn's disease recurs elsewhere in the gut after surgery, so surgery is not curative.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00487"
+  ],
+  "stem": "A 54-year-old man with Crohn's disease is admitted with increased frequency of diarrhoea (about 10/day) without blood or mucus and moderate central abdominal pain. The most appropriate treatment is:",
+  "options": {
+   "A": "Azathioprine",
+   "B": "Ciprofloxacin and metronidazole",
+   "C": "Surgery",
+   "D": "Increased dose of 5-ASA",
+   "E": "High-dose systemic steroids"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "An active moderate to severe Crohn's flare needs systemic corticosteroids to induce remission; azathioprine is maintenance and 5-ASA is of little value in Crohn's disease.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01432"
+  ],
+  "stem": "Which of the following gastrointestinal conditions gives rise to finger clubbing?",
+  "options": {
+   "A": "Acute viral hepatitis",
+   "B": "Intestinal obstruction",
+   "C": "Pancreatitis",
+   "D": "Crohn's disease",
+   "E": "Choledocholithiasis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Clubbing is associated with Crohn's disease, ulcerative colitis, coeliac disease and cirrhosis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00461"
+  ],
+  "stem": "A 60-year-old man who is a chronic alcoholic presents with general malaise and deranged liver function tests. Which clinical sign is NOT a stigma of chronic liver disease?",
+  "options": {
+   "A": "Finger clubbing",
+   "B": "Koilonychia",
+   "C": "Jaundice",
+   "D": "Palmar erythema",
+   "E": "Spider naevi"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Koilonychia is a sign of iron deficiency. Clubbing, jaundice, palmar erythema and spider naevi are recognised stigmata of chronic liver disease.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00813"
+  ],
+  "stem": "A 25-year-old known alcoholic male presents in emergency with sudden abdominal pain. The most appropriate investigation is:",
+  "options": {
+   "A": "Serum amylase",
+   "B": "Serum bilirubin",
+   "C": "Serum calcium",
+   "D": "Serum cholesterol",
+   "E": "Serum electrolytes"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Acute alcohol-related epigastric pain suggests acute pancreatitis, diagnosed by raised serum amylase (or lipase, which is more specific).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00905"
+  ],
+  "stem": "Which statement is FALSE regarding amylase and lipase in pancreatitis?",
+  "options": {
+   "A": "Lipase remains elevated longer than amylase",
+   "B": "Lipase is elevated to the same extent in alcohol and gallstone pancreatitis",
+   "C": "Amylase is elevated more in gallstone pancreatitis than in alcoholic pancreatitis",
+   "D": "Lipase is never elevated in conditions other than pancreatitis",
+   "E": "Amylase may be elevated in conditions other than pancreatitis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Lipase is more specific than amylase but can rise in other conditions such as renal failure, bowel ischaemia or perforation, so a claim of absolute specificity is false.",
+  "key_note": "Option D appeared garbled in the source (as printed it was a true statement); reworded here so it is false.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00906"
+  ],
+  "stem": "Which is NOT true of pancreatitis?",
+  "options": {
+   "A": "Alcohol is the most common cause",
+   "B": "Pain is usually severe and relieved by sitting forward",
+   "C": "Cullen's sign is blue discolouration around the umbilicus secondary to haemoperitoneum",
+   "D": "Amylase is less sensitive in alcoholic pancreatitis than gallstone pancreatitis",
+   "E": "CT will be abnormal in the vast majority, including mild disease"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Mild pancreatitis often has a normal CT; CT is mainly used for severe disease and complications. The other statements are accepted teaching.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00908"
+  ],
+  "stem": "Which is NOT part of Ranson's criteria at initial presentation?",
+  "options": {
+   "A": "Calcium < 1.9 mmol/L",
+   "B": "Age > 55",
+   "C": "WCC > 16,000",
+   "D": "LDH > 400 IU",
+   "E": "Glucose > 11 mmol/L"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "On admission Ranson's criteria are age, WCC, glucose, LDH and AST; calcium (below 2 mmol/L) is assessed at 48 hours.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00483"
+  ],
+  "stem": "A 60-year-old male presents with chronic diarrhoea and weight loss, with increased stool fat. What is the best test for diagnosing chronic pancreatitis among the following?",
+  "options": {
+   "A": "CT abdomen",
+   "B": "Serum amylase",
+   "C": "Ultrasound abdomen",
+   "D": "Serum lipase",
+   "E": "Upper GI endoscopy"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Serum enzymes are often normal in chronic pancreatitis; CT shows calcification, ductal dilatation and atrophy and is the best option here (endoscopic ultrasound or ERCP/MRCP are more sensitive in early disease).",
+  "key_note": "Some paper keys marked serum amylase; correct is CT abdomen.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00907",
+   "C03050"
+  ],
+  "stem": "The recommended antibiotics for acute cholecystitis are:",
+  "options": {
+   "A": "Ampicillin, gentamicin and metronidazole",
+   "B": "Ampicillin and gentamicin",
+   "C": "Cefotaxime alone",
+   "D": "Gentamicin and metronidazole",
+   "E": "Ampicillin and cefotaxime"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "The source key is ampicillin plus gentamicin to cover Gram-negative enteric organisms and enterococci; metronidazole is added for severe disease or anaerobic cover, and a cephalosporin is a modern alternative.",
+  "key_note": "Paper key B kept as per exam teaching; current practice favours a cephalosporin (e.g. cefotaxime or ceftriaxone) with or without metronidazole.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01030"
+  ],
+  "stem": "In jaundice, the following feature is true:",
+  "options": {
+   "A": "Bilirubin comes from white blood cells",
+   "B": "Indirect bilirubin is raised in acute hepatitis",
+   "C": "Haemolytic jaundice is not a recognised cause",
+   "D": "Cholestatic (obstructive) jaundice leads to fat malabsorption",
+   "E": "Pallor is diagnostic"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Lack of bile salts in the gut lumen in cholestasis causes steatorrhoea and fat-soluble vitamin deficiency. Bilirubin comes from red cells, and haemolysis is a recognised cause.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00484",
+   "C01852"
+  ],
+  "stem": "A 20-year-old boy presents with fever and diarrhoea for 2 days followed by yellow sclera for 1 day, with similar past episodes that resolved spontaneously. Unconjugated bilirubin is raised, conjugated bilirubin is normal, ALT/AST/ALP and reticulocytes are normal. The most probable diagnosis is:",
+  "options": {
+   "A": "Rotor syndrome",
+   "B": "Chronic hepatitis",
+   "C": "Gilbert's syndrome",
+   "D": "Dubin-Johnson syndrome",
+   "E": "Acute hepatitis"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Recurrent mild unconjugated hyperbilirubinaemia precipitated by intercurrent illness or fasting, with normal liver tests and no haemolysis, is Gilbert's syndrome.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00761"
+  ],
+  "stem": "A 22-year-old college student living in a hostel presents with malaise and jaundice for 1 week. Bilirubin is 5 mg/dL and ALT 800 U/L. Which viral serology result would you most likely expect?",
+  "options": {
+   "A": "Positive IgM HAV",
+   "B": "Positive anti-HCV",
+   "C": "Positive IgM HDV",
+   "D": "Positive IgG HEV",
+   "E": "Positive IgG HBV"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Acute hepatitis in a young hostel resident points to faeco-orally transmitted hepatitis A, diagnosed by anti-HAV IgM; IgG indicates past infection.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00464",
+   "C02353",
+   "C02805"
+  ],
+  "stem": "A girl presented with nausea, jaundice and vomiting for 5 days; anti-HAV IgM is positive. The most appropriate treatment is:",
+  "options": {
+   "A": "Antiviral therapy",
+   "B": "Liver transplant",
+   "C": "No specific treatment",
+   "D": "Protein restriction",
+   "E": "Paracentesis"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Hepatitis A is self-limiting; management is supportive (rest, fluids, nutrition) with no specific therapy.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00667"
+  ],
+  "stem": "A 22-year-old young man is diagnosed with acute hepatitis E. Which of the following antibiotics should be added to his treatment regimen?",
+  "options": {
+   "A": "Cefoperazone",
+   "B": "Metronidazole",
+   "C": "Ampicillin",
+   "D": "Cefotaxime",
+   "E": "No antibiotics are needed"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Hepatitis E is a self-limiting viral illness treated supportively, so antibiotics are not indicated.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00893"
+  ],
+  "stem": "Which statement is FALSE regarding hepatitis A?",
+  "options": {
+   "A": "It is usually mild to moderate in severity, with adults usually worse than children",
+   "B": "Chronic hepatitis does not occur",
+   "C": "Both vaccination and immunoglobulin are available",
+   "D": "It is spread by the faecal-oral route",
+   "E": "It has a high mortality in pregnant women"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "High mortality in pregnancy is a feature of hepatitis E, not hepatitis A. The other statements are correct.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00819"
+  ],
+  "stem": "Which of the following patients are at increased risk of fulminant hepatic failure following acute hepatitis A infection?",
+  "options": {
+   "A": "Pregnant women",
+   "B": "Patients with chronic hepatitis C infection",
+   "C": "Exposure to hepatitis A during infancy",
+   "D": "Patients with chronic renal failure",
+   "E": "Patients with previous HBV exposure who developed anti-HBs"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Pregnancy is the keyed risk factor in the source. Note that pre-existing chronic liver disease and older age also raise the risk, whereas infection in infancy is usually silent.",
+  "key_note": "Two options are defensible (chronic liver disease such as HCV also raises risk); the source key was pregnancy and is kept.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00817"
+  ],
+  "stem": "Which of the following is low risk for hepatitis B?",
+  "options": {
+   "A": "Health workers",
+   "B": "Patients on dialysis",
+   "C": "Intravenous drug abusers",
+   "D": "Sex workers",
+   "E": "Smokers"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Hepatitis B spreads by blood, sexual contact and perinatal routes; smoking is not a risk factor.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00477"
+  ],
+  "stem": "A 45-year-old man's serology shows HBsAg negative, anti-HBc IgM negative, anti-HBc IgG positive and anti-HBs positive. The most appropriate diagnosis is:",
+  "options": {
+   "A": "Incubation period",
+   "B": "Chronic hepatitis",
+   "C": "Post infection (recovered, immune)",
+   "D": "Convalescent phase",
+   "E": "Acute hepatitis"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Negative HBsAg and anti-HBc IgM with positive anti-HBc IgG and anti-HBs means past, resolved infection with natural immunity. (Vaccination alone gives anti-HBs only.)",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00894"
+  ],
+  "stem": "Which statement is FALSE about hepatitis C?",
+  "options": {
+   "A": "It is usually a mild acute disease",
+   "B": "The chronicity rate is very high, about 50-80%",
+   "C": "Immunoglobulin is available for contacts",
+   "D": "There is no vaccine available",
+   "E": "Treatment is symptomatic, interferon being useful for some patients"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "There is no effective immunoglobulin or vaccine for hepatitis C, so post-exposure immunoglobulin is not available.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01028"
+  ],
+  "stem": "Regarding hepatitis C:",
+  "options": {
+   "A": "It has oro-faecal transmission",
+   "B": "Progression to cirrhosis occurs in 10% of infected individuals",
+   "C": "Interferon therapy is absolutely contraindicated in liver cirrhosis",
+   "D": "It commonly presents as acute hepatitis",
+   "E": "It can be prevented by vaccination"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Hepatitis C is blood-borne, usually silent at onset, with no vaccine, and a minority (roughly 10-20% over two decades) progress to cirrhosis, making B the best option offered.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00820",
+   "C01008"
+  ],
+  "stem": "A 35-year-old female is found to have chronic HCV and is referred for evaluation. Which of the following laboratory tests is NOT required before initiating treatment with peginterferon and ribavirin?",
+  "options": {
+   "A": "Haemoglobin",
+   "B": "Thyroid stimulating hormone",
+   "C": "Pregnancy test",
+   "D": "HCV genotype",
+   "E": "Serum amylase"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Baseline Hb (ribavirin haemolysis), TSH (interferon thyroiditis), pregnancy test (ribavirin teratogenic) and genotype (guides duration) are needed. Serum amylase is not part of the work-up.",
+  "key_note": "A variant with the stem reading mandatory tests marked liver biopsy; the question is reworded as the standard not required test, and liver biopsy is not mandatory either.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00287"
+  ],
+  "stem": "A 56-year-old man presents with suspected alcoholic liver disease. Liver function tests show bilirubin 36 micromol/L, AST 150 IU/L and ALT 74 IU/L. Which parameter most likely supports the diagnosis of alcoholic liver disease?",
+  "options": {
+   "A": "Low MCV",
+   "B": "Low MCH",
+   "C": "Normal MCV",
+   "D": "Normal MCHC",
+   "E": "Raised MCV"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Alcohol causes macrocytosis (raised MCV), and AST:ALT ratio above 2 is also typical.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00909"
+  ],
+  "stem": "Which drug is NOT well known to cause acute hepatitis?",
+  "options": {
+   "A": "Isoniazid",
+   "B": "Flucloxacillin",
+   "C": "Amiodarone",
+   "D": "Chlorpromazine",
+   "E": "Cephalothin"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Isoniazid, amiodarone, flucloxacillin and chlorpromazine are well-recognised causes of drug-induced liver injury; first-generation cephalosporins rarely cause clinically significant hepatitis.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00463"
+  ],
+  "stem": "A 46-year-old lady presents with 1 week of jaundice. Past history includes atrial fibrillation and hypertension, and examination shows hepatomegaly. Bilirubin is 41 micromol/L, AST 111, ALT 55, ALP 98 IU/L. The drug most likely responsible for the deranged liver function is:",
+  "options": {
+   "A": "Aspirin",
+   "B": "Amiodarone",
+   "C": "Amlodipine",
+   "D": "Bendroflumethiazide",
+   "E": "NSAIDs"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Amiodarone, used for atrial fibrillation, is a classic cause of hepatitis and hepatomegaly.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00459"
+  ],
+  "stem": "A 50-year-old lady presents with jaundice, lethargy and polyarthralgia, with clubbing, spider naevi and hepatomegaly. Bilirubin is 46 micromol/L, AST 200, ALT 175 and ALP 104 IU/L. ANA and anti-smooth muscle antibodies (or anti-soluble liver antigen antibody) are positive. The most appropriate treatment is:",
+  "options": {
+   "A": "Antiviral therapy",
+   "B": "Ciclosporin",
+   "C": "Liver transplant",
+   "D": "Methotrexate",
+   "E": "Prednisolone"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "This is autoimmune hepatitis, which responds to prednisolone, with azathioprine added as a steroid-sparing agent.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00468"
+  ],
+  "stem": "A 38-year-old man with intermittent diarrhoea has abnormal liver tests: ALP 278 IU/L, ALT 32, bilirubin 1.1 mg/dL, hepatitis B and C serology negative, ultrasound normal. MRCP shows multiple strictures and dilatations of the intrahepatic and right and left hepatic ducts. The most likely diagnosis is:",
+  "options": {
+   "A": "Primary biliary cholangitis",
+   "B": "Primary sclerosing cholangitis",
+   "C": "Multiple stones in the common bile duct",
+   "D": "Cholangiocarcinoma",
+   "E": "Autoimmune hepatitis"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "A beaded appearance with multifocal strictures and dilatation of intra- and extrahepatic ducts in a man with probable colitis is PSC.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00654"
+  ],
+  "stem": "A 47-year-old man presents with weight gain and abdominal distension with a positive fluid thrill. Which condition CANNOT cause ascites secondary to venous hypertension?",
+  "options": {
+   "A": "Constrictive pericarditis",
+   "B": "Nephrotic syndrome",
+   "C": "Cirrhosis of the liver",
+   "D": "Congestive cardiac failure",
+   "E": "Budd-Chiari syndrome"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Nephrotic ascites arises from low plasma oncotic pressure (hypoalbuminaemia), not from raised venous or portal pressure.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01005"
+  ],
+  "stem": "The most common cause of portal hypertension is:",
+  "options": {
+   "A": "Budd-Chiari syndrome",
+   "B": "Veno-occlusive disease",
+   "C": "Schistosomiasis",
+   "D": "Cirrhosis",
+   "E": "Hepatic vein thrombosis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Cirrhosis (intrahepatic, sinusoidal block) is by far the commonest cause of portal hypertension in clinical practice.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00910"
+  ],
+  "stem": "Which of the following is a complication of hepatic cirrhosis?",
+  "options": {
+   "A": "Diabetes mellitus",
+   "B": "Hepatocellular carcinoma",
+   "C": "Thrombocytosis",
+   "D": "Chronic kidney disease",
+   "E": "Polycythaemia"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Cirrhosis predisposes to hepatocellular carcinoma. Hypersplenism causes thrombocytopenia, not thrombocytosis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00821"
+  ],
+  "stem": "Which of the following drugs is indicated to reduce mortality in a patient with portal hypertension secondary to chronic HCV infection?",
+  "options": {
+   "A": "Alpha blockers",
+   "B": "Beta blockers",
+   "C": "Loop diuretics",
+   "D": "Sucralfate",
+   "E": "Lactulose"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Non-selective beta-blockers lower portal pressure and reduce variceal bleeding and mortality.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00809"
+  ],
+  "stem": "A patient with liver disease presents with abdominal distension. Examination shows shifting dullness and mild abdominal tenderness, with no history of constipation. The likely cause is:",
+  "options": {
+   "A": "Ascites",
+   "B": "Carcinoma colon",
+   "C": "Intestinal obstruction",
+   "D": "Splenomegaly",
+   "E": "Gastrointestinal bleed"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Shifting dullness indicates free peritoneal fluid, i.e. ascites in chronic liver disease.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00914"
+  ],
+  "stem": "While giving diuretics to a patient with decompensated liver disease and massive ascites, the best measure to monitor the efficacy of diuretics is:",
+  "options": {
+   "A": "Daily ultrasound of the abdomen",
+   "B": "Erect abdominal X-ray",
+   "C": "Daily weight monitoring",
+   "D": "Blood pressure monitoring",
+   "E": "Pulse monitoring"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Daily weight is the practical measure of fluid loss; the target is 0.5 kg/day (1 kg/day with oedema).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00475",
+   "C02117"
+  ],
+  "stem": "A man with chronic liver disease presents with worsening abdominal distension; ultrasound shows ascites that is resistant to treatment. What is the first-line treatment of resistant ascites?",
+  "options": {
+   "A": "Large-volume paracentesis (with albumin)",
+   "B": "Transjugular intrahepatic portosystemic shunt",
+   "C": "Liver transplant",
+   "D": "Diuretics",
+   "E": "Peritoneovenous shunt"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "By definition resistant ascites does not respond to diuretics; the first-line treatment is repeated large-volume paracentesis with albumin cover, with TIPS and transplantation as further options.",
+  "key_note": "Paper key marked diuretics, which are by definition ineffective in resistant ascites; correct is large-volume paracentesis. The paper marked C (LeVeen shunt); correct is E, repeated therapeutic paracentesis, since LeVeen shunts are no longer used.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00912"
+  ],
+  "stem": "You are a house officer in a liver unit performing a therapeutic ascitic tap. Which complication of large-volume paracentesis should you be careful about?",
+  "options": {
+   "A": "Hypertension",
+   "B": "Hypotension",
+   "C": "Hypokalaemia",
+   "D": "Hypocalcaemia",
+   "E": "Respiratory alkalosis"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Rapid removal of ascites causes post-paracentesis circulatory dysfunction with hypotension and renal impairment, prevented by albumin infusion.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00465",
+   "C02352"
+  ],
+  "stem": "A 40-year-old female with cirrhosis due to chronic hepatitis C presents with worsening ascites, confusion, fever and abdominal pain. Ascitic fluid neutrophil count is 350 x 10^6/L. The most likely diagnosis is:",
+  "options": {
+   "A": "Hepatocellular carcinoma",
+   "B": "Portal hypertension",
+   "C": "Refractory ascites",
+   "D": "Spontaneous bacterial peritonitis",
+   "E": "Chronic viral hepatitis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "An ascitic neutrophil count of 250 cells/mm3 or more with fever and abdominal pain in a cirrhotic is diagnostic of spontaneous bacterial peritonitis.",
+  "key_note": "Some paper keys marked hepatocellular carcinoma or refractory ascites; correct is spontaneous bacterial peritonitis.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00896"
+  ],
+  "stem": "Which statement regarding spontaneous bacterial peritonitis is INCORRECT?",
+  "options": {
+   "A": "The yearly risk in patients with ascites is about 30%",
+   "B": "Diagnosis is confirmed by paracentesis with WBC > 1000/mm3 and PMN > 250/mm3",
+   "C": "Bacteria are rarely grown from ascitic fluid",
+   "D": "The most common bacteria are anaerobes",
+   "E": "Antibiotic choices include cefotaxime or ceftriaxone 2 g/day"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "SBP is mainly caused by enteric Gram-negative aerobes such as E. coli, not anaerobes; third-generation cephalosporins are first-line.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00466"
+  ],
+  "stem": "A 50-year-old man with cirrhosis due to chronic hepatitis C presents with increased confusion and reversal of sleep pattern for 1 day, with diarrhoea and fever for 2 days. The most appropriate first-line treatment is:",
+  "options": {
+   "A": "Metronidazole and fluids",
+   "B": "Syrup lactulose",
+   "C": "Liver transplant",
+   "D": "Oral rifaximin",
+   "E": "Paracentesis"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Lactulose is the first-line treatment of hepatic encephalopathy (it acidifies and clears the colon of ammonia-producing substrate), with infection screened for and treated and rifaximin added for recurrence. Protein restriction is no longer advised.",
+  "key_note": "Papers were split between lactulose and rifaximin; lactulose is first line and rifaximin is add-on. Option reworded to omit protein restriction.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00911",
+   "C02706",
+   "C03048"
+  ],
+  "stem": "Which is true of hepatic encephalopathy?",
+  "options": {
+   "A": "It only occurs in chronic hepatic failure",
+   "B": "Stage 3 consists of drowsiness and asterixis",
+   "C": "It can be due to cerebral oedema as well as accumulation of toxic wastes",
+   "D": "Lactulose use has now been shown to be the treatment of choice",
+   "E": "Ammonia levels can be used as an index of encephalopathy"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Encephalopathy occurs in acute and chronic liver failure; cerebral oedema (especially in acute failure) and toxins such as ammonia both contribute. Ammonia levels correlate poorly with severity.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00913"
+  ],
+  "stem": "The ultimate (definitive) treatment for end-stage liver cirrhosis is:",
+  "options": {
+   "A": "Omeprazole",
+   "B": "Diuretics",
+   "C": "Liver transplant",
+   "D": "Protein supplements",
+   "E": "Haemodialysis"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Liver transplantation is the only definitive treatment of decompensated end-stage cirrhosis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01006"
+  ],
+  "stem": "A common complication of acute viral hepatitis is:",
+  "options": {
+   "A": "Relapsing hepatitis",
+   "B": "Chronic liver disease and cirrhosis of liver",
+   "C": "Acute liver failure",
+   "D": "Cholestatic hepatitis",
+   "E": "Liver abscess"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "The source key was acute liver failure, the serious complication emphasised in teaching of acute viral hepatitis (especially HAV and HEV in pregnancy, and HBV).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00816"
+  ],
+  "stem": "Which of the following is a malignant liver tumour?",
+  "options": {
+   "A": "Haemangioma",
+   "B": "Adenoma",
+   "C": "Hepatoblastoma",
+   "D": "Fibroma",
+   "E": "Leiomyoma"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Hepatoblastoma is a malignant embryonal liver tumour of childhood; the others are benign.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00818",
+   "C01010"
+  ],
+  "stem": "A patient with hepatitis B infection develops resistant ascites with hepatosplenomegaly and raised alpha-fetoprotein. The likely cause is:",
+  "options": {
+   "A": "Spontaneous bacterial peritonitis",
+   "B": "GI lymphoma",
+   "C": "Hepatocellular carcinoma",
+   "D": "Budd-Chiari syndrome",
+   "E": "Liver abscess"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Chronic hepatitis B, rapid decompensation and a high AFP indicate hepatocellular carcinoma.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02339",
+   "C02581"
+  ],
+  "stem": "A 43-year-old woman is found to have iron deficiency anaemia. Upper endoscopy shows a thin horizontal membrane protruding from the anterior wall of the upper oesophagus. What is she at increased risk of?",
+  "options": {
+   "A": "Adenocarcinoma of the oesophagus",
+   "B": "Achalasia cardia",
+   "C": "Eosinophilic oesophagitis",
+   "D": "Peptic stricture",
+   "E": "Squamous cell carcinoma of the pharynx/oesophagus"
+  },
+  "answer": "E",
+  "explanation": "Iron deficiency anaemia with an upper oesophageal web is Plummer-Vinson (Paterson-Brown-Kelly) syndrome, which predisposes to squamous cell carcinoma of the hypopharynx and oesophagus. Adenocarcinoma follows Barrett's oesophagus.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02342",
+   "C02845"
+  ],
+  "stem": "A 58-year-old morbidly obese man (BMI 36) with long-standing GERD, known Barrett's oesophagus and ongoing tobacco and alcohol use presents for surveillance endoscopy. Along with GERD, what is his strongest risk factor for oesophageal adenocarcinoma?",
+  "options": {
+   "A": "Alcohol use",
+   "B": "Barrett's oesophagus",
+   "C": "Male gender",
+   "D": "Obesity",
+   "E": "Tobacco use"
+  },
+  "answer": "B",
+  "explanation": "Barrett's metaplasia is the direct premalignant lesion for oesophageal adenocarcinoma. Obesity, male sex and smoking are weaker contributory factors; alcohol is mainly linked to squamous cell carcinoma.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02113"
+  ],
+  "stem": "A 53-year-old man presents with dysphagia and 10 kg weight loss over 4 months. He is pale and has a hard knobbly enlarged liver. Endoscopy shows a fungating mass in the lower oesophagus; biopsy shows squamous cell carcinoma. Which one of the following is NOT a risk factor for this type of malignancy?",
+  "options": {
+   "A": "Coeliac disease",
+   "B": "Alcohol intake",
+   "C": "Achalasia cardia",
+   "D": "Barrett's oesophagus",
+   "E": "Cigarette smoking"
+  },
+  "answer": "D",
+  "explanation": "Barrett's oesophagus predisposes to adenocarcinoma, not squamous cell carcinoma. Alcohol, smoking and achalasia (and, weakly, coeliac disease) are associated with squamous cell carcinoma.",
+  "key_note": "The paper key marked A (coeliac disease); correct is D: Barrett's oesophagus is a risk factor for adenocarcinoma, whereas coeliac disease is a recognised (weak) risk factor for squamous cell carcinoma.",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02340"
+  ],
+  "stem": "A 55-year-old obese man with long-standing GERD and oesophagitis has severe heartburn despite the maximum dose of a proton pump inhibitor and optimised lifestyle measures. What is the next best step in management?",
+  "options": {
+   "A": "Add antacids",
+   "B": "Add H2 receptor antagonists",
+   "C": "Additional PPI for breakthrough symptoms",
+   "D": "Botulinum toxin injection",
+   "E": "Fundoplication"
+  },
+  "answer": "E",
+  "explanation": "GERD refractory to maximal PPI therapy (after other causes are excluded) is an indication for anti-reflux surgery, i.e. fundoplication. More acid suppression is unlikely to help; botulinum toxin is used in achalasia.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C01928"
+  ],
+  "stem": "A 45-year-old obese woman presents to the medical OPD with heartburn and water brash for several months. What is the first line treatment?",
+  "options": {
+   "A": "Antacids",
+   "B": "H. pylori eradication therapy",
+   "C": "Lifestyle modification",
+   "D": "Proton pump inhibitors",
+   "E": "Fundoplication"
+  },
+  "answer": "C",
+  "explanation": "In uncomplicated GERD the first step is lifestyle modification (weight loss, smaller meals, avoiding late meals, raising the head of the bed, stopping smoking and alcohol), with a PPI added if symptoms persist.",
+  "key_note": "Source stem was garbled and one option was illegible; reconstructed by reviewer (the fifth option was added).",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02348"
+  ],
+  "stem": "A 45-year-old man has intermittent dysphagia more for liquids for one month, with substernal chest pain, burning and occasional vomiting. Upper GI endoscopy shows a slightly dilated oesophagus with retained food and a tight lower oesophageal sphincter. Which investigation best confirms the diagnosis?",
+  "options": {
+   "A": "24-hour oesophageal pH monitoring",
+   "B": "Barium swallow",
+   "C": "Contrast-enhanced CT chest",
+   "D": "Endoscopic ultrasound",
+   "E": "Oesophageal manometry"
+  },
+  "answer": "E",
+  "explanation": "This is achalasia cardia. Manometry (failure of LOS relaxation with absent peristalsis) is the gold standard; barium swallow shows a bird's beak but is supportive, and pH monitoring is for GERD.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02094"
+  ],
+  "stem": "In a patient with duodenal ulcer, the abdominal pain:",
+  "options": {
+   "A": "Radiates to the right shoulder",
+   "B": "Is worsened by oily food",
+   "C": "Has no association with food intake",
+   "D": "Is relieved by small meals",
+   "E": "Is worse early in the morning only"
+  },
+  "answer": "D",
+  "explanation": "Duodenal ulcer pain is epigastric, typically comes on when hungry or at night and is relieved by food or antacids. Radiation to the right shoulder and fat intolerance suggest biliary disease.",
+  "key_note": "Not marked in the source paper; answer by reviewer. Fifth option wording adjusted by reviewer.",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C01802"
+  ],
+  "stem": "A 45-year-old man has a 3-month history of epigastric pain that is worse in the mornings and relieved by meals. He otherwise looks well. What is the most likely diagnosis?",
+  "options": {
+   "A": "Chronic pancreatitis",
+   "B": "Gastric carcinoma",
+   "C": "Gastro-oesophageal reflux disease",
+   "D": "Peptic ulcer disease",
+   "E": "Gastritis"
+  },
+  "answer": "D",
+  "explanation": "Epigastric pain relieved by meals (and worse when hungry) in an otherwise well patient is typical of duodenal peptic ulcer disease. Pancreatitis pain radiates to the back and is worsened by food.",
+  "key_note": "Source had 4 options; a fifth (gastritis) was added by reviewer.",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02088",
+   "C03043",
+   "C03225"
+  ],
+  "stem": "A 40-year-old man with epigastric burning is diagnosed with peptic ulcer disease. Which of the following is the most common cause of peptic ulcer in our patients?",
+  "options": {
+   "A": "NSAID use",
+   "B": "Alcoholism",
+   "C": "Smoking",
+   "D": "Zollinger-Ellison syndrome",
+   "E": "Stress"
+  },
+  "answer": "A",
+  "explanation": "Among the options listed, NSAID use is the commonest identifiable cause; Zollinger-Ellison syndrome is rare.",
+  "key_note": "Not marked in the source paper; answer by reviewer. Flawed question: H. pylori infection is the overall commonest cause of peptic ulcer but is not among the options.",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02090",
+   "C01000"
+  ],
+  "stem": "A patient with rheumatoid arthritis presents with haematemesis and melaena. Ultrasound shows a normal liver and spleen. He has been taking leflunomide, diclofenac and mefenamic acid for 3 months. What is the likely cause of the haematemesis?",
+  "options": {
+   "A": "Gastric carcinoma",
+   "B": "Peptic ulcer",
+   "C": "Budd-Chiari syndrome",
+   "D": "Oesophageal varices",
+   "E": "Mallory-Weiss tear"
+  },
+  "answer": "B",
+  "explanation": "Two NSAIDs for 3 months explain NSAID-induced gastric or duodenal ulceration. A normal liver and spleen make portal hypertension and varices unlikely.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C01607"
+  ],
+  "stem": "A 30-year-old woman has had on-and-off epigastric pain for 2 years that improves with antacids. On the basis of history and serological investigations a diagnosis of H. pylori associated peptic ulcer is made. What is the next step in management?",
+  "options": {
+   "A": "Upper GI endoscopy to confirm the diagnosis",
+   "B": "PPI for 10-14 days",
+   "C": "H2 receptor blocker for 10-14 days",
+   "D": "Antacids when needed",
+   "E": "H. pylori eradication therapy"
+  },
+  "answer": "E",
+  "explanation": "Once H. pylori associated ulcer disease is diagnosed the aim is cure of the infection: triple therapy (PPI plus two antibiotics) for 14 days, which heals the ulcer and prevents recurrence.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02114"
+  ],
+  "stem": "A 45-year-old woman with a duodenal ulcer was given H. pylori eradication therapy (omeprazole, metronidazole, clarithromycin) 2 weeks ago. She still has epigastric pain and the urea breath test is positive 2 weeks after starting treatment. She denies non-compliance. What is the likely reason?",
+  "options": {
+   "A": "Non-compliance",
+   "B": "Development of gastro-oesophageal reflux disease",
+   "C": "Gastric cancer",
+   "D": "Antibiotic resistance",
+   "E": "H. pylori re-infection"
+  },
+  "answer": "D",
+  "explanation": "Failure of eradication in a compliant patient is most often due to antibiotic resistance (clarithromycin and metronidazole resistance are common). Re-infection within weeks is rare.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02346"
+  ],
+  "stem": "A 37-year-old woman with epigastric pain had a positive stool H. pylori antigen. She was treated with a clarithromycin-based triple regimen and the follow-up stool antigen is still positive. What is the most appropriate rescue treatment?",
+  "options": {
+   "A": "Antibiotics based on endoscopic biopsy and culture sensitivity",
+   "B": "PPI + amoxicillin + clarithromycin + metronidazole",
+   "C": "PPI + amoxicillin + levofloxacin",
+   "D": "PPI + bismuth subsalicylate + tetracycline + metronidazole",
+   "E": "PPI + metronidazole + clarithromycin"
+  },
+  "answer": "D",
+  "explanation": "After failure of a clarithromycin-containing regimen, bismuth quadruple therapy (PPI, bismuth, tetracycline, metronidazole) is the standard rescue; levofloxacin triple is an alternative. Clarithromycin should not be repeated.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02344"
+  ],
+  "stem": "A 39-year-old woman has a one-month history of nausea and vague epigastric pain worse after meals, without weight loss, vomiting, dysphagia, haematemesis or rectal bleeding. She takes oral contraceptives and occasional ibuprofen. Examination shows mild epigastric tenderness and her CBC is normal. She is advised to stop ibuprofen and started on pantoprazole 40 mg daily. After 8 weeks her symptoms are unchanged. What is the next best step?",
+  "options": {
+   "A": "Add H2 blockers to pantoprazole",
+   "B": "Empirically treat H. pylori",
+   "C": "Endoscopy with random biopsy",
+   "D": "H. pylori serology and treatment if positive",
+   "E": "H. pylori stool antigen testing and treatment if positive"
+  },
+  "answer": "C",
+  "explanation": "Dyspepsia that persists despite 8 weeks of PPI is refractory and needs upper GI endoscopy with biopsy (to exclude ulcer or malignancy and to test for H. pylori). Test-and-treat is the first step before PPI therapy, not after PPI failure.",
+  "key_note": "One copy of the paper marked E (stool antigen); correct is C since symptoms persisted after 8 weeks of PPI.",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C01534"
+  ],
+  "stem": "A 45-year-old man presents with black coloured stools (melaena). What is the most likely cause?",
+  "options": {
+   "A": "Haemorrhoids",
+   "B": "Carcinoma of the colon",
+   "C": "Peptic ulcer",
+   "D": "Anal fissure",
+   "E": "Colitis"
+  },
+  "answer": "C",
+  "explanation": "Melaena indicates bleeding proximal to the ligament of Treitz, most commonly from a peptic ulcer. Haemorrhoids, fissure and distal colonic lesions cause fresh red blood.",
+  "key_note": "Stem was incomplete in the source (word 'stools' missing); completed by reviewer.",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C01856",
+   "C02160",
+   "C02522"
+  ],
+  "stem": "A 50-year-old patient presents in the medical OPD with a one-week history of melaena (black tarry stools). What is the most important diagnostic investigation?",
+  "options": {
+   "A": "Colonoscopy",
+   "B": "CT abdomen",
+   "C": "Ultrasound liver and spleen",
+   "D": "Upper GI endoscopy",
+   "E": "Stool for occult blood"
+  },
+  "answer": "D",
+  "explanation": "Melaena points to an upper GI source, so upper GI endoscopy is both diagnostic and potentially therapeutic. Stool occult blood adds nothing when melaena is obvious.",
+  "key_note": "Two papers asked this with slightly different options (one had stool occult blood instead of ultrasound); merged.",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02349",
+   "C01922",
+   "C02789"
+  ],
+  "stem": "A 60-year-old man with decompensated chronic liver disease due to HCV presents with two episodes of haematemesis and melaena; Hb is 9 g/dl. After initial resuscitation, what is the next step in management?",
+  "options": {
+   "A": "Balloon tamponade",
+   "B": "Blood transfusion",
+   "C": "Liver transplant",
+   "D": "TIPS",
+   "E": "Upper GI endoscopy"
+  },
+  "answer": "E",
+  "explanation": "After resuscitation (with a vasoactive drug and antibiotics) the next step is urgent endoscopy within 12 hours to confirm the source and treat varices by band ligation. Balloon tamponade and TIPS are rescue options.",
+  "key_note": "Paper keys disagreed (TIPSS in one copy, balloon tamponade in another); correct is D, urgent endoscopy with banding, with TIPS or tamponade only as rescue. Paper key marked A (balloon tamponade); correct is E: endoscopy follows resuscitation, tamponade is only for failed endoscopic control.",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C01601"
+  ],
+  "stem": "A known case of cirrhosis was admitted with an upper GI bleed, treated and discharged. Which drug will you advise to reduce the chance of future upper GI bleeding? He also has chronic persistent asthma.",
+  "options": {
+   "A": "Propranolol",
+   "B": "Octreotide (Sandostatin)",
+   "C": "Terlipressin",
+   "D": "Nitrates",
+   "E": "No drug required"
+  },
+  "answer": "D",
+  "explanation": "Non-selective beta-blockers (propranolol, nadolol, carvedilol) are the usual secondary prophylaxis but are contraindicated in asthma, so among the options a nitrate is the alternative (endoscopic band ligation is the other option). Octreotide and terlipressin are for acute bleeding only.",
+  "key_note": "One paper copy was unmarked; the copies that marked an answer chose D, which is the best option given the asthma.",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C01606"
+  ],
+  "stem": "A 23-year-old man has chronic diarrhoea, particularly when he takes milk or milk products. What is the likely diagnosis?",
+  "options": {
+   "A": "Tropical sprue",
+   "B": "Fat malabsorption",
+   "C": "Lactose intolerance",
+   "D": "Iron malabsorption",
+   "E": "Large gut diarrhoea"
+  },
+  "answer": "C",
+  "explanation": "Diarrhoea, bloating and cramps precipitated by milk is due to lactase deficiency (lactose intolerance); the undigested lactose causes osmotic diarrhoea.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C01610"
+  ],
+  "stem": "Which of the following is NOT a cause of chronic diarrhoea?",
+  "options": {
+   "A": "Whipple's disease",
+   "B": "Giardiasis",
+   "C": "Diabetic neuropathy",
+   "D": "Rotavirus",
+   "E": "Chronic pancreatitis"
+  },
+  "answer": "D",
+  "explanation": "Rotavirus causes acute self-limiting gastroenteritis. Whipple's disease, giardiasis, diabetic autonomic neuropathy and pancreatic exocrine failure all cause chronic diarrhoea.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02102"
+  ],
+  "stem": "A 20-year-old woman has had diarrhoea on and off for several months, has failed to attain appropriate weight and height, and appears anaemic. Her symptoms improved on removing gluten from her diet. What is the likely diagnosis?",
+  "options": {
+   "A": "Crohn's disease",
+   "B": "Traveller's diarrhoea",
+   "C": "Ulcerative colitis",
+   "D": "Whipple's disease",
+   "E": "Coeliac disease"
+  },
+  "answer": "E",
+  "explanation": "Chronic diarrhoea, growth failure, anaemia and response to a gluten-free diet are classic for coeliac disease.",
+  "key_note": "The source copy printed the stem tail as an option and the asterisk landed on it; the intended answer is coeliac disease.",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02099"
+  ],
+  "stem": "Which of the following is seen in the duodenal biopsy of a patient with coeliac disease?",
+  "options": {
+   "A": "Peyer's patches",
+   "B": "Villous atrophy",
+   "C": "Granulomas",
+   "D": "Metaplasia",
+   "E": "Crypt abscesses"
+  },
+  "answer": "B",
+  "explanation": "Coeliac disease shows villous atrophy with crypt hyperplasia and increased intra-epithelial lymphocytes. Granulomas suggest Crohn's disease, crypt abscesses ulcerative colitis.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02116"
+  ],
+  "stem": "A 45-year-old man has low-grade fever, arthralgia, hyperpigmentation, steatorrhoea and weight loss. Examination shows pallor, lymphadenopathy, ascites and a pericardial friction rub. Jejunal biopsy shows subtotal villous atrophy with dense infiltration of the lamina propria by PAS-positive macrophages. What is the likely diagnosis?",
+  "options": {
+   "A": "Intestinal lymphoma",
+   "B": "Intestinal pseudo-obstruction",
+   "C": "Whipple's disease",
+   "D": "Coeliac disease",
+   "E": "Tropical sprue"
+  },
+  "answer": "C",
+  "explanation": "PAS-positive foamy macrophages in the lamina propria with arthralgia, fever, lymphadenopathy and malabsorption indicate Whipple's disease (Tropheryma whipplei).",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02096"
+  ],
+  "stem": "A patient with chronic diarrhoea has a CT scan of the abdomen showing vascular engorgement of the mesentery (comb sign). What is the likely diagnosis?",
+  "options": {
+   "A": "Intestinal lymphoma",
+   "B": "Abdominal tuberculosis",
+   "C": "Coeliac disease",
+   "D": "Ulcerative colitis",
+   "E": "Crohn's disease"
+  },
+  "answer": "E",
+  "explanation": "The comb sign (engorged vasa recta) reflects active transmural inflammation of the small bowel in Crohn's disease.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C01686"
+  ],
+  "stem": "A 20-year-old girl with chronic diarrhoea has crops of intensely itchy blisters over both elbows. Skin biopsy immunofluorescence shows IgA deposition at the dermo-epidermal junction and upper GI endoscopy is planned. What would be the most likely finding on endoscopy?",
+  "options": {
+   "A": "Multiple gastric ulcerations",
+   "B": "Duodenal villous atrophy",
+   "C": "Gastric outlet obstruction",
+   "D": "Hypertrophy of gastric folds"
+  },
+  "answer": "B",
+  "explanation": "Itchy vesicles on extensor surfaces with IgA deposits in the dermal papillae is dermatitis herpetiformis, the skin manifestation of coeliac disease, so duodenal villous atrophy is expected.",
+  "key_note": "Not marked in the source paper; answer by reviewer. A stray option fragment ('Gastric atrophy') was removed; stem wording on the IgA pattern simplified by reviewer.",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C01608"
+  ],
+  "stem": "A 45-year-old man is diagnosed with ulcerative colitis. Which of the following features is associated with ulcerative colitis?",
+  "options": {
+   "A": "Transmural involvement",
+   "B": "Inflammatory process limited to the mucosa",
+   "C": "Patchy or segmental involvement",
+   "D": "Stellate or linear ulcers",
+   "E": "More common in smokers"
+  },
+  "answer": "B",
+  "explanation": "Ulcerative colitis is a continuous mucosal (and superficial submucosal) inflammation starting in the rectum. Transmural, skip lesions, linear ulcers and smoking association are features of Crohn's disease (UC is commoner in non-smokers).",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C01803"
+  ],
+  "stem": "A 30-year-old man presents with weight loss, bloody diarrhoea and tenesmus for several weeks. What is the most useful investigation?",
+  "options": {
+   "A": "Barium enema",
+   "B": "Colonoscopy",
+   "C": "CT abdomen",
+   "D": "Stool examination"
+  },
+  "answer": "B",
+  "explanation": "Bloody diarrhoea with tenesmus suggests colitis; colonoscopy (or sigmoidoscopy) with biopsy confirms the diagnosis and extent. Barium enema is contraindicated in severe colitis.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02087"
+  ],
+  "stem": "A patient is investigated for chronic diarrhoea for 6 months with blood and mucus in the stools and oral ulcers. He has lost 10 kg and appears pale. What is the appropriate next step?",
+  "options": {
+   "A": "Thyroid function tests",
+   "B": "Upper GI endoscopy",
+   "C": "Exploratory laparotomy",
+   "D": "Sigmoidoscopy / colonoscopy",
+   "E": "Barium swallow"
+  },
+  "answer": "D",
+  "explanation": "Chronic bloody mucoid diarrhoea with oral ulcers and weight loss suggests inflammatory bowel disease; colonoscopy with biopsy is the next step.",
+  "key_note": "Not marked in the source paper; answer by reviewer. Option D was written as 'sigmoido-colonoscopy'.",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02347"
+  ],
+  "stem": "A 25-year-old man presents with chronic diarrhoea with blood and mucus for 2 months and significant weight loss. Faecal calprotectin is raised. What is the most likely diagnosis?",
+  "options": {
+   "A": "Coeliac disease",
+   "B": "Intestinal tuberculosis",
+   "C": "Irritable bowel syndrome",
+   "D": "Tropical sprue",
+   "E": "Ulcerative colitis"
+  },
+  "answer": "E",
+  "explanation": "Bloody mucoid diarrhoea with raised faecal calprotectin indicates mucosal inflammation, i.e. inflammatory bowel disease, and ulcerative colitis is the best fit among the options. IBS does not cause bleeding or raised calprotectin.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C01855"
+  ],
+  "stem": "A 34-year-old woman presents with chronic diarrhoea and weight loss. Examination reveals perianal fistulas. What is the most likely diagnosis?",
+  "options": {
+   "A": "Coeliac disease",
+   "B": "Crohn's disease",
+   "C": "Ulcerative colitis",
+   "D": "Whipple's disease"
+  },
+  "answer": "B",
+  "explanation": "Perianal fistulae and abscesses are typical of Crohn's disease because of its transmural inflammation; they are not features of ulcerative colitis.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C01853"
+  ],
+  "stem": "A 27-year-old woman treated for ulcerative colitis now has a plethoric face and central obesity. Which drug is most likely responsible?",
+  "options": {
+   "A": "Azathioprine",
+   "B": "Mesalazine",
+   "C": "Prednisolone",
+   "D": "5-Aminosalicylic acid"
+  },
+  "answer": "C",
+  "explanation": "Cushingoid features (moon face, plethora, central obesity) are the side effects of prolonged systemic glucocorticoid therapy such as prednisolone.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02269"
+  ],
+  "stem": "A patient is brought to hospital with a one-day history of bloody diarrhoea. Which one of the following is the least likely diagnosis?",
+  "options": {
+   "A": "Amoebic dysentery",
+   "B": "Bacillary dysentery",
+   "C": "Cholera",
+   "D": "Inflammatory bowel disease",
+   "E": "Pseudomembranous colitis"
+  },
+  "answer": "C",
+  "explanation": "Cholera causes profuse watery rice-water stools without blood because it is a toxin-mediated secretory diarrhoea. The others can all cause bloody diarrhoea.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C01806"
+  ],
+  "stem": "A 70-year-old nursing home resident presents with bloody diarrhoea and tenesmus for 2 weeks. Sigmoidoscopy shows flask-shaped ulcers with surrounding healthy mucosa in the large intestine. What is the most likely diagnosis?",
+  "options": {
+   "A": "Amoebic dysentery",
+   "B": "Bacillary dysentery",
+   "C": "Pseudomembranous colitis",
+   "D": "Ulcerative colitis"
+  },
+  "answer": "A",
+  "explanation": "Flask-shaped (undermined) ulcers with normal intervening mucosa are the hallmark of intestinal amoebiasis (Entamoeba histolytica).",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C01602"
+  ],
+  "stem": "Which of the following organisms is associated with antibiotic-associated diarrhoea (pseudomembranous colitis)?",
+  "options": {
+   "A": "Clostridium difficile",
+   "B": "H. influenzae",
+   "C": "Streptococcus pneumoniae",
+   "D": "Staphylococcus aureus",
+   "E": "E. coli"
+  },
+  "answer": "A",
+  "explanation": "Broad-spectrum antibiotics suppress normal flora and allow overgrowth of toxin-producing Clostridium (Clostridioides) difficile, causing pseudomembranous colitis.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C01685"
+  ],
+  "stem": "A 56-year-old woman was admitted with 6 days of diarrhoea. She had recently taken amoxicillin for pneumonia and her stool culture grew Clostridium difficile. What is the drug of choice?",
+  "options": {
+   "A": "Oral vancomycin",
+   "B": "Ciprofloxacin",
+   "C": "Ampicillin",
+   "D": "Ceftriaxone",
+   "E": "Gentamicin"
+  },
+  "answer": "A",
+  "explanation": "Oral vancomycin (or fidaxomicin) is first line for C. difficile infection; oral metronidazole is used for mild cases. Ciprofloxacin and other broad-spectrum antibiotics can worsen it.",
+  "key_note": "Not marked in the source paper; answer by reviewer. The source listed only two options; three distractors were added by reviewer.",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C01621"
+  ],
+  "stem": "A 24-year-old woman presents with severe epigastric pain radiating to the back and vomiting. She is tachycardic, BP 80/60 mmHg and has epigastric tenderness. Hypertriglyceridaemia runs in her family. What is the most probable cause of her pain?",
+  "options": {
+   "A": "Acute cholecystitis",
+   "B": "Pancreatitis",
+   "C": "Gastritis",
+   "D": "Inferior wall myocardial infarction",
+   "E": "Porphyria"
+  },
+  "answer": "B",
+  "explanation": "Severe epigastric pain radiating to the back with vomiting and shock, plus familial hypertriglyceridaemia (a recognised cause), indicates acute pancreatitis.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C01638"
+  ],
+  "stem": "A 40-year-old woman with known gallstones has epigastric pain with nausea and vomiting but no fever or rigors. Liver function tests are normal and serum amylase is three times the upper limit of normal. What is the cause of her problem?",
+  "options": {
+   "A": "Alcohol excess",
+   "B": "Cholecystitis",
+   "C": "Hypercholesterolaemia",
+   "D": "Peptic ulcer",
+   "E": "Acute pancreatitis"
+  },
+  "answer": "E",
+  "explanation": "Amylase above 3 times normal with severe epigastric pain diagnoses acute pancreatitis, and gallstones are its commonest cause.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02089"
+  ],
+  "stem": "A 45-year-old man with a history of alcoholism has severe stabbing upper abdominal pain. Hb is 14 g/dl, WBC 17,000, platelets 175,000, serum amylase 630 U/l, blood sugar 156 mg/dl and liver function tests are normal. What is the likely diagnosis?",
+  "options": {
+   "A": "Irritable bowel syndrome",
+   "B": "Inflammatory bowel disease",
+   "C": "Acute pancreatitis",
+   "D": "Acute cholecystitis",
+   "E": "Coeliac disease"
+  },
+  "answer": "C",
+  "explanation": "Alcohol history, severe epigastric pain, leucocytosis and markedly raised amylase with normal LFTs indicate acute pancreatitis.",
+  "key_note": "Not marked in the source paper; answer by reviewer. Option A was garbled in the source ('inflammatory bowed syndrome'); replaced by reviewer.",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02115"
+  ],
+  "stem": "A 50-year-old man presents to A&E with severe upper abdominal pain radiating to the back, nausea and vomiting over 3 days. There is prominent epigastric tenderness but no guarding. He is hypotensive and tachycardic, the plain abdominal X-ray is unremarkable and serum amylase is elevated. What is the diagnosis?",
+  "options": {
+   "A": "Perforated peptic ulcer",
+   "B": "Acute pancreatitis",
+   "C": "Bleeding duodenal ulcer",
+   "D": "Acute intestinal ischaemia",
+   "E": "Ruptured aortic aneurysm"
+  },
+  "answer": "B",
+  "explanation": "Pain radiating to the back with raised amylase and no free gas on X-ray is acute pancreatitis. A perforated ulcer would show a rigid abdomen and free air.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02092"
+  ],
+  "stem": "A patient with a history of alcoholism has vomiting, fever and abdominal pain and is suspected to have pancreatitis. Which of the following is used to predict severity and mortality of acute pancreatitis?",
+  "options": {
+   "A": "Child-Pugh classification",
+   "B": "Dukes criteria",
+   "C": "Duckett Jones criteria",
+   "D": "Ranson's criteria",
+   "E": "Rome III criteria"
+  },
+  "answer": "D",
+  "explanation": "Ranson's (and Glasgow/Imrie) criteria predict severity and mortality in acute pancreatitis. Child-Pugh grades cirrhosis, Dukes stages colorectal cancer, Duckett Jones diagnoses rheumatic fever.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C01635"
+  ],
+  "stem": "All of the following except one are recognised causes of acute pancreatitis. Which is the exception?",
+  "options": {
+   "A": "Gallstones",
+   "B": "Mumps",
+   "C": "Hypocalcaemia",
+   "D": "Hypothermia",
+   "E": "Seat belt injury"
+  },
+  "answer": "C",
+  "explanation": "Hypercalcaemia (not hypocalcaemia) causes acute pancreatitis; hypocalcaemia is a consequence of severe pancreatitis. Gallstones, mumps, hypothermia and blunt abdominal trauma are recognised causes.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C01808"
+  ],
+  "stem": "A 48-year-old woman presents with chronic diarrhoea and weight loss. Stool fat is 10 g/24 hours and faecal elastase is low (positive for exocrine insufficiency). What is the most likely diagnosis?",
+  "options": {
+   "A": "Coeliac disease",
+   "B": "Chronic pancreatitis",
+   "C": "Tropical sprue",
+   "D": "Whipple's disease"
+  },
+  "answer": "B",
+  "explanation": "Steatorrhoea with abnormal faecal elastase indicates pancreatic exocrine insufficiency, i.e. chronic pancreatitis. Small bowel causes have normal faecal elastase.",
+  "key_note": "Source stem said 'fecal elastase is positive'; interpreted as abnormal (low) faecal elastase, the test used to show pancreatic insufficiency.",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C01641"
+  ],
+  "stem": "Which of the following is NOT a function of the liver?",
+  "options": {
+   "A": "Synthesis of clotting factors",
+   "B": "Production of vitamin K",
+   "C": "Production of glucose during fasting",
+   "D": "Storage of copper",
+   "E": "Vitamin D metabolism"
+  },
+  "answer": "B",
+  "explanation": "Vitamin K is obtained from the diet and synthesised by gut bacteria; the liver uses it for gamma-carboxylation of clotting factors but does not produce it.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02105"
+  ],
+  "stem": "Stercobilinogen is absent from the stool in which type of jaundice?",
+  "options": {
+   "A": "Haemolytic",
+   "B": "Obstructive",
+   "C": "Congenital",
+   "D": "Hepatocellular"
+  },
+  "answer": "B",
+  "explanation": "In complete biliary obstruction conjugated bilirubin cannot reach the gut, so no stercobilinogen is formed, giving pale stools and dark urine.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02093"
+  ],
+  "stem": "Which component of liver function tests is markedly elevated in obstructive jaundice?",
+  "options": {
+   "A": "Alkaline phosphatase",
+   "B": "Alanine aminotransferase",
+   "C": "Aspartate aminotransferase",
+   "D": "Prothrombin time",
+   "E": "Albumin"
+  },
+  "answer": "A",
+  "explanation": "Cholestasis produces a disproportionate rise in alkaline phosphatase (with GGT and conjugated bilirubin), whereas the transaminases are only mildly raised.",
+  "key_note": "Source stem was split in the paper and the option letters were shifted; reviewer rebuilt it with alkaline phosphatase as the best answer (direct bilirubin and GGT also rise).",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C01925"
+  ],
+  "stem": "A 16-year-old girl has intermittent jaundice without itching or abdominal pain. Indirect bilirubin is mildly raised with normal ALT, AST and ALP, the blood film and haemoglobin are normal and Coombs' test is negative. What is the treatment of choice?",
+  "options": {
+   "A": "Liver transplantation",
+   "B": "Phenobarbital",
+   "C": "Prednisolone",
+   "D": "Azathioprine",
+   "E": "No treatment is needed"
+  },
+  "answer": "E",
+  "explanation": "This is Gilbert's syndrome, a benign condition of mild unconjugated hyperbilirubinaemia that needs only reassurance.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C01546",
+   "C01531"
+  ],
+  "stem": "A 57-year-old man presents with yellow discolouration of the eyes and generalised itching. Liver function tests show bilirubin 3.2 mg/dl, ALT 60 and ALP 550. What is the likely diagnosis?",
+  "options": {
+   "A": "Acute viral hepatitis",
+   "B": "Chronic liver disease",
+   "C": "Hepatocellular carcinoma",
+   "D": "Cholestatic (obstructive) jaundice",
+   "E": "Budd-Chiari syndrome"
+  },
+  "answer": "D",
+  "explanation": "A markedly raised ALP with modest ALT and pruritus is a cholestatic pattern, i.e. obstructive jaundice.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C01634"
+  ],
+  "stem": "A 71-year-old woman has a 4-week history of weight loss and progressively worsening jaundice with pruritus. She is deeply icteric with a palpable gallbladder. What is the most likely diagnosis?",
+  "options": {
+   "A": "Chronic cholecystitis",
+   "B": "Hepatocellular carcinoma",
+   "C": "Ascending cholangitis",
+   "D": "Carcinoma of the pancreas",
+   "E": "Amoebic abscess"
+  },
+  "answer": "D",
+  "explanation": "Painless progressive jaundice with a palpable non-tender gallbladder is Courvoisier's sign, pointing to carcinoma of the head of the pancreas.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C01874"
+  ],
+  "stem": "A 73-year-old man presents with gnawing epigastric pain, severe anorexia and pruritus. He has global wasting, an epigastric mass, jaundice and a hard liver. Alkaline phosphatase is markedly raised. What is the most likely diagnosis?",
+  "options": {
+   "A": "Acute viral hepatitis",
+   "B": "Autoimmune hepatitis",
+   "C": "Gallstone disease",
+   "D": "Carcinoma of the head of the pancreas",
+   "E": "Hepatoma"
+  },
+  "answer": "D",
+  "explanation": "Epigastric pain, weight loss and obstructive jaundice with an epigastric mass and hepatic metastases indicate pancreatic head carcinoma.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02157"
+  ],
+  "stem": "A 40-year-old woman being evaluated for chronic fatigue has scratch marks and mild hepatomegaly. LFTs show bilirubin 1.8 mg/dl, ALT 501 U and ALP 900 IU/L. What is the best treatment option?",
+  "options": {
+   "A": "Antiviral drugs",
+   "B": "Azathioprine",
+   "C": "Ursodeoxycholic acid",
+   "D": "Silymarin"
+  },
+  "answer": "C",
+  "explanation": "A middle-aged woman with fatigue, pruritus and a cholestatic picture (ALP greater than ALT) is likely to have primary biliary cholangitis, treated with ursodeoxycholic acid.",
+  "key_note": "Source gave ALT 501 which is unusually high for PBC; answer kept as marked, with the cholestatic ALP-predominant picture favouring PBC.",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C01603",
+   "C02402"
+  ],
+  "stem": "A 50-year-old woman presents with fatigue, pruritus, jaundice, xanthomatous deposits around the eyes and features of chronic liver disease. What is the best diagnostic investigation to reach the suspected diagnosis?",
+  "options": {
+   "A": "ANA",
+   "B": "Anti-dsDNA",
+   "C": "cANCA",
+   "D": "Anti-mitochondrial antibodies",
+   "E": "ESR and CRP"
+  },
+  "answer": "D",
+  "explanation": "Middle-aged woman with pruritus, xanthelasma and cholestatic jaundice has primary biliary cholangitis, diagnosed by anti-mitochondrial antibodies (positive in about 95%).",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02351",
+   "C00438",
+   "C02818",
+   "C02699"
+  ],
+  "stem": "A 30-year-old woman presents with fatigue, weight loss and pruritus for 2 months. Examination shows hepatomegaly and jaundice. Tests show raised alkaline phosphatase and anti-mitochondrial antibodies (AMA). What is the most likely diagnosis?",
+  "options": {
+   "A": "Autoimmune hepatitis",
+   "B": "Cholelithiasis",
+   "C": "Hepatitis C",
+   "D": "Primary biliary cirrhosis (cholangitis)",
+   "E": "Primary sclerosing cholangitis"
+  },
+  "answer": "D",
+  "explanation": "Raised ALP with AMA positivity in a woman with pruritus is primary biliary cholangitis. PSC is pANCA positive and typically occurs with ulcerative colitis.",
+  "key_note": "The same question appeared in another paper with age 65 years; merged.",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02106"
+  ],
+  "stem": "Immunological evidence of immunity to hepatitis B is the presence of:",
+  "options": {
+   "A": "Hepatitis B core antibody",
+   "B": "Hepatitis B core antigen",
+   "C": "Hepatitis B surface antibody",
+   "D": "Hepatitis B surface antigen"
+  },
+  "answer": "C",
+  "explanation": "Anti-HBs indicates immunity, from vaccination or resolved infection. HBsAg indicates current infection; anti-HBc (IgM or IgG) marks exposure and is not protective.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C01872"
+  ],
+  "stem": "A positive IgG anti-HBs antibody test is found during a routine pre-employment examination of a 32-year-old man. What does this imply?",
+  "options": {
+   "A": "Established acute hepatitis B infection",
+   "B": "Co-infection with hepatitis D virus",
+   "C": "Incubation period of hepatitis B infection",
+   "D": "Past hepatitis B virus vaccination",
+   "E": "Chronic infection"
+  },
+  "answer": "D",
+  "explanation": "Isolated anti-HBs in a healthy person without anti-HBc indicates immunity from vaccination. Acute or chronic infection is shown by HBsAg.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02107"
+  ],
+  "stem": "Which type of hepatitis virus is a DNA virus?",
+  "options": {
+   "A": "Hepatitis A",
+   "B": "Hepatitis D",
+   "C": "Hepatitis C",
+   "D": "Hepatitis E",
+   "E": "Hepatitis B"
+  },
+  "answer": "E",
+  "explanation": "Hepatitis B is a partially double-stranded DNA hepadnavirus; A, C, D and E are RNA viruses.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02100"
+  ],
+  "stem": "A patient is incidentally found to be HBsAg positive during a routine medical examination for a job. HBeAg and HBV DNA PCR are normal (negative). What is the appropriate management?",
+  "options": {
+   "A": "Tenofovir therapy",
+   "B": "No treatment required",
+   "C": "Silymarin therapy",
+   "D": "Ribavirin therapy",
+   "E": "Interferon therapy"
+  },
+  "answer": "B",
+  "explanation": "HBsAg positive with HBeAg negative, undetectable DNA and normal ALT is the inactive carrier state, which needs no treatment but periodic monitoring.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C01529"
+  ],
+  "stem": "Vaccination is available against which of the following?",
+  "options": {
+   "A": "Hepatitis C",
+   "B": "HIV",
+   "C": "Hepatitis B",
+   "D": "Wilson's disease",
+   "E": "Haemochromatosis"
+  },
+  "answer": "C",
+  "explanation": "A recombinant hepatitis B vaccine is available (and part of the EPI schedule); there is no vaccine for hepatitis C or HIV.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C01923"
+  ],
+  "stem": "A 45-year-old surgeon repeatedly injures himself with a needle while stitching a patient with chronic hepatitis C infection. He asks whether acquisition of hepatitis C can be prevented. Which is correct?",
+  "options": {
+   "A": "Ribavirin for 1 week",
+   "B": "Lamivudine for 28 days",
+   "C": "There is no preventive method",
+   "D": "Hepatitis C vaccine",
+   "E": "Hepatitis C immunoglobulin"
+  },
+  "answer": "C",
+  "explanation": "There is no vaccine, immunoglobulin or effective post-exposure prophylaxis for hepatitis C; management is early testing and treatment with direct-acting antivirals if infection occurs.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02110"
+  ],
+  "stem": "Hepatocellular carcinoma is a complication of:",
+  "options": {
+   "A": "Hepatitis A",
+   "B": "Hepatitis C",
+   "C": "Hepatitis E",
+   "D": "Hepatitis D",
+   "E": "All of the above"
+  },
+  "answer": "B",
+  "explanation": "Chronic hepatitis B and C cause cirrhosis and HCC. Hepatitis A and E are self-limiting and do not become chronic.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C01639"
+  ],
+  "stem": "There is NO increased risk of hepatocellular carcinoma in which of the following liver problems?",
+  "options": {
+   "A": "Hepatitis A",
+   "B": "Hepatitis B",
+   "C": "Hepatitis C",
+   "D": "Alcoholic cirrhosis",
+   "E": "Aflatoxin damage"
+  },
+  "answer": "A",
+  "explanation": "Hepatitis A is acute and self-limiting with no chronic carrier state. HBV, HCV, alcoholic cirrhosis and aflatoxin all raise HCC risk.",
+  "key_note": "Source stem ended 'Alcoholic cirrhosis alone'; the option was shortened by reviewer.",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C01530"
+  ],
+  "stem": "Which tumour marker is raised in hepatocellular carcinoma?",
+  "options": {
+   "A": "Carcinoembryonic antigen",
+   "B": "Alpha-fetoprotein",
+   "C": "Oestrogen levels",
+   "D": "Prostate specific antigen",
+   "E": "Human chorionic gonadotrophin"
+  },
+  "answer": "B",
+  "explanation": "Alpha-fetoprotein is the tumour marker of hepatocellular carcinoma (CEA is colorectal, PSA prostate, hCG germ cell and trophoblastic tumours).",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02101"
+  ],
+  "stem": "A 50-year-old man with hepatitis B for 10 years has ascites not responding to diuretics. His liver is 18 cm and irregular. Which investigation is diagnostic of the cause?",
+  "options": {
+   "A": "Carcinoembryonic antigen",
+   "B": "Liver function tests",
+   "C": "CA 125",
+   "D": "Alpha-fetoprotein",
+   "E": "Complete blood counts"
+  },
+  "answer": "D",
+  "explanation": "Decompensation with a large irregular liver in chronic hepatitis B suggests hepatocellular carcinoma; a markedly raised AFP supports the diagnosis (with imaging).",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C01805"
+  ],
+  "stem": "A 15-year-old boy has a 7-day history of anorexia, vomiting and jaundice with a tender liver. GCS is 13/15. Bilirubin is 4.4 mg%, ALT 567 U/L, ALP 769 U/L, albumin 3.5 g/dl, PT 26/13 sec. What is the most likely diagnosis?",
+  "options": {
+   "A": "Acute liver failure",
+   "B": "Acute on chronic liver failure",
+   "C": "Hyperacute liver failure",
+   "D": "Subacute liver failure"
+  },
+  "answer": "C",
+  "explanation": "Jaundice-to-encephalopathy interval of less than 7 days defines hyperacute liver failure (7 days to 4 weeks is acute, more than 4 weeks subacute). He has a coagulopathy and encephalopathy within a week of illness.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C01637"
+  ],
+  "stem": "A woman in her third trimester presents with hypertension, proteinuria and oedema. She has epigastric pain, nausea and jaundice, with raised liver enzymes and low platelets. What is the best treatment?",
+  "options": {
+   "A": "Delivery",
+   "B": "Watch and wait",
+   "C": "Ursodeoxycholic acid",
+   "D": "Analgesia",
+   "E": "None of the above"
+  },
+  "answer": "A",
+  "explanation": "This is HELLP syndrome complicating severe pre-eclampsia; the definitive treatment is prompt delivery after stabilisation.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C01873"
+  ],
+  "stem": "A 44-year-old woman has mild elevation of liver transaminases on routine screening. She has no symptoms and denies alcohol or illicit drug use. Her BMI is 35 kg/m2 and serum bilirubin and gamma-GT are normal. What is the most likely explanation?",
+  "options": {
+   "A": "Alcoholic liver disease",
+   "B": "Acute hepatitis C infection",
+   "C": "Fatty liver",
+   "D": "Gilbert's syndrome",
+   "E": "Haemolytic anaemia"
+  },
+  "answer": "C",
+  "explanation": "Obesity with asymptomatic mild transaminitis and normal bilirubin and GGT is non-alcoholic fatty liver disease.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C01527"
+  ],
+  "stem": "Which of the following most typically causes marked hepatomegaly with a hard, irregular liver?",
+  "options": {
+   "A": "Chronic hepatitis B",
+   "B": "Chronic hepatitis C",
+   "C": "Alcoholic cirrhosis (end-stage)",
+   "D": "Hypothyroidism",
+   "E": "Hepatocellular carcinoma"
+  },
+  "answer": "E",
+  "explanation": "A large, hard and often irregular liver is the classic finding in hepatocellular carcinoma. Chronic viral hepatitis and late cirrhosis usually have a normal or shrunken liver.",
+  "key_note": "Question is loosely worded; the paper's marked answer (hepatocellular carcinoma) is kept.",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02112"
+  ],
+  "stem": "The most common cause of ascites is:",
+  "options": {
+   "A": "Cirrhosis",
+   "B": "Myocardial infarction",
+   "C": "Cerebral haemorrhage",
+   "D": "Cardiac failure",
+   "E": "None of the above"
+  },
+  "answer": "A",
+  "explanation": "Cirrhosis with portal hypertension accounts for about 80% of ascites.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02084"
+  ],
+  "stem": "A patient has abdominal pain and distension with ascites. The liver span is increased to 16 cm and Doppler ultrasound shows markedly reduced flow in the hepatic veins. What is the likely diagnosis?",
+  "options": {
+   "A": "Budd-Chiari syndrome",
+   "B": "Haemochromatosis",
+   "C": "Wilson's disease",
+   "D": "Crigler-Najjar syndrome",
+   "E": "Liver cirrhosis"
+  },
+  "answer": "A",
+  "explanation": "Hepatic venous outflow obstruction causes painful hepatomegaly and ascites with absent or reduced hepatic vein flow on Doppler: Budd-Chiari syndrome.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C01605",
+   "C01871"
+  ],
+  "stem": "Which of the following conditions is most likely to cause exudative ascites?",
+  "options": {
+   "A": "Cirrhosis of the liver",
+   "B": "Congestive cardiac failure",
+   "C": "Nephrotic syndrome",
+   "D": "Malignancy",
+   "E": "Portal hypertension"
+  },
+  "answer": "D",
+  "explanation": "Exudative ascites (protein above 25 g/L or SAAG below 1.1) is caused by malignancy, tuberculosis and pancreatic disease; cirrhosis, CCF, nephrotic syndrome and portal hypertension give transudates.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C01875"
+  ],
+  "stem": "A 45-year-old man with hepatitis B related cirrhosis was previously on a salt-free diet alone for ascites. He now has gross symmetrical abdominal distension with shifting dullness. What is the best way to treat him now?",
+  "options": {
+   "A": "Add diuretics",
+   "B": "Provide further education on a low-salt diet",
+   "C": "LeVeen shunt",
+   "D": "Water restriction",
+   "E": "Frequent abdominal paracentesis"
+  },
+  "answer": "A",
+  "explanation": "Ascites not controlled by sodium restriction alone is treated by adding spironolactone with or without furosemide.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02097"
+  ],
+  "stem": "You are asked to perform a diagnostic ascitic tap on an admitted patient. Which of the following is a contraindication to a diagnostic ascitic tap?",
+  "options": {
+   "A": "Coagulopathy (INR above 2)",
+   "B": "Spontaneous bacterial peritonitis",
+   "C": "Hepatitis C",
+   "D": "Hepatitis B",
+   "E": "Hepatic encephalopathy"
+  },
+  "answer": "A",
+  "explanation": "Severe coagulopathy is the only listed condition that is a (relative) concern; infection with hepatitis B or C or encephalopathy are not contraindications and suspected SBP is an indication.",
+  "key_note": "Not marked in the source paper; answer by reviewer. Strictly, even coagulopathy is only a relative contraindication for a diagnostic tap.",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C01807"
+  ],
+  "stem": "A 60-year-old man presents with low-grade fever and ascites. There is diffuse abdominal tenderness. Ascitic fluid is a transudate with 750 cells/mm3, predominantly neutrophils. What is the most likely diagnosis?",
+  "options": {
+   "A": "Malignant ascites",
+   "B": "Secondary peritonitis",
+   "C": "Spontaneous bacterial peritonitis",
+   "D": "Tuberculous ascites"
+  },
+  "answer": "C",
+  "explanation": "An ascitic neutrophil count above 250/mm3 in a cirrhotic with low-protein ascites and no surgical source is spontaneous bacterial peritonitis.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C01533"
+  ],
+  "stem": "In a patient with decompensated chronic liver disease, which dietary component should be restricted?",
+  "options": {
+   "A": "Glucose",
+   "B": "Meat",
+   "C": "Vegetables",
+   "D": "Vitamins"
+  },
+  "answer": "B",
+  "explanation": "Dietary protein (meat) is traditionally restricted in hepatic encephalopathy as it increases ammonia load, though modern guidance favours adequate protein and mainly restricts sodium.",
+  "key_note": "Standard teaching in the source key is kept; sodium restriction (not listed) is the main dietary restriction in ascites.",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C01609"
+  ],
+  "stem": "A 65-year-old woman with cirrhosis presents with fever and drowsiness. GCS is 11/15 and there is no neck stiffness. What is the likely diagnosis?",
+  "options": {
+   "A": "Hepatic encephalopathy",
+   "B": "Viral encephalitis",
+   "C": "Pyogenic meningitis",
+   "D": "Tuberculous meningitis",
+   "E": "Brain abscess"
+  },
+  "answer": "A",
+  "explanation": "A cirrhotic with drowsiness and no meningism most likely has hepatic encephalopathy, precipitated here probably by infection (fever).",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02083"
+  ],
+  "stem": "A patient has drowsiness and confused behaviour for 5 days. He is jaundiced and has a flapping tremor (asterixis) on examination of his hands. Random blood sugar is 140 mg/dl. Which investigation will help diagnose the cause of the drowsiness?",
+  "options": {
+   "A": "Serum ammonia level",
+   "B": "Carcinoembryonic antigen",
+   "C": "Serum amylase",
+   "D": "HbA1c",
+   "E": "X-ray abdomen"
+  },
+  "answer": "A",
+  "explanation": "Jaundice, confusion and asterixis indicate hepatic encephalopathy, supported by a raised serum ammonia (the diagnosis is mainly clinical).",
+  "key_note": "Not marked in the source paper; answer by reviewer. The source referred to a picture of the hands; the stem was rewritten to name the sign.",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C01640"
+  ],
+  "stem": "Which of the following would NOT be expected to precipitate encephalopathy in a patient with liver cirrhosis?",
+  "options": {
+   "A": "Constipation",
+   "B": "Gastrointestinal haemorrhage",
+   "C": "Transjugular intrahepatic portosystemic shunt (TIPS)",
+   "D": "Spontaneous bacterial peritonitis",
+   "E": "High dietary carbohydrate"
+  },
+  "answer": "E",
+  "explanation": "Constipation, GI bleeding (protein load), TIPS (shunting) and infection all precipitate encephalopathy; carbohydrate is not a precipitant.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C01854"
+  ],
+  "stem": "A 60-year-old man with decompensated liver disease is brought to the ER with altered consciousness for 2 days. BP is 110/70 mmHg, pulse 80/min. He has flapping tremors and tense ascites. Which drug needs to be withheld?",
+  "options": {
+   "A": "Lactulose",
+   "B": "Rifaximin",
+   "C": "Spironolactone",
+   "D": "Propranolol"
+  },
+  "answer": "C",
+  "explanation": "Overt encephalopathy is precipitated by diuretics (electrolyte disturbance, hypovolaemia), so spironolactone is withheld; lactulose and rifaximin are the treatment of encephalopathy.",
+  "key_note": "Propranolol is also usually stopped with hypotension or AKI, but the paper's key (spironolactone) is the standard answer.",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02286"
+  ],
+  "stem": "A patient with decompensated chronic liver disease is suspected to have hepatorenal syndrome. Which of the following is the most specific finding for confirming the diagnosis?",
+  "options": {
+   "A": "Decreased renal size",
+   "B": "Increased serum creatinine",
+   "C": "Oliguria",
+   "D": "Proteinuria",
+   "E": "Urine sodium excretion less than 10 mmol/day"
+  },
+  "answer": "E",
+  "explanation": "In hepatorenal syndrome the kidneys are structurally normal and avidly retain sodium (urine Na below 10 mmol/day) with bland urine and no significant proteinuria. Raised creatinine and oliguria are non-specific.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C01528"
+  ],
+  "stem": "Haemochromatosis is managed with which of the following?",
+  "options": {
+   "A": "Iron supplements",
+   "B": "Blood transfusion",
+   "C": "Iron chelation therapy",
+   "D": "Vitamin B12 supplements",
+   "E": "Proton pump inhibitors"
+  },
+  "answer": "C",
+  "explanation": "Iron removal is the treatment: regular venesection (phlebotomy) is first line, and chelation (desferrioxamine) is used when venesection is not possible. Of the options listed only chelation removes iron.",
+  "key_note": "Not marked in the source paper; answer by reviewer. Venesection, the treatment of choice, is not among the options.",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C01532"
+  ],
+  "stem": "The following is a manifestation of haemochromatosis:",
+  "options": {
+   "A": "Arcus senilis",
+   "B": "Nail dystrophy",
+   "C": "Kayser-Fleischer ring",
+   "D": "Papilloedema",
+   "E": "Colour blindness"
+  },
+  "answer": "C",
+  "explanation": "Kayser-Fleischer rings are the sign of Wilson disease; haemochromatosis causes bronze skin, cirrhosis, diabetes, cardiomyopathy, hypogonadism and arthropathy.",
+  "key_note": "Flawed question: none of the options is a feature of haemochromatosis (the marked Kayser-Fleischer ring belongs to Wilson disease and the question was probably mis-copied); one garbled option was replaced by reviewer.",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C01916",
+   "C00728",
+   "C01804",
+   "C02159"
+  ],
+  "stem": "A 45-year-old man presents with infertility and diabetes. He has slate-grey skin hyperpigmentation and hepatomegaly. ECG shows conduction disturbances and arrhythmia and serum aminotransferases are elevated. What is the likely diagnosis?",
+  "options": {
+   "A": "Hereditary haemochromatosis",
+   "B": "Wilson disease",
+   "C": "Thalassaemia",
+   "D": "Leishmaniasis",
+   "E": "Glycogen storage disease"
+  },
+  "answer": "A",
+  "explanation": "Skin pigmentation, diabetes, hypogonadism, cardiac involvement and hepatic disease reflect iron overload from hereditary haemochromatosis.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C01604"
+  ],
+  "stem": "A 35-year-old man has recurrent acute hepatitis of unknown cause with haemolysis, features of chronic liver disease and neurological manifestations. What does this combination most likely suggest?",
+  "options": {
+   "A": "Haemochromatosis",
+   "B": "Viral hepatitis E",
+   "C": "Wilson's disease",
+   "D": "Primary sclerosing cholangitis",
+   "E": "Primary biliary cirrhosis"
+  },
+  "answer": "C",
+  "explanation": "Hepatitis, Coombs-negative haemolysis and neuropsychiatric features in a young adult indicate Wilson's disease (copper accumulation).",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C01636",
+   "C00915",
+   "C02086"
+  ],
+  "stem": "A 26-year-old man has tremor, dysarthria and involuntary movements. He has signs of chronic liver disease and slit-lamp examination shows a greenish-brown pigment at the corneoscleral junction. What is the diagnosis?",
+  "options": {
+   "A": "Primary biliary cirrhosis",
+   "B": "Sclerosing cholangitis",
+   "C": "Wilson's disease",
+   "D": "Alpha-1 antitrypsin deficiency",
+   "E": "Alcoholic liver disease"
+  },
+  "answer": "C",
+  "explanation": "Neurological signs, liver disease and Kayser-Fleischer rings are diagnostic of Wilson's disease; confirm by low caeruloplasmin and high urinary copper.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02326"
+  ],
+  "stem": "A 20-year-old male student presents with personality change, mood swings, jaundice and hand tremors, with a family history of similar symptoms. Which metabolic disorder is he most likely to have?",
+  "options": {
+   "A": "Cystic fibrosis",
+   "B": "Haemochromatosis",
+   "C": "Hyperlipidaemia",
+   "D": "Porphyria",
+   "E": "Wilson's disease"
+  },
+  "answer": "E",
+  "explanation": "Young patient with hepatic and neuropsychiatric features and a family history is Wilson's disease, an autosomal recessive disorder of ATP7B.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02350",
+   "C02817"
+  ],
+  "stem": "A 45-year-old man presents with jaundice, dark urine and pale stools for 9 days. He has a history of heavy alcohol use and recently developed right upper quadrant pain. Bilirubin and ALT are elevated. What is the most likely diagnosis?",
+  "options": {
+   "A": "Acute hepatitis A",
+   "B": "Acute liver failure",
+   "C": "Alcoholic hepatitis",
+   "D": "Cholestasis",
+   "E": "Hepatic cirrhosis"
+  },
+  "answer": "C",
+  "explanation": "Heavy alcohol use with jaundice, tender right upper quadrant pain and raised bilirubin and transaminases is alcoholic hepatitis.",
+  "key_note": "Paper copies disagreed (E cirrhosis in one, D cholestasis in another); correct is C, alcoholic hepatitis.",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02140"
+  ],
+  "stem": "Gallstones are associated with:",
+  "options": {
+   "A": "Female sex",
+   "B": "Fat consumption",
+   "C": "Alcohol",
+   "D": "Oral contraceptive pills",
+   "E": "All of the above"
+  },
+  "answer": "E",
+  "explanation": "Female sex, obesity and high-fat diet, oral contraceptives and oestrogens are recognised risk factors for cholesterol gallstones, and alcohol and other conditions also feature in some lists.",
+  "key_note": "Not marked in the source paper; answer by reviewer. Alcohol is a weak association; 'all of the above' is the expected key.",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02085"
+  ],
+  "stem": "A patient who had enteric fever 5 days ago develops acute abdominal pain and abdominal tenderness. An erect abdominal X-ray shows free gas under the diaphragm. What is the likely diagnosis?",
+  "options": {
+   "A": "Cystitis",
+   "B": "Cholecystitis",
+   "C": "Pancreatitis",
+   "D": "Renal calculi",
+   "E": "Gut (ileal) perforation"
+  },
+  "answer": "E",
+  "explanation": "Typhoid ulceration of Peyer's patches in the terminal ileum can perforate in the second to third week, giving peritonitis and free gas under the diaphragm.",
+  "key_note": "Not marked in the source paper; answer by reviewer. The source relied on an X-ray image; the stem was rewritten to state the expected finding.",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C01687"
+  ],
+  "stem": "A 30-year-old woman presents with haematemesis. She is icteric and has a spleen palpable 5 cm below the costal margin; liver span is normal and there is no shifting dullness. Which type of blood cell is most likely to be reduced as a surrogate marker of portal hypertension?",
+  "options": {
+   "A": "Basophils",
+   "B": "Lymphocytes",
+   "C": "Neutrophils",
+   "D": "Platelets",
+   "E": "Red blood cells"
+  },
+  "answer": "D",
+  "explanation": "Portal hypertension causes congestive splenomegaly with hypersplenism, and thrombocytopenia is the earliest and most useful surrogate marker.",
+  "key_note": "Not marked in the source paper; answer by reviewer. The source stem was cut across the option list ('portal hypertension' printed as option A); repaired by reviewer.",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02694"
+  ],
+  "stem": "What is Barrett's Esophagus",
+  "options": {
+   "A": "Hyperplasia of esophageal epithelium",
+   "B": "Aplasia of esophageal epithelium",
+   "C": "Metaplasia of esophageal squamous epithelium into columnar in distal esophagus",
+   "D": "Metaplasia of esophageal columnar epithelium into squamous in distal esophagus",
+   "E": "Hypertrophy of the cells of esophageal epithelium"
+  },
+  "answer": "C",
+  "explanation": "Barrett's oesophagus is columnar (intestinal) metaplasia of the lower oesophageal squamous epithelium, a complication of chronic reflux and a premalignant lesion for adenocarcinoma.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02692"
+  ],
+  "stem": "The most common presentation of GERD is:",
+  "options": {
+   "A": "Malena",
+   "B": "Heartburn",
+   "C": "Apnea",
+   "D": "Abdominal pain",
+   "E": "Diarrhea"
+  },
+  "answer": "B",
+  "explanation": "Heartburn (retrosternal burning, worse on bending or lying) is the commonest presentation of GERD.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02835",
+   "C02849"
+  ],
+  "stem": "44-year-old obese male with retrosternal burning, meal-related, regurgitation, no vomiting, odynophagia, dysphagia. Not improved with esomeprazole. Best confirmatory investigation?",
+  "options": {
+   "A": "24-hour pH monitoring",
+   "B": "Barium swallow",
+   "C": "Contrast-enhanced CT chest",
+   "D": "Endoscopy with biopsy",
+   "E": "Esophageal manometry"
+  },
+  "answer": "D",
+  "explanation": "In an obese patient with reflux symptoms not responding to a PPI, endoscopy with biopsy is the usual first confirmatory test (oesophagitis, Barrett's, exclude other pathology); 24-hour pH monitoring is the gold standard for proving reflux when endoscopy is normal.",
+  "key_note": "Paper keys all marked D (endoscopy with biopsy); kept, though 24-hour pH monitoring is the gold standard for documenting reflux.",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02816"
+  ],
+  "stem": "A 45-year man with daily heartburn and odynophagia. Upper GI endoscopy: three mucosal tears >5 mm in lower esophagus. Optimal medical management?",
+  "options": {
+   "A": "Antacids and alginates",
+   "B": "Mucosal protective agents",
+   "C": "Gastroprokinetics",
+   "D": "H2 receptor antagonist",
+   "E": "Proton pump inhibitors"
+  },
+  "answer": "E",
+  "explanation": "Mucosal breaks >5 mm in the lower oesophagus indicate reflux oesophagitis (LA grade B); PPIs are the most effective treatment.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02524"
+  ],
+  "stem": "45-year-old gentleman presented with history of difficulty in swallowing and vomiting for last 2 months. His barium swallow shows distended stomach with a bird beak appearance at lower end, what is the most likely diagnosis?",
+  "options": {
+   "A": "Achalasia cardia",
+   "B": "Neuro degenerative disease",
+   "C": "Esophageal carcinoma",
+   "D": "Congenital esophageal webs",
+   "E": "Foreign body in esophagus"
+  },
+  "answer": "A",
+  "explanation": "A bird-beak tapering at the lower oesophagus on barium swallow with a dilated oesophagus is classical achalasia cardia.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02695"
+  ],
+  "stem": "What is the most common cause for developing gastric ulcer?",
+  "options": {
+   "A": "Smoking",
+   "B": "Spicy food",
+   "C": "Obesity",
+   "D": "H pylori infection",
+   "E": "Idiopathic"
+  },
+  "answer": "D",
+  "explanation": "H. pylori infection is the commonest cause of gastric ulcer, followed by NSAIDs; smoking and spicy food are minor.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02447"
+  ],
+  "stem": "A 47-year-old man presented in medical OPD with 3 months of epigastric pain, worst in the morning and relieved after meals. There is weight loss. On examination the abdomen is soft with moderate epigastric tenderness. Hb is 10 g/dl with MCV 80 fl. The most likely diagnosis is:",
+  "options": {
+   "A": "Gastric ulcer",
+   "B": "GERD",
+   "C": "Duodenal ulcer",
+   "D": "Gastritis",
+   "E": "Gastric carcinoma"
+  },
+  "answer": "C",
+  "explanation": "Epigastric pain relieved by meals with weight loss and mild anaemia fits duodenal ulcer. Gastric ulcer pain is classically worsened by food.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02449"
+  ],
+  "stem": "35 years old male presented in OPD with history of epigastric pain for 3 weeks. Stool was positive for H.pylori antigen. Standard triple regimen therapy against H.pylori includes",
+  "options": {
+   "A": "PPI, Clarithromycin, Metronidazole",
+   "B": "Metronidazole, Clarithromycin, Amoxicillin",
+   "C": "Metronidazole, Amoxicillin, Ceftriaxone",
+   "D": "PPI, Ceftriaxone, Metronidazole",
+   "E": "None of the above"
+  },
+  "answer": "A",
+  "explanation": "Standard triple therapy is a PPI plus clarithromycin plus amoxicillin or metronidazole for 14 days; option A is the only choice containing a PPI with two appropriate antibiotics.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02693"
+  ],
+  "stem": "Best non-invasive test for diagnosing H-pylori is?",
+  "options": {
+   "A": "Stool culture",
+   "B": "Gastric biopsy",
+   "C": "Stool R/E",
+   "D": "Urea breath test",
+   "E": "USG abdomen"
+  },
+  "answer": "D",
+  "explanation": "The urea breath test (and stool antigen) is the best non-invasive test for H. pylori; stool culture and routine stool examination are not useful.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C03053"
+  ],
+  "stem": "The following investigation is recommended in patient with recurrent peptic ulcer;",
+  "options": {
+   "A": "Vitamin B 12 levels",
+   "B": "Folic acid levels",
+   "C": "Liver function tests",
+   "D": "H. Pylori antibodies",
+   "E": "Sigmoido-colonoscopy"
+  },
+  "answer": "D",
+  "explanation": "Recurrent peptic ulcer should prompt testing for H. pylori (and treating it if present), as persistent infection is the main cause of relapse.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02933"
+  ],
+  "stem": "A 59-year-old man felt dizzy after passing a dark stool. He was treated for a sprain in his ankle and habit of taking self-medication. HR 118/min, BP 100/70, R/R 28/min. What is single most likely cause?",
+  "options": {
+   "A": "Gastritis",
+   "B": "Mallory waise tears",
+   "C": "Oesophageal varices",
+   "D": "Oesophagitis",
+   "E": "Peptic ulcer"
+  },
+  "answer": "E",
+  "explanation": "Melaena with haemodynamic compromise after NSAID self-medication points to a bleeding peptic ulcer.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C03051"
+  ],
+  "stem": "A patient with a history of rheumatoid arthritis presents with hematemesis and melaena. The likely cause of his symptoms is;",
+  "options": {
+   "A": "Gastric carcinoma",
+   "B": "Pyloric stenosis",
+   "C": "NSAID induced gastritis",
+   "D": "Methotrexate therapy",
+   "E": "Oesophageal varices"
+  },
+  "answer": "C",
+  "explanation": "NSAID-induced gastropathy is the commonest cause of upper GI bleeding in a patient with rheumatoid arthritis.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02437"
+  ],
+  "stem": "30 year old male developed bloody diarrhea for two days, about 15 stools per day and had a spike of fever (101F). What is the most appropriate treatment?",
+  "options": {
+   "A": "ORS and discharge him",
+   "B": "ORS and Loperamide and discharge him",
+   "C": "IV fluids only",
+   "D": "IV fluids and Ciprofloxacin",
+   "E": "IV fluids and PPIs"
+  },
+  "answer": "D",
+  "explanation": "Bloody diarrhoea with high stool frequency and fever is dysentery with significant dehydration; give IV fluids and an antibiotic such as ciprofloxacin. Loperamide is avoided in invasive diarrhoea.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02448"
+  ],
+  "stem": "A 45 years old factory worker presented with 1 year history of weight loss and off and on diarrhea. His Hb was 8.5 g/dl with normal TLC and platelets, ESR 80mm. Barium studies revealed smooth narrowing on ileocecal junction. Likely diagnosis is",
+  "options": {
+   "A": "IBD",
+   "B": "IBS",
+   "C": "Ileocecal Tuberculosis",
+   "D": "Malabsorption",
+   "E": "Ileocecal Malignancy"
+  },
+  "answer": "A",
+  "explanation": "Chronic diarrhoea, weight loss, anaemia and high ESR with ileocaecal narrowing suggests Crohn's disease per the paper key; ileocaecal TB is the main differential in Pakistan.",
+  "key_note": "Paper marked IBD (Crohn's); ileocaecal tuberculosis is a close differential in our setting.",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02813"
+  ],
+  "stem": "A male presents with chronic bloody diarrhea for 7 months. Fatigue and weight loss present. Hb 10.2, MCV 68, WCC 9800, ESR 65, CRP 24.5, stool calprotectin 980. Next investigation?",
+  "options": {
+   "A": "Contrast enhanced CT abdomen",
+   "B": "Double contrast barium enema",
+   "C": "Colonic biopsy",
+   "D": "Technetium labeled RBC scan",
+   "E": "Duodenal biopsy"
+  },
+  "answer": "C",
+  "explanation": "Chronic bloody diarrhoea with raised calprotectin and CRP suggests IBD; colonoscopy with biopsy is the next investigation to confirm and classify it.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02691"
+  ],
+  "stem": "The most important factor in predicting development of carcinoma in ulcerative colitis is",
+  "options": {
+   "A": "Duration of disease",
+   "B": "Chronic course of multiple remissions",
+   "C": "Total length of colon involved",
+   "D": "The amount of Blood in stool",
+   "E": "Alcoholism"
+  },
+  "answer": "A",
+  "explanation": "The risk of colorectal carcinoma in ulcerative colitis rises with disease duration (from about 8-10 years) and with extent of colitis; duration is the key factor.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02696"
+  ],
+  "stem": "Which is not an extra-abdominal manifestation of inflammatory bowel disease?",
+  "options": {
+   "A": "Erythema marginatum",
+   "B": "Ankylosing spondylitis",
+   "C": "Episcleritis",
+   "D": "Thromboembolic disease",
+   "E": "Sacroiliitis"
+  },
+  "answer": "A",
+  "explanation": "Erythema nodosum, not erythema marginatum (a feature of rheumatic fever), is the skin manifestation of IBD; spondyloarthropathy, sacroiliitis, episcleritis and thromboembolism are recognised.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C03052"
+  ],
+  "stem": "A 35-year-male is being investigated for chronic diarrhoea. He is found to have aphthous ulcers, pyoderma gangrenosum, erythema nodosum and arthritis as extraintestinal manifestations; Likely diagnosis is;",
+  "options": {
+   "A": "Ulcerative colitis",
+   "B": "Carcinoma colon",
+   "C": "Intestinal lymphoma",
+   "D": "Autoimmune deficiency syndrome",
+   "E": "Crohn’s disease"
+  },
+  "answer": "E",
+  "explanation": "Aphthous ulcers, pyoderma gangrenosum, erythema nodosum and arthritis in chronic diarrhoea favour Crohn's disease.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C03046",
+   "C03227"
+  ],
+  "stem": "Which is true regarding Crohn's disease?",
+  "options": {
+   "A": "Perianal complications occur in 50% of patients.",
+   "B": "Massive GI bleeding is common and often life-threatening",
+   "C": "Toxic megacolon occurs in 6% but almost never perforates.",
+   "D": "There is no increased risk of neoplasm of GI tract unlike ulcerative colitis.",
+   "E": "The majority of patients will not require surgery throughout their illness."
+  },
+  "answer": "A",
+  "explanation": "Perianal disease (fissures, fistulae, abscesses) affects about half of Crohn's patients; most eventually need surgery, GI neoplasm risk is increased and bleeding is seldom massive.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02523"
+  ],
+  "stem": "37-year-old lady presented in medical OPD with history of recurrent oral ulcers along with gastrointestinal symptoms for last 3 months. Which of the following is frequently associated with oral ulcers?",
+  "options": {
+   "A": "Peptic ulcer disease",
+   "B": "Gastroesophageal reflux disease",
+   "C": "Inflammatory bowel disease",
+   "D": "Irritable bowel syndrome",
+   "E": "Diverticular disease"
+  },
+  "answer": "C",
+  "explanation": "Recurrent oral aphthous ulcers with GI symptoms are most frequently associated with inflammatory bowel disease (Crohn's); coeliac disease is another association.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02719"
+  ],
+  "stem": "A 67-year-old develops profuse watery diarrhoea and fever 7 days after finishing clindamycin for cellulitis. WBC 19x10^9/L; creatinine 160 umol/L; stool culture negative for enteric pathogens. What is the single most likely diagnosis?",
+  "options": {
+   "A": "Viral gastroenteritis",
+   "B": "Salmonella enteritis",
+   "C": "Clostridioides difficile infection",
+   "D": "Giardia lamblia",
+   "E": "Ischaemic colitis"
+  },
+  "answer": "C",
+  "explanation": "Watery diarrhoea with fever, leucocytosis and raised creatinine after clindamycin, with negative stool culture, is Clostridioides difficile infection (confirm by toxin/PCR).",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02757"
+  ],
+  "stem": "An adult woman from Rawalpindi presents with chronic constipation for the past 6 months, with straining and a sensation of incomplete evacuation. Her diet is adequate in fibre and she drinks sufficient water. She has hypertension and takes amlodipine and atenolol. What is the most likely contributing factor?",
+  "options": {
+   "A": "hypothyroidism",
+   "B": "medication side effects",
+   "C": "colorectal cancer",
+   "D": "Irritable bowel syndrome",
+   "E": "low physical activity"
+  },
+  "answer": "B",
+  "explanation": "Calcium channel blockers such as amlodipine commonly cause constipation (beta blockers can contribute); review the drug history first.",
+  "key_note": "Age in the source was garbled ('10 year old woman'); stem rewritten.",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02446"
+  ],
+  "stem": "A 33 year old man, smoker, presented with 1 week history of persistent vomiting, anorexia, malaise and yellowness of the eyes. Likely diagnosis is",
+  "options": {
+   "A": "Obstructive Jaundice",
+   "B": "Wilson's disease",
+   "C": "Pre-hepatic Jaundice",
+   "D": "Reye's Syndrome",
+   "E": "Acute Viral Hepatitis"
+  },
+  "answer": "E",
+  "explanation": "Anorexia, vomiting, malaise and jaundice over a week in a young adult is acute viral hepatitis.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C03047"
+  ],
+  "stem": "A 30-year-patient presents with 07 days history of yellow discoloration of eyes, anorexia, nausea and easy bruisability. He is suspected to have acute viral hepatitis. Likely cause may be?",
+  "options": {
+   "A": "Wilson’s disease",
+   "B": "Hepatitis B",
+   "C": "Hepatitis C",
+   "D": "Hepatitis A",
+   "E": "Hepatitis D"
+  },
+  "answer": "D",
+  "explanation": "Acute viral hepatitis with jaundice and anorexia in a young adult is most commonly hepatitis A; Wilson's disease is not a typical cause of acute hepatitis in this setting.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02530"
+  ],
+  "stem": "In the causes of Acute Hepatitis, pick up the commonest cause:",
+  "options": {
+   "A": "Viral hepatitis.",
+   "B": "Toxic hepatitis due to drugs.",
+   "C": "Non-alcoholic steato-hepatitis (NASH).",
+   "D": "Alcoholic hepatitis.",
+   "E": "Autoimmune diseases."
+  },
+  "answer": "A",
+  "explanation": "Viral infection is the commonest cause of acute hepatitis worldwide and in Pakistan (A, B, E and C).",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02528"
+  ],
+  "stem": "Which statement does NOT favor Acute Hepatitis?",
+  "options": {
+   "A": "It is Hepatocellular jaundice.",
+   "B": "Prodromal features have lot of nausea and vomiting.",
+   "C": "Fever seen in the prodromal phase.",
+   "D": "History of recurrent biliary colic.",
+   "E": "Markedly raised S ALT and AST."
+  },
+  "answer": "D",
+  "explanation": "Recurrent biliary colic points to gallstone disease and obstructive jaundice, not acute hepatitis.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02532"
+  ],
+  "stem": "Which of the following Liver function tests will be seen in \"Acute Hepatitis\"?",
+  "options": {
+   "A": "Hyperbilirubinemia with normal Serum ALT.",
+   "B": "Hyperbilirubinemia with raised serum ALT.",
+   "C": "Hyperbilirubinemia with normal Serum ALT & raised ALP.",
+   "D": "Hyperbilirubinemia of the unconjugated type.",
+   "E": "Hyperbilirubinemia of the conjugated type."
+  },
+  "answer": "B",
+  "explanation": "Acute hepatitis causes conjugated hyperbilirubinaemia with markedly raised ALT/AST (hepatocellular picture).",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02529"
+  ],
+  "stem": "Pick up the statement indicating bad prognosis in Acute Hepatitis.",
+  "options": {
+   "A": "Severe vomiting leading to dehydration in prodromal phase.",
+   "B": "Tender hepatomegaly with deep jaundice.",
+   "C": "Disturbed mental state a week after the onset of jaundice.",
+   "D": "Pruritis occurring during the course of jaundice.",
+   "E": "Hepatitis E in a non-pregnant female."
+  },
+  "answer": "C",
+  "explanation": "Encephalopathy (altered mental state) after the onset of jaundice indicates acute liver failure and a bad prognosis.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02704",
+   "C03055"
+  ],
+  "stem": "A 20-year-male presents with yellow discoloration of sclera for 5 days. He denies any past significant history. Which of the following is a cause of acute hepatitis?",
+  "options": {
+   "A": "Wilson’s disease",
+   "B": "Hemochromatosis",
+   "C": "Glycogen storage diseases",
+   "D": "Autoimmune hepatitis",
+   "E": "Cytomegalovirus"
+  },
+  "answer": "E",
+  "explanation": "Cytomegalovirus is an infective cause of acute hepatitis; Wilson's disease, haemochromatosis and glycogen storage disease are metabolic, and autoimmune hepatitis is usually chronic.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C03054"
+  ],
+  "stem": "Which of the following is a cause of conjugated hyperbilirubinemia?",
+  "options": {
+   "A": "Sepsis",
+   "B": "Viral hepatitis",
+   "C": "Congestive cardiac failure",
+   "D": "Neonatal jaundice",
+   "E": "Gilbert’s syndrome"
+  },
+  "answer": "B",
+  "explanation": "Viral hepatitis causes conjugated (hepatocellular and cholestatic) hyperbilirubinaemia; Gilbert's syndrome and neonatal jaundice are unconjugated.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02878"
+  ],
+  "stem": "A 15-year boy presented in OPD with nausea and anorexia for 3 days and fever for 2 days. On examination he is jaundiced. Hepatitis A serology for IgM is positive. What complication can he develop with this condition?",
+  "options": {
+   "A": "Autoimmune hepatitis",
+   "B": "Chronic liver disease",
+   "C": "Esophageal varices",
+   "D": "Fulminant hepatic failure",
+   "E": "Hepatocellular carcinoma"
+  },
+  "answer": "D",
+  "explanation": "Hepatitis A rarely causes fulminant hepatic failure (about 0.1-0.5%), and never chronic liver disease or carcinoma.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02721"
+  ],
+  "stem": "A 24-year-old at 32 weeks' gestation presents with a week of fever, malaise, and jaundice. ALT 1,500 IU/L; INR 2.0; no encephalopathy at presentation. She drank untreated water during floods. HBsAg negative; anti-HEV IgM positive. What is the single most likely diagnosis?",
+  "options": {
+   "A": "Hepatitis A",
+   "B": "Hepatitis B",
+   "C": "Drug-induced liver injury",
+   "D": "Acute hepatitis E infection in pregnancy",
+   "E": "Autoimmune hepatitis"
+  },
+  "answer": "D",
+  "explanation": "Hepatitis E (faeco-oral, flood water) is severe in pregnancy with a high risk of fulminant failure; IgM anti-HEV confirms it.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02700"
+  ],
+  "stem": "A patient presents with jaundice: which of the following hepatitis frequently leads to fulminant hepatic failure;",
+  "options": {
+   "A": "Hepatitis A",
+   "B": "Hepatitis C",
+   "C": "Hepatitis D",
+   "D": "Hepatitis E",
+   "E": "Hepatitis B"
+  },
+  "answer": "E",
+  "explanation": "Hepatitis B, especially with delta co-infection, is the commonest viral cause of fulminant hepatic failure among the options; hepatitis C very rarely causes it.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02711"
+  ],
+  "stem": "A 26-year-old for premarital screening: HBsAg positive, anti-HBc IgM positive, anti-HBs negative, ALT mildly elevated. What does this serology most likely indicate?",
+  "options": {
+   "A": "Resolved past infection",
+   "B": "Immunity from vaccination",
+   "C": "Chronic infection",
+   "D": "Window period",
+   "E": "Acute hepatitis B infection"
+  },
+  "answer": "E",
+  "explanation": "HBsAg with IgM anti-HBc and no anti-HBs indicates acute hepatitis B; in chronic infection IgM anti-HBc is negative.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02701"
+  ],
+  "stem": "A nurse with HBsAg positive, HBcAb IgG positive and HBeAg negative. What is most likely diagnosis?",
+  "options": {
+   "A": "Chronic active Hepatitis",
+   "B": "Carrier state",
+   "C": "Treated patient",
+   "D": "Vaccinated patient",
+   "E": "Highly infectious patient"
+  },
+  "answer": "B",
+  "explanation": "HBsAg positive with anti-HBc IgG and HBeAg negative indicates the inactive carrier state (low replication); IgM anti-HBc would be expected in acute infection.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02496"
+  ],
+  "stem": "A 40-year-patient scheduled for molar extraction. Which screening test you will order to rule out Hepatitis B",
+  "options": {
+   "A": "Bleeding time.",
+   "B": "Prothrombin time.",
+   "C": "Blood test for HBsAg.",
+   "D": "Hepatitis B e antigen.",
+   "E": "PCR for Hepatitis B."
+  },
+  "answer": "C",
+  "explanation": "HBsAg is the screening test for hepatitis B infection.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02505"
+  ],
+  "stem": "A 45-year-male presents with jaundice. His liver is found to be 5 cm with an enlarged spleen. and is diagnosed to have chronic hepatitis. Following can lead to Chronic Hepatitis in majority of cases'",
+  "options": {
+   "A": "Hepatitis A viral infection.",
+   "B": "Hepatitis B viral infection.",
+   "C": "Anti Tuberculous therapy related hepatitis.",
+   "D": "Hepatitis C virus infection.",
+   "E": "Hepatitis E in a pregnant female."
+  },
+  "answer": "D",
+  "explanation": "Hepatitis C becomes chronic in about 75-85% of cases, far more than hepatitis B in adults (5-10%); hepatitis A and E never cause chronic hepatitis.",
+  "key_note": "Paper key marked B (Hepatitis B); correct is D: hepatitis C leads to chronic hepatitis in the majority of cases.",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02451"
+  ],
+  "stem": "50 years old female presented in OPD with low grade fever and generalized body aches. On investigation, anti-HCV AB was positive. What will be the most diagnostic test?",
+  "options": {
+   "A": "HCV RNA",
+   "B": "Blood CP",
+   "C": "LFTs",
+   "D": "U/S abdomen",
+   "E": "Stool R/E"
+  },
+  "answer": "A",
+  "explanation": "A positive anti-HCV only shows exposure; HCV RNA by PCR confirms active infection and guides treatment.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02450"
+  ],
+  "stem": "A woman presented in OPD with abdominal distension for 2 months. On examination she had palmar erythema, spider naevi, moderate ascites and splenomegaly. Ultrasound showed a coarse liver and dilated portal vein. The most common cause of cirrhosis in Pakistan is:",
+  "options": {
+   "A": "Hepatitis D",
+   "B": "Hepatitis C",
+   "C": "Hepatitis B",
+   "D": "Hepatitis E",
+   "E": "Cytomegalovirus"
+  },
+  "answer": "B",
+  "explanation": "Hepatitis C is the commonest cause of cirrhosis in Pakistan, followed by hepatitis B.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02354"
+  ],
+  "stem": "A 50-year woman is found to have elevated aminotransferases and a fatty liver on imaging.She is obese and has type 2 diabetes mellitus. What is the most appropriate initial approach?",
+  "options": {
+   "A": "Antiviral medication",
+   "B": "Hepatitis virus screening",
+   "C": "Insulin therapy",
+   "D": "Liver biopsy",
+   "E": "Lifestyle modification"
+  },
+  "answer": "E",
+  "explanation": "Lifestyle modification (weight loss, exercise, diet) is the first-line treatment of NAFLD/NASH; there is no role for antivirals.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02961"
+  ],
+  "stem": "A 52-year-old woman is diagnosed with non-alcoholic steatohepatitis following a liver biopsy. What is the single most important step to help prevent the progression of her disease?",
+  "options": {
+   "A": "Stop smoking",
+   "B": "Start statin therapy",
+   "C": "Eat more omega-3 fatty acids",
+   "D": "Start sulfonylurea therapy",
+   "E": "Weight loss"
+  },
+  "answer": "E",
+  "explanation": "Weight loss (7-10% of body weight) with diet and exercise is the key measure to halt progression of NASH.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C03060",
+   "C03228"
+  ],
+  "stem": "A young patient presents as a follow-up case of fatty liver. He reports that he feels dragging sensation in right hypochondrium. Initially, the liver span can be measured in usual practice by;",
+  "options": {
+   "A": "Clinical examination of liver",
+   "B": "MRI of liver without contrast",
+   "C": "X ray abdomen arrect and supine",
+   "D": "Laparoscopy procedure",
+   "E": "CT scan abdomen with contrast"
+  },
+  "answer": "A",
+  "explanation": "Liver span is measured in routine practice by clinical examination (percussion and palpation); imaging is used only when needed.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02525"
+  ],
+  "stem": "A 56-year-old lady presents to you with the history of progressive abdominal distention, oedema feet, generalized weakness and multiple episodes of hematemesis. Her examination showed ascites and splenomegaly, her JVP was not raised. Ascitic fluid R/E showed transudative ascites, what is the most likely cause of her presentation?",
+  "options": {
+   "A": "Cirrhosis of liver",
+   "B": "Tuberculosis",
+   "C": "GI malignancy",
+   "D": "Cardiac failure",
+   "E": "Constrictive pericarditis"
+  },
+  "answer": "A",
+  "explanation": "Transudative ascites with splenomegaly, haematemesis (varices) and a normal JVP indicates portal hypertension from cirrhosis; cardiac causes would show a raised JVP.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02702"
+  ],
+  "stem": "Portal Hypertension is caused by all of the following except",
+  "options": {
+   "A": "Alcoholic cirrhosis",
+   "B": "Post-necrotic cirrhosis",
+   "C": "Budd-Chiari syndrome",
+   "D": "Portal venous thrombosis",
+   "E": "Amoebic abscess"
+  },
+  "answer": "E",
+  "explanation": "Amoebic liver abscess does not cause portal hypertension; cirrhosis, Budd-Chiari syndrome and portal vein thrombosis do.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02768"
+  ],
+  "stem": "A 55 year old man from hyderabad with a known history of hepatitis c presents with progressive abdominal distension and discomfort. He reports early satiety and difficulty breathing while lying flat. on examination he has shifting dullness, pedal edema, mild jaundice. Ultrasound confirms presence of Ascites & nodular liver. SAAG ratio is calculated To be >1.1g/dl, what is most likely underlying cause?",
+  "options": {
+   "A": "TB peritonitis",
+   "B": "Pancreatic cancer",
+   "C": "Nephrotic syndrome",
+   "D": "Portal Hypertension due to cirrhosis",
+   "E": "congestive heart failure"
+  },
+  "answer": "D",
+  "explanation": "SAAG >1.1 g/dl indicates portal hypertension; with hepatitis C and a nodular liver the cause is cirrhosis.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C03058"
+  ],
+  "stem": "A patient with liver cirrhosis and ascites as admitted in your ward. Which of the following statements is correct regarding the diagnostic ascitic tap?",
+  "options": {
+   "A": "It is performed under general anaesthesia",
+   "B": "Approx. 3 litres of ascitic fluid is aspirated",
+   "C": "Can be performed safely in a patient with platelets < 10,000",
+   "D": "Is performed through umbilicus",
+   "E": "Can be used to calculate SAAG ratio"
+  },
+  "answer": "E",
+  "explanation": "Diagnostic paracentesis is done under local anaesthesia with a small sample and is used to calculate SAAG, cell count and culture.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02814"
+  ],
+  "stem": "A 45-year male, known case of chronic liver disease secondary to HCV, presents with worsening ascites, fever, and abdominal pain. US: coarse shrunken liver, splenomegaly, gross free fluid. Labs: Hb 10.5, WCC 16000, platelets 122000, PT 18 sec, INR 1.4. Next investigation to establish diagnosis?",
+  "options": {
+   "A": "Ascitic fluid R.E and C/S",
+   "B": "Blood culture and sensitivity",
+   "C": "PCR for HCV RNA",
+   "D": "Renal function test",
+   "E": "Triphasic CT abdomen"
+  },
+  "answer": "A",
+  "explanation": "Fever, abdominal pain and ascites in a cirrhotic suggest SBP; diagnostic paracentesis with fluid cell count and culture is the next investigation.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C03039"
+  ],
+  "stem": "A 45-year-patient with liver disease presents with history of abdominal distension, pain abdomen and fever. There is no history of constipation. On examination you notice shifting dullness and mild tenderness in abdomen, liver is 5 cm in size, spleen is enlarged and bowel sounds are positive. Likely cause is;",
+  "options": {
+   "A": "Spontaneous bacterial peritonitis",
+   "B": "CA colon with ascites",
+   "C": "Intestinal obstruction",
+   "D": "Obstructed abdominal hernia",
+   "E": "Acute appendicitis"
+  },
+  "answer": "A",
+  "explanation": "Fever, abdominal pain and tender ascites in a patient with chronic liver disease is spontaneous bacterial peritonitis until proven otherwise.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02404"
+  ],
+  "stem": "A 60-year-old woman diagnosed case of DCLD secondary to HCV presented in E.R with complaint of worsening of abdominal distension, abdominal pain and fever from last 3 days. Abdominal examination revealed generalized tenderness and distended abdomen with positive shifting dullness. Ascitic fluid analysis reveals a diagnosis of Spontaneous Bacterial Peritonitis. Which of the following organism is the most likely cause?",
+  "options": {
+   "A": "Escherichia Coli",
+   "B": "Staphylococcus Aureus",
+   "C": "Streptococcus pneumoniae",
+   "D": "Pseudomonas",
+   "E": "Enterobacteriaceae"
+  },
+  "answer": "A",
+  "explanation": "E. coli is the commonest cause of SBP, followed by Klebsiella and Streptococcus pneumoniae.",
+  "key_note": "Age in the source was garbled ('6 year old'); stem corrected to 60 years.",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02705"
+  ],
+  "stem": "A 40-year-male is diagnosed with chronic Hepatitis C with liver cirrhosis. Which complication of hepatic cirrhosis is investigated by measuring alpha fetoprotein levels?",
+  "options": {
+   "A": "Spontaneous bacterial peritonitis.",
+   "B": "Hepatocellular carcinoma.",
+   "C": "Thrombocytopenia.",
+   "D": "Portal hypertension.",
+   "E": "Portal vein thrombosis."
+  },
+  "answer": "B",
+  "explanation": "Alpha-fetoprotein with ultrasound is used for hepatocellular carcinoma surveillance in cirrhosis.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02355",
+   "C02806"
+  ],
+  "stem": "A 70-year man presents in OPD with jaundice, dark urine, and abdominal distention for last 20 days. His medical history includes non-alcoholic fatty liver disease and recent weight loss.Laboratory tests indicate a high serum alpha-fetoprotein level. What is the most concerning possibility in this patient?",
+  "options": {
+   "A": "Cholangiocarcinoma",
+   "B": "Fatty liver disease progression",
+   "C": "Hemochromatosis",
+   "D": "Hepatitis B infection",
+   "E": "Hepatocellular carcinoma"
+  },
+  "answer": "E",
+  "explanation": "Raised AFP with jaundice, weight loss and background chronic liver disease points to hepatocellular carcinoma.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02697"
+  ],
+  "stem": "A 56-years-man with Wilson disease presented with right upper quadrant discomfort. A ultrasound scan is performed and this demonstrates a mass lesion in the right lobe of liver. What is the most appropriate method of establishing the underlying diagnosis?",
+  "options": {
+   "A": "PET scan",
+   "B": "MRI liver",
+   "C": "Ultrasound guided biopsy",
+   "D": "LFTs",
+   "E": "Alpha Feto-protein"
+  },
+  "answer": "E",
+  "explanation": "A new liver mass in a patient with chronic liver disease is investigated with AFP (with imaging); biopsy is reserved for doubtful cases because of bleeding and seeding risk.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02690"
+  ],
+  "stem": "A patient came to you with resected colonic carcinoma. How do you follow up this patient for liver metastases",
+  "options": {
+   "A": "Alpha fetoprotein",
+   "B": "USG abdomen",
+   "C": "Liver biopsy",
+   "D": "X ray abdomen",
+   "E": "Liver function tests"
+  },
+  "answer": "B",
+  "explanation": "Ultrasound abdomen (or CT) is the routine non-invasive follow-up for liver metastases after colorectal resection; biopsy is not used for surveillance.",
+  "key_note": "Paper keys marked C (Liver biopsy); correct is B: ultrasound is the follow-up imaging, biopsy is invasive and only for diagnosis.",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C03059"
+  ],
+  "stem": "Which of the following medications reduced mortality in patients with portal hypertension in long term.",
+  "options": {
+   "A": "Omeprazole intravenously",
+   "B": "Metronidazole orally",
+   "C": "Albumin infusions",
+   "D": "Silymarin per orally",
+   "E": "Non-selective beta blockers"
+  },
+  "answer": "E",
+  "explanation": "Long-term non-selective beta blockers (propranolol, carvedilol) reduce variceal bleeding and mortality in portal hypertension.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02403"
+  ],
+  "stem": "A 54 year old man diagnosed case of decompensated chronic liver disease secondary to HBV infection presented with hematemesis associated with dizziness and syncope. He was resuscitated in the emergency with 2 L of saline, one unit of whole blood, high dose PPIs and terlipressin. He was not hemodynamically stable with B.P of 80/50 and Pulse rate of 115/min despite resuscitation. He was having persistent episodes of hematemesis. What is the next appropriate management step?",
+  "options": {
+   "A": "Urgent upper GI Endoscopy",
+   "B": "Pass Nasogastric tube and Gastric lavage",
+   "C": "Pass Sengstaken Blakemore tube and Balloon tamponade",
+   "D": "Urgent surgical consultation for exploratory laparotomy",
+   "E": "Continue with the fluid and blood replacement"
+  },
+  "answer": "C",
+  "explanation": "Persistent variceal bleeding with shock despite resuscitation, terlipressin and PPI needs a Sengstaken-Blakemore balloon tamponade as a bridge to endoscopic therapy or TIPS.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02401"
+  ],
+  "stem": "A 50-year-old man with hepatitis C related cirrhosis presents with drowsiness for 3 days. He is vitally stable, drowsy but arousable, with spider angiomas, asterixis and ascites with shifting dullness. Labs: blood sugar 84 mg/dl, bilirubin 4.4 mg/dl, ALT 78 IU/L, Na 146 mEq/L, K 2.8 mEq/L. What is the next management step?",
+  "options": {
+   "A": "Give IV fluids",
+   "B": "Perform paracentesis",
+   "C": "Give IV Potassium",
+   "D": "Give IV antibiotics",
+   "E": "Give IV glucose"
+  },
+  "answer": "C",
+  "explanation": "Hypokalaemia (K 2.8) precipitates and worsens hepatic encephalopathy by increasing renal ammonia production; correct it with IV potassium.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02755"
+  ],
+  "stem": "58 year old man with known hepatitis c related cirrhosis brought to ER by his family due to confusion, disorientation& flapping tremors. He was recently advised by a local practitioner to Increase protein Intake to build strength, His Ammonia level, are elevated. & he has no signs of infection/ GI bleeding. what is most likely precipitating factor for altered mental status?",
+  "options": {
+   "A": "GI bleeding",
+   "B": "Infection",
+   "C": "constipation",
+   "D": "diuretics",
+   "E": "dietary protein overload"
+  },
+  "answer": "E",
+  "explanation": "Excess dietary protein increases the ammonia load and can precipitate encephalopathy; the stem excludes infection and bleeding.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02452"
+  ],
+  "stem": "60 years old male, diagnosed case of DCLD secondary to HCV, presented with anorexia and altered sensorium. Most likely precipitating factor in this patient is",
+  "options": {
+   "A": "Constipation",
+   "B": "High carbohydrate diet",
+   "C": "Increased fat intake",
+   "D": "Reduced sodium in diet",
+   "E": "Drinking more water"
+  },
+  "answer": "A",
+  "explanation": "Constipation increases ammonia absorption and is a common precipitant of hepatic encephalopathy; reduced sodium intake and more water are not precipitants.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02703"
+  ],
+  "stem": "Which is a risk factor for gallstones?",
+  "options": {
+   "A": "Cystic fibrosis",
+   "B": "Congestive cardiac failure",
+   "C": "Male gender",
+   "D": "Adolescent age group",
+   "E": "High fibre diet intake"
+  },
+  "answer": "A",
+  "explanation": "Cystic fibrosis is a risk factor for gallstones (female sex, obesity, age, haemolysis and low-fibre diet are others).",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02686"
+  ],
+  "stem": "A patient presents with fever, jaundice, and right upper quadrant abdominal pain after a recent travel history. Ultrasound shows gallstones and possible cholangitis. Which organism is most likely responsible?",
+  "options": {
+   "A": "Escherichia coli",
+   "B": "Klebsiella",
+   "C": "Pseudomonas aeruginosa",
+   "D": "Staphylococcus aureus",
+   "E": "Streptococcus pneumoniae"
+  },
+  "answer": "A",
+  "explanation": "E. coli is the commonest organism in cholangitis, followed by Klebsiella and Enterococcus.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02527"
+  ],
+  "stem": "A 37-year-male presents with yellow discoloration of eyes and urine. Which combination of features specifically explain obstructive jaundice?",
+  "options": {
+   "A": "Loose watery stools",
+   "B": "Jaundice and hematuria",
+   "C": "Hematemesis and melena",
+   "D": "Pruritis and clay-colored stools",
+   "E": "Shrunken liver."
+  },
+  "answer": "D",
+  "explanation": "Pruritus and clay-coloured stools reflect bile salt retention and absent stercobilin, specific for obstructive jaundice.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C03057"
+  ],
+  "stem": "Which of the following diseases can present with obstructive jaundice?",
+  "options": {
+   "A": "Acute viral hepatitis",
+   "B": "Carcinoma tail of pancreas",
+   "C": "Bile duct stenosis",
+   "D": "Hepatic vein thrombosis",
+   "E": "Liver abscess"
+  },
+  "answer": "C",
+  "explanation": "Bile duct stenosis is a cause of obstructive (post-hepatic) jaundice; carcinoma of the head, not the tail, of the pancreas obstructs the CBD.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02357"
+  ],
+  "stem": "A 65-year woman presents in ER with jaundice, right upper quadrant pain, and pruritus for last 01 month. Imaging studies show strictures of the bile ducts and a \"beading\" appearance on cholangiography. What is the most likely diagnosis?",
+  "options": {
+   "A": "Acute pancreatitis",
+   "B": "Cholangiocarcinoma",
+   "C": "Cholelithiasis",
+   "D": "Primary biliary cholangitis",
+   "E": "Primary sclerosing cholangitis"
+  },
+  "answer": "E",
+  "explanation": "Beaded strictures of bile ducts on cholangiography indicate primary sclerosing cholangitis.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02356",
+   "C02790"
+  ],
+  "stem": "A 35-year woman presents in OPD with elevated liver enzymes, facial redness, and spider angiomas. She has an enlarged liver and her family history reveals multiple relatives with liver problems. Tests reveal anti-smooth muscle antibodies. What is the most likely diagnosis?",
+  "options": {
+   "A": "Autoimmune hepatitis",
+   "B": "Hemochromatosis",
+   "C": "Hepatic steatosis",
+   "D": "Primary biliary cholangitis",
+   "E": "Wilson's disease"
+  },
+  "answer": "A",
+  "explanation": "A young woman with hepatitis, positive anti-smooth muscle antibody and family history suggests autoimmune hepatitis.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02815"
+  ],
+  "stem": "A 42-year female presents with generalized pruritus, mild scleral icterus. Physical examination: hepatomegaly, palmar erythema, spider angiomas. Labs: total bilirubin 3.5 mg/dl, ALT 105 IU/L, AST 100 IU/L, ALP 382 IU/L, GGT 596 IU/L. Ultrasound: normal gall bladder and CBD. Next investigation?",
+  "options": {
+   "A": "Contrast enhanced CT abdomen",
+   "B": "ERCP",
+   "C": "Magnetic resonance cholangiopancreatography",
+   "D": "Percutaneous liver biopsy",
+   "E": "HIDA scan"
+  },
+  "answer": "D",
+  "explanation": "With a cholestatic picture and a normal biliary tree on ultrasound, liver biopsy is the answer given in the paper key; AMA is the usual first test for PBC.",
+  "key_note": "AMA is not among the options; paper key D (liver biopsy) kept.",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02407"
+  ],
+  "stem": "A 45 year old man comes to your office for a follow up visit. One year ago he was diagnosed with hereditary hemochromatosis. He has been treated by phlebotomy with one unit of blood removed every week for the past year. His most recent lab values are: Hemoglobin 12.0 g/dl; Hematocrit 36%; Serum Ferritin 50ng/ml; Serum Iron 100microgram/dl; Serum TIBC 260mg/dl. What is the most appropriate next step in therapy?",
+  "options": {
+   "A": "Phlebotomy 1 unit every three month",
+   "B": "Liver biopsy to assess hepatic iron overload",
+   "C": "A low iron diet",
+   "D": "Phlebotomy 1 unit every 2 weeks until the Hemoglobin is less than 10.0 g/dl",
+   "E": "Phlebotomy 1 unit every 2 weeks until the serum iron level is less than 20 microgram/ dl"
+  },
+  "answer": "A",
+  "explanation": "Once ferritin is at target (50-100 ng/ml), maintenance phlebotomy is about 1 unit every 3 months to keep ferritin low.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02960"
+  ],
+  "stem": "A 43-year-old female was screened for haemochromatosis on a background of positive family history. She was found to have raised iron stores and further testing. She was diagnosed with diabetes mellitus recently and dilated cardiomyopathy. She was reviewed by the hepatology team who arranged for venesection to be carried out as part of the management plan. What would the most appropriate marker to monitor response to treatment?",
+  "options": {
+   "A": "Hemoglobin",
+   "B": "Ferritin",
+   "C": "Echocardiography",
+   "D": "HbA1c",
+   "E": "Liver function tests"
+  },
+  "answer": "B",
+  "explanation": "Serum ferritin (with transferrin saturation) is the marker used to monitor venesection in haemochromatosis.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02963"
+  ],
+  "stem": "Which one of the following metabolic disorders is least likely to cause malabsorption?",
+  "options": {
+   "A": "Lactose intolerance",
+   "B": "Cystic fibrosis",
+   "C": "Primary biliary cirrhosis",
+   "D": "Whipple's disease",
+   "E": "Haemochromatosis"
+  },
+  "answer": "E",
+  "explanation": "Haemochromatosis does not cause malabsorption; cystic fibrosis, PBC (bile salt deficiency), lactose intolerance and Whipple's disease do.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02962"
+  ],
+  "stem": "Which one of the following is most suggestive of Wilson's disease?",
+  "options": {
+   "A": "Reduced hepatic copper concentration",
+   "B": "Reduced 24hr urinary copper excretion",
+   "C": "Increased skin pigmentation",
+   "D": "Reduced serum caeruloplasmin",
+   "E": "Increased serum copper"
+  },
+  "answer": "D",
+  "explanation": "Low serum caeruloplasmin is the most suggestive finding in Wilson's disease; hepatic copper and urinary copper are raised.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C03117"
+  ],
+  "stem": "Wilsons disease is a metabolic disorder characterized by neurological and hepatic clinical features. It is caused by abnormal accumulation of;",
+  "options": {
+   "A": "Iron",
+   "B": "Glycogen",
+   "C": "Lipids",
+   "D": "Copper",
+   "E": "Hemosiderin"
+  },
+  "answer": "D",
+  "explanation": "Wilson's disease is caused by copper accumulation (ATP7B defect), affecting liver, brain and cornea.",
+  "key_note": "",
+  "figure": "",
+  "answer_text": null
+ },
+ {
+  "cids": [
+   "C02154"
+  ],
+  "stem": "A 60-year-old female presents with abdominal pain and gradually increasing ascites with diffuse abdominal tenderness. Ascitic fluid shows an exudate with predominant lymphocytes and atypical cells. The most likely diagnosis is:",
+  "options": {
+   "A": "Malignant ascites",
+   "B": "Secondary peritonitis",
+   "C": "Spontaneous bacterial peritonitis",
+   "D": "Tuberculous ascites"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Atypical (malignant) cells in a lymphocytic exudate indicate malignant ascites; TB ascites shows lymphocytes without atypical cells and SBP is neutrophilic.",
+  "key_note": "",
+  "figure": ""
+ }
+]

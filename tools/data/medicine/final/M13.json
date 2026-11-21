@@ -1,0 +1,1315 @@
+[
+ {
+  "cids": [
+   "C03106",
+   "C03249"
+  ],
+  "stem": "While labelling a patient as being in shock (for example haemorrhagic shock), the systolic blood pressure should be:",
+  "options": {
+   "A": "Less than 90 mmHg",
+   "B": "100/60 mmHg",
+   "C": "120/60 mmHg",
+   "D": "More than 100 mmHg systolic",
+   "E": "Less than 110 mmHg"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Shock is a state of inadequate tissue perfusion, and a systolic pressure below 90 mmHg (or a fall of more than 40 mmHg from baseline) is the conventional threshold, though tachycardia and poor perfusion may precede hypotension.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00525"
+  ],
+  "stem": "In a patient with septic shock, which drug is preferred as the vasopressor?",
+  "options": {
+   "A": "Norepinephrine",
+   "B": "Furosemide",
+   "C": "Dopamine",
+   "D": "Dobutamine",
+   "E": "Dextrose water"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "After adequate fluid resuscitation, norepinephrine is the first-line vasopressor in septic shock (Surviving Sepsis guidelines). Dopamine is more arrhythmogenic and is now second line.",
+  "key_note": "One paper marked dopamine; norepinephrine is the guideline-recommended first-line agent.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02331"
+  ],
+  "stem": "A 72-year-old diabetic man presents with fever, confusion and a warm flushed appearance. BP is 80/60 mmHg, heart rate 120/min and urine output has fallen. What is the most appropriate management step?",
+  "options": {
+   "A": "Administer IV fluids and IV antibiotics",
+   "B": "Initiate oxygen therapy and IV fluids",
+   "C": "Monitor vital signs and reassess",
+   "D": "Start inotropic support",
+   "E": "Start oral antibiotics and IV fluids"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "This is septic shock (warm, vasodilated, hypotensive, oliguric). The first priority is rapid IV crystalloid resuscitation and broad-spectrum IV antibiotics within the first hour; vasopressors are added if hypotension persists.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03107"
+  ],
+  "stem": "Which of the following is preferred in a patient with cardiogenic shock?",
+  "options": {
+   "A": "Captopril",
+   "B": "Normal saline",
+   "C": "Anti-platelets",
+   "D": "25% dextrose water",
+   "E": "Inotropes"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Cardiogenic shock is pump failure, so inotropes (dobutamine, with or without noradrenaline) support contractility. Large fluid boluses would worsen pulmonary oedema, and captopril would drop the blood pressure further.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [],
+  "stem": "Which of the following is preferred in a patient with hypovolaemic shock?",
+  "options": {
+   "A": "Captopril",
+   "B": "Normal saline",
+   "C": "Anti-platelets",
+   "D": "25% dextrose water",
+   "E": "Diuretics"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Hypovolaemic shock is treated by restoring intravascular volume with IV crystalloid (and blood in haemorrhage). Diuretics and ACE inhibitors would worsen it.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00782",
+   "C03102"
+  ],
+  "stem": "A trauma patient is in shock with pulse 110/min and BP 60/40 mmHg. He has been intubated, given fluids and inotropes but BP remains 50/30 mmHg with CVP 20 cm H2O, distended neck veins and normal respiratory findings. Heart sounds are muffled. What is the diagnosis?",
+  "options": {
+   "A": "Acute aortic dissection",
+   "B": "Tension pneumothorax",
+   "C": "Cardiac tamponade",
+   "D": "Septic shock",
+   "E": "Pulmonary embolism"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Hypotension with raised venous pressure (distended neck veins) and muffled heart sounds is Beck's triad of cardiac tamponade, typically after chest trauma. Tension pneumothorax would give absent breath sounds on one side.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00947"
+  ],
+  "stem": "The type of shock commonly seen in snake bite is:",
+  "options": {
+   "A": "Cardiogenic",
+   "B": "Hypovolaemic",
+   "C": "Anaphylactic",
+   "D": "Septic",
+   "E": "Vasovagal"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Venom can trigger anaphylactic-type shock through mediator release; in viper bites hypovolaemia from bleeding and capillary leak also contributes.",
+  "key_note": "The paper key (anaphylactic) is retained; hypovolaemic shock is also common with viper envenoming.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02079"
+  ],
+  "stem": "A central line is being placed in an intubated patient with cardiogenic shock for delivery of vasopressor drugs. Which vessel will be cannulated?",
+  "options": {
+   "A": "Common carotid artery",
+   "B": "Brachiocephalic artery",
+   "C": "Axillary vein",
+   "D": "Subclavian vein",
+   "E": "Inferior vena cava"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Vasopressors need a central venous catheter, and the subclavian vein gives reliable access with a low infection rate; arteries must never be used. In an intubated patient the pneumothorax risk is acceptable.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02456"
+  ],
+  "stem": "A 24-year-old patient with maxillofacial trauma is in hypovolaemic shock with BP 70/40 mmHg. A central line is needed for resuscitation. Which vessel is preferably cannulated?",
+  "options": {
+   "A": "Common carotid artery",
+   "B": "Internal jugular vein",
+   "C": "Brachiocephalic artery",
+   "D": "Anterior axillary vein",
+   "E": "Inferior vena cava"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "The internal jugular vein is a large, compressible and easily accessed central vein under ultrasound guidance. Arteries are never used for central venous access.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01857"
+  ],
+  "stem": "A 50-year-old man being managed for acute coronary syndrome suddenly collapses in the ER and CPR is started. What should be the rate of chest compressions per minute?",
+  "options": {
+   "A": "60/min",
+   "B": "72/min",
+   "C": "80/min",
+   "D": "100/min"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Chest compressions are delivered at 100-120 per minute with a depth of 5-6 cm, allowing full recoil.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02054",
+   "C03104",
+   "C03095",
+   "C02936"
+  ],
+  "stem": "While performing CPR as a single rescuer on a pulseless, apnoeic adult, the ratio of chest compressions to breaths is:",
+  "options": {
+   "A": "15:2",
+   "B": "30:2",
+   "C": "15:1",
+   "D": "30:1",
+   "E": "5:1"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Current AHA and ERC guidelines use 30 compressions to 2 breaths for adults, whether there are one or two rescuers (until an advanced airway is placed). 15:2 applies to two-rescuer paediatric CPR.",
+  "key_note": "One copy marked 15:2, the older ratio; the current ratio is 30:2.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03093"
+  ],
+  "stem": "What is the treatment of pulseless ventricular tachycardia?",
+  "options": {
+   "A": "Defibrillation",
+   "B": "CPR alone",
+   "C": "Atropine",
+   "D": "Epinephrine",
+   "E": "Dobutamine"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Pulseless VT and ventricular fibrillation are shockable rhythms, so immediate defibrillation with CPR is the definitive treatment; adrenaline is added after the third shock.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03096",
+   "C00586"
+  ],
+  "stem": "In cardiopulmonary resuscitation, the dose of adrenaline is:",
+  "options": {
+   "A": "0.1 mg",
+   "B": "0.5 mg",
+   "C": "1 mg",
+   "D": "2 mg",
+   "E": "5 mg"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Adult cardiac arrest: adrenaline 1 mg IV/IO every 3-5 minutes (10 ml of 1:10,000). The 0.5 mg dose is for IM use in anaphylaxis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03094"
+  ],
+  "stem": "What is the foremost step in the management of an unconscious patient?",
+  "options": {
+   "A": "Start CPR",
+   "B": "Call for help",
+   "C": "Secure the airway",
+   "D": "Place in left lateral position",
+   "E": "Place in upright position"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "After checking that the scene is safe and the patient is unresponsive, call for help (and a defibrillator) before starting airway and compressions, so that resuscitation resources are mobilised.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03101"
+  ],
+  "stem": "A 72-year-old man is found unresponsive on the ward. He is not breathing and has no detectable pulse. What is the single most appropriate next step?",
+  "options": {
+   "A": "Get a defibrillator",
+   "B": "Give two rescue breaths immediately",
+   "C": "Activate the emergency bell and call the resuscitation team",
+   "D": "Insert two wide bore cannulas in both antecubital fossae",
+   "E": "Start chest compressions at a ratio of 30:2"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "In a pulseless, apnoeic patient, high-quality chest compressions (30:2) must start without delay while the team is called and the defibrillator fetched. Cannulation and drugs come later.",
+  "key_note": "Calling the resuscitation team is done at the same time; compressions must not be delayed.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00081"
+  ],
+  "stem": "A 26-year-old woman is admitted with anaphylactic shock after a bee sting. She has facial swelling and stridor and is hypotensive. What dose and route of adrenaline are most appropriate?",
+  "options": {
+   "A": "0.5 mg of 1:1000 solution i.m.",
+   "B": "1 mg of 1:1000 solution i.v.",
+   "C": "1 mg of 1:10,000 solution i.m.",
+   "D": "1 mg of 1:10,000 solution i.v.",
+   "E": "1 mg of 1:10,000 solution by nebulisation"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Intramuscular adrenaline 0.5 mg (0.5 ml of 1:1000) into the anterolateral thigh is first-line in adult anaphylaxis and can be repeated every 5 minutes. IV bolus adrenaline is reserved for specialists in monitored settings because of arrhythmia risk.",
+  "key_note": "The paper marked 1 mg of 1:1000 IV, which is unsafe. The first option was rewritten by the reviewer (the source showed 1 mg IM) to the standard 0.5 mg IM dose.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02330",
+   "C03100"
+  ],
+  "stem": "A woman develops difficulty breathing, widespread hives and hypotension (BP 80/50 mmHg, heart rate 120/min) after a bee sting. What is the most important (first) treatment?",
+  "options": {
+   "A": "Antihistamines",
+   "B": "Intramuscular adrenaline (epinephrine)",
+   "C": "Supplemental oxygen",
+   "D": "Intravenous fluids",
+   "E": "Corticosteroids"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Adrenaline IM is the life-saving first drug in anaphylaxis: it reverses bronchospasm, vasodilatation and angio-oedema. Oxygen, fluids, antihistamines and steroids are adjuncts given after it.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00948"
+  ],
+  "stem": "Ingestion of which of the following is a contraindication to nasogastric lavage?",
+  "options": {
+   "A": "Sedative",
+   "B": "Corrosive",
+   "C": "Opioids",
+   "D": "Paracetamol",
+   "E": "Digoxin"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Lavage is contraindicated after corrosive (acid or alkali) ingestion because of the risk of oesophageal or gastric perforation, and also in hydrocarbon ingestion and with an unprotected airway.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03248"
+  ],
+  "stem": "You are performing nasogastric lavage on a patient with drug overdose in the emergency department. Which statement about management is correct?",
+  "options": {
+   "A": "If the patient is stable there is no need to report the case medicolegally",
+   "B": "The fluid collected from lavage should be sent for toxicology screening",
+   "C": "If lavage is performed, there is no need to give an antidote",
+   "D": "The patient must be given general anaesthesia for this procedure",
+   "E": "There is no risk of oesophageal perforation at all"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "The first aspirate should be kept for toxicological analysis, and all poisoning cases are medicolegal. Lavage is not a substitute for antidotes and carries a risk of perforation and aspiration.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01670"
+  ],
+  "stem": "Activated charcoal is effective in poisoning with:",
+  "options": {
+   "A": "Paracetamol",
+   "B": "Ethanol",
+   "C": "Iron",
+   "D": "Mercury",
+   "E": "Wheat pill (aluminium phosphide)"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Activated charcoal adsorbs most drugs, such as paracetamol, if given within about 1 hour. It does not bind ethanol, iron, heavy metals or corrosives.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01672"
+  ],
+  "stem": "For which of the following drug poisonings is a specific antidote (antibody fragments) available?",
+  "options": {
+   "A": "Aspirin",
+   "B": "Beta blockers",
+   "C": "Digoxin",
+   "D": "Quinine",
+   "E": "Tricyclic antidepressants"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Digoxin-specific Fab antibody fragments (DigiFab) are a specific antidote for severe digoxin toxicity. The other drugs are managed by supportive care, bicarbonate (aspirin, TCA) or glucagon (beta blockers).",
+  "key_note": "Not marked in the source paper; answer by reviewer. Question is loosely worded as several drugs have treatments; digoxin Fab is the specific antidote.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01671"
+  ],
+  "stem": "After an overdose of a drug, a 50-year-old woman develops ventricular tachycardia. Which of the following drugs is most likely responsible?",
+  "options": {
+   "A": "Atenolol",
+   "B": "NSAID",
+   "C": "Paracetamol",
+   "D": "Salicylates",
+   "E": "Tricyclic antidepressants"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Tricyclics block cardiac sodium channels, widening the QRS and causing ventricular arrhythmias; IV sodium bicarbonate is the treatment. Beta blockers cause bradycardia and hypotension.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00949"
+  ],
+  "stem": "A patient with poisoning has pinpoint pupils. The likely diagnosis is overdose of:",
+  "options": {
+   "A": "Benzodiazepines",
+   "B": "Opioids",
+   "C": "Corrosives",
+   "D": "Paracetamol",
+   "E": "Atropine"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Opioids cause the triad of coma, pinpoint pupils and respiratory depression, treated with naloxone. Atropine causes dilated pupils; organophosphates also give pinpoint pupils.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00533"
+  ],
+  "stem": "A young man is found on the roadside in an unkempt state. HR 112/min, RR 8/min, SpO2 86% on room air, pupils bilaterally constricted, reduced air entry in both lungs and sluggish bowel sounds. What is the diagnosis?",
+  "options": {
+   "A": "Opioid poisoning",
+   "B": "Respiratory failure",
+   "C": "Acute severe asthma",
+   "D": "Benzodiazepine poisoning",
+   "E": "Spontaneous pneumothorax"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Slow respiration, pinpoint pupils, hypoxia and reduced bowel motility in a likely drug user indicate opioid poisoning. Benzodiazepines do not constrict the pupils.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01851",
+   "C02156",
+   "C03091"
+  ],
+  "stem": "A 55-year-old homeless man is brought to the ER comatose. He was found near a drain in the slums and has pinpoint pupils and shallow breathing. He should immediately be managed with:",
+  "options": {
+   "A": "Activated charcoal",
+   "B": "Acetylcysteine",
+   "C": "Naloxone",
+   "D": "Stomach wash"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Coma, pinpoint pupils and respiratory depression point to opioid overdose; IV naloxone (an opioid antagonist) is given immediately and repeated as it has a short half-life.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00055"
+  ],
+  "stem": "A 21-year-old woman has taken a significant overdose of propranolol. On admission her heart rate is 50 beats/min and blood pressure 86/42 mmHg. Which drug should be used?",
+  "options": {
+   "A": "Atropine",
+   "B": "Flumazenil",
+   "C": "Glucagon",
+   "D": "Naloxone",
+   "E": "Sodium bicarbonate infusion"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Glucagon bypasses the blocked beta receptors by activating adenylate cyclase directly, increasing heart rate and contractility in beta blocker overdose. Atropine is usually ineffective.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02293"
+  ],
+  "stem": "A 20-year-old medical student is found unconscious in bed with empty medicine strips beside him. Pulse 100/min, BP 140/80 mmHg, temperature 98.6 F, respiratory rate (as printed) 40/min, pupils bilaterally constricted, chest clear and no focal neurological deficit. What is the specific treatment?",
+  "options": {
+   "A": "Atropine",
+   "B": "Pralidoxime",
+   "C": "Naloxone",
+   "D": "Flumazenil",
+   "E": "N-acetylcysteine"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Coma with pinpoint pupils and a clear chest is the opioid toxidrome, and naloxone is the specific antagonist. Atropine and pralidoxime are for organophosphates, which cause secretions and bronchospasm.",
+  "key_note": "The respiratory rate was printed as 40/min in the source; opioid toxicity normally causes a slow rate, so this is probably a misprint.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01451"
+  ],
+  "stem": "A young girl is brought to hospital after ingesting tablets prescribed to her mother for depression. What management would you suggest initially to save her life?",
+  "options": {
+   "A": "Nasogastric tube and lavage",
+   "B": "Naloxone IV",
+   "C": "Blood transfusion",
+   "D": "IV antibiotics",
+   "E": "Sedatives"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "In tricyclic antidepressant overdose the initial priorities are airway, breathing and circulation and early gut decontamination (activated charcoal or lavage within an hour), then IV sodium bicarbonate for QRS widening or arrhythmias. Naloxone does not reverse tricyclics.",
+  "key_note": "Paper marked naloxone, which is wrong for an antidepressant overdose; best option offered is decontamination by lavage. Question is loosely worded.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01622"
+  ],
+  "stem": "A 34-year-old man with hypertension and psychiatric illness takes an overdose of his medication with suicidal intent. He is agitated and drowsy. BP 106/62 mmHg, pulse 140/min, respiratory rate 24/min with acidotic breathing and SpO2 98% on air. ECG shows sinus tachycardia, broad QRS complexes and a prolonged QT interval. Which drug overdose is most likely to have caused these features?",
+  "options": {
+   "A": "Diazepam",
+   "B": "Amitriptyline",
+   "C": "Atenolol",
+   "D": "Amlodipine",
+   "E": "Escitalopram"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Tachycardia, hypotension, agitation, metabolic acidosis, broad QRS and prolonged QT are the features of tricyclic overdose (sodium channel blockade plus anticholinergic effect). Atenolol and diazepam cause bradycardia or sedation without QRS widening.",
+  "key_note": "Some copies unmarked; answer confirmed by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01623",
+   "C00499"
+  ],
+  "stem": "A 34-year-old man has taken an overdose of tricyclic antidepressant (amitriptyline): agitation, drowsiness, BP 106/62 mmHg, pulse 140/min, acidotic breathing, broad QRS and prolonged QT interval on ECG. What is the most appropriate step in management?",
+  "options": {
+   "A": "Give flumazenil",
+   "B": "Insert a haemodialysis line",
+   "C": "Give naloxone",
+   "D": "Start N-acetylcysteine infusion",
+   "E": "Give IV bicarbonate"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "IV sodium bicarbonate narrows the QRS and treats the acidosis and arrhythmias of tricyclic toxicity by alkalinising the blood and loading sodium. Haemodialysis is ineffective because tricyclics are highly protein bound.",
+  "key_note": "Source question referred back to the previous vignette; the stem has been made stand-alone. Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02828"
+  ],
+  "stem": "A man presents with sudden-onset low mood and disorientation for 1 day. There is a history of taking high doses of medication. What is the most likely cause?",
+  "options": {
+   "A": "Dementia",
+   "B": "Cystitis",
+   "C": "Drug overdose",
+   "D": "Stroke",
+   "E": "Substance abuse"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Acute onset over one day with a history of excess medication points to drug overdose or toxic confusion; dementia is chronic and the other options do not fit.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03245"
+  ],
+  "stem": "A middle-aged man is brought to the emergency department with alcohol intoxication. Which treatment option is appropriate?",
+  "options": {
+   "A": "Flumazenil",
+   "B": "Atropine",
+   "C": "Thiamine",
+   "D": "Diazepam",
+   "E": "Naloxone"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Heavy alcohol users are thiamine deficient, and IV thiamine prevents Wernicke's encephalopathy (it should precede any glucose). Diazepam is for withdrawal, not intoxication.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00054",
+   "C01647",
+   "C00528"
+  ],
+  "stem": "A 35-year-old man took 60 paracetamol tablets 6 hours ago in a suicide attempt and now wants treatment. Which of the following should be administered?",
+  "options": {
+   "A": "Atropine",
+   "B": "N-acetylcysteine",
+   "C": "Flumazenil",
+   "D": "Glucagon",
+   "E": "Naloxone"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "N-acetylcysteine replenishes glutathione and detoxifies NAPQI, the toxic paracetamol metabolite; it is most effective within 8-10 hours but is given up to 24 hours or later.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00498"
+  ],
+  "stem": "A 36-year-old woman ingested 40 paracetamol tablets 6 hours ago. She is stable, had gastric lavage and was admitted with supportive treatment. Which investigation will you perform the next day to assess her prognosis?",
+  "options": {
+   "A": "Arterial pH",
+   "B": "Serum magnesium",
+   "C": "Serum potassium",
+   "D": "Serum paracetamol concentration",
+   "E": "Serum aspartate transaminase"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "In paracetamol-induced liver injury, poor prognosis markers (King's College criteria) are arterial pH below 7.30, INR above 6.5, creatinine above 300 micromol/L and encephalopathy. A paracetamol level only guides initial antidote treatment.",
+  "key_note": "Both copies of the paper marked C (serum potassium), which is not a prognostic marker; correct is arterial pH (King's College criteria).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02334",
+   "C02812"
+  ],
+  "stem": "A 24-year-old woman takes 15 tablets of acetaminophen (paracetamol) in a suicide attempt. She appears lethargic and nauseated, 9 hours after ingestion. What is the most appropriate initial management?",
+  "options": {
+   "A": "Administer activated charcoal",
+   "B": "Administer atropine",
+   "C": "Administer N-acetylcysteine",
+   "D": "Perform gastric lavage",
+   "E": "Start intravenous fluids"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Beyond 8 hours the benefit of N-acetylcysteine is time critical, so it should start immediately without waiting for the level. Charcoal and lavage are of little value this long after ingestion.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02735"
+  ],
+  "stem": "A 17-year-old girl is brought to the ED after ingesting 20 paracetamol tablets. She says she wanted to 'feel something'. What is the most appropriate next step?",
+  "options": {
+   "A": "Discharge with counselling advice",
+   "B": "Psychiatric evaluation and medical stabilisation",
+   "C": "Start antidepressants immediately",
+   "D": "Inform school authorities",
+   "E": "Admit to surgical ward"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Every deliberate overdose needs medical treatment (including acetylcysteine if indicated) and a formal psychiatric risk assessment before discharge.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02938"
+  ],
+  "stem": "Overdose of acetaminophen most likely results in:",
+  "options": {
+   "A": "Hepatic necrosis",
+   "B": "Diarrhoea",
+   "C": "Megaloblastic anaemia",
+   "D": "Bone marrow suppression",
+   "E": "Pinpoint pupils"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "The toxic metabolite NAPQI depletes glutathione and causes centrilobular hepatic necrosis, with jaundice and coagulopathy at 2-4 days.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03090"
+  ],
+  "stem": "Overdose of acetaminophen results in hepatic necrosis due to depletion of which of the following substances?",
+  "options": {
+   "A": "Bilirubin",
+   "B": "Glutathione",
+   "C": "Glycogen",
+   "D": "N-acetylcysteine",
+   "E": "GABA"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Glutathione normally conjugates NAPQI; after overdose the stores are exhausted and NAPQI binds hepatocyte proteins. N-acetylcysteine acts by replenishing glutathione.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00531"
+  ],
+  "stem": "A young girl is brought to the ER with vomiting, abdominal pain and diarrhoea. She is sweating, with bilaterally constricted pupils, bilateral coarse crepitations, and urinary and faecal incontinence. What is your clinical suspicion?",
+  "options": {
+   "A": "Opioid poisoning",
+   "B": "Benzodiazepine overdose",
+   "C": "TCA overdose",
+   "D": "Snake bite",
+   "E": "Organophosphate poisoning"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Cholinergic excess (the SLUDGE or DUMBELS features: salivation, lacrimation, urination, defaecation, miosis, bronchorrhoea) indicates organophosphate poisoning, which inhibits acetylcholinesterase.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00532"
+  ],
+  "stem": "A young girl presents with vomiting, diarrhoea, sweating, constricted pupils, bilateral coarse crepitations and urinary and faecal incontinence (organophosphate poisoning). Which drug reactivates the inhibited acetylcholinesterase?",
+  "options": {
+   "A": "Pralidoxime",
+   "B": "Atropine",
+   "C": "Neostigmine",
+   "D": "Flumazenil",
+   "E": "N-acetylcysteine"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Pralidoxime reactivates acetylcholinesterase inhibited by organophosphates; atropine is given first as the immediate life-saving drug to block muscarinic effects.",
+  "key_note": "Paper asked for the 'specific antidote' (marked pralidoxime), but atropine is also commonly called the antidote; stem reworded to ask for the enzyme reactivator so only pralidoxime is correct.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00496",
+   "C02296",
+   "C02937",
+   "C03089"
+  ],
+  "stem": "A woman is brought semiconscious with shortness of breath, frothing from the mouth, urinary and faecal incontinence, sweating and bilaterally constricted pupils. Pulse 110/min, temperature 98.6 F, BP 110/70 mmHg, with bilateral coarse crepitations. What is the most important management step?",
+  "options": {
+   "A": "Inj normal saline 500 ml IV stat",
+   "B": "Inj furosemide 40 mg IV stat",
+   "C": "Inj atropine 1 mg IV stat",
+   "D": "Inj omeprazole 40 mg IV stat",
+   "E": "Inj adrenaline 1 mg IV stat"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "This is organophosphate poisoning with muscarinic excess (bronchorrhoea, miosis, incontinence). IV atropine, repeated until the chest is dry, is the immediate life-saving step; furosemide is wrong because the crepitations are secretions rather than cardiac pulmonary oedema.",
+  "key_note": "Normal saline was printed as 500 mg in the source; read as 500 ml.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01646"
+  ],
+  "stem": "A local hospital is overwhelmed when 21 people present with poisoning after contamination of the water supply. All have small pupils, muscle fasciculations, excessive salivation and lacrimation, vomiting, diarrhoea and hyper-reflexia. What is the likeliest contaminant?",
+  "options": {
+   "A": "Amphetamine-related compounds",
+   "B": "Methadone",
+   "C": "Organophosphate insecticides",
+   "D": "Arsenic",
+   "E": "Fluoride"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Miosis, fasciculations, salivation, lacrimation and diarrhoea is the cholinergic syndrome of organophosphate (or carbamate) poisoning. Amphetamines cause mydriasis and methadone causes sedation.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02323"
+  ],
+  "stem": "A 50-year-old farmer presents with unexplained weight loss, skin rash and recurrent headaches for 1 month. He has applied pesticides for many years without protective equipment. For which health disorder is he at highest risk?",
+  "options": {
+   "A": "Alzheimer's disease",
+   "B": "Diabetes mellitus",
+   "C": "Hypertension",
+   "D": "Non-Hodgkin lymphoma",
+   "E": "Osteoporosis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Chronic pesticide exposure is associated with non-Hodgkin lymphoma and other cancers (and with Parkinson's disease); the weight loss and rash are the clue to a lymphoproliferative disorder.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00838",
+   "C02940"
+  ],
+  "stem": "A student is found unconscious (or dead) in his locked hostel room in December while preparing for his final exams. His skin shows cherry red discolouration. What is the likely diagnosis?",
+  "options": {
+   "A": "Epileptic fit",
+   "B": "Arsenic poisoning",
+   "C": "Benzodiazepine overdose",
+   "D": "Carbon monoxide poisoning",
+   "E": "Bacterial meningitis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A closed room in winter with a heater or fire, and cherry red skin, indicate carbon monoxide poisoning: CO binds haemoglobin with about 240 times the affinity of oxygen, forming carboxyhaemoglobin.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00946"
+  ],
+  "stem": "The antidote for carbon monoxide poisoning is:",
+  "options": {
+   "A": "Flumazenil",
+   "B": "Oxygen",
+   "C": "Naloxone",
+   "D": "Activated charcoal",
+   "E": "Anti-venom"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "100% oxygen displaces CO from haemoglobin and shortens the carboxyhaemoglobin half-life from about 5 hours to 1 hour.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02335",
+   "C00527"
+  ],
+  "stem": "A 40-year-old man is brought to the ED with confusion, headache and dizziness after being found unconscious in a closed garage with a running car. His carboxyhaemoglobin level is elevated. What is the definitive treatment?",
+  "options": {
+   "A": "Administer high-flow oxygen",
+   "B": "Administer intravenous fluids",
+   "C": "Intubate and give mechanical ventilation",
+   "D": "Administer naloxone",
+   "E": "Perform hyperbaric oxygen therapy"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Hyperbaric oxygen therapy is the definitive treatment in severe CO poisoning (loss of consciousness, high carboxyhaemoglobin, neurological signs); high-flow oxygen is the initial measure.",
+  "key_note": "Two options in the source were duplicates (intubate and ventilate); one was replaced by the reviewer. One copy marked high-flow oxygen (A), but hyperbaric oxygen is the definitive treatment.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02336"
+  ],
+  "stem": "A 19-year-old man presents with tinnitus, nausea and dizziness after taking a large number of aspirin tablets. ABG shows mixed respiratory alkalosis and metabolic acidosis. What is the most appropriate treatment?",
+  "options": {
+   "A": "Administer activated charcoal",
+   "B": "Administer sodium bicarbonate",
+   "C": "Initiate renal replacement therapy",
+   "D": "Perform gastric lavage",
+   "E": "Provide intravenous fluids only"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "IV sodium bicarbonate alkalinises the urine, trapping salicylate and enhancing its excretion, and corrects the acidosis that drives salicylate into the brain. Haemodialysis is for severe cases.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02337"
+  ],
+  "stem": "A 12-year-old boy presents with abdominal pain, vomiting and bloody diarrhoea after ingesting a large number of iron tablets. What is the most appropriate intervention?",
+  "options": {
+   "A": "Administer activated charcoal",
+   "B": "Perform gastric lavage",
+   "C": "Provide supportive care",
+   "D": "Start intravenous desferrioxamine",
+   "E": "Start IV glucagon"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Iron poisoning with GI bleeding indicates a toxic load, and IV desferrioxamine chelates free iron (vin rose urine). Charcoal does not bind iron.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02338"
+  ],
+  "stem": "A 50-year-old man presents with visual disturbance, confusion and metabolic acidosis after ingesting methanol. Serum osmolality is elevated. What is the most effective treatment?",
+  "options": {
+   "A": "Administer activated charcoal",
+   "B": "Administer ethanol",
+   "C": "Initiate haemodialysis",
+   "D": "Perform gastric lavage",
+   "E": "Start fomepizole"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Fomepizole inhibits alcohol dehydrogenase, preventing conversion of methanol to toxic formic acid; ethanol is an alternative and haemodialysis is added for severe acidosis or visual loss.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03109",
+   "C02321"
+  ],
+  "stem": "A 40-year-old painter presents with abdominal pain and nausea. He has bluish discolouration of the gingival margins, and the peripheral smear shows basophilic stippling of red cells. What is the diagnosis?",
+  "options": {
+   "A": "Arsenic poisoning",
+   "B": "Ethanol poisoning",
+   "C": "Lead poisoning",
+   "D": "Mercury poisoning"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A Burtonian (blue) line on the gums, colic and basophilic stippling are classic for lead poisoning.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03092"
+  ],
+  "stem": "Which of the following is the best chelation therapy in acute lead poisoning?",
+  "options": {
+   "A": "Naloxone",
+   "B": "EDTA",
+   "C": "Deferoxamine",
+   "D": "Atropine",
+   "E": "Glucagon"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Calcium disodium EDTA (with dimercaprol in encephalopathy) chelates lead; deferoxamine is for iron, naloxone for opioids.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00500"
+  ],
+  "stem": "A 24-year-old man presents 24 hours after a snake bite with haematuria for the last 4 hours. Which type of snake caused this presentation?",
+  "options": {
+   "A": "Elapid snake",
+   "B": "Cobra",
+   "C": "Viper",
+   "D": "Sea snake (Hydrophiidae)",
+   "E": "Coral snake"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Vipers (Russell's viper, saw-scaled viper) have haemotoxic venom causing consumption coagulopathy, bleeding and haematuria. Elapids (cobra, krait) are neurotoxic and sea snakes cause myotoxicity.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00501"
+  ],
+  "stem": "A 40-year-old farmer presents 6 hours after a snake bite in the field. He is anxious but maintains vital signs. What is the most compelling indication for anti-snake venom?",
+  "options": {
+   "A": "Swelling at the site of the bite",
+   "B": "Erythema at the site of the bite",
+   "C": "Blood fails to clot after 20 minutes",
+   "D": "Excessive sweating",
+   "E": "Raised neutrophils in blood count"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A positive 20-minute whole blood clotting test shows incoagulable blood from systemic envenoming and is a compelling indication for ASV. Local swelling and erythema alone do not mandate it unless rapidly progressive.",
+  "key_note": "Two copies marked erythema (B); the yellow-highlighted copy marked C, which is correct.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02939"
+  ],
+  "stem": "The most useful bedside test to suggest snake bite envenomation is:",
+  "options": {
+   "A": "Prothrombin time",
+   "B": "20 minute whole blood clotting time",
+   "C": "International normalised ratio",
+   "D": "Platelet count",
+   "E": "APTT"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "The 20-minute whole blood clotting test is a cheap, reliable bedside test for venom-induced coagulopathy and is used to decide on, and monitor, anti-snake venom therapy.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01453"
+  ],
+  "stem": "Which of the following measures is advisable as pre-hospital care in a case of snake bite?",
+  "options": {
+   "A": "Application of a splint",
+   "B": "Incision and suction of the bite",
+   "C": "Application of mud",
+   "D": "Application of ice",
+   "E": "Application of analgesic ointment"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Reassure and immobilise the bitten limb with a splint to slow venom spread, then transfer quickly to hospital. Incision, suction, ice, tourniquets and local applications are harmful.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01570"
+  ],
+  "stem": "A soldier is brought unconscious after a snake bite while on duty in a marshy area. Which management step is recommended?",
+  "options": {
+   "A": "Administer streptokinase therapy",
+   "B": "Administer anti-snake venom immediately",
+   "C": "Administer heparin",
+   "D": "Observe for two hours and then send home",
+   "E": "Start intravenous antibiotics"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "An unconscious patient after a bite has systemic envenoming and needs ASV immediately along with airway support; anticoagulants and thrombolytics would worsen bleeding.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02295"
+  ],
+  "stem": "A 25-year-old man presents 1 hour after a snake bite on the left foot. He is very anxious with sweating and tremors. Pulse 100/min, BP 110/70 mmHg, temperature 37 C, chest clear, no neurological deficit; there are fang marks with surrounding erythema. What is your immediate response?",
+  "options": {
+   "A": "Apply incision at the fang mark site",
+   "B": "Apply a tourniquet",
+   "C": "Apply an ice pack",
+   "D": "Keep warm",
+   "E": "Reassurance of the patient"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Anxiety causes the sweating and tremor here; there are no signs of systemic envenoming. Reassurance, immobilisation of the limb and observation with clotting tests are the correct response; incision, tourniquets and ice are harmful.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03246"
+  ],
+  "stem": "A 2-year-old boy with a snake bite presents unable to open his eyes (ptosis) and with difficulty in breathing, tachycardia and tachypnoea. What is the next course of action?",
+  "options": {
+   "A": "Give anti-snake venom and keep the patient under observation",
+   "B": "Give anti-tetanus and send home",
+   "C": "Reassure the patient and send him home with an anxiolytic",
+   "D": "Perform incision and drainage of the wound and send home"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Ptosis and breathing difficulty are signs of neurotoxic envenoming (elapid), so give ASV promptly with airway and ventilatory support available.",
+  "key_note": "Stem tidied: the source had a stray sentence ('keep under observation, no treatment required') attached.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00393",
+   "C00952",
+   "C02294",
+   "C00534"
+  ],
+  "stem": "A 32-year-old soldier is found comatose in the fields in July. Pulse 120/min, BP 130/80 mmHg, temperature 40 C, respiratory rate 22/min, pupils bilaterally reactive, no meningeal irritation and no focal neurological deficit. What is the most likely diagnosis?",
+  "options": {
+   "A": "Cocaine abuse",
+   "B": "Heat stroke",
+   "C": "Organophosphorus poisoning",
+   "D": "Snake bite",
+   "E": "Subarachnoid haemorrhage"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Exposure to extreme heat with a core temperature above 40 C and altered consciousness, with no signs of meningitis or focal deficit, is heat stroke. Organophosphate poisoning would give miosis and secretions.",
+  "key_note": "Temperature was printed as '40 F' in one copy; read as 40 C (104 F).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01452"
+  ],
+  "stem": "A young soldier is brought unconscious while on duty in desert terrain. His BP is 70/40 mmHg and he has bleeding from the gums and nose. What is the most likely diagnosis?",
+  "options": {
+   "A": "Heat stroke",
+   "B": "Food poisoning",
+   "C": "Snake bite",
+   "D": "Cerebrovascular accident",
+   "E": "Arsenic poisoning"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Heat stroke causes multi-organ failure with disseminated intravascular coagulation, which explains mucosal bleeding and hypotension.",
+  "key_note": "The month printed (mid-October) is atypical for heat stroke; the paper key (heat stroke) is retained. Viper bite is the alternative cause of bleeding.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00706"
+  ],
+  "stem": "A farmer is brought unconscious with temperature 100 F, a dry tongue and drowsiness. What is the likely cause of the drowsiness?",
+  "options": {
+   "A": "Hypoglycaemia",
+   "B": "Epileptic fit",
+   "C": "Insect bite",
+   "D": "Heat exhaustion",
+   "E": "Head injury"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A dry tongue and a near-normal or mildly raised temperature in a farmer working in the heat point to heat exhaustion from dehydration. Heat stroke has a core temperature above 40 C with severe CNS dysfunction.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03112",
+   "C03251"
+  ],
+  "stem": "Which of the following statements is correct about heat stroke?",
+  "options": {
+   "A": "Death occurs in more than 90% of cases",
+   "B": "Body temperature rises above 104 F (40 C)",
+   "C": "There is bradycardia on examination of the pulse",
+   "D": "The conscious level is always maintained",
+   "E": "There is polyuria with excessive urine output"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Heat stroke is defined by core temperature above 40 C (104 F) with CNS dysfunction, usually with tachycardia and anuria or oliguria; mortality is high but not above 90%.",
+  "key_note": "The source option read 'rises up to 104 F'; reworded to 'above 104 F (40 C)'.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01655"
+  ],
+  "stem": "Which complication of heat stroke can be avoided by giving large amounts of IV fluids?",
+  "options": {
+   "A": "Renal failure",
+   "B": "Hypoglycaemia",
+   "C": "Pulmonary oedema",
+   "D": "DIC",
+   "E": "Liver failure"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Rhabdomyolysis and volume depletion in heat stroke cause acute kidney injury, which is reduced by prompt fluid resuscitation. DIC and liver failure are not prevented by fluids.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01673"
+  ],
+  "stem": "A marathon race is held in August. One athlete collapses just before the finishing line. Which of the following is most likely?",
+  "options": {
+   "A": "Aortic stenosis",
+   "B": "Heat stroke",
+   "C": "Hypertrophic cardiomyopathy",
+   "D": "Pneumothorax",
+   "E": "Pulmonary stenosis"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Strenuous exertion in hot, humid weather in an athlete leads to exertional heat stroke; cardiac causes are possible but less likely in an otherwise unselected runner.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00589"
+  ],
+  "stem": "A 25-year-old man is found unconscious on a January night. BP 110/70 mmHg, pulse 110/min, temperature 35 C, respiratory rate 24/min and systemic examination is normal. What is the most likely diagnosis?",
+  "options": {
+   "A": "Malignant hyperthermia",
+   "B": "Hypothermia",
+   "C": "Pontine haemorrhage",
+   "D": "Tuberculous meningitis",
+   "E": "Meningoencephalitis"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Winter exposure with a low core temperature (35 C or below) and unremarkable examination is hypothermia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01652"
+  ],
+  "stem": "A homeless patient is brought drowsy by rescue on a cold night and hypothermia is suspected. Which ECG finding is expected?",
+  "options": {
+   "A": "Tachycardia",
+   "B": "ST elevations",
+   "C": "J (Osborn) waves",
+   "D": "Delta waves",
+   "E": "T inversions"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Osborn (J) waves, a positive deflection at the QRS-ST junction, are typical of moderate hypothermia, along with bradycardia and prolonged intervals.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00590"
+  ],
+  "stem": "A 30-year-old man is brought in after a high-voltage electric shock at an electric pole. Pulse 88/min, BP 110/70 mmHg, temperature 37 C and respiratory rate 18/min. After the ECG, what is the next important investigation?",
+  "options": {
+   "A": "LFT",
+   "B": "RFT",
+   "C": "Chest X-ray",
+   "D": "Blood CP",
+   "E": "Serum electrolytes"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "High-voltage injury causes muscle necrosis with rhabdomyolysis and myoglobinuria, so renal function (and CK, urine myoglobin) must be checked to prevent acute kidney injury.",
+  "key_note": "Marked key is RFT (yellow highlight in one copy); other copy unmarked.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00953"
+  ],
+  "stem": "A scuba diver develops severe shortness of breath after deep diving. On examination, his chest is clear and heart sounds are normal. The likely cause is:",
+  "options": {
+   "A": "Angina",
+   "B": "Pulmonary hypertension",
+   "C": "Decompression sickness",
+   "D": "Aspiration",
+   "E": "Pneumothorax"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Rapid ascent releases nitrogen bubbles, causing decompression sickness ('the bends' and 'chokes'); treatment is 100% oxygen and recompression in a hyperbaric chamber.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00955"
+  ],
+  "stem": "A soldier develops bluish discolouration of the toes at high altitude, and by the time he reaches base camp his foot has turned blackish. What is the likely diagnosis?",
+  "options": {
+   "A": "Deep vein thrombosis",
+   "B": "Cellulitis",
+   "C": "Gangrene (frostbite)",
+   "D": "Herpes zoster",
+   "E": "Leishmaniasis"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Cold exposure at altitude causes vasoconstriction and frostbite, progressing from blue-white skin to black gangrene.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01404"
+  ],
+  "stem": "A 40-year-old factory worker blacks out and faints. The first aid team finds pulse 90/min regular, BP 120/70 mmHg, afebrile and profusely sweating. What is the next appropriate step?",
+  "options": {
+   "A": "Send a blood sugar sample to the laboratory",
+   "B": "Perform a CT scan of the brain",
+   "C": "Perform an ECG",
+   "D": "Check blood sugar by glucometer",
+   "E": "Perform an EEG"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Sweating with collapse suggests hypoglycaemia, so a rapid bedside glucometer reading is the first test; treatment must not wait for laboratory results.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01580"
+  ],
+  "stem": "A 20-year-old student is found unconscious in his hotel room. A classmate reports jerky movements, frothing at the mouth and up-rolling of the eyeballs. What is the likely cause?",
+  "options": {
+   "A": "Hypoglycaemia",
+   "B": "Epilepsy",
+   "C": "Physical and mental exhaustion",
+   "D": "Sleep deprivation",
+   "E": "Conversion reaction"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Jerky tonic-clonic movements with frothing and eye rolling, followed by unresponsiveness, are a generalised tonic-clonic seizure (epilepsy).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03252"
+  ],
+  "stem": "A 60-year-old man is found collapsed on the street. Pulse 80/min, BP 180/100 mmHg, blood sugar 160 mg/dl, GCS 9/15 (M3, V2, E4), with a left upgoing plantar and hyper-reflexia in the left upper and lower limbs. What is the likely diagnosis?",
+  "options": {
+   "A": "Meningitis",
+   "B": "Hypoglycaemia",
+   "C": "Poisoning",
+   "D": "Epilepsy",
+   "E": "Stroke"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Sudden collapse with hypertension and a unilateral upper motor neuron picture (upgoing plantar and hyper-reflexia) is a stroke, probably haemorrhagic given the depressed consciousness.",
+  "key_note": "Blood sugar was printed in g/dl; read as mg/dl.",
+  "figure": ""
+ }
+]

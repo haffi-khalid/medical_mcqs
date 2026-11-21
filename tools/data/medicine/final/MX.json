@@ -1,0 +1,200 @@
+[
+ {
+  "cids": [
+   "C00132"
+  ],
+  "stem": "A 15-year-old girl is treated with metoclopramide for nausea and vomiting. Which one of the following side effects can be expected?",
+  "options": {
+   "A": "Bronchospasm",
+   "B": "Dry cough",
+   "C": "Dry mouth",
+   "D": "Peripheral oedema",
+   "E": "Oculogyric crisis"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Metoclopramide is a central D2 blocker and causes acute dystonic reactions such as oculogyric crisis, especially in young women and children.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00133"
+  ],
+  "stem": "Propranolol is used to treat anxiety in a 21-year-old woman with asthma. Which side effect can be expected?",
+  "options": {
+   "A": "Agitation",
+   "B": "Bronchospasm",
+   "C": "Dry cough",
+   "D": "Dry mouth",
+   "E": "Nausea and vomiting"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Propranolol is a non-selective beta-blocker; blocking beta-2 receptors in the airways can precipitate bronchospasm, so it is contraindicated in asthma.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00939"
+  ],
+  "stem": "A 34-year-old is diagnosed with chronic fatigue syndrome. Which one of the following interventions is most useful?",
+  "options": {
+   "A": "Graded exercise therapy",
+   "B": "Psychodynamic psychotherapy",
+   "C": "Graded physiotherapy",
+   "D": "Advice to avoid alcohol and caffeine",
+   "E": "Low-dose fluoxetine"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Traditional exam teaching gives graded exercise therapy and cognitive behavioural therapy as the evidence-based treatments for chronic fatigue syndrome.",
+  "key_note": "Marked A in one paper, unmarked in the other; recent NICE guidance has withdrawn graded exercise therapy, but A remains the standard exam answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03113"
+  ],
+  "stem": "An X-ray technician presents to your OPD for annual medical examination, concerned about the hazards of radiation exposure. The positive clinical finding indicating radiation exposure will be:",
+  "options": {
+   "A": "Excessive growth of hair",
+   "B": "Constipation",
+   "C": "Hair loss",
+   "D": "Hypothermia",
+   "E": "Hypertension"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Rapidly dividing tissues are radiosensitive; epilation (hair loss) is a classic early deterministic effect of radiation exposure.",
+  "key_note": "One copy had a printed key giving B (constipation), but the bold/marked option C is correct; hair loss is the recognised radiation effect.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03178"
+  ],
+  "stem": "Which of the following investigations is an invasive investigation?",
+  "options": {
+   "A": "Plain X-ray skull",
+   "B": "CT scan brain",
+   "C": "Lumbar puncture for CSF examination",
+   "D": "Abdominal ultrasonography",
+   "E": "Electroencephalogram"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Lumbar puncture breaches the skin and enters the subarachnoid space, so it is invasive; the other options are non-invasive imaging or recording.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00951"
+  ],
+  "stem": "Which of the following signs is used to confirm death in clinical practice?",
+  "options": {
+   "A": "Feeble pulse",
+   "B": "Temperature 98.6 F",
+   "C": "Irregular rhythm on ECG",
+   "D": "Flat ECG",
+   "E": "BP below 60 mmHg"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Death is confirmed by irreversible cessation of circulation and respiration, shown by absent pulse and heart sounds with a flat ECG (asystole).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01167"
+  ],
+  "stem": "Psychiatry is a branch of:",
+  "options": {
+   "A": "Special pathology",
+   "B": "Forensic medicine",
+   "C": "Behavioural sciences",
+   "D": "Medicine",
+   "E": "Medical ethics"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Psychiatry is the medical speciality concerned with mental disorders.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02322"
+  ],
+  "stem": "A 28-year-old factory worker complains of difficulty hearing and constant ringing in his ears after working in a noisy environment for several years. He often has to raise his voice to speak to coworkers. What is the most likely diagnosis?",
+  "options": {
+   "A": "Otosclerosis",
+   "B": "Presbycusis",
+   "C": "Conductive hearing loss",
+   "D": "Noise-induced hearing loss",
+   "E": "Meniere's disease"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Chronic occupational noise exposure damages cochlear hair cells, causing bilateral sensorineural hearing loss and tinnitus.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02573"
+  ],
+  "stem": "Double bubble sign on X-ray is seen in:",
+  "options": {
+   "A": "Duodenal perforation",
+   "B": "Duodenal atresia",
+   "C": "Gastric ulcer",
+   "D": "Pyloric stenosis",
+   "E": "Appendicitis"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "The double bubble shows gas in the stomach and proximal duodenum above an obstruction, classically duodenal atresia (associated with Down syndrome).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02574"
+  ],
+  "stem": "Which of the following is NOT a typical feature of acute appendicitis?",
+  "options": {
+   "A": "Neutrophilia",
+   "B": "Profuse vomiting",
+   "C": "Anorexia",
+   "D": "Pyrexia",
+   "E": "Abdominal pain"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Acute appendicitis typically gives periumbilical then right iliac fossa pain, anorexia, low-grade fever and neutrophilia; vomiting, if present, is mild and follows the pain, profuse vomiting is not typical.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03226"
+  ],
+  "stem": "A 50-year-old woman presents with small bowel obstruction. On examination she has a hard, tender mass lateral and inferior to the pubic tubercle. What is the likely diagnosis?",
+  "options": {
+   "A": "Direct inguinal hernia",
+   "B": "Indirect inguinal hernia",
+   "C": "Femoral hernia",
+   "D": "Obturator hernia",
+   "E": "Spigelian hernia"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A femoral hernia lies below and lateral to the pubic tubercle, is commoner in women, and readily strangulates with small bowel obstruction.",
+  "key_note": "",
+  "figure": ""
+ }
+]

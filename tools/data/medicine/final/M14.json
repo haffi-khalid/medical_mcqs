@@ -1,0 +1,395 @@
+[
+ {
+  "cids": [
+   "C01003"
+  ],
+  "stem": "The tumour marker for carcinoma colon is:",
+  "options": {
+   "A": "Alpha fetoprotein",
+   "B": "Carcino-embryonic antigen",
+   "C": "PSA",
+   "D": "HLA-B27",
+   "E": "CA-125"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "CEA is the marker for colorectal cancer, used mainly to monitor response and detect recurrence rather than for screening. AFP is for hepatocellular carcinoma and germ cell tumours, PSA for prostate, CA-125 for ovary.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00082"
+  ],
+  "stem": "A 56-year-old man has a 1-month history of weight loss, anorexia and worsening jaundice. Bilirubin is 300 umol/L, AST 55 IU/L and alkaline phosphatase 960 IU/L. Which of the following markers is likely to be elevated?",
+  "options": {
+   "A": "Alpha-fetoprotein",
+   "B": "CA 125",
+   "C": "CA 19-9",
+   "D": "Carcinoembryonic antigen",
+   "E": "Prostate-specific antigen"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Progressive obstructive jaundice with weight loss suggests carcinoma of the head of pancreas, for which CA 19-9 is the marker. CEA is less specific and is the colorectal marker.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00134"
+  ],
+  "stem": "A 54-year-old woman has a fixed, craggy mass in the upper outer quadrant of her right breast. She is also tender in the right upper quadrant of her abdomen. Which of the following is likely to be raised?",
+  "options": {
+   "A": "Alpha-fetoprotein",
+   "B": "Human chorionic gonadotropin",
+   "C": "Alkaline phosphatase",
+   "D": "BRCA-1",
+   "E": "CA 15-3"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "CA 15-3 is the tumour marker of breast carcinoma. BRCA-1 is a gene, not a serum marker, and AFP and hCG relate to liver and germ cell tumours.",
+  "key_note": "Yellow highlight was on D (BRCA-1) but a green correction marked E; correct is E (CA 15-3), as BRCA-1 is a gene, not a serum marker. Alkaline phosphatase (C) may also rise with liver or bone metastases, but CA 15-3 is the intended answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00060"
+  ],
+  "stem": "A 50-year-old man attends the emergency department with episodes of flushing and diarrhoea associated with difficulty in breathing, precipitated by stress. His blood pressure is 130/86 mmHg and heart rate 82 beats/min. Which test would suggest the expected diagnosis?",
+  "options": {
+   "A": "17-hydroxyprogesterone levels",
+   "B": "24-hour urinary 5-hydroxyindole acetic acid",
+   "C": "Aldosterone and renin levels",
+   "D": "Dexamethasone suppression test",
+   "E": "Parathyroid hormone and calcium levels"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Flushing, diarrhoea and bronchospasm are the carcinoid syndrome, diagnosed by raised 24-hour urinary 5-HIAA, the breakdown product of serotonin.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02656"
+  ],
+  "stem": "A 35-year-old man presents with abdominal pain and diarrhoea for 2 weeks. He has flushing episodes and a blood test reveals elevated serotonin levels. What is the most likely diagnosis?",
+  "options": {
+   "A": "Carcinoid syndrome",
+   "B": "Insulinoma",
+   "C": "Pheochromocytoma",
+   "D": "VIPoma",
+   "E": "Zollinger-Ellison syndrome"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Flushing, diarrhoea and raised serotonin are typical of carcinoid syndrome, which usually occurs once liver metastases let serotonin escape first-pass metabolism.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03038",
+   "C00235"
+  ],
+  "stem": "Which of the following is a paraneoplastic feature in a patient with carcinoma of lung?",
+  "options": {
+   "A": "Pleural effusion",
+   "B": "Pancoast tumour",
+   "C": "Desaturation",
+   "D": "Cushing's syndrome",
+   "E": "Shortness of breath"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Cushing's syndrome from ectopic ACTH is a paraneoplastic effect. Pleural effusion, Pancoast tumour and dyspnoea are local effects of the tumour.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00095"
+  ],
+  "stem": "A 65-year-old woman with known small cell lung cancer presents with hirsutism. On examination she has a plethoric face, acne, abdominal striae and multiple bruises. Which test would help in diagnosis?",
+  "options": {
+   "A": "Aldosterone and renin levels",
+   "B": "Dexamethasone suppression test",
+   "C": "Serum calcitonin",
+   "D": "Short synacthen test",
+   "E": "Vitamin D levels"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "This is ectopic ACTH Cushing's syndrome; the dexamethasone suppression test (high dose, with ACTH levels) confirms hypercortisolism and its source. The short synacthen test assesses adrenal insufficiency.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00798"
+  ],
+  "stem": "A 70-year-old cigarette smoker, wasted and clubbed, is found to have the syndrome of inappropriate ADH secretion (SIADH). The cause could be:",
+  "options": {
+   "A": "Carcinoid syndrome",
+   "B": "Pulmonary tuberculosis",
+   "C": "Pneumothorax",
+   "D": "Bronchogenic carcinoma",
+   "E": "Mesothelioma"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Small cell bronchogenic carcinoma is the classic malignant cause of SIADH via ectopic ADH. TB can also cause it, but in a wasted, clubbed smoker carcinoma is the answer.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00137"
+  ],
+  "stem": "A 67-year-old man with known small cell lung carcinoma is brought to the emergency department after a seizure. Sodium is 112 mmol/L, potassium 4.6 mmol/L, urea 5 mmol/L and creatinine 110 umol/L. His urine is very concentrated. What is the diagnosis?",
+  "options": {
+   "A": "Addisonian crisis",
+   "B": "Chemotherapy complication",
+   "C": "Hypercalcaemia",
+   "D": "Syndrome of inappropriate ADH secretion",
+   "E": "Tumour lysis syndrome"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Hyponatraemia with concentrated urine and normal potassium and urea in small cell lung cancer is SIADH. Addison's would give hyperkalaemia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00096"
+  ],
+  "stem": "A 74-year-old man with known small cell lung cancer has a corrected calcium of 2.8 mmol/L (reference 2.2-2.6) and a very low parathyroid hormone. The underlying cause would be:",
+  "options": {
+   "A": "Bone metastases",
+   "B": "Iatrogenic calcium overdose",
+   "C": "Parathyroid hormone-related protein secretion",
+   "D": "Pseudohypoparathyroidism",
+   "E": "Pseudopseudohypoparathyroidism"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Hypercalcaemia with suppressed PTH in malignancy indicates humoral hypercalcaemia from PTHrP secretion. Bone metastases are possible but PTHrP is the standard answer in this scenario.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02130"
+  ],
+  "stem": "A 69-year-old heavy smoker has left loin pain, a palpable loin mass and haematuria. Renal ultrasound shows a large complex mass in the upper pole of the left kidney. His haemoglobin is 18 g/dL. What is the cause of this haemoglobin value?",
+  "options": {
+   "A": "Paraneoplastic manifestation",
+   "B": "Haemoconcentration",
+   "C": "Syndrome of inappropriate ADH secretion",
+   "D": "Bone marrow irritation by cancer cells"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Renal cell carcinoma can secrete erythropoietin ectopically, causing secondary polycythaemia, a paraneoplastic effect.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01862"
+  ],
+  "stem": "A 56-year-old man presents with unintentional weight loss. He has hyperpigmented, velvety, itchy skin thickening in the axillae. What is the likely diagnosis?",
+  "options": {
+   "A": "Candidiasis",
+   "B": "Addison's disease",
+   "C": "Lichen planus",
+   "D": "Insulin resistance"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Velvety hyperpigmented axillary plaques are acanthosis nigricans, usually a marker of insulin resistance. Rapid onset with weight loss and itch should prompt a search for an underlying visceral (usually gastric) malignancy.",
+  "key_note": "Source marked D (insulin resistance); the stem with weight loss suggests malignant acanthosis nigricans, but D is the only option that fits the skin sign.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02808"
+  ],
+  "stem": "A 75-year-old man has had shortness of breath and productive cough for 10 years controlled with inhalers, worsening over 3 months. He has difficulty rising from a squatting toilet, diplopia and 15 kg weight loss. What is the most likely cause?",
+  "options": {
+   "A": "Hypokalaemia",
+   "B": "Lambert-Eaton syndrome",
+   "C": "Muscular dystrophy",
+   "D": "Myasthenia gravis",
+   "E": "Peripheral neuropathy"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Proximal weakness in a smoker with weight loss suggests Lambert-Eaton myasthenic syndrome, a paraneoplastic condition of small cell lung cancer. Diplopia can occur but is less prominent than in myasthenia gravis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02341"
+  ],
+  "stem": "A 75-year-old woman presents with dysphagia for three months. Upper endoscopy shows multiple mid-oesophageal lesions with biopsies suggestive of metastatic disease. What is the most likely primary cancer?",
+  "options": {
+   "A": "Breast cancer",
+   "B": "Endometrial carcinoma",
+   "C": "Lung cancer",
+   "D": "Pancreatic cancer",
+   "E": "Renal cell carcinoma"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Lung cancer is the answer accepted in the source papers; oesophageal metastases arise mainly from lung and breast primaries.",
+  "key_note": "Per source papers (all marked C); breast is the other main source of oesophageal metastases.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00135"
+  ],
+  "stem": "A 75-year-old man with lung cancer presents with a swollen face, headache and worsening shortness of breath. On examination there are engorged veins on his face and chest. Which condition is he suffering from?",
+  "options": {
+   "A": "Chemotherapy complication",
+   "B": "Hypercalcaemia",
+   "C": "Raised intracranial pressure",
+   "D": "Superior vena caval obstruction",
+   "E": "Syndrome of inappropriate ADH secretion"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Facial swelling, headache and engorged neck, face and chest veins are superior vena cava obstruction, commonly from lung cancer or lymphoma.",
+  "key_note": "Yellow highlight was on E (SIADH) but a green correction marked D; correct is D, SVC obstruction.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00136"
+  ],
+  "stem": "A 62-year-old man with metastatic prostate carcinoma presents with sudden-onset leg weakness, reduced power in both legs, brisk knee and ankle reflexes and bilateral up-going plantars. What is the complication?",
+  "options": {
+   "A": "Intracerebral bleed",
+   "B": "Meningitis",
+   "C": "Raised intracranial pressure",
+   "D": "Spinal cord compression",
+   "E": "Tumour lysis syndrome"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Bilateral leg weakness with upper motor neuron signs in a patient with spinal metastases is metastatic spinal cord compression, an oncological emergency needing urgent MRI, dexamethasone and radiotherapy or surgery.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00927"
+  ],
+  "stem": "The following biochemical feature is NOT seen in tumour lysis syndrome:",
+  "options": {
+   "A": "Hyperkalaemia",
+   "B": "Hypercalcaemia",
+   "C": "Hyperuricaemia",
+   "D": "Hyperuricosuria"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Tumour lysis causes hyperkalaemia, hyperphosphataemia, hyperuricaemia and hypocalcaemia (calcium binds the excess phosphate), not hypercalcaemia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01825"
+  ],
+  "stem": "A 30-year-old man undergoing chemotherapy for acute myeloid leukaemia develops features of tumour lysis syndrome. The best treatment option is:",
+  "options": {
+   "A": "Antibiotics",
+   "B": "Blood products",
+   "C": "Dialysis",
+   "D": "IV fluids"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Aggressive IV hydration (with allopurinol or rasburicase) is the first-line treatment and prophylaxis; dialysis is reserved for refractory hyperkalaemia or renal failure.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01989"
+  ],
+  "stem": "A patient with leukaemia is started on chemotherapy. During the second cycle he develops severe joint pains and his serum uric acid is 9.3 mg/dL. Which of the following is recommended?",
+  "options": {
+   "A": "Corticosteroids",
+   "B": "Allopurinol",
+   "C": "Dextrose water",
+   "D": "High protein diet",
+   "E": "Antibiotics"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Chemotherapy-induced cell lysis raises uric acid and causes gout; allopurinol (or rasburicase in high-risk cases) lowers uric acid and prevents urate nephropathy.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02007"
+  ],
+  "stem": "A 61-year-old man with limited small cell lung cancer presents with diffuse bone pain while receiving chemotherapy and radiotherapy. Serum alkaline phosphatase is elevated with otherwise normal liver function tests, and plain X-rays of several bony sites look normal. What would you do?",
+  "options": {
+   "A": "Repeat skeletal survey using plain X-rays",
+   "B": "MRI of the entire spine",
+   "C": "Radioisotope bone scanning",
+   "D": "Serum phosphate",
+   "E": "CT brain"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Bone pain with raised ALP and normal X-rays suggests bony metastases, which are best screened for by a radioisotope bone scan, more sensitive than plain films.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01300"
+  ],
+  "stem": "A patient presents with a non-healing ulcer in the oral cavity for 3 months. What will you suggest?",
+  "options": {
+   "A": "Improve dental hygiene",
+   "B": "Biopsy of ulcer",
+   "C": "Oral antibiotics",
+   "D": "Oral antifungals",
+   "E": "Multivitamins"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "An oral ulcer persisting beyond 3 weeks is malignant until proven otherwise (squamous cell carcinoma); biopsy is required.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01257"
+  ],
+  "stem": "Which of the following is NOT a premalignant condition of the oral mucosa?",
+  "options": {
+   "A": "Oral lichen planus",
+   "B": "Verrucous hyperplasia",
+   "C": "Oral submucous fibrosis",
+   "D": "Oesophageal candidiasis",
+   "E": "Oral erythroplakia"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Verrucous hyperplasia, submucous fibrosis, erythroplakia and (erosive) lichen planus are potentially premalignant oral lesions. Oesophageal candidiasis is not an oral mucosal lesion and is not premalignant.",
+  "key_note": "Source option A (oral hairy leukoplakia) is also not premalignant, so the original had two defensible answers; replaced with oral lichen planus. Paper key D kept.",
+  "figure": ""
+ }
+]

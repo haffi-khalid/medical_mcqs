@@ -1,0 +1,3414 @@
+[
+ {
+  "cids": [
+   "C00918"
+  ],
+  "stem": "Which clinical sign is NOT characteristic of the anaemic syndrome?",
+  "options": {
+   "A": "Pallor of skin",
+   "B": "Lymphadenopathy",
+   "C": "Trophic changes of skin, nails and hair",
+   "D": "Systolic murmur at the cardiac apex"
+  },
+  "answer": "B",
+  "explanation": "Anaemia causes pallor, trophic changes (koilonychia, hair and skin dryness) and a flow systolic murmur, but not lymphadenopathy, which points to infection, lymphoma or leukaemia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00917"
+  ],
+  "stem": "Which of the following anaemias is NOT typically microcytic and hypochromic?",
+  "options": {
+   "A": "Iron deficiency anaemia",
+   "B": "Beta thalassaemia major",
+   "C": "Beta thalassaemia minor",
+   "D": "Anaemia of chronic disease"
+  },
+  "answer": "D",
+  "explanation": "Anaemia of chronic disease is classically normocytic normochromic (occasionally mildly microcytic), whereas iron deficiency and thalassaemias are microcytic hypochromic.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00916"
+  ],
+  "stem": "Which laboratory result is NOT characteristic of iron deficiency anaemia?",
+  "options": {
+   "A": "Decreased transferrin saturation",
+   "B": "Decreased serum iron",
+   "C": "Decreased MCHC",
+   "D": "Decreased total iron binding capacity"
+  },
+  "answer": "D",
+  "explanation": "In iron deficiency the TIBC (transferrin) is raised, while serum iron, ferritin, saturation and MCHC are low.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00920"
+  ],
+  "stem": "In which of the following anaemias is the reticulocyte count increased?",
+  "options": {
+   "A": "Acute post-haemorrhagic anaemia",
+   "B": "Vitamin B12 deficiency",
+   "C": "Aplastic anaemia",
+   "D": "Anaemia of chronic disease"
+  },
+  "answer": "A",
+  "explanation": "After acute blood loss a healthy marrow responds with reticulocytosis, whereas B12 deficiency, aplasia and chronic disease give an inappropriately low count.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00836"
+  ],
+  "stem": "Reticulocytosis is a feature of which of the following conditions?",
+  "options": {
+   "A": "Aplastic anaemia",
+   "B": "Haemolytic anaemia",
+   "C": "Iron deficiency anaemia",
+   "D": "Megaloblastic anaemia",
+   "E": "Porphyria"
+  },
+  "answer": "B",
+  "explanation": "Haemolysis drives compensatory marrow erythropoiesis, raising the reticulocyte count; aplastic, untreated iron deficiency and megaloblastic anaemia have a low count.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00971",
+   "C01026",
+   "C01573"
+  ],
+  "stem": "A young pregnant woman has Hb 8.6 g/dL, WBC 6,700/mm3, platelets 180,000/mm3 and koilonychia, and iron deficiency anaemia is diagnosed. Which laboratory feature fits?",
+  "options": {
+   "A": "Low serum iron and low TIBC",
+   "B": "Low TIBC and high serum iron",
+   "C": "Macrocytic hyperchromic blood film",
+   "D": "Low serum ferritin and high TIBC",
+   "E": "High serum ferritin"
+  },
+  "answer": "D",
+  "explanation": "Iron deficiency gives low ferritin and serum iron with a compensatory raised TIBC; a low TIBC suggests chronic disease.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00542"
+  ],
+  "stem": "A 40-year-old woman from a poor village presents with exertional dyspnoea, palpitations and fatigue for 2 months. She is markedly pale with koilonychia. Hb is 7 g/dL and MCV is 60 fL. What is the most likely diagnosis?",
+  "options": {
+   "A": "Beta thalassaemia",
+   "B": "Iron deficiency anaemia",
+   "C": "Megaloblastic anaemia",
+   "D": "Sideroblastic anaemia",
+   "E": "Anaemia of chronic disease"
+  },
+  "answer": "B",
+  "explanation": "Koilonychia with microcytic anaemia in a malnourished woman points to iron deficiency, the commonest anaemia in Pakistan.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00281"
+  ],
+  "stem": "A young man from a village presents with exertional shortness of breath for 1 month. His blood picture shows Hb 8 g/dL, MCV 60 fL and MCHC 20 g/dL. What is the most likely cause?",
+  "options": {
+   "A": "Vegan diet",
+   "B": "Beta thalassaemia major",
+   "C": "Hookworm infestation",
+   "D": "Phenytoin toxicity",
+   "E": "Chronic renal failure"
+  },
+  "answer": "C",
+  "explanation": "Severe microcytic hypochromic anaemia in a rural male suggests chronic blood loss from hookworm; thalassaemia major would present in childhood and a vegan diet or phenytoin gives macrocytosis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00299",
+   "C00490",
+   "C02367"
+  ],
+  "stem": "A 45-year-old woman with menorrhagia has Hb 6.8 g/dL, MCV 65 fL and MCH 28 pg, and iron deficiency anaemia is diagnosed. What is the indication for parenteral iron in this patient?",
+  "options": {
+   "A": "Hb less than 8 g/dL",
+   "B": "Serum iron less than 40 micrograms/dL",
+   "C": "Serum ferritin less than 100 ng/mL",
+   "D": "Intolerance to oral iron",
+   "E": "TIBC more than 100"
+  },
+  "answer": "D",
+  "explanation": "Oral iron is the treatment of choice; parenteral iron is reserved for intolerance or non-response to oral iron, malabsorption, or ongoing losses exceeding oral replacement. The degree of anaemia alone is not an indication.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00277"
+  ],
+  "stem": "A 55-year-old woman with a history of iron deficiency anaemia has intermittent difficulty swallowing solids for a few months. Her serum iron is low and TIBC raised. Upper GI endoscopy shows an oesophageal web in the mid-oesophagus. What is the likely diagnosis?",
+  "options": {
+   "A": "Achalasia",
+   "B": "Barrett's oesophagus",
+   "C": "Oesophageal carcinoma",
+   "D": "Mallory-Weiss tear",
+   "E": "Plummer-Vinson syndrome"
+  },
+  "answer": "E",
+  "explanation": "Iron deficiency anaemia, dysphagia and a post-cricoid or upper oesophageal web make up Plummer-Vinson (Paterson-Kelly) syndrome, which is treated with iron and dilatation.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00048"
+  ],
+  "stem": "A 55-year-old woman with long-standing rheumatoid arthritis, treated only symptomatically with paracetamol, has Hb 10.5 g/dL, MCV 80 fL and a raised ferritin. What is the most likely cause of her anaemia?",
+  "options": {
+   "A": "Anaemia of chronic disease",
+   "B": "Hereditary spherocytosis",
+   "C": "Iron deficiency anaemia",
+   "D": "Normal variant",
+   "E": "Sickle cell anaemia"
+  },
+  "answer": "A",
+  "explanation": "Chronic inflammation raises hepcidin, trapping iron in stores: a mild normocytic anaemia with normal or raised ferritin.",
+  "key_note": "The source printed no question sentence after the stem; one was added.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00922"
+  ],
+  "stem": "Which of the following may cause megaloblastic anaemia?",
+  "options": {
+   "A": "Folic acid deficiency",
+   "B": "Anaemia of chronic disease",
+   "C": "Chronic blood loss",
+   "D": "Oxidative stress"
+  },
+  "answer": "A",
+  "explanation": "Megaloblastic anaemia results from impaired DNA synthesis, most directly from folate or vitamin B12 deficiency; chronic blood loss causes iron deficiency, anaemia of chronic disease is normocytic and oxidative stress causes haemolysis.",
+  "key_note": "Distractor 'Gastrectomy' (which can cause B12 deficiency) replaced so that folic acid deficiency is the only correct option.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00883"
+  ],
+  "stem": "Megaloblastic anaemia in a patient with epilepsy can be produced by which drug?",
+  "options": {
+   "A": "Carbamazepine",
+   "B": "Clonazepam",
+   "C": "Diazepam",
+   "D": "Phenytoin sodium",
+   "E": "Sodium valproate"
+  },
+  "answer": "D",
+  "explanation": "Phenytoin (and phenobarbitone, primidone) impairs folate absorption and increases its metabolism, causing folate deficiency and megaloblastic anaemia.",
+  "key_note": "Paper key marked A (carbamazepine); phenytoin is the classic anticonvulsant cause, so D is correct.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00835"
+  ],
+  "stem": "Which of the following is a cause of macrocytosis without megaloblastic anaemia?",
+  "options": {
+   "A": "Liver disease",
+   "B": "Pernicious anaemia",
+   "C": "Folate deficiency",
+   "D": "Thalassaemia",
+   "E": "Haemochromatosis"
+  },
+  "answer": "A",
+  "explanation": "Liver disease, alcohol, hypothyroidism and reticulocytosis cause non-megaloblastic macrocytosis; pernicious anaemia and folate deficiency are megaloblastic, and thalassaemia is microcytic.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00749"
+  ],
+  "stem": "A 40-year-old strict vegetarian woman complains of tiredness, easy fatigability, numbness and tingling of the hands, and megaloblastic anaemia is suspected. What will the RBC picture on the peripheral film be?",
+  "options": {
+   "A": "Microcytic hypochromic",
+   "B": "Microcytic hyperchromic",
+   "C": "Macrocytic hypochromic",
+   "D": "Macrocytic hyperchromic",
+   "E": "Dimorphic"
+  },
+  "answer": "D",
+  "explanation": "Vitamin B12 deficiency gives oval macrocytes that lack central pallor (loosely called hyperchromic) with hypersegmented neutrophils; the neuropathic symptoms support B12 deficiency.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00752"
+  ],
+  "stem": "A 52-year-old woman with hypothyroidism presents with lethargy and a sore tongue. Hb is 9.2 g/dL, MCV 121 fL, platelets 177,000/mm3 and WBC 5,400/mm3. What is the most likely diagnosis?",
+  "options": {
+   "A": "Coeliac disease",
+   "B": "Iron deficiency anaemia",
+   "C": "Myxoedema coma",
+   "D": "Thiamine deficiency",
+   "E": "Megaloblastic anaemia"
+  },
+  "answer": "E",
+  "explanation": "Macrocytic anaemia with glossitis in an autoimmune hypothyroid patient suggests pernicious anaemia (B12 deficiency), a common co-association.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00282"
+  ],
+  "stem": "A 50-year-old man had a major surgery after a road traffic accident in which his terminal ileum was removed. Six months later he has palpitations, breathlessness and fatigue, with Hb 4 g/dL and MCV 116 fL. Which deficiency is the most likely cause?",
+  "options": {
+   "A": "Iron deficiency",
+   "B": "Folic acid deficiency",
+   "C": "Vitamin B12 deficiency",
+   "D": "Vitamin C deficiency",
+   "E": "Vitamin B6 deficiency"
+  },
+  "answer": "C",
+  "explanation": "Vitamin B12 bound to intrinsic factor is absorbed in the terminal ileum, so its resection causes B12 deficiency and macrocytic anaemia after the body stores run out in months to years.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00280"
+  ],
+  "stem": "A 55-year-old man has epigastric discomfort and anorexia for 6 months. He is severely pale and mildly jaundiced, with no hepatosplenomegaly or lymphadenopathy. Hb is 5 g/dL, MCV 112 fL, with hypersegmented neutrophils on the film; bilirubin 4.5 mg/dL, ALT 25 U/L, ALP 140 U/L. What is the most likely diagnosis?",
+  "options": {
+   "A": "Aplastic anaemia",
+   "B": "Acute myeloid leukaemia",
+   "C": "Haemolytic anaemia",
+   "D": "Gilbert syndrome",
+   "E": "Megaloblastic anaemia"
+  },
+  "answer": "E",
+  "explanation": "Macrocytosis with hypersegmented neutrophils is megaloblastic anaemia; ineffective erythropoiesis causes mild unconjugated hyperbilirubinaemia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00405"
+  ],
+  "stem": "A 50-year-old woman presents with fatigue, palpitations and numbness of the lower limbs for 3 months. Hb is 8 g/dL and MCV 122 fL. What is the likely finding on the peripheral smear?",
+  "options": {
+   "A": "Hypersegmented neutrophils",
+   "B": "Blast cells",
+   "C": "Howell-Jolly bodies",
+   "D": "Metamyelocytes",
+   "E": "Plasma cells"
+  },
+  "answer": "A",
+  "explanation": "Macrocytic anaemia with neuropathy suggests B12 deficiency, whose smear shows macro-ovalocytes and hypersegmented neutrophils (more than 5 lobes).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00283",
+   "C00492"
+  ],
+  "stem": "A 50-year-old man with marked weakness has Hb 6.5 g/dL and MCV 125 fL. Giant megakaryocytes are seen on the film and serum B12 is low. Which test is most appropriate to reach the diagnosis?",
+  "options": {
+   "A": "Anti-gliadin antibody",
+   "B": "Anti-tissue transglutaminase antibody",
+   "C": "Anti-intrinsic factor antibody",
+   "D": "Anti-GAD-65 antibody",
+   "E": "Anti-mitochondrial antibody"
+  },
+  "answer": "C",
+  "explanation": "Anti-intrinsic factor antibody is highly specific for pernicious anaemia; anti-parietal cell antibody is sensitive but less specific.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00491",
+   "C02368"
+  ],
+  "stem": "A 55-year-old man presents with weakness, fatigability and increasing pallor. Hb is 7.5 g/dL, MCV 115 fL and the film shows hypersegmented neutrophils. Which LFT abnormality do you expect?",
+  "options": {
+   "A": "Raised bilirubin with normal ALT and AST",
+   "B": "Raised bilirubin with raised alkaline phosphatase",
+   "C": "Raised bilirubin with raised ALT",
+   "D": "Normal bilirubin with raised ALT",
+   "E": "Normal bilirubin with normal alkaline phosphatase"
+  },
+  "answer": "A",
+  "explanation": "Ineffective erythropoiesis and haemolysis of fragile megaloblasts give unconjugated hyperbilirubinaemia with raised LDH, while liver enzymes and ALP stay normal.",
+  "key_note": "Several paper keys marked B (raised bilirubin with raised ALP); correct is A, since ALP is not raised in megaloblastic anaemia.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00831"
+  ],
+  "stem": "Features of haemolysis include all of the following EXCEPT:",
+  "options": {
+   "A": "Raised bilirubin",
+   "B": "Raised LDH",
+   "C": "Low reticulocyte count",
+   "D": "Raised urobilinogen",
+   "E": "Decreased haptoglobin"
+  },
+  "answer": "C",
+  "explanation": "Haemolysis gives a high reticulocyte count; bilirubin, LDH and urobilinogen rise and haptoglobin falls.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00925"
+  ],
+  "stem": "Which manifestation of sickle cell disease warrants transfusion?",
+  "options": {
+   "A": "Aplastic crisis",
+   "B": "Uncomplicated vaso-occlusive crisis",
+   "C": "Priapism",
+   "D": "None of the above"
+  },
+  "answer": "A",
+  "explanation": "Aplastic crisis (parvovirus B19) causes a precipitous fall in Hb with reticulocytopenia and needs transfusion; uncomplicated painful crises are managed with analgesia, fluids and oxygen.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00301",
+   "C00494",
+   "C01107"
+  ],
+  "stem": "A 16-year-old boy is brought to the medical OPD with retarded growth, weakness and fatigue along with hepatosplenomegaly. There is a family history of thalassaemia in a first-degree relative. Which investigation would confirm the diagnosis?",
+  "options": {
+   "A": "CBC",
+   "B": "Peripheral smear",
+   "C": "Haemoglobin electrophoresis",
+   "D": "Iron profile",
+   "E": "TIBC"
+  },
+  "answer": "C",
+  "explanation": "Haemoglobin electrophoresis (or HPLC) confirms thalassaemia by showing raised HbF or HbA2 and absent or reduced HbA; the smear is only supportive.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00970"
+  ],
+  "stem": "A young girl presents with fatigue and shortness of breath. She is pale; Hb is 7 g/dL, MCV 64 fL with microcytosis and hypochromia, and the white cell count and platelets are normal. What is the likely cause?",
+  "options": {
+   "A": "Anaemia of chronic disease",
+   "B": "Megaloblastic anaemia",
+   "C": "Thalassaemia minor",
+   "D": "Chronic renal failure",
+   "E": "Aplastic anaemia"
+  },
+  "answer": "C",
+  "explanation": "Microcytic hypochromic anaemia with a very low MCV and normal other counts in a young girl suggests thalassaemia trait; iron deficiency would also be considered and is excluded by ferritin.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00830",
+   "C02000",
+   "C02121"
+  ],
+  "stem": "A young girl presents with microcytic anaemia with MCV 58 fL, but her serum ferritin, iron and TIBC are within the normal range. What is the likely diagnosis?",
+  "options": {
+   "A": "Vitamin B12 deficiency",
+   "B": "Anaemia of chronic illness",
+   "C": "Thalassaemia",
+   "D": "Iron deficiency anaemia",
+   "E": "Sideroblastic anaemia"
+  },
+  "answer": "C",
+  "explanation": "A disproportionately low MCV with normal iron studies indicates a globin chain disorder (thalassaemia trait).",
+  "key_note": "The source stem was split across the option list; stem repaired and options re-lettered.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00923"
+  ],
+  "stem": "The treatment of thalassaemia includes:",
+  "options": {
+   "A": "Stem cell transplant",
+   "B": "Blood transfusion",
+   "C": "Iron chelation",
+   "D": "All of the above"
+  },
+  "answer": "D",
+  "explanation": "Thalassaemia major needs regular transfusion with iron chelation, and allogeneic stem cell transplant is the only cure.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00521",
+   "C01250"
+  ],
+  "stem": "A patient with thalassaemia develops Hb of 5 g/dL with shortness of breath and weakness. What will be the management?",
+  "options": {
+   "A": "Iron supplements",
+   "B": "Vitamin B12 supplements",
+   "C": "Blood transfusion",
+   "D": "Platelet transfusion",
+   "E": "Folate supplementation"
+  },
+  "answer": "C",
+  "explanation": "Symptomatic severe anaemia in thalassaemia needs red cell transfusion; iron is contraindicated because of iron overload.",
+  "key_note": "Paper key marked D (platelet transfusion); correct is C, blood transfusion.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00544"
+  ],
+  "stem": "A 33-year-old woman has exertional dyspnoea and easy fatigability for 3 months. She has splenomegaly, Hb 6 g/dL, MCV 100 fL, reticulocytes 5% and raised indirect bilirubin with otherwise normal liver enzymes. What is the most likely diagnosis?",
+  "options": {
+   "A": "Chronic hepatitis C",
+   "B": "Haemolytic anaemia",
+   "C": "Megaloblastic anaemia",
+   "D": "Chronic myeloid leukaemia",
+   "E": "Chronic malaria"
+  },
+  "answer": "B",
+  "explanation": "Anaemia with reticulocytosis, splenomegaly and unconjugated hyperbilirubinaemia indicates haemolysis; reticulocytes also raise the MCV.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00493",
+   "C02847"
+  ],
+  "stem": "A 20-year-old woman presents with 3 weeks of palpitation and dyspnoea. She is markedly pale and mildly icteric, with the spleen palpable 2 fingerbreadths below the costal margin. Hb is 7 g/dL, reticulocytes 20% and serum bilirubin 3.5 mg/dL with normal liver enzymes; TLC and platelets are normal. What is the diagnosis?",
+  "options": {
+   "A": "Megaloblastic anaemia",
+   "B": "Haemolytic anaemia",
+   "C": "Acute leukaemia",
+   "D": "Aplastic anaemia",
+   "E": "Myelofibrosis"
+  },
+  "answer": "B",
+  "explanation": "Reticulocytosis, jaundice and splenomegaly with isolated anaemia point to haemolysis; aplastic anaemia and leukaemia would show low reticulocytes or abnormal counts in other lines.",
+  "key_note": "One paper copy marked A where the options were listed in a different order; mapped by text, the answer is haemolytic anaemia.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00275"
+  ],
+  "stem": "A 30-year-old man presents to OPD with weakness, fatigue and hepatosplenomegaly. Hb is 7.0 g/dL, MCV 78 fL and the osmotic fragility test is positive. What is the most likely diagnosis?",
+  "options": {
+   "A": "Autoimmune haemolytic anaemia",
+   "B": "G6PD deficiency",
+   "C": "Hereditary spherocytosis",
+   "D": "Sickle cell anaemia",
+   "E": "Thalassaemia major"
+  },
+  "answer": "C",
+  "explanation": "Positive osmotic fragility with haemolysis and splenomegaly is hereditary spherocytosis; splenectomy is the definitive treatment.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00276"
+  ],
+  "stem": "A 25-year-old woman with SLE on hydroxychloroquine for 2 years presents with jaundice and splenomegaly. Hb is 6.5 g/dL, the film shows spherocytes, reticulocytes are 15% and bilirubin is 3.5 mg/dL. What is the most likely diagnosis?",
+  "options": {
+   "A": "Aplastic anaemia",
+   "B": "Autoimmune haemolytic anaemia",
+   "C": "Fanconi anaemia",
+   "D": "Megaloblastic anaemia",
+   "E": "Sickle cell anaemia"
+  },
+  "answer": "B",
+  "explanation": "SLE is a classic cause of warm autoimmune haemolytic anaemia, with spherocytes, reticulocytosis and a positive Coombs test.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00278"
+  ],
+  "stem": "A 25-year-old woman with SLE on hydroxychloroquine for 2 years presents with yellow sclerae and splenomegaly. Hb is 8 g/dL, MCV 94 fL and reticulocytes are 10%. What is the most appropriate treatment?",
+  "options": {
+   "A": "Blood transfusion",
+   "B": "Plasma exchange",
+   "C": "IV immunoglobulin",
+   "D": "Oral prednisolone",
+   "E": "Methylcobalamin"
+  },
+  "answer": "D",
+  "explanation": "Warm autoimmune haemolytic anaemia is treated first with prednisolone (1 mg/kg); rituximab or splenectomy follow in refractory disease.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00832",
+   "C02122"
+  ],
+  "stem": "A patient presents with severe anaemia and dark urine after being prescribed an antimalarial by a local practitioner. What is the most likely cause?",
+  "options": {
+   "A": "Autoimmune haemolytic anaemia",
+   "B": "Hereditary spherocytosis",
+   "C": "Thalassaemia minor",
+   "D": "G6PD deficiency",
+   "E": "Hereditary elliptocytosis"
+  },
+  "answer": "D",
+  "explanation": "Oxidant drugs such as primaquine and dapsone precipitate acute intravascular haemolysis with haemoglobinuria in G6PD deficiency.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00921"
+  ],
+  "stem": "Synthesis of haemoglobin S is characteristic of which condition?",
+  "options": {
+   "A": "Thalassaemia",
+   "B": "Sickle cell anaemia",
+   "C": "Elliptocytosis",
+   "D": "Sideroblastic anaemia"
+  },
+  "answer": "B",
+  "explanation": "Sickle cell disease results from a glutamic acid to valine substitution at position 6 of the beta globin chain, producing HbS.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00924"
+  ],
+  "stem": "What is the major haemoglobin produced in red blood cells during normal adult life?",
+  "options": {
+   "A": "Alpha2 gamma2",
+   "B": "Alpha2 delta2",
+   "C": "Alpha2 epsilon2",
+   "D": "Alpha2 beta2"
+  },
+  "answer": "D",
+  "explanation": "HbA (alpha2 beta2) forms about 97% of adult haemoglobin; HbA2 (alpha2 delta2) is about 2-3% and HbF (alpha2 gamma2) under 1%.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00926"
+  ],
+  "stem": "According to WHO, what is the minimum percentage of myeloid blasts in the bone marrow necessary for the diagnosis of acute myeloid leukaemia?",
+  "options": {
+   "A": "20%",
+   "B": "10%",
+   "C": "40%",
+   "D": "30%"
+  },
+  "answer": "A",
+  "explanation": "The WHO classification requires 20% or more blasts in blood or marrow for AML (except cases with defining genetic abnormalities).",
+  "key_note": "Stem completed: the source omitted the disease name.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00504"
+  ],
+  "stem": "A 75-year-old man has vague ill health for 1 year with enlarged cervical lymph nodes. TLC is 200,000/mm3 with 90% mature lymphocytes and no blasts, Hb 12.5 g/dL and platelets 250,000/mm3. CLL is diagnosed. What is the indication for chemotherapy in this patient?",
+  "options": {
+   "A": "Significant lymphadenopathy",
+   "B": "TLC more than 50,000",
+   "C": "Presence of anaemia and thrombocytopenia",
+   "D": "Age less than 70 years",
+   "E": "Presence of metamyelocytes"
+  },
+  "answer": "B",
+  "explanation": "CLL is treated only when active (marrow failure, bulky or progressive nodes or spleen, B symptoms, short lymphocyte doubling time, autoimmune cytopenia); a rising lymphocyte count is the paper's keyed indication.",
+  "key_note": "Flawed question: this patient has normal Hb and platelets, so C does not apply, and one paper circled C; B is the keyed answer and is kept as the best option offered.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00928"
+  ],
+  "stem": "Which morphological type of leukaemia may show Auer rods?",
+  "options": {
+   "A": "Chronic myeloid leukaemia",
+   "B": "Chronic lymphocytic leukaemia",
+   "C": "Acute lymphoblastic leukaemia",
+   "D": "Acute myeloid leukaemia"
+  },
+  "answer": "D",
+  "explanation": "Auer rods are needle-like azurophilic inclusions in myeloblasts and are pathognomonic of AML, especially APL (M3).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00279"
+  ],
+  "stem": "A 65-year-old man presents to OPD with marked hepatosplenomegaly. His TLC is 220,000/mm3 with 90% mature granulocytes (polymorphs), metamyelocytes 12%, myelocytes 10% and blasts 0%. What is the most likely diagnosis?",
+  "options": {
+   "A": "Chronic myeloid leukaemia",
+   "B": "Chronic lymphocytic leukaemia",
+   "C": "Non-Hodgkin lymphoma",
+   "D": "Acute myeloblastic leukaemia",
+   "E": "Myelofibrosis"
+  },
+  "answer": "A",
+  "explanation": "Massive splenomegaly with marked leucocytosis and the full spectrum of myeloid maturation (myelocytes, metamyelocytes) without blasts is chronic phase CML.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00505",
+   "C00507"
+  ],
+  "stem": "A 16-year-old boy has a 6-month history of weight loss, anorexia and low-grade fever. He is pale, the spleen is enlarged 10 cm below the left costal margin and the liver 5 cm below the costal margin. Hb is 8 g/dL, TLC 250,000/mm3, metamyelocytes 10%, myelocytes 15% and there are no blasts. What is the most likely diagnosis?",
+  "options": {
+   "A": "Leishmaniasis",
+   "B": "Tropical splenomegaly",
+   "C": "Acute myeloid leukaemia",
+   "D": "Multiple myeloma",
+   "E": "Chronic myeloid leukaemia"
+  },
+  "answer": "E",
+  "explanation": "Massive splenomegaly, very high TLC and immature granulocytes without blasts is chronic phase CML (t(9;22), low LAP score); AML shows blasts.",
+  "key_note": "Two paper copies marked C (AML); correct is E, chronic myeloid leukaemia, as there are no blasts.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00508"
+  ],
+  "stem": "A 55-year-old man presents to his GP with vague ill health. Blood picture shows Hb 9.0 g/dL and TLC 195,000/cmm with a left shift (neutrophils, metamyelocytes and myelocytes) and no blasts. What is the next most important investigation?",
+  "options": {
+   "A": "Philadelphia chromosome (BCR-ABL)",
+   "B": "Bone marrow aspiration",
+   "C": "Lymph node biopsy",
+   "D": "CT scan abdomen",
+   "E": "JAK2 mutation"
+  },
+  "answer": "A",
+  "explanation": "This is CML, confirmed by the Philadelphia chromosome t(9;22) or BCR-ABL transcript on PCR/FISH of blood or marrow.",
+  "key_note": "Source percentages were inconsistent (summing above 100%) and were replaced by a descriptive left shift.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00509"
+  ],
+  "stem": "What is the treatment of choice for chronic myeloid leukaemia?",
+  "options": {
+   "A": "Hydroxyurea",
+   "B": "Cyclophosphamide plus vincristine",
+   "C": "Interferon alpha",
+   "D": "Imatinib or dasatinib",
+   "E": "Chlorambucil"
+  },
+  "answer": "D",
+  "explanation": "Tyrosine kinase inhibitors (imatinib first line, dasatinib or nilotinib) targeting BCR-ABL have transformed CML outcomes.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00286"
+  ],
+  "stem": "A 70-year-old man presents with 4 days of cough and fever. He has pallor without lymphadenopathy or hepatosplenomegaly. The blood film shows a mildly raised TLC with mature lymphocytes and the chest X-ray shows bilateral non-homogeneous opacities. What is the most likely diagnosis?",
+  "options": {
+   "A": "Chronic myeloid leukaemia",
+   "B": "Chronic lymphocytic leukaemia",
+   "C": "Acute myeloid leukaemia",
+   "D": "Acute lymphoblastic leukaemia",
+   "E": "Non-Hodgkin lymphoma"
+  },
+  "answer": "B",
+  "explanation": "An elderly patient with mature lymphocytosis and chest infection (hypogammaglobulinaemia) is the typical presentation of CLL.",
+  "key_note": "Paper marks conflict (one highlight read as E, another circled B); B (CLL) fits mature lymphocytosis best.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00503"
+  ],
+  "stem": "A 70-year-old man is admitted with 4 days of productive cough and fever. The chest X-ray shows consolidation in the right mid zone. Blood picture: Hb 12 g/dL, TLC 90,000/mm3 with 90% mature lymphocytes, platelets 171,000/mm3. What is the most likely underlying disease?",
+  "options": {
+   "A": "Acute lymphoblastic leukaemia",
+   "B": "Chronic lymphocytic leukaemia",
+   "C": "Chronic myeloid leukaemia",
+   "D": "Hairy cell leukaemia",
+   "E": "Myelofibrosis"
+  },
+  "answer": "B",
+  "explanation": "Marked mature lymphocytosis in an elderly person who presents with infection is CLL, the commonest adult leukaemia in the West.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00513",
+   "C02161"
+  ],
+  "stem": "A 30-year-old man presents with 6 weeks of painless discrete bilateral cervical lymphadenopathy. Lymph node biopsy shows Reed-Sternberg cells. What is the most likely diagnosis?",
+  "options": {
+   "A": "Non-Hodgkin lymphoma",
+   "B": "Chronic lymphocytic leukaemia",
+   "C": "Waldenstrom macroglobulinaemia",
+   "D": "Hodgkin lymphoma",
+   "E": "Acute lymphoblastic leukaemia"
+  },
+  "answer": "D",
+  "explanation": "Reed-Sternberg cells (owl-eye binucleate cells, CD15+ CD30+) are the histological hallmark of Hodgkin lymphoma.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00833"
+  ],
+  "stem": "What is the characteristic fever pattern of lymphoma?",
+  "options": {
+   "A": "Quartan fever",
+   "B": "Tertian fever",
+   "C": "Pel-Ebstein fever",
+   "D": "Step-ladder fever",
+   "E": "Blackwater fever"
+  },
+  "answer": "C",
+  "explanation": "Pel-Ebstein fever alternates days or weeks of high fever with afebrile periods and is characteristic of Hodgkin lymphoma.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00515"
+  ],
+  "stem": "What is the treatment of stage IA Hodgkin's lymphoma?",
+  "options": {
+   "A": "Chemotherapy",
+   "B": "Radiotherapy",
+   "C": "Radiotherapy plus chemotherapy",
+   "D": "Surgery plus chemotherapy",
+   "E": "Surgery plus radiotherapy"
+  },
+  "answer": "B",
+  "explanation": "Localised stage IA disease is classically treated by involved-field radiotherapy; current practice often adds brief ABVD chemotherapy for early-stage disease.",
+  "key_note": "Source options for this question and the ITP question were swapped by the parser and were restored. The paper key B (radiotherapy) is kept as per classic teaching; modern protocols often use combined modality.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00929",
+   "C02163",
+   "C03061",
+   "C03229"
+  ],
+  "stem": "Multiple lytic lesions of bones on X-ray are a feature of:",
+  "options": {
+   "A": "Multiple myeloma",
+   "B": "Ewing sarcoma",
+   "C": "Chondrosarcoma",
+   "D": "Osteosarcoma"
+  },
+  "answer": "A",
+  "explanation": "Plasma cell infiltration with osteoclast activation produces punched-out lytic lesions, typically in the skull, spine and pelvis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00930",
+   "C03067"
+  ],
+  "stem": "Bence Jones proteins represent:",
+  "options": {
+   "A": "Heavy chain immunoglobulins",
+   "B": "High molecular weight albumin",
+   "C": "Light chain immunoglobulins",
+   "D": "Low molecular weight albumin"
+  },
+  "answer": "C",
+  "explanation": "Bence Jones protein is free monoclonal kappa or lambda light chain excreted in urine; it is not detected by dipstick, which detects albumin.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00049",
+   "C01615",
+   "C02009"
+  ],
+  "stem": "A 74-year-old man is investigated after a crush fracture of the T8 vertebra. He has a monoclonal band on serum electrophoresis and free immunoglobulin light chains in the urine. What is the likely diagnosis?",
+  "options": {
+   "A": "Hodgkin's lymphoma",
+   "B": "Monoclonal gammopathy of uncertain significance",
+   "C": "Multiple myeloma",
+   "D": "Myelofibrosis",
+   "E": "Osteoporosis"
+  },
+  "answer": "C",
+  "explanation": "Pathological fracture with paraprotein and light chain proteinuria indicates symptomatic multiple myeloma; MGUS is asymptomatic without end-organ damage.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00073"
+  ],
+  "stem": "A 78-year-old woman has a long history of bone pain and lethargy and is found to have deteriorating renal function. Serum electrophoresis shows a monoclonal band and urine contains a monoclonal globulin protein. What is the diagnosis?",
+  "options": {
+   "A": "AA amyloidosis",
+   "B": "Diabetic proteinuria",
+   "C": "Multiple myeloma",
+   "D": "Streptococcal glomerulonephritis",
+   "E": "Wegener's granulomatosis"
+  },
+  "answer": "C",
+  "explanation": "Bone pain, renal impairment (cast nephropathy) and a paraprotein form the CRAB picture of multiple myeloma.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00543"
+  ],
+  "stem": "A 70-year-old man presents with chronic backache and fatigue for 6 months. Hb is 8 g/dL, MCV 75 fL, serum calcium 12 mg/dL and the skull X-ray shows osteolytic lesions. What is the most likely diagnosis?",
+  "options": {
+   "A": "Multiple myeloma",
+   "B": "Rheumatoid arthritis",
+   "C": "Iron deficiency anaemia",
+   "D": "Chondrosarcoma",
+   "E": "Chronic myeloid leukaemia"
+  },
+  "answer": "A",
+  "explanation": "Anaemia, hypercalcaemia and lytic bone lesions in an elderly man are the classic features of multiple myeloma.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00523",
+   "C00834",
+   "C01553",
+   "C00973"
+  ],
+  "stem": "Regarding multiple myeloma, which of the following statements is correct?",
+  "options": {
+   "A": "It is a disease of child-bearing age",
+   "B": "Bone pain is an uncommon feature",
+   "C": "Renal involvement carries a bad prognosis",
+   "D": "Absence of Bence-Jones proteinuria excludes the diagnosis",
+   "E": "Skull X-ray often shows sclerotic lesions"
+  },
+  "answer": "C",
+  "explanation": "Renal impairment and a raised creatinine and beta-2 microglobulin predict poor survival; myeloma affects the elderly, bone pain is the commonest symptom, lesions are lytic, and some cases are non-secretory or have no light chains in urine.",
+  "key_note": "One paper copy marked E (hepatic involvement always present) in a variant option list; that is wrong. Correct is that renal involvement carries a bad prognosis.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00050"
+  ],
+  "stem": "A 65-year-old man on long-term oxygen therapy for COPD has a haemoglobin of 18.4 g/dL. What is the likely cause?",
+  "options": {
+   "A": "Chronic myeloid leukaemia",
+   "B": "Dehydration",
+   "C": "Hodgkin's lymphoma",
+   "D": "Polycythaemia rubra vera",
+   "E": "Secondary polycythaemia"
+  },
+  "answer": "E",
+  "explanation": "Chronic hypoxia raises erythropoietin and causes secondary polycythaemia; PRV would have splenomegaly, leucocytosis and thrombocytosis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00284",
+   "C00511"
+  ],
+  "stem": "A 45-year-old man has 6 months of headache, dizziness and blurring of vision. He has a plethoric face, palmar erythema and splenomegaly. Hb is 19 g/dL, PCV 55%, TLC 14,000/mm3 and platelets 660,000/mm3. What is the most likely diagnosis?",
+  "options": {
+   "A": "Chronic myeloid leukaemia",
+   "B": "Chronic lymphocytic leukaemia",
+   "C": "Acute myeloid leukaemia",
+   "D": "Essential thrombocythaemia",
+   "E": "Polycythaemia rubra vera"
+  },
+  "answer": "E",
+  "explanation": "High Hb and PCV with splenomegaly, leucocytosis and thrombocytosis is polycythaemia vera, usually due to JAK2 V617F.",
+  "key_note": "The source listed chronic lymphocytic leukaemia twice; one copy was changed to chronic myeloid leukaemia.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00502",
+   "C01614"
+  ],
+  "stem": "A 60-year-old man has 3 months of headache, dizziness and blurred vision. His face is flushed with palmar erythema. Hb is 19.6 g/dL, haematocrit 55%, TLC 11,500/mm3, platelets 170,000/mm3 and ultrasound shows splenomegaly. What is the most appropriate next investigation?",
+  "options": {
+   "A": "Philadelphia chromosome",
+   "B": "Leucocyte alkaline phosphatase",
+   "C": "Bone marrow aspiration",
+   "D": "JAK2 mutation",
+   "E": "Serum protein electrophoresis"
+  },
+  "answer": "D",
+  "explanation": "JAK2 V617F is present in about 95% of polycythaemia vera and is the key diagnostic test after excluding secondary causes.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00512",
+   "C01992"
+  ],
+  "stem": "What is the first-line treatment of polycythaemia rubra vera?",
+  "options": {
+   "A": "Splenectomy",
+   "B": "Hydroxyurea",
+   "C": "JAK2 inhibitor (ruxolitinib)",
+   "D": "Interferon alpha",
+   "E": "Phlebotomy"
+  },
+  "answer": "E",
+  "explanation": "Venesection to keep the haematocrit below 45%, with low-dose aspirin, is first-line; hydroxyurea is added in high-risk patients.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00510"
+  ],
+  "stem": "A 60-year-old woman presents with a 2-week history of swelling of the left leg up to mid-thigh, which is warm and tender. Hb is 12.5 g/dL, TLC 12,000/cmm and platelets 2,000,000/cmm. What is the most likely diagnosis?",
+  "options": {
+   "A": "Polycythaemia rubra vera",
+   "B": "Essential thrombocythaemia",
+   "C": "Myelodysplastic syndrome",
+   "D": "Reactive thrombocytosis",
+   "E": "Multiple myeloma"
+  },
+  "answer": "B",
+  "explanation": "A very high isolated platelet count with venous thrombosis suggests essential thrombocythaemia (JAK2, CALR or MPL mutations); reactive causes rarely exceed 1,000,000.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00046"
+  ],
+  "stem": "A 14-year-old boy being treated for meningococcal meningitis begins to bruise easily and bleed from his central line site and cannula. Hb is 9 g/dL, platelets 90 x 10^9/L and WBC 16 x 10^9/L. Coagulation shows prolonged PT and APTT, raised D-dimers and reduced fibrinogen. What is the diagnosis?",
+  "options": {
+   "A": "Disseminated intravascular coagulation",
+   "B": "Global reduction in clotting factor synthesis",
+   "C": "Heparin overdose",
+   "D": "Thrombocytopenia",
+   "E": "Von Willebrand's disease"
+  },
+  "answer": "A",
+  "explanation": "Sepsis-triggered consumption of platelets and clotting factors with raised D-dimers and low fibrinogen is DIC.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00047"
+  ],
+  "stem": "A 15-month-old boy is brought with a grossly swollen right knee and a 6-month history of bleeding into joints and muscles. The clotting screen shows a markedly prolonged APTT with normal PT and bleeding time, and the FBC shows mild microcytic anaemia. What is the diagnosis?",
+  "options": {
+   "A": "Antibiotic side effect",
+   "B": "Congenital haemophilia",
+   "C": "Disseminated intravascular coagulation",
+   "D": "Liver disease",
+   "E": "Von Willebrand's disease"
+  },
+  "answer": "B",
+  "explanation": "Recurrent haemarthrosis with an isolated prolonged APTT and normal PT and bleeding time is haemophilia A or B.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00516",
+   "C02429",
+   "C03234"
+  ],
+  "stem": "A 12-year-old haemophiliac presents with 1 day of severe pain and swelling of the right knee, which is extremely tender, markedly swollen and immobile. What is the treatment?",
+  "options": {
+   "A": "Platelet transfusion",
+   "B": "Fresh frozen plasma",
+   "C": "Packed red cell transfusion",
+   "D": "Factor VIII transfusion",
+   "E": "Joint aspiration"
+  },
+  "answer": "D",
+  "explanation": "Acute haemarthrosis in haemophilia A is treated promptly with factor VIII replacement, with rest and analgesia; aspiration is avoided unless infection is suspected.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00053",
+   "C00288"
+  ],
+  "stem": "A 23-year-old woman complains of easy bruising and heavy periods. She has mild iron deficiency anaemia, a normal platelet count and a normal PT; APTT is 50 s (normal 35-45 s) and bleeding time is prolonged. Her father had a bleeding disorder. What is the diagnosis?",
+  "options": {
+   "A": "Disseminated intravascular coagulation",
+   "B": "Haemophilia A",
+   "C": "Idiopathic thrombocytopenic purpura",
+   "D": "Von Willebrand disease",
+   "E": "Vitamin K deficiency"
+  },
+  "answer": "D",
+  "explanation": "Mucocutaneous bleeding with menorrhagia, prolonged bleeding time, borderline APTT and a family history is von Willebrand disease (autosomal dominant).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00517"
+  ],
+  "stem": "A 20-year-old woman has had gum bleeding off and on since childhood and heavy menstrual bleeding. Examination is normal. Hb is 9.0 g/dL, TLC normal, platelet count 180,000/mm3 and bleeding time is prolonged. What is the most likely diagnosis?",
+  "options": {
+   "A": "Platelet function disorder",
+   "B": "ITP",
+   "C": "Haemophilia",
+   "D": "Thrombotic thrombocytopenic purpura"
+  },
+  "answer": "A",
+  "explanation": "Mucosal bleeding since childhood with a normal platelet count and prolonged bleeding time suggests a qualitative platelet disorder (e.g. Glanzmann or von Willebrand disease).",
+  "key_note": "Source bleeding time printed as 8 seconds (likely 8 minutes); read as prolonged. Source had 4 options.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00303",
+   "C00506",
+   "C00514",
+   "C00541",
+   "C01827",
+   "C02398"
+  ],
+  "stem": "A 25-year-old woman with ITP presents with a 1-week history of purpuric spots with epistaxis and gum bleeding. Platelet count is 25,000/mm3. What is the most appropriate treatment?",
+  "options": {
+   "A": "Prednisolone 1 mg/kg with gradual tapering",
+   "B": "Azathioprine",
+   "C": "Splenectomy",
+   "D": "Platelet transfusion",
+   "E": "Colony stimulating factors"
+  },
+  "answer": "A",
+  "explanation": "Oral prednisolone (1 mg/kg) is first-line for symptomatic ITP; platelet transfusion is reserved for life-threatening bleeding, splenectomy and azathioprine for refractory disease.",
+  "key_note": "One paper key marked D (platelet transfusion); correct is A. Two source questions had swapped option lists and were merged after repair.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00518"
+  ],
+  "stem": "A 20-year-old girl presents with 3 weeks of fever, gum bleeding and lethargy. Her blood picture shows Hb 7 g/dL, WBC 2.3 x 10^9/L and platelets 30 x 10^9/L. What is the most important investigation?",
+  "options": {
+   "A": "Reticulocyte count",
+   "B": "Coombs test",
+   "C": "Serum iron",
+   "D": "Bone marrow examination",
+   "E": "Stool for occult blood"
+  },
+  "answer": "D",
+  "explanation": "Pancytopenia with fever and bleeding needs a bone marrow aspirate and trephine to separate aplastic anaemia from leukaemia or marrow infiltration.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00052"
+  ],
+  "stem": "A 50-year-old woman is found to have a platelet count of 50 x 10^9/L 3 days after starting treatment for deep vein thrombosis. She is not bleeding and has no other symptoms. What is the cause?",
+  "options": {
+   "A": "Disseminated intravascular coagulation",
+   "B": "Heparin-induced thrombocytopenia",
+   "C": "Idiopathic thrombocytopenic purpura",
+   "D": "Pancytopenia from marrow infiltration",
+   "E": "Post-transfusion thrombocytopenia"
+  },
+  "answer": "B",
+  "explanation": "A fall in platelets of more than 50% after starting heparin without bleeding suggests HIT, which paradoxically predisposes to thrombosis; stop heparin and use a non-heparin anticoagulant.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00540"
+  ],
+  "stem": "A 35-year-old woman is admitted with left leg DVT secondary to antiphospholipid syndrome. For how long should she be anticoagulated?",
+  "options": {
+   "A": "3 months",
+   "B": "6 months",
+   "C": "Lifelong",
+   "D": "1 year",
+   "E": "No need for anticoagulants"
+  },
+  "answer": "C",
+  "explanation": "Thrombotic antiphospholipid syndrome carries a high recurrence risk and warfarin is continued indefinitely.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00936"
+  ],
+  "stem": "A 34-year-old woman with antiphospholipid syndrome presents with a swollen painful leg and a Doppler-confirmed DVT. She had a DVT 4 months ago and was taking warfarin (target INR 2-3) when this occurred. How should her anticoagulation be managed?",
+  "options": {
+   "A": "Lifelong warfarin, increase target INR to 3-4",
+   "B": "Add lifelong low-dose aspirin",
+   "C": "A further 6 months of warfarin, target INR 2-3",
+   "D": "A further 6 months of warfarin, target INR 3-4",
+   "E": "Lifelong warfarin, target INR 2-3"
+  },
+  "answer": "A",
+  "explanation": "Recurrent thrombosis on therapeutic warfarin in antiphospholipid syndrome needs lifelong anticoagulation with a higher target INR of 3-4.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00539"
+  ],
+  "stem": "A 65-year-old man presents to the ER with gum bleeding and haematemesis for 2 days. He has been on warfarin for 1 month for DVT. What is the most appropriate next step?",
+  "options": {
+   "A": "Stop warfarin immediately",
+   "B": "Decrease the dose of warfarin",
+   "C": "Check APTT and then review",
+   "D": "Continue warfarin",
+   "E": "Transfuse blood immediately"
+  },
+  "answer": "A",
+  "explanation": "Active bleeding on warfarin needs warfarin to be stopped at once, then INR checked, vitamin K and prothrombin complex concentrate given and blood replaced as required.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00520",
+   "C01990",
+   "C03069",
+   "C03230"
+  ],
+  "stem": "A patient develops high-grade fever, shivering and chills during a blood transfusion. As the duty doctor, what is your first step in management?",
+  "options": {
+   "A": "IV hydrocortisone",
+   "B": "Slow down the transfusion",
+   "C": "Stop the blood transfusion",
+   "D": "Call your senior and ask him to visit the patient",
+   "E": "Tablet paracetamol"
+  },
+  "answer": "C",
+  "explanation": "Any suspected transfusion reaction needs the transfusion stopped immediately, with the cannula kept open, patient and unit checked, then treatment given.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00045"
+  ],
+  "stem": "A 70-year-old man with ischaemic heart disease needs a blood transfusion after a lower GI bleed. Halfway through the third unit he becomes breathless, with JVP 6 cm and bilateral basal crackles. What is an appropriate next step?",
+  "options": {
+   "A": "Prescribe calcium supplements",
+   "B": "Slow the transfusion and prescribe furosemide",
+   "C": "Stop the transfusion and prescribe chlorphenamine and adrenaline",
+   "D": "Stop the transfusion and exclude a haemolytic reaction",
+   "E": "Stop the transfusion and begin fluid resuscitation"
+  },
+  "answer": "B",
+  "explanation": "This is transfusion-associated circulatory overload (TACO) in a patient with heart disease; slow or pause the transfusion and give diuretic with oxygen.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00051"
+  ],
+  "stem": "A 5-year-old girl becomes febrile, hypotensive and tachycardic 1 week after induction chemotherapy for acute leukaemia. Hb is 8.9 g/dL, WBC 0.5 x 10^9/L, platelets 60 x 10^9/L and neutrophils 0.1 x 10^9/L. What is the diagnosis?",
+  "options": {
+   "A": "Disseminated intravascular coagulation",
+   "B": "Myelofibrosis",
+   "C": "Myeloma",
+   "D": "Neutropenic sepsis",
+   "E": "Tumour lysis syndrome"
+  },
+  "answer": "D",
+  "explanation": "Fever with shock and an absolute neutrophil count below 0.5 x 10^9/L after chemotherapy is neutropenic sepsis, needing urgent broad-spectrum IV antibiotics.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00526"
+  ],
+  "stem": "A young boy presents with 2 weeks of high-grade fever with chills and rigors. His CBC shows Hb 11 g/dL, WBC 70,000/mm3 and platelets 150,000/mm3. What is the likely diagnosis?",
+  "options": {
+   "A": "Sepsis",
+   "B": "Myeloma",
+   "C": "Leukaemia",
+   "D": "Viral fever",
+   "E": "Dengue fever"
+  },
+  "answer": "A",
+  "explanation": "A high WBC with preserved haemoglobin and platelets in a febrile child suggests a leukaemoid reaction to sepsis; acute leukaemia would typically show anaemia and thrombocytopenia.",
+  "key_note": "Paper keys disagree (one marked A, others C leukaemia); the question is ambiguous and A is chosen as the best fit.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01102"
+  ],
+  "stem": "A couple is being investigated for a genetic haemoglobin disorder. Normal adult haemoglobin (HbA) consists of:",
+  "options": {
+   "A": "Two alpha and one beta chain",
+   "B": "Two alpha and two beta chains",
+   "C": "Two alpha and two delta chains",
+   "D": "Four lambda chains",
+   "E": "Two alpha and two gamma chains"
+  },
+  "answer": "B",
+  "explanation": "HbA is a tetramer of two alpha and two beta globin chains (about 97%). HbA2 is alpha2 delta2 and HbF is alpha2 gamma2.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01027"
+  ],
+  "stem": "A 35-year-old woman is anaemic: Hb 8.5 g/dl, MCV 56 fl, WBC 8500/ml, platelets 505,000/ml, serum iron 24 micromol/l (normal 14-29), ferritin 250 microgram/l (normal 15-200), TIBC 40 micromol/l (normal 45-72). What is the most likely cause of her anaemia?",
+  "options": {
+   "A": "Anaemia of chronic disease",
+   "B": "Folate deficiency anaemia",
+   "C": "Iron deficiency anaemia",
+   "D": "Thalassaemia trait",
+   "E": "Haemolytic anaemia"
+  },
+  "answer": "A",
+  "explanation": "Normal or raised ferritin with low TIBC and reactive thrombocytosis points to anaemia of chronic disease; iron deficiency would show low ferritin and high TIBC. Ferritin is an acute phase reactant.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01826"
+  ],
+  "stem": "A 50-year-old man with chronic liver disease is anaemic (Hb 9.6 g/dl, MCV 86 fl). Which laboratory parameter is most consistent with anaemia of chronic disease?",
+  "options": {
+   "A": "High ferritin",
+   "B": "High serum iron",
+   "C": "High transferrin saturation",
+   "D": "High soluble transferrin receptor",
+   "E": "Raised total iron binding capacity"
+  },
+  "answer": "A",
+  "explanation": "In anaemia of chronic disease hepcidin traps iron in macrophages: ferritin is normal or high, serum iron and TIBC are low and soluble transferrin receptor is normal. Soluble transferrin receptor rises in true iron deficiency.",
+  "key_note": "Source gave four options; one distractor added by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01660"
+  ],
+  "stem": "A 25-year-old woman, mother of six, presents with shortness of breath and fatigue. She has a history of blood transfusion. Hb is 7.4 g/dl, MCV 68 fl, MCH 18 pg. What is the most appropriate next investigation?",
+  "options": {
+   "A": "Haemoglobin electrophoresis",
+   "B": "Bone marrow biopsy",
+   "C": "Serum ferritin",
+   "D": "Serum B12",
+   "E": "Serum folate"
+  },
+  "answer": "C",
+  "explanation": "Microcytic hypochromic anaemia in a multiparous woman is iron deficiency until proven otherwise, and serum ferritin is the best first test; electrophoresis is for suspected haemoglobinopathy.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02164"
+  ],
+  "stem": "A patient being investigated for anaemia has a low MCV and basophilic stippling on the peripheral film. Which investigation should be done next?",
+  "options": {
+   "A": "Serum iron",
+   "B": "Serum B12 level",
+   "C": "Haemoglobin electrophoresis",
+   "D": "Serum lead level",
+   "E": "Serum folate level"
+  },
+  "answer": "D",
+  "explanation": "Basophilic stippling with microcytic anaemia suggests lead poisoning (also thalassaemia and sideroblastic anaemia), so a blood lead level is the next test.",
+  "key_note": "Source gave four options; one distractor added by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01249",
+   "C00519",
+   "C01995"
+  ],
+  "stem": "A fisherman who lives on a boat presents with weakness and fatigue. His Hb is 7 g/dl with MCV 124 fl. What is the likely diagnosis?",
+  "options": {
+   "A": "Iron deficiency anaemia",
+   "B": "Folate deficiency anaemia",
+   "C": "Aplastic anaemia",
+   "D": "B12 deficiency anaemia",
+   "E": "Polycythaemia"
+  },
+  "answer": "B",
+  "explanation": "A fisherman living on a boat on a seafood diet lacks fresh green vegetables, the main folate source, and folate stores last only about 3 months, so macrocytic anaemia is due to folate deficiency. Fish supplies B12 and iron.",
+  "key_note": "Merged fisherman questions. Papers keyed folate deficiency (diet of seafood on a boat lacks fresh vegetables); one variant paper key marked D (B12 from fish tapeworm), but the keyed folate answer is kept as the exam-accepted one.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01097"
+  ],
+  "stem": "Deficiency of vitamin B12 and folate causes which type of anaemia?",
+  "options": {
+   "A": "Microcytic anaemia",
+   "B": "Megaloblastic anaemia",
+   "C": "Normocytic anaemia",
+   "D": "Aplastic anaemia",
+   "E": "Thrombocytosis"
+  },
+  "answer": "B",
+  "explanation": "Both are needed for DNA synthesis; deficiency gives ineffective erythropoiesis with large red cells (megaloblastic anaemia).",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00978"
+  ],
+  "stem": "Megaloblastic anaemia is characterised by:",
+  "options": {
+   "A": "Raised reticulocyte count",
+   "B": "Hypersegmented neutrophils",
+   "C": "Low MCV",
+   "D": "Folate deficiency is common in vegetarians",
+   "E": "It is not a feature of pernicious anaemia"
+  },
+  "answer": "B",
+  "explanation": "Hypersegmented neutrophils (6 or more lobes) are the classic blood film sign, with macro-ovalocytes and high MCV. Reticulocytes are low and pernicious anaemia is a megaloblastic anaemia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01616"
+  ],
+  "stem": "A 65-year-old man presents with fatigue. Hb 8.9 g/dl, MCV 110 fl, platelets 300,000/cmm, WBC 6500/cmm. The blood film shows hypersegmented neutrophils. Which investigation will most likely confirm the diagnosis?",
+  "options": {
+   "A": "Iron studies",
+   "B": "B12 and folate levels",
+   "C": "APTT",
+   "D": "Bone marrow biopsy",
+   "E": "Haemoglobin electrophoresis"
+  },
+  "answer": "B",
+  "explanation": "Macrocytosis with hypersegmented neutrophils is megaloblastic anaemia, confirmed by serum B12 and folate assays; marrow is rarely needed.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01537"
+  ],
+  "stem": "A young man presents with generalised weakness and numbness in the feet. Hb is 10 g/dl and MCV 110 fl. Which test will you request?",
+  "options": {
+   "A": "Ferritin level",
+   "B": "Iron level",
+   "C": "B12 level",
+   "D": "Folate level",
+   "E": "Total iron binding capacity"
+  },
+  "answer": "C",
+  "explanation": "Macrocytic anaemia with peripheral neuropathy points to B12 deficiency; folate deficiency does not cause neuropathy.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01766"
+  ],
+  "stem": "A 25-year-old man has generalised weakness, numbness and exertional dyspnoea. He is pale with diminished ankle reflexes. Hb 6.5 g/dl, TLC 3500, MCV 108 fl. What is the likely dietary deficiency?",
+  "options": {
+   "A": "Folic acid",
+   "B": "Vitamin B6",
+   "C": "Iron",
+   "D": "Vitamin B12",
+   "E": "Niacin"
+  },
+  "answer": "D",
+  "explanation": "Macrocytic anaemia with neuropathy (lost ankle jerks, subacute combined degeneration spectrum) indicates B12 deficiency.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01894"
+  ],
+  "stem": "A middle-aged man presents with exertional dyspnoea and fatigue. He is pale and the blood count shows macrocytic anaemia. Which of the following is associated with macrocytic anaemia?",
+  "options": {
+   "A": "Chronic disease",
+   "B": "Gastric ulcer",
+   "C": "GI malignancy",
+   "D": "Diphyllobothrium latum",
+   "E": "Lower GI bleed"
+  },
+  "answer": "D",
+  "explanation": "The fish tapeworm competes for B12 and causes megaloblastic anaemia. The others cause normocytic or microcytic anaemia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01917"
+  ],
+  "stem": "A 5-year-old child with progressive pallor since 6 months of age is diagnosed with beta-thalassaemia major. His transfusion requirement has risen to four units of packed red cells per month. What is the best step?",
+  "options": {
+   "A": "Continue the transfusions",
+   "B": "Add iron chelation therapy",
+   "C": "Polyvalent pneumococcal vaccination",
+   "D": "Give hydroxycarbamide",
+   "E": "Refer for splenectomy"
+  },
+  "answer": "E",
+  "explanation": "A rising transfusion requirement indicates hypersplenism, for which splenectomy is indicated after pneumococcal, meningococcal and Hib vaccination. Chelation is needed anyway but does not address the rising requirement.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01828"
+  ],
+  "stem": "A 16-year-old male is evaluated for anaemia and bone pains. Frontal bossing with a depressed nasal bridge is noted. Work-up is likely to reveal:",
+  "options": {
+   "A": "Conjugated hyperbilirubinaemia",
+   "B": "Increased haptoglobin",
+   "C": "Low ferritin",
+   "D": "Reticulocytosis",
+   "E": "Low LDH"
+  },
+  "answer": "D",
+  "explanation": "Frontal bossing and bone changes indicate marrow expansion in thalassaemia major, with haemolysis: reticulocytosis, unconjugated bilirubin, low haptoglobin and high ferritin from transfusion.",
+  "key_note": "Source gave four options; one distractor added by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01618"
+  ],
+  "stem": "A 23-year-old woman presents with lethargy. Hb 10.4 g/dl, platelets 278,000, WCC 6650, MCV 65 fl, HbA2 4.5% (normal below 3%), serum ferritin raised. What is the most likely diagnosis?",
+  "options": {
+   "A": "Iron deficiency anaemia",
+   "B": "Sickle cell anaemia",
+   "C": "Beta-thalassaemia trait",
+   "D": "Hereditary spherocytosis",
+   "E": "Acute lymphoblastic leukaemia"
+  },
+  "answer": "C",
+  "explanation": "Microcytosis with raised HbA2 and normal or high ferritin is diagnostic of beta-thalassaemia trait.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01539"
+  ],
+  "stem": "A child has episodes of severe abdominal and joint pain and easy fatigability. There is splenomegaly, Hb is 6 g/dl and MCV is low. Which haemoglobin is most likely to be found?",
+  "options": {
+   "A": "Hb SS",
+   "B": "Hb SC",
+   "C": "Hb SD",
+   "D": "Hb M",
+   "E": "Hb F"
+  },
+  "answer": "A",
+  "explanation": "Painful crises with haemolytic anaemia and splenomegaly in a child (spleen not yet infarcted) fit sickle cell disease, HbSS.",
+  "key_note": "Source key marked E (Hb F); the picture of pain crises is sickle cell, so Hb SS is chosen by reviewer, though the question is poorly worded.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01562"
+  ],
+  "stem": "Pancytopenia is a feature of:",
+  "options": {
+   "A": "Aplastic anaemia",
+   "B": "Hereditary spherocytosis",
+   "C": "Lymphoma",
+   "D": "Thalassaemia",
+   "E": "Sickle cell anaemia"
+  },
+  "answer": "A",
+  "explanation": "Aplastic anaemia is the classic cause of pancytopenia from marrow failure; lymphoma, thalassaemia and sickle cell anaemia do not typically cause pancytopenia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01891"
+  ],
+  "stem": "A 21-year-old is referred with pallor and recurrent infections and a diagnosis of aplastic anaemia with pancytopenia. Which one of the following would be against the diagnosis?",
+  "options": {
+   "A": "Progressive pallor",
+   "B": "Dry tap on bone marrow aspiration",
+   "C": "Depression of all cell lines",
+   "D": "Hypercellular marrow",
+   "E": "No splenomegaly"
+  },
+  "answer": "D",
+  "explanation": "Aplastic anaemia has a hypocellular, fat-replaced marrow, so a hypercellular marrow argues for another cause (leukaemia, MDS). Splenomegaly is absent.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01918"
+  ],
+  "stem": "A 16-year-old boy presents with rapidly progressive pallor and dark urine. He has low haemoglobin, raised serum LDH, elevated indirect bilirubin and bite cells on the blood film. What is the diagnosis?",
+  "options": {
+   "A": "Clostridial septicaemia",
+   "B": "Falciparum malaria",
+   "C": "G6PD deficiency",
+   "D": "Megaloblastic anaemia",
+   "E": "Paroxysmal nocturnal haemoglobinuria"
+  },
+  "answer": "C",
+  "explanation": "Acute intravascular haemolysis with bite cells (and Heinz bodies) is typical of G6PD deficiency after an oxidant trigger.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00975",
+   "C01536"
+  ],
+  "stem": "Which drug causes haemolysis in G6PD deficiency?",
+  "options": {
+   "A": "Cephalosporin",
+   "B": "Primaquine",
+   "C": "Allopurinol",
+   "D": "Omeprazole",
+   "E": "Colchicine"
+  },
+  "answer": "B",
+  "explanation": "Primaquine is a classic oxidant drug triggering haemolysis in G6PD deficiency (also dapsone, nitrofurantoin, sulphonamides, rasburicase); fava beans are the dietary trigger.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01935"
+  ],
+  "stem": "Which one of the following does not suggest haemolysis?",
+  "options": {
+   "A": "Increased reticulocyte count",
+   "B": "Increased haptoglobin in blood",
+   "C": "Polychromasia on peripheral film",
+   "D": "Increased serum unconjugated bilirubin",
+   "E": "Increased urobilinogen"
+  },
+  "answer": "B",
+  "explanation": "Haptoglobin binds free haemoglobin and is consumed in haemolysis, so it is reduced, not increased.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01938"
+  ],
+  "stem": "Which of the following is not a feature of extravascular haemolysis?",
+  "options": {
+   "A": "Decreased haptoglobin",
+   "B": "Increased unconjugated hyperbilirubinaemia",
+   "C": "Increased urinary urobilinogen",
+   "D": "Haemosiderinuria",
+   "E": "Pigment gallstones"
+  },
+  "answer": "D",
+  "explanation": "Haemosiderinuria and haemoglobinuria occur in intravascular haemolysis, where free haemoglobin overwhelms haptoglobin. Extravascular haemolysis is splenic.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01939"
+  ],
+  "stem": "In hereditary spherocytosis pick the right statement:",
+  "options": {
+   "A": "It is a disorder of enzymopathic haemolysis",
+   "B": "Indirect Coombs test is positive",
+   "C": "Osmotic fragility test is positive",
+   "D": "It causes autosplenectomy",
+   "E": "It is an X-linked recessive disorder"
+  },
+  "answer": "C",
+  "explanation": "Spherocytes are osmotically fragile, so the osmotic fragility test (and EMA binding test) is positive; Coombs test is negative. It is a membrane defect, usually autosomal dominant.",
+  "key_note": "Some paper keys marked B (indirect Coombs positive); correct is C: the Coombs test is negative, which distinguishes it from autoimmune haemolysis.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01919",
+   "C02929"
+  ],
+  "stem": "A 34-year-old woman has recurrent right upper abdominal colicky pain, a tinge of jaundice, pallor and a palpable spleen. Spherocytes are seen on the film, Coombs test is negative, with raised LDH and indirect bilirubin. Her older brother has the same disease. What is the best treatment?",
+  "options": {
+   "A": "Regular blood transfusion",
+   "B": "Splenectomy",
+   "C": "Cholecystectomy",
+   "D": "Daily folic acid",
+   "E": "Prednisolone"
+  },
+  "answer": "B",
+  "explanation": "This is hereditary spherocytosis with symptomatic anaemia and gallstones; splenectomy is curative of the haemolysis (with cholecystectomy if stones are present).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01940"
+  ],
+  "stem": "In the diagnosis of PNH, which of the following is confirmatory?",
+  "options": {
+   "A": "Nocturnal haemoglobinuria",
+   "B": "Haemosiderinuria",
+   "C": "Hepatosplenomegaly",
+   "D": "Prothrombotic state",
+   "E": "Absence of CD55 and CD59 on flow cytometry"
+  },
+  "answer": "E",
+  "explanation": "Flow cytometry showing loss of the GPI-anchored proteins CD55 and CD59 on red cells (and granulocytes) is the confirmatory test.",
+  "key_note": "Option text read 'Presence of CD55 and CD53' in the source; corrected to absence of CD55 and CD59, the confirmatory finding.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01892",
+   "C02118"
+  ],
+  "stem": "A 13-year-old boy with sickle cell disease presents with severe pallor and malaise. His haemoglobin is 5 g/dl with a reticulocyte count of 0.1%. What has developed?",
+  "options": {
+   "A": "Sequestration crisis",
+   "B": "Haemolytic crisis",
+   "C": "Aplastic crisis",
+   "D": "Bone crisis",
+   "E": "Acute chest syndrome"
+  },
+  "answer": "C",
+  "explanation": "A fall in Hb with reticulocytopenia indicates temporary marrow shutdown, classically from parvovirus B19 infection (aplastic crisis). Sequestration and haemolytic crises have high reticulocytes.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00974"
+  ],
+  "stem": "All of the following are complications of sickle cell anaemia except:",
+  "options": {
+   "A": "Gallstones",
+   "B": "Renal papillary necrosis",
+   "C": "Mesenteric ischaemia",
+   "D": "Persistent splenomegaly in adults",
+   "E": "Joint pains"
+  },
+  "answer": "D",
+  "explanation": "Repeated splenic infarction leads to autosplenectomy (small fibrotic spleen) in adults; splenomegaly is therefore not a typical complication. Gallstones, papillary necrosis, visceral vaso-occlusion and joint pain all occur.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01535"
+  ],
+  "stem": "Which of the following is a recognised complication of sickle cell anaemia?",
+  "options": {
+   "A": "Liver cirrhosis",
+   "B": "Chronic pancreatitis",
+   "C": "Mesenteric ischaemia",
+   "D": "Splenomegaly in adults",
+   "E": "Intestinal obstruction"
+  },
+  "answer": "C",
+  "explanation": "Vaso-occlusion of mesenteric vessels causes abdominal crises and mesenteric ischaemia in sickle cell disease.",
+  "key_note": "Options were garbled in the source and one distractor was replaced by reviewer; source key was C (mesenteric ischaemia).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01613"
+  ],
+  "stem": "An 18-year-old woman presents with several months of heavy menstrual bleeding and fatigue. Hb 96 g/L, MCV 71 fl, platelets 356 x 10^9/L, bleeding time prolonged, APTT 62 seconds. What is the most likely diagnosis?",
+  "options": {
+   "A": "Fibroids",
+   "B": "Physiological menorrhagia",
+   "C": "Hypothyroidism",
+   "D": "Haemophilia A",
+   "E": "von Willebrand disease"
+  },
+  "answer": "E",
+  "explanation": "Menorrhagia in a young woman with prolonged bleeding time and prolonged APTT (low factor VIII) with normal platelets is von Willebrand disease. Haemophilia A would not prolong bleeding time.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01893"
+  ],
+  "stem": "A 19-year-old presents with excessive bleeding after skin cuts and tooth extraction. PT, APTT and platelet count are normal. Apart from this he is healthy and has no spontaneous nose or gum bleeding or bruising. What is the most likely cause?",
+  "options": {
+   "A": "Mild von Willebrand disease",
+   "B": "Haemophilia B",
+   "C": "Idiopathic thrombocytopenic purpura",
+   "D": "Systemic vasculitis",
+   "E": "Occult dexamethasone ingestion"
+  },
+  "answer": "A",
+  "explanation": "Bleeding only after provocation with normal screening tests suggests mild von Willebrand disease (APTT can be normal when factor VIII is only mildly reduced).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01038",
+   "C01994"
+  ],
+  "stem": "A male patient has factor VIII deficiency. His two sisters are less likely to suffer from this disease because it is:",
+  "options": {
+   "A": "Autosomal dominant",
+   "B": "Autosomal recessive",
+   "C": "X-linked dominant",
+   "D": "X-linked recessive",
+   "E": "Multifactorial"
+  },
+  "answer": "D",
+  "explanation": "Haemophilia A is X-linked recessive: females are usually carriers because the second X compensates.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01619"
+  ],
+  "stem": "A 17-year-old man bled excessively after a tooth extraction. Platelets 173,000/cmm, PT 12.9 s, APTT 84 s. In which clotting factor is he most likely deficient?",
+  "options": {
+   "A": "Factor VI",
+   "B": "Factor VII",
+   "C": "Factor VIII",
+   "D": "Factor IX",
+   "E": "Factor X"
+  },
+  "answer": "C",
+  "explanation": "Normal PT with markedly prolonged APTT points to the intrinsic pathway, and factor VIII (haemophilia A) is the commonest deficiency.",
+  "key_note": "Factor IX deficiency gives the same screening results; factor VIII is chosen as the commoner cause. Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01352"
+  ],
+  "stem": "A patient presents with massive gum bleeding in a dental OPD. His platelet count is 5,000 x 10^9/L (as printed; presumably 5 x 10^9/L). Which step of management is justified?",
+  "options": {
+   "A": "Vitamin C",
+   "B": "Transfuse platelets",
+   "C": "IV dextrose water",
+   "D": "Start an antiviral drug",
+   "E": "Give aspirin"
+  },
+  "answer": "B",
+  "explanation": "Active mucosal bleeding with severe thrombocytopenia needs urgent platelet transfusion; aspirin is contraindicated.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02244"
+  ],
+  "stem": "A 20-year-old male is admitted with high-grade fever; his blood CP shows platelets 15,000. Which of the following is contraindicated?",
+  "options": {
+   "A": "Paracetamol",
+   "B": "Omeprazole",
+   "C": "Platelet transfusion",
+   "D": "Ibuprofen",
+   "E": "Vitamin K"
+  },
+  "answer": "D",
+  "explanation": "NSAIDs impair platelet function and cause gastric bleeding, so they are contraindicated in severe thrombocytopenia (e.g. dengue); paracetamol is the antipyretic of choice.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02119"
+  ],
+  "stem": "A 31-year-old man with confusion, fever and skin rash is referred with a provisional diagnosis of TTP. Which one of the following would point to an alternative diagnosis?",
+  "options": {
+   "A": "Prolonged PT and APTT",
+   "B": "Mild renal impairment",
+   "C": "Platelet count 30 x 10^9/L",
+   "D": "Raised serum LDH",
+   "E": "Reticulocytosis"
+  },
+  "answer": "A",
+  "explanation": "TTP has a normal coagulation screen; prolonged PT and APTT suggest DIC (e.g. meningococcaemia, sepsis) instead.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01538"
+  ],
+  "stem": "A patient with pre-existing liver disease presents with frequent epistaxis and gum bleeding. His CBC is normal but the prothrombin time is prolonged by 10 seconds. Which drug will be useful?",
+  "options": {
+   "A": "Iron supplement",
+   "B": "Vitamin K",
+   "C": "Vitamin C",
+   "D": "Aspirin",
+   "E": "Folic acid"
+  },
+  "answer": "B",
+  "explanation": "Prolonged PT with normal platelets reflects reduced vitamin K-dependent factors (II, VII, IX, X); parenteral vitamin K is the first step, with FFP if bleeding is severe.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00976"
+  ],
+  "stem": "Regarding chronic myeloid leukaemia:",
+  "options": {
+   "A": "There is a raised lymphocyte count",
+   "B": "There is thrombocytopenia",
+   "C": "There is massive splenomegaly",
+   "D": "It is common in younger age groups",
+   "E": "Five-year survival is below 10%"
+  },
+  "answer": "C",
+  "explanation": "CML typically presents with marked neutrophilia and myelocytes, often thrombocytosis, and massive splenomegaly in the chronic phase; it peaks at 40-60 years and survival is now excellent with imatinib.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01612"
+  ],
+  "stem": "A patient is investigated for leukocytosis. Cytogenetics shows t(9;22)(q34;q11) with the BCR-ABL gene. Which haematological malignancy is most strongly associated?",
+  "options": {
+   "A": "Chronic myeloid leukaemia",
+   "B": "Acute promyelocytic leukaemia",
+   "C": "Acute lymphoblastic leukaemia",
+   "D": "Burkitt's lymphoma",
+   "E": "Mantle cell lymphoma"
+  },
+  "answer": "A",
+  "explanation": "The Philadelphia chromosome t(9;22) creates BCR-ABL in over 95% of CML (also a minority of adult ALL). APL is t(15;17), Burkitt t(8;14), mantle cell t(11;14).",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01984"
+  ],
+  "stem": "Chronic myeloid leukaemia is associated with which chromosomal abnormality?",
+  "options": {
+   "A": "Philadelphia chromosome",
+   "B": "Trisomy 21",
+   "C": "Trisomy 18",
+   "D": "XXY chromosome",
+   "E": "Chromosome 7 abnormality"
+  },
+  "answer": "A",
+  "explanation": "The Philadelphia chromosome t(9;22) producing BCR-ABL is the hallmark of CML.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01937"
+  ],
+  "stem": "Which of the following describes CML in the accelerated phase?",
+  "options": {
+   "A": "Blasts below 10% in blood or marrow",
+   "B": "Blasts 10-19% in peripheral blood or marrow",
+   "C": "Blasts more than 30% in peripheral blood",
+   "D": "Disappearance of the Philadelphia chromosome",
+   "E": "Regression of hepatosplenomegaly"
+  },
+  "answer": "B",
+  "explanation": "Accelerated phase is defined by 10-19% blasts, basophilia of 20% or more, persistent thrombocytopenia or clonal evolution; 20% or more blasts is blast crisis.",
+  "key_note": "Two options were identical in the source and were repaired by reviewer; source key was B (10%).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02002"
+  ],
+  "stem": "A patient has had high-grade fever with chills for 3 months and has lost about 20 kg. Blood CP shows Hb 10 g/dl, WBC 77,000 x 10^9/L (as printed) and platelets 210,000. What is the next preferred investigation?",
+  "options": {
+   "A": "CT scan brain",
+   "B": "Urine routine examination",
+   "C": "X-ray chest",
+   "D": "Bone marrow biopsy",
+   "E": "Blood cultures"
+  },
+  "answer": "D",
+  "explanation": "Marked leucocytosis with constitutional symptoms and anaemia suggests leukaemia, which is confirmed by bone marrow aspiration and biopsy.",
+  "key_note": "Not marked in the source paper; answer by reviewer. The printed WBC count may be a misprint.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01628"
+  ],
+  "stem": "A 68-year-old man has enlarged lymph nodes in the neck, axillae and groin. Hb 10.5 g/dl, WBC 19,000/cmm, and 60% of white cells are small mature lymphocytes. What is the most likely diagnosis?",
+  "options": {
+   "A": "Acute lymphoblastic leukaemia",
+   "B": "Hodgkin's lymphoma",
+   "C": "Chronic lymphocytic leukaemia",
+   "D": "Non-Hodgkin's lymphoma",
+   "E": "Chronic myeloid leukaemia"
+  },
+  "answer": "C",
+  "explanation": "An elderly patient with generalised lymphadenopathy and lymphocytosis of mature small lymphocytes has CLL (smear cells on the film).",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01920"
+  ],
+  "stem": "A 69-year-old asymptomatic man has a white cell count of 50 x 10^9/L with mostly mature-looking lymphocytes, Hb 14 g/dl and normal platelets. Which is true regarding the management of his CLL?",
+  "options": {
+   "A": "Start CHOP chemotherapy",
+   "B": "Bone marrow transplantation",
+   "C": "Observation",
+   "D": "Whole body irradiation",
+   "E": "Low-dose chlorambucil"
+  },
+  "answer": "C",
+  "explanation": "Early-stage asymptomatic CLL (Binet A, Rai 0-I) needs watchful waiting; treatment starts for symptoms, progressive disease or marrow failure.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00977"
+  ],
+  "stem": "Regarding Hodgkin's lymphoma:",
+  "options": {
+   "A": "Diagnosed by bone marrow biopsy",
+   "B": "Characterised by Reed-Sternberg cells",
+   "C": "Common in old age",
+   "D": "Surgery is the better option",
+   "E": "It is a benign condition"
+  },
+  "answer": "B",
+  "explanation": "Diagnosis is by excision lymph node biopsy showing Reed-Sternberg cells; it has a bimodal peak (young adults and over 55), is malignant and is treated by chemotherapy and radiotherapy.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01611"
+  ],
+  "stem": "A 30-year-old man with painless cervical lymph nodes has biopsy-proven Hodgkin's lymphoma. Which histological type carries the best prognosis?",
+  "options": {
+   "A": "Lymphocyte predominant",
+   "B": "Mixed cellularity",
+   "C": "Nodular sclerosis",
+   "D": "Hairy cell",
+   "E": "Lymphocyte depleted"
+  },
+  "answer": "A",
+  "explanation": "Lymphocyte-predominant Hodgkin's has the best prognosis and lymphocyte-depleted the worst; hairy cell is a leukaemia, not a Hodgkin subtype.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01921"
+  ],
+  "stem": "A 17-year-old girl has persistent right upper neck swelling proved to be Hodgkin's disease of the upper cervical lymph node chain. What is the best treatment option?",
+  "options": {
+   "A": "Local radiotherapy",
+   "B": "ABVD chemotherapy",
+   "C": "Observation",
+   "D": "Stem cell transplantation",
+   "E": "Surgical debulking"
+  },
+  "answer": "B",
+  "explanation": "ABVD (doxorubicin, bleomycin, vinblastine, dacarbazine), with or without involved-field radiotherapy, is the standard first-line therapy for Hodgkin's lymphoma.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01999"
+  ],
+  "stem": "An elderly man presents with bone pains and intermittent fever. Serum total proteins are raised and skull X-ray shows lytic lesions. Which investigation is diagnostic?",
+  "options": {
+   "A": "CT scan brain",
+   "B": "Haemoglobin electrophoresis",
+   "C": "Urine for Bence-Jones proteins",
+   "D": "Blood complete picture",
+   "E": "Blood cultures"
+  },
+  "answer": "C",
+  "explanation": "Raised total protein (high globulin) with lytic skull lesions indicates myeloma, supported by monoclonal protein in serum or urine; bone marrow plasma cell infiltration is the definitive test.",
+  "key_note": "The X-ray was missing in the source. Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01924"
+  ],
+  "stem": "Which of the following is the least useful investigation in multiple myeloma?",
+  "options": {
+   "A": "ESR",
+   "B": "X-ray",
+   "C": "Bone scan",
+   "D": "Marrow biopsy",
+   "E": "Antinuclear antibodies"
+  },
+  "answer": "E",
+  "explanation": "ESR is high, X-rays show lytic lesions and marrow shows plasmacytosis; ANA belongs to autoimmune connective tissue disease.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01849"
+  ],
+  "stem": "A 65-year-old man presents with anaemia, bone pains and increasing thirst. Labs show hypercalcaemia with low parathyroid hormone. What is the most likely diagnosis?",
+  "options": {
+   "A": "Malignancy",
+   "B": "Osteomalacia",
+   "C": "Renal osteodystrophy",
+   "D": "Tertiary hyperparathyroidism"
+  },
+  "answer": "A",
+  "explanation": "Hypercalcaemia with suppressed PTH indicates a non-parathyroid cause; myeloma or other malignancy fits anaemia and bone pain.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01629"
+  ],
+  "stem": "A 66-year-old woman with stage 4 chronic kidney disease and metastatic breast cancer has a deep vein thrombosis and is started on treatment-dose dalteparin. Because of renal impairment her response is to be monitored. What is the most appropriate blood test?",
+  "options": {
+   "A": "Anti-Factor Xa levels",
+   "B": "Antithrombin III levels",
+   "C": "Anti-Factor VIIIa levels",
+   "D": "Prothrombin time",
+   "E": "APTT"
+  },
+  "answer": "A",
+  "explanation": "Low molecular weight heparin accumulates in renal impairment and is monitored by anti-Xa activity; APTT is not reliable for LMWH.",
+  "key_note": "Source paper marked E (APTT); correct is A: anti-Xa assay is the test for LMWH.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01661",
+   "C02165",
+   "C01890",
+   "C03071"
+  ],
+  "stem": "A patient has had a mitral valve replacement and is started on warfarin. Which laboratory test is used to monitor its activity?",
+  "options": {
+   "A": "Prothrombin time (INR)",
+   "B": "Activated partial thromboplastin time",
+   "C": "Platelet count",
+   "D": "Bleeding time",
+   "E": "Factor Xa activity"
+  },
+  "answer": "A",
+  "explanation": "Warfarin inhibits factors II, VII, IX and X and is monitored by PT expressed as INR; APTT monitors unfractionated heparin.",
+  "key_note": "One paper marked 'thromboplastin time' (a dental-extraction version of the question), which is ambiguous; PT/INR is the correct answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01563"
+  ],
+  "stem": "A 35-year-old woman with mitral stenosis on warfarin for one year presents with epistaxis, gum bleeding and melaena. INR is 5 with a markedly prolonged PT. What step is recommended?",
+  "options": {
+   "A": "Reduce the dose of warfarin",
+   "B": "Double the dose of warfarin",
+   "C": "Stop warfarin and give vitamin K",
+   "D": "Give intravenous diuretics",
+   "E": "Transfuse platelets"
+  },
+  "answer": "C",
+  "explanation": "With INR above 5 and active bleeding, warfarin is stopped and vitamin K given (with prothrombin complex or FFP if bleeding is major).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01631"
+  ],
+  "stem": "A 77-year-old man on warfarin for a metallic valve is admitted with an upper GI haemorrhage and is hypotensive and tachycardic. INR is 8.5. What is the most appropriate course regarding his INR?",
+  "options": {
+   "A": "Fresh frozen plasma and stop warfarin",
+   "B": "Vitamin K and stop warfarin",
+   "C": "Prothrombin complex concentrate",
+   "D": "Prothrombin complex concentrate, vitamin K and stop warfarin",
+   "E": "Stop warfarin"
+  },
+  "answer": "D",
+  "explanation": "Major bleeding on warfarin needs immediate reversal with prothrombin complex concentrate plus IV vitamin K, and warfarin is withheld.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01267"
+  ],
+  "stem": "A female nursing-home resident develops acute painful swelling of the right calf and popliteal fossa over three days. Which investigation will be least helpful in management?",
+  "options": {
+   "A": "Doppler ultrasound of calf",
+   "B": "Blood cultures",
+   "C": "Thrombophilia profile",
+   "D": "X-ray of right knee",
+   "E": "D-dimer"
+  },
+  "answer": "C",
+  "explanation": "Imaging and clinical probability guide diagnosis, and cultures and knee X-ray help exclude cellulitis, septic arthritis or a Baker's cyst; a thrombophilia screen does not alter acute management in an elderly resident.",
+  "key_note": "Source paper keys marked E (D-dimer); thrombophilia profile is chosen as least helpful because it does not affect acute management, though D-dimer is also of limited value in a high-probability elderly patient.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02063"
+  ],
+  "stem": "A 30-year-old woman, 2 weeks postpartum, presents with left leg swelling and pain. What is the most likely diagnosis?",
+  "options": {
+   "A": "Cellulitis",
+   "B": "Deep venous thrombosis",
+   "C": "Sciatica",
+   "D": "Hip fracture",
+   "E": "None of the above"
+  },
+  "answer": "B",
+  "explanation": "The puerperium is a hypercoagulable state; unilateral leg swelling and pain make deep vein thrombosis the likeliest diagnosis.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01632"
+  ],
+  "stem": "A 32-year-old woman presents with recurrent deep vein thromboses and pulmonary embolisms and a history of recurrent miscarriages. She has not taken any medication for one month. Which laboratory pattern is most likely?",
+  "options": {
+   "A": "Increased bleeding time",
+   "B": "Prolonged PT",
+   "C": "Normal PT and APTT",
+   "D": "Thrombocytopenia",
+   "E": "Prolonged APTT"
+  },
+  "answer": "E",
+  "explanation": "This is antiphospholipid syndrome; the lupus anticoagulant paradoxically prolongs the in vitro APTT (not corrected by mixing) despite thrombosis in vivo.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01633"
+  ],
+  "stem": "A 32-year-old woman has recurrent deep vein thromboses, pulmonary embolisms and recurrent miscarriages. Which is the most appropriate test?",
+  "options": {
+   "A": "Factor IX assay",
+   "B": "Factor VII assay",
+   "C": "Anti-dsDNA antibody",
+   "D": "Anti-cardiolipin antibody",
+   "E": "Anti-CCP antibody"
+  },
+  "answer": "D",
+  "explanation": "Recurrent venous thrombosis with recurrent miscarriage suggests antiphospholipid syndrome, confirmed by anticardiolipin and anti-beta2-glycoprotein antibodies and lupus anticoagulant.",
+  "key_note": "Stem was missing in the source; rewritten by reviewer from the preceding question. Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01617"
+  ],
+  "stem": "A 25-year-old woman on a combined oral contraceptive pill has severe episodic upper abdominal pain without bowel change, nausea or vomiting. Her mother has hereditary spherocytosis. What is the most likely diagnosis?",
+  "options": {
+   "A": "Inferior vena cava thrombosis",
+   "B": "Acute pancreatitis",
+   "C": "Renal vein thrombosis",
+   "D": "Gastritis",
+   "E": "Biliary colic"
+  },
+  "answer": "E",
+  "explanation": "Hereditary spherocytosis causes chronic haemolysis with pigment gallstones; episodic upper abdominal pain suggests biliary colic.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01620"
+  ],
+  "stem": "Each one of the following is a recognised complication of blood transfusion, except:",
+  "options": {
+   "A": "Iron overload",
+   "B": "ARDS",
+   "C": "Hypokalaemia",
+   "D": "Clotting abnormalities",
+   "E": "Febrile reaction"
+  },
+  "answer": "C",
+  "explanation": "Stored blood leaks potassium, so transfusion causes hyperkalaemia (and hypocalcaemia from citrate), not hypokalaemia. Iron overload, TRALI/ARDS, dilutional coagulopathy and febrile reactions all occur.",
+  "key_note": "The source tick was on D (clotting abnormalities), which is a genuine complication; correct is C.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02120"
+  ],
+  "stem": "A 23-year-old woman with postpartum haemorrhage is transfused. Three hours later she develops fever, breathlessness and diffuse pulmonary infiltrates; pulmonary capillary wedge pressure is 8 mmHg. What has developed?",
+  "options": {
+   "A": "Over-transfusion",
+   "B": "Major ABO incompatibility",
+   "C": "Pulmonary aspiration",
+   "D": "Re-expansion pulmonary oedema",
+   "E": "Transfusion-related acute lung injury"
+  },
+  "answer": "E",
+  "explanation": "Non-cardiogenic pulmonary oedema within 6 hours of transfusion with normal wedge pressure is TRALI (donor anti-HLA/neutrophil antibodies). Over-transfusion would raise the wedge pressure.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02486"
+  ],
+  "stem": "A patient planned for a dental procedure is found to be pale and anaemic. In which of the following is anaemia NOT a feature?",
+  "options": {
+   "A": "Hookworm infestation of the gut",
+   "B": "Haemorrhoids in an elderly patient",
+   "C": "Chronic diarrhoea with weight loss",
+   "D": "Chronic history of smoking",
+   "E": "Chronic renal failure"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Chronic smoking raises carboxyhaemoglobin and causes secondary polycythaemia rather than anaemia. The others cause blood loss, malabsorption or reduced erythropoietin.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02491"
+  ],
+  "stem": "The size of the red blood cell is determined by which of the following indices?",
+  "options": {
+   "A": "MCV",
+   "B": "MCHC",
+   "C": "RDW",
+   "D": "MCH",
+   "E": "PCV"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Mean corpuscular volume (MCV) reflects average red cell size and classifies anaemia as microcytic, normocytic or macrocytic. RDW reflects variation in size (anisocytosis).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02492"
+  ],
+  "stem": "A 45-year-old man presents with weakness and shortness of breath. He is pale and has a flow murmur in the parasternal area. Which of the following is a cause of anaemia?",
+  "options": {
+   "A": "Residence at high altitude",
+   "B": "Intrinsic factor deficiency",
+   "C": "Chronic smoking",
+   "D": "Hypernephroma",
+   "E": "Polycythaemia"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Intrinsic factor deficiency (pernicious anaemia) causes vitamin B12 malabsorption and megaloblastic anaemia. High altitude, smoking and hypernephroma (erythropoietin secretion) cause raised haemoglobin.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02489"
+  ],
+  "stem": "You are investigating a patient for iron deficiency anaemia. The major metabolically available storage form of iron in the body is:",
+  "options": {
+   "A": "Haemosiderin",
+   "B": "Serum iron",
+   "C": "Ferritin",
+   "D": "Haemochromatosis",
+   "E": "Haemoglobin"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Ferritin is the soluble, readily mobilisable iron store and its level reflects body iron stores. Haemosiderin is a less accessible insoluble store, and haemochromatosis is a disease, not a storage form.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03063"
+  ],
+  "stem": "A school-going child brought for a medical examination before admission appears pale. Which of the following clinical signs is characteristic of an anaemic syndrome?",
+  "options": {
+   "A": "Palmar erythema",
+   "B": "Lymphadenopathy",
+   "C": "Hirsutism",
+   "D": "Koilonychia",
+   "E": "Clubbing"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Koilonychia (spoon nails) is a classic sign of chronic iron deficiency anaemia. Palmar erythema suggests liver disease and clubbing suggests chronic suppurative or cardiopulmonary disease.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02488"
+  ],
+  "stem": "A patient's blood picture shows Hb 6 g/dl, WBC 2.1 x 10^9/L and platelets 50,000/microlitre. Suppression of all three cell lines is called:",
+  "options": {
+   "A": "Leukopenia",
+   "B": "Leukocytosis",
+   "C": "Haemophilia",
+   "D": "Pancytopenia",
+   "E": "Polycythaemia"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Reduction of red cells, white cells and platelets together is pancytopenia (aplasia, marrow infiltration, hypersplenism, megaloblastic anaemia).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02487"
+  ],
+  "stem": "A 24-year-old woman presents with pallor and koilonychia and is investigated for anaemia. Which of the following suggests iron deficiency?",
+  "options": {
+   "A": "Low haematocrit and raised MCV above 106 fl",
+   "B": "Anaemia with a normal MCV of 86 fl",
+   "C": "Pancytopenia with all cell lines suppressed",
+   "D": "Low MCV of 64 fl and high serum ferritin",
+   "E": "Low MCV of 64 fl and low serum ferritin"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Iron deficiency gives a microcytic hypochromic picture with low serum ferritin, which is the most specific test. Microcytosis with high ferritin points to anaemia of chronic disease.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03064",
+   "C00919"
+  ],
+  "stem": "A 20-year-old girl with pallor and weakness is diagnosed with iron deficiency anaemia. What do you expect in her complete blood count?",
+  "options": {
+   "A": "Decreased white cell count",
+   "B": "Decreased platelet count",
+   "C": "Decreased reticulocyte count",
+   "D": "Decreased haemoglobin level",
+   "E": "Decreased all cell lines"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Iron deficiency reduces haemoglobin with microcytic hypochromic cells; white cells are normal and platelets are often normal or raised. Reticulocytes are inappropriately low for the degree of anaemia, but the defining finding is the low Hb.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03162"
+  ],
+  "stem": "Intestinal absorption of dietary iron can be enhanced in iron deficiency anaemia by supplementing the diet with which vitamin?",
+  "options": {
+   "A": "A",
+   "B": "B1",
+   "C": "C",
+   "D": "D",
+   "E": "E"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Vitamin C reduces ferric to the better absorbed ferrous iron and forms an absorbable chelate in the gut.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02287"
+  ],
+  "stem": "An upper oesophageal web is associated with which of the following deficiencies?",
+  "options": {
+   "A": "Vitamin B12 deficiency",
+   "B": "Folic acid deficiency",
+   "C": "Iron deficiency",
+   "D": "Pyridoxine deficiency",
+   "E": "Thiamine deficiency"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Post-cricoid web with iron deficiency anaemia and dysphagia is Plummer-Vinson (Paterson-Brown-Kelly) syndrome.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02394",
+   "C02832"
+  ],
+  "stem": "A 70-year-old woman presents with fatigue and shortness of breath for 1 month and appears pale. Tests show microcytic anaemia with a low ferritin. What is the most likely cause?",
+  "options": {
+   "A": "Aplastic anaemia",
+   "B": "Chronic kidney disease",
+   "C": "Folate deficiency anaemia",
+   "D": "Gastrointestinal bleeding",
+   "E": "Haemolytic anaemia"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Iron deficiency in an elderly patient is gastrointestinal blood loss (e.g. colonic carcinoma, ulcer) until proven otherwise and needs endoscopic evaluation.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03073"
+  ],
+  "stem": "A patient with intermittent blood loss due to haematuria has Hb 9 g/dl, MCV 68 fl, low ferritin and raised TIBC. The treatment of choice is:",
+  "options": {
+   "A": "Vitamin B12 supplementation",
+   "B": "Iron supplementation",
+   "C": "Platelet transfusion",
+   "D": "Bone marrow transplant",
+   "E": "Erythropoietin injections"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Low MCV, low ferritin and high TIBC indicate iron deficiency; replace iron (oral first) and treat the source of loss.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02584"
+  ],
+  "stem": "A 30-year-old woman presents with exertional breathlessness for 2 months. Tests show low haemoglobin, low ferritin and low serum iron. What is the most appropriate initial management?",
+  "options": {
+   "A": "Blood transfusion",
+   "B": "Intravenous iron therapy",
+   "C": "Oral folate supplementation",
+   "D": "Oral iron supplementation",
+   "E": "Vitamin B12 injection"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Oral ferrous salts are the first-line treatment of iron deficiency anaemia; transfusion is reserved for decompensation or haemodynamic instability.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02396"
+  ],
+  "stem": "A 75-year-old man presents with weakness, pallor and fatigue. His diet is poor and contains no meat. Blood CP shows Hb 7.0 g/dl with MCV 112 fl. The most likely diagnosis is:",
+  "options": {
+   "A": "Megaloblastic anaemia",
+   "B": "Iron deficiency anaemia",
+   "C": "Acute leukaemia",
+   "D": "Multiple myeloma",
+   "E": "Chronic lymphocytic leukaemia"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "A macrocytic anaemia with a diet lacking animal products points to vitamin B12 deficiency causing megaloblastic anaemia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03062"
+  ],
+  "stem": "A 25-year-old man presents with weakness and lethargy. His blood picture shows Hb 7 g/dl with MCV 120 fl. This picture is a feature of which of the following?",
+  "options": {
+   "A": "Folate deficiency anaemia",
+   "B": "Iron deficiency anaemia",
+   "C": "Anaemia of CKD",
+   "D": "Haemolytic anaemia",
+   "E": "Anaemia of pregnancy"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "A markedly raised MCV indicates megaloblastic anaemia from folate (or B12) deficiency; the other options are normocytic or microcytic.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03235"
+  ],
+  "stem": "Megaloblastic anaemia can be caused by:",
+  "options": {
+   "A": "Nutritional deficiency of iron",
+   "B": "Tapeworm infestation",
+   "C": "Excessive blood loss",
+   "D": "Erythropoietin deficiency",
+   "E": "Lead poisoning"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Diphyllobothrium latum (fish tapeworm) competes for vitamin B12 and causes B12 deficiency. Iron deficiency, blood loss and lead cause microcytic anaemia and erythropoietin deficiency causes normocytic anaemia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02872"
+  ],
+  "stem": "A 65-year-old vegetarian woman presents with numbness and weakness of the hands and feet. Investigations show macrocytic anaemia. What is the best initial approach to management?",
+  "options": {
+   "A": "Blood transfusion",
+   "B": "Dietary counselling for increased meat intake",
+   "C": "Intramuscular vitamin B12",
+   "D": "Intravenous thiamine",
+   "E": "Oral folic acid"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Macrocytic anaemia with neuropathy indicates B12 deficiency; give parenteral hydroxocobalamin first. Folic acid alone can worsen subacute combined degeneration.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02395"
+  ],
+  "stem": "A 55-year-old man with chronic renal failure has breathlessness and lethargy for 2 months. He is pale; Hb 8 g/dl, normocytic cells and a low reticulocyte count. What is the most appropriate management?",
+  "options": {
+   "A": "Blood transfusion",
+   "B": "Erythropoietin",
+   "C": "Folate supplementation",
+   "D": "Iron supplementation",
+   "E": "Vitamin B12 supplementation"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Anaemia of CKD is due to erythropoietin deficiency; treat with recombinant erythropoietin (with iron if deficient) and avoid transfusion where possible.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03065"
+  ],
+  "stem": "A 22-year-old man presents with lethargy and weakness. He is pale with Hb 6 g/dl and a reticulocyte count of 5% (normal 0.5-2.5%). The possible diagnosis is:",
+  "options": {
+   "A": "Acute haemolytic anaemia",
+   "B": "Vitamin B12 deficiency anaemia",
+   "C": "Aplastic anaemia",
+   "D": "Anaemia of chronic disease",
+   "E": "Folate deficiency anaemia"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "A raised reticulocyte count with severe anaemia reflects a marrow responding to red cell destruction. The other options have a low reticulocyte response.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02428",
+   "C02162"
+  ],
+  "stem": "A 35-year-old woman presents with palpitations, breathlessness and tiredness for 2 months, and heavy periods for a year. Blood CP shows Hb 8.0 g/dl, MCV 100 fl, MCH 30 and reticulocytes 9%. The most likely diagnosis is:",
+  "options": {
+   "A": "Haemolytic anaemia",
+   "B": "Iron deficiency anaemia",
+   "C": "Megaloblastic anaemia",
+   "D": "Aplastic anaemia",
+   "E": "Anaemia of chronic disease"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "The high reticulocyte count (9%) with raised MCV (reticulocytes are large) indicates a brisk marrow response, i.e. haemolysis. Iron deficiency from menorrhagia would be microcytic with a low reticulocyte count.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02931"
+  ],
+  "stem": "A 30-year-old man from Africa with recurrent malaria is to receive primaquine prophylaxis. His Hb is 10 g/dl. Which test should be done before starting primaquine?",
+  "options": {
+   "A": "Osmotic fragility test",
+   "B": "Haemoglobin electrophoresis",
+   "C": "Bone marrow examination",
+   "D": "Coombs test",
+   "E": "G6PD activity assay"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Primaquine precipitates oxidative haemolysis in G6PD deficiency, so enzyme activity must be checked first.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02501"
+  ],
+  "stem": "A 14-year-old boy presents with haemolytic anaemia and jaundice. He is pale and jaundiced with massive splenomegaly. What is the possible diagnosis?",
+  "options": {
+   "A": "Acute hepatitis A",
+   "B": "Dehydration",
+   "C": "Thalassaemia major",
+   "D": "Iron deficiency",
+   "E": "Hepatotoxic drugs"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Haemolysis with jaundice and massive splenomegaly in a child suggests thalassaemia major (extramedullary haematopoiesis and splenic hyperactivity).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02499"
+  ],
+  "stem": "In a patient with jaundice, massive splenomegaly, haemolysis and pancytopenia, which one of the following conditions is a possibility?",
+  "options": {
+   "A": "Aplastic anaemia",
+   "B": "Beta thalassaemia major",
+   "C": "Von Willebrand disease",
+   "D": "Haemophilia A",
+   "E": "G6PD deficiency"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Beta thalassaemia major gives chronic haemolysis, jaundice, massive splenomegaly and hypersplenism with pancytopenia.",
+  "key_note": "The paper key marked E (G6PD deficiency); correct is B: G6PD deficiency causes episodic haemolysis without massive splenomegaly, whereas thalassaemia major does.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02498"
+  ],
+  "stem": "A 25-year-old man has massive splenomegaly up to 18 cm on examination and ultrasound. Which haematological disorder would you EXCLUDE?",
+  "options": {
+   "A": "Sickle cell haemolytic anaemia",
+   "B": "Beta thalassaemia major",
+   "C": "Spherocytosis",
+   "D": "Chronic myeloid leukaemia",
+   "E": "Hyperactive malarial spleen"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "In adults sickle cell anaemia causes repeated splenic infarction and autosplenectomy, so the spleen is small. The others cause massive splenomegaly.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02500"
+  ],
+  "stem": "Which statement is NOT correct regarding hypersplenism?",
+  "options": {
+   "A": "It can be a feature of massive splenomegaly",
+   "B": "There may be pancytopenia",
+   "C": "Bone marrow biopsy shows normal cellularity",
+   "D": "Portal hypertension can be a feature",
+   "E": "The patient is never asymptomatic"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Hypersplenism may be asymptomatic and found on a blood count; marrow is normal or hypercellular and portal hypertension is a common cause.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02585"
+  ],
+  "stem": "A 28-year-old woman of African descent presents with recurrent severe chest and back pain. Tests show low Hb and sickle-shaped red cells on the smear. Which genetic mechanism is responsible?",
+  "options": {
+   "A": "Deletion mutation",
+   "B": "Frameshift mutation",
+   "C": "Insertion mutation",
+   "D": "Missense mutation",
+   "E": "Nonsense mutation"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Sickle cell disease results from a point mutation in the beta-globin gene (GAG to GTG) that substitutes valine for glutamic acid at position 6, a missense mutation.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03185"
+  ],
+  "stem": "A patient has an inherited disorder that changes the shape of cells due to a point mutation. The most important example of a point mutation is:",
+  "options": {
+   "A": "Thalassaemia",
+   "B": "Night blindness",
+   "C": "Sickle cell anaemia",
+   "D": "Down syndrome",
+   "E": "Turner syndrome"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Sickle cell anaemia is the classic point mutation (single base change, Glu6Val in beta-globin). Down syndrome is a chromosomal trisomy.",
+  "key_note": "Option E was a repeat of Thalassaemia in the source and was replaced by the reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02393"
+  ],
+  "stem": "A 13-year-old boy has recurrent episodes of severe chest pain and acute abdominal pain for 2 weeks. Tests show low Hb and sickle-shaped red cells. What is the most appropriate management of the acute pain episode?",
+  "options": {
+   "A": "Blood transfusion",
+   "B": "Bone marrow transplant",
+   "C": "Hydroxyurea",
+   "D": "Iron supplements",
+   "E": "Opioid analgesics"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Acute vaso-occlusive crisis is managed with hydration, oxygen if hypoxic and adequate (opioid) analgesia. Hydroxyurea is for prevention and transfusion is for specific complications.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02928"
+  ],
+  "stem": "A 17-year-old boy presents with severe chest pain that increases with movement. He is tachypnoeic, dehydrated and pale, with anaemia since childhood and repeated transfusions. Hb 8 g/dl, MCV 72 fl, reticulocytes 4%, normal chest X-ray, ECG sinus tachycardia. What is the likely diagnosis?",
+  "options": {
+   "A": "Acute myocardial infarction",
+   "B": "Pneumothorax",
+   "C": "Pneumonia",
+   "D": "Vaso-occlusive crisis",
+   "E": "Pulmonary embolism"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Chronic haemolytic anaemia with severe pain and dehydration and an otherwise normal chest film and ECG indicates a sickle vaso-occlusive crisis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02587"
+  ],
+  "stem": "A 13-year-old boy has fatigue and frequent infections for 3 months. Blood tests show anaemia and sickle-shaped red cells. His mother wants to know her carrier status. What is the most appropriate test?",
+  "options": {
+   "A": "FISH",
+   "B": "Haemoglobin electrophoresis",
+   "C": "Karyotyping",
+   "D": "Next-generation sequencing",
+   "E": "SNP array"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Haemoglobin electrophoresis (or HPLC) identifies HbS trait, which is the practical and cheapest carrier test.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02923"
+  ],
+  "stem": "Which of the following is a risk factor for transmitting thalassaemia to the next generation?",
+  "options": {
+   "A": "Asian race",
+   "B": "Pregnancy after the age of 40 years",
+   "C": "Exposure to radiation",
+   "D": "Cousin marriages",
+   "E": "Exposure to heavy metals"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Thalassaemia is autosomal recessive; consanguinity raises the chance that both parents are carriers.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02926"
+  ],
+  "stem": "Splenomegaly is seen in:",
+  "options": {
+   "A": "Iron deficiency anaemia",
+   "B": "Thalassaemia",
+   "C": "Megaloblastic anaemia",
+   "D": "Sickle cell anaemia",
+   "E": "Aplastic anaemia"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Thalassaemia (major and intermedia) gives prominent splenomegaly. Adult sickle cell anaemia ends in autosplenectomy and aplastic anaemia has no splenomegaly.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02922",
+   "C03066"
+  ],
+  "stem": "Which treatment can cure a thalassaemia patient?",
+  "options": {
+   "A": "Bone marrow transplant",
+   "B": "Venesection",
+   "C": "Iron therapy",
+   "D": "Steroids",
+   "E": "Vitamin B12 supplementation"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Allogeneic stem cell transplantation from an HLA-matched donor is the only curative treatment; iron and venesection are harmful or ineffective.",
+  "key_note": "The source stem asked about treatment 'that should be given'; the reviewer reworded it to cure, as the keyed answer is transplant.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02930"
+  ],
+  "stem": "A 19-year-old thalassaemia patient has orthopnoea and nocturnal dyspnoea for 3 months. He has had transfusions since childhood with no iron chelation. ECG shows left bundle branch block with normal cardiac enzymes. What is the most likely cause?",
+  "options": {
+   "A": "Acute MI",
+   "B": "Myocarditis",
+   "C": "Rheumatic heart disease",
+   "D": "Restrictive cardiomyopathy",
+   "E": "Pleural effusion"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Transfusional iron overload causes cardiomyopathy and heart failure with normal enzymes, the leading cause of death in thalassaemia. Of the options, cardiomyopathy from iron deposition is the answer.",
+  "key_note": "Iron overload more often causes a dilated pattern, but restrictive cardiomyopathy is the keyed option and the best of those listed.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02391",
+   "C02848"
+  ],
+  "stem": "A 30-year-old woman has recurrent infections, bruising and oral ulcers for 2 months. Bone marrow biopsy shows a hypocellular marrow with absence of haematopoietic cells. What is the best treatment option?",
+  "options": {
+   "A": "Bone marrow transplant",
+   "B": "Chemotherapy",
+   "C": "Corticosteroids",
+   "D": "Erythropoietin",
+   "E": "Iron supplements"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "This is severe aplastic anaemia; in a young patient with a donor, HLA-matched allogeneic stem cell transplantation is curative. Immunosuppression (ATG and ciclosporin) is used if no donor.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02924",
+   "C03068"
+  ],
+  "stem": "What is the haemoglobin threshold for recommended blood transfusion?",
+  "options": {
+   "A": "Hb < 10 g/dl",
+   "B": "Hb < 8 g/dl",
+   "C": "Hb < 6 g/dl",
+   "D": "Hb < 11 g/dl",
+   "E": "Hb < 12 g/dl"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Transfusion is not indicated at higher levels in a stable patient; a restrictive threshold is used (about 7-8 g/dl), together with clinical state.",
+  "key_note": "Both papers marked B; many guidelines quote 7 g/dl, but B is the best of the listed options.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02927"
+  ],
+  "stem": "Which blood group is referred to as the universal recipient?",
+  "options": {
+   "A": "O positive",
+   "B": "AB positive",
+   "C": "A positive",
+   "D": "B positive",
+   "E": "O negative"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "AB positive has no anti-A or anti-B antibodies and is Rh positive, so can receive any ABO/Rh group. O negative is the universal donor.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03070",
+   "C03231",
+   "C01630",
+   "C01998"
+  ],
+  "stem": "A patient presents with severe blood loss and hypovolaemic shock (for example after an earthquake) and his blood group is unknown. Which blood type can be transfused?",
+  "options": {
+   "A": "O positive",
+   "B": "AB positive",
+   "C": "AB negative",
+   "D": "O negative",
+   "E": "A negative"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Group O Rh negative red cells have no A, B or D antigens and are the emergency universal donor type.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02412"
+  ],
+  "stem": "A 15-year-old boy presents to a dental clinic with a dental abscess. Blood CP shows WBC 30,000/cmm, blasts 20%, Hb 6.0 g/dl and platelets 40,000/cmm. The most likely diagnosis is:",
+  "options": {
+   "A": "Leukaemoid reaction",
+   "B": "Acute leukaemia",
+   "C": "Chronic myeloid leukaemia",
+   "D": "Chronic lymphocytic leukaemia",
+   "E": "Aplastic anaemia"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Circulating blasts of 20% or more with anaemia and thrombocytopenia is acute leukaemia; infection from neutropenia is a common presentation.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02490"
+  ],
+  "stem": "A 25-year-old man with pyrexia of unknown origin has a WBC count of 70,000 and AML is suspected. What is the best site for bone marrow biopsy in an adult?",
+  "options": {
+   "A": "Sternum",
+   "B": "Tibial tuberosity",
+   "C": "Iliac crest",
+   "D": "Sacrum",
+   "E": "Lumbar vertebrae"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "The posterior iliac crest is the preferred and safest site in adults. The tibia is used only in infants.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02388"
+  ],
+  "stem": "A 60-year-old woman presents with fatigue, night sweats and unintentional weight loss for 2 months. A peripheral smear shows an increased number of small mature lymphocytes with smudge cells. What is the most likely diagnosis?",
+  "options": {
+   "A": "Acute lymphoblastic leukaemia",
+   "B": "Acute lymphoma",
+   "C": "Acute myeloid leukaemia",
+   "D": "Chronic lymphocytic leukaemia",
+   "E": "Chronic myeloid leukaemia"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Older age, B symptoms and a lymphocytosis of small mature lymphocytes with smudge cells on the film point to chronic lymphocytic leukaemia.",
+  "key_note": "Source stem also quoted a low LAP score, which favours CML and conflicted with the lymphoid picture; the LAP detail was removed and CLL kept.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02389",
+   "C02578"
+  ],
+  "stem": "A 50-year-old man presents with easy fatigability for 1 month and splenomegaly. Hb is 12 g/dl and WBC 200,000/microlitre. Bone marrow biopsy shows hypercellularity with granulocyte proliferation. What is the most likely diagnosis?",
+  "options": {
+   "A": "Chronic myeloid leukaemia",
+   "B": "Essential thrombocytosis",
+   "C": "Myelodysplastic syndrome",
+   "D": "Polycythaemia vera",
+   "E": "Primary myelofibrosis"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Marked leucocytosis with splenomegaly and a hypercellular granulocytic marrow is CML (Philadelphia chromosome, BCR-ABL).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03072"
+  ],
+  "stem": "A bone marrow slide of a patient suspected of malignancy shows a starry sky appearance. This is seen in:",
+  "options": {
+   "A": "Burkitt lymphoma",
+   "B": "Mantle cell lymphoma",
+   "C": "Extranodal marginal zone B-cell lymphoma of MALT type",
+   "D": "Chronic myeloid leukaemia",
+   "E": "Myelodysplastic syndrome"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Starry sky (tingible-body macrophages among sheets of lymphoblasts) is the hallmark of Burkitt lymphoma, with t(8;14) and c-myc.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03232"
+  ],
+  "stem": "The cell feature in all types of classic Hodgkin lymphoma is:",
+  "options": {
+   "A": "Sezary cell",
+   "B": "Howell-Jolly bodies",
+   "C": "Lacunar cell",
+   "D": "Histiocytes",
+   "E": "Reed-Sternberg cell"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Reed-Sternberg cells (binucleate owl-eye, CD15 and CD30 positive) are required for diagnosis. Lacunar cells are a variant seen in nodular sclerosis only.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02925"
+  ],
+  "stem": "Which virus can lead to non-Hodgkin lymphoma?",
+  "options": {
+   "A": "Rotavirus",
+   "B": "Epstein-Barr virus",
+   "C": "Hepatitis A virus",
+   "D": "Arbovirus",
+   "E": "Herpes simplex virus"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "EBV is linked to Burkitt lymphoma and post-transplant and other lymphomas.",
+  "key_note": "Distractors HIV and generic herpes virus (EBV is a herpesvirus) replaced so EBV is the only correct option.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02493"
+  ],
+  "stem": "In ensuring blood haemostasis, which one of the following is NOT included in the pathological cascade?",
+  "options": {
+   "A": "Vessel wall spasm",
+   "B": "Platelet plug formation",
+   "C": "Activation of coagulation pathways",
+   "D": "Activation of the plasminogen system",
+   "E": "Pressure at the bleeding point can facilitate primary haemostasis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Haemostasis consists of vasoconstriction, platelet plug and coagulation; the plasminogen (fibrinolytic) system acts later to dissolve the clot.",
+  "key_note": "Question is loosely worded; D is the keyed answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02494"
+  ],
+  "stem": "Which one of the following is NOT a cause of vascular purpura?",
+  "options": {
+   "A": "Henoch-Schonlein purpura",
+   "B": "Ehlers-Danlos syndrome",
+   "C": "Senile purpura",
+   "D": "Thrombocytopenic purpura",
+   "E": "Hereditary haemorrhagic telangiectasia"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Thrombocytopenic purpura is a platelet disorder. Vascular purpura results from fragile vessels or vasculitis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03233"
+  ],
+  "stem": "Idiopathic thrombocytopenic purpura (ITP) can be cured by:",
+  "options": {
+   "A": "Antiplatelet drugs",
+   "B": "Splenectomy",
+   "C": "Antibiotics",
+   "D": "Vaccination",
+   "E": "Platelet transfusion"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Splenectomy removes the main site of platelet destruction and gives lasting remission in many refractory chronic cases.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02413"
+  ],
+  "stem": "A 25-year-old woman presents to a dental clinic with 3 weeks of gum bleeding and one episode of epistaxis. Blood CP shows Hb 9.0 g/dl, WBC 8000/cmm and platelets 24,000/cmm. The most likely diagnosis is:",
+  "options": {
+   "A": "Platelet function disorder",
+   "B": "Haemophilia A",
+   "C": "Haemophilia B",
+   "D": "Immune thrombocytopenia",
+   "E": "Von Willebrand disease"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Mucosal bleeding with isolated thrombocytopenia in a young woman is ITP. Haemophilia does not cause a low platelet count.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02648"
+  ],
+  "stem": "A 25-year-old woman presents with fatigue and oedema for 1 week. Tests show anaemia, thrombocytopenia and renal impairment, and the smear shows schistocytes. What is the most likely condition?",
+  "options": {
+   "A": "Acute glomerulonephritis",
+   "B": "Aplastic anaemia",
+   "C": "Haemolytic uraemic syndrome",
+   "D": "Henoch-Schonlein purpura",
+   "E": "IgA nephropathy"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Microangiopathic haemolytic anaemia, thrombocytopenia and renal failure make the triad of HUS (TTP in an adult with neurological signs).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02387"
+  ],
+  "stem": "A 45-year-old man with chronic alcoholism presents with easy bruising and bleeding gums for 1 week. Tests show thrombocytopenia and prolonged PT and APTT. What is the most likely diagnosis?",
+  "options": {
+   "A": "Aplastic anaemia",
+   "B": "Disseminated intravascular coagulation",
+   "C": "Haemophilia",
+   "D": "Immune thrombocytopenic purpura",
+   "E": "Liver cirrhosis"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Cirrhosis causes thrombocytopenia (hypersplenism) and prolonged PT and APTT from reduced synthesis of clotting factors.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02495"
+  ],
+  "stem": "A patient presents with off-and-on epistaxis and gum bleeding. Which of the following is a cause of bleeding due to factor VIII deficiency?",
+  "options": {
+   "A": "Bernard-Soulier syndrome",
+   "B": "Aspirin treatment",
+   "C": "Von Willebrand disease",
+   "D": "Haemophilia A",
+   "E": "Aplastic anaemia"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Haemophilia A is the inherited deficiency of factor VIII. In von Willebrand disease the factor VIII fall is secondary to the vWF defect.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02418",
+   "C00538",
+   "C00546"
+  ],
+  "stem": "A 14-year-old boy presents with 2 days of severe pain and swelling of the right knee. His mother reports prolonged bleeding after minor injuries. The most likely diagnosis is:",
+  "options": {
+   "A": "Septic arthritis",
+   "B": "Osteoarthritis",
+   "C": "Rheumatoid arthritis",
+   "D": "Haemophilia",
+   "E": "ITP"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Spontaneous haemarthrosis with prolonged bleeding after minor trauma in a boy suggests haemophilia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02485",
+   "C01936",
+   "C02397",
+   "C02430",
+   "C02497",
+   "C02390",
+   "C02579",
+   "C02830",
+   "C02851"
+  ],
+  "stem": "A case presents with suspected haemophilia, an X-linked recessive disorder. Which investigation favours the diagnosis?",
+  "options": {
+   "A": "Prolonged bleeding time",
+   "B": "Prolonged prothrombin time",
+   "C": "Prolonged activated partial thromboplastin time",
+   "D": "Thrombocytopenia",
+   "E": "Increased fibrin degradation products"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Haemophilia A and B (intrinsic pathway factor VIII or IX deficiency) prolong the APTT with a normal PT, bleeding time and platelet count.",
+  "key_note": "Merged haemophilia APTT questions. One paper key marked prolonged bleeding time; wrong, as bleeding time is normal in haemophilia and APTT is prolonged.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03184"
+  ],
+  "stem": "Which of the following is known as the royal disease, a bleeding disorder seen almost exclusively in males?",
+  "options": {
+   "A": "Sickle cell anaemia",
+   "B": "Haemophilia",
+   "C": "Alzheimer disease",
+   "D": "Colour blindness",
+   "E": "Down syndrome"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Haemophilia A (X-linked recessive) affected Queen Victoria's descendants in European royal families.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02570"
+  ],
+  "stem": "A 30-year-old woman presents with left leg swelling and pain; peripheral pulses are palpable. She is a known case of antiphospholipid antibody syndrome. The likely diagnosis is:",
+  "options": {
+   "A": "Peripheral neuropathy",
+   "B": "Deep venous thrombosis",
+   "C": "Sciatica",
+   "D": "Hip fracture",
+   "E": "Limb ischaemia"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Antiphospholipid syndrome is a thrombophilia, and a swollen painful leg with intact pulses is DVT rather than arterial ischaemia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02392"
+  ],
+  "stem": "A 40-year-old man presents with a painful swollen left leg for 2 days. Doppler confirms a below-knee DVT. Which risk factor is most likely associated with this condition?",
+  "options": {
+   "A": "Hypothyroidism",
+   "B": "Chronic haemolytic anaemia",
+   "C": "Heavy exercise",
+   "D": "Hypertension",
+   "E": "Prolonged travel"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Venous stasis from prolonged immobility or travel is a common provoking risk factor for DVT.",
+  "key_note": "Distractor 'Antiphospholipid syndrome' (also a DVT risk factor) replaced so prolonged travel is the only clear answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02483"
+  ],
+  "stem": "A 35-year-old woman has fever and swelling of the right leg after a week of bed rest following caesarean section. Which test is relevant to diagnose deep vein thrombosis?",
+  "options": {
+   "A": "Serum total albumin",
+   "B": "Urine routine examination",
+   "C": "Venous Doppler ultrasound of the right leg",
+   "D": "CT angiography of the right leg",
+   "E": "X-rays of the right leg AP and lateral"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Compression/duplex Doppler ultrasound is the first-line, non-invasive imaging test for DVT.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02484"
+  ],
+  "stem": "You start anticoagulation in a patient with DVT whose cardiac and respiratory examination is normal. All of the following are complications of DVT in this case EXCEPT:",
+  "options": {
+   "A": "Pulmonary embolism",
+   "B": "Embolic stroke",
+   "C": "Post-phlebitic syndrome",
+   "D": "Varicose ulcers",
+   "E": "Ischaemic gangrene"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Venous thrombi reach the lungs, not the brain, unless there is a right-to-left shunt; with a normal cardiac examination embolic stroke is not expected. Venous gangrene (phlegmasia) and post-thrombotic ulcers can occur.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02831",
+   "C02856",
+   "C02820"
+  ],
+  "stem": "A 40-year-old man presents with a painful swollen left leg for 2 days. Doppler confirms a below-knee deep vein thrombosis. What is the appropriate treatment?",
+  "options": {
+   "A": "IV vitamin K",
+   "B": "IV warfarin",
+   "C": "Oral aspirin",
+   "D": "Oral clopidogrel",
+   "E": "Oral rivaroxaban"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Anticoagulation with a direct oral anticoagulant such as rivaroxaban is first-line for DVT. Antiplatelets are not adequate, warfarin is oral and vitamin K reverses anticoagulation.",
+  "key_note": "",
+  "figure": ""
+ }
+]

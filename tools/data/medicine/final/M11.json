@@ -1,0 +1,2710 @@
+[
+ {
+  "cids": [
+   "C00696",
+   "C01483"
+  ],
+  "stem": "In low light, the outline of a tree is perceived as a man. This is an example of:",
+  "options": {
+   "A": "Imagery",
+   "B": "Illusion",
+   "C": "Hallucination",
+   "D": "Pseudohallucination",
+   "E": "Delusion"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "An illusion is a misperception of a real external stimulus; a hallucination has no external stimulus at all.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00690"
+  ],
+  "stem": "Faisal hears voices in her head that tell her what to do and what to say. Faisal is experiencing:",
+  "options": {
+   "A": "Delusions",
+   "B": "Paranoia",
+   "C": "Hallucinations",
+   "D": "Compulsions",
+   "E": "Illusion"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Perception without an external stimulus is a hallucination; voices commanding the patient are auditory (command) hallucinations.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00707"
+  ],
+  "stem": "A 45-year-old woman with depression anxiously describes hearing voices at night as she goes to sleep. Which perceptual abnormality is this?",
+  "options": {
+   "A": "Extracampine hallucinations",
+   "B": "Somatic hallucinations",
+   "C": "Hypnopompic hallucinations",
+   "D": "Hypnagogic hallucinations",
+   "E": "Pseudohallucinations"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Hypnagogic hallucinations occur while falling asleep and hypnopompic ones while waking; both are normal phenomena and not psychotic.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00702"
+  ],
+  "stem": "A 32-year-old man is brought by his family for bizarre behaviour, including self-talking, suspiciousness and lack of self-care. He says that RAW has installed microphones in his room to give him orders which only he can hear. What is the patient experiencing?",
+  "options": {
+   "A": "Compulsions",
+   "B": "Delusion",
+   "C": "Hallucinations",
+   "D": "Illusions",
+   "E": "Obsessions"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Hearing orders that others cannot hear is an (auditory command) hallucination; the belief about RAW is a secondary persecutory delusion.",
+  "key_note": "The question is borderline because a delusion is also present; all marked papers chose hallucinations, which is kept.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00698"
+  ],
+  "stem": "A young man is brought by his family for bizarre behaviour, including self-talking, suspiciousness and lack of self-care. During the interview he says his family is stealing his thoughts and broadcasting them. What is the patient experiencing?",
+  "options": {
+   "A": "Delusion",
+   "B": "Illusion",
+   "C": "Obsession",
+   "D": "Compulsion",
+   "E": "Hallucination"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Thought broadcasting and thought withdrawal are passivity (Schneiderian first-rank) delusions, not perceptual disturbances.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01080"
+  ],
+  "stem": "A 40-year-old man with schizophrenia complains that other people know what he is thinking and that his thoughts are no longer private and his own. This phenomenon is called:",
+  "options": {
+   "A": "Delusion of control",
+   "B": "Delusional perception",
+   "C": "Thought broadcast",
+   "D": "Thought insertion",
+   "E": "Thought withdrawal"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "In thought broadcast the patient believes his thoughts are accessible to others; insertion and withdrawal mean thoughts are put in or removed by an outside agency.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01083"
+  ],
+  "stem": "A 30-year-old woman has a firm, fixed and unshakable belief that she is appearing in a television show and that a program on the local FM radio is about her. She has no substantial evidence. This is best described as:",
+  "options": {
+   "A": "Delusion of reference",
+   "B": "Grandiose delusion",
+   "C": "Hypochondriacal delusion",
+   "D": "Nihilistic delusion",
+   "E": "Paranoid delusion"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Delusion of reference: neutral events such as TV or radio programmes are believed to carry a special personal message.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00079"
+  ],
+  "stem": "A 20-year-old woman says her mind is racing, so much so that she can barely speak fast enough to express all her thoughts. She speaks rapidly, frequently changing the subject without explaining her meaning. Which term best describes this thought disorder?",
+  "options": {
+   "A": "Delusion",
+   "B": "Flight of ideas",
+   "C": "Obsession",
+   "D": "Overvalued idea",
+   "E": "Monomania"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Flight of ideas is rapid, pressured speech with abrupt topic changes linked by chance associations, typical of mania.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01168"
+  ],
+  "stem": "Psychiatric illness cannot be diagnosed:",
+  "options": {
+   "A": "If physical illness has not been ruled out",
+   "B": "If the patient is below the age of puberty",
+   "C": "If the patient has no problems at home or work",
+   "D": "If the patient is very rich and happy",
+   "E": "If the patient has never been sick before"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "A psychiatric diagnosis requires that organic causes of the symptoms are first excluded.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01169"
+  ],
+  "stem": "Recent research shows that:",
+  "options": {
+   "A": "There are no psychiatric disorders",
+   "B": "It is only a problem for very rich people",
+   "C": "The differentiation between organic and functional disorders is not valid",
+   "D": "Psychiatric illnesses can be cured",
+   "E": "A vaccine can be developed for psychiatric disorders"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Modern psychiatry recognises that all mental disorders have a biological basis, so the strict organic versus functional split is no longer valid.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01170",
+   "C01797"
+  ],
+  "stem": "Generally speaking, all of the following statements are correct EXCEPT:",
+  "options": {
+   "A": "All countries and all races suffer from psychiatric disorders",
+   "B": "The content of symptoms may vary in different regions",
+   "C": "Educational status of the patient and family may influence the outcome of the disorder",
+   "D": "Poor people suffer more for lack of education and resources",
+   "E": "Once a psychiatric patient, always a psychiatric patient"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Many psychiatric disorders remit or are well controlled; the belief that the label is permanent is a myth.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01171"
+  ],
+  "stem": "Dementia is:",
+  "options": {
+   "A": "A neurotic disorder",
+   "B": "A psychotic disorder",
+   "C": "An organic disorder",
+   "D": "A functional disorder",
+   "E": "Not a psychiatric illness"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Dementia is an organic (ICD-10 F0) mental disorder due to brain disease.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01172",
+   "C01728"
+  ],
+  "stem": "Which of the following psychiatric illnesses can be completely reversible?",
+  "options": {
+   "A": "Severe head injury",
+   "B": "Schizophrenia",
+   "C": "Psychotic illnesses",
+   "D": "Delirium",
+   "E": "Dementia"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Delirium is an acute, fluctuating organic state that usually resolves when the underlying cause is treated; dementia is progressive and largely irreversible.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01173"
+  ],
+  "stem": "A characteristic feature of amnestic disorder is:",
+  "options": {
+   "A": "Visual hallucinations",
+   "B": "Low mood",
+   "C": "Irritability",
+   "D": "Headache",
+   "E": "Poor memory"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Amnestic (Korsakoff-type) syndrome is marked impairment of recent memory with preserved consciousness and other cognitive functions.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01211"
+  ],
+  "stem": "Head injury could cause all of the following EXCEPT:",
+  "options": {
+   "A": "Delirium",
+   "B": "Dementia",
+   "C": "Mood disorder",
+   "D": "Personality change",
+   "E": "Drug dependence"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Head injury can cause delirium, dementia, mood disorder and personality change; drug dependence is not a direct organic consequence.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01175"
+  ],
+  "stem": "Features of schizophrenia and mood disorder coexist in:",
+  "options": {
+   "A": "Schizoaffective disorder",
+   "B": "Delirium",
+   "C": "Dementia",
+   "D": "Panic disorder",
+   "E": "Dissociative disorder"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Schizoaffective disorder has prominent schizophrenic and affective symptoms in the same episode.",
+  "key_note": "Options written by reviewer; the source gave only one option (head injury), which is not the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01210"
+  ],
+  "stem": "Sudden onset of visual hallucinations at midnight in a 70-year-old pneumonia patient. The differential diagnosis should NOT include:",
+  "options": {
+   "A": "Delirium",
+   "B": "Dementia",
+   "C": "Schizophrenia",
+   "D": "Psychosomatic disorder",
+   "E": "Mania"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Acute nocturnal visual hallucinations in an elderly sick patient suggest delirium; mania would not present this way.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00043",
+   "C00128"
+  ],
+  "stem": "An 81-year-old man has a 10-month history of worsening forgetfulness with frequent episodes of relative lucidity. He sees dogs running around his house although he owns none, his walking has slowed markedly, and his sleep is irregular. What is the diagnosis?",
+  "options": {
+   "A": "Alzheimer's disease",
+   "B": "Vascular dementia",
+   "C": "Lewy body dementia",
+   "D": "Normal pressure hydrocephalus",
+   "E": "Schizophrenia"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Lewy body dementia: fluctuating cognition, well-formed visual hallucinations, parkinsonism and sleep disturbance.",
+  "key_note": "One copy of the paper marked Alzheimer's disease for the similar 70-year-old version; correct is Lewy body dementia.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00392"
+  ],
+  "stem": "A 71-year-old woman has a 12-month history of progressive memory decline. She gets lost trying to find the toilet at home. She is otherwise fit, examination is unremarkable and her MMSE is 23/30. What is the most appropriate cause of the dementia?",
+  "options": {
+   "A": "Lewy body dementia",
+   "B": "Vascular dementia",
+   "C": "Alzheimer's disease",
+   "D": "Pick's disease",
+   "E": "Normal pressure hydrocephalus"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Insidious progressive memory loss with topographical disorientation and no focal signs is Alzheimer's disease, the commonest dementia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00407"
+  ],
+  "stem": "A 74-year-old man is brought by his family because he has become increasingly forgetful, fails to remember family members' names and becomes abusive over small things, unlike his previous behaviour. He has well-controlled hypertension and diabetes. What is the most likely diagnosis?",
+  "options": {
+   "A": "Stroke",
+   "B": "Pick's disease",
+   "C": "Delirium",
+   "D": "Alzheimer's disease",
+   "E": "Parkinson's disease"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Gradual memory loss with personality change in an elderly patient is most likely Alzheimer's disease.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01011",
+   "C01163",
+   "C02254"
+  ],
+  "stem": "Alzheimer's disease usually presents as:",
+  "options": {
+   "A": "Malnutrition",
+   "B": "Dementia",
+   "C": "Fatigue",
+   "D": "Anxiety disorder",
+   "E": "Schizophrenia"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Alzheimer's disease is the commonest cause of dementia and presents with progressive memory and cognitive decline.",
+  "key_note": "One copy was not marked in the source paper; answer confirmed by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01233"
+  ],
+  "stem": "A 62-year-old man is in the ICU after hip replacement. For two days he has behaved strangely, at times fails to recognise family members, gives irrelevant answers and is irritable and aggressive. Which medication can be given to manage his condition?",
+  "options": {
+   "A": "Imipramine",
+   "B": "Haloperidol",
+   "C": "Fluoxetine",
+   "D": "Diazepam",
+   "E": "Alprazolam"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "This is postoperative delirium; after correcting the cause, low-dose haloperidol is the drug of choice for agitation, whereas benzodiazepines can worsen confusion.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00075"
+  ],
+  "stem": "A 53-year-old businessman is admitted with an exacerbation of COPD. On the third day he develops sweating and tremor, and is confused, anxious, tachycardic and responding to visual hallucinations of thousands of miniature soldiers marching on the floor. What is the most likely cause?",
+  "options": {
+   "A": "Alcohol use",
+   "B": "Alcohol withdrawal",
+   "C": "Amphetamine withdrawal",
+   "D": "Sedative use",
+   "E": "Sedative withdrawal"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Delirium tremens: tremor, autonomic overactivity and Lilliputian visual hallucinations 48-72 hours after the last drink in a hospitalised heavy drinker.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01232"
+  ],
+  "stem": "Alcohol consumption can cause all of the following physical effects EXCEPT:",
+  "options": {
+   "A": "Wernicke-Korsakoff syndrome",
+   "B": "Cancer of the oesophagus and large bowel",
+   "C": "Liver cirrhosis",
+   "D": "Renal stones",
+   "E": "Cardiomyopathy"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Alcohol causes thiamine-deficiency encephalopathy, GI cancers, cirrhosis and dilated cardiomyopathy, but is not a recognised cause of renal stones.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00694"
+  ],
+  "stem": "A 27-year-old woman is brought to the emergency department an hour after a friend found her barely arousable in her disorderly apartment. Pulse is 90/min, respirations 6/min and BP 90/60 mm Hg. Examination shows small pupils and bruises and scratches over the upper extremities. What is the most appropriate next step?",
+  "options": {
+   "A": "Observation in a quiet darkened room",
+   "B": "Oral administration of chlorpromazine",
+   "C": "IV administration of naloxone",
+   "D": "IV administration of haloperidol",
+   "E": "IV administration of lorazepam"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Coma, respiratory depression, pinpoint pupils and needle tracks indicate opioid overdose; naloxone is the immediate antidote.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00497"
+  ],
+  "stem": "A 20-year-old medical student preparing for a professional examination has had 2 days of apprehension, irritability, restlessness and confusion, and has not slept for 2 nights. Pulse is 110/min, temperature 100 F, respiratory rate 24/min, BP 130/80 mm Hg, pupils are bilaterally reactive and there is no other significant finding. What is the most likely diagnosis?",
+  "options": {
+   "A": "Cocaine abuse",
+   "B": "Amphetamine overdose",
+   "C": "Malignant hyperthermia",
+   "D": "Depressive illness",
+   "E": "Heroin abuse"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Stimulant (amphetamine) use to stay awake causes agitation, insomnia, tachycardia and mild pyrexia with normal pupils; opioids would cause miosis.",
+  "key_note": "Question is loosely framed; the marked key (amphetamine overdose) is kept.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01077",
+   "C02144"
+  ],
+  "stem": "In schizophrenia the most common type of hallucination is:",
+  "options": {
+   "A": "Visual",
+   "B": "Olfactory",
+   "C": "Tactile",
+   "D": "Auditory",
+   "E": "Gustatory"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Auditory hallucinations (third-person voices, commentary or commands) are the commonest in schizophrenia; visual ones suggest an organic cause.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00130"
+  ],
+  "stem": "An 18-year-old male with schizophrenia complains of hearing people talking about him. He has become socially withdrawn and feels he does not talk or have as many thoughts as before. Which positive symptom of schizophrenia does he have?",
+  "options": {
+   "A": "Anhedonia",
+   "B": "Blunted affect",
+   "C": "Hallucinations",
+   "D": "Poverty of speech",
+   "E": "Poverty of thought"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Hallucinations are positive symptoms; anhedonia, blunted affect and poverty of speech or thought are negative symptoms.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00692"
+  ],
+  "stem": "A 47-year-old man is brought to the emergency department by police after being found eating garbage from a dumpster. He has had several psychiatric admissions and says he no longer needs medication. Examination is normal. On mental state examination he hears voices having an ongoing conversation in his head. What is the most likely diagnosis?",
+  "options": {
+   "A": "Bipolar disorder",
+   "B": "Psychosis secondary to a general medical condition",
+   "C": "Schizoid personality disorder",
+   "D": "Depressive disorder",
+   "E": "Schizophrenia"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Recurrent admissions, poor self-care, non-compliance and third-person auditory hallucinations in a physically normal patient indicate schizophrenia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01162"
+  ],
+  "stem": "A 35-year-old man is brought with suspiciousness towards family members and aggressive behaviour. He has not gone to work for 2 weeks and eats alone. There is no previous psychiatric history. What is your diagnosis?",
+  "options": {
+   "A": "Depression",
+   "B": "Bipolar affective disorder",
+   "C": "Schizophrenia",
+   "D": "Paranoid schizophrenia"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Persecutory suspiciousness with social withdrawal and no mood symptoms points to paranoid schizophrenia, the commonest subtype.",
+  "key_note": "Not marked in the source paper; answer by reviewer. Options 3 and 4 overlap; the duration of 2 weeks strictly suggests acute psychosis, but paranoid schizophrenia is the best option offered.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00129"
+  ],
+  "stem": "A 35-year-old man is very suspicious of his wife and feels he cannot trust her. He does not know why, but has various conspiratorial explanations. Which of the following personality disorders is most appropriate?",
+  "options": {
+   "A": "Dissocial",
+   "B": "Emotionally unstable, impulsive type",
+   "C": "Paranoid",
+   "D": "Schizoid",
+   "E": "Schizotypal"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Pervasive distrust and suspiciousness, with unfounded conspiratorial explanations of others' motives, characterise paranoid personality disorder.",
+  "key_note": "The source printed option C as 'Paranoid schizophrenia' and marked it; corrected to paranoid personality disorder, since the question asks for a personality disorder.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00705",
+   "C01552"
+  ],
+  "stem": "All of the following medications are used in schizophrenia EXCEPT one:",
+  "options": {
+   "A": "Haloperidol",
+   "B": "Clozapine",
+   "C": "Risperidone",
+   "D": "Escitalopram",
+   "E": "Quetiapine"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Escitalopram is an SSRI antidepressant; the others are typical or atypical antipsychotics.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01090"
+  ],
+  "stem": "An appropriate medication to treat delusions is:",
+  "options": {
+   "A": "Fluoxetine",
+   "B": "Gabapentin",
+   "C": "Olanzapine",
+   "D": "Alprazolam",
+   "E": "Duloxetine"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Delusions respond to antipsychotics such as olanzapine, which block dopamine D2 receptors.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01087"
+  ],
+  "stem": "A 20-year-old patient with first-episode psychosis started haloperidol and developed acute torticollis. This is best described as:",
+  "options": {
+   "A": "Malingering",
+   "B": "Conversion disorder",
+   "C": "Acute dystonia",
+   "D": "Akathisia",
+   "E": "Tardive dyskinesia"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Acute dystonia (torticollis, oculogyric crisis) appears within hours to days of starting a high-potency antipsychotic; treat with IM procyclidine or benzatropine.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00127"
+  ],
+  "stem": "A 62-year-old man has taken haloperidol for schizophrenia for 20 years. He has continual facial movements that look as though he is chewing. From which side-effect is he suffering?",
+  "options": {
+   "A": "Acute dystonia",
+   "B": "Akathisia",
+   "C": "Parkinsonism",
+   "D": "Serotonin syndrome",
+   "E": "Tardive dyskinesia"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Orofacial involuntary movements after long-term dopamine blockade are tardive dyskinesia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01091"
+  ],
+  "stem": "The following is NOT an extrapyramidal side-effect caused by antipsychotics:",
+  "options": {
+   "A": "Tardive dyskinesia",
+   "B": "Pseudo-parkinsonism",
+   "C": "Dystonia",
+   "D": "Chorea",
+   "E": "Akathisia"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Acute EPS are dystonia, akathisia and parkinsonism (plus tardive dyskinesia late); chorea is not classically listed among antipsychotic EPS.",
+  "key_note": "Question is imprecise because tardive dyskinesia can include choreiform movements; the marked key (chorea) is kept.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00131"
+  ],
+  "stem": "A 32-year-old man with schizophrenia recently had his haloperidol dose increased. He presents unconscious with muscle rigidity, raised white cell count and CK of 5000 iu/L. Which would be an UNEXPECTED finding?",
+  "options": {
+   "A": "Altered consciousness",
+   "B": "Hypothermia",
+   "C": "Increased creatine kinase",
+   "D": "Muscle rigidity",
+   "E": "Tachycardia"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Neuroleptic malignant syndrome causes hyperthermia, rigidity, autonomic instability, altered consciousness and raised CK; hypothermia is not expected.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00495"
+  ],
+  "stem": "A 32-year-old woman with schizophrenia on haloperidol presents with palpitations, sweating, generalised muscle rigidity and confusion for 1 day. Temperature is 40.2 C, pulse 100/min, BP 160/80 mm Hg, reflexes are 2+ without clonus, neck is supple and TSH is 2.8 microU/mL. What is the most likely cause?",
+  "options": {
+   "A": "Cerebral infarction",
+   "B": "Neuroleptic malignant syndrome",
+   "C": "Sepsis",
+   "D": "Serum T3 toxicosis",
+   "E": "Substernal toxic multinodular goitre"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Hyperthermia, generalised rigidity, confusion and autonomic instability on an antipsychotic is NMS; a normal TSH excludes thyrotoxic storm.",
+  "key_note": "Some paper keys marked D (T3 toxicosis); correct is B, as a normal TSH makes thyrotoxicosis unlikely and the picture is classic NMS.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00693"
+  ],
+  "stem": "One day after admission for agitation and hallucinations, a 19-year-old man treated with haloperidol has severe muscle stiffness. Temperature is 39.7 C, pulse 120/min and BP 160/110 mm Hg, with generalised severe rigidity, and he is slow and lethargic. What is the next step in management?",
+  "options": {
+   "A": "Observation only",
+   "B": "Stop haloperidol",
+   "C": "Add fluoxetine",
+   "D": "Add lithium carbonate",
+   "E": "Add alprazolam"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "This is neuroleptic malignant syndrome; the first step is to stop the antipsychotic and give supportive care (cooling, fluids), with dantrolene or bromocriptine in severe cases.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00126"
+  ],
+  "stem": "A 42-year-old woman is about to undergo electroconvulsive therapy. Which is recognised as a late side-effect?",
+  "options": {
+   "A": "Death",
+   "B": "Hallucinations",
+   "C": "Headaches",
+   "D": "Memory loss",
+   "E": "Muscle aches"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Headache, muscle aches and transient confusion are early effects; retrograde memory loss can persist.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00703",
+   "C01154"
+  ],
+  "stem": "Characteristic features of depression include the following EXCEPT:",
+  "options": {
+   "A": "Low mood",
+   "B": "Lack of enjoyment",
+   "C": "Disturbance of perception",
+   "D": "Suicidal ideas",
+   "E": "Hopelessness"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Core features are low mood, anhedonia, hopelessness and suicidal ideas; perceptual disturbance is not characteristic (only in psychotic depression).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00704",
+   "C01255"
+  ],
+  "stem": "To diagnose a major depressive episode, the duration of illness should be at least:",
+  "options": {
+   "A": "One week",
+   "B": "Two weeks",
+   "C": "One month",
+   "D": "Three months",
+   "E": "One year"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Both ICD-10 and DSM require symptoms for a minimum of 2 weeks.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00687"
+  ],
+  "stem": "Ali has experienced feelings of worthlessness, low energy and loss of interest in life for most days over the past three years. He would most likely be diagnosed with:",
+  "options": {
+   "A": "Major depressive disorder",
+   "B": "Dysthymic disorder",
+   "C": "Severe melancholia",
+   "D": "Existential neurosis",
+   "E": "Bipolar disorder"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Chronic low-grade depression lasting 2 years or more is dysthymia (persistent depressive disorder).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01081"
+  ],
+  "stem": "A man with major depressive disorder has severe guilt, anhedonia and diurnal variation of mood for the last month. He also has anorexia and early morning wakening. These symptoms suggest:",
+  "options": {
+   "A": "Atypical depression",
+   "B": "Bipolar depression",
+   "C": "Depression with catatonic features",
+   "D": "Melancholic depression",
+   "E": "Psychotic depression"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Diurnal variation (worse in the morning), early morning wakening, anorexia and guilt are the melancholic (somatic) features.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01085"
+  ],
+  "stem": "A 35-year-old housewife has a 4-week history of low mood, decreased energy, increased appetite and weight gain. She sleeps excessively and has easy fatigability. There are no physical abnormalities and routine investigations are normal. She is most likely suffering from:",
+  "options": {
+   "A": "Atypical depression",
+   "B": "Chronic fatigue syndrome",
+   "C": "Fibromyalgia",
+   "D": "Generalized anxiety disorder",
+   "E": "Melancholic depression"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Hyperphagia, weight gain and hypersomnia (reversed vegetative features) characterise atypical depression.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01082"
+  ],
+  "stem": "A 22-year-old male university student developed low mood, anorexia, early morning wakening and slowness of thinking and actions. Psychomotor retardation is seen in which condition?",
+  "options": {
+   "A": "Attention deficit hyperactivity disorder",
+   "B": "Major depressive disorder",
+   "C": "Mania",
+   "D": "Panic disorder",
+   "E": "Paranoid schizophrenia"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Slowing of thought and movement is the hallmark of depressive illness.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00700"
+  ],
+  "stem": "A 32-year-old married woman has low mood, weeping spells, increased sleep and decreased appetite for about a month, with no previous psychiatric history. On mental state examination there are themes of failure and guilt. Which medication should be started?",
+  "options": {
+   "A": "Escitalopram",
+   "B": "Venlafaxine",
+   "C": "Mirtazapine",
+   "D": "Lorazepam",
+   "E": "Amitriptyline"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "A first depressive episode is treated first-line with an SSRI such as escitalopram; benzodiazepines do not treat depression and TCAs are more toxic.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01155"
+  ],
+  "stem": "The most common delusion in severe depression is:",
+  "options": {
+   "A": "Delusions of guilt and worthlessness",
+   "B": "Hypochondriacal delusions",
+   "C": "Persecutory delusions",
+   "D": "Delusions of grandiosity",
+   "E": "Delusional jealousy"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Mood-congruent delusions in psychotic depression centre on guilt, worthlessness, poverty and nihilism.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01164",
+   "C01558"
+  ],
+  "stem": "The best treatment for treatment-resistant depression is:",
+  "options": {
+   "A": "Sertraline",
+   "B": "Fluvoxamine",
+   "C": "Valproic acid",
+   "D": "Aripiprazole",
+   "E": "Electroconvulsive therapy"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "ECT is the most effective option for severe or treatment-resistant depression, particularly with psychotic or suicidal features.",
+  "key_note": "Not marked in one source paper; answer confirmed by reviewer. Augmentation with an atypical antipsychotic is also used, but ECT is the standard exam answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00076"
+  ],
+  "stem": "A 78-year-old woman is assessed after a deliberate overdose of 70 paracetamol tablets. She has felt very low this week and had no one to talk to. Which feature would suggest a good prognosis of her mood disorder?",
+  "options": {
+   "A": "Acute onset",
+   "B": "Associated personality disorder",
+   "C": "Insidious onset",
+   "D": "Lack of social support",
+   "E": "Older age group"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Acute onset, good premorbid personality and good social support predict a better outcome; insidious onset, personality disorder and isolation predict a poorer one.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00078"
+  ],
+  "stem": "A 30-year-old woman gave birth to her first child 3 days ago after a planned pregnancy with no complications. She has no past psychiatric history, but today has become inconsolably tearful, anxious and low in mood. What is the most likely diagnosis?",
+  "options": {
+   "A": "Maternity blues",
+   "B": "Postnatal depression",
+   "C": "Premenstrual syndrome",
+   "D": "Pseudocyesis",
+   "E": "Puerperal psychosis"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Maternity blues affect up to half of mothers on days 3-5 postpartum, are self-limiting and need only reassurance.",
+  "key_note": "One paper marked E (puerperal psychosis); correct is A as there are no psychotic features and onset is at day 3.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00124"
+  ],
+  "stem": "A 46-year-old man is brought by the police after walking around in inappropriate clothes declaring he will spend his bank balance buying all the good watches in the market. His speech is pressured and he is overly appreciative of the doctor. Which symptom would be INCONSISTENT with the diagnosis?",
+  "options": {
+   "A": "Grandiose delusions",
+   "B": "Flight of ideas",
+   "C": "Increased need for sleep",
+   "D": "Reckless spending",
+   "E": "Reduced social inhibitions"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Mania is characterised by a decreased need for sleep, not an increased one.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01165",
+   "C01557",
+   "C02252"
+  ],
+  "stem": "The following are characteristic features of a manic episode EXCEPT:",
+  "options": {
+   "A": "Elevated, expansive, irritable mood",
+   "B": "Increased psychomotor activity",
+   "C": "Thought echo, thought insertion or thought withdrawal",
+   "D": "Flight of ideas",
+   "E": "Grandiose ideas"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Thought echo, insertion and withdrawal are Schneiderian first-rank symptoms of schizophrenia, not of mania.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01212"
+  ],
+  "stem": "Elation of mood, overactivity, pressure of speech and delusions of grandeur in a 20-year-old male point to a most likely diagnosis of:",
+  "options": {
+   "A": "Mania",
+   "B": "Dementia",
+   "C": "Generalised anxiety disorder",
+   "D": "Personality disorder",
+   "E": "Psychosomatic disorder"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "This is the classic picture of a manic episode.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01086"
+  ],
+  "stem": "A 35-year-old woman who worked as a lawyer developed decreased need for sleep, talked excessively and was always on the go. She expressed the idea that she was very gifted and the best lawyer in the country. What is the most likely diagnosis?",
+  "options": {
+   "A": "Bipolar disorder NOS",
+   "B": "Bipolar disorder type I",
+   "C": "Bipolar disorder type II",
+   "D": "Cyclothymic disorder",
+   "E": "Major depressive disorder"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "A full manic episode with grandiosity defines bipolar I; bipolar II requires only hypomania.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00685"
+  ],
+  "stem": "Sarah is the life of the party on her good days; even strangers notice she is frequently in a good mood and laughs at almost every comment. Which type of bipolar disorder is associated with this behaviour?",
+  "options": {
+   "A": "Bipolar type I",
+   "B": "Bipolar type II",
+   "C": "Inflated self esteem",
+   "D": "Reckless behaviour",
+   "E": "Schizophrenia"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Persistent elevated mood without marked functional impairment or psychosis suggests hypomania, the defining feature of bipolar II.",
+  "key_note": "Question is loosely worded; the paper key (bipolar II) is kept.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00701"
+  ],
+  "stem": "A 16-year-old boy is brought with verbal and physical aggression and decreased sleep. He is distractible and has ideas of grandiose ability. Symptoms began two weeks ago after a close friend died in a car accident. What is the most likely diagnosis?",
+  "options": {
+   "A": "Schizophrenia",
+   "B": "Bipolar disorder",
+   "C": "Post-traumatic stress disorder",
+   "D": "Depression",
+   "E": "Mental and behavioural disorder due to substance abuse"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Decreased sleep, distractibility and grandiosity form a manic syndrome, so bipolar disorder; the bereavement is a precipitant.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01078"
+  ],
+  "stem": "A 16-year-old boy had gradual onset of expansive and irritable mood, decreased need for sleep, overactivity and talkativeness for 6 months. He became oppositional and truant, and the family history is positive for a mood disorder responsive to lithium. What is the most likely diagnosis?",
+  "options": {
+   "A": "Bipolar disorder",
+   "B": "Generalized anxiety disorder",
+   "C": "Major depressive disorder",
+   "D": "Obsessive compulsive disorder",
+   "E": "Schizophrenia"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Persistent elevated or irritable mood with reduced sleep and overactivity, plus a family history of lithium-responsive illness, indicates bipolar disorder.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01156"
+  ],
+  "stem": "A 25-year-old woman is brought to the emergency department after taking 20 benzodiazepine tablets. History reveals episodes of elation and overactivity. What is your most probable diagnosis?",
+  "options": {
+   "A": "Severe depressive episode",
+   "B": "Bipolar affective disorder",
+   "C": "Mania",
+   "D": "Schizophrenia",
+   "E": "Minor depression"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "An overdose (suggesting depression) plus past episodes of elation indicates bipolar affective disorder.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01157",
+   "C00077",
+   "C00686"
+  ],
+  "stem": "The first-line treatment of bipolar affective disorder is:",
+  "options": {
+   "A": "Lithium",
+   "B": "Carbamazepine",
+   "C": "Haloperidol",
+   "D": "Electroconvulsive therapy",
+   "E": "Escitalopram"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Lithium is the standard first-line mood stabiliser for bipolar disorder in exam teaching.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01089"
+  ],
+  "stem": "In generalized anxiety disorder the patient has the following psychological abnormality along with symptoms of autonomic arousal:",
+  "options": {
+   "A": "Delusions",
+   "B": "Obsessions",
+   "C": "Catastrophic cognitions",
+   "D": "Worrying thoughts",
+   "E": "Somatic hallucinations"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "GAD is characterised by free-floating, excessive worry about everyday matters plus autonomic arousal; catastrophic cognitions are typical of panic disorder.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00689",
+   "C01158"
+  ],
+  "stem": "A client reports excessive anxiety, restlessness, muscle tension and headaches almost every day, with trouble sleeping and poor concentration at work. Which disorder is most logical?",
+  "options": {
+   "A": "Major depressive disorder",
+   "B": "Social phobia",
+   "C": "Schizophrenia",
+   "D": "Generalized anxiety disorder",
+   "E": "Borderline personality disorder"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Persistent anxiety on most days with motor tension, restlessness, insomnia and poor concentration is GAD.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01159"
+  ],
+  "stem": "In a 17-year-old girl with generalized anxiety disorder, which physical cause must be ruled out?",
+  "options": {
+   "A": "Ischaemic heart disease",
+   "B": "Thyrotoxicosis",
+   "C": "Hypoglycaemia",
+   "D": "Phaeochromocytoma",
+   "E": "Secondary hypertension"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Thyrotoxicosis commonly mimics anxiety in young women and is the most important organic cause to exclude.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01160"
+  ],
+  "stem": "Which neurotransmitter abnormality is classically implicated in the aetiology of anxiety disorders?",
+  "options": {
+   "A": "Overactivity (dysregulation) of noradrenaline",
+   "B": "Increased dopamine levels",
+   "C": "Increased GABA activity",
+   "D": "Increased acetylcholine",
+   "E": "Heavy metal exposure"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Noradrenergic (locus coeruleus) overactivity is the classical neurochemical basis of anxiety, with reduced GABA and abnormal serotonin function also involved.",
+  "key_note": "Not marked in the source paper; answer by reviewer. Options reworded because the original had several defensible answers (serotonin, genetics).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01166"
+  ],
+  "stem": "Which of the following is a hallmark feature of panic disorder?",
+  "options": {
+   "A": "Nervousness",
+   "B": "Fear of death, dying or going crazy",
+   "C": "Confusion",
+   "D": "Delusions",
+   "E": "Palpitations"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Panic attacks are discrete episodes of intense fear with autonomic symptoms, and the catastrophic fear of dying or losing control is the hallmark.",
+  "key_note": "One paper marked E (palpitations); fear of death or going crazy is the more specific hallmark.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00695"
+  ],
+  "stem": "A 27-year-old man is referred with three episodes of severe palpitations, dull chest discomfort and a choking sensation. Episodes are sudden and associated with nausea, faintness and tingling in the extremities. Within a few hours of each episode, examination and tests are normal. Which is the most likely diagnosis?",
+  "options": {
+   "A": "Panic disorder",
+   "B": "Hypochondriasis",
+   "C": "Depressive disorder",
+   "D": "Somatization disorder",
+   "E": "Mood symptoms secondary to a general medical condition"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Discrete, unprovoked episodes of intense autonomic symptoms with fear, and no organic cause, are panic attacks.",
+  "key_note": "Stem lacked the question in one copy; completed from the other copies.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01234",
+   "C00708",
+   "C02372",
+   "C02827",
+   "C02738"
+  ],
+  "stem": "A 36-year-old woman presents for the third time this month with chest pain, shortness of breath and palpitations that resolve in twenty minutes. She worries about another attack and avoids leaving the house as crowded places seem to precipitate them. Examination and labs are normal. What is the most likely diagnosis?",
+  "options": {
+   "A": "Depression",
+   "B": "Generalized anxiety disorder",
+   "C": "Panic disorder",
+   "D": "Delirium",
+   "E": "Dementia"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Recurrent panic attacks with anticipatory anxiety and avoidance of crowds is panic disorder with agoraphobia.",
+  "key_note": "One paper key marked A (GAD) for a similar vignette; correct is panic disorder (episodic attacks).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00691"
+  ],
+  "stem": "A 14-year-old girl is brought by her grandmother with sudden onset of dizziness and blurry vision. She was placed in her care 2 months ago after her mother's death. She talks willingly about her symptoms but denies stressors. Examination and routine tests are normal. What is the most likely diagnosis?",
+  "options": {
+   "A": "Depressive disorder",
+   "B": "Generalized anxiety disorder",
+   "C": "Conversion disorder",
+   "D": "Separation anxiety disorder",
+   "E": "Adjustment disorder"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Sudden neurological-type symptoms without organic cause after a major stressor, with unconcern (la belle indifference) suggest conversion disorder.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00683"
+  ],
+  "stem": "A person who fears enclosed spaces from which escape is not possible is suffering from which phobia?",
+  "options": {
+   "A": "Agoraphobia",
+   "B": "Ataxophobia",
+   "C": "Androphobia",
+   "D": "Glossophobia",
+   "E": "Acrophobia"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Agoraphobia is fear of situations from which escape is difficult; the other options are unrelated phobias.",
+  "key_note": "Claustrophobia was not among the options; the paper key (agoraphobia) is kept as the closest answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00697"
+  ],
+  "stem": "An otherwise healthy 25-year-old man has a severe fear of flying and must attend an essential business meeting in Europe in a few months. Which psychotherapy can be beneficial?",
+  "options": {
+   "A": "Supportive therapy",
+   "B": "Electro-convulsive therapy",
+   "C": "Family therapy",
+   "D": "Systematic desensitization therapy",
+   "E": "Psychoanalytic therapy"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Graded exposure with relaxation (systematic desensitisation) is the behavioural treatment of specific phobia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01174"
+  ],
+  "stem": "Unwanted and unpleasant thoughts and a compulsion to carry out certain actions are called:",
+  "options": {
+   "A": "Obsessive compulsive disorder",
+   "B": "Generalized anxiety disorder",
+   "C": "Schizophrenia",
+   "D": "Depression",
+   "E": "Panic disorder"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Obsessions (intrusive thoughts) with compulsions (ritual acts) define OCD.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00684"
+  ],
+  "stem": "A 25-year-old woman has a two-year history of repetitive distressing thoughts of contamination with dirt and repetitive hand washing. She recognises the thoughts as her own but cannot overcome them, even with medication. Which therapy is she most likely to benefit from?",
+  "options": {
+   "A": "Assertiveness training",
+   "B": "Exposure and response prevention",
+   "C": "Modelling",
+   "D": "Punishment",
+   "E": "Aversion therapy"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Exposure and response prevention is the behavioural therapy of choice in OCD.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01079"
+  ],
+  "stem": "In obsessive compulsive disorder the symptoms are most responsive to which pharmacological agents?",
+  "options": {
+   "A": "Tricyclic antidepressants",
+   "B": "Atypical antipsychotics",
+   "C": "Benzodiazepines",
+   "D": "Mood stabilizers",
+   "E": "Selective serotonin reuptake inhibitors"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "SSRIs (at higher doses) are first-line drug treatment for OCD; clomipramine is the main TCA alternative.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00688"
+  ],
+  "stem": "A person with excessive emotion and an attention-seeking attitude: which personality disorder would you diagnose?",
+  "options": {
+   "A": "Histrionic",
+   "B": "Antisocial",
+   "C": "Dependent",
+   "D": "Schizotypal",
+   "E": "Borderline"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Excessive emotionality and attention seeking define histrionic personality disorder.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00074",
+   "C01088"
+  ],
+  "stem": "A 32-year-old woman complains that her periods have stopped. She has lost 20 kg and is now 38 kg, strictly dieting and exercising excessively because she is embarrassed by her obesity. What is the most likely cause?",
+  "options": {
+   "A": "Anorexia nervosa",
+   "B": "Bulimia nervosa",
+   "C": "Hyperthyroidism",
+   "D": "Mania",
+   "E": "Obsessive compulsive disorder"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Severe weight loss, amenorrhoea and distorted body image with intense fear of fatness indicate anorexia nervosa.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01084",
+   "C02734"
+  ],
+  "stem": "A 12-year-old boy disobeys elders, beats up younger siblings and gets into frequent fights with peers. He is often truant, has started smoking and shows no concern or remorse for his behaviour. He is most likely suffering from:",
+  "options": {
+   "A": "Attention deficit hyperactivity disorder",
+   "B": "Bipolar disorder",
+   "C": "Conduct disorder",
+   "D": "Oppositional defiant disorder",
+   "E": "Pervasive developmental disorder"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Aggression, truancy and violation of others' rights without remorse indicate conduct disorder, whereas oppositional defiant disorder lacks serious aggression.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01235"
+  ],
+  "stem": "A young man confesses that he attains sexual excitement by dressing as a female. He does not want a gender change and feels sexual desire towards females. He is exhibiting:",
+  "options": {
+   "A": "Transvestism",
+   "B": "Gender identity disorder",
+   "C": "Trans-sexualism",
+   "D": "Voyeurism",
+   "E": "Frotteurism"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Fetishistic transvestism: cross-dressing for sexual arousal without a wish to change sex.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01238",
+   "C01484"
+  ],
+  "stem": "A 22-year-old man is brought by his parents to the psychiatric clinic. For the last three weeks he has been behaving strangely. He has stopped going to work and stays confined in his room. Even when alone he is often seen murmuring and making gestures as if talking to someone. The patient is most likely exhibiting:",
+  "options": {
+   "A": "Delusions",
+   "B": "Paranoia",
+   "C": "Illusions",
+   "D": "Hallucinations",
+   "E": "Depression"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Talking and gesturing to oneself while alone suggests he is responding to perceptions without an external stimulus, i.e. hallucinations (usually auditory).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01485"
+  ],
+  "stem": "The capacity to formulate concepts and generalize them is called:",
+  "options": {
+   "A": "Concrete thinking",
+   "B": "Abstract thinking",
+   "C": "Delusional thinking",
+   "D": "Intellectualization",
+   "E": "Rationalization"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Abstract thinking is the ability to form concepts and generalize; it is tested by proverb interpretation. Concrete thinking is the loss of this ability.",
+  "key_note": "Some paper keys marked A (Concrete thinking); correct is B: abstract thinking is the capacity to conceptualize and generalize.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03179"
+  ],
+  "stem": "Abstract thinking is assessed in the mental state examination by asking:",
+  "options": {
+   "A": "What do you think about life?",
+   "B": "For the interpretation of a proverb",
+   "C": "Do you remember your children's names?",
+   "D": "Do you hear voices when you are alone?",
+   "E": "What time is it?"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Proverb interpretation and similarities test the ability to think in abstract terms; concrete interpretation suggests organic or schizophrenic thought disorder.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03180"
+  ],
+  "stem": "All of the following are essential components of orientation except:",
+  "options": {
+   "A": "Time",
+   "B": "Place",
+   "C": "Person",
+   "D": "Intelligence",
+   "E": "Day of week"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Orientation covers time, place and person; intelligence is a separate cognitive assessment.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03182"
+  ],
+  "stem": "The mental state examination does not include assessment of one of the following:",
+  "options": {
+   "A": "Registration",
+   "B": "Homicidal thought",
+   "C": "Sexual orientation",
+   "D": "Insight"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "The MSE covers appearance, behaviour, speech, mood and affect, thought, perception, cognition (including registration) and insight/judgement. Sexual orientation is not part of it.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03175"
+  ],
+  "stem": "A man awakens to find a bright sunny day. As he dresses, he makes sure to put on a yellow shirt to ensure that it will stay sunny all day. This behaviour is best described as:",
+  "options": {
+   "A": "Delusion",
+   "B": "Idea of reference",
+   "C": "Magical thinking",
+   "D": "Hallucination",
+   "E": "Illusion"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Magical thinking is the belief that one's thoughts or actions can influence unrelated events by non-physical means.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02273"
+  ],
+  "stem": "A 45-year-old gentleman has a firm, unshakeable belief that his neighbours are out to kill him despite there being no evidence to suggest this. This is best described as:",
+  "options": {
+   "A": "Delusion of infidelity",
+   "B": "Delusion of reference",
+   "C": "Delusion of worthlessness",
+   "D": "Grandiose delusion",
+   "E": "Persecutory delusion"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "A fixed false belief of being harmed or plotted against is a persecutory delusion, the commonest delusion in schizophrenia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02292"
+  ],
+  "stem": "A 25-year-old unmarried girl became convinced that her boss was in love with her and greatly admired her. She held this belief despite no evidence. She is most likely suffering from:",
+  "options": {
+   "A": "Paranoid delusion",
+   "B": "Delusion of grandiosity",
+   "C": "Delusion of infidelity",
+   "D": "Erotomanic delusion",
+   "E": "Delusion of control"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Erotomania (de Clerambault syndrome) is the delusion that another person, usually of higher status, is in love with the patient.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02148"
+  ],
+  "stem": "A 31-year-old schizophrenic patient still has many negative features of the disease after 7 months of medication. Which one of the following is NOT a negative symptom of schizophrenia?",
+  "options": {
+   "A": "Apathy",
+   "B": "Poverty of speech",
+   "C": "Auditory hallucinations",
+   "D": "Flat affect",
+   "E": "Social withdrawal"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Negative symptoms are apathy, alogia, flat affect, avolition and social withdrawal. Hallucinations are positive symptoms.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03169"
+  ],
+  "stem": "A 26-year-old man presents with a one-month history of believing he is the most important person in the world, hearing voices telling him that government agencies are chasing him, feeling that others can read his thoughts, and hearing a voice speaking his thoughts as he thinks them. The diagnosis is:",
+  "options": {
+   "A": "Delusional disorder",
+   "B": "Paranoid psychosis",
+   "C": "Schizophrenia",
+   "D": "Mania",
+   "E": "Persecutory delusions"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Thought broadcast, running commentary and third-person or echoing voices are Schneiderian first-rank symptoms; lasting one month they fulfil the ICD-10 criteria for schizophrenia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02271"
+  ],
+  "stem": "A 20-year-old female has become increasingly isolated with falling grades in education, and accuses her family members of poisoning her. The most likely diagnosis is:",
+  "options": {
+   "A": "Obsessive compulsive disorder",
+   "B": "Histrionic personality disorder",
+   "C": "Anorexia nervosa",
+   "D": "Paranoid schizophrenia",
+   "E": "Multiple personality disorder"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Social withdrawal, functional decline and persecutory delusions in a young adult point to paranoid schizophrenia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02290"
+  ],
+  "stem": "A 30-year-old male salesman thinks that his boss puts thoughts into his mind and that his customers know what he is thinking because there is a transmitter in his head. He talks and gestures to himself, and has had these symptoms for more than 1 month. There is no substance abuse or medical or neurological disorder. The correct diagnosis is:",
+  "options": {
+   "A": "Psychotic depression",
+   "B": "Schizophrenia",
+   "C": "Bipolar mania",
+   "D": "Schizophreniform disorder",
+   "E": "Delusional disorder"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Thought insertion and broadcast with hallucinatory behaviour lasting more than 1 month but less than 6 months is schizophreniform disorder (DSM); the delusions are bizarre, so delusional disorder is excluded.",
+  "key_note": "The source marked D; the question is borderline because ICD-10 would label a one-month illness schizophrenia. D is kept as the intended DSM-based answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01943"
+  ],
+  "stem": "A 25-year-old male presents with a one-year history of social withdrawal, paranoia and auditory hallucinations. The treatment of choice for this patient is:",
+  "options": {
+   "A": "Antidepressant",
+   "B": "Benzodiazepines",
+   "C": "Mood stabilizer",
+   "D": "Antipsychotic"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "The picture is schizophrenia; antipsychotics are the mainstay of treatment.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01764"
+  ],
+  "stem": "Onset of schizophrenia at an early age indicates:",
+  "options": {
+   "A": "Family history of schizophrenia",
+   "B": "Low intelligence",
+   "C": "Poor prognosis",
+   "D": "Protection from other psychiatric disorders",
+   "E": "Low educational achievement"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Early, insidious onset, male sex and prominent negative symptoms are poor prognostic factors in schizophrenia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03168"
+  ],
+  "stem": "The mental state examination of patients with schizophrenia most commonly demonstrates a marked disorder of:",
+  "options": {
+   "A": "Orientation",
+   "B": "Memory",
+   "C": "Mood",
+   "D": "Thinking",
+   "E": "Insight"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Orientation and memory are intact in schizophrenia, while loss of insight is almost universal in acute psychosis.",
+  "key_note": "The paper key (circle and bold) marked E (Insight); kept as marked, though thought disorder (D) is a competing option.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02741"
+  ],
+  "stem": "A 25-year-old man is brought to the emergency department by police after threatening neighbours. He is shouting incoherently and appears paranoid. What is the most appropriate immediate management?",
+  "options": {
+   "A": "Oral risperidone",
+   "B": "IM haloperidol and lorazepam",
+   "C": "SSRI",
+   "D": "Mood stabilizer",
+   "E": "Admit to medical ward"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "An acutely disturbed psychotic patient needs rapid tranquillisation: parenteral haloperidol with lorazepam, which also lowers the antipsychotic dose needed and the risk of dystonia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01716"
+  ],
+  "stem": "Which one of the following side effects is more common with newer atypical antipsychotics than with conventional first-generation antipsychotics?",
+  "options": {
+   "A": "Akathisia",
+   "B": "Weight gain",
+   "C": "Galactorrhoea",
+   "D": "Parkinsonism",
+   "E": "Tardive dyskinesia"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Atypicals (olanzapine, clozapine) cause more weight gain and metabolic syndrome; extrapyramidal effects and hyperprolactinaemia are commoner with typicals.",
+  "key_note": "Marked B in one copy of the paper; unmarked in the other.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01718"
+  ],
+  "stem": "A 35-year-old man with schizophrenia is brought to the Emergency Department by friends due to drowsiness. He is generally rigid and neuroleptic malignant syndrome is suspected. Each one of the following is a feature of NMS, except:",
+  "options": {
+   "A": "Renal failure",
+   "B": "Pyrexia",
+   "C": "Elevated creatine kinase",
+   "D": "Usually occurs after prolonged treatment",
+   "E": "Tachycardia"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "NMS typically occurs early, within days to weeks of starting or increasing a neuroleptic, and causes hyperthermia, rigidity, autonomic instability, raised CK and renal failure from rhabdomyolysis.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02146"
+  ],
+  "stem": "A 45-year-old male presents with low mood, lack of interest and suicidal ideation for more than 2 weeks. He is suffering from:",
+  "options": {
+   "A": "Minor depression",
+   "B": "Major depression",
+   "C": "Schizophrenia",
+   "D": "Bipolar disorder",
+   "E": "Anxiety neurosis"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Low mood, anhedonia and suicidal ideas lasting more than two weeks fulfil criteria for a major depressive episode.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02274"
+  ],
+  "stem": "A 35-year-old married man has a 4-week history of loss of interest in daily activities, feelings of guilt, decreased sleep, anorexia, weight loss and easy fatigability. The most likely diagnosis is:",
+  "options": {
+   "A": "Dissociative disorder",
+   "B": "Generalized anxiety disorder",
+   "C": "Major depressive disorder",
+   "D": "Obsessive compulsive disorder",
+   "E": "Schizophrenia"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Pervasive anhedonia, guilt and biological features (insomnia, anorexia, weight loss) for more than 2 weeks indicate major depression.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01763"
+  ],
+  "stem": "A 45-year-old man presents with loss of energy, low mood and loss of interest in daily activities. Examination and baseline investigations are normal. What is the likely diagnosis?",
+  "options": {
+   "A": "Addison's disease",
+   "B": "Anaemia",
+   "C": "Depression",
+   "D": "Phobic disorder",
+   "E": "Psychosomatic disorder"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "The core symptoms of depression are low mood, anhedonia and reduced energy; normal examination and investigations exclude an organic cause.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02272"
+  ],
+  "stem": "A 25-year-old man has had extremely low mood for the last month. He lost interest in day-to-day activities, developed insomnia and anorexia, and lost 10 kg. All routine laboratory tests are normal. The most serious complication of this disorder is:",
+  "options": {
+   "A": "Substance abuse",
+   "B": "Academic failure",
+   "C": "Suicide",
+   "D": "Disruption of social relationships",
+   "E": "Employment difficulties"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "About 10-15% of patients with severe recurrent depression die by suicide, making it the most serious complication.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01242"
+  ],
+  "stem": "One of the strongest predictors of suicide in a patient's history is:",
+  "options": {
+   "A": "Living alone",
+   "B": "Using drugs",
+   "C": "Being divorced",
+   "D": "Being unemployed",
+   "E": "Previous suicide attempt"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "A previous suicide attempt is the single strongest predictor of eventual completed suicide.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02740",
+   "C01487"
+  ],
+  "stem": "A 40-year-old schoolteacher reports persistent sadness, early morning awakening, loss of appetite and feelings of worthlessness for the past 6 weeks. What is the most appropriate initial treatment?",
+  "options": {
+   "A": "Benzodiazepines",
+   "B": "Selective serotonin reuptake inhibitor (SSRI)",
+   "C": "Electroconvulsive therapy",
+   "D": "Antipsychotics",
+   "E": "Mood stabilizers"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "SSRIs are first-line for moderate depression because of efficacy and safety in overdose; ECT is reserved for severe, psychotic or resistant illness.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01717"
+  ],
+  "stem": "A patient is started on imipramine (a tricyclic antidepressant) for depression. Which combination of side effects is most likely?",
+  "options": {
+   "A": "Dry mouth and urinary frequency",
+   "B": "Hypertension and sweating",
+   "C": "Gastrointestinal bleeding and dyspepsia",
+   "D": "Headache and fits",
+   "E": "Blurred vision and dry mouth"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "TCAs block muscarinic receptors, causing dry mouth, blurred vision, constipation and urinary retention (not frequency).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01749"
+  ],
+  "stem": "Depression along with the following disorder forms the two poles of bipolar mood disorder:",
+  "options": {
+   "A": "Mania",
+   "B": "Dementia",
+   "C": "Schizophrenia",
+   "D": "Anxiety",
+   "E": "Obsessive compulsive disorder"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Bipolar disorder alternates between depressive and manic (or hypomanic) episodes.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01755"
+  ],
+  "stem": "A 26-year-old male visiting the psychiatry clinic for follow-up says that the US president met him last night to inform him that he will be the next prime minister of Pakistan. Last time he visited the clinic with a depressive episode. What is the likely diagnosis?",
+  "options": {
+   "A": "Mania",
+   "B": "Depression",
+   "C": "Unipolar disorder",
+   "D": "Bipolar disorder",
+   "E": "Delirium"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A grandiose delusion (current manic episode) in a patient with a previous depressive episode means bipolar disorder.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01715"
+  ],
+  "stem": "A 15-year-old boy has been keeping awake late at night, talking quickly and being very irritable for a few weeks. Yesterday he told his mother he was planning to 'take over' the school assembly and give 'constructive criticism' to his teachers, whom he considers poorly educated. He tried cannabis once six months ago and drank alcohol a few times, the last time two weeks ago. Before this he was happy, well adjusted and sociable. The most likely diagnosis is:",
+  "options": {
+   "A": "Psychotic depression",
+   "B": "Cannabis-induced psychosis",
+   "C": "Mania",
+   "D": "Alcoholic hallucinosis",
+   "E": "Asperger's syndrome"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Decreased need for sleep, pressured speech, irritability and grandiosity indicate mania; remote minimal substance use does not explain it.",
+  "key_note": "Unmarked in one copy; marked C in the other.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02145"
+  ],
+  "stem": "A 15-year-old girl had gradual onset of irritable mood, decreased sleep, overactivity and talkativeness. The likely diagnosis is:",
+  "options": {
+   "A": "Hypomania",
+   "B": "Depression",
+   "C": "Anxiety",
+   "D": "Panic attack",
+   "E": "Schizophrenia"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Elevated or irritable mood with increased activity and reduced sleep is a hypomanic or manic syndrome; of the options only hypomania fits.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01723"
+  ],
+  "stem": "All are mood-stabilizing agents except:",
+  "options": {
+   "A": "Lithium carbonate",
+   "B": "Sodium valproate",
+   "C": "Vitamin B6",
+   "D": "Lamotrigine",
+   "E": "Carbamazepine"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Lithium, valproate, carbamazepine and lamotrigine stabilise mood; vitamin B6 has no such role.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01719"
+  ],
+  "stem": "A 42-year-old man on lithium for bipolar disorder walks into the emergency department and appears dehydrated. The doctor thinks the lithium dose may be too high. Which of the following may be a feature of lithium toxicity?",
+  "options": {
+   "A": "Abdominal pains",
+   "B": "Breathlessness and ankle oedema",
+   "C": "Vertigo",
+   "D": "Coarse tremor and ataxia",
+   "E": "Haematuria"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Coarse tremor, ataxia, dysarthria and confusion indicate lithium toxicity (a fine tremor occurs at therapeutic levels); dehydration raises levels.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01725"
+  ],
+  "stem": "In post-partum women, the most common psychiatric disorder is:",
+  "options": {
+   "A": "Schizophrenia",
+   "B": "Depression",
+   "C": "Mania",
+   "D": "Dementia",
+   "E": "Obsessive compulsive disorder"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Postpartum depression affects 10-15% of mothers, far more than puerperal psychosis (about 1 in 1000), which is mostly affective in nature.",
+  "key_note": "Original stem read 'most common psychotic disorder'; paper marked B (Depression), kept as the standard teaching answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01236"
+  ],
+  "stem": "A 32-year-old married lady presents to the OPD with loss of appetite and sleep disturbance. She says she feels exhausted all the time. She gave birth to a healthy baby girl two weeks ago and is constantly worried that she will not be able to take care of the baby. What is the most likely diagnosis?",
+  "options": {
+   "A": "Postpartum blues",
+   "B": "Postpartum depression",
+   "C": "Postpartum psychosis",
+   "D": "Generalized anxiety disorder",
+   "E": "Delirium"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Blues occurs in the first 10-14 days, with tearfulness, anxiety and poor sleep, and settles without treatment; psychosis would show delusions or hallucinations.",
+  "key_note": "Source marked A (blues); option B was truncated and D duplicated C, so these were completed by the reviewer. The case is borderline with postpartum depression, but the 2-week timing fits the paper key.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02147",
+   "C01488"
+  ],
+  "stem": "A 31-year-old man has fear of open spaces, especially when crowded. When confronted with such a situation he becomes anxious, tachycardic and sweaty. What type of phobia does he have?",
+  "options": {
+   "A": "Panic attacks",
+   "B": "Social phobia",
+   "C": "Agoraphobia",
+   "D": "Obsession",
+   "E": "Conversion disorder"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Fear of open or crowded places and situations from which escape is difficult is agoraphobia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01486",
+   "C00682"
+  ],
+  "stem": "A young executive's career is much impaired because of an overwhelming fear of flying. He refuses all jobs that require travelling by aeroplane. This is:",
+  "options": {
+   "A": "Conversion disorder",
+   "B": "Specific phobia",
+   "C": "Agoraphobia",
+   "D": "Narcissistic personality disorder",
+   "E": "Body dysmorphic disorder"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Marked, irrational fear of a single object or situation with avoidance is a specific phobia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01721"
+  ],
+  "stem": "Panic disorder and phobic disorder are grouped as:",
+  "options": {
+   "A": "Organic brain disorders",
+   "B": "Psychotic disorders",
+   "C": "Anxiety disorders",
+   "D": "Mood disorders",
+   "E": "Physical disorders"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Panic, phobic, generalized anxiety and OCD related disorders form the anxiety disorders.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01724"
+  ],
+  "stem": "Apprehensive thoughts, fear for no reason and feelings of being on the edge indicate:",
+  "options": {
+   "A": "Depressive illness",
+   "B": "Mixed mood disorder",
+   "C": "Anxiety",
+   "D": "Amnestic disorder",
+   "E": "Schizophrenia"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Free-floating apprehension and feeling on edge are core features of anxiety.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03171"
+  ],
+  "stem": "A 30-year-old lady presents with attacks of acute anxiety that are unprovoked; during the attacks she has palpitations, trembling, dyspnoea and fear of death. The most likely diagnosis is:",
+  "options": {
+   "A": "Panic disorder",
+   "B": "Phobic disorder",
+   "C": "Generalized anxiety disorder",
+   "D": "Agoraphobia",
+   "E": "Social anxiety disorder"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Recurrent, unprovoked, discrete attacks of intense autonomic symptoms and fear of dying define panic disorder.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01759"
+  ],
+  "stem": "A 19-year-old girl is admitted with severe chest pain, palpitations and a feeling of a lump in the throat. Pulse is 92/min, BP 130/80, and cardiac auscultation and ECG are normal. She has had multiple admissions with the same complaints in the last 6 months and investigations show nothing abnormal except mild anaemia. What is the probable diagnosis?",
+  "options": {
+   "A": "Acute coronary syndrome",
+   "B": "Panic attacks",
+   "C": "Hyperthyroidism",
+   "D": "Anxiety neurosis",
+   "E": "Depression"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Recurrent episodes of chest pain, palpitations and globus with normal cardiac findings in a young patient suggest panic attacks.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02253"
+  ],
+  "stem": "Which is the drug of choice for obsessive compulsive disorder among the following?",
+  "options": {
+   "A": "Risperidone",
+   "B": "Alprazolam",
+   "C": "Quetiapine",
+   "D": "Clomipramine",
+   "E": "Carbamazepine"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Serotonergic antidepressants (clomipramine, SSRIs) are the treatment of OCD; of the options only clomipramine qualifies.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02143"
+  ],
+  "stem": "A patient presents with frequent handwashing and an impulsive desire to do so every 5 to 10 minutes. He should be treated with:",
+  "options": {
+   "A": "Tricyclic antidepressants",
+   "B": "Dopamine agonists",
+   "C": "Anxiolytics",
+   "D": "Lithium",
+   "E": "Electroconvulsive therapy"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Compulsive handwashing is OCD, which responds to the serotonergic tricyclic clomipramine (or SSRIs).",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02733",
+   "C00699",
+   "C01161"
+  ],
+  "stem": "A 30-year-old woman reports repeated intrusive thoughts about contamination and spends hours washing her hands. She knows the thoughts are irrational but cannot stop. What is the most likely diagnosis?",
+  "options": {
+   "A": "Generalized anxiety disorder",
+   "B": "Obsessive-compulsive disorder (OCD)",
+   "C": "Schizophrenia",
+   "D": "Panic disorder",
+   "E": "Somatic symptom disorder"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Recurrent intrusive obsessions with ego-dystonic compulsive washing and preserved insight are typical of OCD.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03174"
+  ],
+  "stem": "A 42-year-old woman has always been extremely neat and conscientious. A perfectionist, she often stays long after hours to check the punctuation and spelling of letters. Her work is impeccable, but she has few close relationships and repeatedly fights with co-workers. The most likely preliminary diagnosis is:",
+  "options": {
+   "A": "Obsessive-compulsive personality disorder",
+   "B": "Hysteria",
+   "C": "Obsessive compulsive disorder",
+   "D": "Schizotypal personality disorder",
+   "E": "Paranoid personality disorder"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "A lifelong pattern of perfectionism, rigidity and preoccupation with detail, without true obsessions or compulsions, is obsessive-compulsive (anankastic) personality disorder.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01237"
+  ],
+  "stem": "A 47-year-old female and her son were involved in a car accident while she was driving. Her son died in the accident and she spent two weeks in hospital with a head injury. She made an uneventful recovery, but two months after the accident she has recurring thoughts about the accident. She is unable to get into a car and avoids visiting the accident site. She complains of poor concentration and restlessness. The most likely diagnosis is:",
+  "options": {
+   "A": "Normal grief",
+   "B": "Depression",
+   "C": "Anxiety",
+   "D": "Post-traumatic stress disorder",
+   "E": "Acute stress reaction"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Re-experiencing, avoidance and hyperarousal persisting beyond one month after a major trauma is PTSD; an acute stress reaction lasts less than a month.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01722"
+  ],
+  "stem": "Which of the following conditions is not a reaction to stress?",
+  "options": {
+   "A": "Feelings of low mood after the death of a close relative",
+   "B": "Acute stress reaction",
+   "C": "Adjustment disorder",
+   "D": "Post-traumatic stress disorder",
+   "E": "Dementia"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Normal grief, acute stress reaction, adjustment disorder and PTSD are stress-related; dementia is a neurodegenerative disorder.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02275"
+  ],
+  "stem": "The promotion case of an ambitious army officer was recently rejected by the board, after which he developed low mood, lack of pleasure in daily activities, apprehension, worry and poor concentration. He is best described as suffering from:",
+  "options": {
+   "A": "Adjustment disorder",
+   "B": "Bipolar affective disorder",
+   "C": "Major depressive disorder",
+   "D": "Post-traumatic stress disorder",
+   "E": "Substance use disorder"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Emotional symptoms arising within a month of an identifiable psychosocial stressor, without meeting criteria for another disorder, indicate adjustment disorder.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01239"
+  ],
+  "stem": "A 13-year-old girl is brought to the emergency department with episodes of loss of consciousness and jerky movements of the body. The symptoms started after a fight between the parents. Routine labs and CT brain are normal. One year ago she developed paralysis of the right arm which resolved spontaneously after two weeks. What is the most likely diagnosis?",
+  "options": {
+   "A": "Depression",
+   "B": "Generalized anxiety disorder",
+   "C": "Multiple sclerosis",
+   "D": "Epilepsy",
+   "E": "Dissociative disorder"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Pseudoseizures and transient paralysis following emotional conflict, with normal investigations, indicate a dissociative (conversion) disorder.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02276",
+   "C02291"
+  ],
+  "stem": "After a harsh argument with her mother, a 20-year-old girl developed aphonia. She was taken to the ER but no other physical abnormality was found. The most likely diagnosis is:",
+  "options": {
+   "A": "Conversion disorder",
+   "B": "Factitious disorder",
+   "C": "Major depressive disorder",
+   "D": "Malingering",
+   "E": "Somatization disorder"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Loss of a motor or sensory function after psychological stress, without organic cause and not feigned, is conversion disorder.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01727"
+  ],
+  "stem": "Dissociative disorder is another name for:",
+  "options": {
+   "A": "Conversion disorder",
+   "B": "Personality disorder",
+   "C": "Anxiety disorder",
+   "D": "Delirium",
+   "E": "Depression"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "ICD-10 groups dissociative and conversion disorders together (hysteria).",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02739"
+  ],
+  "stem": "A 35-year-old man presents with chronic fatigue, multiple aches and abdominal discomfort. Extensive investigations including imaging and labs are normal. He insists something is wrong and frequently visits different hospitals. What is the most likely diagnosis?",
+  "options": {
+   "A": "Conversion disorder",
+   "B": "Somatic symptom disorder",
+   "C": "Hypochondriasis",
+   "D": "Factitious disorder",
+   "E": "Malingering"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Multiple persistent physical complaints with excessive health-related anxiety and doctor shopping despite normal tests indicate somatic symptom disorder.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02270"
+  ],
+  "stem": "Type A personality is characterized by:",
+  "options": {
+   "A": "Shyness",
+   "B": "Lack of trust in other people",
+   "C": "Excessive competitiveness",
+   "D": "Irresponsibility",
+   "E": "Deliberate self-harm"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Type A personality is competitive, time-urgent, hostile and achievement driven, with a higher risk of coronary disease.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02742"
+  ],
+  "stem": "A 10-year-old boy has difficulty in school, poor social interaction and delayed speech. IQ testing reveals a score of 60. What is the most likely diagnosis?",
+  "options": {
+   "A": "Autism spectrum disorder",
+   "B": "Mild intellectual disability",
+   "C": "ADHD",
+   "D": "Specific learning disorder",
+   "E": "Conduct disorder"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "An IQ of 50-69 defines mild intellectual disability, which itself explains the global delay in speech, schooling and social skills; autism would not be diagnosed on IQ alone.",
+  "key_note": "One paper marked A (Autism spectrum disorder); B is chosen because the IQ of 60 is the defining feature given.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01746"
+  ],
+  "stem": "Organic brain disorders need to be diagnosed early because:",
+  "options": {
+   "A": "The clinical picture changes quickly",
+   "B": "They are more common in rich patients",
+   "C": "Many are potentially reversible",
+   "D": "They may change to functional disorders",
+   "E": "They may change to psychiatric illness"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Early diagnosis matters because many organic causes (infection, metabolic, B12 or thyroid deficiency, subdural haematoma) are treatable.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01726"
+  ],
+  "stem": "Impaired consciousness, auditory hallucinations, fragmentary delusions and hyperactivity are found in:",
+  "options": {
+   "A": "Delirium",
+   "B": "Dementia",
+   "C": "Schizophrenia",
+   "D": "Neurosis",
+   "E": "Depression"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Clouding of consciousness with fluctuating psychotic features and psychomotor disturbance is delirium.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02743"
+  ],
+  "stem": "A 75-year-old woman is brought to the ED with confusion and disorientation. She was fine yesterday and is unable to recall the date or her location. What is the most likely diagnosis?",
+  "options": {
+   "A": "Dementia",
+   "B": "Delirium",
+   "C": "Depression",
+   "D": "Schizophrenia",
+   "E": "Wernicke's encephalopathy"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Acute onset of confusion and disorientation with a fluctuating course in an elderly patient is delirium.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03176"
+  ],
+  "stem": "A 65-year-old man presents with restlessness, noisy behaviour and suspicion that his food is being poisoned for the past three days after developing high-grade fever. He is disoriented in time and space, cannot recall who visited him the day before, cannot count days in reverse order, and is incontinent of urine. What is the likely diagnosis?",
+  "options": {
+   "A": "Delirium",
+   "B": "Paranoia",
+   "C": "Schizophrenia",
+   "D": "Dementia",
+   "E": "Depression"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Acute onset, fever, disorientation, inattention and fluctuating course point to delirium.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02382"
+  ],
+  "stem": "A 75-year-old male is brought to the emergency department after being found wandering confused in his neighbourhood. He has a history of diabetes and hypertension. What is the most appropriate next step in his management?",
+  "options": {
+   "A": "Administer glucose",
+   "B": "Consult psychiatry",
+   "C": "Immediate CT scan of the brain",
+   "D": "Perform a lumbar puncture",
+   "E": "Start anticoagulation therapy"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Acute confusion in an elderly vascular-risk patient needs urgent imaging to exclude stroke or haemorrhage; bedside glucose should also be checked.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03173"
+  ],
+  "stem": "A 65-year-old woman is found by the police in a filthy apartment after neighbours complained of an unpleasant odour. She angrily refuses to leave, saying her neighbours have threatened her with attack. She believes it is 10 years earlier than it is and seems confused. She cannot give the current address and cannot find her phone book or purse. The most likely diagnosis is:",
+  "options": {
+   "A": "Generalized anxiety disorder",
+   "B": "Brief psychotic episode",
+   "C": "Pseudodementia",
+   "D": "Dementia",
+   "E": "Delirium"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Chronic self-neglect, disorientation in time, memory loss and secondary paranoid ideas in an elderly person indicate dementia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01241"
+  ],
+  "stem": "A 72-year-old gentleman is brought to the OPD by his family with gradual decline in memory. He often misplaces things and has difficulty remembering the names of his relatives. At times he wanders out of the house and is brought back by neighbours. MRI of this patient will show:",
+  "options": {
+   "A": "Decreased cholinergic fibres in basal ganglia",
+   "B": "Enlarged ventricles and small hippocampus",
+   "C": "Demyelination in white matter",
+   "D": "Degeneration of the frontal and temporal lobes",
+   "E": "No abnormalities"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Alzheimer's disease shows medial temporal and hippocampal atrophy with global cortical atrophy and ventricular enlargement.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03181"
+  ],
+  "stem": "Alzheimer's dementia is characterized by all of the following except one:",
+  "options": {
+   "A": "Loss of recent memory",
+   "B": "Personal self-neglect",
+   "C": "Change in behaviour",
+   "D": "Elated mood",
+   "E": "Forgetfulness"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Alzheimer's shows early recent memory loss, self-neglect and behavioural change; mood is typically apathetic or depressed, not elated.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02378"
+  ],
+  "stem": "A 62-year-old woman has cognitive decline, personality changes and loss of executive function. Brain imaging shows frontal lobe atrophy. What is the most likely diagnosis?",
+  "options": {
+   "A": "Alzheimer's disease",
+   "B": "Frontotemporal dementia",
+   "C": "Lewy body dementia",
+   "D": "Normal pressure hydrocephalus",
+   "E": "Vascular dementia"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Early personality change and executive dysfunction with frontal (and anterior temporal) atrophy is frontotemporal dementia; memory loss comes later.",
+  "key_note": "One paper marked A (Alzheimer's) with a stem saying generalized atrophy; with early personality and executive change, frontotemporal dementia is correct.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01866"
+  ],
+  "stem": "A 65-year-old man presents with fluctuating cognitive function, formed visual hallucinations and parkinsonian features. Brain MRI shows prominence of cortical sulci and compensatory hydrocephalus. What is the diagnosis?",
+  "options": {
+   "A": "Alzheimer's disease",
+   "B": "Normal pressure hydrocephalus",
+   "C": "Lewy body dementia",
+   "D": "Depressive pseudodementia",
+   "E": "Paraneoplastic limbic encephalitis"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Fluctuating cognition, well-formed visual hallucinations and parkinsonism are the core features of dementia with Lewy bodies.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03170"
+  ],
+  "stem": "A 75-year-old socially isolated man presents with a one-month history of loss of appetite, weight loss, poor attention and concentration, memory impairment and agitation. The most likely diagnosis is:",
+  "options": {
+   "A": "Vascular dementia",
+   "B": "Agitated depression",
+   "C": "Depression with pseudodementia",
+   "D": "Delirium",
+   "E": "Alzheimer's dementia"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Short history with biological depressive symptoms and cognitive complaints in an isolated elderly man suggests depressive pseudodementia, which is reversible.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02383"
+  ],
+  "stem": "A 70-year-old patient is diagnosed with Alzheimer's disease. The family wants to know about possible non-pharmacological interventions. Which of the following is most beneficial?",
+  "options": {
+   "A": "Cognitive training",
+   "B": "Herbal supplements",
+   "C": "High protein diet",
+   "D": "Medication for mood stabilization",
+   "E": "Physical exercise"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Regular physical exercise has the best evidence for slowing functional and cognitive decline in dementia; herbal products and diet have no proven benefit.",
+  "key_note": "One paper marked A (Cognitive training); two marked E (Physical exercise), kept as E.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01729"
+  ],
+  "stem": "Tolerance, abuse and dependence are terms used with reference to:",
+  "options": {
+   "A": "Criminal behaviour",
+   "B": "Drug-taking behaviour",
+   "C": "Poor educational performance",
+   "D": "Weak personality",
+   "E": "Anti-social behaviour"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "These are the core concepts of substance use disorders.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02798"
+  ],
+  "stem": "A 20-year-old male university student uses methamphetamine for the first time. Which of the following symptoms is he likely to experience?",
+  "options": {
+   "A": "Decreased sleep",
+   "B": "Hallucination",
+   "C": "Increased appetite",
+   "D": "Increased motivation",
+   "E": "Suicidal ideation"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Methamphetamine is a stimulant causing insomnia, euphoria, hyperactivity and reduced appetite; hallucinations appear with heavy or chronic use.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02732"
+  ],
+  "stem": "A 22-year-old man presents with agitation, dilated pupils and hallucinations. He admits to using 'ice' (methamphetamine). What is the most appropriate initial management?",
+  "options": {
+   "A": "SSRI",
+   "B": "Benzodiazepines",
+   "C": "Antipsychotics",
+   "D": "Naloxone",
+   "E": "Methadone"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Benzodiazepines are first-line for stimulant-induced agitation; antipsychotics are added if psychosis persists. Naloxone and methadone relate to opioids.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01720"
+  ],
+  "stem": "A 63-year-old gentleman on regular benzodiazepines is diagnosed as having a benzodiazepine withdrawal state. A common clinical feature consistent with this is:",
+  "options": {
+   "A": "Manic depressive-like disorder",
+   "B": "Delusions",
+   "C": "Hallucinations",
+   "D": "Dementia",
+   "E": "Diminished sensory perception"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Withdrawal causes anxiety, insomnia, tremor, heightened sensory perception, perceptual disturbances including hallucinations, and seizures; sensory perception is increased, not diminished.",
+  "key_note": "One copy marked E (Diminished sensory perception); correct is C, because withdrawal produces perceptual hypersensitivity and hallucinations, not diminished perception.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03247"
+  ],
+  "stem": "A businessman presents with amnesia and loss of short-term memory, with behavioural and emotional changes, and is diagnosed with Korsakoff psychosis. The cause of this disease is:",
+  "options": {
+   "A": "Copper toxicity",
+   "B": "Lead poisoning",
+   "C": "Chronic alcoholism",
+   "D": "Arsenic poisoning",
+   "E": "Carbon monoxide poisoning"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Korsakoff syndrome is due to thiamine deficiency from chronic alcohol misuse, damaging the mamillary bodies and medial thalamus.",
+  "key_note": "Printed key at the end of the paper gave B (Lead poisoning); correct is C, the bold-marked option.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01240"
+  ],
+  "stem": "A genetics lab is conducting experiments on mice on the pleasure pathway associated with addiction. They isolate the neurotransmitter that seems responsible for this mechanism. Which neurotransmitter is it?",
+  "options": {
+   "A": "Dopamine",
+   "B": "Serotonin",
+   "C": "Epinephrine",
+   "D": "Norepinephrine",
+   "E": "Acetylcholine"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "The mesolimbic dopamine pathway (ventral tegmental area to nucleus accumbens) mediates reward and addiction.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03177"
+  ],
+  "stem": "Which of the following is not a symptom of depression?",
+  "options": {
+   "A": "Lack of interest in work and life",
+   "B": "Incongruent affect",
+   "C": "Suicidal ideas",
+   "D": "Easy fatigability",
+   "E": "Poor concentration"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Incongruent affect (emotion inappropriate to thought content) is characteristic of schizophrenia; depression shows congruent low affect.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01624"
+  ],
+  "stem": "A 25-year-old man has had intermittent central chest pain over four weeks. It is heavy, often with tingling of the lips and fingers, occurs at rest and lasts several minutes. His mother noted rapid breathing during these episodes. The most likely cause is:",
+  "options": {
+   "A": "Myocardial ischaemia",
+   "B": "Gastro-oesophageal reflux",
+   "C": "Anxiety with hyperventilation",
+   "D": "Musculoskeletal chest pain",
+   "E": "Pneumothorax"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Perioral and finger paraesthesia with rapid breathing indicates hyperventilation from anxiety (respiratory alkalosis lowers ionised calcium).",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ }
+]

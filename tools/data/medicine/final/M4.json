@@ -1,0 +1,3384 @@
+[
+ {
+  "cids": [
+   "C00212"
+  ],
+  "stem": "What percentage of cardiac output does renal blood flow account for?",
+  "options": {
+   "A": "5-10%",
+   "B": "10-15%",
+   "C": "20-25%",
+   "D": "30-35%",
+   "E": "More than 35%"
+  },
+  "answer": "C",
+  "explanation": "The kidneys receive about 1.2 L/min, roughly 20-25% of cardiac output, despite being only 0.5% of body weight.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00215"
+  ],
+  "stem": "Filtration at the glomerulus is a passive process. Which of the following statements is true?",
+  "options": {
+   "A": "Albumin is not filtered because it is too large to pass any gap in the barrier",
+   "B": "Albumin is not filtered because the filtration barrier is positively charged",
+   "C": "The filtration barrier is a tight epithelium that is impermeable to paracellular movement of proteins",
+   "D": "Mesangial cells do not influence the filtration rate",
+   "E": "Albumin is restricted mainly because it is negatively charged and the barrier is also negatively charged"
+  },
+  "answer": "E",
+  "explanation": "The glomerular basement membrane and podocyte slit diaphragm carry a negative charge that repels the anionic albumin molecule. Loss of this charge barrier (for example in minimal change disease) causes selective albuminuria.",
+  "key_note": "Source options were reworded lightly; the keyed answer (charge barrier) is unchanged.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00216"
+  ],
+  "stem": "The glomerular filtration barrier is composed of all of the following EXCEPT:",
+  "options": {
+   "A": "Fenestrated capillary endothelium",
+   "B": "Macula densa",
+   "C": "Basement membrane",
+   "D": "Podocytes",
+   "E": "Mesangial cells supporting the glomerulus"
+  },
+  "answer": "B",
+  "explanation": "The barrier is fenestrated endothelium, glomerular basement membrane and podocyte foot processes. The macula densa belongs to the juxtaglomerular apparatus in the distal tubule and senses sodium delivery.",
+  "key_note": "Mesangial cells are part of the glomerular tuft rather than the filtration barrier itself; the papers keyed macula densa as the exception, which is the standard answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00211"
+  ],
+  "stem": "Microalbuminuria is defined as urinary albumin excretion in 24 hours of:",
+  "options": {
+   "A": "0.1-1 mg/day",
+   "B": "1-10 mg/day",
+   "C": "10-100 mg/day",
+   "D": "30-300 mg/day",
+   "E": "30-500 mg/day"
+  },
+  "answer": "D",
+  "explanation": "Microalbuminuria is 30-300 mg/day (an albumin:creatinine ratio of 3-30 mg/mmol). It is the earliest marker of diabetic nephropathy.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00213"
+  ],
+  "stem": "Which of the following is NOT used for the estimation of renal function?",
+  "options": {
+   "A": "Serum creatinine",
+   "B": "Creatinine clearance",
+   "C": "Serum electrolyte levels",
+   "D": "Urinary albumin:creatinine ratio",
+   "E": "Cockcroft-Gault equation"
+  },
+  "answer": "C",
+  "explanation": "Renal function is estimated from serum creatinine, creatinine clearance and eGFR equations such as Cockcroft-Gault. Serum electrolytes reflect handling of salt and water and are not a measure of GFR.",
+  "key_note": "One paper copy marked D (urinary albumin:creatinine ratio); that tests kidney damage rather than GFR, but the commoner key and the best answer is C.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00222",
+   "C00221"
+  ],
+  "stem": "Which of the following features is most helpful in distinguishing chronic from acute renal failure?",
+  "options": {
+   "A": "Seizures",
+   "B": "Bilateral small kidneys on ultrasound",
+   "C": "Hypercalcaemia",
+   "D": "Dilute urine with high urine sodium",
+   "E": "Acute pulmonary oedema"
+  },
+  "answer": "B",
+  "explanation": "Small, shrunken, echogenic kidneys on ultrasound indicate chronicity. Exceptions are diabetic nephropathy, amyloidosis and polycystic kidneys, which remain normal or large.",
+  "key_note": "Two near-identical questions (renal size on ultrasound) were merged; all copies keyed the ultrasound option.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00219"
+  ],
+  "stem": "All of the following are risk factors for acute kidney injury EXCEPT:",
+  "options": {
+   "A": "Advanced age",
+   "B": "Chronic kidney disease",
+   "C": "Congestive heart failure",
+   "D": "Thyroid disorder",
+   "E": "Diabetes mellitus"
+  },
+  "answer": "D",
+  "explanation": "Age, pre-existing CKD, heart failure and diabetes all reduce renal reserve and predispose to AKI. Thyroid disease is not a recognised major risk factor.",
+  "key_note": "Source typo 'cognitive heart failure' corrected to congestive heart failure.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00109"
+  ],
+  "stem": "A 4-year-old boy presents with facial and ankle swelling. Urine dipstick shows 3+ protein and serum albumin is 16 g/L. The most likely disorder is:",
+  "options": {
+   "A": "Focal segmental glomerulosclerosis",
+   "B": "Goodpasture's syndrome",
+   "C": "IgA nephropathy",
+   "D": "Minimal change glomerulonephritis",
+   "E": "Post-streptococcal glomerulonephritis"
+  },
+  "answer": "D",
+  "explanation": "Nephrotic syndrome in a child of 1-8 years is minimal change disease in about 80-90% of cases, and it responds to steroids.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00647"
+  ],
+  "stem": "Which one of the following statements about minimal change disease is correct?",
+  "options": {
+   "A": "Haematuria is present in 100%",
+   "B": "It does not respond to steroids",
+   "C": "It is an uncommon cause of nephrotic syndrome in children",
+   "D": "Hypertension is common",
+   "E": "It has a good prognosis"
+  },
+  "answer": "E",
+  "explanation": "Minimal change disease is the commonest nephrotic syndrome in children, is steroid-sensitive, usually has normal blood pressure and no haematuria, and has an excellent prognosis.",
+  "key_note": "Stem reworded from 'minimal change GN' to minimal change disease.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00644"
+  ],
+  "stem": "Nephrotic syndrome is diagnosed when proteinuria is:",
+  "options": {
+   "A": "More than 3 g/day",
+   "B": "Less than 50 mg/day",
+   "C": "More than 5 g/day",
+   "D": "Absent",
+   "E": "200-300 mg/day"
+  },
+  "answer": "A",
+  "explanation": "Nephrotic range proteinuria is more than 3-3.5 g/day in adults (more than 40 mg/m2/hour in children), with hypoalbuminaemia, oedema and hyperlipidaemia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00214"
+  ],
+  "stem": "A 20-year-old male complains of pedal swelling and shortness of breath. Liver function tests are normal. Serum albumin is 2.0 g/dL and serum cholesterol is 390 mg/dL. Chest X-ray shows bilateral pleural effusion. Which is the next best investigation?",
+  "options": {
+   "A": "Ultrasound of the liver and renal tract",
+   "B": "Antinuclear antibody",
+   "C": "24-hour urinary protein",
+   "D": "Creatinine clearance",
+   "E": "Serum potassium"
+  },
+  "answer": "C",
+  "explanation": "Oedema, hypoalbuminaemia, hyperlipidaemia and normal LFTs indicate nephrotic syndrome. A 24-hour urinary protein (or spot protein:creatinine ratio) confirms and quantifies the proteinuria.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00217"
+  ],
+  "stem": "Oval fat bodies, fatty casts and increased urinary protein are found in:",
+  "options": {
+   "A": "Obstructive uropathy",
+   "B": "Acute tubular necrosis",
+   "C": "Pre-renal acute kidney injury",
+   "D": "Nephrotic syndrome",
+   "E": "Chronic pyelonephritis"
+  },
+  "answer": "D",
+  "explanation": "Heavy proteinuria with hyperlipidaemia leads to lipiduria, giving oval fat bodies and fatty casts (Maltese cross under polarised light).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00315"
+  ],
+  "stem": "A 35-year-old woman presents with early-morning periorbital puffiness, peripheral oedema and frothy urine. Urine R/E shows +++ protein and ++ haematuria. Serum albumin is 2 g/dL and 24-hour urine protein is 4 g. What is the gold standard test to confirm the diagnosis?",
+  "options": {
+   "A": "Renal biopsy",
+   "B": "Spot urine protein:creatinine ratio",
+   "C": "Ultrasonography",
+   "D": "CT KUB without contrast",
+   "E": "X-ray KUB"
+  },
+  "answer": "A",
+  "explanation": "In an adult with nephrotic-range proteinuria and haematuria, renal biopsy gives the histological diagnosis that guides treatment.",
+  "key_note": "One paper copy that reordered the options had a mark on the first letter (CT KUB), which does not match the other copies; correct answer is renal biopsy.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00321"
+  ],
+  "stem": "A 40-year-old man presents with abdominal distension for 2 weeks. Urine shows proteinuria. Renal biopsy shows thickening of the glomerular basement membrane and immunofluorescence shows granular subepithelial IgG deposits. The most probable diagnosis is:",
+  "options": {
+   "A": "Focal segmental glomerulosclerosis",
+   "B": "IgA nephropathy",
+   "C": "Minimal change disease",
+   "D": "Membranous nephropathy",
+   "E": "Mesangioproliferative glomerulonephritis"
+  },
+  "answer": "D",
+  "explanation": "Membranous nephropathy shows diffuse GBM thickening with granular subepithelial IgG (immune complex) deposits and presents as nephrotic syndrome in adults.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00316",
+   "C00630"
+  ],
+  "stem": "A 70-year-old man with nephrotic syndrome secondary to membranous nephropathy (24-hour urine protein 12 g, serum albumin 1 g/dL) presents with painful haematuria, right flank pain and decreased urine output. There is no history of stones or urinary tract infection. What is the most likely cause?",
+  "options": {
+   "A": "Renal vein thrombosis",
+   "B": "Urinary tract infection",
+   "C": "Nephrolithiasis",
+   "D": "Chronic liver disease",
+   "E": "Hyperlipidaemia"
+  },
+  "answer": "A",
+  "explanation": "Urinary loss of antithrombin III in heavy proteinuria causes a hypercoagulable state; membranous nephropathy is the classic cause of renal vein thrombosis, presenting with flank pain and haematuria.",
+  "key_note": "One copy with reordered options had a mark on the first letter (chronic liver disease); the other copies and medical correctness agree on renal vein thrombosis.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00313",
+   "C00648"
+  ],
+  "stem": "A 14-year-old boy develops haematuria two weeks after an upper respiratory tract infection. What is the most likely diagnosis?",
+  "options": {
+   "A": "IgA nephropathy",
+   "B": "Focal segmental glomerulosclerosis",
+   "C": "Post-streptococcal glomerulonephritis",
+   "D": "Rapidly progressive glomerulonephritis",
+   "E": "Mesangiocapillary glomerulonephritis"
+  },
+  "answer": "C",
+  "explanation": "A latent period of 1-3 weeks after a throat infection points to post-streptococcal GN; IgA nephropathy follows within 1-2 days (synpharyngitic).",
+  "key_note": "One copy with reordered options marked mesangiocapillary GN, with a handwritten note about early onset (48 hours) for IgA; with a 2-week latent period the correct answer is post-streptococcal GN. Source options repeated Minimal change disease twice; one option replaced by reviewer. Some references accept IgA nephropathy for post-URTI haematuria, but a 2-week gap favours post-streptococcal GN.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00270"
+  ],
+  "stem": "Normal serum complement levels would be seen in a patient with haematuria, proteinuria and hypertension resulting from which of the following?",
+  "options": {
+   "A": "Mixed essential cryoglobulinaemia",
+   "B": "Hepatitis C-associated membranoproliferative glomerulonephritis",
+   "C": "Diffuse proliferative lupus nephritis",
+   "D": "Henoch-Schonlein purpura",
+   "E": "Post-streptococcal glomerulonephritis"
+  },
+  "answer": "D",
+  "explanation": "Complement is low in post-streptococcal GN, lupus nephritis, MPGN and cryoglobulinaemia. IgA nephropathy and Henoch-Schonlein purpura have normal C3 and C4.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00272"
+  ],
+  "stem": "A 26-year-old woman with mitral valve prolapse presents with fever for 1 week that started 3 days after a dental procedure. Her urine contains red cells and her rheumatoid factor is elevated. Which serological abnormality is expected?",
+  "options": {
+   "A": "Anti-GBM antibody",
+   "B": "Low serum complement levels",
+   "C": "Anti-neutrophil cytoplasmic antibody",
+   "D": "Elevated IgA levels",
+   "E": "Anaemia of acute blood loss"
+  },
+  "answer": "B",
+  "explanation": "This is infective endocarditis with immune complex glomerulonephritis, which consumes complement (low C3), and rheumatoid factor is often raised.",
+  "key_note": "Option E ('Anemia') reworded to make the distractor specific.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00068",
+   "C01704",
+   "C01771"
+  ],
+  "stem": "A 37-year-old man presents with a 2-week history of haemoptysis. Dipstick shows 2+ protein, urea 9.5 mmol/L and creatinine 148 umol/L. He is positive for anti-glomerular basement membrane antibody. What is the diagnosis?",
+  "options": {
+   "A": "Drug-induced glomerulonephritis",
+   "B": "Goodpasture's syndrome",
+   "C": "Membranous glomerulonephritis",
+   "D": "Mesangiocapillary glomerulonephritis",
+   "E": "Rapidly progressive glomerulonephritis"
+  },
+  "answer": "B",
+  "explanation": "Pulmonary haemorrhage plus glomerulonephritis with anti-GBM antibodies (against the alpha-3 chain of type IV collagen) is Goodpasture's syndrome.",
+  "key_note": "One copy had a green mark on a different option; the anti-GBM antibody makes Goodpasture's syndrome correct.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00121"
+  ],
+  "stem": "A 34-year-old woman with systemic lupus erythematosus presents feeling puffy. There is periorbital and ankle oedema, blood pressure 170/98 mmHg, and urine dipstick shows 3+ protein and 2+ blood. What has developed?",
+  "options": {
+   "A": "Lupus nephritis",
+   "B": "Multiple myeloma",
+   "C": "Polyarteritis nodosa",
+   "D": "Rhabdomyolysis",
+   "E": "Streptococcal glomerulonephritis"
+  },
+  "answer": "A",
+  "explanation": "Nephrotic/nephritic features with hypertension in SLE indicate lupus nephritis, which is the commonest serious organ involvement.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00123"
+  ],
+  "stem": "A 45-year-old man with Crohn's disease has deteriorating renal function and proteinuria. A renal biopsy stains positively with Congo red. What is the diagnosis?",
+  "options": {
+   "A": "AA amyloidosis",
+   "B": "Diabetic microalbuminuria",
+   "C": "Lupus nephritis",
+   "D": "Multiple myeloma",
+   "E": "Rhabdomyolysis"
+  },
+  "answer": "A",
+  "explanation": "Chronic inflammatory disease leads to secondary (AA) amyloidosis; Congo red shows apple-green birefringence under polarised light, and the kidney is the commonest organ affected.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00271",
+   "C01473"
+  ],
+  "stem": "A middle-aged hypertensive patient presents with raised serum creatinine, raised calcium and anaemia. Urine dipstick shows trace protein with no red cells or cellular casts, and urine electrophoresis shows Bence Jones proteins. The most likely diagnosis is:",
+  "options": {
+   "A": "Focal segmental glomerulosclerosis",
+   "B": "Hypertensive nephrosclerosis",
+   "C": "Amyloidosis",
+   "D": "Multiple myeloma",
+   "E": "Hepatitis C infection"
+  },
+  "answer": "D",
+  "explanation": "Renal failure, hypercalcaemia, anaemia and Bence Jones proteinuria (dipstick detects albumin, not light chains) indicate myeloma (cast nephropathy).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00264"
+  ],
+  "stem": "Predominant small artery involvement with intimal proliferation and sometimes thrombosis, also termed thrombotic microangiopathy, is found in which renal disease?",
+  "options": {
+   "A": "Membranoproliferative glomerulonephritis",
+   "B": "Haemolytic uraemic syndrome",
+   "C": "Microscopic polyangiitis",
+   "D": "Analgesic nephropathy",
+   "E": "Membranous nephropathy"
+  },
+  "answer": "B",
+  "explanation": "Haemolytic uraemic syndrome and TTP are the classic thrombotic microangiopathies, with endothelial injury, platelet-fibrin thrombi and fragmentation of red cells.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00117",
+   "C01705",
+   "C02139",
+   "C02728"
+  ],
+  "stem": "A 14-year-old boy has a 3-day history of diarrhoea and vomiting. Urea is 23.1 mmol/L, creatinine 400 umol/L, potassium 5.9 mmol/L and sodium 134 mmol/L. The blood film shows normocytic anaemia with fragmented red cells. Stool grows Escherichia coli O157. What is the diagnosis?",
+  "options": {
+   "A": "Haemolytic uraemic syndrome",
+   "B": "Idiopathic thrombocytopenic purpura",
+   "C": "Glomerular nephritis",
+   "D": "Non-steroidal anti-inflammatory drug toxicity",
+   "E": "Nephrotoxic antibiotics"
+  },
+  "answer": "A",
+  "explanation": "Shiga-toxin producing E. coli O157:H7 diarrhoea followed by AKI, microangiopathic haemolytic anaemia and thrombocytopenia defines HUS.",
+  "key_note": "Source 'fractionated red blood cells' corrected to fragmented red cells.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00642"
+  ],
+  "stem": "In diabetic nephropathy:",
+  "options": {
+   "A": "The glomerular filtration rate is increased in the early stages",
+   "B": "There are usually no glomerular microscopic lesions",
+   "C": "Enalapril worsens the progression of renal disease",
+   "D": "Hypertension is rare in the presence of nephrotic-range proteinuria",
+   "E": "The glomerular filtration rate is decreased in the early stages"
+  },
+  "answer": "A",
+  "explanation": "Early diabetic nephropathy shows glomerular hyperfiltration (raised GFR), then microalbuminuria, then overt proteinuria with falling GFR. ACE inhibitors slow progression and hypertension is common.",
+  "key_note": "One paper copy marked C (enalapril worsens disease); that is wrong because ACE inhibitors are renoprotective.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00223"
+  ],
+  "stem": "Metabolic abnormalities in acute renal failure include all of the following EXCEPT:",
+  "options": {
+   "A": "Hyperkalaemia",
+   "B": "Hyperphosphataemia",
+   "C": "Hypernatraemia",
+   "D": "Hypermagnesaemia",
+   "E": "Acid-base disturbance"
+  },
+  "answer": "C",
+  "explanation": "AKI causes hyperkalaemia, hyperphosphataemia, hypermagnesaemia, hypocalcaemia and metabolic acidosis; sodium is usually normal or low because of water retention, not high.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00263"
+  ],
+  "stem": "Pre-renal azotaemia is associated with:",
+  "options": {
+   "A": "High fractional excretion of sodium",
+   "B": "Granular casts in the urine",
+   "C": "Use of ACE inhibitors",
+   "D": "Evolution to acute tubular necrosis if untreated",
+   "E": "A self-limiting clinical course"
+  },
+  "answer": "D",
+  "explanation": "Pre-renal azotaemia (FENa below 1%, bland sediment) reverses with restoration of perfusion but progresses to ischaemic ATN if hypoperfusion persists.",
+  "key_note": "All paper copies marked D; ACE inhibitors can precipitate pre-renal failure, but D is the best statement.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00322"
+  ],
+  "stem": "An old man admitted with a skin abscess is started on aminoglycosides. After 1 day his urine output falls to less than 0.3 mL/kg/hour. Serum creatinine is 600 umol/L (6.8 mg/dL). By KDIGO criteria this acute kidney injury is classified as:",
+  "options": {
+   "A": "Stage 1",
+   "B": "Stage 2",
+   "C": "Stage 3",
+   "D": "Stage 4",
+   "E": "Stage 5"
+  },
+  "answer": "C",
+  "explanation": "KDIGO stage 3 is creatinine at least 3 times baseline or above 354 umol/L (4 mg/dL), or urine output below 0.3 mL/kg/hour for 24 hours.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00628"
+  ],
+  "stem": "An old man admitted with a skin abscess is started on aminoglycosides. After 1 day his urine output falls to less than 0.3 mL/kg/hour. Serum creatinine is 600 umol/L (6.8 mg/dL). According to RIFLE criteria this acute kidney injury is classified as:",
+  "options": {
+   "A": "Injury",
+   "B": "Loss",
+   "C": "Risk",
+   "D": "Failure",
+   "E": "End-stage renal disease"
+  },
+  "answer": "D",
+  "explanation": "RIFLE 'Failure' is creatinine 3 times baseline (or above 4 mg/dL) or urine output below 0.3 mL/kg/hour for 24 hours. 'Loss' requires more than 4 weeks of renal replacement.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00118",
+   "C02727",
+   "C01593"
+  ],
+  "stem": "A 68-year-old man becomes unwell after starting ramipril for hypertension. He has ischaemic heart disease. On examination there are bilateral renal bruits. Urea is 22.8 mmol/L, creatinine 340 umol/L, potassium 5.9 mmol/L and sodium 145 mmol/L. What is the diagnosis?",
+  "options": {
+   "A": "Interstitial renal failure secondary to glomerular nephritis",
+   "B": "Renal failure secondary to non-steroidal anti-inflammatory drugs",
+   "C": "Renal failure secondary to cardiac failure",
+   "D": "Renal failure secondary to hypertension",
+   "E": "Renal failure secondary to renal artery stenosis"
+  },
+  "answer": "E",
+  "explanation": "Bilateral renal bruits in an atherosclerotic patient, with AKI after an ACE inhibitor, indicate bilateral renal artery stenosis: efferent arteriolar dilatation removes the GFR-maintaining mechanism.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00268"
+  ],
+  "stem": "Which of the following patients is most likely to develop destruction of renal papillae with tubulointerstitial damage?",
+  "options": {
+   "A": "A middle-aged man who has consumed ethanol",
+   "B": "An older man with early-stage prostate adenocarcinoma",
+   "C": "A young adult woman with beta-thalassaemia",
+   "D": "An older woman who uses analgesics for chronic headaches",
+   "E": "A middle-aged woman with a first uncomplicated urinary tract infection that responds to a short course of oral antibiotics"
+  },
+  "answer": "D",
+  "explanation": "Chronic analgesic (phenacetin, aspirin, NSAID) use causes analgesic nephropathy with papillary necrosis and chronic tubulointerstitial nephritis, classically in middle-aged and older women.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00439"
+  ],
+  "stem": "A 54-year-old woman with ESRD on haemodialysis presents with a traumatic humeral fracture and is to undergo open reduction and internal fixation the next day. Which of the following medications should be most avoided?",
+  "options": {
+   "A": "Acetaminophen",
+   "B": "Morphine sulfate",
+   "C": "NSAIDs",
+   "D": "Hydromorphone",
+   "E": "Oxycodone"
+  },
+  "answer": "C",
+  "explanation": "NSAIDs are best avoided in ESRD: they cause further renal injury, fluid retention, hyperkalaemia and bleeding in uraemia. Morphine metabolites accumulate and need caution, but NSAIDs are the main drug to avoid.",
+  "key_note": "One copy marked morphine; both need caution in ESRD but most papers key NSAIDs, which is retained.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00207"
+  ],
+  "stem": "In chronic kidney disease, all of the following are true EXCEPT:",
+  "options": {
+   "A": "Decreased calcitriol",
+   "B": "Decreased calcium",
+   "C": "Decreased serum phosphate",
+   "D": "Increased parathyroid hormone",
+   "E": "Increased serum urea and creatinine"
+  },
+  "answer": "C",
+  "explanation": "CKD causes retention of phosphate (hyperphosphataemia), low calcitriol, hypocalcaemia and secondary hyperparathyroidism, with raised urea and creatinine.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00209",
+   "C00266",
+   "C01192"
+  ],
+  "stem": "The leading cause of mortality in patients with chronic kidney disease is:",
+  "options": {
+   "A": "Infection",
+   "B": "Cardiovascular disease",
+   "C": "Malignancy",
+   "D": "Bleeding",
+   "E": "High serum creatinine"
+  },
+  "answer": "B",
+  "explanation": "Accelerated atherosclerosis, left ventricular hypertrophy and vascular calcification make cardiovascular disease the main cause of death in CKD.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00258",
+   "C00210",
+   "C00653",
+   "C01050"
+  ],
+  "stem": "In patients with chronic kidney disease, which of the following is the most important contributor to renal bone disease (renal osteodystrophy)?",
+  "options": {
+   "A": "Impaired renal production of 1,25-dihydroxy vitamin D",
+   "B": "Hypercalcaemia",
+   "C": "Hypophosphataemia",
+   "D": "Loss of vitamin D and calcium via dialysis",
+   "E": "Hypoalbuminaemia"
+  },
+  "answer": "A",
+  "explanation": "Failing kidneys cannot hydroxylate 25-OH vitamin D to calcitriol, causing hypocalcaemia and hyperphosphataemia that drive secondary hyperparathyroidism and bone disease.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00259"
+  ],
+  "stem": "Which of the following hormones is frequently reduced in chronic renal failure?",
+  "options": {
+   "A": "Insulin",
+   "B": "Glucagon",
+   "C": "Erythropoietin",
+   "D": "Parathyroid hormone",
+   "E": "Cortisol"
+  },
+  "answer": "C",
+  "explanation": "Erythropoietin is made by renal peritubular cells and falls in CKD, causing normocytic normochromic anaemia. PTH is raised.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00265"
+  ],
+  "stem": "The following may precipitate hyperkalaemia in chronic renal failure EXCEPT:",
+  "options": {
+   "A": "Constipation",
+   "B": "Metabolic alkalosis",
+   "C": "NSAIDs",
+   "D": "Blood transfusion",
+   "E": "Metabolic acidosis"
+  },
+  "answer": "B",
+  "explanation": "Acidosis shifts potassium out of cells; alkalosis drives it into cells. NSAIDs, stored blood and constipation (less gut potassium loss) all promote hyperkalaemia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00267"
+  ],
+  "stem": "Which of the following abnormalities in chronic renal failure is NOT improved by dialysis?",
+  "options": {
+   "A": "Volume expansion",
+   "B": "Hyperphosphataemia",
+   "C": "Atherosclerosis",
+   "D": "Lethargy",
+   "E": "Acid-base abnormalities"
+  },
+  "answer": "C",
+  "explanation": "Dialysis corrects volume, acid-base, uraemic symptoms and, partly, phosphate, but it does not reverse established atherosclerosis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00314"
+  ],
+  "stem": "A 58-year-old woman with progressive renal failure secondary to polycystic kidney disease is being assessed for haemodialysis and awaits renal transplant. Which metabolic abnormality is most likely to be present in end-stage renal disease?",
+  "options": {
+   "A": "Metabolic acidosis",
+   "B": "Hypokalaemia",
+   "C": "Hypophosphataemia",
+   "D": "Hypercalcaemia",
+   "E": "Metabolic alkalosis"
+  },
+  "answer": "A",
+  "explanation": "Failure to excrete hydrogen ions causes metabolic acidosis; ESRD also gives hyperkalaemia, hyperphosphataemia and hypocalcaemia.",
+  "key_note": "One copy with reordered options had a mark on the first letter (hypercalcaemia); correct answer is metabolic acidosis.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00071"
+  ],
+  "stem": "A 60-year-old woman with chronic renal failure is lethargic. Blood tests show calcium 1.73 mmol/L, phosphate 2.7 mmol/L and albumin 45 g/L. What is a good treatment option?",
+  "options": {
+   "A": "Alfacalcidol",
+   "B": "Intravenous bisphosphonate infusion",
+   "C": "Intravenous calcium gluconate",
+   "D": "Oral calcium",
+   "E": "Phosphate binders"
+  },
+  "answer": "A",
+  "explanation": "In CKD the kidney cannot activate vitamin D, so an activated analogue (alfacalcidol or calcitriol) corrects hypocalcaemia and suppresses PTH, with phosphate control. IV calcium is reserved for symptomatic tetany.",
+  "key_note": "One paper marked C (IV calcium gluconate); she has no tetany, so alfacalcidol is preferred.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00062",
+   "C00612",
+   "C02781"
+  ],
+  "stem": "A 7-year-old girl with chronic renal failure secondary to autosomal recessive polycystic kidney disease has a corrected calcium of 1.90 mmol/L, phosphate 2.4 mmol/L (reference 0.7-1.4) and a markedly raised parathyroid hormone. What is the likely cause?",
+  "options": {
+   "A": "Ectopic parathyroid hormone secretion",
+   "B": "Parathyroid hormone-related protein secretion",
+   "C": "Primary hyperparathyroidism",
+   "D": "Secondary hyperparathyroidism",
+   "E": "Tertiary hyperparathyroidism"
+  },
+  "answer": "D",
+  "explanation": "Low calcium with high phosphate and high PTH in CKD is secondary hyperparathyroidism, a physiological response to hypocalcaemia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00097"
+  ],
+  "stem": "A 26-year-old woman with chronic renal failure secondary to renal dysplasia has a corrected calcium of 2.6 mmol/L, phosphate 2.1 mmol/L and a markedly raised parathyroid hormone. What is the diagnosis?",
+  "options": {
+   "A": "Parathyroid adenoma",
+   "B": "PTHrP secretion",
+   "C": "Primary hyperparathyroidism",
+   "D": "Secondary hyperparathyroidism",
+   "E": "Tertiary hyperparathyroidism"
+  },
+  "answer": "E",
+  "explanation": "Long-standing secondary hyperparathyroidism leads to autonomous glands, so PTH stays high even when calcium becomes high: tertiary hyperparathyroidism.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00229"
+  ],
+  "stem": "A middle-aged man with major depression, bone pain and bone tenderness for 8 months has had chronic kidney disease for 3 years. Urea and creatinine are raised, serum PTH is raised and serum calcium is also raised. The most likely diagnosis is:",
+  "options": {
+   "A": "Tertiary hyperparathyroidism",
+   "B": "Secondary hyperparathyroidism",
+   "C": "Familial hypocalciuric hypercalcaemia",
+   "D": "Iatrogenic hypercalcaemia",
+   "E": "Primary hyperparathyroidism"
+  },
+  "answer": "A",
+  "explanation": "In CKD, high PTH with high calcium means autonomous (tertiary) hyperparathyroidism; secondary has low or normal calcium.",
+  "key_note": "One paper copy marked E (primary hyperparathyroidism); with long-standing CKD the correct answer is tertiary.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00595"
+  ],
+  "stem": "A middle-aged man with long-standing CKD has bone pain, depression, raised urea and creatinine, raised PTH and raised calcium (tertiary hyperparathyroidism). The most appropriate treatment for his underlying condition is:",
+  "options": {
+   "A": "Parathyroidectomy",
+   "B": "Bisphosphonates",
+   "C": "Oral fluids",
+   "D": "Cinacalcet",
+   "E": "Intravenous fluids"
+  },
+  "answer": "A",
+  "explanation": "Tertiary hyperparathyroidism with hypercalcaemia that does not respond to medical therapy is treated by (subtotal) parathyroidectomy.",
+  "key_note": "Marked A; cinacalcet is a medical alternative before surgery in some guidelines, but parathyroidectomy is the keyed definitive answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00208"
+  ],
+  "stem": "Treatment of secondary hyperparathyroidism in chronic kidney disease includes: (i) oral phosphate binders, (ii) calcitriol, (iii) decreased dietary phosphate intake.",
+  "options": {
+   "A": "(i) only",
+   "B": "(ii) only",
+   "C": "(iii) only",
+   "D": "(i) and (iii) only",
+   "E": "(i), (ii) and (iii)"
+  },
+  "answer": "E",
+  "explanation": "Management combines dietary phosphate restriction, phosphate binders to lower phosphate, and activated vitamin D (calcitriol or alfacalcidol), with cinacalcet or parathyroidectomy if refractory.",
+  "key_note": "Options rewritten to state the combinations clearly.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00114",
+   "C01796",
+   "C02639",
+   "C02833",
+   "C01799",
+   "C02539"
+  ],
+  "stem": "A 56-year-old man with chronic renal failure has become lethargic over 2 months. He has pale palmar creases and conjunctivae and an ejection systolic murmur. Haemoglobin is 8.2 g/dL, MCV 85 fL and ferritin is normal. What treatment should be given?",
+  "options": {
+   "A": "Advise exercise",
+   "B": "Blood transfusion",
+   "C": "Intravenous bisphosphonate infusion",
+   "D": "Subcutaneous erythropoietin",
+   "E": "Iron sulphate supplementation"
+  },
+  "answer": "D",
+  "explanation": "Normocytic anaemia with normal iron stores in CKD is due to erythropoietin deficiency, treated with an erythropoiesis-stimulating agent (with iron if deficient).",
+  "key_note": "Options C and E were duplicates in the source; E was replaced by the reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00115"
+  ],
+  "stem": "A 45-year-old man with chronic renal failure has a blood pressure of 180/95 mmHg, which has been rising for several weeks. What is the most appropriate management?",
+  "options": {
+   "A": "Oral ACE inhibitor and fluid restriction",
+   "B": "Oral calcium channel blocker and fluid restriction",
+   "C": "Statin therapy",
+   "D": "Stop phosphate binders"
+  },
+  "answer": "A",
+  "explanation": "Hypertension in CKD is often due to salt and water retention; fluid restriction plus an ACE inhibitor (renoprotective, reduces proteinuria) is standard, with monitoring of potassium and creatinine.",
+  "key_note": "Only four options were available in the source and the stem lacked its question, which was completed.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00319"
+  ],
+  "stem": "A 40-year-old man has CKD due to hypertensive nephropathy. GFR is 60 mL/min/1.73 m2, pulse 90/min, BP 170/100 mmHg, afebrile, and protein:creatinine ratio 50 mg/mmol. What is the best management to slow progression of the disease?",
+  "options": {
+   "A": "Beta blockers",
+   "B": "ACE inhibitors or ARBs",
+   "C": "Renal transplant",
+   "D": "Statins",
+   "E": "Salt restriction"
+  },
+  "answer": "B",
+  "explanation": "In proteinuric CKD with hypertension, ACE inhibitors or ARBs reduce intraglomerular pressure and proteinuria, giving the best slowing of progression (target BP below 130/80).",
+  "key_note": "One copy offered 'antihypertensive treatment' as the keyed option; ACE inhibitor or ARB is the more specific correct answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00116"
+  ],
+  "stem": "A 48-year-old man with end-stage renal failure has had a fit, now settled. For several days he has had fluctuating confusion and jerking movements. Urea is 35.6 mmol/L, creatinine 600 umol/L, potassium 5.4 mmol/L and sodium 147 mmol/L. An urgent head CT is normal. What is the best management?",
+  "options": {
+   "A": "Intravenous calcium gluconate",
+   "B": "Long-term sodium valproate",
+   "C": "Oral calcium channel blocker",
+   "D": "Antibiotic for meningitis",
+   "E": "Urgent dialysis"
+  },
+  "answer": "E",
+  "explanation": "Confusion, myoclonus and seizures with severe uraemia indicate uraemic encephalopathy, an indication for urgent dialysis.",
+  "key_note": "The head CT result in the source stem was truncated; assumed normal.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00643",
+   "C01248"
+  ],
+  "stem": "Haemodialysis is indicated at which stage of CKD?",
+  "options": {
+   "A": "CKD 1",
+   "B": "CKD 2",
+   "C": "CKD 3",
+   "D": "CKD 4",
+   "E": "CKD 5"
+  },
+  "answer": "E",
+  "explanation": "Renal replacement therapy is considered at CKD stage 5 (GFR below 15 mL/min) or earlier with uraemic symptoms, refractory fluid overload, hyperkalaemia or acidosis.",
+  "key_note": "Paper key marked D (CKD4); correct is E (stage 5, end stage).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00320"
+  ],
+  "stem": "A 50-year-old patient has end-stage renal failure due to diabetic nephropathy. What is an absolute contraindication to renal replacement therapy?",
+  "options": {
+   "A": "Diabetic retinopathy",
+   "B": "Hypertension",
+   "C": "Severe heart disease",
+   "D": "Uraemia",
+   "E": "Uncontrolled diabetes mellitus"
+  },
+  "answer": "C",
+  "explanation": "Retinopathy, hypertension and uraemia are not contraindications, and diabetes can be controlled; severe untreatable cardiac disease limits survival on or off dialysis.",
+  "key_note": "Marked answer retained; strictly severe heart disease is often a relative contraindication, but it is the best option here.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00274"
+  ],
+  "stem": "Which of the following drugs is recommended for continuation (maintenance) therapy after renal transplant to prevent graft rejection?",
+  "options": {
+   "A": "Mycophenolate",
+   "B": "Ibuprofen",
+   "C": "Gentamicin",
+   "D": "Amphotericin B",
+   "E": "Methotrexate"
+  },
+  "answer": "A",
+  "explanation": "Maintenance immunosuppression is typically tacrolimus or ciclosporin plus mycophenolate (or azathioprine) with or without prednisolone. The others are nephrotoxic or irrelevant.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00119"
+  ],
+  "stem": "During a haemodialysis session, a 14-year-old boy complains of light-headedness. He looks pale and slightly sweaty and his blood pressure is 70/30 mmHg. What complication has occurred?",
+  "options": {
+   "A": "Anaemia",
+   "B": "Infection of the line",
+   "C": "Hypocalcaemia",
+   "D": "Hypotension",
+   "E": "Ischaemic heart disease"
+  },
+  "answer": "D",
+  "explanation": "Intradialytic hypotension is the commonest complication of haemodialysis, from rapid fluid removal.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00120"
+  ],
+  "stem": "A 47-year-old man has been receiving haemodialysis for several years for adult polycystic kidney disease. He is developing episodic chest pain on exertion. What could be the cause?",
+  "options": {
+   "A": "Anaemia",
+   "B": "Aneurysm formation",
+   "C": "Hypertension",
+   "D": "Hypotension",
+   "E": "Ischaemic heart disease"
+  },
+  "answer": "E",
+  "explanation": "Accelerated atherosclerosis is the commonest cause of exertional chest pain (angina) in dialysis patients.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00111"
+  ],
+  "stem": "A 45-year-old woman presents with lower abdominal pain, increased frequency and pain on passing urine. She describes dark, offensive urine. Dipstick shows leucocytes, nitrites and blood. What is the diagnosis?",
+  "options": {
+   "A": "Acute bacterial prostatitis",
+   "B": "Acute pyelonephritis",
+   "C": "Escherichia coli cystitis",
+   "D": "Proteus mirabilis urinary tract infection",
+   "E": "Urinary tract obstruction"
+  },
+  "answer": "D",
+  "explanation": "The source key was Proteus mirabilis infection: it splits urea to ammonia, giving offensive, alkaline urine and predisposing to struvite stones.",
+  "key_note": "Source key D retained because of the offensive urine; E. coli is the commonest cause of cystitis overall, so this is a stem-specific answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00112"
+  ],
+  "stem": "A 34-year-old woman has a 2-day history of dysuria, frequency and offensive urine. Dipstick is positive for nitrites and leucocytes with 1+ blood and 1+ protein. What would be the next most important investigation?",
+  "options": {
+   "A": "Cystoscopy",
+   "B": "Kidney-ureter-bladder X-ray",
+   "C": "Midstream urine for microscopy, culture and sensitivity",
+   "D": "Renal tract ultrasound",
+   "E": "Three early-morning urine samples for Ziehl-Neelsen staining"
+  },
+  "answer": "C",
+  "explanation": "Before antibiotics, a midstream urine sample for culture and sensitivity confirms the organism and guides therapy.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00113"
+  ],
+  "stem": "A 27-year-old man has an 8-week history of weight loss, night sweats, loin pain and dysuria. Dipstick shows blood and leucocytes, and a routine urine culture a week ago showed no growth. What should be done now?",
+  "options": {
+   "A": "Cystoscopy",
+   "B": "Send another sample for culture and sensitivity",
+   "C": "Kidney-ureter-bladder X-ray",
+   "D": "Renal biopsy",
+   "E": "Three early-morning urine samples for Ziehl-Neelsen staining"
+  },
+  "answer": "E",
+  "explanation": "Sterile pyuria with constitutional symptoms suggests renal tuberculosis; send three early-morning urine samples for AFB staining and culture.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00224",
+   "C00261"
+  ],
+  "stem": "A 70-year-old man is admitted with sudden onset of dysuria, urinary frequency and shaking chills. Temperature is 39.5 C (103 F), BP 95/60 mmHg, pulse 140/min. Which intervention is most important?",
+  "options": {
+   "A": "Catheterise the patient",
+   "B": "Start a dopamine infusion",
+   "C": "Infuse Ringer's lactate",
+   "D": "Start antibiotics after taking urine samples for R/E and C/S",
+   "E": "Intravenous prednisolone"
+  },
+  "answer": "D",
+  "explanation": "This is urosepsis with systemic inflammatory response; urgent culture-directed broad-spectrum antibiotics are the priority, with fluid resuscitation alongside.",
+  "key_note": "Fluids are also needed in sepsis, but all paper keys marked antibiotics, which is retained.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00218"
+  ],
+  "stem": "Which imaging modality is most commonly used for the diagnosis of vesicoureteric reflux?",
+  "options": {
+   "A": "Ultrasound",
+   "B": "Micturating cystourethrogram",
+   "C": "DMSA scan",
+   "D": "MRI",
+   "E": "CT scan"
+  },
+  "answer": "B",
+  "explanation": "A micturating cystourethrogram shows retrograde filling of the ureters during voiding and grades the reflux. DMSA detects scarring.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00206",
+   "C00256",
+   "C01472"
+  ],
+  "stem": "Which of the following would be a characteristic finding in obstructive nephropathy due to benign prostatic hypertrophy?",
+  "options": {
+   "A": "Hyperkalaemia",
+   "B": "Polyuria and nocturia",
+   "C": "Haematuria",
+   "D": "Suprapubic discomfort",
+   "E": "Red blood cell casts"
+  },
+  "answer": "B",
+  "explanation": "Chronic outflow obstruction impairs concentrating ability, causing polyuria and nocturia. RBC casts indicate glomerulonephritis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00070"
+  ],
+  "stem": "A 25-year-old man presents with severe loin pain and vomiting. He has had three episodes today, each lasting 10 minutes. He is pale and sweaty with right loin tenderness. Urine dipstick shows 3+ blood, 1+ protein, no nitrites and no leucocytes. Which investigation is suitable?",
+  "options": {
+   "A": "Urine culture and sensitivity",
+   "B": "Kidney-ureter-bladder X-ray",
+   "C": "Urine microscopy",
+   "D": "MRI of the urinary tract",
+   "E": "Cystoscopy"
+  },
+  "answer": "B",
+  "explanation": "Colicky loin pain with haematuria suggests ureteric stone; a KUB film (or non-contrast CT KUB where available) is the initial imaging.",
+  "key_note": "Source key KUB X-ray is retained; non-contrast CT KUB is now the preferred test where available.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00257"
+  ],
+  "stem": "Which of the following is an inhibitor of crystal and stone formation in the urine?",
+  "options": {
+   "A": "Citrate",
+   "B": "Calcium",
+   "C": "Urate",
+   "D": "Oxalate",
+   "E": "Low urine volume"
+  },
+  "answer": "A",
+  "explanation": "Urinary citrate chelates calcium and inhibits crystal growth; other inhibitors include magnesium, pyrophosphate and Tamm-Horsfall glycoprotein. Hypocitraturia is treated with potassium citrate.",
+  "key_note": "The source options had several true inhibitors (pyrophosphate, glycoprotein), so the distractors were rewritten; the keyed answer citrate is unchanged.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00269"
+  ],
+  "stem": "Which of the following is a risk factor for carcinoma of the bladder?",
+  "options": {
+   "A": "Exposure to alcohol",
+   "B": "Use of cyclophosphamide",
+   "C": "History of renal carcinoma",
+   "D": "Positive family history",
+   "E": "Chronic Staphylococcus aureus bacteriuria"
+  },
+  "answer": "B",
+  "explanation": "Cyclophosphamide (acrolein metabolite) predisposes to transitional cell bladder cancer, as do smoking and aromatic amines.",
+  "key_note": "Schistosomiasis, an option in the source, is also a true risk factor (squamous carcinoma), so it was replaced; all paper keys marked cyclophosphamide.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00260"
+  ],
+  "stem": "Which of the following may cause acute renal failure in a patient with nephrotic syndrome?",
+  "options": {
+   "A": "Dietary protein restriction",
+   "B": "ACE inhibitors",
+   "C": "Lipid-lowering agents",
+   "D": "Loop diuretics",
+   "E": "Use of paracetamol"
+  },
+  "answer": "B",
+  "explanation": "ACE inhibitors dilate the efferent arteriole and can precipitate AKI when intravascular volume is depleted. Aggressive loop diuretics can also contribute.",
+  "key_note": "One paper copy marked D (loop diuretics); ACE inhibitor is the keyed answer in most copies.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00646"
+  ],
+  "stem": "A 68-year-old man with chronic renal insufficiency presents with weakness, paraesthesias and worsening shortness of breath for 4 days. Potassium is 7.2 mmol/L and the ECG shows peaked T waves and a widened QRS. Which of the following treatments shifts potassium into cells?",
+  "options": {
+   "A": "Dialysis",
+   "B": "Insulin plus glucose",
+   "C": "Sodium polystyrene sulfonate (Kayexalate) powder",
+   "D": "Calcium gluconate",
+   "E": "Calcium chloride"
+  },
+  "answer": "B",
+  "explanation": "Insulin with glucose (and nebulised salbutamol) drives potassium into cells within minutes. Calcium stabilises the myocardium but does not shift potassium, and Kayexalate and dialysis remove it from the body.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01319",
+   "C00372"
+  ],
+  "stem": "A ten-year-old boy has swelling of the body starting from the face and worse on waking in the morning. Blood pressure is normal, there is no pallor and JVP is not raised. Ascites and bilateral pleural effusions are found. What is the first line of investigation?",
+  "options": {
+   "A": "Blood urea level",
+   "B": "Chest X-ray",
+   "C": "Echocardiography",
+   "D": "Liver function test",
+   "E": "Urine for albumin"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Facial puffiness worse in the morning with ascites and effusions and a normal JVP is nephrotic syndrome until proved otherwise, so the first test is urine dipstick or 24-hour protein for albuminuria.",
+  "key_note": "A stray sixth option ('Marfans syndrome') from the source was removed.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01272"
+  ],
+  "stem": "Nephrotic syndrome is characterised by:",
+  "options": {
+   "A": "Proteinuria less than 3 g/day",
+   "B": "Hypoalbuminaemia",
+   "C": "Hypolipidaemia",
+   "D": "Oliguria",
+   "E": "Haematuria"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "The nephrotic tetrad is heavy proteinuria (above 3.5 g/day), hypoalbuminaemia, oedema and hyperlipidaemia (not hypolipidaemia).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01311"
+  ],
+  "stem": "In a patient with nephrotic syndrome, the possible finding is:",
+  "options": {
+   "A": "Hypotension",
+   "B": "Hypoglycaemia",
+   "C": "Proteinuria",
+   "D": "Haematuria",
+   "E": "Sterile pyuria"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Heavy proteinuria is the defining finding; haematuria is minimal or absent in pure nephrotic syndrome.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01316",
+   "C01744"
+  ],
+  "stem": "Features of nephrotic syndrome do NOT include:",
+  "options": {
+   "A": "Coagulopathy (bleeding tendency)",
+   "B": "Hypercoagulable state",
+   "C": "Hyperlipidaemia",
+   "D": "Hypoproteinaemia",
+   "E": "Protein loss of more than 3.5 g per 24 hours"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Nephrotic syndrome causes a hypercoagulable state from urinary loss of antithrombin III, not a bleeding coagulopathy.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01200"
+  ],
+  "stem": "A 45-year-old woman with nephrotic syndrome develops renal vein thrombosis. Which change predisposes patients with nephrotic syndrome to venous thromboembolism?",
+  "options": {
+   "A": "Reduced excretion of protein S",
+   "B": "Urinary loss of antithrombin III",
+   "C": "Reduced excretion of protein C",
+   "D": "Loss of fibrinogen",
+   "E": "Reduced metabolism of vitamin K"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Antithrombin III is lost in the urine, together with raised fibrinogen and other clotting factors and platelet hyperaggregability, producing a hypercoagulable state.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01504"
+  ],
+  "stem": "All of the following drugs can cause nephrotic syndrome EXCEPT:",
+  "options": {
+   "A": "NSAIDs",
+   "B": "Rifampicin",
+   "C": "Interferon alpha",
+   "D": "Methotrexate",
+   "E": "Insulin"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "NSAIDs (minimal change), interferon and rifampicin are recognised causes; insulin is not.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01317"
+  ],
+  "stem": "Nephritic syndrome is characterised by all of the following EXCEPT:",
+  "options": {
+   "A": "Proteinuria",
+   "B": "Haematuria",
+   "C": "Pneumaturia",
+   "D": "Albuminuria",
+   "E": "Hypertension and oedema"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Nephritic syndrome gives haematuria, proteinuria, hypertension, oedema and oliguria. Pneumaturia suggests a vesico-enteric fistula.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01274"
+  ],
+  "stem": "A 17-year-old boy presents with periorbital oedema and vomiting. He had a throat infection 3 weeks ago. Urine dipstick is positive for protein and blood and serum creatinine is mildly raised. The most likely diagnosis is:",
+  "options": {
+   "A": "Nephrotic syndrome",
+   "B": "Urinary tract infection",
+   "C": "Renal failure",
+   "D": "Glomerulonephritis",
+   "E": "Renal calculi"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Periorbital oedema with haematuria and proteinuria 2 to 3 weeks after a throat infection is acute (post-streptococcal) glomerulonephritis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01199",
+   "C01700"
+  ],
+  "stem": "A 15-year-old boy is admitted with diarrhoea and lethargy during a local outbreak of E. coli O157. Initial bloods show acute renal failure. Given the likely diagnosis of haemolytic uraemic syndrome, which investigation result would be expected?",
+  "options": {
+   "A": "Thrombocytosis",
+   "B": "Fragmented red cells",
+   "C": "Prolonged prothrombin time",
+   "D": "Hypokalaemia",
+   "E": "Hypocalcaemia"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "HUS is a microangiopathic haemolytic anaemia, so the film shows schistocytes (fragmented red cells) with thrombocytopenia; the PT is normal and platelets are low, not high.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01475"
+  ],
+  "stem": "The most common primary (intrinsic) glomerular lesion is:",
+  "options": {
+   "A": "Anti-GBM glomerulonephritis",
+   "B": "Membranoproliferative glomerulonephritis",
+   "C": "Amyloidosis",
+   "D": "IgA nephropathy",
+   "E": "Focal segmental glomerulosclerosis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "IgA nephropathy (Berger's disease) is the commonest primary glomerulonephritis worldwide.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01502"
+  ],
+  "stem": "Which of the following is NOT included among the immune complex nephropathies?",
+  "options": {
+   "A": "Membranoproliferative glomerulonephritis",
+   "B": "Membranous nephropathy",
+   "C": "Diabetic nephropathy",
+   "D": "Post-streptococcal glomerulonephritis",
+   "E": "Lupus nephritis"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Diabetic nephropathy is a metabolic and haemodynamic injury, not an immune complex disease.",
+  "key_note": "Paper key marked B (crescentic GN); correct is C, because diabetic nephropathy has no immune complex mechanism whereas crescentic GN can be immune complex mediated.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01474"
+  ],
+  "stem": "In a patient suspected of glomerulonephritis, which test gives the maximum information?",
+  "options": {
+   "A": "Renal ultrasound",
+   "B": "Urine routine examination",
+   "C": "Renal biopsy",
+   "D": "X-ray KUB",
+   "E": "Urinary proteins"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Renal biopsy with histology and immunofluorescence defines the type of glomerulonephritis and guides treatment.",
+  "key_note": "Paper key marked E (urinary proteins); correct is C: renal biopsy gives the most diagnostic information.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01307"
+  ],
+  "stem": "Renal biopsy is indicated in a patient with:",
+  "options": {
+   "A": "Urinary tract infection",
+   "B": "Benign prostatic hyperplasia",
+   "C": "Unexplained renal failure",
+   "D": "Renal calculi",
+   "E": "Renal agenesis"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Biopsy is indicated for unexplained renal failure with normal-sized kidneys, nephrotic syndrome in adults and suspected rapidly progressive GN.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01044"
+  ],
+  "stem": "Which of the following statements is true about diabetic nephropathy?",
+  "options": {
+   "A": "Kidneys are always small sized",
+   "B": "It is frequently associated with retinopathy",
+   "C": "Urinary dipstick test confirms diagnosis",
+   "D": "It does not lead to end stage renal disease",
+   "E": "ACE inhibitors are absolutely contraindicated"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Microvascular complications cluster, so diabetic nephropathy usually coexists with retinopathy. Kidneys are normal or enlarged early, and ACE inhibitors are the treatment of choice.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01550"
+  ],
+  "stem": "Which of the following statements is true about diabetic nephropathy?",
+  "options": {
+   "A": "Kidneys are always small sized",
+   "B": "Urinary dipstick test for albumin confirms the diagnosis",
+   "C": "It does not lead to end stage renal disease",
+   "D": "ACE inhibitors are indicated",
+   "E": "It is a macrovascular complication of diabetes"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "ACE inhibitors (or ARBs) slow progression of diabetic nephropathy by lowering intraglomerular pressure and proteinuria. It is a microvascular complication.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01275"
+  ],
+  "stem": "A 55-year-old diabetic woman presents with proteinuria. Renal biopsy shows Kimmelstiel-Wilson lesions. Her HbA1c is 5.5%. The most appropriate management is:",
+  "options": {
+   "A": "Increase the dose of oral hypoglycaemics",
+   "B": "Start a low dose ACE inhibitor",
+   "C": "Start cholesterol lowering therapy",
+   "D": "Start calcium channel blockers",
+   "E": "Start haemodialysis"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Nodular glomerulosclerosis with proteinuria and already good glycaemic control is treated with an ACE inhibitor to reduce proteinuria and slow progression.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01251",
+   "C01450",
+   "C00658"
+  ],
+  "stem": "Which of the following antihypertensives is proven to reduce proteinuria (particularly in diabetics)?",
+  "options": {
+   "A": "Alpha blockers",
+   "B": "Beta blockers",
+   "C": "ACE inhibitors",
+   "D": "Diuretics",
+   "E": "Calcium channel blockers"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "ACE inhibitors dilate the efferent arteriole, lowering glomerular capillary pressure and proteinuria; ARBs act similarly.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00904",
+   "C01304",
+   "C02125"
+  ],
+  "stem": "A patient with profuse watery diarrhoea is suspected to have cholera and is admitted. The next day his urine output is 200 ml in 24 hours. The likely complication is:",
+  "options": {
+   "A": "Chronic renal failure",
+   "B": "Acute kidney injury",
+   "C": "Obstructive uropathy",
+   "D": "Glomerulonephritis",
+   "E": "IgA nephropathy"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Severe volume depletion causes prerenal AKI progressing to acute tubular necrosis, with oliguria (below 400 ml/day).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01420"
+  ],
+  "stem": "A previously healthy woman, not diabetic or hypertensive, presents with recent urinary complaints and rapidly worsening renal failure. What is the next step in management?",
+  "options": {
+   "A": "Repeat creatinine after one week",
+   "B": "Start diuretics and follow up regularly",
+   "C": "Obtain a nephrologist's opinion urgently",
+   "D": "Admit and start intravenous fluids",
+   "E": "Start intravenous antibiotics"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Rapidly progressive loss of renal function in a previously well patient suggests RPGN or another treatable cause and needs urgent specialist assessment, possibly biopsy.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01315",
+   "C00205",
+   "C00220"
+  ],
+  "stem": "Which report is consistent with acute tubular necrosis?",
+  "options": {
+   "A": "Urine sodium below 20 mmol/L",
+   "B": "Urine osmolality above 500 mOsm/kg",
+   "C": "Fractional excretion of sodium above 2%",
+   "D": "BUN to creatinine ratio more than 20",
+   "E": "Responds well to a fluid challenge"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "In ATN the damaged tubules cannot reabsorb sodium, so FeNa is above 2%, urine sodium above 40 and urine osmolality is low (about 300). The other options describe prerenal azotaemia.",
+  "key_note": "Option C was garbled in the source ('FeN2'); completed by reviewer. Option order varied between papers; mapped by text. All keyed acute tubular necrosis.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01314"
+  ],
+  "stem": "Contrast dyes cause renal failure by:",
+  "options": {
+   "A": "Glomerulonephritis",
+   "B": "Allergic nephritis",
+   "C": "Post-renal obstruction",
+   "D": "Acute tubular necrosis",
+   "E": "Interstitial nephritis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Contrast nephropathy is toxic and ischaemic acute tubular necrosis, with creatinine rising at 24 to 48 hours.",
+  "key_note": "Paper key marked E (interstitial nephritis); correct is D: contrast-induced nephropathy is acute tubular necrosis.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01506"
+  ],
+  "stem": "All of the following are risk factors for contrast nephropathy EXCEPT:",
+  "options": {
+   "A": "Diabetes on metformin",
+   "B": "Myeloma",
+   "C": "Pre-existing renal disease",
+   "D": "Obesity",
+   "E": "Dehydration"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Pre-existing CKD, diabetes, myeloma, dehydration and high contrast volume raise risk; obesity itself is not a recognised risk factor.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00652"
+  ],
+  "stem": "A feature of acute interstitial nephritis caused by allopurinol is:",
+  "options": {
+   "A": "Oliguria",
+   "B": "Eosinophilia",
+   "C": "Progression to ESRD",
+   "D": "Response to steroids",
+   "E": "Presentation with haematuria"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Drug-induced AIN is an allergic reaction with fever, rash, peripheral eosinophilia and sterile pyuria with eosinophiluria; allopurinol is a classic cause.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01321"
+  ],
+  "stem": "Renal papillary necrosis is most commonly associated with which of the following?",
+  "options": {
+   "A": "Diabetes mellitus",
+   "B": "Analgesic nephropathy",
+   "C": "Chronic pyelonephritis",
+   "D": "Post-streptococcal GN",
+   "E": "Contrast nephropathy"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Diabetes mellitus (with infection) is the commonest association; analgesic nephropathy, sickle cell disease and obstruction are other causes.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01710"
+  ],
+  "stem": "A 73-year-old man collapses at home after a stroke and is found 24 hours later still on the floor. He has acute kidney injury and remains oliguric despite IV fluids. Dipstick urinalysis is strongly positive for blood but microscopy shows no red cells. What is the most likely diagnosis?",
+  "options": {
+   "A": "Renal calculus",
+   "B": "Urinary sepsis",
+   "C": "Rapidly progressive glomerulonephritis",
+   "D": "Renal infarction",
+   "E": "Rhabdomyolysis"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "A dipstick positive for blood without red cells indicates myoglobinuria from prolonged immobilisation: rhabdomyolysis causing pigment nephropathy.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01189"
+  ],
+  "stem": "A 65-year-old man with hypertension has a serum creatinine of 122 micromol/L and an eGFR of 58 ml/min. In which stage of chronic kidney disease does he lie?",
+  "options": {
+   "A": "No CKD",
+   "B": "Stage 1",
+   "C": "Stage 2",
+   "D": "Stage 3",
+   "E": "Stage 4"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "eGFR 30-59 ml/min is stage 3 (3a is 45-59, 3b is 30-44).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01048"
+  ],
+  "stem": "Which of the following is suggestive of chronic kidney disease rather than acute kidney injury?",
+  "options": {
+   "A": "Serum calcium 11 mg/dL",
+   "B": "Serum potassium 6.9 mEq/L",
+   "C": "Serum sodium 132 mEq/L",
+   "D": "Haemoglobin 11.5 g/dL",
+   "E": "Serum creatinine 13.5 mg/dL"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Normocytic normochromic anaemia (reduced erythropoietin) develops over time and favours chronicity; hypocalcaemia, not hypercalcaemia, would be expected in CKD. Hyperkalaemia and a high creatinine occur in both.",
+  "key_note": "Not marked in the source paper; answer by reviewer. The question is imprecise; anaemia is the best marker of chronicity here.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01049"
+  ],
+  "stem": "Which of the following is NOT needed to calculate GFR using the Cockcroft-Gault formula?",
+  "options": {
+   "A": "Age",
+   "B": "Weight",
+   "C": "Serum urea",
+   "D": "Sex",
+   "E": "Serum creatinine"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Cockcroft-Gault uses age, weight, sex and serum creatinine; urea is not used.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01191"
+  ],
+  "stem": "Which of the following is NOT associated with chronic renal failure?",
+  "options": {
+   "A": "Normocytic anaemia",
+   "B": "Hyperparathyroidism",
+   "C": "Hyperphosphataemia",
+   "D": "Hypocalcaemia",
+   "E": "Hypokalaemia"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "CKD causes hyperkalaemia from reduced excretion, not hypokalaemia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01498"
+  ],
+  "stem": "The following are features of chronic renal failure EXCEPT:",
+  "options": {
+   "A": "Anaemia",
+   "B": "Contracted kidneys",
+   "C": "Osteodystrophy",
+   "D": "Massive proteinuria",
+   "E": "Hypertension"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Advanced CKD shows small kidneys, anaemia, bone disease and hypertension; massive proteinuria is a feature of nephrotic states, not of CKD in general.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01273",
+   "C01309"
+  ],
+  "stem": "In chronic renal failure, which of the following is the best answer?",
+  "options": {
+   "A": "Dietary modification includes a high protein and low calcium diet",
+   "B": "Hypertension is a rare finding",
+   "C": "Normocytic normochromic anaemia is common",
+   "D": "Fluid restriction is mandatory",
+   "E": "Anaemia should be treated with oral iron"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Anaemia of CKD is normocytic normochromic from erythropoietin deficiency. Hypertension is common, protein is restricted, and fluid restriction is needed only when oedematous or oliguric.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01190",
+   "C01703"
+  ],
+  "stem": "You review a 65-year-old man with stage 5 chronic kidney disease. He has recently been started on erythropoietin injections. What is the main benefit of this treatment?",
+  "options": {
+   "A": "Reduced proteinuria",
+   "B": "Improved exercise tolerance",
+   "C": "Reduced blood pressure",
+   "D": "Improved renal function",
+   "E": "Reduced long-term all-cause mortality"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Correcting anaemia improves energy, exercise capacity and quality of life and reduces transfusions; it does not slow CKD progression, lower BP or reduce mortality (it may raise BP).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00655"
+  ],
+  "stem": "Which of the following measures has no role in retarding the progression of renal failure?",
+  "options": {
+   "A": "Aggressive blood pressure control",
+   "B": "Decrease in protein intake",
+   "C": "ACE inhibitors added to other antihypertensives",
+   "D": "Erythropoietin for anaemia",
+   "E": "Tight glycaemic control"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Erythropoietin treats the anaemia but does not slow progression; BP control, ACE inhibitors, protein restriction and glycaemic control do.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01047"
+  ],
+  "stem": "A 50-year-old man with CKD due to hypertensive nephrosclerosis presents with confusion and lethargy. His GFR is 8 ml/min and he is not yet on dialysis. Which of the following may contribute to his complaints?",
+  "options": {
+   "A": "Decreased blood urea due to very low protein intake",
+   "B": "Poorly controlled secondary hyperparathyroidism",
+   "C": "Poorly controlled anaemia due to iron deficiency",
+   "D": "All of the above",
+   "E": "None of the above"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Uraemic encephalopathy has multifactorial contributors including raised PTH, which increases brain calcium; a lowered urea would not cause confusion.",
+  "key_note": "Not marked in the source paper; answer by reviewer. The question is imperfect; B is the best single answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01318"
+  ],
+  "stem": "Complications of CRF do NOT include:",
+  "options": {
+   "A": "Anaemia",
+   "B": "Renal osteodystrophy",
+   "C": "Primary hyperparathyroidism",
+   "D": "Metabolic acidosis",
+   "E": "Secondary hyperparathyroidism"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "CKD causes secondary (and later tertiary) hyperparathyroidism, not primary.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01499"
+  ],
+  "stem": "In chronic renal failure, the following are true regarding glucose metabolism EXCEPT:",
+  "options": {
+   "A": "Ability to metabolise glucose is impaired",
+   "B": "Glucose intolerance results from peripheral insulin resistance",
+   "C": "Plasma insulin levels are low",
+   "D": "Fasting glucose is normal or slightly increased",
+   "E": "There is intracellular potassium deficit due to insulin resistance"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Uraemia causes peripheral insulin resistance with normal or raised plasma insulin (and reduced insulin clearance), not low levels.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01500"
+  ],
+  "stem": "The following lipid changes occur in chronic renal failure EXCEPT:",
+  "options": {
+   "A": "Cholesterol elevation",
+   "B": "Triglyceride elevation",
+   "C": "Increased HDL levels",
+   "D": "Increased Lp(a) levels",
+   "E": "Increased VLDL levels"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "CKD gives hypertriglyceridaemia, raised VLDL and Lp(a) and a LOW HDL; cholesterol is normal or mildly raised.",
+  "key_note": "Paper key marked A (cholesterol elevation); correct is C, since HDL is decreased, not increased, in CKD.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01501"
+  ],
+  "stem": "Hypertension in renal failure is due to:",
+  "options": {
+   "A": "Hyperreninaemia",
+   "B": "Erythropoietin deficiency",
+   "C": "Hyperphosphataemia",
+   "D": "Hypokalaemia",
+   "E": "Anaemia"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Salt and water retention plus activation of the renin-angiotensin system drive hypertension in renal failure.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01503"
+  ],
+  "stem": "The following are true about coagulation defects in chronic renal failure EXCEPT:",
+  "options": {
+   "A": "Urinary loss of antithrombin III",
+   "B": "Altered levels of protein C and S and impaired fibrinolysis",
+   "C": "Hyperfibrinogenaemia",
+   "D": "Renal artery thrombosis",
+   "E": "Vitamin K deficiency"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Renal artery thrombosis is a vascular event, not a coagulation defect of CRF.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01277"
+  ],
+  "stem": "A cause of a raised serum creatinine level is:",
+  "options": {
+   "A": "Excessive red meat ingestion",
+   "B": "Low protein intake",
+   "C": "Low muscle mass",
+   "D": "Liver failure",
+   "E": "Malnourishment"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Cooked meat adds dietary creatinine; low muscle mass, low protein intake and liver failure lower creatinine.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01323"
+  ],
+  "stem": "Asterixis is seen in:",
+  "options": {
+   "A": "Renal failure",
+   "B": "Nephrotic syndrome",
+   "C": "Mild hepatitis",
+   "D": "Hyperventilation",
+   "E": "Myoclonic epilepsy"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Asterixis is a metabolic flap seen in uraemia, hepatic encephalopathy and CO2 retention; of these options renal failure is correct.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01312",
+   "C01419",
+   "C02126"
+  ],
+  "stem": "Which of the following is the leading cause of end stage renal failure?",
+  "options": {
+   "A": "Renal calculi",
+   "B": "Benign prostatic hyperplasia",
+   "C": "Rhabdomyolysis",
+   "D": "Diabetic nephropathy"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Diabetic nephropathy is the commonest cause of ESRD worldwide.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01324"
+  ],
+  "stem": "All of the following are complications during haemodialysis EXCEPT:",
+  "options": {
+   "A": "Anaphylactoid reaction",
+   "B": "Fever",
+   "C": "Hyperglycaemia",
+   "D": "Hypotension",
+   "E": "Muscle cramps"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Intradialytic hypotension, cramps, fever and reactions to the membrane are common; hyperglycaemia is not a dialysis complication.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01417"
+  ],
+  "stem": "A patient with chronic renal failure is advised haemodialysis. Which of the following is a contraindication to haemodialysis?",
+  "options": {
+   "A": "Hyperkalaemia",
+   "B": "Raised creatinine",
+   "C": "Raised urea",
+   "D": "Hypotension",
+   "E": "Hypocalcaemia"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Haemodynamic instability (severe hypotension) is a relative contraindication to standard haemodialysis; the others are indications.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01505"
+  ],
+  "stem": "In Fanconi's syndrome the defect is:",
+  "options": {
+   "A": "Glomerular dysfunction",
+   "B": "Proximal tubular defect",
+   "C": "Loop of Henle",
+   "D": "Distal tubular defect",
+   "E": "Bowman's capsule"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Fanconi's syndrome is generalised proximal tubular dysfunction with glycosuria, aminoaciduria, phosphaturia and proximal (type 2) RTA.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00768"
+  ],
+  "stem": "A 35-year-old man is evaluated for secondary hypertension. BP 160/95, pulse 100/min regular, no goitre, no pedal oedema, JVP not raised, chest and CVS unremarkable. Urea 24, creatinine 0.9, Na 140, K 2.8, urine RE normal. What is the likely diagnosis?",
+  "options": {
+   "A": "Bartter's syndrome",
+   "B": "Liddle's syndrome",
+   "C": "Gitelman's syndrome",
+   "D": "Renal tubular acidosis",
+   "E": "21-hydroxylase deficiency"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Hypertension with hypokalaemia and low renin and aldosterone is Liddle's syndrome (activating ENaC mutation). Bartter's and Gitelman's cause hypokalaemia with normal or low BP.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00649",
+   "C00780"
+  ],
+  "stem": "ADPKD type 2 is associated with a gene defect on which chromosome?",
+  "options": {
+   "A": "Chromosome 16",
+   "B": "Chromosome 12",
+   "C": "Chromosome 4",
+   "D": "Chromosome 8",
+   "E": "Chromosome 20"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "PKD1 (chromosome 16, polycystin 1) causes about 85% of ADPKD; PKD2 (chromosome 4, polycystin 2) causes the milder type 2 disease.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01201"
+  ],
+  "stem": "A 42-year-old man has adult polycystic kidney disease. He has 3 younger brothers and 1 younger sister. What is the chance that his siblings will develop the disease (assuming an affected parent)?",
+  "options": {
+   "A": "50% in each sibling",
+   "B": "100% in all siblings",
+   "C": "No chance in sisters while all brothers are affected",
+   "D": "Equal to the general population",
+   "E": "Nobody among the siblings is likely to be affected"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "ADPKD is autosomal dominant with high penetrance; each child of an affected parent has a 50% chance, regardless of sex.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00650",
+   "C00285"
+  ],
+  "stem": "What is the most common site for extra-renal cysts in ADPKD?",
+  "options": {
+   "A": "Brain",
+   "B": "Pancreas",
+   "C": "Spleen",
+   "D": "Liver",
+   "E": "Thyroid"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Hepatic cysts are the commonest extra-renal manifestation of ADPKD; pancreatic and splenic cysts are less frequent, and berry aneurysms occur in the brain.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01707"
+  ],
+  "stem": "A 40-year-old man has a Glasgow coma score of 12 and CT head shows subarachnoid haemorrhage. On abdominal palpation there are large ballotable masses in both flanks. What is the most likely diagnosis?",
+  "options": {
+   "A": "Renal cell carcinoma",
+   "B": "Renal calculi",
+   "C": "Phaeochromocytoma",
+   "D": "Polycystic kidney disease",
+   "E": "Renal tuberculosis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Bilateral ballotable renal masses with SAH from a ruptured berry aneurysm is ADPKD.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00651"
+  ],
+  "stem": "Which of the following types of renal stones are radiolucent?",
+  "options": {
+   "A": "Triple phosphate",
+   "B": "Calcium oxalate",
+   "C": "Calcium phosphate",
+   "D": "Uric acid",
+   "E": "Calcium carbonate"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Uric acid stones are radiolucent; calcium and struvite stones are radio-opaque, and cystine stones are only faintly opaque.",
+  "key_note": "Source option D read 'Uric acid + cystine' and the other options were mangled; rewritten by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01471"
+  ],
+  "stem": "A patient with Crohn's disease passes a kidney stone. The most likely composition is:",
+  "options": {
+   "A": "Calcium phosphate",
+   "B": "Uric acid",
+   "C": "Struvite",
+   "D": "Calcium oxalate",
+   "E": "Cystine"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Ileal disease causes fat malabsorption, so calcium binds fat and free oxalate is absorbed in the colon (enteric hyperoxaluria), giving calcium oxalate stones.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01198"
+  ],
+  "stem": "A 57-year-old man presents with left-sided abdominal pain radiating to his scrotum. The pain is severe and not controlled by paracetamol and ibuprofen. Urine dipstick shows blood ++, protein +, leucocytes ++, nitrites negative. The most likely cause is:",
+  "options": {
+   "A": "Renal stones",
+   "B": "Benign prostatic hyperplasia",
+   "C": "Bladder carcinoma",
+   "D": "Urinary tract infection",
+   "E": "Renal cell carcinoma"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Severe colicky loin-to-groin pain with haematuria is ureteric colic from a renal stone.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01305"
+  ],
+  "stem": "A 28-year-old woman comes to the OPD with left lumbar pain and haematuria. Which investigation will you advise first?",
+  "options": {
+   "A": "CT scan abdomen",
+   "B": "MRI abdomen",
+   "C": "24-hour urine for creatinine clearance",
+   "D": "Ultrasound abdomen",
+   "E": "Serum electrolytes"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Ultrasound is the safe, cheap first-line imaging for loin pain with haematuria, showing stones, hydronephrosis or masses.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01306"
+  ],
+  "stem": "A cause of bilateral hydronephrosis is:",
+  "options": {
+   "A": "Bladder outlet obstruction",
+   "B": "Unilateral renal calculus",
+   "C": "Ureteric stricture",
+   "D": "Renal artery stenosis",
+   "E": "Renal cell carcinoma"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Obstruction below the ureteric orifices (BPH, urethral stricture, posterior urethral valves) affects both kidneys.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01708",
+   "C02729"
+  ],
+  "stem": "A 72-year-old man presents with urinary retention after hesitancy, urgency, frequency and poor stream. On digital rectal examination a smooth large mass is felt. The most likely diagnosis is:",
+  "options": {
+   "A": "Rectal carcinoma",
+   "B": "Benign prostatic hypertrophy",
+   "C": "Haemorrhoids",
+   "D": "Prostate carcinoma",
+   "E": "Urinary tract infection"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "A smooth, symmetrically enlarged prostate with lower urinary tract symptoms is BPH; carcinoma gives a hard, irregular nodular gland.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01418",
+   "C01310",
+   "C02668"
+  ],
+  "stem": "A 70-year-old woman presents with blood in urine, weight loss, loin pain and a palpable mass in the left lumbar region. The likely cause is:",
+  "options": {
+   "A": "Renal cell carcinoma",
+   "B": "Renal tuberculosis",
+   "C": "Polycystic kidneys",
+   "D": "Nephrotic syndrome",
+   "E": "Amyloidosis"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Haematuria, loin pain and a loin mass is the classic triad of renal cell carcinoma.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01197"
+  ],
+  "stem": "A 60-year-old man presents with visible haematuria for 3 weeks. He has an ache in the left flank, and examination shows a left varicocele. He also complains of intermittent episodes of feeling hot and sweaty. What is the most likely cause?",
+  "options": {
+   "A": "Hyperthyroidism",
+   "B": "Phaeochromocytoma",
+   "C": "IgA nephropathy",
+   "D": "Renal cell carcinoma",
+   "E": "Urinary tract infection"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Haematuria with a left-sided varicocele (left renal vein obstruction by tumour thrombus) and fever or sweats (paraneoplastic) points to renal cell carcinoma.",
+  "key_note": "Paper key marked B (phaeochromocytoma); correct is D: haematuria plus left varicocele and sweats is renal cell carcinoma.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01627"
+  ],
+  "stem": "Which one of the following clinical features suggests a kidney rather than a spleen as the cause of a palpable left upper quadrant mass?",
+  "options": {
+   "A": "Cannot palpate above it",
+   "B": "Presence of a notch",
+   "C": "Dullness to percussion",
+   "D": "Extends towards the right iliac fossa",
+   "E": "Mass is ballotable"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "A kidney is ballotable and has resonant bowel in front; a spleen has a notch, enlarges towards the right iliac fossa, is dull and has no palpable upper border.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01701",
+   "C01760",
+   "C02646"
+  ],
+  "stem": "A 68-year-old man presents with visible haematuria for two weeks without pain. Midstream urine confirms haematuria but grows no organism. The most likely cause is:",
+  "options": {
+   "A": "Renal stones",
+   "B": "Benign prostatic hyperplasia",
+   "C": "Bladder carcinoma",
+   "D": "Urinary tract infection",
+   "E": "Renal cell carcinoma"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Painless visible haematuria in an older man with sterile urine is bladder cancer until proved otherwise.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01460",
+   "C01714"
+  ],
+  "stem": "The commonest organism causing urinary tract infection is:",
+  "options": {
+   "A": "Klebsiella",
+   "B": "Proteus",
+   "C": "Escherichia coli",
+   "D": "Enterococcus",
+   "E": "Staphylococcus aureus"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "E. coli causes about 80% of community urinary tract infections.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01706",
+   "C00069",
+   "C02784"
+  ],
+  "stem": "A 24-year-old woman presents with fevers and rigors, dysuria and left flank pain. She is febrile (38.5 C) with suprapubic and left renal angle tenderness. What is the most likely diagnosis?",
+  "options": {
+   "A": "Renal cell carcinoma",
+   "B": "Pyelonephritis",
+   "C": "Lower urinary tract infection",
+   "D": "Acute appendicitis",
+   "E": "Pregnancy"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Fever, rigors and loin (renal angle) tenderness with urinary symptoms indicate acute pyelonephritis, not simple cystitis.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01709"
+  ],
+  "stem": "An 80-year-old woman, previously fit and well, presents with new incontinence of foul-smelling urine and mild confusion. Urine dipstick is positive for nitrites and leucocyte esterase. The most likely diagnosis is:",
+  "options": {
+   "A": "Transitional cell carcinoma of the bladder",
+   "B": "Neurogenic bladder",
+   "C": "Urinary tract infection",
+   "D": "Squamous cell carcinoma of the bladder",
+   "E": "Normal pressure hydrocephalus"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Acute confusion and incontinence with nitrite and leucocyte-positive urine is a urinary tract infection, a common cause of delirium in the elderly.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01313"
+  ],
+  "stem": "The gold standard investigation for renal artery stenosis is:",
+  "options": {
+   "A": "Renal artery angiography",
+   "B": "Magnetic resonance angiography",
+   "C": "CT angiography",
+   "D": "Doppler ultrasound",
+   "E": "Ultrasound abdomen"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Catheter renal angiography remains the reference standard, although CT or MR angiography are used non-invasively.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01051"
+  ],
+  "stem": "Which of the following problems is LEAST likely to cause progressive irreversible damage to the kidneys?",
+  "options": {
+   "A": "Chronic glomerulonephritis in an 18-year-old male",
+   "B": "Analgesic nephropathy in a 45-year-old female",
+   "C": "Diabetic glomerulosclerosis in a juvenile-onset diabetic",
+   "D": "Acute pyelonephritis in a 22-year-old female",
+   "E": "Persistent hypertension with polycystic kidney disease in a 40-year-old male"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Uncomplicated acute pyelonephritis in an adult with a normal tract usually resolves without scarring; the others cause progressive CKD.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02123"
+  ],
+  "stem": "Which of the following investigations is the best indicator of renal function?",
+  "options": {
+   "A": "Serum creatinine",
+   "B": "Serum urea",
+   "C": "Glomerular filtration rate",
+   "D": "Urine routine examination",
+   "E": "Serum electrolytes"
+  },
+  "answer": "C",
+  "explanation": "GFR is the best overall index of renal function. Serum creatinine and urea are insensitive until about half of the GFR is lost and are affected by muscle mass, diet and hydration.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01931"
+  ],
+  "stem": "A 39-year-old cachectic woman is transferred from a nursing home with fever and tachycardia. She weighs 50 kg. Her urine culture grows E. coli sensitive to gentamicin only. Her lying and sitting BP and pulse suggest orthostatic changes. Serum creatinine is 0.9 mg/dL and eGFR is >60 mL/min. Which one of the following equations/tests is most useful in adjusting the gentamicin dose?",
+  "options": {
+   "A": "MDRD Study equation",
+   "B": "Cockcroft-Gault equation",
+   "C": "24-hour creatinine clearance",
+   "D": "Iothalamate clearance",
+   "E": "Schwartz equation"
+  },
+  "answer": "B",
+  "explanation": "Drug dosing is traditionally based on Cockcroft-Gault, which uses actual weight and so shows the true low clearance in a small, cachectic patient. MDRD is indexed to 1.73 m2 and overestimates GFR here; Schwartz is for children.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01930"
+  ],
+  "stem": "A 40-year-old man with hypertension is referred to assess his risk of kidney disease progression. BP is 140/80 mmHg, serum creatinine 1.8 mg/dL (eGFR 59 mL/min) and 24-hour urine albumin 200 mg. He has no diabetes or other comorbidity. According to the KDIGO guideline, how would you classify his risk of progression?",
+  "options": {
+   "A": "Low risk",
+   "B": "Moderate risk",
+   "C": "High risk",
+   "D": "Very high risk",
+   "E": "None of the above"
+  },
+  "answer": "C",
+  "explanation": "eGFR 59 is G3a and albuminuria 30-300 mg/24 h is A2; in the KDIGO heat map G3a with A2 falls in the high risk (orange) category.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01929"
+  ],
+  "stem": "A 30-year-old female student is referred for evaluation of haematuria. Urinalysis shows >20 RBCs per high power field with no proteinuria; repeat urinalysis 1 month later is similar. There are no RBC casts and the haematuria is unrelated to menses. BP is 120/78 mmHg and serum creatinine is 1.0 mg/dL. Renal ultrasound reveals large kidneys with multiple cysts. She wants to know whether she has kidney disease. Which one of the following statements is CORRECT?",
+  "options": {
+   "A": "She cannot be classified as having chronic kidney disease (CKD) because her serum creatinine is normal",
+   "B": "She cannot be classified as having CKD because she has no proteinuria",
+   "C": "She needs a renal biopsy to make the diagnosis of CKD",
+   "D": "She has CKD based on haematuria and abnormal renal imaging",
+   "E": "None of the above"
+  },
+  "answer": "D",
+  "explanation": "CKD is defined by markers of kidney damage (haematuria, albuminuria, structural abnormality on imaging) or reduced GFR, so a normal creatinine does not exclude it. Persistent haematuria with large cystic kidneys (polycystic kidney disease) is established kidney damage.",
+  "key_note": "The source paper marked E (None of the above); correct is D, since structural abnormality on imaging with persistent haematuria qualifies as CKD even with a normal GFR.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01933"
+  ],
+  "stem": "Which one of the following functions is NOT related to FGF-23?",
+  "options": {
+   "A": "Inhibition of the Na/Pi cotransporter in the proximal tubule",
+   "B": "Stimulation of renal phosphate excretion",
+   "C": "Inhibition of renal 1-alpha hydroxylase",
+   "D": "Reduction of renal calcium excretion",
+   "E": "Stimulation of osteoblast differentiation"
+  },
+  "answer": "E",
+  "explanation": "FGF-23 is phosphaturic (inhibits NaPi-2a/2c), suppresses 1-alpha hydroxylase and so lowers calcitriol, and promotes renal calcium reabsorption. It inhibits rather than stimulates osteoblast mineralisation.",
+  "key_note": "Source marked B (Stimulation of renal PO4 excretion) but that is a true FGF-23 action; correct is E. Option D was garbled in the source and has been reworded as reduction of renal calcium excretion.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02533"
+  ],
+  "stem": "A 24-year-old male is investigated for urinary complaints. His urine routine examination shows RBC casts. The possible cause is:",
+  "options": {
+   "A": "Acute glomerulonephritis",
+   "B": "Chronic pyelonephritis",
+   "C": "Acute cystitis",
+   "D": "Nephrotic syndrome",
+   "E": "Renal vein thrombosis"
+  },
+  "answer": "A",
+  "explanation": "RBC casts are formed in the nephron and indicate glomerular bleeding, as in acute glomerulonephritis. Cystitis and pyelonephritis give WBC casts or pyuria.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02535"
+  ],
+  "stem": "Regarding the common complications of nephritic syndrome, which of the following are NOT related?",
+  "options": {
+   "A": "Hypertension",
+   "B": "Haematuria",
+   "C": "Generalised oedema",
+   "D": "Raised urea and creatinine",
+   "E": "Bleeding from gums and epistaxis"
+  },
+  "answer": "E",
+  "explanation": "Nephritic syndrome comprises haematuria, hypertension, oedema from salt retention and a falling GFR. A bleeding tendency is not part of it.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02537"
+  ],
+  "stem": "Which statement is NOT related to nephrotic syndrome?",
+  "options": {
+   "A": "Proteinuria",
+   "B": "Decreased albumin",
+   "C": "Hyperlipidaemia",
+   "D": "Generalised oedema",
+   "E": "Prolonged PT and INR"
+  },
+  "answer": "E",
+  "explanation": "The nephrotic tetrad is proteinuria, hypoalbuminaemia, oedema and hyperlipidaemia. Coagulation tends to be hypercoagulable (loss of antithrombin III), not prolonged.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02128"
+  ],
+  "stem": "A 12-year-old boy presents with swelling of the face and reduced urine output. BP is 160/100 mmHg and his mother noticed his urine is frothy. A 24-hour urine shows 4 g protein. The likely diagnosis is:",
+  "options": {
+   "A": "Chronic renal failure",
+   "B": "Nephritic syndrome",
+   "C": "Nephrotic syndrome",
+   "D": "Urinary tract infection",
+   "E": "Angio-oedema"
+  },
+  "answer": "C",
+  "explanation": "Frothy urine with 4 g/day proteinuria is nephrotic-range. Hypertension may accompany it, but heavy proteinuria and oedema define nephrotic syndrome.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02534"
+  ],
+  "stem": "A 3-year-old boy presents with generalised oedema and facial puffiness for the last 3 weeks and frothy urine. BP is 140/110 mmHg. What is the most important investigation for this patient?",
+  "options": {
+   "A": "Urine R/E",
+   "B": "Ultrasound kidney",
+   "C": "24-hour urinary proteins",
+   "D": "Renal function tests",
+   "E": "Serum electrolytes"
+  },
+  "answer": "C",
+  "explanation": "Frothy urine with generalised oedema suggests nephrotic syndrome, which is confirmed and quantified by 24-hour urinary protein (or spot protein-creatinine ratio).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02258"
+  ],
+  "stem": "A 28-year-old lady has developed periorbital puffiness and pedal oedema for 25 days. Her BP is 170/110 mmHg. Urinalysis shows 2+ proteinuria and 1+ haematuria; 24-hour urinary protein is 2 g. What is the likely diagnosis?",
+  "options": {
+   "A": "Nephrotic syndrome",
+   "B": "Nephritic syndrome",
+   "C": "Thrombotic thrombocytopenic purpura",
+   "D": "Haemolytic uraemic syndrome",
+   "E": "Acute tubular necrosis"
+  },
+  "answer": "B",
+  "explanation": "Hypertension, haematuria and sub-nephrotic proteinuria (<3.5 g/day) with oedema make a nephritic picture.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02645",
+   "C02677"
+  ],
+  "stem": "A 28-year-old woman presents to the ER with acute onset of haematuria, flank pain and dysuria for 1 day. Urinalysis shows RBC casts and proteinuria. What is the most likely diagnosis?",
+  "options": {
+   "A": "Cystitis",
+   "B": "Glomerulonephritis",
+   "C": "Interstitial nephritis",
+   "D": "Pyelonephritis",
+   "E": "Urolithiasis"
+  },
+  "answer": "B",
+  "explanation": "RBC casts and proteinuria are the hallmark of glomerular bleeding. Stones, cystitis and pyelonephritis do not produce RBC casts.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02634"
+  ],
+  "stem": "A 35-year-old woman presents with swelling of her feet and face. BP is 145/90 mmHg. Urinalysis shows haematuria, proteinuria (2.5 g/day) and RBC casts. Serum albumin is 3.4 g/dL and cholesterol is normal. Which diagnosis is most consistent with her presentation?",
+  "options": {
+   "A": "Diabetic nephropathy",
+   "B": "Focal segmental glomerulosclerosis",
+   "C": "IgA nephropathy",
+   "D": "Membranous nephropathy",
+   "E": "Minimal change disease"
+  },
+  "answer": "C",
+  "explanation": "Haematuria with RBC casts and sub-nephrotic proteinuria is a nephritic picture, which here is best explained by IgA nephropathy. MCD, FSGS and membranous disease are nephrotic without active sediment.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02635"
+  ],
+  "stem": "A 13-year-old boy develops tea-coloured urine 2 weeks after recovering from a sore throat. He is hypertensive with periorbital oedema. Urinalysis reveals haematuria, proteinuria and RBC casts. Complement C3 is low, C4 normal. What is the most likely mechanism of his renal injury?",
+  "options": {
+   "A": "Amyloid deposition in glomeruli",
+   "B": "ANCA-mediated small vessel vasculitis",
+   "C": "Anti-GBM antibody-mediated basement membrane attack",
+   "D": "Immune complex deposition in the mesangium",
+   "E": "T-cell mediated podocyte injury"
+  },
+  "answer": "D",
+  "explanation": "Post-streptococcal glomerulonephritis is an immune complex disease (low C3, normal C4, 1-3 weeks after pharyngitis) with subepithelial humps and mesangial deposits.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02674"
+  ],
+  "stem": "In a patient with rapid-onset haematuria, hypertension and oedema following a sore throat, which immune deposition is most characteristic?",
+  "options": {
+   "A": "C3 only",
+   "B": "IgA",
+   "C": "IgE",
+   "D": "IgG",
+   "E": "IgM"
+  },
+  "answer": "A",
+  "explanation": "Post-streptococcal GN shows granular, C3-dominant deposits on immunofluorescence (IgG may accompany but is variable), with low serum C3. IgA nephropathy follows the sore throat within days and has normal C3.",
+  "key_note": "Question is loosely worded; keeps the paper key A (C3 predominant), since IgG deposition is variable.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02783",
+   "C00110",
+   "C00645"
+  ],
+  "stem": "A 21-year-old student has cola-coloured urine and oedema 48 hours after a sore throat. He has mild hypertension and periorbital puffiness. Serum complement C3 is normal. What is the single most likely diagnosis?",
+  "options": {
+   "A": "Post-streptococcal glomerulonephritis",
+   "B": "IgA nephropathy",
+   "C": "Lupus nephritis",
+   "D": "Rapidly progressive glomerulonephritis",
+   "E": "Henoch-Schonlein purpura (IgA vasculitis)"
+  },
+  "answer": "B",
+  "explanation": "Haematuria 1-2 days after an infection (synpharyngitic) with normal C3 is IgA nephropathy; post-streptococcal GN has a latent period of 1-3 weeks and low C3.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02782"
+  ],
+  "stem": "A 45-year-old man develops generalised oedema and frothy urine. BP is normal and there is no haematuria. Protein-creatinine ratio is in the nephrotic range, anti-PLA2R serology is positive and renal ultrasound shows normal-sized kidneys. What is the single most likely diagnosis?",
+  "options": {
+   "A": "Minimal change disease",
+   "B": "Primary membranous nephropathy",
+   "C": "Focal segmental glomerulosclerosis",
+   "D": "Amyloidosis",
+   "E": "Diabetic nephropathy"
+  },
+  "answer": "B",
+  "explanation": "Anti-PLA2R antibodies are found in about 70% of primary membranous nephropathy and are essentially diagnostic in this setting.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02673"
+  ],
+  "stem": "A 55-year-old man presents with ankle swelling and frothy urine. Labs show proteinuria 3.5 g/day, hypoalbuminaemia and lipiduria. Which condition most likely explains this presentation?",
+  "options": {
+   "A": "Acute tubular necrosis",
+   "B": "Focal segmental glomerulosclerosis",
+   "C": "IgA nephropathy",
+   "D": "Membranous nephropathy",
+   "E": "Minimal change disease"
+  },
+  "answer": "D",
+  "explanation": "Membranous nephropathy is a leading cause of idiopathic nephrotic syndrome in middle-aged adults; minimal change disease is the childhood cause and IgA nephropathy is nephritic.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02678"
+  ],
+  "stem": "A 45-year-old man presents to the ER with generalised body swelling for 1 week. You suspect nephrotic syndrome. What is the likely cause of nephrotic syndrome in this patient?",
+  "options": {
+   "A": "Minimal change disease",
+   "B": "FSGS",
+   "C": "Membranous nephropathy",
+   "D": "Diabetic nephropathy",
+   "E": "Membranoproliferative GN"
+  },
+  "answer": "B",
+  "explanation": "In adults FSGS and membranous nephropathy are the leading primary causes, and FSGS is now the most frequent in many series. Minimal change disease predominates in children.",
+  "key_note": "Choice between FSGS and membranous nephropathy is debatable; the paper key B (FSGS) is kept.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02137"
+  ],
+  "stem": "A 45-year-old known hypertensive presents with lethargy, fluid retention and proteinuria. His serum albumin is decreased. What is the most definitive diagnostic test?",
+  "options": {
+   "A": "Renal biopsy",
+   "B": "Renal function test",
+   "C": "Serum protein",
+   "D": "Urine microscopy"
+  },
+  "answer": "A",
+  "explanation": "Nephrotic-range proteinuria with hypoalbuminaemia in an adult needs histology (renal biopsy) to define the underlying glomerular lesion.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02669"
+  ],
+  "stem": "A 62-year-old man with hypertension and type 2 diabetes presents with fatigue, leg oedema and foamy urine for 2 weeks. Laboratory tests show elevated creatinine and 3+ proteinuria on dipstick. What is the most likely underlying cause?",
+  "options": {
+   "A": "Acute pyelonephritis",
+   "B": "Diabetic nephropathy",
+   "C": "Focal segmental glomerulosclerosis",
+   "D": "Hypertensive nephrosclerosis",
+   "E": "Minimal change disease"
+  },
+  "answer": "B",
+  "explanation": "Long-standing diabetes with heavy proteinuria and renal impairment is most commonly diabetic nephropathy; hypertensive nephrosclerosis gives only mild proteinuria.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02636"
+  ],
+  "stem": "A 26-year-old woman with known SLE presents with frothy urine and oedema. Labs: proteinuria >5 g/day, hypoalbuminaemia, creatinine 1.1 mg/dL, ANA and anti-dsDNA positive. Kidney biopsy shows thickened capillary walls with subepithelial deposits. What class of lupus nephritis does this patient have?",
+  "options": {
+   "A": "Class II: Mesangial",
+   "B": "Class III: Focal proliferative",
+   "C": "Class IV: Diffuse proliferative",
+   "D": "Class V: Membranous",
+   "E": "Class VI: Advanced sclerosing"
+  },
+  "answer": "D",
+  "explanation": "Subepithelial deposits with thickened capillary loops and nephrotic-range proteinuria define class V (membranous) lupus nephritis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02633"
+  ],
+  "stem": "A 28-year-old man presents with a 2-week history of fatigue, haematuria and oliguria. BP is 150/95 mmHg. Urinalysis shows dysmorphic RBCs and RBC casts. Serum creatinine has risen from 1.0 to 3.5 mg/dL in 10 days. Anti-GBM antibodies are positive; ANA and ANCA are negative. What is the most appropriate next step in management?",
+  "options": {
+   "A": "Begin haemodialysis immediately",
+   "B": "Start ACE inhibitor and monitor renal function",
+   "C": "Start cyclophosphamide alone",
+   "D": "Start high-dose corticosteroids and plasmapheresis",
+   "E": "Perform renal biopsy and start antibiotics"
+  },
+  "answer": "D",
+  "explanation": "Anti-GBM disease with rapidly progressive GN needs urgent plasmapheresis to remove the antibody plus corticosteroids and cyclophosphamide to stop its production.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02536"
+  ],
+  "stem": "A young male presents with anuria secondary to severe diarrhoea and dehydration. Which of the following is true for AKI?",
+  "options": {
+   "A": "It is a disease of one kidney",
+   "B": "RFTs are always normal",
+   "C": "Patients never need dialysis",
+   "D": "The patient is always asymptomatic",
+   "E": "It is a potentially reversible disorder"
+  },
+  "answer": "E",
+  "explanation": "AKI is typically reversible, particularly pre-renal and acute tubular necrosis forms, though some patients do require dialysis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02780",
+   "C00072"
+  ],
+  "stem": "A 72-year-old man with gastroenteritis presents with oliguria. Mucous membranes are dry and there is orthostatic hypotension. Serum creatinine has doubled from baseline. Urine microscopy shows scant cells without casts, urine sodium is 8 mmol/L and fractional excretion of sodium is low. Creatinine improves rapidly after intravenous fluids. What is the single most likely diagnosis?",
+  "options": {
+   "A": "Acute tubular necrosis (ATN)",
+   "B": "Prerenal azotaemia (volume depletion)",
+   "C": "Acute interstitial nephritis",
+   "D": "Post-renal obstruction",
+   "E": "Contrast nephropathy"
+  },
+  "answer": "B",
+  "explanation": "Low urine sodium and FENa (<1%), bland sediment and rapid response to fluids indicate pre-renal azotaemia; in ATN urine sodium is high and granular casts are present.",
+  "key_note": "The fractional excretion value was missing in the source and has been stated as low.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02132"
+  ],
+  "stem": "A 26-year-old male was rescued after being trapped under heavy rocks for 12 hours. His urine is dark and positive for blood. His heart rate is 120 bpm. Labs show raised creatinine. What is the single most appropriate management?",
+  "options": {
+   "A": "IV dextrose",
+   "B": "IV normal saline",
+   "C": "IV KCl",
+   "D": "Pain relief"
+  },
+  "answer": "B",
+  "explanation": "Crush injury with rhabdomyolysis (dipstick-positive urine without RBCs, AKI) needs aggressive early isotonic saline to maintain urine flow and wash out myoglobin.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02453"
+  ],
+  "stem": "A 55-year-old diabetic male presented with a grade 3 foot ulcer. He received antibiotics for almost 3 weeks. On the 21st day he developed oliguria with raised urea and creatinine. Which antibiotic is most likely responsible?",
+  "options": {
+   "A": "Ampicillin",
+   "B": "Gentamicin",
+   "C": "Ceftriaxone",
+   "D": "Cefixime",
+   "E": "Azithromycin"
+  },
+  "answer": "B",
+  "explanation": "Aminoglycosides such as gentamicin are classic causes of acute tubular necrosis, typically after 5-10 days or more of therapy.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02787"
+  ],
+  "stem": "A 69-year-old woman with osteoarthritis and heart failure presents with dizziness and oliguria. She is volume depleted. Medications include lisinopril, furosemide and regular ibuprofen. Creatinine is acutely elevated. Which is the single most likely mechanism precipitating her renal failure?",
+  "options": {
+   "A": "Allergic interstitial nephritis",
+   "B": "Rhabdomyolysis",
+   "C": "Haemodynamic AKI from ACE inhibitor + diuretic + NSAID",
+   "D": "Oxalate crystal nephropathy",
+   "E": "Contrast-induced nephropathy"
+  },
+  "answer": "C",
+  "explanation": "The 'triple whammy' of ACE inhibitor, diuretic and NSAID in a volume-depleted patient removes both afferent (NSAID) and efferent (ACEi) glomerular autoregulation.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02124"
+  ],
+  "stem": "A patient with rheumatoid arthritis presents with swelling all over the body and low urine output. He has been taking methotrexate, corticosteroids, paracetamol, omeprazole and ibuprofen. Which of these medicines should you stop?",
+  "options": {
+   "A": "Corticosteroids",
+   "B": "Methotrexate",
+   "C": "Ibuprofen",
+   "D": "Paracetamol",
+   "E": "Omeprazole"
+  },
+  "answer": "C",
+  "explanation": "NSAIDs such as ibuprofen cause AKI, nephrotic syndrome (minimal change) and fluid retention by blocking prostaglandin-mediated renal perfusion, so they must be stopped.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02785",
+   "C00318",
+   "C00641"
+  ],
+  "stem": "A 57-year-old man started flucloxacillin ten days ago. He now has fever, a maculopapular rash and rising creatinine, with mild loin tenderness. Eosinophilia is present; urinalysis reveals sterile pyuria and white cell casts. What is the single most likely diagnosis?",
+  "options": {
+   "A": "Acute tubular necrosis",
+   "B": "Acute interstitial nephritis",
+   "C": "Renal papillary necrosis",
+   "D": "Pyelonephritis",
+   "E": "Crystal nephropathy"
+  },
+  "answer": "B",
+  "explanation": "Drug-induced acute interstitial nephritis presents with fever, rash, eosinophilia, sterile pyuria and WBC casts days to weeks after beta-lactam exposure.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01789"
+  ],
+  "stem": "A 37-year-old patient is admitted with acute renal failure. Which is NOT an absolute indication for dialysis in ARF?",
+  "options": {
+   "A": "Refractory hyperkalaemia >6.5 mmol/L",
+   "B": "Pulmonary oedema",
+   "C": "Encephalopathy",
+   "D": "Uncontrollable acidosis",
+   "E": "Creatinine >1.0 mmol/L"
+  },
+  "answer": "E",
+  "explanation": "Refractory hyperkalaemia, diuretic-resistant pulmonary oedema, uraemic encephalopathy or pericarditis and intractable acidosis are accepted indications; an isolated creatinine value is not.",
+  "key_note": "Some paper keys marked B (Pulmonary oedema), but fluid overload with pulmonary oedema is a classic indication for dialysis; the odd one out is a creatinine level alone (E).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02895"
+  ],
+  "stem": "A 70-year-old man with a history of chronic kidney disease presents with nausea, vomiting and decreased urine output for the last 5 days. Laboratory findings reveal elevated BUN and creatinine, and urinalysis shows a specific gravity of 1.010. What is the most likely cause?",
+  "options": {
+   "A": "Acute tubular necrosis",
+   "B": "CKD progression",
+   "C": "Post-renal azotaemia",
+   "D": "Pre-renal azotaemia",
+   "E": "Rhabdomyolysis"
+  },
+  "answer": "B",
+  "explanation": "A fixed specific gravity of 1.010 (isosthenuria) reflects loss of concentrating ability in established CKD, and the picture is that of progression to uraemia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02672"
+  ],
+  "stem": "A 70-year-old man with type 2 diabetes on insulin presents with nausea, vomiting and decreased urine output. Laboratory findings reveal elevated BUN and creatinine. What complication is he most likely to develop?",
+  "options": {
+   "A": "Hypokalaemia",
+   "B": "Hypoglycaemia",
+   "C": "Upper GI bleed",
+   "D": "Nephrotic syndrome",
+   "E": "Rhabdomyolysis"
+  },
+  "answer": "B",
+  "explanation": "Insulin is cleared by the kidney, so reduced GFR prolongs its action and, with poor intake, causes hypoglycaemia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01787"
+  ],
+  "stem": "A 56-year-old male chronic smoker, hypertensive for 10 years, presents with generalised weakness, easy fatigue, anorexia, nausea and shortness of breath. BP is 180/100 mmHg; he has facial puffiness, pallor and pedal oedema, and the JVP is not raised. What is the probable diagnosis?",
+  "options": {
+   "A": "Hypertensive encephalopathy",
+   "B": "Chronic kidney disease",
+   "C": "Anaemia",
+   "D": "Congestive cardiac failure",
+   "E": "COPD"
+  },
+  "answer": "B",
+  "explanation": "Long-standing hypertension with uraemic symptoms, pallor (anaemia of CKD), puffy face and oedema with a normal JVP indicates CKD rather than cardiac failure.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02142"
+  ],
+  "stem": "Which of the following conditions is most commonly associated with large kidneys despite advanced renal failure?",
+  "options": {
+   "A": "Amyloidosis",
+   "B": "Hypertensive nephrosclerosis",
+   "C": "Membranous glomerulosclerosis",
+   "D": "Systemic sclerosis",
+   "E": "Analgesic nephropathy"
+  },
+  "answer": "A",
+  "explanation": "Renal amyloidosis (like diabetic nephropathy, polycystic kidneys and HIVAN) preserves or enlarges renal size; hypertensive nephrosclerosis and analgesic nephropathy give small kidneys.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02131"
+  ],
+  "stem": "A 43-year-old woman presents with hiccough, bone pain, pallor and nausea. Blood urea is 200 mg/dL and serum potassium is 5.7 mEq/L. Abdominal ultrasound shows enlarged kidneys. Which one of the following conditions could be responsible for this uraemia with large kidneys?",
+  "options": {
+   "A": "Chronic glomerulonephritis",
+   "B": "Reflux nephropathy",
+   "C": "Retroperitoneal fibrosis",
+   "D": "HIV infection",
+   "E": "Analgesic nephropathy"
+  },
+  "answer": "D",
+  "explanation": "HIV-associated nephropathy gives large echogenic kidneys. Chronic GN, reflux nephropathy and analgesic nephropathy all produce small scarred kidneys; retroperitoneal fibrosis typically causes obstructive hydronephrosis.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02129"
+  ],
+  "stem": "A 54-year-old man with type 2 diabetes mellitus for 6 years attends for a check-up. He has not seen a doctor for 5 years and is unaware that diabetes places him at risk of renal disease. What would you do next?",
+  "options": {
+   "A": "Urine R/E",
+   "B": "Serum urea",
+   "C": "Send for renal ultrasound",
+   "D": "Urine culture and sensitivity",
+   "E": "Urine microalbumin"
+  },
+  "answer": "E",
+  "explanation": "Microalbuminuria is the earliest marker of diabetic nephropathy and should be screened for annually in all diabetics.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01774"
+  ],
+  "stem": "A 43-year-old admitted with anorexia, nausea and generalised weakness was diagnosed with renal failure after investigations. Which of the following is a complication of chronic renal failure?",
+  "options": {
+   "A": "Osteodystrophy",
+   "B": "Iron overload",
+   "C": "Hypercalcaemia",
+   "D": "Uncontrolled diabetes",
+   "E": "Hypokalaemia"
+  },
+  "answer": "A",
+  "explanation": "CKD causes renal osteodystrophy through phosphate retention, low calcitriol and secondary hyperparathyroidism. CKD gives hypocalcaemia and hyperkalaemia rather than the opposite.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01777"
+  ],
+  "stem": "A 27-year-old woman with end-stage renal disease is on regular haemodialysis. She complains of finger pain and X-ray shows digital subperiosteal erosions. What is the primary metabolic cause for her bone condition?",
+  "options": {
+   "A": "Increased serum phosphate levels",
+   "B": "Increased parathyroid hormone levels",
+   "C": "Increased renal 1-alpha hydroxylase enzyme levels",
+   "D": "Increased serum calcium levels",
+   "E": "Increased serum alkaline phosphatase levels"
+  },
+  "answer": "B",
+  "explanation": "Subperiosteal erosions of the phalanges are the hallmark of hyperparathyroid bone disease; PTH excess is the direct cause, with phosphate retention and low calcitriol as the drivers.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01800"
+  ],
+  "stem": "A 54-year-old diabetic male is being evaluated for chronic kidney disease. His GFR is 25 mL/min/1.73 m2. Bone chemistry is likely to reveal:",
+  "options": {
+   "A": "Low calcium, low phosphate",
+   "B": "Low calcium, high phosphate",
+   "C": "Normal calcium and phosphate",
+   "D": "High calcium, low phosphate",
+   "E": "High calcium, high phosphate"
+  },
+  "answer": "B",
+  "explanation": "Falling GFR causes phosphate retention and reduced calcitriol, giving hyperphosphataemia and hypocalcaemia with secondary hyperparathyroidism.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02675"
+  ],
+  "stem": "Which kidney disease is most often associated with secondary hyperparathyroidism and bone deformity such as the 'rugger-jersey' (hump-shaped) spine?",
+  "options": {
+   "A": "Acute interstitial nephritis",
+   "B": "Diabetic nephropathy",
+   "C": "Membranous nephropathy",
+   "D": "Polycystic kidney disease",
+   "E": "Renal osteodystrophy"
+  },
+  "answer": "E",
+  "explanation": "Chronic renal failure leads to renal osteodystrophy with secondary hyperparathyroidism; the classic spine change is rugger-jersey sclerosis.",
+  "key_note": "The source stem had an unrelated first sentence merged in; reworded. Option E is the paper key.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02641"
+  ],
+  "stem": "A 72-year-old woman with stage 4 CKD presents with bone pain and proximal muscle weakness. Labs: phosphate high, calcium low, PTH high, 25-OH vitamin D low, ALP mildly elevated. What is the most appropriate treatment?",
+  "options": {
+   "A": "Bisphosphonates",
+   "B": "Calcitriol and phosphate binders",
+   "C": "Intravenous iron and ESA",
+   "D": "Oral calcium carbonate and vitamin D3",
+   "E": "Oral phosphate supplements"
+  },
+  "answer": "B",
+  "explanation": "CKD-MBD with hyperphosphataemia, hypocalcaemia and high PTH is treated by phosphate binders and active vitamin D (calcitriol); bisphosphonates and phosphate supplements are wrong.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02676"
+  ],
+  "stem": "A patient with CKD has persistent hyperphosphataemia. Which additional therapy best addresses this?",
+  "options": {
+   "A": "ACE inhibitor",
+   "B": "Calcium carbonate",
+   "C": "Thiazide diuretic",
+   "D": "Erythropoietin",
+   "E": "Loop diuretic therapy"
+  },
+  "answer": "B",
+  "explanation": "Calcium carbonate taken with meals binds dietary phosphate in the gut and lowers serum phosphate.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01932"
+  ],
+  "stem": "A 44-year-old man with hypertensive nephrosclerosis and CKD 3b has metabolic acidosis with serum bicarbonate 18 mEq/L. Which one of the following mechanisms is IMPLICATED in the pathogenesis of metabolic acidosis-related renal progression?",
+  "options": {
+   "A": "Increased NH3 genesis",
+   "B": "Decreased endothelin production with tubular protection",
+   "C": "Enhanced HCO3 generation with subsequent alkalinisation of interstitium and precipitation of Ca2+ salts",
+   "D": "Suppression of the renin-angiotensin-aldosterone system",
+   "E": "None of the above"
+  },
+  "answer": "A",
+  "explanation": "Acidosis increases ammoniagenesis, which activates complement and drives tubulointerstitial injury; endothelin and aldosterone also contribute.",
+  "key_note": "Paper key A kept. Distractors B, D and E were altered because endothelin and RAAS activation are also implicated in acidosis-related progression, which made the original item ambiguous.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02642"
+  ],
+  "stem": "A 50-year-old man with stage 4 CKD is started on enoxaparin for DVT. Two days later he develops haematemesis. Hb falls from 13 to 10 g/dL and the platelet count is unchanged. What is the most likely cause of his bleeding?",
+  "options": {
+   "A": "Oesophageal varices",
+   "B": "Uraemic platelet dysfunction",
+   "C": "Overdosing of enoxaparin",
+   "D": "Gastrointestinal ulcer",
+   "E": "Renal cell carcinoma"
+  },
+  "answer": "D",
+  "explanation": "Haematemesis points to an upper GI lesion, usually peptic ulceration or erosions, unmasked by anticoagulation; uraemia and enoxaparin accumulation in renal failure contribute but do not themselves cause the bleeding site.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02640"
+  ],
+  "stem": "A 68-year-old man with CKD stage 3, hypertension and type 2 diabetes has LDL 130 mg/dL and BP 140/85 mmHg. He denies chest pain or claudication, and ECG is normal. eGFR is 48 mL/min/1.73 m2. What is the most appropriate next step in reducing his cardiovascular risk?",
+  "options": {
+   "A": "Begin aspirin 75 mg daily",
+   "B": "Refer for stress testing",
+   "C": "Start high-intensity statin therapy",
+   "D": "Increase blood pressure target to <130/80 mmHg",
+   "E": "Start high-intensity exercise"
+  },
+  "answer": "C",
+  "explanation": "CKD plus diabetes is a very high cardiovascular risk group in which statin therapy is recommended regardless of baseline LDL.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02127"
+  ],
+  "stem": "A patient presented with BP 180/110 mmHg and fever. He is a diagnosed case of renal failure for 2 years and his recent creatinine was 3.7 mg/dL. Which of the following medications is indicated in this case?",
+  "options": {
+   "A": "ACE inhibitors",
+   "B": "Angiotensin receptor blockers",
+   "C": "Potassium-sparing diuretics",
+   "D": "Calcium channel blockers",
+   "E": "Beta agonists"
+  },
+  "answer": "D",
+  "explanation": "With creatinine 3.7 mg/dL, hyperkalaemia risk and an acute febrile illness (risk of AKI), ACEi/ARB and potassium-sparing diuretics are risky; a calcium channel blocker is safe and effective for the acute rise in BP.",
+  "key_note": "Not marked in the source paper; answer by reviewer. Both ACE inhibitors and ARBs appear as options, so the item is ambiguous; D is the safest single answer here.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02133"
+  ],
+  "stem": "A 32-year-old teacher with CKD 3 due to hypertension is seen for the first time. BP is 150/90 mmHg and heart rate is 72 bpm. Which one of the following antihypertensive drugs would you prescribe?",
+  "options": {
+   "A": "Angiotensin converting enzyme inhibitor",
+   "B": "Calcium channel blocker",
+   "C": "Angiotensin receptor blocker",
+   "D": "Direct renin inhibitor"
+  },
+  "answer": "A",
+  "explanation": "ACE inhibitors are first-line in CKD for BP control and for slowing progression, particularly with proteinuria; ARBs are the alternative if cough occurs.",
+  "key_note": "Not marked in the source paper; answer by reviewer. ACEi and ARB are near-equivalent; ACEi chosen as the first-line agent.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02454"
+  ],
+  "stem": "A 58-year-old male presented with a dental abscess and severe unilateral pain. He is a diagnosed case of diabetes with CKD. The most appropriate analgesic for this patient will be:",
+  "options": {
+   "A": "Ibuprofen",
+   "B": "Diclofenac sodium",
+   "C": "Acetaminophen",
+   "D": "Piroxicam",
+   "E": "Naproxen sodium"
+  },
+  "answer": "C",
+  "explanation": "NSAIDs worsen renal function by reducing prostaglandin-dependent renal blood flow; paracetamol is the safest analgesic in CKD.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02538"
+  ],
+  "stem": "A 50-year-old diabetic is found to have chronic kidney disease. What is the recommended treatment of chronic renal failure with eGFR <10 and small kidneys on ultrasound?",
+  "options": {
+   "A": "IV fluids 5 L/day",
+   "B": "Dopamine infusion",
+   "C": "IV steroids",
+   "D": "Haemodialysis",
+   "E": "Immunosuppressive agents"
+  },
+  "answer": "D",
+  "explanation": "Small kidneys indicate irreversible disease, so with eGFR <10 renal replacement therapy (dialysis, then transplantation) is needed.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02638"
+  ],
+  "stem": "A 60-year-old man with stage 5 CKD (eGFR 8 mL/min/1.73 m2) presents with nausea, vomiting, fatigue and a pericardial rub. Labs: K+ 6.6 mmol/L, HCO3 14 mmol/L, BUN 90 mg/dL, creatinine 6.8 mg/dL. What is the most appropriate next step in management?",
+  "options": {
+   "A": "Administer insulin with glucose and recheck K+ in 6 hours",
+   "B": "Increase oral bicarbonate and monitor",
+   "C": "Initiate urgent dialysis",
+   "D": "Restrict dietary potassium and observe",
+   "E": "Start oral sodium polystyrene sulfonate"
+  },
+  "answer": "C",
+  "explanation": "Uraemic pericarditis (rub) with hyperkalaemia and acidosis is an absolute indication for urgent dialysis; medical measures only bridge.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02786"
+  ],
+  "stem": "A 44-year-old kidney-transplant recipient develops fever and reduced urine output on day 10 after surgery. The graft is tender with mild erythema, serum creatinine rises by 50% and Doppler shows preserved flow. What is the single most likely diagnosis?",
+  "options": {
+   "A": "Hyperacute rejection",
+   "B": "Renal artery thrombosis",
+   "C": "Acute cellular rejection",
+   "D": "Calcineurin inhibitor toxicity",
+   "E": "Ureteric obstruction"
+  },
+  "answer": "C",
+  "explanation": "Acute cellular rejection typically occurs from days to months after transplantation with graft tenderness, fever and rising creatinine; hyperacute rejection occurs within minutes to hours.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01753"
+  ],
+  "stem": "A young man has uncontrolled hypertension. Examination shows renal bruits and BP is 170/110 mmHg. What is the next best test?",
+  "options": {
+   "A": "Renin level",
+   "B": "Renal angiogram",
+   "C": "Captopril scan",
+   "D": "Ultrasound KUB",
+   "E": "Electrolytes"
+  },
+  "answer": "D",
+  "explanation": "Renal bruit with severe hypertension suggests renovascular disease; renal ultrasound is the first, non-invasive test, showing kidney-size asymmetry, before Doppler, CT or MR angiography.",
+  "key_note": "Defensible as the first-line test per the paper key D; angiography is confirmatory.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02285",
+   "C02788"
+  ],
+  "stem": "A 35-year-old man is a known case of adult polycystic kidney disease. He is stable with serum creatinine 2 mg% and BP 140/90 mmHg. He is brought to hospital with sudden loss of consciousness and signs of meningeal irritation. Which complication should be suspected?",
+  "options": {
+   "A": "Bleeding diathesis secondary to renal failure",
+   "B": "Rupture of berry aneurysm",
+   "C": "AV malformation",
+   "D": "Hypertensive bleed",
+   "E": "Amyloid angiopathy"
+  },
+  "answer": "B",
+  "explanation": "ADPKD is associated with intracranial berry aneurysms; sudden collapse with meningism indicates subarachnoid haemorrhage.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01788"
+  ],
+  "stem": "Regarding UTIs, which of the following will NOT increase the risk of developing one?",
+  "options": {
+   "A": "Hypertension",
+   "B": "Diabetes mellitus",
+   "C": "Being female",
+   "D": "Catheterisation",
+   "E": "Urinary obstruction"
+  },
+  "answer": "A",
+  "explanation": "Female sex, diabetes (glycosuria), catheters and obstruction or stasis all predispose to UTI; hypertension is not a risk factor.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02731"
+  ],
+  "stem": "A 24-year-old man presents with unilateral scrotal pain and swelling after unprotected intercourse. The testis is tender with an intact cremasteric reflex and pain improves on elevating the scrotum (Prehn sign); urinalysis shows pyuria. What is the single most likely causative organism?",
+  "options": {
+   "A": "Escherichia coli",
+   "B": "Chlamydia trachomatis",
+   "C": "Pseudomonas aeruginosa",
+   "D": "Staphylococcus aureus",
+   "E": "Proteus mirabilis"
+  },
+  "answer": "B",
+  "explanation": "Epididymo-orchitis in a sexually active man under 35 is usually due to Chlamydia trachomatis (or gonococcus); E. coli predominates in older men.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01751"
+  ],
+  "stem": "An elderly man with a long history of type 2 diabetes presents with haematuria. He has background diabetic retinopathy. BP is 120/70 mmHg. Urinalysis shows blood +++, and microscopy shows isomorphic red blood cells with no casts. An IVP is normal. The next most appropriate investigation is:",
+  "options": {
+   "A": "Renal angiogram",
+   "B": "Renal biopsy",
+   "C": "Doppler ultrasound of the kidneys",
+   "D": "CT scan of the abdomen and thorax",
+   "E": "Cystoscopy"
+  },
+  "answer": "E",
+  "explanation": "Isomorphic RBCs without casts mean non-glomerular bleeding, so in an older patient a lower tract source (bladder tumour) must be excluded by cystoscopy.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02670"
+  ],
+  "stem": "A 45-year-old woman presents with sudden onset haematuria and flank pain after a skiing accident. CT of the abdomen shows a swollen kidney with a hematoma. What is the likely diagnosis?",
+  "options": {
+   "A": "Acute glomerulonephritis",
+   "B": "Nephrolithiasis",
+   "C": "Pyelonephritis",
+   "D": "Renal cell carcinoma",
+   "E": "Renal contusion"
+  },
+  "answer": "E",
+  "explanation": "Trauma followed by haematuria with a swollen kidney and perirenal hematoma indicates renal contusion.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02647"
+  ],
+  "stem": "A 40-year-old man with a history of gout presents to the ER with severe flank pain radiating to the groin for the last 2 hours. Ultrasound shows a 5 mm stone in the right ureter. What is the most appropriate initial management?",
+  "options": {
+   "A": "Extracorporeal shock wave lithotripsy",
+   "B": "Intravenous fluids and pain management",
+   "C": "Observation and hydration",
+   "D": "Surgical intervention",
+   "E": "Urinary alkalinisation"
+  },
+  "answer": "B",
+  "explanation": "Initial management of an acute ureteric colic is analgesia (NSAID) and fluids; stones under 5-6 mm usually pass spontaneously, with intervention reserved for failure or complications.",
+  "key_note": "Options B and C overlap; B is the paper key, kept.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02722"
+  ],
+  "stem": "A 41-year-old woman has acute colicky flank pain radiating to the groin with microscopic haematuria. She is restless with normal abdominal signs. Pregnancy test is negative. Which is the single best initial imaging test to confirm the diagnosis?",
+  "options": {
+   "A": "Intravenous urogram",
+   "B": "Non-contrast helical CT of kidneys, ureters and bladder (CT KUB)",
+   "C": "Magnetic resonance urography",
+   "D": "Contrast-enhanced CT",
+   "E": "Plain abdominal radiograph alone"
+  },
+  "answer": "B",
+  "explanation": "Non-contrast CT KUB has over 95% sensitivity and specificity for urinary tract stones and is the investigation of choice in renal colic.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01756"
+  ],
+  "stem": "A 68-year-old woman with non-nephrotic proteinuria of unknown cause was advised renal biopsy. She has hypertension, chronic alcohol abuse and osteoarthritis. Which of the following would be a contraindication to renal biopsy?",
+  "options": {
+   "A": "Ingestion of diclofenac 24 hours earlier",
+   "B": "BP of 162/94 mmHg",
+   "C": "Dipstick urinalysis positive for nitrites and leukocytes",
+   "D": "Presence of simple cysts in both kidneys (four in the left, three in the right)",
+   "E": "Body mass index (BMI) of 36 kg/m2"
+  },
+  "answer": "C",
+  "explanation": "Active urinary tract infection is a contraindication to biopsy because of the risk of sepsis. Uncontrolled hypertension (usually above 160/100 mmHg) is a relative contraindication that should be treated first, and NSAIDs held 5-7 days ideally.",
+  "key_note": "The marked answer C is kept; BP 162/94 is also a relative contraindication but infection is the clearer one.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01750"
+  ],
+  "stem": "A 49-year-old man had a left nephrectomy for renal calculi 20 years ago. He now presents unwell with nausea and vomiting and is mildly dehydrated. A catheter shows an empty bladder, and ultrasound shows dilated calyces with a large stone completely obstructing the right pelvic-ureteric junction. What is the most appropriate first step in management?",
+  "options": {
+   "A": "Haemodialysis",
+   "B": "Oral resonium",
+   "C": "IV fluids",
+   "D": "Percutaneous nephrostomy",
+   "E": "CT scan KUB with contrast"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "He has post-renal acute kidney injury in a solitary kidney from a completely obstructing stone, which needs urgent decompression by percutaneous nephrostomy (or ureteric stent) before definitive stone treatment. Contrast would further endanger the kidney.",
+  "key_note": "",
+  "figure": ""
+ }
+]

@@ -1,0 +1,4325 @@
+[
+ {
+  "cids": [
+   "C00084"
+  ],
+  "stem": "A 48-year-old man presents with a 1-week history of fever, headache, malaise, limb aching and constipation. His fever is gradually rising in a stepladder fashion. Examination reveals a toxic look, a pulse rate of 80 beats/minute and high fever. His tongue is coated and the tip of the spleen is palpable. What is the most likely cause of his illness?",
+  "options": {
+   "A": "Dengue fever",
+   "B": "Malaria",
+   "C": "Enteric fever",
+   "D": "Infectious mononucleosis",
+   "E": "Tuberculosis"
+  },
+  "answer": "C",
+  "explanation": "Stepladder fever, constipation, coated tongue, relative bradycardia and a palpable spleen are the classic picture of enteric (typhoid) fever.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00656",
+   "C00676",
+   "C01029",
+   "C01075",
+   "C01247",
+   "C01364",
+   "C01574",
+   "C01794"
+  ],
+  "stem": "The gold standard test for the diagnosis of typhoid fever is:",
+  "options": {
+   "A": "Blood CP",
+   "B": "Typhidot",
+   "C": "Blood culture",
+   "D": "Stool culture",
+   "E": "Widal test"
+  },
+  "answer": "C",
+  "explanation": "Blood culture (positive in 60-80% in the first week) confirms the diagnosis and gives sensitivities; Widal and Typhidot are unreliable, and bone marrow culture is the most sensitive but is not first line.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00149",
+   "C00680",
+   "C01126",
+   "C01204",
+   "C02725"
+  ],
+  "stem": "A 26-year-old man presents with continuous fever, body aches and malaise for 4 days. The fever was insidious in onset and is now high grade, without rigors. He has a coated tongue, temperature of 103 F, pulse 100/min and splenomegaly. What is the diagnostic test of choice?",
+  "options": {
+   "A": "Bone marrow culture",
+   "B": "Blood CP",
+   "C": "MP smear",
+   "D": "Widal test",
+   "E": "Blood cultures"
+  },
+  "answer": "E",
+  "explanation": "In the first week of suspected typhoid, blood culture is the test of choice; bone marrow culture is more sensitive but is reserved for culture-negative cases or those already on antibiotics.",
+  "key_note": "Option E marked by the papers; bone marrow culture (A) is the most sensitive test but not the usual first choice.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01058"
+  ],
+  "stem": "What is expected during the first week of typhoid fever?",
+  "options": {
+   "A": "Stool culture is certain to contain the organism",
+   "B": "Constipation is uncommon",
+   "C": "Melaena is very common",
+   "D": "Widal test is unlikely to be of diagnostic value",
+   "E": "Typhoid rose spots are not seen"
+  },
+  "answer": "D",
+  "explanation": "Agglutinins appear only from the end of the first week, so Widal is usually negative early; stool culture is positive mainly in weeks 2-3 and rose spots appear around days 7-10.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01061"
+  ],
+  "stem": "Which of the following is NOT a clinical feature of typhoid fever in the FIRST week of infection?",
+  "options": {
+   "A": "Fever",
+   "B": "Myalgia",
+   "C": "Relative bradycardia",
+   "D": "Constipation",
+   "E": "Splenomegaly"
+  },
+  "answer": "E",
+  "explanation": "In the first week there is stepladder fever, myalgia, headache, constipation and relative bradycardia; splenomegaly and rose spots appear in the second week.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00677"
+  ],
+  "stem": "A patient presents with intermittent fever, abdominal pain and headache. Abdominal examination reveals tenderness and hepatosplenomegaly. His blood culture is positive for Salmonella typhi. The antibiotic of choice among the options is:",
+  "options": {
+   "A": "Ciprofloxacin",
+   "B": "Metronidazole",
+   "C": "Gentamicin",
+   "D": "Tetracycline",
+   "E": "Vancomycin"
+  },
+  "answer": "A",
+  "explanation": "Of the options only ciprofloxacin is active against S. typhi. Note that in Pakistan many isolates are fluoroquinolone resistant or XDR, and ceftriaxone or azithromycin are then used.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00139"
+  ],
+  "stem": "A 46-year-old woman was treated successfully for enteric fever and is now symptom-free. Investigations reveal that she has become a chronic carrier. She has gallstones but is unwilling to undergo surgical removal. How would you eradicate the organism?",
+  "options": {
+   "A": "Laparoscopic gallbladder removal",
+   "B": "Ciprofloxacin for 4 weeks",
+   "C": "High-dose ampicillin for 1 week",
+   "D": "Gallbladder radiotherapy",
+   "E": "Cefotaxime for 2 weeks"
+  },
+  "answer": "B",
+  "explanation": "Chronic carriers (organisms harboured in gallstones) are treated with a prolonged 4-week course of ciprofloxacin; cholecystectomy is the definitive option but the patient has declined.",
+  "key_note": "Some copies of the paper marked A (cholecystectomy); the question states the patient refuses surgery, so B is correct.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01064",
+   "C01421"
+  ],
+  "stem": "Which one of the following is a complication of typhoid fever?",
+  "options": {
+   "A": "Myositis",
+   "B": "Perforation of ulcerated Peyer's patches",
+   "C": "Uveitis",
+   "D": "Urethritis",
+   "E": "Adrenal haemorrhage"
+  },
+  "answer": "B",
+  "explanation": "Ulceration of Peyer's patches in the terminal ileum leads to haemorrhage and perforation, usually in the third week.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00661"
+  ],
+  "stem": "A female patient from Karachi complained of sudden attacks of chills, headache and fever followed by profuse sweating. The symptoms repeated after 48 hours. Examination revealed pallor, and an enlarged spleen and liver. What is the likely diagnosis?",
+  "options": {
+   "A": "Enteric fever",
+   "B": "HIV",
+   "C": "Malaria",
+   "D": "Pneumonia",
+   "E": "Giardiasis"
+  },
+  "answer": "C",
+  "explanation": "Paroxysms of chills, fever and sweating recurring every 48 hours with anaemia and hepatosplenomegaly indicate malaria (tertian fever, e.g. P. vivax).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00085",
+   "C01069",
+   "C01355",
+   "C01876",
+   "C02509"
+  ],
+  "stem": "A 44-year-old man from Lahore develops bouts of fever accompanied by rigors and chills for an hour. After several hours he develops severe sweating and the fever settles. These bouts repeat every few days. How would you confirm your clinical diagnosis?",
+  "options": {
+   "A": "Complete blood counts",
+   "B": "Blood cultures",
+   "C": "Urine culture",
+   "D": "HIV serology",
+   "E": "Blood film examination"
+  },
+  "answer": "E",
+  "explanation": "Periodic fever with rigors and sweating is malaria, confirmed by seeing parasites on a thick and thin blood film.",
+  "key_note": "Some paper copies marked B (blood cultures); correct is E, blood film for malarial parasite.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01066",
+   "C01279",
+   "C02246",
+   "C02508"
+  ],
+  "stem": "The classical clinical presentation of malaria is:",
+  "options": {
+   "A": "Relative bradycardia",
+   "B": "Headache",
+   "C": "Fever with rigors",
+   "D": "Bleeding from various sites",
+   "E": "Step ladder fever"
+  },
+  "answer": "C",
+  "explanation": "Malaria classically presents with paroxysms of fever with rigors, followed by sweating. Relative bradycardia and stepladder fever suggest typhoid.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00663"
+  ],
+  "stem": "A blood sample from a patient diagnosed with malaria is examined under the microscope. Which cellular characteristic should be anticipated?",
+  "options": {
+   "A": "Erythrocytes containing ring-like structures",
+   "B": "Numerous crescent-shaped erythrocytes",
+   "C": "Neutrophils with multilobed nuclei",
+   "D": "Basophils containing numerous spots",
+   "E": "Normal blood film"
+  },
+  "answer": "A",
+  "explanation": "Ring-form trophozoites within red cells are the typical finding; crescent-shaped gametocytes are seen only in falciparum infection and are not 'numerous' in a typical film.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00086"
+  ],
+  "stem": "The WHO recommended first line treatment of uncomplicated falciparum malaria is:",
+  "options": {
+   "A": "Artemether plus lumefantrine",
+   "B": "Artemether plus chloroquine",
+   "C": "Quinine",
+   "D": "Mefloquine",
+   "E": "Doxycycline"
+  },
+  "answer": "A",
+  "explanation": "Artemisinin-based combination therapy (artemether-lumefantrine) is first line for uncomplicated falciparum malaria because of widespread chloroquine resistance.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00755"
+  ],
+  "stem": "A 20-year-old man is diagnosed with cerebral malaria and is prescribed quinine. A characteristic dose-related side effect of quinine (cinchonism) is:",
+  "options": {
+   "A": "Coma",
+   "B": "Respiratory depression",
+   "C": "Headache",
+   "D": "Tremors",
+   "E": "Deafness"
+  },
+  "answer": "E",
+  "explanation": "Cinchonism includes tinnitus, deafness, headache, nausea and blurred vision; quinine also causes hypoglycaemia.",
+  "key_note": "Most paper copies marked C (headache); one marked E. Tinnitus/deafness is the hallmark of cinchonism, so E is taken, though headache also occurs.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00140"
+  ],
+  "stem": "A 32-year-old male in Rawalpindi is diagnosed with malaria. What level of blood parasitaemia indicates severe disease?",
+  "options": {
+   "A": "5%",
+   "B": "4%",
+   "C": "1%",
+   "D": "2%",
+   "E": "3%"
+  },
+  "answer": "D",
+  "explanation": "Hyperparasitaemia above about 2% in a non-immune patient (as taught in Davidson) indicates severe falciparum malaria; WHO uses higher thresholds in high-transmission areas.",
+  "key_note": "Only one green mark (on D) in the source; answer retained as 2%.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00758",
+   "C02886"
+  ],
+  "stem": "A 35-year-old man presents with continuous fever of irregular pattern 5 days after returning from Bangladesh. In the ER he develops a fit and is profoundly hypoglycaemic. Which is the most likely causative organism?",
+  "options": {
+   "A": "Plasmodium falciparum",
+   "B": "Plasmodium malariae",
+   "C": "Plasmodium vivax",
+   "D": "Plasmodium ovale",
+   "E": "Plasmodium knowlesi"
+  },
+  "answer": "A",
+  "explanation": "Irregular fever with convulsions and hypoglycaemia after travel to an endemic area indicates severe falciparum malaria (cerebral malaria, hypoglycaemia).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01025",
+   "C01572"
+  ],
+  "stem": "Plasmodium falciparum causes which of the following serious complications?",
+  "options": {
+   "A": "Proteinuria and granular casts",
+   "B": "Retinal haemorrhages and exudates",
+   "C": "Blackwater fever",
+   "D": "Migratory polyarthritis",
+   "E": "Carditis"
+  },
+  "answer": "C",
+  "explanation": "Intravascular haemolysis with haemoglobinuria (blackwater fever) is a specific complication of falciparum malaria.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01068"
+  ],
+  "stem": "Blackwater fever is a complication of which of the following?",
+  "options": {
+   "A": "Plasmodium vivax",
+   "B": "Plasmodium malariae",
+   "C": "Plasmodium ovale",
+   "D": "Plasmodium falciparum",
+   "E": "All of the above"
+  },
+  "answer": "D",
+  "explanation": "Blackwater fever (massive intravascular haemolysis with haemoglobinuria) occurs in falciparum malaria, especially after quinine.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01056"
+  ],
+  "stem": "The peripheral smear of a patient with high grade fever, chills and rigors shows Plasmodium falciparum. All of the following are complications of falciparum malaria EXCEPT:",
+  "options": {
+   "A": "Haemolytic anaemia",
+   "B": "Cerebral malaria",
+   "C": "Deep vein thrombosis",
+   "D": "Pulmonary oedema",
+   "E": "Blackwater fever"
+  },
+  "answer": "C",
+  "explanation": "Falciparum malaria causes cerebral malaria, haemolysis, blackwater fever, pulmonary oedema and AKI, but not deep vein thrombosis.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00669"
+  ],
+  "stem": "Which of the following is NOT an antimalarial compound?",
+  "options": {
+   "A": "Quinine",
+   "B": "Chloroquine",
+   "C": "Artemisinin compounds",
+   "D": "Mefloquine",
+   "E": "Penicillin"
+  },
+  "answer": "E",
+  "explanation": "Penicillin has no antiplasmodial activity; the others are standard antimalarials.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00143",
+   "C01878"
+  ],
+  "stem": "A 17-year-old girl presents with fever, prostration, headache, bone pain, severe myalgia and vomiting. She has a morbilliform skin rash, an episode of haematemesis and bruises on the skin. Laboratory tests reveal leucopenia and thrombocytopenia. What is the likely diagnosis?",
+  "options": {
+   "A": "Dengue haemorrhagic fever",
+   "B": "Falciparum malaria",
+   "C": "Pneumococcal bacteraemia",
+   "D": "Yellow fever",
+   "E": "Brucellosis"
+  },
+  "answer": "A",
+  "explanation": "Break-bone pains, rash, leucopenia, thrombocytopenia and bleeding in an endemic setting indicate dengue haemorrhagic fever.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00670"
+  ],
+  "stem": "A 20-year-old man presents with a 4-day history of high grade fever with chills. His platelet count is 88 x 10^3/uL. You suspect dengue fever. The diagnostic test best at this stage to confirm the diagnosis is:",
+  "options": {
+   "A": "Blood culture",
+   "B": "NS1 antigen",
+   "C": "Haematocrit",
+   "D": "Dengue IgG antibodies",
+   "E": "Dengue IgM antibodies"
+  },
+  "answer": "B",
+  "explanation": "NS1 antigen is detectable from day 1 to about day 5 of illness; IgM becomes positive only after about day 5.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00664"
+  ],
+  "stem": "A 30-year-old woman has had high grade fever for 5 days. Next day she is diagnosed with dengue fever. Which of the following is a warning sign that the doctor should look for?",
+  "options": {
+   "A": "Nausea",
+   "B": "Mild leucopenia",
+   "C": "Mucosal bleed",
+   "D": "Body aches and pains",
+   "E": "Raised blood pressure"
+  },
+  "answer": "C",
+  "explanation": "WHO warning signs include abdominal pain, persistent vomiting, mucosal bleeding, lethargy, fluid accumulation and a rising haematocrit with falling platelets; aches, mild leucopenia and nausea are expected in uncomplicated dengue.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00668"
+  ],
+  "stem": "A 55-year-old female presents with fever for 5 days and a generalized macular rash for 2 days. She is febrile and systemic examination is unremarkable. NS1 antigen done 2 days back was positive and the blood CP shows mild thrombocytopenia. A warning sign suggesting severe dengue fever would be:",
+  "options": {
+   "A": "Abdominal pain",
+   "B": "Joint pain",
+   "C": "Headache",
+   "D": "Leucopenia",
+   "E": "Fever for more than 7 days"
+  },
+  "answer": "A",
+  "explanation": "Severe abdominal pain or tenderness is a WHO warning sign of plasma leakage; arthralgia, headache and leucopenia are non-specific features of dengue.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00147"
+  ],
+  "stem": "The drug of choice for relief of severe body ache and fever in dengue fever is:",
+  "options": {
+   "A": "Acetaminophen (paracetamol)",
+   "B": "Ibuprofen",
+   "C": "Any strong NSAID",
+   "D": "IM injection of diclofenac",
+   "E": "Injectable opiate derivatives"
+  },
+  "answer": "A",
+  "explanation": "Paracetamol is the only safe antipyretic and analgesic in dengue; NSAIDs and aspirin increase the bleeding risk.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00657",
+   "C01071",
+   "C01356",
+   "C01425"
+  ],
+  "stem": "A patient with dengue fever and thrombocytopenia is admitted with a temperature of 103 F. Which of the following medications is contraindicated?",
+  "options": {
+   "A": "Paracetamol",
+   "B": "Oral rehydration solution",
+   "C": "Normal saline",
+   "D": "Ibuprofen (or aspirin)",
+   "E": "Omeprazole"
+  },
+  "answer": "D",
+  "explanation": "NSAIDs and aspirin (ibuprofen, mefenamic acid, diclofenac) worsen platelet dysfunction and bleeding in dengue and must be avoided; paracetamol is the antipyretic of choice.",
+  "key_note": "Several copies of the same question merged. Paper keys marked ibuprofen or aspirin (NSAIDs); mefenamic acid distractor was replaced so only the NSAID option is correct.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01062",
+   "C01151"
+  ],
+  "stem": "Dengue fever is transmitted by:",
+  "options": {
+   "A": "Anopheles mosquito",
+   "B": "Aedes aegypti mosquito",
+   "C": "House fly",
+   "D": "Ticks",
+   "E": "Droplet infection"
+  },
+  "answer": "B",
+  "explanation": "Dengue virus is transmitted by day-biting Aedes aegypti (and A. albopictus); Anopheles transmits malaria.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00681",
+   "C01074",
+   "C01244",
+   "C01354"
+  ],
+  "stem": "Which of the following measures would be useful in controlling an epidemic of dengue fever?",
+  "options": {
+   "A": "Protecting patients from mosquito bites with nets to isolate them from healthy subjects",
+   "B": "Wearing masks",
+   "C": "Protection of patients from house flies",
+   "D": "Oral antibiotic prophylaxis",
+   "E": "Frequent hand washing"
+  },
+  "answer": "A",
+  "explanation": "Dengue spreads by Aedes mosquitoes feeding on viraemic patients, so shielding patients with nets, together with vector control, interrupts transmission; masks, hand washing and antibiotics are irrelevant.",
+  "key_note": "Option wording lightly clarified from the source ('isolating patients by nets').",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00138"
+  ],
+  "stem": "A Pakistani surgeon returned from Kenya a few weeks ago. He developed a painful swelling of the forearm with regional lymph node enlargement after an insect bite 10 days earlier. Four weeks later he presents with coma, and work-up reveals myocarditis, pleural effusion and hepatitis. What is the likely diagnosis?",
+  "options": {
+   "A": "Leptospirosis",
+   "B": "Falciparum malaria",
+   "C": "African trypanosomiasis",
+   "D": "Yellow fever",
+   "E": "Acute HIV seroconversion illness"
+  },
+  "answer": "C",
+  "explanation": "A chancre at the bite site, lymphadenopathy, then myocarditis, effusions and meningoencephalitis with coma after travel to East Africa is acute (Rhodesian) African trypanosomiasis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00144",
+   "C02152"
+  ],
+  "stem": "A 25-year-old man from Balochistan presented with fever, weight loss, pallor, facial hyperpigmentation and massive splenomegaly. He was treated with sodium stibogluconate with remarkable improvement. Later his face developed a nodular eruption. What is the reason for this complaint?",
+  "options": {
+   "A": "Erythema nodosum leprosum",
+   "B": "Skin metastases",
+   "C": "Lupus vulgaris",
+   "D": "Post-kala-azar dermal leishmaniasis",
+   "E": "Lepromatous leprosy"
+  },
+  "answer": "D",
+  "explanation": "Post-kala-azar dermal leishmaniasis (PKDL) appears as facial nodules or macules months to years after treated visceral leishmaniasis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00778"
+  ],
+  "stem": "A 45-year-old man from Afghanistan presents with a nodular ulcer on his face for 1 year. You suspect cutaneous leishmaniasis. The biopsy from this ulcer would reveal:",
+  "options": {
+   "A": "Granuloma with amastigotes",
+   "B": "Reed-Sternberg cells",
+   "C": "Trypanosomes",
+   "D": "Caseous necrosis",
+   "E": "Erythroblasts with ring forms"
+  },
+  "answer": "A",
+  "explanation": "Cutaneous leishmaniasis shows a granuloma containing intracellular amastigotes (LD bodies) in macrophages.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00673",
+   "C01153",
+   "C02594",
+   "C02883",
+   "C02716"
+  ],
+  "stem": "A sewage worker presents with a 1-week history of high grade fever, headache and drowsiness. He is pale and jaundiced with conjunctival haemorrhages and neck stiffness. Hb 10 g/dl, TLC 12,000, platelets 110,000, bilirubin 3.2 mg/dl, creatinine 2.3 mg/dl. The most likely diagnosis is:",
+  "options": {
+   "A": "Dengue fever",
+   "B": "Cerebral malaria",
+   "C": "Leptospirosis",
+   "D": "Typhoid fever",
+   "E": "Trypanosomiasis"
+  },
+  "answer": "C",
+  "explanation": "Occupational exposure to sewage, fever, jaundice, conjunctival suffusion or haemorrhage, meningism and renal failure make Weil disease (leptospirosis) the best diagnosis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00678",
+   "C01793",
+   "C02503",
+   "C02715"
+  ],
+  "stem": "A 50-year-old farm worker presents with fever, polyarthralgia and night sweats for 3 weeks. He is anaemic, with cervical lymphadenopathy, hepatosplenomegaly and a few tender red macular lesions on his shins. The most likely diagnosis is:",
+  "options": {
+   "A": "Hepatitis",
+   "B": "Enteric fever",
+   "C": "Brucellosis",
+   "D": "Malaria",
+   "E": "Rheumatoid arthritis"
+  },
+  "answer": "C",
+  "explanation": "Occupational animal contact with undulant fever, arthralgia, sweats, lymphadenopathy, hepatosplenomegaly and erythema nodosum suggests brucellosis.",
+  "key_note": "Some paper copies marked A or B by letter; the clinical picture is brucellosis (C).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00675"
+  ],
+  "stem": "An 18-year-old boy presents with 1 week of fever and cervical lymphadenopathy. Blood CP: TLC 4200, Hb 14 g/dl, platelets 140,000/cmm; the peripheral film shows atypical lymphocytes. The most likely diagnosis is:",
+  "options": {
+   "A": "Acute lymphoblastic lymphoma",
+   "B": "Hodgkin lymphoma",
+   "C": "Chronic lymphoblastic lymphoma",
+   "D": "Infectious mononucleosis",
+   "E": "Tuberculosis"
+  },
+  "answer": "D",
+  "explanation": "Fever, cervical lymphadenopathy and atypical lymphocytes in a young person indicate EBV infectious mononucleosis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00679"
+  ],
+  "stem": "A young boy presents with fever for 4 days, sore throat for 3 days and body pains. One day ago he developed a generalized macular rash. He is febrile, the throat is congested and there are petechiae on the palate. Cervical lymph nodes are palpable. The most likely diagnosis is:",
+  "options": {
+   "A": "Hodgkin lymphoma",
+   "B": "Infectious mononucleosis",
+   "C": "Non-Hodgkin lymphoma",
+   "D": "Tuberculosis",
+   "E": "Toxoplasmosis"
+  },
+  "answer": "B",
+  "explanation": "Pharyngitis with palatal petechiae, cervical lymphadenopathy and rash in an adolescent is typical of infectious mononucleosis.",
+  "key_note": "Age of the boy missing in the source stem.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01042"
+  ],
+  "stem": "Haemorrhagic fevers include all of the following EXCEPT:",
+  "options": {
+   "A": "Congo fever",
+   "B": "Ebola fever",
+   "C": "Dengue fever",
+   "D": "Pel-Ebstein fever",
+   "E": "Yellow fever"
+  },
+  "answer": "D",
+  "explanation": "Pel-Ebstein fever is the cyclical fever pattern of Hodgkin lymphoma, not a viral haemorrhagic fever.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00145"
+  ],
+  "stem": "A 33-year-old man is diagnosed with tuberculoid leprosy. Which one of the following regimens would you start?",
+  "options": {
+   "A": "Daily dapsone and ciprofloxacin",
+   "B": "Daily clofazimine",
+   "C": "Daily ciprofloxacin and rifampicin",
+   "D": "Daily INH and rifampicin",
+   "E": "Daily dapsone and rifampicin"
+  },
+  "answer": "E",
+  "explanation": "Paucibacillary (tuberculoid) leprosy is treated with dapsone plus rifampicin for 6 months; multibacillary disease adds clofazimine.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00148",
+   "C01140",
+   "C02611"
+  ],
+  "stem": "A 24-year-old man is diagnosed with primary syphilis. What is the drug of choice?",
+  "options": {
+   "A": "Doxycycline",
+   "B": "Benzyl penicillin",
+   "C": "Ceftriaxone",
+   "D": "Azithromycin",
+   "E": "Erythromycin"
+  },
+  "answer": "B",
+  "explanation": "Penicillin (benzathine penicillin G, a single IM dose in early syphilis) remains the treatment of choice; doxycycline is the alternative in penicillin allergy.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00142",
+   "C01877"
+  ],
+  "stem": "A 32-year-old pregnant teacher has accidentally come into close contact with a child with severe chickenpox. She says she had chickenpox as a child. What is your response?",
+  "options": {
+   "A": "Acyclovir",
+   "B": "VZV immunoglobulin",
+   "C": "Check her VZV antibody titre",
+   "D": "Reassure and discharge",
+   "E": "Ribavirin"
+  },
+  "answer": "D",
+  "explanation": "A past history of chickenpox implies immunity, so no prophylaxis is needed; VZIG is reserved for non-immune pregnant contacts.",
+  "key_note": "Some paper copies marked B (VZV immunoglobulin); correct is D since she is already immune.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00759"
+  ],
+  "stem": "A 60-year-old lady developed a vesicular rash on the left side of her chest 12 days ago. The rash has healed but she complains of severe pain in the same area. The most likely diagnosis is:",
+  "options": {
+   "A": "Herpes simplex",
+   "B": "Herpes labialis",
+   "C": "Post-herpetic neuralgia",
+   "D": "Measles",
+   "E": "Viral exanthem"
+  },
+  "answer": "C",
+  "explanation": "Persistent dermatomal pain after healing of herpes zoster is post-herpetic neuralgia, common in the elderly.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00141"
+  ],
+  "stem": "A 29-year-old tourist from Denmark develops mild watery diarrhoea with cramping abdominal pain during a visit to Pakistan. He denies blood in the stool. Stool examination shows no pus cells, red cells or pathogens. How would you treat him?",
+  "options": {
+   "A": "Tetracycline",
+   "B": "Ampicillin",
+   "C": "Oral rehydration",
+   "D": "Ciprofloxacin",
+   "E": "Metronidazole"
+  },
+  "answer": "C",
+  "explanation": "Mild non-invasive travellers' diarrhoea is self-limiting and managed with oral rehydration; antibiotics are for moderate to severe or invasive disease.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00481"
+  ],
+  "stem": "A 38-year-old male presents with bloody diarrhoea and fever for 3 days. His BP is 90/60 and he is dehydrated. The organism most likely responsible for the acute diarrhoea is:",
+  "options": {
+   "A": "Salmonella",
+   "B": "Staphylococcus aureus",
+   "C": "Bacillus cereus",
+   "D": "Shigella",
+   "E": "E. coli (enterotoxigenic)"
+  },
+  "answer": "D",
+  "explanation": "Fever with bloody diarrhoea (dysentery) points to an invasive organism such as Shigella; toxin-mediated organisms cause watery diarrhoea without blood.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00858",
+   "C03018",
+   "C03036"
+  ],
+  "stem": "A tourist presents with high grade fever and shortness of breath for 2 days. On examination his chest has bilateral crepitations. He is suspected to have COVID pneumonia. The preferred investigation is:",
+  "options": {
+   "A": "COVID antibody",
+   "B": "COVID PCR",
+   "C": "Sputum for AFB",
+   "D": "Sputum for routine examination",
+   "E": "Sputum culture and sensitivity"
+  },
+  "answer": "B",
+  "explanation": "Nucleic acid amplification (RT-PCR) of a nasopharyngeal swab is the preferred diagnostic test for acute SARS-CoV-2 infection; antibodies indicate past exposure.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00859"
+  ],
+  "stem": "The mode of transmission of coronavirus is:",
+  "options": {
+   "A": "Respiratory droplets",
+   "B": "Parenteral route",
+   "C": "Faeco-oral route",
+   "D": "Vertical transmission",
+   "E": "Sexually transmitted"
+  },
+  "answer": "A",
+  "explanation": "SARS-CoV-2 spreads mainly through respiratory droplets and aerosols.",
+  "key_note": "Not marked in one source copy; answer confirmed by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01067",
+   "C01346"
+  ],
+  "stem": "In a patient with pyrexia of unknown origin (fever for more than 3 weeks), which investigation will you perform before starting antibiotic therapy?",
+  "options": {
+   "A": "Urine routine examination",
+   "B": "ECG",
+   "C": "Stool routine examination",
+   "D": "Blood cultures",
+   "E": "Chest X-ray"
+  },
+  "answer": "D",
+  "explanation": "Blood cultures must be taken before any antibiotic is given in PUO, as antibiotics may sterilise cultures and mask endocarditis or enteric fever.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00972",
+   "C01579"
+  ],
+  "stem": "Generalized lymphadenopathy is described in all the following diseases EXCEPT:",
+  "options": {
+   "A": "HIV",
+   "B": "Infectious mononucleosis",
+   "C": "Malaria",
+   "D": "Syphilis",
+   "E": "Tuberculosis"
+  },
+  "answer": "C",
+  "explanation": "Malaria causes splenomegaly and anaemia but not generalized lymphadenopathy; HIV, EBV, secondary syphilis and TB all do.",
+  "key_note": "A sixth garbled option in the source was removed.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00674",
+   "C01073",
+   "C01282",
+   "C02720",
+   "C02680",
+   "C01881"
+  ],
+  "stem": "A 24-year-old male with HIV, not on antiretroviral therapy, presents with shortness of breath, productive cough and fever for 12 days. His CD4 count is below 200 cells/mm3. Chest X-ray shows bilateral reticulonodular infiltrates. The most likely causative organism is:",
+  "options": {
+   "A": "Streptococcus pneumoniae",
+   "B": "Mycoplasma pneumoniae",
+   "C": "Klebsiella pneumoniae",
+   "D": "Pneumocystis jirovecii",
+   "E": "Candida albicans"
+  },
+  "answer": "D",
+  "explanation": "CD4 below 200 with bilateral interstitial infiltrates is the classic setting for Pneumocystis jirovecii pneumonia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00080"
+  ],
+  "stem": "A 39-year-old gentleman with known HIV infection presents with a few days of cough and shortness of breath. His physician suspects Pneumocystis pneumonia. Which of the following drugs should be used for its treatment?",
+  "options": {
+   "A": "Cefotaxime",
+   "B": "Chloramphenicol",
+   "C": "Co-trimoxazole",
+   "D": "Erythromycin",
+   "E": "Flucloxacillin"
+  },
+  "answer": "C",
+  "explanation": "High-dose co-trimoxazole (with steroids if hypoxic) is the treatment of choice for PCP.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00671"
+  ],
+  "stem": "A 40-year-old man presents with chronic abdominal pain, diarrhoea, low grade fever and features of malabsorption. He is later found to be HIV positive. The most likely organism is:",
+  "options": {
+   "A": "Entamoeba histolytica",
+   "B": "Cryptosporidium",
+   "C": "Diphyllobothrium latum",
+   "D": "Giardia lamblia",
+   "E": "Campylobacter jejuni"
+  },
+  "answer": "B",
+  "explanation": "Cryptosporidium (and Isospora) cause chronic watery diarrhoea and malabsorption in advanced HIV.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00672",
+   "C01359"
+  ],
+  "stem": "A 28-year-old HIV-positive male presents with pain on swallowing. Examination shows white plaque-like material on his tongue and buccal mucosa. Which organism is the most likely cause?",
+  "options": {
+   "A": "Candida albicans",
+   "B": "Herpes simplex 1",
+   "C": "Cytomegalovirus",
+   "D": "Human herpes virus 8",
+   "E": "Pneumocystis jirovecii"
+  },
+  "answer": "A",
+  "explanation": "Oral thrush with odynophagia indicates Candida oesophagitis, the commonest cause in HIV.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00665",
+   "C01228"
+  ],
+  "stem": "A house officer had a needle stick injury while drawing blood from an HIV-positive patient. Her risk of acquiring HIV infection is about:",
+  "options": {
+   "A": "0.9%",
+   "B": "0.15%",
+   "C": "0.7%",
+   "D": "0.3%",
+   "E": "0.09%"
+  },
+  "answer": "D",
+  "explanation": "The average risk of HIV transmission after a percutaneous needle stick from an infected source is about 0.3% (1 in 300); mucosal exposure carries about 0.09%.",
+  "key_note": "Options converted to percentages; the source gave the answer as 0.3%.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01007"
+  ],
+  "stem": "The most common risk factor for chronic hepatitis B infection is:",
+  "options": {
+   "A": "Injection drug use",
+   "B": "Sexual transmission",
+   "C": "Infected unscreened blood products",
+   "D": "HBsAg-positive mother (vertical transmission)",
+   "E": "Tattooing"
+  },
+  "answer": "A",
+  "explanation": "Parenteral exposure through injections and shared needles is the usual route in the source key.",
+  "key_note": "Ambiguous question: worldwide vertical transmission (D) is the commonest cause of chronicity; the paper key marked A.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01009",
+   "C01436",
+   "C02103"
+  ],
+  "stem": "The recommended schedule for first-time hepatitis B vaccination is:",
+  "options": {
+   "A": "0, 1, 2 months",
+   "B": "0, 1, 3 months",
+   "C": "0, 1, 6 months",
+   "D": "0, 1, 12 months",
+   "E": "0, 3, 6 months"
+  },
+  "answer": "C",
+  "explanation": "The standard adult schedule is doses at 0, 1 and 6 months; an accelerated schedule of 0, 1, 2 months plus a booster at 12 months is used when protection is needed quickly.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00150",
+   "C01022",
+   "C01561"
+  ],
+  "stem": "A nurse undergoes primary immunisation against hepatitis B. Which of the following should be checked a few months later to confirm that she has responded to the vaccine?",
+  "options": {
+   "A": "Anti-HBs",
+   "B": "Anti-HBc",
+   "C": "Hepatitis B viral load",
+   "D": "HBeAg",
+   "E": "HBsAg"
+  },
+  "answer": "A",
+  "explanation": "Vaccination produces only anti-HBs (a titre of 10 mIU/mL or more indicates protection); anti-HBc appears only after natural infection.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01065",
+   "C01278",
+   "C01350",
+   "C01371",
+   "C03044"
+  ],
+  "stem": "A vaccine is readily available for prophylaxis against which of the following diseases?",
+  "options": {
+   "A": "Dengue fever",
+   "B": "Hepatitis C",
+   "C": "Hepatitis B",
+   "D": "HIV/AIDS",
+   "E": "Botulism"
+  },
+  "answer": "C",
+  "explanation": "An effective recombinant vaccine exists for hepatitis B; none is routinely available for hepatitis C or HIV.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01070",
+   "C01281"
+  ],
+  "stem": "Which of the following is transmitted by the parenteral route?",
+  "options": {
+   "A": "Hepatitis A",
+   "B": "Hepatitis B",
+   "C": "Hepatitis E",
+   "D": "Typhoid fever",
+   "E": "Cholera"
+  },
+  "answer": "B",
+  "explanation": "Hepatitis B spreads parenterally (blood, sexual and vertical); hepatitis A, E, typhoid and cholera spread faeco-orally.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01072",
+   "C01035",
+   "C01578",
+   "C01693"
+  ],
+  "stem": "A duty nurse gets an accidental needle prick while taking blood from a hepatitis B positive patient. She has never been vaccinated for hepatitis B. What immediate management do you suggest?",
+  "options": {
+   "A": "Immediately start a broad spectrum antibiotic",
+   "B": "Counsel her not to worry as no immediate management is required",
+   "C": "Give a booster dose of hepatitis B vaccine",
+   "D": "Give immunoglobulins against hepatitis B and also the vaccine",
+   "E": "Give immunoglobulins against hepatitis B only"
+  },
+  "answer": "D",
+  "explanation": "An unvaccinated exposed person needs both passive (HBIG) and active (vaccine course) immunisation, given at separate sites.",
+  "key_note": "Not marked in the source paper; answer by reviewer. A second copy asked the same without the vaccination history.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01059"
+  ],
+  "stem": "A recently diagnosed HBsAg-positive pregnant lady wants to protect her baby. What is the best option?",
+  "options": {
+   "A": "Give her hepatitis B vaccination now",
+   "B": "Give her hepatitis B immune serum globulin only",
+   "C": "Give hepatitis B immune globulin to the baby within 12 hours of birth, followed by vaccination",
+   "D": "Give her hepatitis A vaccination",
+   "E": "Vaccinate the baby for hepatitis B after birth only"
+  },
+  "answer": "C",
+  "explanation": "Newborns of HBsAg-positive mothers get HBIG plus the first vaccine dose as soon as possible, ideally within 12 hours of birth, which prevents most transmission.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01060"
+  ],
+  "stem": "A 40-year-old male is positive for hepatitis C antibody. What precautions should he take to prevent spreading his disease to the community?",
+  "options": {
+   "A": "He should be vaccinated for hepatitis C",
+   "B": "He should be vaccinated for hepatitis B",
+   "C": "He should be given immune globulin",
+   "D": "He should use a separate razor at the barber and avoid reusable syringes",
+   "E": "He should avoid handshakes with people"
+  },
+  "answer": "D",
+  "explanation": "HCV spreads by blood, so avoiding shared razors, needles and reused syringes is the key; there is no HCV vaccine or immunoglobulin, and casual contact is safe.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00756"
+  ],
+  "stem": "A 40-year-old man presents to the ER with hydrophobia. What is the most likely diagnosis?",
+  "options": {
+   "A": "Tetanus",
+   "B": "Rabies",
+   "C": "Organophosphorus poisoning",
+   "D": "Listeriosis",
+   "E": "Snake bite"
+  },
+  "answer": "B",
+  "explanation": "Hydrophobia, pharyngeal spasm on attempting to drink, is the hallmark of furious rabies.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00151",
+   "C01883"
+  ],
+  "stem": "A 56-year-old man presents 12 hours after a bite on his right arm by a rabid dog. The most important lifesaving step of treatment is:",
+  "options": {
+   "A": "Washing the wound with normal saline",
+   "B": "Anti-rabies vaccination",
+   "C": "Urgent antibiotics",
+   "D": "Tetanus toxoid injection",
+   "E": "Anti-rabies human immunoglobulin"
+  },
+  "answer": "E",
+  "explanation": "Human rabies immunoglobulin infiltrated around the wound gives immediate passive neutralising antibody while the vaccine response develops.",
+  "key_note": "Debatable: thorough washing with soap and water is the first essential step, but all paper keys marked E.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00837",
+   "C00950"
+  ],
+  "stem": "A young watchman is brought to the emergency department half an hour after a bite on the ankle by a stray dog. What will you do?",
+  "options": {
+   "A": "Admit and observe without vaccine",
+   "B": "Anti-rabies vaccine alone is sufficient",
+   "C": "Anti-rabies vaccine and immunoglobulin are indicated",
+   "D": "Rabies immunoglobulin alone is sufficient",
+   "E": "Start intravenous antibiotics"
+  },
+  "answer": "C",
+  "explanation": "Category III exposure (a bite breaking the skin) by a stray dog needs wound washing, rabies vaccine and rabies immunoglobulin.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00419",
+   "C02606",
+   "C03153"
+  ],
+  "stem": "A young gardener cut himself with a shovel 48 hours ago and now presents with lockjaw and risus sardonicus. He has violent spasms lasting a few seconds. The most appropriate initial treatment is:",
+  "options": {
+   "A": "IV diazepam alone",
+   "B": "IV diazepam and hydration",
+   "C": "Debridement of the wound and human tetanus antitoxin",
+   "D": "Metronidazole and benzylpenicillin",
+   "E": "Maintain hydration, paralyse and ventilate"
+  },
+  "answer": "C",
+  "explanation": "Wound debridement and human tetanus immunoglobulin neutralise unbound toxin and remove the source; muscle relaxants, antibiotics and ventilation follow as supportive care.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00757"
+  ],
+  "stem": "A 45-year-old man presents with a penetrating dirty wound on his thigh from an axe. He had tetanus vaccination 12 years ago. What anti-tetanus regimen will you follow?",
+  "options": {
+   "A": "TT (tetanus toxoid) only",
+   "B": "No vaccination needed",
+   "C": "TT plus tetanus immunoglobulin",
+   "D": "Tetanus immunoglobulin only",
+   "E": "Tetanus immunoglobulin plus surgical toilet"
+  },
+  "answer": "A",
+  "explanation": "A previously fully immunised person with a dirty wound needs a toxoid booster (the last dose was over 5-10 years ago) and surgical toilet; immunoglobulin is added only if immunisation is incomplete or unknown.",
+  "key_note": "Paper copies disagree (A and C marked); A is the standard for a person with a completed primary course.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00548"
+  ],
+  "stem": "A 40-year-old woman gives a history of fever for 3 weeks with cough, night sweats and weight loss. Chest examination is normal. Abdominal examination reveals hepatosplenomegaly. Chest X-ray shows symmetrically distributed nodules bilaterally. The most likely diagnosis is:",
+  "options": {
+   "A": "Miliary tuberculosis",
+   "B": "Chronic liver disease",
+   "C": "Malaria",
+   "D": "Pneumonia",
+   "E": "Typhoid"
+  },
+  "answer": "A",
+  "explanation": "Prolonged fever with night sweats, hepatosplenomegaly and bilateral millet-seed nodules is miliary TB.",
+  "key_note": "Stem age taken as 40 years (some copies had a garbled '4 year old').",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00367"
+  ],
+  "stem": "A middle-aged man presents with productive cough, fever and weight loss for 2 months. Sputum for AFB is positive. The most appropriate treatment for the first 2 months consists of:",
+  "options": {
+   "A": "Isoniazid, ethambutol, pyrazinamide",
+   "B": "Isoniazid, rifampicin, levofloxacin, pyrazinamide",
+   "C": "Isoniazid, streptomycin, rifampicin, pyrazinamide",
+   "D": "Isoniazid, rifampicin, streptomycin, azithromycin",
+   "E": "Isoniazid, rifampicin, ethambutol, pyrazinamide"
+  },
+  "answer": "E",
+  "explanation": "The intensive phase of new smear-positive TB is 2 months of HRZE, followed by 4 months of HR.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00659"
+  ],
+  "stem": "A 30-year-old woman diagnosed with pulmonary TB has been on ATT (initiation phase) for 2 months. Her recent sputum for AFB is still positive. What is the most appropriate next step?",
+  "options": {
+   "A": "Start modified ATT",
+   "B": "Continue the initiation phase for 1 more month and then review",
+   "C": "Start the continuation phase",
+   "D": "Review the diagnosis",
+   "E": "Stop ATT"
+  },
+  "answer": "B",
+  "explanation": "Persistent smear positivity at 2 months is managed by extending the intensive phase by one month with repeat sputum (and DST/Xpert to exclude resistance) before moving on.",
+  "key_note": "Some copies marked D (review diagnosis) or C; most marked B, which fits the standard NTP teaching.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00854"
+  ],
+  "stem": "In the initial phase of treatment of tuberculosis, streptomycin is given in patients suffering from:",
+  "options": {
+   "A": "Post-primary pulmonary tuberculosis",
+   "B": "Smear-negative pulmonary tuberculosis",
+   "C": "Relapse of smear-positive treated patients",
+   "D": "Genito-urinary tuberculosis"
+  },
+  "answer": "C",
+  "explanation": "Streptomycin is added to the intensive phase in retreatment cases (Category II: relapse, failure, default) under the older NTP regimens.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00361"
+  ],
+  "stem": "A 40-year-old man is being treated for resistant tuberculosis with first and second line anti-tuberculous drugs. After 4 weeks he develops progressive loss of hearing. The drug responsible is:",
+  "options": {
+   "A": "Azithromycin",
+   "B": "Ethambutol",
+   "C": "Streptomycin",
+   "D": "Pyrazinamide",
+   "E": "Levofloxacin"
+  },
+  "answer": "C",
+  "explanation": "Streptomycin (an aminoglycoside) causes dose-related eighth cranial nerve toxicity, both hearing loss and vestibular damage.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00365",
+   "C01445",
+   "C01838",
+   "C02256",
+   "C02471",
+   "C03003"
+  ],
+  "stem": "A 25-year-old lady with pulmonary tuberculosis has been on anti-tuberculous therapy for 1 month. She complains of new-onset visual problems. The drug most likely to be causing this is:",
+  "options": {
+   "A": "Isoniazid",
+   "B": "Rifampicin",
+   "C": "Pyrazinamide",
+   "D": "Ethambutol",
+   "E": "Azithromycin"
+  },
+  "answer": "D",
+  "explanation": "Ethambutol causes dose-related retrobulbar optic neuritis with loss of colour vision and acuity; check vision and stop the drug.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00146"
+  ],
+  "stem": "A patient taking treatment for pulmonary tuberculosis presents with numbness of the hands and feet. Examination shows decreased touch and pain sensation in a glove and stocking pattern. The cause is:",
+  "options": {
+   "A": "Tuberculosis itself",
+   "B": "Development of diabetes",
+   "C": "Side effect of INH",
+   "D": "Side effect of ethambutol",
+   "E": "Side effect of rifampicin"
+  },
+  "answer": "C",
+  "explanation": "Isoniazid causes peripheral neuropathy by interfering with pyridoxine; prevent with pyridoxine 10-25 mg daily.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00549",
+   "C01206"
+  ],
+  "stem": "A 30-year-old man has been on ATT for pulmonary TB for 3 weeks. He develops pain in the knee joints and his uric acid is 9 mg/dl. Which drug in his ATT is most likely responsible?",
+  "options": {
+   "A": "Isoniazid",
+   "B": "Rifampicin",
+   "C": "Ethambutol",
+   "D": "Pyrazinamide",
+   "E": "Streptomycin"
+  },
+  "answer": "D",
+  "explanation": "Pyrazinamide inhibits renal urate excretion and commonly causes hyperuricaemia and arthralgia; ethambutol is a lesser cause.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01053"
+  ],
+  "stem": "You have started anti-tuberculous therapy for a patient with pulmonary TB. Choose the correct statement regarding its toxic effects:",
+  "options": {
+   "A": "Rifampicin may cause green/yellow colour of urine",
+   "B": "Streptomycin causes hepatitis",
+   "C": "Pyrazinamide causes pseudo-gout",
+   "D": "Ethambutol causes optic neuritis",
+   "E": "INH may cause ototoxicity"
+  },
+  "answer": "D",
+  "explanation": "Ethambutol causes optic (retrobulbar) neuritis ('E for Eye'); rifampicin gives orange-red urine, pyrazinamide causes gout, and INH causes neuropathy and hepatitis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01004"
+  ],
+  "stem": "In a patient with abdominal tuberculosis, the ascitic fluid is expected to be:",
+  "options": {
+   "A": "Transudative lymphocytic",
+   "B": "Frankly haemorrhagic",
+   "C": "Exudative lymphocytic",
+   "D": "Transudative neutrophilic",
+   "E": "Exudative neutrophilic"
+  },
+  "answer": "C",
+  "explanation": "Tuberculous peritonitis gives an exudate (protein over 3 g/dl) with a lymphocyte predominance and a high ADA; SAAG is low.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00760"
+  ],
+  "stem": "A 26-year-old woman presents with cervical lymphadenopathy for 2 weeks. Lymph node biopsy reveals granuloma with caseous necrosis. The most likely diagnosis is:",
+  "options": {
+   "A": "Lymphoma",
+   "B": "Leukaemia",
+   "C": "Tuberculosis",
+   "D": "Sarcoidosis",
+   "E": "Metastatic breast cancer"
+  },
+  "answer": "C",
+  "explanation": "Caseating granulomas are the histological hallmark of tuberculosis; sarcoid granulomas are non-caseating.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01031",
+   "C01063"
+  ],
+  "stem": "A 30-year-old mother of 4 children is found to have AFB-positive sputum. What is the most important step among these?",
+  "options": {
+   "A": "Advise against pregnancy to avoid congenital TB",
+   "B": "Isolate her from the children for 12 months",
+   "C": "No need to send sputum for culture and sensitivity",
+   "D": "Start IV levofloxacin immediately",
+   "E": "Screen the whole household"
+  },
+  "answer": "E",
+  "explanation": "Contact tracing and screening of all household members (especially children) is essential; treating her makes her non-infectious within weeks, so prolonged isolation is unnecessary.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01362",
+   "C02245"
+  ],
+  "stem": "The most common symptom of infection is:",
+  "options": {
+   "A": "Tachycardia",
+   "B": "Tachypnoea",
+   "C": "Fever",
+   "D": "Shivering",
+   "E": "Hypotension"
+  },
+  "answer": "C",
+  "explanation": "Fever is the commonest presenting feature of infection; tachycardia and tachypnoea are signs that usually accompany it.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01345",
+   "C01143"
+  ],
+  "stem": "A 35-year-old man has had fever for 5 weeks, and despite repeated investigations and a week of hospital admission no diagnosis has been reached. This condition is labelled:",
+  "options": {
+   "A": "Viral fever",
+   "B": "Pyrexia of unknown origin",
+   "C": "Falciparum malaria",
+   "D": "Urinary tract infection",
+   "E": "Resistant typhoid"
+  },
+  "answer": "B",
+  "explanation": "PUO (classical): fever above 38.3 C for more than 3 weeks that remains undiagnosed after one week of in-hospital investigation.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01138"
+  ],
+  "stem": "A young patient in ICU after surgery with a central line in place develops fever. He improves on a third-generation cephalosporin but then relapses. CXR is unchanged and urine and blood cultures show no growth. The next best step is:",
+  "options": {
+   "A": "Remove the central line and send the tip for culture and sensitivity",
+   "B": "Bronchoscopy",
+   "C": "Transtracheal aspirate via endotracheal tube",
+   "D": "Increase the antibiotics",
+   "E": "Echocardiography"
+  },
+  "answer": "A",
+  "explanation": "Relapsing fever with a central line and negative cultures suggests a colonised catheter (often Candida or staphylococci); removing the line is the key step.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01365"
+  ],
+  "stem": "A patient with septic shock needs to be started on:",
+  "options": {
+   "A": "Diuretics",
+   "B": "Antibiotics",
+   "C": "Alpha blockers",
+   "D": "Beta blockers",
+   "E": "Calcium channel blockers"
+  },
+  "answer": "B",
+  "explanation": "Early broad-spectrum IV antibiotics (within the first hour) with fluid resuscitation are the cornerstone of septic shock management.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01076"
+  ],
+  "stem": "A patient presents with high-grade fever, hypotension and drowsiness and is diagnosed with septic shock. Which drug is indicated in the management of this case?",
+  "options": {
+   "A": "Diuretics",
+   "B": "Low-dose steroids",
+   "C": "Oral antibiotics",
+   "D": "Calcium channel blockers",
+   "E": "Nitrate infusion"
+  },
+  "answer": "B",
+  "explanation": "Low-dose hydrocortisone is indicated in septic shock that remains hypotensive despite fluids and vasopressors; the other options would worsen hypotension or are inadequate.",
+  "key_note": "Not marked in the source paper; answer by reviewer. (Antibiotics should be IV, so oral antibiotics are not correct.)",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01298"
+  ],
+  "stem": "Rose spots are a classical feature of which of the following?",
+  "options": {
+   "A": "Mumps",
+   "B": "Measles",
+   "C": "Dengue fever",
+   "D": "Chickenpox",
+   "E": "Typhoid fever"
+  },
+  "answer": "E",
+  "explanation": "Rose spots are blanching salmon-pink macules on the trunk seen in the second week of typhoid fever.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01347"
+  ],
+  "stem": "A patient presents with temperature 101 F and pulse 60/min. The likely reason could be:",
+  "options": {
+   "A": "Thyrotoxicosis",
+   "B": "Typhoid fever",
+   "C": "Rheumatic fever",
+   "D": "Beta agonist therapy",
+   "E": "Anxiety"
+  },
+  "answer": "B",
+  "explanation": "Relative bradycardia (Faget sign) is characteristic of typhoid fever.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01353",
+   "C01144"
+  ],
+  "stem": "A young girl presents with abdominal pain, fever and constipation for 7 days. On examination her liver is enlarged. Her blood culture is likely to reveal which organism?",
+  "options": {
+   "A": "Salmonella typhi",
+   "B": "Staphylococcus",
+   "C": "Streptococcus",
+   "D": "Mycobacterium",
+   "E": "Candida albicans"
+  },
+  "answer": "A",
+  "explanation": "Prolonged fever, constipation, abdominal pain and hepatosplenomegaly suggest enteric fever; blood culture grows Salmonella typhi.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01149"
+  ],
+  "stem": "Which of the following is expected in acute typhoid fever?",
+  "options": {
+   "A": "Anti-Salmonella IgM antibody",
+   "B": "Anti-Salmonella IgG antibody",
+   "C": "Both IgG and IgM antibodies",
+   "D": "Thrombocytosis",
+   "E": "IgA antibody"
+  },
+  "answer": "A",
+  "explanation": "IgM antibody (as in Typhidot) rises in acute infection, while IgG indicates past or chronic exposure.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01358"
+  ],
+  "stem": "A patient with typhoid fever develops severe abdominal pain and vomiting. On examination no bowel sounds are audible. The likely diagnosis is:",
+  "options": {
+   "A": "Pancreatitis",
+   "B": "Intestinal perforation",
+   "C": "Appendicitis",
+   "D": "Cholecystitis",
+   "E": "Ulcerative colitis"
+  },
+  "answer": "B",
+  "explanation": "Perforation of ulcerated Peyer's patches, usually in the third week, causes peritonitis with silent abdomen.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01148"
+  ],
+  "stem": "The pattern of fever in malaria is:",
+  "options": {
+   "A": "Continuous",
+   "B": "Biphasic",
+   "C": "Intermittent",
+   "D": "Low grade",
+   "E": "Pel-Ebstein"
+  },
+  "answer": "C",
+  "explanation": "Malaria gives intermittent paroxysmal fever with chills, rigors and sweating, tertian or quartan according to species.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01361"
+  ],
+  "stem": "A patient is diagnosed with malaria. The vector transmitting malaria is:",
+  "options": {
+   "A": "Faeco-oral",
+   "B": "Airborne",
+   "C": "House flies",
+   "D": "Anopheles mosquito",
+   "E": "Aedes aegypti"
+  },
+  "answer": "D",
+  "explanation": "Malaria is transmitted by the bite of the female Anopheles mosquito; Aedes transmits dengue.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01146"
+  ],
+  "stem": "Plasmodium falciparum causes which of the following serious complications?",
+  "options": {
+   "A": "Blindness",
+   "B": "Constipation",
+   "C": "Cerebral malaria",
+   "D": "Loose motions",
+   "E": "Vomiting"
+  },
+  "answer": "C",
+  "explanation": "Cytoadherence of parasitised red cells in cerebral microvasculature causes cerebral malaria, the major complication of falciparum infection.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01207",
+   "C01423"
+  ],
+  "stem": "A 17-year-old boy has altered mental status for 6 hours. His father reports high-grade intermittent fever for 5-6 days, classically on alternate days. There is no neck stiffness and GCS is 13/15. The most probable diagnosis is:",
+  "options": {
+   "A": "Tuberculous meningitis",
+   "B": "Pyogenic meningitis",
+   "C": "Viral encephalitis",
+   "D": "Cerebral malaria",
+   "E": "Chemical meningitis"
+  },
+  "answer": "D",
+  "explanation": "Periodic fever with altered consciousness and no meningism points to cerebral malaria.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01363",
+   "C00660",
+   "C00662",
+   "C01125",
+   "C01829",
+   "C02034",
+   "C02767"
+  ],
+  "stem": "A patient presents with headache and altered conscious level for one day. His blood film shows ring-shaped trophozoites. The most appropriate management is:",
+  "options": {
+   "A": "Ciprofloxacin",
+   "B": "IV artesunate",
+   "C": "Amoxicillin",
+   "D": "Metronidazole",
+   "E": "Fluconazole"
+  },
+  "answer": "B",
+  "explanation": "Altered consciousness with ring forms indicates severe (cerebral) falciparum malaria, which needs parenteral artesunate; chloroquine resistance is widespread.",
+  "key_note": "Paper keys varied (chloroquine, quinine, oral/IM artemether in different copies). Severe/cerebral falciparum malaria needs parenteral therapy; IV artesunate is first line (WHO). Several copies of the same question were merged and the option list rebuilt around IV artesunate.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01280",
+   "C01424",
+   "C01349"
+  ],
+  "stem": "A patient with falciparum malaria on antimalarial therapy passes dark-coloured urine with oliguria. Which complication has he developed?",
+  "options": {
+   "A": "Urinary tract infection",
+   "B": "Blackwater fever",
+   "C": "Malignancy",
+   "D": "Renal calculi",
+   "E": "Cerebral malaria"
+  },
+  "answer": "B",
+  "explanation": "Blackwater fever is massive intravascular haemolysis with haemoglobinuria and acute kidney injury, in falciparum malaria and associated with quinine use or G6PD deficiency.",
+  "key_note": "Option order differed between papers; all copies point to blackwater fever.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01130"
+  ],
+  "stem": "Plasmodium vivax and ovale can remain dormant in the liver for years. The drug used to eradicate these liver hypnozoites is:",
+  "options": {
+   "A": "Mefloquine",
+   "B": "Chloroquine",
+   "C": "Primaquine",
+   "D": "Quinine",
+   "E": "Artesunate"
+  },
+  "answer": "C",
+  "explanation": "Primaquine (after G6PD testing) kills the hypnozoites and gives radical cure; chloroquine acts only on blood schizonts.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01203",
+   "C01548"
+  ],
+  "stem": "A patient presents with fever, rash and bleeding gums. A provisional diagnosis of viral haemorrhagic fever is made. The most common cause of VHF in Pakistan is:",
+  "options": {
+   "A": "Congo-Crimean haemorrhagic fever",
+   "B": "Rift Valley fever",
+   "C": "Dengue fever",
+   "D": "Measles",
+   "E": "Lassa fever"
+  },
+  "answer": "C",
+  "explanation": "Dengue is by far the commonest viral haemorrhagic fever in Pakistan; CCHF is sporadic.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01422",
+   "C01470"
+  ],
+  "stem": "In October after excessive rainfall you observe an outbreak of dengue fever in your area. The recommended preventive measure is:",
+  "options": {
+   "A": "Prophylactic antivirals",
+   "B": "Wearing a face mask",
+   "C": "Mosquito control",
+   "D": "Oral antibiotics",
+   "E": "Control of house flies"
+  },
+  "answer": "C",
+  "explanation": "Vector control (removing stagnant water, larvicide, fogging, repellents) is the mainstay of dengue prevention.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01137",
+   "C01209"
+  ],
+  "stem": "A 13-year-old boy has sore throat, fever and body aches. Examination shows tonsillar exudate and anterior cervical lymphadenopathy, and the peripheral film shows atypical lymphocytes. Which organism is responsible?",
+  "options": {
+   "A": "Streptococcus",
+   "B": "Epstein-Barr virus",
+   "C": "Varicella zoster virus",
+   "D": "Respiratory syncytial virus",
+   "E": "Haemophilus influenzae"
+  },
+  "answer": "B",
+  "explanation": "Atypical lymphocytes with exudative pharyngitis and lymphadenopathy indicate EBV infectious mononucleosis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01145",
+   "C01560"
+  ],
+  "stem": "A young girl presents with sore throat, malaise and dysphagia. She has low-grade fever, cervical lymphadenopathy and a yellowish-grey membrane covering the pharynx. Which statement is true?",
+  "options": {
+   "A": "She is likely to have polio",
+   "B": "Treatment should be started only after laboratory confirmation",
+   "C": "Treatment with antitoxin is life-saving and should not be delayed",
+   "D": "The causative organism is an invasive aerobic Gram-negative rod",
+   "E": "This is an autoimmune disease"
+  },
+  "answer": "C",
+  "explanation": "This is diphtheria (toxin-mediated, Gram-positive non-invasive bacillus); equine antitoxin plus penicillin or erythromycin is given on clinical suspicion without waiting for culture.",
+  "key_note": "Not marked in the source paper; as printed no option was true (antitoxin option read 'unhelpful'), so option C was corrected by the reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01367",
+   "C02177",
+   "C02504"
+  ],
+  "stem": "A baby sitter presents with fever and a rash comprising papules and vesicles all over the body. She is likely to be suffering from:",
+  "options": {
+   "A": "Measles",
+   "B": "Chickenpox",
+   "C": "Herpes simplex",
+   "D": "Herpes zoster",
+   "E": "Scabies"
+  },
+  "answer": "B",
+  "explanation": "Crops of papules and vesicles in different stages in a febrile patient indicate varicella (chickenpox).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01215"
+  ],
+  "stem": "An 18-year-old boy has fever and a rash for 4 days. The rash is maculopapular and vesicular, with small vesicles like dew drops on a rose petal, in different stages. Treatment is:",
+  "options": {
+   "A": "Supportive only",
+   "B": "IV antiviral drugs",
+   "C": "Oral antiviral drugs",
+   "D": "Prophylactic antibiotics",
+   "E": "Topical antiviral and antibiotics"
+  },
+  "answer": "A",
+  "explanation": "This is varicella; in an immunocompetent patient treatment is supportive (antipyretics, calamine, hygiene), as oral acyclovir helps only if started within 24 hours of the rash in adolescents and adults.",
+  "key_note": "Paper keys marked E (topical antiviral and antibiotics), which has no role; correct is A.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01299",
+   "C02208"
+  ],
+  "stem": "Mucocutaneous vesicular eruptions are classically seen in:",
+  "options": {
+   "A": "Typhoid fever",
+   "B": "Measles",
+   "C": "Meningococcaemia",
+   "D": "Herpes simplex virus infection",
+   "E": "Dengue fever"
+  },
+  "answer": "D",
+  "explanation": "HSV produces grouped vesicles on skin and mucous membranes.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01415",
+   "C02178",
+   "C02506",
+   "C03141"
+  ],
+  "stem": "A patient on chemotherapy develops a painful, burning vesicular eruption on the skin. The lesions follow a dermatome distribution. The likely diagnosis is:",
+  "options": {
+   "A": "Rose spots",
+   "B": "Measles",
+   "C": "Meningococcaemia",
+   "D": "Candidiasis",
+   "E": "Herpes zoster"
+  },
+  "answer": "E",
+  "explanation": "Painful unilateral dermatomal vesicles in an immunosuppressed patient are herpes zoster.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01414"
+  ],
+  "stem": "While examining the oral cavity of a patient with measles, you are likely to see:",
+  "options": {
+   "A": "Herpes labialis",
+   "B": "Koplik spots",
+   "C": "Oral candidiasis",
+   "D": "Aphthous ulcers",
+   "E": "Exudates on tonsils"
+  },
+  "answer": "B",
+  "explanation": "Koplik spots (white spots on the buccal mucosa opposite the molars) are pathognomonic of measles and appear before the rash.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01370"
+  ],
+  "stem": "How does rubella cause foetal abnormalities?",
+  "options": {
+   "A": "By type 1 hypersensitivity reaction",
+   "B": "By inducing cytokines and chemokines in the mother",
+   "C": "By crossing the placenta early in pregnancy and infecting the foetus",
+   "D": "By only infecting the placenta",
+   "E": "By raising the temperature of the mother and inducing an abnormal immune reaction to the foetus"
+  },
+  "answer": "C",
+  "explanation": "Maternal viraemia in early pregnancy allows transplacental infection of the foetus, causing congenital rubella syndrome (cataract, deafness, PDA).",
+  "key_note": "Option E was recovered by the reviewer from text merged into the next question.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01133"
+  ],
+  "stem": "A young boy from a remote village in KPK has fever, sore throat and muscle pain for 5 days followed by weakness of the right arm. Examination shows flaccid paralysis of the right arm with absent reflexes and no sensory loss; the other limbs are normal. The probable diagnosis is:",
+  "options": {
+   "A": "Viral encephalitis",
+   "B": "Ischaemic stroke",
+   "C": "Poliomyelitis",
+   "D": "Motor neuron disease",
+   "E": "Guillain-Barre syndrome"
+  },
+  "answer": "C",
+  "explanation": "Asymmetric flaccid paralysis with preserved sensation after a febrile prodrome in an unvaccinated child is polio (anterior horn cell infection); GBS is symmetrical with sensory features.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01139",
+   "C01208"
+  ],
+  "stem": "A 34-year-old man was bitten by a dog 6 months ago and now has agitation, fits, hydrophobia and aerophobia. Treatment is:",
+  "options": {
+   "A": "Anti-rabies human immunoglobulin",
+   "B": "Rabies vaccine (HDCV)",
+   "C": "Mechanical ventilation with general anaesthesia",
+   "D": "Antiepileptic drugs",
+   "E": "Supportive treatment only"
+  },
+  "answer": "E",
+  "explanation": "Once clinical rabies has developed it is almost uniformly fatal, and vaccine or immunoglobulin no longer help; only palliative and supportive care is given.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01194"
+  ],
+  "stem": "A male explorer in a tropical area develops a pruritic, erythematous, linear skin lesion that shifts its position over days. What is the appropriate treatment?",
+  "options": {
+   "A": "Antibiotics",
+   "B": "Antihelminthic",
+   "C": "Cauterisation",
+   "D": "Cold compresses",
+   "E": "Observation"
+  },
+  "answer": "B",
+  "explanation": "This is cutaneous larva migrans (creeping eruption) from hookworm larvae, treated with albendazole or ivermectin.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01147"
+  ],
+  "stem": "The high-risk group in the community to acquire HIV includes:",
+  "options": {
+   "A": "School-going children",
+   "B": "Radiologists",
+   "C": "IV drug abusers",
+   "D": "Sanitary workers",
+   "E": "Sewage workers"
+  },
+  "answer": "C",
+  "explanation": "Sharing needles makes IV drug users a major high-risk group for HIV.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01150",
+   "C01348"
+  ],
+  "stem": "An IV drug abuser presents with 3 months of weight loss, diarrhoea and fever. He is not jaundiced and has generalised lymphadenopathy. Which test is likely to be positive?",
+  "options": {
+   "A": "HBs antigen",
+   "B": "Anti-HCV antibody",
+   "C": "Anti-HIV antibody",
+   "D": "Anti-thyroid antibodies",
+   "E": "Anti-tTG IgA"
+  },
+  "answer": "C",
+  "explanation": "Constitutional symptoms, chronic diarrhoea and generalised lymphadenopathy in an IV drug user point to HIV; he is not jaundiced, which makes viral hepatitis less likely.",
+  "key_note": "Not marked in the source paper; answer by reviewer. Options were reorganised (a stray option and fragment of the stem had merged).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01379"
+  ],
+  "stem": "A 40-year-old man has 3 months of weight loss, diarrhoea, oral ulcers and skin eruptions. His oral cavity has white curd-like patches on the tongue and palate. The likely diagnosis is:",
+  "options": {
+   "A": "Vitamin C deficiency",
+   "B": "HIV infection",
+   "C": "Diabetes",
+   "D": "Coeliac disease",
+   "E": "Tuberculosis"
+  },
+  "answer": "B",
+  "explanation": "Oral thrush with weight loss and chronic diarrhoea in a young adult suggests HIV infection with immunosuppression.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01266"
+  ],
+  "stem": "Which of the following is NOT a cutaneous manifestation of HIV infection?",
+  "options": {
+   "A": "Seborrhoeic dermatitis",
+   "B": "Recurrent folliculitis",
+   "C": "Kaposi sarcoma",
+   "D": "Oesophageal candidiasis",
+   "E": "Giant molluscum contagiosum"
+  },
+  "answer": "D",
+  "explanation": "Folliculitis, seborrhoeic dermatitis, Kaposi sarcoma and giant molluscum contagiosum are skin manifestations of HIV; oesophageal candidiasis is a gastrointestinal (mucosal) disease, not cutaneous.",
+  "key_note": "Paper keys marked E (giant molluscum), which is a cutaneous HIV sign; the question asks for the exception, which is D.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01225"
+  ],
+  "stem": "A 22-year-old pregnant woman is known to be HIV positive. Which of the following should NOT be part of the management plan?",
+  "options": {
+   "A": "Elective caesarean section",
+   "B": "Oral zidovudine for the newborn",
+   "C": "Encouraging breastfeeding",
+   "D": "Intrapartum zidovudine for the mother",
+   "E": "Maternal antiretroviral therapy"
+  },
+  "answer": "C",
+  "explanation": "Breastfeeding transmits HIV, so replacement feeding is advised where safe; ART, newborn prophylaxis and (with high viral load) elective section reduce vertical transmission.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01366"
+  ],
+  "stem": "A house officer is pricked while taking a sample from a patient. Which disease can be transmitted by needle prick?",
+  "options": {
+   "A": "Hepatitis A",
+   "B": "HIV",
+   "C": "Hepatitis E",
+   "D": "Typhoid fever",
+   "E": "Malaria"
+  },
+  "answer": "B",
+  "explanation": "HIV, HBV and HCV are the major bloodborne infections in needle-stick injury; hepatitis A and E and typhoid are faeco-oral.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01357",
+   "C00473"
+  ],
+  "stem": "A house officer has a needle-prick injury during tooth extraction in a hepatitis B-positive patient. She was vaccinated against hepatitis B in childhood. The appropriate management is:",
+  "options": {
+   "A": "Hepatitis B vaccine booster",
+   "B": "Hepatitis B immunoglobulin",
+   "C": "Hepatitis B vaccine and immunoglobulin",
+   "D": "Start interferon therapy",
+   "E": "Start oral antiviral therapy"
+  },
+  "answer": "A",
+  "explanation": "A previously vaccinated person is given a booster (after checking anti-HBs titre, with HBIG added only if the titre is inadequate); antivirals are not used for prophylaxis.",
+  "key_note": "Paper keys disagreed between copies (booster alone vs HBIG plus booster) for a previously vaccinated exposed person. Standard teaching: a vaccinated person with a documented adequate response needs a booster only; HBIG is added only if anti-HBs is below 10 mIU/mL or unknown after checking.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01360"
+  ],
+  "stem": "A diabetic patient presents with a foot ulcer. He has high-grade fever and appears unwell. Which of the following is preferred in this case?",
+  "options": {
+   "A": "Augmented amoxicillin (co-amoxiclav)",
+   "B": "IV dextrose water",
+   "C": "Acyclovir",
+   "D": "Corticosteroids",
+   "E": "Fluconazole"
+  },
+  "answer": "A",
+  "explanation": "An infected diabetic foot with systemic toxicity needs prompt broad-spectrum antibiotics covering Gram-positive, Gram-negative and anaerobic organisms.",
+  "key_note": "Source list had 4 options in one copy; fifth option from the other copy.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01129"
+  ],
+  "stem": "A 45-year-old woman is diagnosed with tuberculosis, but there is no improvement after 2 months of treatment and MDR TB is suspected. MDR TB is defined as:",
+  "options": {
+   "A": "Resistance to any one first-line drug",
+   "B": "Resistance to isoniazid only",
+   "C": "Resistance to isoniazid and rifampicin",
+   "D": "Resistance to all first-line drugs",
+   "E": "Resistance to isoniazid, rifampicin and quinolones"
+  },
+  "answer": "C",
+  "explanation": "MDR TB is resistance to at least isoniazid and rifampicin; adding a quinolone plus an injectable makes it XDR.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01152"
+  ],
+  "stem": "A patient is suspected of having multidrug-resistant tuberculosis. The treatment of choice will be:",
+  "options": {
+   "A": "Continue first-line ATT",
+   "B": "Switch to a second-line regimen guided by drug susceptibility",
+   "C": "Add corticosteroids",
+   "D": "Double the dose of first-line ATT",
+   "E": "Add IV amoxiclav"
+  },
+  "answer": "B",
+  "explanation": "MDR TB needs a second-line regimen based on Xpert or drug susceptibility testing; first-line drugs are ineffective.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01205",
+   "C01831",
+   "C02468",
+   "C03219"
+  ],
+  "stem": "A 34-year-old man from a poor socioeconomic background has had cough and fever for 6 months and is diagnosed with new pulmonary tuberculosis. What is the treatment duration?",
+  "options": {
+   "A": "2 months intensive phase and 4 months continuation phase",
+   "B": "2 months intensive phase and 6 months continuation phase",
+   "C": "2 months intensive phase and 7 months continuation phase",
+   "D": "2 months intensive phase and 9 months continuation phase",
+   "E": "3 months intensive phase and 9 months continuation phase"
+  },
+  "answer": "A",
+  "explanation": "New drug-sensitive pulmonary TB: 2 months of HRZE then 4 months of HR (6 months in total).",
+  "key_note": "Two options were near-duplicates in the source; list rebuilt by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01384"
+  ],
+  "stem": "An elderly woman presents with disfigurement of the features, loss of sensation and muscle weakness. The management of this disease is by:",
+  "options": {
+   "A": "Corticosteroids",
+   "B": "Laser therapy",
+   "C": "Dapsone and rifampicin",
+   "D": "Rifampicin and isoniazid",
+   "E": "Penicillin"
+  },
+  "answer": "C",
+  "explanation": "These are features of leprosy, treated with multidrug therapy containing dapsone and rifampicin (plus clofazimine in multibacillary disease).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01128"
+  ],
+  "stem": "A 45-year-old man in a leprosy centre is diagnosed with multibacillary leprosy. What is the right treatment combination?",
+  "options": {
+   "A": "Rifampicin, dapsone and clofazimine for 12 months",
+   "B": "Rifampicin, dapsone and clofazimine for 18 months",
+   "C": "Rifampicin and dapsone for 6 months",
+   "D": "Dapsone alone for 2 years",
+   "E": "Rifampicin, ofloxacin and minocycline as a single dose"
+  },
+  "answer": "A",
+  "explanation": "WHO multibacillary MDT is rifampicin, dapsone and clofazimine for 12 months (previously 24 months); 6 months of rifampicin and dapsone is for paucibacillary disease.",
+  "key_note": "Some paper keys marked B (18 months); correct is A (12 months), as no regimen uses 18 months. Source options C and D were duplicates; D rewritten by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01259"
+  ],
+  "stem": "A 27-year-old man develops a generalised eruption of copper-coloured scaly plaques over the body, including the palms and soles, which is asymptomatic. There is a history of genital ulceration in the past. Which investigation will you do?",
+  "options": {
+   "A": "Serum calcium and ACE levels",
+   "B": "Serum ANA and ENA",
+   "C": "Serum VDRL and TPHA",
+   "D": "Blood cultures",
+   "E": "Skin biopsy"
+  },
+  "answer": "C",
+  "explanation": "A symmetrical copper-coloured palmoplantar rash after a genital ulcer is secondary syphilis, confirmed by VDRL (non-treponemal) and TPHA (treponemal).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01227"
+  ],
+  "stem": "A 40-year-old man has dysuria and purulent urethral discharge, and a papular rash on the body with an erythematous base. Urethral microscopy shows intracellular Gram-negative diplococci. How would you treat him?",
+  "options": {
+   "A": "Injection vancomycin 1 g IV stat",
+   "B": "Injection ceftriaxone 500 mg IM stat",
+   "C": "Tablet Septran DS twice daily for 7 days",
+   "D": "No treatment is required",
+   "E": "Injection acyclovir 500 mg three times daily for 7 days"
+  },
+  "answer": "B",
+  "explanation": "Intracellular Gram-negative diplococci indicate gonorrhoea (with possible disseminated infection); a single dose of IM ceftriaxone is the recommended treatment, usually with azithromycin or doxycycline to cover chlamydia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01224"
+  ],
+  "stem": "A 25-year-old woman with acute pelvic pain is diagnosed with pelvic inflammatory disease. What is the most common cause?",
+  "options": {
+   "A": "Chlamydia trachomatis",
+   "B": "Neisseria gonorrhoeae",
+   "C": "Mycoplasma genitalium",
+   "D": "Mycobacterium tuberculosis",
+   "E": "Escherichia coli"
+  },
+  "answer": "A",
+  "explanation": "Chlamydia trachomatis is the commonest cause of PID, followed by Neisseria gonorrhoeae.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01132"
+  ],
+  "stem": "A dairy farm worker has undulant fever, myalgia, joint pain and night sweats for 2 weeks, and brucellosis is diagnosed. The treatment of choice with minimum risk of relapse is:",
+  "options": {
+   "A": "IM streptomycin for 2 weeks and oral doxycycline for 6 weeks",
+   "B": "Oral doxycycline and rifampicin for 2 weeks",
+   "C": "Oral doxycycline and rifampicin for 6 weeks",
+   "D": "Rifampicin and ciprofloxacin for 6 weeks",
+   "E": "Ciprofloxacin for 2 weeks and oral doxycycline for 6 weeks"
+  },
+  "answer": "A",
+  "explanation": "Doxycycline for 6 weeks plus an aminoglycoside (streptomycin 2-3 weeks) has the lowest relapse rate; doxycycline plus rifampicin for 6 weeks is the oral alternative.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01142"
+  ],
+  "stem": "The antibiotic of choice for rickettsial infection is:",
+  "options": {
+   "A": "Tetracycline",
+   "B": "Cefotaxime",
+   "C": "Co-amoxiclav",
+   "D": "Aminoglycoside",
+   "E": "Ciprofloxacin"
+  },
+  "answer": "A",
+  "explanation": "Doxycycline or tetracycline is the drug of choice for rickettsial infections.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01283"
+  ],
+  "stem": "Which of the following is a classical feature of Vibrio cholerae infection?",
+  "options": {
+   "A": "Abdominal colic",
+   "B": "Blood in stools",
+   "C": "Intestinal obstruction",
+   "D": "Fever with rigors",
+   "E": "Rice-water stools"
+  },
+  "answer": "E",
+  "explanation": "Cholera toxin causes profuse painless rice-water diarrhoea with rapid dehydration.",
+  "key_note": "Option E was missing in one copy; answer E per the full version.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01131"
+  ],
+  "stem": "An 18-year-old boy presents to the emergency department of a flood-affected area with severe watery diarrhoea and profuse vomiting. The best initial management is:",
+  "options": {
+   "A": "IV metronidazole",
+   "B": "IV ciprofloxacin",
+   "C": "Tetracyclines",
+   "D": "Anti-emetics to stop vomiting",
+   "E": "Fluid replacement"
+  },
+  "answer": "E",
+  "explanation": "Rapid rehydration (ORS or IV Ringer's lactate) is the priority in suspected cholera; antibiotics are adjunctive.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01297"
+  ],
+  "stem": "Ancylostoma duodenale (hookworm) typically produces which clinical feature?",
+  "options": {
+   "A": "Dermatitis",
+   "B": "Paroxysmal cough",
+   "C": "Iron deficiency anaemia",
+   "D": "Epigastric pain",
+   "E": "Diarrhoea"
+  },
+  "answer": "C",
+  "explanation": "Chronic blood loss from the intestinal attachment of adult worms causes iron deficiency anaemia; ground itch and cough are transient early features.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01413",
+   "C03154"
+  ],
+  "stem": "A 28-year-old man presents with fever, bloody diarrhoea and right hypochondrial pain. Ultrasound shows a 4 x 4 cm lesion in the right lobe of the liver. The preferred medication is:",
+  "options": {
+   "A": "Albendazole",
+   "B": "Amoxiclav",
+   "C": "Vancomycin",
+   "D": "Metronidazole",
+   "E": "Paracetamol"
+  },
+  "answer": "D",
+  "explanation": "Dysentery followed by a solitary right-lobe liver lesion is an amoebic liver abscess, treated with metronidazole followed by a luminal agent.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02247"
+  ],
+  "stem": "Neutrophil leucocytosis is an important feature of acute fever without localising signs in:",
+  "options": {
+   "A": "Bacterial sepsis",
+   "B": "Amoebic liver abscess",
+   "C": "Typhoid fever",
+   "D": "Viral fevers",
+   "E": "Tuberculosis"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Bacterial sepsis typically causes neutrophilia. Typhoid, viral fevers and TB characteristically show normal counts or leucopenia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01496"
+  ],
+  "stem": "A high ESR is NOT a feature of which of the following infections?",
+  "options": {
+   "A": "Tuberculosis",
+   "B": "Brucellosis",
+   "C": "Osteomyelitis",
+   "D": "Hepatitis C",
+   "E": "Bacterial endocarditis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Chronic granulomatous, deep-seated and endovascular infections (TB, osteomyelitis, endocarditis) raise the ESR markedly. Hepatitis C does not typically do so.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01713"
+  ],
+  "stem": "Which of the following infections usually has the longest incubation period?",
+  "options": {
+   "A": "HIV",
+   "B": "Rubella",
+   "C": "Dengue fever",
+   "D": "Meningococcus",
+   "E": "Chickenpox"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "HIV has the longest incubation (years to clinical AIDS), whereas dengue is 3-14 days, meningococcus 2-10 days, rubella and chickenpox about 2-3 weeks.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01575"
+  ],
+  "stem": "A 30-year-old male is investigated for pyrexia of unknown origin. On detailed examination he has Janeway lesions, splinter haemorrhages, Roth spots and anaemia. The likely diagnosis is:",
+  "options": {
+   "A": "Miliary tuberculosis",
+   "B": "Infective endocarditis",
+   "C": "Brucellosis",
+   "D": "Meningococcaemia",
+   "E": "Infectious mononucleosis"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Janeway lesions, splinter haemorrhages and Roth spots are embolic and immunological stigmata of infective endocarditis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01455"
+  ],
+  "stem": "Waterhouse-Friderichsen syndrome is caused by:",
+  "options": {
+   "A": "Pneumococcus",
+   "B": "Meningococcus",
+   "C": "Staphylococcus",
+   "D": "E. coli"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "It is acute adrenal haemorrhage with purpura and shock in fulminant meningococcaemia (Neisseria meningitidis).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01456"
+  ],
+  "stem": "A 21-year-old male from a boarding school is brought to the ER unconscious with normally reacting pupils, temperature of 102 F, neck stiffness and a positive Kernig's sign. The most likely cause is:",
+  "options": {
+   "A": "Staphylococcus aureus",
+   "B": "Streptococcus",
+   "C": "Neisseria meningitidis",
+   "D": "Enterococci",
+   "E": "Gonococcus"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Meningitis in adolescents living in closed communities such as boarding schools is classically meningococcal.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01692"
+  ],
+  "stem": "The treatment for meningitis in old age is a 3rd generation cephalosporin plus ampicillin. Which organism is the reason for adding ampicillin?",
+  "options": {
+   "A": "Listeria monocytogenes",
+   "B": "E. coli",
+   "C": "Haemophilus influenzae",
+   "D": "Penicillin-resistant meningococcus",
+   "E": "Pneumococcus"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Listeria monocytogenes is a risk in the elderly, neonates and the immunosuppressed and is intrinsically resistant to cephalosporins, so ampicillin/penicillin is added.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01770"
+  ],
+  "stem": "A gentleman presents with insidious onset of fever, headache and mild gastrointestinal upset for 10 days. A provisional diagnosis of enteric fever is made. What is the best empirical therapy?",
+  "options": {
+   "A": "3rd generation cephalosporin",
+   "B": "Macrolides",
+   "C": "Benzyl penicillin",
+   "D": "Cloxacillin",
+   "E": "Metronidazole"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "A third generation cephalosporin (ceftriaxone) is the standard empirical therapy as quinolone and chloramphenicol resistance is widespread in Pakistan; azithromycin or carbapenems are used for XDR strains.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02176"
+  ],
+  "stem": "For how long will you treat a case of typhoid fever as per guidelines?",
+  "options": {
+   "A": "3 days",
+   "B": "5 days",
+   "C": "14 days",
+   "D": "30 days",
+   "E": "7 days"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Enteric fever treated with a third generation cephalosporin is usually given for about 14 days; shorter courses apply only to azithromycin.",
+  "key_note": "Not marked in the source paper; answer by reviewer. Duration varies with the drug used; 14 days is the standard for ceftriaxone.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02265"
+  ],
+  "stem": "A 20-year-old gentleman presents with abdominal pain, vomiting and double vision for twelve hours after eating canned food. The most likely causative organism is:",
+  "options": {
+   "A": "Salmonella typhi",
+   "B": "Salmonella paratyphi",
+   "C": "Vibrio cholerae",
+   "D": "Clostridium botulinum",
+   "E": "Staphylococcus aureus"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Botulinum toxin from improperly canned food causes GI upset followed by diplopia and descending flaccid paralysis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01468"
+  ],
+  "stem": "Which of the following is basically a gastrointestinal infection?",
+  "options": {
+   "A": "Q fever",
+   "B": "Lyme disease",
+   "C": "Plague",
+   "D": "Listeriosis",
+   "E": "Salmonellosis"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Salmonellosis is acquired by the faeco-oral route and is primarily an enteric infection; the others are zoonoses or vector-borne.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02248",
+   "C00666",
+   "C03156"
+  ],
+  "stem": "The most common cause of traveller's diarrhoea is:",
+  "options": {
+   "A": "Shigella species",
+   "B": "Salmonella species",
+   "C": "Enterotoxigenic Escherichia coli",
+   "D": "Campylobacter jejuni",
+   "E": "Cholera"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "ETEC accounts for the largest share of traveller's diarrhoea.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02267"
+  ],
+  "stem": "The culture from an infected wound in a diabetic patient has grown MRSA. The appropriate antibiotic is:",
+  "options": {
+   "A": "Vancomycin",
+   "B": "Streptomycin",
+   "C": "Amoxicillin",
+   "D": "Ceftazidime",
+   "E": "Azithromycin"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "MRSA is resistant to all beta-lactams; vancomycin (or linezolid, teicoplanin) is the treatment of choice.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01761"
+  ],
+  "stem": "Complications of falciparum malaria do NOT include:",
+  "options": {
+   "A": "Lactic acidosis",
+   "B": "Hypoglycaemia",
+   "C": "Septic arthritis",
+   "D": "Disseminated intravascular coagulation",
+   "E": "Cerebral complications"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Falciparum malaria causes cerebral malaria, hypoglycaemia, lactic acidosis, DIC, ARDS and AKI, but not septic arthritis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01795"
+  ],
+  "stem": "A 16-year-old boy presents with high-grade intermittent fever with rigors and chills, headache and weakness for 5 days, and black-coloured urine for the last 24 hours. The most likely diagnosis is:",
+  "options": {
+   "A": "Brucellosis",
+   "B": "Urinary tract infection",
+   "C": "Typhoid fever",
+   "D": "Dengue fever",
+   "E": "Malaria"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Haemoglobinuria (black urine) with rigors suggests falciparum malaria with blackwater fever.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01684"
+  ],
+  "stem": "A 50-year-old patient receiving intravenous quinine for cerebral malaria needs ECG monitoring. Which finding is likely to develop?",
+  "options": {
+   "A": "PR prolongation",
+   "B": "Hyperacute T waves",
+   "C": "QT prolongation",
+   "D": "T wave inversion",
+   "E": "ST elevation"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Quinine (a cinchona alkaloid) prolongs the QT interval and can cause torsades; ECG and glucose monitoring are required.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01461"
+  ],
+  "stem": "The commonest cause of tropical splenomegaly is:",
+  "options": {
+   "A": "Dengue fever",
+   "B": "Malaria",
+   "C": "Subacute bacterial endocarditis",
+   "D": "Typhoid",
+   "E": "Brucellosis"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Tropical (hyperreactive malarial) splenomegaly results from an exaggerated immune response to chronic malaria.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01879"
+  ],
+  "stem": "A 32-year-old woman presents with progressive pallor, left hypochondrial heaviness and early satiety. There is massive splenomegaly, very high serum IgM antibodies against plasmodia and minor parasitaemia. What is the diagnosis?",
+  "options": {
+   "A": "Tropical eosinophilia",
+   "B": "Kala azar",
+   "C": "Disseminated tuberculosis",
+   "D": "Tropical splenomegaly syndrome",
+   "E": "Schistosomal liver cirrhosis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Massive splenomegaly with raised IgM and anti-malarial antibodies and scanty parasitaemia is tropical splenomegaly syndrome.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02502"
+  ],
+  "stem": "A 22-year-old male presents with fever, sore throat, severe headache, periorbital pain and backache for 3 days, with an erythematous rash, epistaxis and gum bleeding. What is your diagnosis?",
+  "options": {
+   "A": "Malaria",
+   "B": "Typhoid",
+   "C": "Tuberculosis",
+   "D": "Mumps",
+   "E": "Dengue fever"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Fever with retro-orbital pain, myalgia/backache, rash and mucosal bleeding is dengue.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01690"
+  ],
+  "stem": "A patient presents with fever, rash and bleeding gums and a provisional diagnosis of dengue fever is made. What is the most critical time in dengue regarding complications?",
+  "options": {
+   "A": "First 5 days",
+   "B": "2nd and 3rd day",
+   "C": "4th day",
+   "D": "5th and 6th day",
+   "E": "5th to 10th day"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Plasma leakage and shock occur in the critical phase, around defervescence on about days 4-7 of illness; of the options, days 5-6 fits best.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01762"
+  ],
+  "stem": "A 24-year-old man admitted with fever and rash is diagnosed with dengue fever. A bad prognostic sign is:",
+  "options": {
+   "A": "Fever more than 39.5 degrees centigrade",
+   "B": "Severe retro-orbital pain",
+   "C": "A falling platelet count",
+   "D": "A rising haematocrit",
+   "E": "An increasing urine output"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A rising haematocrit signals haemoconcentration from plasma leakage and impending shock. A falling platelet count is expected in all dengue.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02175"
+  ],
+  "stem": "A patient presents with high-grade fever and BP 80/40 mmHg. Hb 12 g/dl, WBC 5000 and platelets 70,000. NS1 antigen is positive. The likely cause of hypotension is:",
+  "options": {
+   "A": "Hypovolaemia",
+   "B": "Capillary leak syndrome",
+   "C": "Vasovagal",
+   "D": "Cardiogenic",
+   "E": "Anaphylactic"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Dengue shock is due to increased capillary permeability with plasma leakage.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01446"
+  ],
+  "stem": "A patient with dengue shock syndrome should be managed with which of the following?",
+  "options": {
+   "A": "IV antibiotics",
+   "B": "IV antivirals",
+   "C": "Heparin infusion",
+   "D": "Ibuprofen",
+   "E": "IV fluids"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Careful IV crystalloid (and colloid in refractory shock) is the core of dengue shock management; NSAIDs and anticoagulants are contraindicated.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01458"
+  ],
+  "stem": "Leishmaniasis is transmitted by:",
+  "options": {
+   "A": "Butterfly",
+   "B": "Housefly",
+   "C": "Sandfly",
+   "D": "Black fly",
+   "E": "Yellow fly"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Leishmania is transmitted by the bite of the female phlebotomine sandfly.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02280"
+  ],
+  "stem": "A patient with leishmaniasis is best treated with:",
+  "options": {
+   "A": "A 3rd generation cephalosporin",
+   "B": "An oral antifungal",
+   "C": "A pentavalent antimony compound",
+   "D": "A course of intravenous penicillin",
+   "E": "A topical antiviral"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Pentavalent antimonials (sodium stibogluconate, meglumine antimoniate) are the standard treatment; liposomal amphotericin is an alternative.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01469"
+  ],
+  "stem": "Strongyloides stercoralis is also called:",
+  "options": {
+   "A": "Pinworm",
+   "B": "Round worm",
+   "C": "Thread worm",
+   "D": "Whip worm",
+   "E": "Hookworm"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Strongyloides stercoralis is the threadworm (Enterobius is the pinworm; Ascaris the roundworm).",
+  "key_note": "Some paper keys marked B (Round worm); correct is C: Strongyloides is the threadworm.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02266"
+  ],
+  "stem": "A young patient is being investigated for anaemia. His Hb is 8.9 g/dl and MCV 103 fl. He has a history of passing ova in stool. Which worm is most likely?",
+  "options": {
+   "A": "Ankylostoma duodenale",
+   "B": "Taenia saginata",
+   "C": "Ascaris lumbricoides",
+   "D": "Hymenolepis nana",
+   "E": "Diphyllobothrium latum"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Macrocytic anaemia from vitamin B12 deficiency suggests the fish tapeworm Diphyllobothrium latum; hookworm gives microcytic iron-deficiency anaemia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02249"
+  ],
+  "stem": "Intestinal amoebiasis is usually treated with:",
+  "options": {
+   "A": "Tinidazole",
+   "B": "Metronidazole",
+   "C": "Amoxicillin",
+   "D": "Chloroquine",
+   "E": "Quinolones"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Metronidazole (followed by a luminal agent such as diloxanide) is the standard treatment; tinidazole is an equivalent alternative but metronidazole is the textbook answer.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02250"
+  ],
+  "stem": "Giardia intestinalis infestation is usually diagnosed by:",
+  "options": {
+   "A": "Examination of stool",
+   "B": "Examination of duodenal or jejunal fluid",
+   "C": "Jejunal biopsy",
+   "D": "Blood examination",
+   "E": "Colonoscopy"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Cysts or trophozoites (or antigen) in stool are the usual diagnostic method; duodenal aspirate is reserved for negative stool tests.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01752",
+   "C03056"
+  ],
+  "stem": "A 30-year-old lady presents with high-grade fever and right upper quadrant pain, with loose motions a few weeks back. On examination she is febrile and jaundiced with tender hepatomegaly. What is the likely diagnosis?",
+  "options": {
+   "A": "Acute viral hepatitis",
+   "B": "Malaria",
+   "C": "Enteric fever",
+   "D": "Liver abscess",
+   "E": "Cholecystitis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Fever, RUQ pain and tender hepatomegaly after a diarrhoeal illness suggest amoebic liver abscess.",
+  "key_note": "Paper keys marked A (acute viral hepatitis); correct is D: the preceding dysentery with high fever and tender hepatomegaly is the classic amoebic liver abscess picture.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02264",
+   "C01790",
+   "C02608"
+  ],
+  "stem": "The presence of Koplik's spots is suggestive of:",
+  "options": {
+   "A": "Chickenpox",
+   "B": "Measles",
+   "C": "Rubella",
+   "D": "Mumps",
+   "E": "Enteric fever"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Koplik's spots on the buccal mucosa are pathognomonic of measles.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02279"
+  ],
+  "stem": "Typical lesions in varicella zoster infection are:",
+  "options": {
+   "A": "Erythematous scaly plaques",
+   "B": "Papules, vesicles and crusted lesions",
+   "C": "Hypopigmented patches",
+   "D": "Purple polygonal papules",
+   "E": "Generalised erythematous rash"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Varicella lesions evolve through macule, papule and vesicle to crust, with lesions of different ages present together.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02215"
+  ],
+  "stem": "The causative organism of chickenpox is:",
+  "options": {
+   "A": "Sarcoptes scabiei",
+   "B": "Varicella zoster virus",
+   "C": "Mycobacterium tuberculosis",
+   "D": "Staphylococcus aureus",
+   "E": "Streptococcus"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Chickenpox is the primary infection with varicella zoster virus.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01791",
+   "C02204"
+  ],
+  "stem": "An old man presents with severe pain in the left lumbar region followed by a vesicular eruption in a specific pattern in the same region. The organism responsible is:",
+  "options": {
+   "A": "Herpes simplex virus type 1",
+   "B": "Epstein-Barr virus",
+   "C": "Varicella zoster virus",
+   "D": "Herpes simplex virus type 2",
+   "E": "Rubella virus"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Dermatomal pain followed by a unilateral vesicular eruption is herpes zoster, due to reactivation of varicella zoster virus.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02218",
+   "C02600",
+   "C01745"
+  ],
+  "stem": "Which of the following is the treatment for herpes zoster?",
+  "options": {
+   "A": "Aciclovir",
+   "B": "Permethrin",
+   "C": "Oral fluids",
+   "D": "Amoxicillin",
+   "E": "Ceftriaxone"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Oral aciclovir (or valaciclovir/famciclovir), ideally started within 72 hours, is the antiviral treatment.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02216"
+  ],
+  "stem": "The causative organism of herpes labialis is:",
+  "options": {
+   "A": "Herpes simplex virus",
+   "B": "Varicella zoster virus",
+   "C": "Mycobacterium leprae",
+   "D": "Sarcoptes scabiei",
+   "E": "None of the above"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Herpes labialis (cold sores) is caused mainly by HSV-1.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02233"
+  ],
+  "stem": "Which sexually transmitted infection can be transmitted to a newborn from the mother during the birth process?",
+  "options": {
+   "A": "Gonorrhoea",
+   "B": "Herpes",
+   "C": "Chlamydia",
+   "D": "Syphilis",
+   "E": "None of the above"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Gonococcal ophthalmia neonatorum is acquired during passage through the birth canal.",
+  "key_note": "Flawed question: herpes and chlamydia are also acquired at delivery; the source key (gonorrhoea) is kept as the classic answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01712"
+  ],
+  "stem": "A 17-year-old male presents with severe sore throat, lethargy and headache. His doctor prescribed amoxicillin for presumed upper respiratory tract infection. Two days later he develops a widespread pruritic maculopapular rash, and his original symptoms have not improved. What is the most likely diagnosis?",
+  "options": {
+   "A": "Infectious mononucleosis",
+   "B": "Kawasaki disease",
+   "C": "Penicillin allergy",
+   "D": "HIV seroconversion",
+   "E": "Beta-lactamase producing streptococcal sore throat"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Aminopenicillins cause a characteristic maculopapular rash in most patients with EBV infectious mononucleosis; it is not a true penicillin allergy.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01769"
+  ],
+  "stem": "A young boy presents with fever and sore throat, hoarseness and difficulty in breathing, enlarged cervical nodes and tonsillar exudates. He was given oral amoxicillin by his GP after which he developed a rash over the body. What is the antibiotic of choice for this patient?",
+  "options": {
+   "A": "Penicillins",
+   "B": "Tetracycline",
+   "C": "No antibiotic required",
+   "D": "Gentamicin",
+   "E": "Cephalosporin"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Exudative tonsillitis with a rash after amoxicillin suggests EBV infectious mononucleosis, for which antibiotics are not indicated (and aminopenicillins should be avoided).",
+  "key_note": "Both paper copies marked E (Cephalosporin); the amoxicillin rash points to infectious mononucleosis, so no antibiotic (C) is the better answer, though the question is ambiguous.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01688"
+  ],
+  "stem": "A young boy from a remote village of KPK presents with fever, sore throat and muscle pains for 5 days followed by weakness of the right leg; a provisional diagnosis of polio is made. What clinical finding is expected in the right lower limb?",
+  "options": {
+   "A": "Hyper-reflexia",
+   "B": "Spastic paralysis",
+   "C": "Upgoing plantars",
+   "D": "Flaccid paralysis",
+   "E": "Normal power"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Poliovirus destroys anterior horn cells, causing asymmetric flaccid (lower motor neuron) paralysis with absent reflexes.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01792"
+  ],
+  "stem": "Poliovirus is transmitted through:",
+  "options": {
+   "A": "Faeco-oral route",
+   "B": "Mosquito bite",
+   "C": "Droplet infection",
+   "D": "Intramuscular injections"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Poliovirus is spread mainly by the faeco-oral route.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01699"
+  ],
+  "stem": "A 24-year-old gentleman who returned from a foreign trip presents with fever, dysuria, frequency, urgency and purulent urethral discharge. What is the most likely diagnosis?",
+  "options": {
+   "A": "Primary syphilis",
+   "B": "Gonococcal urethritis",
+   "C": "Genital herpes",
+   "D": "Uncomplicated UTI",
+   "E": "HIV seroconversion"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "A purulent urethral discharge with dysuria after travel indicates gonococcal urethritis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02108"
+  ],
+  "stem": "Vertical transmission may be seen in:",
+  "options": {
+   "A": "Hepatitis B",
+   "B": "Hepatitis C",
+   "C": "A and B",
+   "D": "Hepatitis A",
+   "E": "All of the above"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Hepatitis B (high risk) and hepatitis C (lower risk) are transmitted from mother to baby; hepatitis A is faeco-oral.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02109"
+  ],
+  "stem": "In an infected person, hepatitis B virus is present in:",
+  "options": {
+   "A": "Blood",
+   "B": "Semen",
+   "C": "Saliva",
+   "D": "All of the above",
+   "E": "None of the above"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "HBV is found in blood and in other body fluids including semen and saliva.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02111"
+  ],
+  "stem": "Which of the following viruses are transmitted by the parenteral route?",
+  "options": {
+   "A": "Hepatitis A",
+   "B": "Hepatitis B",
+   "C": "Hepatitis C",
+   "D": "B and C",
+   "E": "All of the above"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Hepatitis B and C are blood-borne; hepatitis A is faeco-oral.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01695"
+  ],
+  "stem": "An HIV-positive patient with a normal CD4 count (about 600) presents with pneumonia. The most likely organism is:",
+  "options": {
+   "A": "Tuberculosis",
+   "B": "Pneumocystis jirovecii",
+   "C": "Atypical mycobacterium",
+   "D": "Streptococcus pneumoniae",
+   "E": "Mycoplasma pneumoniae"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "With a preserved CD4 count, common community pathogens, especially pneumococcus, cause pneumonia; Pneumocystis occurs when CD4 falls below 200.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01758"
+  ],
+  "stem": "A 32-year-old male who smokes a packet of cigarettes per day is referred by his dentist with whitish areas over the side of the tongue. What is the most likely diagnosis?",
+  "options": {
+   "A": "Oral hairy leucoplakia",
+   "B": "Candidiasis",
+   "C": "Squamous carcinoma",
+   "D": "Amelanotic melanoma",
+   "E": "Syphilitic mucous patch"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Non-removable corrugated white lesions on the lateral border of the tongue are oral hairy leucoplakia (EBV, HIV-associated). Candida plaques scrape off.",
+  "key_note": "Paper keys marked B (Candidiasis); the lateral tongue site and non-scrapable white areas favour oral hairy leucoplakia (A).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01830",
+   "C02268"
+  ],
+  "stem": "A 50-year-old HIV-positive male presents with fits. MRI brain shows multiple ring-enhancing lesions. The most likely diagnosis is:",
+  "options": {
+   "A": "Brain abscesses",
+   "B": "Primary CNS lymphoma",
+   "C": "Toxoplasmosis",
+   "D": "Tuberculomas"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Multiple ring-enhancing lesions in advanced HIV are most often cerebral toxoplasmosis; lymphoma is usually a solitary lesion.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01880"
+  ],
+  "stem": "A 32-year-old HIV-positive man (CD4 150/cmm) has a 4-week history of large-volume watery diarrhoea and cramps unresponsive to antibiotics, with no fever or blood. Routine stool examination shows no pathogen. What would you do next?",
+  "options": {
+   "A": "Give intravenous ciprofloxacin",
+   "B": "Prescribe loperamide",
+   "C": "Test stool for Cryptosporidium",
+   "D": "Do colonic biopsy",
+   "E": "Order abdominal CT scan"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Chronic watery diarrhoea in advanced HIV with a negative routine stool is often cryptosporidiosis, diagnosed by modified Ziehl-Neelsen staining or antigen testing of stool.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01961"
+  ],
+  "stem": "The Mantoux test is used to diagnose which disease?",
+  "options": {
+   "A": "Sarcoidosis",
+   "B": "Typhoid fever",
+   "C": "Asthma",
+   "D": "Tuberculosis",
+   "E": "Syphilis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "The Mantoux (tuberculin) test detects delayed hypersensitivity to Mycobacterium tuberculosis antigen.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01694"
+  ],
+  "stem": "A 38-year-old man is diagnosed with latent TB infection (LTBI). Which statement is consistent with this diagnosis?",
+  "options": {
+   "A": "TB infection diagnosed on chest X-ray in an asymptomatic patient",
+   "B": "TB infection in a patient who is asymptomatic, has no physical signs and a normal chest X-ray",
+   "C": "TB infection in a patient with pleural effusion",
+   "D": "TB infection in extrapulmonary areas with a normal chest X-ray",
+   "E": "TB infection seen on chest X-rays of contacts of known TB cases regardless of symptoms"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "LTBI means infection with positive immunological tests but no symptoms, signs or radiological evidence of active disease.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01949"
+  ],
+  "stem": "Regarding treatment of tuberculosis, which drug does NOT belong to first-line anti-tuberculous medication?",
+  "options": {
+   "A": "Rifampicin",
+   "B": "Isoniazid",
+   "C": "Ethambutol",
+   "D": "Kanamycin",
+   "E": "Pyrazinamide"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Kanamycin is a second-line injectable; the first-line drugs are rifampicin, isoniazid, pyrazinamide and ethambutol.",
+  "key_note": "Option A was garbled in the source ('Pompin') and was read as rifampicin.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01449",
+   "C03021"
+  ],
+  "stem": "Anti-tuberculous therapy doses are calculated according to:",
+  "options": {
+   "A": "BMI of patient",
+   "B": "Weight of patient",
+   "C": "Gender of patient",
+   "D": "Fixed dose regimen for all cases",
+   "E": "Choice of doctor"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "ATT doses are weight-based (weight-band fixed-dose combinations in the National TB Programme).",
+  "key_note": "Paper key marked D (fixed dose for all); correct is B: doses are calculated per kilogram body weight.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01962"
+  ],
+  "stem": "A patient was treated for pulmonary TB a year ago. His symptoms improved after 4 months of ATT and he stopped treatment midway. Now he presents again with fever, weight loss and cough. Which statement is correct for this case?",
+  "options": {
+   "A": "Start first-line anti-TB drug combination",
+   "B": "Start corticosteroids along with first-line anti-TB drugs",
+   "C": "Send GeneXpert and start second-line anti-TB drugs",
+   "D": "Treat with co-amoxiclav and watch for improvement",
+   "E": "Send him home without treatment and follow up after one month"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A defaulter is at risk of drug resistance, so GeneXpert for rifampicin resistance is needed; second-line therapy follows if resistance is confirmed.",
+  "key_note": "Not marked in the source paper; answer by reviewer. Option C is the only one that includes drug susceptibility testing.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02424"
+  ],
+  "stem": "A 35-year-old female on anti-tuberculous treatment for one month presents with reddish-coloured urine. The drug responsible is:",
+  "options": {
+   "A": "Rifampicin",
+   "B": "Isoniazid",
+   "C": "Pyrazinamide",
+   "D": "Ethambutol",
+   "E": "Streptomycin"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Rifampicin colours urine, sweat and tears orange-red; it is harmless.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02427"
+  ],
+  "stem": "A 30-year-old female on ATT for 4 weeks presents with yellow sclera. Which drug is least likely to cause hepatitis?",
+  "options": {
+   "A": "Ethambutol",
+   "B": "Rifampicin",
+   "C": "Pyrazinamide",
+   "D": "Isoniazid",
+   "E": "Ciprofloxacin"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Rifampicin, isoniazid and pyrazinamide are hepatotoxic; ethambutol is not.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01882",
+   "C02730"
+  ],
+  "stem": "A 19-year-old male presents with fever, malaise and night sweats for three weeks. He has lymphadenopathy and his urine contains white cells but no growth on culture. The most likely diagnosis is:",
+  "options": {
+   "A": "Lymphoma",
+   "B": "Pseudomonal UTI",
+   "C": "Renal amyloidosis",
+   "D": "Renal tuberculosis",
+   "E": "Renal cell carcinoma"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Sterile pyuria with constitutional symptoms points to renal (genitourinary) tuberculosis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02884"
+  ],
+  "stem": "A 50-year-old man living in a tropical area presents with fever and muscle weakness for 3 days. His blood smear shows ring forms in red blood cells. What is the most likely diagnosis?",
+  "options": {
+   "A": "Babesiosis",
+   "B": "Chikungunya",
+   "C": "Dengue",
+   "D": "Malaria",
+   "E": "Yellow fever"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Intra-erythrocytic ring forms are the trophozoites of Plasmodium. Babesia can look similar but is rare and tick-borne.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02590",
+   "C02880"
+  ],
+  "stem": "A 34-year-old man living in Lahore is diagnosed with malaria and Plasmodium vivax is isolated. What would be the best treatment regimen?",
+  "options": {
+   "A": "ACT (artemisinin combination therapy) for 3 days only",
+   "B": "ACT for 3 days, followed by doxycycline for 2 weeks",
+   "C": "Chloroquine for 3 days only",
+   "D": "Chloroquine for 3 days, followed by doxycycline for 2 weeks",
+   "E": "Doxycycline for 3 days, followed by ACT for 2 weeks"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Vivax is still chloroquine sensitive in Pakistan, so 3 days of chloroquine treats the blood stage (primaquine is added for radical cure after G6PD testing). Doxycycline is not used for vivax.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03159"
+  ],
+  "stem": "A 23-year-old student returns from a camping trip and develops a febrile illness. He is diagnosed with Plasmodium vivax malaria. The area is known to harbour chloroquine-resistant strains of P. vivax. What is the most appropriate initial management of the acute infection?",
+  "options": {
+   "A": "Primaquine",
+   "B": "Atovaquone-proguanil",
+   "C": "Quinine",
+   "D": "Doxycycline",
+   "E": "Artemether-lumefantrine"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Where chloroquine resistance is present, an artemisinin combination therapy such as artemether-lumefantrine treats the acute blood-stage infection. Primaquine only clears hypnozoites and does not treat the acute attack.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02602"
+  ],
+  "stem": "A 40-year-old man presents with intermittent fever, rigors, severe headache and myalgia and progressive deterioration of consciousness. There is no rash but he has a palpable spleen. Indirect bilirubin is 3.2 mg/dl with normal liver enzymes. What is the most likely diagnosis?",
+  "options": {
+   "A": "Brucellosis",
+   "B": "Leishmaniasis",
+   "C": "Plasmodium falciparum malaria",
+   "D": "Plasmodium ovale malaria",
+   "E": "Typhoid"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Fever with splenomegaly, altered consciousness and unconjugated hyperbilirubinaemia from haemolysis point to severe falciparum (cerebral) malaria.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02724"
+  ],
+  "stem": "A 30-year-old returns from interior Sindh with 3 days of fever, confusion, jaundice and dark urine. BP 92/58 mmHg, Hb 7.8 g/dL, glucose 2.6 mmol/L. Rapid test is HRP2 positive and the smear shows high parasitaemia without Schuffner's dots. What is the single most likely species causing this severe disease?",
+  "options": {
+   "A": "P. vivax",
+   "B": "P. ovale",
+   "C": "P. falciparum",
+   "D": "P. malariae",
+   "E": "P. knowlesi"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "HRP2 is specific to P. falciparum, which causes severe malaria with cerebral involvement, anaemia, hypoglycaemia and shock. Schuffner's dots occur in vivax and ovale.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03263"
+  ],
+  "stem": "Cerebral malaria is diagnosed by which of the following investigations?",
+  "options": {
+   "A": "Blood CP (peripheral blood film for malarial parasites)",
+   "B": "CSF examination",
+   "C": "Blood cultures",
+   "D": "EEG brain",
+   "E": "CT scan brain"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Diagnosis rests on demonstrating asexual P. falciparum parasites on a blood film in a patient with coma; CSF is only done to exclude meningitis.",
+  "key_note": "Source papers marked B or C; the answer is the blood film (blood CP), CSF is normal or non-specific in cerebral malaria.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02596"
+  ],
+  "stem": "A 25-year-old woman presents in ER with severe abdominal pain, high fever and diarrhoea for 8 days. She recently returned from a humanitarian trip in sub-Saharan Africa where she had no access to clean water. What pathogen is most likely responsible?",
+  "options": {
+   "A": "Campylobacter jejuni",
+   "B": "Giardia lamblia",
+   "C": "Salmonella Typhi",
+   "D": "Shigella species",
+   "E": "HIV"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Prolonged high fever with abdominal pain and diarrhoea after exposure to contaminated water suggests enteric fever. Campylobacter and Shigella give shorter illnesses.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02589",
+   "C02879"
+  ],
+  "stem": "A 35-year-old woman presents in OPD with 2 weeks history of fever and abdominal pain. Her blood culture grows XDR Salmonella Typhi. Which antibiotic is best indicated?",
+  "options": {
+   "A": "Carbapenem",
+   "B": "Cephalosporin",
+   "C": "Fluoroquinolone",
+   "D": "Penicillin",
+   "E": "Tetracycline"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "XDR typhoid (resistant to chloramphenicol, ampicillin, co-trimoxazole, fluoroquinolones and third-generation cephalosporins) is treated with a carbapenem such as meropenem, or azithromycin.",
+  "key_note": "One paper key marked B (Cephalosporin); XDR strains are ceftriaxone resistant, so correct is A (carbapenem).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02601"
+  ],
+  "stem": "A 50-year-old woman presents with headache, myalgia and fever of 38.5 C. She has multiple petechiae. Hb 13 g/dl, WCC 11 x 10^9/L, platelets 70 x 10^9/L. Thick and thin films for malaria are negative. Which infection is most likely?",
+  "options": {
+   "A": "Brucella",
+   "B": "Dengue fever",
+   "C": "Plasmodium malariae",
+   "D": "Plasmodium ovale",
+   "E": "Rickettsia"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Acute febrile illness with myalgia, petechiae and thrombocytopenia with negative malaria films is dengue until proven otherwise.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02599",
+   "C02887"
+  ],
+  "stem": "A 32-year-old woman presents in OPD with high-grade fever and headache for 4 days. Her dengue NS1 antigen is positive and her platelet count is 120,000/cm3. What is the most appropriate management?",
+  "options": {
+   "A": "Broad spectrum antibiotics",
+   "B": "Anti-viral therapy",
+   "C": "IV 0.9% saline",
+   "D": "Blood transfusion",
+   "E": "NSAIDs"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Dengue management is supportive with fluid replacement and paracetamol. There is no antiviral, antibiotics are not indicated, and NSAIDs are avoided because of bleeding risk.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02591"
+  ],
+  "stem": "A 20-year-old woman presents with fever for 4 days after sleeping outdoors. She has thrombocytopenia and her chest X-ray shows a mild pleural effusion. You suspect dengue fever. The best management plan is:",
+  "options": {
+   "A": "Blood transfusion",
+   "B": "IV diuretics",
+   "C": "IV fluids according to body weight",
+   "D": "Platelet transfusion",
+   "E": "Reassurance and paracetamol"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Pleural effusion signals plasma leakage, so careful weight-based IV crystalloid is the mainstay. Diuretics worsen intravascular depletion and platelets are not transfused for the count alone.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02881"
+  ],
+  "stem": "A 27-year-old man presents in ER with fever and myalgia for 5 days and epistaxis and gum bleeding for 1 day. He is vitally stable with flushed face and conjunctival suffusion. Dengue NS1 is positive, platelets 35,000/cmm and TLC 3.4 x 10^3/cmm. The best management at this time is:",
+  "options": {
+   "A": "Blood transfusion",
+   "B": "FFP transfusion",
+   "C": "Inj. vitamin K",
+   "D": "IV fluids",
+   "E": "Platelet transfusion"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "In a haemodynamically stable dengue patient with minor mucosal bleeding, fluid therapy with monitoring of haematocrit is the treatment; platelet transfusion is reserved for major bleeding or very low counts.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02723"
+  ],
+  "stem": "A 21-year-old medical student in Karachi has 5 days of fever, severe myalgia and poor intake. On day 5 he develops persistent vomiting, abdominal pain and mucosal bleeding. Platelets 48 x 10^9/L, haematocrit rising from 39% to 47%, chest X-ray shows a small right pleural effusion. What is the most likely diagnosis?",
+  "options": {
+   "A": "Uncomplicated dengue fever",
+   "B": "Severe dengue",
+   "C": "Dengue with warning signs only",
+   "D": "Chikungunya",
+   "E": "Leptospirosis"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Persistent vomiting, abdominal pain, mucosal bleeding, rising haematocrit and effusion are WHO warning signs. Severe dengue needs shock, severe bleeding or organ failure, which are absent.",
+  "key_note": "The solved IMDC copy marked B (Severe dengue); the Rawal copy and WHO classification support C.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02595"
+  ],
+  "stem": "A 16-year-old girl living in a rural area in Asia presents with fever, headache, a maculopapular rash and severe joint pains for 5 days. Her joints are red, tender and swollen. She has not received vaccinations on schedule and was playing near a stagnant water source. Which virus is most likely?",
+  "options": {
+   "A": "Chikungunya virus",
+   "B": "Dengue virus",
+   "C": "Measles virus",
+   "D": "West Nile virus",
+   "E": "Zika virus"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Fever, rash and severe, often disabling, polyarthritis in a mosquito-borne setting is chikungunya. Dengue causes myalgia and bone pain rather than prominent arthritis.",
+  "key_note": "One 2024 copy's typed margin letter showed B, but the red circle and the other papers give A.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02882"
+  ],
+  "stem": "A 34-year-old traveller returns from Southeast Asia with fever, myalgia and a rash that started on the wrists and ankles and spread to the trunk over 3 days. He has conjunctival injection and lymphadenopathy. What is the most likely diagnosis?",
+  "options": {
+   "A": "Dengue fever",
+   "B": "Leptospirosis",
+   "C": "Malaria",
+   "D": "Rickettsia infection",
+   "E": "Typhoid fever"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A rash that begins on the wrists and ankles and spreads centrally is typical of spotted fever rickettsiosis.",
+  "key_note": "Typed margin letter showed B but the red circle was on D; D is correct.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03143"
+  ],
+  "stem": "A previously healthy 25-year-old music teacher develops fever and an itchy rash over her face and chest with papules and vesicles in varying stages of development. One week later she develops cough and an infiltrate on X-ray. Which is the most likely aetiology?",
+  "options": {
+   "A": "Streptococcus pneumoniae",
+   "B": "Mycoplasma pneumoniae",
+   "C": "Histoplasma capsulatum",
+   "D": "Varicella-zoster virus",
+   "E": "Chlamydia psittaci"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Crops of lesions at different stages indicate chickenpox, and pneumonitis is its commonest serious complication in adults.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02507"
+  ],
+  "stem": "Which statement is CORRECT regarding poliomyelitis?",
+  "options": {
+   "A": "Polio virus is a DNA virus",
+   "B": "Transmission is by the parenteral route",
+   "C": "It is rarely prevented by polio vaccination",
+   "D": "It presents with lower motor neuron paralysis",
+   "E": "It presents with bilateral symmetrical ascending paralysis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Poliovirus is an RNA enterovirus spread faeco-orally; it destroys anterior horn cells causing asymmetric flaccid LMN paralysis. Symmetrical ascending paralysis suggests Guillain-Barre syndrome.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02597"
+  ],
+  "stem": "A 15-year-old boy presents with persistent cough, wheezing and recent vomiting for 5 days. He is from a family that practises close animal husbandry. What infection should be considered?",
+  "options": {
+   "A": "Coccidioidomycosis",
+   "B": "Histoplasmosis",
+   "C": "Human granulocytic anaplasmosis",
+   "D": "Psittacosis",
+   "E": "Q fever"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Q fever (Coxiella burnetii) is acquired from the birth products and milk of farm animals and commonly presents with atypical pneumonia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02592"
+  ],
+  "stem": "A 45-year-old woman presents with a painful ulcer on her leg that began as a small papule 2 weeks ago after a hiking trip in a rural area. The lesion has a raised red border and a necrotic centre. What is the most likely causative agent?",
+  "options": {
+   "A": "Bacillus anthracis",
+   "B": "Borrelia burgdorferi",
+   "C": "Clostridium perfringens",
+   "D": "Francisella tularensis",
+   "E": "Leishmania species"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A painful ulcer with a necrotic centre after outdoor exposure fits ulceroglandular tularaemia. Anthrax eschar is painless.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02605"
+  ],
+  "stem": "A 40-year-old lady has a bug bite on the left arm followed by unilateral facial oedema, conjunctivitis and regional lymphadenopathy near the inoculation site. She improves on her own. A few months later she presents with dysphagia, severe heartburn and constipation. What is the best treatment regimen?",
+  "options": {
+   "A": "Azithromycin and metronidazole",
+   "B": "Benznidazole and nifurtimox",
+   "C": "Omeprazole and clarithromycin",
+   "D": "Paracetamol and ceftriaxone",
+   "E": "Quinine and primaquine"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "The picture is Chagas disease (Trypanosoma cruzi) with Romana sign and later megaoesophagus and megacolon. Benznidazole or nifurtimox is the antiparasitic treatment.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02598"
+  ],
+  "stem": "A 37-year-old man from a recent refugee camp presents with excessive sweating, abdominal pain and a distended abdomen for 7 days. Liver ultrasound reveals cystic lesions. What is the most likely diagnosis?",
+  "options": {
+   "A": "Amoebic liver abscess",
+   "B": "Cytomegalovirus infection",
+   "C": "Echinococcus granulosus infection",
+   "D": "Hepatitis B infection",
+   "E": "Schistosomiasis"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Cystic liver lesions in a person from an endemic, livestock-rearing setting indicate hydatid disease from Echinococcus granulosus.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03139"
+  ],
+  "stem": "A 30-year-old man has fever and sore throat for several days and recently hoarseness, difficulty breathing and drooling. He is febrile with inspiratory stridor. Which is the best course of action?",
+  "options": {
+   "A": "Begin outpatient treatment with ampicillin",
+   "B": "Culture throat for beta-haemolytic streptococci",
+   "C": "Admit to intensive care and obtain otolaryngology consultation",
+   "D": "Schedule an X-ray of the cervical spine",
+   "E": "Obtain Epstein-Barr serology"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Stridor with drooling suggests epiglottitis, an airway emergency needing urgent securing of the airway and IV antibiotics. Do not examine the throat or delay for imaging.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03151"
+  ],
+  "stem": "A 15-year-old Russian child who recently arrived in the country has fever and feels generally unwell. Temperature 38.2 C and pulse 96/min. A grey coating surrounds the tonsils and there is extensive cervical lymphadenopathy. The most likely diagnosis is:",
+  "options": {
+   "A": "Tonsillitis",
+   "B": "Typhoid",
+   "C": "Pharyngitis",
+   "D": "Infectious mononucleosis",
+   "E": "Diphtheria"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "An adherent grey pseudomembrane on the tonsils with bull-neck lymphadenopathy in a possibly unimmunised child is diphtheria.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02681"
+  ],
+  "stem": "A 35-year-old woman presents with fever and sore throat for 3 days. Which antibiotic is most appropriate as first-line therapy for uncomplicated streptococcal pharyngitis in a patient without penicillin allergy?",
+  "options": {
+   "A": "Amoxicillin",
+   "B": "Azithromycin",
+   "C": "Ciprofloxacin",
+   "D": "Clindamycin",
+   "E": "Doxycycline"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Penicillin V or amoxicillin remains first line for group A streptococcal pharyngitis; macrolides are reserved for penicillin allergy.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03140"
+  ],
+  "stem": "A 70-year-old long-standing type 2 diabetic has left ear pain with purulent drainage. He is afebrile. The pinna is tender and the external auditory canal is swollen and oedematous. WBC is normal. Which organism is most likely to grow from the drainage?",
+  "options": {
+   "A": "Pseudomonas aeruginosa",
+   "B": "Streptococcus pneumoniae",
+   "C": "Candida albicans",
+   "D": "Haemophilus influenzae",
+   "E": "Moraxella catarrhalis"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Malignant (necrotising) otitis externa in an elderly diabetic is almost always due to Pseudomonas aeruginosa.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02687"
+  ],
+  "stem": "In which condition is empiric antibiotic coverage for MRSA most strongly indicated?",
+  "options": {
+   "A": "Acute otitis media in a child with no risk factors",
+   "B": "Acute sinusitis without systemic symptoms",
+   "C": "Community-acquired pneumonia in a healthy patient",
+   "D": "Suspected complicated skin and soft tissue infection with purulence",
+   "E": "Uncomplicated urinary tract infection in a young woman"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Purulent complicated skin and soft tissue infection is typically caused by community-acquired MRSA, so empirical anti-MRSA cover is justified. The other options are usually caused by non-MRSA organisms.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03144"
+  ],
+  "stem": "A man is admitted with E. coli bacteraemia. Which of the following is the most appropriate therapy?",
+  "options": {
+   "A": "Vancomycin",
+   "B": "Linezolid",
+   "C": "Quinolones",
+   "D": "Doxycycline",
+   "E": "Clindamycin"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "E. coli is a Gram-negative bacillus, so vancomycin, linezolid and clindamycin (Gram-positive agents) are inappropriate; of the options only a quinolone has reliable Gram-negative cover.",
+  "key_note": "Question is dated: in practice cephalosporins or carbapenems, guided by sensitivity, are used.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03145"
+  ],
+  "stem": "Which of the following is the most accurate test for an infectious disease before starting empirical antibiotic therapy?",
+  "options": {
+   "A": "Protein level of fluid",
+   "B": "Culture and sensitivity",
+   "C": "IgM antibody levels",
+   "D": "IgG antibody levels",
+   "E": "Gram stain"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Culture with sensitivity identifies the organism and its antibiotic susceptibility, so samples should be taken before empirical therapy.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03146"
+  ],
+  "stem": "A 34-year-old woman presents with facial pain, discoloured nasal discharge, bad taste in the mouth and fever. She has facial tenderness. The most accurate diagnostic test is:",
+  "options": {
+   "A": "Sinus biopsy or aspirate",
+   "B": "CT scan",
+   "C": "X-ray",
+   "D": "Culture of the discharge",
+   "E": "Transillumination"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "CT is the imaging test of choice for sinusitis. Sinus aspirate is the microbiological gold standard but is rarely done.",
+  "key_note": "Defensible per paper key; direct sinus aspirate is the microbiological reference.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03147"
+  ],
+  "stem": "Which of the following is the most accurate in determining the aetiology of infectious diarrhoea?",
+  "options": {
+   "A": "Recent history of eating chicken",
+   "B": "Frequency of bowel movements",
+   "C": "Blood in stool",
+   "D": "Odour of stool",
+   "E": "Recent travel history"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Visible blood in the stool points to invasive or toxin-producing organisms (Shigella, Campylobacter, EHEC, amoebae), narrowing the aetiology more than frequency or odour.",
+  "key_note": "Weak question; paper key C kept.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02685"
+  ],
+  "stem": "A 29-year-old man presents in OPD with loose stools. Which incubation period best differentiates viral from bacterial gastroenteritis in adults?",
+  "options": {
+   "A": "Less than 6 hours for viral",
+   "B": "24 to 48 hours for bacterial",
+   "C": "1 to 2 days for viral",
+   "D": "3 to 5 days for viral",
+   "E": "5 to 7 days for viral"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Viral gastroenteritis typically incubates for 1 to 2 days; pre-formed toxin food poisoning appears within hours.",
+  "key_note": "Flawed question; paper key C is kept as the best available.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02607"
+  ],
+  "stem": "A patient presents with sudden onset of nausea and vomiting with watery diarrhoea. The diarrhoea intensified and now has a rice-water character. What is the most likely diagnosis?",
+  "options": {
+   "A": "Cholera",
+   "B": "Traveller's diarrhoea",
+   "C": "Salmonellosis",
+   "D": "Giardiasis",
+   "E": "Ulcerative colitis"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Profuse rice-water stool is the hallmark of Vibrio cholerae infection.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02756"
+  ],
+  "stem": "A 25-year-old man from Bahawalpur has watery diarrhoea, abdominal cramps and mild fever for 3 days after attending a large family wedding in a village. There is no blood or vomiting. He is mildly dehydrated but haemodynamically stable. What is the most likely cause?",
+  "options": {
+   "A": "Cholera",
+   "B": "Ulcerative colitis",
+   "C": "Acute viral gastroenteritis",
+   "D": "Giardia lamblia infection",
+   "E": "Irritable bowel syndrome"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A mild, self-limiting watery diarrhoea with low-grade fever after a communal meal is most often viral gastroenteritis. Cholera would cause profuse rice-water stool and severe dehydration.",
+  "key_note": "The solved IMDC copy marked A (cholera); C is the more likely diagnosis.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02689"
+  ],
+  "stem": "A man presents with semisolid, foul-smelling, greasy stools with bloating. Which is the causative organism?",
+  "options": {
+   "A": "Campylobacter jejuni",
+   "B": "E. coli",
+   "C": "Giardia",
+   "D": "Salmonella",
+   "E": "Entamoeba histolytica"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Steatorrhoea with bloating from Giardia lamblia reflects small bowel malabsorption.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02885"
+  ],
+  "stem": "A 30-year-old man has crampy abdominal pain for 2 weeks. He has been in the tropics and eats street food. Laboratory tests show eosinophilia. What is the most likely cause?",
+  "options": {
+   "A": "Ascaris lumbricoides",
+   "B": "Entamoeba histolytica",
+   "C": "Giardia lamblia",
+   "D": "Strongyloides stercoralis",
+   "E": "Vibrio cholerae"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Helminths with tissue migration cause eosinophilia; of the options Strongyloides best fits chronic abdominal pain in the tropics.",
+  "key_note": "Marked D by the red circle; Ascaris is a possible alternative.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03142"
+  ],
+  "stem": "Several adolescents develop bloody diarrhoea and one remains hospitalised with acute renal failure. All ate at the same restaurant. The food they consumed was most likely to be:",
+  "options": {
+   "A": "Baked muffins",
+   "B": "Hamburger",
+   "C": "Fried chips",
+   "D": "Sushi",
+   "E": "Boiled eggs"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Haemolytic uraemic syndrome after bloody diarrhoea is due to Shiga-toxin producing E. coli O157:H7, classically from undercooked beef.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02526"
+  ],
+  "stem": "You are compiling SOPs for the dental department. What is the best option to prevent the spread of hepatitis B and C from a dental clinic?",
+  "options": {
+   "A": "Vaccination of all the patients",
+   "B": "Proper sterilisation of the instruments",
+   "C": "No intramuscular injections",
+   "D": "Use of clean water to wash the instruments",
+   "E": "No surgery by junior dentists"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Hepatitis B and C spread through contaminated blood on instruments, so sterilisation is the key measure; there is no vaccine for hepatitis C.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02531"
+  ],
+  "stem": "Regarding hepatitis B and C, which of the following will NOT lead to disease transmission?",
+  "options": {
+   "A": "Needle stick injury from an infected needle",
+   "B": "Needle sharing by drug users",
+   "C": "Unhygienic surgical procedures",
+   "D": "Unhygienic drinking water source",
+   "E": "Unhygienic dental procedures"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Hepatitis B and C are blood-borne, not water-borne (unlike hepatitis A and E).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03148"
+  ],
+  "stem": "Which of the following indicates high infectivity in hepatitis B infection?",
+  "options": {
+   "A": "Serum bilirubin",
+   "B": "Hep B e-antigen",
+   "C": "Hep B surface antigen",
+   "D": "Core IgM antibody",
+   "E": "Alanine aminotransferase"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "HBeAg reflects active viral replication and high infectivity.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02698"
+  ],
+  "stem": "A female doctor at 16 weeks of gestation is accidentally pricked by a needle while drawing blood from a patient with chronic active hepatitis B. She tests negative for hepatitis B. Immediate management should include:",
+  "options": {
+   "A": "Administration of Hep B immunoglobulin and vaccine, followed by 2 more vaccine doses over the next 6 months",
+   "B": "Administration of gamma immunoglobulin and Hep B vaccine, followed by 2 more vaccine doses after delivery",
+   "C": "Hep B vaccine only",
+   "D": "Hep B immunoglobulin only",
+   "E": "Do nothing, just reassure and counsel"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "A non-immune exposed person needs HBIG plus the start of the hepatitis B vaccine series (0, 1 and 6 months); pregnancy is not a contraindication.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03155"
+  ],
+  "stem": "After a week of medical treatment for liver abscess, symptoms have not settled. What is the next appropriate treatment of choice?",
+  "options": {
+   "A": "USG-guided aspiration",
+   "B": "Thoracocentesis",
+   "C": "Pericardiocentesis",
+   "D": "CT scan",
+   "E": "V/Q scan"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Non-response to drugs at 5 to 7 days, or a large abscess, is an indication for ultrasound-guided percutaneous aspiration.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03150"
+  ],
+  "stem": "Infection with Schistosoma haematobium is most strongly associated with:",
+  "options": {
+   "A": "Transitional cell bladder cancer",
+   "B": "Lung cancer",
+   "C": "Hepatoma",
+   "D": "Vulval carcinoma",
+   "E": "Squamous cell bladder cancer"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Chronic S. haematobium cystitis predisposes to squamous cell carcinoma of the bladder.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03022"
+  ],
+  "stem": "A 25-year-old nurse presents with weight loss, fever and cough and is diagnosed with pulmonary tuberculosis. Which of the following is a first-line drug used for tuberculosis?",
+  "options": {
+   "A": "Levofloxacin",
+   "B": "Isoniazid",
+   "C": "Doxycycline",
+   "D": "Rifabutin",
+   "E": "Ethionamide"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "First-line drugs are isoniazid, rifampicin, pyrazinamide and ethambutol. The others are second-line or alternative agents.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02999"
+  ],
+  "stem": "A 30-year-old man has smear-positive tuberculosis. He was treated for tuberculosis 2 years ago and is now labelled as reactivation of pulmonary tuberculosis. This could be due to:",
+  "options": {
+   "A": "Malnutrition",
+   "B": "Low perfusion",
+   "C": "High ventilation",
+   "D": "Polycythaemia",
+   "E": "High pCO2"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Malnutrition impairs cell-mediated immunity and is a recognised risk factor for TB reactivation.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03000"
+  ],
+  "stem": "A 20-week pregnant woman has to be started on anti-tuberculous therapy. Which of the following drugs is absolutely contraindicated in pregnancy?",
+  "options": {
+   "A": "INH",
+   "B": "Rifampicin",
+   "C": "Ethambutol",
+   "D": "Streptomycin",
+   "E": "Moxifloxacin"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Streptomycin crosses the placenta and causes fetal eighth-nerve (ototoxic) damage. HRZE is otherwise safe in pregnancy.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03014"
+  ],
+  "stem": "TB meningitis should be treated with first-line anti-tuberculous therapy. The duration of treatment should be at least:",
+  "options": {
+   "A": "6 months",
+   "B": "9 months",
+   "C": "12 months",
+   "D": "15 months",
+   "E": "2 years"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "CNS tuberculosis is treated for 9 to 12 months (12 months in standard exam teaching) because of poor drug penetration and the risk of relapse.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02714"
+  ],
+  "stem": "A 42-year-old has 3 weeks of headache, evening fevers and diplopia. Examination shows a CN VI palsy. CSF: lymphocytes 250/uL, very high protein, low glucose. MRI shows basal meningeal enhancement with hydrocephalus. What is the single most likely diagnosis?",
+  "options": {
+   "A": "Cryptococcal meningitis",
+   "B": "Carcinomatous meningitis",
+   "C": "Tuberculous meningitis",
+   "D": "Partially treated bacterial meningitis",
+   "E": "Viral encephalitis"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A subacute basal meningitis with cranial nerve palsy, lymphocytic CSF with low glucose and hydrocephalus is tuberculous meningitis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03035"
+  ],
+  "stem": "A patient presents with tuberculosis of the cervical lymph nodes. How will you confirm the diagnosis?",
+  "options": {
+   "A": "Ultrasound of lymph nodes",
+   "B": "Biopsy of lymph nodes",
+   "C": "Erythrocyte sedimentation rate",
+   "D": "Sputum examination",
+   "E": "CT scan of chest"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Excision or FNA biopsy with histology (caseating granulomas), AFB staining and culture/GeneXpert confirms nodal TB.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02717"
+  ],
+  "stem": "A 28-year-old man from Tharparkar (Sindh) has 3 months of low-grade fever, progressive weight loss and pallor. He has massive splenomegaly without lymphadenopathy and diffuse darkening of the skin of the face and hands. CBC shows pancytopenia and there is no evidence of HIV infection. What is the single most likely diagnosis?",
+  "options": {
+   "A": "Chronic malaria",
+   "B": "Brucellosis",
+   "C": "Visceral leishmaniasis (kala-azar)",
+   "D": "Enteric fever",
+   "E": "Lymphoma"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Prolonged fever with massive splenomegaly, pancytopenia and skin darkening is kala-azar (Leishmania donovani); 'kala-azar' means black fever.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03152"
+  ],
+  "stem": "A 35-year-old man diagnosed with HIV two years ago is stable on antiretroviral therapy. He is recently married and worried about transmitting the disease to his partner. Which factor is most likely to increase the risk of transmission?",
+  "options": {
+   "A": "Circumcision",
+   "B": "Low CD4 count",
+   "C": "Co-infection with genital warts",
+   "D": "Diabetes",
+   "E": "Mucosal ulceration"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Genital ulcers and mucosal breaks increase HIV shedding and susceptibility, raising transmission risk. Circumcision reduces it.",
+  "key_note": "Low CD4 and high viral load also matter, but mucosal ulceration is the paper key and the best option here.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03158"
+  ],
+  "stem": "Which of the following is a nucleoside analogue reverse transcriptase inhibitor?",
+  "options": {
+   "A": "Zidovudine",
+   "B": "Indinavir",
+   "C": "Ritonavir",
+   "D": "Ribavirin",
+   "E": "Efavirenz"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Zidovudine is an NRTI. Indinavir and ritonavir are protease inhibitors, efavirenz is an NNRTI, and ribavirin is not an anti-HIV drug.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03157"
+  ],
+  "stem": "A 14-year-old boy who recently emigrated underwent splenectomy after a car accident 2 years ago and takes daily penicillin V. He is unsure of his vaccination history. Which organism is he particularly susceptible to?",
+  "options": {
+   "A": "Staphylococcus epidermidis",
+   "B": "HIV (AIDS)",
+   "C": "Entamoeba histolytica",
+   "D": "Streptococcus pneumoniae",
+   "E": "Mycobacterium tuberculosis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Asplenic patients are at risk of overwhelming infection with encapsulated organisms, chiefly pneumococcus, plus Haemophilus influenzae and meningococcus.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02604"
+  ],
+  "stem": "A 65-year-old lady has headache and neck stiffness for 6 days followed by a tonic-clonic seizure 4 hours ago. CSF is clear with protein 0.95 g/dl (mildly raised), glucose 3.3 mmol/l (almost normal) and WBC 150 with 90% lymphocytes. What is the most likely diagnosis?",
+  "options": {
+   "A": "Cryptococcal meningitis",
+   "B": "Herpes simplex virus encephalitis",
+   "C": "Listeria meningitis",
+   "D": "Subarachnoid haemorrhage",
+   "E": "Tuberculous meningitis"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Seizures with lymphocytic CSF, normal glucose and mildly raised protein indicate HSV encephalitis; TB and cryptococcus lower the glucose.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03149"
+  ],
+  "stem": "Which of the following is the most sensitive CSF test for neurosyphilis?",
+  "options": {
+   "A": "VDRL",
+   "B": "RPR",
+   "C": "FTA",
+   "D": "Silver stain",
+   "E": "Dark field"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "CSF FTA-ABS is the most sensitive test, though it is less specific; CSF VDRL is specific but less sensitive.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03220"
+  ],
+  "stem": "A patient with a recent history of international travel presents with high-grade fever and shortness of breath for 2 days. He needs to be:",
+  "options": {
+   "A": "Reassured and sent home",
+   "B": "Investigated and isolated",
+   "C": "Started on antibiotics and sent home",
+   "D": "Just isolated for 2 days with no need for investigation",
+   "E": "Returned to his parent country"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "A suspected infectious respiratory illness in a recent traveller should be investigated and isolated.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03160"
+  ],
+  "stem": "A 30-year-old man lives with a woman recently diagnosed with tuberculosis. He is asymptomatic and has no past medical history. What is the most appropriate test to check for latent tuberculosis?",
+  "options": {
+   "A": "Heaf test",
+   "B": "Mantoux test",
+   "C": "Sputum culture",
+   "D": "Chest X-ray",
+   "E": "Interferon-gamma blood test"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "An interferon-gamma release assay detects latent TB infection and is not affected by BCG vaccination. The Mantoux test is an acceptable alternative.",
+  "key_note": "Papers marked E; Mantoux is also accepted in Pakistani practice.",
+  "figure": ""
+ }
+]

@@ -1,0 +1,75 @@
+{
+ "sections": [
+  {
+   "code": "S1",
+   "title": "Medicine (system-wise, Davidson's Principles and Practice of Medicine style)",
+   "chapters": [
+    [
+     "M1",
+     "Cardiovascular system (ischaemic heart disease, ACS, heart failure, arrhythmias, valvular and rheumatic heart disease, endocarditis, pericardial and myocardial disease, hypertension, congenital heart disease, ECG)"
+    ],
+    [
+     "M2",
+     "Respiratory system (asthma, COPD, pneumonia, TB, bronchiectasis, pleural disease, pulmonary embolism, ILD, lung cancer, respiratory failure, sleep apnoea, ABG and spirometry)"
+    ],
+    [
+     "M3",
+     "Gastroenterology and hepatology (GERD, peptic ulcer, GI bleeding, IBD, coeliac, malabsorption, hepatitis, cirrhosis and complications, pancreatitis, jaundice, GI tumours)"
+    ],
+    [
+     "M4",
+     "Nephrology and urinary system (AKI, CKD, glomerulonephritis, nephrotic syndrome, UTI, renal stones, dialysis, renal tubular disease)"
+    ],
+    [
+     "M5",
+     "Endocrinology and diabetes (diabetes mellitus, DKA, thyroid, adrenal, pituitary, calcium and parathyroid, osteoporosis, obesity)"
+    ],
+    [
+     "M6",
+     "Haematology (anaemias, haemoglobinopathies, leukaemias, lymphomas, myeloma, bleeding and clotting disorders, transfusion, anticoagulation)"
+    ],
+    [
+     "M7",
+     "Neurology (stroke, epilepsy, meningitis and encephalitis, headache, movement disorders, neuropathies, myasthenia, MS, spinal cord, raised ICP, coma)"
+    ],
+    [
+     "M8",
+     "Infectious diseases and tropical medicine (typhoid, malaria, dengue, HIV, hepatitis infections, sepsis, TB outside the lung, antibiotics, tropical and zoonotic infections)"
+    ],
+    [
+     "M9",
+     "Rheumatology and connective tissue disease (RA, SLE, spondyloarthropathies, gout, vasculitis, systemic sclerosis, osteoarthritis, bone disease)"
+    ],
+    [
+     "M10",
+     "Dermatology"
+    ],
+    [
+     "M11",
+     "Psychiatry (depression, schizophrenia, anxiety, bipolar, substance misuse, delirium, dementia)"
+    ],
+    [
+     "M12",
+     "Fluids, electrolytes and acid-base disorders (sodium, potassium, calcium, magnesium, acid-base)"
+    ],
+    [
+     "M13",
+     "Emergency medicine, poisoning and critical care (shock, cardiac arrest, poisoning and overdose, snake bite, heat illness, ICU topics)"
+    ],
+    [
+     "M14",
+     "Oncology and palliative care (cancer biology, tumour markers, chemotherapy, paraneoplastic syndromes, palliative care)"
+    ],
+    [
+     "M15",
+     "Metabolic disease, nutrition, genetics and immunology (vitamins, inborn errors, genetic syndromes, allergy, immunodeficiency)"
+    ],
+    [
+     "MX",
+     "Other medicine topics, clinical pharmacology, ethics, evidence-based medicine, ageing, or junk rows"
+    ]
+   ]
+  }
+ ],
+ "notes": "Routing rules: 1) Rheumatic fever and valvular disease -> M1; infective endocarditis -> M1; hypertension (essential) -> M1, renovascular and renal hypertension -> M4. 2) TB: pulmonary -> M2, extrapulmonary and drug regimens -> M8. 3) Pneumonia -> M2; sepsis and tropical infections -> M8. 4) Hepatitis B/C virology and treatment -> M3 unless the question is about transmission/prophylaxis/epidemiology -> M8. 5) Diabetes, DKA, HHS, hypoglycaemia -> M5. 6) Sodium, potassium, calcium disorders and acid-base -> M12 (hypercalcaemia of hyperparathyroidism -> M5). 7) Anaemias, leukaemia, lymphoma, myeloma, bleeding disorders, anticoagulants -> M6. 8) Stroke, seizures, headache, neuropathies -> M7; psychiatric -> M11. 9) SLE, RA, vasculitis, gout -> M9; skin signs only -> M10. 10) Poisoning, overdose, snake bite, shock, cardiac arrest -> M13. 11) AKI, CKD, glomerular disease, nephrotic syndrome, UTI -> M4. 12) Tumour markers and cancer drugs -> M14; organ-specific cancers go with the organ unless the question is about oncology principles. 13) Vitamin deficiencies, genetic syndromes, immunology -> M15. 14) ECG, ABG, spirometry interpretation go with the system they test. 15) Use MX only if nothing fits."
+}

@@ -1,0 +1,3362 @@
+[
+ {
+  "cids": [
+   "C00412",
+   "C01254"
+  ],
+  "stem": "Which of the following is a feature of upper motor neuron paralysis?",
+  "options": {
+   "A": "Tone of muscles is decreased",
+   "B": "Tendon jerks are diminished",
+   "C": "There is marked wasting of individual muscles",
+   "D": "Plantar response is upgoing",
+   "E": "Fasciculations are present"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "UMN lesions give spasticity, brisk reflexes and an extensor (Babinski) plantar response. Hypotonia, wasting, areflexia and fasciculations are lower motor neuron signs.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00804",
+   "C00993"
+  ],
+  "stem": "Which of the following is a feature of a lower motor neuron lesion?",
+  "options": {
+   "A": "Muscle hypertrophy",
+   "B": "Fasciculations",
+   "C": "Hyper-reflexia",
+   "D": "Marked sensory loss",
+   "E": "Positive Babinski sign"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "LMN lesions cause flaccid weakness, wasting, fasciculations and reduced or absent reflexes. Hyper-reflexia and an extensor plantar are UMN signs.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00800"
+  ],
+  "stem": "The upgoing plantar response is seen in all of the following EXCEPT:",
+  "options": {
+   "A": "Lower motor neuron lesion",
+   "B": "Hypoglycaemia",
+   "C": "Deep coma",
+   "D": "Post-epileptic fit (post-ictal state)",
+   "E": "Below the age of 1 year"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "An extensor plantar indicates UMN dysfunction, and is also seen transiently in hypoglycaemia, deep coma, post-ictal states and normally in infants. A pure LMN lesion gives a flexor or absent plantar response.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00799",
+   "C01519"
+  ],
+  "stem": "Which of the following is a feature of Horner's syndrome?",
+  "options": {
+   "A": "Damage to parasympathetic fibres",
+   "B": "Ptosis",
+   "C": "Mydriasis",
+   "D": "Exophthalmos",
+   "E": "Increased sweating on the face"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Horner's syndrome is an oculosympathetic palsy: partial ptosis, miosis, enophthalmos and anhidrosis. Mydriasis and increased sweating are the opposite of what occurs.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00566"
+  ],
+  "stem": "A 60-year-old diabetic and hypertensive man presents with sudden right-sided weakness. BP is 180/100 mmHg, he is afebrile, and has upper motor neuron weakness of the right side of the body with motor aphasia. The site of the lesion is:",
+  "options": {
+   "A": "Broca's area",
+   "B": "Right cerebral cortex",
+   "C": "Basal ganglia",
+   "D": "Midbrain",
+   "E": "Occipital cortex"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Motor (expressive) aphasia with right hemiparesis localises to the dominant (left) frontal lobe, Broca's area, in the left MCA territory.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [],
+  "stem": "A 60-year-old diabetic and hypertensive man presents with sudden right-sided weakness. BP is 180/100 mmHg, he is afebrile, and has upper motor neuron weakness of the right side of the body. The site of the lesion is:",
+  "options": {
+   "A": "Basal ganglia",
+   "B": "Left cerebral cortex",
+   "C": "Midbrain",
+   "D": "Right cerebral cortex",
+   "E": "Occipital cortex"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Motor pathways cross, so right-sided UMN weakness arises from a lesion in the left cerebral hemisphere.",
+  "key_note": "Options were reordered across papers; this variant lacks the aphasia and the correct answer is the left cerebral cortex.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00401"
+  ],
+  "stem": "A 65-year-old hypertensive man, non-compliant with medication, presents with right-sided weakness and upper motor neuron facial palsy. He is unconscious, with power 2/5 in the right upper and lower limbs and upgoing plantars. What is the most likely diagnosis?",
+  "options": {
+   "A": "Right ischaemic CVA",
+   "B": "Left ischaemic CVA",
+   "C": "Bell's palsy",
+   "D": "Brain abscess",
+   "E": "Right haemorrhagic CVA"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Right-sided weakness with UMN facial palsy localises to the left hemisphere, and an acute vascular event in a hypertensive fits. Right-sided lesions and Bell's palsy (LMN, forehead involved) are excluded.",
+  "key_note": "Two papers marked B (left ischaemic CVA); a haemorrhagic stroke on the left is also plausible but is not offered.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00423"
+  ],
+  "stem": "A middle-aged man with a spinal glioma has sensory loss up to the trunk and sacrum, spastic weakness of the legs and extensor plantar responses. The most likely site of cord compression is:",
+  "options": {
+   "A": "Lumbar cord",
+   "B": "Cauda equina",
+   "C": "Cervical cord above C5",
+   "D": "Cervical cord C5-T1",
+   "E": "Thoracic cord"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Spastic paraparesis with extensor plantars and a sensory level on the trunk indicates a thoracic cord lesion, sparing the arms. Lumbar cord and cauda equina lesions give LMN signs.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00577",
+   "C00402"
+  ],
+  "stem": "A 40-year-old woman presents with vertigo and gait ataxia and a cerebellar lesion is suspected. Which of the following is NOT a sign of cerebellar dysfunction?",
+  "options": {
+   "A": "Hypotonia",
+   "B": "Dysdiadochokinesia",
+   "C": "Ptosis",
+   "D": "Nystagmus",
+   "E": "Scanning speech"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Cerebellar signs are hypotonia, ataxia, intention tremor, dysdiadochokinesia, nystagmus and scanning dysarthria. Ptosis (or dysphagia) is not a cerebellar sign.",
+  "key_note": "One version offered dysphagia instead of ptosis as the non-cerebellar feature; the answer is the same non-cerebellar sign.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00573",
+   "C00422"
+  ],
+  "stem": "A 49-year-old man has had difficulty walking for 3 months. He has nystagmus, intention tremor and an ataxic gait. The investigation of choice to confirm the diagnosis is:",
+  "options": {
+   "A": "CT brain",
+   "B": "MRI brain",
+   "C": "X-ray head",
+   "D": "Cerebral angiography",
+   "E": "Lumbar puncture"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Cerebellar signs need MRI, which visualises the posterior fossa far better than CT.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00424",
+   "C02384"
+  ],
+  "stem": "A 40-year-old man presents with dizziness, imbalance and incoordination. He has dysdiadochokinesia, positive past pointing and horizontal nystagmus. CT brain shows an ischaemic stroke. Which part of the nervous system is most likely affected?",
+  "options": {
+   "A": "Cervical cord",
+   "B": "Basal ganglia",
+   "C": "Brainstem",
+   "D": "Cerebellum",
+   "E": "Frontal lobes"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Dysdiadochokinesia, past pointing, nystagmus and ataxia are the classic cerebellar syndrome.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00414"
+  ],
+  "stem": "Which of the following is a non-modifiable risk factor for stroke?",
+  "options": {
+   "A": "Hypertension",
+   "B": "Diabetes mellitus",
+   "C": "Smoking",
+   "D": "Age",
+   "E": "Hyperlipidaemia"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Age, sex, race and family history cannot be changed, whereas hypertension, diabetes, smoking and lipids can be treated.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00803"
+  ],
+  "stem": "Which of the following is a non-modifiable risk factor for stroke?",
+  "options": {
+   "A": "Gender",
+   "B": "Hypertension",
+   "C": "Diabetes",
+   "D": "Obesity",
+   "E": "Smoking"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Gender (like age and family history) is non-modifiable; the others can be controlled.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00565"
+  ],
+  "stem": "A 45-year-old smoker presents with right-sided weakness of 2 hours. You suspect a cardio-embolic stroke. The commonest cause of cardio-embolic stroke is:",
+  "options": {
+   "A": "Cardiomyopathy",
+   "B": "Constrictive pericarditis",
+   "C": "Atrial fibrillation",
+   "D": "Hypertension",
+   "E": "Diabetes mellitus"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Atrial fibrillation causes left atrial stasis and thrombus, and is the leading source of cardio-embolic stroke.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00417",
+   "C01431",
+   "C02030",
+   "C02838",
+   "C02850",
+   "C03125"
+  ],
+  "stem": "A patient presents with sudden onset weakness of one half of the body with a provisional diagnosis of cerebrovascular accident. The diagnostic investigation of choice is:",
+  "options": {
+   "A": "MRI brain",
+   "B": "CT scan brain without contrast",
+   "C": "EEG",
+   "D": "ECG",
+   "E": "X-ray skull"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Non-contrast CT is quick, widely available and distinguishes haemorrhage from infarct, which decides immediate treatment.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00564",
+   "C00888"
+  ],
+  "stem": "A 55-year-old hypertensive man presents with left-sided weakness and loss of consciousness for 4 hours. CT brain shows haemorrhage in the right parietal lobe. Which of the following is contraindicated in his management?",
+  "options": {
+   "A": "Care of airway",
+   "B": "Anticoagulant medication",
+   "C": "Monitoring of blood pressure",
+   "D": "Care of the unconscious patient",
+   "E": "CT scan head"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Anticoagulants and antiplatelets are contraindicated in intracerebral haemorrhage because they worsen bleeding.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00567",
+   "C02370"
+  ],
+  "stem": "A middle-aged hypertensive man presents with thunderclap headache, vomiting and drowsiness. To determine the cause of the headache, you will suggest:",
+  "options": {
+   "A": "Erythrocyte sedimentation rate (ESR)",
+   "B": "CT scan of brain",
+   "C": "Lumbar puncture",
+   "D": "X-ray skull",
+   "E": "Random blood sugar"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Thunderclap headache suggests subarachnoid haemorrhage; the first investigation is non-contrast CT brain, with LP only if CT is negative.",
+  "key_note": "One paper marked C (lumbar puncture); correct initial test is A: CT brain, with LP only if CT is negative and suspicion persists.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00884"
+  ],
+  "stem": "Subarachnoid haemorrhage is treated with:",
+  "options": {
+   "A": "Nimodipine",
+   "B": "Nifedipine",
+   "C": "ACE inhibitors",
+   "D": "Atenolol",
+   "E": "Quinolone"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Nimodipine, a cerebroselective calcium channel blocker, reduces delayed cerebral ischaemia from vasospasm after SAH.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00420"
+  ],
+  "stem": "A 70-year-old known hypertensive man presents comatose for 1 hour. BP is 240/130 mmHg, pupils are pin-point bilaterally and GCS is 5/15. The most likely diagnosis is:",
+  "options": {
+   "A": "Hypothermia",
+   "B": "Hypertensive encephalopathy",
+   "C": "Pontine haemorrhage",
+   "D": "Meningitis",
+   "E": "Motor neuron disease"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Coma with pin-point pupils in a hypertensive patient is the classic picture of pontine haemorrhage, from disruption of descending sympathetic fibres.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00395",
+   "C02837"
+  ],
+  "stem": "A 20-year-old medical student presents with recurrent episodes of pressure-like headache with malaise lasting the whole day. She has reduced appetite but no nausea or vomiting. The headache is relieved by rest and sleep. What is the most likely diagnosis?",
+  "options": {
+   "A": "Cluster headache",
+   "B": "Migraine",
+   "C": "Chronic migraine",
+   "D": "Glioblastoma multiforme",
+   "E": "Tension headache"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Bilateral pressing, non-pulsatile, whole-day headache without nausea or vomiting is tension-type headache.",
+  "key_note": "One paper marked A (cluster headache); correct is E: cluster headache is a brief, severe, unilateral periorbital pain with autonomic features. The other paper marked E.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00415"
+  ],
+  "stem": "Which of the following is a frequent feature of migraine?",
+  "options": {
+   "A": "Fits",
+   "B": "Aura",
+   "C": "Paralysis",
+   "D": "Twitching",
+   "E": "Unconsciousness"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Migraine is a unilateral throbbing headache with nausea and photophobia, preceded by aura in about a third of patients.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00421",
+   "C02019",
+   "C02375",
+   "C02432",
+   "C02951"
+  ],
+  "stem": "A 65-year-old woman has intermittent episodes of severe lancinating pain in the right lower jaw, triggered by eating and washing her face with cold water, lasting a few minutes. The likely diagnosis is:",
+  "options": {
+   "A": "Acute parotitis",
+   "B": "Facial palsy",
+   "C": "Trigeminal neuralgia",
+   "D": "Migraine",
+   "E": "Bulbar palsy"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Brief electric-shock facial pain in a trigeminal distribution triggered by touch or chewing is trigeminal neuralgia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00394",
+   "C01915"
+  ],
+  "stem": "A 65-year-old woman has ipsilateral facial pain that begins suddenly for seconds while washing her face or brushing her teeth, like electric shocks, and is not relieved by conventional painkillers. What is the most appropriate treatment?",
+  "options": {
+   "A": "IV paracetamol",
+   "B": "NSAIDs",
+   "C": "Gabapentin",
+   "D": "Opioid analgesics",
+   "E": "Carbamazepine"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "This is trigeminal neuralgia, for which carbamazepine is the drug of choice; simple analgesics and opioids are ineffective.",
+  "key_note": "One paper marked C (gabapentin); correct is E: carbamazepine is first-line for trigeminal neuralgia, gabapentin is only second-line.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01036"
+  ],
+  "stem": "A young man presents with seizures: he became rigid with frothing, suddenly lost consciousness and fell to the ground. The most likely diagnosis is:",
+  "options": {
+   "A": "Drug abuse",
+   "B": "Epilepsy",
+   "C": "Physical and mental exhaustion",
+   "D": "Sleep deprivation",
+   "E": "Conversion reaction"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "A tonic-clonic seizure with frothing and loss of consciousness is epilepsy until proved otherwise; the other options are only precipitants or mimics.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01043",
+   "C01549",
+   "C02510"
+  ],
+  "stem": "The electroencephalogram (EEG) can be helpful in the diagnosis of:",
+  "options": {
+   "A": "Epilepsy",
+   "B": "Panic disorder",
+   "C": "Bipolar disorder",
+   "D": "Social phobia",
+   "E": "Schizophrenia"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "EEG shows epileptiform discharges and is the supportive test for epilepsy; it has no role in the psychiatric disorders listed.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00991",
+   "C02575",
+   "C02944",
+   "C03119"
+  ],
+  "stem": "A young man presents with generalised tonic-clonic seizures, tongue bite and urinary incontinence. The drug of choice is:",
+  "options": {
+   "A": "Gabapentin",
+   "B": "Clonazepam",
+   "C": "Sodium valproate",
+   "D": "Ceftriaxone",
+   "E": "Topiramate"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Sodium valproate is the first-line broad-spectrum antiepileptic for generalised tonic-clonic seizures in men.",
+  "key_note": "One paper marked A (carbamazepine) in a duplicate version; correct is valproate, the first-line drug for generalised tonic-clonic seizures.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00864"
+  ],
+  "stem": "A 12-year-old boy with generalised tonic-clonic epilepsy has been on antiepileptic drugs for one year. He now has painful swollen gums, nystagmus and ataxia. These effects are most likely due to:",
+  "options": {
+   "A": "Carbamazepine",
+   "B": "Phenobarbitone",
+   "C": "Valproic acid",
+   "D": "Phenytoin",
+   "E": "Clonazepam"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Gingival hyperplasia plus nystagmus and ataxia (cerebellar toxicity) are characteristic of phenytoin.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00870"
+  ],
+  "stem": "Which of the following is NOT a side effect of carbamazepine?",
+  "options": {
+   "A": "Drowsiness",
+   "B": "Ataxia",
+   "C": "Thrombocytopenia",
+   "D": "Nystagmus",
+   "E": "Hypernatraemia"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Carbamazepine causes hyponatraemia via SIADH, not hypernatraemia; drowsiness, ataxia, nystagmus and blood dyscrasias are all recognised.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01428",
+   "C02952"
+  ],
+  "stem": "A 40-year-old man is admitted to ICU, febrile with neck stiffness. Which invasive investigation will you perform to diagnose him?",
+  "options": {
+   "A": "Upper GI endoscopy",
+   "B": "Lumbar puncture",
+   "C": "Trans-oesophageal echocardiography",
+   "D": "Colonoscopy",
+   "E": "Angiography"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Fever with neck stiffness suggests meningitis, confirmed by CSF analysis through lumbar puncture.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00885",
+   "C00996",
+   "C02519",
+   "C03254"
+  ],
+  "stem": "A boy presents with headache, photophobia and neck rigidity for four days. He is drowsy with GCS 10/15 and temperature 102 F. The most likely cause is:",
+  "options": {
+   "A": "Migraine",
+   "B": "Enteric fever",
+   "C": "Epilepsy",
+   "D": "Stroke",
+   "E": "Meningitis"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Fever, headache, photophobia, neck rigidity and altered consciousness make up the meningitis syndrome.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00886",
+   "C02027",
+   "C03257"
+  ],
+  "stem": "Brudzinski's sign refers to:",
+  "options": {
+   "A": "Migraine",
+   "B": "Meningitis",
+   "C": "Epilepsy",
+   "D": "SLE",
+   "E": "Infective endocarditis"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Brudzinski's sign (flexion of the hips and knees on passive neck flexion) indicates meningeal irritation.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00411",
+   "C01253",
+   "C01518",
+   "C02031",
+   "C03256"
+  ],
+  "stem": "A house physician is going to perform a lumbar puncture in a suspected case of bacterial meningitis in ICU. Which of the following is a contraindication to the procedure?",
+  "options": {
+   "A": "Fever",
+   "B": "Papilloedema",
+   "C": "Neck stiffness",
+   "D": "Patient receiving IV fluids",
+   "E": "Suspected viral meningitis"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Papilloedema signals raised intracranial pressure, so LP risks tonsillar herniation; CT first is needed.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00397"
+  ],
+  "stem": "A 50-year-old hypertensive man is brought unconscious with 4 days of fever, vomiting and a rash. Kernig's sign is positive with bilateral mute plantar reflexes. What is the diagnostic investigation of choice?",
+  "options": {
+   "A": "CT brain",
+   "B": "MRI brain",
+   "C": "Lumbar puncture",
+   "D": "EEG",
+   "E": "Carotid Doppler ultrasound"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "The diagnosis is meningitis, confirmed by CSF analysis. In practice, CT precedes LP in a comatose patient, but the question asks for the diagnostic test.",
+  "key_note": "Marked C; in a comatose patient CT is done first for safety, but LP remains the diagnostic test.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01135"
+  ],
+  "stem": "A 12-14-year-old boy has had fever, headache and vomiting for 3 days, with neck stiffness and petechial rash. A provisional diagnosis of meningococcal meningitis is made. The best investigation for confirmation is:",
+  "options": {
+   "A": "Blood cultures",
+   "B": "CSF R/E and Gram stain",
+   "C": "CSF R/E and ZN stain",
+   "D": "CT scan brain with contrast",
+   "E": "Lumbar puncture with CSF pressure monitoring"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "CSF cell count, biochemistry and Gram stain (Gram-negative diplococci) give rapid confirmation of meningococcal meningitis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01136"
+  ],
+  "stem": "In a 12-14-year-old boy with fever, headache, vomiting, neck stiffness and petechial rash, the antibiotic of choice if meningococcal meningitis is confirmed is:",
+  "options": {
+   "A": "IV benzylpenicillin",
+   "B": "IV clarithromycin",
+   "C": "IV co-amoxiclav",
+   "D": "IV aminoglycosides",
+   "E": "Levofloxacin"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Benzylpenicillin remains the drug of choice for confirmed meningococcal meningitis (ceftriaxone is the usual empirical alternative).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00568"
+  ],
+  "stem": "In a suspected case of meningitis, CSF analysis reveals predominantly mononuclear cells, elevated protein and low glucose. The likely cause is:",
+  "options": {
+   "A": "Pyogenic meningitis",
+   "B": "Tuberculous meningitis",
+   "C": "Viral meningitis",
+   "D": "Partially treated bacterial meningitis",
+   "E": "Traumatic lumbar puncture"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Lymphocytic pleocytosis with high protein and low glucose is typical of tuberculous meningitis; viral meningitis has normal glucose.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00041"
+  ],
+  "stem": "A 45-year-old man is admitted with headache and neck stiffness. CSF is cloudy with lymphocytes 21/mm3, neutrophils 1546/mm3, low glucose and high protein. Which is the most likely aetiology?",
+  "options": {
+   "A": "Cryptococcus neoformans",
+   "B": "Haemophilus influenzae",
+   "C": "Mumps",
+   "D": "Mycobacterium tuberculosis",
+   "E": "Neisseria meningitidis"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Neutrophilic pleocytosis with low glucose and high protein indicates bacterial meningitis; Neisseria meningitidis is the best fit among the options.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00042"
+  ],
+  "stem": "A 45-year-old man is admitted with headache and neck stiffness. CSF is clear with lymphocytes 1329/mm3, neutrophils 12/mm3, low glucose, high protein and a positive Ziehl-Neelsen stain. What is the likely diagnosis?",
+  "options": {
+   "A": "Cryptococcus neoformans",
+   "B": "Haemophilus influenzae",
+   "C": "Multiple sclerosis",
+   "D": "Mumps",
+   "E": "Mycobacterium tuberculosis"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "A lymphocytic CSF with low glucose and acid-fast bacilli on ZN stain is tuberculous meningitis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00426"
+  ],
+  "stem": "A 20-year-old boy has had fever for 3 days with severe headache, irritability and confusion for 1 day, without focal neurological signs. CSF shows increased lymphocytes, normal protein and normal glucose. The most likely diagnosis is:",
+  "options": {
+   "A": "Brain tumour",
+   "B": "Aseptic meningitis",
+   "C": "Bacterial meningitis",
+   "D": "Tuberculous meningitis",
+   "E": "Viral meningitis"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Lymphocytic CSF with normal protein and glucose is viral meningitis.",
+  "key_note": "Aseptic meningitis is a near-synonym, but viral meningitis, as marked, is the more specific answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01057",
+   "C01427"
+  ],
+  "stem": "The most common organism causing pyogenic meningitis among the following options is:",
+  "options": {
+   "A": "Staphylococcus aureus",
+   "B": "E. coli",
+   "C": "Meningococcus",
+   "D": "Pseudomonas",
+   "E": "Mycoplasma"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Meningococcus (with pneumococcus) is the typical cause of community-acquired pyogenic meningitis in children and young adults.",
+  "key_note": "One source copy (C01057) was not marked; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00427"
+  ],
+  "stem": "A 60-year-old diabetic man has fever, headache and drowsiness for 2 days and a generalised tonic-clonic seizure. Neck stiffness is present and CT brain is normal. LP shows markedly raised neutrophils, raised protein and low glucose; Gram stain and culture are awaited. The most appropriate first-line empirical antibiotic regimen is:",
+  "options": {
+   "A": "Ampicillin alone",
+   "B": "Ampicillin + ceftriaxone",
+   "C": "Ampicillin + ciprofloxacin",
+   "D": "Chloramphenicol + vancomycin",
+   "E": "Ampicillin + dexamethasone"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Empirical therapy for bacterial meningitis in adults over 50 is a third-generation cephalosporin plus ampicillin to cover Listeria (with vancomycin where resistant pneumococcus is likely).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00805"
+  ],
+  "stem": "A patient with a road traffic accident and head injury in ICU develops a pulse of 50/min and BP of 180/110 mmHg; ECG shows sinus bradycardia. The likely cause is:",
+  "options": {
+   "A": "Non-convulsive seizures",
+   "B": "Raised intracranial pressure",
+   "C": "Hydrocephalus",
+   "D": "Dural sinus thrombosis",
+   "E": "Heart block"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Hypertension with bradycardia is the Cushing response to raised ICP.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00576",
+   "C00862"
+  ],
+  "stem": "A 65-year-old woman presents drowsy with loss of consciousness for one day and raised intracranial pressure is suspected. Which of the following is NOT a feature of raised intracranial pressure?",
+  "options": {
+   "A": "Hypertension",
+   "B": "Bradycardia",
+   "C": "Papilloedema",
+   "D": "Tachycardia",
+   "E": "Drowsiness"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Raised ICP causes headache, vomiting, papilloedema, drowsiness, hypertension and bradycardia (Cushing reflex), not tachycardia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00994"
+  ],
+  "stem": "An important clinical sign in Parkinson's disease is:",
+  "options": {
+   "A": "Tics",
+   "B": "Greasy skin",
+   "C": "Intention tremor",
+   "D": "Pill-rolling resting tremor",
+   "E": "Areflexia"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Parkinson's disease shows resting pill-rolling tremor, rigidity and bradykinesia; intention tremor is cerebellar.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00400",
+   "C01429",
+   "C02376",
+   "C02945",
+   "C03132"
+  ],
+  "stem": "A 65-year-old woman has had difficulty walking and tremors of both hands for 8 months. She has a fixed expressionless gaze, rigidity of all four limbs and resting tremors of both hands. What is the most appropriate diagnosis?",
+  "options": {
+   "A": "Cerebellar disease",
+   "B": "Hyperthyroidism",
+   "C": "Ischaemic CVA of the thalamus",
+   "D": "Parkinson's disease",
+   "E": "Pontine haemorrhage"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Rigidity, resting tremor and slowness of movement make up parkinsonism, idiopathic Parkinson's disease being most likely.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00409",
+   "C00806",
+   "C01664"
+  ],
+  "stem": "The gait of a patient with cogwheel rigidity, bradykinesia and pill-rolling tremor will be:",
+  "options": {
+   "A": "Drunken",
+   "B": "High stepping",
+   "C": "Hemiplegic",
+   "D": "Shuffling",
+   "E": "Normal"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Parkinsonian gait is shuffling with short steps, stooped posture and reduced arm swing.",
+  "key_note": "Paper key marked B (festinant); A (shuffling) is also a parkinsonian gait, so the question is slightly ambiguous.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00873"
+  ],
+  "stem": "Levodopa is helpful in the treatment of Parkinsonism because:",
+  "options": {
+   "A": "It blocks cholinergic receptors in the corpus striatum",
+   "B": "It is an inhibitory neurotransmitter",
+   "C": "It is converted to dopamine in the nervous system",
+   "D": "It is converted to noradrenaline in sympathetic neurons",
+   "E": "There is a deficiency of acetylcholine in the brain"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Parkinson's disease is a dopamine deficiency state; levodopa crosses the blood-brain barrier and is decarboxylated to dopamine.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00572"
+  ],
+  "stem": "A 65-year-old parkinsonian patient presents with acute urinary retention. Which of the following drugs may be responsible?",
+  "options": {
+   "A": "Levodopa",
+   "B": "Carbidopa",
+   "C": "Amantadine",
+   "D": "Ropinirole",
+   "E": "Procyclidine"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Procyclidine is an anticholinergic and causes urinary retention, especially in elderly men.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00863"
+  ],
+  "stem": "The neurological features of Wilson's disease include all of the following EXCEPT:",
+  "options": {
+   "A": "Tremors",
+   "B": "Choreoathetosis",
+   "C": "Parkinsonism",
+   "D": "Hemiplegia",
+   "E": "Dementia"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Wilson's disease causes tremor, dystonia, choreoathetosis, parkinsonism and cognitive decline, but not hemiplegia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00399",
+   "C00570",
+   "C00404",
+   "C01822",
+   "C02386"
+  ],
+  "stem": "A 60-year-old ex-smoker has difficulty swallowing and weakness of both upper limbs, with memory and speech disturbance. There is wasting of the thenar and hypothenar muscles with brisk reflexes, dysarthria and memory deficit. What is the likely diagnosis?",
+  "options": {
+   "A": "Motor neuropathy",
+   "B": "Upper motor neuron lesion",
+   "C": "Spinal muscular atrophy",
+   "D": "Motor neuron disease",
+   "E": "Cerebellar lesion"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Bulbar symptoms with hand wasting and brisk reflexes indicate mixed UMN and LMN involvement, i.e. motor neuron disease (with possible frontotemporal involvement).",
+  "key_note": "Both papers marked A (motor neuropathy); correct is D: motor neuron disease, since reflexes are brisk and bulbar features are present.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00410",
+   "C01430",
+   "C03133"
+  ],
+  "stem": "A 37-year-old man has progressive weakness of the limbs and difficulty swallowing. There is wasting of the small muscles of the hand and fasciculations. The likely diagnosis is:",
+  "options": {
+   "A": "Guillain-Barre syndrome",
+   "B": "Motor neuron disease",
+   "C": "Multiple sclerosis",
+   "D": "Myasthenia gravis",
+   "E": "Parkinsonism"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Wasting, fasciculations and bulbar involvement without sensory loss is motor neuron disease (ALS).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00802",
+   "C00889",
+   "C02041"
+  ],
+  "stem": "Myasthenia gravis is a disorder of the:",
+  "options": {
+   "A": "Cerebral cortex",
+   "B": "Neuromuscular junction",
+   "C": "Posterior horn cells",
+   "D": "Cerebellum",
+   "E": "Substantia nigra"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Myasthenia gravis is an autoimmune disorder with antibodies against acetylcholine receptors at the neuromuscular junction.",
+  "key_note": "Another version listed 'neurovascular junction'; this is a typo for neuromuscular junction.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00887",
+   "C03131"
+  ],
+  "stem": "The antibodies found in myasthenia gravis are:",
+  "options": {
+   "A": "Anti-AChR antibody",
+   "B": "Anti-islet cell antibody",
+   "C": "Anti-HCV antibody",
+   "D": "Anti-GAD antibody",
+   "E": "ANA"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "About 85% of generalised myasthenia gravis patients have antibodies to the acetylcholine receptor.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00416",
+   "C02028",
+   "C01666",
+   "C03260"
+  ],
+  "stem": "A young girl presents with diplopia and drooping of the eyelids that worsen as the day passes. The likely cause is:",
+  "options": {
+   "A": "Guillain-Barre syndrome",
+   "B": "Hypokalaemic periodic paralysis",
+   "C": "Botulinum toxicity",
+   "D": "Myasthenia gravis",
+   "E": "Motor neuron disease"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Fatigable ocular weakness (ptosis, diplopia) worsening through the day is myasthenia gravis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00406"
+  ],
+  "stem": "A 35-year-old woman has blurring of vision, mostly at the end of the day, with extreme fatigability for 2 months, bilateral ptosis and weak extraocular movements. The most appropriate investigation to confirm the diagnosis is:",
+  "options": {
+   "A": "CT brain",
+   "B": "MRI spine",
+   "C": "EMG",
+   "D": "Lumbar puncture",
+   "E": "Muscle biopsy"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Repetitive nerve stimulation or single-fibre EMG confirms the neuromuscular transmission defect (anti-AChR antibodies are also confirmatory).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00574"
+  ],
+  "stem": "A 50-year-old woman presents with extreme fatigue and difficulty swallowing at the end of the day. Which sign would you expect?",
+  "options": {
+   "A": "Lid lag",
+   "B": "Diplopia",
+   "C": "Papilloedema",
+   "D": "Loss of ciliary reflex",
+   "E": "Chemosis"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Fatigable weakness at day's end suggests myasthenia gravis, and ocular involvement causes ptosis and diplopia.",
+  "key_note": "One paper marked D (loss of ciliary reflex); correct is B: diplopia is a cardinal ocular feature of myasthenia.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00995",
+   "C02577",
+   "C02948"
+  ],
+  "stem": "A young man presents with diplopia, drooping eyelids and dysphagia. His anti-acetylcholine receptor antibodies are positive. The initial drug of choice is:",
+  "options": {
+   "A": "Corticosteroid",
+   "B": "Azathioprine",
+   "C": "Pyridostigmine",
+   "D": "Intravenous immunoglobulin",
+   "E": "Diazepam"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Anticholinesterase therapy with pyridostigmine is first-line symptomatic treatment of myasthenia gravis.",
+  "key_note": "The source stem said 'antimuscarinic antibodies', an error for anti-acetylcholine receptor antibodies.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00871"
+  ],
+  "stem": "All of the following are common features of myasthenia gravis EXCEPT:",
+  "options": {
+   "A": "Fatigable weakness of muscles",
+   "B": "Worsening of symptoms towards the end of the day",
+   "C": "Intermittent ptosis or diplopia",
+   "D": "EMG with repetitive stimulation shows an incremental response",
+   "E": "Positive anti-acetylcholine receptor antibodies"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Repetitive nerve stimulation in myasthenia shows a decremental response, not an incremental one (which occurs in Lambert-Eaton syndrome).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00575"
+  ],
+  "stem": "A patient has been diagnosed with myasthenia gravis for 6 months. Which medication should be avoided?",
+  "options": {
+   "A": "Corticosteroids",
+   "B": "Neostigmine",
+   "C": "Azathioprine",
+   "D": "Aminoglycosides",
+   "E": "Ciclosporin"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Aminoglycosides, fluoroquinolones, macrolides and beta blockers worsen neuromuscular blockade. Neostigmine, steroids, azathioprine and ciclosporin are treatments.",
+  "key_note": "Some paper keys marked B (neostigmine); correct is D: neostigmine is a standard treatment, aminoglycosides are to be avoided.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00563"
+  ],
+  "stem": "A young man is diagnosed with Duchenne muscular dystrophy. All of the following are true EXCEPT:",
+  "options": {
+   "A": "It is inherited as an X-linked recessive disorder",
+   "B": "There is absence of the gene product dystrophin",
+   "C": "The calf muscles are atrophied",
+   "D": "Gowers' sign is present",
+   "E": "The myocardium is affected"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "In Duchenne dystrophy the calves show pseudohypertrophy (fat and fibrous replacement), not atrophy.",
+  "key_note": "One paper key marked A (X-linked recessive); correct is C: the calves are pseudohypertrophic.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00398",
+   "C00403",
+   "C00801",
+   "C02947"
+  ],
+  "stem": "A 35-year-old man has gradually progressive weakness of both upper and lower limbs and now shortness of breath. Respiratory rate is 25, pulse 90/min, BP 100/60, chest clear. Power is 2/5 in all limbs with absent reflexes. What is the likely diagnosis?",
+  "options": {
+   "A": "Cerebral infarction",
+   "B": "Cerebellar infarction",
+   "C": "Subarachnoid haemorrhage",
+   "D": "Guillain-Barre syndrome",
+   "E": "Chronic demyelinating polyneuropathy"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Progressive symmetrical weakness with areflexia and respiratory involvement is Guillain-Barre syndrome.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01426"
+  ],
+  "stem": "A 35-year-old man presents with flaccid paralysis of both lower limbs with areflexia. CSF shows protein 60 mg/dl, no RBCs, no organisms and glucose 54 mg/dl (blood glucose 100 mg/dl). The likely diagnosis is:",
+  "options": {
+   "A": "Meningococcal meningitis",
+   "B": "Brainstem infarction",
+   "C": "Motor neuron disease",
+   "D": "Guillain-Barre syndrome",
+   "E": "Middle cerebral artery occlusion"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Raised CSF protein with normal cells (albuminocytological dissociation) plus ascending flaccid paralysis is Guillain-Barre syndrome.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00428"
+  ],
+  "stem": "Flaccid paralysis manifesting as weakness, hypotonia and areflexia is seen in:",
+  "options": {
+   "A": "Myelitis",
+   "B": "Intracranial bleed",
+   "C": "Brain tumour",
+   "D": "Ischaemic brain injury",
+   "E": "Guillain-Barre syndrome"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Guillain-Barre syndrome is an LMN (flaccid) polyradiculoneuropathy; intracranial lesions cause spastic UMN paralysis.",
+  "key_note": "Acute transverse myelitis may also be flaccid initially, but Guillain-Barre syndrome is the best answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00868"
+  ],
+  "stem": "The following are well-known features of autonomic neuropathy:",
+  "options": {
+   "A": "Increased libido",
+   "B": "Hypersalivation",
+   "C": "Resting bradycardia",
+   "D": "Failing vision",
+   "E": "Postural hypotension"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Autonomic neuropathy causes postural hypotension, impotence, gastroparesis, diarrhoea or constipation and sweating abnormalities; postural hypotension is the most characteristic.",
+  "key_note": "Options B and C replaced by reviewer because constipation was also a recognised feature of autonomic neuropathy; marked answer is postural hypotension.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00425"
+  ],
+  "stem": "An elderly diabetic man presents with dizziness, palpitation, diarrhoea and increased urinary frequency. Standing BP is 110/70 and sitting BP 140/100 mmHg, pulse 110/min. The most likely diagnosis is:",
+  "options": {
+   "A": "Cervical myelopathy",
+   "B": "Autonomic neuropathy",
+   "C": "Motor neuropathy",
+   "D": "Sensory neuropathy",
+   "E": "Sensorimotor neuropathy"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "A postural fall in BP with tachycardia, diarrhoea and bladder symptoms in a diabetic indicates diabetic autonomic neuropathy.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00867"
+  ],
+  "stem": "Carpal tunnel syndrome may occur in:",
+  "options": {
+   "A": "Parkinson's disease",
+   "B": "Myasthenia gravis",
+   "C": "Myxoedema",
+   "D": "Simmonds' disease",
+   "E": "Thyrotoxicosis"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Hypothyroidism (myxoedema) causes median nerve compression via tissue oedema; other associations are pregnancy, acromegaly, diabetes and rheumatoid arthritis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00125"
+  ],
+  "stem": "A 48-year-old woman attends the emergency department with left facial weakness. She has left ear pain with dizziness and vertigo, and a rash is seen in the ear. What is the diagnosis?",
+  "options": {
+   "A": "Meniere's disease",
+   "B": "Multiple sclerosis",
+   "C": "Ramsay Hunt syndrome",
+   "D": "Posterior circulation stroke",
+   "E": "Trauma"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Facial palsy with otalgia and a vesicular rash in the ear is herpes zoster oticus, Ramsay Hunt syndrome.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00569"
+  ],
+  "stem": "A 52-year-old woman has left facial weakness of one day. The left side shows loss of the nasolabial fold, difficulty blowing out the cheek and loss of forehead wrinkles. What is the likely diagnosis?",
+  "options": {
+   "A": "Bell's palsy",
+   "B": "Lacunar infarct",
+   "C": "Middle cerebral artery infarct",
+   "D": "Multiple sclerosis",
+   "E": "Myasthenia gravis"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Involvement of the forehead indicates an LMN facial palsy, i.e. Bell's palsy.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01017",
+   "C01567"
+  ],
+  "stem": "A feature of Bell's palsy is:",
+  "options": {
+   "A": "Dysphagia",
+   "B": "Hemiplegia",
+   "C": "Paraplegia",
+   "D": "Diplopia",
+   "E": "Facial hemiparesis"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Bell's palsy is an acute idiopathic unilateral LMN facial nerve palsy causing ipsilateral facial weakness.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00418"
+  ],
+  "stem": "A 15-year-old girl has blurred vision while reading. Examination shows limited movement of the right eye towards the nose and loss of the accommodation reflex. Which extraocular muscle is likely affected?",
+  "options": {
+   "A": "Inferior oblique",
+   "B": "Lateral rectus",
+   "C": "Medial rectus",
+   "D": "Superior oblique",
+   "E": "Levator palpebrae superioris"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "The medial rectus adducts the eye (movement towards the nose) and is supplied by the oculomotor nerve.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00413",
+   "C02949"
+  ],
+  "stem": "An important investigation in a patient suspected of having multiple sclerosis is:",
+  "options": {
+   "A": "Electroencephalogram",
+   "B": "X-ray cervical spine",
+   "C": "Electromyography",
+   "D": "MRI brain",
+   "E": "Antinuclear antibodies"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "MRI brain shows periventricular demyelinating plaques and is the key investigation in multiple sclerosis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02018",
+   "C01582",
+   "C02793"
+  ],
+  "stem": "A 40-year-old man has sudden weakness of one half of the body and slurred speech that resolves completely within 2 hours. There is no headache or seizure and CT brain is normal. Likely diagnosis?",
+  "options": {
+   "A": "Stroke in evolution",
+   "B": "Transient ischaemic attack",
+   "C": "Todd's paresis",
+   "D": "Epilepsy",
+   "E": "Dural sinus thrombosis"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Focal deficit with complete recovery within 24 hours and no seizure or infarct on imaging is a TIA. Todd's paresis follows a seizure.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02380"
+  ],
+  "stem": "A 40-year-old woman has repeated episodes of tingling and weakness of the left arm lasting a few minutes for 2 months. What is her risk of future stroke?",
+  "options": {
+   "A": "Depends on lifestyle",
+   "B": "High risk",
+   "C": "Low risk",
+   "D": "Moderate risk",
+   "E": "Very low risk"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Recurrent TIAs carry a substantial early risk of stroke; the source marked moderate risk.",
+  "key_note": "Question is vague; the source-marked answer (moderate risk) is kept. TIA risk is formally stratified by the ABCD2 score.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01865",
+   "C02379",
+   "C02381",
+   "C02406",
+   "C02829"
+  ],
+  "stem": "A 32-year-old woman has recurrent attacks of left arm numbness, each lasting about 1 week and resolving over the next week, separated by about 2 months. Examination shows loss of joint position and vibration sense in the left arm, bilateral extensor plantars and pale optic discs with central scotomas. Diagnosis?",
+  "options": {
+   "A": "Recurrent CVA",
+   "B": "Right parietal meningioma",
+   "C": "Relapsing remitting multiple sclerosis",
+   "D": "Pseudotumour cerebri",
+   "E": "HIV encephalopathy"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Lesions disseminated in time and space (sensory tract, optic nerve, pyramidal signs) with relapses and remissions is relapsing remitting MS.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01864"
+  ],
+  "stem": "A 46-year-old woman with mitral stenosis presents with dense right-sided hemiplegia and global aphasia. Her pulse is rapid and irregular. CT shows cerebral infarction, consistent with embolic stroke. Which artery is most likely occluded?",
+  "options": {
+   "A": "Main stem of the left middle cerebral artery",
+   "B": "Lower posterior branch of the right middle cerebral artery",
+   "C": "Left anterior cerebral artery",
+   "D": "Top of the basilar artery",
+   "E": "Left vertebral artery"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "AF with mitral stenosis causes cardioembolism, and the MCA is the commonest site. Right hemiplegia with global aphasia means a dominant (left) MCA main-stem occlusion.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02013"
+  ],
+  "stem": "A known hypertensive patient presents with sudden onset right-sided weakness. There is a diastolic murmur in the mitral area. Likely aetiology?",
+  "options": {
+   "A": "Brain aneurysm rupture",
+   "B": "Cardioembolism",
+   "C": "Carotid stenosis",
+   "D": "Bleeding disorder",
+   "E": "Coarctation of aorta"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "A mitral diastolic murmur (mitral stenosis, often with AF) points to a cardiac source of embolus.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01665"
+  ],
+  "stem": "A 34-year-old school teacher presents with sudden right-sided hemiplegia. Her pulse is irregularly irregular. Most likely mechanism of her weakness?",
+  "options": {
+   "A": "Space-occupying lesion in left hemisphere",
+   "B": "Left internal capsule bleed",
+   "C": "Embolism in left MCA",
+   "D": "Thrombosis in right internal carotid",
+   "E": "Multiple sclerosis"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Irregularly irregular pulse (AF) means cardioembolism; right hemiplegia localises to the left hemisphere, usually MCA territory.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01823"
+  ],
+  "stem": "A 70-year-old diabetic hypertensive man presents with sudden right-sided hemiparesis, aphasia and homonymous hemianopia. CT shows a left-sided infarct. Which stroke syndrome (Oxford classification)?",
+  "options": {
+   "A": "Lacunar stroke (LACS)",
+   "B": "Partial anterior circulation stroke (PACS)",
+   "C": "Posterior circulation stroke (POCS)",
+   "D": "Total anterior circulation stroke (TACS)"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "TACS needs all three: hemiparesis, higher cortical dysfunction (aphasia) and homonymous hemianopia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01859"
+  ],
+  "stem": "A 70-year-old man has a posterior circulation stroke affecting the primary visual cortex. The most likely visual defect?",
+  "options": {
+   "A": "Homonymous hemianopia with macular sparing",
+   "B": "Complete homonymous hemianopia",
+   "C": "Bitemporal hemianopia",
+   "D": "Ipsilateral blindness"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "PCA occlusion gives contralateral homonymous hemianopia with macular sparing because the occipital pole has dual (MCA) supply.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02399"
+  ],
+  "stem": "A 60-year-old hypertensive man has right hemiplegia and facial palsy; CT shows ischaemic infarction of the MCA territory. Which of the following is NOT an effect of frontal lobe damage?",
+  "options": {
+   "A": "Contralateral hemiparesis",
+   "B": "Expressive dysphasia",
+   "C": "Impaired smell",
+   "D": "Impaired memory",
+   "E": "Homonymous hemianopia"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Homonymous hemianopia arises from damage to the optic radiation or occipital cortex, not the frontal lobe.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01581"
+  ],
+  "stem": "Which of the following is a non-modifiable risk factor for cerebrovascular accident?",
+  "options": {
+   "A": "Smoking",
+   "B": "Alcohol",
+   "C": "Hypertension",
+   "D": "Diabetes",
+   "E": "Family history"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Age, sex, race and family history cannot be changed; the others are modifiable.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02369",
+   "C02792",
+   "C02826"
+  ],
+  "stem": "A 65-year-old woman has sudden right-sided weakness and speech difficulty for 1 hour, with right facial droop and difficulty forming words. Most likely diagnosis?",
+  "options": {
+   "A": "Acute myocardial infarction",
+   "B": "Bell's palsy",
+   "C": "Cerebrovascular accident",
+   "D": "Multiple sclerosis",
+   "E": "Migraine with aura"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Hemiparesis with aphasia and facial droop persisting for an hour is a stroke; Bell's palsy would not cause limb weakness or aphasia.",
+  "key_note": "One paper marked B (Bell palsy); correct is C. Another paper marked TIA for the same stem, but with the deficit still present at 1 hour the working diagnosis is stroke; TIA option replaced by reviewer to avoid ambiguity. Papers marked E (TIA); the stem is ambiguous because a deficit still present at 1 hour is managed as stroke, but the marked answer is kept.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01816"
+  ],
+  "stem": "A 50-year-old man is brought to the ER with severe headache and vomiting followed by altered consciousness. BP is 220/120, neck rigidity is present and fundoscopy shows papilloedema. Most important initial investigation?",
+  "options": {
+   "A": "Lumbar puncture",
+   "B": "MRI brain",
+   "C": "MR angiogram",
+   "D": "Plain CT scan brain"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Suspected intracranial haemorrhage with raised ICP needs urgent CT; lumbar puncture is dangerous with papilloedema.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01649"
+  ],
+  "stem": "A 73-year-old woman with recurrent falls is brought in with episodes of confusion over 5 days, normal between episodes. GCS is 14/15 with nystagmus on left lateral gaze. Most likely diagnosis?",
+  "options": {
+   "A": "Subdural haemorrhage",
+   "B": "Subarachnoid haemorrhage",
+   "C": "Meningitis",
+   "D": "Herpes simplex encephalitis",
+   "E": "Alzheimer's disease"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Falls in an elderly person with fluctuating confusion over days suggest chronic subdural haematoma.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02037"
+  ],
+  "stem": "A patient with carcinoma of the lung develops seizures and weakness of the left arm. What is the expected finding on brain imaging?",
+  "options": {
+   "A": "Brain abscess",
+   "B": "Intracranial bleed",
+   "C": "Ischaemic stroke",
+   "D": "Subdural haematoma",
+   "E": "Metastatic lesions"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Lung cancer commonly metastasises to the brain, causing focal deficits and seizures.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02020",
+   "C03138"
+  ],
+  "stem": "Which of the following lesions typically appears as a ring-enhancing lesion on contrast CT brain?",
+  "options": {
+   "A": "Meningitis",
+   "B": "Haemorrhage",
+   "C": "Infarct",
+   "D": "Encephalitis",
+   "E": "Brain abscess"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "A ring-enhancing lesion with a hypodense centre is typical of brain abscess (also tuberculoma, toxoplasmosis, metastasis).",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02431"
+  ],
+  "stem": "A 40-year-old smoker presents with fever and severe throbbing headache for 10 days. He had sinusitis 2 weeks ago. Most likely diagnosis?",
+  "options": {
+   "A": "Brain tumour",
+   "B": "Left ischaemic CVA",
+   "C": "Brain abscess",
+   "D": "Cluster headache",
+   "E": "Migraine"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Fever, headache and a preceding sinus infection suggest a brain abscess from contiguous spread.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02014"
+  ],
+  "stem": "Raised intracranial pressure is characterised clinically by which pair of signs?",
+  "options": {
+   "A": "Hypertension and bradycardia",
+   "B": "Hypotension and bradycardia",
+   "C": "Hypertension and tachycardia",
+   "D": "Hypotension and tachycardia",
+   "E": "Hypotension and low volume pulse"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Cushing's reflex: hypertension with bradycardia (and irregular respiration) in raised ICP.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02373"
+  ],
+  "stem": "A 15-year-old boy has daily headaches, vomiting and visual disturbance for 1 month; there is bilateral papilloedema. Most likely diagnosis?",
+  "options": {
+   "A": "CNS neoplasm",
+   "B": "Meningitis",
+   "C": "Migraine",
+   "D": "Sinusitis",
+   "E": "Cluster headache"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Progressive headache with vomiting and papilloedema indicates raised ICP, most commonly from a posterior fossa tumour in this age group.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02415"
+  ],
+  "stem": "A 33-year-old obese woman on thyroxine has intermittent headache for 1 month and diplopia for 1 day. BP 150/95, sixth nerve palsy and papilloedema; MRI is normal and MRV excludes venous sinus thrombosis. Diagnosis?",
+  "options": {
+   "A": "Migraine",
+   "B": "Cluster headache",
+   "C": "Idiopathic intracranial hypertension",
+   "D": "Cranial nerve palsy",
+   "E": "Brain abscess"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Obese woman with headache, papilloedema and a false-localising sixth nerve palsy with normal imaging is IIH (pseudotumour cerebri).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01651",
+   "C00571",
+   "C01669",
+   "C02385"
+  ],
+  "stem": "A 41-year-old man has had headaches around the left side of the face with watery eyes for 2 weeks, 2 episodes a day each lasting about 30 minutes. The left eye is red with partial ptosis. Likely diagnosis?",
+  "options": {
+   "A": "Trigeminal neuralgia",
+   "B": "Atypical migraine",
+   "C": "Cluster headache",
+   "D": "Tension-type headache",
+   "E": "Glaucoma"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Short, daily, unilateral periorbital attacks with lacrimation, red eye and partial Horner's are typical of cluster headache.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01909"
+  ],
+  "stem": "A 51-year-old man complains of excessive right eye tearing while eating. Which past history is likely?",
+  "options": {
+   "A": "Left-sided frontal lobe stroke",
+   "B": "Right-sided disc swelling",
+   "C": "Right-sided facial palsy",
+   "D": "Left-sided Horner's syndrome",
+   "E": "Bilateral ptoses"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Crocodile tears (gustatory lacrimation) follow aberrant regeneration of facial nerve fibres after facial palsy.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01817"
+  ],
+  "stem": "A 15-year-old boy has high-grade fever, projectile vomiting and neck stiffness for one day. Most likely CSF finding?",
+  "options": {
+   "A": "Decreased protein",
+   "B": "Increased glucose",
+   "C": "Increased lymphocytes",
+   "D": "Increased neutrophils"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Bacterial meningitis gives a neutrophilic CSF with high protein and low glucose.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01711"
+  ],
+  "stem": "A 47-year-old woman has fever, headache and neck rigidity. Serum glucose 4.9 mmol/l. CSF: opening pressure 14 cm, cloudy, glucose 1.7 mmol/l, protein 1.9 g/l, white cells 900/mm3 (90% polymorphs). Most likely organism?",
+  "options": {
+   "A": "Streptococcus pneumoniae",
+   "B": "E. coli",
+   "C": "Listeria monocytogenes",
+   "D": "Enterovirus",
+   "E": "Streptococcus pyogenes"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Cloudy CSF with polymorphs, low glucose and high protein is bacterial meningitis; S. pneumoniae is the commonest cause in adults.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02153"
+  ],
+  "stem": "A 32-year-old man has 3 days of fever, drowsiness and vomiting, neck stiffness and a positive Kernig's sign. CSF shows neutrophilic pleocytosis, glucose 20 mg/dl (blood 120 mg/dl) and protein 200 mg/dl. Treatment?",
+  "options": {
+   "A": "Aciclovir",
+   "B": "Ampicillin",
+   "C": "Piperacillin",
+   "D": "Cefotaxime and vancomycin",
+   "E": "Isoniazid, rifampicin, pyrazinamide and ethambutol"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Purulent CSF indicates bacterial meningitis, treated empirically with a third-generation cephalosporin plus vancomycin.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01658"
+  ],
+  "stem": "In a patient presenting with a blackout, which feature is most suggestive of a seizure rather than syncope?",
+  "options": {
+   "A": "Extreme pallor during unconsciousness",
+   "B": "No warning before the blackout",
+   "C": "Rapid recovery after the collapse",
+   "D": "Severely bitten tongue",
+   "E": "Urinary incontinence"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A bitten tongue is the most specific; incontinence also occurs in syncope, and pallor and rapid recovery suggest syncope.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02017"
+  ],
+  "stem": "Which investigation helps differentiate a true epileptic fit from a non-epileptic (pseudo) seizure?",
+  "options": {
+   "A": "CT scan brain",
+   "B": "MRI brain",
+   "C": "Serum prolactin",
+   "D": "Serum calcium",
+   "E": "Serum magnesium"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Serum prolactin rises 10-20 minutes after a generalised tonic-clonic seizure but not after psychogenic attacks.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01861"
+  ],
+  "stem": "A 10-year-old girl is reported by her teacher to day-dream and stare at the ceiling in lessons. Most likely diagnosis?",
+  "options": {
+   "A": "Atonic seizures",
+   "B": "Absence seizures",
+   "C": "Focal seizures",
+   "D": "Myoclonic seizures"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Brief staring spells with unresponsiveness in a school-age child are absence seizures (3 Hz spike and wave).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02039"
+  ],
+  "stem": "A 14-year-old boy has three generalised tonic-clonic seizures in 4 weeks, starting suddenly with tonic posturing then body twitching, with post-ictal headache and confusion. His brother has the same illness. Imaging is normal. Most likely diagnosis?",
+  "options": {
+   "A": "Petit mal (absence) attacks",
+   "B": "Temporal lobe epilepsy",
+   "C": "Benign Rolandic epilepsy",
+   "D": "Idiopathic grand mal epilepsy",
+   "E": "Malingering"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Generalised tonic-clonic seizures without aura or structural cause and with a family history point to idiopathic generalised epilepsy.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02377"
+  ],
+  "stem": "A 28-year-old man with recurrent seizures for 6 months has a history of head trauma and occasional recreational drug use. Which type of seizure is most likely?",
+  "options": {
+   "A": "Absence seizure",
+   "B": "Atonic seizure",
+   "C": "Focal seizure",
+   "D": "Generalised tonic-clonic seizure",
+   "E": "Myoclonic seizure"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Post-traumatic epilepsy arises from a cortical scar and is typically focal.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01824"
+  ],
+  "stem": "A 32-year-old man has a second generalised tonic-clonic seizure; both were preceded by jerky movements of the right hand. Which first-line antiepileptic is most appropriate?",
+  "options": {
+   "A": "Phenytoin",
+   "B": "Lamotrigine",
+   "C": "Ethosuximide",
+   "D": "Sodium valproate"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Seizures with focal onset (right hand jerking) that generalise are focal seizures; lamotrigine is a first-line drug (carbamazepine, the other first-line option, was replaced in the options). Valproate and ethosuximide are not first choice for focal seizures.",
+  "key_note": "Paper key marked B (lamotrigine) kept; carbamazepine and levetiracetam were also acceptable first-line options, so the distractors were changed by the reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02021"
+  ],
+  "stem": "The level of consciousness of a patient in clinical practice is measured by:",
+  "options": {
+   "A": "DSM-IV criteria",
+   "B": "ICD-10 criteria",
+   "C": "Glasgow Coma Scale",
+   "D": "Expanded Disability Status Scale",
+   "E": "Katz index of dependence"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "GCS scores eye, verbal and motor response (3-15).",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02022"
+  ],
+  "stem": "Which of the following is a superficial reflex?",
+  "options": {
+   "A": "Knee reflex",
+   "B": "Biceps reflex",
+   "C": "Ankle reflex",
+   "D": "Plantar reflex",
+   "E": "Triceps reflex"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Plantar, abdominal and cremasteric reflexes are superficial; the others are deep tendon reflexes.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01668"
+  ],
+  "stem": "A 40-year-old woman has bitemporal hemianopia. Where is the lesion?",
+  "options": {
+   "A": "Optic nerve",
+   "B": "Optic chiasm",
+   "C": "Optic radiation",
+   "D": "Occipital lobe",
+   "E": "Bilateral cataract"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Crossing nasal retinal fibres at the chiasm are interrupted (e.g. pituitary tumour), giving bitemporal field loss.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01520"
+  ],
+  "stem": "A young boy with a road traffic accident has a spinal injury at the thoracolumbar level. What do you expect in the lower limbs?",
+  "options": {
+   "A": "Hyper-reflexia",
+   "B": "Fasciculations",
+   "C": "Down-going plantar",
+   "D": "Areflexia",
+   "E": "Quadriplegia"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "An upper-motor-neurone cord lesion gives spasticity and hyperreflexia after the initial spinal shock.",
+  "key_note": "Paper marked A (hyper-reflexia), which is defensible for a cord lesion; a conus or cauda equina lesion would give areflexia.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02025",
+   "C03136",
+   "C03261"
+  ],
+  "stem": "A patient has facial asymmetry from a facial palsy. Which cranial nerve is involved?",
+  "options": {
+   "A": "5th",
+   "B": "6th",
+   "C": "7th",
+   "D": "8th",
+   "E": "9th"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "The facial muscles are supplied by the 7th cranial nerve.",
+  "key_note": "Not marked in the source paper; answer by reviewer. The original stem referred to a picture.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01819"
+  ],
+  "stem": "A 50-year-old man has right-sided motor weakness, absent forehead wrinkling and hearing loss on the right, with an ataxic gait. Where is the lesion?",
+  "options": {
+   "A": "Cerebellum",
+   "B": "Cerebellopontine angle",
+   "C": "Facial canal",
+   "D": "Internal capsule"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Facial (LMN), cochlear and cerebellar signs together localise to the cerebellopontine angle.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02417"
+  ],
+  "stem": "A 50-year-old woman has ataxic gait, progressive right hearing loss and tinnitus, with dysarthria and right-sided past-pointing. Diagnosis?",
+  "options": {
+   "A": "Meningoencephalitis",
+   "B": "Facial nerve injury",
+   "C": "Spinocerebellar disease",
+   "D": "Meningioma",
+   "E": "Acoustic neuroma"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Vestibular schwannoma presents with unilateral sensorineural deafness, tinnitus and ipsilateral cerebellar signs.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02400"
+  ],
+  "stem": "A 46-year-old woman with vertigo and gait disturbance has a cerebellar lesion. Which is NOT a feature of cerebellar dysfunction?",
+  "options": {
+   "A": "Dysmetria",
+   "B": "Dysdiadochokinesia",
+   "C": "Dysphasia",
+   "D": "Nystagmus",
+   "E": "Dysarthria"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Dysphasia is a cortical language disorder; cerebellar signs include dysmetria, dysdiadochokinesia, nystagmus and scanning dysarthria.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02036"
+  ],
+  "stem": "Intention (action) tremor is typically seen in:",
+  "options": {
+   "A": "Parkinson's disease",
+   "B": "Cerebellar disease",
+   "C": "Hypothyroidism",
+   "D": "Hypocalcaemia",
+   "E": "Wernicke's encephalopathy"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Intention tremor worsens as the target is approached and indicates cerebellar dysfunction; Parkinson tremor is at rest.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02038"
+  ],
+  "stem": "Which clinical feature is seen in cerebellar disease?",
+  "options": {
+   "A": "Pill-rolling resting tremor",
+   "B": "Ataxia",
+   "C": "Ankle clonus",
+   "D": "Isolated sensory loss",
+   "E": "Positive glabellar tap"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Ataxia is the cardinal cerebellar sign; pill-rolling tremor and glabellar tap are parkinsonian, clonus is pyramidal.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02024"
+  ],
+  "stem": "A 45-year-old man with tremors is diagnosed with Parkinson's disease. This disease is diagnosed mainly by:",
+  "options": {
+   "A": "Clinical evaluation",
+   "B": "CSF examination",
+   "C": "X-ray skull",
+   "D": "EEG",
+   "E": "Nerve conduction studies"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Parkinson's disease is a clinical diagnosis; imaging mainly excludes other causes.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01860"
+  ],
+  "stem": "A 60-year-old man starts levodopa for Parkinson's disease. Which is the most characteristic long-term adverse effect?",
+  "options": {
+   "A": "Dry mouth",
+   "B": "On-off phenomenon",
+   "C": "Somnolence",
+   "D": "Urinary retention"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Long-term levodopa causes motor fluctuations (wearing off, on-off) and dyskinesias.",
+  "key_note": "Paper marked B (on-off); acute side effects are nausea and postural hypotension, but on-off is the classic long-term one.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02374"
+  ],
+  "stem": "A 70-year-old man with Parkinson's disease develops sudden confusion and disorientation for 1 day. His family reports he has been taking higher doses of his medication. Most likely cause?",
+  "options": {
+   "A": "Dementia",
+   "B": "Drug overdose",
+   "C": "Infection",
+   "D": "Stroke",
+   "E": "Substance abuse"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Excess dopaminergic drugs cause confusion, hallucinations and psychosis in Parkinson's disease.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02149"
+  ],
+  "stem": "A 40-year-old man has had hand shaking since age 14, with postural tremor of the hands, head and voice. Likely cause?",
+  "options": {
+   "A": "Early-onset Parkinson's disease",
+   "B": "Motor neuron disease",
+   "C": "Juvenile Huntington's disease",
+   "D": "Essential tremor",
+   "E": "Wilson's disease"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Long-standing postural tremor of hands, head and voice is classic essential tremor (often familial, alcohol-responsive).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01908",
+   "C00044"
+  ],
+  "stem": "A 61-year-old woman has rapidly progressive memory loss, behavioural abnormality, gait ataxia, extensor plantars and myoclonus; CT is relatively normal. Likely diagnosis?",
+  "options": {
+   "A": "Cerebral glioblastoma multiforme",
+   "B": "Creutzfeldt-Jakob disease",
+   "C": "Pick's dementia",
+   "D": "Multiple sclerosis",
+   "E": "AIDS-dementia complex"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Rapidly progressive dementia with myoclonus and ataxia and no mass on imaging is CJD.",
+  "key_note": "Paper key marked A (glioblastoma); correct is B: CJD fits the rapid dementia with myoclonus and a normal CT.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02026"
+  ],
+  "stem": "A 75-year-old man has gradual onset fluctuating cognitive impairment, falls, tremor and poor recent memory. Most likely diagnosis?",
+  "options": {
+   "A": "Motor neuron disease",
+   "B": "Dementia",
+   "C": "Depression",
+   "D": "Multiple sclerosis",
+   "E": "Parkinson's disease"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Fluctuating cognition with parkinsonism and falls suggests dementia with Lewy bodies; of the options, dementia fits best.",
+  "key_note": "Not marked in the source paper; answer by reviewer. Best option is dementia (specifically Lewy body type).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02416",
+   "C02876"
+  ],
+  "stem": "A 42-year-old man has progressive memory loss, moodiness and depression, with involuntary limb movements; MRI shows cerebral atrophy. Diagnosis?",
+  "options": {
+   "A": "Parkinson's disease",
+   "B": "Dystonia",
+   "C": "Dementia",
+   "D": "Huntington's disease",
+   "E": "Chorea"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Young adult with dementia, mood change, chorea and cerebral atrophy is Huntington's disease.",
+  "key_note": "Paper marked C (dementia); Huntington's disease (D) is the more specific and correct diagnosis given the involuntary movements.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02023"
+  ],
+  "stem": "Which clinical finding is the hallmark of motor neuron disease and helps differentiate it from similar diseases?",
+  "options": {
+   "A": "Hypertonia",
+   "B": "Clonus",
+   "C": "Muscle weakness",
+   "D": "Fasciculations",
+   "E": "Positive Babinski sign"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Fasciculations reflect LMN involvement; together with UMN signs and no sensory loss they distinguish MND.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01868"
+  ],
+  "stem": "A 65-year-old man has 9 months of hand clumsiness and generalised weakness, and you suspect motor neuron disease. Which finding would make you revise the diagnosis?",
+  "options": {
+   "A": "Exaggerated deep tendon reflexes",
+   "B": "Fasciculations in the hands",
+   "C": "Decreased power in the hands",
+   "D": "Diminished pinprick sensation in the feet",
+   "E": "Thigh wasting"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Sensory loss is not a feature of motor neuron disease and suggests another diagnosis such as neuropathy or myelopathy.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01867"
+  ],
+  "stem": "A 56-year-old woman has progressive spastic paraparesis; dorsal spine MRI is unremarkable, serum B12 is normal and there is no family history. What would you do next?",
+  "options": {
+   "A": "CT scan of the dorsal spine",
+   "B": "Plain X-ray of the cervical spine",
+   "C": "MRI of the brain and cervical cord",
+   "D": "Thigh muscle biopsy",
+   "E": "Nerve conduction studies of both lower limbs"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "With a normal thoracic cord MRI, the rest of the neuraxis (brain and cervical cord) should be imaged by MRI to look for demyelination or other central causes.",
+  "key_note": "Key kept as marked; the intended point is to image elsewhere in the CNS (brain MRI is preferable to CT).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02015"
+  ],
+  "stem": "A 30-year-old man has progressive lower limb weakness over a week, with hypotonia and absent knee and ankle jerks. Which investigation best confirms the diagnosis?",
+  "options": {
+   "A": "X-ray spine",
+   "B": "MRI brain",
+   "C": "Serum calcium",
+   "D": "CT scan brain",
+   "E": "CSF analysis"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Ascending flaccid areflexic weakness suggests Guillain-Barre syndrome; CSF shows albuminocytological dissociation.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01820",
+   "C03126"
+  ],
+  "stem": "A 45-year-old woman has a week of ascending lower limb weakness after diarrhoea 2 weeks earlier. What is the hallmark of this condition?",
+  "options": {
+   "A": "Areflexia",
+   "B": "Early sphincter involvement",
+   "C": "Relapsing remitting course",
+   "D": "Sensory loss"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Guillain-Barre syndrome features flaccid weakness with areflexia; sphincters and sensation are typically spared or mildly affected.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01869"
+  ],
+  "stem": "A 43-year-old man has severe lower limb weakness and thigh pain with intact sensation, 2 weeks after benign diarrhoea. Which is inconsistent with the diagnosis of Guillain-Barre syndrome?",
+  "options": {
+   "A": "Some involvement of the upper limbs",
+   "B": "Absent ankle reflex",
+   "C": "Brisk knee and ankle reflexes",
+   "D": "Symmetrical lower limb weakness",
+   "E": "Bilateral facial weakness"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Guillain-Barre syndrome causes areflexia or hyporeflexia; brisk reflexes point to an upper motor neuron lesion and are inconsistent with the diagnosis. Upper limb and facial involvement, symmetrical weakness and absent ankle jerks are all compatible.",
+  "key_note": "Original option C (normal nerve conduction in the first week) was actually consistent with GBS, so every option was compatible. Reviewer replaced option C with brisk reflexes, which is the single inconsistent finding.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01650"
+  ],
+  "stem": "Which statement about Guillain-Barre syndrome is NOT true?",
+  "options": {
+   "A": "Plasma exchange is used in treatment",
+   "B": "IV immunoglobulin is an effective treatment",
+   "C": "Steroids and immunosuppressants are routinely used in treatment",
+   "D": "Respiratory function should be monitored regularly",
+   "E": "It is a lower motor neuron disease"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Steroids and immunosuppressants have no proven benefit in GBS; treatment is IVIG or plasma exchange plus respiratory monitoring.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02016",
+   "C02958"
+  ],
+  "stem": "A patient has Guillain-Barre syndrome that started 2 weeks after infectious diarrhoea. Which management is recommended and effective?",
+  "options": {
+   "A": "Steroids",
+   "B": "Plasmapheresis",
+   "C": "Analgesics",
+   "D": "Antivirals",
+   "E": "Interferon"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Plasma exchange or IVIG hastens recovery; steroids are ineffective.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02405"
+  ],
+  "stem": "A 25-year-old soldier has 5 days of ascending limb weakness after diarrhoea and 1 day of breathlessness at rest. Chest expansion is 1 cm, power is 0/5 in all limbs, reflexes are absent and plantars are mute. What is the immediate management?",
+  "options": {
+   "A": "Intubation and ventilatory support",
+   "B": "Immunosuppressive therapy",
+   "C": "Plasmapheresis",
+   "D": "Antiplatelet",
+   "E": "IV methylprednisolone"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Guillain-Barre syndrome with impending respiratory failure (breathless at rest, chest expansion 1 cm) needs immediate airway and ventilatory support; plasmapheresis or IVIG follows.",
+  "key_note": "Paper marked C (plasmapheresis), the disease-modifying treatment; as the question asks for the immediate step, ventilatory support (A) is given.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01870"
+  ],
+  "stem": "A 45-year-old man has proximal and distal weakness of all limbs with pain and paraesthesia for 8 months. Neurophysiology shows widespread demyelination with secondary axonal loss, and CSF protein is greatly raised. Diagnosis?",
+  "options": {
+   "A": "Guillain-Barre syndrome",
+   "B": "Diphtheritic neuropathy",
+   "C": "Chronic inflammatory demyelinating polyradiculopathy",
+   "D": "Acute intermittent porphyria",
+   "E": "Charcot-Marie-Tooth disease"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Progression beyond 8 weeks with demyelination and high CSF protein is CIDP rather than GBS.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01667"
+  ],
+  "stem": "A young patient has sudden weakness of both lower limbs with bilateral extensor plantars and a sensory level at the abdomen. Diagnosis?",
+  "options": {
+   "A": "Transverse myelitis",
+   "B": "Guillain-Barre syndrome",
+   "C": "CVA at capsular level",
+   "D": "Poliomyelitis",
+   "E": "Motor neuropathy"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "A sensory level with UMN signs localises to the spinal cord; acute onset suggests transverse myelitis.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01818"
+  ],
+  "stem": "A 50-year-old man has intermittent diplopia and muscle weakness worse towards the end of the day. What will nerve conduction studies show?",
+  "options": {
+   "A": "Axonal damage",
+   "B": "Demyelination",
+   "C": "Incremental response",
+   "D": "Decremental response"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Repetitive nerve stimulation in myasthenia gravis shows a decremental response (Lambert-Eaton shows an incremental response).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02040"
+  ],
+  "stem": "A 32-year-old woman has double vision while reading with normal visual acuity, and you are considering myasthenia gravis. Which finding points to another diagnosis?",
+  "options": {
+   "A": "Left partial ptosis",
+   "B": "Intact joint position sense in both legs",
+   "C": "Fixed dilated pupil",
+   "D": "Normal deep tendon reflexes",
+   "E": "Dysphagia"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Myasthenia spares the pupils; a fixed dilated pupil suggests a third nerve lesion.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [],
+  "stem": "Subacute combined degeneration of the spinal cord is due to deficiency of:",
+  "options": {
+   "A": "Vitamin B12",
+   "B": "Vitamin B1",
+   "C": "Vitamin B6",
+   "D": "Vitamin D",
+   "E": "Vitamin E"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Vitamin B12 deficiency damages the dorsal columns and corticospinal tracts.",
+  "key_note": "Options written by reviewer; the source gave only the stem fragment.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01675"
+  ],
+  "stem": "A 13-year-old boy has progressive difficulty climbing stairs and rising from sitting, with bilateral hypertrophied calves and raised CPK. Likely diagnosis?",
+  "options": {
+   "A": "Osteomyelitis",
+   "B": "Osteomalacia",
+   "C": "Myasthenia gravis",
+   "D": "Muscular dystrophy",
+   "E": "Myositis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Gowers' sign, pseudohypertrophy of calves and high CK in a boy is Duchenne muscular dystrophy.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01821"
+  ],
+  "stem": "A 46-year-old woman with multiple sclerosis presents with a relapse. Best treatment for the acute episode?",
+  "options": {
+   "A": "Glatiramer acetate",
+   "B": "Interferon beta",
+   "C": "Monoclonal antibody",
+   "D": "Methylprednisolone"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "High-dose IV methylprednisolone shortens acute relapses; the others are disease-modifying therapies.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02371"
+  ],
+  "stem": "A 50-year-old man with chronic alcohol abuse presents with confusion, difficulty walking and visual disturbance for 1 month. Most likely diagnosis?",
+  "options": {
+   "A": "Alzheimer's disease",
+   "B": "Delirium tremens",
+   "C": "Hepatic encephalopathy",
+   "D": "Korsakoff syndrome",
+   "E": "Wernicke's encephalopathy"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Confusion, ataxia and ophthalmoplegia or visual disturbance in an alcoholic is Wernicke's encephalopathy (thiamine deficiency); treat with IV thiamine.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02513"
+  ],
+  "stem": "Sensory information is processed mainly in which area of the brain?",
+  "options": {
+   "A": "Parietal lobe",
+   "B": "Frontal",
+   "C": "Temporal",
+   "D": "Occipital",
+   "E": "cerebellum"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "The parietal lobe is the main primary sensory (somatosensory) cortex; the frontal lobe is motor, the occipital visual and the temporal auditory.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03122"
+  ],
+  "stem": "The clinical features of acalculia, dyslexia, apraxia, agnosia is associated with lesions of which of following parts of brain:",
+  "options": {
+   "A": "Frontal lobe",
+   "B": "Temporal lobe",
+   "C": "Occipital lobe",
+   "D": "Parietal lobe",
+   "E": "Parietal plus occipital lobe"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Acalculia, agraphia, finger agnosia and left-right disorientation (Gerstmann syndrome) with apraxia and agnosia point to the dominant parietal lobe.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03128"
+  ],
+  "stem": "A patient with recent stroke has difficulty in speech. He is found to have expressive aphasia that indicates lesion at the Broca’s area. This area is located in which of the following:",
+  "options": {
+   "A": "Temporal",
+   "B": "Parietal",
+   "C": "Frontal",
+   "D": "Occipital",
+   "E": "pituitary"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Broca's area lies in the inferior frontal gyrus of the dominant hemisphere; its lesion causes non-fluent (expressive) aphasia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02514"
+  ],
+  "stem": "The medical students are being taught about the examination of the nervous system. The patient is found to have inability to recognize form, shape, function of objects. This is called as;",
+  "options": {
+   "A": "Agnosia",
+   "B": "Dyskinesia",
+   "C": "Multiple sclerosis",
+   "D": "Dementia",
+   "E": "Asterixis"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Agnosia is inability to recognise objects despite intact sensation, a parietal association cortex feature; dyskinesia and asterixis are movement disorders.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02516"
+  ],
+  "stem": "After a bout of aseptic meningitis, a patient is unable to recall a surgical procedure he went through before infection. He is however able to recall and register present events. He is most likely suffering from which of the following conditions",
+  "options": {
+   "A": "Anterograde amnesia",
+   "B": "Proactive inhibition",
+   "C": "Transient global amnesia",
+   "D": "Retrograde amnesia",
+   "E": "Depressive illness"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Inability to recall events before the insult with intact registration of new events is retrograde amnesia; anterograde amnesia is the opposite.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03172"
+  ],
+  "stem": "Level of consciousness include all of the following except:",
+  "options": {
+   "A": "Stupor",
+   "B": "Aphasia",
+   "C": "Somnolence",
+   "D": "Drowsiness",
+   "E": "Semi coma"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Levels of consciousness run from alert through drowsiness, somnolence, stupor and semi-coma to coma; aphasia is a language disorder, not a level of consciousness.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03264"
+  ],
+  "stem": "Pupillary reflex is checked with the help of;",
+  "options": {
+   "A": "Cotton swab",
+   "B": "Monofilament",
+   "C": "Torch",
+   "D": "Hammer",
+   "E": "Snellen’s chart"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "The pupillary light reflex is tested with a torch; the afferent limb is the optic nerve and the efferent the oculomotor nerve.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03135",
+   "C03258"
+  ],
+  "stem": "During viva, you as asked about the neurological examination. The Finger nose test is used to assess which of the following;",
+  "options": {
+   "A": "Power",
+   "B": "Tone",
+   "C": "Reflexes",
+   "D": "Co-ordination",
+   "E": "Sensation"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "The finger-nose test assesses cerebellar co-ordination; past-pointing and intention tremor indicate cerebellar disease.",
+  "key_note": "Option E repeated \"Tone\" in the source; replaced by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02521",
+   "C03137",
+   "C03265"
+  ],
+  "stem": "Upper motor neuron involvement is characterized by",
+  "options": {
+   "A": "Down going plantar response",
+   "B": "Absent abdominal reflexes",
+   "C": "Muscle fasciculations",
+   "D": "Increased motor tone and reflexes",
+   "E": "Flaccid paresis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Upper motor neuron lesions give spasticity (raised tone), hyper-reflexia, clonus and an upgoing plantar; fasciculations and flaccid paresis are lower motor neuron signs.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03127"
+  ],
+  "stem": "While examining the lower limbs of a 50-year male in ward, your clinical findings are muscles weakness, spasticity, brisk reflexes, and positive Babinsky response. Thes efindings indicate lesions at level of;",
+  "options": {
+   "A": "Upper motor neuron",
+   "B": "Optic tract",
+   "C": "Occipital lobe",
+   "D": "Thalamus optics",
+   "E": "Neuromuscular junction"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Weakness with spasticity, brisk reflexes and an extensor (positive Babinski) plantar indicate an upper motor neuron lesion.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02943",
+   "C03118"
+  ],
+  "stem": "A 55 y/o male presents to the ER with a left sided facial droop. The patient has diabetes and hypertension. He also had flu like symptoms 1 week ago. On clinical examination he was unable to frown and wrinkle his forehead. What is the cause of his symptoms?",
+  "options": {
+   "A": "Upper motor neuron lesion",
+   "B": "Lower motor neuron lesion",
+   "C": "Trigeminal nerve lesion",
+   "D": "Herpes Zoster Oticus",
+   "E": "Malignant Otitis Externa"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Inability to wrinkle the forehead means the forehead is not spared, so the lesion is lower motor neuron (7th nerve), i.e. Bell palsy; UMN lesions spare the forehead.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03255"
+  ],
+  "stem": "The positive Babinski’s sign (upgoing plantars) is seen in;",
+  "options": {
+   "A": "Stroke",
+   "B": "Poliomyelitis",
+   "C": "Femoral nerve damage",
+   "D": "Myasthenia Gravis",
+   "E": "Motor neuron disease"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "An upgoing plantar (Babinski) occurs in upper motor neuron lesions such as stroke; poliomyelitis, myasthenia and peripheral nerve damage do not produce it.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03259"
+  ],
+  "stem": "A 51-year-old-woman presented with weakness of her right hand, which had developed 2 days after receiving a flu vaccine in her left arm. For 24 hours after the immunisation, she had felt unwell with mild fever, right-sided neck pain and muscle ache. Likely cause of this symptom is;",
+  "options": {
+   "A": "Stroke",
+   "B": "Cervical spondylosis",
+   "C": "Nerve palsy",
+   "D": "Polio",
+   "E": "Neuropathy"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Weakness of the hand days after vaccination with preceding neck/shoulder pain suggests a peripheral nerve lesion (brachial neuritis, a nerve palsy), not stroke or polio.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02518",
+   "C00992",
+   "C02433"
+  ],
+  "stem": "A 22-years-patient presents with unilateral headache attacks associated with flashes of light and intolerance to noise. Most likely diagnosis is;",
+  "options": {
+   "A": "Migraine headache",
+   "B": "Tension headache",
+   "C": "Cluster headache",
+   "D": "Stress headache",
+   "E": "Cervical issue"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Unilateral headache with visual aura (flashes of light) and phonophobia is migraine.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02955"
+  ],
+  "stem": "All of the following are features of migraine except:",
+  "options": {
+   "A": "Photophobia",
+   "B": "Vomiting",
+   "C": "Phonophobia",
+   "D": "Bilateral headache",
+   "E": "Aura"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Migraine is typically unilateral, throbbing, with photophobia, phonophobia, vomiting and aura; bilateral band-like headache suggests tension-type.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02517",
+   "C02942"
+  ],
+  "stem": "55 years old female with history of Hypertension developed severe headache while she was doing routine work. She described it as worst headache of her life. It was associated with neck stiffness. What can be the most likely cause",
+  "options": {
+   "A": "Cluster headache",
+   "B": "Migraine",
+   "C": "Subarachnoid hemorrhage",
+   "D": "Brain tumor",
+   "E": "Tension headache"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Sudden \"worst headache of life\" with neck stiffness is subarachnoid haemorrhage until proved otherwise; CT head, then LP if CT is negative.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02434"
+  ],
+  "stem": "16 years old girl comes for the root canal procedure at a dental clinic with H/O toothache for 2 days, severe inability to sleep whole night. During RCT suddenly developed jerking movements of face and limbs progressing with tongue bite. What is your diagnosis?",
+  "options": {
+   "A": "Tonic clonic seizure",
+   "B": "Absence seizure",
+   "C": "Atonic seizure",
+   "D": "Dissociation attack",
+   "E": "Myoclonic jerks"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Jerking of face and limbs with tongue biting is a generalised tonic-clonic seizure; sleep deprivation and pain lower the threshold.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02954"
+  ],
+  "stem": "Withdrawal of antiepileptic drugs should be considered when patient is seizure free for",
+  "options": {
+   "A": "1 years",
+   "B": "2 years",
+   "C": "3 years",
+   "D": "5 years",
+   "E": "10 years"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Antiepileptic drug withdrawal is considered after about 2 years of seizure freedom, tapering slowly.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02932",
+   "C00396",
+   "C02032",
+   "C03267"
+  ],
+  "stem": "A patent presents with abnormal jerky movements. He is diagnosed to have status epilepticus. After protecting his airways, which of the following is indicated?",
+  "options": {
+   "A": "Oral alprazolam",
+   "B": "Intravenous diazepam",
+   "C": "Magnesium sulphate",
+   "D": "Calcium gluconate",
+   "E": "Re-breathing mask"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "In status epilepticus secure the airway and give an IV benzodiazepine (lorazepam or diazepam), then phenytoin or valproate if seizures persist.",
+  "key_note": "Some options were poorly legible in the source; answer as marked.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02736"
+  ],
+  "stem": "A 7-year-old child is brought to the emergency department by paramedics after experiencing multiple generalized tonic-clonic seizures at home. The seizures have persisted despite initial first aid measures. In this out-of-hospital setting, which of the following treatments is considered the first-line option?",
+  "options": {
+   "A": "Oral phenytoin",
+   "B": "Oral phenobarbitone",
+   "C": "IV Diazepam",
+   "D": "IV Midazolam",
+   "E": "Rectal Diazepam"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Out of hospital, rectal diazepam (or buccal midazolam) is first-line for prolonged convulsions in a child without IV access.",
+  "key_note": "One paper marked B (Intranasal midazolam); rectal diazepam is kept as the standard first-line out-of-hospital choice in this question.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02752"
+  ],
+  "stem": "A 68-year-old man has transient right arm weakness and expressive dysphasia lasting thirty minutes. Examination showed that there was a left carotid bruit; the neurological examination is normal after recovery. Brain imaging excludes haemorrhage. What is the single most likely vascular pathology underlying these events?",
+  "options": {
+   "A": "Small vessel lipohyalinosis",
+   "B": "Cardioembolic stroke from atrial fibrillation",
+   "C": "Atherosclerotic plaque causing symptomatic left internal carotid stenosis",
+   "D": "Vasculitis of medium vessels",
+   "E": "Patent foramen ovale with paradoxical embolus"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Transient arm weakness with dysphasia and a carotid bruit points to atheroembolism from symptomatic carotid stenosis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03253"
+  ],
+  "stem": "A 59-year-old man presented after a 25-minute transient ischaemic attack that had manifested as left arm and leg weakness. He had previously been well. On examination, his pulse was 72 beats per minute and regular, his BP was 135/84 mmHg and his heart sounds were normal. Neurological examination was normal. His CT scan brain is also normal. Which investigation is suggested to evaluate cause of this;",
+  "options": {
+   "A": "Blood complete picture",
+   "B": "Chest X ray",
+   "C": "Serum electrolytes",
+   "D": "Carotid dopplers",
+   "E": "EEG of brain"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "After a carotid-territory TIA, carotid Doppler (or CT/MR angiography) identifies stenosis needing endarterectomy.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02839",
+   "C01037",
+   "C03262"
+  ],
+  "stem": "50-year-old man with sudden left-sided weakness for 1 hour. Most important modifiable risk factor for ischemic stroke?",
+  "options": {
+   "A": "Hypertension",
+   "B": "Diabetes mellitus",
+   "C": "Hyperlipidemia",
+   "D": "Smoking",
+   "E": "Family history"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Hypertension is the most important modifiable risk factor for ischaemic stroke.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02512"
+  ],
+  "stem": "A 40-year-male presents with sudden onset severe headache, vomiting and loss of consciousness. He is found to have hypertensive brain hemorrhage. This is most commonly seen in which of the following parts of brain?",
+  "options": {
+   "A": "Basal ganglia",
+   "B": "Cerebrum",
+   "C": "Thalamus",
+   "D": "Brain stem",
+   "E": "Pituitary"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Hypertensive intracerebral haemorrhage most commonly affects the basal ganglia (putamen) from rupture of lenticulostriate vessels.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02515"
+  ],
+  "stem": "A 72-years-old woman trips and falls down the stairs. She does not lose consciousness. After 36 hours she develops headache and confusion and is taken to emergency dept. What is most likely location of intracranial hemorrhage",
+  "options": {
+   "A": "Pontine",
+   "B": "Subarachnoid",
+   "C": "Basal ganglia",
+   "D": "Epidural",
+   "E": "Subdural."
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Minor head trauma in an elderly person with delayed headache and confusion suggests subdural haematoma from torn bridging veins.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02836",
+   "C02855"
+  ],
+  "stem": "A 58-year man suddenly develops dysphagia, hoarseness, loss of pain and temperature on left side of face, and loss of pain and temperature on right side of body. Exam: ipsilateral Horner's syndrome. Most likely syndrome?",
+  "options": {
+   "A": "Lambert-Eaton syndrome",
+   "B": "Lateral medullary syndrome",
+   "C": "Weber's syndrome",
+   "D": "Medial medullary syndrome",
+   "E": "Locked-in syndrome"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Ipsilateral facial and contralateral body pain/temperature loss, dysphagia, hoarseness and Horner syndrome is lateral medullary (Wallenberg) syndrome from PICA/vertebral occlusion.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02810",
+   "C02332",
+   "C00890"
+  ],
+  "stem": "A 72-year man presents with sudden onset right-sided weakness and slurred speech. Last known normal 3 hours ago. Immediate first step?",
+  "options": {
+   "A": "Administer aspirin",
+   "B": "Administer statins",
+   "C": "CT scan of the head",
+   "D": "Intravenous alteplase (tPA)",
+   "E": "Administer steroids"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A plain CT head is the immediate step to exclude haemorrhage; thrombolysis follows only if CT shows no bleed and the patient is within the window.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02819",
+   "C02957"
+  ],
+  "stem": "A 65-year female presents with sudden-onset left-sided weakness for 1 hour. CT brain without contrast shows no hemorrhage. Most appropriate next step?",
+  "options": {
+   "A": "Start aspirin",
+   "B": "Administer Intravenous tPA",
+   "C": "Order MRI brain",
+   "D": "Begin anticoagulation",
+   "E": "Observe"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Ischaemic stroke within 4.5 hours with no haemorrhage on CT: IV alteplase.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03121"
+  ],
+  "stem": "A patient presents with sudden onset aphasia and right sided weakness of body. A diagnosis of ischemic stroke is made. What is window period for Tissue plasminogen activator (TPA)?",
+  "options": {
+   "A": "4.5 hrs",
+   "B": "8 hrs",
+   "C": "10 hrs",
+   "D": "12 hrs",
+   "E": "6 hrs"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "IV alteplase is licensed up to 4.5 hours from onset of ischaemic stroke.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03266"
+  ],
+  "stem": "Which of the following medications is recommended in the management of Ischemic stroke?",
+  "options": {
+   "A": "Diclofenac sodium",
+   "B": "Mannitol",
+   "C": "Aspirin",
+   "D": "Paracetamol",
+   "E": "Warfarin"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Aspirin is recommended for acute ischaemic stroke once haemorrhage is excluded; warfarin is not used acutely.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02520"
+  ],
+  "stem": "All are the clinical signs of meningeal irritation EXCEPT",
+  "options": {
+   "A": "Kernig sign",
+   "B": "Brudzinski sign",
+   "C": "Papilledema",
+   "D": "Neck rigidity",
+   "E": "Neck stiffness"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Kernig, Brudzinski sign and neck stiffness are meningeal irritation signs; papilloedema is a sign of raised intracranial pressure.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02435"
+  ],
+  "stem": "50 years old male, K/C hypertension presented in ER unconscious , H/O fever for 4 days, vomiting and rash on the body. O/E Kernig's sign is positive with bilateral mute plantar reflex. What is the likely diagnosis?",
+  "options": {
+   "A": "Viral encephalitis",
+   "B": "Bacterial meningitis",
+   "C": "Tuberculous meningitis",
+   "D": "Pontine tumor",
+   "E": "Partially treated meningitis"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Acute fever, rash, impaired consciousness and Kernig sign suggest acute bacterial (meningococcal) meningitis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02726"
+  ],
+  "stem": "A 55-year-old develops fever, headache, photophobia, and confusion over 12 hours. Lumbar Puncture was and CSF shows; turbid fluid; neutrophils predominant, protein very high, glucose markedly low vs plasma. What is the single most likely aetiology?",
+  "options": {
+   "A": "Viral meningitis",
+   "B": "TB meningitis",
+   "C": "Fungal meningitis",
+   "D": "Acute bacterial meningitis",
+   "E": "Partially treated viral meningitis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Turbid CSF with neutrophils, very high protein and very low glucose is acute bacterial meningitis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03134"
+  ],
+  "stem": "A young male has to undergo lumbar puncture foe febrile illness. The Lumbar puncture is indicated in;",
+  "options": {
+   "A": "Meningitis",
+   "B": "Enteric fever",
+   "C": "Epilepsy",
+   "D": "Raised intracranial pressure",
+   "E": "Polio"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Lumbar puncture is indicated in suspected meningitis; it is contraindicated with raised intracranial pressure.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03129",
+   "C00881",
+   "C02035"
+  ],
+  "stem": "A 19-year-patient presents with fever, headache and neck stiffness. He is suspected to have bacterial meningitis. The first line drug in treatment of this case is;",
+  "options": {
+   "A": "Ceftriaxone",
+   "B": "Ampicillin",
+   "C": "Vancomycin",
+   "D": "Acyclovir",
+   "E": "Chloramphenicol"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Ceftriaxone (or cefotaxime) is first-line empirical therapy for adult bacterial meningitis, given with dexamethasone.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02511"
+  ],
+  "stem": "A 25-year-woman experiences loss of sensations in her legs and weakness in her limbs. Neurological examination reveals spasticity of limbs. Neurologist makes preliminary diagnosis of multiple sclerosis. Assuming the diagnosis is correct which of the following accounts for reduced sensory and motor function.",
+  "options": {
+   "A": "Loss of dopaminergic release throughout brain and spinal cord",
+   "B": "Loss of peripheral cholinergic neurons",
+   "C": "Loss of Schwann cells",
+   "D": "Demyelination of CNS neurons",
+   "E": "Defect of acetyl choline receptors"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Multiple sclerosis is a CNS demyelinating disease; Schwann cell loss belongs to peripheral neuropathies such as GBS.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02737"
+  ],
+  "stem": "A 30-year-old woman with relapsing-remitting multiple sclerosis presents with a moderate relapse during her second trimester of pregnancy. Her neurologist considers initiating corticosteroid therapy. Which of the following glucocorticoids is to be avoided due to risk of teratogenicity in this patient?",
+  "options": {
+   "A": "Dexamethasone",
+   "B": "Hydrocortisone",
+   "C": "Methylprednisolone",
+   "D": "Prednisolone",
+   "E": "Prednisone"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Dexamethasone (and betamethasone) crosses the placenta unmetabolised and carries fetal risk; hydrocortisone, prednisolone and methylprednisolone are largely inactivated by placental 11-beta-HSD2.",
+  "key_note": "Options D and E added by reviewer; the source gave only three options.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02950",
+   "C03130"
+  ],
+  "stem": "Jerky, brief, purposeless involuntary movements are known as",
+  "options": {
+   "A": "Ballism",
+   "B": "Chorea",
+   "C": "Dystonia",
+   "D": "Myoclonus",
+   "E": "Tics"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Chorea is brief, jerky, irregular, purposeless involuntary movements flitting from one body part to another.",
+  "key_note": "A second paper asked the reverse form (definition of chorea, answer \"Jerky, brief, purposeless involuntary movements\"); same fact.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02946"
+  ],
+  "stem": "A 65-year-man presents in the OPD with complains of cognitive impairment, problems with memory and thinking abilities interfering with his everyday activities for the past 5 months. He now complains of recently developed tremors, stiffness and gait problems. What is the drug of choice for this disease?",
+  "options": {
+   "A": "Carbidopa+levodopa",
+   "B": "Neostigmine",
+   "C": "Pyridostigmine",
+   "D": "Ginko biloba",
+   "E": "Interferon gamma"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Dementia with parkinsonism fits Lewy body disease or Parkinson dementia; of the options only carbidopa-levodopa treats the motor features.",
+  "key_note": "Rivastigmine is the preferred cholinesterase inhibitor for the cognitive part but is not offered; the marked answer is kept.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03120"
+  ],
+  "stem": "An 80-years-female presented with complaints of gait apraxia, dementia, urinary incontinence. What is most likely diagnosis:",
+  "options": {
+   "A": "Meningitis",
+   "B": "Stroke",
+   "C": "Normal pressure hydrocephalus",
+   "D": "Von hippel disease",
+   "E": "None of above"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Gait apraxia, dementia and urinary incontinence is the triad of normal pressure hydrocephalus (\"wet, wobbly, wacky\").",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02953"
+  ],
+  "stem": "Most common brain tumor:",
+  "options": {
+   "A": "Meningioma",
+   "B": "Neurofibroma",
+   "C": "Pituitary adenoma",
+   "D": "Glioma",
+   "E": "Oligodendroglioma"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Gliomas (astrocytic tumours) are the commonest primary brain tumours; metastases are commoner overall.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03123"
+  ],
+  "stem": "Acoustic neuroma is tumor of",
+  "options": {
+   "A": "7th cranial nerve",
+   "B": "9th cranial nerve",
+   "C": "8th cranial nerve",
+   "D": "1st cranial nerve",
+   "E": "12th cranial nerve"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Acoustic neuroma is a vestibular schwannoma of the 8th cranial nerve at the cerebellopontine angle.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02576",
+   "C02840"
+  ],
+  "stem": "25-year-old woman with fluctuating weakness that worsens with activity, improves with rest for 2 months. Most likely affected receptor?",
+  "options": {
+   "A": "Dopamine receptor",
+   "B": "GABA receptor",
+   "C": "Na-K channels",
+   "D": "Postsynaptic acetylcholine receptor",
+   "E": "Presynaptic calcium channel"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Fatigable weakness worsening with activity in a young woman is myasthenia gravis, from antibodies to postsynaptic acetylcholine receptors.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02959"
+  ],
+  "stem": "The most significant observation that needs to be made about a patient with Myasthenia Gravis includes.",
+  "options": {
+   "A": "Ability to close her eyelids",
+   "B": "Ability to chew and speak",
+   "C": "Respiratory exchange and ability to swallow",
+   "D": "Degree of anxiety about her diagnosis",
+   "E": "Bowel and bladder control"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Respiratory and bulbar (swallowing) function must be monitored because myasthenic crisis causes respiratory failure and aspiration.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02956"
+  ],
+  "stem": "Mr. Jameel, a 60-year-male has been complaining of fluctuating weakness in upper and lower limbs since last couple of months. He also complains of dry eyes, constipation and palpitations. You suspect neuromuscular junction disorder. Acetylcholine receptor antibodies come out to be negative. What is your diagnosis?",
+  "options": {
+   "A": "Myasthenia Gravis",
+   "B": "Lambert-Eaton Syndrome",
+   "C": "Botulism",
+   "D": "Sarcoidosis",
+   "E": "Tetanus"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Fluctuating proximal weakness with autonomic features (dry eyes, constipation) and negative AChR antibodies is Lambert-Eaton syndrome (anti-presynaptic calcium channel), often paraneoplastic.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03124"
+  ],
+  "stem": "A 30-years-male is presents with ascending paralysis and absent reflexes. He is diagnosed with GBS. The first line treatment in management of GBS is;",
+  "options": {
+   "A": "Supportive care",
+   "B": "IVIG (immunoglobulins)",
+   "C": "Antibiotics",
+   "D": "Corticosteroids",
+   "E": "None of above"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "IVIG or plasma exchange is specific first-line treatment of GBS; steroids are not beneficial.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00040"
+  ],
+  "stem": "An 18-year-old woman who recently had neck surgery complains of pain in the left side of her neck. She is unable to shrug her left shoulder and has no sensory loss. Which nerve is affected?",
+  "options": {
+   "A": "Accessory nerve",
+   "B": "Axillary nerve",
+   "C": "Long thoracic nerve",
+   "D": "Upper brachial plexus",
+   "E": "Lower brachial plexus"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "The spinal accessory nerve is vulnerable in the posterior triangle during neck surgery; it supplies trapezius, so shoulder shrugging fails without sensory loss.",
+  "key_note": "",
+  "figure": ""
+ }
+]

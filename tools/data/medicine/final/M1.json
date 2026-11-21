@@ -1,0 +1,4064 @@
+[
+ {
+  "cids": [
+   "C00351"
+  ],
+  "stem": "Regarding ECG recording, which of the following statements is/are correct?",
+  "options": {
+   "A": "All of the above",
+   "B": "There are 6 chest electrodes",
+   "C": "There are 3 bipolar limb leads",
+   "D": "V1 is placed in the 4th intercostal space to the right of the sternum",
+   "E": "There are 3 unipolar limb leads (aVR, aVL, aVF)"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "All four statements are true: six unipolar chest leads (V1 to V6), three bipolar limb leads (I, II, III), three augmented unipolar limb leads, and V1 sits in the 4th intercostal space at the right sternal edge.",
+  "key_note": "One copy of the paper marked B (6 chest electrodes) only; since every statement is correct, the answer is A (all of the above).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00358"
+  ],
+  "stem": "Regarding the ECG tracing, all of the following statements are correct EXCEPT:",
+  "options": {
+   "A": "P wave represents atrial repolarisation",
+   "B": "ST segment and T wave represent ventricular repolarisation",
+   "C": "QRS complex represents ventricular depolarisation",
+   "D": "PR interval includes the P wave",
+   "E": "In LBBB the QRS complexes are broad"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "The P wave is atrial depolarisation; atrial repolarisation is hidden within the QRS complex.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00786"
+  ],
+  "stem": "An ECG shows progressive prolongation of the PR interval until a beat is dropped. Which part of the conduction system is affected?",
+  "options": {
+   "A": "Sino-atrial node",
+   "B": "Atrial fibres",
+   "C": "Right bundle branch",
+   "D": "Left bundle branch",
+   "E": "AV node"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Wenckebach (Mobitz type I) block is due to progressive fatigue of conduction in the AV node, usually above the bundle of His.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00018"
+  ],
+  "stem": "A 60-year-old woman has severe chest pain. ECG shows inferior wall MI along with progressive PR interval prolongation until a QRS complex is dropped. What is the most likely diagnosis?",
+  "options": {
+   "A": "Atrial fibrillation",
+   "B": "Ventricular tachycardia",
+   "C": "Mobitz type II AV block",
+   "D": "Wenckebach (Mobitz type I) block",
+   "E": "Supraventricular tachycardia"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Progressive PR lengthening then a dropped QRS is Mobitz I. It is common and usually benign in inferior MI because of AV nodal ischaemia (RCA supply), unlike Mobitz II.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00844"
+  ],
+  "stem": "A 56-year-old man with exertional chest tightness relieved by rest has first degree heart block on ECG. Which ECG abnormality is typical of first degree heart block?",
+  "options": {
+   "A": "PR interval 80 ms",
+   "B": "PR interval 120 ms",
+   "C": "PR interval 160 ms",
+   "D": "PR interval 300 ms",
+   "E": "Dropped QRS after each third P wave"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "First degree block is a PR interval persistently longer than 200 ms (5 small squares); every P wave is conducted. Normal PR is 120 to 200 ms.",
+  "key_note": "Some options were illegible/duplicated in the source; options reconstructed by reviewer. The source (Rawal copy) marked a 200 ms option, but the abnormal value is a PR above 200 ms, hence 300 ms.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00355"
+  ],
+  "stem": "All of the following are risk factors for IHD EXCEPT:",
+  "options": {
+   "A": "Hypertension",
+   "B": "Hyperkalaemia",
+   "C": "Obesity",
+   "D": "Hypercholesterolaemia",
+   "E": "Diabetes mellitus"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Hypertension, obesity, dyslipidaemia, diabetes and smoking are classic risk factors; serum potassium is not.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01118"
+  ],
+  "stem": "All of the following are risk factors for coronary artery disease EXCEPT:",
+  "options": {
+   "A": "Male sex",
+   "B": "Hypercholesterolaemia",
+   "C": "Oestrogen replacement therapy",
+   "D": "Cigarette smoking",
+   "E": "Diabetes mellitus"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Male sex, high LDL, smoking and diabetes all increase coronary risk; oestrogen was traditionally regarded as non-atherogenic (pre-menopausal women are relatively protected).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00966"
+  ],
+  "stem": "Which of the following is a non-modifiable risk factor for coronary heart disease?",
+  "options": {
+   "A": "Hyperlipidaemia",
+   "B": "Homocysteinuria",
+   "C": "Positive family history",
+   "D": "Cigarette smoking",
+   "E": "Sedentary lifestyle"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Age, male sex and family history of premature CHD cannot be changed; lipids, smoking and inactivity can.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01462"
+  ],
+  "stem": "Which of the following lipid fractions is protective against atherosclerosis?",
+  "options": {
+   "A": "Total cholesterol",
+   "B": "LDL",
+   "C": "HDL",
+   "D": "VLDL",
+   "E": "Triglycerides"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "HDL carries cholesterol from tissues back to the liver (reverse cholesterol transport) and is anti-atherogenic.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00014"
+  ],
+  "stem": "A 63-year-old man has several episodes of central chest pain on walking, always relieved by rest. ECG, full blood count and thyroid function tests are normal. Which investigation is most important?",
+  "options": {
+   "A": "Ambulatory blood pressure monitoring",
+   "B": "Chest X-ray",
+   "C": "Serum troponin",
+   "D": "Transthoracic echocardiography",
+   "E": "Exercise (stress) ECG"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Exertional pain relieved by rest is stable angina; exercise ECG is the first-line test to confirm inducible ischaemia. Troponin is for suspected acute coronary syndrome.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00967"
+  ],
+  "stem": "The earliest ECG change in myocardial infarction is:",
+  "options": {
+   "A": "ST elevation",
+   "B": "Appearance of Q wave",
+   "C": "T wave inversion",
+   "D": "ST depression",
+   "E": "R wave in V1"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Among these options ST elevation is the first diagnostic change (preceded only by hyperacute tall T waves); Q waves and T inversion evolve over hours to days.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00968",
+   "C01508"
+  ],
+  "stem": "The biochemical marker most widely used in the detection of myocardial infarction (of the options given) is:",
+  "options": {
+   "A": "Creatine kinase BB isoenzyme",
+   "B": "Creatine kinase MB isoenzyme",
+   "C": "Lactate dehydrogenase",
+   "D": "Troponin C",
+   "E": "Alkaline phosphatase"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "CK-MB is the cardiac isoenzyme of creatine kinase. Today troponin I or T is the preferred marker, but Troponin C is not specific to the heart.",
+  "key_note": "Paper key (CK-MB) kept; troponin I/T is the modern preferred test but is not offered here.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00784",
+   "C02559"
+  ],
+  "stem": "A patient presents with sudden-onset chest pain radiating to the left jaw. Which of the following enzymes/markers is the most specific for his condition?",
+  "options": {
+   "A": "Troponin I",
+   "B": "CPK",
+   "C": "AST",
+   "D": "Troponin C",
+   "E": "ALT"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Cardiac troponin I (and T) is the most specific marker of myocardial necrosis. Troponin C is also found in skeletal muscle.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01034",
+   "C01577",
+   "C02329"
+  ],
+  "stem": "In a patient with suspected acute myocardial infarction, which investigation should be performed first?",
+  "options": {
+   "A": "Chest X-ray",
+   "B": "Echocardiography",
+   "C": "Exercise tolerance test",
+   "D": "ECG",
+   "E": "Coronary angiography"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A 12-lead ECG within 10 minutes of presentation decides between STEMI (immediate reperfusion) and NSTE-ACS; it is quick and non-invasive.",
+  "key_note": "One paper marked A (aspirin and nitroglycerin); the ECG is the first critical step, aspirin follows immediately.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00326"
+  ],
+  "stem": "A 50-year-old man with intermittent chest pain is a known diabetic and hypertensive. ECG shows more than 1 mm ST depression. Which is the most appropriate test to support the diagnosis?",
+  "options": {
+   "A": "Blood sugar level",
+   "B": "Lipid profile",
+   "C": "Blood CK",
+   "D": "Chest X-ray",
+   "E": "Cardiac troponin I"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "ST depression with ischaemic chest pain suggests NSTE-ACS; a raised troponin I distinguishes NSTEMI from unstable angina.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00345"
+  ],
+  "stem": "A 70-year-old man has severe central chest pain with sweating and vomiting. Pulse 100/min, BP 120/80 mmHg. ECG shows ST elevation in leads I and aVL. What is the most appropriate diagnosis?",
+  "options": {
+   "A": "Acute anterior wall MI",
+   "B": "Acute posterior wall MI",
+   "C": "Acute inferior wall MI",
+   "D": "Acute high lateral wall MI",
+   "E": "Acute anterolateral wall MI"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Leads I and aVL look at the high lateral wall (diagonal or circumflex territory).",
+  "key_note": "One copy of the paper marked 'acute lateral wall MI'; leads I and aVL (high lateral) are the same territory.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00334",
+   "C02302",
+   "C02760"
+  ],
+  "stem": "A 70-year-old man has 1 hour of severe chest pain with sweating and vomiting. ECG shows acute posterior wall MI. What ECG changes are expected?",
+  "options": {
+   "A": "ST elevation in leads II, III, aVF",
+   "B": "ST elevation in leads I, aVL",
+   "C": "ST elevation in V1 to V3",
+   "D": "ST elevation in V5 and V6",
+   "E": "Tall R wave, ST depression and upright T wave in V1 and V2"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Posterior leads are not recorded directly; V1 to V2 show the mirror image: tall R wave, ST depression and upright T waves (confirm with V7 to V9).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [],
+  "stem": "A 70-year-old man has 1 hour of severe chest pain with sweating and vomiting. ECG changes suggest anteroseptal wall MI. Which changes are most likely?",
+  "options": {
+   "A": "ST depression and upright T wave in V1",
+   "B": "ST elevation in leads I and aVL",
+   "C": "ST elevation in leads II, III, aVF",
+   "D": "ST elevation in V1 to V4",
+   "E": "ST elevation in V5 and V6"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Anteroseptal infarction (LAD territory) gives ST elevation in V1 to V4.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [],
+  "stem": "A 70-year-old man has 1 hour of severe chest pain with sweating and vomiting. ECG changes suggest lateral wall MI. Which changes are most likely?",
+  "options": {
+   "A": "ST elevation in leads II, III, aVF",
+   "B": "ST elevation in leads I and aVL",
+   "C": "ST elevation in V1 to V4",
+   "D": "ST elevation in lead aVR",
+   "E": "Tall R wave, ST depression and upright T wave in V1 and V2"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Lateral infarction shows ST elevation in I, aVL (high lateral) and V5, V6; II, III, aVF is inferior and V1 to V4 is anteroseptal.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00842",
+   "C00785"
+  ],
+  "stem": "An ECG shows lateral wall MI. Which coronary artery is most likely affected?",
+  "options": {
+   "A": "Right coronary artery",
+   "B": "Left anterior descending artery",
+   "C": "Left circumflex artery",
+   "D": "Posterior descending artery",
+   "E": "All of the above"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "The lateral wall of the left ventricle is supplied by the left circumflex artery; the LAD supplies the anterior wall and septum, and the RCA the inferior wall.",
+  "key_note": "The Rawal copy marked B (LAD); correct is C, left circumflex artery (the RIHS copy marked C).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00331"
+  ],
+  "stem": "A 60-year-old man has severe central chest pain with sweating, pulse 60/min regular and BP 110 systolic. ECG shows classic ST elevation on the standard leads and right ventricular infarction on right-sided leads. RV infarction is most commonly associated with which MI?",
+  "options": {
+   "A": "Acute anterior wall MI",
+   "B": "Acute lateral wall MI",
+   "C": "Acute inferior wall MI",
+   "D": "Acute posterior wall MI",
+   "E": "Acute anterolateral wall MI"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "RV infarction accompanies inferior MI in about a third of cases because the proximal RCA supplies both; avoid nitrates and diuretics and give fluids.",
+  "key_note": "Paper keys marked A (anterior MI); correct is C: RV infarction is associated with inferior (RCA) infarction.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00336"
+  ],
+  "stem": "A 60-year-old man has acute infero-posterior MI, pulse 50/min regular, BP 100 systolic, and ECG shows complete heart block. What prominent JVP wave is expected?",
+  "options": {
+   "A": "Prominent y descent",
+   "B": "Prominent a wave (cannon a waves)",
+   "C": "Prominent x descent",
+   "D": "Prominent v wave",
+   "E": "Prominent c wave"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "In complete heart block the atria sometimes contract against a closed tricuspid valve, producing intermittent cannon a waves.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00022"
+  ],
+  "stem": "A 69-year-old man has sudden chest pain radiating to the left arm. ECG shows ST elevation in II, III and aVF. What is the most appropriate analgesia?",
+  "options": {
+   "A": "IV morphine",
+   "B": "Oral morphine",
+   "C": "IM morphine",
+   "D": "Oral tramadol",
+   "E": "IM tramadol"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Titrated IV opioid (morphine with an antiemetic) gives rapid, reliable analgesia in STEMI; IM injection is avoided because of unreliable absorption and bleeding if thrombolysed.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00359"
+  ],
+  "stem": "In the management of acute ST elevation MI, all of the following are used EXCEPT:",
+  "options": {
+   "A": "Clopidogrel",
+   "B": "Chewable aspirin 300 mg",
+   "C": "Antibiotic cover",
+   "D": "Nitroglycerine"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Antibiotics have no role in STEMI; antiplatelets, nitrates, analgesia and reperfusion do.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01509",
+   "C02310",
+   "C02333",
+   "C02811",
+   "C02444"
+  ],
+  "stem": "A young businessman has severe central crushing chest pain for 2 hours. ECG shows ST elevation in anterior leads. What is the definitive, preferred treatment?",
+  "options": {
+   "A": "Low molecular weight heparin",
+   "B": "Nitrates",
+   "C": "Coronary angiography with stent insertion (primary PCI)",
+   "D": "CT angiography",
+   "E": "Calcium channel blockers"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Primary PCI is the preferred reperfusion strategy for STEMI when it can be done within 120 minutes of first contact; thrombolysis is the alternative.",
+  "key_note": "One paper marked E (IV nitroglycerin); correct is C, since nitrates do not treat STEMI and are avoided in inferior MI with RV involvement. One copy marked A (oxygen), but a later correction marked D; correct is D, primary PCI.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00969"
+  ],
+  "stem": "A 52-year-old diabetic man with unstable angina has triple vessel coronary disease. The most widely used invasive option for treatment is:",
+  "options": {
+   "A": "Percutaneous coronary intervention (PCI)",
+   "B": "Coronary artery bypass grafting",
+   "C": "Angioplasty",
+   "D": "Anti-anginal medications",
+   "E": "Streptokinase"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Multivessel disease in a diabetic carries better long-term outcome with CABG than PCI.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00008",
+   "C00337",
+   "C02073"
+  ],
+  "stem": "A 68-year-old woman had an anterior MI 2 days ago. She becomes acutely breathless with pink frothy sputum, raised JVP, a pan-systolic murmur radiating to the axilla and bilateral basal crackles. What complication has occurred?",
+  "options": {
+   "A": "Acute pericarditis",
+   "B": "Ventricular wall rupture",
+   "C": "Acute mitral valve regurgitation",
+   "D": "Pulmonary embolism",
+   "E": "Subacute left ventricular failure"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Acute mitral regurgitation from papillary muscle rupture, typically a few days after MI, causes sudden pulmonary oedema with a new apical pan-systolic murmur radiating to the axilla.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00849"
+  ],
+  "stem": "A 63-year-old man is readmitted 2 days after an apparently uncomplicated MI with rapidly worsening breathlessness. Pulse is a regular sinus 110/min, JVP is raised and there is a pan-systolic murmur maximal at the left sternal edge. What is the most likely diagnosis?",
+  "options": {
+   "A": "Mitral incompetence",
+   "B": "Ventricular septal defect",
+   "C": "Aortic stenosis",
+   "D": "Dressler's syndrome",
+   "E": "Further myocardial infarction"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Post-MI septal rupture gives a new loud pan-systolic murmur at the left sternal edge with heart failure; mitral regurgitation murmur is apical and radiates to the axilla.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00009"
+  ],
+  "stem": "A 58-year-old man has central chest pain, fever and lethargy 4 weeks after a myocardial infarction. The pain is stabbing, worse on inspiration and relieved by ibuprofen and sitting forward. What is the most likely diagnosis?",
+  "options": {
+   "A": "Acute pericarditis",
+   "B": "Cardiac tamponade",
+   "C": "Dressler's syndrome",
+   "D": "Pulmonary embolism",
+   "E": "Ventricular aneurysm"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Dressler's syndrome is post-MI autoimmune pericarditis occurring weeks after infarction, with fever and pleuritic pain relieved by sitting forward; treat with NSAIDs.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00781"
+  ],
+  "stem": "A 58-year-old man had an acute MI 4 hours ago and has multiple runs of ventricular tachycardia on the monitor. Which is the most appropriate drug of choice?",
+  "options": {
+   "A": "Verapamil",
+   "B": "Lidocaine",
+   "C": "Salbutamol",
+   "D": "Nitrates",
+   "E": "Furosemide"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Of the options, lidocaine (a class Ib agent) is the standard drug for ventricular arrhythmia in acute MI; verapamil is contraindicated in VT. Amiodarone is the usual modern alternative.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00020"
+  ],
+  "stem": "A 60-year-old hypertensive man has 3 days of episodic palpitations and dizziness. During an episode the pulse is 125/min, irregularly irregular, with a mid-diastolic murmur at the apex. ECG shows no P waves and irregular QRS complexes. What is the most likely diagnosis?",
+  "options": {
+   "A": "Atrial flutter",
+   "B": "Ventricular fibrillation",
+   "C": "Ventricular flutter",
+   "D": "Paroxysmal atrial fibrillation",
+   "E": "Wolff-Parkinson-White syndrome"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Episodic irregularly irregular tachycardia with absent P waves is paroxysmal AF; the apical mid-diastolic murmur suggests underlying mitral stenosis as the cause.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00021"
+  ],
+  "stem": "A 28-year-old man has 2 hours of rapid palpitations and light-headedness. He has a regular pulse of 175/min and BP 100/68 mmHg, with similar episodes over the last 3 months. What is the most likely diagnosis?",
+  "options": {
+   "A": "Supraventricular tachycardia",
+   "B": "Ventricular fibrillation",
+   "C": "Ventricular tachycardia",
+   "D": "Ectopic beats",
+   "E": "Atrial fibrillation"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "A young patient with sudden-onset, recurrent regular tachycardia of about 175/min and preserved BP is typical of paroxysmal SVT (AVNRT).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00019"
+  ],
+  "stem": "A 74-year-old man has sudden chest pain, BP 70/50 mmHg, is conscious with a palpable radial pulse. ECG shows indistinct P waves and broad QRS complexes at 150/min. What is the most likely diagnosis?",
+  "options": {
+   "A": "SVT",
+   "B": "Ventricular tachycardia",
+   "C": "Ventricular fibrillation",
+   "D": "Atrial flutter",
+   "E": "Atrial fibrillation"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "A broad-complex regular tachycardia with AV dissociation (indistinct P waves) in a patient with ischaemic chest pain is VT. With hypotension it needs synchronised DC cardioversion.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00344",
+   "C02804"
+  ],
+  "stem": "A 25-year-old patient has palpitations and apprehension with a regular pulse of 180/min and systolic BP of 50 mmHg. ECG shows a narrow complex tachycardia with no apparent P waves. What is the most appropriate treatment?",
+  "options": {
+   "A": "IV digoxin",
+   "B": "IV verapamil",
+   "C": "IV beta blocker",
+   "D": "Carotid sinus massage",
+   "E": "Synchronised DC cardioversion"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Tachycardia with haemodynamic compromise (shock, hypotension) is an indication for immediate synchronised DC cardioversion, whatever the QRS width.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00354"
+  ],
+  "stem": "Causes of ventricular tachycardia include the following EXCEPT:",
+  "options": {
+   "A": "Dilated cardiomyopathy",
+   "B": "Hypokalaemia",
+   "C": "Mitral valve prolapse",
+   "D": "Mitral stenosis",
+   "E": "Acute MI"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Acute MI is a leading cause of VT; mitral stenosis causes atrial arrhythmias (AF), not VT.",
+  "key_note": "Paper key marked E (acute MI), which is wrong because acute MI is a classic cause of VT; the exception is D, mitral stenosis.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00356"
+  ],
+  "stem": "Causes of atrial fibrillation include all of the following EXCEPT:",
+  "options": {
+   "A": "Hypertension",
+   "B": "Hyperthyroidism",
+   "C": "Mitral stenosis",
+   "D": "Dilated cardiomyopathy",
+   "E": "Hypothyroidism"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Hypertension, hyperthyroidism, mitral stenosis and dilated cardiomyopathy are all recognised causes of atrial fibrillation; hypothyroidism is not (it causes bradycardia).",
+  "key_note": "Paper key marked D (dilated cardiomyopathy), but DCM is a recognised cause of AF; option E was reworded to remove ambiguity, hypothyroidism is not a cause of AF.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00787"
+  ],
+  "stem": "A woman comes to your clinic complaining of a rapid heartbeat she is aware of for a couple of minutes and is becoming increasingly anxious. What is the best advice?",
+  "options": {
+   "A": "Immediately shift to the emergency department",
+   "B": "Refer to a specialist for follow-up after 1 week",
+   "C": "Immediate DC cardioversion",
+   "D": "Administer warfarin orally",
+   "E": "Administer a beta blocker and send home"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Sustained palpitations of unknown rhythm need a monitored 12-lead ECG and assessment in the emergency department; DC shock is for unstable patients and sending home untreated is unsafe.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00847"
+  ],
+  "stem": "A 62-year-old man has AF with a ventricular rate of about 130/min, mild central chest discomfort and is not acutely distressed. Onset was 3 hours before arrival and this is his first episode. Which is preferred first-line therapy?",
+  "options": {
+   "A": "Anticoagulate with heparin and start digoxin at standard daily dose",
+   "B": "Attempt DC cardioversion",
+   "C": "Administer bisoprolol and verapamil, and give warfarin",
+   "D": "Attempt cardioversion with IV flecainide",
+   "E": "Wait to see if there is spontaneous reversion to sinus rhythm"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "New-onset AF of under 48 hours in a stable patient can be cardioverted; IV flecainide (if no structural heart disease) is the pharmacological option. DC cardioversion is the alternative if unstable.",
+  "key_note": "Paper key (D) kept; DC cardioversion is also acceptable for recent-onset AF.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00083"
+  ],
+  "stem": "A 76-year-old woman is hanging up laundry. While reaching up to peg the last towel, she suddenly becomes dizzy and collapses. She does not lose consciousness and recovers within moments. What is the likely cause?",
+  "options": {
+   "A": "Carotid sinus sensitivity",
+   "B": "Postural hypotension",
+   "C": "Stokes-Adams attack",
+   "D": "Vasovagal attack",
+   "E": "Vertebrobasilar insufficiency"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Dizziness and collapse on neck extension (looking up) with preserved consciousness suggests vertebrobasilar insufficiency; Stokes-Adams causes loss of consciousness, and carotid sinus syncope follows neck turning.",
+  "key_note": "One copy was unmarked and another marked E (with a green correction); answer by reviewer is E.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00017"
+  ],
+  "stem": "A 59-year-old man on multiple medications for IHD, hypertension and diabetes feels dizzy when he stands up from a sitting position. What is the most appropriate next step to identify the cause?",
+  "options": {
+   "A": "Lying and standing blood pressure measurement",
+   "B": "ECG",
+   "C": "Ambulatory blood pressure monitoring",
+   "D": "Stress ECG",
+   "E": "2D echocardiography"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Dizziness on standing suggests orthostatic hypotension (drug-related); it is confirmed by measuring BP lying and after 3 minutes standing (fall of 20 systolic or 10 diastolic).",
+  "key_note": "Paper marked C (ambulatory BP); simple lying and standing BP is the diagnostic test for postural hypotension.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00006",
+   "C01589",
+   "C01914"
+  ],
+  "stem": "An 80-year-old woman with a history of IHD has 3 months of worsening breathlessness and swollen ankles. ECG is normal and you suspect heart failure. Which simple blood test can effectively rule out heart failure?",
+  "options": {
+   "A": "Serum CK-MB",
+   "B": "Brain-type natriuretic peptide",
+   "C": "Lipid profile",
+   "D": "Myoglobin",
+   "E": "Troponin I"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "A normal BNP (or NT-proBNP) has a high negative predictive value and makes heart failure unlikely; an elevated level needs echocardiography.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00007"
+  ],
+  "stem": "A 52-year-old patient has heart failure with reduced ejection fraction. Which drug is recommended to reduce abnormal remodelling of the left ventricle?",
+  "options": {
+   "A": "Hydrochlorothiazide",
+   "B": "Ramipril",
+   "C": "Amlodipine",
+   "D": "Digoxin",
+   "E": "Furosemide"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "ACE inhibitors (with beta blockers and MRAs) reverse neurohormonal activation and adverse LV remodelling and improve survival; diuretics and digoxin only relieve symptoms.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00023",
+   "C00788",
+   "C02460",
+   "C02983"
+  ],
+  "stem": "A 55-year-old man with MI 3 years ago has progressive dyspnoea, orthopnoea, RR 31/min, systolic BP 90 mmHg, SpO2 90% on air, and widespread crepitations. What is the single most appropriate investigation to confirm the diagnosis?",
+  "options": {
+   "A": "Chest X-ray",
+   "B": "HRCT",
+   "C": "Echocardiography",
+   "D": "Stress ECG",
+   "E": "D-dimer"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Echocardiography confirms heart failure and quantifies LV systolic function (ejection fraction), valve disease and wall motion.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00353"
+  ],
+  "stem": "In heart failure, causes of systolic dysfunction include the following EXCEPT:",
+  "options": {
+   "A": "Acute aortic regurgitation",
+   "B": "Acute MI",
+   "C": "Acute mitral regurgitation",
+   "D": "Dilated cardiomyopathy",
+   "E": "Mitral stenosis"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Mitral stenosis causes failure through obstruction to LV filling with a normally contracting LV; acute MI, DCM and acute valve regurgitation impair or overload ventricular function.",
+  "key_note": "Paper key marked A (acute aortic regurgitation); mitral stenosis is the better exception because LV systolic function is preserved.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00357"
+  ],
+  "stem": "Which of the following drugs are used in the treatment of heart failure?",
+  "options": {
+   "A": "Beta blockers",
+   "B": "ACE inhibitors",
+   "C": "Digoxin",
+   "D": "All of the above",
+   "E": "Diuretics"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Diuretics, ACE inhibitors, beta blockers (and digoxin in AF or refractory cases) are all used in heart failure.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01033",
+   "C01576"
+  ],
+  "stem": "A 70-year-old man has orthopnoea, dependent oedema, pulse 100/min, BP 100/60 mmHg, raised JVP and an ejection systolic murmur radiating to the neck. What is the correct management?",
+  "options": {
+   "A": "Captopril to reduce afterload",
+   "B": "IV furosemide",
+   "C": "IV normal saline infusion",
+   "D": "IV aminophylline to improve cardiac output",
+   "E": "Subcutaneous low molecular weight heparin"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "This is congestive failure in aortic stenosis; diuretics relieve congestion. Vasodilators like captopril risk hypotension in fixed outflow obstruction, and fluids worsen congestion.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00325",
+   "C00961",
+   "C02457",
+   "C02980"
+  ],
+  "stem": "A 35-year-old pregnant woman presents with severe dyspnoea. Pulse is 110/min irregular, BP 110/70 mmHg, with a loud first heart sound and a mid-diastolic murmur at the apex. What is the most likely diagnosis?",
+  "options": {
+   "A": "Acute mitral regurgitation",
+   "B": "Dilated cardiomyopathy",
+   "C": "Acute aortic regurgitation",
+   "D": "Aortic stenosis",
+   "E": "Mitral stenosis"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Loud S1 with a mid-diastolic apical murmur and AF-type irregular pulse is mitral stenosis, which is often unmasked in pregnancy by the rise in cardiac output and heart rate.",
+  "key_note": "One copy marked A (acute MR); correct is mitral stenosis, since MR gives a pan-systolic murmur.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00339"
+  ],
+  "stem": "A 40-year-old woman has exertional dyspnoea, haemoptysis, loud first heart sound, no S3 or S4, and a systolic and diastolic murmur at the apex. What is the most likely diagnosis?",
+  "options": {
+   "A": "Mixed mitral valve disease, predominant mitral stenosis",
+   "B": "Aortic stenosis",
+   "C": "Mixed mitral valve disease, predominant mitral regurgitation",
+   "D": "Aortic regurgitation",
+   "E": "Mixed aortic valve disease"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Loud S1 and haemoptysis point to a stenotic mitral valve, and the added systolic murmur shows some regurgitation; absent S3 favours stenosis predominance.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00347",
+   "C00341"
+  ],
+  "stem": "A 30-year-old woman has exertional dyspnoea and poor effort tolerance. Pulse is 100/min irregular, BP 100/70 mmHg, with a diastolic murmur at the apex, prominent v wave in the JVP and a loud pulmonary component of the second heart sound. What is the possible diagnosis?",
+  "options": {
+   "A": "Mitral regurgitation",
+   "B": "Aortic regurgitation",
+   "C": "Mitral stenosis",
+   "D": "Aortic stenosis",
+   "E": "Mitral stenosis with pulmonary hypertension"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Apical diastolic murmur is mitral stenosis; loud P2 and prominent v waves (secondary tricuspid regurgitation) indicate pulmonary hypertension and right heart involvement.",
+  "key_note": "Paper key marked D (tricuspid stenosis); correct is E, as tricuspid stenosis causes giant a waves and the murmur here is at the apex.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00024"
+  ],
+  "stem": "A 51-year-old woman with asthma and rheumatic fever at 14 years has increasing breathlessness, orthopnoea, bilateral pedal oedema, basal crackles, an apical murmur and broad P waves on ECG. What is the single most likely cardiac defect?",
+  "options": {
+   "A": "Tricuspid regurgitation",
+   "B": "Aortic stenosis",
+   "C": "Mitral stenosis",
+   "D": "Mitral regurgitation",
+   "E": "Aortic regurgitation"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Broad bifid P waves (P mitrale) from left atrial enlargement in a patient with past rheumatic fever indicate rheumatic mitral stenosis.",
+  "key_note": "Paper key marked D (mitral regurgitation); P mitrale with rheumatic history favours mitral stenosis as the best answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00845"
+  ],
+  "stem": "A 57-year-old woman with past rheumatic fever has signs pointing to mitral stenosis. Which is NOT a clinical sign associated with mitral stenosis?",
+  "options": {
+   "A": "Malar flush",
+   "B": "Atrial fibrillation",
+   "C": "Pan-systolic murmur radiating to the axilla",
+   "D": "Tapping, undisplaced apex beat",
+   "E": "Right ventricular heave"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A pan-systolic murmur radiating to the axilla is mitral regurgitation; MS gives a tapping undisplaced apex, loud S1, opening snap and mid-diastolic rumble.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00016"
+  ],
+  "stem": "A 27-year-old woman with primary pulmonary hypertension has abdominal pain, a murmur, peripheral oedema, and an enlarged, pulsatile, tender liver. Which valvular disorder is responsible?",
+  "options": {
+   "A": "Mitral regurgitation",
+   "B": "Mitral stenosis",
+   "C": "Pulmonary stenosis",
+   "D": "Tricuspid regurgitation",
+   "E": "Tricuspid stenosis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Right ventricular dilatation from pulmonary hypertension causes functional tricuspid regurgitation, producing a pulsatile (systolic expansile) liver and large v waves.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00346"
+  ],
+  "stem": "A 73-year-old man has angina but normal coronary arteries on angiography. He has a low-volume pulse, narrow pulse pressure, heaving apex beat and a systolic murmur at the aortic area. These findings are most consistent with:",
+  "options": {
+   "A": "Mitral stenosis",
+   "B": "Aortic stenosis",
+   "C": "Mitral insufficiency",
+   "D": "Pulmonary stenosis",
+   "E": "Aortic insufficiency"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Slow-rising low-volume pulse, narrow pulse pressure, heaving apex and an aortic ejection systolic murmur are aortic stenosis, which can cause angina from LV hypertrophy even with normal coronaries.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00333"
+  ],
+  "stem": "A 70-year-old man has effort angina and syncope. He has a split second heart sound, a heaving apex beat and a systolic murmur at the base. ECG shows LBBB and angiography shows critical triple vessel coronary disease. What is the most possible diagnosis?",
+  "options": {
+   "A": "Aortic stenosis",
+   "B": "Coronary artery disease",
+   "C": "Pulmonary stenosis",
+   "D": "Ventricular septal defect",
+   "E": "Aortic stenosis and coronary artery disease"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Syncope, a heaving apex and a basal systolic murmur indicate aortic stenosis, and the angiogram proves coexisting severe coronary disease; both are present.",
+  "key_note": "Paper key marked B (coronary artery disease alone); the findings support both aortic stenosis and coronary disease.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00848"
+  ],
+  "stem": "A 76-year-old man collapses at home and recovers within minutes. He reports 6 months of increasing breathlessness and brief central chest pain. BP is 115/88 mmHg, with a few basal rales and borderline LVH on ECG. What would you expect on auscultation?",
+  "options": {
+   "A": "Mid-diastolic murmur best heard at the apex",
+   "B": "Crescendo (ejection) systolic murmur best heard at the right sternal edge",
+   "C": "Diastolic murmur best heard at the left sternal edge",
+   "D": "Pan-systolic murmur best heard at the apex",
+   "E": "Pan-systolic murmur best heard at the left sternal edge"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Exertional syncope, angina and dyspnoea with LVH and narrow pulse pressure form the classic triad of aortic stenosis: an ejection systolic murmur at the right second intercostal space.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00558",
+   "C00560",
+   "C02305",
+   "C02422"
+  ],
+  "stem": "A 32-year-old asymptomatic woman has a rising, forceful pulse that collapses quickly. Her blood pressure is 140/40 mmHg. What is the most likely diagnosis?",
+  "options": {
+   "A": "Aortic regurgitation",
+   "B": "Aortic stenosis",
+   "C": "Coarctation of the aorta",
+   "D": "Mitral regurgitation",
+   "E": "Mitral stenosis"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Water-hammer (collapsing) pulse with wide pulse pressure and low diastolic pressure is aortic regurgitation.",
+  "key_note": "One copy had a faint mark on coarctation of the aorta; correct is aortic regurgitation.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00960"
+  ],
+  "stem": "A 22-year-old man has 2 weeks of fever. He has a collapsing pulse, dancing carotids, pistol-shot femorals and BP 140/40 mmHg. What murmur would you expect on precordial examination?",
+  "options": {
+   "A": "Mid-diastolic murmur at the apex",
+   "B": "Early diastolic murmur at the aortic area",
+   "C": "Pan-systolic murmur at the apex",
+   "D": "Ejection systolic murmur at the right sternal border",
+   "E": "Late diastolic murmur"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Peripheral signs of aortic regurgitation (here probably from infective endocarditis) go with a high-pitched early diastolic murmur at the aortic area/left sternal edge.",
+  "key_note": "Paper key marked C (pan-systolic apical murmur); that is mitral regurgitation. Correct is B, early diastolic murmur of aortic regurgitation.",
+  "figure": ""
+ },
+ {
+  "cids": [],
+  "stem": "A 30-year-old tall man has a high-arched palate, wide pulse pressure and a diastolic murmur. What is the most likely echocardiographic finding?",
+  "options": {
+   "A": "Decreased aortic root diameter",
+   "B": "Increased aortic root diameter",
+   "C": "Mitral stenosis",
+   "D": "Hypertrophic cardiomyopathy",
+   "E": "Dilated cardiomyopathy"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Marfan syndrome causes cystic medial degeneration with aortic root dilatation, leading to aortic regurgitation and dissection.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00335"
+  ],
+  "stem": "Auscultation of a 17-year-old boy shows an increased pulmonary component of the second heart sound and BP of 100/70 mmHg, with a systolic murmur at the left lower sternal edge consistent with tricuspid regurgitation. What is the most likely cause?",
+  "options": {
+   "A": "Pulmonary stenosis",
+   "B": "Myocardial infarction",
+   "C": "Aortic stenosis",
+   "D": "Pulmonary hypertension",
+   "E": "Systemic hypertension"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A loud P2 with functional tricuspid regurgitation reflects pulmonary hypertension; pulmonary stenosis has a soft or absent P2.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00338"
+  ],
+  "stem": "A 30-year-old woman, 2 months after delivery, has dyspnoea on mild exertion, orthopnoea and poor effort tolerance. Pulse is 100/min regular, BP 90/60 mmHg, with a displaced apex, left-sided S3 and an apical systolic murmur. What is the most likely diagnosis?",
+  "options": {
+   "A": "Mitral regurgitation",
+   "B": "Hypertrophic cardiomyopathy",
+   "C": "Mitral stenosis",
+   "D": "Idiopathic cardiomyopathy",
+   "E": "Peripartum cardiomyopathy"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Heart failure with a dilated LV in the last month of pregnancy or within 5 months of delivery is peripartum cardiomyopathy.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00340",
+   "C00343"
+  ],
+  "stem": "A 20-year-old man has palpitations, syncope and a family history of sudden cardiac death. He has a fourth heart sound at the apex, a systolic murmur at the left sternal edge and a systolic murmur at the apex. What is the most likely diagnosis?",
+  "options": {
+   "A": "Rheumatic mitral regurgitation",
+   "B": "Dilated cardiomyopathy",
+   "C": "Aortic stenosis",
+   "D": "Restrictive cardiomyopathy",
+   "E": "Hypertrophic obstructive cardiomyopathy"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Young patient with syncope, family history of sudden death, S4 and a systolic murmur (outflow obstruction plus MR) is HOCM, an autosomal dominant sarcomeric disease.",
+  "key_note": "Paper key marked C (aortic stenosis); correct is E, hypertrophic obstructive cardiomyopathy. One copy marked A (aortic stenosis); correct is C.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00963"
+  ],
+  "stem": "A 38-year-old woman has chest pain on exertion, a prominent S4, an ejection systolic murmur and a double-tap apex beat. What is the most likely condition?",
+  "options": {
+   "A": "Mitral stenosis",
+   "B": "Tricuspid stenosis",
+   "C": "Dilated cardiomyopathy",
+   "D": "Hypertrophic obstructive cardiomyopathy",
+   "E": "Atrial septal defect"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A double-impulse (bisferiens) apex from a forceful atrial kick against a stiff hypertrophied LV, S4 and an ejection systolic murmur indicate HOCM.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00839",
+   "C03209"
+  ],
+  "stem": "Which criteria are used for diagnosing rheumatic fever?",
+  "options": {
+   "A": "Kaplan criteria",
+   "B": "Modified Duke criteria",
+   "C": "Weber criteria",
+   "D": "Jones criteria",
+   "E": "None of the above"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "The (revised) Jones criteria use major (carditis, polyarthritis, chorea, erythema marginatum, subcutaneous nodules) and minor criteria plus evidence of preceding group A streptococcal infection. Modified Duke criteria are for infective endocarditis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00962"
+  ],
+  "stem": "Rheumatic fever is triggered by infection with:",
+  "options": {
+   "A": "Group B streptococci",
+   "B": "Group A streptococci",
+   "C": "Pneumococci",
+   "D": "Staphylococci",
+   "E": "Diplococci"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Rheumatic fever follows pharyngeal infection with group A beta-haemolytic Streptococcus pyogenes through molecular mimicry.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00448"
+  ],
+  "stem": "The arthritis in rheumatic fever is typically:",
+  "options": {
+   "A": "Symmetrical",
+   "B": "Migratory",
+   "C": "Monoarthritis",
+   "D": "Reactive",
+   "E": "Small joint arthritis"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Rheumatic arthritis is a migratory polyarthritis of large joints, very responsive to aspirin and leaving no residual damage.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00557",
+   "C02044",
+   "C02072"
+  ],
+  "stem": "A 15-year-old boy develops fever, severe large joint pains that are red and tender, and a truncal rash 3 weeks after a throat infection. The joint pain responds very well to aspirin. What is the possible diagnosis?",
+  "options": {
+   "A": "Acute infective endocarditis",
+   "B": "Acute rheumatic fever",
+   "C": "Giant cell arteritis",
+   "D": "Marfan syndrome",
+   "E": "Rheumatoid arthritis"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Latent period of about 3 weeks after streptococcal pharyngitis, migratory large joint arthritis, rash (erythema marginatum) and dramatic aspirin response is acute rheumatic fever.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00342",
+   "C02300"
+  ],
+  "stem": "A 14-year-old boy has fever, arthritis of large joints, a trunk rash and cardiac involvement 3 weeks after a throat infection. What is the most common cardiac lesion?",
+  "options": {
+   "A": "Mitral stenosis",
+   "B": "Aortic stenosis",
+   "C": "Mitral regurgitation",
+   "D": "Tricuspid stenosis",
+   "E": "Aortic regurgitation"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Acute rheumatic carditis most often causes mitral regurgitation (with an apical pan-systolic murmur and sometimes a Carey Coombs mid-diastolic murmur); mitral stenosis is the chronic sequel.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00964"
+  ],
+  "stem": "A 15-year-old girl has 2 days of purposeless involuntary choreiform movements. Two months ago she had a skin lesion that was a macule fading in the centre with a red edge, and recurrent sore throats. What is the most likely diagnosis?",
+  "options": {
+   "A": "Eczema",
+   "B": "Huntington's chorea",
+   "C": "Vasculitis",
+   "D": "Rheumatic fever",
+   "E": "Carditis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Sydenham chorea is a late manifestation of rheumatic fever; erythema marginatum (ring-shaped, centrally clearing rash) and preceding streptococcal sore throats complete the picture.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00451",
+   "C03207"
+  ],
+  "stem": "A 15-year-old boy has 1 week of fever and joint pains and was diagnosed with rheumatic fever a year ago. What is the treatment of choice for the joint symptoms?",
+  "options": {
+   "A": "Aspirin",
+   "B": "Diclofenac sodium",
+   "C": "Ibuprofen",
+   "D": "Paracetamol",
+   "E": "Morphine"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Aspirin (or other NSAID in high dose) is the standard treatment for rheumatic arthritis and gives dramatic relief within 24 to 48 hours.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00965",
+   "C02070"
+  ],
+  "stem": "In acute rheumatic fever, the first step of treatment is:",
+  "options": {
+   "A": "Initiation of steroids",
+   "B": "Aspirin",
+   "C": "Antibiotics (penicillin)",
+   "D": "Bed rest for 6 weeks",
+   "E": "Injectable ampicillin"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Treatment starts with eradication of the streptococcus with penicillin (benzathine penicillin IM or oral penicillin V for 10 days), alongside bed rest and aspirin for arthritis.",
+  "key_note": "Paper key marked B (aspirin); the first step is eradication of streptococci with penicillin, while aspirin is symptomatic therapy for arthritis.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01127"
+  ],
+  "stem": "A 15-year-old girl has 4 days of fever, migratory joint pains and breathlessness, with tender wrists and knees, a murmur on cardiac examination and a sore throat 2 weeks earlier. For how long should she receive prophylactic penicillin after treatment?",
+  "options": {
+   "A": "Fourteen days",
+   "B": "Months",
+   "C": "5 years",
+   "D": "Up to the age of 21 years",
+   "E": "Up to the age of 40 to 45 years"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "With carditis and a persistent murmur (valve damage), secondary prophylaxis with benzathine penicillin every 3 to 4 weeks should continue at least 10 years and until age 40 (sometimes lifelong).",
+  "key_note": "Paper key (E) kept; local teaching accepts prophylaxis up to 40 to 45 years for rheumatic carditis with residual valve disease.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00011"
+  ],
+  "stem": "A 50-year-old man has fever, weight loss and lethargy, a pan-systolic murmur and small linear red lesions beneath his finger nails. What is the likely diagnosis?",
+  "options": {
+   "A": "Pericarditis",
+   "B": "Mitral regurgitation",
+   "C": "Myocardial infarction",
+   "D": "Rheumatic fever",
+   "E": "Subacute bacterial endocarditis"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Fever, weight loss, a new regurgitant murmur and splinter haemorrhages are the classic features of subacute infective endocarditis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00328",
+   "C00559",
+   "C02058",
+   "C02301",
+   "C02421",
+   "C02759",
+   "C03203",
+   "C02561"
+  ],
+  "stem": "A 40-year-old man has infective endocarditis and gum (oral cavity) infection. What is the most common causative organism?",
+  "options": {
+   "A": "Staphylococcus aureus",
+   "B": "Staphylococcus epidermidis",
+   "C": "Enterococci",
+   "D": "Streptococcus viridans",
+   "E": "Fungal infection"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Viridans streptococci from the oral flora are the commonest cause of subacute endocarditis on previously damaged native valves, especially after dental procedures.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00789",
+   "C02554"
+  ],
+  "stem": "A 40-year-old man with a history of IV drug use presents with fever, weakness, arthralgia, a systolic murmur at the left sternal border and splenomegaly. What are the most likely diagnosis and causative organism?",
+  "options": {
+   "A": "Acute infective endocarditis, Staphylococcus aureus",
+   "B": "Rheumatic fever, streptococci",
+   "C": "Rheumatic heart disease, Staphylococcus aureus",
+   "D": "Infective endocarditis, Staphylococcus epidermidis",
+   "E": "Infective endocarditis, enterococci"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "IV drug users typically develop right-sided (tricuspid) acute endocarditis due to Staphylococcus aureus, with a left sternal border murmur and septic pulmonary emboli.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01134",
+   "C02043"
+  ],
+  "stem": "A 30-year-old woman develops low-grade fever, anaemia, splinter haemorrhages, Roth spots and splenomegaly a few days after tooth extraction. Which test will help in the diagnosis?",
+  "options": {
+   "A": "ECG",
+   "B": "Chest X-ray",
+   "C": "Blood cultures",
+   "D": "Urine routine examination",
+   "E": "Abdominal ultrasound"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Suspected infective endocarditis needs at least three sets of blood cultures before antibiotics; echocardiography then looks for vegetations.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01439"
+  ],
+  "stem": "A 28-year-old man has one week of high-grade fever (102 F), clubbing, Janeway lesions and a grade III diastolic murmur at the mitral area. What is the likely diagnosis?",
+  "options": {
+   "A": "Pericardial effusion",
+   "B": "Mitral regurgitation",
+   "C": "Mitral valve prolapse",
+   "D": "Pericarditis",
+   "E": "Infective endocarditis"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Fever with Janeway lesions and clubbing plus a murmur is infective endocarditis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01032"
+  ],
+  "stem": "Regarding subacute bacterial endocarditis, which statement is correct?",
+  "options": {
+   "A": "Fever is rarely seen",
+   "B": "Normal valves are more commonly involved than stenosed valves",
+   "C": "Janeway lesions and Roth spots are clinical features",
+   "D": "Staphylococci account for over 80% of cases",
+   "E": "A single blood culture sample is sufficient"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Janeway lesions, Osler nodes, splinter haemorrhages and Roth spots are classical vasculitic or embolic signs. Subacute disease occurs mainly on damaged valves with viridans streptococci, fever is almost universal and three blood culture sets are needed.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01055"
+  ],
+  "stem": "During a ward round a case of bacterial endocarditis is discussed. Which statement is correct?",
+  "options": {
+   "A": "Peripheral gangrene may be a presenting feature",
+   "B": "Common cause of death is coronary thrombosis",
+   "C": "Normocytic, normochromic anaemia excludes the diagnosis",
+   "D": "Blood cultures are positive in fewer than 20% of cases",
+   "E": "More common in stenotic than incompetent valvular lesions"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Septic emboli or vasculitis can cause digital or peripheral gangrene. Death is usually from heart failure or embolic or septic complications, anaemia of chronic disease is typical rather than exclusionary, and regurgitant lesions are more at risk than stenotic.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00330"
+  ],
+  "stem": "A 70-year-old man had mitral valve replacement with a bioprosthetic valve. Three years later he has high-grade fever and severe headache, blood culture is positive and echocardiography shows vegetation on the prosthetic valve. What is the possible cause of the headache?",
+  "options": {
+   "A": "High-grade fever",
+   "B": "Brain abscess",
+   "C": "Impending rupture of a mycotic aneurysm of a cerebral artery",
+   "D": "Meningitis",
+   "E": "Migraine"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Severe headache in endocarditis should raise suspicion of a mycotic (infective) cerebral aneurysm from septic emboli, which can rupture to cause subarachnoid or intracerebral haemorrhage.",
+  "key_note": "Paper key marked D (meningitis); a severe new headache in endocarditis is classically a mycotic aneurysm, so C is chosen by the reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00012",
+   "C00846"
+  ],
+  "stem": "A 64-year-old man develops a dry cough about 1 week after starting a new blood pressure medication. Which is the likely culprit?",
+  "options": {
+   "A": "Atenolol",
+   "B": "Candesartan",
+   "C": "Furosemide",
+   "D": "Ramipril",
+   "E": "Verapamil"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "ACE inhibitors cause a dry cough via bradykinin accumulation in up to 10 to 15% of patients; switch to an ARB.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00013"
+  ],
+  "stem": "A 58-year-old woman develops bilateral ankle swelling 2 weeks after starting an antihypertensive. Which drug could be responsible?",
+  "options": {
+   "A": "Metoprolol",
+   "B": "Lisinopril",
+   "C": "Furosemide",
+   "D": "Spironolactone",
+   "E": "Amlodipine"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Dihydropyridine calcium channel blockers cause dose-related ankle oedema from pre-capillary arteriolar dilatation, not from fluid overload.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00025",
+   "C00843",
+   "C02438"
+  ],
+  "stem": "A 32-year-old man has BP 160/90 mmHg on 3 occasions, and ambulatory BP monitoring averages 163/95 mmHg. What is the single most appropriate initial treatment?",
+  "options": {
+   "A": "ACE inhibitor",
+   "B": "Beta blocker",
+   "C": "ARB",
+   "D": "Thiazide diuretic",
+   "E": "Calcium channel blocker"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "In a non-black patient under 55 years, an ACE inhibitor (or ARB) is first-line for hypertension.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01507",
+   "C02964",
+   "C02976",
+   "C03205"
+  ],
+  "stem": "A 50-year-old woman with BP 150/100 mmHg has been diabetic for 3 years. What is the preferred antihypertensive?",
+  "options": {
+   "A": "ACE inhibitor",
+   "B": "Alpha blocker",
+   "C": "Beta blocker",
+   "D": "Calcium channel blocker",
+   "E": "Diuretic"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "In diabetes, ACE inhibitors (or ARBs) are preferred because they reduce proteinuria and slow diabetic nephropathy.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00350"
+  ],
+  "stem": "A 50-year-old asymptomatic man has pulse 90/min and BP 180/110 mmHg. What are the most appropriate findings on examination of the precordium?",
+  "options": {
+   "A": "Loud pulmonary component of second heart sound",
+   "B": "Fourth heart sound at the apex",
+   "C": "Loud aortic component of second heart sound",
+   "D": "Loud aortic component of second heart sound and fourth heart sound at the apex",
+   "E": "Third heart sound at the apex"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Systemic hypertension gives a loud (accentuated) A2 from high aortic pressure, and a fourth heart sound as the atrium contracts against a stiff hypertrophied LV.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00352"
+  ],
+  "stem": "Regarding systemic hypertension, all of the following statements are correct EXCEPT:",
+  "options": {
+   "A": "Cushing syndrome is a cause of secondary hypertension",
+   "B": "Beta blockers are used in treatment of hypertension",
+   "C": "Lifestyle modification is very important in management",
+   "D": "S4 (left-sided fourth heart sound) is common in systemic hypertension",
+   "E": "Mitral stenosis is an important cause of systemic hypertension"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Mitral stenosis is a valvular lesion and does not cause systemic hypertension; the other statements are true.",
+  "key_note": "Paper key marked A (Cushing syndrome), which is a true statement; the incorrect statement is E, mitral stenosis as a cause of hypertension.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00360"
+  ],
+  "stem": "Which of the following is NOT used in the treatment of hypertension?",
+  "options": {
+   "A": "Hydrochlorothiazide",
+   "B": "ACE inhibitors",
+   "C": "Methyldopa",
+   "D": "Calcium channel blockers",
+   "E": "Calcium supplement"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Calcium supplements are not antihypertensive, whereas thiazides, ACE inhibitors, methyldopa (safe in pregnancy) and calcium channel blockers are.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00840"
+  ],
+  "stem": "A 60-year-old man with no known comorbidity is referred from the dental department with BP 180/100 mmHg. He has no complaints. What is this most likely?",
+  "options": {
+   "A": "Hypertensive emergency",
+   "B": "Hypertensive urgency",
+   "C": "Hypertension (stage 2)",
+   "D": "Pre-eclampsia",
+   "E": "Myocardial infarction"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Severely raised BP without symptoms or acute end-organ damage is termed hypertensive urgency; it is managed with oral drugs and gradual BP reduction over days, not IV therapy.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00850"
+  ],
+  "stem": "A 57-year-old man has headaches, blurred vision, BP 240/150 mmHg and bilateral papilloedema. He stopped all antihypertensives two months ago. Which is the preferred parenteral medication?",
+  "options": {
+   "A": "Glyceryl trinitrate",
+   "B": "Hydralazine",
+   "C": "Labetalol",
+   "D": "Sodium nitroprusside",
+   "E": "Phentolamine"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Hypertensive emergency with papilloedema (malignant hypertension) needs controlled IV treatment; sodium nitroprusside is classically preferred, with labetalol as an acceptable alternative.",
+  "key_note": "Paper key (D) kept; labetalol is also accepted in current practice.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01447"
+  ],
+  "stem": "All of the following are causes of secondary hypertension EXCEPT:",
+  "options": {
+   "A": "Renal cell carcinoma",
+   "B": "Conn's adenoma",
+   "C": "Cushing's syndrome",
+   "D": "Addison's disease",
+   "E": "Polycythaemia"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Addison's disease causes hypotension from mineralocorticoid and glucocorticoid deficiency; renal tumours, Conn's, Cushing's and polycythaemia can raise BP.",
+  "key_note": "Paper key marked E (polycythaemia), but polycythaemia can cause hypertension; Addison's disease causes hypotension, so D is the exception.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00015"
+  ],
+  "stem": "A 40-year-old woman develops a red, tender, swollen left leg after a hysterectomy, with engorged peripheral veins. Vital signs and full blood count are normal. Which investigation will make the diagnosis clear?",
+  "options": {
+   "A": "CT pulmonary angiogram",
+   "B": "Doppler ultrasound scan",
+   "C": "Serum D-dimer",
+   "D": "Complete blood count",
+   "E": "Thrombophilia screen"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Post-operative unilateral leg swelling suggests deep vein thrombosis; compression Doppler ultrasound is the diagnostic test of choice. CTPA is for suspected pulmonary embolism.",
+  "key_note": "Paper key marked A (CT pulmonary angiogram); with only leg signs, Doppler ultrasound is the correct investigation.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00387"
+  ],
+  "stem": "Likely causes of chest pain include:",
+  "options": {
+   "A": "Pneumonia",
+   "B": "Mitral valve prolapse",
+   "C": "Acute MI",
+   "D": "Herpes zoster",
+   "E": "All of the above"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Pleuritic, cardiac, valvular (MVP) and dermatomal (zoster) causes can all present as chest pain.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00783",
+   "C02968"
+  ],
+  "stem": "A 3-year-old boy with delayed milestones has a grade 3/6 continuous murmur accentuated near the second heart sound, best heard at the left infraclavicular area. What is the most likely abnormality?",
+  "options": {
+   "A": "Ventricular septal defect",
+   "B": "Atrial septal defect",
+   "C": "Truncus arteriosus",
+   "D": "Dextrocardia",
+   "E": "Patent ductus arteriosus"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "A continuous machinery murmur at the left infraclavicular area is patent ductus arteriosus.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00841",
+   "C02553",
+   "C02975"
+  ],
+  "stem": "Which of the following is an example of cyanotic congenital heart disease?",
+  "options": {
+   "A": "Tetralogy of Fallot",
+   "B": "Ventricular septal defect",
+   "C": "Atrial septal defect",
+   "D": "Aortic stenosis",
+   "E": "Tricuspid regurgitation"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Tetralogy of Fallot (right-to-left shunt through the VSD because of pulmonary stenosis) is the commonest cyanotic lesion; VSD, ASD and AS are acyanotic.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02064"
+  ],
+  "stem": "The P wave on the ECG represents:",
+  "options": {
+   "A": "Ventricular depolarisation",
+   "B": "Atrial depolarisation",
+   "C": "Ventricular repolarisation",
+   "D": "Atrial repolarisation",
+   "E": "Sinus node discharge only"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "The P wave is atrial depolarisation; atrial repolarisation is buried in the QRS complex.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02065",
+   "C02571"
+  ],
+  "stem": "The QRS complex on the ECG represents:",
+  "options": {
+   "A": "Ventricular depolarisation",
+   "B": "Atrial depolarisation",
+   "C": "Ventricular repolarisation",
+   "D": "Atrial repolarisation",
+   "E": "Purkinje repolarisation"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "The QRS complex is ventricular depolarisation; ventricular repolarisation is the T wave.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02081"
+  ],
+  "stem": "On cardiac examination the pulmonary component (P2) of the second heart sound occurs before the aortic component (A2), i.e. reversed (paradoxical) splitting. Which of the following is associated with this finding?",
+  "options": {
+   "A": "Severe pulmonary stenosis",
+   "B": "Severe aortic stenosis",
+   "C": "Right bundle branch block",
+   "D": "Atrial septal defect",
+   "E": "Ventricular septal defect"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Reversed splitting occurs when A2 is delayed: severe aortic stenosis, LBBB, or hypertrophic cardiomyopathy. Pulmonary stenosis, RBBB and ASD cause wide splitting (ASD: fixed).",
+  "key_note": "Some paper keys marked D (Atrial septal defect); correct is B: ASD causes wide fixed splitting, not reversed splitting.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01515",
+   "C01514"
+  ],
+  "stem": "A mid-diastolic murmur at the apex is a feature of:",
+  "options": {
+   "A": "Aortic stenosis",
+   "B": "Aortic regurgitation",
+   "C": "Mitral stenosis",
+   "D": "Tricuspid regurgitation",
+   "E": "Atrial septal defect"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Mitral stenosis gives a low-pitched rumbling mid-diastolic murmur at the apex, best heard in the left lateral position in expiration.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01516"
+  ],
+  "stem": "In a patient with pericardial effusion, the apex beat will be:",
+  "options": {
+   "A": "Displaced laterally",
+   "B": "Displaced medially",
+   "C": "Heaving in character",
+   "D": "Tapping in character",
+   "E": "Difficult to localise"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "In a large effusion the heart is cushioned by fluid, so the apex beat is impalpable or lies inside the area of dullness and heart sounds are muffled.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02082"
+  ],
+  "stem": "A 75-year-old man has become progressively breathless. He has a displaced apex and a third heart sound; chest X-ray shows cardiomegaly and echocardiography an ejection fraction of 25%. He is on furosemide, perindopril and spironolactone. Which of the following drugs should be added?",
+  "options": {
+   "A": "Diltiazem",
+   "B": "Verapamil",
+   "C": "Atorvastatin",
+   "D": "Ezetimibe",
+   "E": "Bisoprolol"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Evidence-based beta-blockers (bisoprolol, carvedilol, metoprolol succinate) reduce mortality in HFrEF. Non-dihydropyridine CCBs are harmful in systolic failure.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02050"
+  ],
+  "stem": "A 60-year-old man with hypertension and dyslipidaemia presents with dyspnoea, fatigue and pedal oedema for 2 months. There is a raised JVP and an S3 gallop; chest X-ray shows cardiomegaly. The most likely diagnosis is:",
+  "options": {
+   "A": "Myocardial infarction",
+   "B": "Angina pectoris",
+   "C": "Congestive cardiac failure",
+   "D": "Pericardial effusion",
+   "E": "Coarctation of the aorta"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Raised JVP, S3 gallop, oedema and cardiomegaly point to congestive cardiac failure.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01512"
+  ],
+  "stem": "Which of the following is the most common cause of heart failure? Choose the single best answer.",
+  "options": {
+   "A": "Hypertension",
+   "B": "Lack of exercise",
+   "C": "Obesity",
+   "D": "Old age",
+   "E": "Pregnancy"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Hypertension is the commonest listed cause of heart failure (with ischaemic heart disease); the other options are not direct causes.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02074",
+   "C02464"
+  ],
+  "stem": "A low ejection fraction is most likely to be seen in a patient with:",
+  "options": {
+   "A": "Poor left ventricular systolic function",
+   "B": "Poor LV systolic function and severe mitral regurgitation",
+   "C": "Poor LV diastolic function",
+   "D": "Septic shock",
+   "E": "Post-myocardial infarction ventricular septal defect"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Ejection fraction is the stroke volume as a fraction of end-diastolic volume, so it falls in systolic dysfunction; it is preserved in diastolic failure and often normal or high in MR or septic shock.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01510"
+  ],
+  "stem": "A 40-year-old woman recently diagnosed with mitral stenosis complains of chest discomfort and palpitations. Her pulse is irregular and rapid. What finding do you expect on her ECG?",
+  "options": {
+   "A": "Third degree heart block",
+   "B": "Atrial fibrillation",
+   "C": "Supraventricular tachycardia",
+   "D": "Bundle branch block",
+   "E": "Sinus arrhythmia"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Left atrial enlargement in mitral stenosis predisposes to atrial fibrillation: irregularly irregular rhythm with absent P waves.",
+  "key_note": "Stem was garbled in the source (OCR); rewritten from context.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01511"
+  ],
+  "stem": "Which of the following drugs is best avoided in decompensated heart failure?",
+  "options": {
+   "A": "Spironolactone",
+   "B": "ACE inhibitors",
+   "C": "Angiotensin receptor blockers",
+   "D": "Calcium channel blockers",
+   "E": "Diuretics"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Negatively inotropic calcium channel blockers (verapamil, diltiazem) worsen systolic failure. Diuretics, ACEI/ARB and spironolactone are mainstays.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01592"
+  ],
+  "stem": "A 62-year-old woman on furosemide, bisoprolol, enalapril and spironolactone remains breathless on minimal exertion. The chest is clear and there is minimal ankle oedema. Which drug can improve cardiac contractility and symptoms?",
+  "options": {
+   "A": "Bosentan",
+   "B": "Isosorbide mononitrate",
+   "C": "Diltiazem",
+   "D": "Losartan",
+   "E": "Digoxin"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Digoxin is positively inotropic and improves symptoms in persistently symptomatic HFrEF on optimal therapy, though it does not improve mortality.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01896"
+  ],
+  "stem": "A 43-year-old man with dilated cardiomyopathy is dyspnoeic on dressing and slightly breathless at rest. He takes carvedilol, lisinopril and furosemide, and has infrequent multifocal ventricular ectopics. Which drug should be added to improve survival?",
+  "options": {
+   "A": "Digoxin",
+   "B": "Fluvastatin",
+   "C": "Spironolactone",
+   "D": "Amiodarone",
+   "E": "Hydralazine"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Aldosterone antagonists (RALES, EMPHASIS) reduce mortality in NYHA III-IV heart failure. Digoxin and amiodarone do not improve survival.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01810"
+  ],
+  "stem": "A 55-year-old man presents with heart failure secondary to aortic stenosis. The earliest sign on clinical examination will be:",
+  "options": {
+   "A": "Bibasal crepitations",
+   "B": "Congested liver",
+   "C": "Pedal oedema",
+   "D": "Raised JVP"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Left-sided failure from LV pressure overload first produces pulmonary congestion, seen as bibasal crepitations; systemic congestion appears later.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02075"
+  ],
+  "stem": "A 66-year-old diabetic woman with a recent stroke is being evaluated for anticoagulation. What is her CHA2DS2-VASc score?",
+  "options": {
+   "A": "1",
+   "B": "2",
+   "C": "3",
+   "D": "4",
+   "E": "5"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Female sex 1, diabetes 1, prior stroke 2, age 65-74 1 = 5.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02053"
+  ],
+  "stem": "A patient presents with a blood pressure of 160/100 mmHg. Which of the following is a modifiable risk factor for essential hypertension?",
+  "options": {
+   "A": "Sedentary lifestyle",
+   "B": "Gender",
+   "C": "Family history",
+   "D": "Race",
+   "E": "Genetic predisposition"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Lifestyle factors (inactivity, obesity, salt, alcohol) are modifiable; sex, family history, race and genes are not.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01934"
+  ],
+  "stem": "A 42-year-old man with no family history of hypertension or heart disease, a non-smoker with normal creatinine and glucose, is referred for a blood pressure of 130/80 mmHg. How would you classify his BP?",
+  "options": {
+   "A": "Normal",
+   "B": "Prehypertension",
+   "C": "Stage 1 hypertension",
+   "D": "Stage 2 hypertension",
+   "E": "Stage 3 hypertension"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "By JNC 7, 120-139/80-89 mmHg is prehypertension (ACC/AHA 2017 would call 130-139/80-89 stage 1).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02136",
+   "C03212"
+  ],
+  "stem": "A 44-year-old woman has a clinic BP of 144/82 mmHg on three measurements, but her home readings range from 120-124/64-68 mmHg. Which condition does she have?",
+  "options": {
+   "A": "Essential hypertension",
+   "B": "Prehypertension",
+   "C": "Secondary hypertension",
+   "D": "White coat hypertension"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Raised clinic BP with normal home or ambulatory readings defines white coat hypertension.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01626"
+  ],
+  "stem": "A 52-year-old man was diagnosed with hypertension three months ago and started on an ACE inhibitor titrated to the maximum dose, but his BP remains around 156/92 mmHg. What is the most appropriate next step?",
+  "options": {
+   "A": "Add furosemide",
+   "B": "Add a beta-blocker",
+   "C": "Switch from ACE inhibitor to angiotensin receptor blocker",
+   "D": "Add amlodipine",
+   "E": "Make no change"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Step 2 in uncomplicated hypertension is ACEI/ARB plus a calcium channel blocker (or thiazide-like diuretic). Switching ACEI to ARB adds little.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01513"
+  ],
+  "stem": "A 25-year-old student presents with frequent episodes of palpitations, sweating and flushing. His BP during a recent episode was 140/100 mmHg. You suspect secondary hypertension. The likely cause is:",
+  "options": {
+   "A": "Coarctation of the aorta",
+   "B": "Cushing syndrome",
+   "C": "Phaeochromocytoma",
+   "D": "Renal artery stenosis"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Paroxysmal palpitations, sweating and hypertension in a young patient suggest phaeochromocytoma (catecholamine excess).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01682"
+  ],
+  "stem": "A 26-year-old woman presents with uncontrolled hypertension. On examination there is radio-femoral delay. The most likely cause is:",
+  "options": {
+   "A": "Renal artery stenosis",
+   "B": "Phaeochromocytoma",
+   "C": "Coarctation of the aorta",
+   "D": "Conn syndrome",
+   "E": "Atherosclerosis"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Radio-femoral delay with hypertension in a young patient is the classic sign of coarctation of the aorta.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01681",
+   "C01814"
+  ],
+  "stem": "A hypertensive patient is having recurrent episodes of asthma. Which antihypertensive is most inappropriate for him?",
+  "options": {
+   "A": "Furosemide",
+   "B": "Captopril",
+   "C": "Prazosin",
+   "D": "Atenolol",
+   "E": "Losartan"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Beta-blockers, even cardioselective ones, can precipitate bronchospasm and are contraindicated in asthma.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02306"
+  ],
+  "stem": "A 56-year-old hypertensive man, non-compliant with treatment, presents with headache and chest discomfort. BP is 250/140 mmHg, ECG shows LVH, urine shows RBCs +++ and fundoscopy shows blurred disc margins. What is the most appropriate initial management?",
+  "options": {
+   "A": "IV furosemide",
+   "B": "IV methyldopa",
+   "C": "IV nitroprusside",
+   "D": "Oral atenolol",
+   "E": "Oral ramipril"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Malignant hypertension with papilloedema needs controlled IV vasodilator therapy (sodium nitroprusside, or labetalol), lowering MAP by about 25% in the first hour.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02303",
+   "C02761"
+  ],
+  "stem": "A 60-year-old woman has had hypertension for twenty years. Pulse is 80/min regular, BP 150/90 mmHg. The likely precordial finding is:",
+  "options": {
+   "A": "Left-sided fourth heart sound",
+   "B": "Left-sided third heart sound",
+   "C": "Loud first heart sound",
+   "D": "Loud pulmonary component of second heart sound",
+   "E": "Right-sided third heart sound"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "A stiff hypertrophied left ventricle produces a presystolic left-sided S4 as the atrium contracts.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02060"
+  ],
+  "stem": "A 30-year-old pregnant woman with no previous comorbidity has BP 160/100 mmHg on routine check-up, and urine shows protein +++. The most likely diagnosis is:",
+  "options": {
+   "A": "Primary hypertension",
+   "B": "Preeclampsia",
+   "C": "Hypertensive emergency",
+   "D": "Secondary hypertension",
+   "E": "None of the above"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "New hypertension with significant proteinuria in pregnancy (after 20 weeks) is preeclampsia.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02061"
+  ],
+  "stem": "The drug of choice for controlling high BP in pregnancy among the options is:",
+  "options": {
+   "A": "Propranolol",
+   "B": "Captopril",
+   "C": "Labetalol",
+   "D": "Carvedilol",
+   "E": "Streptomycin"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Labetalol (with methyldopa and nifedipine) is first line in pregnancy; ACE inhibitors are teratogenic.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01903"
+  ],
+  "stem": "A 49-year-old man with long-standing hypertension has gradual exertional breathlessness. BP is 150/100 mmHg with grade II retinal changes, there is an S4, the lung bases are clear and the JVP is normal. Echo shows concentric LVH and an ejection fraction of 60%. What causes his dyspnoea?",
+  "options": {
+   "A": "Restrictive cardiomyopathy",
+   "B": "Congestive heart failure",
+   "C": "Pericardial constriction",
+   "D": "Diastolic dysfunction",
+   "E": "Drug-induced pulmonary fibrosis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Hypertensive concentric LVH with preserved EF causes impaired relaxation (diastolic dysfunction, HFpEF).",
+  "key_note": "Some paper keys marked A (restrictive cardiomyopathy); correct is D: hypertensive LVH with preserved EF is diastolic dysfunction.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02076"
+  ],
+  "stem": "A 70-year-old man has recently been started on an alpha blocker for BPH. He now has dizzy spells on getting up at night; his usual BP is 130/80 mmHg but it was 80/50 mmHg with pulse 110/min regular during a spell. What is the problem?",
+  "options": {
+   "A": "Vasovagal syncope",
+   "B": "Silent myocardial infarction",
+   "C": "Transient ischaemic attack",
+   "D": "Postural hypotension",
+   "E": "Absence seizure"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Alpha blockers cause first-dose and orthostatic hypotension with reflex tachycardia on standing.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02042"
+  ],
+  "stem": "Which of the following is a cause of bradycardia (heart rate below 60/min)?",
+  "options": {
+   "A": "Fever",
+   "B": "Hypothyroidism",
+   "C": "Beta agonists",
+   "D": "Nitrates",
+   "E": "Anxiety"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Hypothyroidism slows the heart; the others cause tachycardia.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01591"
+  ],
+  "stem": "Which of the following types of anti-anginal medication do patients commonly develop tolerance to?",
+  "options": {
+   "A": "Nifedipine",
+   "B": "Isosorbide mononitrate",
+   "C": "Nicorandil",
+   "D": "Verapamil",
+   "E": "Atenolol"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Nitrate tolerance develops with continuous exposure; a nitrate-free interval of 8-12 hours (asymmetric dosing or modified-release preparations) prevents it.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02066"
+  ],
+  "stem": "A 65-year-old smoker, hypertensive and diabetic man presents in the ER with central chest pain radiating to the left arm and back. He is pale and sweating, with BP 100/60 mmHg. The most likely diagnosis is:",
+  "options": {
+   "A": "Myocardial infarction",
+   "B": "Pericarditis",
+   "C": "Infective endocarditis",
+   "D": "Rheumatic fever",
+   "E": "Pneumonia"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Crushing central chest pain radiating to the arm with sweating, pallor and risk factors is myocardial infarction.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02051"
+  ],
+  "stem": "A patient presents with severe central chest pain and ST elevation in V4-V6. After ensuring airway, breathing and circulation, the most appropriate step is:",
+  "options": {
+   "A": "Aspirin and nitrate",
+   "B": "Beta blockers",
+   "C": "ACE inhibitors",
+   "D": "Ibuprofen",
+   "E": "Diuretics"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "In acute STEMI give aspirin 300 mg (plus a second antiplatelet), nitrate for pain and then reperfusion; ibuprofen is harmful.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02067"
+  ],
+  "stem": "A 59-year-old woman has chest pain radiating to the left arm, and ECG shows ST elevation in leads I and aVL. Which area of the heart is most likely affected?",
+  "options": {
+   "A": "Lateral wall (leads I, aVL; left circumflex)",
+   "B": "Posterior wall (ST depression and tall R in V1-V3; posterior descending artery)",
+   "C": "Septum and anterior wall (V1-V2; left anterior descending)",
+   "D": "Anterior wall (V3-V4; left anterior descending)",
+   "E": "Inferior wall (leads II, III, aVF; right coronary artery)"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "ST elevation in I and aVL (with V5-V6) indicates high lateral infarction, usually left circumflex or diagonal branch.",
+  "key_note": "Original options contained answer annotations; cleaned.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00329",
+   "C02565",
+   "C02979",
+   "C02465"
+  ],
+  "stem": "A 59-year-old woman is admitted with chest pain radiating to the left arm and ECG shows ST elevation in leads II, III and aVF. Which area of the heart is most likely affected?",
+  "options": {
+   "A": "Lateral wall",
+   "B": "Posterior wall",
+   "C": "Anterolateral wall",
+   "D": "Anterior wall",
+   "E": "Inferior wall"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Leads II, III and aVF look at the inferior wall, supplied by the right coronary artery in most people.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01904"
+  ],
+  "stem": "A 54-year-old man with chronic stable angina has 1 hour of crushing chest pain unresponsive to rest and sublingual nitroglycerin. He has a raised JVP, hypotension and clear lung bases. ECG shows ST elevation with raised cardiac markers. Which coronary artery is the likely cause?",
+  "options": {
+   "A": "Left main stem",
+   "B": "Left anterior descending",
+   "C": "Left circumflex",
+   "D": "Right coronary",
+   "E": "Combined right coronary and left anterior descending"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Raised JVP, hypotension and clear lungs indicate right ventricular infarction, caused by proximal right coronary occlusion.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01590"
+  ],
+  "stem": "A 61-year-old man with hypertension, on ramipril, aspirin and simvastatin, arrives with central crushing chest pain. ECG on arrival shows ST elevation in II, III and aVF. What is the optimum management?",
+  "options": {
+   "A": "Aspirin + clopidogrel + LMWH + repeat ECG in 20 minutes",
+   "B": "Clopidogrel + LMWH + alteplase",
+   "C": "Aspirin + clopidogrel + LMWH + tenecteplase",
+   "D": "Aspirin + clopidogrel + LMWH + alteplase",
+   "E": "Aspirin + clopidogrel + IV heparin + immediate percutaneous coronary intervention"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Primary PCI is the preferred reperfusion strategy for STEMI when it can be delivered promptly; thrombolysis is used when PCI is not available within about 120 minutes.",
+  "key_note": "Source paper marked D (alteplase); optimum is primary PCI (E), and options C and D are equivalent thrombolysis choices so neither can be the single best.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02049"
+  ],
+  "stem": "A young patient with acute myocardial infarction needs primary PCI (angioplasty). The target door-to-balloon time for this procedure is:",
+  "options": {
+   "A": "30 minutes",
+   "B": "24 hours",
+   "C": "60 minutes",
+   "D": "90 minutes",
+   "E": "120 minutes"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Door-to-balloon time should be 90 minutes or less (door-to-needle for thrombolysis is 30 minutes).",
+  "key_note": "Stem said 'door to needle'; for primary PCI the term is door-to-balloon. Duplicate option removed.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01811",
+   "C03097"
+  ],
+  "stem": "A 60-year-old woman has had chest discomfort for 3 hours. BP is 85/50 mmHg, ECG shows ST elevation in II, III and aVF with sinus rhythm at 44/min. What is the best treatment?",
+  "options": {
+   "A": "Amiodarone",
+   "B": "Atropine",
+   "C": "Isoprenaline",
+   "D": "Lignocaine"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Inferior MI with symptomatic sinus bradycardia and hypotension is treated with IV atropine; isoprenaline increases myocardial oxygen demand and is avoided.",
+  "key_note": "One paper key marked C (isoprenaline); correct is B (atropine).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01897",
+   "C01947"
+  ],
+  "stem": "A 41-year-old woman presents with 1 hour of crushing substernal chest pain, and ECG shows ST elevation in V2-V4. Which one of the following is NOT an absolute contraindication to thrombolytic therapy?",
+  "options": {
+   "A": "Aortic dissection",
+   "B": "Intracranial berry aneurysm",
+   "C": "Active internal bleeding",
+   "D": "Current menstruation",
+   "E": "Brain tumour"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Menstruation is not an absolute contraindication; aortic dissection, intracranial vascular lesion or tumour and active internal bleeding are.",
+  "key_note": "The sister version of this question asked which condition allows thrombolysis; papers marked B or E there, which are contraindications; correct is D.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01948"
+  ],
+  "stem": "A 57-year-old man in the coronary care unit with anteroseptal MI has a recurrence of prolonged central chest pain five days later, suggesting reinfarction. Which enzyme would help confirm this?",
+  "options": {
+   "A": "Troponin T",
+   "B": "Troponin I",
+   "C": "ALT",
+   "D": "MB isoenzyme of creatine kinase",
+   "E": "AST"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Troponins stay raised for 7-14 days, so they cannot detect reinfarction early; CK-MB returns to normal within 48-72 hours and a second rise indicates reinfarction.",
+  "key_note": "Options A and B are both troponins; neither helps here.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01625"
+  ],
+  "stem": "A 62-year-old man discharged after myocardial infarction has an LVEF of 38%, pulse 78 regular, BP 124/72 mmHg and a clear chest. He takes aspirin, simvastatin and lisinopril. What is the most appropriate next medication step?",
+  "options": {
+   "A": "Add furosemide",
+   "B": "Add a beta-blocker",
+   "C": "Add isosorbide mononitrate",
+   "D": "Make no changes",
+   "E": "Discontinue lisinopril"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Post-MI left ventricular dysfunction needs a beta-blocker in addition to ACE inhibitor, statin and aspirin to reduce mortality.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01895"
+  ],
+  "stem": "A 65-year-old man, 4 months after MI, takes aspirin, metoprolol and simvastatin. BP is 135/80 mmHg and LDL cholesterol is 93 mg/dl. What is the best next step?",
+  "options": {
+   "A": "Add enalapril",
+   "B": "Increase the dose of simvastatin",
+   "C": "Stop metoprolol",
+   "D": "Repeat the lipid profile",
+   "E": "Give omeprazole"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "An ACE inhibitor is indicated for secondary prevention after MI; LDL is already near target.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01899"
+  ],
+  "stem": "A 62-year-old heavy smoker with hypertension has 6 hours of central chest pain at rest. ECG shows non-specific ST-T changes, troponin T is slightly raised and chest X-ray is normal. What is the diagnosis?",
+  "options": {
+   "A": "Unstable angina",
+   "B": "Full-thickness myocardial infarction",
+   "C": "Acute pericarditis",
+   "D": "Diffuse oesophageal spasm",
+   "E": "Type A aortic dissection"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "This is a non-ST-elevation acute coronary syndrome, best fitting unstable angina/NSTEMI; without ST elevation or Q waves it is not a full-thickness infarct.",
+  "key_note": "Paper keys disagree (A and B). Question is flawed: a raised troponin makes it strictly NSTEMI, which is not listed; A is the better of the options.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02299",
+   "C02758"
+  ],
+  "stem": "A 67-year-old man develops chest pain and a friction rub 3 days after admission to the coronary care unit. Pulse 90/min, BP 120/80 mmHg. The most likely diagnosis is:",
+  "options": {
+   "A": "Dissecting aneurysm",
+   "B": "Pneumonia",
+   "C": "Pulmonary embolism",
+   "D": "Viral pulmonary infection",
+   "E": "Transmural infarction"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "A pericardial friction rub in the first days after infarction is early peri-infarction pericarditis from transmural MI.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01926"
+  ],
+  "stem": "A 70-year-old woman had MI 4 weeks ago and now has low-grade fever and sharp chest pain that worsens with deep breathing and improves on bending forward. Temperature is 38 C; heart and lungs are clear on auscultation. The best treatment is:",
+  "options": {
+   "A": "Antibiotics",
+   "B": "Nitrates",
+   "C": "NSAIDs",
+   "D": "Warfarin"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "This is Dressler syndrome (post-MI pericarditis), treated with NSAIDs or aspirin; anticoagulants are avoided.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01900"
+  ],
+  "stem": "A 69-year-old man with poorly controlled hypertension has severe tearing chest pain radiating to the back and a widened upper mediastinum. ECG shows 4 mm ST elevation in II, III and aVF. What is the cause of the ECG change?",
+  "options": {
+   "A": "Dissection of the left main coronary artery",
+   "B": "Cardiac tamponade",
+   "C": "Involvement of the right coronary artery ostium",
+   "D": "Aortic rupture into the left pleural space",
+   "E": "Coronary artery spasm"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Proximal type A dissection can extend to the right coronary ostium (most commonly involved), causing inferior ST elevation.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02045"
+  ],
+  "stem": "An adolescent presents with shortness of breath and bluish discolouration of the tongue and nails. He is afebrile, with a grade 4 parasternal murmur and central cyanosis. The likely diagnosis is:",
+  "options": {
+   "A": "Mitral stenosis",
+   "B": "Ventricular septal defect",
+   "C": "Tricuspid stenosis",
+   "D": "Infective endocarditis",
+   "E": "Coarctation of the aorta"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Of the options, VSD with a loud parasternal murmur and late central cyanosis fits (Eisenmenger reversal).",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01583"
+  ],
+  "stem": "A patient has an irregularly irregular pulse. The most likely ECG finding is:",
+  "options": {
+   "A": "ST elevation in anterior leads",
+   "B": "Third degree heart block",
+   "C": "Absence of P waves",
+   "D": "Sinus tachycardia",
+   "E": "Atrial flutter with 2:1 conduction"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Irregularly irregular pulse is atrial fibrillation, with absent P waves and irregular narrow QRS complexes.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02052"
+  ],
+  "stem": "A patient with palpitations has a completely irregular rhythm with narrow complexes. He is haemodynamically unstable with systolic BP 70 mmHg. The appropriate management is:",
+  "options": {
+   "A": "DC cardioversion",
+   "B": "Intravenous diuretics",
+   "C": "Streptokinase",
+   "D": "Oral aspirin",
+   "E": "Carotid massage"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Atrial fibrillation with haemodynamic instability needs immediate synchronised DC cardioversion.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01813"
+  ],
+  "stem": "A 78-year-old hypertensive woman admitted with congestive heart failure is found to be in atrial fibrillation. There is no history of diabetes or stroke. What is the most appropriate treatment for her atrial fibrillation?",
+  "options": {
+   "A": "Aspirin",
+   "B": "Aspirin and clopidogrel",
+   "C": "Digoxin",
+   "D": "Warfarin"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "CHA2DS2-VASc is 5 (heart failure, hypertension, age at least 75 = 2, female), so oral anticoagulation is indicated; aspirin is inadequate.",
+  "key_note": "One paper marked C (digoxin), which gives rate control only; stroke prevention with warfarin is the answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02068",
+   "C03206"
+  ],
+  "stem": "An ECG showing a sawtooth pattern most likely indicates:",
+  "options": {
+   "A": "Atrial fibrillation",
+   "B": "Atrial flutter",
+   "C": "NSTEMI",
+   "D": "STEMI",
+   "E": "None of the above"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Flutter waves at about 300/min produce the sawtooth baseline, best seen in leads II, III and aVF.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01905"
+  ],
+  "stem": "A 32-year-old man has had 3 hours of rapid pounding palpitations. The ECG suggests atrial flutter with 2:1 conduction. How can you confirm the diagnosis?",
+  "options": {
+   "A": "Infusion of lidocaine",
+   "B": "Start oral metoprolol",
+   "C": "Bolus of adenosine",
+   "D": "Wait and see",
+   "E": "Give nitroglycerin"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Adenosine transiently increases AV block and unmasks flutter waves; it terminates AVNRT but not flutter.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01902"
+  ],
+  "stem": "A 23-year-old student has had 1 hour of rapid palpitations and dizziness, BP 110/50 mmHg. ECG shows supraventricular tachycardia, and vagal manoeuvres fail. What medication should you give?",
+  "options": {
+   "A": "Oral adenosine",
+   "B": "Intravenous adenosine bolus",
+   "C": "Slow intravenous adenosine over 30 minutes",
+   "D": "Subcutaneous adenosine pump",
+   "E": "Sublingual adenosine"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Adenosine has a half-life under 10 seconds, so it must be given as a rapid IV bolus followed by a saline flush.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01898"
+  ],
+  "stem": "A 21-year-old woman has recurrent palpitations and pre-syncope. Resting ECG shows a short PR interval and slurred upstroke of the R wave. What is the best treatment?",
+  "options": {
+   "A": "Procainamide",
+   "B": "Digoxin",
+   "C": "Radiofrequency catheter ablation",
+   "D": "Implantable cardioverter-defibrillator",
+   "E": "Percutaneous coronary intervention"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "This is Wolff-Parkinson-White syndrome (delta wave); definitive treatment of symptomatic WPW is radiofrequency ablation of the accessory pathway. Digoxin is avoided.",
+  "key_note": "Paper key marked D (ICD); correct is C (radiofrequency ablation).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01812"
+  ],
+  "stem": "A 50-year-old man in ICU with acute MI develops palpitations. ECG shows broad abnormal QRS complexes at 150/min, BP 120/70 mmHg. What is the best treatment?",
+  "options": {
+   "A": "Amiodarone",
+   "B": "DC cardioversion",
+   "C": "Lignocaine",
+   "D": "Verapamil"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Stable monomorphic ventricular tachycardia is treated with IV amiodarone (or procainamide); verapamil is dangerous in VT. Lignocaine is an older option.",
+  "key_note": "Papers disagreed (A vs C lignocaine); amiodarone is the current standard answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01657"
+  ],
+  "stem": "A 60-year-old man with inferior wall MI has wide QRS complexes at 40/min and P waves at 90/min with no relationship between them. The most likely diagnosis is:",
+  "options": {
+   "A": "First degree heart block",
+   "B": "Second degree heart block Mobitz I",
+   "C": "Third degree heart block",
+   "D": "Second degree heart block Mobitz II",
+   "E": "Ventricular tachycardia"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Complete AV dissociation with a slow ventricular escape rhythm is complete (third degree) heart block.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02298",
+   "C00332"
+  ],
+  "stem": "A 62-year-old man with coronary artery disease has Wenckebach (Mobitz type I) AV block, pulse 50/min, BP 120/80 mmHg. What is the ECG finding?",
+  "options": {
+   "A": "Dropped beat after progressive PR lengthening",
+   "B": "Fixed 2:1 block",
+   "C": "Progressive PR shortening",
+   "D": "Prolonged QT interval",
+   "E": "Broad QRS complex"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "In Mobitz type I the PR interval lengthens progressively until a P wave fails to conduct and a QRS is dropped.",
+  "key_note": "Original also offered 'progressive lengthening of PR' as an option; removed because it is also true.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01858"
+  ],
+  "stem": "A 65-year-old man has recurrent loss of consciousness. His family describe brief episodes of death-like pallor with recovery within 30 seconds, accompanied by flushing. The investigation of choice to confirm the diagnosis is:",
+  "options": {
+   "A": "Holter monitoring",
+   "B": "Echocardiography",
+   "C": "Tilt test",
+   "D": "Carotid Doppler"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Pallor then flushing on recovery is the Stokes-Adams attack of intermittent complete heart block; ambulatory ECG (Holter) documents it.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01697"
+  ],
+  "stem": "A common cardiac complication of tertiary syphilis is:",
+  "options": {
+   "A": "Aortic regurgitation",
+   "B": "Myocardial infarction",
+   "C": "Mitral stenosis",
+   "D": "Cardiomyopathy",
+   "E": "Mitral regurgitation"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Syphilitic aortitis dilates the aortic root and causes aortic regurgitation and ascending aortic aneurysm.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02078"
+  ],
+  "stem": "A patient with carcinoid syndrome develops a systolic murmur at the right lower sternal border. Which valvular lesion is most common in such patients?",
+  "options": {
+   "A": "Tricuspid stenosis",
+   "B": "Tricuspid regurgitation",
+   "C": "Mitral stenosis",
+   "D": "Mitral regurgitation",
+   "E": "Aortic regurgitation"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Carcinoid plaque fibrosis of right-sided valves causes tricuspid regurgitation (and pulmonary stenosis).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01696",
+   "C02069"
+  ],
+  "stem": "A 14-year-old boy has 4 days of fever, migratory joint pain and breathlessness. The wrists and knees are red and tender and there is a murmur; he had a sore throat 2 weeks ago. Which organism caused the sore throat and underlies this illness?",
+  "options": {
+   "A": "Group A beta-haemolytic streptococci",
+   "B": "Group A alpha-haemolytic streptococci",
+   "C": "Group B beta-haemolytic streptococci",
+   "D": "Influenza virus",
+   "E": "Staphylococcus aureus"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Acute rheumatic fever follows pharyngeal infection with group A beta-haemolytic Streptococcus pyogenes via molecular mimicry.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02071"
+  ],
+  "stem": "ASO titre is raised in:",
+  "options": {
+   "A": "SLE",
+   "B": "Infective endocarditis",
+   "C": "Rheumatic fever",
+   "D": "Pneumonia",
+   "E": "Heart failure"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Raised ASO reflects recent group A streptococcal infection and supports the diagnosis of rheumatic fever.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02257"
+  ],
+  "stem": "A 20-year-old woman develops high fever one week after mitral valve surgery. Echocardiography shows vegetations on the mitral valve ring. The most probable organism is:",
+  "options": {
+   "A": "Enterococcus",
+   "B": "HACEK group",
+   "C": "Escherichia coli",
+   "D": "Staphylococcus aureus",
+   "E": "Streptococcus viridans"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Early prosthetic valve endocarditis (within 2 months) is mainly due to Staphylococcus aureus or coagulase-negative staphylococci.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01863"
+  ],
+  "stem": "While examining a 32-year-old man you find splinter haemorrhages of the nails. What is the commonest cause of this nail sign?",
+  "options": {
+   "A": "Infective endocarditis",
+   "B": "Lichen planus",
+   "C": "Trauma",
+   "D": "Psoriasis"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Splinter haemorrhages are most commonly traumatic; they are classically linked to infective endocarditis when multiple and proximal.",
+  "key_note": "Paper key marked A (infective endocarditis); trauma is the commonest cause overall.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01683"
+  ],
+  "stem": "A young woman with rheumatic heart disease is suspected of having infective endocarditis. Her hand examination is likely to reveal:",
+  "options": {
+   "A": "Osler nodes",
+   "B": "Palmar erythema",
+   "C": "Beau lines",
+   "D": "Half and half nails",
+   "E": "Heberden nodes"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Osler nodes (painful pulp nodules) are an immune-complex sign of endocarditis, along with splinter haemorrhages and Janeway lesions.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02141"
+  ],
+  "stem": "A 26-year-old woman with mitral valve prolapse has 1 week of fever starting 3 days after a dental procedure. Urine contains red cells and rheumatoid factor is raised. Which serological abnormality is expected?",
+  "options": {
+   "A": "Anti-GBM antibody",
+   "B": "Low serum complement levels",
+   "C": "Antineutrophil cytoplasmic antibody",
+   "D": "Elevated IgA levels",
+   "E": "Elevated serum complement level"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Endocarditis can cause immune-complex glomerulonephritis with low C3 and C4 and positive rheumatoid factor.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01691"
+  ],
+  "stem": "A 65-year-old patient has Streptococcus bovis endocarditis. After appropriate treatment you should advise:",
+  "options": {
+   "A": "CT adrenals",
+   "B": "Dental review",
+   "C": "Colonoscopy",
+   "D": "Repeat blood cultures",
+   "E": "HIV serology"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "S. bovis (gallolyticus) bacteraemia is associated with colonic neoplasia, so colonoscopy is needed.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01815"
+  ],
+  "stem": "A 50-year-old woman has worsening dyspnoea and orthopnoea. Chest X-ray shows a small heart with pericardial calcification. Which clinical sign is most consistent?",
+  "options": {
+   "A": "Bibasal crepitations",
+   "B": "Fourth heart sound",
+   "C": "Increased jugular venous distension on inspiration",
+   "D": "Loud S1 and S2"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Calcified pericardium means constrictive pericarditis; Kussmaul sign (JVP rises on inspiration) is characteristic, with a pericardial knock rather than S4.",
+  "key_note": "One paper key marked B (fourth heart sound); correct is C.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02080"
+  ],
+  "stem": "A 60-year-old man treated for pulmonary TB two years ago has worsening dyspnoea for 6 months. His JVP shows a steep Y descent. What is the likely diagnosis?",
+  "options": {
+   "A": "Pericardial effusion",
+   "B": "Tricuspid regurgitation",
+   "C": "Tricuspid stenosis",
+   "D": "Constrictive pericarditis",
+   "E": "Infective endocarditis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A prominent rapid Y descent (Friedreich sign) in a patient with previous TB indicates constrictive pericarditis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01901"
+  ],
+  "stem": "A 28-year-old man, after an upper respiratory infection, has central chest pain worse on lying down, swallowing and deep breathing. ECG shows widespread ST elevation, and the pain partly responds to NSAIDs. You are reluctant to prescribe prednisolone because:",
+  "options": {
+   "A": "It is ineffective",
+   "B": "High doses are needed",
+   "C": "It increases the risk of recurrent inflammation",
+   "D": "It is contraindicated",
+   "E": "Long-term treatment is mandated"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "In viral pericarditis, corticosteroids predispose to recurrence; they are reserved for refractory cases or specific causes.",
+  "key_note": "One paper key marked D (contraindicated); correct is C, steroids are not absolutely contraindicated.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02307"
+  ],
+  "stem": "A 40-year-old man has 3 days of chest pain relieved by bending forward, after flu-like symptoms 4 days earlier. ECG shows widespread ST elevation, and CK-MB and troponin I are normal. The most likely diagnosis is:",
+  "options": {
+   "A": "Acute myocarditis",
+   "B": "Acute pericarditis",
+   "C": "Muscular pain",
+   "D": "Pleural effusion",
+   "E": "Pneumothorax"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Positional pleuritic pain with widespread concave ST elevation and normal cardiac markers is acute pericarditis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02077"
+  ],
+  "stem": "A 40-year-old man in a COVID unit suddenly desaturates. ECG shows frequent PVCs without ST-T changes; there is an S3 gallop, raised JVP and bilateral basal crackles. Which cardiac complication of COVID is likely?",
+  "options": {
+   "A": "Acute atrial fibrillation",
+   "B": "Acute myocardial infarction",
+   "C": "Acute myocarditis",
+   "D": "Acute respiratory distress syndrome",
+   "E": "Acute aortic dissection"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "New heart failure with ventricular ectopics and no ischaemic ECG change suggests viral myocarditis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02304"
+  ],
+  "stem": "A 25-year-old woman has 2 months of exertional dyspnoea, orthopnoea and fatigue. Pulse 110/min, BP 90/60 mmHg; splitting of S2, a left-sided S3 and a systolic murmur; ECG shows LBBB. The likely diagnosis is:",
+  "options": {
+   "A": "Aortic regurgitation",
+   "B": "Dilated cardiomyopathy",
+   "C": "Hypertrophic cardiomyopathy",
+   "D": "Mitral stenosis",
+   "E": "Right ventricular infarction"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Low-output failure with S3, functional MR and LBBB in a young person is dilated cardiomyopathy. LBBB also explains the paradoxical splitting.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02046"
+  ],
+  "stem": "An electrocardiogram can be used to diagnose all of the following conditions EXCEPT:",
+  "options": {
+   "A": "Myocardial infarction",
+   "B": "Left ventricular hypertrophy",
+   "C": "Arrhythmias",
+   "D": "Electrolyte disturbances such as hyperkalaemia",
+   "E": "Dyslipidaemia"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "The ECG shows infarction, ventricular hypertrophy, arrhythmias and electrolyte effects, but dyslipidaemia is diagnosed only by a blood lipid profile.",
+  "key_note": "Original stem referred to an unseen procedure image (ECG assumed); dyslipidaemia is the odd one out for any cardiac test.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02981"
+  ],
+  "stem": "A professional swimmer undergoes a routine medical examination. His ECG shows a heart rate of 56 beats/min with regular rhythm. What is the likely cause of this finding?",
+  "options": {
+   "A": "Sinus tachycardia",
+   "B": "Physiological bradycardia",
+   "C": "Arrhythmia",
+   "D": "Atrial fibrillation",
+   "E": "Third-degree heart block"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Athletes have high vagal tone and large stroke volume, producing a regular, asymptomatic physiological sinus bradycardia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03210"
+  ],
+  "stem": "Where is the natural pacemaker of the heart located?",
+  "options": {
+   "A": "Sinoatrial node",
+   "B": "Atrioventricular node",
+   "C": "Right atrium wall",
+   "D": "Left atrium",
+   "E": "Left ventricle"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "The sinoatrial node in the upper right atrium has the highest intrinsic firing rate (60-100/min) and is the natural pacemaker.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02308",
+   "C02441"
+  ],
+  "stem": "A 60-year-old obese man with long-standing uncontrolled hypertension presents with one month of shortness of breath. He needs three pillows to sleep and wakes at night with breathlessness. A third heart sound is heard on the precordium. What is the most likely diagnosis?",
+  "options": {
+   "A": "COPD",
+   "B": "Interstitial lung disease",
+   "C": "Left ventricular failure",
+   "D": "Obesity",
+   "E": "Right ventricular failure"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Orthopnoea, paroxysmal nocturnal dyspnoea and a third heart sound in a long-standing hypertensive point to left ventricular failure. Obesity alone does not produce a gallop rhythm.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02463"
+  ],
+  "stem": "A 55-year-old man had a myocardial infarction one week ago. On the day of discharge he suddenly develops dyspnoea, cough and frothy sputum. Pulse is 120/min regular, BP 90/60 mmHg, with bilateral chest crepitations and pedal oedema. What is the most likely diagnosis?",
+  "options": {
+   "A": "Pericardial effusion",
+   "B": "Aortic dissection",
+   "C": "Aspiration pneumonia",
+   "D": "Acute left ventricular failure",
+   "E": "Atrial fibrillation"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Frothy sputum and bilateral crepitations after MI indicate acute pulmonary oedema from left ventricular failure; mechanical complications such as papillary muscle rupture should also be considered.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02821",
+   "C02852"
+  ],
+  "stem": "A 60-year-old man presents with progressive shortness of breath and orthopnoea. Examination shows a raised JVP, pedal oedema and an enlarged liver. What is the most likely cause?",
+  "options": {
+   "A": "Chronic liver disease",
+   "B": "Constrictive pericarditis",
+   "C": "Left heart failure",
+   "D": "Nephrotic syndrome",
+   "E": "Right heart failure"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "A raised JVP with peripheral oedema and congestive hepatomegaly indicates right (congestive) heart failure. Liver disease and nephrotic syndrome do not raise the JVP.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03213",
+   "C02047"
+  ],
+  "stem": "A patient presents with shortness of breath, orthopnoea and paroxysmal nocturnal dyspnoea. He has bilateral pitting oedema and basal crepitations. Which drug is likely to improve his symptoms?",
+  "options": {
+   "A": "Aspirin",
+   "B": "Diuretics",
+   "C": "Calcium channel blockers",
+   "D": "Heparin",
+   "E": "Salbutamol"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Loop diuretics relieve congestion and pulmonary oedema in heart failure; they improve symptoms, whereas ACE inhibitors and beta-blockers improve prognosis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02442"
+  ],
+  "stem": "A 50-year-old chronic smoker presents with central chest pain at rest lasting 15 minutes. Cardiovascular and chest examination and the ECG are unremarkable. What is the most likely diagnosis?",
+  "options": {
+   "A": "Stable angina pectoris",
+   "B": "Unstable angina",
+   "C": "Acute MI",
+   "D": "Pneumonia",
+   "E": "Pneumothorax"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Angina at rest lasting more than 10-20 minutes is unstable angina when the ECG and troponin show no infarction.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02461"
+  ],
+  "stem": "During a routine medical examination of employees, which condition is NOT considered a high-risk factor for coronary artery disease?",
+  "options": {
+   "A": "Smoking",
+   "B": "Female gender",
+   "C": "Diabetes",
+   "D": "Hypertension",
+   "E": "Hyperlipidaemia"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Male sex, not female sex, is a non-modifiable risk factor for CAD (premenopausal women are relatively protected). Smoking, diabetes, hypertension and dyslipidaemia are major modifiable risk factors.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02462",
+   "C02978"
+  ],
+  "stem": "A 45-year-old obese man presents with severe sudden central chest pain for 30 minutes. Pulse is 82/min and BP 130/80 mmHg. ECG shows ST elevation in leads V1-V4. Which management does he need?",
+  "options": {
+   "A": "Streptokinase",
+   "B": "Beta agonist",
+   "C": "Amoxicillin",
+   "D": "Ibuprofen",
+   "E": "DC cardioversion"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Anteroseptal STEMI within 12 hours needs reperfusion; of the options only fibrinolysis (streptokinase) achieves this. NSAIDs worsen outcome and he is haemodynamically stable, so no cardioversion.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02466",
+   "C01809",
+   "C02155"
+  ],
+  "stem": "A 40-year-old man presents with severe central chest pain and sweating. ECG shows ST elevation in leads II, III and aVF. Which coronary artery is involved?",
+  "options": {
+   "A": "Left anterior descending",
+   "B": "Left circumflex",
+   "C": "Right coronary",
+   "D": "Left main",
+   "E": "Left diagonal"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Inferior leads reflect the inferior wall, supplied by the right coronary artery in about 80% (dominant right system).",
+  "key_note": "One paper marked a garbled option (E, 'R in lead 1'); the inferior leads II, III, aVF are correct.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02745"
+  ],
+  "stem": "A 61-year-old man presents with acute chest pain. He is diaphoretic and hypotensive. The ECG shows ST depression in V1-V3 with tall R waves and upright T waves in these leads; there is no ST elevation in II, III and aVF. What is the most likely diagnosis?",
+  "options": {
+   "A": "Non-ST-elevation myocardial infarction",
+   "B": "Posterior myocardial infarction",
+   "C": "Acute pericarditis",
+   "D": "Hyperkalaemia",
+   "E": "Early repolarisation"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "ST depression with tall R waves and upright T waves in V1-V3 is the mirror image of posterior ST elevation: posterior MI (confirm with posterior leads V7-V9).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02823"
+  ],
+  "stem": "A 60-year-old diabetic man presents with 2 months of central chest pain on exertion relieved by rest. The ECG is normal. What is the most likely diagnosis?",
+  "options": {
+   "A": "Acute NSTEMI",
+   "B": "Stable angina pectoris",
+   "C": "GERD",
+   "D": "Prinzmetal angina",
+   "E": "Unstable angina"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Predictable exertional chest pain relieved by rest for months is stable angina; the resting ECG is often normal.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02934"
+  ],
+  "stem": "A 30-year-old man presents to the emergency room with excruciating chest pain and shortness of breath for an hour. His father died of a heart attack at the age of 32. Imaging and laboratory tests confirm ST-elevation myocardial infarction. Which is the initial management of choice among the following?",
+  "options": {
+   "A": "IV furosemide",
+   "B": "Oxygen inhalation",
+   "C": "Omeprazole",
+   "D": "Blood transfusion",
+   "E": "Salbutamol"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Initial STEMI care follows MONA (morphine, oxygen, nitrates, aspirin) followed by urgent reperfusion. Oxygen is strictly indicated if saturation is below 94%, but it is the only relevant option here.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02974"
+  ],
+  "stem": "A 55-year-old man presents with chest pain on exertion. Which one of the following is the most significant risk factor for ischaemic heart disease?",
+  "options": {
+   "A": "Family history",
+   "B": "Smoking",
+   "C": "Hypertension",
+   "D": "High fat diet",
+   "E": "Stress"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Hypertension is a major, highly prevalent and modifiable risk factor with a large attributable risk for IHD.",
+  "key_note": "Ambiguous question: smoking or dyslipidaemia could also be argued; the paper's marked answer (hypertension) is kept.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03098"
+  ],
+  "stem": "What is the most common cause of death in hospitalised patients with myocardial infarction?",
+  "options": {
+   "A": "Cardiogenic shock (severe pump failure)",
+   "B": "Arrhythmia",
+   "C": "Cardiac free wall rupture",
+   "D": "Rupture of ventricular aneurysm",
+   "E": "Constrictive pericarditis"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Pump failure with cardiogenic shock is the leading cause of in-hospital death after MI; ventricular fibrillation accounts for most sudden deaths before reaching hospital.",
+  "key_note": "The paper marked B (arrhythmia); arrhythmia is the commonest cause of death in the pre-hospital phase, while pump failure leads in-hospital, so A is given.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02557",
+   "C02984"
+  ],
+  "stem": "Digoxin toxicity is increased with:",
+  "options": {
+   "A": "Hypokalaemia",
+   "B": "Hyperkalaemia",
+   "C": "Verapamil",
+   "D": "Spironolactone",
+   "E": "Nitrofurantoin"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Hypokalaemia (also hypomagnesaemia, hypercalcaemia) increases digoxin toxicity because digoxin competes with potassium at the Na-K ATPase.",
+  "key_note": "Verapamil also increases digoxin levels, but hypokalaemia is the standard exam answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02853",
+   "C00010",
+   "C02059",
+   "C02971",
+   "C03204"
+  ],
+  "stem": "A 26-year-old man has a one-month history of palpitations. ECG shows an irregular rhythm with no distinct P waves. What is the most likely diagnosis?",
+  "options": {
+   "A": "Atrial fibrillation",
+   "B": "Atrial flutter",
+   "C": "Multifocal atrial tachycardia",
+   "D": "Supraventricular tachycardia",
+   "E": "Ventricular tachycardia"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "An irregularly irregular rhythm with absent P waves is atrial fibrillation. Flutter shows sawtooth waves, and SVT is regular.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02935"
+  ],
+  "stem": "A 22-year-old woman presents with sudden shortness of breath and palpitations for 2 hours. She has had similar episodes in the past that resolved with breath holding. ECG shows supraventricular tachycardia at 160/min and BP is 110/80 mmHg. What is the most likely next step in management?",
+  "options": {
+   "A": "Try carotid massage",
+   "B": "IV procainamide",
+   "C": "IV adenosine",
+   "D": "IV lidocaine",
+   "E": "IV quinine"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "In stable SVT, vagal manoeuvres (carotid sinus massage, Valsalva) are tried first; IV adenosine is next, then beta-blockers or calcium channel blockers, and DC cardioversion if unstable.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03099",
+   "C03103"
+  ],
+  "stem": "A patient presents with dizziness and chest discomfort. The heart rate is 35-48 beats/min and ECG shows sinus bradycardia. What is the first-line drug treatment?",
+  "options": {
+   "A": "Atropine",
+   "B": "Adenosine",
+   "C": "Beta blocker",
+   "D": "Calcium channel blocker",
+   "E": "Epinephrine"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Symptomatic bradycardia is treated first with IV atropine 0.5 mg (repeat up to 3 mg); if it fails use dopamine or adrenaline infusion or pacing.",
+  "key_note": "One paper's printed key said A for the bradycardia variant whose options listed atropine as C; correct is atropine.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02439"
+  ],
+  "stem": "A 20-year-old girl presents with shortness of breath for 6 months. She has a pansystolic murmur at the mitral area radiating to the axilla. Which lesion is most likely?",
+  "options": {
+   "A": "Aortic stenosis",
+   "B": "Aortic regurgitation",
+   "C": "Mitral stenosis",
+   "D": "Mitral regurgitation",
+   "E": "Pulmonary stenosis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A pansystolic apical murmur radiating to the axilla is the classic finding of mitral regurgitation.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02558"
+  ],
+  "stem": "A 65-year-old woman develops exertional dyspnoea and multiple episodes of syncope. Examination shows an ejection systolic murmur at the left sternal edge with a soft S2. What is your diagnosis?",
+  "options": {
+   "A": "Mitral stenosis",
+   "B": "Aortic stenosis",
+   "C": "Mitral regurgitation",
+   "D": "HOCM",
+   "E": "Pulmonary stenosis"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Exertional dyspnoea, syncope and an ejection systolic murmur with soft S2 in an elderly patient indicate calcific aortic stenosis (angina, syncope, dyspnoea triad).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02750"
+  ],
+  "stem": "A 36-year-old woman with rheumatic heart disease has exertional dyspnoea and haemoptysis. She has a loud first heart sound, an opening snap and a low-pitched mid-diastolic rumble at the apex. Which single echocardiographic finding best indicates severe mitral stenosis?",
+  "options": {
+   "A": "Mitral valve area 1.8 cm2 with mean gradient 5 mmHg",
+   "B": "Mitral valve area 1.6 cm2 with mean gradient 6 mmHg",
+   "C": "Mitral valve area 1.0 cm2 or less with mean gradient 10 mmHg or more",
+   "D": "Mild left atrial enlargement only",
+   "E": "Normal pulmonary artery systolic pressure"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Severe mitral stenosis is defined by a valve area of 1.0 cm2 or less (normal 4-6 cm2) with a high mean gradient and usually pulmonary hypertension.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02803"
+  ],
+  "stem": "A 30-year-old man presents with exertional dyspnoea and poor effort tolerance. A holosystolic murmur is heard at the apex radiating to the axilla with a loud pulmonary component of the second sound. What is the most likely diagnosis?",
+  "options": {
+   "A": "Aortic regurgitation in atrial fibrillation",
+   "B": "Aortic stenosis with pulmonary hypertension",
+   "C": "Mitral regurgitation with pulmonary hypertension",
+   "D": "Mitral stenosis in sinus rhythm",
+   "E": "Mitral stenosis with pulmonary hypertension"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A pansystolic apical murmur radiating to the axilla is mitral regurgitation; a loud P2 indicates secondary pulmonary hypertension.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02986"
+  ],
+  "stem": "A 76-year-old man with no significant history presents for a checkup with mild exercise intolerance. Examination shows only an ejection systolic murmur. What is the single most likely cardiac defect?",
+  "options": {
+   "A": "Tricuspid regurgitation",
+   "B": "Mitral regurgitation",
+   "C": "Mitral stenosis",
+   "D": "Aortic stenosis",
+   "E": "Aortic regurgitation"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "An ejection systolic murmur in an elderly patient is most often due to calcific degenerative aortic stenosis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02440"
+  ],
+  "stem": "A 20-year-old woman presents with a 10-day history of fever and pain and swelling of different joints at different times. She also has involuntary movements of her hands (chorea), a systolic murmur at the mitral area and a temperature of 101 F. What is the most likely diagnosis?",
+  "options": {
+   "A": "Infective endocarditis",
+   "B": "Rheumatic fever",
+   "C": "Myocarditis",
+   "D": "Constrictive pericarditis",
+   "E": "Rheumatoid arthritis"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Migratory polyarthritis, chorea and carditis (mitral murmur) are major Jones criteria, diagnostic of acute rheumatic fever.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02458"
+  ],
+  "stem": "A young boy presents with high fever (102 F) a few days after dental extraction. He gives a history of migratory polyarthritis. Cardiac auscultation reveals a grade II diastolic murmur. What is the most likely diagnosis?",
+  "options": {
+   "A": "Enteric fever",
+   "B": "Falciparum malaria",
+   "C": "Infective endocarditis",
+   "D": "Rheumatic fever",
+   "E": "Pericarditis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Migratory polyarthritis with a new murmur and fever is rheumatic fever (Jones criteria). The dental extraction is a distractor towards endocarditis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02459"
+  ],
+  "stem": "A 12-year-old boy develops a cardiac valvular complication after a throat infection. ASO titre is above 500 IU/mL. Which antibiotic is recommended for prevention of recurrent episodes of this disease?",
+  "options": {
+   "A": "Penicillin G",
+   "B": "Doxycycline",
+   "C": "Streptomycin",
+   "D": "Chloramphenicol",
+   "E": "Acyclovir"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Secondary prophylaxis of rheumatic fever uses penicillin (benzathine penicillin G 1.2 million units IM every 3-4 weeks, or oral penicillin V); erythromycin if allergic.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02467"
+  ],
+  "stem": "A 10-year-old boy has joint pain, first in the right knee and then the left knee. He had a sore throat 2 weeks ago. On examination he has a soft mid-diastolic murmur. What is the likely diagnosis?",
+  "options": {
+   "A": "Sickle cell disease",
+   "B": "Kawasaki disease",
+   "C": "Septic arthritis",
+   "D": "Osteomyelitis",
+   "E": "Rheumatic fever"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Migratory large-joint arthritis 2-3 weeks after pharyngitis with a murmur (Carey Coombs mid-diastolic murmur) is rheumatic fever.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02550"
+  ],
+  "stem": "Major criteria for rheumatic fever include:",
+  "options": {
+   "A": "Prolonged PR interval",
+   "B": "Fever",
+   "C": "Sinus tachycardia",
+   "D": "Carditis",
+   "E": "Raised ESR"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Major Jones criteria: carditis, polyarthritis, chorea, erythema marginatum, subcutaneous nodules. Fever, raised ESR/CRP and prolonged PR are minor criteria.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02562"
+  ],
+  "stem": "A young girl presents with sore throat and fever (101 F) not responding to antibiotics. She now develops acute pain in various joints. Which investigation will best aid diagnosis?",
+  "options": {
+   "A": "ASO titre",
+   "B": "Rheumatoid factor",
+   "C": "CBC",
+   "D": "Blood culture",
+   "E": "CRP"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "A raised or rising ASO titre documents preceding group A streptococcal infection, essential evidence for rheumatic fever in the Jones criteria.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02970"
+  ],
+  "stem": "A 21-year-old man presents with pyrexia of unknown origin. He gives a history of sore throat a few weeks earlier and has a grade II murmur. Rheumatic fever is suspected. What is the most frequent clinical presentation in rheumatic fever?",
+  "options": {
+   "A": "Migratory polyarthritis",
+   "B": "Carditis",
+   "C": "Subcutaneous nodules",
+   "D": "Skin rash",
+   "E": "Sydenham chorea"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Migratory polyarthritis is the commonest major manifestation (about 75%); carditis occurs in about 50-60%, while nodules, erythema marginatum and chorea are rarer.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02972"
+  ],
+  "stem": "A 17-year-old boy presents with a 7-day history of fever, migratory polyarthritis, carditis and chorea. Which investigation is of choice for this patient?",
+  "options": {
+   "A": "X-ray of joints",
+   "B": "ASO titre",
+   "C": "ESR",
+   "D": "Rheumatoid factor",
+   "E": "Blood cultures"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Rheumatic fever is diagnosed clinically by the Jones criteria with evidence of preceding streptococcal infection; the ASO titre is the key supporting test.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02552"
+  ],
+  "stem": "Eight weeks after insertion of a prosthetic heart valve, a middle-aged woman develops infective endocarditis. What is the most likely causative agent?",
+  "options": {
+   "A": "Streptococcus viridans",
+   "B": "Streptococcus bovis",
+   "C": "Staphylococcus aureus",
+   "D": "Staphylococcus epidermidis",
+   "E": "Streptococcus pyogenes"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Early prosthetic valve endocarditis (within 2 months of surgery) is mainly caused by coagulase-negative staphylococci (S. epidermidis), followed by S. aureus.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02566"
+  ],
+  "stem": "Which of the following features is NOT part of the modified Duke criteria for the diagnosis of infective endocarditis?",
+  "options": {
+   "A": "Prolonged PR interval",
+   "B": "Positive serology for Coxiella burnetii",
+   "C": "Fever above 38 C",
+   "D": "Roth spots",
+   "E": "Splinter haemorrhages"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Prolonged PR interval is a minor criterion of rheumatic fever (Jones), not of Duke. Duke criteria include fever, vascular and immunological phenomena (Roth spots, Osler nodes, glomerulonephritis) and microbiological evidence including Coxiella serology.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02683"
+  ],
+  "stem": "A 70-year-old man with chronic kidney disease develops fever, flank pain and a new murmur. Echocardiography reveals vegetations on the aortic valve and blood cultures grow methicillin-susceptible Staphylococcus aureus. What is the most likely source?",
+  "options": {
+   "A": "Biliary tract infection",
+   "B": "Community-acquired pneumonia",
+   "C": "Contaminated IV catheter",
+   "D": "Dental infection",
+   "E": "Urinary tract infection"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "S. aureus bacteraemia in a CKD patient most often arises from vascular access (dialysis or IV catheter) infection.",
+  "key_note": "Not marked in one source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02684"
+  ],
+  "stem": "A 40-year-old man with a prosthetic valve develops fever and infective endocarditis is suspected. Which initial antibiotic regimen should be started?",
+  "options": {
+   "A": "Cephalosporin plus metronidazole",
+   "B": "Erythromycin plus carbapenem",
+   "C": "Penicillin G plus metronidazole",
+   "D": "Trimethoprim-sulfamethoxazole",
+   "E": "Vancomycin plus gentamicin"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Empirical therapy for prosthetic valve endocarditis must cover MRSA and coagulase-negative staphylococci: vancomycin plus gentamicin (with rifampicin added once cultures are known).",
+  "key_note": "Not marked in one source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02718"
+  ],
+  "stem": "A 32-year-old woman with known rheumatic mitral disease has 2 weeks of fever and malaise after a dental extraction. Examination shows a new regurgitant murmur, splinter haemorrhages and painless palmar lesions. Three separate pre-antibiotic blood cultures grow viridans streptococci. What is the single most likely diagnosis?",
+  "options": {
+   "A": "Culture-negative endocarditis",
+   "B": "Marantic endocarditis",
+   "C": "Infective endocarditis",
+   "D": "Rheumatic fever relapse",
+   "E": "SLE with Libman-Sacks endocarditis"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Fever, new regurgitant murmur, peripheral stigmata (splinters, Janeway lesions) and multiple positive blood cultures for a typical organism confirm infective endocarditis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02754"
+  ],
+  "stem": "A 58-year-old man with prosthetic aortic valve endocarditis due to Staphylococcus aureus remains febrile despite appropriate antibiotics. He develops new PR prolongation and intermittent complete heart block on telemetry. Blood cultures remain positive. What is the most likely complication?",
+  "options": {
+   "A": "Immune complex glomerulonephritis",
+   "B": "Perivalvular abscess with extension to the conduction system",
+   "C": "Splenic infarction",
+   "D": "Mycotic aneurysm of a cerebral artery",
+   "E": "Drug toxicity from antibiotics"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "New conduction block with persistent bacteraemia in aortic valve endocarditis indicates an aortic root (perivalvular) abscess invading the conduction tissue; it is an indication for surgery.",
+  "key_note": "One paper marked E (drug toxicity); correct is B, perivalvular abscess.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02822",
+   "C02854",
+   "C02443"
+  ],
+  "stem": "A 40-year-old woman presents with fever for 6 days. Examination shows Osler nodes and a pansystolic murmur at the apex. What is the most likely diagnosis?",
+  "options": {
+   "A": "Infective endocarditis",
+   "B": "Scarlet fever",
+   "C": "Rheumatic fever",
+   "D": "Systemic lupus erythematosus",
+   "E": "Still disease"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Fever with Osler nodes (painful immunological lesions) and a regurgitant murmur is infective endocarditis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02556"
+  ],
+  "stem": "A 12-year-old girl presents with exertional shortness of breath and palpitations. She has clubbing, cyanosis and a left parasternal heave, with a pansystolic murmur. Chest X-ray shows a boot-shaped heart and decreased peripheral lung markings. What is the diagnosis?",
+  "options": {
+   "A": "Tricuspid atresia",
+   "B": "Ventricular septal defect",
+   "C": "Tetralogy of Fallot",
+   "D": "Patent ductus arteriosus",
+   "E": "Transposition of the great vessels"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Boot-shaped heart (coeur en sabot) with oligaemic lung fields, cyanosis and RV heave is Tetralogy of Fallot.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02744"
+  ],
+  "stem": "A 28-year-old man with a known large ventricular septal defect presents with exertional dyspnoea and cyanosis. He has clubbing, a loud single second heart sound and a soft early systolic murmur compared with childhood records. Haemoglobin is elevated. What is the most likely diagnosis?",
+  "options": {
+   "A": "Progression to severe aortic stenosis",
+   "B": "Eisenmenger syndrome due to pulmonary hypertension with shunt reversal",
+   "C": "Right-to-left shunt from patent foramen ovale",
+   "D": "Primary pulmonary hypertension unrelated to the VSD",
+   "E": "Pulmonary embolism"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "A large left-to-right shunt causes pulmonary hypertension; when pulmonary resistance exceeds systemic the shunt reverses (Eisenmenger), giving cyanosis, clubbing, polycythaemia, a loud P2 and a softer murmur.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02966"
+  ],
+  "stem": "A 2-day-old baby girl becomes cyanosed while feeding and crying and congenital heart disease is suspected. What is the most likely cause?",
+  "options": {
+   "A": "Transposition of the great arteries",
+   "B": "Tetralogy of Fallot",
+   "C": "Patent ductus arteriosus",
+   "D": "Coarctation of the aorta",
+   "E": "Ventricular septal defect"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Transposition of the great arteries is the commonest cyanotic lesion presenting in the first days of life; Tetralogy of Fallot usually presents later, and PDA, VSD and coarctation are acyanotic.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02560",
+   "C02985"
+  ],
+  "stem": "What is the investigation of choice for hypertrophic obstructive cardiomyopathy (HOCM)?",
+  "options": {
+   "A": "Echocardiography",
+   "B": "ECG",
+   "C": "Chest X-ray",
+   "D": "Thallium scan",
+   "E": "Myocardial perfusion scan"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Echocardiography shows asymmetric septal hypertrophy, systolic anterior motion of the mitral valve and the outflow gradient.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02567"
+  ],
+  "stem": "Which of the following would you most likely expect to find on examination of a patient in acute cardiac tamponade?",
+  "options": {
+   "A": "Bradycardia",
+   "B": "Collapsing pulse",
+   "C": "Hypertension",
+   "D": "Displaced apex beat",
+   "E": "Rise in JVP on inspiration"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Tamponade causes tachycardia, hypotension, pulsus paradoxus and a raised JVP that may rise paradoxically on inspiration (Kussmaul sign); the apex beat is impalpable and the pulse is not collapsing.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02746"
+  ],
+  "stem": "A 50-year-old man treated for tuberculous pericarditis presents with progressive breathlessness and abdominal swelling. He has a raised JVP with prominent descents, ascites and hepatomegaly. Echocardiography shows a moderate circumferential pericardial effusion with ventricular interdependence and a non-collapsing IVC. Right heart catheterisation shows persistently raised right atrial pressure after pericardiocentesis. What is the most likely diagnosis?",
+  "options": {
+   "A": "Restrictive cardiomyopathy",
+   "B": "Cardiac tamponade",
+   "C": "Effusive-constrictive pericarditis",
+   "D": "Isolated constrictive pericarditis without effusion",
+   "E": "Severe tricuspid regurgitation"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Failure of right atrial pressure to fall after draining an effusion indicates a constricting visceral pericardium (effusive-constrictive pericarditis), typical of TB.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02967",
+   "C02969"
+  ],
+  "stem": "A 30-year-old woman presents with one day of fever and severe central chest pain that is non-radiating and eases on leaning forward or expiration. A pericardial rub is heard and ECG shows widespread saddle-shaped ST elevation. What is the most likely diagnosis?",
+  "options": {
+   "A": "Pulmonary embolism",
+   "B": "Acute coronary syndrome",
+   "C": "Hypertrophic obstructive cardiomyopathy",
+   "D": "Acute pericarditis",
+   "E": "Infective endocarditis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Pleuritic positional chest pain, a pericardial rub and diffuse concave ST elevation with PR depression are classic for acute pericarditis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03208"
+  ],
+  "stem": "A patient presents with fever and central chest pain. Heart sounds are muffled, ECG shows low-voltage complexes and chest X-ray shows a globular heart. What is the next investigation of choice?",
+  "options": {
+   "A": "Troponin I",
+   "B": "Echocardiography",
+   "C": "Creatine kinase",
+   "D": "B-type natriuretic peptide",
+   "E": "MRI of the heart"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Muffled heart sounds, low voltage and a globular cardiac silhouette suggest pericardial effusion; echocardiography is the investigation of choice.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02445"
+  ],
+  "stem": "A 40-year-old man with no prior disease is diagnosed with essential hypertension. Which lifestyle modification should he adopt?",
+  "options": {
+   "A": "Increased sodium intake",
+   "B": "Continue smoking",
+   "C": "Stop alcohol completely",
+   "D": "Limit physical activity",
+   "E": "Weight reduction"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Weight reduction, salt restriction, regular exercise, reduced alcohol and smoking cessation lower blood pressure. Alcohol should be limited rather than necessarily stopped completely, so weight reduction is the best option.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02563",
+   "C02965"
+  ],
+  "stem": "Which of the following retinal changes in uncontrolled hypertension results from nerve fibre layer ischaemia (soft exudates)?",
+  "options": {
+   "A": "Retinitis obliterans",
+   "B": "Cotton wool spots",
+   "C": "Optic atrophy",
+   "D": "Dot and blot haemorrhages",
+   "E": "None of the above"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Cotton wool spots are soft exudates caused by ischaemic infarcts of the retinal nerve fibre layer; dot and blot lesions are haemorrhages.",
+  "key_note": "No answer marked in one paper; two others marked B. Answer B by reviewer (arteriolar narrowing is the commonest sign overall but is not listed).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02671"
+  ],
+  "stem": "A 35-year-old woman presents with severe headache, blurred vision and bilateral lower limb weakness. Her blood pressure is 220/140 mmHg. Laboratory tests show renal impairment and urinalysis shows haematuria and proteinuria. What is the most likely diagnosis?",
+  "options": {
+   "A": "Hypertensive emergency (malignant hypertension)",
+   "B": "Acute interstitial nephritis",
+   "C": "Chronic kidney disease",
+   "D": "Polyarteritis nodosa",
+   "E": "Phaeochromocytoma"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Severe hypertension with headache, visual disturbance and acute renal injury is malignant hypertension (hypertensive emergency with end-organ damage).",
+  "key_note": "One copy's margin letter pointed to phaeochromocytoma; correct is malignant hypertension.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02982",
+   "C03211"
+  ],
+  "stem": "Which of the following blood pressure readings is normal (and ideal for a patient with diabetes or ischaemic heart disease)?",
+  "options": {
+   "A": "200/120 mmHg",
+   "B": "60/40 mmHg",
+   "C": "80/40 mmHg",
+   "D": "170/100 mmHg",
+   "E": "120/80 mmHg"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Normal BP is about 120/80 mmHg; target in diabetes or IHD is below 130/80 mmHg. The other values represent hypotension or severe hypertension.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02568"
+  ],
+  "stem": "A 40-year-old obese man presents to the ED with severe chest pain. His chest X-ray is unremarkable and ECG shows sinus tachycardia. He is a heavy smoker and has recently returned from a holiday in Florida. He is tachycardic and his respiratory rate is 32/min. Which is the best next investigation?",
+  "options": {
+   "A": "C-reactive protein",
+   "B": "Creatine kinase",
+   "C": "Echocardiography",
+   "D": "Troponin levels",
+   "E": "CT pulmonary angiography of the chest"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Chest pain, tachycardia and tachypnoea after long-haul travel with a normal chest X-ray suggests pulmonary embolism; with high pretest probability CT pulmonary angiography is the diagnostic investigation.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [],
+  "stem": "A 20-year-old man presents to the ED with severe chest pain. His chest X-ray is unremarkable and ECG shows sinus tachycardia. He is a heavy smoker and has recently returned from a holiday in Florida. He is tachycardic with a respiratory rate of 32/min. Which is the best next investigation?",
+  "options": {
+   "A": "C-reactive protein",
+   "B": "Creatine kinase",
+   "C": "D-dimer",
+   "D": "Troponin levels",
+   "E": "Chest X-ray"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Recent long-haul travel with chest pain, tachycardia and tachypnoea suggests pulmonary embolism. D-dimer is the first screening test (negative result excludes PE in a low-probability patient); confirm with CTPA if raised.",
+  "key_note": "Variant of the PE question with different options (that paper marked D-dimer).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02572"
+  ],
+  "stem": "A patient presents with abdominal pain and on examination has a pulsatile mass in the middle of the abdomen. What is the best investigation?",
+  "options": {
+   "A": "Erect abdominal X-ray",
+   "B": "USG abdomen and pelvis",
+   "C": "Coeliac angiography",
+   "D": "CT scan abdomen with contrast",
+   "E": "MRI abdomen and pelvis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A painful pulsatile abdominal mass suggests an abdominal aortic aneurysm; contrast CT (CT angiography) defines size, extent and rupture and is the best investigation. Ultrasound is the screening tool.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02751"
+  ],
+  "stem": "A 70-year-old man with atrial fibrillation develops sudden severe pain in the left leg at rest. The limb is pale, cold and pulseless below the femoral artery with reduced sensation distally. There is no history of trauma. What is the most likely diagnosis?",
+  "options": {
+   "A": "Acute deep vein thrombosis",
+   "B": "Acute arterial occlusion (acute limb ischaemia)",
+   "C": "Sciatic nerve compression",
+   "D": "Cellulitis",
+   "E": "Popliteal cyst rupture"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "The six Ps (pain, pallor, pulselessness, paraesthesia, paralysis, perishing cold) after an embolus from AF indicate acute limb ischaemia.",
+  "key_note": "",
+  "figure": ""
+ }
+]

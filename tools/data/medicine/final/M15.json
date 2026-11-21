@@ -1,0 +1,1221 @@
+[
+ {
+  "cids": [
+   "C00169"
+  ],
+  "stem": "The calorific value of 1 gram of protein is 4 kcal (17 kJ). How many calories are in 1 gram of fat?",
+  "options": {
+   "A": "5 kcal/17 kJ/g",
+   "B": "7 kcal/29 kJ/g",
+   "C": "9 kcal/37 kJ/g",
+   "D": "12 kcal/46 kJ/g",
+   "E": "19 kcal/75 kJ/g"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Fat gives about 9 kcal (37 kJ) per gram, more than twice carbohydrate or protein (about 4 kcal/g); alcohol gives 7 kcal/g.",
+  "key_note": "Source stem gave protein as 5 kcal/g; the standard value is about 4 kcal/g, stem corrected. Answer C in all papers.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02688"
+  ],
+  "stem": "What is the normal BMI range in a young adult female?",
+  "options": {
+   "A": "18.5-24.9",
+   "B": "25.0-29.9",
+   "C": "30.0-34.9",
+   "D": "35.0-39.9",
+   "E": "40.0-45.9"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Normal BMI is 18.5-24.9 kg/m2; 25-29.9 is overweight and 30 or above is obese.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03116"
+  ],
+  "stem": "What is a complication of malnutrition, i.e. BMI below 18?",
+  "options": {
+   "A": "Osteoporosis",
+   "B": "Diabetes mellitus",
+   "C": "Malignancies",
+   "D": "Hypothyroidism",
+   "E": "Polycythaemia"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Low body weight and low oestrogen and nutrient intake reduce bone mass, so osteoporosis is a recognised complication of malnutrition.",
+  "key_note": "One copy's printed key gave D (hypothyroidism); the marked answer A (osteoporosis) is correct.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00734"
+  ],
+  "stem": "One of the recognised causes of involuntary weight loss is:",
+  "options": {
+   "A": "Irritable bowel syndrome",
+   "B": "Asthma",
+   "C": "Antibiotic therapy",
+   "D": "Depression",
+   "E": "Migraine"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Depression reduces appetite and is a common non-malignant cause of unintentional weight loss, alongside cancer, thyrotoxicosis, diabetes and chronic infection.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02582",
+   "C02874"
+  ],
+  "stem": "A 75-year-old woman is admitted with confusion and weight loss. Her dietary intake has fallen significantly because of dental problems and social isolation. What is the most appropriate next step in management?",
+  "options": {
+   "A": "Administer total parenteral nutrition (TPN)",
+   "B": "Administer IV normal saline",
+   "C": "Pass an NG tube and initiate enteral feed after caloric assessment",
+   "D": "Perform feeding jejunostomy for enteral feeding",
+   "E": "Start lipofundin infusion only"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "If the gut works but oral intake is inadequate, enteral feeding by NG tube after nutritional assessment is preferred to parenteral nutrition, introduced gradually to avoid refeeding syndrome.",
+  "key_note": "Another paper listed the options differently and marked oral supplementation after caloric assessment; best answer here is NG enteral feeding after caloric assessment.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03163"
+  ],
+  "stem": "A 70-year-old man is paralysed after a cerebrovascular accident. He has been bed ridden and comatose for the last 6 months. What is the best way to feed this patient?",
+  "options": {
+   "A": "Orally",
+   "B": "Nasogastric tube",
+   "C": "Orogastric tube",
+   "D": "PEG tube",
+   "E": "Intravenously"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "For enteral feeding needed beyond 4 weeks, a percutaneous endoscopic gastrostomy (PEG) is preferred to a nasogastric tube.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03165"
+  ],
+  "stem": "A patient with chronic liver disease develops ascites and a very low serum albumin. Which of the following food sources is rich in albumin?",
+  "options": {
+   "A": "Eggs",
+   "B": "Rice",
+   "C": "Wheat",
+   "D": "Bananas",
+   "E": "Apples"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Egg white (albumin) is a rich, high-biological-value protein source; the other foods are mainly carbohydrate.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01525"
+  ],
+  "stem": "Which of the following is a micronutrient absorbed from the gastrointestinal tract?",
+  "options": {
+   "A": "Amino acids",
+   "B": "Fatty acids",
+   "C": "Disaccharides",
+   "D": "Cyanocobalamin",
+   "E": "Cholesterol"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Vitamins and minerals are micronutrients; cyanocobalamin (vitamin B12) is absorbed in the terminal ileum. The others are macronutrients.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01092"
+  ],
+  "stem": "Fat-soluble vitamins include:",
+  "options": {
+   "A": "Vitamin A and C",
+   "B": "Vitamin A, B and K",
+   "C": "Vitamin A, D, E and K",
+   "D": "Vitamin B and C"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "The fat-soluble vitamins are A, D, E and K; B-complex and C are water soluble.",
+  "key_note": "Source had only 4 options. Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01095"
+  ],
+  "stem": "The natural form of vitamin D (cholecalciferol) is synthesised in:",
+  "options": {
+   "A": "Spleen",
+   "B": "Bone marrow",
+   "C": "Skin",
+   "D": "Lungs",
+   "E": "Thymus"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "7-dehydrocholesterol in the skin is converted to cholecalciferol by UV-B light, then hydroxylated in the liver and kidney.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01096"
+  ],
+  "stem": "Vitamin K is found in adequate amounts in:",
+  "options": {
+   "A": "Green vegetables",
+   "B": "Meat",
+   "C": "Cereals",
+   "D": "Fish oil",
+   "E": "Citrus fruits"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Green leafy vegetables are the richest dietary source of vitamin K1; colonic bacteria make K2.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00170",
+   "C01093"
+  ],
+  "stem": "Which of the following diseases is caused by deficiency of vitamin A?",
+  "options": {
+   "A": "Beriberi",
+   "B": "Scurvy",
+   "C": "Pellagra",
+   "D": "Night blindness",
+   "E": "Anaemia"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Vitamin A forms rhodopsin; deficiency causes night blindness first, then xerophthalmia and keratomalacia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02289",
+   "C01408",
+   "C00736",
+   "C03164"
+  ],
+  "stem": "A young boy has gradual night blindness with dryness of the eyes and Bitot's spots. The most likely vitamin deficiency is:",
+  "options": {
+   "A": "A",
+   "B": "C",
+   "C": "E",
+   "D": "K",
+   "E": "B12"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Bitot's spots are foamy white keratinised conjunctival patches typical of vitamin A deficiency.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00173",
+   "C01773",
+   "C01094"
+  ],
+  "stem": "Beriberi is caused by deficiency of:",
+  "options": {
+   "A": "Vitamin B1 (thiamine)",
+   "B": "Vitamin B6",
+   "C": "Vitamin C",
+   "D": "Vitamin D",
+   "E": "Vitamin B12"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Thiamine is a cofactor for pyruvate dehydrogenase and transketolase; deficiency causes dry (neuropathic) or wet (cardiac) beriberi.",
+  "key_note": "One paper's key marked riboflavin (B) in a variant; correct is thiamine.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02240"
+  ],
+  "stem": "Chronic peripheral neuropathy and Korsakoff's psychosis are features of:",
+  "options": {
+   "A": "Wet beriberi",
+   "B": "Dry beriberi",
+   "C": "Scurvy",
+   "D": "Pellagra",
+   "E": "Kwashiorkor"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Dry beriberi is the neuropathic form of thiamine deficiency and is associated with Wernicke-Korsakoff syndrome, whereas wet beriberi presents with high-output heart failure.",
+  "key_note": "Marked B in one paper, unmarked in another.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00747"
+  ],
+  "stem": "A 40-year-old alcoholic presents with generalised body swelling and shortness of breath. He is pale, with periorbital puffiness, pedal oedema and bilateral basal crepitations. What is the most likely deficiency?",
+  "options": {
+   "A": "Folate deficiency",
+   "B": "Thiamine deficiency",
+   "C": "Riboflavin deficiency",
+   "D": "Niacin deficiency",
+   "E": "Zinc deficiency"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Oedema with breathlessness in a malnourished alcoholic suggests wet beriberi, a high-output cardiac failure from thiamine deficiency.",
+  "key_note": "One paper bold-marked the first option (folate) after options were reordered; correct is thiamine.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00709"
+  ],
+  "stem": "A 55-year-old man with alcohol dependence is admitted with impaired consciousness, paralysis of the external rectus (lateral rectus) and peripheral polyneuropathy. Which vitamin deficiency is most likely responsible?",
+  "options": {
+   "A": "Vitamin A",
+   "B": "Vitamin B1",
+   "C": "Vitamin D",
+   "D": "Vitamin E",
+   "E": "Vitamin K"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Confusion, ophthalmoplegia and ataxia are Wernicke's encephalopathy from thiamine deficiency.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02871"
+  ],
+  "stem": "A 40-year-old man presents with confusion, difficulty walking and ocular disturbances for 1 week. He has chronic alcoholism and poor nutritional intake. What is the most appropriate immediate treatment?",
+  "options": {
+   "A": "High-dose vitamin C",
+   "B": "Intravenous B12",
+   "C": "Intravenous folic acid",
+   "D": "Oral glucose",
+   "E": "Thiamine supplementation"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "This is Wernicke's encephalopathy; give parenteral thiamine immediately, before glucose, which can precipitate or worsen it.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00750"
+  ],
+  "stem": "A 30-year-old labourer with poor eating habits has recurrent stomatitis, cheilosis, angular stomatitis and glossitis. Deficiency of which vitamin is most likely?",
+  "options": {
+   "A": "Niacin",
+   "B": "Thiamine",
+   "C": "Pyridoxine",
+   "D": "Vitamin K",
+   "E": "Riboflavin"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Cheilosis, angular stomatitis and glossitis are the classic features of riboflavin (B2) deficiency.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01326"
+  ],
+  "stem": "A patient with chronic diarrhoea has angular stomatitis and glossitis. The most likely cause of these signs is deficiency of:",
+  "options": {
+   "A": "Folic acid",
+   "B": "Iron",
+   "C": "Proteins",
+   "D": "Thiamine",
+   "E": "Pyridoxine"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Angular stomatitis and glossitis are classic signs of iron deficiency and of B-vitamin (riboflavin, folate, B12) deficiency in malabsorption; iron is the answer marked in the source.",
+  "key_note": "Source marked iron; riboflavin was not offered, and folate is also plausible with malabsorption.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00751"
+  ],
+  "stem": "A 45-year-old lean man has lassitude, loss of appetite, emotional disturbance and intermittent diarrhoea for a few months. He has an erythematous, sunburn-like rash on the chest and extremities. What is the most likely diagnosis?",
+  "options": {
+   "A": "Drug reaction",
+   "B": "Hartnup disease",
+   "C": "Pemphigus vulgaris",
+   "D": "Pellagra",
+   "E": "Porphyria cutanea tarda"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Dermatitis on sun-exposed areas, diarrhoea and neuropsychiatric symptoms (dementia) are the three Ds of pellagra from niacin deficiency.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02869",
+   "C03161",
+   "C02242"
+  ],
+  "stem": "A 45-year-old man with alcoholism presents with diarrhoea and confusion for 6 days. His skin is dry and scaly (photosensitive rash). Which vitamin deficiency is most likely?",
+  "options": {
+   "A": "Methylcobalamin",
+   "B": "Niacin",
+   "C": "Pyridoxine",
+   "D": "Riboflavin",
+   "E": "Thiamine"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Dermatitis, diarrhoea and dementia define pellagra, caused by niacin deficiency (alcoholism, maize diets, carcinoid, isoniazid).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01476"
+  ],
+  "stem": "Deficiency of the B vitamins is associated with which of the following diagnoses?",
+  "options": {
+   "A": "Niacin: pellagra",
+   "B": "Pyridoxine: isoniazid-induced peripheral neuropathy",
+   "C": "Pyridoxine: haemolytic anaemia",
+   "D": "Riboflavin: stomatitis",
+   "E": "Riboflavin: cheilosis"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Niacin deficiency causes pellagra. Pyridoxine deficiency causes neuropathy and sideroblastic (not haemolytic) anaemia.",
+  "key_note": "Several options are partly true (B, D, E); the paper marked A as the clean pairing, which is retained.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01098"
+  ],
+  "stem": "Deficiency of vitamin C leads to:",
+  "options": {
+   "A": "Megaloblastic anaemia",
+   "B": "Neural tube defects",
+   "C": "Poor wound healing and gum bleeding",
+   "D": "Bone fractures",
+   "E": "Blindness"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Vitamin C is needed for collagen hydroxylation; deficiency causes scurvy with perifollicular haemorrhage, bleeding gums and impaired wound healing.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01477"
+  ],
+  "stem": "Which statement is INCORRECT about vitamin C deficiency?",
+  "options": {
+   "A": "Impaired wound healing",
+   "B": "Perifollicular haemorrhages",
+   "C": "Bleeding gums",
+   "D": "Muscle pains",
+   "E": "Macrocytosis"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Scurvy gives poor healing, perifollicular haemorrhages, bleeding gums and myalgia; macrocytosis is not a feature (anaemia, if present, is usually normocytic or microcytic).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00748"
+  ],
+  "stem": "A 64-year-old woman has multiple non-healing leg ulcers and has felt unwell for many months. BP is 130/80 mmHg, she has pale conjunctivae, poor dentition and gum bleeding. What is the most likely diagnosis?",
+  "options": {
+   "A": "Thyrotoxicosis",
+   "B": "Vitamin B12 deficiency",
+   "C": "Vitamin C deficiency",
+   "D": "Diabetes mellitus",
+   "E": "Sarcoidosis"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Bleeding gums, poor wound healing and perifollicular bleeding with anaemia in an elderly person with poor diet point to scurvy.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01454",
+   "C02870"
+  ],
+  "stem": "A 60-year-old homeless man has poor oral hygiene and bleeding gums. He is conscious and oriented with normal gait. Hb is 11.5 g/dL, platelets 150 and MCV 77.5 fL. Which vitamin deficiency is likely?",
+  "options": {
+   "A": "Vitamin B1",
+   "B": "Folic acid",
+   "C": "Vitamin B6",
+   "D": "Vitamin B12",
+   "E": "Vitamin C"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Bleeding gums with poor diet indicate vitamin C deficiency; the anaemia is often microcytic or normocytic because of bleeding and impaired iron handling.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01342"
+  ],
+  "stem": "A 25-year-old female model has rough, bumpy skin, easy bruisability and petechiae. The likely diagnosis is:",
+  "options": {
+   "A": "Idiopathic thrombocytopenic purpura",
+   "B": "Von Willebrand disease",
+   "C": "Scurvy",
+   "D": "Vitamin K deficiency",
+   "E": "Eczema"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Follicular hyperkeratosis with perifollicular petechiae and bruising and a poor diet suggest scurvy; ITP would show a low platelet count.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00171"
+  ],
+  "stem": "A 45-year-old man underwent total colectomy for ulcerative colitis. He can develop deficiency of which vitamin?",
+  "options": {
+   "A": "A",
+   "B": "B6",
+   "C": "B12",
+   "D": "C",
+   "E": "K"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Colonic bacteria synthesise vitamin K2, and loss of the colon can reduce it, so vitamin K is the answer marked in the corrected papers. B12 is absorbed in the terminal ileum, which is preserved.",
+  "key_note": "One copy highlighted C (B12) but the green correction marked E (vitamin K); E retained. Clinically significant deficiency is uncommon.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01772"
+  ],
+  "stem": "A 34-year-old woman has generalised body aches, joint pain and difficulty standing up from a sitting position, with proximal muscle weakness. What is the likely vitamin deficiency?",
+  "options": {
+   "A": "Vitamin K",
+   "B": "Vitamin D",
+   "C": "Vitamin C",
+   "D": "Vitamin A",
+   "E": "Vitamin B12"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Bone pain with proximal myopathy is the picture of osteomalacia from vitamin D deficiency.",
+  "key_note": "Source papers marked E (vitamin B12); correct is B (vitamin D), as proximal myopathy with bone pain is osteomalacia.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02583"
+  ],
+  "stem": "A 45-year-old man has muscle weakness and bone pains for 3 months. He is unemployed and mostly stays at home. Serum 25-hydroxyvitamin D is 5 ng/mL. What is the most appropriate management?",
+  "options": {
+   "A": "Oral omega-3 fatty acids",
+   "B": "Increase dietary calcium intake",
+   "C": "Intravenous calcium administration",
+   "D": "Oral vitamin D supplementation",
+   "E": "Start bisphosphonates"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Severe vitamin D deficiency with osteomalacia is treated with oral vitamin D (cholecalciferol) with calcium; bisphosphonates are contraindicated until corrected.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02241",
+   "C02288"
+  ],
+  "stem": "Neural tube defects can be prevented by maternal supplementation with:",
+  "options": {
+   "A": "Iron",
+   "B": "Vitamin A",
+   "C": "Calcium",
+   "D": "Folic acid",
+   "E": "Vitamin B12"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Periconceptional folic acid (400 micrograms daily, 4-5 mg if previously affected pregnancy) reduces neural tube defects; folate deficiency in pregnancy is linked to NTDs rather than ASD, VSD or cleft palate.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00174"
+  ],
+  "stem": "Deficiency of which mineral results in acrodermatitis enteropathica?",
+  "options": {
+   "A": "Fluoride",
+   "B": "Selenium",
+   "C": "Iron",
+   "D": "Zinc",
+   "E": "Copper"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Acrodermatitis enteropathica is an inherited or acquired zinc malabsorption causing periorificial dermatitis, alopecia and diarrhoea.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00172",
+   "C01448",
+   "C02173"
+  ],
+  "stem": "Kayser-Fleischer rings are seen in the eyes of patients with Wilson's disease. Which metal is associated with this condition?",
+  "options": {
+   "A": "Zinc",
+   "B": "Iron",
+   "C": "Copper",
+   "D": "Selenium",
+   "E": "Fluoride"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Wilson's disease is an autosomal recessive defect of ATP7B causing copper accumulation in liver, brain and cornea (Descemet membrane).",
+  "key_note": "Source had only 4 options.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00959"
+  ],
+  "stem": "The aetiology of familial hypercholesterolaemia is:",
+  "options": {
+   "A": "Sedentary lifestyle",
+   "B": "Genetic predisposition",
+   "C": "Excessive smoking",
+   "D": "Excessive sugar intake",
+   "E": "Excessive red meat intake"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Familial hypercholesterolaemia is an autosomal dominant disorder (LDL receptor, ApoB or PCSK9 mutations) causing very high LDL from birth.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01303"
+  ],
+  "stem": "Which of the following is NOT a clinical manifestation of hyperlipidaemia?",
+  "options": {
+   "A": "Xanthelasma",
+   "B": "Xanthoma",
+   "C": "Eruptive xanthomas",
+   "D": "Tophi",
+   "E": "Chylous serum"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Xanthelasma, tendon and eruptive xanthomas and lipaemic serum reflect lipid disorders; tophi are urate deposits of gout.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00770"
+  ],
+  "stem": "A 58-year-old woman, hypertensive and diabetic with morbid obesity, has a fasting LDL of 167 mg/dL and triglycerides of 200 mg/dL. Which of the following is associated with this condition?",
+  "options": {
+   "A": "Hyperthyroidism",
+   "B": "Rise in amylase levels",
+   "C": "Raised albumin",
+   "D": "Raised uric acid levels",
+   "E": "Endometriosis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Obesity, diabetes and dyslipidaemia form the metabolic syndrome, which is associated with hyperuricaemia from insulin resistance. Hypothyroidism, not hyperthyroidism, causes dyslipidaemia.",
+  "key_note": "Papers marked B (amylase, via pancreatitis risk) and one copy circled D; at triglycerides of only 200 mg/dL pancreatitis is not expected, so D is the better answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02325"
+  ],
+  "stem": "A 50-year-old man has LDL cholesterol 190 mg/dL and total cholesterol 250 mg/dL, with a sedentary lifestyle and a diet high in saturated fat. Which of the following should be the first recommendation?",
+  "options": {
+   "A": "Begin omega-3 fatty acid supplementation",
+   "B": "Increase physical activity and adopt a heart-healthy diet",
+   "C": "Schedule a follow-up lipid profile in six months",
+   "D": "Start both statins and fibrates",
+   "E": "Start statin monotherapy"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Lifestyle modification (diet, exercise, weight loss) is the first step in managing hyperlipidaemia, with a statin added according to risk.",
+  "key_note": "Marked B in the source; note that very high LDL (190 or more) usually also warrants a statin in practice.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01463"
+  ],
+  "stem": "The drug of choice for hypertriglyceridaemia is:",
+  "options": {
+   "A": "Fibrates",
+   "B": "Statins",
+   "C": "Probucol",
+   "D": "Fish oil",
+   "E": "Ezetimibe"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Fibrates (fenofibrate, gemfibrozil) are the drugs of choice for hypertriglyceridaemia; statins mainly lower LDL cholesterol.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01230"
+  ],
+  "stem": "Which of the following diseases is NOT related to high concentrations of homocysteine?",
+  "options": {
+   "A": "Ischaemic heart disease",
+   "B": "Pulmonary embolism",
+   "C": "Varicose veins",
+   "D": "Stroke",
+   "E": "Thrombosis"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Hyperhomocysteinaemia promotes endothelial injury and thrombosis, causing arterial and venous thromboembolism, but not varicose veins.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00529"
+  ],
+  "stem": "Which of the following represents a sex-linked recessive pattern of inheritance?",
+  "options": {
+   "A": "Huntington's disease",
+   "B": "Alzheimer's disease",
+   "C": "Haemophilia",
+   "D": "Albinism",
+   "E": "Fragile-X syndrome"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Haemophilia A and B are X-linked recessive. Huntington's is autosomal dominant and albinism autosomal recessive; fragile X is X-linked with a trinucleotide repeat.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01662"
+  ],
+  "stem": "In a hereditary disorder that is X-linked recessive, what would be the most likely inheritance pattern?",
+  "options": {
+   "A": "Affected father may transmit the disease to his son",
+   "B": "Disease can manifest in both males and females",
+   "C": "Females are the carriers and males are the patients",
+   "D": "Males are the carriers and females are the patients",
+   "E": "Risk of a female carrier having an affected child is 50%"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "In X-linked recessive disease, carrier mothers transmit it to half of their sons; there is no male-to-male transmission. Of the options, the classic statement is that females are carriers and males are affected.",
+  "key_note": "Marked C in the source; E is a loosely true statement (50% of sons affected, 25% of all children).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00742"
+  ],
+  "stem": "A 12-year-old boy is diagnosed with haemophilia after investigation for haemarthrosis. Which relative is most likely to have the same condition?",
+  "options": {
+   "A": "Father",
+   "B": "Mother",
+   "C": "Mother's brother",
+   "D": "Father's brother",
+   "E": "Father's sister"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Haemophilia is X-linked recessive; the boy's X comes from his carrier mother, whose brother may carry the same affected X.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01104"
+  ],
+  "stem": "A family presents with a genetic disease. The father has the disease but the mother is normal. On investigation the sons are affected and the daughters are healthy. This disease is likely to be:",
+  "options": {
+   "A": "Autosomal recessive",
+   "B": "Autosomal dominant",
+   "C": "Sex-linked recessive",
+   "D": "Sex-linked dominant"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "The intended answer is sex-linked recessive, with affected males and unaffected (carrier) females.",
+  "key_note": "Not marked in the source paper; answer by reviewer. The stem is imperfect: strict father-to-son transmission would suggest Y-linked inheritance, and X-linked recessive sons need a carrier mother. C is the best of the options given.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00530"
+  ],
+  "stem": "Which of the following diseases is an example of a point mutation?",
+  "options": {
+   "A": "Thalassaemia",
+   "B": "Sickle cell anaemia",
+   "C": "Down's syndrome",
+   "D": "Night blindness",
+   "E": "Skeletal dysplasia"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Sickle cell disease results from a single-base substitution (GAG to GTG) replacing glutamic acid by valine at position 6 of the beta-globin chain.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01101"
+  ],
+  "stem": "A patient with a genetic disorder is found to have an extra digit. This finding is called:",
+  "options": {
+   "A": "Brachydactyly",
+   "B": "Polydactyly",
+   "C": "Arachnodactyly",
+   "D": "Clinodactyly",
+   "E": "Monodactyly"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Polydactyly means extra digits; arachnodactyly is long spidery fingers (Marfan) and clinodactyly is incurving of the little finger.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01103"
+  ],
+  "stem": "A female patient presents with a breast lump. The genetic risk of breast carcinoma is associated with which of the following?",
+  "options": {
+   "A": "BRCA-1",
+   "B": "RB1 gene",
+   "C": "Alpha-fetoprotein",
+   "D": "HLA-B27",
+   "E": "CA-125"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "BRCA-1 mutations confer a high lifetime risk of breast and ovarian cancer; AFP, HLA-B27 and CA-125 are not genetic risk markers of breast cancer.",
+  "key_note": "Not marked in the source paper; answer by reviewer. BRCA-2 is also correct, BRCA-1 is the usual intended answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01100"
+  ],
+  "stem": "A patient is diagnosed with Down's syndrome on the basis of craniofacial features. Down's syndrome is a:",
+  "options": {
+   "A": "Chromosomal disorder",
+   "B": "Autosomal disorder",
+   "C": "Infectious disease",
+   "D": "Connective tissue disease",
+   "E": "Autoimmune disease"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Down's syndrome is a chromosomal disorder, usually trisomy 21 from non-disjunction.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02586",
+   "C03183"
+  ],
+  "stem": "A woman delivers a baby with multiple congenital anomalies and characteristic facies consistent with Down's syndrome. What is the most common chromosomal abnormality associated with it?",
+  "options": {
+   "A": "Monosomy 18",
+   "B": "Monosomy 21",
+   "C": "Trisomy 13",
+   "D": "Trisomy 16",
+   "E": "Trisomy 21"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "About 95% of Down's syndrome is free trisomy 21 from maternal meiotic non-disjunction, with risk rising with maternal age.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00877"
+  ],
+  "stem": "Down's syndrome is associated with:",
+  "options": {
+   "A": "Poor prognosis",
+   "B": "Mentally alert",
+   "C": "Characteristic facies",
+   "D": "Trisomy 19 in 95% of patients",
+   "E": "Absent simian crease"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Down's syndrome has typical facies (flat face, upslanting palpebral fissures, epicanthic folds), intellectual disability and a simian crease; the chromosome is 21, not 19.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00880"
+  ],
+  "stem": "Features of Turner syndrome include:",
+  "options": {
+   "A": "Karyotype 46,XX",
+   "B": "Karyotype 45,X",
+   "C": "Tall stature",
+   "D": "Early menarche",
+   "E": "Late menopause"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Turner syndrome is 45,X with short stature, streak ovaries, primary amenorrhoea and early ovarian failure.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03186"
+  ],
+  "stem": "The syndrome in which each somatic cell contains an additional X chromosome (XXY) is called:",
+  "options": {
+   "A": "Down's syndrome",
+   "B": "Super female syndrome",
+   "C": "Turner's syndrome",
+   "D": "Klinefelter's syndrome",
+   "E": "Fragile X syndrome"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Klinefelter syndrome is 47,XXY.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00869"
+  ],
+  "stem": "Klinefelter's syndrome has which of the following features?",
+  "options": {
+   "A": "Karyotype is 46,XXY",
+   "B": "Testes are small with abnormal seminiferous tubules",
+   "C": "Mental retardation may occur",
+   "D": "Gynaecomastia is uncommon",
+   "E": "Stature is short"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Klinefelter's (47,XXY) causes small firm testes with hyalinised seminiferous tubules, tall stature, gynaecomastia and infertility; mild learning difficulty may occur.",
+  "key_note": "Both papers marked C (mental retardation may occur), which is true but only occasionally; B is the classic definite feature. Karyotype in the source was misprinted as 40,XXY.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01108"
+  ],
+  "stem": "Which of the following statements is correct about Klinefelter's syndrome?",
+  "options": {
+   "A": "Excessive hair growth",
+   "B": "Short stature",
+   "C": "Gynaecomastia",
+   "D": "Abnormal since birth",
+   "E": "Phenotypically female"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Gynaecomastia is common in Klinefelter's syndrome; patients are phenotypic males who are tall with sparse body hair and small testes.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00733"
+  ],
+  "stem": "A 14-year-old tall boy presents with gynaecomastia and absent secondary sexual characteristics. What is your diagnosis?",
+  "options": {
+   "A": "Marfan's syndrome",
+   "B": "Klinefelter's syndrome",
+   "C": "Turner's syndrome",
+   "D": "Ehlers-Danlos syndrome",
+   "E": "Down's syndrome"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Tall stature, gynaecomastia and hypogonadism in a male are typical of Klinefelter's syndrome (47,XXY).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00741"
+  ],
+  "stem": "An 18-year-old male, 1.77 m tall, presents with delayed puberty, scanty pubic hair and reduced testicular volume. Testosterone is 6.7 nmol/L (reference 9-30), LH 3.1 (3-10) and FSH 5.7 (3-10). What is the most likely diagnosis?",
+  "options": {
+   "A": "Klinefelter's syndrome",
+   "B": "Acute lymphoblastic leukaemia",
+   "C": "Testicular feminisation syndrome",
+   "D": "Primary testicular failure",
+   "E": "Kallmann's syndrome"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Tall stature with small testes and low testosterone points to Klinefelter's syndrome, the answer marked in the source papers.",
+  "key_note": "Marked A in the source papers; the unraised LH and FSH are atypical for Klinefelter's (usually high) and would favour Kallmann's syndrome, but A is retained as the standard exam answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02875"
+  ],
+  "stem": "A 12-year-old boy has progressive muscle weakness, difficulty climbing stairs and frequent falls for 2 years, and needs help to stand up. Genetic testing confirms a mutation for Duchenne muscular dystrophy. What is the most likely mechanism of inheritance?",
+  "options": {
+   "A": "Autosomal dominant",
+   "B": "Autosomal recessive",
+   "C": "Mitochondrial inheritance",
+   "D": "X-linked recessive",
+   "E": "Y-linked inheritance"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Duchenne muscular dystrophy is an X-linked recessive dystrophin gene disorder affecting boys.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02877"
+  ],
+  "stem": "A 12-year-old boy has progressive muscle weakness and difficulty keeping up with peers. There is a family history of similar weakness. Genetic testing shows a deletion in the dystrophin gene. Which type of muscular dystrophy is most likely?",
+  "options": {
+   "A": "Becker muscular dystrophy",
+   "B": "Duchenne muscular dystrophy",
+   "C": "Facioscapulohumeral muscular dystrophy",
+   "D": "Limb-girdle muscular dystrophy",
+   "E": "Myotonic dystrophy"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Dystrophin deletions cause Duchenne (frame-shift, absent dystrophin, wheelchair by about 12) or Becker (in-frame, reduced dystrophin, milder course); a boy still keeping up at 12 fits Becker.",
+  "key_note": "Marked A (Becker) in the source; ambiguous, as Duchenne is the commoner dystrophin disorder.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00732"
+  ],
+  "stem": "A young labourer is brought to the ER with sudden shortness of breath while lifting a heavy weight. He has disproportionately tall stature, ectopia lentis and an early systolic murmur at the mitral area. What is your diagnosis?",
+  "options": {
+   "A": "Ehlers-Danlos syndrome",
+   "B": "Homocystinuria",
+   "C": "Marfan syndrome",
+   "D": "Osteogenesis imperfecta",
+   "E": "Down syndrome"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Marfan syndrome: tall, arachnodactyly, upward lens dislocation, mitral valve prolapse and spontaneous pneumothorax. Homocystinuria has downward lens dislocation with thrombosis and learning difficulty.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00744",
+   "C00731"
+  ],
+  "stem": "A 31-year-old man has an echocardiogram showing dilatation of the aortic sinus and mitral valve prolapse. He is tall with pectus excavatum and arachnodactyly. This condition is primarily due to a defect in which protein?",
+  "options": {
+   "A": "Polycystin",
+   "B": "Type IV collagen",
+   "C": "Elastin",
+   "D": "Fibrillin",
+   "E": "Type I collagen"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Marfan syndrome is due to a defect in fibrillin-1 (FBN1 gene, autosomal dominant).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01099"
+  ],
+  "stem": "A 25-year-old man with mitral valve prolapse is suspected by the cardiologist to have Marfan's syndrome. Which finding do you expect on clinical examination?",
+  "options": {
+   "A": "Obesity",
+   "B": "Short stature",
+   "C": "Cataract",
+   "D": "Wide arm span",
+   "E": "Mental retardation"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Marfan syndrome causes tall stature with an arm span exceeding height, arachnodactyly, ectopia lentis and aortic root dilatation; intellect is normal.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00743"
+  ],
+  "stem": "A 23-year-old man has downward dislocation of the lens in the right eye, marfanoid habitus and a history of learning disability. Homocystinuria is suspected. What is the mode of inheritance of this condition?",
+  "options": {
+   "A": "Autosomal recessive",
+   "B": "Autosomal dominant",
+   "C": "X-linked recessive",
+   "D": "X-linked dominant",
+   "E": "Mitochondrial inheritance"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Classic homocystinuria is autosomal recessive (cystathionine beta-synthase deficiency); in contrast to Marfan's it causes downward lens dislocation, thromboses and learning difficulty.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02619"
+  ],
+  "stem": "A 16-year-old male with epilepsy has asymptomatic papular lesions on the face around the nose and mouth, a few hypopigmented patches on the trunk and fibromas under the nails. What is the most likely diagnosis?",
+  "options": {
+   "A": "Acne",
+   "B": "Milia",
+   "C": "Neurofibromatosis type 1",
+   "D": "Tuberous sclerosis",
+   "E": "Vitiligo"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Epilepsy with facial angiofibromas (adenoma sebaceum), ash-leaf hypopigmented macules and periungual fibromas is tuberous sclerosis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03187"
+  ],
+  "stem": "A patient presents with a psychiatric disorder and is suspected to have an inborn error of metabolism. Identify a Mendelian disorder with an inborn error of metabolism from the following:",
+  "options": {
+   "A": "Down's syndrome",
+   "B": "Klinefelter's syndrome",
+   "C": "Turner's syndrome",
+   "D": "Phenylketonuria",
+   "E": "Fragile X syndrome"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Phenylketonuria (phenylalanine hydroxylase deficiency, autosomal recessive) is a Mendelian inborn error that causes intellectual disability and psychiatric features if untreated.",
+  "key_note": "Original option E (alkaptonuria) is also an inborn error of metabolism; replaced by reviewer so only PKU is correct.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01105"
+  ],
+  "stem": "A patient is diagnosed with acute intermittent porphyria, an autosomal dominant disease. Patients with this disease present with:",
+  "options": {
+   "A": "History of high-grade fever",
+   "B": "Leukocytosis on blood count",
+   "C": "Arrhythmias on ECG",
+   "D": "Photosensitive blistering skin lesions",
+   "E": "Acute intermittent abdominal pain"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Acute intermittent porphyria presents with attacks of severe abdominal pain with neuropsychiatric features; there is no skin photosensitivity.",
+  "key_note": "Original option D (motor deficits without sensory loss) is also an AIP feature; replaced by reviewer so only abdominal pain is correct.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02297"
+  ],
+  "stem": "A 28-year-old woman presents while fasting in Ramadan with severe abdominal pain and altered behaviour for 2 days. She had a similar episode in the past while trying to lose weight. Pulse 80/min, BP 110/70 mmHg, temperature 37 C. Examination is unremarkable except for decreased sensation in the feet. Which test will be diagnostic?",
+  "options": {
+   "A": "CT scan brain",
+   "B": "Random blood glucose",
+   "C": "Complete blood picture",
+   "D": "Liver function tests",
+   "E": "Urinary porphobilinogen levels"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Fasting or dieting precipitates acute intermittent porphyria; raised urinary porphobilinogen during an attack is diagnostic.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01497"
+  ],
+  "stem": "The following are prone to infections due to impaired immunity EXCEPT:",
+  "options": {
+   "A": "Diabetic patients",
+   "B": "Patients on steroids",
+   "C": "HIV-positive patients",
+   "D": "Agranulocytic patients",
+   "E": "Hyperlipidaemia patients"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Diabetes, corticosteroids, HIV and agranulocytosis all impair host defences; hyperlipidaemia does not cause significant immunodeficiency.",
+  "key_note": "",
+  "figure": ""
+ }
+]

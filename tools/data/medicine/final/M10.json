@@ -1,0 +1,2819 @@
+[
+ {
+  "cids": [
+   "C01339"
+  ],
+  "stem": "Which of the following statements about the skin is correct?",
+  "options": {
+   "A": "The skin has three layers: epidermis, dermis, subcutis",
+   "B": "Dermis is the outermost layer",
+   "C": "Subcutis contains the nerves and blood vessels of the skin",
+   "D": "Epidermis is a stratified columnar epithelium"
+  },
+  "answer": "A",
+  "explanation": "The skin has three layers: epidermis (stratified squamous keratinising epithelium, outermost), dermis (contains nerves and vessels) and subcutis. Statements B, C and D misplace these features.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01378"
+  ],
+  "stem": "A plaque is:",
+  "options": {
+   "A": "a lesion with burrows",
+   "B": "an area of depigmentation",
+   "C": "a raised, flat-topped lesion more than 1 cm across",
+   "D": "a lesion seen primarily in acne",
+   "E": "an epidermal collection of fluid (vesicle)"
+  },
+  "answer": "C",
+  "explanation": "A plaque is a raised, flat-topped palpable lesion more than 1 cm across (e.g. psoriasis); a patch is a flat colour change, and a vesicle is a small fluid-filled blister.",
+  "key_note": "Source option C was vague (\"a patch of abnormal skin texture\"); reworded by the auditor so it states the standard definition of a plaque.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01217"
+  ],
+  "stem": "The best way to treat atopic eczema is:",
+  "options": {
+   "A": "Avoid known irritants",
+   "B": "Topical steroids",
+   "C": "Oral steroids",
+   "D": "Topical emollients",
+   "E": "Combination of oral steroid with emollients"
+  },
+  "answer": "D",
+  "explanation": "Emollients are the mainstay of atopic eczema management, restoring the barrier and reducing flares; steroids are added for flares and oral steroids are avoided.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01383"
+  ],
+  "stem": "The age of onset in most cases of atopic dermatitis is:",
+  "options": {
+   "A": "5-10 years age",
+   "B": "any age group",
+   "C": "before the age of one year",
+   "D": "11-15 years age",
+   "E": "above 50 years age."
+  },
+  "answer": "C",
+  "explanation": "Atopic dermatitis begins in infancy: about 60% of cases present before the age of 1 year and most by 5 years.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01380"
+  ],
+  "stem": "A patient with a history of asthma presents with red itchy skin. Which statement is correct about this disease?",
+  "options": {
+   "A": "It involves extensor surfaces of elbows and knees",
+   "B": "It involves flexural surfaces of knees and elbows",
+   "C": "It is treated by antibiotics",
+   "D": "It is an autoimmune condition",
+   "E": "It is common in the elderly"
+  },
+  "answer": "B",
+  "explanation": "Atopic eczema (asthma and atopy history) typically affects the flexures (antecubital and popliteal fossae) in older children and adults. It is not an autoimmune disease, is not treated by antibiotics and is commonest in children.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00160"
+  ],
+  "stem": "A 4-year-old boy presents with a rash on his elbow creases, behind the knee, and on his hand. The rash has been worsening over the past few weeks. It causes intense itching and distress. On examination, there is dryness of the skin and redness in the aforementioned areas. What is the first-line most appropriate treatment?",
+  "options": {
+   "A": "Topical clobestasone",
+   "B": "Topical hydrocortisone",
+   "C": "Topical emollients",
+   "D": "Topical fusidic acid",
+   "E": "Topical betamethasone"
+  },
+  "answer": "B",
+  "explanation": "Active atopic eczema in a child needs a mild-potency topical steroid such as hydrocortisone on top of regular emollients; clobetasone and betamethasone are too potent for first-line use in a young child, and fusidic acid is only for infection.",
+  "key_note": "Paper copies marked A (clobetasone) by highlight and B (hydrocortisone) by green correction; B is correct (emollients as the base, mild steroid for the inflamed areas).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01265"
+  ],
+  "stem": "What is the most important measure in the management of venous eczema with ulcers?",
+  "options": {
+   "A": "Antibiotics",
+   "B": "Antihistamines",
+   "C": "Topical steroids",
+   "D": "Compression bandage",
+   "E": "Emollients"
+  },
+  "answer": "D",
+  "explanation": "Venous (gravitational) eczema with ulcers results from venous hypertension; compression therapy corrects it and is the most important measure, with emollients and topical steroids as adjuncts.",
+  "key_note": "Paper key marked Emollients; compression is the most important measure (Davidson).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01222"
+  ],
+  "stem": "Redness, pruritus and swelling of the hands after using a new brand of soap is an example of:",
+  "options": {
+   "A": "Seborrhoeic dermatitis",
+   "B": "Contact dermatitis",
+   "C": "Atopic dermatitis",
+   "D": "Actinic dermatitis",
+   "E": "Drug allergy"
+  },
+  "answer": "B",
+  "explanation": "Redness, itching and swelling of the hands after exposure to a new soap indicates contact (irritant or allergic) dermatitis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01196"
+  ],
+  "stem": "A housewife develops recurrent acute eczematous reaction after she uses a detergent. Which measure will be most pivotal in her management?",
+  "options": {
+   "A": "Absolutely avoiding wet work",
+   "B": "Treatment with steroids for immediate relief",
+   "C": "Frequent use of moisturizers",
+   "D": "Use of barrier creams before washing",
+   "E": "Oral antihistamines"
+  },
+  "answer": "A",
+  "explanation": "Irritant hand dermatitis in a housewife is managed chiefly by removing the cause: avoiding wet work and detergent exposure (with protective gloves). Steroids, emollients and barrier creams are supportive.",
+  "key_note": "Source mark pointed to a stray fragment in option E (junk text from the next question); option E was rewritten and the answer is A.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01195"
+  ],
+  "stem": "A young actress developed a pruritic rash over her neck, forearms and ears after she returned from an engagement party. What is the most likely cause of her rash?",
+  "options": {
+   "A": "Reaction to perfume",
+   "B": "Reaction to copper",
+   "C": "Reaction to nickel",
+   "D": "Reaction to hair spray",
+   "E": "Photodermatitis"
+  },
+  "answer": "C",
+  "explanation": "Rash over the ears, neck and forearms after wearing jewellery (earrings, necklace, bangles) points to nickel contact dermatitis, the commonest contact allergen in women.",
+  "key_note": "Source mark appeared to be B (copper); nickel is the classic jewellery allergen and is the best answer. Option letters were garbled in the source.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01218"
+  ],
+  "stem": "Psoriasis is a common papulosquamous disorder. The most common type is:",
+  "options": {
+   "A": "A Chronic plaque psoriasis",
+   "B": "B. Flexural psoriasis",
+   "C": "Guttate psoriasis",
+   "D": "Erythrodermic psoriasis",
+   "E": "Pustular psoriasis"
+  },
+  "answer": "A",
+  "explanation": "Chronic plaque (psoriasis vulgaris) accounts for about 90% of psoriasis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01221"
+  ],
+  "stem": "Which of the following is not a clinical feature of psoriasis?",
+  "options": {
+   "A": "Arthropathy",
+   "B": "Nail pitting",
+   "C": "Scaly plaque formation",
+   "D": "Photosensitivity",
+   "E": "Pruritus"
+  },
+  "answer": "D",
+  "explanation": "Psoriasis may cause arthropathy, nail pitting, scaly plaques and itch; it usually improves with sunlight rather than showing photosensitivity.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01480"
+  ],
+  "stem": "Regarding psoriasis, all are true EXCEPT:",
+  "options": {
+   "A": "It may start at any age",
+   "B": "It mainly involves flexure surfaces",
+   "C": "It is a non-infectious, chronic inflammation of skin",
+   "D": "It is characterized by well demarcated erythematous silvery scales",
+   "E": "None of the above"
+  },
+  "answer": "B",
+  "explanation": "Psoriasis characteristically involves the extensor surfaces (knees, elbows, scalp, sacrum); flexural (inverse) psoriasis is an uncommon variant.",
+  "key_note": "One paper key marked D; the false statement is B (flexural predominance), as the other key and Davidson state.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01376"
+  ],
+  "stem": "Psoriasis increases in severity in which season?",
+  "options": {
+   "A": "Winter",
+   "B": "autumn",
+   "C": "spring",
+   "D": "summer",
+   "E": "rainy season"
+  },
+  "answer": "A",
+  "explanation": "Psoriasis tends to worsen in cold, dry winter weather and improve with summer sunlight.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00724"
+  ],
+  "stem": "Which of the following statements regarding guttate psoriasis is incorrect?",
+  "options": {
+   "A": "It predominantly affects children and adolescents",
+   "B": "It may be preceded by a streptococcal throat infection",
+   "C": "Clinically it is characterized by large scaly plaques",
+   "D": "Bouts of guttate psoriasis may clear in a few months",
+   "E": "Majority develop plaque psoriasis later in life"
+  },
+  "answer": "C",
+  "explanation": "Guttate psoriasis presents with numerous small drop-like papules (not large plaques), often after streptococcal pharyngitis, in children and young adults.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00155"
+  ],
+  "stem": "A patient with Psoriatic arthropathy is concerned about the appearance of his nails and he has come to you for assessment. What nail changes are not usually seen in psoriasis?",
+  "options": {
+   "A": "Onycholysis",
+   "B": "Oil drop sign",
+   "C": "White nails",
+   "D": "Onychodystrophy",
+   "E": "Subungal hyperkeratosis"
+  },
+  "answer": "C",
+  "explanation": "Psoriatic nails show pitting, oil drop sign, onycholysis, subungual hyperkeratosis and onychodystrophy; white nails (leukonychia) are not typical.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00723",
+   "C00737"
+  ],
+  "stem": "What is onycholysis?",
+  "options": {
+   "A": "Deep grooved lines running side to side on the nail plate",
+   "B": "A longitudinal haemorrhage in the nail bed",
+   "C": "Separation of the nail from the nail bed",
+   "D": "Green discolouration of the nail plate",
+   "E": "A midline ridge in the nail plate"
+  },
+  "answer": "C",
+  "explanation": "Onycholysis is distal separation of the nail plate from the nail bed, seen in psoriasis, fungal infection, thyroid disease and trauma.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01329"
+  ],
+  "stem": "Which of the following is used in the treatment of psoriasis?",
+  "options": {
+   "A": "Antifungals",
+   "B": "Methotrexate",
+   "C": "Aciclovir",
+   "D": "Antimalarials",
+   "E": "Antibiotics"
+  },
+  "answer": "B",
+  "explanation": "Methotrexate is an established systemic treatment for moderate to severe psoriasis. Antifungals, aciclovir, antimalarials (which can aggravate psoriasis) and antibiotics are not used.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01382"
+  ],
+  "stem": "Which is the standard treatment of pustular psoriasis?",
+  "options": {
+   "A": "Hydroxyurea",
+   "B": "Steroids",
+   "C": "Fluconazole",
+   "D": "Thalidomide",
+   "E": "Retinoids"
+  },
+  "answer": "E",
+  "explanation": "Acitretin (a retinoid) is first-line systemic treatment for generalised pustular psoriasis, with methotrexate or ciclosporin as alternatives; systemic steroids are avoided because of severe rebound flares on withdrawal.",
+  "key_note": "Paper key marked B (Steroids); retinoids are the standard answer and systemic steroids are avoided in pustular psoriasis.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00730"
+  ],
+  "stem": "A 55-year-old man presents with a rash. He is a recently diagnosed case of coronary artery disease and is taking aspirin, clopidogrel, metoprolol, ramipril and simvastatin. Erythematous plaques with a silvery scale are seen on the elbows and knees. His identical twin brother has psoriasis. What is the diagnosis?",
+  "options": {
+   "A": "Latent psoriasis precipitated by aspirin",
+   "B": "Latent psoriasis precipitated by ACE inhibitor",
+   "C": "Latent psoriasis precipitated by beta blocker",
+   "D": "Latent psoriasis precipitated by simvastatin",
+   "E": "Psoriasiform drug reaction to clopidogrel"
+  },
+  "answer": "C",
+  "explanation": "Beta blockers (also lithium, antimalarials, NSAIDs) classically unmask or aggravate psoriasis, especially with a family history. Aspirin, ACE inhibitors and statins are less typical triggers.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00715",
+   "C00162",
+   "C02184",
+   "C02891"
+  ],
+  "stem": "years old female presents with 4 months H/O itchy violaceous papular lesions on the anterior aspect of wrists, forearms and lower legs. Examination of the oral cavity reveals a network of white streaks on the buccal mucosa. Nails show ridging, onycholysis and pterygium formation. What is the diagnosis?",
+  "options": {
+   "A": "Lichen planus",
+   "B": "Psoriasis",
+   "C": "Pemphigus vulgaris",
+   "D": "Dermatophyte infection",
+   "E": "Eczema"
+  },
+  "answer": "A",
+  "explanation": "Pruritic violaceous papules on the flexor wrists and shins, Wickham striae on the buccal mucosa and nail ridging with pterygium are diagnostic of lichen planus.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01775"
+  ],
+  "stem": "A 29-year-old woman presents to her GP with dandruff and a rash on her face. On examination there is erythema with fine scaling over the nasal bridge, nasolabial folds, eyebrows and ears, and fine scaling on the scalp. What is the most likely diagnosis?",
+  "options": {
+   "A": "Psoriasis",
+   "B": "Seborrhoeic dermatitis",
+   "C": "Rosacea",
+   "D": "Eczema",
+   "E": "Pityriasis capitis"
+  },
+  "answer": "B",
+  "explanation": "Erythema with fine scaling on the nasolabial folds, eyebrows, ears and scalp (dandruff) is seborrhoeic dermatitis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01338",
+   "C01479"
+  ],
+  "stem": "Which of the following is NOT an aetiological factor of acne?",
+  "options": {
+   "A": "Increased sebum excretion",
+   "B": "Infection with Staphylococcus aureus",
+   "C": "Occlusion of the pilosebaceous unit",
+   "D": "Hormonal changes",
+   "E": "Adolescent age group"
+  },
+  "answer": "B",
+  "explanation": "Acne results from raised sebum, follicular occlusion, hormonal (androgen) influence and Propionibacterium acnes; Staphylococcus aureus infection is not an aetiological factor.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00164"
+  ],
+  "stem": "A 19-year-old woman has severe acne and has been prescribed some medications that she has been taking for over the past few months. She has started having dry throat, dry nose, and frequent nose bleed. Which medication is most likely to have caused the side effects?",
+  "options": {
+   "A": "Oral isotretinoin",
+   "B": "Oral doxycycline",
+   "C": "Topical isotretinoin",
+   "D": "Topical benzoyl peroxide",
+   "E": "Topical doxycycline"
+  },
+  "answer": "A",
+  "explanation": "Oral isotretinoin causes mucocutaneous dryness (dry nose, throat, lips) and epistaxis; it is also teratogenic.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00722",
+   "C00154"
+  ],
+  "stem": "years old diabetic lady presents with 2 months H/O a painful lump on the back of the neck with discharge off and on. O/E a hard, tender lump with discharge of pus from multiple orifices. What is the likely diagnosis?",
+  "options": {
+   "A": "Folliculitis",
+   "B": "Furunculosis",
+   "C": "Cellulitis",
+   "D": "Carbuncle",
+   "E": "Erythrasma"
+  },
+  "answer": "D",
+  "explanation": "A hard, tender lump on the nape of the neck in a diabetic with pus discharging from multiple openings is a carbuncle (Staph aureus), unlike a single-head furuncle.",
+  "key_note": "Merged duplicate note: Paper copy marked C (lichen planus) by highlight and D (carbuncle) by green correction; carbuncle is correct.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01334"
+  ],
+  "stem": "Ecthyma is a",
+  "options": {
+   "A": "Type of contact dermatitis",
+   "B": "Urticarial rash",
+   "C": "Purulent skin infection caused by Staphylococcus",
+   "D": "Auto immune disorder involving skin",
+   "E": "Skin hypersensitivity"
+  },
+  "answer": "C",
+  "explanation": "Ecthyma is a deeper, ulcerative form of impetigo with an adherent crust (streptococcal or staphylococcal); of the options it is a purulent bacterial skin infection.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00165",
+   "C02187"
+  ],
+  "stem": "A 6-year-old child has multiple brown crusted lesions around his mouth and sides of the nose. The lesions initially started as thin-walled vesicles before they crusted. There are satellite lesions that have been spreading to his chin and neck over the past 2 days. They form annular lesions. He does not have a fever. The lesions are mildly itchy. What is the most likely diagnosis?",
+  "options": {
+   "A": "Lupus erythematosus",
+   "B": "Herpes simplex",
+   "C": "Varicella zoster",
+   "D": "Pemphigus vulgaris",
+   "E": "Impetigo"
+  },
+  "answer": "E",
+  "explanation": "Honey-coloured crusting around the mouth and nose following thin-walled vesicles in a child is non-bullous impetigo.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01373"
+  ],
+  "stem": "A child presents with lesions around the oral cavity and on the nose. He is otherwise active and playful, with no fever. Which treatment is suggested?",
+  "options": {
+   "A": "Antibiotics",
+   "B": "Antivirals",
+   "C": "Antifungals",
+   "D": "Corticosteroids",
+   "E": "Laser therapy"
+  },
+  "answer": "A",
+  "explanation": "Perioral and nasal crusted lesions in a well child are most likely impetigo, treated with topical (or oral if widespread) antibiotics.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01344"
+  ],
+  "stem": "A 5-year-old school girl develops rapidly spreading crusted lesions over her face with honey-coloured serum and crusts. Three other children in her class developed the same. What is the treatment?",
+  "options": {
+   "A": "Topical antiviral",
+   "B": "Topical steroids",
+   "C": "Topical antibiotics",
+   "D": "Emollients",
+   "E": "Oral antibiotics"
+  },
+  "answer": "E",
+  "explanation": "Rapidly spreading honey-crusted impetigo affecting several children (outbreak) is treated with antibiotics; oral flucloxacillin is used when widespread, topical fusidic acid or mupirocin when localised.",
+  "key_note": "Options were glued together in the source and were separated by the reviewer; answer kept as marked.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00716"
+  ],
+  "stem": "years old diabetic female presents with 3 days H/O pain in the left leg along with blister formation. O/E the leg is warm, tender with violaceous discolouration and necrosis of the skin. There is H/O road traffic accident 10 days back with injuries to both legs. What is the diagnosis?",
+  "options": {
+   "A": "Staphylococcal scalded skin syndrome",
+   "B": "Necrotizing fasciitis",
+   "C": "Erysipelas",
+   "D": "Impetigo",
+   "E": "Ecthyma"
+  },
+  "answer": "B",
+  "explanation": "Painful warm limb with violaceous discolouration, bullae and skin necrosis after trauma in a diabetic is necrotizing fasciitis, a surgical emergency (pain out of proportion).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00725"
+  ],
+  "stem": "A 38 years old male presents with 3 months H/O non healing lesion on the right mandibular area of the face. O/E he has multiple nodules with ulceration and sinus tracts along the jawline. What is the diagnosis?",
+  "options": {
+   "A": "Tuberculous chance",
+   "B": "Warty tuberculosis",
+   "C": "Scrofuloderma",
+   "D": "Tuberculoid leprosy",
+   "E": "Miliary tuberculosis"
+  },
+  "answer": "C",
+  "explanation": "Nodules with ulceration and sinus tracts over the jaw or neck from underlying lymph node or bone TB is scrofuloderma.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00088"
+  ],
+  "stem": "A 21 year old student develops sudden onset blistering, burning and erosions over his upper lip and adjacent skin after a recent febrile illness. What is the most likely organism involved in the pathogenesis?",
+  "options": {
+   "A": "HPV",
+   "B": "Varicella",
+   "C": "Candida",
+   "D": "Herpes Simplex virus",
+   "E": "Streptococcus"
+  },
+  "answer": "D",
+  "explanation": "Recurrent or primary blistering, burning erosions of the lip after a febrile illness is herpes labialis (HSV-1).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01041"
+  ],
+  "stem": "Grouped vesicles on an erythematous base are a characteristic feature of:",
+  "options": {
+   "A": "Impetigo",
+   "B": "Herpes",
+   "C": "Folliculitis",
+   "D": "Molluscum contagiosum",
+   "E": "Warts"
+  },
+  "answer": "B",
+  "explanation": "Grouped vesicles on an erythematous base are characteristic of herpes simplex or zoster.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00713"
+  ],
+  "stem": "A 67 years old male gives H/O painful eruption on the left leg for 2 days. On examination there are grouped vesicular lesions on the left leg. What is your diagnosis?",
+  "options": {
+   "A": "Herpes simplex",
+   "B": "Bullous insect bite reaction",
+   "C": "Herpes zoster",
+   "D": "Impetigo",
+   "E": "Cellulitis"
+  },
+  "answer": "C",
+  "explanation": "Painful unilateral grouped vesicles in a dermatomal distribution in an older adult is herpes zoster.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01258"
+  ],
+  "stem": "An elderly male presents with a painful acute vesicular eruption over the ophthalmic division of the right trigeminal nerve. What is the treatment?",
+  "options": {
+   "A": "Oral steroids",
+   "B": "Oral antivirals",
+   "C": "Topical antivirals",
+   "D": "Topical steroids with antibiotics",
+   "E": "Supportive treatment"
+  },
+  "answer": "B",
+  "explanation": "Herpes zoster ophthalmicus (V1) needs prompt systemic antiviral therapy (oral aciclovir or valaciclovir) and ophthalmology review to prevent eye complications; topical antivirals are not adequate.",
+  "key_note": "Paper key marked Topical antivirals; oral antivirals are the correct treatment.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01482"
+  ],
+  "stem": "An epidermal growth caused by a virus (wart) is called:",
+  "options": {
+   "A": "Impetigo",
+   "B": "Melanoma",
+   "C": "Naevus",
+   "D": "Verruca",
+   "E": "Folliculitis"
+  },
+  "answer": "D",
+  "explanation": "Warts (verrucae) are epidermal growths caused by human papillomavirus.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00739"
+  ],
+  "stem": "A 53-year-old diabetic woman presents with 3 months of itchy lesions in the toe webspaces. The skin of the webspaces is macerated and white, and the nails show yellow discolouration. What is the likely diagnosis?",
+  "options": {
+   "A": "Tinea faciale",
+   "B": "Tinea corporis",
+   "C": "Tinea pedis",
+   "D": "Tinea manum",
+   "E": "Tinea cruris"
+  },
+  "answer": "C",
+  "explanation": "Macerated white scaling between the toe webspaces with yellow nails in a diabetic is tinea pedis with onychomycosis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01337"
+  ],
+  "stem": "A boy having multiple hypopigmented Macules over the body more involving upper chest, back, upper arms. Macules have mild scaling. On scraping taken from lesion hyphae are seen. Diagnosis in this patient is?",
+  "options": {
+   "A": "Pityriasis alba",
+   "B": "Pityriasis versicolor",
+   "C": "Psoriasis",
+   "D": "Vitiligo"
+  },
+  "answer": "B",
+  "explanation": "Multiple hypopigmented, mildly scaly macules on the upper trunk with hyphae on scraping (spaghetti and meatballs) is pityriasis versicolor (Malassezia).",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01216"
+  ],
+  "stem": "Scabies is an intensely itchy rash caused by the mite Sarcoptes scabiei. Which part of the body is usually spared in adults?",
+  "options": {
+   "A": "Palms",
+   "B": "Soles",
+   "C": "Genitalia",
+   "D": "Axilla",
+   "E": "Face"
+  },
+  "answer": "E",
+  "explanation": "In adults scabies spares the face and scalp; it favours finger webs, wrists, axillae, genitalia and soles (the face is involved in infants).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00159"
+  ],
+  "stem": "A 58-year-old man attends the GP with C/O severe itching on his upper trunk for the past 2 days. There are obvious excoriations and burrows on his wrist and elbows. His wife and pregnant daughter who live with him are asymptomatic. What is the most appropriate advice?",
+  "options": {
+   "A": "His wife, daughter, and himself should be treated with oral permethrin",
+   "B": "His wife, daughter, and himself should be treated with topical permethrin",
+   "C": "His wife and himself should be treated with topical permethrin",
+   "D": "Only the patient needs to be treated with oral permethrin",
+   "E": "Only the patient needs to be treated with topical permethrin"
+  },
+  "answer": "B",
+  "explanation": "All household and close contacts should be treated simultaneously, even if asymptomatic, with topical permethrin (safe in pregnancy). Oral permethrin does not exist; oral ivermectin is avoided in pregnancy.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01437",
+   "C01301",
+   "C01369"
+  ],
+  "stem": "A middle-aged lady presents to the dermatology clinic with multiple flaccid blisters all over the body and oral lesions for a few months, without fever. What is the likely diagnosis?",
+  "options": {
+   "A": "Bullous pemphigoid",
+   "B": "Pemphigus vulgaris",
+   "C": "Impetigo",
+   "D": "Herpes simplex",
+   "E": "Chicken pox"
+  },
+  "answer": "B",
+  "explanation": "Flaccid blisters that easily rupture with oral mucosal involvement in a middle-aged adult is pemphigus vulgaris (intraepidermal, anti-desmoglein). Pemphigoid has tense blisters and spares the mouth.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00729",
+   "C00167"
+  ],
+  "stem": "A 69 years old lady has presented with 3 months HBO blisters on the body. O/E multiple tense blisters on the trunk and forearms, No lesions in the oral cavity. What is the diagnosis?",
+  "options": {
+   "A": "Pemphigus vulgaris",
+   "B": "Pemphigus foliaceous",
+   "C": "Epidermolysis bullosa acquisita",
+   "D": "Bullous pemphigoid",
+   "E": "Dermatitis herpetiformis"
+  },
+  "answer": "D",
+  "explanation": "Elderly patient with tense blisters on the trunk and limbs and no oral involvement is bullous pemphigoid (subepidermal, anti-BP180/230).",
+  "key_note": "Merged duplicate note: Paper copy marked A (yellow) then C (green correction, TEN); tense blisters on inflamed skin after itchy patches fit bullous pemphigoid, so B is the best answer. Stem partly reconstructed from a skewed page.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01330"
+  ],
+  "stem": "Drug that can provoke erythema multiforme is:",
+  "options": {
+   "A": "Erythromycin",
+   "B": "Dexamethasone",
+   "C": "Sulfonamides",
+   "D": "Fosfomycin",
+   "E": "Paracetamol"
+  },
+  "answer": "C",
+  "explanation": "Erythema multiforme is triggered mainly by infections (HSV, Mycoplasma) and drugs such as sulfonamides, penicillins, anticonvulsants and NSAIDs. Of the options, sulfonamides is the classic drug.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01767"
+  ],
+  "stem": "A 36-year-old man presents with a painful blistering rash for 2 days. The lesions are itchy and fragile, with erythematous papules and blisters on the palms, dorsum of hands, forearms and a few on the trunk. The lips are eroded with multiple aphthous ulcers in the mouth and the eyes are injected. He is unwell with poor appetite. What is the most likely diagnosis?",
+  "options": {
+   "A": "Pemphigus vulgaris",
+   "B": "Erythema multiforme",
+   "C": "Stevens-Johnson syndrome",
+   "D": "Erythema nodosum",
+   "E": "Guttate psoriasis"
+  },
+  "answer": "B",
+  "explanation": "Target-like papules and blisters on the palms, dorsum of hands and forearms with oral erosions and conjunctival injection is erythema multiforme major (acral distribution; SJS shows widespread macules on the trunk with more extensive detachment).",
+  "key_note": "Source marked Pemphigus vulgaris, which does not give acral target lesions; best answer is erythema multiforme (Stevens-Johnson syndrome is the nearest alternative).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01343"
+  ],
+  "stem": "An infant develops generalised blistering and peeling of skin with high-grade fever and involvement of oral and genital mucosa, and is receiving IV antibiotics. Which conditions can be considered in the differential diagnosis?",
+  "options": {
+   "A": "Erythroderma",
+   "B": "Stevens-Johnson syndrome",
+   "C": "Staphylococcal scalded skin syndrome",
+   "D": "A and B",
+   "E": "B and C"
+  },
+  "answer": "E",
+  "explanation": "Generalised blistering and peeling with fever and mucosal involvement in an infant can be Stevens-Johnson syndrome or staphylococcal scalded skin syndrome (SSSS, usually sparing the mucosa); both must be considered.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00168"
+  ],
+  "stem": "A 35-year-old woman on ATT (anti-tuberculous therapy) for extra-pulmonary TB presents with tiredness and joint pains. On examination, erythematous macules and papules are seen on the face, upper chest, and arms. Which of the following is associated with this condition?",
+  "options": {
+   "A": "Rifampin",
+   "B": "Isoniazid",
+   "C": "Pyrazinamide",
+   "D": "Ethambutol",
+   "E": "Rifabutin"
+  },
+  "answer": "B",
+  "explanation": "Isoniazid is the commonest antituberculous cause of drug-induced lupus (with arthralgia and photosensitive facial and chest rash, anti-histone antibodies).",
+  "key_note": "Paper copy marked C (pyrazinamide) by highlight and B (isoniazid) by green correction; isoniazid is correct.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01256"
+  ],
+  "stem": "A 22-year-old man developed two discoid, well demarcated, erythematous and intensely itchy lesions over the flexor aspect of his right arm and one on his abdomen. He developed similar lesions at the same sites in the past after an episode of flu which he treated at home. What is the diagnosis?",
+  "options": {
+   "A": "Discoid eczema",
+   "B": "Lichenoid drug eruption",
+   "C": "Guttate psoriasis",
+   "D": "Fixed drug eruption",
+   "E": "Viral exanthem"
+  },
+  "answer": "D",
+  "explanation": "Recurrent well-demarcated itchy discoid lesions at the same site after taking a drug (self-treated flu) is a fixed drug eruption.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00156"
+  ],
+  "stem": "A 32-year-old woman presented to her GP with painful nodular lesions over her shins bilaterally, she also had red purpuric lesions spread over all limbs which on biopsy were found to be vasculitis. What can be the etiology behind this?",
+  "options": {
+   "A": "Behcets disease",
+   "B": "SLE",
+   "C": "Sarcoidosis",
+   "D": "Drugs",
+   "E": "All of the above"
+  },
+  "answer": "E",
+  "explanation": "Erythema nodosum and cutaneous vasculitis can be associated with Behcet disease, SLE, sarcoidosis and drugs.",
+  "key_note": "Paper copy marked C (sarcoidosis) by highlight and E (all of the above) by green correction; E is correct.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01260"
+  ],
+  "stem": "A patient presents with a 3-day history of fever and sore throat, a maculopapular rash involving the whole skin, mucosal ulceration and lymphadenopathy, and is systemically unwell. What is the diagnosis?",
+  "options": {
+   "A": "Viral exanthem or drug reaction",
+   "B": "Infectious mononucleosis",
+   "C": "Acute HIV seroconversion",
+   "D": "A and B",
+   "E": "All of the above"
+  },
+  "answer": "E",
+  "explanation": "Fever, sore throat, maculopapular rash, mucosal ulceration and lymphadenopathy can occur in a viral exanthem or drug reaction, infectious mononucleosis and acute HIV seroconversion, so all are in the differential.",
+  "key_note": "Source marked Infectious mononucleosis; the picture is shared by all of these (acute HIV seroconversion especially), so the question is flawed and \"all of the above\" is the best answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01269"
+  ],
+  "stem": "Which of the following is NOT usually associated with erythema nodosum?",
+  "options": {
+   "A": "Tuberculosis",
+   "B": "Drugs",
+   "C": "Diabetes",
+   "D": "Streptococcal infection",
+   "E": "Sarcoidosis"
+  },
+  "answer": "C",
+  "explanation": "Erythema nodosum is associated with streptococcal infection, TB, sarcoidosis, drugs (sulfonamides, OCP), IBD and pregnancy; diabetes mellitus is not a recognised association.",
+  "key_note": "Source option D (staphylococcal infection) was also not a typical cause, giving two defensible answers; option D replaced with streptococcal infection so only C (diabetes) is correct. Paper key C kept.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00157"
+  ],
+  "stem": "A 56-year-old man presents with unintentional weight loss. He has hyperpigmented velvety skin thickening in the axillae which are itchy. What is the likely diagnosis?",
+  "options": {
+   "A": "Insulin resistance",
+   "B": "Gastric cancer",
+   "C": "Candidiasis",
+   "D": "Lichen planus",
+   "E": "Drug eruption"
+  },
+  "answer": "B",
+  "explanation": "Pruritic velvety hyperpigmented thickening of the axillae with unintentional weight loss suggests malignant acanthosis nigricans, classically gastric adenocarcinoma.",
+  "key_note": "Paper copy marked A (insulin resistance) by highlight and B (gastric cancer) by green correction; B is correct because of the weight loss and itch.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01223"
+  ],
+  "stem": "Acanthosis nigricans presents as thickened, hyperpigmented skin predominantly of the flexures. It is associated with:",
+  "options": {
+   "A": "Hypertension",
+   "B": "Insulin resistance",
+   "C": "SLE",
+   "D": "Systemic sclerosis",
+   "E": "Fungal infection"
+  },
+  "answer": "B",
+  "explanation": "Acanthosis nigricans (hyperpigmented velvety thickening of flexures, neck, axillae) is a marker of insulin resistance, obesity and type 2 diabetes.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00304"
+  ],
+  "stem": "A 62 years old male diabetic and hypertensive patient is having an atrophic yellow plaque on the right shin for 1 year. What is the most likely diagnosis?",
+  "options": {
+   "A": "Sarcoidosis",
+   "B": "Eczema",
+   "C": "Necrobiosis lipoidica",
+   "D": "Granuloma annulare",
+   "E": "Myxedema"
+  },
+  "answer": "C",
+  "explanation": "An atrophic yellow-brown plaque on the shin in a diabetic is necrobiosis lipoidica.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00161"
+  ],
+  "stem": "A 30-year-old woman attends the GP complaining of a 6-month history of fatigue, bloating, and loose stools. She gives a history of developing an intensely itchy rash, especially at night. On examination, a widespread symmetrical rash composed of papules and vesicles around her elbows, knee, scalp, and sacrum. Her blood test shows a Hb of 96g/L (115-160 g/L) with an MCV of 79 fl. What is the SINGLE most likely diagnosis?",
+  "options": {
+   "A": "Erythema nodosum",
+   "B": "Eczema herpeticum",
+   "C": "Dermatitis herpetiformis",
+   "D": "Erythema chronicum migrans",
+   "E": "Erythema Infectiousum"
+  },
+  "answer": "C",
+  "explanation": "Intensely itchy symmetrical vesicles on extensor surfaces with gluten enteropathy features (anaemia, bloating, loose stools) indicate dermatitis herpetiformis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01220"
+  ],
+  "stem": "Dermatitis herpetiformis is associated with",
+  "options": {
+   "A": "Crohn disease",
+   "B": "Ulcerative colitis",
+   "C": "Gastric carcinoma",
+   "D": "Celiac disease",
+   "E": "Irritable bowel syndrome"
+  },
+  "answer": "D",
+  "explanation": "Dermatitis herpetiformis is the skin manifestation of coeliac disease (IgA deposits in dermal papillae).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00087"
+  ],
+  "stem": "A 12 year old school girl presents with extremely pruritic lesions over extensor surfaces of her limbs. She has not responded to any topical medications for the skin problem. She has history of gluten insensitivity in past. What can be most effective treatment for her?",
+  "options": {
+   "A": "Oral steroids",
+   "B": "Methotrexate",
+   "C": "Dapsone",
+   "D": "Infliximab",
+   "E": "Phototherapy"
+  },
+  "answer": "C",
+  "explanation": "Dermatitis herpetiformis (itchy extensor lesions, coeliac association) responds dramatically to dapsone, together with a gluten-free diet.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01268"
+  ],
+  "stem": "Which statement is most accurate about erythroderma?",
+  "options": {
+   "A": "It is a condition with generalized pustular eruption involving the whole skin",
+   "B": "It is the involment of more than 90 percent skin including mucosae with a pustular eruption",
+   "C": "It is nonspecific widespread involvement of skin with a skin rash",
+   "D": "It is involment of skin ,nails and hair and mucosa with a skin condition concurrently",
+   "E": "It is nonspecific exfoliative condition of skin."
+  },
+  "answer": "E",
+  "explanation": "Erythroderma (exfoliative dermatitis) is generalised erythema and scaling involving more than 90% of the body surface, from many causes (psoriasis, eczema, drugs, lymphoma); it is not pustular.",
+  "key_note": "Source key marked B, which wrongly describes a pustular eruption; best answer is E.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00089"
+  ],
+  "stem": "You are counselling a patient diagnosed recently with Vitiligo. How will you explain the cause of the disease?",
+  "options": {
+   "A": "Autoimmune systemic disorder",
+   "B": "Congenital defective melanogenesis",
+   "C": "Autolysis of melanocytes",
+   "D": "T lymphocyte induced melanocyte destruction",
+   "E": "It is an infective disorder"
+  },
+  "answer": "D",
+  "explanation": "Vitiligo is an acquired autoimmune loss of melanocytes mediated by cytotoxic T cells; it is localised to skin, not a systemic autoimmune disorder, and is non-infective.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00408"
+  ],
+  "stem": "A patch of vitiligo is caused by:",
+  "options": {
+   "A": "Absence of keratinocytes",
+   "B": "Abundance of keratinocytes",
+   "C": "Absence of Langerhans cells",
+   "D": "Absence of melanocytes",
+   "E": "Abundance of melanocytes"
+  },
+  "answer": "D",
+  "explanation": "Vitiligo patches show complete loss of melanocytes.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01261"
+  ],
+  "stem": "Vitiligo can be associated with:",
+  "options": {
+   "A": "Alopecia areata",
+   "B": "Type 1 diabetes mellitus",
+   "C": "Inflammatory bowel disease",
+   "D": "A and B",
+   "E": "B and C"
+  },
+  "answer": "D",
+  "explanation": "Vitiligo is associated with other autoimmune diseases, notably alopecia areata, type 1 diabetes, thyroid disease and pernicious anaemia.",
+  "key_note": "Source key marked B and C; options A and B are the established associations, so \"A and B\" is the safest answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00719"
+  ],
+  "stem": "Most important step in the management of melasma is:",
+  "options": {
+   "A": "Change OCP to high oestrogen preparation",
+   "B": "Laser therapy",
+   "C": "PUVA therapy",
+   "D": "Chemical peels",
+   "E": "Sun protection"
+  },
+  "answer": "E",
+  "explanation": "Melasma is worsened by UV and hormones; strict sun protection (broad-spectrum sunscreen) is the most important step, with hydroquinone or peels as adjuncts.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01757",
+   "C00714"
+  ],
+  "stem": "A 35-year-old man presents with bald patches. They are well defined with no evidence of scarring, and there are some broken hairs surrounding the areas. What is your likely diagnosis?",
+  "options": {
+   "A": "Discoid lupus",
+   "B": "Telogen effluvium",
+   "C": "Psoriasis",
+   "D": "Tinea capitis",
+   "E": "Alopecia areata"
+  },
+  "answer": "E",
+  "explanation": "Well-defined non-scarring bald patches with broken (exclamation-mark) hairs at the margin is alopecia areata.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00720"
+  ],
+  "stem": "Hereditary thinning of hair in susceptible men and women is called:",
+  "options": {
+   "A": "Alopecia areata",
+   "B": "Androgenetic alopecia",
+   "C": "Cicatricial alopecial",
+   "D": "Telogen effluvium",
+   "E": "Trichotillomania"
+  },
+  "answer": "B",
+  "explanation": "Hereditary patterned thinning of hair in men and women is androgenetic alopecia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00721"
+  ],
+  "stem": "Which one of the following is not a cause of cicatricial alopecia?",
+  "options": {
+   "A": "Lichen planopilaris",
+   "B": "Discoid lupus erythematosus",
+   "C": "Folliculitis decalvans",
+   "D": "Dissecting cellulitis of the scalp",
+   "E": "Alopecia areata"
+  },
+  "answer": "E",
+  "explanation": "Alopecia areata is non-scarring; lichen planopilaris, discoid lupus, folliculitis decalvans and dissecting cellulitis cause scarring (cicatricial) alopecia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01481"
+  ],
+  "stem": "Excessive hair on the face or body, especially in women, is called:",
+  "options": {
+   "A": "Albinism",
+   "B": "Melasma",
+   "C": "Alopecia",
+   "D": "Hirsutism",
+   "E": "Atrichia"
+  },
+  "answer": "D",
+  "explanation": "Hirsutism is excessive terminal hair in a male pattern in women, usually from androgen excess (e.g. PCOS).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00710",
+   "C01776"
+  ],
+  "stem": "A 70 years old farmer presents with 1 year H/O an asymptomatic lesion on the face. On examination there is a single nodular lesion 1x1 cm in size with pearly edge and overlying telangiectasia on the left cheek. What is your diagnosis?",
+  "options": {
+   "A": "Basal cell carcinoma",
+   "B": "Seborrhoeic keratosis",
+   "C": "Actinic keratosis",
+   "D": "Squamous cell carcinoma",
+   "E": "Malignant melanoma"
+  },
+  "answer": "A",
+  "explanation": "A slowly growing pearly nodule with rolled border and telangiectasia on the sun-exposed face of an older person is basal cell carcinoma.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00717"
+  ],
+  "stem": "years old farmer presents with 2 years H/O asymptomatic papular lesions on the face. O/E two small papular lesions on the right cheek with a dry, rough, brown adherent scale. Scale can only be picked off with difficulty. What is the diagnosis?",
+  "options": {
+   "A": "Seborrhoeic keratosis",
+   "B": "Actinic keratosis",
+   "C": "Keratoacanthoma",
+   "D": "Bowen’s disease",
+   "E": "Basal cell carcinoma"
+  },
+  "answer": "B",
+  "explanation": "Small rough, adherent scaly papules on the sun-exposed face of a farmer are actinic keratoses (pre-malignant); seborrhoeic keratoses look stuck-on and greasy.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00726"
+  ],
+  "stem": "A 82 years old male presents with a rapidly growing lesion on the right temple O/E there is a well-defined 2 cm diameter skin coloured nodule with a central keratin plug. What is the diagnosis?",
+  "options": {
+   "A": "Keratoacanthoma",
+   "B": "Actinic keratosis",
+   "C": "Seborrhoeic keratosis",
+   "D": "Basal cell carcinoma",
+   "E": "Squamous cell carcinoma"
+  },
+  "answer": "A",
+  "explanation": "A rapidly growing, dome-shaped nodule with a central keratin plug in an older person is keratoacanthoma (well-differentiated SCC variant).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00718"
+  ],
+  "stem": "years old villager presents with H/O an asymptomatic nodular lesion on the nose for 5 years. O/E there is a single translucent nodule size 3x3 cm with surface telangiectasia and a rolled border on the nose. Clinical diagnosis of basal cell carcinoma is made which is confirmed by histopathology. What would be the best treatment option?",
+  "options": {
+   "A": "Cryotherapy",
+   "B": "Cautery",
+   "C": "Chemotherapy",
+   "D": "Radiotherapy",
+   "E": "Mohs micrographic surgery"
+  },
+  "answer": "E",
+  "explanation": "A large (3 cm) BCC on the nose, a high-risk site, is best treated by Mohs micrographic surgery, which gives the highest cure rate with maximal tissue preservation. Radiotherapy is an alternative when surgery is unsuitable.",
+  "key_note": "Some paper copies marked radiotherapy; Mohs surgery is the best option for a large facial (nasal) BCC.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00163"
+  ],
+  "stem": "A renal transplant recipient attends for a routine skin examination. A suspicious lesion on his trunk is excised and confirmed as malignant melanoma. What is the most important prognostic indicator for malignant melanoma?",
+  "options": {
+   "A": "Growth rate",
+   "B": "Mitotic count",
+   "C": "Tumor grade",
+   "D": "Degree of microscopic ulceration",
+   "E": "Breslow thickness"
+  },
+  "answer": "E",
+  "explanation": "Breslow thickness (depth of invasion in mm) is the single most important prognostic factor in localised melanoma.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03195"
+  ],
+  "stem": "The skin appendages include all of the following EXCEPT:",
+  "options": {
+   "A": "Sebaceous gland",
+   "B": "Hair",
+   "C": "Sweat gland",
+   "D": "Melanocytes",
+   "E": "Arrector pili"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Appendages are hair, nails, sebaceous and sweat glands and arrector pili muscles. Melanocytes are cells of the epidermis, not appendages.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02188"
+  ],
+  "stem": "Which structure in the skin is involved in vitamin D synthesis?",
+  "options": {
+   "A": "Stratum corneum",
+   "B": "Dermis",
+   "C": "Subcutaneous fat",
+   "D": "Keratinocytes",
+   "E": "Melanin"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "UVB converts 7-dehydrocholesterol to pre-vitamin D3 in epidermal keratinocytes. Melanin reduces synthesis by absorbing UV.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03196"
+  ],
+  "stem": "Cutaneous examination includes examination of all of these EXCEPT:",
+  "options": {
+   "A": "Skin",
+   "B": "Hair",
+   "C": "Nails",
+   "D": "Mucous membranes",
+   "E": "Cornea"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "A full dermatological examination covers skin, hair, nails and mucous membranes; the cornea belongs to the eye examination.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02201"
+  ],
+  "stem": "A plug of keratin and sebum in a dilated pilosebaceous orifice is called:",
+  "options": {
+   "A": "Burrow",
+   "B": "Crust",
+   "C": "Comedone",
+   "D": "Fissure",
+   "E": "Scar"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "This is the definition of a comedone, the primary lesion of acne (open = blackhead, closed = whitehead).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02202"
+  ],
+  "stem": "A papule is defined as a raised lesion of size:",
+  "options": {
+   "A": "<3 cm",
+   "B": "<2 cm",
+   "C": "<1 cm",
+   "D": "<0.5 cm",
+   "E": "<5 cm"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Papules are palpable lesions less than 1 cm; larger raised lesions are plaques or nodules.",
+  "key_note": "Some older texts use <0.5 cm; the paper key (<1 cm) matches Davidson.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02205"
+  ],
+  "stem": "Which of the following conditions is an endogenous eczema?",
+  "options": {
+   "A": "Photosensitive eczema",
+   "B": "Allergic contact eczema",
+   "C": "Atopic eczema",
+   "D": "Irritant contact eczema",
+   "E": "Nodular prurigo"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Atopic eczema is the classic endogenous eczema; contact (allergic or irritant) eczemas are exogenous.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02226"
+  ],
+  "stem": "The distribution of the rash in atopic eczema is:",
+  "options": {
+   "A": "Extensor surfaces and lower back",
+   "B": "Upper trunk and shoulders",
+   "C": "Face and flexors",
+   "D": "Distal limbs",
+   "E": "Widespread"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Atopic eczema typically affects the face and flexures (antecubital and popliteal fossae, neck) in older children and adults.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03197"
+  ],
+  "stem": "The commonest site of atopic dermatitis is:",
+  "options": {
+   "A": "Scalp",
+   "B": "Elbow",
+   "C": "Trunk",
+   "D": "Antecubital fossa",
+   "E": "Back"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Flexural sites, especially antecubital and popliteal fossae, are classic for atopic dermatitis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02207"
+  ],
+  "stem": "Which of the following best describes the typical distribution of atopic eczema in a 10-month-old child?",
+  "options": {
+   "A": "Nappy area and flexor surface of arms and legs",
+   "B": "Face and trunk",
+   "C": "Nappy area and trunk",
+   "D": "Flexor surfaces of arms and legs",
+   "E": "Scalp and arms"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "In infants atopic eczema involves the face, scalp, trunk and extensors, and characteristically spares the nappy area; flexural involvement appears later in childhood.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02180"
+  ],
+  "stem": "A 2-year-old child is brought with generalised dry skin and an itchy rash in both cubital fossae and neck for one year. He is otherwise healthy; his mother and one sister are asthmatic. The most probable diagnosis is:",
+  "options": {
+   "A": "Scabies",
+   "B": "Urticaria",
+   "C": "Seborrhoeic dermatitis",
+   "D": "Atopic dermatitis",
+   "E": "Tinea corporis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Chronic itchy flexural eczema with dry skin and a family history of atopy (asthma) is atopic dermatitis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02206"
+  ],
+  "stem": "A young boy presents with itchy erythematous scaly patches and is diagnosed with eczema. Which of the following is NOT appropriate as routine management?",
+  "options": {
+   "A": "Avoid the known irritant",
+   "B": "Use of emollients",
+   "C": "Use of bath oils",
+   "D": "Use of topical steroids",
+   "E": "Use of systemic steroids"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Management rests on avoiding triggers, emollients, bath oils and topical corticosteroids; systemic steroids are avoided in routine eczema because of rebound flares and side effects.",
+  "key_note": "Source key marked E for the original wording 'management includes'; stem reworded so that E (systemic steroids) is the single best answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02614"
+  ],
+  "stem": "A 12-year-old boy presents with intense itching, dry skin and eczematous lesions over the flexural surfaces of his elbows and knees for 2 months. He has a history of frequent rhinitis and asthma. Which is the most appropriate first-line treatment?",
+  "options": {
+   "A": "Oral corticosteroids and NSAIDs",
+   "B": "Phototherapy and antihistamines",
+   "C": "Systemic antibiotics and IV saline",
+   "D": "Topical antifungal agents and antibiotics",
+   "E": "Topical emollients and corticosteroids"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "This is atopic dermatitis; first-line therapy is regular emollients with topical corticosteroids for flares.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02220",
+   "C01328"
+  ],
+  "stem": "Which of the following is a treatment of eczema?",
+  "options": {
+   "A": "Tetracycline",
+   "B": "Aciclovir",
+   "C": "Permethrin",
+   "D": "Itraconazole",
+   "E": "Topical steroids"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Topical corticosteroids are the mainstay for treating eczema flares; the others are antibacterial, antiviral, antiparasitic and antifungal agents.",
+  "key_note": "Merged duplicate note: Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02181",
+   "C00153"
+  ],
+  "stem": "A 20-year-old girl develops eczematous lesions on her ears and neck after wearing jewellery. Patch testing shows sensitivity to nickel sulphate. The most important aspect of her management is:",
+  "options": {
+   "A": "Avoidance advice",
+   "B": "Hyposensitisation",
+   "C": "Topical steroids",
+   "D": "Topical tacrolimus",
+   "E": "Emollients"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "In allergic contact dermatitis, identifying and avoiding the allergen is the key to cure; topical steroids only treat flares.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02182"
+  ],
+  "stem": "A 22-year-old girl with acne applies a mixture of vanishing cream and injectable benzylpenicillin topically. An eczematous rash appears on both cheeks within 2-3 hours. The probable diagnosis is:",
+  "options": {
+   "A": "Rosacea",
+   "B": "Urticaria",
+   "C": "Photosensitivity reaction",
+   "D": "Irritant contact dermatitis",
+   "E": "Drug rash"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Onset within hours after applying a crude irritant mixture, confined to the site of application, indicates irritant contact dermatitis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02224"
+  ],
+  "stem": "Contact (allergic) dermatitis is which type of hypersensitivity reaction?",
+  "options": {
+   "A": "Type I hypersensitivity",
+   "B": "Type II hypersensitivity",
+   "C": "Type III hypersensitivity",
+   "D": "Type IV hypersensitivity",
+   "E": "Non-allergic"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Allergic contact dermatitis is a delayed, T-cell mediated type IV reaction.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02237"
+  ],
+  "stem": "Actinic (photo) dermatitis usually affects all of the following sites EXCEPT:",
+  "options": {
+   "A": "Forehead",
+   "B": "Face",
+   "C": "Axillae",
+   "D": "Back of the neck",
+   "E": "Hands"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Light-exposed sites are affected (face, forehead, V of neck, back of neck, hands); the axillae are protected and spared.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03200"
+  ],
+  "stem": "Koebner's phenomenon is seen in:",
+  "options": {
+   "A": "Atopic dermatitis",
+   "B": "Psoriasis",
+   "C": "Ichthyosis",
+   "D": "Pityriasis rubra pilaris",
+   "E": "Pemphigus"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Koebner's phenomenon (lesions at sites of trauma) is the classic feature of psoriasis, also seen in lichen planus and vitiligo.",
+  "key_note": "Option A was 'Lichen planus' in the source, which also shows Koebnerisation; replaced by the reviewer to leave a single best answer. Paper key B kept.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02762",
+   "C02892",
+   "C01335",
+   "C01372",
+   "C01340",
+   "C01942",
+   "C02209"
+  ],
+  "stem": "A 32-year-old male has a 3-month history of well-demarcated, 5 cm erythematous plaques with dry silvery scales on the extensor surfaces of his elbows and knees, with mild pruritus. He has no joint pain and no family history of skin disease. The nails show mild pitting. What is the most likely diagnosis?",
+  "options": {
+   "A": "Atopic dermatitis",
+   "B": "Discoid eczema",
+   "C": "Lichen planus",
+   "D": "Psoriasis vulgaris",
+   "E": "Tinea corporis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Extensor silvery plaques with nail pitting indicate plaque psoriasis (psoriasis vulgaris).",
+  "key_note": "Merged duplicate note: Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02213",
+   "C02222"
+  ],
+  "stem": "Which of the following is a scaly dermatosis?",
+  "options": {
+   "A": "Herpes",
+   "B": "Scabies",
+   "C": "Carbuncle",
+   "D": "Psoriasis",
+   "E": "Cellulitis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Psoriasis is the classic scaly (papulosquamous) dermatosis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02186"
+  ],
+  "stem": "A 40-year-old woman has bilateral symmetrical erythematous plaques with silver-white scales on her elbows and knees. Nails show pitting and separation of the distal nail plate with yellow discoloration. What other nail finding can be expected?",
+  "options": {
+   "A": "Melanonychia",
+   "B": "Nail ridging",
+   "C": "Subungual hyperkeratosis",
+   "D": "Pterygium",
+   "E": "All of the above"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Psoriatic nail changes: pitting, onycholysis, oil-drop discoloration and subungual hyperkeratosis. Pterygium and melanonychia are not typical.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02278",
+   "C02284"
+  ],
+  "stem": "A 40-year-old gentleman presents with a well-circumscribed, pruritic patch on the right elbow with silvery scales over it. Which topical treatment is most likely to work?",
+  "options": {
+   "A": "Coal tar",
+   "B": "Aciclovir",
+   "C": "Terbinafine",
+   "D": "Clindamycin",
+   "E": "Mupirocin"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "This is localised plaque psoriasis; coal tar (also dithranol, vitamin D analogues, steroids) is an appropriate topical agent. The others are antiviral, antifungal and antibacterial.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02221"
+  ],
+  "stem": "Which of the following is a treatment for psoriasis?",
+  "options": {
+   "A": "Topical steroids",
+   "B": "Topical antibiotics",
+   "C": "Topical antifungal",
+   "D": "Topical antiviral",
+   "E": "Oral antifungal"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Topical corticosteroids, with vitamin D analogues and coal tar, are first-line topical treatment for plaque psoriasis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02235"
+  ],
+  "stem": "The vitamin D analogue calcitriol is useful in the treatment of:",
+  "options": {
+   "A": "Lichen planus",
+   "B": "Psoriasis",
+   "C": "Pemphigus",
+   "D": "Leprosy",
+   "E": "Eczema"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Topical vitamin D analogues (calcipotriol, calcitriol) slow keratinocyte proliferation and are used in plaque psoriasis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02239"
+  ],
+  "stem": "Photochemotherapy (PUVA) is used in:",
+  "options": {
+   "A": "Psoriasis",
+   "B": "Pemphigus",
+   "C": "Tinea capitis",
+   "D": "Tinea cruris",
+   "E": "None of the above"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "PUVA (psoralen plus UVA) is used for extensive or resistant psoriasis, also vitiligo, mycosis fungoides and others.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03201"
+  ],
+  "stem": "Phototherapy is used in the management of:",
+  "options": {
+   "A": "Psoriasis",
+   "B": "Pemphigus",
+   "C": "Tinea capitis",
+   "D": "Tinea cruris",
+   "E": "Eczema"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Narrow-band UVB and PUVA are standard second-line therapy for extensive psoriasis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02623"
+  ],
+  "stem": "A 31-year-old woman with a 10-year history of erythematous silvery scaly plaques on the elbows and knees now has widespread disease for 2 months despite topical medications. What next treatment option should be considered?",
+  "options": {
+   "A": "Acitretin",
+   "B": "Azathioprine",
+   "C": "Methotrexate",
+   "D": "Narrow-band UVB therapy",
+   "E": "Oral glucocorticoids"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Widespread plaque psoriasis not controlled by topicals is stepped up to phototherapy (NB-UVB) before systemic agents. Methotrexate and acitretin are teratogenic (a newlywed woman may conceive), and oral steroids risk pustular flare.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02618"
+  ],
+  "stem": "A 55-year-old man with long-standing psoriasis presents with generalised erythema and scaling over more than 90% of body surface area, fever and malaise for 3 days. He is febrile and dehydrated. What is the most important immediate management step?",
+  "options": {
+   "A": "Admit and start IV fluids",
+   "B": "Apply topical corticosteroids",
+   "C": "Start oral cyclosporine",
+   "D": "Start systemic corticosteroid therapy",
+   "E": "Start systemic methotrexate"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "This is erythrodermic psoriasis, a dermatological emergency: admit, restore fluids, correct temperature regulation and electrolytes, then start systemic therapy. Systemic steroids can precipitate pustular flare.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02615"
+  ],
+  "stem": "A 42-year-old woman has multiple flat-topped violaceous polygonal papules and plaques on her wrists and lower back for 1 month, with a burning mouth and Wickham's striae on the oral mucosa. What is the most appropriate first-line management?",
+  "options": {
+   "A": "Oral antihistamine",
+   "B": "Oral methotrexate",
+   "C": "Topical antibiotics",
+   "D": "Topical antifungal cream",
+   "E": "Topical corticosteroids"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Potent topical corticosteroids are first-line for lichen planus; antihistamines only help itch.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02183"
+  ],
+  "stem": "A 1-year-old child develops multiple erythematous itchy weals on the trunk after eating egg for the past 2 days. Each weal lasts less than 24 hours. The child is suffering from:",
+  "options": {
+   "A": "Contact urticaria",
+   "B": "Atopic dermatitis",
+   "C": "Acute urticaria",
+   "D": "Urticarial vasculitis",
+   "E": "Chronic urticaria"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Transient weals (each under 24 hours) lasting under 6 weeks after a food trigger are acute urticaria. Urticarial vasculitis weals last longer than 24 hours.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02766",
+   "C02894",
+   "C00712"
+  ],
+  "stem": "A 7-year-old girl has recurrent, itchy, raised wheals on various parts of the body that resolve within a few hours and reappear elsewhere. The family thinks they are triggered by certain foods. What is the most likely diagnosis?",
+  "options": {
+   "A": "Atopic dermatitis",
+   "B": "Chickenpox",
+   "C": "Eczema",
+   "D": "Impetigo",
+   "E": "Urticaria"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Evanescent itchy wheals resolving within hours are urticaria.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02612"
+  ],
+  "stem": "A 25-year-old woman develops sudden intensely pruritic wheals on the arms and trunk with swelling of lips and eyelids 2 hours after eating prawns. She also has abdominal cramps but no difficulty breathing or wheezing. What is the best initial treatment?",
+  "options": {
+   "A": "IM epinephrine",
+   "B": "Oral corticosteroids",
+   "C": "Oral H1 antihistamine",
+   "D": "Oral H2 antihistamine",
+   "E": "Oral montelukast"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Acute urticaria with angioedema without airway, breathing or circulatory compromise is treated with a non-sedating H1 antihistamine; IM adrenaline is reserved for anaphylaxis.",
+  "key_note": "Paper keys marked C; kept as defensible for this stem (adrenaline would be needed if respiratory or cardiovascular features were present).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02236"
+  ],
+  "stem": "Which of the following drugs is known to cause urticaria/angioedema?",
+  "options": {
+   "A": "Paracetamol",
+   "B": "Captopril",
+   "C": "Chloroquine",
+   "D": "Erythromycin",
+   "E": "Clarithromycin"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "ACE inhibitors such as captopril cause angioedema and urticaria (bradykinin mediated).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02232"
+  ],
+  "stem": "Which of the following skin diseases is NOT associated with blistering?",
+  "options": {
+   "A": "Psoriasis",
+   "B": "Erythema multiforme",
+   "C": "Pemphigoid",
+   "D": "Pemphigus",
+   "E": "Dermatitis herpetiformis"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Psoriasis is scaly, not blistering; the others are bullous or vesiculobullous disorders.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02189"
+  ],
+  "stem": "Which of the following is the best treatment for pemphigoid gestationis?",
+  "options": {
+   "A": "Oral corticosteroids",
+   "B": "Topical corticosteroids",
+   "C": "Emollients",
+   "D": "UVB",
+   "E": "Chlorphenamine"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Pemphigoid gestationis is treated with potent topical corticosteroids, with oral prednisolone for severe disease.",
+  "key_note": "Source options A and B were both topical steroids; option A changed by reviewer to oral corticosteroids. Paper key (topical corticosteroid) kept.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02238"
+  ],
+  "stem": "Which of the following is the most common infective trigger of erythema multiforme?",
+  "options": {
+   "A": "Herpes simplex virus infection",
+   "B": "EBV infection",
+   "C": "Connective tissue disorder",
+   "D": "Leprosy",
+   "E": "Wegener granulomatosis"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Recurrent herpes simplex is the commonest precipitant of erythema multiforme (target lesions); mycoplasma and drugs are others.",
+  "key_note": "Source key marked D (leprosy); that is incorrect for erythema multiforme (leprosy causes erythema nodosum leprosum). Stem reworded.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02223"
+  ],
+  "stem": "Acne is an inflammatory disorder of which of the following?",
+  "options": {
+   "A": "Hair follicle",
+   "B": "Nails",
+   "C": "Pilosebaceous unit",
+   "D": "Oral cavity",
+   "E": "Nasal cavity"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Acne vulgaris is a chronic inflammatory disease of the pilosebaceous unit.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03190",
+   "C01333"
+  ],
+  "stem": "Which organism is implicated in acne?",
+  "options": {
+   "A": "Staphylococcus aureus",
+   "B": "Streptococcus pyogenes",
+   "C": "Staphylococcus epidermidis",
+   "D": "Propionibacterium acnes (Cutibacterium acnes)",
+   "E": "Escherichia coli"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "P. acnes colonises the pilosebaceous follicle and drives inflammation, although acne is not a true infection.",
+  "key_note": "Merged duplicate note: Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03192",
+   "C01377"
+  ],
+  "stem": "Acne vulgaris is:",
+  "options": {
+   "A": "Cured by topical steroids",
+   "B": "An infectious disease",
+   "C": "Treated by retinoids in the nodulocystic form",
+   "D": "A disease of sweat glands",
+   "E": "An autoimmune disease"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Severe nodulocystic acne is treated with oral isotretinoin; topical steroids worsen acne and it is a disease of sebaceous follicles.",
+  "key_note": "Merged duplicate note: Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02219",
+   "C01219"
+  ],
+  "stem": "Which of the following is a first-line treatment of acne vulgaris?",
+  "options": {
+   "A": "Aciclovir",
+   "B": "Permethrin",
+   "C": "Itraconazole",
+   "D": "Tetracycline",
+   "E": "Penciclovir"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Of the options listed, tetracyclines (with topical retinoids and benzoyl peroxide) are standard acne therapy.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02764",
+   "C02893",
+   "C00152"
+  ],
+  "stem": "A 20-year-old male presents with multiple large painful nodules and cysts on the face and back with significant scarring and hyperpigmentation. Topical antibiotics and over-the-counter treatments have failed. What is the most appropriate treatment?",
+  "options": {
+   "A": "Oral antibiotics",
+   "B": "Oral retinoids",
+   "C": "Topical antifungals",
+   "D": "Topical retinoids",
+   "E": "Topical steroids"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Nodulocystic scarring acne resistant to other therapy needs oral isotretinoin.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02282",
+   "C02622"
+  ],
+  "stem": "Which of the following drugs most commonly causes drug-induced acne?",
+  "options": {
+   "A": "Amoxicillin",
+   "B": "Cephradine",
+   "C": "Clarithromycin",
+   "D": "Steroids",
+   "E": "Diclofenac"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Corticosteroids (also androgens, lithium, phenytoin, isoniazid) are classic causes of acneiform eruption.",
+  "key_note": "Source paper marked E (diclofenac); incorrect, correct is steroids.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03191"
+  ],
+  "stem": "Which of the following skin diseases causes non-scarring loss of hair?",
+  "options": {
+   "A": "Discoid lupus erythematosus",
+   "B": "Lichen planus",
+   "C": "Favus/Kerion",
+   "D": "Alopecia areata",
+   "E": "Vitiligo"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Alopecia areata is a non-scarring autoimmune alopecia; DLE, lichen planopilaris and favus can scar.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03193",
+   "C01375"
+  ],
+  "stem": "Which of the following may be observed in alopecia areata?",
+  "options": {
+   "A": "Itching",
+   "B": "Comedones",
+   "C": "Vesicles",
+   "D": "Exclamation mark hair",
+   "E": "Malignancy"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Exclamation mark hairs at the patch margin are characteristic of active alopecia areata.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02617"
+  ],
+  "stem": "A 25-year-old man presents with a sudden, well-demarcated round patch of hair loss on the scalp for 1 week. The skin looks normal and exclamation mark hairs are seen at the margins. What is the most appropriate initial treatment?",
+  "options": {
+   "A": "Intralesional corticosteroids",
+   "B": "Oral finasteride",
+   "C": "PUVA therapy",
+   "D": "Systemic methotrexate",
+   "E": "Topical minoxidil"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Patchy alopecia areata is treated first with intralesional triamcinolone or potent topical steroids.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02609"
+  ],
+  "stem": "A 58-year-old post-menopausal woman has progressive hair thinning for 5 years, with diffuse thinning over the crown and a preserved frontal hairline. Her mother and sisters have similar hair loss. What is the most likely diagnosis?",
+  "options": {
+   "A": "Alopecia areata",
+   "B": "Traction alopecia",
+   "C": "Chronic telogen effluvium",
+   "D": "Female pattern hair loss (FPHL)",
+   "E": "Hypotrichosis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Crown thinning with frontal hairline preservation and a family history is female pattern hair loss (Ludwig pattern).",
+  "key_note": "Source option B 'Androgenetic alopecia' is a synonym of FPHL; replaced by reviewer. Marked D in the papers.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02230"
+  ],
+  "stem": "Hair loss is a common side effect of:",
+  "options": {
+   "A": "Antibiotics",
+   "B": "Cytotoxics",
+   "C": "Antidiarrhoeals",
+   "D": "NSAIDs",
+   "E": "Digoxin"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Cytotoxic drugs cause anagen effluvium.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02281",
+   "C00738"
+  ],
+  "stem": "A 12-year-old boy has white depigmented patches on the hands and face. The eyebrows have turned white over an underlying depigmented patch. The diagnosis is:",
+  "options": {
+   "A": "Vitiligo",
+   "B": "Pityriasis versicolor",
+   "C": "Pityriasis alba",
+   "D": "Hypopigmentation",
+   "E": "Albinism"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Well-demarcated depigmented patches with leukotrichia are vitiligo.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02227"
+  ],
+  "stem": "A 7-year-old child presents with recurrent dry scaly white small macules on the face. Which disease is this?",
+  "options": {
+   "A": "Post kala-azar dermal leishmaniasis",
+   "B": "Pityriasis alba",
+   "C": "Early vitiligo",
+   "D": "Impetigo",
+   "E": "None of the above"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Pityriasis alba is a mild eczematous condition of atopic children, with ill-defined scaly hypopigmented patches on the face.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02283"
+  ],
+  "stem": "A 25-year-old lady develops hyperpigmented patches on her cheeks during pregnancy. The diagnosis is:",
+  "options": {
+   "A": "Drug eruption",
+   "B": "Eczema",
+   "C": "Melasma",
+   "D": "Post-inflammatory hyperpigmentation",
+   "E": "Discoid lupus"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Symmetrical facial hyperpigmentation in pregnancy is melasma (chloasma).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02616"
+  ],
+  "stem": "A 29-year-old woman has symmetrical brownish hyperpigmented macules and patches on her cheeks and forehead for 1 month, worsening with sun exposure. What is the most appropriate first-line treatment?",
+  "options": {
+   "A": "Topical antibiotic and antifungal",
+   "B": "Topical antifungal and IV saline",
+   "C": "Topical corticosteroids and antihistamines",
+   "D": "Topical hydroquinone and sunscreen",
+   "E": "Topical tacrolimus and antihistamines"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Melasma is treated with strict photoprotection plus topical hydroquinone.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02210"
+  ],
+  "stem": "Impetigo is which type of infection?",
+  "options": {
+   "A": "Bacterial",
+   "B": "Viral",
+   "C": "Fungal",
+   "D": "Cestode",
+   "E": "Parasitic"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Impetigo is a superficial staphylococcal or streptococcal skin infection.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03189"
+  ],
+  "stem": "How does impetigo present?",
+  "options": {
+   "A": "Golden honey-coloured crust",
+   "B": "Salmon-coloured plaque with silvery scale",
+   "C": "Comedones, pustules and nodules",
+   "D": "Flesh-coloured papule with rough surface",
+   "E": "Deep subcutaneous burrows"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Impetigo gives golden crusted erosions; B is psoriasis, C acne, D wart, E scabies.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02203",
+   "C01214"
+  ],
+  "stem": "Boils are a deep-seated infection of the skin most commonly caused by:",
+  "options": {
+   "A": "Streptococcus",
+   "B": "Staphylococcus aureus",
+   "C": "Anaerobes",
+   "D": "Herpes virus",
+   "E": "Candida albicans"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Furuncles and carbuncles are staphylococcal infections of hair follicles.",
+  "key_note": "Merged duplicate note: One paper marked Candida albicans; the correct answer is Staphylococcus aureus.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03194",
+   "C01385"
+  ],
+  "stem": "All of the following are bacterial infections EXCEPT:",
+  "options": {
+   "A": "Impetigo",
+   "B": "Furuncle",
+   "C": "Cellulitis",
+   "D": "Kerion",
+   "E": "Carbuncle"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Kerion is an inflammatory fungal (dermatophyte) infection of the scalp.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02195"
+  ],
+  "stem": "Cellulitis is an infection of:",
+  "options": {
+   "A": "Cutaneous tissue",
+   "B": "Subcutaneous tissue",
+   "C": "Upper subcutaneous tissue",
+   "D": "Epidermis",
+   "E": "Upper cutaneous tissue"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Cellulitis involves the deep dermis and subcutaneous tissue (erysipelas is more superficial).",
+  "key_note": "Source option D was 'Dermis'; replaced by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02196"
+  ],
+  "stem": "Cellulitis occurs due to which of the following?",
+  "options": {
+   "A": "Bacteria",
+   "B": "Fungi",
+   "C": "Viruses",
+   "D": "Both fungi and bacteria",
+   "E": "None of the above"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Cellulitis is bacterial, usually Streptococcus pyogenes or Staphylococcus aureus.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02610"
+  ],
+  "stem": "A 26-year-old man presents with fever and a painful swelling of the right shin for 3 days. There is a raised, sharply demarcated, warm, tender erythematous plaque from knee to mid-shin. He is febrile (101 F) with chills. What is the best treatment?",
+  "options": {
+   "A": "IV ceftriaxone",
+   "B": "Oral cephalexin",
+   "C": "Oral linezolid",
+   "D": "Surgical debridement",
+   "E": "Topical mupirocin"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Cellulitis with systemic toxicity (fever, chills) warrants parenteral antibiotics; oral therapy suffices for mild disease only.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02197"
+  ],
+  "stem": "Erythrasma is caused by:",
+  "options": {
+   "A": "Staphylococcus aureus",
+   "B": "Streptococcus",
+   "C": "Syphilis",
+   "D": "Corynebacterium minutissimum",
+   "E": "None of the above"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Erythrasma is a superficial infection of intertriginous skin by Corynebacterium minutissimum.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02228"
+  ],
+  "stem": "A pinkish-red (coral) fluorescence under Wood's lamp is seen in:",
+  "options": {
+   "A": "Lead poisoning",
+   "B": "Porphyria cutanea tarda",
+   "C": "Erythrasma",
+   "D": "Acrocyanosis",
+   "E": "None of the above"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Erythrasma lesions fluoresce coral red under Wood's lamp due to porphyrins.",
+  "key_note": "Source stem said 'fluorescence of urine' (which would suggest porphyria); the paper key (erythrasma, Davidson) kept with stem reworded; 'alba' corrected to 'tarda'.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02277"
+  ],
+  "stem": "Viral warts are caused by:",
+  "options": {
+   "A": "Molluscum contagiosum virus",
+   "B": "Human papillomavirus",
+   "C": "Measles virus",
+   "D": "Herpes simplex virus",
+   "E": "Parapoxvirus"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Common warts are caused by HPV.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02198"
+  ],
+  "stem": "Which of the following is the treatment of choice for viral skin warts?",
+  "options": {
+   "A": "Cryotherapy",
+   "B": "Emollients",
+   "C": "Topical steroids",
+   "D": "Oral aciclovir",
+   "E": "Intralesional bleomycin"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Cryotherapy (or salicylic acid) is first-line for common warts.",
+  "key_note": "Source option D was salicylic acid, which is also first-line; replaced by reviewer. Paper key (cryotherapy) kept.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02225"
+  ],
+  "stem": "Which virus is responsible for molluscum contagiosum?",
+  "options": {
+   "A": "HPV",
+   "B": "HSV",
+   "C": "Pox virus",
+   "D": "VZV",
+   "E": "HIV"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Molluscum contagiosum is caused by a poxvirus.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02889",
+   "C00158",
+   "C02620"
+  ],
+  "stem": "A 13-year-old girl presents with fever and itchy rash for 3 days with papules, pustules, vesicles and a few crusted lesions all over the body, mainly the trunk, also involving the face, with oral erosions. What is your likely diagnosis?",
+  "options": {
+   "A": "Drug eruption",
+   "B": "Herpes simplex",
+   "C": "Herpes zoster",
+   "D": "Molluscum contagiosum",
+   "E": "Varicella"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Generalised crops of lesions at different stages with oral erosions and fever indicate varicella; zoster is dermatomal.",
+  "key_note": "Paper circled C (herpes zoster); incorrect, correct is varicella. Merged duplicate note: Paper copy marked C (impetigo) by highlight and D (chicken pox) by green correction; chicken pox is correct.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02217",
+   "C01332"
+  ],
+  "stem": "Which of the following is the causative organism of ringworm infection?",
+  "options": {
+   "A": "Roundworm",
+   "B": "HSV",
+   "C": "Dermatophytes",
+   "D": "Candida",
+   "E": "Staphylococcus aureus"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Ringworm (tinea) is caused by dermatophytes: Trichophyton, Microsporum, Epidermophyton.",
+  "key_note": "Merged duplicate note: Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02179",
+   "C00711"
+  ],
+  "stem": "A 35-year-old man presents with asymmetrical, annular, scaly and itchy plaques on the trunk for 2 weeks. What is the most probable diagnosis?",
+  "options": {
+   "A": "Pityriasis versicolor",
+   "B": "Psoriasis",
+   "C": "Tinea corporis",
+   "D": "Discoid eczema"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Annular, scaly, itchy plaques with central clearing are tinea corporis. Pityriasis versicolor gives fine scaly macules, not annular itchy plaques.",
+  "key_note": "Paper marked A (pityriasis versicolor); corrected to tinea corporis by reviewer. Merged duplicate note: One 2022 copy marked A (lichen planus) while also circling tinea, with a handwritten note \"ring worm infection\"; tinea corporis is correct.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02765",
+   "C01748",
+   "C02621"
+  ],
+  "stem": "A 26-year-old girl develops an itchy rash over the body for 2 weeks with multiple annular plaques with central clearing. Which investigation will you advise?",
+  "options": {
+   "A": "Direct immunofluorescence",
+   "B": "Indirect immunofluorescence",
+   "C": "Skin biopsy",
+   "D": "Skin prick test",
+   "E": "Skin scraping"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Annular plaques with central clearing are tinea corporis; KOH examination of skin scrapings is the test.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02199"
+  ],
+  "stem": "Tinea capitis is an infection of which of the following?",
+  "options": {
+   "A": "Scalp hair follicles",
+   "B": "Scalp hair shafts",
+   "C": "Scalp skin only",
+   "D": "Superficial skin of scalp",
+   "E": "Deep skin of scalp"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Tinea capitis is a dermatophyte infection of the scalp hair shafts (and follicles).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02200"
+  ],
+  "stem": "Tinea capitis is more common in:",
+  "options": {
+   "A": "Adults",
+   "B": "Old age",
+   "C": "Children",
+   "D": "Neonates",
+   "E": "Middle age group"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Tinea capitis is predominantly a disease of prepubertal children.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03199"
+  ],
+  "stem": "Onychomycosis is:",
+  "options": {
+   "A": "Ringworm of scalp",
+   "B": "Ringworm of groin",
+   "C": "Ringworm of nails",
+   "D": "Ringworm of beard",
+   "E": "Ringworm of oral mucosa"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Onychomycosis is dermatophyte (tinea unguium) infection of the nails.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03202"
+  ],
+  "stem": "A professional diver presents with thickening, erosion and discoloration of the web spaces of the toes. The likely diagnosis is:",
+  "options": {
+   "A": "Psoriasis",
+   "B": "Eczema",
+   "C": "Gangrene",
+   "D": "Candidiasis",
+   "E": "Herpes simplex"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Prolonged moisture causes interdigital candidiasis (erosio interdigitalis).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02211",
+   "C03188"
+  ],
+  "stem": "Which of the following is the causative organism of scabies?",
+  "options": {
+   "A": "Roundworm",
+   "B": "Sarcoptes scabiei",
+   "C": "Gram-positive bacteria",
+   "D": "Trichophyton rubrum",
+   "E": "Taenia saginata"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Scabies is caused by the mite Sarcoptes scabiei var. hominis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02214",
+   "C01381"
+  ],
+  "stem": "Sarcoptes scabiei belongs to which group?",
+  "options": {
+   "A": "Bacteria",
+   "B": "Fungus",
+   "C": "Parasite",
+   "D": "Virus",
+   "E": "Cestodes"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "It is an ectoparasite (mite).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02231"
+  ],
+  "stem": "Scabies is characterised by which of the following?",
+  "options": {
+   "A": "Macular rash",
+   "B": "Burrows in finger webs",
+   "C": "Scaly eruptions",
+   "D": "Nail pitting",
+   "E": "Arthritis"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Burrows in finger webs, wrists and genitalia with nocturnal itch are characteristic.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02190"
+  ],
+  "stem": "Generalised pruritus is caused by which of the following diseases?",
+  "options": {
+   "A": "Dermatitis herpetiformis",
+   "B": "Pediculosis",
+   "C": "Tinea infections",
+   "D": "Scabies",
+   "E": "Lichen planus"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Scabies causes generalised itch (often sparing the face) through mite hypersensitivity.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02185",
+   "C01747",
+   "C01941"
+  ],
+  "stem": "A 30-year-old lady at 28 weeks of pregnancy presents with severe itching, worse at night, for 3 weeks. There are discrete excoriated papules on the genitalia and interdigital webs. Her husband has had itching for 10 days. The most probable diagnosis is:",
+  "options": {
+   "A": "Polymorphic eruption of pregnancy",
+   "B": "Scabies",
+   "C": "Atopic dermatitis",
+   "D": "Drug eruption",
+   "E": "Insect bite reaction"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Nocturnal itch with web-space and genital lesions and an itchy contact is scabies.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02763"
+  ],
+  "stem": "A 40-year-old male presents with intense itching, worse at night, for 2 weeks. There are small erythematous excoriated papules between the fingers, on the wrists and around the waist, and he lives in a crowded apartment building. What is the most common mode of transmission of this disease?",
+  "options": {
+   "A": "Airborne droplets",
+   "B": "Contact with infested furniture",
+   "C": "Contaminated water",
+   "D": "Direct skin-to-skin contact",
+   "E": "Insect bites"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Scabies spreads mainly by prolonged direct skin contact; fomites are a minor route.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02212",
+   "C01331",
+   "C00727"
+  ],
+  "stem": "Permethrin is the treatment of choice for which of the following?",
+  "options": {
+   "A": "Roundworms",
+   "B": "Acne vulgaris",
+   "C": "Tinea capitis",
+   "D": "Scabies",
+   "E": "Eczema"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Topical 5% permethrin is first-line for scabies.",
+  "key_note": "Merged duplicate note: Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03198"
+  ],
+  "stem": "All of the following are used in the treatment of scabies EXCEPT:",
+  "options": {
+   "A": "Sulphur",
+   "B": "Permethrin",
+   "C": "Benzoyl peroxide",
+   "D": "Crotamiton",
+   "E": "Skin hygiene"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Benzoyl peroxide is an acne treatment; sulphur, permethrin and crotamiton are scabicides.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02888"
+  ],
+  "stem": "A 25-year-old male has 5 days of generalised itching, worse at night, with lesions on the hands, interdigital spaces and genital areas. Along with topical medication, which systemic drug can you advise?",
+  "options": {
+   "A": "Aciclovir",
+   "B": "Albendazole",
+   "C": "Amphotericin B",
+   "D": "Ivermectin",
+   "E": "Mebendazole"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "This is scabies; oral ivermectin 200 microgram/kg is the systemic treatment.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02192"
+  ],
+  "stem": "Bowen's disease is also known as:",
+  "options": {
+   "A": "Squamous cell carcinoma",
+   "B": "Basal cell carcinoma",
+   "C": "Actinic keratosis",
+   "D": "Intra-epidermal carcinoma",
+   "E": "Cutaneous lymphoma"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Bowen's disease is squamous cell carcinoma in situ (intra-epidermal carcinoma).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02890"
+  ],
+  "stem": "A 65-year-old obese lady presents with an asymptomatic solitary non-healing erythematous scaly plaque on the left leg for 1 year, unresponsive to topical medications. What is your likely diagnosis?",
+  "options": {
+   "A": "Basal cell carcinoma",
+   "B": "Bowen's disease",
+   "C": "Lichen planus",
+   "D": "Psoriasis",
+   "E": "Seborrhoeic keratosis"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "A solitary, chronic, steroid-resistant scaly plaque on the lower leg of an elderly woman is Bowen's disease.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02191"
+  ],
+  "stem": "The treatment of choice in squamous cell carcinoma of the skin is:",
+  "options": {
+   "A": "Photodynamic therapy",
+   "B": "Excision",
+   "C": "Cryotherapy",
+   "D": "Mohs micrographic surgery",
+   "E": "Topical imiquimod"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Surgical excision with adequate margins is standard; Mohs is reserved for high-risk or cosmetically sensitive sites.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02193"
+  ],
+  "stem": "Which of the following cutaneous malignant melanomas is non-invasive?",
+  "options": {
+   "A": "Nodular melanoma",
+   "B": "Acral lentiginous melanoma",
+   "C": "Melanoma in situ",
+   "D": "Superficial spreading melanoma",
+   "E": "Subungual melanoma"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Melanoma in situ is confined to the epidermis, with no dermal invasion.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02194"
+  ],
+  "stem": "Hutchinson's sign is present in which of the following melanomas?",
+  "options": {
+   "A": "Melanoma in situ",
+   "B": "Nodular melanoma",
+   "C": "Subungual melanoma",
+   "D": "Lentigo maligna",
+   "E": "Acral lentiginous melanoma"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Pigment spreading onto the proximal nail fold (Hutchinson's sign) suggests subungual melanoma.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02613"
+  ],
+  "stem": "A 40-year-old fair-skinned woman has a changing mole on the thigh for 6 months with enlargement, darkening, itching and bleeding. It is a 9 mm asymmetrical pigmented plaque with irregular borders, variegated pigmentation and haemorrhagic crust. What is the best management?",
+  "options": {
+   "A": "Cryotherapy",
+   "B": "Excision cautery",
+   "C": "Excision with adequate margin",
+   "D": "Mohs micrographic surgery",
+   "E": "Topical retinoids"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Suspected melanoma needs complete surgical excision with histology-guided margins; destructive methods prevent staging.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02229"
+  ],
+  "stem": "Berloque dermatitis is due to contact with perfumes (bergamot oil) followed by exposure to:",
+  "options": {
+   "A": "Metals",
+   "B": "Ultraviolet radiation",
+   "C": "Food",
+   "D": "Plants",
+   "E": "None of the above"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Berloque dermatitis is a phototoxic reaction to psoralens in bergamot oil with UV light.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02234"
+  ],
+  "stem": "Necrobiosis lipoidica diabeticorum is more marked on:",
+  "options": {
+   "A": "Back of leg",
+   "B": "Front of legs",
+   "C": "Face",
+   "D": "Trunk",
+   "E": "Arms"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "It occurs mainly over the shins (pretibial).",
+  "key_note": "",
+  "figure": ""
+ }
+]

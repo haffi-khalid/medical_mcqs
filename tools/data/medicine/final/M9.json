@@ -1,0 +1,2110 @@
+[
+ {
+  "cids": [
+   "C00941"
+  ],
+  "stem": "Which one of the following cytokines is the most important in the pathophysiology of rheumatoid arthritis?",
+  "options": {
+   "A": "IFN-beta",
+   "B": "IFN-alpha",
+   "C": "IL-4",
+   "D": "Tumour necrosis factor",
+   "E": "IL-2"
+  },
+  "answer": "D",
+  "explanation": "TNF-alpha drives synovial inflammation and joint destruction in RA, which is why anti-TNF agents (infliximab, etanercept, adalimumab) work.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00979"
+  ],
+  "stem": "Which of the following is an extra-articular manifestation of rheumatoid arthritis?",
+  "options": {
+   "A": "Ulnar deviation of hands",
+   "B": "Boutonniere deformity",
+   "C": "Swan neck deformity",
+   "D": "Scleromalacia",
+   "E": "Iritis"
+  },
+  "answer": "D",
+  "explanation": "Scleritis and scleromalacia perforans are ocular extra-articular features of RA. The other options are articular deformities, and iritis/uveitis belongs to the seronegative spondyloarthropathies.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00824",
+   "C01012"
+  ],
+  "stem": "Which of the following is a characteristic feature of rheumatoid arthritis?",
+  "options": {
+   "A": "Polycythaemia",
+   "B": "Radial deviation",
+   "C": "Involvement of proximal interphalangeal joints",
+   "D": "Morning stiffness lasting less than one hour",
+   "E": "Acute onset of joint pain as the commonest presentation"
+  },
+  "answer": "C",
+  "explanation": "RA is a symmetrical small joint polyarthritis involving MCP and PIP joints with ulnar deviation, morning stiffness longer than 1 hour, and usually an insidious onset; anaemia (not polycythaemia) is typical.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00454"
+  ],
+  "stem": "Which of the following is included in the criteria for diagnosis of rheumatoid arthritis?",
+  "options": {
+   "A": "Axial skeleton frequently involved",
+   "B": "Arthritis of one joint at a time",
+   "C": "Symmetrical polyarthritis",
+   "D": "Large joint involvement",
+   "E": "Morning stiffness of less than 30 minutes"
+  },
+  "answer": "C",
+  "explanation": "Symmetrical involvement of small joints of the hands, with morning stiffness of at least 1 hour, is part of the classic criteria. RA spares the axial skeleton except the cervical spine.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00442",
+   "C01985",
+   "C03088"
+  ],
+  "stem": "Symmetrical small joint polyarthritis is typically seen in:",
+  "options": {
+   "A": "Septic arthritis",
+   "B": "Gout",
+   "C": "Rheumatoid arthritis",
+   "D": "Reactive arthritis",
+   "E": "Rickets"
+  },
+  "answer": "C",
+  "explanation": "RA is the classic symmetrical small joint polyarthritis; septic, gouty and reactive arthritis are usually mono- or asymmetric oligoarticular.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01554"
+  ],
+  "stem": "A 30-year-old woman has had three months of pain, swelling and redness of the small joints of her hands. The proximal interphalangeal and metacarpophalangeal joints are involved. Which investigation is most likely to confirm the diagnosis?",
+  "options": {
+   "A": "ESR",
+   "B": "Blood complete picture",
+   "C": "Rheumatoid factor",
+   "D": "Antinuclear antibody",
+   "E": "Anti-dsDNA"
+  },
+  "answer": "C",
+  "explanation": "This is rheumatoid arthritis; rheumatoid factor (and anti-CCP, which is more specific) supports the diagnosis. ESR and blood counts are non-specific, and ANA and anti-dsDNA point to SLE.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00003",
+   "C01986"
+  ],
+  "stem": "A 47-year-old woman has a long history of pain in the small joints of her hands, worst in the mornings and not controlled by analgesics. There is a 3 cm hard nodule on the extensor surface near the elbow. Which treatment should be started?",
+  "options": {
+   "A": "Allopurinol",
+   "B": "Naproxen sodium",
+   "C": "Interferon",
+   "D": "Methotrexate",
+   "E": "Steroids"
+  },
+  "answer": "D",
+  "explanation": "Seropositive RA with a rheumatoid nodule needs a DMARD, and methotrexate is the first-line DMARD. NSAIDs and steroids only give symptomatic or bridging relief.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00822"
+  ],
+  "stem": "All of the following are disease modifying drugs for rheumatoid arthritis except:",
+  "options": {
+   "A": "Methotrexate",
+   "B": "Hydroxychloroquine",
+   "C": "Corticosteroids",
+   "D": "Leflunomide",
+   "E": "NSAIDs"
+  },
+  "answer": "E",
+  "explanation": "NSAIDs give symptomatic relief only and do not alter disease progression. Corticosteroids are used as bridging therapy and have some disease-modifying effect.",
+  "key_note": "Corticosteroids are also not classic DMARDs; NSAIDs is the best answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00449"
+  ],
+  "stem": "In respect of rheumatoid arthritis, all of the following are disease modifying drugs except:",
+  "options": {
+   "A": "Penicillin",
+   "B": "Azathioprine",
+   "C": "Sulphasalazine",
+   "D": "Gold",
+   "E": "Leflunomide"
+  },
+  "answer": "A",
+  "explanation": "Penicillin is an antibiotic with no role in RA (the DMARD is penicillamine). Azathioprine, sulphasalazine, gold and leflunomide are all DMARDs.",
+  "key_note": "One paper key marked C (Sulphasalazine); sulphasalazine is a DMARD, so correct is A, Penicillin.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00944"
+  ],
+  "stem": "A 45-year-old woman with rheumatoid arthritis presents with a two day history of a hot, painful, swollen right elbow. What is the most appropriate management?",
+  "options": {
+   "A": "Joint aspiration",
+   "B": "Start infliximab",
+   "C": "Oral high-dose prednisolone",
+   "D": "Short course of methotrexate",
+   "E": "Depot methylprednisolone injection"
+  },
+  "answer": "A",
+  "explanation": "A hot swollen joint in an RA patient is septic arthritis until proved otherwise; aspirate for Gram stain and culture before antibiotics. Immunosuppression would be dangerous.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00932"
+  ],
+  "stem": "A 50-year-old woman with rheumatoid arthritis presents with a suspected septic knee joint. A diagnostic aspiration is sent to microbiology. Which organism is most likely to be responsible?",
+  "options": {
+   "A": "Staphylococcus aureus",
+   "B": "Staphylococcus epidermidis",
+   "C": "Escherichia coli",
+   "D": "Neisseria gonorrhoeae",
+   "E": "Streptococcus pneumoniae"
+  },
+  "answer": "A",
+  "explanation": "Staphylococcus aureus is the commonest cause of septic arthritis in adults, especially with pre-existing joint disease. Gonococcus is commoner in young sexually active adults.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00943"
+  ],
+  "stem": "Which one of the following statements regarding systemic lupus erythematosus is true?",
+  "options": {
+   "A": "It is linked with HLA A5",
+   "B": "Onset is typically between 20 and 40 years of age",
+   "C": "It is more common in Caucasians",
+   "D": "The female to male ratio is 3:1",
+   "E": "The incidence has decreased in the past 30 years"
+  },
+  "answer": "B",
+  "explanation": "SLE typically starts in young adult women of childbearing age. The female to male ratio is about 9:1, it is commoner in Afro-Caribbean and Asian people, it is linked with HLA-DR2/DR3, and incidence has risen.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00740"
+  ],
+  "stem": "A 32-year-old woman has had 6 months of intermittent low grade fever and a rash on the face, with pain in the small joints of the hands and difficulty combing hair and climbing stairs. There is an erythematous rash on the central face. Labs show pancytopenia and deranged renal function. What is the likely diagnosis?",
+  "options": {
+   "A": "Rheumatoid arthritis",
+   "B": "Systemic lupus erythematosus",
+   "C": "Dermatomyositis",
+   "D": "Systemic sclerosis",
+   "E": "Mixed connective tissue disease"
+  },
+  "answer": "B",
+  "explanation": "Malar rash, arthritis, myalgia, cytopenias and renal involvement fit SLE. Dermatomyositis would not cause pancytopenia and nephritis.",
+  "key_note": "One paper copy marked E (Mixed connective tissue disease); correct is B, SLE with multisystem involvement and cytopenias.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01457",
+   "C00443",
+   "C01540"
+  ],
+  "stem": "A 20-year-old girl has a facial rash that worsens on sun exposure, oral ulcers and swelling of the small joints of the hands. What is the most likely diagnosis?",
+  "options": {
+   "A": "Systemic sclerosis",
+   "B": "Dermatomyositis",
+   "C": "Systemic lupus erythematosus",
+   "D": "Lichen planus",
+   "E": "Pemphigus vulgaris"
+  },
+  "answer": "C",
+  "explanation": "Photosensitive malar rash, oral ulcers and arthritis are classic SLE criteria.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01374"
+  ],
+  "stem": "A patient presents with a rash on the face (a clinical picture was shown in the paper, not reproduced here). The picture shows a butterfly-shaped erythema over the cheeks and nasal bridge sparing the nasolabial folds. What is the likely diagnosis?",
+  "options": {
+   "A": "Systemic sclerosis",
+   "B": "Vitiligo",
+   "C": "Addison's disease",
+   "D": "Melasma",
+   "E": "Systemic lupus erythematosus"
+  },
+  "answer": "E",
+  "explanation": "A malar (butterfly) rash sparing the nasolabial folds is typical of SLE.",
+  "key_note": "The source question relied on a picture; the stem has been rewritten to describe the classic image.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01568"
+  ],
+  "stem": "Which of the following is a feature of systemic lupus erythematosus?",
+  "options": {
+   "A": "Vitiligo",
+   "B": "Butterfly (malar) rash over the face",
+   "C": "Involvement of the spine",
+   "D": "Gottron's papules",
+   "E": "High complement levels"
+  },
+  "answer": "B",
+  "explanation": "Malar rash is a classic SLE feature. Gottron's papules belong to dermatomyositis, and complement levels are low in active SLE.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00827"
+  ],
+  "stem": "All of the following are features of SLE except:",
+  "options": {
+   "A": "Butterfly (malar) rash over the face",
+   "B": "Photosensitivity",
+   "C": "Arthritis of peripheral joints",
+   "D": "More common in males",
+   "E": "Thrombocytopenia"
+  },
+  "answer": "D",
+  "explanation": "SLE is about 9 times commoner in women than men.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00166",
+   "C00545",
+   "C03085"
+  ],
+  "stem": "A 34-year-old woman has fatigue, oral ulcers and a facial rash worse in summer, with joint pains and morning stiffness. Urea and creatinine are slightly raised and urinalysis shows red cell casts. What is the most sensitive investigation?",
+  "options": {
+   "A": "Anti-dsDNA antibodies",
+   "B": "C3 and C4 levels",
+   "C": "Antinuclear antibodies",
+   "D": "Anti-Smith antibodies",
+   "E": "ESR and CRP"
+  },
+  "answer": "C",
+  "explanation": "ANA is positive in over 95% of SLE patients, so it is the most sensitive test but it is not specific. Anti-dsDNA and anti-Smith are more specific.",
+  "key_note": "In one copy a green mark fell on another option; ANA is the most sensitive test, anti-dsDNA and anti-Sm the most specific.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00933"
+  ],
+  "stem": "Low levels of which of the following complement components are associated with systemic lupus erythematosus?",
+  "options": {
+   "A": "C4",
+   "B": "C5",
+   "C": "C6",
+   "D": "C7",
+   "E": "C8"
+  },
+  "answer": "A",
+  "explanation": "Classical pathway components C4 (and C3) are consumed by immune complexes in active SLE, and congenital C1q, C2 and C4 deficiency predispose to lupus.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00982",
+   "C01276"
+  ],
+  "stem": "The renal manifestation of systemic lupus erythematosus is:",
+  "options": {
+   "A": "Pyelonephritis",
+   "B": "Renal cysts",
+   "C": "Glomerulonephritis",
+   "D": "Renal stones",
+   "E": "Polycystic kidneys"
+  },
+  "answer": "C",
+  "explanation": "Lupus nephritis (immune complex glomerulonephritis) is the characteristic renal lesion of SLE.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00452"
+  ],
+  "stem": "A 25-year-old patient with SLE presents with nephrotic syndrome. Renal biopsy shows diffuse proliferative glomerulonephritis (Class IV). Which treatment regimen would you advise?",
+  "options": {
+   "A": "Azathioprine alone",
+   "B": "Azathioprine and prednisolone",
+   "C": "Prednisolone alone",
+   "D": "Prednisolone and intravenous cyclophosphamide",
+   "E": "Prednisolone and methotrexate"
+  },
+  "answer": "D",
+  "explanation": "Class IV lupus nephritis needs aggressive induction with high-dose steroids plus cyclophosphamide (or mycophenolate), as in the standard teaching.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00002"
+  ],
+  "stem": "A 32-year-old woman presents with sudden shortness of breath and cough with haemoptysis. She has had two previous pulmonary emboli. The chest is clear and there are no skin lesions. What is the likely diagnosis?",
+  "options": {
+   "A": "Antiphospholipid syndrome",
+   "B": "Dermatomyositis",
+   "C": "Systemic sclerosis",
+   "D": "Overlap syndromes",
+   "E": "Systemic lupus erythematosus"
+  },
+  "answer": "A",
+  "explanation": "Recurrent venous thromboembolism in a young woman without other features of connective tissue disease suggests antiphospholipid syndrome.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00005",
+   "C02411"
+  ],
+  "stem": "A 47-year-old woman has tightening of the skin of her fingers, difficulty swallowing and a furrowed mouth. The skin is tight on both arms distal to the elbow. Which antibody is likely to be positive?",
+  "options": {
+   "A": "Anti-centromere",
+   "B": "Anti-topoisomerase I (Scl-70)",
+   "C": "cANCA",
+   "D": "pANCA",
+   "E": "Rheumatoid factor"
+  },
+  "answer": "A",
+  "explanation": "Skin involvement distal to the elbows suggests limited cutaneous systemic sclerosis (CREST), associated with anti-centromere antibodies. Anti-Scl-70 goes with diffuse disease.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00435",
+   "C01341"
+  ],
+  "stem": "A 45-year-old woman presents with difficulty in swallowing, dyspepsia and bluish discolouration of her hands on exposure to cold. Her face and hands show shiny tight skin with small red marks on her chest. What is the likely diagnosis?",
+  "options": {
+   "A": "Raynaud's disease",
+   "B": "CREST syndrome",
+   "C": "Polyarteritis nodosa",
+   "D": "Polymyalgia rheumatica",
+   "E": "SLE"
+  },
+  "answer": "B",
+  "explanation": "Raynaud's, oesophageal dysmotility, sclerodactyly and telangiectasia (red marks) are the features of CREST, the limited form of systemic sclerosis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00981",
+   "C03082"
+  ],
+  "stem": "Which one of the following is not a component of CREST syndrome?",
+  "options": {
+   "A": "Calcinosis",
+   "B": "Oesophageal involvement",
+   "C": "Sclerodactyly",
+   "D": "Thrombocytosis",
+   "E": "Raynaud's phenomenon"
+  },
+  "answer": "D",
+  "explanation": "CREST stands for calcinosis, Raynaud's, oesophageal dysmotility, sclerodactyly and telangiectasia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00828",
+   "C01542"
+  ],
+  "stem": "A 35-year-old woman has a beaked nose, tight skin of the fingers and puckering of the lips. Which of the following is a feature of this disease?",
+  "options": {
+   "A": "More common in males",
+   "B": "Dysphagia",
+   "C": "Peak age of onset in the 2nd and 3rd decades",
+   "D": "Pulmonary stenosis",
+   "E": "Arthritis of large joints"
+  },
+  "answer": "B",
+  "explanation": "Oesophageal dysmotility with dysphagia is common in scleroderma. It is commoner in women, peaks in the 4th to 5th decades, and arthritis is of small joints.",
+  "key_note": "Option D (pulmonary hypotension in the source) was replaced by reviewer because pulmonary hypertension is a genuine feature of scleroderma.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01320",
+   "C02901"
+  ],
+  "stem": "Drug of choice for scleroderma renal crisis is:",
+  "options": {
+   "A": "Amlodipine",
+   "B": "ACE inhibitor",
+   "C": "Hydralazine",
+   "D": "Propranolol",
+   "E": "Carvedilol"
+  },
+  "answer": "B",
+  "explanation": "Scleroderma renal crisis is driven by renin, so ACE inhibitors (e.g. captopril) are the drug of choice.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00057"
+  ],
+  "stem": "A 22-year-old woman has a long history of dry, itchy eyes and a dry mouth. There is no abnormality on examination. Which test will help in diagnosis?",
+  "options": {
+   "A": "Anti-U1-RNP",
+   "B": "cANCA",
+   "C": "Rheumatoid factor",
+   "D": "Schirmer's test",
+   "E": "Schober's test"
+  },
+  "answer": "D",
+  "explanation": "Sicca symptoms suggest Sjogren's syndrome; Schirmer's test measures tear production (under 5 mm in 5 minutes). Schober's test measures lumbar flexion in ankylosing spondylitis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00436",
+   "C00522",
+   "C01541",
+   "C02360",
+   "C02841"
+  ],
+  "stem": "A 50-year-old woman presents with dry eyes and dry mouth for 4 months, with fatigue and arthralgias. What is the most likely diagnosis?",
+  "options": {
+   "A": "Behcet's disease",
+   "B": "Sjogren's syndrome",
+   "C": "Scleroderma",
+   "D": "SLE",
+   "E": "Rheumatoid arthritis"
+  },
+  "answer": "B",
+  "explanation": "Keratoconjunctivitis sicca with xerostomia and arthralgia is Sjogren's syndrome.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00942",
+   "C02006"
+  ],
+  "stem": "A 54-year-old woman with dry eyes and arthralgia is suspected to have primary Sjogren's syndrome. Which of the following features is least associated with this condition?",
+  "options": {
+   "A": "Renal tubular acidosis",
+   "B": "Xerostomia",
+   "C": "Sensory polyneuropathy",
+   "D": "Dilated cardiomyopathy",
+   "E": "Raynaud's phenomenon"
+  },
+  "answer": "D",
+  "explanation": "Sjogren's is associated with RTA, peripheral neuropathy and Raynaud's; cardiomyopathy is not a feature.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01653"
+  ],
+  "stem": "A 67-year-old man has had difficulty climbing stairs, rising from a chair and raising his arms above his head for some months. There is no pain. Examination shows wasting of pelvic and shoulder girdle muscles. What is the most likely diagnosis?",
+  "options": {
+   "A": "Polymyositis",
+   "B": "Motor neuron disease",
+   "C": "Age related muscle weakness",
+   "D": "Dermatomyositis",
+   "E": "Polymyalgia rheumatica"
+  },
+  "answer": "A",
+  "explanation": "Painless proximal symmetrical muscle weakness without rash is polymyositis; PMR causes pain and stiffness with raised ESR but not wasting or true weakness.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00056",
+   "C00433"
+  ],
+  "stem": "A 65-year-old woman has sudden bilateral shoulder pain and stiffness, with markedly raised ESR and no neurological weakness. What is the most likely diagnosis?",
+  "options": {
+   "A": "Cervical spondylosis",
+   "B": "Polymyositis",
+   "C": "Adhesive capsulitis",
+   "D": "Polymyalgia rheumatica",
+   "E": "Takayasu's arteritis"
+  },
+  "answer": "D",
+  "explanation": "Bilateral shoulder girdle pain and stiffness in an older woman with a very high ESR is polymyalgia rheumatica.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00437",
+   "C02834"
+  ],
+  "stem": "A 65-year-old man presents with a severe throbbing headache for 2 days, jaw pain on eating and scalp tenderness on combing his hair. ESR is 88. What is the most likely diagnosis?",
+  "options": {
+   "A": "Polyarteritis nodosa",
+   "B": "Giant cell arteritis",
+   "C": "Osteosarcoma",
+   "D": "Takayasu's arteritis",
+   "E": "Polymyalgia rheumatica"
+  },
+  "answer": "B",
+  "explanation": "Headache, jaw claudication, scalp tenderness and very high ESR in an elderly patient indicate giant cell (temporal) arteritis; start steroids at once to prevent blindness.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00262"
+  ],
+  "stem": "Antineutrophil cytoplasmic antibody (ANCA) is typically present in which systemic disease?",
+  "options": {
+   "A": "Goodpasture's syndrome",
+   "B": "Wegener's granulomatosis (granulomatosis with polyangiitis)",
+   "C": "Systemic lupus erythematosus",
+   "D": "Thrombotic thrombocytopenic purpura",
+   "E": "Rheumatoid arthritis"
+  },
+  "answer": "B",
+  "explanation": "cANCA (anti-proteinase 3) is characteristic of Wegener's granulomatosis, now called granulomatosis with polyangiitis.",
+  "key_note": "Duplicate option (SLE listed twice) was replaced by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00937",
+   "C02004",
+   "C02707"
+  ],
+  "stem": "A 41-year-old man with a history of asthma presents with pain and weakness of his left hand, consistent with a left ulnar nerve palsy. Blood tests show eosinophilia. Which antibody is most likely to be present?",
+  "options": {
+   "A": "ANA",
+   "B": "Anti-Scl-70",
+   "C": "pANCA",
+   "D": "Antiphospholipid antibodies",
+   "E": "cANCA"
+  },
+  "answer": "C",
+  "explanation": "Asthma, eosinophilia and mononeuritis multiplex indicate Churg-Strauss syndrome (EGPA), which is associated with pANCA (anti-MPO).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00938"
+  ],
+  "stem": "A 34-year-old intravenous drug user has a purpuric rash on the legs. Blood shows Hb 11.4 g/dl, platelets 489, WCC 12.3, HCV PCR positive, HBsAg negative, rheumatoid factor positive and reduced C3/C4. What is the most likely diagnosis?",
+  "options": {
+   "A": "Polyarteritis nodosa",
+   "B": "Henoch-Schonlein purpura",
+   "C": "Wegener's granulomatosis",
+   "D": "Cryoglobulinaemia",
+   "E": "Systemic lupus erythematosus"
+  },
+  "answer": "D",
+  "explanation": "Hepatitis C causes mixed cryoglobulinaemia with purpura, positive rheumatoid factor and low complement, particularly C4.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00940",
+   "C02005"
+  ],
+  "stem": "A 54-year-old man has abdominal pain, testicular pain, weight loss, left foot drop and livedo reticularis, and polyarteritis nodosa is suspected. What will his autoantibody screen most likely show?",
+  "options": {
+   "A": "Positive anti-CCP",
+   "B": "Positive rheumatoid factor",
+   "C": "Positive cANCA",
+   "D": "No autoantibody is likely to be positive",
+   "E": "Positive pANCA"
+  },
+  "answer": "D",
+  "explanation": "Classic PAN is typically ANCA negative; it is associated with hepatitis B and diagnosed by angiography or biopsy.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01588"
+  ],
+  "stem": "A 14-year-old boy develops a purpuric rash on the legs and abdominal pain. He takes no medication and examination is otherwise normal. FBC shows Hb 11.7 g/dl, platelets 262,000/cmm and WCC 5900/cmm. What is the most likely diagnosis?",
+  "options": {
+   "A": "Drug-induced thrombocytopenia",
+   "B": "Henoch-Schonlein purpura",
+   "C": "Thrombotic thrombocytopenic purpura",
+   "D": "Idiopathic thrombocytopenic purpura",
+   "E": "Antiphospholipid syndrome"
+  },
+  "answer": "B",
+  "explanation": "Palpable purpura on the legs with abdominal pain and a normal platelet count in a child is Henoch-Schonlein purpura (IgA vasculitis).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [],
+  "stem": "A 14-year-old boy develops a purpuric rash on the legs and frequent epistaxis. He takes no medication and examination is otherwise normal. FBC shows Hb 11.7 g/dl, platelets 62,000/cmm and WCC 5900/cmm. What is the most likely diagnosis?",
+  "options": {
+   "A": "Drug-induced thrombocytopenia",
+   "B": "Henoch-Schonlein purpura",
+   "C": "Thrombotic thrombocytopenic purpura",
+   "D": "Idiopathic thrombocytopenic purpura",
+   "E": "Antiphospholipid syndrome"
+  },
+  "answer": "D",
+  "explanation": "Isolated thrombocytopenia with mucocutaneous bleeding in a well child is ITP; in HSP the platelet count is normal.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00434"
+  ],
+  "stem": "A 45-year-old man presents with a 3 day history of a red, watery right eye with blurred vision. He has recurrent oral ulcers and painful red nodules on his shins for 3 months. He has a painful swollen right ankle, and slit lamp examination shows posterior uveitis. What is the most likely diagnosis?",
+  "options": {
+   "A": "Behcet's disease",
+   "B": "CREST syndrome",
+   "C": "Rheumatoid arthritis",
+   "D": "SLE",
+   "E": "Still's disease"
+  },
+  "answer": "A",
+  "explanation": "Recurrent oral ulcers, erythema nodosum, arthritis and posterior uveitis are the picture of Behcet's disease.",
+  "key_note": "Some paper keys marked Rheumatoid arthritis; correct is Behcet's disease (oral ulcers, erythema nodosum, uveitis, arthritis).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01263"
+  ],
+  "stem": "The classic triad of Behcet's disease is:",
+  "options": {
+   "A": "Oral ulcers, genital ulcers and eye inflammation",
+   "B": "Meningitis, serositis and arthritis",
+   "C": "Vasculitic leg ulcers, erythema nodosum and alopecia",
+   "D": "Photosensitivity, malar rash and oral ulcers",
+   "E": "Dry eyes, dry mouth and parotid enlargement"
+  },
+  "answer": "A",
+  "explanation": "Behcet's disease is characterised by recurrent oral and genital ulceration with eye inflammation (uveitis), with arthritis, erythema nodosum and vasculitis as other features.",
+  "key_note": "Original options included 'all of the above', which was also defensible; options rewritten by reviewer so only the classic triad is correct (paper key A kept).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01226"
+  ],
+  "stem": "Which one of the following is a non-infective cause of genital ulceration?",
+  "options": {
+   "A": "Primary chancre",
+   "B": "Chancroid",
+   "C": "Lymphogranuloma venereum",
+   "D": "Behcet's syndrome",
+   "E": "Herpes infection"
+  },
+  "answer": "D",
+  "explanation": "Behcet's syndrome causes recurrent painful genital ulcers; the other options are all sexually transmitted infections.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00429",
+   "C01656",
+   "C02363",
+   "C02844",
+   "C01679"
+  ],
+  "stem": "A 40-year-old man presents with worsening lower back pain, worse in the morning and improving with exercise, spreading to the buttocks and associated with stiffness. A lumbar X-ray shows squaring of the vertebral bodies. What is the most likely diagnosis?",
+  "options": {
+   "A": "Tuberculosis",
+   "B": "Malignancy",
+   "C": "Ankylosing spondylitis",
+   "D": "Osteoarthritis",
+   "E": "Mechanical back pain"
+  },
+  "answer": "C",
+  "explanation": "Inflammatory back pain (morning stiffness, improves with activity) with squaring of vertebrae and sacroiliitis is ankylosing spondylitis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00825",
+   "C00983",
+   "C01988"
+  ],
+  "stem": "Which of the following is positive in ankylosing spondylitis?",
+  "options": {
+   "A": "Vitamin D deficiency",
+   "B": "Anti-CCP",
+   "C": "Anti-double stranded DNA",
+   "D": "HLA-B27",
+   "E": "Hyperuricaemia"
+  },
+  "answer": "D",
+  "explanation": "About 90% of patients with ankylosing spondylitis carry HLA-B27.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00980"
+  ],
+  "stem": "The articular manifestation of seronegative spondyloarthropathies is:",
+  "options": {
+   "A": "Uveitis",
+   "B": "Erythema nodosum",
+   "C": "Aortitis",
+   "D": "Sacroiliitis",
+   "E": "Carditis"
+  },
+  "answer": "D",
+  "explanation": "Sacroiliitis and spondylitis are the joint (axial) features; uveitis, erythema nodosum and aortitis are extra-articular.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00986"
+  ],
+  "stem": "Which cardiovascular manifestation occurs in ankylosing spondylitis?",
+  "options": {
+   "A": "Aortic incompetence",
+   "B": "Mitral stenosis",
+   "C": "Pulmonary stenosis",
+   "D": "Tricuspid incompetence",
+   "E": "Pericardial effusion"
+  },
+  "answer": "A",
+  "explanation": "Aortitis with aortic root dilatation causes aortic regurgitation, and conduction defects may also occur.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01013",
+   "C01555"
+  ],
+  "stem": "A 30-year-old man presents with back pain and stiffness, and his X-ray shows a bamboo spine. Which of the following is true for this disease?",
+  "options": {
+   "A": "More common in females",
+   "B": "Usually acute onset",
+   "C": "Peak onset is after the age of fifty years",
+   "D": "Associated with HLA-B27",
+   "E": "Atypical lower lobe pulmonary fibrosis"
+  },
+  "answer": "D",
+  "explanation": "Ankylosing spondylitis is HLA-B27 associated, commoner in young men, insidious in onset, and the lung change is apical fibrosis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00431",
+   "C01832"
+  ],
+  "stem": "A 60-year-old woman has joint pains and mild deformity of her distal interphalangeal joints. There is an erythematous silvery plaque at her hairline. What is the most likely diagnosis?",
+  "options": {
+   "A": "Rheumatoid arthritis",
+   "B": "SLE",
+   "C": "Systemic sclerosis",
+   "D": "Psoriatic arthritis",
+   "E": "Reactive arthritis"
+  },
+  "answer": "D",
+  "explanation": "Scalp psoriasis with DIP joint arthritis is psoriatic arthritis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00447"
+  ],
+  "stem": "A 30-year-old man has knee and heel pain for a week, dysuria for 10 days and red itchy eyes. What is the likely diagnosis?",
+  "options": {
+   "A": "Septic arthritis",
+   "B": "Reactive arthritis",
+   "C": "Ankylosing spondylitis",
+   "D": "Gout",
+   "E": "Crystal arthropathy"
+  },
+  "answer": "B",
+  "explanation": "The triad of arthritis, urethritis and conjunctivitis with enthesitis (heel pain) is reactive arthritis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00931"
+  ],
+  "stem": "Reactive arthritis is associated with which one of the following HLA antigens?",
+  "options": {
+   "A": "HLA-B27",
+   "B": "HLA-A3",
+   "C": "HLA-DR4",
+   "D": "HLA-B5",
+   "E": "HLA-DR3"
+  },
+  "answer": "A",
+  "explanation": "Reactive arthritis is strongly associated with HLA-B27; HLA-DR4 goes with rheumatoid arthritis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01654"
+  ],
+  "stem": "A 21-year-old man presents with acute onset of a swollen, red, tender and hot right knee. He gives a history of purulent urethral discharge for which he was treated by a local doctor. What is the most probable diagnosis?",
+  "options": {
+   "A": "Gout",
+   "B": "Pseudogout",
+   "C": "Gonococcal arthritis",
+   "D": "Reactive arthritis",
+   "E": "Osteoarthritis"
+  },
+  "answer": "D",
+  "explanation": "Acute asymmetric monoarthritis arising after treated urethritis is reactive arthritis, and gonococcal arthritis (C) is the alternative to exclude by aspiration and culture.",
+  "key_note": "Not marked in the source paper; answer by reviewer. Gonococcal arthritis is a close alternative.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00984",
+   "C00001",
+   "C00441",
+   "C01252",
+   "C00432",
+   "C03074",
+   "C02361",
+   "C02842"
+  ],
+  "stem": "A 36-year-old man has sudden excruciating pain in his right big toe at night and a past history of renal stones. The toe is swollen, hot and tender. What is the most likely diagnosis?",
+  "options": {
+   "A": "Reactive arthritis",
+   "B": "Acute gouty arthritis",
+   "C": "Septic arthritis",
+   "D": "Rheumatoid arthritis",
+   "E": "Osteoarthritis"
+  },
+  "answer": "B",
+  "explanation": "Nocturnal podagra with past urate stones points to acute gout.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01464",
+   "C02001"
+  ],
+  "stem": "Gout is due to deposition of which of the following?",
+  "options": {
+   "A": "Calcium pyrophosphate crystals",
+   "B": "Monosodium urate crystals",
+   "C": "Homocysteine",
+   "D": "Lipids",
+   "E": "Immunoglobulins"
+  },
+  "answer": "B",
+  "explanation": "Gout results from deposition of monosodium urate crystals (needle-shaped, negatively birefringent) in joints.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01556"
+  ],
+  "stem": "A 40-year-old man has severe pain in his left big toe the day after a barbecue dinner. Which statement is correct for this case?",
+  "options": {
+   "A": "Single joint involvement is rare",
+   "B": "Joint fluid shows calcium pyrophosphate crystals",
+   "C": "Serum uric acid levels are raised",
+   "D": "It is an infectious disease",
+   "E": "There are no systemic manifestations"
+  },
+  "answer": "C",
+  "explanation": "This is acute gout precipitated by a purine-rich meal and alcohol. It typically affects a single joint, the fluid shows urate crystals, and serum uric acid is usually raised.",
+  "key_note": "Option list was scrambled in the source; repaired by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01467"
+  ],
+  "stem": "A 45-year-old man has an acute attack of gouty arthritis of the right big toe. Which of the following treatments is not appropriate?",
+  "options": {
+   "A": "Start colchicine",
+   "B": "Give traditional analgesics (NSAIDs)",
+   "C": "Give steroids",
+   "D": "Start allopurinol",
+   "E": "Give intra-articular steroids"
+  },
+  "answer": "D",
+  "explanation": "Allopurinol must not be started during an acute attack since it can prolong or worsen it; use NSAIDs, colchicine or steroids, and start urate lowering later.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00826"
+  ],
+  "stem": "Which of the following is not a feature of gout?",
+  "options": {
+   "A": "More common in the obese",
+   "B": "High alcohol intake",
+   "C": "Type IV hyperlipoproteinaemia",
+   "D": "More common in females",
+   "E": "High protein intake"
+  },
+  "answer": "D",
+  "explanation": "Gout is commoner in men, with obesity, alcohol, purine-rich diet and hypertriglyceridaemia as risk factors.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01014"
+  ],
+  "stem": "All of the following are features of gout except:",
+  "options": {
+   "A": "More common in the obese",
+   "B": "High alcohol intake",
+   "C": "Symmetrical polyarthritis",
+   "D": "More common in males",
+   "E": "High protein intake"
+  },
+  "answer": "C",
+  "explanation": "Gout is typically an acute monoarthritis, not a symmetrical polyarthritis (which suggests RA).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00455",
+   "C01674"
+  ],
+  "stem": "A 50-year-old woman has a hot, painful left knee and is vitally stable. Synovial fluid shows positively birefringent rhomboid crystals. What is the most likely diagnosis?",
+  "options": {
+   "A": "Gout",
+   "B": "Pseudogout",
+   "C": "Reactive arthritis",
+   "D": "Septic arthritis",
+   "E": "SLE"
+  },
+  "answer": "B",
+  "explanation": "Calcium pyrophosphate crystals are rhomboid and positively birefringent, giving pseudogout; gout shows needle-shaped, negatively birefringent urate crystals.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00985"
+  ],
+  "stem": "Osteoarthritis affecting the distal interphalangeal joints is known as:",
+  "options": {
+   "A": "Bouchard's nodes",
+   "B": "Heberden's nodes",
+   "C": "Nodal osteoarthritis",
+   "D": "Osler's nodes",
+   "E": "Gouty nodes"
+  },
+  "answer": "B",
+  "explanation": "Heberden's nodes are at the DIP joints and Bouchard's nodes at the PIP joints.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00753"
+  ],
+  "stem": "A 73-year-old man has right thigh pain worsening over 9 months but is otherwise well. X-ray of the right femur shows bone changes with osteophytes; serum calcium is 9.8 mg/dl and alkaline phosphatase is markedly raised (355). What is the most appropriate action?",
+  "options": {
+   "A": "Vitamin D supplementation",
+   "B": "Referral to an orthopaedic surgeon",
+   "C": "Calcium supplementation",
+   "D": "Start a bisphosphonate",
+   "E": "Serum testosterone"
+  },
+  "answer": "D",
+  "explanation": "Isolated raised ALP with normal calcium and bone pain in an older man suggests Paget's disease of bone, treated with bisphosphonates.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00945"
+  ],
+  "stem": "A 45-year-old man has a painful, erythematous, tender swelling on the posterior aspect of his elbow with no trauma. What is the most likely diagnosis?",
+  "options": {
+   "A": "Synovial cyst",
+   "B": "Haemarthrosis",
+   "C": "Septic arthritis",
+   "D": "Gout",
+   "E": "Olecranon bursitis"
+  },
+  "answer": "E",
+  "explanation": "Swelling over the point of the elbow with preserved joint movement is olecranon bursitis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00823"
+  ],
+  "stem": "Migratory polyarthritis is a feature of:",
+  "options": {
+   "A": "Rheumatoid arthritis",
+   "B": "Rheumatic fever",
+   "C": "Gouty arthritis",
+   "D": "Reactive arthritis",
+   "E": "Septic arthritis"
+  },
+  "answer": "B",
+  "explanation": "Flitting arthritis of large joints is a major Jones criterion of rheumatic fever.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02003",
+   "C01997"
+  ],
+  "stem": "Which of the following is the most common area affected by rheumatoid arthritis?",
+  "options": {
+   "A": "Temporomandibular joints (TMJ)",
+   "B": "Metatarsophalangeal (MTP) joints",
+   "C": "Wrist joints (radiocarpal, ulnocarpal, and distal radioulnar joints)",
+   "D": "Metacarpophalangeal (MCP) and proximal interphalangeal (PIP) joints"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "RA classically begins as a symmetrical small-joint polyarthritis of the MCP, PIP and wrist joints; DIPs are spared. MCP and PIP involvement is the most typical pattern.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01945",
+   "C02011"
+  ],
+  "stem": "A 54-year-old man presents with inflammatory polyarticular arthritis that is found to be due to rheumatoid arthritis. Which one of the following is true regarding this disease?",
+  "options": {
+   "A": "It is a rare cause of inflammatory arthritis",
+   "B": "More common in males",
+   "C": "Atrophy of the synovial membrane is common",
+   "D": "Rheumatoid nodules are not seen outside the skin",
+   "E": "No laboratory test is diagnostic"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "RA is a common inflammatory arthritis, commoner in women, with synovial hypertrophy (not atrophy) and extra-articular nodules (lung, heart); no single laboratory test is diagnostic, so diagnosis rests on clinical criteria plus serology and imaging.",
+  "key_note": "One paper key marked C (atrophy of synovium); correct is E: the synovium shows hypertrophy and pannus, and no single test is diagnostic.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01834",
+   "C01983"
+  ],
+  "stem": "A 40 year old female patient attends the Rheumatology Clinic for assessment of symmetrical joint pains & morning stiffness affecting both hands for 8 weeks. The most specific investigation in this patient is,",
+  "options": {
+   "A": "Anti Cyclic citrullinated peptide",
+   "B": "Anti cytoplasmic antibodies",
+   "C": "Anti centromere antibodies",
+   "D": "Rheumatoid factor"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Anti-CCP is the most specific antibody for RA (about 95%), whereas rheumatoid factor is also found in other conditions and in healthy elderly people.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02012"
+  ],
+  "stem": "A 51-year-old man presents with a 1-month history of bilateral hand and foot pain and morning stiffness. There are several small non-tender nodules on the extensor surfaces of both forearms. Plain X-rays of the hands show periarticular osteoporosis and marginal erosions in the metacarpophalangeal and proximal interphalangeal joints. Rheumatoid factor is positive. Which one of the following antibodies is most useful to solidify the diagnosis of rheumatoid arthritis?",
+  "options": {
+   "A": "ANA",
+   "B": "Anti-dsDNA",
+   "C": "Anti-CCP",
+   "D": "Anti-RNP",
+   "E": "Antihistone"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Anti-CCP is highly specific for RA and may be positive before RF; ANA, anti-dsDNA, anti-RNP and antihistone point to lupus, MCTD or drug-induced lupus.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03086"
+  ],
+  "stem": "The presence of anti-cyclic citrullinated peptide antibody is suggestive of which one of the following conditions?",
+  "options": {
+   "A": "Systemic lupus erythematous",
+   "B": "Rheumatoid arthritis",
+   "C": "Type 1 diabetes mellitus",
+   "D": "Addison's disease",
+   "E": "Dermatomyositis"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Anti-CCP antibodies are highly specific for rheumatoid arthritis and predict erosive disease.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02359"
+  ],
+  "stem": "A 50-year man presents in OPD with morning stiffness in the small joints of his hands,lasting more than an hour for last 01 month. He also has soft tissue nodules over his elbows.Rheumatoid factor is negative but anti-CCP antibodies are positive. What is the most likely diagnosis?",
+  "options": {
+   "A": "Ankylosing spondylitis",
+   "B": "Gout",
+   "C": "Osteoarthritis",
+   "D": "Psoriatic arthritis",
+   "E": "Rheumatoid arthritis"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Morning stiffness over an hour in small hand joints with rheumatoid nodules and positive anti-CCP is rheumatoid arthritis, even when RF is negative (seronegative, anti-CCP positive disease).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03081"
+  ],
+  "stem": "A patient is diagnosed with rheumatoid arthritis. X-ray of hands and feet are done. Which is typical finding for RA in x rays:",
+  "options": {
+   "A": "Marginal joint erosions",
+   "B": "Peri-articular calcifications",
+   "C": "Normal x ray",
+   "D": "Osteosclerosis",
+   "E": "None of them"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Marginal (bare area) erosions with periarticular osteopenia and symmetrical joint space narrowing are the typical X-ray changes of RA; periarticular calcification and osteosclerosis are not.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01677"
+  ],
+  "stem": "A 30 year old gentleman presented with the symptoms and signs of theumatoid arthritis. Which of the following joint is most likely to be normal?",
+  "options": {
+   "A": "Atlantoasial joint",
+   "B": "Sacroillac joints",
+   "C": "Hip joints",
+   "D": "Metacarpophalengeal joints.",
+   "E": "Tempromandibular joints."
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "RA affects MCP joints, wrists, hips, TMJs and the atlantoaxial joint; the sacroiliac joints are characteristically spared and are involved in spondyloarthropathies.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02904"
+  ],
+  "stem": "Which of the following is very rarely seen in rheumatoid arthritis patients",
+  "options": {
+   "A": "Z-deformity of thumb",
+   "B": "Hallux varus",
+   "C": "Ulnar deviation",
+   "D": "Subluxation of MCP joints",
+   "E": "Swan neck deformity"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "RA causes hallux valgus, not hallux varus; Z-thumb, ulnar deviation, MCP subluxation and swan-neck deformity are all seen.",
+  "key_note": "Source had a sixth option (secondary osteoarthritis of knee), removed to keep five options.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03084"
+  ],
+  "stem": "Extra-articular manifestations of rheumatoid arthritis is/are?",
+  "options": {
+   "A": "Felty’s syndrome",
+   "B": "Scleritis",
+   "C": "Pericarditis",
+   "D": "Pleural effusions",
+   "E": "All of these"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Felty's syndrome, scleritis, pericarditis and pleural effusion are all recognised extra-articular features of RA.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02555"
+  ],
+  "stem": "Cardiac abnormality associated with rheumatoid arthritis is",
+  "options": {
+   "A": "Aortic regurgitation",
+   "B": "Aortic stenosis",
+   "C": "Mitral stenosis",
+   "D": "Mitral regurgitation",
+   "E": "Pulmonary stenosis"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Aortic root dilatation with aortic regurgitation is the valve lesion classically linked with RA (as with the spondyloarthropathies); pericarditis is the commonest cardiac involvement overall.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02419"
+  ],
+  "stem": "A 50-year-old patient of rheumatoid arthritis presents in OPD with onycholysis. What is the likely finding on examination of her nails?",
+  "options": {
+   "A": "A grooved line that runs side to side on the nail plate",
+   "B": "A longitudinal hemorrhage in the nail bed",
+   "C": "A midline ridge in the nail plate",
+   "D": "Separation of the nail from the nail bed",
+   "E": "The green discoloration of the nail plate"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Onycholysis is separation of the nail plate from the nail bed (psoriasis, thyroid disease, trauma); Beau's lines are transverse grooves and splinter haemorrhages are longitudinal.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03238"
+  ],
+  "stem": "Which of the following is associated with a good prognosis in rheumatoid arthritis?",
+  "options": {
+   "A": "Rheumatoid factor negative",
+   "B": "HLA DR4",
+   "C": "Anti-CCP antibodies",
+   "D": "Rheumatoid nodules",
+   "E": "Insidious onset"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Seronegativity for RF and anti-CCP carries a better outcome; positive RF or anti-CCP, HLA-DR4, nodules and insidious onset predict a worse course.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01836"
+  ],
+  "stem": "A 42 year old female with known RA for 5 year is found to have chronic liver disease secondary to hepatitis The drug contra indicated in this patient is,",
+  "options": {
+   "A": "Hydroxychloroquine",
+   "B": "Leflunomide",
+   "C": "Methotrexate",
+   "D": "Sulfasalazine"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Methotrexate is hepatotoxic and is contraindicated in significant chronic liver disease or viral hepatitis; hydroxychloroquine and sulfasalazine are safer.",
+  "key_note": "Leflunomide is also hepatotoxic, but methotrexate is the classical answer marked in the source.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03239"
+  ],
+  "stem": "A 31-year-old woman who had rheumatoid arthritis diagnosed 5 years ago asks for advice as she is considering starting a family. She currently has quiescent rheumatoid arthritis which is well controlled on methotrexate. Which one of the following drugs is it safest to use if she is planning on becoming pregnant?",
+  "options": {
+   "A": "Leflunomide",
+   "B": "Sulfasalazine",
+   "C": "Methotrexate",
+   "D": "Rituximab",
+   "E": "Gold"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Sulfasalazine (with folate) and hydroxychloroquine are safe in pregnancy; methotrexate and leflunomide are teratogenic and must be stopped well before conception.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01944",
+   "C01599",
+   "C00004"
+  ],
+  "stem": "A 61-year-old woman is reviewed in the rheumatology clinic with increasing shortness of breath. She has been on long-term drug therapy for rheumatoid arthritis. Her oxygen saturation on room air is reduced and chest X-ray shows bilateral interstitial shadowing. Which drug is most likely to be responsible for her symptoms?",
+  "options": {
+   "A": "Infliximab",
+   "B": "Hydroxychloroquine",
+   "C": "Sulfasalazine",
+   "D": "Azathioprine",
+   "E": "Methotrexate"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Methotrexate causes pneumonitis with bilateral interstitial shadowing and hypoxia in RA patients on long-term therapy.",
+  "key_note": "Option A was illegible in the source and restored as infliximab; the oxygen saturation value was garbled in the source.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02902"
+  ],
+  "stem": "Which of the following features suggest mechanical rather than inflammatory backache",
+  "options": {
+   "A": "An elevated CRP",
+   "B": "Localized tenderness over sacroiliac joint",
+   "C": "Radiation of the pain down the back of one leg to ankle",
+   "D": "Worsening after rest",
+   "E": "Early morning stiffness lasting more than 30min"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Sciatic-type radiation down the leg suggests a mechanical (radicular) cause; raised CRP, worsening after rest, early morning stiffness over 30 minutes and improvement with exercise point to inflammatory back pain.",
+  "key_note": "Source marked D (worsening after rest); correct is C, because worsening after rest is a feature of inflammatory back pain.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02708"
+  ],
+  "stem": "A 25-year-old man presents with back pain. Which one of the following may suggest a diagnosis of ankylosing spondylitis?",
+  "options": {
+   "A": "Rapid onset",
+   "B": "Gets worse following exercise",
+   "C": "Bone tenderness",
+   "D": "Pain at night",
+   "E": "Improves with rest"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Inflammatory back pain (ankylosing spondylitis) has insidious onset, improves with exercise, is worse with rest and wakes the patient in the second half of the night.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02414"
+  ],
+  "stem": "A 24 years old university student presented in rheumatology clinic with extreme fatigue for 2 months. He is having chronic history of lower back pain and recurrent planter fasciitis for which he is on NSAIDS. He received IV steroid for planter fasciitis. Further inquiry revealed history of painful red eyes with blurred vision for 2 months. What is clinical diagnosis in this case?",
+  "options": {
+   "A": "Psoriatic arthritis",
+   "B": "Ankylosing spondylitis",
+   "C": "Reactive arthritis",
+   "D": "Enteropathic spondylitis",
+   "E": "Rheumatoid arthritis"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Chronic back pain, enthesitis (plantar fasciitis) and anterior uveitis in a young man are classic for ankylosing spondylitis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03240"
+  ],
+  "stem": "A 25-year-old woman presents with a three-day history of dysuria and a painful left knee. During the review of symptoms, she mentions a bout of diarrhea and crampy abdominal pain three weeks ago. She is normally fit and well and takes no regular medication. Her father died of colorectal cancer in his sixth decade. On examination the left knee is red, swollen and hot to touch. What is the most likely diagnosis?",
+  "options": {
+   "A": "Reactive arthritis secondary to Salmonella spp.",
+   "B": "Reactive arthritis secondary to Chlamydia trachomatis",
+   "C": "Rheumatoid arthritis",
+   "D": "Ulcerative colitis",
+   "E": "Gonococcal arthritis"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Arthritis with dysuria and a diarrhoeal illness 3 weeks earlier is reactive arthritis after Salmonella or another enteric infection; ulcerative colitis would not follow this time course.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02364"
+  ],
+  "stem": "A 40-year woman presents in OPD with symmetrical polyarthritis and morning stiffness lasting for about 30 minutes for last 02 months. She also complains of oral ulcers has nail pitting on examination. A family history of autoimmune diseases is noted. What is the most likely diagnosis?",
+  "options": {
+   "A": "Ankylosing spondylitis",
+   "B": "Gouty arthritis",
+   "C": "Lupus erythematosus",
+   "D": "Psoriatic arthritis",
+   "E": "Rheumatoid arthritis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Nail pitting and oral ulcers with polyarthritis point to psoriatic arthritis (pitting and onycholysis are typical); RA does not cause nail pitting.",
+  "key_note": "Another paper copy marked E (RA); correct is D, since nail pitting is characteristic of psoriatic arthritis.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01993"
+  ],
+  "stem": "A patient presents with multiple joint pains along with skin and nail changes. he has been receiving methotrexate since last one year with some improvement in his symptoms. Likely diagnosis is;",
+  "options": {
+   "A": "rheumatoid arthritis",
+   "B": "CREST syndrome with calcinosis",
+   "C": "ANCA",
+   "D": "psoriatic arthritis",
+   "E": "ostheoarthritis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Joint pains with skin and nail changes responding to methotrexate indicates psoriatic arthritis.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02324"
+  ],
+  "stem": "A 48-year man presents with sudden onset of severe pain in his right big toe, which is red,swollen, and warm to the touch. He has a history of high blood pressure and admits to consuming a diet rich in red meat and alcohol. What is the most likely diagnosis?",
+  "options": {
+   "A": "Hypercalcemia",
+   "B": "Hyperglycemia",
+   "C": "Hyperlipidemia",
+   "D": "Hyperuricemia",
+   "E": "Hypoglycemia"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Acute podagra in a man with a diet rich in red meat and alcohol is gout, caused by hyperuricaemia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01833"
+  ],
+  "stem": "A 50-year-old man admitted to ICU with myocardial infarction develops acute swelling of the first metatarsophalangeal joint. Which drug is most likely to be involved?",
+  "options": {
+   "A": "Aspirin",
+   "B": "Clopidogrel",
+   "C": "Nitrates",
+   "D": "Statin"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Low-dose aspirin reduces renal urate excretion and can precipitate acute gout; clopidogrel, nitrates and statins do not.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01946"
+  ],
+  "stem": "A 63-year-old woman with long-standing hypertension presents with sudden painful swelling of the left knee joint, Joint aspiration reveals a cloudy fluid full of needle-shaped crystals which are negatively birefringent. What is the likely cause of this woman's monoarthritis?",
+  "options": {
+   "A": "Staph, aureus",
+   "B": "Trauma",
+   "C": "Hydrochlorothiazide",
+   "D": "Calcium pyrophosphate dihydrate crystals",
+   "E": "Rheumatoid arthritis"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Needle-shaped negatively birefringent crystals are monosodium urate (gout), and thiazide diuretics used for hypertension reduce urate excretion; CPPD crystals are rhomboid and positively birefringent.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03080"
+  ],
+  "stem": "A young male is diagnosed to have Gout while he presented with swelling and redness of the big toe. This is described as a disorder of;",
+  "options": {
+   "A": "Purine metabolism",
+   "B": "Xanthine metabolism",
+   "C": "Protein metabolism",
+   "D": "Pyrimidine metabolism",
+   "E": "Calcium metabolism"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Gout is a disorder of purine metabolism: urate is the end product of purine breakdown.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03087"
+  ],
+  "stem": "The investigation of choice in a middle-aged male presenting with redness and swelling of the big toe is;",
+  "options": {
+   "A": "Serum calcium",
+   "B": "Uric acid levels",
+   "C": "RA factor",
+   "D": "ANA profile",
+   "E": "Vitamin D levels"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Serum uric acid is the usual investigation for suspected gout (although aspirated urate crystals confirm it and uric acid may be normal during an attack).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01680"
+  ],
+  "stem": "A 40 years old, known patient of gout has presented with acute arthritis of first meta-tarsal joint of right foot. He was not taking any treatment recently, What is the most suitable drug for this cases?",
+  "options": {
+   "A": "Allopurinol",
+   "B": "Augmentin",
+   "C": "Corticosteroids",
+   "D": "Febuxostat",
+   "E": "Probenicid"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "In acute gout use NSAIDs, colchicine or corticosteroids; allopurinol, febuxostat and probenecid are urate-lowering drugs started after the attack settles.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03167"
+  ],
+  "stem": "A patient presents with symptoms of gout. She had family history of hyperuricemia. Which of the following food items needs to be avoided by her?",
+  "options": {
+   "A": "Fruits",
+   "B": "Vegetables",
+   "C": "Juices",
+   "D": "Proteins",
+   "E": "Dairy products"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Purine-rich foods such as red meat, organ meat and seafood (and alcohol) raise urate; fruit, vegetables and dairy do not.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02410",
+   "C00446"
+  ],
+  "stem": "A 55 years old male, suffering from bilateral knee pain for 6months, presented in Rheumatology OPD with the history of severe pain and swelling of right knee for 1day. On further inquiry he gave history of 1 spike of high grade fever. O/E: BP: 120/70, pulse 90 /min, temperature 100 F, R/R 16/min. On MSK Examination: Right knee is red and swollen as compared to Left knee. Temp of overlying skin is raised as compared to surrounding and is tender to mild touch. What is most likely diagnoses?",
+  "options": {
+   "A": "Osteoarthritis",
+   "B": "Gout",
+   "C": "Septic Arthritis",
+   "D": "Pseudo Gout",
+   "E": "Osteopenia"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "An acutely hot, red, tender knee with fever in a patient with chronic knee disease must be treated as septic arthritis until joint aspiration proves otherwise.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03075"
+  ],
+  "stem": "A male patient presents with right sided knee joint swelling, pain and high grade fever. All of following are risk factors for septic arthritis except:",
+  "options": {
+   "A": "Pre-existing joint disease",
+   "B": "Diabetes mellitus",
+   "C": "Age < 20",
+   "D": "Iv drug user",
+   "E": "Immunosuppression"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Risk factors for septic arthritis include pre-existing joint disease, diabetes, IV drug use, immunosuppression and old age; being under 20 is not a risk factor.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01659",
+   "C00450",
+   "C01245",
+   "C01438",
+   "C01336",
+   "C01996"
+  ],
+  "stem": "21 years old female patient presented with the history of fever, swollen painful joints and photosensitivity. Examination showed a butterfly rash over the cheeks . On blood CP there was anemia and thrombocytopenia. What is the most specific diagnostic test for this patient?",
+  "options": {
+   "A": "Serum ANA",
+   "B": "RA factor",
+   "C": "ESR and CRP",
+   "D": "Anti ds DNA antibodies",
+   "E": "Anti CCP antibodies"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Anti-dsDNA (and anti-Sm) are the most specific antibodies for SLE; ANA is sensitive but not specific.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03078",
+   "C02358"
+  ],
+  "stem": "A 30-year-female presented to OPD with complaints of fever, weight loss, malaise, alopecia, fibromyalgia and bone pains o/e she is vitally stable has butterfly facial rash and oral ulcers. Labs shows haemolytic anaemia, ANA positive, anti-Ds DNA positive. What is most likely diagnosis:",
+  "options": {
+   "A": "SLE",
+   "B": "Bechet’s syndrome",
+   "C": "Dermatomyositis",
+   "D": "Vasculitis",
+   "E": "Kawasaki disease"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Malar rash, oral ulcers, haemolytic anaemia, positive ANA and anti-dsDNA are diagnostic of SLE.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01991"
+  ],
+  "stem": "A young woman presents with oral ulcers and joint pains. She has recently noticed swelling all over her body and decreased urine output. What is the most likely complication she has developed?",
+  "options": {
+   "A": "urinary tract infection",
+   "B": "lupus nephritis",
+   "C": "obstructive uropathy",
+   "D": "nephrotic syndrome",
+   "E": "IgA nephropathy"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Oral ulcers and arthritis in a young woman with new oedema and oliguria indicate SLE with lupus nephritis, the commonest serious complication.",
+  "key_note": "Not marked in the source paper; answer by reviewer. The original stem referred to a picture (not available), so it was reworded.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02409"
+  ],
+  "stem": "A 24 years old lady presented in ER with altered behavior for 3 days. On clinical history she has recurrent episodes of oral ulceration, arthralgia and hair loss. On further inquiry attendant gave history bluish discoloration of fingers on exposure to cold and photosensitivity. On examination she is agitated, having patchy hair loss with scaring and erythematous rash covering bilateral cheeks and nasal bridge. What is the likely diagnosis?",
+  "options": {
+   "A": "Rheumatoid Arthritis with vasculitis",
+   "B": "SLE with skin manifestation",
+   "C": "SLE with lupus cerebritis",
+   "D": "Mixed connective tissue disease.",
+   "E": "Bechet's disease"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Agitation and altered behaviour in a patient with SLE features (malar rash, scarring alopecia, oral ulcers, photosensitivity, Raynaud's) indicates neuropsychiatric lupus (cerebritis).",
+  "key_note": "Source highlighted B (SLE with skin manifestation); correct is C, since the presenting problem is altered behaviour from CNS lupus.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03237"
+  ],
+  "stem": "Which one of the following features is least commonly seen in drug-induced lupus?",
+  "options": {
+   "A": "Glomerulonephritis",
+   "B": "Arthralgia",
+   "C": "Myalgia",
+   "D": "Malar rash",
+   "E": "Pleurisy"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Drug-induced lupus (hydralazine, procainamide) causes arthralgia, myalgia and pleurisy, but glomerulonephritis and CNS disease are rare.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03079"
+  ],
+  "stem": "Sjogren’s syndrome is commonly associated with:",
+  "options": {
+   "A": "Systemic sclerosis",
+   "B": "Polymyositis",
+   "C": "Vasculitis",
+   "D": "SLE",
+   "E": "Dermatomyositis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Secondary Sjogren's syndrome accompanies RA most often, then SLE and systemic sclerosis; of the options, SLE is the best answer.",
+  "key_note": "Source marked D (SLE); RA is the commonest association but is not offered.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02008"
+  ],
+  "stem": "A 50-year-old woman presents with dry eyes, dry mouth, erythematous rash and polyarthralgia. ANA and anti-Ro antibodies are positive, RF is also positive, urine shows protein 2+ and serum creatinine is 1.2 mg/dl. What is the most likely diagnosis?",
+  "options": {
+   "A": "Hyperviscoity syndrome",
+   "B": "Primary Sjogren syndrome",
+   "C": "Rheumatoid arthritis",
+   "D": "SLE"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Sicca symptoms with rash, polyarthralgia, ANA, anti-Ro, RF and proteinuria suggest SLE (with secondary Sjogren's); renal involvement and rash favour lupus over primary Sjogren's.",
+  "key_note": "Question is borderline (anti-Ro and RF also fit primary Sjogren's); the source key SLE is retained because of rash and proteinuria.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02362",
+   "C02843"
+  ],
+  "stem": "A 60-year woman presents in OPD with progressive skin thickening and contractures, along with Raynaud's phenomenon for 03 months. She feels fatigued and has noticed swelling in her hands. What is the most likely diagnosis?",
+  "options": {
+   "A": "Dermatomyositis",
+   "B": "Fibromyalgia",
+   "C": "Polymyositis",
+   "D": "Scleroderma",
+   "E": "Systemic lupus erytematosus"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Skin thickening, contractures and Raynaud's phenomenon in a middle-aged woman is systemic sclerosis (scleroderma).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02654"
+  ],
+  "stem": "A 37-year woman complains of severe fatigue, dysphagia and colour changes of hands on exposure to cold for last 01 month. She has a family history of autoimmune diseases. What is the most likely diagnosis?",
+  "options": {
+   "A": "Psoriasis",
+   "B": "Still's disease",
+   "C": "Hashimoto's thyroiditis",
+   "D": "Scleroderma",
+   "E": "Celiac disease"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Raynaud's phenomenon with dysphagia (oesophageal dysmotility) and fatigue suggests scleroderma.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01678"
+  ],
+  "stem": "A 47 years old lady is suspected to have systemic sclerosis. The diagnostic antibody in this patient is:",
+  "options": {
+   "A": "Antinuclear antibody",
+   "B": "Anti CCP antibody",
+   "C": "Anti-topoisomerase antibody",
+   "D": "Anti-smooth muscle antibody",
+   "E": "Antimitichondrial antibody"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Anti-topoisomerase I (Scl-70) is specific for diffuse systemic sclerosis; anti-centromere is for limited disease (CREST).",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03236"
+  ],
+  "stem": "A 25-year-old lady presents to the medical outpatient clinic complaining of a week-long history of fatigue, general body aches and right wrist and knee pain. On examination, there is these joints are mildly swollen. You also note her to have hardened skin on the fingers of both her hands with some swelling of the fingers. She also notes her fingers go blue in cold weather. What investigation would most help confirm the diagnosis?",
+  "options": {
+   "A": "Anti-cyclic citrullinated peptide antibody",
+   "B": "Anti-centromere antibody",
+   "C": "Anti-smith antibody",
+   "D": "Anti-ribonucleoprotein antibody",
+   "E": "Anti-topoisomerase I antibody"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Hand swelling, sclerodactyly, arthritis and Raynaud's with overlap features suggest mixed connective tissue disease, which has high-titre anti-RNP.",
+  "key_note": "Printed key gives D (anti-RNP); anti-centromere or anti-Scl-70 would be chosen if the picture were pure scleroderma.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02941"
+  ],
+  "stem": "Which one is pivotal investigation in diagnosis of polymyositis:",
+  "options": {
+   "A": "Muscle biopsy",
+   "B": "Blood cp",
+   "C": "ESR",
+   "D": "ANA",
+   "E": "Anti dsDNA"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Muscle biopsy showing inflammatory infiltrate and fibre necrosis is the pivotal investigation for polymyositis, alongside raised CK and EMG.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01835"
+  ],
+  "stem": "A 56 year old male presents with gradually worsening muscle pain & weakness. On examination, there is periorbital puffiness with a heliotrope rash. The investigation helpful in establishing a diagnosis is,",
+  "options": {
+   "A": "Anti centromere antibodies",
+   "B": "Anti double stranded DNA",
+   "C": "Muscle biopsy",
+   "D": "Temporal artery biopsy"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Heliotrope rash with proximal muscle weakness is dermatomyositis, confirmed by muscle biopsy.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02365"
+  ],
+  "stem": "A 32-year woman presents in OPD with generalized muscle weakness and rash on her eyelids for last 01 month. Her investigations show an elevated muscle enzyme (CPK). What is the likely diagnosis?",
+  "options": {
+   "A": "Fibromyalgia",
+   "B": "Polymyalgia rheumatica",
+   "C": "Polymyositis",
+   "D": "Dermatomyositis",
+   "E": "Systemic lupus erythematosus"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Proximal muscle weakness with raised CPK and an eyelid (heliotrope) rash is dermatomyositis; polymyositis has no rash.",
+  "key_note": "Paper key was polymyositis, but an eyelid rash with raised CPK is dermatomyositis; option D (psoriatic arthritis) replaced by dermatomyositis so the correct diagnosis is offered.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03241"
+  ],
+  "stem": "An autoantibody screen reveals that a patient is positive for anti-Jo 1 antibodies. What is the most likely underlying diagnosis?",
+  "options": {
+   "A": "Limited cutaneous systemic sclerosis",
+   "B": "Mixed connective tissue disease",
+   "C": "Dermatomyositis",
+   "D": "Polymyositis",
+   "E": "Diffuse cutaneous systemic sclerosis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Anti-Jo-1 (antisynthetase) antibodies are most associated with polymyositis (and dermatomyositis) with interstitial lung disease.",
+  "key_note": "Anti-Jo-1 occurs in both polymyositis and dermatomyositis; polymyositis is the source answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01676"
+  ],
+  "stem": "The characteristic lab feature of polymylagia rheuratica is",
+  "options": {
+   "A": "Raised ESR",
+   "B": "Raised ALT",
+   "C": "Raised CRPS",
+   "D": "Raised ANCA",
+   "E": "Positive ANA"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Polymyalgia rheumatica shows a markedly raised ESR (often above 50) with normal CK.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01702"
+  ],
+  "stem": "Which one of the following features is unlikely to be seen in Henoch-Schonlein purpura?",
+  "options": {
+   "A": "Abdominal pain",
+   "B": "Renal failure",
+   "C": "Polyarthritis",
+   "D": "Thrombocytopenia",
+   "E": "Purpuric rash over lower limbs"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "HSP is a vasculitis with purpura, arthralgia, abdominal pain and nephritis; the platelet count is normal.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02637"
+  ],
+  "stem": "A 65-year man presents with fatigue, hematuria, sinusitis, and hemoptysis for 5 days. BP is 160/100 mmHg. Urinalysis shows RBC casts, proteinuria. Labs: Creatinine 2.8 mg/dL, ANCA positive (C-ANCA), PR3 positive. Chest X-ray shows cavitating lesions. What is the most appropriate initial treatment plan?",
+  "options": {
+   "A": "Broad-spectrum antibiotics and monitor renal function",
+   "B": "High-dose IV methylprednisolone and rituximab",
+   "C": "Plasmapheresis and IVIG",
+   "D": "Renal biopsy and IV antibiotics",
+   "E": "Start oral prednisone only"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Sinusitis, haemoptysis, cavitating lung lesions, RBC casts and PR3 c-ANCA indicate GPA with rapidly progressive glomerulonephritis; induction is high-dose steroid plus rituximab or cyclophosphamide.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03076"
+  ],
+  "stem": "20-year-old college going female presents with painful oral ulcers, along with genital ulcers that are slow to heal. She has recurrent attacks during past 2 years. She was previously treated for reactive arthritis. What is most likely diagnosis:",
+  "options": {
+   "A": "SLE",
+   "B": "Bechets syndrome",
+   "C": "Herpes simplex",
+   "D": "Folic acid deficiency",
+   "E": "Sarcoidosis"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Recurrent oral and genital ulcers with arthritis in a young adult is Behcet's disease.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02366"
+  ],
+  "stem": "A 48-year man presents in OPD with recurrent fevers, urticarial rash, and arthralgias.Family history reveals several members with similar symptoms.What is the likely diagnosis?",
+  "options": {
+   "A": "Ankylosing spondylitis",
+   "B": "Familial Mediterranean fever",
+   "C": "Reactive arthritis",
+   "D": "Rheumatoid arthritis",
+   "E": "Still's disease"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Recurrent fever, rash, arthralgia and a family history point to a hereditary periodic fever; familial Mediterranean fever is the option offered.",
+  "key_note": "Source stem mentioned a cryoprecipitate analysis, which does not fit FMF; that sentence was removed by reviewer. Source key FMF retained.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02709"
+  ],
+  "stem": "A 43-year-old woman presents with pain in the right elbow. This has been present for the past month and she reports no obvious trigger. On examination she reports pain on wrist extension against resistance whilst the elbow is extended. What is the most likely diagnosis?",
+  "options": {
+   "A": "Cubital tunnel syndrome",
+   "B": "Lateral epicondylitis",
+   "C": "Carpal tunnel syndrome",
+   "D": "Medial epicondylitis",
+   "E": "Pronator syndrome"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Pain on resisted wrist extension with the elbow extended is lateral epicondylitis (tennis elbow).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02905"
+  ],
+  "stem": "Commonly involved joints in osteoarthritis are all except",
+  "options": {
+   "A": "Knee",
+   "B": "Hip",
+   "C": "Shoulder",
+   "D": "Ankle",
+   "E": "Small joint of hands"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "OA typically involves knee, hip, shoulder, hand and spine joints; the ankle is relatively spared unless there is prior injury.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03244"
+  ],
+  "stem": "A 57-year-old man presents with pain in his right knee. An x-ray shows osteoarthritis. He has no past medical history of note. What is the most suitable treatment option for the management of his pain?",
+  "options": {
+   "A": "Oral diclofenac with omeprazole",
+   "B": "Oral glucosamine",
+   "C": "Oral diclofenac",
+   "D": "Oral ibuprofen",
+   "E": "Oral paracetamol"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "First-line analgesia for knee OA is paracetamol (with topical NSAIDs) and exercise; oral NSAIDs need gastroprotection and glucosamine has little evidence.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02710"
+  ],
+  "stem": "A 79-year-old man presents with a history of lower back pain and right hip pain. Blood tests reveal the following: Calcium 2.20 mmol/l, Phosphate 0.8 mmol/l, ALP 890 u/L. What is the most likely diagnosis?",
+  "options": {
+   "A": "Primary hyperparathyroidism",
+   "B": "Chronic kidney disease",
+   "C": "Osteomalacia",
+   "D": "Osteoporosis",
+   "E": "Paget's disease"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Isolated markedly raised ALP with normal calcium and phosphate in an old man with bone pain is Paget's disease.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02903"
+  ],
+  "stem": "All of the following are extra-articular features of rheumatological disorders except",
+  "options": {
+   "A": "Episcleritis and sicca symptoms in RA",
+   "B": "Erythema nodosum in enteropathic arthritis",
+   "C": "Enthesitis in ankylosing spondylitis",
+   "D": "Alopecia in systemic lupus erythematosus",
+   "E": "Retinitis pigmentosa in psoriatic arthritis"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Uveitis, not retinitis pigmentosa, is the eye complication of psoriatic arthritis; the other extra-articular features listed are correct.",
+  "key_note": "",
+  "figure": ""
+ }
+]

@@ -1,0 +1,3918 @@
+[
+ {
+  "cids": [
+   "C00028"
+  ],
+  "stem": "A 16-year-old boy has a 6-month history of night cough and intermittent wheeze. He has never had a chest infection and chest examination is unremarkable. What is the probable diagnosis?",
+  "options": {
+   "A": "Asthma",
+   "B": "Bronchiectasis",
+   "C": "Cystic fibrosis",
+   "D": "Pulmonary tuberculosis",
+   "E": "Gastro-oesophageal reflux with aspiration"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Nocturnal cough and episodic wheeze with a normal chest between episodes in a young patient is typical of asthma; no history of recurrent infection argues against bronchiectasis or cystic fibrosis.",
+  "key_note": "Some options were illegible/missing in the source; options B to E written by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00371",
+   "C00580"
+  ],
+  "stem": "An 18-year-old girl has breathlessness and wheezing for 2 days. She had similar episodes 1 year and 3 years ago, in winter only. The first-line treatment for this girl is:",
+  "options": {
+   "A": "Low-dose inhaled corticosteroids",
+   "B": "Low-dose oral corticosteroids",
+   "C": "Short-acting beta agonist when required",
+   "D": "Oral montelukast",
+   "E": "Subcutaneous omalizumab"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Infrequent intermittent asthma (step 1) is treated with a short-acting beta-2 agonist as needed; current GINA also accepts as-needed low-dose ICS-formoterol.",
+  "key_note": "One copy highlighted low-dose inhaled corticosteroid; the standard answer for infrequent intermittent asthma is a short-acting beta agonist as needed.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00033"
+  ],
+  "stem": "A 67-year-old ex-smoker has a long history of exertional breathlessness and productive cough on and off for years, with 4 months of continuous sputum. Which one of the following is the most useful test for diagnosis?",
+  "options": {
+   "A": "Chest X-ray",
+   "B": "Lung function tests (spirometry)",
+   "C": "Mantoux test",
+   "D": "Sputum culture",
+   "E": "Chest CT scan"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "COPD is diagnosed by spirometry showing post-bronchodilator FEV1/FVC below 0.7 (airflow obstruction not fully reversible); chest X-ray is normal in many cases.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00790",
+   "C02481",
+   "C02549"
+  ],
+  "stem": "A typical presentation of asthma is:",
+  "options": {
+   "A": "Episodic shortness of breath",
+   "B": "Symptoms are usually constant through the day with no variation",
+   "C": "Productive cough as a frequent symptom",
+   "D": "High-grade fever",
+   "E": "Crepitations on chest auscultation"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Asthma characteristically causes episodic breathlessness with wheeze, cough and chest tightness, variable over time; fever and crackles suggest infection or other lung disease.",
+  "key_note": "Option B (nocturnal worsening) is also true of asthma, but the paper key marked A (episodic shortness of breath) as the typical presentation; A kept as best answer. Option B reworded by auditor so that only A is correct. Two variants with different distractors were merged; both papers marked episodic shortness of breath.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00791"
+  ],
+  "stem": "A 25-year-old man is admitted with shortness of breath and bilateral bronchospasm. After prednisolone 30 mg/day for 2 weeks there is a substantial improvement in FEV1 (more than 15%). The diagnosis is:",
+  "options": {
+   "A": "Chronic obstructive pulmonary disease (COPD)",
+   "B": "Chronic bronchitis",
+   "C": "Asthma",
+   "D": "Emphysema",
+   "E": "Sarcoidosis"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A marked (over 15% and 200 mL) improvement in FEV1 after steroids or bronchodilator indicates reversible airflow obstruction, i.e. asthma; COPD is poorly reversible.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00554"
+  ],
+  "stem": "A 20-year-old known asthmatic attends the OPD for routine follow-up one week after an exacerbation. Apart from symptom improvement, which other measure will help assess her improvement?",
+  "options": {
+   "A": "Oxygen saturation",
+   "B": "Arterial blood gases",
+   "C": "Peak expiratory flow rate",
+   "D": "Central venous pressure",
+   "E": "Pulmonary arterial pressure"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Serial peak expiratory flow is the simple bedside measure of airway calibre used to monitor asthma; ABGs are needed only in severe attacks.",
+  "key_note": "One copy marked B (Arterial blood gases) but circled C; correct is C: PEFR is the routine objective follow-up test.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00368"
+  ],
+  "stem": "A 54-year-old asthmatic is admitted with an acute severe exacerbation. He is sweating and breathless with pulse 110/min, BP 120/68 mmHg, temperature 37.7 C, respiratory rate 32/min and SpO2 93% on air. The most likely finding on chest examination is:",
+  "options": {
+   "A": "Bilateral basal crackles",
+   "B": "Bilateral rhonchi (wheeze)",
+   "C": "Bronchial breathing",
+   "D": "Normal vesicular breathing",
+   "E": "Stony dull percussion note"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Diffuse airway narrowing in an asthma attack produces bilateral polyphonic expiratory wheeze (rhonchi).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00363",
+   "C00390"
+  ],
+  "stem": "A 45-year-old known asthmatic presents to the ER with acute severe asthma. The best treatment modality to control bronchial inflammation in acute severe asthma is:",
+  "options": {
+   "A": "Inhaled corticosteroids",
+   "B": "Antibiotics",
+   "C": "Systemic steroids",
+   "D": "Nebulised salbutamol",
+   "E": "Nebulised ipratropium"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Early systemic corticosteroids (prednisolone or IV hydrocortisone) are the anti-inflammatory treatment in acute severe asthma; salbutamol is a bronchodilator only.",
+  "key_note": "The paper marked D (Nebulised salbutamol); correct is C: salbutamol relieves bronchospasm but does not control inflammation.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00373",
+   "C00581"
+  ],
+  "stem": "A 40-year-old known asthmatic comes to the ER with worsening breathlessness for 2 days. He is tachypnoeic and cannot complete a sentence. Features of life-threatening asthma include:",
+  "options": {
+   "A": "HR 110/min, RR 25/min, PEF 30-50% of predicted",
+   "B": "HR above 110/min, RR above 30/min, PEF below 70% of predicted",
+   "C": "PEF below 30%, SpO2 below 96%, decreased PaCO2, silent chest",
+   "D": "PEF below 33% predicted, SpO2 below 92%, normal or raised PaCO2, silent chest",
+   "E": "PaO2 60 mmHg, PaCO2 40 mmHg, PEF 40% of predicted"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Life-threatening asthma: PEF below 33%, SpO2 below 92%, PaO2 below 8 kPa, normal or rising PaCO2, silent chest, cyanosis, exhaustion, arrhythmia or hypotension.",
+  "key_note": "Some options were partly illegible in the source and were reconstructed.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00374"
+  ],
+  "stem": "Indications for assisted ventilation in a patient with acute severe asthma include:",
+  "options": {
+   "A": "Confusion, PaO2 below 60 mmHg, PaCO2 above 45 mmHg, respiratory acidosis",
+   "B": "Tachypnoea, PaO2 below 65 mmHg, PaCO2 55 mmHg, respiratory acidosis",
+   "C": "Tachypnoea, PaO2 below 70 mmHg, PaCO2 below 40 mmHg, respiratory alkalosis",
+   "D": "Confusion, PaO2 above 60 mmHg, PaCO2 above 45 mmHg, respiratory alkalosis",
+   "E": "Drowsiness, PaO2 above 60 mmHg, PaCO2 above 65 mmHg, metabolic acidosis"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Altered sensorium, worsening hypoxaemia and a normal or rising PaCO2 with respiratory acidosis signal impending respiratory failure and need for ventilation; a low PaCO2 is expected in early asthma.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00384",
+   "C00391"
+  ],
+  "stem": "A patient with acute severe asthma is admitted to the ICU. An indication for mechanical ventilation in acute severe asthma is:",
+  "options": {
+   "A": "FVC less than 50% of predicted",
+   "B": "Respiratory rate more than 30/min",
+   "C": "Pulse more than 140/min",
+   "D": "pH less than 7.35 with rising PaCO2",
+   "E": "pH 7.45 and PaCO2 35 mmHg"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Respiratory acidosis with a rising PaCO2 (normal or high CO2 in a breathless asthmatic) indicates exhaustion and impending respiratory arrest; tachypnoea and tachycardia alone are not indications.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00860"
+  ],
+  "stem": "Inhaled beta-2 agonists are associated with which of the following complications?",
+  "options": {
+   "A": "Bradycardia",
+   "B": "Tachycardia",
+   "C": "Hyperkalaemia",
+   "D": "Hyperglycaemia",
+   "E": "Drowsiness"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Beta-2 agonists cause tachycardia, tremor and hypokalaemia (not hyperkalaemia).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00851"
+  ],
+  "stem": "An asthmatic patient takes an inhaled bronchodilator as required, a daily low-dose inhaled corticosteroid, and the long-acting bronchodilator salmeterol. Which step of asthma management is this?",
+  "options": {
+   "A": "Step 2",
+   "B": "Step 3",
+   "C": "Step 4",
+   "D": "Step 5"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Step 1 is as-needed SABA, step 2 adds regular low-dose ICS, and step 3 adds a LABA (ICS plus LABA); higher doses or add-ons mark steps 4 and 5.",
+  "key_note": "The source had four options.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00029",
+   "C02311"
+  ],
+  "stem": "A 67-year-old man has a 3-day history of worsening breathlessness. He normally walks 100 m but now can hardly reach the front door. He usually coughs small amounts of clear sputum but now brings up large amounts of yellow sputum. There is widespread wheeze. Which one of the following is most likely?",
+  "options": {
+   "A": "Acute coryza",
+   "B": "Bronchiectasis",
+   "C": "COPD exacerbation",
+   "D": "Pneumonia",
+   "E": "Pulmonary embolism"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Increased dyspnoea, sputum volume and purulence on a background of chronic productive cough with diffuse wheeze define an infective exacerbation of COPD.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01054"
+  ],
+  "stem": "A 55-year-old smoker has 2 weeks of fever, cough and dyspnoea and a 6-year history of recurrent productive cough. Which treatment should be given first?",
+  "options": {
+   "A": "90% oxygen on admission to correct hypoxia",
+   "B": "Nebulised salbutamol",
+   "C": "Diazepam for restlessness",
+   "D": "Beta blocker",
+   "E": "Montelukast"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "This is an infective exacerbation of chronic bronchitis/COPD; nebulised bronchodilators come first, with controlled (not 90%) oxygen. Sedatives and beta blockers are harmful.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00792",
+   "C02482"
+  ],
+  "stem": "In developed countries, the commonest cause of chronic obstructive pulmonary disease is:",
+  "options": {
+   "A": "Inhalation of smoke from biomass fuels",
+   "B": "Cigarette smoking",
+   "C": "Air conditioning",
+   "D": "Industrial dust",
+   "E": "Air pollution"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Tobacco smoking causes over 80% of COPD in developed countries; biomass fuel smoke is the leading cause in rural low-income countries.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00385",
+   "C00389",
+   "C02426"
+  ],
+  "stem": "A 55-year-old chronic smoker is counselled about his COPD. Which measure can arrest the progression of the disease?",
+  "options": {
+   "A": "Long-acting antimuscarinics",
+   "B": "Inhaled corticosteroids",
+   "C": "Long-acting beta agonists",
+   "D": "Low-dose systemic corticosteroids",
+   "E": "Cessation of smoking"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Smoking cessation is the only intervention shown to slow the decline in FEV1; inhalers improve symptoms and exacerbations but not disease progression.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00853"
+  ],
+  "stem": "A 68-year-old patient with COPD is comfortable at rest but severely limited on exertion. His FEV1 is 30-49% of predicted. According to the GOLD criteria the severity grade of COPD is:",
+  "options": {
+   "A": "Stage I",
+   "B": "Stage II",
+   "C": "Stage III",
+   "D": "Stage IV",
+   "E": "Stage V"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "GOLD grades by post-bronchodilator FEV1: 1 mild 80% or more, 2 moderate 50-79%, 3 severe 30-49%, 4 very severe below 30%.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00375"
+  ],
+  "stem": "A 65-year-old man with COPD for 10 years presents with worsening breathlessness on mild exertion and headache, with peripheral oedema and raised JVP. ABG: PaO2 50 mmHg, PaCO2 65 mmHg, pH 7.3. The most appropriate therapy for hypoxia and target oxygen saturation is:",
+  "options": {
+   "A": "Low-flow oxygen 1-2 L/min to keep saturation at 96%; systemic steroids for 2 weeks then inhaled steroids",
+   "B": "High-dose inhaled steroids and high-flow oxygen, saturation 75%",
+   "C": "Combination of long-acting steroid and beta agonist",
+   "D": "Low-flow (controlled) oxygen 1-2 L/min to keep saturation 88-92%",
+   "E": "High-flow oxygen 3-4 L/min to keep saturation 96%"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "In COPD with hypercapnic respiratory failure give controlled low-flow oxygen aiming for 88-92% to avoid worsening CO2 retention.",
+  "key_note": "pH was printed as 3.7 in the source; read as 7.3.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00582",
+   "C00856",
+   "C03033"
+  ],
+  "stem": "A 65-year-old man with known COPD presents to the emergency department with worsening dyspnoea. ABG shows PaO2 55 mmHg and PaCO2 65 mmHg. He should be given oxygen at a rate of:",
+  "options": {
+   "A": "2 L/min (controlled, 24-28%)",
+   "B": "4 L/min",
+   "C": "6 L/min",
+   "D": "10 L/min",
+   "E": "20 L/min"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "In hypercapnic COPD use controlled low-flow oxygen (24-28% or 1-2 L/min) titrated to saturation 88-92% to avoid abolishing hypoxic drive and worsening CO2 retention.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00585",
+   "C02824"
+  ],
+  "stem": "A 75-year-old man with COPD for 10 years presents with drowsiness. GCS is 11/15, he has palmar erythema, flapping tremor of the outstretched hands and a blue tongue. The most likely diagnosis is:",
+  "options": {
+   "A": "Cor pulmonale",
+   "B": "Hepatic encephalopathy",
+   "C": "Pneumonia leading to sepsis",
+   "D": "Type 1 respiratory failure",
+   "E": "Type 2 respiratory failure"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Drowsiness, CO2 flap, warm vasodilated hands (palmar erythema) and central cyanosis in COPD indicate hypercapnic (type 2) respiratory failure; asterixis here is from CO2 retention, not liver disease.",
+  "key_note": "Some paper keys marked B (Hepatic encephalopathy); correct is E: asterixis and palmar erythema also occur with CO2 retention in a COPD patient. Some paper keys marked B (hepatic encephalopathy); correct is E: CO2 narcosis explains the flap, palmar erythema and drowsiness in COPD, and no liver disease is described.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00852",
+   "C00988"
+  ],
+  "stem": "A 65-year-old smoker with COPD is admitted with breathlessness, cough and bilateral ankle oedema. He is cyanosed with raised JVP and a palpable liver 3 fingers below the costal margin; Hb 16 g/dl, PaO2 58 mmHg, PaCO2 56 mmHg. He has typically developed:",
+  "options": {
+   "A": "Type I respiratory failure",
+   "B": "Pulmonary hypertension",
+   "C": "Cor pulmonale",
+   "D": "Type II respiratory failure",
+   "E": "Carcinoma of the lung"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Chronic hypoxia in COPD causes pulmonary hypertension and right heart failure (cor pulmonale): raised JVP, hepatomegaly, peripheral oedema, secondary polycythaemia and loud P2.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00588"
+  ],
+  "stem": "A 60-year-old man with COPD presents with 3 days of dyspnoea and was started on oral amoxicillin and prednisolone 2 days ago. In the ER he is tachypnoeic with SpO2 70% on air. He has received nebulised salbutamol and ipratropium, oxygen titrated to 28% to achieve saturation 88-90%, and an aminophylline infusion for poor response. Thirty minutes later ABG on 28% O2 shows pH 7.30, PCO2 50 mmHg, PO2 60 mmHg. What is the most appropriate next step in management?",
+  "options": {
+   "A": "Decrease O2 to 24%",
+   "B": "Increase O2 to 35%",
+   "C": "Intravenous hydrocortisone",
+   "D": "Intravenous magnesium sulphate",
+   "E": "Non-invasive ventilation"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Persistent respiratory acidosis (pH below 7.35 with raised PCO2) after optimal medical therapy in an exacerbation of COPD is the indication for non-invasive ventilation.",
+  "key_note": "One paper marked IV magnesium sulphate; correct is non-invasive ventilation (NIV), indicated for pH below 7.35 despite medical treatment.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00030"
+  ],
+  "stem": "A 26-year-old man has a 2-day history of feeling unwell and breathless, then coughs up thick green sputum with flecks of blood. He has sharp right-sided chest pain worse on inspiration and bronchial breathing at the right base. This picture is suggestive of:",
+  "options": {
+   "A": "Bronchiectasis",
+   "B": "Cystic fibrosis",
+   "C": "Pneumonia",
+   "D": "Pulmonary embolism",
+   "E": "Tension pneumothorax"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Acute febrile illness with purulent sputum, pleuritic pain and bronchial breathing indicates lobar consolidation (pneumonia).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00366",
+   "C00386"
+  ],
+  "stem": "A 55-year-old man has cough and fever for 5 days and a chest X-ray suggesting pneumonia. The common bacteria causing community-acquired pneumonia in adults are:",
+  "options": {
+   "A": "Neisseria meningitidis / Gonococcus",
+   "B": "H. influenzae / Staph. epidermidis",
+   "C": "Pseudomonas / E. coli / Enterobacter",
+   "D": "Staph. aureus / Strep. pyogenes / Strep. faecalis",
+   "E": "Strep. pneumoniae / Legionella / Mycoplasma"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Streptococcus pneumoniae is the commonest cause, followed by atypicals (Mycoplasma, Legionella, Chlamydophila) and H. influenzae.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00795",
+   "C03004",
+   "C03217",
+   "C02679"
+  ],
+  "stem": "The majority of cases of community-acquired pneumonia are caused by:",
+  "options": {
+   "A": "Mycoplasma pneumoniae",
+   "B": "Chlamydophila pneumoniae",
+   "C": "Streptococcus pneumoniae",
+   "D": "Haemophilus influenzae",
+   "E": "Mycobacterium tuberculosis"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Streptococcus pneumoniae is the commonest cause of community-acquired pneumonia worldwide.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00989"
+  ],
+  "stem": "A young boy has a one-week history of fever and cough with rusty sputum. He is non-diabetic and was previously healthy. The likely organism to be isolated from his sputum culture is:",
+  "options": {
+   "A": "Mycoplasma pneumoniae",
+   "B": "Chlamydophila pneumoniae",
+   "C": "Streptococcus pneumoniae",
+   "D": "Haemophilus influenzae",
+   "E": "Mycobacterium tuberculosis"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Rusty sputum with an abrupt febrile lobar pneumonia in a healthy young patient is the classic picture of pneumococcal pneumonia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01052"
+  ],
+  "stem": "In a tutorial on pneumococcal pneumonia, which comment is best?",
+  "options": {
+   "A": "It commonly occurs in summer",
+   "B": "It usually causes segmental or lobar consolidation",
+   "C": "Blood culture is usually negative",
+   "D": "Tetracycline is the drug of choice",
+   "E": "Pneumothorax is a frequent complication"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Pneumococcus classically causes lobar or segmental consolidation; it is commoner in winter, bacteraemia occurs in about a quarter, penicillin or amoxicillin is the drug of choice and pneumothorax is not a frequent complication.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00376",
+   "C02425"
+  ],
+  "stem": "A 35-year-old man has 7 days of productive cough and high-grade fever with sweating. The right lower chest shows dull percussion, increased vocal resonance and coarse crackles, and the chest X-ray shows homogeneous opacity in the right lower zone. The most probable organism is:",
+  "options": {
+   "A": "Haemophilus influenzae",
+   "B": "Klebsiella pneumoniae",
+   "C": "Mycoplasma pneumoniae",
+   "D": "Staphylococcus aureus",
+   "E": "Streptococcus pneumoniae"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Lobar consolidation in a previously healthy adult is most commonly pneumococcal; Staph. aureus follows influenza and Klebsiella occurs in alcoholics.",
+  "key_note": "The paper marked D (Staph. aureus); correct is E: a typical community-acquired lobar pneumonia is pneumococcal.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01409"
+  ],
+  "stem": "A 20-year-old boy has 7 days of high-grade fever, rusty sputum and pleuritic chest pain. Temperature is 101 F and there is bronchial breathing on auscultation. The most likely diagnosis is:",
+  "options": {
+   "A": "Pneumonia",
+   "B": "Tuberculosis",
+   "C": "Asthma",
+   "D": "COPD",
+   "E": "Bronchogenic carcinoma"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Acute fever, rusty sputum, pleuritic pain and bronchial breathing indicate lobar pneumonia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00026"
+  ],
+  "stem": "Which of the following antibiotics is an appropriate first-line drug for mild community-acquired pneumonia in a penicillin-allergic patient?",
+  "options": {
+   "A": "Cefotaxime",
+   "B": "Chloramphenicol",
+   "C": "Co-amoxiclav",
+   "D": "Co-trimoxazole",
+   "E": "Erythromycin"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "A macrolide (erythromycin or clarithromycin) or doxycycline is the first-line alternative to amoxicillin in penicillin allergy and also covers atypicals. Co-amoxiclav contains a penicillin.",
+  "key_note": "The paper circled C (Co-amoxiclav); correct is E: co-amoxiclav is a penicillin and is contraindicated in penicillin allergy.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00038"
+  ],
+  "stem": "A 47-year-old man has a 2-day history of malaise and breathlessness, then coughs up thick green sputum. There is bronchial breathing at the right base. He is allergic to penicillin. What is the most appropriate treatment?",
+  "options": {
+   "A": "Amoxicillin",
+   "B": "Clarithromycin",
+   "C": "Metronidazole",
+   "D": "Rifampicin and isoniazid",
+   "E": "Gentamicin"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Community-acquired pneumonia in a penicillin-allergic patient is treated with a macrolide such as clarithromycin (or doxycycline); gentamicin has poor pneumococcal activity.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00039"
+  ],
+  "stem": "A 55-year-old man has productive purulent cough and left basal consolidation on chest X-ray. Blood pressure is 118/70 mmHg, respiratory rate 18/min, urea 5.4 mmol/L, and he scores 10/10 on the Abbreviated Mental Test. What is his CURB-65 score?",
+  "options": {
+   "A": "CURB-65 score 0",
+   "B": "CURB-65 score 1",
+   "C": "CURB-65 score 2",
+   "D": "CURB-65 score 3",
+   "E": "CURB-65 score 4"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "He has no confusion, urea below 7 mmol/L, RR below 30, normal BP and age below 65, so the score is 0 and home treatment is suitable.",
+  "key_note": "Source stem had an illegible diastolic BP; taken as normal.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00578"
+  ],
+  "stem": "A 68-year-old woman has a 4-day history of productive cough with yellowish sputum and fever. She is confused, with respiratory rate 34/min and BP 100/70 mmHg; serum urea is 65 mg/dl. What is her CURB-65 score?",
+  "options": {
+   "A": "0",
+   "B": "1",
+   "C": "2",
+   "D": "3",
+   "E": "4"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Confusion, urea above 7 mmol/L (BUN above 19 mg/dl), RR of 30 or more and age 65 or more each score 1, while BP 100/70 does not: total 4.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00377"
+  ],
+  "stem": "A 40-year-old man has high-grade fever and productive cough for 7 days and has been confused for 1 day. RR 20/min, BP 120/80 mmHg, urea 8 mmol/L. CXR shows left lower zone consolidation. His CURB-65 score is:",
+  "options": {
+   "A": "5",
+   "B": "1",
+   "C": "4",
+   "D": "3",
+   "E": "2"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Confusion (1) and urea above 7 mmol/L (1) give a score of 2; RR, BP and age do not score.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00796",
+   "C00990",
+   "C01046",
+   "C01410",
+   "C01551",
+   "C01963"
+  ],
+  "stem": "A 42-year-old man has pleuritic chest pain, cough and rusty sputum for 5 days and chest X-ray shows consolidation. He is not responding to antibiotics and has depressed consciousness, with a CURB-65 score of 4-5. He should be managed:",
+  "options": {
+   "A": "As an outpatient",
+   "B": "In the intensive care unit",
+   "C": "In the medical ward",
+   "D": "By observation in the emergency room",
+   "E": "In a day-care centre"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "A CURB-65 score of 4-5 indicates severe pneumonia with high mortality and requires ICU or high-dependency care.",
+  "key_note": "One paper marked C (Start intravenous fluids); correct is B: severe pneumonia (CURB-65 4-5) warrants ICU.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00378"
+  ],
+  "stem": "A 48-year-old man is diagnosed with community-acquired pneumococcal pneumonia with a CURB-65 score of 0-1. The most appropriate treatment is:",
+  "options": {
+   "A": "Amoxicillin 500 mg orally four times daily",
+   "B": "Clindamycin 600 mg IV three times daily",
+   "C": "Cefoperazone/sulbactam 1 g IV twice daily",
+   "D": "Ceftriaxone 1 g IV twice daily",
+   "E": "Levofloxacin 500 mg orally once daily"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Low-severity CAP (CURB-65 0-1) is treated at home with oral amoxicillin (macrolide or doxycycline if allergic).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00551"
+  ],
+  "stem": "A 55-year-old diabetic woman presents to the OPD with fever and cough for 4 days. She is vitally stable with GCS 15/15, CXR shows left lower lobe consolidation and serum urea is normal. The best antibiotic therapy for her is:",
+  "options": {
+   "A": "Levofloxacin plus gentamicin",
+   "B": "Amoxicillin-clavulanate plus azithromycin",
+   "C": "Piperacillin/tazobactam plus amikacin",
+   "D": "Carbapenem plus amikacin",
+   "E": "Erythromycin plus gentamicin"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Low-severity CAP (CURB-65 0) with a comorbidity such as diabetes is treated orally with co-amoxiclav plus a macrolide; IV anti-pseudomonal therapy is unnecessary.",
+  "key_note": "One paper marked C (Piperacillin/tazobactam plus amikacin); correct is B because she is stable and low-risk, and needs only oral beta-lactam plus macrolide.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00383",
+   "C00388"
+  ],
+  "stem": "A 50-year-old woman is diagnosed with community-acquired pneumonia with a CURB-65 score of 2. The best empirical antibiotic regimen is:",
+  "options": {
+   "A": "Piperacillin/tazobactam plus amikacin",
+   "B": "Levofloxacin plus gentamicin",
+   "C": "Carbapenem plus amikacin",
+   "D": "Erythromycin plus gentamicin",
+   "E": "Amoxicillin-clavulanic acid plus azithromycin"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Moderate-severity CAP needs a beta-lactam (amoxicillin or co-amoxiclav) plus a macrolide for atypical cover; broad anti-pseudomonal regimens are unnecessary.",
+  "key_note": "The paper marked A (Piperacillin/tazobactam plus amikacin); correct is E: standard moderate CAP therapy is a beta-lactam plus macrolide.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00579"
+  ],
+  "stem": "A 65-year-old man has 5 days of high-grade fever and cough. He is drowsy and tachypnoeic and his CURB-65 score is 4. The most appropriate treatment is:",
+  "options": {
+   "A": "Oral co-amoxiclav and metronidazole at home",
+   "B": "Oral co-amoxiclav and clarithromycin at home",
+   "C": "Admit to the medical ward and give IV third-generation cephalosporin alone",
+   "D": "Admit to the medical ward and give IV co-amoxiclav and a third-generation cephalosporin",
+   "E": "Admit to ICU and give IV azithromycin plus a third-generation cephalosporin"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "A CURB-65 score of 4 is severe pneumonia needing urgent admission with ICU assessment and IV beta-lactam plus macrolide (to cover atypicals); combined beta-lactams alone do not cover Legionella or Mycoplasma.",
+  "key_note": "One paper marked D (admit to ward, IV co-amoxiclav plus cephalosporin); correct is E because severe CAP needs a macrolide and ICU-level care.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00362"
+  ],
+  "stem": "A 65-year-old man is admitted with one day of drowsiness and right hemiplegia. On the 4th day he vomits once and develops respiratory distress with bilateral coarse crackles. The most appropriate antibiotic regimen is:",
+  "options": {
+   "A": "Amoxicillin plus gentamicin",
+   "B": "Meropenem plus gentamicin",
+   "C": "Ceftriaxone plus metronidazole",
+   "D": "Levofloxacin alone",
+   "E": "Levofloxacin plus gentamicin"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Vomiting in a drowsy stroke patient suggests aspiration pneumonia, which needs coverage of oral anaerobes and Gram-negatives: a cephalosporin plus metronidazole (or co-amoxiclav).",
+  "key_note": "The paper marked E (Levofloxacin plus gentamicin); correct is C because aspiration pneumonia needs anaerobic cover, which E lacks.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00861"
+  ],
+  "stem": "The common organism in hospital-acquired pneumonia is:",
+  "options": {
+   "A": "Streptococcus pneumoniae",
+   "B": "Haemophilus influenzae",
+   "C": "Staphylococcus aureus",
+   "D": "Gram-positive bacteria (generic)",
+   "E": "Pneumocystis jirovecii"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Hospital-acquired pneumonia is mainly due to Gram-negative bacilli and Staph. aureus (including MRSA); of the options listed, Staph. aureus is the best answer.",
+  "key_note": "Gram-negative bacilli (Pseudomonas, Klebsiella) are equally important but were not offered.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00547"
+  ],
+  "stem": "A 40-year-old diabetic man has 6 days of fever, sore throat, productive cough and severe myalgia. Chest examination is normal and oxygen saturation is 90%. CXR shows bilateral basal haziness, and CRP and serum ferritin are raised. The most likely diagnosis is:",
+  "options": {
+   "A": "Sarcoidosis",
+   "B": "Pulmonary tuberculosis",
+   "C": "COVID-19 (viral pneumonia)",
+   "D": "Lung carcinoma",
+   "E": "Left ventricular failure"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "An acute febrile viral illness with myalgia, hypoxia out of proportion to chest signs, bilateral basal haze and raised CRP and ferritin is typical of COVID-19 pneumonia.",
+  "key_note": "Some papers worded the answer as viral pneumonia; both refer to the same option.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00032"
+  ],
+  "stem": "A 12-year-old boy has had repeated chest infections and poor physical development for two years. There are coarse crepitations throughout both lungs and finger clubbing. Which one of the following is the most suitable diagnostic investigation?",
+  "options": {
+   "A": "Lung function tests",
+   "B": "Mantoux test",
+   "C": "Sputum culture",
+   "D": "Sweat test",
+   "E": "Ventilation perfusion scan"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Recurrent chest infections, failure to thrive, clubbing and bronchiectatic signs in a child suggest cystic fibrosis, diagnosed by the sweat chloride test.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01106"
+  ],
+  "stem": "Cystic fibrosis is a genetic disease that predominantly affects which organs?",
+  "options": {
+   "A": "Bone marrow",
+   "B": "Lungs and digestive system",
+   "C": "Skin and mucous membranes",
+   "D": "Central nervous system",
+   "E": "Musculoskeletal system"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "CFTR mutation causes thick secretions that damage the lungs (recurrent infection, bronchiectasis) and the pancreas and gut (malabsorption, meconium ileus).",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00370"
+  ],
+  "stem": "A 55-year-old man has high fever and worsening productive cough for 5 days on a background of 8 years of chronic cough with 1-2 cups of sputum daily and childhood tuberculosis. There is clubbing and bilateral basal coarse crepitations that change on coughing. The most likely diagnosis is:",
+  "options": {
+   "A": "Acute exacerbation of COPD",
+   "B": "Acute exacerbation of chronic bronchiectasis",
+   "C": "Bronchopneumonia",
+   "D": "Carcinoma of the lung",
+   "E": "Idiopathic pulmonary fibrosis"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Copious daily sputum, clubbing and crackles that change with coughing after childhood TB indicate bronchiectasis with an infective exacerbation.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00793"
+  ],
+  "stem": "A 36-year-old man has had fever for 5 weeks, night sweats, weight loss and dry cough. He has hepatosplenomegaly, a clear chest, and choroid tubercles on fundoscopy. He is suffering from:",
+  "options": {
+   "A": "Primary pulmonary tuberculosis",
+   "B": "Post-primary pulmonary tuberculosis",
+   "C": "Miliary tuberculosis",
+   "D": "Cryptogenic tuberculosis",
+   "E": "Multidrug-resistant tuberculosis"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Choroid tubercles with hepatosplenomegaly and a clear chest signal haematogenous dissemination: miliary tuberculosis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00754"
+  ],
+  "stem": "A 35-year-old man has low-grade fever and cough for 2 months and a diagnosis of tuberculosis is made. Which chest X-ray feature suggests this diagnosis?",
+  "options": {
+   "A": "Rib erosion",
+   "B": "Consolidation",
+   "C": "Kerley B lines",
+   "D": "Prominent bronchovascular markings",
+   "E": "Cavitation"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Upper-zone cavitation is the characteristic radiological feature of post-primary pulmonary tuberculosis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00779",
+   "C02420"
+  ],
+  "stem": "A 20-year-old man has had cough, fever and anorexia for 4 weeks. Chest examination is normal and chest X-ray shows right upper zone cavitation. The most likely diagnosis is:",
+  "options": {
+   "A": "Pulmonary tuberculosis",
+   "B": "Staphylococcus aureus pneumonia",
+   "C": "COVID-19 pneumonia",
+   "D": "Pneumocystis jirovecii pneumonia",
+   "E": "Mycoplasma pneumonia"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "A subacute illness with constitutional symptoms and upper-lobe cavitation is pulmonary TB until proven otherwise.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00855",
+   "C01351"
+  ],
+  "stem": "The gold standard for the diagnosis of tuberculosis is:",
+  "options": {
+   "A": "ESR more than 100 mm/hour",
+   "B": "Positive tuberculin skin test",
+   "C": "Positive sputum smear for acid-fast bacilli (AFB)",
+   "D": "Chest X-ray P/A view",
+   "E": "Positive family history of tuberculosis"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Demonstration of AFB in sputum (smear, with culture as the definitive confirmation) establishes the diagnosis; ESR, Mantoux and X-ray are only supportive.",
+  "key_note": "Culture is the strict gold standard but was not offered; smear for AFB is the best option listed.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00364"
+  ],
+  "stem": "A young woman has cough, haemoptysis, weight loss and fever for 3 months, with bilateral apical coarse crepitations and absent breath sounds at both bases. A pleural tap is done. Which pleural fluid result is most suggestive of tuberculous effusion?",
+  "options": {
+   "A": "Raised protein, normal ADA, increased lymphocytes",
+   "B": "Raised protein, raised ADA, increased lymphocytes",
+   "C": "Raised protein, decreased ADA, increased macrophages",
+   "D": "Raised protein, normal ADA, increased amylase",
+   "E": "Raised protein, decreased ADA, increased eosinophils"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Tuberculous effusion is a lymphocytic exudate with raised adenosine deaminase (ADA above about 40 U/L).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00027"
+  ],
+  "stem": "A 58-year-old construction worker has had left-sided chest discomfort progressing over the last fortnight. The left lower chest is dull to percussion and a pleural tap reveals blood-stained fluid. What is the most probable diagnosis?",
+  "options": {
+   "A": "Asbestos-related lung disease (asbestosis)",
+   "B": "Bronchiectasis",
+   "C": "Chronic obstructive pulmonary disease",
+   "D": "Mesothelioma",
+   "E": "Small cell lung tumour"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Occupational asbestos exposure with a unilateral blood-stained effusion and chest pain points to malignant mesothelioma. Asbestosis causes basal fibrosis, not a bloody effusion.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00552"
+  ],
+  "stem": "A 40-year-old man has dry cough, low-grade fever and right-sided dull ache for 3 weeks. The right chest moves less, with stony dull percussion and decreased breath sounds at the right base. The most likely chest X-ray finding is:",
+  "options": {
+   "A": "Consolidation",
+   "B": "Pleural effusion",
+   "C": "Cavitation",
+   "D": "Reticulonodular shadowing",
+   "E": "Pneumothorax"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Reduced movement, stony dullness and diminished breath sounds at the base indicate a pleural effusion (blunted costophrenic angle with a meniscus on X-ray).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00380"
+  ],
+  "stem": "Light's criteria for distinguishing pleural exudate from transudate include:",
+  "options": {
+   "A": "Effusion protein/serum protein above 0.3, effusion LDH/serum LDH above 2.0, effusion LDH above 2/3 of the upper limit of serum LDH",
+   "B": "Effusion protein/serum protein above 0.5, effusion LDH/serum LDH above 0.6, effusion LDH above 2/3 of the upper limit of serum LDH",
+   "C": "Effusion protein/serum protein below 0.5, effusion LDH/serum LDH below 2.0, effusion LDH below 1/3 of the upper limit of serum LDH",
+   "D": "Effusion protein/serum protein 2.5, effusion LDH/serum LDH 1.5, effusion LDH equal to serum LDH",
+   "E": "Effusion protein/serum protein 3.5, effusion LDH/serum LDH 3.0, effusion LDH equal to serum LDH"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "An effusion is an exudate if any of: pleural/serum protein above 0.5, pleural/serum LDH above 0.6, or pleural LDH above two-thirds of the upper normal serum LDH.",
+  "key_note": "Option E was truncated in the source and completed by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00379",
+   "C00555",
+   "C01517",
+   "C01840",
+   "C02315"
+  ],
+  "stem": "A 40-year-old asthmatic on inhaled corticosteroids for 10 years develops sudden severe right-sided chest pain and breathlessness. Over the right upper chest there is decreased movement, resonant percussion and absent breath sounds. The most likely diagnosis is:",
+  "options": {
+   "A": "Acute exacerbation of asthma",
+   "B": "Emphysema",
+   "C": "Mass on the right side",
+   "D": "Right-sided lung collapse",
+   "E": "Pneumothorax"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Sudden pleuritic pain with reduced expansion, hyper-resonance and absent breath sounds on one side is pneumothorax.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00587",
+   "C02825"
+  ],
+  "stem": "A 29-year-old man presents with 6 hours of dyspnoea. He has no past history of note. There are decreased breath sounds on the left, the trachea is central and SpO2 is 98% on air. Chest X-ray shows a left pneumothorax with a 3 cm rim of air and no mediastinal shift. What is the most appropriate initial management?",
+  "options": {
+   "A": "Needle aspiration",
+   "B": "Chest drain with underwater seal",
+   "C": "Discharge with outpatient follow-up X-ray",
+   "D": "28% oxygen via Venturi mask",
+   "E": "ABG and observation"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "A symptomatic primary spontaneous pneumothorax with a rim over 2 cm is treated with simple needle aspiration first; a drain is for failed aspiration, tension or secondary pneumothorax.",
+  "key_note": "One paper marked chest drain; correct is aspiration, the first step for a primary pneumothorax with a rim over 2 cm (BTS).",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00031"
+  ],
+  "stem": "A 38-year-old pregnant woman has sudden-onset breathlessness and sharp right-sided chest pain. She was previously well. There is no wheeze, no crackles and no hyper-resonance. What is the likely diagnosis?",
+  "options": {
+   "A": "Acute coryza",
+   "B": "Closed non-tension pneumothorax",
+   "C": "Pneumoconiosis",
+   "D": "Pneumonia",
+   "E": "Pulmonary embolism"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Sudden pleuritic pain and dyspnoea with a normal chest examination in a pregnant woman (hypercoagulable) suggests pulmonary embolism; no hyper-resonance excludes pneumothorax.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00037"
+  ],
+  "stem": "A 42-year-old woman has sudden-onset breathlessness and sharp right-sided chest pain and is obviously distressed. Auscultation is normal, percussion is not hyper-resonant and the chest X-ray shows clear lung fields. Which investigation would confirm the most likely diagnosis?",
+  "options": {
+   "A": "CT pulmonary angiography",
+   "B": "D-dimers",
+   "C": "Lung function tests",
+   "D": "Mantoux test",
+   "E": "Lower limb Doppler studies"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "The likely diagnosis is pulmonary embolism; CTPA is the confirmatory test. D-dimer only helps to exclude it in low-probability patients.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00369"
+  ],
+  "stem": "A 38-year-old woman is 5 days post-partum after caesarean section and now has chest pain and difficulty breathing. HR 116/min, BP 100/70 mmHg, RR 22/min, SpO2 93% on room air; clinical examination is unremarkable. What is the investigation of choice?",
+  "options": {
+   "A": "CT pulmonary angiography",
+   "B": "D-dimers",
+   "C": "Doppler ultrasound of both legs",
+   "D": "Chest X-ray",
+   "E": "Ventilation-perfusion scan"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "The picture suggests post-operative/post-partum pulmonary embolism; CTPA is the investigation of choice (D-dimer is unreliable post-partum).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00381"
+  ],
+  "stem": "A 70-year-old man had a knee replacement. On the 4th post-operative day he develops sudden dyspnoea with BP 80/40 mmHg and a clear chest. The most probable diagnosis is:",
+  "options": {
+   "A": "Massive pulmonary embolism",
+   "B": "Acute severe asthma",
+   "C": "Acute myocardial infarction",
+   "D": "Ruptured aortic aneurysm",
+   "E": "Septic shock"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Sudden dyspnoea, hypotension and a clear chest after orthopaedic surgery indicate massive pulmonary embolism from deep vein thrombosis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00382",
+   "C00550"
+  ],
+  "stem": "A 50-year-old obese woman develops sudden breathlessness on the 7th day after cholecystectomy and pulmonary embolism is suspected. Regarding the diagnosis of pulmonary embolism:",
+  "options": {
+   "A": "Conventional pulmonary angiography should be done in every patient",
+   "B": "The most sensitive non-invasive modality is CT pulmonary angiography",
+   "C": "A positive D-dimer is confirmatory",
+   "D": "A normal chest X-ray rules out pulmonary embolism",
+   "E": "Ventilation-perfusion scan should be performed before CTPA"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "CTPA is the first-line, most sensitive non-invasive test; D-dimer is non-specific (raised in surgery, pregnancy, infection) and is useful only to exclude PE.",
+  "key_note": "Papers marked C (Positive D-dimer is confirmatory) in one copy; correct is B: a raised D-dimer is non-specific and never confirms PE.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01023",
+   "C01544"
+  ],
+  "stem": "Frank haemoptysis is expected in:",
+  "options": {
+   "A": "Bronchial asthma",
+   "B": "Pulmonary infarction",
+   "C": "Mitral incompetence",
+   "D": "Pulmonary stenosis",
+   "E": "Mitral valve prolapse"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Pulmonary infarction (embolism) causes pleuritic pain and haemoptysis; of the listed conditions the others do not typically produce frank haemoptysis (mitral stenosis, not incompetence, is the valvular cause).",
+  "key_note": "Not marked in one source; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00553"
+  ],
+  "stem": "A 55-year-old woman has progressive breathlessness for 6 months, bilateral basal velcro-like crackles and clubbing. The chest X-ray shows bilateral basal reticulonodular shadowing. The most likely diagnosis is:",
+  "options": {
+   "A": "Lobar pneumonia",
+   "B": "Asthma",
+   "C": "Interstitial lung disease",
+   "D": "Lung malignancy",
+   "E": "Tuberculosis"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Fine end-inspiratory velcro crackles, clubbing and basal reticulonodular shadowing are classic of interstitial (fibrosing) lung disease with a restrictive defect.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00583",
+   "C02423"
+  ],
+  "stem": "A 65-year-old woman has dyspnoea on mild exertion and at rest for 2 months on a background of progressive breathlessness for 5 years. She is tachypnoeic and cyanosed with grade 2 clubbing and bilateral basal fine end-inspiratory crepitations. The most likely diagnosis is:",
+  "options": {
+   "A": "Congestive heart failure",
+   "B": "Idiopathic pulmonary fibrosis",
+   "C": "Bronchiectasis",
+   "D": "COPD",
+   "E": "Caplan syndrome"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Insidious progressive dyspnoea with clubbing and bibasal fine end-inspiratory crackles in an older patient is idiopathic pulmonary fibrosis (usual interstitial pneumonia).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00797",
+   "C00987",
+   "C01411"
+  ],
+  "stem": "The best investigation in the diagnosis of interstitial lung disease (ILD) is:",
+  "options": {
+   "A": "Chest X-ray (P/A view)",
+   "B": "Spirometry",
+   "C": "High-resolution CT scan",
+   "D": "Bronchoalveolar lavage (BAL)",
+   "E": "Lung biopsy"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "HRCT shows the pattern (honeycombing, ground-glass, reticulation) and distribution of ILD and often makes the diagnosis without biopsy; chest X-ray is insensitive.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00584",
+   "C01642"
+  ],
+  "stem": "A 35-year-old woman has dyspnoea on moderate exertion for 3 months. One week ago she developed painful red spots on her shins. Chest X-ray shows widening of the mediastinum. The most likely diagnosis is:",
+  "options": {
+   "A": "Primary pulmonary tuberculosis",
+   "B": "Carcinoma of the lung",
+   "C": "Aspergillosis",
+   "D": "Histoplasmosis",
+   "E": "Sarcoidosis"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Erythema nodosum (tender red shin nodules) with bilateral hilar and mediastinal lymphadenopathy is the typical presentation of sarcoidosis (Lofgren syndrome).",
+  "key_note": "One paper marked C (Aspergillosis); correct is E: erythema nodosum with hilar lymphadenopathy is sarcoidosis. Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00857"
+  ],
+  "stem": "A 40-year-old woman is suspected to have sarcoidosis. Which laboratory finding agrees with the diagnosis?",
+  "options": {
+   "A": "Hypocalcaemia",
+   "B": "Raised angiotensin-converting enzyme",
+   "C": "Macrocytic anaemia",
+   "D": "Right apical opacity in the lung",
+   "E": "Positive Scl-70"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Sarcoid granulomas raise serum ACE (also hypercalcaemia via vitamin D activation); Scl-70 is for systemic sclerosis and hilar nodes, not apical opacity, are typical.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00935"
+  ],
+  "stem": "A 48-year-old Afro-Caribbean woman is admitted with fever and bilateral painful red eyes. Temperature is 38.3 C, respiratory rate 26/min, SpO2 93% on air, with bilateral parotid swelling. Chest X-ray shows bilateral hilar lymphadenopathy. What is the most likely unifying diagnosis?",
+  "options": {
+   "A": "HIV",
+   "B": "Tuberculosis",
+   "C": "Heerfordt syndrome (uveoparotid fever)",
+   "D": "Lymphoma",
+   "E": "Mumps"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Uveitis, parotid enlargement, fever and hilar lymphadenopathy form Heerfordt syndrome, an acute form of sarcoidosis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01045",
+   "C01571"
+  ],
+  "stem": "A 30-year-old woman has a 3-month history of cough, bilateral hilar lymphadenopathy on chest X-ray, and raised serum calcium and ACE levels. The likely diagnosis is:",
+  "options": {
+   "A": "Sarcoidosis",
+   "B": "Miliary tuberculosis",
+   "C": "Carcinoma of the lung",
+   "D": "Metastasis",
+   "E": "COPD"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Bilateral hilar lymphadenopathy with hypercalcaemia and raised ACE is typical of sarcoidosis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00034"
+  ],
+  "stem": "A 67-year-old man has a 3-week history of blood-stained sputum and has lost 8 kg in 2 months. Chest auscultation is unremarkable and a chest X-ray shows a 2 cm density in the left lower lobe. What is the next most appropriate investigation?",
+  "options": {
+   "A": "Bronchoscopy and biopsy",
+   "B": "CT pulmonary angiography",
+   "C": "Mantoux test",
+   "D": "Pleural biopsy",
+   "E": "Sputum culture"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Haemoptysis, weight loss and a pulmonary mass suggest bronchial carcinoma; tissue diagnosis by bronchoscopy and biopsy is the next step (with CT staging).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01024",
+   "C01545"
+  ],
+  "stem": "Regarding carcinoma of the bronchus:",
+  "options": {
+   "A": "It usually presents with distant metastasis without respiratory symptoms",
+   "B": "It may follow exposure to asbestos",
+   "C": "Chemotherapy is ineffective",
+   "D": "Overall 5-year survival is over 80%",
+   "E": "It commonly occurs in the third decade of life"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Asbestos exposure (especially with smoking) increases the risk of bronchial carcinoma; it is a disease of the 6th to 7th decade, survival is poor (about 10-15%) and small cell carcinoma responds to chemotherapy.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01412"
+  ],
+  "stem": "A 70-year-old cigarette smoker has cough with haemoptysis and ptosis of the right eye. Chest X-ray shows an opacity at the right apex. The likely diagnosis is:",
+  "options": {
+   "A": "Carcinoid syndrome",
+   "B": "Pulmonary tuberculosis",
+   "C": "Pneumothorax",
+   "D": "Pancoast's tumour",
+   "E": "Metastasis to brain"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "An apical tumour invading the sympathetic chain causes Horner's syndrome (ptosis, miosis, anhidrosis): Pancoast tumour.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00794"
+  ],
+  "stem": "Corticosteroids are indicated as an adjunct in the treatment of tuberculosis in:",
+  "options": {
+   "A": "Pericardial tuberculosis",
+   "B": "Tuberculous lymphadenitis",
+   "C": "Genital tuberculosis",
+   "D": "Intestinal tuberculosis",
+   "E": "Miliary tuberculosis"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Steroids reduce constriction and mortality in tuberculous pericarditis and are also used in TB meningitis and, in selected cases, severe miliary disease with hypoxia or adrenal involvement.",
+  "key_note": "The source had only four options in one copy; a fifth option (miliary tuberculosis) was present in others and has been used.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00035"
+  ],
+  "stem": "A 72-year-old man returns to the ward after transurethral resection of the prostate and is confused. Blood gases show pH 7.39, PO2 7.0 kPa, PCO2 5.1 kPa, bicarbonate 24 mmol/L. Which one of the following explains this picture? (Reference: PO2 >11.0 kPa, PCO2 4.6-6.0 kPa, bicarbonate 22-28 mmol/L, pH 7.35-7.45.)",
+  "options": {
+   "A": "Fully compensated metabolic acidosis",
+   "B": "Fully compensated respiratory alkalosis",
+   "C": "Respiratory acidosis",
+   "D": "Type I respiratory failure",
+   "E": "Type II respiratory failure"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Hypoxaemia (PO2 below 8 kPa) with a normal PCO2 is type I respiratory failure; type II needs raised PCO2.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C00485"
+  ],
+  "stem": "Likely causes of dyspnoea include the following EXCEPT:",
+  "options": {
+   "A": "Pneumonia",
+   "B": "Acute ST-segment elevation myocardial infarction",
+   "C": "Pneumothorax",
+   "D": "Peptic ulcer"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Pneumonia, pneumothorax and acute MI (through left heart failure) all cause dyspnoea; uncomplicated peptic ulcer causes epigastric pain, not dyspnoea.",
+  "key_note": "The source had only four options.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01956"
+  ],
+  "stem": "Which of the following investigations is used to confirm the diagnosis of bronchial asthma?",
+  "options": {
+   "A": "Chest X-ray",
+   "B": "Spirometry",
+   "C": "Bronchoscopy",
+   "D": "Sputum culture",
+   "E": "CT scan chest"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Asthma is confirmed by demonstrating variable airflow obstruction: spirometry with reversibility (FEV1 rise of 12% and 200 mL after bronchodilator) or PEF variability. Chest X-ray is usually normal.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01644"
+  ],
+  "stem": "Which of the following classes of drug may precipitate an acute attack of asthma?",
+  "options": {
+   "A": "Beta-adrenoceptor agonists",
+   "B": "Non-steroidal anti-inflammatory drugs",
+   "C": "Calcium channel blocking drugs",
+   "D": "Histamine H1 receptor antagonists",
+   "E": "Leukotriene receptor antagonists"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "NSAIDs (aspirin-exacerbated respiratory disease) inhibit cyclo-oxygenase and shunt arachidonic acid towards leukotrienes, causing bronchospasm. Oral beta-blockers are the other classic precipitant.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02167"
+  ],
+  "stem": "A 15-year-old girl with previously well controlled asthma took a tablet for headache at home and developed an acute exacerbation. Which drug is most likely to have precipitated the attack?",
+  "options": {
+   "A": "Paracetamol",
+   "B": "Aspirin",
+   "C": "Zolmitriptan",
+   "D": "Codeine",
+   "E": "Salbutamol"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Aspirin and other NSAIDs can precipitate bronchospasm in sensitive asthmatics through increased leukotriene production. Paracetamol is the safe alternative.",
+  "key_note": "Options completed to five by reviewer; the source marked B.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02320"
+  ],
+  "stem": "A 35-year-old known asthmatic woman presents to the emergency department with respiratory distress. She works in a city with high levels of air pollution and her symptoms have increased over the last few weeks. Which environmental factor is most likely responsible?",
+  "options": {
+   "A": "High particulate matter",
+   "B": "Humidity",
+   "C": "Low pollen count",
+   "D": "Scanty rainfall",
+   "E": "Seasonal allergies"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Air pollutants (particulate matter, ozone, nitrogen dioxide, sulphur dioxide) irritate the airways and worsen asthma control; a low pollen count would not trigger symptoms.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01952"
+  ],
+  "stem": "All of the following are true for asthma EXCEPT:",
+  "options": {
+   "A": "Chronic inflammation of the airways with eosinophil and mast cell involvement",
+   "B": "Type 1 hypersensitivity reaction with immediate and delayed phases",
+   "C": "Chronic recurrent cough, shortness of breath and wheezing are the main symptoms",
+   "D": "Not fully reversible with beta-2 agonists and only a partial response to steroids",
+   "E": "CD4 helper (Th2) cell involvement"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Asthma is characterised by variable, largely reversible airflow obstruction that responds well to beta-2 agonists and steroids; fixed obstruction with poor reversibility suggests COPD.",
+  "key_note": "Source option D had option E merged into it; split by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01841",
+   "C01958"
+  ],
+  "stem": "Which of the following is a feature of a life-threatening attack of asthma?",
+  "options": {
+   "A": "Inability to complete sentences in one breath",
+   "B": "Peak expiratory flow below 50% of predicted",
+   "C": "Respiratory rate more than 25/min",
+   "D": "Heart rate more than 110/min",
+   "E": "Silent chest"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "A silent chest (very poor air movement), along with cyanosis, exhaustion, confusion, PEF below 33% and normal or high PaCO2, defines life-threatening asthma. Inability to complete sentences, rate above 25 and pulse above 110 are features of acute severe asthma.",
+  "key_note": "One paper copy marked B (PEFR); correct is silent chest. Options rewritten by reviewer to a single best answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01596"
+  ],
+  "stem": "A 27-year-old woman in the asthma clinic uses salbutamol inhaler and beclometasone 400 mcg bd. Despite this she has frequent exacerbations and has recently needed prednisolone. What is the most appropriate next step?",
+  "options": {
+   "A": "Add oral theophylline",
+   "B": "Add tiotropium",
+   "C": "Add salmeterol",
+   "D": "Start regular salbutamol, 2 puffs qds",
+   "E": "Switch beclometasone to fluticasone"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Stepwise asthma management: when low-dose inhaled steroid is inadequate, add an inhaled long-acting beta-2 agonist (salmeterol or formoterol) before other add-ons.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01598"
+  ],
+  "stem": "A 24-year-old man is admitted with acute severe asthma. He has received 100% oxygen, nebulised salbutamol and ipratropium and IV hydrocortisone, with no improvement. What is the next step in management?",
+  "options": {
+   "A": "IV aminophylline",
+   "B": "IV magnesium sulphate",
+   "C": "IV salbutamol",
+   "D": "Non-invasive ventilation",
+   "E": "IV adrenaline"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "In acute severe asthma not responding to first-line therapy, a single dose of IV magnesium sulphate (1.2-2 g over 20 minutes) is the next step; aminophylline or IV salbutamol come after senior or ICU input.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01913"
+  ],
+  "stem": "A 21-year-old woman with asthma presents with severe shortness of breath, tachypnoea and wheeze. Conventional treatment in A&E has failed to produce any improvement. Which one of the following must be considered?",
+  "options": {
+   "A": "Development of pneumothorax",
+   "B": "Foreign body inhalation",
+   "C": "Smoke inhalation",
+   "D": "Suboptimal treatment",
+   "E": "Nebulisation-induced bronchospasm"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Failure to respond to standard treatment, or sudden deterioration, in acute asthma should prompt a chest X-ray to exclude pneumothorax, a recognised complication that needs drainage.",
+  "key_note": "The paper key marked E (nebulisation-induced bronchospasm); standard teaching is that pneumothorax must be excluded, so A is the better answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01643"
+  ],
+  "stem": "A 23-year-old known asthmatic is admitted with acute severe breathlessness and chest tightness. Polyphonic wheeze is heard in both lung fields but is quieter on the right. After 15 minutes of standard treatment he remains tachypnoeic and distressed. Which investigation is most urgent?",
+  "options": {
+   "A": "Chest X-ray",
+   "B": "Urea and electrolytes",
+   "C": "ECG",
+   "D": "Doppler ultrasound of leg veins",
+   "E": "Direct laryngoscopy"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Reduced breath sounds on one side in a deteriorating asthmatic suggest pneumothorax, which is an urgent diagnosis made on chest X-ray (or clinically if tension). ABG is the other key test but is not offered.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02312"
+  ],
+  "stem": "A 30-year-old woman with asthma presents to the ER with sudden chest tightness and difficulty breathing after exposure to a cat. Her inhaler gives minimal relief, and she has bilateral wheeze and prolonged expiration. What is the best immediate treatment?",
+  "options": {
+   "A": "Beta-agonist inhaler",
+   "B": "Intravenous antibiotics",
+   "C": "Leukotriene receptor antagonist",
+   "D": "Oral corticosteroids",
+   "E": "Supplemental oxygen"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "The immediate treatment of an asthma exacerbation is a rapid-acting inhaled beta-2 agonist (salbutamol, nebulised if needed); steroids and oxygen follow but do not give immediate bronchodilation.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02476",
+   "C03025"
+  ],
+  "stem": "Which of the following features would favour a diagnosis of asthma as compared to COPD?",
+  "options": {
+   "A": "High grade fever",
+   "B": "Crepitations in chest",
+   "C": "Reversibility with salbutamol",
+   "D": "FEV1/FVC ratio below 0.7",
+   "E": "Excessive sputum"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Significant reversibility to a bronchodilator and diurnal variability favour asthma; COPD has largely fixed obstruction, heavy sputum and smoking history.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01982"
+  ],
+  "stem": "Which of the following features would favour a diagnosis of COPD against asthma?",
+  "options": {
+   "A": "Atopic allergic disorder starting from early childhood",
+   "B": "Positive family history",
+   "C": "Reversibility with salbutamol",
+   "D": "Multiple polyphonic rhonchi in both lung fields",
+   "E": "FEV1/FVC ratio less than 0.7 that persists after bronchodilator"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "COPD is defined by post-bronchodilator FEV1/FVC below 0.7 that is not fully reversible; the other options favour asthma.",
+  "key_note": "Paper key marked E; kept, with the persistence after bronchodilator made explicit by the reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01594"
+  ],
+  "stem": "A 62-year-old heavy smoker presents with shortness of breath and a morning cough. Chest X-ray shows hyperinflated lung fields. Which set of spirometry results is most consistent with COPD?",
+  "options": {
+   "A": "FEV1 reduced, FEV1/FVC normal",
+   "B": "FEV1 increased, FEV1/FVC reduced",
+   "C": "FEV1 reduced, FEV1/FVC reduced",
+   "D": "FEV1 normal, FEV1/FVC reduced",
+   "E": "FEV1 reduced, FEV1/FVC increased"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "COPD is an obstructive defect: FEV1 is reduced more than FVC, so the FEV1/FVC ratio is reduced (below 0.7). A reduced FEV1 with a normal or high ratio is a restrictive pattern.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01600"
+  ],
+  "stem": "When assessing a patient with suspected COPD, which one of the following is least relevant?",
+  "options": {
+   "A": "Smoking history",
+   "B": "Chest X-ray",
+   "C": "Full blood count",
+   "D": "Peak expiratory flow",
+   "E": "Spirometry"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Spirometry confirms and grades COPD; peak flow is insensitive and underestimates airflow obstruction in COPD, so it is the least useful of these (it is more useful in asthma).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01976"
+  ],
+  "stem": "The most useful clinical finding to exclude the presence of airflow limitation in a 60-year-old is:",
+  "options": {
+   "A": "A history of never smoking",
+   "B": "Absence of hyperresonance to chest percussion",
+   "C": "Normal cardiac dullness to percussion",
+   "D": "Absence of pulsus paradoxus",
+   "E": "Non-use of accessory muscles at rest"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Airflow limitation in a 60-year-old is overwhelmingly due to smoking, so never smoking makes it unlikely; the examination signs listed are insensitive and cannot exclude obstruction.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01975"
+  ],
+  "stem": "In COPD, the variable most closely associated with prognosis is:",
+  "options": {
+   "A": "Arterial carbon dioxide partial pressure (PaCO2)",
+   "B": "Arterial oxygen partial pressure (PaO2)",
+   "C": "Forced expiratory volume in one second (FEV1)",
+   "D": "Forced vital capacity (FVC)",
+   "E": "Response to bronchodilators"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "FEV1 (percent predicted) is the best single predictor of mortality in COPD and is the basis of GOLD grading.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01972"
+  ],
+  "stem": "Which of the following is the most characteristic change in chronic bronchitis?",
+  "options": {
+   "A": "Columnar metaplasia of the bronchial epithelium",
+   "B": "Decrease in goblet cell number",
+   "C": "Increase in the size of the mucous glands",
+   "D": "Increase in smooth muscle thickness",
+   "E": "Destruction of alveolar walls"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Chronic bronchitis shows mucous gland hypertrophy (raised Reid index) with goblet cell hyperplasia; alveolar wall destruction belongs to emphysema.",
+  "key_note": "Not marked in the source paper; answer by reviewer. Options written by reviewer; the source gave four.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01597",
+   "C01906"
+  ],
+  "stem": "Which one of the following interventions is most likely to increase survival in patients with COPD?",
+  "options": {
+   "A": "Home nebulisers",
+   "B": "Tiotropium inhaler",
+   "C": "Long-term steroid therapy",
+   "D": "Smoking cessation",
+   "E": "Long-term oxygen therapy"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Smoking cessation slows the decline in FEV1 and reduces mortality at any stage; long-term oxygen therapy also improves survival but only in selected patients with chronic hypoxaemia.",
+  "key_note": "Long-term oxygen (15 hours daily) also improves survival in hypoxaemic patients; paper keys marked smoking cessation, which is the best single answer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02328"
+  ],
+  "stem": "A 68-year-old man with COPD presents with acute shortness of breath, a respiratory rate of 30/min and oxygen saturation of 85% on room air. What is the most appropriate initial management?",
+  "options": {
+   "A": "Intravenous hydration and IV antibiotics",
+   "B": "IV antibiotics and bronchodilators",
+   "C": "Oral bronchodilators and oxygen",
+   "D": "Intubation and mechanical ventilation",
+   "E": "Supplemental (controlled) oxygen and nebulised bronchodilators"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Initial treatment of an acute COPD exacerbation is controlled oxygen (target saturation 88-92%) and nebulised bronchodilators, with steroids and antibiotics added; ventilation is reserved for failure.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02317"
+  ],
+  "stem": "A 70-year-old smoker is admitted with acute respiratory failure and is disoriented. ABG shows PaCO2 60 mmHg, PaO2 50 mmHg and pH 7.30. What is the most appropriate initial management?",
+  "options": {
+   "A": "Chest physiotherapy",
+   "B": "High-flow nasal oxygen",
+   "C": "Intravenous antibiotics",
+   "D": "Intravenous corticosteroids",
+   "E": "Non-invasive positive pressure ventilation"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Acute hypercapnic respiratory failure with respiratory acidosis (pH below 7.35, PaCO2 above 6 kPa) persisting despite medical treatment needs NIV, which reduces intubation and mortality.",
+  "key_note": "One paper copy marked B (high-flow oxygen); correct is NIV, since uncontrolled high oxygen worsens CO2 retention.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02314"
+  ],
+  "stem": "A 60-year-old woman has a chronic cough for over a year, worse in the morning, with significant mucus. She smokes and has increasing shortness of breath. Examination shows a barrel-shaped chest and wheeze. What is the most likely diagnosis?",
+  "options": {
+   "A": "Bronchial asthma",
+   "B": "Chronic bronchitis",
+   "C": "Emphysema",
+   "D": "Lung cancer",
+   "E": "Pulmonary fibrosis"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Chronic productive cough for more than 3 months in 2 successive years in a smoker defines chronic bronchitis; the mucus-dominant history favours it over emphysema.",
+  "key_note": "Emphysema is also defensible given the barrel chest; paper key marked B and is kept.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01768"
+  ],
+  "stem": "A 60-year-old chronic smoker has had high-grade fever, productive cough and shortness of breath for five days. Examination shows bronchial breathing and increased vocal resonance in the right mid chest, and chest X-ray shows right mid-zone consolidation. What is the most probable diagnosis?",
+  "options": {
+   "A": "Pulmonary tuberculosis",
+   "B": "Atypical pneumonia",
+   "C": "Community acquired pneumonia",
+   "D": "Upper respiratory tract infection",
+   "E": "Acute exacerbation of COPD"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Acute fever, productive cough, signs of consolidation and a lobar opacity make community acquired (typically pneumococcal) pneumonia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01971"
+  ],
+  "stem": "What is the correct order of the gross phases of lobar pneumonia?",
+  "options": {
+   "A": "Congestion, red hepatisation, grey hepatisation, resolution",
+   "B": "Grey hepatisation, red hepatisation, congestion, resolution",
+   "C": "Resolution, grey hepatisation, red hepatisation, congestion",
+   "D": "Red hepatisation, grey hepatisation, resolution, congestion"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Lobar pneumonia passes through congestion (day 1-2), red hepatisation (days 3-4), grey hepatisation (days 5-7) and resolution.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01953"
+  ],
+  "stem": "All of the following are true for pneumonia EXCEPT:",
+  "options": {
+   "A": "CAP defines pneumonia arising in the community or in patients admitted for less than 48 hours",
+   "B": "Nosocomial pneumonia occurs in patients admitted to hospital for more than 48 hours",
+   "C": "In CAP the commonly grown organisms are of low virulence, such as streptococci, H. influenzae, Legionella and Mycoplasma",
+   "D": "Patients with a CURB-65 score of 1 are admitted to ICU and given IV antibiotics",
+   "E": "In nosocomial pneumonia resistant organisms such as Pseudomonas, Klebsiella and staphylococci are common"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A CURB-65 score of 0-1 indicates mild pneumonia suitable for home treatment; ICU is considered at scores of 3 or more with severe features.",
+  "key_note": "Truncated wording in options B and E repaired by the reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01954"
+  ],
+  "stem": "A patient has fever, productive cough and chest discomfort for one week, and chest X-ray shows right lower lobe consolidation. Which chest finding would you expect?",
+  "options": {
+   "A": "Right upper zone hyperresonance with left tracheal shift",
+   "B": "Right stony dull percussion note with left tracheal shift",
+   "C": "Right upper zone absent breath sounds with right tracheal shift",
+   "D": "Right lower zone absent breath sounds with right tracheal shift",
+   "E": "Right lower zone bronchial breathing with crepitations and increased tactile vocal fremitus"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Consolidation gives dullness, bronchial breathing, coarse crepitations and increased vocal fremitus/resonance with no tracheal shift.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01974"
+  ],
+  "stem": "A 30-year-old man has a sudden shaking chill, high fever, left pleuritic pain and cough with rusty sputum. Untreated, fever reaches 40.5 C for a week and then resolves abruptly. On day 2 of the illness, examination over the left chest would show all of the following EXCEPT:",
+  "options": {
+   "A": "Restricted hemithorax movement",
+   "B": "Flat percussion note",
+   "C": "Bronchial breathing",
+   "D": "Decreased fremitus",
+   "E": "Whispering pectoriloquy"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "This is lobar pneumonia with consolidation: movement is reduced, the percussion note is dull, breath sounds are bronchial, and fremitus and whispering pectoriloquy are increased; decreased fremitus is the exception.",
+  "key_note": "Percussion is dull rather than truly flat in consolidation, so option B is also imperfect; D is the clearest exception. Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02469"
+  ],
+  "stem": "Which of the following is used to assess the severity of community acquired pneumonia?",
+  "options": {
+   "A": "Duke's criteria",
+   "B": "ASO titre",
+   "C": "CURB-65 score",
+   "D": "DSM-IV criteria",
+   "E": "Ranson's criteria"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "CURB-65 (Confusion, Urea above 7, Respiratory rate 30 or more, BP below 90/60, age 65 or more) guides severity and site of care.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01955"
+  ],
+  "stem": "Which of the following therapies is recommended to treat community acquired pneumonia in a young male?",
+  "options": {
+   "A": "Rifampicin",
+   "B": "Anti-virals",
+   "C": "Vancomycin",
+   "D": "Quinolones",
+   "E": "Anti-fungals"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Of the options, a respiratory fluoroquinolone covers pneumococcus and atypical organisms; rifampicin is an anti-TB drug and vancomycin is for resistant staphylococci. Usual first-line choices are amoxicillin or a macrolide.",
+  "key_note": "Not marked in the source paper; answer by reviewer. Poorly framed question; quinolone is the only appropriate listed agent.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01979",
+   "C02473",
+   "C03024"
+  ],
+  "stem": "A patient admitted to a surgical ward for an operation develops fever, cough and chest pain three days later, and chest X-ray shows right middle-zone consolidation. What is the diagnosis?",
+  "options": {
+   "A": "Community acquired pneumonia",
+   "B": "Hospital acquired pneumonia",
+   "C": "Ventilator associated pneumonia",
+   "D": "Infective endocarditis",
+   "E": "Acute bronchitis"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Pneumonia beginning 48 hours or more after admission, in a non-ventilated patient, is hospital acquired (nosocomial) pneumonia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01981"
+  ],
+  "stem": "The most likely causative organism of ventilator associated pneumonia is:",
+  "options": {
+   "A": "Streptococcus pneumoniae",
+   "B": "Mycobacterium tuberculosis",
+   "C": "Acinetobacter",
+   "D": "Legionella",
+   "E": "Influenza A virus"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "VAP is caused by hospital Gram-negative bacilli (Pseudomonas, Acinetobacter, Klebsiella) and MRSA.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01980",
+   "C02475"
+  ],
+  "stem": "Which organism is likely to cause an outbreak of pneumonia by infecting air-conditioning systems?",
+  "options": {
+   "A": "Streptococcus pneumoniae",
+   "B": "Legionella pneumophila",
+   "C": "Mycobacterium tuberculosis",
+   "D": "Mycoplasma pneumoniae",
+   "E": "Chlamydia pneumoniae"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Legionella lives in water systems (cooling towers, air conditioning) and causes outbreaks of severe pneumonia with hyponatraemia and diarrhoea.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02174"
+  ],
+  "stem": "An IV drug user with HIV has a chest X-ray showing non-homogeneous opacities in both lung fields. He is likely suffering from:",
+  "options": {
+   "A": "Community acquired pneumonia",
+   "B": "Bronchogenic carcinoma",
+   "C": "Lymphoma",
+   "D": "Pneumocystis pneumonia",
+   "E": "Lung abscess"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Bilateral diffuse interstitial or ground-glass shadowing in an HIV patient is typical of Pneumocystis jirovecii pneumonia.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01698"
+  ],
+  "stem": "An 18-year-old boy has progressive shortness of breath for 2 days after a week of flu-like illness. He is cyanosed with respiratory rate 38/min, bilateral rhonchi and wheeze, and bilateral infiltrates on chest X-ray. What is the most probable diagnosis?",
+  "options": {
+   "A": "Acute severe asthma",
+   "B": "Community acquired pneumonia",
+   "C": "COPD",
+   "D": "Swine flu (H1N1 influenza pneumonia)",
+   "E": "Seasonal influenza without pneumonia"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A healthy young adult with severe hypoxaemia and bilateral infiltrates after a flu prodrome fits H1N1 viral pneumonia with ARDS.",
+  "key_note": "Not marked in the source paper; answer by reviewer. Option E reworded by the reviewer to separate it from D.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01970"
+  ],
+  "stem": "What is the main complication of primary tuberculosis?",
+  "options": {
+   "A": "Formation of a Ghon complex",
+   "B": "Miliary pulmonary TB",
+   "C": "Tuberculous bronchopneumonia",
+   "D": "Lung abscess"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Primary TB usually heals as a Ghon complex; its serious complications are progressive primary disease, lymphohaematogenous spread (miliary TB, meningitis) and bronchial compression.",
+  "key_note": "Not marked in the source paper; answer by reviewer. Question is loosely framed; Ghon complex is the primary lesion, not a complication.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01547"
+  ],
+  "stem": "A 38-year-old mother of three children presents with productive cough, fever and weight loss, and her sputum is AFB positive. What is the best choice among these?",
+  "options": {
+   "A": "Advise her not to have pregnancy to avoid congenital TB",
+   "B": "Isolate her from the children for 12 months",
+   "C": "No need to send sputum for culture and sensitivity",
+   "D": "Start IV levofloxacin immediately",
+   "E": "Screen the whole household"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Contact tracing of household members, especially children, is essential in smear-positive TB; isolation is needed only for the infectious phase (about 2 weeks of treatment), and culture/sensitivity is advisable.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01950"
+  ],
+  "stem": "A 26-year-old has chronic cough, haemoptysis and marked weight loss. Which finding is NOT consistent with tuberculosis?",
+  "options": {
+   "A": "Chest X-ray showing right upper zone consolidation",
+   "B": "Sputum smear positive for AFB",
+   "C": "Sputum culture positive for AFB",
+   "D": "Sputum staining positive for fungal hyphae",
+   "E": "Sputum GeneXpert positive for MTB"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Fungal hyphae suggest aspergillus infection, not TB; the other options are standard findings of pulmonary tuberculosis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02316"
+  ],
+  "stem": "A 40-year-old woman has night sweats, weight loss and persistent cough for 3 months, and chest X-ray shows upper lobe cavitating lesions. What is the next best step in management?",
+  "options": {
+   "A": "Administer a PPD skin test",
+   "B": "Initiate empirical antibiotic therapy",
+   "C": "Order sputum for acid-fast bacilli (smear, culture and GeneXpert)",
+   "D": "Perform bronchoscopy",
+   "E": "Start inhaled corticosteroids"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Sputum examination for AFB is the next step; it confirms the diagnosis and gives drug sensitivity. The tuberculin test is of little value in an endemic area.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02313",
+   "C02593"
+  ],
+  "stem": "A 40-year-old man has persistent cough, haemoptysis and weight loss for months after travel to a high-TB-prevalence region. Which diagnostic test is most appropriate to evaluate for tuberculosis?",
+  "options": {
+   "A": "HRCT of the chest",
+   "B": "Plain chest X-ray",
+   "C": "Pulmonary function tests",
+   "D": "Serum D-dimer",
+   "E": "Sputum for acid-fast bacilli (smear and culture)"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Microbiological confirmation from sputum is the definitive test for pulmonary TB; imaging is supportive.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02472",
+   "C03023"
+  ],
+  "stem": "For the diagnosis of pulmonary TB, which investigation is most relevant for initial diagnosis?",
+  "options": {
+   "A": "Sputum staining for AFB",
+   "B": "Sputum fungal smear",
+   "C": "Sputum cytology",
+   "D": "Sputum Gram stain and culture",
+   "E": "Pleural biopsy for granulomas"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Sputum smear for AFB (Ziehl-Neelsen) is the first-line, cheap and rapid test, especially under the national TB programme.",
+  "key_note": "Many programmes now use GeneXpert as the first test; the paper key is sputum AFB smear.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01978"
+  ],
+  "stem": "The standard regimen for pulmonary TB includes:",
+  "options": {
+   "A": "6 months of initiation phase followed by 2 months of continuation phase",
+   "B": "4 months of initiation phase followed by 2 months of continuation phase",
+   "C": "2 months of initiation phase followed by 4 months of continuation phase",
+   "D": "3 months of initiation phase followed by 2 months of continuation phase",
+   "E": "6 months of initiation phase followed by 3 months of continuation phase"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Standard 6-month short-course therapy: 2 months of HRZE (intensive phase) followed by 4 months of HR (continuation phase).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01842",
+   "C01960",
+   "C02474",
+   "C03019",
+   "C02712"
+  ],
+  "stem": "A 40-year-old woman has dyspnoea and a right pleural effusion. The fluid is exudative with raised adenosine deaminase. Most likely diagnosis?",
+  "options": {
+   "A": "Acute pancreatitis",
+   "B": "Rheumatoid arthritis",
+   "C": "Systemic lupus erythematosus",
+   "D": "Tuberculosis"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "A lymphocytic exudate with high ADA (above 40 U/L) is characteristic of tuberculous pleural effusion.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01967"
+  ],
+  "stem": "A 35-year-old man has lost 6 kg in 5 months, with cough, haemoptysis and pleuritic pain. Chest X-ray shows bilateral upper-lobe reticulonodular infiltrates with cavitation, and sputum shows epithelioid cells with necrotic debris. Which additional finding is most likely in his sputum?",
+  "options": {
+   "A": "Branching septate hyphae",
+   "B": "Pleomorphic cells with dark angular nuclei",
+   "C": "Clusters of small RBC-sized cysts staining with GMS",
+   "D": "Acid-fast bacilli"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Caseating granulomatous inflammation with upper-lobe cavitation is TB, and Ziehl-Neelsen staining shows acid-fast bacilli.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01907"
+  ],
+  "stem": "A 22-year-old woman has repeated chest infections and pleurisy and has had a daily cough productive of copious putrid sputum for 4 years. She had severe whooping cough in childhood. What is the diagnosis?",
+  "options": {
+   "A": "Allergic bronchopulmonary aspergillosis",
+   "B": "Churg-Strauss vasculitis",
+   "C": "Chronic persistent asthma",
+   "D": "Bronchiectasis",
+   "E": "Retained foreign body"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Chronic daily purulent sputum with recurrent infections after childhood whooping cough (or measles) is bronchiectasis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02168"
+  ],
+  "stem": "A 50-year-old man with localised bronchiectasis has excessive expectoration and repeated infective exacerbations. Which intervention would best reduce his morbidity?",
+  "options": {
+   "A": "Prophylactic antibiotics",
+   "B": "Long-acting steroids",
+   "C": "Bronchodilators",
+   "D": "Local surgical resection"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "In truly localised bronchiectasis with recurrent infections despite medical therapy, resection of the affected segment or lobe is curative and reduces morbidity.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02319"
+  ],
+  "stem": "A 32-year-old man with cystic fibrosis has increasing breathlessness and productive cough with thick sticky sputum. Oxygen saturation is 92% on air and X-ray shows hyperinflation and bronchiectasis. What is the most appropriate management step for his current symptoms?",
+  "options": {
+   "A": "Supplemental oxygen",
+   "B": "Intravenous antibiotics and bronchodilators",
+   "C": "Systemic corticosteroids and bronchodilators",
+   "D": "Nebulised mucolytic and bronchodilators",
+   "E": "Chest physiotherapy"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Symptomatic relief of tenacious secretions in CF is with nebulised mucolytics (dornase alfa, hypertonic saline) and bronchodilators, along with physiotherapy.",
+  "key_note": "Intravenous antibiotics are also appropriate if a frank exacerbation is present; paper key marked D and is kept.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02169",
+   "C01663"
+  ],
+  "stem": "A 35-year-old man with a past history of treated tuberculosis has recurrent haemoptysis. Chest X-ray shows a rounded opacity in the right upper zone with a crescent-shaped lucency at its upper pole. The most likely diagnosis is:",
+  "options": {
+   "A": "Chronic pulmonary aspergillosis",
+   "B": "Allergic bronchopulmonary aspergillosis",
+   "C": "Aspergilloma",
+   "D": "Invasive pulmonary aspergillosis",
+   "E": "Pancoast tumour"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "A fungus ball (aspergilloma) in an old tuberculous cavity gives a mobile rounded opacity with an air crescent (Monod sign) and haemoptysis.",
+  "key_note": "Option E replaced by the reviewer; the source gave four options.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01648"
+  ],
+  "stem": "Stony dull percussion note is characteristic of:",
+  "options": {
+   "A": "Pleural effusion",
+   "B": "Consolidation",
+   "C": "Pleurisy",
+   "D": "Tuberculous cavity",
+   "E": "Collapse"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Fluid in the pleural space gives a stony dull note with reduced breath sounds and vocal resonance; consolidation gives a dull note with bronchial breathing.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01645"
+  ],
+  "stem": "A 69-year-old man with confusion and increasing breathlessness has a large right pleural effusion on chest X-ray. Which investigation will be of greatest use in establishing a diagnosis?",
+  "options": {
+   "A": "CT scan of thorax",
+   "B": "Lateral chest X-ray",
+   "C": "Serum rheumatoid factor, ANF and anti-DNA antibodies",
+   "D": "Pleural aspiration",
+   "E": "Arterial blood gas"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Diagnostic pleural aspiration with fluid analysis (protein, LDH, cells, culture, cytology) is the key investigation for an effusion of unknown cause.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01977"
+  ],
+  "stem": "A patient arrives in the ER after a road traffic accident with chest injury and absent air entry on the left. All of the following findings are consistent with pneumothorax EXCEPT:",
+  "options": {
+   "A": "Decreased chest movement on the left",
+   "B": "Hyperresonant percussion note on the left",
+   "C": "Trachea shifted to the right",
+   "D": "Decreased or absent breath sounds on the left",
+   "E": "Stony dull percussion note on the left"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Pneumothorax gives a hyperresonant note; stony dullness is the sign of pleural effusion or haemothorax.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02470"
+  ],
+  "stem": "A patient after a road traffic accident with multiple chest injuries and a flail chest has absent air entry on the left. Chest X-ray shows the trachea and cardiac shadow shifted to the right and absent lung markings on the left. The most likely diagnosis is:",
+  "options": {
+   "A": "Pericardial tamponade",
+   "B": "Pleural effusion",
+   "C": "Empyema thoracis",
+   "D": "Haemothorax",
+   "E": "Tension pneumothorax"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "Absent lung markings with contralateral mediastinal shift is tension pneumothorax, needing immediate needle decompression and chest drain.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01587"
+  ],
+  "stem": "A 42-year-old woman on the combined oral contraceptive pill has just returned from the USA and is very short of breath. You suspect pulmonary embolism. Which ECG change is most typical?",
+  "options": {
+   "A": "Sinus bradycardia",
+   "B": "Sinus tachycardia and T inversion in lead III",
+   "C": "Atrial fibrillation",
+   "D": "Ventricular fibrillation",
+   "E": "ST elevation in anterior leads"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Sinus tachycardia is the commonest ECG finding in PE; right heart strain gives T inversion in V1-V4 and lead III (S1Q3T3 is less common).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01912"
+  ],
+  "stem": "A 51-year-old man has tachypnoea and dyspnoea one week after left total knee replacement. The chest examination and chest X-ray are unremarkable and pulse oximetry is 85%. What is the diagnosis?",
+  "options": {
+   "A": "Hyperventilation syndrome",
+   "B": "Tension pneumothorax",
+   "C": "Pulmonary thromboembolism",
+   "D": "Lung aspiration",
+   "E": "Mycoplasma pneumonia"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Hypoxaemia with a clear chest and normal X-ray after major orthopaedic surgery is pulmonary embolism until proven otherwise.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01959"
+  ],
+  "stem": "A patient develops sudden shortness of breath one week after knee replacement. Chest X-ray is normal, he is tachycardic, and his left leg is swollen. The likely cause is:",
+  "options": {
+   "A": "Myocardial infarction",
+   "B": "Pulmonary embolism",
+   "C": "Tuberculosis",
+   "D": "Community acquired pneumonia",
+   "E": "Pneumothorax"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Post-operative DVT (swollen leg) with embolisation causes sudden dyspnoea and tachycardia with a normal chest X-ray.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01964"
+  ],
+  "stem": "A 65-year-old man on the 30th postoperative day after radical prostatectomy for adenocarcinoma suddenly becomes extremely dyspnoeic and diaphoretic with chest pain, palpitations and panic after ambulating. Which postoperative pulmonary complication has he most likely developed?",
+  "options": {
+   "A": "Pulmonary oedema",
+   "B": "Pleural effusion",
+   "C": "Atelectasis",
+   "D": "Thromboembolus"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Sudden dyspnoea after mobilising following pelvic cancer surgery (malignancy and surgery cause hypercoagulability) is classic pulmonary thromboembolism; atelectasis occurs in the first 48 hours.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02171"
+  ],
+  "stem": "A woman admitted with a swollen left leg suddenly develops chest pain and cough with haemoptysis. Chest X-ray shows a triangular shadow on the left. The most likely diagnosis is:",
+  "options": {
+   "A": "Pulmonary embolism",
+   "B": "Pneumonia",
+   "C": "Pulmonary TB",
+   "D": "Lung abscess"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "DVT followed by pleuritic pain, haemoptysis and a wedge-shaped pleural-based opacity (Hampton hump) indicates pulmonary infarction from embolism.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02309"
+  ],
+  "stem": "A 35-year-old woman arrives from the USA two days ago and has shortness of breath at rest, a swollen painful left calf, pulse 126/min and BP 85/50 mmHg. ECG shows sinus tachycardia. What is the most likely diagnosis?",
+  "options": {
+   "A": "Community acquired pneumonia",
+   "B": "Upper respiratory infection",
+   "C": "Panic attack",
+   "D": "Pulmonary embolism",
+   "E": "Acute myocardial infarction"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Long-haul travel, DVT symptoms and haemodynamic compromise indicate massive pulmonary embolism.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01951"
+  ],
+  "stem": "An obese, hypertensive, diabetic woman on the oral contraceptive presents with sudden shortness of breath for two hours, tachypnoea, tachycardia and clear chest. Which abnormality is NOT consistent with a diagnosis of pulmonary embolism?",
+  "options": {
+   "A": "ECG showing S1Q3T3",
+   "B": "Chest X-ray showing Westermark sign",
+   "C": "Raised D-dimer",
+   "D": "Doppler ultrasound of the leg showing DVT",
+   "E": "Raised CK-MB"
+  },
+  "answer": "E",
+  "answer_text": "",
+  "explanation": "S1Q3T3, Westermark sign, raised D-dimer and DVT on Doppler all support PE; a raised CK-MB suggests myocardial necrosis rather than PE.",
+  "key_note": "The source marked E; BNP and troponin may rise in PE with right ventricular strain, but CK-MB is not a feature.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01843"
+  ],
+  "stem": "A 60-year-old woman with a recent hip fracture suddenly develops breathlessness and pleuritic chest pain with oxygen saturation 82% on room air. What is the best investigation to confirm your clinical diagnosis?",
+  "options": {
+   "A": "CT pulmonary angiogram",
+   "B": "D-dimer",
+   "C": "High resolution CT chest",
+   "D": "Ventilation/perfusion scan"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "CT pulmonary angiography is the first-line confirmatory investigation for suspected PE; D-dimer is only a rule-out test in low-probability patients.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01595"
+  ],
+  "stem": "A 67-year-old ex-smoker has progressive exertional dyspnoea and dry cough over nine months. Saturation is 97% on air, there are fine bibasal crackles and finger clubbing. ECG and BNP are normal and spirometry shows a restrictive pattern. What is the most likely diagnosis?",
+  "options": {
+   "A": "Primary pulmonary hypertension",
+   "B": "Heart failure",
+   "C": "Chronic obstructive pulmonary disease",
+   "D": "Idiopathic pulmonary fibrosis",
+   "E": "Lung cancer"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Progressive dyspnoea and dry cough with bibasal fine crackles, clubbing and restriction in an older adult is idiopathic pulmonary fibrosis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02318"
+  ],
+  "stem": "A 45-year-old woman with rheumatoid arthritis has worsening dyspnoea over 6 months with dry cough, fine crackles and finger clubbing. HRCT shows reticular patterns and ground-glass opacities. Most likely diagnosis?",
+  "options": {
+   "A": "Bronchial asthma",
+   "B": "COPD",
+   "C": "Interstitial lung disease",
+   "D": "Pneumonia",
+   "E": "Pulmonary embolism"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Reticular change with ground-glass opacity, crackles and clubbing indicate interstitial lung disease (RA-associated).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01966"
+  ],
+  "stem": "A 66-year-old retired construction worker has increasing dyspnoea, bibasal rales, calcified diaphragmatic pleural plaques, diffuse interstitial disease and ferruginous bodies in sputum. These findings suggest exposure to:",
+  "options": {
+   "A": "Beryllium",
+   "B": "Silica dust",
+   "C": "Fumes with iron particles",
+   "D": "Asbestos crystals"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Ferruginous (asbestos) bodies with calcified pleural plaques and interstitial fibrosis are diagnostic of asbestos exposure.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02172"
+  ],
+  "stem": "A 58-year-old man working in a sugar mill has progressive shortness of breath over two years, and chest X-ray shows ground-glass appearance in both lung bases. The most likely cause is:",
+  "options": {
+   "A": "Asbestosis",
+   "B": "Bagassosis",
+   "C": "Byssinosis",
+   "D": "Silicosis"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Bagassosis is hypersensitivity pneumonitis due to Thermoactinomyces from mouldy sugar cane waste.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01911"
+  ],
+  "stem": "A 33-year-old woman has 4 months of exertional dyspnoea, chest pain and syncope. She takes no drugs. She has central cyanosis, clear lungs, pulmonary and tricuspid regurgitation, very high pulmonary artery pressure and a normal-sized left atrium. Preliminary diagnosis?",
+  "options": {
+   "A": "Primary (idiopathic) pulmonary hypertension",
+   "B": "Bronchiectasis",
+   "C": "Chronic obstructive airway disease",
+   "D": "Progressive massive fibrosis",
+   "E": "Mitral stenosis"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "A young woman with exertional syncope, clear lungs, severe pulmonary hypertension and a normal left atrium has idiopathic pulmonary arterial hypertension; mitral stenosis would enlarge the left atrium.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02166"
+  ],
+  "stem": "A 50-year-old man with BMI 40 has increased daytime sleepiness and severe dyspnoea, and is centrally cyanosed. The most likely diagnosis is:",
+  "options": {
+   "A": "Bronchial asthma",
+   "B": "COPD",
+   "C": "Pulmonary oedema",
+   "D": "Sleep apnoea syndrome (obesity hypoventilation)"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Morbid obesity with daytime somnolence and hypoxia/cyanosis points to obstructive sleep apnoea with obesity hypoventilation.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01968"
+  ],
+  "stem": "After an accident with prolonged severe hypotension, a 30-year-old man is intubated and ventilated, has falling oxygen saturation and dies 3 days later. Autopsy shows pink hyaline membranes, thickened interstitium and many macrophages with few neutrophils. Which pulmonary disease complicated his course?",
+  "options": {
+   "A": "Bronchopneumonia",
+   "B": "Chronic bronchitis",
+   "C": "Viral pneumonia",
+   "D": "Diffuse alveolar damage"
+  },
+  "answer": "D",
+  "answer_text": "",
+  "explanation": "Hyaline membranes with refractory hypoxaemia after shock represent diffuse alveolar damage (ARDS).",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01957"
+  ],
+  "stem": "A 50-year-old chain smoker has cough, weight loss and haemoptysis for 3 months, and chest X-ray shows a left hilar opacity. Likely diagnosis?",
+  "options": {
+   "A": "Tuberculosis",
+   "B": "Carcinoma lung",
+   "C": "Sarcoidosis",
+   "D": "Asbestosis",
+   "E": "Pneumonia"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "A smoker with haemoptysis, weight loss and a hilar mass has bronchial carcinoma until proven otherwise.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02170"
+  ],
+  "stem": "An old chronic smoker has had blood in the sputum for some weeks. He has clubbing and an opacity on chest X-ray. The most probable diagnosis is:",
+  "options": {
+   "A": "Bronchogenic carcinoma",
+   "B": "Bronchiectasis",
+   "C": "Pulmonary embolism",
+   "D": "Pneumonia"
+  },
+  "answer": "A",
+  "answer_text": "",
+  "explanation": "Haemoptysis, clubbing and a radiological opacity in an old smoker indicate bronchogenic carcinoma.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01839"
+  ],
+  "stem": "A 70-year-old male smoker is admitted with hyponatraemia, and CT chest suggests bronchogenic carcinoma. The most likely type is:",
+  "options": {
+   "A": "Adenocarcinoma",
+   "B": "Large cell carcinoma",
+   "C": "Small cell carcinoma",
+   "D": "Squamous cell carcinoma"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Small cell carcinoma secretes ADH (SIADH), causing hyponatraemia; squamous cell carcinoma classically causes hypercalcaemia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01910"
+  ],
+  "stem": "A 68-year-old ex-smoker is confused and irritable with 2 weeks of increasing cough, diffuse bone pain and prostration. Chest X-ray shows a left hilar mass with an irregular border. Serum potassium is 3.0 mEq/L and serum calcium is 12.0 mg/dl. What is the likely diagnosis?",
+  "options": {
+   "A": "Small cell lung cancer",
+   "B": "Squamous cell cancer of the lung",
+   "C": "Colonic secondary tumour",
+   "D": "Old healed tuberculosis",
+   "E": "Old calcified hamartoma"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "A central hilar mass with hypercalcaemia (PTHrP secretion) is typical of squamous cell carcinoma; small cell cancer typically gives hyponatraemia (SIADH) or ectopic ACTH.",
+  "key_note": "The paper key marked A (small cell); hypercalcaemia with a central mass favours squamous cell carcinoma, though the question is mixed because of the low potassium.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01969"
+  ],
+  "stem": "Which type of lung cancer fits this description: tumour cells arise from neuroendocrine (Kulchitsky) cells, associated with smoking, centrally located, advanced at diagnosis, treated with chemotherapy rather than surgery, with Cushing, SIADH and Eaton-Lambert paraneoplastic syndromes?",
+  "options": {
+   "A": "Adenocarcinoma in situ",
+   "B": "Carcinoid tumour",
+   "C": "Small cell carcinoma",
+   "D": "Adenocarcinoma"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "Small cell carcinoma arises from Kulchitsky cells, is chemosensitive and causes the paraneoplastic syndromes listed.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01973"
+  ],
+  "stem": "Which of the following statements is CORRECT regarding squamous cell carcinoma of the lung?",
+  "options": {
+   "A": "It is usually peripheral",
+   "B": "It is commonly associated with cigarette smoking",
+   "C": "It has a 5-year survival of 80%",
+   "D": "It is more common in females",
+   "E": "It presents in those under 20 years of age"
+  },
+  "answer": "B",
+  "answer_text": "",
+  "explanation": "Squamous cell carcinoma is strongly linked to cigarette smoking, is usually central, more common in men, and has a poor 5-year survival.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C01965"
+  ],
+  "stem": "A 60-year-old man has had a non-productive cough for 2 months with blood-streaked sputum. Chest X-ray shows a 5 cm mass near the left hilum. Sputum cytology shows small clusters of hyperchromatic pleomorphic cells with scant cytoplasm. Which is the most likely predisposing factor?",
+  "options": {
+   "A": "Silicosis",
+   "B": "Radon gas exposure",
+   "C": "Smoking",
+   "D": "Asbestosis"
+  },
+  "answer": "C",
+  "answer_text": "",
+  "explanation": "The cytology describes small cell carcinoma, which is very strongly related to cigarette smoking.",
+  "key_note": "Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02993"
+  ],
+  "stem": "The accessory muscles contribute to the efficiency of the respiratory system. Which muscle is responsible for about two thirds of the increase in thoracic cavity volume during quiet inspiration?",
+  "options": {
+   "A": "Contraction of the external intercostal muscles",
+   "B": "Contraction of the diaphragm",
+   "C": "Relaxation of the diaphragm",
+   "D": "Relaxation of pectoralis minor and scalene muscles",
+   "E": "Trapezius and latissimus dorsi"
+  },
+  "answer": "B",
+  "explanation": "Quiet inspiration is mainly diaphragmatic: its descent lengthens the thorax vertically and accounts for about two thirds of the volume change. Intercostals add the rest; neck and shoulder muscles act only as accessory muscles in distress.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02906"
+  ],
+  "stem": "Which of the following would shift the oxygen dissociation curve to the right?",
+  "options": {
+   "A": "Alkalosis",
+   "B": "Haemoglobin F",
+   "C": "Low 2,3-DPG levels",
+   "D": "High pCO2",
+   "E": "Methaemoglobin"
+  },
+  "answer": "D",
+  "explanation": "Right shift (lower O2 affinity, easier unloading) occurs with raised pCO2, acidosis (Bohr effect), raised temperature and raised 2,3-DPG. Alkalosis, HbF, low 2,3-DPG and methaemoglobin shift it to the left.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02992"
+  ],
+  "stem": "While interpreting a patient's pulmonary function tests, which of the following increases in obstructive but not in restrictive lung disease?",
+  "options": {
+   "A": "FEV1/FVC ratio",
+   "B": "FEV1",
+   "C": "FVC",
+   "D": "Residual volume",
+   "E": "Tidal volume"
+  },
+  "answer": "D",
+  "explanation": "Air trapping raises residual volume (and TLC in emphysema) in obstructive disease, whereas restrictive disease reduces all lung volumes. FEV1/FVC falls in obstruction and is normal or raised in restriction.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02988"
+  ],
+  "stem": "A 60-year-old chronic smoker with shortness of breath and cough is diagnosed with COPD. This condition is characterised by:",
+  "options": {
+   "A": "Airflow restriction",
+   "B": "Airflow obstruction",
+   "C": "Arterial hypertension",
+   "D": "Airway dilatation",
+   "E": "Airway necrosis"
+  },
+  "answer": "B",
+  "explanation": "COPD is defined by persistent, largely irreversible airflow obstruction (post-bronchodilator FEV1/FVC < 0.7). Restriction is the pattern of interstitial lung disease.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02989"
+  ],
+  "stem": "Which disease is anatomically defined as \"an abnormal permanent enlargement of the air spaces distal to the terminal bronchioles, accompanied by destruction of the bronchial walls and alveolar septa\"?",
+  "options": {
+   "A": "Chronic bronchitis",
+   "B": "Emphysema",
+   "C": "Bronchiectasis",
+   "D": "Tuberculosis",
+   "E": "Asthma"
+  },
+  "answer": "B",
+  "explanation": "This is the anatomical definition of emphysema; chronic bronchitis is a clinical definition (productive cough for 3 months in 2 successive years).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02477",
+   "C02994"
+  ],
+  "stem": "Which one of the following respiratory conditions is NOT associated with clubbing?",
+  "options": {
+   "A": "Bronchiectasis",
+   "B": "Bronchogenic carcinoma",
+   "C": "Asthma",
+   "D": "Interstitial lung disease (fibrosing alveolitis)",
+   "E": "Lung abscess"
+  },
+  "answer": "C",
+  "explanation": "Clubbing occurs with suppurative lung disease, lung cancer, fibrosing alveolitis and cystic fibrosis. Asthma and COPD do not cause clubbing; if present, look for another cause.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03016",
+   "C03026"
+  ],
+  "stem": "Which of the following respiratory conditions is associated with clubbing?",
+  "options": {
+   "A": "Allergic rhinitis or asthma",
+   "B": "Laryngitis or sinusitis",
+   "C": "Pneumothorax",
+   "D": "Carcinoma of the lung",
+   "E": "Foreign body inhalation"
+  },
+  "answer": "D",
+  "explanation": "Clubbing is seen in bronchogenic carcinoma (especially non-small cell), bronchiectasis, lung abscess, empyema, fibrosing alveolitis and cystic fibrosis. Asthma, pneumothorax and upper airway disorders do not cause it.",
+  "key_note": "Two variants with different distractors were merged; both papers marked carcinoma of the lung.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02478",
+   "C03027"
+  ],
+  "stem": "A 27-year-old man presents with high-grade fever and cough. Which of the following clinical signs suggests right-sided lung consolidation?",
+  "options": {
+   "A": "Decreased right air entry with resonant percussion note",
+   "B": "Decreased right air entry with normal percussion note",
+   "C": "Dull percussion note over the right lung with bronchial breathing",
+   "D": "Trachea shifted towards the right",
+   "E": "Trachea shifted towards the left"
+  },
+  "answer": "C",
+  "explanation": "Consolidation gives a dull percussion note, bronchial breathing, increased vocal resonance and coarse crackles, with the trachea central. Tracheal shift suggests collapse, effusion or pneumothorax.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02996"
+  ],
+  "stem": "A 25-year-old man presents with fever and shortness of breath. Bronchial breath sounds are heard over the chest. Bronchial breath sounds are found in all of the following EXCEPT:",
+  "options": {
+   "A": "Collapse with a patent bronchus",
+   "B": "Bronchial asthma",
+   "C": "Lung cavity",
+   "D": "Pneumonia",
+   "E": "Fibrosis"
+  },
+  "answer": "B",
+  "explanation": "Bronchial breathing occurs when solid or cavitated lung transmits tracheal sounds (consolidation, fibrosis, collapse with patent bronchus, cavity). In asthma the lung is hyperinflated and breath sounds are vesicular with wheeze.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02995"
+  ],
+  "stem": "A 39-year-old man with respiratory symptoms has bilateral fine crepitations that are not altered by coughing. This is most consistent with:",
+  "options": {
+   "A": "Viral pneumonia",
+   "B": "Idiopathic pulmonary fibrosis",
+   "C": "Bronchiectasis",
+   "D": "Lung abscess",
+   "E": "Bacterial pneumonia"
+  },
+  "answer": "B",
+  "explanation": "Fixed, fine end-inspiratory 'Velcro' crackles that do not change with coughing are typical of interstitial fibrosis. Crackles from secretions (bronchiectasis, pneumonia) are coarse and change with coughing.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03028"
+  ],
+  "stem": "A patient presents with high-grade fever, cough and rusty sputum, with bronchial breathing on chest auscultation. His chest X-ray is likely to reveal:",
+  "options": {
+   "A": "Consolidation",
+   "B": "Pleural effusion",
+   "C": "Lung collapse",
+   "D": "Globular heart",
+   "E": "Cavity with air-fluid level"
+  },
+  "answer": "A",
+  "explanation": "Fever, rusty sputum and bronchial breathing indicate lobar (pneumococcal) pneumonia, which appears as lobar consolidation with air bronchograms.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03029"
+  ],
+  "stem": "Which of the following is the most characteristic clinical feature of chronic bronchitis?",
+  "options": {
+   "A": "Dry cough",
+   "B": "Cough with copious sputum",
+   "C": "Chest pain",
+   "D": "Massive haemoptysis",
+   "E": "Palpitations"
+  },
+  "answer": "B",
+  "explanation": "Chronic bronchitis is defined as productive cough on most days for at least 3 months in each of 2 consecutive years.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02480"
+  ],
+  "stem": "A 55-year-old man presents with low-grade fever and haemoptysis for one month, with a 15 kg weight loss. Haemoptysis is defined as:",
+  "options": {
+   "A": "Coughing out of blood",
+   "B": "Bleeding from the nose",
+   "C": "Bleeding per rectum",
+   "D": "Vomiting of blood",
+   "E": "Blood in the urine"
+  },
+  "answer": "A",
+  "explanation": "Haemoptysis is expectoration of blood arising from the lower respiratory tract; epistaxis, haematemesis and haematuria are different. With weight loss, think tuberculosis or bronchogenic carcinoma.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02987"
+  ],
+  "stem": "A 20-year-old presents with wheezing after exposure to dust and bilateral rhonchi, and is clinically diagnosed with asthma. Which of the following is NOT a characteristic of this condition?",
+  "options": {
+   "A": "Increase in IgG immunoglobulins",
+   "B": "Airway hyper-responsiveness",
+   "C": "Infiltration of eosinophils into the airways",
+   "D": "Increased mucus production",
+   "E": "Episodic shortness of breath"
+  },
+  "answer": "A",
+  "explanation": "Allergic asthma is an IgE-mediated type I hypersensitivity (raised IgE), not an IgG-driven disease. Airway hyper-responsiveness, eosinophilic inflammation, mucus hypersecretion and episodic dyspnoea are all typical.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02807"
+  ],
+  "stem": "A 30-year-old woman has had shortness of breath for 2 years with seasonal variation and exposure to allergens, with eye irritation and rhinorrhoea. Which spirometry result is expected?",
+  "options": {
+   "A": "FEV1 < 70% with 10% increase post bronchodilator",
+   "B": "FEV1 < 70% with 20% increase post bronchodilator",
+   "C": "FEV1 > 70% with 20% increase post bronchodilator",
+   "D": "FVC < 70% with 10% increase post bronchodilator",
+   "E": "FVC > 70% with 0% increase post bronchodilator"
+  },
+  "answer": "B",
+  "explanation": "Atopic asthma shows an obstructive pattern (reduced FEV1/FVC) with significant reversibility, taken as an increase of 12% or more (about 200 mL) after a bronchodilator. Among the options, a 20% improvement fits.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02747"
+  ],
+  "stem": "A 22-year-old woman develops sudden breathlessness and chest tightness after dust exposure. She speaks in short phrases, has widespread expiratory wheeze, a respiratory rate of 28/min and SpO2 93% on air. She had childhood wheeze. What is the single most likely diagnosis?",
+  "options": {
+   "A": "Panic attack",
+   "B": "Acute asthma exacerbation",
+   "C": "Pulmonary embolism",
+   "D": "Heart failure",
+   "E": "Vocal cord dysfunction"
+  },
+  "answer": "B",
+  "explanation": "A trigger, diffuse expiratory wheeze and a history of childhood wheeze indicate acute asthma; speaking in phrases and RR 28 suggest at least acute severe features.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03012"
+  ],
+  "stem": "A 20-year-old man attends follow-up for asthma since childhood. Fatal attacks of this disease are best predicted by:",
+  "options": {
+   "A": "Increased bronchodilator use",
+   "B": "Onset in childhood",
+   "C": "Atopy",
+   "D": "Smoking",
+   "E": "Chest infections"
+  },
+  "answer": "A",
+  "explanation": "Poor control with rising reliever (SABA) use, previous ICU admission, and recent hospitalisation predict life-threatening asthma.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03032"
+  ],
+  "stem": "The most useful tool for evaluating a patient with an acute asthmatic attack and for assessing response to therapy is:",
+  "options": {
+   "A": "Chest radiography",
+   "B": "Arterial blood gas measurement",
+   "C": "Measurement of pulsus paradoxus",
+   "D": "Observation of accessory muscle use",
+   "E": "Measurement of peak expiratory flow or FEV1"
+  },
+  "answer": "E",
+  "explanation": "PEF or FEV1 gives an objective, repeatable measure of severity and response (severe: PEF 33-50% of best). ABG and CXR are reserved for life-threatening features or complications.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02991"
+  ],
+  "stem": "A 24-year-old man with asthma presents with a seasonal exacerbation. Which of the following is the cornerstone of treatment of this disease?",
+  "options": {
+   "A": "Inhaled steroids",
+   "B": "Oral steroids",
+   "C": "Immunomodulators",
+   "D": "Montelukast",
+   "E": "Long-acting beta agonist"
+  },
+  "answer": "A",
+  "explanation": "Inhaled corticosteroids are the cornerstone of long-term asthma control; LABA should never be used alone and are added to ICS.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03037",
+   "C03221"
+  ],
+  "stem": "Asthma is best treated by:",
+  "options": {
+   "A": "Antibiotics",
+   "B": "Beta agonists",
+   "C": "Diuretics",
+   "D": "Anti-viral drugs",
+   "E": "Steam inhalation"
+  },
+  "answer": "B",
+  "explanation": "Beta-2 agonists are the basic bronchodilator treatment for asthma; beta blockers are contraindicated as they can precipitate bronchospasm.",
+  "key_note": "Two variants with different distractors were merged; both papers marked beta agonists.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02911"
+  ],
+  "stem": "A 45-year-old known asthmatic has had six exacerbations requiring oral steroids in 2 years. She takes salbutamol 2 puffs prn and beclomethasone 200 mcg 1 puff bd. BMI is 31, she is a non-smoker, and her inhaler technique is good. What is the most appropriate next step?",
+  "options": {
+   "A": "Increase beclomethasone to 200 mcg 2 puffs bd",
+   "B": "Referral to a dietician",
+   "C": "Add regular oral prednisolone",
+   "D": "Add oral montelukast",
+   "E": "Add inhaled tiotropium"
+  },
+  "answer": "D",
+  "explanation": "She is on a low-dose ICS with poor control and good technique, so the preventer is stepped up by adding a leukotriene receptor antagonist (NICE) or a LABA (BTS/GINA). Montelukast is the paper's key.",
+  "key_note": "Keyed D in the paper; adding a LABA (C) is the BTS/GINA alternative, so check your local guideline. Option C (add LABA) replaced by auditor to remove ambiguity.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02749",
+   "C01837"
+  ],
+  "stem": "A 63-year-old smoker has chronic cough with sputum and exertional dyspnoea. Breath sounds are diminished with prolonged expiration. Post-bronchodilator spirometry shows FEV1/FVC = 0.58 with little reversibility. What is the single most likely diagnosis?",
+  "options": {
+   "A": "Asthma",
+   "B": "Bronchiectasis",
+   "C": "Chronic obstructive pulmonary disease",
+   "D": "Interstitial lung disease",
+   "E": "Heart failure"
+  },
+  "answer": "C",
+  "explanation": "A fixed post-bronchodilator FEV1/FVC below 0.7 in a smoker defines COPD. Asthma shows marked reversibility; ILD gives a restrictive picture.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02912"
+  ],
+  "stem": "Which of the following markers is most useful for monitoring the progression of chronic obstructive pulmonary disease?",
+  "options": {
+   "A": "FEV1/FVC ratio",
+   "B": "Lifestyle questionnaire",
+   "C": "Oxygen saturation",
+   "D": "FEV1",
+   "E": "Number of exacerbations per year"
+  },
+  "answer": "D",
+  "explanation": "Serial FEV1 is the standard measure of COPD severity and progression; the ratio is used for diagnosis but is a less reliable tracker of decline.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02919"
+  ],
+  "stem": "A 54-year-old woman with COPD is prescribed an inhaled corticosteroid. What is the main therapeutic benefit of inhaled corticosteroids in COPD?",
+  "options": {
+   "A": "Improved exercise tolerance",
+   "B": "Improved all-cause mortality",
+   "C": "Reduced use of bronchodilators",
+   "D": "Slows decline in FEV1",
+   "E": "Reduced frequency of exacerbations"
+  },
+  "answer": "E",
+  "explanation": "In COPD, ICS (with a LABA) reduce the frequency of exacerbations in patients with frequent exacerbations. They do not slow FEV1 decline or clearly improve survival, and they raise pneumonia risk.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03011"
+  ],
+  "stem": "A patient with severe COPD enters a pulmonary rehabilitation programme. This is most likely to improve his:",
+  "options": {
+   "A": "Arterial blood gases",
+   "B": "Survival",
+   "C": "Exercise tolerance",
+   "D": "Spirometry",
+   "E": "Oxygen saturation"
+  },
+  "answer": "C",
+  "explanation": "Rehabilitation improves exercise capacity, dyspnoea and quality of life and reduces admissions, but it does not change spirometry or blood gases. Only smoking cessation and long-term oxygen (when indicated) improve survival.",
+  "key_note": "Some paper keys marked B (survival); correct is C: pulmonary rehabilitation improves exercise tolerance, not survival or FEV1.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03017"
+  ],
+  "stem": "A 60-year-old man with COPD presents with progressive dyspnoea and is in respiratory failure on ABG. Which of the following improves survival in COPD with respiratory failure?",
+  "options": {
+   "A": "Long-term oxygen therapy",
+   "B": "Blood transfusion",
+   "C": "Beta blockers",
+   "D": "Diuretics",
+   "E": "Inhalers"
+  },
+  "answer": "A",
+  "explanation": "Long-term oxygen therapy for at least 15 hours a day (PaO2 < 7.3 kPa, or < 8 kPa with cor pulmonale or polycythaemia) improves survival in chronic hypoxaemic COPD, along with smoking cessation.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02907"
+  ],
+  "stem": "A 62-year-old woman is admitted with a suspected infective exacerbation of COPD. Chest X-ray shows no consolidation. What is the most likely causative organism?",
+  "options": {
+   "A": "Pseudomonas aeruginosa",
+   "B": "Haemophilus influenzae",
+   "C": "Staphylococcus aureus",
+   "D": "Streptococcus pneumoniae",
+   "E": "Moraxella catarrhalis"
+  },
+  "answer": "B",
+  "explanation": "H. influenzae is the commonest bacterial cause of COPD exacerbations, followed by S. pneumoniae and Moraxella; viruses also contribute.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02990"
+  ],
+  "stem": "A 55-year-old man with known COPD is admitted with cough, sputum and shortness of breath. Sputum culture is sent. What are the common pathogens expected?",
+  "options": {
+   "A": "Streptococcus pneumoniae, Haemophilus influenzae, Moraxella catarrhalis",
+   "B": "Staphylococcus aureus, Haemophilus influenzae, Pseudomonas",
+   "C": "Streptococcus pneumoniae, acid-fast bacilli, Haemophilus influenzae",
+   "D": "Chlamydia, Peptostreptococcus, Fusobacterium",
+   "E": "Anaerobic bacteria, Staphylococcus, atypical mycobacteria"
+  },
+  "answer": "A",
+  "explanation": "The usual trio in COPD exacerbations is H. influenzae, S. pneumoniae and Moraxella catarrhalis; Pseudomonas appears in severe or end-stage disease.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02918"
+  ],
+  "stem": "What is the mode of inheritance of alpha-1 antitrypsin deficiency?",
+  "options": {
+   "A": "Mitochondrial",
+   "B": "X-linked recessive",
+   "C": "Polygenic",
+   "D": "Autosomal recessive",
+   "E": "Autosomal dominant"
+  },
+  "answer": "D",
+  "explanation": "Alpha-1 antitrypsin deficiency (SERPINA1, PiZZ) is inherited in an autosomal recessive (codominant) manner and causes panacinar basal emphysema and liver disease.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03010"
+  ],
+  "stem": "A 70-year-old man with COPD has raised JVP and pedal oedema and is suspected of cor pulmonale. Which statement best defines cor pulmonale?",
+  "options": {
+   "A": "Enlargement of both ventricles",
+   "B": "Dilatation and failure of the right ventricle",
+   "C": "Dilatation and failure of the left ventricle",
+   "D": "Failure of both atria",
+   "E": "Enlargement and failure of the right side of the heart due to a primary pulmonary disorder"
+  },
+  "answer": "E",
+  "explanation": "Cor pulmonale is right ventricular hypertrophy or failure caused by disease of the lung or pulmonary vasculature, not by left heart disease.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03108"
+  ],
+  "stem": "Non-invasive ventilation is indicated in a patient with:",
+  "options": {
+   "A": "Foreign body inhalation",
+   "B": "Type 2 respiratory failure",
+   "C": "Hyperventilation syndrome",
+   "D": "Respiratory alkalosis",
+   "E": "Cardiac arrest"
+  },
+  "answer": "B",
+  "explanation": "NIV is first-line for acute hypercapnic respiratory failure with respiratory acidosis (e.g. COPD exacerbation) and for cardiogenic pulmonary oedema. It is not used in obstruction, arrest or alkalosis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02631",
+   "C02858"
+  ],
+  "stem": "A 48-year-old woman with myasthenia gravis presents with shortness of breath for 2 days; SpO2 is 90% on room air and the chest is clear. ABG: pH 7.25, PaCO2 60 mmHg, HCO3 26 mmol/L. What is the acid-base disorder?",
+  "options": {
+   "A": "High anion gap metabolic acidosis",
+   "B": "Low anion gap metabolic acidosis",
+   "C": "Metabolic alkalosis",
+   "D": "Respiratory acidosis",
+   "E": "Respiratory alkalosis"
+  },
+  "answer": "D",
+  "explanation": "Low pH with high PaCO2 and near-normal bicarbonate is acute respiratory acidosis from respiratory muscle weakness (myasthenic crisis), so check FVC and consider ventilation.",
+  "key_note": "The second paper's ABG values were missing in its copy; the values from the first were used. Not marked in the second paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02603"
+  ],
+  "stem": "A 35-year-old man has 5 days of fever, cough and lethargy, with signs of left lower lobe pneumonia. Sputum culture grows an organism sensitive to benzylpenicillin. Which organism is most likely?",
+  "options": {
+   "A": "Aspergillus fumigatus",
+   "B": "Klebsiella pneumoniae",
+   "C": "Legionella pneumophila",
+   "D": "Mycoplasma pneumoniae",
+   "E": "Streptococcus pneumoniae"
+  },
+  "answer": "E",
+  "explanation": "Pneumococcus is the commonest cause of lobar pneumonia and remains penicillin-sensitive in most cases; Mycoplasma lacks a cell wall and Legionella is intracellular.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02713"
+  ],
+  "stem": "A 22-year-old has 10 days of low-grade fever and dry cough, then develops an erythema multiforme-like rash and mild haemolysis. Chest X-ray shows patchy bilateral lower-lobe interstitial changes with minimal chest signs. What is the most likely pathogen?",
+  "options": {
+   "A": "Streptococcus pneumoniae",
+   "B": "Legionella pneumophila",
+   "C": "Mycoplasma pneumoniae",
+   "D": "Chlamydophila psittaci",
+   "E": "Influenza A virus"
+  },
+  "answer": "C",
+  "explanation": "Atypical pneumonia with minimal signs, erythema multiforme and cold-agglutinin haemolysis is typical of Mycoplasma pneumoniae.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03218"
+  ],
+  "stem": "Which organism causing pneumonia has an increased incidence in intravenous drug users?",
+  "options": {
+   "A": "Pneumococcus",
+   "B": "Staphylococcus aureus",
+   "C": "Viruses",
+   "D": "Gram-negative bacilli",
+   "E": "Mycoplasma"
+  },
+  "answer": "B",
+  "explanation": "IV drug users develop right-sided endocarditis with septic pulmonary emboli and cavitating staphylococcal pneumonia.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02920"
+  ],
+  "stem": "A 48-year-old salesman has had 5 days of cough and pleuritic chest pain. Temperature is 38.2 C, BP 120/80, RR 18, pulse 84, with bronchial breathing and dullness at the left base. What is the most suitable management?",
+  "options": {
+   "A": "Oral amoxicillin and discharge",
+   "B": "Oral co-amoxiclav and discharge",
+   "C": "Oral amoxicillin plus erythromycin and discharge",
+   "D": "Oral erythromycin and discharge",
+   "E": "Admit"
+  },
+  "answer": "A",
+  "explanation": "He is not confused, RR is under 30, BP is normal and age is under 65, so CURB-65 is 0 or 1 at most and he can be treated at home with oral amoxicillin.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02908"
+  ],
+  "stem": "A 74-year-old man is confused with right lower lobe pneumonia. Respiratory rate is 36/min, pulse 90/min, BP 106/48 mmHg, and urea 12 mmol/L. What is his CURB-65 score?",
+  "options": {
+   "A": "1",
+   "B": "2",
+   "C": "3",
+   "D": "4",
+   "E": "5"
+  },
+  "answer": "E",
+  "explanation": "Confusion, urea above 7, RR 30 or more, diastolic BP 60 or less and age 65 or more each score 1; all five are present, giving 5 (high risk, consider ICU).",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03002"
+  ],
+  "stem": "A 27-year-old man with no comorbidities has cough, chest pain and fever, and a right lower lobe infiltrate on chest X-ray. Which is the drug of choice?",
+  "options": {
+   "A": "Amoxicillin-clavulanic acid",
+   "B": "Cefuroxime",
+   "C": "Imipenem",
+   "D": "Ciprofloxacin",
+   "E": "Amikacin"
+  },
+  "answer": "A",
+  "explanation": "Uncomplicated community-acquired pneumonia is treated empirically with an aminopenicillin (amoxicillin, or co-amoxiclav as the best option here); carbapenems, aminoglycosides and ciprofloxacin are not first-line.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02682"
+  ],
+  "stem": "A 40-year-old asthmatic woman attends routine follow-up. Which vaccine is recommended annually for adults to prevent influenza?",
+  "options": {
+   "A": "Hepatitis B vaccine",
+   "B": "Inactivated influenza vaccine",
+   "C": "Live attenuated influenza vaccine (intranasal)",
+   "D": "Meningococcal vaccine",
+   "E": "Pneumococcal 23-valent vaccine"
+  },
+  "answer": "B",
+  "explanation": "Annual inactivated influenza vaccine is advised for high-risk adults including those with chronic respiratory disease; live intranasal vaccine is not used in adults.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03005"
+  ],
+  "stem": "A 40-year-old woman from Multan has acute breathlessness, cough and fever for 15 days and has kept birds at home for a month. She has bilateral rhonchi and basal crackles, improves on asthma treatment, and relapses 4 days after discharge with worse symptoms. What is your provisional diagnosis?",
+  "options": {
+   "A": "Acute asthma",
+   "B": "COPD",
+   "C": "Pulmonary tuberculosis",
+   "D": "Hypersensitivity pneumonitis",
+   "E": "Pulmonary oedema"
+  },
+  "answer": "D",
+  "explanation": "Bird exposure, crackles and relapse on return home point to hypersensitivity pneumonitis (bird fancier's lung, type III and IV reaction); avoid the antigen and give steroids.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03008"
+  ],
+  "stem": "A 22-year-old man developed empyema a few weeks after pneumonia that was treated as an outpatient. Empyema is best described as:",
+  "options": {
+   "A": "Air in the pleural space",
+   "B": "Pus in the pleural space",
+   "C": "Pus in a lung abscess",
+   "D": "Blood in the pleural space",
+   "E": "A lung cavity filled with debris"
+  },
+  "answer": "B",
+  "explanation": "Empyema is pus in the pleural space (pneumothorax = air, haemothorax = blood), usually a complication of pneumonia; treat with drainage and antibiotics.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03015"
+  ],
+  "stem": "A 22-year-old man is AFB sputum positive. The common mode of transmission of Mycobacterium tuberculosis is:",
+  "options": {
+   "A": "Droplet spread",
+   "B": "Blood transfusion",
+   "C": "Sexual transmission",
+   "D": "Needle prick",
+   "E": "Handshake"
+  },
+  "answer": "A",
+  "explanation": "TB spreads by airborne droplet nuclei from smear-positive pulmonary cases, so household contacts are screened.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03215"
+  ],
+  "stem": "A patient with fever, cough and weight loss is diagnosed with tuberculosis. What is the main feature of primary tuberculosis?",
+  "options": {
+   "A": "Formation of a Ghon complex",
+   "B": "Miliary pulmonary TB",
+   "C": "Tuberculous bronchopneumonia",
+   "D": "Lung abscess",
+   "E": "Respiratory failure"
+  },
+  "answer": "A",
+  "explanation": "Primary TB forms a Ghon focus (subpleural, lower part of the upper lobe or upper part of the lower lobe) with hilar lymphadenopathy, together the Ghon complex; most heal silently.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02921"
+  ],
+  "stem": "A 63-year-old man has a fibrosing lung disease and sputum positive for acid-fast bacilli. Which exposure may have predisposed him to tuberculosis?",
+  "options": {
+   "A": "Cadmium",
+   "B": "Coal dust",
+   "C": "White asbestos fibres",
+   "D": "Blue asbestos fibres",
+   "E": "Silica"
+  },
+  "answer": "E",
+  "explanation": "Silicosis markedly increases the risk of tuberculosis (silico-tuberculosis); coal dust and asbestos do not carry the same risk.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02997"
+  ],
+  "stem": "Which is FALSE regarding a transudative pleural effusion?",
+  "options": {
+   "A": "Protein < 3 g/100 ml",
+   "B": "Pleural fluid/serum LDH ratio < 0.6",
+   "C": "pH < 7.2",
+   "D": "Specific gravity < 1016",
+   "E": "Pleural fluid LDH < 200"
+  },
+  "answer": "C",
+  "explanation": "Transudates have normal pH (7.4-7.55); a pH below 7.2 suggests empyema or complicated parapneumonic effusion.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02998"
+  ],
+  "stem": "Which of the following is an example of an exudative pleural effusion?",
+  "options": {
+   "A": "Nephrotic syndrome",
+   "B": "Constrictive pericarditis",
+   "C": "SVC syndrome",
+   "D": "Rheumatoid arthritis",
+   "E": "Chronic liver disease"
+  },
+  "answer": "D",
+  "explanation": "Rheumatoid pleurisy gives an exudate with low glucose; the other options cause transudates.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03216"
+  ],
+  "stem": "A 30-year-old man has high-grade fever, left pleuritic pain and cough, appears acutely ill with rapid shallow breathing, and has reduced air entry and a stony dull percussion note at the left base. What is the most likely diagnosis?",
+  "options": {
+   "A": "Asthma exacerbation",
+   "B": "Community-acquired pneumonia",
+   "C": "Pneumothorax",
+   "D": "Pleural effusion",
+   "E": "Sarcoidosis"
+  },
+  "answer": "D",
+  "explanation": "A stony dull percussion note with reduced air entry means pleural fluid; consolidation is dull but with bronchial breathing.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02748"
+  ],
+  "stem": "A tall, thin 19-year-old man develops sudden pleuritic chest pain and breathlessness at rest, with hyperresonance and markedly reduced breath sounds over the right hemithorax; trachea and haemodynamics are normal. What is the single most likely diagnosis?",
+  "options": {
+   "A": "Pneumonia",
+   "B": "Primary spontaneous pneumothorax",
+   "C": "Massive pleural effusion",
+   "D": "Asthma exacerbation",
+   "E": "Pulmonary embolism"
+  },
+  "answer": "B",
+  "explanation": "Sudden pleuritic pain with hyperresonance and absent breath sounds in a tall, thin young male is primary spontaneous pneumothorax; the central trachea excludes tension.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03001"
+  ],
+  "stem": "A 30-year-old man has sudden shortness of breath and is found to have primary spontaneous pneumothorax. This condition is associated with:",
+  "options": {
+   "A": "Tall and thin individuals",
+   "B": "COPD",
+   "C": "Exercise",
+   "D": "Non-smokers",
+   "E": "Asthma"
+  },
+  "answer": "A",
+  "explanation": "Primary spontaneous pneumothorax occurs in young, tall, thin men (subpleural blebs), more often in smokers; COPD causes secondary pneumothorax.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03009"
+  ],
+  "stem": "A young man presents with a primary spontaneous pneumothorax with a 1 cm rim and mild chest discomfort; the rest of the examination is normal. What is the optimal management?",
+  "options": {
+   "A": "Chest tube insertion",
+   "B": "Discharge home",
+   "C": "Admit for observation",
+   "D": "Admit and give high-flow oxygen",
+   "E": "CT chest and thoracic surgeon's opinion"
+  },
+  "answer": "C",
+  "explanation": "A small (under 2 cm) minimally symptomatic primary pneumothorax needs no drain; it is managed conservatively with observation and a repeat chest X-ray.",
+  "key_note": "Newer BTS guidance also allows discharge with early review if the patient is stable; the paper key is observation.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02914"
+  ],
+  "stem": "A 60-year-old woman with COPD has shortness of breath. BP is 120/80 mmHg and pulse 90. Chest X-ray shows a pneumothorax with a 2.5 cm rim and no mediastinal shift. What is the most appropriate management?",
+  "options": {
+   "A": "Intercostal drain insertion",
+   "B": "Discharge",
+   "C": "Admit for 48 hours observation and repeat chest X-ray",
+   "D": "Immediate 14G cannula into the 2nd intercostal space, mid-clavicular line",
+   "E": "Ventilatory support"
+  },
+  "answer": "A",
+  "explanation": "A breathless COPD patient has a secondary pneumothorax; with a rim over 2 cm an intercostal drain is needed (aspiration is the alternative in some guidelines), and she must be admitted. Needle decompression is for tension pneumothorax.",
+  "key_note": "Some paper keys marked C (observation); correct is A: secondary pneumothorax over 2 cm with breathlessness needs drainage.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03020"
+  ],
+  "stem": "A 40-year-old woman is cyanosed and short of breath after a train accident, with absent breath sounds on the right lower chest and a flail segment. What is the recommended lifesaving management?",
+  "options": {
+   "A": "Diuretics",
+   "B": "IV fluids",
+   "C": "Salbutamol",
+   "D": "Analgesics",
+   "E": "Chest tube"
+  },
+  "answer": "E",
+  "explanation": "Absent breath sounds with cyanosis after chest trauma indicate pneumothorax or haemothorax, which is life-threatening and treated by chest drain; analgesia is needed for the flail segment but is not the lifesaving step.",
+  "key_note": "Two options (analgesics and chest tube) were bold in the source; chest tube is the lifesaving measure.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02569",
+   "C02977",
+   "C02062"
+  ],
+  "stem": "A 40-year-old man operated for a hernia (or knee replacement) 2 weeks ago, bed-bound since, presents with sudden shortness of breath and palpitations. ECG shows sinus tachycardia and an S1Q3T3 pattern. What is the most likely diagnosis?",
+  "options": {
+   "A": "Myocardial infarction",
+   "B": "Pneumonia",
+   "C": "Pericarditis",
+   "D": "Pulmonary embolism",
+   "E": "Anxiety"
+  },
+  "answer": "D",
+  "explanation": "Recent surgery and immobility with sudden dyspnoea and S1Q3T3 point to pulmonary embolism; fat embolism usually occurs after long-bone fracture within days.",
+  "key_note": "Source option E ('None') replaced by the reviewer. Not marked in the source paper; answer by reviewer.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02809"
+  ],
+  "stem": "A 70-year-old woman has had sudden breathlessness and chest pain for 4 hours. HR 120/min, BP 90/60, SpO2 88%. She has been bed-bound for 2 months and her left limb is swollen and tender. Which scoring system should be used to estimate risk?",
+  "options": {
+   "A": "CHA2DS2-VASc score",
+   "B": "CURB-65 score",
+   "C": "Light's criteria",
+   "D": "Pneumonia severity index",
+   "E": "Wells score"
+  },
+  "answer": "E",
+  "explanation": "The Wells score gives the pre-test probability of pulmonary embolism (DVT signs and immobilisation score). CURB-65 is for pneumonia and Light's criteria for effusions.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03031"
+  ],
+  "stem": "Which of the following is a restrictive lung disease?",
+  "options": {
+   "A": "Pneumonia",
+   "B": "Interstitial lung disease (e.g. sarcoidosis)",
+   "C": "Emphysema",
+   "D": "Chronic bronchitis",
+   "E": "Asthma"
+  },
+  "answer": "B",
+  "explanation": "Interstitial lung diseases reduce lung compliance, giving a restrictive pattern with reduced FVC and TLC and a normal or high FEV1/FVC. Emphysema, bronchitis and asthma are obstructive.",
+  "key_note": "Two variants (sarcoidosis, interstitial lung disease) were merged; both papers marked this option.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02479",
+   "C03034"
+  ],
+  "stem": "Which of the following investigations is suggested to diagnose a case of sarcoidosis?",
+  "options": {
+   "A": "Serum ACE level",
+   "B": "Phosphorus",
+   "C": "D-dimer",
+   "D": "Troponin I",
+   "E": "HbA1c"
+  },
+  "answer": "A",
+  "explanation": "Serum ACE is raised in about 60% of active sarcoidosis, though it is supportive rather than diagnostic; tissue biopsy showing non-caseating granulomas confirms the diagnosis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03242"
+  ],
+  "stem": "A middle-aged woman has progressive breathlessness, bilateral hilar lymphadenopathy, calcium 2.7 mmol/L and ACE 200 mcg/L. Which feature is associated with a good prognosis?",
+  "options": {
+   "A": "Lupus pernio",
+   "B": "Hypercalcaemia",
+   "C": "Age over 40",
+   "D": "Erythema nodosum",
+   "E": "HLA-B13 subtype"
+  },
+  "answer": "D",
+  "explanation": "Erythema nodosum with bilateral hilar lymphadenopathy (Lofgren syndrome) predicts acute, self-limiting sarcoidosis; lupus pernio, hypercalcaemia and older age predict chronic disease.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03110"
+  ],
+  "stem": "A 45-year-old factory worker has shortness of breath and bilateral crepitations, and his chest X-ray shows asbestosis. In which industry is he likely to have worked?",
+  "options": {
+   "A": "Iron manufacturing",
+   "B": "Ceiling and insulation industry",
+   "C": "Cotton industry",
+   "D": "Textile industry",
+   "E": "Lead pipe manufacturing"
+  },
+  "answer": "B",
+  "explanation": "Asbestos is used in insulation, ceiling tiles, shipbuilding and brake linings; byssinosis is the cotton disease.",
+  "key_note": "One paper's printed key marked C (cotton industry); correct is B: asbestos exposure occurs in insulation and ceiling work.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03214"
+  ],
+  "stem": "A 66-year-old retired construction worker has dyspnoea for a year and bilateral basal crepitations. Chest radiograph shows bilateral calcified diaphragmatic pleural plaques and diffuse interstitial lung disease. These findings suggest prior exposure to:",
+  "options": {
+   "A": "Beryllium",
+   "B": "Silica dust",
+   "C": "Iron particles",
+   "D": "Asbestos",
+   "E": "Lead"
+  },
+  "answer": "D",
+  "explanation": "Calcified diaphragmatic pleural plaques are the marker of asbestos exposure, with asbestosis causing basal fibrosis.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02909"
+  ],
+  "stem": "Each one of the following is a risk factor for lung cancer, EXCEPT:",
+  "options": {
+   "A": "Radon",
+   "B": "Cryptogenic fibrosing alveolitis",
+   "C": "Coal dust",
+   "D": "Asbestos",
+   "E": "Arsenic"
+  },
+  "answer": "C",
+  "explanation": "Radon, asbestos, arsenic, chromium, nickel and pulmonary fibrosis increase lung cancer risk; coal dust causes pneumoconiosis but is not a recognised carcinogen.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02915"
+  ],
+  "stem": "A 58-year-old man with lung cancer asks whether it may be work-related. Which of the following is most likely to have increased his risk?",
+  "options": {
+   "A": "Isocyanates",
+   "B": "Soldering flux resin",
+   "C": "Passive smoking",
+   "D": "Coal dust",
+   "E": "Polyvinyl chloride"
+  },
+  "answer": "C",
+  "explanation": "Among the options, passive smoking is the best-established added risk; isocyanates and flux resin cause occupational asthma, and PVC is linked to angiosarcoma.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03111",
+   "C03250"
+  ],
+  "stem": "A 45-year-old man has haemoptysis and biopsy-proven bronchogenic carcinoma. Which is the most significant association of this condition?",
+  "options": {
+   "A": "Excessive use of inhalers",
+   "B": "Pulmonary tuberculosis",
+   "C": "Passive smoking",
+   "D": "Allergic asthma",
+   "E": "Female gender"
+  },
+  "answer": "C",
+  "explanation": "Tobacco smoke exposure, active or passive, is the major cause of bronchogenic carcinoma; asthma, inhaler use and female gender are not causes.",
+  "key_note": "One paper's printed key marked B (pulmonary tuberculosis); correct is C, as tobacco smoke exposure is the dominant risk.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03222"
+  ],
+  "stem": "A 55-year-old patient has shortness of breath, weight loss and blood in sputum, and an X-ray suggests carcinoma. There is a strong association of lung carcinoma with:",
+  "options": {
+   "A": "Food pattern",
+   "B": "Smoking",
+   "C": "Inhaler use",
+   "D": "Steam inhalation",
+   "E": "Female gender"
+  },
+  "answer": "B",
+  "explanation": "Cigarette smoking causes about 85-90% of lung cancers.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03007"
+  ],
+  "stem": "Which of the following is a warning sign of lung carcinoma?",
+  "options": {
+   "A": "Dry cough lasting 3 days after a cold",
+   "B": "Weight gain of 2 kg over 6 months",
+   "C": "Hoarseness of voice",
+   "D": "Purulent sputum",
+   "E": "Fever"
+  },
+  "answer": "C",
+  "explanation": "Hoarseness suggests left recurrent laryngeal nerve involvement by a mediastinal tumour; a persistent cough is also a recognised sign.",
+  "key_note": "Marked C in the paper; options A and B were reworded by auditor so that hoarseness is the only warning sign.",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02910"
+  ],
+  "stem": "Which type of lung cancer is most associated with cavitating lesions?",
+  "options": {
+   "A": "Carcinoid",
+   "B": "Large cell",
+   "C": "Small cell",
+   "D": "Squamous cell",
+   "E": "Adenocarcinoma"
+  },
+  "answer": "D",
+  "explanation": "Squamous cell carcinoma is typically central and often cavitates; small cell is central with early mediastinal spread, adenocarcinoma peripheral.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03006"
+  ],
+  "stem": "A 60-year-old man with a 40 pack-year smoking history presents with shortness of breath, haemoptysis and 10 kg weight loss in 3 months. Which investigation will you order?",
+  "options": {
+   "A": "ECG",
+   "B": "CT chest with contrast",
+   "C": "Bronchoscopy",
+   "D": "Complete blood picture",
+   "E": "ESR"
+  },
+  "answer": "B",
+  "explanation": "Suspected lung cancer needs CT chest (with contrast, extending to liver and adrenals) for diagnosis and staging, then bronchoscopy or biopsy.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C03030"
+  ],
+  "stem": "The most likely cause of superior vena cava syndrome is:",
+  "options": {
+   "A": "Bronchogenic carcinoma",
+   "B": "Mesothelioma",
+   "C": "Asthma",
+   "D": "Asbestosis",
+   "E": "Apical pulmonary bullae"
+  },
+  "answer": "A",
+  "explanation": "Bronchogenic carcinoma, especially right-sided or small cell, accounts for most SVC obstruction; lymphoma is next.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02913"
+  ],
+  "stem": "A 40-year-old man has known bronchiectasis. Which organism is most likely to be isolated from his sputum?",
+  "options": {
+   "A": "Streptococcus pneumoniae",
+   "B": "Klebsiella spp.",
+   "C": "Haemophilus influenzae",
+   "D": "Pneumocystis jirovecii",
+   "E": "Pseudomonas aeruginosa"
+  },
+  "answer": "C",
+  "explanation": "H. influenzae is the commonest isolate in bronchiectasis overall; Pseudomonas colonises advanced or cystic fibrosis disease.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02917"
+  ],
+  "stem": "A 62-year-old man with recurrent lower respiratory tract infections is diagnosed with bilateral bronchiectasis on HRCT. Which is most important in the long-term control of his symptoms?",
+  "options": {
+   "A": "Inhaled corticosteroids",
+   "B": "Prophylactic antibiotics",
+   "C": "Surgery",
+   "D": "Postural drainage",
+   "E": "Mucolytic therapy"
+  },
+  "answer": "D",
+  "explanation": "Regular postural drainage and chest physiotherapy to clear secretions is the mainstay of long-term bronchiectasis management; antibiotics are used for exacerbations.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02588"
+  ],
+  "stem": "A 14-year-old with recurrent respiratory infections and poor growth has a diagnosis confirmed by sweat chloride testing. What is the most likely underlying genetic abnormality?",
+  "options": {
+   "A": "Deletion of the dystrophin gene",
+   "B": "Expansion of CAG repeats in the HTT gene",
+   "C": "Mutation in the CFTR gene",
+   "D": "Mutation in the HBB gene",
+   "E": "Mutation in the PAH gene"
+  },
+  "answer": "C",
+  "explanation": "Cystic fibrosis results from CFTR mutations (commonly delta F508, chromosome 7); the sweat chloride is over 60 mmol/L.",
+  "key_note": "",
+  "figure": ""
+ },
+ {
+  "cids": [
+   "C02916"
+  ],
+  "stem": "Which of the following is NOT part of the diagnostic criteria for ARDS?",
+  "options": {
+   "A": "Bilateral infiltrates on chest X-ray",
+   "B": "Non-cardiogenic origin",
+   "C": "PaO2/FiO2 < 200 mmHg",
+   "D": "Respiratory rate > 24/min",
+   "E": "Acute onset"
+  },
+  "answer": "D",
+  "explanation": "The ARDS definition requires acute onset, bilateral opacities, non-cardiac origin and hypoxaemia by PaO2/FiO2; respiratory rate is not a criterion.",
+  "key_note": "",
+  "figure": ""
+ }
+]
